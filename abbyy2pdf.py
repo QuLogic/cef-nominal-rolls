@@ -21,7 +21,7 @@ class Processor:
                             help='Output PDF file')
         parser.add_argument('-v', '--verbose', action='store_true',
                             help='Be verbose.')
-        parser.add_argument('-a', '--annotate', action='append',
+        parser.add_argument('-a', '--annotate', action='append', default=[],
                             choices=['all', 'rect', 'line',
                                      'Text', 'Table', 'Picture', 'Barcode',
                                      'Separator', 'SeparatorsBox', 'Checkmark',
