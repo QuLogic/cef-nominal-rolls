@@ -31,44 +31,114 @@ class Processor:
                             help='Output CSV file')
         parser.add_argument('-v', '--verbose', action='store_true',
                             help='Be verbose.')
+        parser.add_argument('--algorithm', '-a', default='affinity',
+                            choices=['affinity', 'DBSCAN', 'MeanShift'],
+                            help='Algorithm to use for clustering.')
+        parser.add_argument('--params', '-p',
+                            help='Parameters to pass to cluster algorithm.')
         args = parser.parse_args()
 
         self.input = args.input
         self.output = args.output
         self.verbose = args.verbose
 
+        self.algorithm = args.algorithm
+        self.params = {}
+        if args.params:
+            for p in args.params.split(','):
+                key, val = p.split('=')
+                try:
+                    val = int(val)
+                except ValueError:
+                    val = float(val)
+                except ValueError:
+                    pass
+                self.params[key] = val
+
+        if self.verbose:
+            print('Using %s algorithm with ' % (self.algorithm, ), end='')
+            if self.params:
+                print(*('%s=%s' % (key, self.params[key])
+                        for key in self.params),
+                      sep=',', end='.\n')
+            else:
+                print('default parameters.')
+
         self.pages = 0
-        self.lines = []
+        self.total_lines = 0
 
     def run(self):
         if self.verbose:
             print('Reading file %s ...' % (self.input.name, ))
 
         content = etree.parse(self.input)
+        self.writer = csv.writer(self.output)
         for elem in content.iter(PAGE):
             self.processPage(elem)
 
         if self.verbose:
             print('Processed %d pages ...' % (self.pages, ))
-            print('Processed %d lines ...' % (len(self.lines), ))
+            print('Processed %d lines ...' % (self.total_lines, ))
 
-        lines = [(x.baseline, x.xy[0], x.xy[1], x.text) for x in self.lines]
-        w = csv.writer(self.output)
-        w.writerows(lines)
+    def analyzeCoverPage(self, objs):
+        if self.verbose:
+            print('Processing cover page ...')
+        lines = [[x.text for x in objs]]
+        return lines
+
+    def analyzePage(self, objs):
+        if self.verbose:
+            print('Processing normal page ...')
+
+        import numpy as np
+        from sklearn import cluster
+        from sklearn.preprocessing import StandardScaler
+
+        objs = sorted(objs, key=lambda x: x.xy[0])
+
+        X = np.array([[x.baseline] for x in objs], dtype=np.float64)
+        X = StandardScaler().fit_transform(X)
+
+        if self.algorithm == 'affinity':
+            algorithm = cluster.AffinityPropagation(**self.params)
+        elif self.algorithm == 'DBSCAN':
+            algorithm = cluster.DBSCAN(**self.params)
+        elif self.algorithm == 'MeanShift':
+            algorithm = cluster.MeanShift(**self.params)
+
+        y = algorithm.fit_predict(X)
+
+        lines = []
+        # ABBYY coordinates are bottom-to-top, so reverse list.
+        for i in sorted(set(y), reverse=True):
+            index = np.where(y == i)[0]
+            line = [x.text for j, x in enumerate(objs) if j in index]
+            lines.append(line)
+
+        return lines
 
     def processPage(self, page):
         self.width = int(page.get('width'))
         self.height = int(page.get('height'))
         self.resolution = int(page.get('resolution'))
 
-        if self.height > self.width:
-            # Portrait page, probably cover
-            return
+        page_objs = []
 
         for elem in page.iter(TEXT):
-            self.processText(elem)
+            text_objs = self.processText(elem)
+            if text_objs:
+                page_objs += text_objs
+
+        if self.height > self.width:
+            # Portrait page, probably cover
+            lines = self.analyzeCoverPage(page_objs)
+        else:
+            lines = self.analyzePage(page_objs)
+
+        self.writer.writerows(lines)
 
         self.pages += 1
+        self.total_lines += len(lines)
 
     def processText(self, text):
         orientation = text.get('orientation')
@@ -80,8 +150,12 @@ class Processor:
         if orientation is not None and orientation != 'Normal':
             return
 
+        text_objs = []
         for elem in text.iter(LINE):
-            self.processLine(elem)
+            obj = self.processLine(elem)
+            text_objs.append(obj)
+
+        return text_objs
 
     def processLine(self, line):
         baseline = int(line.get('baseline'))
@@ -91,10 +165,11 @@ class Processor:
         bottom = int(line.get('b'))
 
         obj = Line(baseline, left, top)
-        self.lines.append(obj)
 
         for elem in line.iter(CHAR_PARAMS):
             obj.text += elem.text
+
+        return obj
 
 
 p = Processor()
