@@ -140,11 +140,9 @@ class Processor:
             col_algorithm = cluster.MeanShift(**self.col_params)
 
         Y = np.array([[y.baseline] for y in objs], dtype=np.float64)
-        Y = StandardScaler().fit_transform(Y)
         rows = row_algorithm.fit_predict(Y)
 
         X = np.array([[x.xy[0]] for x in objs], dtype=np.float64)
-        X = StandardScaler().fit_transform(X)
         col_algorithm.fit(X)
 
         lines = []
@@ -154,7 +152,6 @@ class Processor:
             line_objs = [x for j, x in enumerate(objs) if j in index]
 
             X = np.array([[x.xy[0]] for x in line_objs], dtype=np.float64)
-            X = StandardScaler().fit_transform(X)
             cols = col_algorithm.predict(X)
 
             line = []
