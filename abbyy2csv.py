@@ -46,21 +46,38 @@ class Processor:
                             help='Output CSV file')
         parser.add_argument('-v', '--verbose', action='store_true',
                             help='Be verbose.')
-        parser.add_argument('--algorithm', '-a', default='affinity',
+        parser.add_argument('--row-algorithm', '-r', default='affinity',
                             choices=['affinity', 'DBSCAN', 'MeanShift'],
-                            help='Algorithm to use for clustering.')
-        parser.add_argument('--params', '-p',
-                            help='Parameters to pass to cluster algorithm.')
+                            help='Algorithm to use for row clustering.')
+        parser.add_argument('--col-algorithm', '-c', default='affinity',
+                            choices=['affinity', 'DBSCAN', 'MeanShift'],
+                            help='Algorithm to use for column clustering.')
+        parser.add_argument('--row-params', '-rp',
+                            help='Parameters to use in row algorithm.')
+        parser.add_argument('--col-params', '-cp',
+                            help='Parameters to use in column algorithm.')
         args = parser.parse_args()
 
         self.input = args.input
         self.output = args.output
         self.verbose = args.verbose
 
-        self.algorithm = args.algorithm
-        self.params = {}
-        if args.params:
-            for p in args.params.split(','):
+        self.row_algorithm = args.row_algorithm
+        self.row_params = self.parseAlgParams('row',
+                                              args.row_algorithm,
+                                              args.row_params)
+        self.col_algorithm = args.col_algorithm
+        self.col_params = self.parseAlgParams('column',
+                                              args.col_algorithm,
+                                              args.col_params)
+
+        self.pages = 0
+        self.total_lines = 0
+
+    def parseAlgParams(self, kind, algorithm, arg_params):
+        params = {}
+        if arg_params:
+            for p in arg_params.split(','):
                 key, val = p.split('=')
                 try:
                     val = int(val)
@@ -68,19 +85,18 @@ class Processor:
                     val = float(val)
                 except ValueError:
                     pass
-                self.params[key] = val
+                params[key] = val
 
         if self.verbose:
-            print('Using %s algorithm with ' % (self.algorithm, ), end='')
-            if self.params:
-                print(*('%s=%s' % (key, self.params[key])
-                        for key in self.params),
+            print('Using %s algorithm for %ss with ' % (algorithm, kind),
+                  end='')
+            if params:
+                print(*('%s=%s' % (key, params[key]) for key in params),
                       sep=',', end='.\n')
             else:
                 print('default parameters.')
 
-        self.pages = 0
-        self.total_lines = 0
+        return params
 
     def run(self):
         if self.verbose:
@@ -109,25 +125,44 @@ class Processor:
         from sklearn import cluster
         from sklearn.preprocessing import StandardScaler
 
-        objs = sorted(objs, key=lambda x: x.xy[0])
+        if self.row_algorithm == 'affinity':
+            row_algorithm = cluster.AffinityPropagation(**self.row_params)
+        elif self.row_algorithm == 'DBSCAN':
+            row_algorithm = cluster.DBSCAN(**self.row_params)
+        elif self.row_algorithm == 'MeanShift':
+            row_algorithm = cluster.MeanShift(**self.row_params)
 
-        X = np.array([[x.baseline] for x in objs], dtype=np.float64)
+        if self.col_algorithm == 'affinity':
+            col_algorithm = cluster.AffinityPropagation(**self.col_params)
+        elif self.col_algorithm == 'DBSCAN':
+            col_algorithm = cluster.DBSCAN(**self.col_params)
+        elif self.col_algorithm == 'MeanShift':
+            col_algorithm = cluster.MeanShift(**self.col_params)
+
+        Y = np.array([[y.baseline] for y in objs], dtype=np.float64)
+        Y = StandardScaler().fit_transform(Y)
+        rows = row_algorithm.fit_predict(Y)
+
+        X = np.array([[x.xy[0]] for x in objs], dtype=np.float64)
         X = StandardScaler().fit_transform(X)
-
-        if self.algorithm == 'affinity':
-            algorithm = cluster.AffinityPropagation(**self.params)
-        elif self.algorithm == 'DBSCAN':
-            algorithm = cluster.DBSCAN(**self.params)
-        elif self.algorithm == 'MeanShift':
-            algorithm = cluster.MeanShift(**self.params)
-
-        y = algorithm.fit_predict(X)
+        col_algorithm.fit(X)
 
         lines = []
         # ABBYY coordinates are bottom-to-top, so reverse list.
-        for i in sorted(set(y), reverse=True):
-            index = np.where(y == i)[0]
-            line = [x.text for j, x in enumerate(objs) if j in index]
+        for i in sorted(set(rows), reverse=True):
+            index = np.where(rows == i)[0]
+            line_objs = [x for j, x in enumerate(objs) if j in index]
+
+            X = np.array([[x.xy[0]] for x in line_objs], dtype=np.float64)
+            X = StandardScaler().fit_transform(X)
+            cols = col_algorithm.predict(X)
+
+            line = []
+            for col, obj in zip(cols, line_objs):
+                while len(line) < col:
+                    line.append(None)
+                line.append(obj.text)
+
             lines.append(line)
 
         return lines
