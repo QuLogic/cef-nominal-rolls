@@ -33,9 +33,12 @@ CHAR_PARAMS = etree.QName(ABBYY_NS, 'charParams').text
 
 
 class Line:
-    def __init__(self, baseline, x, y):
+    def __init__(self, baseline, left, top, right, bottom):
         self.baseline = baseline
-        self.xy = (x, y)
+        self.left = left
+        self.top = top
+        self.right = right
+        self.bottom = bottom
         self.text = ''
 
 
@@ -123,7 +126,8 @@ class Processor:
         '''
         if self.verbose:
             print('Processing cover page ...')
-        lines = [[x.text for x in objs]]
+        lines = [[self.pages + 1, None, None, None, None] +
+                 [x.text for x in objs]]
         return lines
 
     def analyzePage(self, objs):
@@ -148,12 +152,17 @@ class Processor:
             line_objs = [x for j, x in enumerate(objs) if j in index]
             line_cols = np.take(cols, index)
 
-            line = []
+            left = min(x.left for x in line_objs)
+            top = min(x.top for x in line_objs)
+            right = max(x.right for x in line_objs)
+            bottom = max(x.bottom for x in line_objs)
+
+            line = [self.pages + 1, left, top, right, bottom]
             for col, obj in zip(line_cols, line_objs):
                 if col == -1:
                     continue
 
-                while len(line) < col:
+                while len(line) < col + 5:
                     line.append(None)
                 line.append(obj.text)
 
@@ -235,7 +244,7 @@ class Processor:
         elif self.col_algorithm == 'MeanShift':
             algorithm = cluster.MeanShift(**self.col_params)
 
-        X = np.array([[x.xy[0]] for x in objs], dtype=np.float64)
+        X = np.array([[x.left] for x in objs], dtype=np.float64)
         cols = algorithm.fit_predict(X)
 
         if self.col_algorithm == 'affinity':
@@ -344,7 +353,7 @@ class Processor:
         right = int(line.get('r'))
         bottom = int(line.get('b'))
 
-        obj = Line(baseline, left, top)
+        obj = Line(baseline, left, top, right, bottom)
 
         for elem in line.iter(CHAR_PARAMS):
             obj.text += elem.text
