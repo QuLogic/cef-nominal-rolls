@@ -43,69 +43,20 @@ class Line:
 
 
 class Processor:
-    def __init__(self):
-        parser = argparse.ArgumentParser(
-            description='Convert ABBYY XML files to CSV.')
-        parser.add_argument('input', type=argparse.FileType('rb'),
-                            help='Input XML file')
-        parser.add_argument('output', type=argparse.FileType('w'),
-                            help='Output CSV file')
-        parser.add_argument('-v', '--verbose', action='store_true',
-                            help='Be verbose.')
-        parser.add_argument('--row-algorithm', '-r', default='affinity',
-                            choices=['affinity', 'DBSCAN', 'MeanShift'],
-                            help='Algorithm to use for row clustering.')
-        parser.add_argument('--col-algorithm', '-c', default='affinity',
-                            choices=['affinity', 'DBSCAN', 'MeanShift'],
-                            help='Algorithm to use for column clustering.')
-        parser.add_argument('--row-params', '-rp',
-                            help='Parameters to use in row algorithm.')
-        parser.add_argument('--col-params', '-cp',
-                            help='Parameters to use in column algorithm.')
-        args = parser.parse_args()
+    def __init__(self, input, output, verbose,
+                 row_algorithm, row_params, col_algorithm, col_params):
 
-        self.input = args.input
-        self.output = args.output
-        self.verbose = args.verbose
+        self.input = input
+        self.output = output
+        self.verbose = verbose
 
-        self.row_algorithm = args.row_algorithm
-        self.row_params = self.parseAlgParams('row',
-                                              args.row_algorithm,
-                                              args.row_params)
-        self.col_algorithm = args.col_algorithm
-        self.col_params = self.parseAlgParams('column',
-                                              args.col_algorithm,
-                                              args.col_params)
+        self.row_algorithm = row_algorithm
+        self.row_params = row_params
+        self.col_algorithm = col_algorithm
+        self.col_params = col_params
 
         self.pages = 0
         self.total_lines = 0
-
-    def parseAlgParams(self, kind, algorithm, arg_params):
-        '''
-        Parse user-specified parameters for a clustering algorithm.
-        '''
-        params = {}
-        if arg_params:
-            for p in arg_params.split(','):
-                key, val = p.split('=')
-                try:
-                    val = int(val)
-                except ValueError:
-                    val = float(val)
-                except ValueError:
-                    pass
-                params[key] = val
-
-        if self.verbose:
-            print('Using %s algorithm for %ss with ' % (algorithm, kind),
-                  end='')
-            if params:
-                print(*('%s=%s' % (key, params[key]) for key in params),
-                      sep=',', end='.\n')
-            else:
-                print('default parameters.')
-
-        return params
 
     def run(self):
         if self.verbose:
@@ -139,7 +90,6 @@ class Processor:
 
         rows, num_rows, fuzzy_rows = self.getSortedRowClusters(objs)
         cols, num_cols, fuzzy_cols = self.getSortedColumnClusters(objs)
-        print(set(cols))
         if self.verbose:
             print('    Unique rows & columns:', num_rows, num_cols)
             if fuzzy_rows:
@@ -361,5 +311,75 @@ class Processor:
         return obj
 
 
-p = Processor()
-p.run()
+class Main:
+    def __init__(self):
+        parser = argparse.ArgumentParser(
+            description='Convert ABBYY XML files to CSV.')
+        parser.add_argument('input', type=argparse.FileType('rb'),
+                            help='Input XML file')
+        parser.add_argument('output', type=argparse.FileType('w'),
+                            help='Output CSV file')
+        parser.add_argument('-v', '--verbose', action='store_true',
+                            help='Be verbose.')
+        parser.add_argument('--row-algorithm', '-r', default='affinity',
+                            choices=['affinity', 'DBSCAN', 'MeanShift'],
+                            help='Algorithm to use for row clustering.')
+        parser.add_argument('--col-algorithm', '-c', default='affinity',
+                            choices=['affinity', 'DBSCAN', 'MeanShift'],
+                            help='Algorithm to use for column clustering.')
+        parser.add_argument('--row-params', '-rp',
+                            help='Parameters to use in row algorithm.')
+        parser.add_argument('--col-params', '-cp',
+                            help='Parameters to use in column algorithm.')
+        args = parser.parse_args()
+
+
+        self.input = args.input
+        self.output = args.output
+        self.verbose = args.verbose
+
+        self.row_algorithm = args.row_algorithm
+        self.row_params = self.parseAlgParams('row',
+                                              args.row_algorithm,
+                                              args.row_params)
+        self.col_algorithm = args.col_algorithm
+        self.col_params = self.parseAlgParams('column',
+                                              args.col_algorithm,
+                                              args.col_params)
+
+        self.processor = Processor(self.input, self.output, self.verbose,
+                                   self.row_algorithm, self.row_params,
+                                   self.col_algorithm, self.col_params)
+
+    def parseAlgParams(self, kind, algorithm, arg_params):
+        '''
+        Parse user-specified parameters for a clustering algorithm.
+        '''
+        params = {}
+        if arg_params:
+            for p in arg_params.split(','):
+                key, val = p.split('=')
+                try:
+                    val = int(val)
+                except ValueError:
+                    val = float(val)
+                except ValueError:
+                    pass
+                params[key] = val
+
+        if self.verbose:
+            print('Using %s algorithm for %ss with ' % (algorithm, kind),
+                  end='')
+            if params:
+                print(*('%s=%s' % (key, params[key]) for key in params),
+                      sep=',', end='.\n')
+            else:
+                print('default parameters.')
+
+        return params
+
+    def run(self):
+        self.processor.run()
+
+m = Main()
+m.run()
