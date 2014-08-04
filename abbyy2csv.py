@@ -21,6 +21,9 @@ import argparse
 import csv
 from lxml import etree
 
+import numpy as np
+from sklearn import cluster
+
 
 ABBYY_NS = 'http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml'
 PAGE = etree.QName(ABBYY_NS, 'page').text
@@ -75,6 +78,9 @@ class Processor:
         self.total_lines = 0
 
     def parseAlgParams(self, kind, algorithm, arg_params):
+        '''
+        Parse user-specified parameters for a clustering algorithm.
+        '''
         params = {}
         if arg_params:
             for p in arg_params.split(','):
@@ -112,50 +118,41 @@ class Processor:
             print('Processed %d lines ...' % (self.total_lines, ))
 
     def analyzeCoverPage(self, objs):
+        '''
+        Analyze a portrait page, which is probably a cover.
+        '''
         if self.verbose:
             print('Processing cover page ...')
         lines = [[x.text for x in objs]]
         return lines
 
     def analyzePage(self, objs):
+        '''
+        Analyze a normal page and produce lines of cells`.
+        '''
         if self.verbose:
             print('Processing normal page ...')
 
-        import numpy as np
-        from sklearn import cluster
-        from sklearn.preprocessing import StandardScaler
-
-        if self.row_algorithm == 'affinity':
-            row_algorithm = cluster.AffinityPropagation(**self.row_params)
-        elif self.row_algorithm == 'DBSCAN':
-            row_algorithm = cluster.DBSCAN(**self.row_params)
-        elif self.row_algorithm == 'MeanShift':
-            row_algorithm = cluster.MeanShift(**self.row_params)
-
-        if self.col_algorithm == 'affinity':
-            col_algorithm = cluster.AffinityPropagation(**self.col_params)
-        elif self.col_algorithm == 'DBSCAN':
-            col_algorithm = cluster.DBSCAN(**self.col_params)
-        elif self.col_algorithm == 'MeanShift':
-            col_algorithm = cluster.MeanShift(**self.col_params)
-
-        Y = np.array([[y.baseline] for y in objs], dtype=np.float64)
-        rows = row_algorithm.fit_predict(Y)
-
-        X = np.array([[x.xy[0]] for x in objs], dtype=np.float64)
-        col_algorithm.fit(X)
+        rows, num_rows, fuzzy_rows = self.getSortedRowClusters(objs)
+        cols, num_cols, fuzzy_cols = self.getSortedColumnClusters(objs)
+        print(set(cols))
+        if self.verbose:
+            print('    Unique rows & columns:', num_rows, num_cols)
+            if fuzzy_rows:
+                print('    Row results fuzzy; check nothing is missing.')
+            if fuzzy_cols:
+                print('    Column results fuzzy; check nothing is missing.')
 
         lines = []
-        # ABBYY coordinates are bottom-to-top, so reverse list.
-        for i in sorted(set(rows), reverse=True):
-            index = np.where(rows == i)[0]
+        for index in rows:
             line_objs = [x for j, x in enumerate(objs) if j in index]
-
-            X = np.array([[x.xy[0]] for x in line_objs], dtype=np.float64)
-            cols = col_algorithm.predict(X)
+            line_cols = np.take(cols, index)
 
             line = []
-            for col, obj in zip(cols, line_objs):
+            for col, obj in zip(line_cols, line_objs):
+                if col == -1:
+                    continue
+
                 while len(line) < col:
                     line.append(None)
                 line.append(obj.text)
@@ -164,7 +161,134 @@ class Processor:
 
         return lines
 
+    def getSortedRowClusters(self, objs):
+        '''
+        Determine row clusters and their order.
+
+        Clusters that create rows are determined by the user-specified
+        algorithm. They are then sorted by location, and lists of indices for
+        each cluster are returned in order.
+        '''
+        if self.row_algorithm == 'affinity':
+            algorithm = cluster.AffinityPropagation(**self.row_params)
+        elif self.row_algorithm == 'DBSCAN':
+            algorithm = cluster.DBSCAN(**self.row_params)
+        elif self.row_algorithm == 'MeanShift':
+            algorithm = cluster.MeanShift(**self.row_params)
+
+        Y = np.array([[y.baseline] for y in objs], dtype=np.float64)
+        rows = algorithm.fit_predict(Y)
+
+        if self.row_algorithm == 'affinity':
+            # Here, samples are the found location, so just sort directly.
+            row_set = set(rows)
+
+            def ordered_clusters():
+                # ABBYY coordinates are bottom-to-top, so reverse list.
+                for i in sorted(row_set, reverse=True):
+                    yield np.where(rows == i)[0]
+
+            return ordered_clusters(), len(row_set), False
+
+        elif self.row_algorithm == 'DBSCAN':
+            # Here, samples are labelled, so go back and find the original
+            # locations.
+            fuzzy = -1 in rows
+            num_clusters = len(set(rows)) - (1 if fuzzy else 0)
+            clusters = []
+            cluster_centres = np.empty(num_clusters)
+            for i in range(num_clusters):
+                index = np.where(rows == i)
+                clusters.append(index[0])
+                cluster_centres[i] = np.mean(np.take(Y, index))
+
+            ordered_clusters = (clust for centre, clust in
+                                sorted(zip(cluster_centres, clusters)))
+            return ordered_clusters, num_clusters, fuzzy
+
+        elif self.row_algorithm == 'MeanShift':
+            # Here, samples are labelled, but cluster locations are provided.
+            fuzzy = -1 in rows
+            num_clusters = len(set(rows)) - (1 if fuzzy else 0)
+            clusters = []
+            for i in range(num_clusters):
+                index = np.where(rows == i)
+                clusters.append(index[0])
+
+            ordered_clusters = (clust for centre, clust in
+                                sorted(zip(algorithm.cluster_centers_,
+                                           clusters)))
+            return ordered_clusters, num_clusters, fuzzy
+
+    def getSortedColumnClusters(self, objs):
+        '''
+        Determine column clusters and their order.
+
+        Clusters that create columns are determined by the user-specified
+        algorithm. They are then sorted by location, and the indices are
+        returned.
+        '''
+        if self.col_algorithm == 'affinity':
+            algorithm = cluster.AffinityPropagation(**self.col_params)
+        elif self.col_algorithm == 'DBSCAN':
+            algorithm = cluster.DBSCAN(**self.col_params)
+        elif self.col_algorithm == 'MeanShift':
+            algorithm = cluster.MeanShift(**self.col_params)
+
+        X = np.array([[x.xy[0]] for x in objs], dtype=np.float64)
+        cols = algorithm.fit_predict(X)
+
+        if self.col_algorithm == 'affinity':
+            # Here, samples are the found location, so just sort directly.
+            sorted_locations = sorted(set(cols))
+            num_clusters = len(sorted_locations)
+
+            sorted_col_indices = np.empty(len(objs))
+            for i, loc in enumerate(sorted_locations):
+                index = np.where(cols == loc)[0]
+                sorted_col_indices[index] = i
+
+            fuzzy = False
+
+        elif self.col_algorithm == 'DBSCAN':
+            # Here, samples are labelled, so go back and find the original
+            # locations.
+            fuzzy = -1 in cols
+            num_clusters = len(set(cols)) - (1 if fuzzy else 0)
+            cluster_centres = np.empty(num_clusters)
+            clusters = []
+            for i in range(num_clusters):
+                index = np.where(cols == i)
+                clusters.append(index[0])
+                cluster_centres[i] = np.mean(np.take(X, index))
+            indices = np.argsort(cluster_centres)
+
+            sorted_col_indices = -np.ones(len(objs))
+            for i, j in enumerate(indices):
+                index = clusters[j]
+                sorted_col_indices[index] = i
+
+        elif self.col_algorithm == 'MeanShift':
+            # Here, samples are labelled, but cluster locations are provided.
+            fuzzy = -1 in cols
+            num_clusters = len(set(cols)) - (1 if fuzzy else 0)
+            clusters = []
+            for i in range(num_clusters):
+                index = np.where(cols == i)[0]
+                clusters.append(index)
+            indices = np.argsort(algorithm.cluster_centers_)
+
+            sorted_col_indices = -np.ones(len(objs))
+            for i, j in enumerate(indices):
+                index = clusters[j]
+                sorted_col_indices[index] = i
+
+        return sorted_col_indices, num_clusters, fuzzy
+
     def processPage(self, page):
+        '''
+        Process a page and output results to CSV file.
+        '''
         self.width = int(page.get('width'))
         self.height = int(page.get('height'))
         self.resolution = int(page.get('resolution'))
@@ -184,10 +308,16 @@ class Processor:
 
         self.writer.writerows(lines)
 
+        if self.verbose:
+            print('    Max columns:', max(len(x) for x in lines))
+            print('    New rows:', len(lines))
         self.pages += 1
         self.total_lines += len(lines)
 
     def processText(self, text):
+        '''
+        Process a text block.
+        '''
         orientation = text.get('orientation')
         mirrored = text.get('mirrored') == 'true'
         inverted = text.get('inverted') == 'true'
@@ -205,6 +335,9 @@ class Processor:
         return text_objs
 
     def processLine(self, line):
+        '''
+        Process a line of text.
+        '''
         baseline = int(line.get('baseline'))
         left = int(line.get('l'))
         top = int(line.get('t'))
