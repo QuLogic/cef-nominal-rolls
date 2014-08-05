@@ -12,17 +12,17 @@
   </head>
 
   <body>
-
+    <div id="content">
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
-        <header class="inner">
+        <header class="inner {{ page.wide }}">
           <a id="forkme_banner" href="https://github.com/QuLogic/cef-nominal-rolls">View on GitHub</a>
 
           <h1 id="project_title">CEF Nominal Rolls</h1>
           <h2 id="project_tagline">Processing and analyzing the CEF Nominal Rolls</h2>
         </header>
 
-        <nav class="inner">
+        <nav class="inner {{ page.wide }}">
           <ul>
             {% for page in site.page_list %}
             <li><a href="{{ site.baseurl }}{{ page[1]  }}">{{ page[0] }}</a></li>
@@ -33,17 +33,18 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
+      <section id="main_content" class="inner {{ page.wide }}">
         {{ content | markdownify }}
       </section>
     </div>
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
-      <footer class="inner">
+      <footer class="inner {{ page.wide }}">
         <p class="copyright">CEF Nominal Rolls maintained by <a href="https://github.com/QuLogic">QuLogic</a></p>
         <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
       </footer>
+    </div>
     </div>
   </body>
 </html>
