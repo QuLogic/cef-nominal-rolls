@@ -1,9 +1,10 @@
 ---
 title: CMR 11th Regiment NONE
+wide: wide
 ---
 
 {% raw %}
-| | | | | | |
-| --- | --- | --- | --- | --- | --- |
-| 1 |  |  |  |  | /1/d / fr» Qrr\% |
+| Page | Bounds | |
+| --- | --- | --- |
+| 1 | <br><br><br> | /1/d / fr» Qrr\% |
 {% endraw %}

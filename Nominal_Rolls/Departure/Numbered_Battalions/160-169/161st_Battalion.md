@@ -1,777 +1,778 @@
 ---
 title: 161st Battalion
+wide: wide
 ---
 
 {% raw %}
-| | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 161st BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-l-17 Ship: S.S. “Lapland." | 593-2-29 Date: October 30th, 1916. |
-| 2 | 560 | 543 | 3258 | 582 | is |  |  | Former Corps. |  |  | Country of |
-| 2 | 662 | 694 | 3752 | 726 |  | Lieut.-Colonel... | Combe, Hugh Barry  | 33rd Regt. .. | Combe, Mrs. Julia Isabel  | Clinton, Ont  | Canada... | Clinton  | Dec. | 15, 1915. |
-| 2 | 662 | 723 | 3752 | 756 |  | Major  | Campbell, Herbert  | 33rd Regt | Campbell, Mrs. Florence Edna... . | Wingham, Ont  | Canada.. | Wingham  | Dec. | 10, 1915. |
-| 2 | 662 | 751 | 3751 | 784 |  | Major  | Hays, Robert Stanley  | 33rd Regt | Hays, Mrs. Annie M  | Seaforth, Ont   | Canada.. | Clinton  | Dec. | 6, 1915. |
-| 2 | 661 | 780 | 3752 | 814 |  | Major  | Heaman, William John  | 33rd Regt | Heaman, Mrs. Fern Dudley  | Exeter, Ont  | Canada.. | Exeter  | Dec. | 11, 1915. |
-| 2 | 662 | 809 | 3752 | 842 |  | Major  | Shaw, John William  | 33rd Regt | Shaw, Mrs. Harriett  | Clinton, Ont  | Canada.. | Clinton  | Dec. | 29, 1915. |
-| 2 | 662 | 838 | 3752 | 872 |  | Major  | Sinclair, Norman Tooke  | 33rd Regt | Sinclair, Mrs. J. I  | Wingham, Ont    | Canada.. | Wingham  | Dec. | 10, 1915. |
-| 2 | 660 | 867 | 3751 | 898 |  | Captain  | Allen, Wallace Best  | 33rd Regt | Allen, John L  | 484 Talbot St., London, Ont   | Canada.. | Clinton  | Jan. | 4, 1916. |
-| 2 | 660 | 895 | 3752 | 928 |  | Captain | Fairfull, James Kilgour  | Royal Navy. | Fairfull, Mrs. Elizabeth Ann  | Clinton, Ont   | Scotland. | London  | July | 6, 1916. |
-| 2 | 660 | 924 | 3752 | 956 |  | Captain | Macpherson, Charles Kenneth. | 33rd Regt | Macpherson, Mrs. Marion  | c/o William Coats, Goderich, Ont.. | Canada.. | Clinton  | Jan. | 11, 1916. |
-| 2 | 660 | 953 | 3752 | 986 |  | Captain | McTaggart, Malcolm Douglas. | 33rd Regt | McTaggart, Mrs. Edith  | Clinton, Ont ..... | Canada.. | Clinton  | Dec. | 13, 1915. |
-| 2 | 660 | 982 | 3752 | 1014 |  | Captain | Sturdy, Alfred Fenton  | 33rd Regt | Sturdy, Mrs. O. H  | Goderich, Ont.  .  | Canada.. | Goderich  | Dec. | 14, 1915. |
-| 2 | 660 | 1010 | 3752 | 1044 |  | Captain | Town, Percy Charles  | 33rd Regt | Town, Henry  | 55 Nightingale St., Hamilton, Ont. | Canada.. | Clinton  | Mar. | 16, 1916. |
-| 2 | 660 | 1039 | 3753 | 1072 |  | Captain | Vanstone, Charles Garfield  | 33rd Regt | Vanstone, Mrs. Grace C  | 446 Indian Rd., Toronto, Ont   | Canada.. | Wingham  | Dec. | 24, 1915. |
-| 2 | 661 | 1068 | 3753 | 1100 |  | Lieutenant  | ClufT, Francis Nicholas  | 33rd Regt. . . . | ClufT, Noble  | Seaforth, Ont   | Canada.. | Seaforth  | Dec. | 21, 1915. |
-| 2 | 662 | 1097 | 3752 | 1129 |  | Lieutenant  | ClufT, Reginald Alger  | 28th Regt | ClufT, Rev. W. T  | 108 Mornington St., Stratford, Ont. | Canada.. | Camp Borden... | Aug. | 30, 1916. |
-| 2 | 661 | 1126 | 3753 | 1158 |  | Lieutenant  | Grieve, William Pearson  | 33rd Regt.. . . | Grieve, Dr. John  | Seaforth, Ont  | Canada.. | Clinton  | Dec. | 24, 1915. |
-| 2 | 661 | 1155 | 3753 | 1187 |  | Lieutenant  | Hall, Charles Spooner  | 33rd Regt | Hall, Francis Bernard  | R.R. No. 2, Seaforth, Ont  | Canada.. | Hensall  | Dec. | 10, 1915. |
-| 2 | 661 | 1184 | 3753 | 1215 |  | Lieutenant  | Hctherington, Isaac  | 33rd Regt | Hctherington, Mrs. Georgina Jane. | R.R. No. 1, Sheppard ton, Ont  | Canada.. | Goderich  | Jan. | 1, 1916. |
-| 2 | 661 | 1213 | 3754 | 1244 |  | Lieutenant  | Holmes, Dudley Elwood  | 33rd Regt | Holmes, Dudley  | Wingham, Ont  | Canada.. | Wingham  | Dec. | 10, 1915. |
-| 2 | 661 | 1241 | 3754 | 1272 |  | Lieutenant  | Mair, James Knox  | 33rd Regt | Mair, James K  | Clinton, Ont  | Canada.. | Clinton  | Dec. | 16, 1915. |
-| 2 | 660 | 1270 | 3754 | 1302 |  | Lieutenant  | McLean, Harry Clarence  | 33rd Regt | McLean, John A  | Wingham, Ont  | Canada.. | Wingham  | Dec. | 10, 1915. |
-| 2 | 660 | 1300 | 3754 | 1330 |  | Lieutenant  | O’Neil, William Eail  | 33rd Regt | O’Neil, William T  | Clinton, Ont  | Canada.. | Clinton  | Dec. | 16, 1915. |
-| 2 | 660 | 1331 | 3754 | 1361 |  | Lieutenant  | Reid, Dalton Le Roy  | 33rd Regt | Reid, Mrs. J. F  | Seaforth, Ont  | Canada.. | Seaforth  | Dec. | 21, 1915. |
-| 2 | 660 | 1360 | 3754 | 1389 |  | Lieutenant  | Scott, Donald Stewart  | 33rd Regt | Scott, Peter  | Brussels, Ont  | Canada.. | Clinton  | Jan. | 11, 1916. |
-| 2 | 660 | 1388 | 3754 | 1418 |  | Lieutenant  | Scott, Frank Macdonald  | 33rd Regt. . . | Scott, Mrs. R. A  | Toronto, Ont  | Canada.. | Clinton  | Jan. | 10, 1916. |
-| 2 | 660 | 1417 | 3754 | 1447 |  | Lieutenant  | Scott, Walter Frank  | 3Srd Regt... | Scott, Peter  | Brussels, Ont  | Canada.. | Clinton  | Dec. | 23, 1915. |
-| 2 | 660 | 1446 | 3754 | 1476 |  | Lieutenant  | Walter, Royland Allen  | 33rd Regt | Walter, W'illiam  | R.R. No. 4, Goderich, Ont  | Canada.. | Clinton  | Dec. | 22, 1915. |
-| 2 | 659 | 1475 | 3754 | 1504 |  | Lieutenant  | Wilson, William Bell  | 33rd Regt | Wilson, John McD  | Hensall, Ont .  | Canada.. | Hensall  | Dec. | 10, 1915. |
-| 2 | 560 | 1503 | 3753 | 1533 | C54308 | Private  | Adair, William Gordon  | Nil  | Adair, William J  | Wingham, Ont   ...,. | Canada.. | Wingham  | Jan. | 22, 1916. |
-| 2 | 560 | 1532 | 3754 | 1561 | 654784 | Corporal  | Adams, John  | Nil  | Adams, William  | Seaforth, Ont .   | Canada.. | Seaforth  | May | 8, 1916. |
-| 2 | 560 | 1560 | 3755 | 1592 | 654374 | Private  | Adams, Thomas  | 10th Regt | Adams, Mrs. Florence May  | Auburn, Ont  | Canada.. | Manchester  | Jan. | 28, 1916. |
-| 2 | 559 | 1590 | 3755 | 1619 | 654138 | Private  | Agar, Nelson  | Nil  | Whittard, Mrs. Ben  | Brussels, Ont   | Canada.. | Brussels  | Dec. | 11, 1915. |
-| 2 | 559 | 1619 | 3755 | 1649 | 654294 | Private  | Aitchison, Cleveland  | Nil  | Aitchison, Mrs. George T  | Lucknow, Ont  , | Canada.. | Hensall  | Jan. | 21, 1916. |
-| 2 | 559 | 1647 | 3756 | 1677 | 654001 | Private  | Aitchison, Wallace  | Nil  | Aitchison, Mrs. Elizabeth  | Wingham, Ont  | Canada.. | Wingham  | Dec. | 2, 1915. |
-| 2 | 559 | 1676 | 3756 | 1706 | 654716 | Co. Q.-M. Sergt... | Allen, John Andrew  | Nil  | Allen, Robert  | Wingham, Ont  | Canada.. | Wingham  | Mar. | 19, 1916. |
-| 2 | 559 | 1705 | 3756 | 1735 | 654359 | Private  | Allin, Lome William J  | Nil  | Allin, Mrs. Elizabeth  | R.R. No. 2, Clinton, Ont  | Canada.. | Goderich  | Jan. | 31, 1916. |
-| 2 | 559 | 1734 | 3756 | 1764 | 654257 | Private  | Anderson, Clair  | Nil  | Anderson, Mrs. Minnie  | Wyoming, Ont    | Canada.. | Goderich  | Jan. | 17, 1916. |
-| 2 | 559 | 1763 | 3757 | 1792 | 654415 | L.-Corporal  | Anderson, John George  | Nil  | Anderson, James  | R.R. No. 4, Brussels, Ont  | U.S.A.., | Belgrave  | Feb. | 8, 1916. |
-| 2 | 559 | 1791 | 3757 | 1822 | 654139 | L.-Sergeant  | Andrews, Francis William  | Nil  | Andrews, Mrs. Mary Ellen  | Clinton, Ont  | Canada.. | Clinton  | Jan. | 5, 1916. |
-| 2 | 559 | 1820 | 3758 | 1852 | 654002 | Sergeant  | Angell, Reginald George  | Nil  | Angell, Mrs. Myrtle Mary  | Hensall, Ont    | England. | Hensall  | Dec. | 15, 1915. |
-| 2 | 559 | 1849 | 3758 | 1880 | 654621 | Private  | Anger, George Hugh  | Nil  | Anger, William  | Gorrie, Ont  | Canada.. | Wroxeter  | Mar. | 22, 1916. |
-| 2 | 559 | 1878 | 3758 | 1909 | 654599 | Private  | Anger, James Alvin  | Nil  | Anger, William  | Gorrie, Ont  | Canada.. | Wroxeter  | Mar. | 21, 1916 |
-| 2 | 559 | 1907 | 3759 | 1938 | 654003 | Private  | Appleby, William James C  | Nil  | Appleby, James  | Clinton, Ont  | Canada.. | Clinton  | Dec. | 6, 1915. |
-| 2 | 559 | 1936 | 3759 | 1967 | 654307 | Private  | Appleton, David Gordon  | Nil  | Appleton, Thomas  | Crediton East, Ont  | Canada.. | Exeter  | Jan. | 24, 1916. |
-| 2 | 558 | 1965 | 3760 | 1996 | 654684 | Private  | Appleton, Thomas Winifred.... | Nil  | Appleton, Mrs. Florence  | Exeter, Ont  | Canada.. | Exeter  | Mar. | 27, 1916. |
-| 2 | 558 | 1994 | 3759 | 2025 | 654780 | Private  | Armstrong, Lome Wilson  | Nil  | Armstrong, George  | Varna, Ont  | Canada.. | London  | May | 9, 1G16. |
-| 2 | 558 | 2022 | 3760 | 2053 | 654622 | Private  | Atkinson, Lewis Patrick  | 33rd Regt | Atkinson, Mrs. Catherine  | Seaforth, Ont  | Canada.. | Seaforth  | Mar. | 23, 1916. |
-| 2 | 558 | 2051 | 3760 | 2081 | 054851 | Private  | Baker, William Joseph  | Nil  | Baker, Mrs. Catherine  | Hensall, Ont  | Canada.. | Clinton  | May | 21, 1916. |
-| 2 | 557 | 2080 | 3761 | 2111 | 654258 | Private  | Balkwill, David Muir  | Nil  | McCracken, Mrs. A  | Goderich, Ont  | Canada.. | Goderich  | Jan. | 17, 1916. |
-| 3 | 656 | 454 | 2251 | 483 | 654442 | Act.-Corporal... | Ballantync, Colin MacCarter... | Nil  | Ballantyne, James  |
-| 3 | 656 | 483 | 2250 | 511 | 654005 | Private  | Barker, Joseph Henry  | 33rd Regt. .. | Barker, Mrs. Annie  |
-| 3 | 656 | 503 | 3846 | 541 | 654006 | L.-Corporal  | Barkley, William Reynold  | Nil  | Barkley, George  |  |  |  | Dec. 22. 1915. | U.S.A  | Brussels  |
-| 3 | 656 | 541 | 2249 | 568 | 654860 | Private  | Barr, Walter Earl  | Nil  | Barr, John  |
-| 3 | 656 | 570 | 2249 | 599 | 654407 | Corporal  | Barr, William James  | Nil  | Barr, Mrs. William J  |
-| 3 | 656 | 591 | 3846 | 628 | 65456S | Private  | Barron, William George  | Nil  | Barron, Alexander  |  |  |  | Mar. 11, 1916. | R.R. No. 2, Brussels, Ont   | Canada  |
-| 3 | 655 | 619 | 3846 | 655 | 654346 | Private  | Bates, Albert Russell  | Nil  | Bates, William K  |  |  |  | Jan. 17. 1916. | Canada  |
-| 3 | 655 | 657 | 2248 | 684 | 654472 | Private  | Bates, Charles Fred  | Nil  | Bates, George D  |
-| 3 | 655 | 677 | 3846 | 712 | 654458 | Private  | Bates, Harold Leslie  | Nil  | Bates, William K  |  |  |  | Feb. 12, 1916. | Canada  | Goderich  |
-| 3 | 654 | 707 | 3847 | 744 | 654347 | Private  | Bates, John Henry  | Nil  | Bates, George D  |  |  |  | Jan. 7, 1916. | Canada  |
-| 3 | 654 | 736 | 3846 | 773 | 654295 | Private  | Batten, Ralph Wellington  | Nil  | Batten, John  |  |  |  | Jan. 22, 1916. | Canada  |
-| 3 | 654 | 764 | 3846 | 802 | 654726 | Private  | Baxter, George Leslie  | Nil  | Baxter, Mrs. Charlotte  |  |  |  | April 4, 1916. | Canada  | Goderich  |
-| 3 | 654 | 794 | 3846 | 829 | 654600 | Private  | Beattie, Thomas Alexander.. . | Nil  | Beattie, Mrs. Elizabeth  |  |  |  | Mar. 22, 1916. | Canada  |
-| 3 | 654 | 823 | 3846 | 859 | 654193 | Private  | Beattie, William Percy  | Nil  | Beattie, Mrs. E  |  | Canada  |  | Jan. 5, 1916. |
-| 3 | 654 | 852 | 3846 | 888 | 654670 | Private  | Beere, Wyndham Irbv F  | Imp. Forces. | Beere, Mrs. Eleanor Mabel. |  |  |  | Mar. 22, 1916. | South Africa.... | Goderich  |
-| 3 | 653 | 881 | 3846 | 918 | 654207 | Sergeant  | Bell, Benson Henry  | Nil  | Bell, Mrs. Henry  |  |  |  | Jan. 5, 1016. | Canada  |
-| 3 | 653 | 909 | 3845 | 946 | 654391 | Private  | Bell, John Harvey  | Nil  | Bell, Mrs. Jean  |  |  |  | Jan. 31, 1916. | Canada  | Goderich  |
-| 3 | 652 | 939 | 3845 | 974 | 654563 | Private  | Bell, Russell Melton  | U.S. Army.. | Bell, Mrs. Stelle Catherine. |  |  |  | Mar. 11, 1616. | Canada  | Goderich  |
-| 3 | 652 | 973 | 2259 | 1003 | 654208 | Private  | Bell, Wilfrid Laurier  | 33rd Regt. . . | Bell, Mrs. Elizabeth  |
-| 3 | 652 | 1003 | 2258 | 1032 | 654624 | Private  | Bellamy, Charles Arthur H  | Nil  | Bellamy, Mrs. Annie  |
-| 3 | 652 | 1025 | 3847 | 1060 | 654178 | Private  | Bennett, William Clarence  | Nil  | Bennett, Joseph  |  | Canada  | Brussels  | Dec. 31, 1915. |
-| 3 | 651 | 1054 | 3847 | 1090 | 654473 | Private  | Bentley, Earl Charles  | Nil  | Bentley, Jonathan  |  |  |  | Feb. 21, 1916. | Canada  | Blyth  |
-| 3 | 651 | 1082 | 3847 | 1118 | 654789 | Private  | Bentley, Russell Clarence  | Nil  | Bentley, Jonathan  |  |  |  | May 10, 1916. | Canada  | Blyth  |
-| 3 | 651 | 1111 | 3847 | 1146 | 654474 | Private  | Berriman, George Edward  | Nil  | Berriman, Mrs. Rose  |  |  |  | Feb. 18, 1916. | England  | Goderich  |
-| 3 | 651 | 1140 | 3848 | 1175 | 654746 | Private  | Berry, William Frank  | Nil. | Berry, Mabel  |  |  |  | April 8, 191G. | England  | Goderich  |
-| 3 | 650 | 1169 | 3848 | 1205 | 651570 | Sergeant  | Best, John Harries  | 33rd Regt. . . | Best, John Maitland  |  | Canada  | Seaforth  | Mar. 13, 1916. |
-| 3 | 650 | 1197 | 3848 | 1233 | 654375 | Private  | Biggin, Francis Willard  | Nil  | Biggin, John  |  | Canada  | Blyth  | Jan. 29, 1916. |
-| 3 | 650 | 1226 | 3848 | 1261 | 654753 | Private  | Birney, William George  | Nil  | Birney, Charles William |  |  |  | April 25, 1916. | Canada  |
-| 3 | 649 | 1255 | 3848 | 1292 | 654123 | Sergeant  | Bissett, Thomas Harold  | Nil  | Bissett, Mrs. Thomas  |  | Canada  | Exeter  | Dec. 31, 1915. |
-| 3 | 649 | 1284 | 3848 | 1318 | 654733 | Private  | Black, John James  | Nil  | Black. James D  |  | Canada  |  | April 8, 1916. | Hensall  |
-| 3 | 649 | 1313 | 3848 | 1347 | 65-1140 | Private  | Black, Robert Anderson  | Nil  | Black, Robert  |  | Canada  | Brussels  | Dcc. 31, 1915. |
-| 3 | 648 | 1341 | 3848 | 1378 | 654141 | L.-Corporal  | Black, Roy Melvin  | Nil  | Black, James  |  |  |  | Dec. 31, 1915. | Canada  | Goderich  |
-| 3 | 3161 | 1371 | 3848 | 1397 |  |  |  |  |  |  |  |  | Mar. 13, 1916. | Canada  | Clinton  |
-| 3 | 648 | 1380 | 2258 | 1410 | 654571 | L. -Corporal  | Black, William  | Nil  | Black, John Wallis  |
-| 3 | 648 | 1400 | 3848 | 1438 | 654661 | Private  | Blackwell, David Benjamin . . | Nil  | Blackwell, George  | R.R. No. 2, Hensall, Ont  | Canada  | Hensall  | Mar. 24, 1916. |
-| 3 | 647 | 1437 | 2229 | 1466 | 654179 | Private  | Bloomfield, Morris Russell. . .. | Nil  | Bloomfield, Mrs. Emma.. |
-| 3 | 3161 | 1457 | 3849 | 1489 |  |  |  |  |  |  |  |  | Dec. 30, 1915. | England  | Exeter  |
-| 3 | 648 | 1466 | 2257 | 1495 | 654124 | Private  | Bolton, Albert Sidney  | Nil  | Not stated  |
-| 3 | 3162 | 1486 | 3849 | 1517 |  |  |  |  |  |  |  |  | Jan. 17, 1916. | England  | Wingham  |
-| 3 | 648 | 1495 | 2257 | 1523 | 654259 | Private  | Bond, Herbert James  | Nil  | Bond, Sidney  |
-| 3 | 647 | 1515 | 3849 | 1552 | 654625 | Private  | Bowra, Frederick William  | Imp. Forces. | Bowra, Mrs. Rose Amy  |  |  |  | Mar. 21, 1916. | England  |
-| 3 | 647 | 1544 | 3849 | 1584 | 654568 | Private  | Boyce, Frank Harold  | Nil  | Boyce, James  |  | Canada  |  | Mar. 4. 1916. |
-| 3 | 647 | 1580 | 2242 | 1612 | 654865 | Private  | Boyle, Edgar Bernard  | Nil  | Boyle, Mrs. Alice  |
-| 3 | 647 | 1602 | 3849 | 1639 | 654671 | Private  | Brad win, Albert Milton  | Nil  | Bradwin, Mrs. Lena  |  |  |  | Mar. 20, 1916. | Godcrich, Ont  | Canada  | Goderich  |
-| 3 | 647 | 1631 | 3849 | 1668 | 654007 | Private  | B ram field, William Valentine. | Can. Mil | Bramfield, Mrs. Katie.... |  |  |  | Dec. 28, 1915. | Clinton, Ont  | Canada  | Clinton  |
-| 3 | 647 | 1660 | 3850 | 1697 | 727161 | Private  | Brandon, Abraham  | Nil  | Brandon, Mrs. Catherine  |  |  |  | Dec. 7. 1915. | Bayfield, Ont  | Canada  | Listowel  |
-| 3 | 648 | 1689 | 3850 | 1725 | 554521 | Private  | Brandon, Harold Noble  | Nil  | Brandon, Mrs. Catherine  |  |  |  | Feb. 29, 1916. | Bayfield, Ont  | Canada  | Clinton  |
-| 3 | 646 | 1721 | 3148 | 1756 | 654008 | Private  | Brazier, George William  | Nil  | Brazier, Mrs. George  | c/o Mrs. E. Fawrant, 82 Hatcham Park Rd., New |
-| 3 | 647 | 1782 | 2315 | 1812 | 354400 | Private  | Brennan, Frederick  | Nil  | Johnstone, Mrs. James H  |
-| 3 | 646 | 1805 | 3850 | 1841 | 054577 | Private  | Bridle, William Thomas  | Nil  | Bridle, Mrs. Florence Henrietta. |  |  |  | Mar. 16, 1916. | Goderich, Ont  | England  | Goderich  |
-| 3 | 646 | 1834 | 3851 | 1871 | 654475 | Private  | Bright, William Down  | 33rd Regt. | Bright, Mrs. Beatrice.... |  |  |  | Feb. 21, 1916. | Seaforth. Ont  | Canada  | Seaforth  |
-| 3 | 646 | 1863 | 3851 | 1900 | 054360 | Private  | Brindley, Allan Jasper  | Nil  | Brindley, William  |  |  |  | Jan. 29, 1916. | Goderich, Ont  | Canada  | Goderich  |
-| 3 | 643 | 1891 | 3851 | 1928 | 054: 09 | Private  | Brintncll, Clifford  | Nil  | Brintncll, Donald  |  |  |  | Jan. 24, 1916. |
-| 3 | 645 | 1921 | 3851 | 1955 | 654421 | Private  | Brittain, Frederick James  | Nil  | Brittain, William  |  |  | Wroxeter  | Feb. 9, 1916. |
-| 3 | 644 | 1949 | 3851 | 1987 | 054412 | Private  | Brock, George Edward  | Nil  | Brock, Mrs. Flossie  |  |  |  | Feb. 8, 1916. | Hensall  |
-| 3 | 645 | 1978 | 3852 | 2013 | 054553 | Private  | Brockenshire, Arva Everett  | Nil  | Brokenshire, Silas |  |  |  | Mar. 6, 1916. |
-| 3 | 645 | 2007 | 3852 | 2044 | 054260 | Private  | Brombley, Charles Edward | Nil  | Brombley, William  | Londesborough, Ont  | Canada  | Blyth  | Jan. 18, 1916. |
-| 3 | 645 | 2036 | 3854 | 2071 | 054142 | Private  | Brown, Bernard  | Nil  | Brown, Edward  | Ripley, Ont  | Scotland  | Seaforth  | Jan. 1, 1916. |
-| 3 | 645 | 2065 | 3852 | 2102 | 054009 | Private  | Brown, .Samuel Henry  | Can. Mil.. | Brown, John  |  | Canada  | Clinton  | Dec. S, 1915. |
-| 3 | 645 | 2094 | 3852 | 2130 | 054001 | L.-Corporal  | Brunner, Charles Edward  | Nil  | Brunner, Mrs. John |  | Canada  |  | Mar. 21, 1010. |
-| 3 | 1855 | 2123 | 3853 | 2153 |  |  |  |  | Buchanan, Robert  |  |  | Londesborough. | May 9, 1916. |
-| 3 | 645 | 2151 | 3853 | 2186 | 054443 | Private  | Buchanan, Ward Miles  | Nil  | Buchanan, Mark  |  |  | Brussels  | Feb. 12, 1916. | Canada  |
-| 4 | 551 | 559 | 3242 | 597 | Mz |  |  | Former Corps. |  | Country of |
-| 4 | 646 | 712 | 3737 | 741 |  | Private  |  | Nil  |  |  |  | 29, 1910. |
-| 4 | 645 | 741 | 3738 | 771 |  | Co. Scrgt.-Major.. | Burchell, Fred William  | Nil  |  |  |  | 6, 1916. |
-| 4 | 645 | 769 | 3737 | 798 |  | Private  | Burling, Lome  | Nil  |  |  |  | 19. 1916. |
-| 4 | 645 | 799 | 3736 | 829 |  | Private  | Burton, Roy Martin  | Nil  |  |  |  | 10, 1910. |
-| 4 | 645 | 827 | 3736 | 858 |  | Private  | Butcher, Norman Leslie  | Nil  |  |  |  | 16, 1916. |
-| 4 | 645 | 856 | 3736 | 887 |  | Private  | Butler, John Robert  | Nil  |  |  |  | 21, 1916. |
-| 4 | 547 | 885 | 3736 | 916 | G54831 | Private  | Buttrey, Charlie Wesley  | Nil  |  |  |  | 16, 1916. |
-| 4 | 643 | 914 | 3735 | 944 |  | Corporal  | Caldwell, Robert Revnolds  |  | Caldwell, William T  |  |  | 10, 1916. |
-| 4 | 644 | 943 | 3736 | 974 |  | Private  | Callow, Earnest   | Nil  |  |  |  | 8, 1916. |
-| 4 | 1419 | 1030 | 3737 | 1059 |  |  |  | Nil  |  |  |  | 2, | 1915. |
-| 4 | 1418 | 1059 | 3737 | 1087 |  |  |  | Nil  |  |  |  | 17, | 1916. |
-| 4 | 643 | 1087 | 3738 | 1115 |  | Private  |  | Nil  |  |  |  | 31, | 1910. |
-| 4 | 545 | 1116 | 3738 | 1143 | 654481 |  |  | Nil  |  |  |  | 21, | 1910. |
-| 4 | 545 | 1145 | 3738 | 1174 | G54011 | Private  | Campbell, Hugh  | Nil  |  |  |  | IS, | 1915. |
-| 4 | 545 | 1174 | 3739 | 1202 | G54194 |  |  | Nil  |  |  |  | 8. | 1916. |
-| 4 | 1417 | 1203 | 3739 | 1230 |  |  |  | Nil  |  |  |  | 13, | 1915. |
-| 4 | 1417 | 1232 | 3738 | 1259 |  |  |  | Nil  |  |  |  | 5, | 1916. |
-| 4 | 545 | 1261 | 3739 | 1288 | 054 602 |  |  | Nil  |  | U.S.A  |  | 22, | 1916. |
-| 4 | 545 | 1290 | 3738 | 1318 | 054231 | Private  | Carruth, Frederick Lachlan  | Nil  |  |  | Wingham  | 13, | 1916. |
-| 4 | 545 | 1319 | 3738 | 1347 | 654801 | Private  | Carruth, Joseph Hunter  | 30th Regt  | Carruth, Mrs. Emily  |  | Wingham  | 15, | 1916. |
-| 4 | 544 | 1348 | 3737 | 1375 | 654864 |  |  | Nil  |  | Canada  | Clinton  | 21, | 1916. |
-| 4 | 544 | 1377 | 3736 | 1403 | 654013 |  |  |  |  | Canada  |  | 13, | 1915. |
-| 4 | 544 | 1405 | 3736 | 1432 | 654662 |  |  | Nil  |  |  | Manchester  | 23, | 1916. |
-| 4 | 543 | 1435 | 3734 | 1461 | 654427 |  |  | Nil  |  |  | Wroxeter  | 10. | 1916. |
-| 4 | 542 | 1462 | 3735 | 1490 | 054523 |  |  | Nil... |  |  | Clinton  | 22, | 1916. |
-| 4 | 542 | 1491 | 3734 | 1517 | 654014 |  |  |  |  |  | Goderich  | 13, | 1915. |
-| 4 | 541 | 1521 | 3734 | 1546 | 654276 |  |  | Nil... |  |  |  | 14, | 1916. |
-| 4 | 541 | 1549 | 3735 | 1579 | 654278 | Private  | Champion, Roy Albert  | Nil  | Champion, Mrs. Martha  | Canada  |  | 14, | 1916. |
-| 4 | 542 | 1578 | 3735 | 1608 | 654757 | Sergeant  |  |  | C’hapman, Mrs. Elizabeth J  | Canada  |  | 21/ | 1916. |
-| 4 | 543 | 1607 | 3735 | 1632 | 654730 |  |  | Nil... |  |  |  | :io, | 1916. |
-| 4 | 543 | 1635 | 3736 | 1660 | 751752 |  |  | Nil  |  |  | London  | 27. | 1916. |
-| 4 | 544 | 1664 | 3737 | 1693 | 654603 |  |  | Nil  | Chisholm, Mrs. Lily   |  |  | 21, | 1916. |
-| 4 | 545 | 1691 | 3738 | 1718 | 654759 |  |  | Nil  |  |  | Clinton  | 2, | 1916. |
-| 4 | 545 | 1719 | 3738 | 1746 | 654694 |  |  | Nil  |  |  |  | 22, | 1916. |
-| 4 | 546 | 1748 | 3739 | 1775 | 654821 |  |  | Nil  |  |  | Clinton  | 15. | 1916. |
-| 4 | 1747 | 1777 | 3740 | 1806 |  |  |  |  | (Mark, Mrs. Margaret  |  | Seaforth  | II. | 1916. |
-| 4 | 1419 | 1805 | 3741 | 1832 |  |  |  | Nil  |  |  | Hensall  | 1916. |
-| 4 | 1420 | 1834 | 3742 | 1862 |  |  |  | Nil... |  |  | Bayfield  | 25, | 1916. |
-| 4 | 1420 | 1862 | 3743 | 1890 |  |  |  | Nil  |  | Canada  | Brussels  | 17, | 1915. |
-| 4 | 3298 | 1891 | 3743 | 1917 |  |  |  |  |  |  | Hensall  | 13. | 1916. |
-| 4 | 545 | 1920 | 3743 | 1949 | 654801 |  |  |  |  | England  |  | 13, | 1916. |
-| 4 | 1421 | 1949 | 3744 | 1978 |  |  |  | Nil  |  | England  | Seaforth  | Dec. | 17, | 1915. |
-| 4 | 1422 | 1978 | 3744 | 2005 |  |  |  | Nil  |  |  | Seaforth  | Dec. | 14, | 1915. |
-| 4 | 3053 | 2007 | 3745 | 2034 |  |  |  |  |  | Canada  | Clinton  | April | 3, | 1916. |
-| 4 | 1422 | 2036 | 3745 | 2063 |  |  |  | Nil  |  |  |  | Feb. | 2, | 1916. |
-| 4 | 1422 | 2065 | 3745 | 2092 |  |  |  | Nil  |  |  |  | Mar. | 20, | 1916. |
-| 4 | 545 | 2093 | 3747 | 2126 | 054701 | Private  | Colclough, Douglas Oscar  | Nil  | Colclough, John  |  | Blvth  | Mar. | 27, | 1916. |
-| 5 | 663 | 420 | 3850 | 454 | 654429 | Private  | Cole, Francis Joshua  | 33rd Regt.. | McDonald, Mrs. Allen  | Goderich, Ont  |  |  | Feb | 5 | 1916. |
-| 5 | 664 | 450 | 3851 | 483 | 654822 | Private  | Cole, Oliver John  | Nil  | Cole, Thomas Henry  | R.R. No. 3, Clinton, Ont  | Canada  |  | May | 14 | 1916. |
-| 5 | 663 | 479 | 3850 | 511 | 654016 | Private  | Cole, Robert Nelson  | Nil  | Cole, Mrs. Flossie E  | Clinton, Ont  | Canada  |  |  | 11 | 1915. |
-| 5 | 663 | 508 | 3851 | 542 | 654587 | Private  | Coleman, Charles Sidney  | Nil  | Coleman, Mrs. E  | 6 Brandon Rd., YVood St., Walthamstow, Essex, Eng. | England  |  |  | IS | 1916. |
-| 5 | 662 | 537 | 3851 | 570 | 654195 | Private  | Collingwood, Ernest  | Nil  | Collingwood, Mrs. Violet  | Exeter, Ont  |  |  |  | 6 | 1916. |
-| 5 | 662 | 566 | 3851 | 600 | 654842 | Private  | Collins, James Wilson M  | Nil  | Collins, William  | Bruce field, Ont  |  |  | May | 11 | 1916. |
-| 5 | 662 | 595 | 3850 | 630 | 654020 | Private  | Colvin, David  | Nil  | Colvin, Mrs. Eliza Ann  | Bellyneagh, Moneymore, Co. Londonderry, Ire  |  |  | Dec. | Ireland  | 13 | 1915. |
-| 5 | 662 | 624 | 3852 | 657 | 654017 | Private  | Consigney, Charles  | Nil  | Consigney, Charles  | Seaforth, Ont  |  |  |  | 25 | 1915. |
-| 5 | 661 | 653 | 3852 | 687 | 654238 | Private  | Cook, Mansfield Smith  | Nil  | Cook, Fred  | Clinton, Ont  |  |  |  | 11 | 1916. |
-| 5 | 662 | 683 | 3852 | 716 | 654790 | Private  | Cook, Milton Joshua  | Nil  | Cook, Joshua  | Clinton, Ont  |  |  | May | 11 | 1916. |
-| 5 | 661 | 711 | 3851 | 744 | 654279 | Corporal  | Cook, Rollo Elmer  | Nil  | Cook, Mrs. Jane  | Seaforth, Ont  | U.S.A.... |  |  | 14 | 1916. |
-| 5 | 661 | 741 | 3850 | 774 | 654021 | Private  | Cook, Willett Glen  | Nil  | Cook, Frederick  | Clinton, Ont  |  |  |  | 16 | 1915. |
-| 5 | 660 | 770 | 3851 | 803 | 654280 | Private  | Cooper, Cecil Wilford  | Nil  | Cooper, George E  | Clinton, Ont  |  |  | Jan. | 17 | 1916. |
-| 5 | 660 | 799 | 3844 | 832 | 654871 | Private  | Copeland, Chester Russell | Nil  | Copeland, Mrs. Pearl V  | Wingham, Ont  |  |  | June | 3 | 1916 |
-| 5 | 660 | 828 | 3850 | 860 | 654802 | Private  | Corbett, Erie Armstrong  | Nil  | Corbett, Mrs. Sarah  | R.R. No. 1, Goderich, Ont  |  |  | May | 10 | 1916. |
-| 5 | 660 | 857 | 3852 | 890 | 654022 | L.-Corporal  | Cornish, John Hendall  | Nil  | Cornish, John  | Elimville, Ont  |  |  | Dec. | 11 | 1915. |
-| 5 | 660 | 886 | 3852 | 918 | 654702 | Private  | Cornish, Richard Hardwick.. | Can. Mil. . . . | Cornish, John  | Elimville, Ont  |  | Exeter  | Mar. | 20 | 1916. |
-| 5 | 659 | 915 | 3852 | 948 | 654023 | Private  | Cornwall, William Francis.... | 2nd Regt | Cornwall, Mrs. Sarah Jane  | Wroxeter, Ont  |  |  | Dec. | 20 | 1915. |
-| 5 | 659 | 944 | 3852 | 978 | 654348 | Sergeant  | Coultes, Charlie Russell  | Nil  | Coultes, Mrs. George W  | Wingham, Ont  |  | Blyth  | Jan. | 1916. |
-| 5 | 659 | 973 | 3852 | 1006 | 654491 | Private  | Coultes, James Howard  | Nil  | Coultes, Mrs. Lizzie. .    | Weston, Ont  |  |  | Feb. | 17 | 1916. |
-| 5 | 660 | 1002 | 3852 | 1034 | 654019 | Btn. Q.-M. Sergt.. | Counter, Morley  | Can. Mil.... | Counter, William R  | Clinton, Ont  |  |  | Dec. | 10 | 1915. |
-| 5 | 660 | 1031 | 3853 | 1064 | 654832 | Private  | Coutts, Andrew Donald  | Nil  | Coutts, Mrs. Mary  | Jamestown, Ont  |  |  | May | 16 | 1916. |
-| 5 | 660 | 1060 | 3852 | 1094 | 654710 | Private  | Cowan, John Alexander  | Nil  | Cowan, Isaac  | Blyth,Ont  |  |  | Mar. | Canada  | Blyth  | 27 | 1916. |
-| 5 | 660 | 1088 | 3852 | 1123 | 654444 | Private  | Cowan, Walter  | Nil  | Cowan, David  | Blyth, Ont  |  |  | Feb | 10 | 1916. |
-| 5 | 660 | 1117 | 3845 | 1152 | 654327 | Private  | Cowan, William Edgar  | Nil  | Cowan, Isaac  | Blyth, Ont  |  | Blyth  |  | 25 | 1916 |
-| 5 | 659 | 1146 | 3852 | 1180 | 654791 | Private  | Cowell, Richard Tomlinson... | Nil  | Cowell, Mrs. Frances Rebecca. . | Wingham. Ont  |  |  | May | 11 | 1916. |
-| 5 | 659 | 1175 | 3853 | 1207 | 654343 | Sergeant,  | Cox, Clarence James  | Nil  | Cox, Mrs. Olive Jane  | Auburn, Ont  |  |  |  | 27 | 1916. |
-| 5 | 659 | 1204 | 3852 | 1236 | 654024 | Private  | Cox, Richard Frederick  | Nil  | Cox, Richard  | Brussels, Ont  |  | Brussels  |  | 21 | 1915. |
-| 5 | 658 | 1233 | 3853 | 1266 | 654328 | Corporal  | Craig, Joseph Chambers  | Nil  | Craig, Mrs. Lily  | Goderich, Ont  |  |  |  | r? | 1916. |
-| 5 | 658 | 1262 | 3853 | 1295 | 65402.' | Private  | Cramer, John  | Can. Mil | Cramer, John  | Paris, Ont  |  |  |  | 23 | 1915. |
-| 5 | 657 | 1291 | 3853 | 1325 | 654239 | Corporal  | Crawford, Frederick  | 33rd Regt. .. | Crawford, Edward  | Londcsborough,Ont  |  |  |  | 14 | 1916. |
-| 5 | 657 | 1320 | 3853 | 1354 | 654841 | Private  | Crawford, James Clarence. . . . | Nil  | Crawford, Charles  | Ixjndesborough, Ont  |  |  | May | 19 | 1916. |
-| 5 | 657 | 1350 | 3853 | 1384 | 654703 | Private  | Crawford, Roy Edward  | 33rd Regt. .. | Crawford, George. .   | Blyth, Ont  |  | Blyth  |  | 28 | 1916. |
-| 5 | 657 | 1378 | 3853 | 1412 | 654516 | Private  | Crawford, St. Clair  | Nil  | Crawford, Alexander McDonald. | Wingham, Ont  |  |  | Feb | 28 | 1916. |
-| 5 | 656 | 1407 | 3853 | 1440 | 654026 | Sergeant  | Cree, Lockhart John  | Nil  | Cree, Mrs. Maggie  | Clinton, Ont  |  |  |  | 6 | 1915. |
-| 5 | 656 | 1437 | 3853 | 1468 | 654027 | Co. Sergt.-Major.. | Crich, James Onslow  | 33rd Regt. . . | Crich, Mrs. Susan  | Clinton, Ont  | Canada  |  |  | 6 | 1915. |
-| 5 | 656 | 1466 | 3853 | 1497 | 654758 | Private  | Crich, Wilfred Victor  | Nil  | Crich, Onslow  | Clinton, Ont  | Canada  | Clinton  | April 29 | 1916. |
-| 5 | 656 | 1494 | 3853 | 1526 | 654508 | Private  | Cud more, Lome  | Nil  | Cudmorc, Mrs. Louisa  | Exeter, Ont  |  |  | Feb. 25 | 1916. |
-| 5 | 655 | 1524 | 3852 | 1556 | 654361 | Private  | Culbert, Gordon Carroll  | Nil  | Culbert, John  | Centralta, Ont  |  | Exeter  |  | 31 | 1916. |
-| 5 | 655 | 1553 | 3846 | 1585 | 654626 | Private  | Culbert, Wilson  | Nil  | Culbert, John  | Central ia, Ont  |  |  |  | 21 | 1916 |
-| 5 | 656 | 1582 | 3846 | 1613 | 654719 | Private  | Currell, Lloyd William  | Nil  | Currell, Edward Albert  | Goderich, Ont. *  |  |  |  | 27 | 1916 |
-| 5 | 655 | 1611 | 3846 | 1644 | 654792 | Private  | Currie, David  | Nil  | Currie, Mrs. Jemima Hope  | Wingham, Ont  |  |  | May | 11 | 1916 |
-| 5 | 655 | 1640 | 3854 | 1672 | 654127 | Private  | Currie, Harold James  | Nil  | Currie, W. J  | R.R. No. 5, Wingham, Ont  |  |  |  | 31 | 1915. |
-| 5 | 655 | 1669 | 3854 | 1701 | 654196 | Corporal  | Currie, Harold Reginald  | Nil  | Currie, Peter  | Goderich, Ont  |  |  |  | 7 | 1916. |
-| 5 | 655 | 1698 | 3853 | 1730 | 654144 | L.-Sergeant  | Currie, James Hilton  | Nil  | Currie, John T  | R.R. No. 3, Wingham, Ont  |  |  | Jan. | 4 | 1916. |
-| 5 | 655 | 1727 | 3853 | 1759 | 654469 | Private  | Currie, Kenneth  | Nil  | Currie, Mrs. Agnes  | Bayfield, Ont  |  |  | Feb. | 17 | 1916. |
-| 5 | 655 | 1756 | 3846 | 1789 | 654627 | L.-Corporal  | Curson, James Robert  | Nil  | Curson, Mrs. Nellie  | Goderich, Ont  |  |  | Mar. | 22 | 1916 |
-| 5 | 655 | 1785 | 3853 | 1818 | 654524 | L.-Corporal  | Dftvidson, Leonard Robert | Nil  | Davidson, William  | Zurich, Ont  |  |  | Feb | 29 | 1916. |
-| 5 | 655 | 1812 | 3853 | 1846 | 654253 | Private  | Davidson, Thomas Alexander. | Nil  | Davidson, William  | Zurich, Ont  |  |  | Jan. | 1 | 1916. |
-| 5 | 654 | 1842 | 3852 | 1876 | 654863 | Private  | Davis, George Newton  | 33rd Regt. . . | Davis, George  | Clinton, Ont  |  |  | May | 16 | 1916. |
-| 5 | 654 | 1871 | 3852 | 1905 | 654588 | Private  | Day, George Linfred  | Nil    | Day, Robert John  | Wingham, Ont  |  |  | Mar. | 18 | 1916. |
-| 5 | 654 | 1900 | 3853 | 1934 | 654711 | Private  | Day, Louis Edgar  | Nil  | Day, Louis  | Exeter, Ont  |  |  | Mar. | 30 | 1916. |
-| 5 | 654 | 1929 | 3852 | 1962 | 654867 | Private  | Deem, Harold Arthur   | Nil  | Deem, Mrs. Martha Irene  | Wingham, Ont  |  |  | May | 27 | 1916. |
-| 5 | 654 | 1958 | 3852 | 1992 | 654589 | Private  | Deem, Sydney  | Nil  | Deem, William  | Seaforth, Ont  |  |  | Mar. | 20 | 1916. |
-| 5 | 653 | 1987 | 3845 | 2021 | 654312 | L.-Corporal  | Dennison, Alfred Wesley  | 33rd Regt. . . | Dennison, Mrs. Lilian  | Walton, Ont  |  |  |  | 24 | 1916 |
-| 5 | 653 | 2015 | 3845 | 2049 | 654803 | Private  | Dexter, Harold Lloyd  | Nil  | Dexter, Mrs. E. J  | Blyth, Ont  |  |  | May | II | 1916 |
-| 5 | 653 | 2044 | 3852 | 2078 | 654029 | Private  | Dexter, Herbert Manson  | Nil  | Dexter, Mrs. Emma Jane  | Blyth, Ont  |  |  | Dec. | 28 | 1915. |
-| 5 | 653 | 2073 | 3843 | 2107 | 654591 | Private  | Dick, Ross Thomas  | Nil  | Dick, Mrs. Elizabeth  | Hay, Ont  |  |  | Mar. | 20 | 1916 |
-| 5 | 654 | 2102 | 3844 | 2136 | 654145 | Co. Q.-M. Sergt... | Dick, Thomas Henry  | 33rd Regt. . | Dick, John  | Seaforth, Ont  |  |  | Dec. | 27 | 1915 |
-| 5 | 654 | 2131 | 3853 | 2165 | 654720 | L.-Corporal  | Dickinson, Joseph Arthur  | Nil  | Dickinson, Mrs. Margaret S  | 1001 Bathurst St., Toronto, Ont  | Canada  |  | April | 3 | 1916. |
-| 6 | 759 | 538 | 3265 | 567 |  |  |  | Former Corps. | Country of |
-| 6 | 570 | 681 | 3759 | 708 | 654310 | Private  |  | Nil  |  | Seaforth  | Jan. 24, 191C. |
-| 6 | 570 | 711 | 3759 | 736 | 654712 |  |  |  |  |  | Mar. 21, 1916. | Nil  |
-| 6 | 569 | 768 | 3759 | 797 | 654146 | Sergeant.  | Dougall, Roswell Percival Ingram | Nil  | Canada  | Hensall  | Jan. 4, 1916. |
-| 6 | 569 | 797 | 3758 | 823 | 654190 |  |  |  |  |  | Jan. 6, 1916. | Nil  |
-| 6 | 569 | 826 | 3759 | 855 | 654030 |  |  |  |  |  | Dec. 6, 1915. | L.-Sergeant  | Draper, Robert Murray  | Nil  | Canada  | Clinton  |
-| 6 | 569 | 855 | 3759 | 880 | 654262 |  |  |  |  |  | Jan. 17, 1916. | Private  |
-| 6 | 569 | 884 | 3757 | 912 | 654232 |  |  |  |  |  | Jan. 13, 1916. | Corporal  | Nil  |
-| 6 | 568 | 913 | 3759 | 938 | 654565 |  |  |  |  |  | Mar. 10, 1916. | Private  | Nil   |
-| 6 | 568 | 942 | 3758 | 970 | 654147 |  |  |  |  |  | Jan. 3, 1916. | L.-Corporal  | Dunford, Ernest Russell  | C.A.M.C-  | Canada  |
-| 6 | 568 | 971 | 3759 | 998 | 654470 |  |  |  |  |  | Feb. 19, 1916. | Nil  | Sergeant  |
-| 6 | 567 | 999 | 3758 | 1028 | 654336 |  |  |  |  |  | Jan. 25, 1916. | Corporal  | Belgrave  |
-| 6 | 567 | 1029 | 3758 | 1054 | 654592 |  |  |  |  |  | Mar. 21, 1916. | Nil  |
-| 6 | 568 | 1057 | 3758 | 1082 | 654687 |  |  |  |  |  | Mar. 27, 1916. | Private  | Nil  |
-| 6 | 567 | 1086 | 3758 | 1114 | 654436 |  |  |  |  |  | Feb. 11, 1916. | Private  | Elliott, Lewis McMann  | Nil  | Goderich  |
-| 6 | 567 | 1115 | 3757 | 1140 | 654673 |  |  |  |  |  | Mar. 24, 1916. | Private  | Nil  |
-| 6 | 567 | 1144 | 3758 | 1169 | 654393 | Private  |  | Nil  |  |  | Feb. 3, 1916. |
-| 6 | 567 | 1173 | 3758 | 1199 | 654210 |  |  |  |  |  | Jan. 5, 1916. | Private  | Ervine, Edward  | Nil  | Goderich  |
-| 6 | 566 | 1201 | 3758 | 1232 | 654148 |  |  |  |  |  | Jan. 1, 1916. | Private  | Ervine, Robert  | Nil  | Canada  |
-| 6 | 567 | 1230 | 3758 | 1259 | 654492 | Private  | Fallis, Robert John  |  | Canada  | Wingham  | Feb. 19, 1916. |
-| 6 | 566 | 1259 | 3758 | 1286 | 654031 | Private  | Farrant, James Harold  |  |  |  | Dec. 27, 1915. |
-| 6 | 566 | 1288 | 3758 | 1317 | 654329 |  |  |  |  |  | Jan. 25, 1916. | Private  | Fay, Richard  | Nil  |
-| 6 | 565 | 1317 | 3758 | 1345 | 654032 |  |  |  |  |  | Nov. 27, 1915. | Corporal  | Feagan, William Leonard  | Nil  |
-| 6 | 564 | 1347 | 3757 | 1373 | 654033 |  |  |  |  |  | Dec. 9, 1915. | Private  | Fearon, Arthur  | U.S. A  |
-| 6 | 563 | 1375 | 3757 | 1403 | 654493 |  |  |  |  |  | Feb. 14, 1916. | Sergeant  | Ferguson, Samuel Foster  | Nil  |
-| 6 | 562 | 1404 | 3757 | 1433 | 654263 |  |  |  |  |  | Jan. 15, 1916. | L.-Corporal  | Fetterly, William Marcus G  | Nil  | Wingham  |
-| 6 | 561 | 1433 | 3756 | 1460 | 654350 |  |  |  |  |  | Jan. 31, 1916. | L.-Sergeant  | Nil. |
-| 6 | 561 | 1462 | 3756 | 1488 | 654537 |  |  |  |  |  | Mar. 4, 1916. | Private  | Nil  |
-| 6 | 560 | 1490 | 3756 | 1519 | 654423 |  |  |  |  |  | Feb. 8, 1916. | L.-Corporal  | Fisher, George  |
-| 6 | 560 | 1519 | 3756 | 1546 | 654459 |  |  |  |  |  | Jan. 24, 1916. | Private  | Fisher, Robert Percival  | Nil  |
-| 6 | 560 | 1548 | 3756 | 1576 | 654034 |  |  |  |  |  | Dec. 6, 1915. | Private  | Fisher, Stanley Gordon  | Nil  |
-| 6 | 561 | 1576 | 3756 | 1604 | 654833 |  |  |  |  |  | Mav 17, 1916. | L.-Corporal  |
-| 6 | 561 | 1606 | 3754 | 1632 | 654264 | Private  |  | Nil  |  |  | Jan. 14, 1916. |
-| 6 | 561 | 1634 | 3755 | 1661 | 654035 |  |  |  |  |  | Dec. 10, 1915. | Sergeant  | Nil  |
-| 6 | 560 | 1663 | 3755 | 1690 | 654036 |  |  |  |  |  | Dec. 10, 1915. | Corporal  | Nil  |
-| 6 | 560 | 1692 | 3755 | 1720 | 694531 |  |  |  |  |  | Mar. 1, 1916. | Private  | Ford, Garnet  | Nil  |
-| 6 | 560 | 1721 | 3756 | 1750 | 654770 | Private  | Forrest, Charles Barclay  | Nil  |  |  | Mav 6, 1916. |
-| 6 | 559 | 1750 | 3756 | 1778 | 654297 |  |  |  |  |  | Jan. 15, 1916. | Private  | Forrester, Ross  | Nil  |
-| 6 | 559 | 1779 | 3756 | 1806 | 730097 |  |  |  |  |  | Nov. 27, 1915. | Private  | Forrester, Rov Alexander  |
-| 6 | 559 | 1807 | 3755 | 1836 | 654177 |  |  |  |  |  | Jan. 3, 1916. | Private  | Forsyth, Ross Frederick  |
-| 6 | 558 | 1836 | 3756 | 1863 | 654545 |  |  |  |  |  | Mar. 4, 1916. | Private  | Nil  |
-| 6 | 557 | 1865 | 3756 | 1894 | 654724 |  |  |  |  |  | April 4, 1916. | Private  | Nil  |
-| 6 | 557 | 1894 | 3755 | 1921 | 654834 |  |  |  |  |  | Mav 17, 1916. | Private  |
-| 6 | 557 | 1923 | 3755 | 1951 | 654037 | L.-Sergeant  | Fox, Robert Edward Stuart  | Nil  |  | Brussels  | Dec. 20, 1915. |
-| 6 | 556 | 1952 | 3755 | 1980 | 654149 |  |  |  |  |  | Jan. 4, 1916. | ?rivate  |
-| 6 | 556 | 1981 | 3754 | 2008 | 645298 | Private  |  | Nil  |  |  | Jan. 24, 1916. |
-| 6 | 556 | 2010 | 3754 | 2039 | 654868 |  |  |  |  |  | May 27, 1916. | Private  | Nil  |
-| 6 | 555 | 2039 | 3754 | 2067 | 654430 |  |  |  |  |  | Feb. 10, 1916. | Private  | Nil  |
-| 6 | 555 | 2068 | 3753 | 2098 | 654181 |  |  |  |  |  | Jan. 5, 1916. | Private  | Furness, Bert  | Nif  | Canada  | Clinton  |
-| 7 | 1551 | 419 | 3859 | 454 |  |  | Nil  | G&mbrill, Mrs. Elsie  | Exeter, Ont :  | England.. |  | Feb | 2S, 1916. |
-| 7 | 1552 | 449 | 3859 | 483 |  |  | Nil  | Garton, Mrs. Edward  | Brussels, Ont  | Canada... |  |  | 4, 1916. | Brussels  | Mar. |
-| 7 | 1883 | 478 | 3852 | 514 |  |  |  | Gauley, Mrs. Ella Gertrude .. | Goderich, Ont  | Canada... |  |  | 4, 1916 | May |
-| 7 | 675 | 507 | 3860 | 543 | 654823 Co. Q.-M. Sergt... |  | Nil  | Geddes, William James  | Belgrave, Ont  | Canada... |  |  | 15. 1916. | May | Clinton  |
-| 7 | 1552 | 536 | 3859 | 571 |  |  | Nil  | Gidlcy, Samuel  | Blyth, Ont  | Canada... |  |  | 23, 1916. | Blyth  |
-| 7 | 3179 | 565 | 3860 | 591 |  |  |  |  |  | Canada... |  |  | 1, 1916. | Feb |
-| 7 | 1550 | 571 | 3164 | 601 |  |  | C.O.T.C  | Gillespie, Neil  | Cromarty, Ont  |
-| 7 | 1883 | 595 | 3860 | 629 |  |  |  | Glazier, William  | Goderich, Ont  | Canada... |  |  | 14, 1916. |
-| 7 | 1552 | 624 | 3861 | 657 |  |  | Nil  | Gliddon, Daniel  | Holmesville, Ont  | Canada.. |  |  | 31, 1916. |
-| 7 | 1551 | 653 | 3861 | 686 |  |  | Nil  | Good, John  | Auburn, Ont  | Canada... |  |  | 13, 1916. | May |
-| 7 | 1551 | 682 | 3861 | 715 |  |  | Nil  | Good, John  | Auburn, Ont  | Canada... |  |  | 15, 1916. | Mar. | Blyth  |
-| 7 | 1883 | 710 | 3854 | 744 |  |  |  | Goodwin, Mrs. Isaac  | Yaxley, Peterborough, Eng  | England.. |  |  | 11, 1916 | Goderich  | Feb. |
-| 7 | 1551 | 740 | 3862 | 774 |  |  | Nil  | Goslcigh, Mrs. Thirza  | Clinton, Ont  | Canada... |  |  | 27, 1915. |
-| 7 | 1551 | 768 | 3862 | 802 |  |  | Nil  | Graham, Adam Alexander ... | R. R. No. 1, Gorrie, Ont  | Canada .. |  |  | 10, 1916. | May |
-| 7 | 1044 | 798 | 3863 | 833 |  | Graham, William Henry Ernest... |  | Graham, Reuben  | Clinton, Ont  | Canada... |  |  | 7, 1915. |
-| 7 | 1551 | 826 | 3863 | 861 |  |  | Nil  | Grant, Mrs. Lydia  | Clinton, Ont  | Canada .. |  |  | 17, 1916. |
-| 7 | 1551 | 855 | 3864 | 889 |  |  | Nil  | Grant, Mrs. Lydia  | Clinton, Ont  | Canada... |  |  | 10, 1916. |
-| 7 | 1551 | 884 | 3863 | 918 |  |  | Nil  | Grealis, Edward  | Clinton, Ont  | Canada... |  |  | 21, 1916. |
-| 7 | 3179 | 913 | 3863 | 942 |  |  |  |  |  | England.. |  |  | 11, 1916. | Feb |
-| 7 | 1551 | 919 | 3135 | 946 |  |  | Nil  | Grindrod, Mrs. Anna  | Goderich, Ont   |
-| 7 | 1882 | 942 | 3864 | 976 |  |  |  | Grisdalc, Mrs. Mary  | Wingham, Ont  | Canada... |  |  | 22, 1916. | Wingham  | Mar. |
-| 7 | 1882 | 970 | 3864 | 1004 |  |  |  | Grover, Mrs. L. H  | 234 Withrow Ave., Toronto, Ont  | U.S.A.. |  |  | 26, 1916. | Gamp Borden... | Oct. |
-| 7 | 1882 | 1000 | 3865 | 1034 |  |  |  | Guest, Mrs. Annie  | Wingham, Ont  | Canada... |  |  | 9, 1916. | Feb |
-| 7 | 1551 | 1029 | 3865 | 1063 |  |  | Nil  | Guest, William  | Wingham, Ont    | Canada... |  |  | 13, 1915. |
-| 7 | 1551 | 1058 | 3865 | 1091 |  |  | Nil  | Gwyn, Elizabeth  | Peterboro*, Ont  | England.. |  |  | 22, 1916. |
-| 7 | 1551 | 1088 | 3865 | 1120 |  |  | Nil  | Haggitt, Mrs. G. A  | Blyth, Ont  | Canada... |  |  | 17, 1916. |
-| 7 | 1551 | 1116 | 3866 | 1148 |  |  | Nil  | Haines, Mrs. Mary  | R. R. No. 2, Lucknow, Ont  | Canada... |  | Feb | 14, 1916. |
-| 7 | 1551 | 1145 | 3866 | 1178 |  |  | Nil  | Haines, Arthur  | Wingham, Ont  | Canada... |  |  | 3, 1916. |
-| 7 | 1551 | 1174 | 3865 | 1205 |  |  | Nil  | Hall, Mrs. Clara Edna  | Wroxeter, Ont  | Canada... |  |  | 31, 1916. |
-| 7 | 1551 | 1204 | 3866 | 1234 |  |  | Nil  | Hall, Mrs. Alice Maud  | R. R. No. 2, Goderich, Ont  | England.. |  |  | 22. 1916. |
-| 7 | 1550 | 1232 | 3864 | 1263 |  |  | Nil  | Hallam, Thomas  | Auburn, Ont  | England.. |  |  | 27, 1916. |
-| 7 | 1550 | 1261 | 3866 | 1294 |  |  | Nil  | Hamm, Alexander  | Blyth, Ont  | Canada... |  |  | 15, 1916. |
-| 7 | 1550 | 1290 | 3866 | 1322 |  |  | Nil  | Handley, Mrs. Louisa E  | Clapham, London, S.W., Eng  | England.. |  |  | IS, 1916. |
-| 7 | 1549 | 1320 | 3867 | 1350 |  |  | Nil  | Haney, George  | Bluevalc, Ont  | Canada... |  |  | 10, 1916. | May |
-| 7 | 1548 | 1349 | 3867 | 1379 |  |  | Nil  | Hanncnt, Mrs. Alice  | Clinton, Ont  | England.. |  | May | 20, 1916. |
-| 7 | 1548 | 1378 | 3867 | 1408 |  |  | Nil  | Hanncnt, Oxlcv  | Clinton, Ont  | England.. |  |  | 22, 1916. |
-| 7 | 1548 | 1407 | 3867 | 1436 |  |  | Nil  | Harburn, William  | Hensall, Ont  | Canada... |  |  | 17, 1916. |
-| 7 | 1042 | 1435 | 3867 | 1468 |  | Harness, Walter Henry  | Nil  | Harness, Mrs. Elizabeth  | Exeter, Ont  | Canada... |  |  | 23, 1916. | Feb |
-| 7 | 1548 | 1465 | 3868 | 1496 |  |  | Nil  | Hart, Mrs. Jane N  | Egmondville, Ont  | Scotland. |  |  | 1, 1916. |
-| 7 | 1547 | 1493 | 3867 | 1523 |  |  | Nil  | Harvey, Thomas  | Exeter, Ont  | Canada... |  |  | 22, 1916. | Feb |
-| 7 | 1547 | 1523 | 3868 | 1552 |  |  | Nil  | Haskins, Albert  | R. R. No. 1, Clifford, Ont  | Canada... |  |  | 21, 1916. |
-| 7 | 1879 | 1552 | 3868 | 1582 |  |  |  | Hastic. Matthew  | Harris ton, Ont  | Canada... |  |  | 11, 1916. | May |
-| 7 | 1547 | 1581 | 3868 | 1610 |  |  | Nil  | Hastie, Alexander  | Wroxeter, Ont  | Canada... |  |  | 8, 1916. |
-| 7 | 1546 | 1610 | 3868 | 1638 |  |  | Nil  | Hastings, Alvin  | New Liskeard, Ont  | Canada... |  |  | 1, 1916. | May |
-| 7 | 1546 | 1639 | 3868 | 1667 |  |  | Nil  | Hayden, Nelson  | R. R. No. 2, Blucvale, Ont    | Canada... |  | May | Wroxeter  | 6, 1916. |
-| 7 | 1546 | 1668 | 3869 | 1698 |  |  | Nil  | Haiggins, Mrs  | 38 Vicarage Pk., Plum stead, London, Kent, Eng  | England.. |  |  | 3, 1916. |
-| 7 | 1546 | 1697 | 3869 | 1725 |  |  | Nil  | Hayward, Mrs. Bertha  | Hensall, Ont  | Canada... |  |  | 24, 1916. |
-| 7 | 1546 | 1726 | 3867 | 1754 |  |  | Nil  | Hayward, Mrs. Alberta Jane.. | Hensall, Ont  | Canada.. |  |  | 22, 1916. |
-| 7 | 1546 | 1755 | 3869 | 1782 |  |  | Nil  | Heard, Mrs. Isabelle Frances. | Brucefield, Ont  | Canada... |  |  | 13, 1916. |
-| 7 | 1546 | 1784 | 3869 | 1814 |  |  | Nil  | Hefford, Miss Lottie E  | R. R. No. 1, Dungannon, Ont  | England.. |  |  | 22, 1915. |
-| 7 | 1879 | 1813 | 3868 | 1841 |  |  |  | Helps, Mrs. William  | Wingham, Ont  | Canada... |  |  | 3, 1916. | Feb |
-| 7 | 1545 | 1841 | 3869 | 1869 |  |  | Nil  | Ellis, Mrs. John  | Brussels, Ont  | Canada... |  |  | 24, 1916. | Brussels  | Mar. |
-| 7 | 1545 | 1870 | 3869 | 1898 |  |  | Nil  | Herman, Mrs. Ellen  | Clinton, Ont  | Canada... |  |  | 21. 1915. |
-| 7 | 668 | 1900 | 3869 | 1930 | 654794 Private  | Hewer, Lloyd Bertram  | Nil  | Hewer, John  | Wingham, Ont  | Canada... |  | Mav. 12. 1916. |
-| 7 | 667 | 1928 | 3869 | 1958 | 654526 Private  | Hildebrant, Irwin Andrew  | Nil  | Hildcbrant, William  | Hensall, Ont  | Canada... |  |  | 29, 1916. |
-| 7 | 667 | 1957 | 3869 | 1988 | 654045 Private  | Hill, Edwin Byard  | Nil  | Hill, Mrs. Maud  | Clinton, Ont  | Canada.. |  |  | 6, 1915. |
-| 7 | 667 | 1986 | 3870 | 2016 | 654183 Private  | Hillson, Frederick Richard  | Nil  | Not stated  | Not stated  | England.. |  | Jan. | 3, 1916. |
-| 7 | 1545 | 2015 | 3870 | 2042 |  |  | Nil  | Hinscliffe, Mrs. H  | Wingham, Ont  | Canada.. |  |  | 16, 1915. |
-| 7 | 667 | 2044 | 3870 | 2074 | 654241 Private  | Hirons, James Frederick  | Nil  | Hirons, George  | Blyth, Ont  | Canada.. |  |  | 10, 1916. |
-| 7 | 1544 | 2072 | 3871 | 2102 |  |  | Nil  | Hitchin, Mrs. Esther  | London, Eng  | England.. |  |  | 6, 1915. |
-| 7 | 667 | 2101 | 3870 | 2131 | 654807 Private  | Hoare, Carman Harold  | Nil  | Hoare, Cornelius  | Clinton, Ont  | Canada.. |  | May | 13, 1916. |
-| 7 | 666 | 2130 | 3871 | 2161 | 654254 Sergeant  | Hodges, Charles A   | Territorials  | Hodges, Mrs. Sarah  | Seaforth, Ont  | England |  | Jan. | Seaforth  | 15, 1916. |
-| 8 | 769 | 544 | 3274 | 576 |  |  | Former Corps. |  |  | Country of |
-| 8 | 578 | 689 | 3224 | 719 | 654 | Hoffman, James Alexander. | Nil  | Hoffman, Mrs. Elizabeth... | Wroxeter, Ont  | Canada... |
-| 8 | 577 | 719 | 3224 | 748 | 654 | Hoffman, Philip George.... | Nil  | Hoffman, Mrs. Mary Ann... | Kentville, Ont  | Canada... |
-| 8 | 577 | 748 | 3234 | 777 | 654 | Hogarth, Lucien Victor  | Nil  | Hogarth, Stephen Joshua. . . | Exeter, Ont  | Canada  |
-| 8 | 576 | 777 | 3234 | 806 | 654 | Holland, Benjamin  | Nil  | Holland, John  | Bay City, Mich., U.S.A  | England... |
-| 8 | 576 | 806 | 3234 | 836 | 654 | Holmes, John Elwood  | 33rd Regt. . | Holmes, Dudley  | Wingham r Ont  | Canada  |
-| 8 | 575 | 835 | 3234 | 864 | 654 | Hooper, Grant Alexander... | Nil  | Hooper, Adolphus  | R. R. No. 1, Hay, Ont  | Canada  |
-| 8 | 575 | 864 | 3234 | 893 | 654 | Hoover, Robert Harvey.... | Nil  | Hoover, Robert J  | Brussels, Ont ?., | Canada  |
-| 8 | 575 | 893 | 3234 | 921 | 654 | Horne, Albert Frank  | Nil  | Horne, Mrs. Elsie  | R. R. No. 4, Wingham, Ont  | England... |
-| 8 | 574 | 922 | 3234 | 950 | 654 | Horton, Hillary  | Nil  | Horton, Mrs. Hillary  | Exeter, Ont  | Canada  |
-| 8 | 574 | 950 | 3234 | 979 | 654 | Howes, Edward Gordon — | Nil  | Howes, Edward  | Ste. Therese, P.Q  | Canada  |
-| 8 | 574 | 980 | 3234 | 1008 | 654 | Hudson, Joseph Acheson.... | Nil  | Hudson, George  | Hensall, Ont  | Canada  |
-| 8 | 574 | 1008 | 3234 | 1037 | 654 | Huffman, Roland  | Can. Mil  | Huffman, John  | Wingham, Ont   | Canada  |
-| 8 | 574 | 1037 | 3234 | 1066 | 654 | Hunking, Albert Edward. .. | Nil  | Hunking, Mrs. Martha  | Auburn, Ont  | Canada  |
-| 8 | 574 | 1066 | 3234 | 1095 | 054 | Hunking, Harvey  | Nil....  | Hunking, Thomas  | Londesborough, Ont  | Canada  |
-| 8 | 574 | 1095 | 3234 | 1123 | 654 | Hunking, Norman  | Nil  | Hunking, Thomas  | 13th Con., Londesborough, Hullet Tp., Ont. | Canada  |
-| 8 | 574 | 1124 | 3234 | 1153 | 654 | Hunt, Roy  | 33rd Regt. . | Hunt, Charles  | Goderich, Ont  | Canada— |
-| 8 | 574 | 1153 | 3223 | 1182 | G54 | Hunter, George Johnson G.. | Nil  | Clements, Mrs. Jess  | 22 West Wynd, Dundee, Scot  | Scotland.. |
-| 8 | 574 | 1182 | 3234 | 1209 | 654 | Hunter, John Graham  | Nil  | Hunter, William P  | R. R. No. 3, Exeter, Ont  | Canada— |
-| 8 | 574 | 1210 | 3233 | 1238 | 554 | Hurdon, Nicholas Eric  | Nil  | Hurdon, Nicholas Dyer  | Exeter, Ont  | Canada  |
-| 8 | 574 | 1239 | 3232 | 1267 | 554 | Hutton, John Cowan  | Nil  | Hutton, John  | Stratton, Ont  | Canada  |
-| 8 | 574 | 1268 | 3232 | 1297 | 554 | Inglis, George  | Nil  | McElnair, Mrs. Charles  | R. R. No. 1, Clifford, Ont  | Canada  |
-| 8 | 574 | 1298 | 3231 | 1326 | 354 | Ingram, James Angus  | Nil  | Ingram, George  | Pope, Man  | Canada  |
-| 8 | 574 | 1326 | 3217 | 1354 | 354: | Ireland, George Roy A  | Nil  | Ireland, Alfred  | Kincardine, Ont  | Canada... |
-| 8 | 574 | 1353 | 3230 | 1384 | 354' | Isard, Herbert Henry  | 33rd Regt. . | Isard, James Stephen  | Wingham, Ont  | Canada— |
-| 8 | 575 | 1383 | 3229 | 1412 | 354 | Jackson, James Lister  | Nil  | Jackson, Mrs. Alice  | Palmerston, Ont  | England... |
-| 8 | 574 | 1412 | 3228 | 1441 | 3541 | James, Frederick  | Nil  | James, Mrs. Alice  | R. R. No. 2, Bluevale, Ont  | England.. . |
-| 8 | 574 | 1441 | 3228 | 1470 | 3541 | James, Henry George  | Territorials. | James, Mrs. Geoige  | Goderich, Ont  | England.. . |
-| 8 | 937 | 1470 | 3228 | 1498 |  | Jane, Alfred Herbert  | S.A. | Jane, Mrs. Gwenthleon  | Goderich, Ont  | England.. . |
-| 8 | 940 | 1499 | 3228 | 1528 |  | Jardine, George Edward  | 33rd Regt. | Jardine, Mrs. Emma  | Goderich, Ont  | Canada  |
-| 8 | 937 | 1528 | 3214 | 1557 |  | Jarman, Albert Wellington... | Nil  | Jarman, William  | 63 Havelock St., Leicester, Eng  | England.. |
-| 8 | 937 | 1557 | 3215 | 1585 |  | Jefferson, John Roy  | Nil  | Jefferson, John  | Auburn, Ont  | Canada... |
-| 8 | 937 | 1585 | 3215 | 1614 |  | Jeffery, William Edward  | Nil  | Jeffery, William George.... | Exeter, Ont  | Canada... |
-| 8 | 939 | 1614 | 3215 | 1642 |  | Johns, Lawrence Earl  | Nil  | Johns, Henry  | Elimville, Ont  | Canada... |
-| 8 | 942 | 1643 | 3215 | 1671 |  | Johns, Norman Wellington... | Nil  | Johns, William  | Centralia, Ont  | Canada... |
-| 8 | 939 | 1671 | 3203 | 1700 |  | Johnson, Clarence Albert  | Nil  | Johnson, James W  | Hensall, Ont  | Canada.. |
-| 8 | 936 | 1700 | 3214 | 1728 |  | Johnson, Frank  | Nil  | Hex, Mrs. Elizabeth  | 25 Crowshay Rd., London, Eng  | England.. |
-| 8 | 936 | 1729 | 3204 | 1758 |  | Johnson, George Reginald.... | Nil  | Johnson, J. W  | Hensall, Ont  | Canada.. |
-| 8 | 936 | 1758 | 3205 | 1786 |  | Johnson, Oliver M  | Nil  | Johnson, Oliver  | Goderich, Ont  | Canada.. |
-| 8 | 936 | 1786 | 3205 | 1815 |  | Johnston, David  | Nil  | Johnston, John  | Bluevale, Ont  | Canada.. |
-| 8 | 936 | 1815 | 3206 | 1844 |  | Johnston, George Carswill... | Nil  | Johnston, Mrs. Bessie  | Brussels, Ont  | Canada.. |
-| 8 | 934 | 1843 | 3207 | 1873 |  | Johnston, Henry Cresswell... | Nil  | Johnston, William  | Blyth, Ont.  | Canada.. |
-| 8 | 934 | 1872 | 3207 | 1903 |  | Johnston, Hiram Wellington.. | 57th Regt. | Johnston, Charles  | Norwich, Ont  | Canada.. |
-| 8 | 934 | 1901 | 3208 | 1931 |  | Johnston, John Aiken  | Nil  | Johnston, George  | Bluevale, R.R. No. 2, Ont  | Canada.. |
-| 8 | 934 | 1930 | 3207 | 1959 |  | Johnston, Miltcn Alfred  | Nil  | Johnston, Thomas  | Zurich, Ont  | Canada.. |
-| 8 | 933 | 1959 | 3209 | 1989 |  | Johnston, William Lome  | Nil  | Johnston, George Alexander. | Dungannon, Ont  | Canada.. |
-| 8 | 932 | 1988 | 3205 | 2017 |  | Jones, Francis William  | Nil  | Jones, Mrs. Gertrude May. .. | Clinton, Ont  | England. |
-| 8 | 932 | 2017 | 3209 | 2046 |  | Jones, John Francis  | Nil  | Robinson, Mrs. Eleanor  | 121 Porter St., Preston, Eng  | Wales.... |
-| 8 | 933 | 2046 | 3209 | 2075 |  | Jones, William Guy  | Can. Mil... | Jones, Mrs. Annie May  | Clinton, Ont  | Canada.. |
-| 8 | 935 | 2075 | 3210 | 2104 |  | Kellett, George Edward  | Nil  | Kellett, George  | Elimville, Ont  | Canada.. |
-| 9 | 650 | 408 | 3831 | 443 | 654198 Corporal  | Nil  | Kelly, J. W  | Wroxeter  | Jan. 7, 1916. |
-| 9 | 650 | 443 | 2328 | 471 | 654572 Private  | Nil  | Kemp, Henry Samuel  |
-| 9 | 650 | 494 | 3831 | 529 | 654735 Private  | Nil  | Kerney, Frank  |  | April 7, 1916. |
-| 9 | 1857 | 524 | 3832 | 557 |  |  | Kerr, Mrs. Alex Buchanan  |  | Feb. 1, 1916. | Brussels  |
-| 9 | 1526 | 612 | 3832 | 644 |  | Nil.... | Kestle, Edward  |  | May 16, 1916. |
-| 9 | 647 | 931 | 3834 | 962 | 654479 Private.. |  | Lake, John  |  | Feb. 21, 1916. | Brussels  |
-| 9 | 647 | 965 | 2327 | 992 | 654353 Private  | Nil  | Lang, Thomas  |
-| 9 | 1527 | 1018 | 3834 | 1050 |  | Nil  | Lattimore, Mrs. Mary L  |  | Feb. 25, 1916. |
-| 9 | 1526 | 1047 | 3835 | 1078 |  | Nil  | Lawson, Mrs. John  |  | Feb. 22, 1916. |
-| 9 | 648 | 1075 | 3835 | 1108 | 654548 L.-Corporal  | Nil  | Lawson, Mrs. John  |  | Mar. 6, 1916. | Blyth  |
-| 9 | 1527 | 1104 | 3836 | 1136 |  | Nil  | Lawson, John  |  | Mar. 24, 1916. |
-| 9 | 1527 | 1133 | 3836 | 1166 |  | Nil  | Leith, George  |  | Mar. 29, 1916. | Blyth  |
-| 9 | 1527 | 1162 | 3836 | 1194 |  | Nil  | Leppington, Mrs. Susan  |  | Dec. 7, 1915. |
-| 9 | 1527 | 1220 | 3838 | 1252 |  | Nil  | Letson, Mrs. Mary Ann  |  | Dec. 30, 1915. |
-| 9 | 1527 | 1249 | 3838 | 1281 |  | Nil  | Letson, Mrs. Mary  |  | Jan. 11, 1916. |
-| 9 | 1526 | 1279 | 3838 | 1308 |  | Nil  | Littlechild, William  |  | Dec. 31, 1915. |
-| 9 | 1527 | 1307 | 3838 | 1336 |  | Nil  | Lockwood, Frederick  |  | Jan. 3, 1916. |
-| 9 | 1527 | 1337 | 3839 | 1365 |  | Nil  | Love, William  |  | May 11, 1916. | Brussels  |
-| 9 | 1527 | 1366 | 3839 | 1394 |  | Nil  | Lovett, Nellie  |  | Dec. 31, 1915. |
-| 9 | 1527 | 1394 | 3839 | 1424 |  | Nil  | Lowry, Edward Graham  |  | April 26, 1916. |
-| 9 | 1528 | 1424 | 3840 | 1453 |  | Nil  | Lowry, George  |  | Feb. 12, 1916. | Brussels  |
-| 9 | 1528 | 1452 | 3840 | 1481 |  | Nil  | Lutton, Tollerton  |  | Mar. 11,1916. |
-| 9 | 1020 | 1481 | 3840 | 1511 |  | Nil  | Lymburner, M. E  |  | Jan. 5, 1916. |
-| 9 | 1529 | 1510 | 3840 | 1538 |  | Nil  | Lymburner, M. E  |  | Feb. 7, 1916. |
-| 9 | 1529 | 1539 | 3841 | 1566 |  | Nil  | Macdonald, Donald  |  | Mar. 2, 1916. |
-| 9 | 1530 | 1597 | 3842 | 1624 |  | Nil  | MacLaren, Robert  |  | Feb. 17, 1916. |
-| 9 | 1530 | 1625 | 3842 | 1654 |  | Nil  | MacLean, Alexander  |  | April 8, 1916. |
-| 9 | 1530 | 1655 | 3843 | 1681 |  | Nil  | MacLeod, Roderick  |  | Feb. 14, 1916. |
-| 9 | 1530 | 1684 | 3843 | 1712 |  | Nil  | MacPhail, Joseph  |  | Feb. 8, 1916. |
-| 9 | 1530 | 1712 | 3844 | 1740 |  | Nil.. . | MacTavish, Dugald  |  | Jan. 6, 1916. |
-| 9 | 1863 | 1741 | 3844 | 1768 |  |  | Mahoney, J  |  | Mar. 23, 1916. | Wroxeter  |
-| 9 | 1863 | 1770 | 3844 | 1799 |  |  | Maines, John  |  | Jan. 24, 1916. | Blyth  |
-| 9 | 1531 | 1799 | 3845 | 1826 |  | Nil  | Mallett, Mrs. Lydia  |  | Feb. 24, 1916. |
-| 9 | 1022 | 1856 | 3845 | 1887 |  | C.A.M.C  | Mannall, George  |  | Jan. 31, 1916. |
-| 9 | 1531 | 1885 | 3846 | 1912 |  | Nil  | Manuel, Mrs. A. E  |  | Jan. 22, 1916. |
-| 9 | 1531 | 1939 | 3847 | 1972 |  | Nil  | Marshall, William  |  | April 3, 1916. |
-| 9 | 1531 | 1972 | 3847 | 1999 |  | Nil  | Marshall, Mrs. Elizabeth  |  | Jan. 24, 1916. |
-| 9 | 1531 | 2001 | 3848 | 2028 |  | Nil  | Marshall, Mrs. Elizabeth  |  | Mar. 20, 1916. |
-| 9 | 1531 | 2030 | 3848 | 2057 |  | Nil  | Marshall, Mrs. Clara Evelyn W. |  | Jan. 24, 1916. |
-| 9 | 1530 | 2087 | 3849 | 2116 |  | Nil  | Mason, John  |  | Mar. 27, 1916. | Blyth  |
-| 9 | 651 | 2116 | 3850 | 2144 | 654354 Private  | Nil  | Matthews, Herbert  |  | Jan. 29, 1916. |
-| 10 | 1860 | 559 | 3255 | 586 |
-| 10 | 559 | 703 | 3748 | 731 | 654301 | Private  | Mayhew, Albert  | Nil  | Goderich  | Jan. 18, 1916. |
-| 10 | 559 | 732 | 3748 | 761 | 654614 | Private  | McArthur, Elliot Ray  | Nil  |  | Mar. 21, 1916. | Hensall  |
-| 10 | 559 | 761 | 3748 | 790 | 654191 | Sergeant  | McArthur, Sidney Ellis  | Nil  |  | Jan. 7, 1916. |
-| 10 | 559 | 790 | 3748 | 819 | 654185 | Sergeant  | McArthur, William  | Nil  |  | Jan. 4, 1916. |
-| 10 | 558 | 820 | 3748 | 848 | 654615 | Private  | McBride, George Henry  | Nil  |  | Mar. 21, 1916. |
-| 10 | 558 | 848 | 3748 | 876 | 654333 | Sergeant  | McCallum, James  | Nil  |  | Jan. 25, 1916. | Belgrave  |
-| 10 | 559 | 877 | 3749 | 905 | 654334 | Private  | McCauley, Thomas Michael . | Nil  |  | Jan. 25, 1916. |
-| 10 | 559 | 906 | 3749 | 933 | 654775 | Private  | McClinchey, David John  | Nil  |  | Mar. 5, 1916. |
-| 10 | 558 | 935 | 3748 | 963 | 654713 | Private. | McClinchey, Wesley  | Nil  |  | Mar. 29, 1916. |
-| 10 | 559 | 964 | 3748 | 992 | 654636 | Private  | McCluskey, Joseph, Arthur. .. | 33rd Regt... |  | Mar. 20. 1916. |
-| 10 | 558 | 993 | 3749 | 1021 | 654637 | L.-Corporal. | McCluskey, Harvey Pearson... | Nil  |  | Mar. 21, 1916. |
-| 10 | 558 | 1021 | 3748 | 1049 | 654438 | Private  | McClymont, James Melville... | Nil  |  | Feh. 12, 1916. |
-| 10 | 558 | 1050 | 3748 | 1078 | 654186 | Private  | McCracken, Lyle Gardener.... | Nil  |  | Jan. 6. 1916. |
-| 10 | 557 | 1080 | 3748 | 1107 | 654638 | Private  | McCreath, Harry Alexander.. | Nil  |  | Mar. 23, 1916. |
-| 10 | 557 | 1107 | 3748 | 1136 | 654218 | Private  | McCullough, Arthur Walter... | Nil  |  | Jan. 8, 1916. |
-| 10 | 557 | 1138 | 3749 | 1166 | 654395 | Private  | McCullough, George Henry... | Nil  |  | Feb. 3, 1916. |
-| 10 | 557 | 1167 | 3749 | 1194 | 654507 | Private  | McDonald, Albert Henry  | Nil  |  | Feb. 25, 1916. |
-| 10 | 557 | 1195 | 3750 | 1223 | 654158 | Private  | McDonald, George Alexander. | Nil  |  | Jan. 1, 1916. |
-| 10 | 557 | 1224 | 3749 | 1252 | 654066 | Corporal  | McDonald, Theodore St. Clair. | Nil  |  | Nov. 30, 1915. |
-| 10 | 557 | 1252 | 3749 | 1282 | 654639 | Private  | McDougall, Austin Joseph  | Nil  |  | Mar. 21, 1916. |
-| 10 | 556 | 1282 | 3749 | 1311 | 654287 | Sergeant  | McDougall, Neil Gordon  | 33rd Regt. . |  | Jan. 19, 1916. |
-| 10 | 556 | 1311 | 3749 | 1339 | 654640 | Private  | McDougall, William  | Nil  |  | Mar. 21, 1916. |
-| 10 | 556 | 1339 | 3748 | 1369 | 654.498 | Private  | McElroy, Leslie McAll  | Nil  |  | Feb. 23, 1916. | Blyth  |
-| 10 | 556 | 1369 | 3748 | 1397 | 654271 | Private  | McEwen, Alpine Finley  | Nil  |  | Jan. 17, 1916. |
-| 10 | 556 | 1397 | 3748 | 1427 | 654816 | Private  | McFalls, Elmer  | Nil  |  | May 15, 1916. |
-| 10 | 556 | 1425 | 3748 | 1455 | 654067 | Private  | McGarva, Andrew  | Nil  |  | Dec. 18, 1915. |
-| 10 | 555 | 1455 | 3748 | 1484 | 654068 | Private.  | McGee, Herbert Joseph  | Nil  |  | Doc. 13, 1915. |
-| 10 | 555 | 1483 | 3748 | 1512 | 65<641 | Private  | McGinn, Michael  | Nil  |  | Mar 21, 1916. |
-| 10 | 554 | 1508 | 3748 | 1541 | 654449 | Private  | McGratten, Thomas Ernest  | Nil  |  | Feb. 14, 1916. |
-| 10 | 554 | 1539 | 3748 | 1570 | 654187 | L.-Corporal.. | McGratten, William Harold. .. | 33rd Regt. . |  | Jan. 5. 1916. |
-| 10 | 554 | 1564 | 3748 | 1599 | 654304 | Private  | McGregor, Alfred Charles D.. | Nil  |  | Jan. 17, 1916. |
-| 10 | 553 | 1599 | 3749 | 1627 | 654484 | Private  | McGuire, Robert  | Nil.   |  | Feb. 15. 1916. |
-| 10 | 553 | 1629 | 3749 | 1656 | 054272 | Private  | McIntyre, Alexander Gibson.. | Nil  |  | Jan 10, 1916. |
-| 10 | 553 | 1658 | 3749 | 1686 | 654070 | Private  | McKay, Gordon William  | 33rd Regt. . |  | Dec. 11, 1915. |
-| 10 | 553 | 1686 | 3750 | 1714 | 654722 | Private  | McKay, Hugh R    | Nil  |  | Mar. 25, 1916. | Bayfield  |
-| 10 | 553 | 1715 | 3751 | 1744 | 654583 | L.-Corporal. | McKay, John Blain  | 33rd Regt. . |  | Mar. 13, 1916. |
-| 10 | 553 | 1744 | 3751 | 1771 | 654616 | Private  | McKay, Kenneth  | Nil  |  | Mar. 22 1916. |
-| 10 | 553 | 1773 | 3751 | 1801 | 654396 | Private  | McKay, William Alexander  | Nil  |  | Feb. 2, 1916. |
-| 10 | 553 | 1801 | 3751 | 1831 | 654071 | Sergeant  | McKinley, William  | Imp. Forces. |  | Dec. 18, 1915. |
-| 10 | 553 | 1831 | 3752 | 1860 | 654736 | Private  | McKinney, Thomas Leslie  | Nil  |  | April 8, 1916. |
-| 10 | 553 | 1860 | 3751 | 1888 | 654404 | Private  | McLaughlin, George Albert  | Nil  |  | Jan. 29, 1916. |
-| 10 | 553 | 1888 | 3752 | 1917 | 654288 | Private  | McLauehlin, John Ross  | Nil  |  | Jan. 15, 1916. |
-| 10 | 553 | 1917 | 3752 | 1945 | 654595 | Private  | McLeod, James Edmund  | Nil  |  | Msr. 20, 1916. |
-| 10 | 553 | 1946 | 3752 | 1976 | 654854 | Private  | McLeod, James Norman  | Nil  |  | May 20, 1916. |
-| 10 | 553 | 1975 | 3752 | 2004 | 654220 | Private  | McLeod, John Knox  | Nil. |  | Jan. 10, 1916. |
-| 10 | 553 | 2004 | 3752 | 2033 | 654737 | Private  | McLeod, Kenneth  | Nil. |  | April 8, 1916. |
-| 10 | 552 | 2033 | 3744 | 2060 | 654597 | Private  | McLeod, Norman  | Nil. |  | Mar 20 1916 |
-| 10 | 552 | 2059 | 3752 | 2090 | 654425 | Private  | McLeod, Ogal  | Nil. |  | Feb. 9, 1916. |
-| 10 | 551 | 2091 | 3752 | 2119 | 654499 | Private  | McNamara, Charles  | Nil. |  | Feb. 24, 1916. | Seaforth  |
-| 11 | 659 | 409 | 3834 | 440 | 654480 | Private  | McNaught, Wilfred Donald  | Nil  | McNaught, Raymond Alexander. |  |  | Feb | 22 | 1916 |
-| 11 | 659 | 438 | 3834 | 468 | 654714 | Private  | McNaughton, William Middleton. | Nil  | McNaughton, John  |  |  | Mar. | 30 | 1916 |
-| 11 | 659 | 467 | 3842 | 497 | 654576 | Private  | McNevin, Alexander  | Nil  | McNevin, Joseph  |  |  | Mar. | ts | 1916. |
-| 11 | 659 | 497 | 3843 | 527 | 654855 | Private  | McSherry, Wilson  | Nil  | McSherry, Mrs. Isabella  |  |  | May | 20 | 1916. |
-| 11 | 659 | 526 | 3843 | 557 | 654632 | Private  | Medd, John Roy  | C.A.M.C... | Medd, John H  |  |  | Mar. | 21 | 1916. |
-| 11 | 659 | 555 | 3843 | 586 | 654466 | Private  | Meahan, Alfred Hope  | Nil  | Meahan, Mrs. Elizabeth  |  |  | Feb | 17 | 1916. |
-| 11 | 659 | 584 | 3843 | 616 | 654549 | Private  | Meahan, Tony  | Nil  | Meahan, Mrs. Elizabeth  | U.S.A  | Wroxeter  | Mar. | 4 | 1916. |
-| 11 | 658 | 613 | 3842 | 644 | 654390 | L.-Corporal.. | Megaw, Francis Riggs  | Nil  | Megaw, Mrs. Emma Addison.... |  |  |  | 38 | 1916. |
-| 11 | 658 | 640 | 3844 | 672 | 654827 | Private  | Meyers, John Aaron  | Nil  | Meyers, Charles  |  |  | May | It | 1916. |
-| 11 | 658 | 671 | 3844 | 702 | 654433 | Private  | Millar, Arnold Ray  | Nil  | Millar, George  |  |  | Feb | 8 | 1916. |
-| 11 | 657 | 699 | 3844 | 731 | 654773 | Private  | Miller, Andrew Thompson  | Nil  | Miller, John D  |  |  | May | t | 1916. |
-| 11 | 657 | 729 | 3844 | 758 | 654870 | Private  | Miller, James Blackader  | Nil  | Miller, Mrs. Helen May  |  |  | May | Clinton  | 29 | 1916. |
-| 11 | 656 | 758 | 3843 | 789 | 654286 | Private  | Miller, Norman Wellington  | Nil  | Miller, James  |  |  | Jan. | Canada  | Clinton  | 17 | 1916. |
-| 11 | 656 | 786 | 3843 | 817 | 654215 | Private  | Milligan, Andrew Harvey  | Nil  | Milligan, John  |  | Brussels  | Jan. | 10 | 1916. |
-| 11 | 656 | 815 | 3843 | 846 | 654678 | Private  | Mills, William Charles  | Nil  | Mills, John  |  |  | Mar. | M | 1916. |
-| 11 | 655 | 845 | 3843 | 875 | 654367 | Private  | Millson, W'alker Wilbur  | Nil  | Tokely, Mrs. T  |  |  |  | 29 | 1916. |
-| 11 | 654 | 873 | 3843 | 905 | 823028 | L.-Corporal.. | Miner, Harry Garnet B  | Nil  | Miner, John  |  | Ix>ndon  | Dec. | 1 | 1915. |
-| 11 | 655 | 902 | 3843 | 933 | 654062 | Private  | Miner, John Walter  | 7th Regt. .. | Miner, Mrs. Myrtle  | Canada  | Clinton  | Dec. | 24 | 1915. |
-| 11 | 655 | 932 | 3843 | 962 | 654633 | L.-Corporal . | Mitchell, Carl Hollos  | Nil  | Mitchell, Edward A  | Canada  | Wroxeter  | Mar. | 23 | 1916. |
-| 11 | 654 | 960 | 3843 | 992 | 654634 | Private  | Mohring, Roy  | Nil  | Mohring, Mrs. Berriman  | Canada  | Goderich  | Mar. | 21 | 1916. |
-| 11 | 654 | 988 | 3843 | 1019 | 654157 | Private  | Moore, Frank Sanford  | Nil  | Moore, William  | Canada  |  | Dec. | 13 | 1915. |
-| 11 | 654 | 1018 | 3843 | 1048 | 654696 | Private  | Moore, Robert James  | Nil  | Moore, Mrs. Lena  | England  | Dungannon  | Mar. | 21 | 1916. |
-| 11 | 654 | 1046 | 3842 | 1078 | 654064 | Private  | Moore, Stanley Herbert  | 33rd Regt. . | Moore, Mrs. Mirian  |  | Goderich  | Nov. | M | 1915. |
-| 11 | 654 | 1075 | 3842 | 1107 | 654065 | Corporal  | Morgan, William Edward  | Nil  | Morgan, Mrs. Charlotte  | England  | Clinton  | Dec. | 6 | 1915. |
-| 11 | 653 | 1104 | 3842 | 1134 | 654812 | Private  | Morrow, Charles  | Nil  | Dilling, Mrs. John  | U.S.A  | Brussels  | May | 11 | 1916. |
-| 11 | 653 | 1133 | 3842 | 1163 | 654471 | Private  | Morrow, Hebert James  | Nil  | Morrow, Mrs. Annie  |  |  | Feb | IS | 1916. |
-| 11 | 653 | 1161 | 3842 | 1193 | 654302 | Private  | Mugford, Jonathan Martin L  | Nil  | Mugford, Martin  | Canada  | Clinton  | Jan. | 19 | 1916. |
-| 11 | 652 | 1190 | 3842 | 1222 | 654184 | Private  | Mugford, Joseph  | Nil  | Mugford, Martin  | Canada  | Goderich  | Jan. | 5 | 1916. |
-| 11 | 652 | 1220 | 3842 | 1250 | 654303 | Private  | Muir, Burton Oliver  | Nil  | Muir, John  |  |  |  | ?0 | 1916. |
-| 11 | 652 | 1248 | 3842 | 1280 | 65421C | Private  | Mundy, Basil    | Nil  | Mundy, Harry  |  | Clinton  | Jan. | 8 | 1916. |
-| 11 | 652 | 1278 | 3841 | 1308 | 654755 | Private  | Mundy, Theodore Franklin  | Nil  | Mundy, Harry  |  |  |  | 23 | 1916. |
-| 11 | 651 | 1307 | 3842 | 1338 | 654467 | Corporal | Munn, Edgar Wilford  | Nil  | Munn, Peter  |  |  | Feb | 17 | 1916. |
-| 11 | 652 | 1335 | 3842 | 1367 | 707069 | L.-Sergeant.. | Munnings, William Percy  | Nil  | Munnings, William Robert  |  |  | Dec. | 13 | 1915. |
-| 11 | 651 | 1366 | 3146 | 1395 | 654381 | Private  | Murphy, Stafford Rice  | Nil  | Murphy, Mary Ann  |
-| 11 | 3401 | 1392 | 3843 | 1418 |  |  |  |  |  |  | Goderich  | Jan. | 28 | 1916. |
-| 11 | 651 | 1421 | 3843 | 1454 | 654635 | Corporal. | Murray, John Wellington  | Nil  | Murray, Mrs. Elizabeth McC. | Canada  | Goderich  | Mar. | 20 | 1916. |
-| 11 | 650 | 1450 | 3843 | 1481 | 654448 | Private.. | Musgrove, James Elmer  | Nil  | Musgrove, Thomas  |  | Wroxeter  | Feb. | 14 | 1916. |
-| 11 | 651 | 1479 | 3843 | 1509 | 654510 | Private.. | Musgrove, Thomas Richard. | Nil  | Musgrove, Ina.   |  |  | Feb. | 22 | 1916. |
-| 11 | 651 | 1508 | 3842 | 1539 | 654217 | Sergeant. | Mustard, Arthur Roy  | Nil  | Mustard, Mrs. Elizabeth  |  |  | Jan. | 10 | 1916. |
-| 11 | 651 | 1537 | 3843 | 1567 | 654132 | Private.. | Nash, Edward Beverly  | Nil  | Nash, Thomas  |  | Wroxeter  | Dec. | 29 | 1915. |
-| 11 | 651 | 1565 | 3843 | 1595 | 654642 | Private.. | Nash, Milford Earl  | Can. Mil . . . . | Nash, Thomas  |  |  | Mar. | 1916. |
-| 11 | 651 | 1594 | 3843 | 1625 | 654159 | Sergeant. | Nash, Roland Philips  | 30th Regt. . . | Nash, Thomas  |  |  | Jan. | 3 | 1916. |
-| 11 | 651 | 1623 | 3843 | 1653 | 654342 | Private.. | Nediger, Clarence Austin | Nil  | Nediger, W. J  |  |  | Jan. | 28 | 1916. |
-| 11 | 651 | 1652 | 3843 | 1682 | 654463 | Corporal. | Neelands, Roy Marlowe  | Nil  | Neolands, Thomas  |  |  | Feb. | 17 | 1916. |
-| 11 | 652 | 1680 | 3843 | 1712 | 654417 | Private.. | Neely, Arthur Cecil  | 33rd Regt. . . | Neely, Mrs. Mary  |  |  | Feb. | 9 | 1916. |
-| 11 | 651 | 1709 | 3843 | 1740 | 654244 | Private.. | Neely, Charles Franklin  | Nil  | Neely, Mrs. Mary  |  |  | Jan. | 12 | 1916. |
-| 11 | 651 | 1738 | 3844 | 1769 | 654643 | Private.. | Neil, William Ernest  | Nil  | Neil, Wellington  |  |  | Mar. | 23 | 1916. |
-| 11 | 651 | 1767 | 3844 | 1798 | 654566 | Private... | Newcombe, Harold  | 33rd Regt. .. | Newcombe, Mrs. Martha  |  | Goderich  | Mar. | 9 | 1916. |
-| 11 | 651 | 1795 | 3844 | 1826 | 654453 | Private.. | Newell, John Norman  | Nil  | Newell, Mrs. George  |  | Godcrich  | Feb | 14 | 1916. |
-| 11 | 651 | 1824 | 3844 | 1856 | 654160 | Private... | Newton, Herbert Kenneth... | 36th Regt. . . | Newton, William Francis  |  | Goderich | Jan. | 4 | 1916. |
-| 11 | 651 | 1853 | 3844 | 1884 | 654644 | Private... | Nicholson, Charles Thomas. | Nil  | Nicholson, Mrs. Grace  |  |  |  | :’l | 1916. |
-| 11 | 651 | 1882 | 3844 | 1914 | 654382 | Private... | Nivins, Charles Alexander. .. | 33rd Regt. . . | Nivins, James David  |  |  | Jan. | 28 | 1916. |
-| 11 | 651 | 1910 | 3844 | 1942 | 654692 | Private... | Noble, Clarence Jarrett  | Nil  | Stewart, Mary Ann  |  |  | Mar. | 25 | 1916. |
-| 11 | 650 | 1939 | 3845 | 1972 | 654877 | Private... | Noble, Walter George  | Nil  | Noble, James  |  |  | June | 12 | 1916. |
-| 11 | 650 | 1968 | 3844 | 2000 | 654529 | Private... | Nunn, Thomas William  | Nil  | Nunn, Louis IT  |  |  | Feb. | 28 | 1916. |
-| 11 | 650 | 1997 | 3844 | 2029 | 654319 | Private... | O’Brien, Ernest Patrick  | Imp. Forces. | O’Brien, Mrs. Kate  |  |  | Dec. | 16 | 1915. |
-| 11 | 650 | 2025 | 3845 | 2058 | 654072 | Private... | O’Donnell, Martin  | Nil  | O’Donnell, Martin  |  |  | Dec. | 6 | 1915. |
-| 11 | 650 | 2055 | 3846 | 2088 | 654706 | Private... | Oke, Edmund Alban  | Nil  | Oke, William  |  |  | Mar. | 24 | 1916. |
-| 11 | 650 | 2083 | 3846 | 2116 | 654235 | Private... | Orchard, Francis Cicil  | Nil  | Orchard, Mrs. Sarah  |  |  | Jan. | 11 | 1916. |
-| 11 | 649 | 2112 | 3846 | 2144 | 654133 | Private... | Osman, Alfred  | Nil  | Osman, Mrs. Amy  | England  | Goderich  | Dec. | 31 | 1915. |
-| 12 | 772 | 548 | 3277 | 577 |  | Former Corps. | Country of |
-| 12 | 580 | 692 | 3771 | 717 | 65459C | Nil  |  | ^0 | 1916. |
-| 12 | 580 | 721 | 3771 | 745 | 654874 | Nil   |  | 29 | 1916. |
-| 12 | 579 | 750 | 3771 | 774 | 654201 | Nil  |  | 10 | 1916. |
-| 12 | 578 | 778 | 3771 | 803 | 654245 | Nil  |  | Jan. | 15 | 1916. |
-| 12 | 578 | 807 | 3771 | 832 | 654728 | Nil  |  | M ar. | ?4 | 1916. |
-| 12 | 577 | 836 | 3771 | 861 | 654454 | Nil  |  | Feb | 15 | 1916. |
-| 12 | 576 | 865 | 3770 | 891 | 654074 | Nil  |  | Dec. | 13 | 1915. |
-| 12 | 575 | 894 | 3770 | 920 | 654075 | Nil |  | 13 | 1915. |
-| 12 | 573 | 923 | 3770 | 949 | 654076 | Nil |  | 16 | 1915. |
-| 12 | 573 | 952 | 3759 | 978 | 654690 | Nil  | Canada  | Mar. | 25 | 1916 |
-| 12 | 572 | 981 | 3770 | 1007 | 654550 | Nil .. |  | 6 | 1916. |
-| 12 | 572 | 1010 | 3770 | 1033 | 654368 |  |  | 29 | 1916. |
-| 12 | 571 | 1039 | 3770 | 1064 | 654045 | Nil ... |  | ?\ | 1916. |
-| 12 | 571 | 1067 | 3770 | 1093 | 654077 | Nil  |  | 0 | 1915. |
-| 12 | 571 | 1095 | 3771 | 1122 | 654520 | Nil... |  | Feb. | » | 1916. |
-| 12 | 570 | 1125 | 3771 | 1151 | 654320 | Nil  |  | 25 | 1916. |
-| 12 | 570 | 1153 | 3771 | 1180 | 654617 | Nil    |  | Mar. | 21 | 1916. |
-| 12 | 569 | 1182 | 3770 | 1209 | 654666 | Nil  |  | Mar. | 23 | 1916. |
-| 12 | 568 | 1211 | 3770 | 1235 | 654078 |  |  | Dec. | 28 | 1915. |
-| 12 | 567 | 1240 | 3770 | 1266 | 654134 |  | U.S.A  | Dec. | 27 | 1915. |
-| 12 | 567 | 1269 | 3770 | 1296 | 654080 | Nil  |  | Dec. | 11 | 1915. |
-| 12 | 566 | 1298 | 3770 | 1324 | 654732 | Nil |  | 8 | 1916. |
-| 12 | 566 | 1327 | 3770 | 1355 | 654796 | Nil... |  | May | 10 | 1916. |
-| 12 | 566 | 1357 | 3066 | 1384 | 654397 | Nil... |
-| 12 | 3571 | 1384 | 3769 | 1408 |  |  |  | Feb | 3 | 1916. |
-| 12 | 566 | 1413 | 3769 | 1440 | 654161 | Nil |  | 3 | 1916. |
-| 12 | 565 | 1442 | 3769 | 1469 | 654081 | Nil |  | 28 | 1915. |
-| 12 | 565 | 1471 | 3769 | 1499 | 654761 | Nil . |  | April | 72 | 1916. |
-| 12 | 565 | 1499 | 3767 | 1526 | 654356 | Nil |  | M | 1916. |
-| 12 | 565 | 1528 | 3768 | 1555 | 654434 | Nil |  | Feb | 9 | 1916. |
-| 12 | 565 | 1557 | 3768 | 1581 | 654082 |  |  | 9 | 1915. |
-| 12 | 565 | 1586 | 3768 | 1613 | 654221 | Nil  | Canada  | July | 10 | 1916. |
-| 12 | 565 | 1615 | 3768 | 1642 | 654162 | Nil... |  | 31 | 1915. |
-| 12 | 565 | 1643 | 3768 | 1670 | 654246 | Nil . | Canada  | Jan. | 10 | 1916. |
-| 12 | 565 | 1672 | 3768 | 1699 | 654776 | Nil |  | 8 | 1916. |
-| 12 | 564 | 1700 | 3769 | 1725 | 654647 |  |  | ^0 | 1916. |
-| 12 | 564 | 1729 | 3769 | 1757 | 654731 |  |  | April | 6 | 1916. |
-| 12 | 564 | 1758 | 3769 | 1786 | 654752 | Nil |  | April | 25 | 1916. |
-| 12 | 563 | 1787 | 3768 | 1815 | 654455 | Nil | Canada  | Feb. | 14 | 1916. |
-| 12 | 563 | 1816 | 3768 | 1845 | 654618 | Nil |  | 21 | 1916. |
-| 12 | 563 | 1845 | 3769 | 1870 | 654369 |  |  | Jan. | 29 | 1916. |
-| 12 | 563 | 1873 | 3768 | 1902 | 654189 | Nil |  | Jan. | 5 | 1916. |
-| 12 | 563 | 1902 | 3768 | 1931 | 654083 | Nil |  | Dec. | 15 | 1915. |
-| 12 | 563 | 1931 | 3768 | 1957 | 654084 |  |  | Dec. | 20 | 1916. |
-| 12 | 562 | 1960 | 3768 | 1989 | 654 762 | Nil |  | April | 29 | 1916. |
-| 12 | 562 | 1988 | 3768 | 2018 | 654163 | Nil |  | Dec. | 30 | 1915. |
-| 12 | 561 | 2017 | 3768 | 2047 | 654337 | Nil |  | Jan. | 24 | 1916. |
-| 12 | 561 | 2047 | 3769 | 2076 | 305134 | Nil |  | Dec. | 16 | 1915. |
-| 12 | 560 | 2076 | 3769 | 2109 | 654485 | 53rd Regt  |  | Feb. | 22 | 1916. |
-| 13 | 1537 | 432 | 3847 | 465 | Nil  | Rivett, Mrs. Roderick  | Dungannon, Ont  | Canada — | Goderich  | May | 9, 1916. |
-| 13 | 1538 | 462 | 3846 | 494 | Nil  | Yeo, Jennie  | R.R. No. 1, Bluevale, Ont  | Canada  | Wroxeter  | Jan. | 10, 1916. |
-| 13 | 1537 | 491 | 3846 | 523 | Nil  | Robertson, John Alexander. . | Goderich, Ont  | Canada.... | Goderich  | Mar. | 21, 1916. |
-| 13 | 1030 | 519 | 3846 | 553 | C.A.M.C  | Robertson, John Alexander. . | Goderich, Ont  | Canada— | Goderich  | May | 9, 1916. |
-| 13 | 1537 | 549 | 3847 | 583 | Nil  | Roles, Thomas  | 47a Norfolk Sq., Brighton, Sussex, Eng  | England... | Hensall  | May | 15, 1916. |
-| 13 | 1536 | 578 | 3847 | 611 | Nil  | Rollinson Mrs. Mary  | Auburn, Ont  | Canada— | Manchester.... | April | 8, 1916. |
-| 13 | 1537 | 607 | 3847 | 640 | Nil  | Ross, Charles  | Oxford St., Goderich, Ont  | U.S.A  | Goderich  | Jan. | 1, 1916. |
-| 13 | 1535 | 636 | 3846 | 669 | Can. Mil | Rouatt, Mrs. Annie  | Bayfield, Ont  | Canada  | Clinton  | Feb. | 8, 1916. |
-| 13 | 1536 | 665 | 3846 | 698 | Nil  | Rowland, J. Edward  | R.R. No. 1, Ethel, Ont  | Canada  | Brussels  | Mar. | 22, 1916. |
-| 13 | 1536 | 694 | 3846 | 727 | Nil  | Rowland, John  | Walton, Ont  | Canada— | Brussels  | Jan. | 3, 1916. |
-| 13 | 1536 | 723 | 3847 | 756 | Nil  | Ruddock, Mrs. Christiania. . | Port Albert, Ont    | England... | Goderich  | April | 5, 1916. |
-| 13 | 1535 | 752 | 3846 | 786 | Nil  | Ruffell, Mrs. E  | ‘ March Cottage,’- Midhurst, Sussex, Eng... | England... | Seaforth  | Dec. | 23, 1915. |
-| 13 | 1535 | 781 | 3846 | 814 | Nil  | Rush, Mrs. Charles  | 59 Beatrice Rd., Bermondsey, London, Eng. | England... | Wingham  | Mar. | 24, 1916. |
-| 13 | 1535 | 809 | 3846 | 843 | Nil  | Russell, Mrs. S. J  | 29 Francis St., Berlin, Ont  | India  | Seaforth  | May | 19, 1916. |
-| 13 | 1534 | 838 | 3845 | 873 | Nil  | Rutledge, William  | Brussels, Ont  | Canada.... | Brussels  | Jan. | 17, 1916. |
-| 13 | 1534 | 868 | 3846 | 901 | Nil  | Ryan, Thomas  | Walton, Ont  | Canada.... | Brussels  | Jan. | 10, 1916. |
-| 13 | 1534 | 897 | 3845 | 931 | Nil  | Salter, William George  | Wingham, Ont  | Canada.... | Wingham  | Feb. | 15, 1916. |
-| 13 | 1534 | 925 | 3845 | 959 | Nil  | Sanderson, Albert  | Wingham, Ont  | Canada.... | Wingham  | Dec. | 1, 1915. |
-| 13 | 1532 | 954 | 3845 | 989 | Territorials.. | Sangstcr, Mrs. W  | Dundas St., Stromness, Scot  | Scotland... | Hensall  | Jan. | 18, 1916. |
-| 13 | 1533 | 983 | 3844 | 1018 | Nil  | Savage, Thomas  | Wroxeter, Ont  | Canada— | Wroxeter  | Mar. | 25, 1916. |
-| 13 | 1533 | 1012 | 3844 | 1046 | Nil  | Savage, Mrs. James  | Taunton, Somerset, Eng  | England... | Clinton  | May | 13, 1916. |
-| 13 | 1533 | 1042 | 3844 | 1076 | Nil  | Savage, Thomas Henry  | Wroxeter, Ont  | Canada.... | Brussels  | Dec. | 31, 1915. |
-| 13 | 1530 | 1071 | 3844 | 1103 | Can. Mil. . . . | Scharfer, Adam  | Wingham, Ont  | U.S.A  | Wingham  | Dec. | 2, 1915. |
-| 13 | 1532 | 1100 | 3844 | 1132 | Nil  | Scott, Thomas G  | Seaforth, Ont  | Canada  | Seaforth  | Dec. | 10, 1915. |
-| 13 | 1531 | 1129 | 3843 | 1162 | Nil  | Scott, James  | Clinton, Ont   | Canada  | Clinton  | Jan. | 3, 1916. |
-| 13 | 1529 | 1158 | 3844 | 1191 | C.F.A  | Scott, Mrs. Emily  | 707 Fleet Avc., Winnipeg, Man  | Canada  | Brussels  | May | 17, 1916. |
-| 13 | 1531 | 1187 | 3844 | 1219 | Nil  | Scott, Mrs. Alma  | R.R. No. 1, Belgrave, Ont  | Canada— | Belgravc  | Jan. | 25, 191d. |
-| 13 | 656 | 1216 | 3843 | 1249 | S. A  | Seeley, Mrs. Elizabeth  | Brucefield, Ont  | England... | Clinton  | Sept. | 15, 1915. |
-| 13 | 1531 | 1245 | 3843 | 1276 | R.C.R  | Sewell, Mrs. Beatrice  | Clinton, Ont  | England... | Clinton  | Feb. | 8, 1916. |
-| 13 | 1530 | 1274 | 3842 | 1305 | Nil  | Shaddick, Thomas  | Hensall, Ont  | Canada  | Hensall  | Jan. | 25, 1916. |
-| 13 | 1530 | 1304 | 3843 | 1334 | Nil  | Shaddick, Thomas  | Hensall, Ont  | Canada — | Hensall  | Jan. | 24, 1916. |
-| 13 | 1530 | 1332 | 3843 | 1363 | Nil  | Shannon, Mrs. Ellen  | Goderich, Ont  | Canada  | Goderich  | Mar. | 20, 1916. |
-| 13 | 1530 | 1361 | 3842 | 1393 | Nil  | Sharpin, James  | 14 Rhodes Ave., Toronto, Ont  | Canada  | Wroxeter  | Mar. | 22, 1916. |
-| 13 | 1529 | 1390 | 3843 | 1421 | Nil  | Shaw, Anson  | R.R. No. 2, Bluevale, Ont  | Canada — | Wroxeter  | May | 6, 1916. |
-| 13 | 1529 | 1419 | 3843 | 1451 | Nil  | Shephard, Mrs. Mary Jane.. | Clinton, Ont  | Canada— | Camp Borden.. | July | 8, 1916. |
-| 13 | 1529 | 1448 | 3843 | 1479 | Nil  | Shephard, Mrs. Christina. . . | Hensall, Ont  | Canada— | Hensall  | Mar. | 23, 1916. |
-| 13 | 1529 | 1477 | 3843 | 1509 | Nil  | Sherritt, Mrs. Nellie May. . . | Hensall, Ont  | Canada  | Hensall  | Jan. | 3, 1916. |
-| 13 | 1529 | 1506 | 3843 | 1535 | Nil  | Parish, Mrs. James  | Brussels, Ont  | Canada  | Brussels  | Dec. | 24, 1915. |
-| 13 | 1529 | 1535 | 3843 | 1565 | Nil  | Sholdice, Adam  | Walton, Ont  | Canada— | Brussels  | Jan. | 22, 1916. |
-| 13 | 1529 | 1563 | 3843 | 1594 | Nil  | Shropshall, Mrs. Alice  | R.R. No. 1, Wingham, Ont  | England... | Wroxeter  | Feb. | 17, 1916. |
-| 13 | 1529 | 1592 | 3843 | 1623 | Nil  | Bainbridge, Leah  | Wythburn, Grasmere, Westmorland, Eng.. . | England... | Clinton  | Mar. | 7, 1916. |
-| 13 | 1529 | 1621 | 3843 | 1651 | Nil  | Simmons, Mrs. Hannah  | R.R. No. 1, Hensall, Ont  | Canada— | Hensall  | Mar. | 16, 1916. |
-| 13 | 1528 | 1650 | 3841 | 1680 | Nil  | Simmons, Charles  | Gorrie, Ont  | Canada— | Wroxeter  | Feb. | 21, 1916. |
-| 13 | 1528 | 1679 | 3842 | 1709 | Nil  | Simon, Mrs. Florence  | 5 Emmerson Ave., Toronto, Ont  | England... | Clinton  | Feb. | 2, 1916. |
-| 13 | 1528 | 1708 | 3842 | 1738 | Nil  | Sims, Jonah  | Crediton East, Ont  | Canada— | Exeter  | Mar. | 4, 1916. |
-| 13 | 1528 | 1737 | 3843 | 1767 | Nil  | Sinclair, Mrs. A  | Brussels, Ont  | Canada  | Brussels  | Feb. | 12, 1916. |
-| 13 | 1526 | 1765 | 3843 | 1797 | 6th Regt.... | Sinclair, Mrs. Irene A  | Brussels, Ont  | Canada  | Brussels  | Dec. | 24, 1915. |
-| 13 | 1528 | 1795 | 3843 | 1824 | Nil  | Sloman, Jacob  | Clinton, Ont  | Canada  | Clinton  | Feb. | 7, 1916. |
-| 13 | 1528 | 1823 | 3842 | 1854 | Imp. Forces. | Smith, Mrs. Alice Elizabeth | Goderich, Ont  | England... | Goderich  | Mar. | 20, 1916. |
-| 13 | 1528 | 1853 | 3842 | 1883 | Nil  | Smith, Mrs. Alice Emily. . | Bruce St., Goderich, Ont  | England... | Goderich  | Mar. | 9, 1916. |
-| 13 | 1528 | 1881 | 3842 | 1911 | Nil  | Smith, Mrs. Marion  | Clinton, Ont  | Canada  | Clinton  | Mar. | 26, 1916. |
-| 13 | 1528 | 1911 | 3842 | 1940 | Nil  | Smith, John  | Wroxeter, Ont  | Canada  | Wroxeter  | Mar. | 21, 1916. |
-| 13 | 1528 | 1940 | 3842 | 1969 | Nil  | Smith, Mrs. Jessie  | Seaforth, Ont  | Canada  | Seaforth  | Mar. | 4, 1916. |
-| 13 | 1528 | 1969 | 3841 | 1998 | Nil  | Smith, John  | Hay, Ont  | Canada  | Exeter  | Dec. | 11, 1915. |
-| 13 | 1528 | 1998 | 3842 | 2027 | Nil  | .Smith, Mrs. Florence  | Seaforth, Ont  | England.. . | Seaforth  | Feb. | 12, 1916. |
-| 13 | 1528 | 2027 | 3841 | 2055 | Nil  | Snazel, Arthur  | Goderich, Ont  | Canada  | Goderich  | Jan. | 13, 1916. |
-| 13 | 1528 | 2056 | 3842 | 2085 | Nil  | Snell, James  | R.R. No. 1, Clinton, Ont  | Canada  | Clinton  | Jan. | 24, 1916. |
-| 13 | 1528 | 2085 | 3841 | 2113 | Nil  | Snell, William  | Blyth, Ont  | Canada  | Clinton  | Dec. | 22, 1915. |
-| 13 | 1528 | 2114 | 3841 | 2142 | Nil  | Snell, William  | Blyth, Ont  | Canada  | Blyth  | Dec. | 16, 1915. |
-| 13 | 650 | 2143 | 3842 | 2172 | Nil  | Snelling, George  | Moncton, Ont  | Canada  | Bruasels  | Jan. | 29, 1916. |
-| 14 | 769 | 568 | 3272 | 600 |  |  |  | Former Corps. |  |  | Country of |
-| 14 | 577 | 711 | 3766 | 745 | 0.54371 | Private  | Snelling, William Harvie  | Nil  | Snelling, George  | Moncton, Ont  | Canada  | Brussels  | Jan. | 1016. |
-| 14 | 577 | 740 | 3766 | 773 | 054291 | Private  | Snider, Benjamin  | Nil  | Snider, Mrs. Marie  | Brussels, Ont  | Canada  | Brussels  | Jan. | 1916. |
-| 14 | 577 | 769 | 3766 | 802 | 0.54081 | Private  | Somers, Albert Archibald .... | Nil  | Somers, Richard  | Blyth, Ont  | Canada  | Blyth  | Mar. | 1916. |
-| 14 | 577 | 798 | 3766 | 831 | 054054 | Private  | Somersall, Edward Haughton. | Nil  | Somersall, Mrs. Mary  | Goderich, Ont  | Canada  | Goderich | Mar. | 1916. |
-| 14 | 577 | 827 | 3766 | 859 | 054535 | Private  | Southcott, Robert Earl  | Nil  | Southcott, Mrs. C. A  | Exeter, Ont  | Canada  | Exeter  | Mar. | 1916. |
-| 14 | 577 | 856 | 3766 | 889 | 054383 | Private  | Spafford, Austin Robert R  | Nil  | Spafford, Mrs. M  | Blyth, Ont  | Canada  | Blyth  | Jan. | 1916. |
-| 14 | 576 | 885 | 3766 | 918 | 054090 | Private  | Sparks, Neil Douglas  | Nil  | Sparks, Alexander  | Hensall, Ont  | Canada  | Clinton  | Dec. | 1915. |
-| 14 | 576 | 914 | 3766 | 947 | 054051 | Private  | Stacey, Nelson Peter  | Nil  | Stacey, Jabez  | Coronation, Alta  | Canada  | Exeter  | Mar. | 1916. |
-| 14 | 576 | 943 | 3767 | 976 | 054829 | Private  | Stafford, Walter Harvey  | Nil  | Stafford, Benjamin V  | R.R. No. 1, Wroxeter, Ont  | Canada  | Wroxeter. . . . | May | 1916. |
-| 14 | 575 | 972 | 3767 | 1004 | 054052 | L.-Corporal  | Steels, Frederick  | Nil  | Steels, Mrs. Philip  | Sheppard ton, Ont  | Canada  | Goderich.... | Mar. | 1916. |
-| 14 | 575 | 1001 | 3767 | 1033 | 054204 | Private  | Steep, Andrew William  | 33rd Regt. .. | Steep, David  | Clinton, Ont  | Canada  | Clinton  | Jan. | 1916. |
-| 14 | 575 | 1030 | 3762 | 1062 | 054782 | Private  | Stephenson, George Henry  | Nil  | Stephenson, Mrs. Ida  | Seaforth, Ont  | Canada  | Seaforth  | May | 1916. |
-| 14 | 575 | 1059 | 3766 | 1091 | 054820 | Sergeant   | Sterling, John Dempsey  | 33rd Regt. . . | Sterling, John  | Clinton, Ont  | Canada  | Clinton  | May | 1916. |
-| 14 | 574 | 1088 | 3767 | 1119 | 0547G8 | Private  | Stevens, Louis  | Nil  | Stevens, Mr  | Londesborough, Ont  | Canada  | Blyth  | May | 1916. |
-| 14 | 574 | 1117 | 3767 | 1149 | 054098 | Private  | Stewart, David Henry  | 33rd Regt. . . | Stewart, Mrs. Margaret  | Seaforth, Ont  | Canada  | Clinton  | Dec. | 1915. |
-| 14 | 575 | 1145 | 3767 | 1176 | 054230 | Private  | Stewart, Wilfred.Grant  | Nil  | Stewart, James  | Exeter, Ont  | Canada  | Exeter  | Jan. | 1916. |
-| 14 | 575 | 1174 | 3767 | 1206 | 054099 | Sergeant  | Stickles, Orin Andrew  | Nil  | McGowan, Mrs. Henrietta. .. | Stockdale, Ont  | Canada  | Clinton  | Dec. | 1915. |
-| 14 | 575 | 1203 | 3767 | 1235 | 054738 | Private  | Stiles, William Henry  | Nil...   | Stiles, Mrs. Annie  | Seaforth, Ont  | Canada  | Brussels  | April | 1916. |
-| 14 | 575 | 1232 | 3767 | 1264 | 054170 | Private  | Stillwell, George Leonard  | Imp. Forces. | Stillwell, William  | Portsmouth, Hants, Eng  | England.. .. | Wingham — | Jan. | 1916. |
-| 14 | 574 | 1261 | 3766 | 1292 | 654850 | Private  | Stockall, Peter  | Nil  | Stockall, William  | Humboldt, Sask  | Canada  | Clinton  | May | 1916. |
-| 14 | 574 | 1290 | 3765 | 1322 | 054249 | Private  | Stoddart, Herbert Reginald. . . | Nil  | Stoddart, Mrs. Caroline  | Clinton, Ont  | U.S.A  | Clinton  | Jan. | 1916. |
-| 14 | 573 | 1319 | 3765 | 1350 | G5470S | Private  | Stokes, Frederic William  | Nil  | Stokes, Mrs. Agnes  | Goderich, Ont  | Canada  | Goderich  | Mar. | 1916. |
-| 14 | 572 | 1348 | 3764 | 1380 | 054135 | Private  | Stokes, George Wilfred  | 33rd Regt. . . | Stokes, Frederick  | Goderich, Ont  | Canada  | Goderich... . | Dec. | 1915. |
-| 14 | 571 | 1377 | 3764 | 1407 | 054536 | Private  | Stone, William Charles  | Nil  | Stone, Mrs. Eleanor Rose.... | Hensall, Ont  | England. . . . | Hensall  | Mar. | 1916. |
-| 14 | 571 | 1405 | 3762 | 1437 | 054100 | Sergeant  | Straiton, John Watson  | 33rd Regt. . . | Straiton, John  | Goderich, Ont  | Canada  | Goderich | Dec. | 1915. |
-| 14 | 570 | 1434 | 3762 | 1465 | 054817 | Private  | Strang, John Caldwell  | Nil  | Strang, Henry  | R.R. No. 1, Hensall, Ont  | Canada  | Exeter  | May | 1916. |
-| 14 | 569 | 1463 | 3763 | 1494 | G54357 | Private  | Sturdy, Francis Dixon  | 33rd Regt. . . | Sturdy, William John  | Auburn, Ont  | Canada  | Wingham | Jan. | 1916. |
-| 14 | 569 | 1491 | 3763 | 1522 | G54402 |  | Sullivan, Thomas  | Nil  | Fielder, George  | 61 St. Peters St., Hackney ltd., London, Eng. | England | Brussels  | Feb. | 1916. |
-| 14 | 572 | 1520 | 3763 | 1549 | 127512 | Private  | Swarts, Jack Bertram  | Nil  | Swarts, Mrs. Charlotte  | Goderich, Ont  | Canada  | Goderich | Oct. | 1915. |
-| 14 | 570 | 1548 | 3763 | 1580 | G54384 | Private  | Taman, John Henry  | Nil  | Taman, John  | Seaforth, Ont  | 'anada  | Seaforth  | Jan. | 1916. |
-| 14 | 570 | 1577 | 3763 | 1607 | 654418 | Private  | Taman, William James  | Nil  | Sanderson, Mrs. Thomas  | Goderich, Ont  | 'anada  | Goderich... . | Fob. | 1916. |
-| 14 | 571 | 1606 | 3764 | 1636 | 654513 | Private  | Tasker, Albert Richard  | Nil  | Sims, Mrs. William  | Myth, Ont  | ’anada  | Wingham | Fob. | 1916. |
-| 14 | 572 | 1634 | 3764 | 1665 | 654410 | L.-Corporal  | Tasker, John Lancelot  | Nil  | Sims, Mrs. William  | Blyth, Ont  | ('anada  | Belgravc | Feb. | 1916. |
-| 14 | 572 | 1663 | 3765 | 1694 | 654745 | Sergeant  | Tasker, Richard  | nd Regt. | Tasker, Mrs. lna  | Clinton, Ont  | Canada  | Clinton  | April | 1916. |
-| 14 | 573 | 1691 | 3765 | 1722 | 654542 | Private  | Taylor, Frederick Charles Cl. . | Nil  | Scarlett, Robert  | R.R. No. 1, Seaforth, Ont  | England.... | Seaforth  | Feb. | 1916. |
-| 14 | 573 | 1719 | 3766 | 1751 | 654101 | Private  | Taylor, George Ross  | Nil  | Taylor, William  | White Church, Ont  | Canada  | Wingham.... | Dec. | 1915. |
-| 14 | 573 | 1747 | 3767 | 1780 | 054487 | Private  | Taylor, Ira David  | Nil  | Taylor, Mrs. Charlotte  | Hay, Ont  | Canada  | Exeter  | Feb. | 1916. |
-| 14 | 573 | 1776 | 3768 | 1809 | 054399 | Private  | Taylor, James  | Nil  | Taylor, Mrs. Margaret Annie. | Goderich, Ont  | England | Goderich.. . | Feb. | 1916. |
-| 14 | 572 | 1805 | 3768 | 1837 | 654102 | Private  | Taylor, James Thomas  | Nil  | Taylor, George R  | Clinton, Ont  | Canada  | Clinton  | Dec. | 1915. |
-| 14 | 571 | 1833 | 3768 | 1866 | G54723 | Private  | Terry, John Edward  | Nil  | Terry, Edward Ferguson. . . . | Listowel, Ont  | Canada  | Clinton  | Mar. | 1916. |
-| 14 | 571 | 1862 | 3769 | 1895 | 654171 | Private  | Thamer, George Henry  | Nil  | Thamer, William  | Walton, Ont  | Canada  | Brussels  | Jan. | 1916. |
-| 14 | 570 | 1891 | 3769 | 1923 | 654450 | Private  | Thibideau, John Arthur  | Nil  | Thibideau, Mrs. Lucy May .. | Brussels, Ont  | Canada  | Brussels  | Feb. | 1916. |
-| 14 | 570 | 1921 | 3769 | 1951 | 054103 | Private  | Thibideau, Steven Howard | Nil  | Thibideau, Gilbert  | Brussels, Ont  | Canada  | Brussels  | Dec. | 1915. |
-| 14 | 569 | 1950 | 3769 | 1982 | 654406 | Private  | Thompson, Charles Murray.... | Nil  | Thompson, Dr. E. W  | Clinton, Ont  | Canada  | Clinton  | Feb. | 1916. |
-| 14 | 569 | 1979 | 3769 | 2010 | 654136 | Private  | Thompson, Ernest  | Nil  | Thompson, Samuel  | Belgrave, Ont  | Canada  | Wingham  | Dec. | 1915. |
-| 14 | 569 | 2008 | 3770 | 2039 | 654104 | L.-Corporal  | Thompson, Fred Greene  | Nil  | Thompson, Charles W  | Clinton, Ont  | Canada  | Clinton  | Dec. | 1915. |
-| 14 | 570 | 2037 | 3770 | 2068 | G54543 | Private  | Thompson, Joseph Samuel  | Nil  | Thompson, Samuel  | Belgrave, Ont   | Canada  | Wingham  | Mar. | 1916. |
-| 14 | 570 | 2065 | 3770 | 2097 | 054098 | Private  | Thompson, Wilfred Clarence. . . | Nil  | Thompson, William  | R. R. No. 1, Ethel, Ont  | Canada  | Brussels.... | Mar. | 1916. |
-| 14 | 570 | 2095 | 3769 | 2124 | 654105 | Private  | Thomson, Thomas  | Nil  | Thomson, Mrs. Elizabeth.... | Wroxeter, Ont  | Scotland... | Wroxeter. .. | Dec. | 1915. |
-| 15 | 1558 | 431 | 3863 | 461 | Nil  | Thuell, William  | Brussels, Ont  | Canada  |  | Dec. 10, 1915. |
-| 15 | 1558 | 460 | 3864 | 490 | Nil.... | Thuell, William  | Brussels, Ont  |  |  | Jan. 11, 1916. | Canada  |
-| 15 | 1558 | 489 | 3864 | 519 | Nil.. . . | Thuell, William  | Brussels, Ont  |  |  | Jan. 11, 1916. | Canada  | Brussels  |
-| 15 | 1559 | 518 | 3864 | 549 | Nil.... | Tier nay, James  | Blyth, Ont  |  |  | Mar. 23, 1916. | Blyth  | Canada  |
-| 15 | 1559 | 547 | 3864 | 577 | Nil. | Toms, John  | Bayfield, Ont  |  |  | Feb. 8, 1916. | Canada  |
-| 15 | 1887 | 578 | 3864 | 606 |  | Toms, John  | Bayfield, Ont  |  |  | Feb. 29, 1916. |
-| 15 | 1559 | 607 | 3864 | 635 | Nil.. . | Tonkin, William George. ... | Warley Barracks, London, Essex, Eng  |  |  | Jan. 29, 1916. |
-| 15 | 1560 | 636 | 3864 | 664 | Nil. ... | Town, George J  | Wroxeter, Ont  |  |  | Mar. 20, 1916. |
-| 15 | 1560 | 664 | 3865 | 693 | Nil. | Trapnell, >lrs. Isabel  | 29 Hampton Court Rd., Bristol, Eng  |  |  | Mar. 13, 1916. |
-| 15 | 1560 | 693 | 3865 | 722 | Nil. | Troyer, Mrs. Sarah A  | Seaforth, Ont  |  |  | April 8, 1916. |
-| 15 | 1560 | 721 | 3865 | 751 | Nil  | Troyer, Charles Edward  | Shaunavon, Sask  |  |  | Feb. 15, 1916. | U.S.A  |
-| 15 | 1560 | 752 | 3865 | 780 | Nil  | Tucker, Mrs. Margaret  | Exmouth, Devon, Eng  |  |  | Dec. 10, 1915. |
-| 15 | 1560 | 780 | 3866 | 808 | Nil.... | Tucker, Charles E  | Exeter, Ont  |  |  | Jan. 21, 1916. |
-| 15 | 1054 | 809 | 3865 | 836 | Nil.... | Underwood, William  | Gorrie, Ont  |  |  | Mar. 24, 1916. |
-| 15 | 1560 | 838 | 3866 | 865 | Nil. .. | Vanstone, Mrs. Minnie  | Berlin, Ont  |  |  | Dec. 27, 1915. | Goderich  |
-| 15 | 1560 | 867 | 3866 | 895 | Nil.. . | Veal, William Henry  | Elimville, Ont  |  |  | May 6, 1916. |
-| 15 | 1560 | 896 | 3866 | 923 | Nil  | Vickers, Samuel  | R.R. No. 4, Goderich, Ont  |  |  | Mar. 27, 1916. |
-| 15 | 1560 | 925 | 3866 | 953 | Nil. . | Vi dean, Harry  | Goderich, Ont  |  |  | Feb. 2, 1916. |
-| 15 | 1560 | 953 | 3866 | 980 | Nil. . | Vittie, Thomas  | Gorrie, Ont  |  |  | Mar. 21, 1916. |
-| 15 | 1888 | 982 | 3866 | 1010 |  | Walker, William  | Exeter North, Ont  |  |  | May 8, 1916. |
-| 15 | 1560 | 1011 | 3866 | 1038 | Nil  | Walker, James  | Centralia, Ont  |  |  | Mar. 21, 1916. |
-| 15 | 1888 | 1039 | 3867 | 1067 |  | Waller, Mrs. K. M  | Wroxeter, Ont  |  |  | Dec. 20, 1915. |
-| 15 | 1560 | 1068 | 3867 | 1097 | Nil.. . | Walser, Mrs. Mary  | Goderich, Ont  |  |  | Feb. 8, 1916. |
-| 15 | 1560 | 1097 | 3867 | 1124 | Nil  | Ward, Mrs. Edith  | Goderich, Ont    |  |  | Feb. 14, 1916. |
-| 15 | 1560 | 1126 | 3867 | 1154 | Nil. . | Ward, Henry  | Moncricff, Ont  |  |  | May 13. 1916. |
-| 15 | 1560 | 1155 | 3867 | 1183 | Nil.. . | Warner, Mrs. Mary  | Goderich, Ont  |  |  | Jan. 29, 1916. |
-| 15 | 1561 | 1183 | 3867 | 1211 | Nil  | Wasmann, John F  | Clinton, Ont...   |  |  | Jan. 31, 1916. |
-| 15 | 1888 | 1212 | 3868 | 1240 |  | Watson, Margaret Jane  | Goderich, Ont   |  |  | Mar. 20, 1916. |
-| 15 | 1889 | 1240 | 3868 | 1269 |  | Langsdon, Mrs. Anne  | 5 Bourn St., Wilmslow, Cheshire, Eng  |  |  | Jan. 8, 1916. |
-| 15 | 1560 | 1268 | 3868 | 1300 | Nil  | Watt* James  | Blyth, Ont   |  |  | May 15, 1916. | Canada  | Blvth  |
-| 15 | 1560 | 1298 | 3868 | 1327 | Nil.... | Riddell, Mrs. William  | Thornhill, Ont  |  |  | May 16, 1916. |
-| 15 | 1560 | 1327 | 3868 | 1356 | Nil  | Watters, Mrs. Charlotte. . .. | Fordwich, Ont.   |  |  | May 12, 1916. |
-| 15 | 1560 | 1356 | 3868 | 1385 | Nil  | Wearring, George  | Wroxeter, Ont     |  |  | Mar. 23, 1916. |
-| 15 | 1560 | 1384 | 3868 | 1415 | Nil  | Webber, Henry George  | 56th Bty., C.F.A., Guelph, Ont  |  |  | May 26, 1916. |
-| 15 | 1559 | 1413 | 3869 | 1447 | Can. Mil. | Weber, Mrs. Phoebe  | Zurich, Ont '•*.*•.  |  |  | May 5, 1916. |
-| 15 | 1889 | 1442 | 3869 | 1472 |  | Websdaie, Henry  | Hardingham, Norfolk, Eng  |  |  | Dec. 11, 1915. |
-| 15 | 1561 | 1471 | 3869 | 1499 | Nil. ... | Weiss. John...  | Godcrich, Ont   |  |  | Jan. 14, 1916. |
-| 15 | 1055 | 1499 | 3870 | 1528 | Nil  | Wells, Mrs. Caroline  | Exeter, Ont     |  |  | Jan. 3, 1916. |
-| 15 | 1560 | 1529 | 3870 | 1558 | Nil  | Whistle, Annie  | Paragon Row, London, Eng   |  |  | Dec. 16, 1915. |
-| 15 | 683 | 1556 | 3862 | 1586 | Nil  | Wesley, Mrs. Euphemia  | Wroxeter, Ont  |  |  | Mar. S, 1916 |
-| 15 | 1054 | 1585 | 3862 | 1619 | Nil  | West, Mrs. Harriet E  | Exeter, Ont    j.;. .   |  |  | Feb. 22, 1916 |
-| 15 | 1560 | 1614 | 3870 | 1643 | Nil  | Westcott, Mrs. Annie  | Seaforth, Ont      |  |  | Dec. 8, 1915. |
-| 15 | 1560 | 1643 | 3862 | 1672 | Nil. | Westcott, Mrs. Annie  | Seaforth, Ont    |  |  | Dec. 14, 1915 |
-| 15 | 1560 | 1672 | 3863 | 1700 | Nil... | Mitchell, Mrs. W. J  | Wroxeter, Ont  |  |  | Jan. 10, 1916 |
-| 15 | 1560 | 1701 | 3863 | 1729 | Nil  | Mitchell, Mrs. W. J  | Wroxeter, Ont  |  |  | Jan 10, 1916 |
-| 15 | 683 | 1729 | 3863 | 1758 | Nil. | Mitchell, Mrs. W. J  | Wroxeter, Ont    |  |  | Jan. 10, 1916 |
-| 15 | 1559 | 1758 | 3864 | 1786 | Nil  | Mitchell, Mrs. W. J  | Wroxeter, Ont     |  |  | Feb. 1, 1916 |
-| 15 | 1560 | 1787 | 3872 | 1818 | Nil  | Westlake, Susan  | Bayfield, Ont       |  |  | Mar. 10, 1916. |
-| 15 | 1890 | 1815 | 3871 | 1844 |  | Mitchell, Mrs. Elizabeth.... | Wroxeter, Ont  |  |  | Jan. 25, 1916. |
-| 15 | 1560 | 1843 | 3872 | 1872 | Nil  | Weston, Mrs. Emma  | Goderich, Ont  |  |  | Mar. 21, 1916. |
-| 15 | 1559 | 1930 | 3872 | 1960 | Nil  | White, James  | Benmiller, Ont   |  |  | May 20, 1916. |
-| 15 | 1559 | 1958 | 3872 | 1988 | Nil  | Whitmore, Franklin  | Varna, Ont   |  |  | Mar. 6, 1916. |
-| 15 | 1559 | 1987 | 3872 | 2018 | Nil  | Wicker, George Thomas.. | “Myrtle Cottage," Mayfield, Sussex, Eng  |  |  | June 14, 1916. |
-| 15 | 1559 | 2016 | 3872 | 2047 | Nil.... | Morrison, Edmund  | R. R. No. 3, Kippen, Ont  |  |  | Jan. 8, 1916. |
-| 15 | 1558 | 2045 | 3873 | 2076 | Nil.... | Wightman, Charles  | Belgrave, Ont  |  |  | Mar. 25, 1916. |
-| 15 | 1559 | 2073 | 3872 | 2104 | Nil  | Wilkcn, Alfred  | Clinton, Ont  |  |  | Dec. 11, 1915. |
-| 15 | 1887 | 2102 | 3874 | 2135 |  | Wilkinson, Mrs. Mary Kate. | Wingham, Ont  |  |  | May 15, 1916. |
-| 15 | 681 | 2131 | 3874 | 2161 | Nil  | Wilkinson, Willinni Inman. . | R. R. No. 3, Exeter, Ont  |  |  | Jan. 20, 1916. | England  | Exeter  |
-| 16 | 848 | 669 | 3353 | 700 |  |  |  | Former Corps. |  |  | Country of |
-| 16 | 659 | 811 | 3852 | 844 | 654118 | Private  | Williams, Albert Charles  | Nil  | Williams, Harry George... | Wingham, Ont  | England. | Wingham.. | Dec. | 10, 1915. |
-| 16 | 659 | 840 | 3854 | 873 | 654756 | L.-Corporal. | Williams, Frank Harold  | Nil  | Trewin, Mrs. Albert  | Londesborough, Ont  | England. | Clinton  | April | 1, 1916. |
-| 16 | 658 | 870 | 3854 | 901 | 654552 | Private  | Williamson, John Charles  | Nil  | Louttit, Mrs. John  | Ethel, Ont  | Canada.. | Brussels... | Feb. | 4, 1916. |
-| 16 | 658 | 899 | 3855 | 930 | 654489 | Private  | Willis, Aimer Thomas  | Nil  | Willis, John  | R. R. No. 1, Exeter, Ont  | Canada.. | Exeter  | Feb. | 22, 1916. |
-| 16 | 657 | 928 | 3855 | 959 | 654502 | Private  | Willis, John Norman  | Nil  | Willis, John  | R. R. No. 1, Exeter, Ont  | Canada.. | Exeter  | Feb. | 22, 1916. |
-| 16 | 657 | 957 | 3856 | 989 | 654764 | Private  | Willoughby, Nicholas Arthur. | Nil  | Willoughby, Mrs. Ada  | Seaforth, Ont.  | Canada.. | Seaforth... | May | 3, 1916. |
-| 16 | 656 | 986 | 3856 | 1018 | 654769 | Private  | Winch, Leslie  | 28th Regt.. | Winch, Stephen  | Paisley, Ont  | Canada.. | Bluevale.. | May | 5, 1916. |
-| 16 | 656 | 1014 | 3857 | 1047 | 654119 | Private  | Windsor, William Augustus  | Territorials. | Windsor, George  | 33 Goldsmith St., Norwich, Norfolk, Eng | England. | Wingham. | Dec. | 1, 1915. |
-| 16 | 656 | 1043 | 3858 | 1075 | 654192 | Private  | Wood, Charles  | Nil  | Wood, Lydia  | 63 Selhurst Rd., South Norwood, Eng. ... | England. | Seaforth.. | Jan. | 4, 1916. |
-| 16 | 656 | 1072 | 3858 | 1104 | 654387 | Sergeant  | Woodley, John  | Imp. Forces | Woodley, Mrs. Louisa  | R. R. No. 3, Auburn, Ont  | England. | Goderich. | Jan. | 24, 1910. |
-| 16 | 656 | 1101 | 3858 | 1132 | 654747 | Private  | Woods, James Jackson  | Nil.?  | Woods, Robert  | Elimville, Ont  | Canada.. | Exeter  | April | 11, 1916. |
-| 16 | 655 | 1130 | 3859 | 1161 | 654252 | Corporal  | Woods, Russell Francis  | Nil  | Woods, James  | Auburn, Ont  | Canada.. | Blyth.... | Jan. | 10, 1916. |
-| 16 | 655 | 1159 | 3859 | 1191 | 65465S | Private  | Wray, Gordon  | Nil  | Wray, John  | R. R. No. 1, Wingham, Ont  | Canada.. | Wroxeter. | Mar. | 21, 1916. |
-| 16 | 655 | 1187 | 3860 | 1219 | 654659 | L.-Corporal.. | Young, Benjamin Franklin  | 33rd Regt.. | Young, Mrs. Eva Matilda.. | Goderich, Ont  | Canada.. | Goderich. | Mar. | 20, 1916. |
-| 16 | 654 | 1216 | 3861 | 1248 | 654174 | Private  | Young, Harold Melville  | Nil  | Young, James  | Hinch St., Goderich, Ont  | Canada.. | Goderich. | Jan. | 3, 1916. |
-| 16 | 655 | 1245 | 3861 | 1277 | 654660 | Private  | Young, James Emmerson  | 33rd Regt.. | Young, Mrs. Eima  | Goderich, Ont  | Canada.. | Goderich. | Mar. | 20, 1916. |
-| 16 | 654 | 1273 | 3861 | 1306 | 654373 | L.-Corporal.. | Yungblut, Jacob  | 33rd Regt.. | Yungblut, Mrs. Margaret. . | Goderich, Ont  | Canada.. | Goderich. | Jan. | 30, 1916. |
+| Page | Bounds | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 161st BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-l-17 Ship: S.S. “Lapland." | 593-2-29 Date: October 30th, 1916. |
+| 2 | 560<br>543<br>3258<br>582 | is |  |  | Former Corps. |  |  | Country of |
+| 2 | 662<br>694<br>3752<br>726 |  | Lieut.-Colonel... | Combe, Hugh Barry  | 33rd Regt. .. | Combe, Mrs. Julia Isabel  | Clinton, Ont  | Canada... | Clinton  | Dec. | 15, 1915. |
+| 2 | 662<br>723<br>3752<br>756 |  | Major  | Campbell, Herbert  | 33rd Regt | Campbell, Mrs. Florence Edna... . | Wingham, Ont  | Canada.. | Wingham  | Dec. | 10, 1915. |
+| 2 | 662<br>751<br>3751<br>784 |  | Major  | Hays, Robert Stanley  | 33rd Regt | Hays, Mrs. Annie M  | Seaforth, Ont   | Canada.. | Clinton  | Dec. | 6, 1915. |
+| 2 | 661<br>780<br>3752<br>814 |  | Major  | Heaman, William John  | 33rd Regt | Heaman, Mrs. Fern Dudley  | Exeter, Ont  | Canada.. | Exeter  | Dec. | 11, 1915. |
+| 2 | 662<br>809<br>3752<br>842 |  | Major  | Shaw, John William  | 33rd Regt | Shaw, Mrs. Harriett  | Clinton, Ont  | Canada.. | Clinton  | Dec. | 29, 1915. |
+| 2 | 662<br>838<br>3752<br>872 |  | Major  | Sinclair, Norman Tooke  | 33rd Regt | Sinclair, Mrs. J. I  | Wingham, Ont    | Canada.. | Wingham  | Dec. | 10, 1915. |
+| 2 | 660<br>867<br>3751<br>898 |  | Captain  | Allen, Wallace Best  | 33rd Regt | Allen, John L  | 484 Talbot St., London, Ont   | Canada.. | Clinton  | Jan. | 4, 1916. |
+| 2 | 660<br>895<br>3752<br>928 |  | Captain | Fairfull, James Kilgour  | Royal Navy. | Fairfull, Mrs. Elizabeth Ann  | Clinton, Ont   | Scotland. | London  | July | 6, 1916. |
+| 2 | 660<br>924<br>3752<br>956 |  | Captain | Macpherson, Charles Kenneth. | 33rd Regt | Macpherson, Mrs. Marion  | c/o William Coats, Goderich, Ont.. | Canada.. | Clinton  | Jan. | 11, 1916. |
+| 2 | 660<br>953<br>3752<br>986 |  | Captain | McTaggart, Malcolm Douglas. | 33rd Regt | McTaggart, Mrs. Edith  | Clinton, Ont ..... | Canada.. | Clinton  | Dec. | 13, 1915. |
+| 2 | 660<br>982<br>3752<br>1014 |  | Captain | Sturdy, Alfred Fenton  | 33rd Regt | Sturdy, Mrs. O. H  | Goderich, Ont.  .  | Canada.. | Goderich  | Dec. | 14, 1915. |
+| 2 | 660<br>1010<br>3752<br>1044 |  | Captain | Town, Percy Charles  | 33rd Regt | Town, Henry  | 55 Nightingale St., Hamilton, Ont. | Canada.. | Clinton  | Mar. | 16, 1916. |
+| 2 | 660<br>1039<br>3753<br>1072 |  | Captain | Vanstone, Charles Garfield  | 33rd Regt | Vanstone, Mrs. Grace C  | 446 Indian Rd., Toronto, Ont   | Canada.. | Wingham  | Dec. | 24, 1915. |
+| 2 | 661<br>1068<br>3753<br>1100 |  | Lieutenant  | ClufT, Francis Nicholas  | 33rd Regt. . . . | ClufT, Noble  | Seaforth, Ont   | Canada.. | Seaforth  | Dec. | 21, 1915. |
+| 2 | 662<br>1097<br>3752<br>1129 |  | Lieutenant  | ClufT, Reginald Alger  | 28th Regt | ClufT, Rev. W. T  | 108 Mornington St., Stratford, Ont. | Canada.. | Camp Borden... | Aug. | 30, 1916. |
+| 2 | 661<br>1126<br>3753<br>1158 |  | Lieutenant  | Grieve, William Pearson  | 33rd Regt.. . . | Grieve, Dr. John  | Seaforth, Ont  | Canada.. | Clinton  | Dec. | 24, 1915. |
+| 2 | 661<br>1155<br>3753<br>1187 |  | Lieutenant  | Hall, Charles Spooner  | 33rd Regt | Hall, Francis Bernard  | R.R. No. 2, Seaforth, Ont  | Canada.. | Hensall  | Dec. | 10, 1915. |
+| 2 | 661<br>1184<br>3753<br>1215 |  | Lieutenant  | Hctherington, Isaac  | 33rd Regt | Hctherington, Mrs. Georgina Jane. | R.R. No. 1, Sheppard ton, Ont  | Canada.. | Goderich  | Jan. | 1, 1916. |
+| 2 | 661<br>1213<br>3754<br>1244 |  | Lieutenant  | Holmes, Dudley Elwood  | 33rd Regt | Holmes, Dudley  | Wingham, Ont  | Canada.. | Wingham  | Dec. | 10, 1915. |
+| 2 | 661<br>1241<br>3754<br>1272 |  | Lieutenant  | Mair, James Knox  | 33rd Regt | Mair, James K  | Clinton, Ont  | Canada.. | Clinton  | Dec. | 16, 1915. |
+| 2 | 660<br>1270<br>3754<br>1302 |  | Lieutenant  | McLean, Harry Clarence  | 33rd Regt | McLean, John A  | Wingham, Ont  | Canada.. | Wingham  | Dec. | 10, 1915. |
+| 2 | 660<br>1300<br>3754<br>1330 |  | Lieutenant  | O’Neil, William Eail  | 33rd Regt | O’Neil, William T  | Clinton, Ont  | Canada.. | Clinton  | Dec. | 16, 1915. |
+| 2 | 660<br>1331<br>3754<br>1361 |  | Lieutenant  | Reid, Dalton Le Roy  | 33rd Regt | Reid, Mrs. J. F  | Seaforth, Ont  | Canada.. | Seaforth  | Dec. | 21, 1915. |
+| 2 | 660<br>1360<br>3754<br>1389 |  | Lieutenant  | Scott, Donald Stewart  | 33rd Regt | Scott, Peter  | Brussels, Ont  | Canada.. | Clinton  | Jan. | 11, 1916. |
+| 2 | 660<br>1388<br>3754<br>1418 |  | Lieutenant  | Scott, Frank Macdonald  | 33rd Regt. . . | Scott, Mrs. R. A  | Toronto, Ont  | Canada.. | Clinton  | Jan. | 10, 1916. |
+| 2 | 660<br>1417<br>3754<br>1447 |  | Lieutenant  | Scott, Walter Frank  | 3Srd Regt... | Scott, Peter  | Brussels, Ont  | Canada.. | Clinton  | Dec. | 23, 1915. |
+| 2 | 660<br>1446<br>3754<br>1476 |  | Lieutenant  | Walter, Royland Allen  | 33rd Regt | Walter, W'illiam  | R.R. No. 4, Goderich, Ont  | Canada.. | Clinton  | Dec. | 22, 1915. |
+| 2 | 659<br>1475<br>3754<br>1504 |  | Lieutenant  | Wilson, William Bell  | 33rd Regt | Wilson, John McD  | Hensall, Ont .  | Canada.. | Hensall  | Dec. | 10, 1915. |
+| 2 | 560<br>1503<br>3753<br>1533 | C54308 | Private  | Adair, William Gordon  | Nil  | Adair, William J  | Wingham, Ont   ...,. | Canada.. | Wingham  | Jan. | 22, 1916. |
+| 2 | 560<br>1532<br>3754<br>1561 | 654784 | Corporal  | Adams, John  | Nil  | Adams, William  | Seaforth, Ont .   | Canada.. | Seaforth  | May | 8, 1916. |
+| 2 | 560<br>1560<br>3755<br>1592 | 654374 | Private  | Adams, Thomas  | 10th Regt | Adams, Mrs. Florence May  | Auburn, Ont  | Canada.. | Manchester  | Jan. | 28, 1916. |
+| 2 | 559<br>1590<br>3755<br>1619 | 654138 | Private  | Agar, Nelson  | Nil  | Whittard, Mrs. Ben  | Brussels, Ont   | Canada.. | Brussels  | Dec. | 11, 1915. |
+| 2 | 559<br>1619<br>3755<br>1649 | 654294 | Private  | Aitchison, Cleveland  | Nil  | Aitchison, Mrs. George T  | Lucknow, Ont  , | Canada.. | Hensall  | Jan. | 21, 1916. |
+| 2 | 559<br>1647<br>3756<br>1677 | 654001 | Private  | Aitchison, Wallace  | Nil  | Aitchison, Mrs. Elizabeth  | Wingham, Ont  | Canada.. | Wingham  | Dec. | 2, 1915. |
+| 2 | 559<br>1676<br>3756<br>1706 | 654716 | Co. Q.-M. Sergt... | Allen, John Andrew  | Nil  | Allen, Robert  | Wingham, Ont  | Canada.. | Wingham  | Mar. | 19, 1916. |
+| 2 | 559<br>1705<br>3756<br>1735 | 654359 | Private  | Allin, Lome William J  | Nil  | Allin, Mrs. Elizabeth  | R.R. No. 2, Clinton, Ont  | Canada.. | Goderich  | Jan. | 31, 1916. |
+| 2 | 559<br>1734<br>3756<br>1764 | 654257 | Private  | Anderson, Clair  | Nil  | Anderson, Mrs. Minnie  | Wyoming, Ont    | Canada.. | Goderich  | Jan. | 17, 1916. |
+| 2 | 559<br>1763<br>3757<br>1792 | 654415 | L.-Corporal  | Anderson, John George  | Nil  | Anderson, James  | R.R. No. 4, Brussels, Ont  | U.S.A.., | Belgrave  | Feb. | 8, 1916. |
+| 2 | 559<br>1791<br>3757<br>1822 | 654139 | L.-Sergeant  | Andrews, Francis William  | Nil  | Andrews, Mrs. Mary Ellen  | Clinton, Ont  | Canada.. | Clinton  | Jan. | 5, 1916. |
+| 2 | 559<br>1820<br>3758<br>1852 | 654002 | Sergeant  | Angell, Reginald George  | Nil  | Angell, Mrs. Myrtle Mary  | Hensall, Ont    | England. | Hensall  | Dec. | 15, 1915. |
+| 2 | 559<br>1849<br>3758<br>1880 | 654621 | Private  | Anger, George Hugh  | Nil  | Anger, William  | Gorrie, Ont  | Canada.. | Wroxeter  | Mar. | 22, 1916. |
+| 2 | 559<br>1878<br>3758<br>1909 | 654599 | Private  | Anger, James Alvin  | Nil  | Anger, William  | Gorrie, Ont  | Canada.. | Wroxeter  | Mar. | 21, 1916 |
+| 2 | 559<br>1907<br>3759<br>1938 | 654003 | Private  | Appleby, William James C  | Nil  | Appleby, James  | Clinton, Ont  | Canada.. | Clinton  | Dec. | 6, 1915. |
+| 2 | 559<br>1936<br>3759<br>1967 | 654307 | Private  | Appleton, David Gordon  | Nil  | Appleton, Thomas  | Crediton East, Ont  | Canada.. | Exeter  | Jan. | 24, 1916. |
+| 2 | 558<br>1965<br>3760<br>1996 | 654684 | Private  | Appleton, Thomas Winifred.... | Nil  | Appleton, Mrs. Florence  | Exeter, Ont  | Canada.. | Exeter  | Mar. | 27, 1916. |
+| 2 | 558<br>1994<br>3759<br>2025 | 654780 | Private  | Armstrong, Lome Wilson  | Nil  | Armstrong, George  | Varna, Ont  | Canada.. | London  | May | 9, 1G16. |
+| 2 | 558<br>2022<br>3760<br>2053 | 654622 | Private  | Atkinson, Lewis Patrick  | 33rd Regt | Atkinson, Mrs. Catherine  | Seaforth, Ont  | Canada.. | Seaforth  | Mar. | 23, 1916. |
+| 2 | 558<br>2051<br>3760<br>2081 | 054851 | Private  | Baker, William Joseph  | Nil  | Baker, Mrs. Catherine  | Hensall, Ont  | Canada.. | Clinton  | May | 21, 1916. |
+| 2 | 557<br>2080<br>3761<br>2111 | 654258 | Private  | Balkwill, David Muir  | Nil  | McCracken, Mrs. A  | Goderich, Ont  | Canada.. | Goderich  | Jan. | 17, 1916. |
+| 3 | 656<br>454<br>2251<br>483 | 654442 | Act.-Corporal... | Ballantync, Colin MacCarter... | Nil  | Ballantyne, James  |
+| 3 | 656<br>483<br>2250<br>511 | 654005 | Private  | Barker, Joseph Henry  | 33rd Regt. .. | Barker, Mrs. Annie  |
+| 3 | 656<br>503<br>3846<br>541 | 654006 | L.-Corporal  | Barkley, William Reynold  | Nil  | Barkley, George  |  |  |  | Dec. 22. 1915. | U.S.A  | Brussels  |
+| 3 | 656<br>541<br>2249<br>568 | 654860 | Private  | Barr, Walter Earl  | Nil  | Barr, John  |
+| 3 | 656<br>570<br>2249<br>599 | 654407 | Corporal  | Barr, William James  | Nil  | Barr, Mrs. William J  |
+| 3 | 656<br>591<br>3846<br>628 | 65456S | Private  | Barron, William George  | Nil  | Barron, Alexander  |  |  |  | Mar. 11, 1916. | R.R. No. 2, Brussels, Ont   | Canada  |
+| 3 | 655<br>619<br>3846<br>655 | 654346 | Private  | Bates, Albert Russell  | Nil  | Bates, William K  |  |  |  | Jan. 17. 1916. | Canada  |
+| 3 | 655<br>657<br>2248<br>684 | 654472 | Private  | Bates, Charles Fred  | Nil  | Bates, George D  |
+| 3 | 655<br>677<br>3846<br>712 | 654458 | Private  | Bates, Harold Leslie  | Nil  | Bates, William K  |  |  |  | Feb. 12, 1916. | Canada  | Goderich  |
+| 3 | 654<br>707<br>3847<br>744 | 654347 | Private  | Bates, John Henry  | Nil  | Bates, George D  |  |  |  | Jan. 7, 1916. | Canada  |
+| 3 | 654<br>736<br>3846<br>773 | 654295 | Private  | Batten, Ralph Wellington  | Nil  | Batten, John  |  |  |  | Jan. 22, 1916. | Canada  |
+| 3 | 654<br>764<br>3846<br>802 | 654726 | Private  | Baxter, George Leslie  | Nil  | Baxter, Mrs. Charlotte  |  |  |  | April 4, 1916. | Canada  | Goderich  |
+| 3 | 654<br>794<br>3846<br>829 | 654600 | Private  | Beattie, Thomas Alexander.. . | Nil  | Beattie, Mrs. Elizabeth  |  |  |  | Mar. 22, 1916. | Canada  |
+| 3 | 654<br>823<br>3846<br>859 | 654193 | Private  | Beattie, William Percy  | Nil  | Beattie, Mrs. E  |  | Canada  |  | Jan. 5, 1916. |
+| 3 | 654<br>852<br>3846<br>888 | 654670 | Private  | Beere, Wyndham Irbv F  | Imp. Forces. | Beere, Mrs. Eleanor Mabel. |  |  |  | Mar. 22, 1916. | South Africa.... | Goderich  |
+| 3 | 653<br>881<br>3846<br>918 | 654207 | Sergeant  | Bell, Benson Henry  | Nil  | Bell, Mrs. Henry  |  |  |  | Jan. 5, 1016. | Canada  |
+| 3 | 653<br>909<br>3845<br>946 | 654391 | Private  | Bell, John Harvey  | Nil  | Bell, Mrs. Jean  |  |  |  | Jan. 31, 1916. | Canada  | Goderich  |
+| 3 | 652<br>939<br>3845<br>974 | 654563 | Private  | Bell, Russell Melton  | U.S. Army.. | Bell, Mrs. Stelle Catherine. |  |  |  | Mar. 11, 1616. | Canada  | Goderich  |
+| 3 | 652<br>973<br>2259<br>1003 | 654208 | Private  | Bell, Wilfrid Laurier  | 33rd Regt. . . | Bell, Mrs. Elizabeth  |
+| 3 | 652<br>1003<br>2258<br>1032 | 654624 | Private  | Bellamy, Charles Arthur H  | Nil  | Bellamy, Mrs. Annie  |
+| 3 | 652<br>1025<br>3847<br>1060 | 654178 | Private  | Bennett, William Clarence  | Nil  | Bennett, Joseph  |  | Canada  | Brussels  | Dec. 31, 1915. |
+| 3 | 651<br>1054<br>3847<br>1090 | 654473 | Private  | Bentley, Earl Charles  | Nil  | Bentley, Jonathan  |  |  |  | Feb. 21, 1916. | Canada  | Blyth  |
+| 3 | 651<br>1082<br>3847<br>1118 | 654789 | Private  | Bentley, Russell Clarence  | Nil  | Bentley, Jonathan  |  |  |  | May 10, 1916. | Canada  | Blyth  |
+| 3 | 651<br>1111<br>3847<br>1146 | 654474 | Private  | Berriman, George Edward  | Nil  | Berriman, Mrs. Rose  |  |  |  | Feb. 18, 1916. | England  | Goderich  |
+| 3 | 651<br>1140<br>3848<br>1175 | 654746 | Private  | Berry, William Frank  | Nil. | Berry, Mabel  |  |  |  | April 8, 191G. | England  | Goderich  |
+| 3 | 650<br>1169<br>3848<br>1205 | 651570 | Sergeant  | Best, John Harries  | 33rd Regt. . . | Best, John Maitland  |  | Canada  | Seaforth  | Mar. 13, 1916. |
+| 3 | 650<br>1197<br>3848<br>1233 | 654375 | Private  | Biggin, Francis Willard  | Nil  | Biggin, John  |  | Canada  | Blyth  | Jan. 29, 1916. |
+| 3 | 650<br>1226<br>3848<br>1261 | 654753 | Private  | Birney, William George  | Nil  | Birney, Charles William |  |  |  | April 25, 1916. | Canada  |
+| 3 | 649<br>1255<br>3848<br>1292 | 654123 | Sergeant  | Bissett, Thomas Harold  | Nil  | Bissett, Mrs. Thomas  |  | Canada  | Exeter  | Dec. 31, 1915. |
+| 3 | 649<br>1284<br>3848<br>1318 | 654733 | Private  | Black, John James  | Nil  | Black. James D  |  | Canada  |  | April 8, 1916. | Hensall  |
+| 3 | 649<br>1313<br>3848<br>1347 | 65-1140 | Private  | Black, Robert Anderson  | Nil  | Black, Robert  |  | Canada  | Brussels  | Dcc. 31, 1915. |
+| 3 | 648<br>1341<br>3848<br>1378 | 654141 | L.-Corporal  | Black, Roy Melvin  | Nil  | Black, James  |  |  |  | Dec. 31, 1915. | Canada  | Goderich  |
+| 3 | 3161<br>1371<br>3848<br>1397 |  |  |  |  |  |  |  |  | Mar. 13, 1916. | Canada  | Clinton  |
+| 3 | 648<br>1380<br>2258<br>1410 | 654571 | L. -Corporal  | Black, William  | Nil  | Black, John Wallis  |
+| 3 | 648<br>1400<br>3848<br>1438 | 654661 | Private  | Blackwell, David Benjamin . . | Nil  | Blackwell, George  | R.R. No. 2, Hensall, Ont  | Canada  | Hensall  | Mar. 24, 1916. |
+| 3 | 647<br>1437<br>2229<br>1466 | 654179 | Private  | Bloomfield, Morris Russell. . .. | Nil  | Bloomfield, Mrs. Emma.. |
+| 3 | 3161<br>1457<br>3849<br>1489 |  |  |  |  |  |  |  |  | Dec. 30, 1915. | England  | Exeter  |
+| 3 | 648<br>1466<br>2257<br>1495 | 654124 | Private  | Bolton, Albert Sidney  | Nil  | Not stated  |
+| 3 | 3162<br>1486<br>3849<br>1517 |  |  |  |  |  |  |  |  | Jan. 17, 1916. | England  | Wingham  |
+| 3 | 648<br>1495<br>2257<br>1523 | 654259 | Private  | Bond, Herbert James  | Nil  | Bond, Sidney  |
+| 3 | 647<br>1515<br>3849<br>1552 | 654625 | Private  | Bowra, Frederick William  | Imp. Forces. | Bowra, Mrs. Rose Amy  |  |  |  | Mar. 21, 1916. | England  |
+| 3 | 647<br>1544<br>3849<br>1584 | 654568 | Private  | Boyce, Frank Harold  | Nil  | Boyce, James  |  | Canada  |  | Mar. 4. 1916. |
+| 3 | 647<br>1580<br>2242<br>1612 | 654865 | Private  | Boyle, Edgar Bernard  | Nil  | Boyle, Mrs. Alice  |
+| 3 | 647<br>1602<br>3849<br>1639 | 654671 | Private  | Brad win, Albert Milton  | Nil  | Bradwin, Mrs. Lena  |  |  |  | Mar. 20, 1916. | Godcrich, Ont  | Canada  | Goderich  |
+| 3 | 647<br>1631<br>3849<br>1668 | 654007 | Private  | B ram field, William Valentine. | Can. Mil | Bramfield, Mrs. Katie.... |  |  |  | Dec. 28, 1915. | Clinton, Ont  | Canada  | Clinton  |
+| 3 | 647<br>1660<br>3850<br>1697 | 727161 | Private  | Brandon, Abraham  | Nil  | Brandon, Mrs. Catherine  |  |  |  | Dec. 7. 1915. | Bayfield, Ont  | Canada  | Listowel  |
+| 3 | 648<br>1689<br>3850<br>1725 | 554521 | Private  | Brandon, Harold Noble  | Nil  | Brandon, Mrs. Catherine  |  |  |  | Feb. 29, 1916. | Bayfield, Ont  | Canada  | Clinton  |
+| 3 | 646<br>1721<br>3148<br>1756 | 654008 | Private  | Brazier, George William  | Nil  | Brazier, Mrs. George  | c/o Mrs. E. Fawrant, 82 Hatcham Park Rd., New |
+| 3 | 647<br>1782<br>2315<br>1812 | 354400 | Private  | Brennan, Frederick  | Nil  | Johnstone, Mrs. James H  |
+| 3 | 646<br>1805<br>3850<br>1841 | 054577 | Private  | Bridle, William Thomas  | Nil  | Bridle, Mrs. Florence Henrietta. |  |  |  | Mar. 16, 1916. | Goderich, Ont  | England  | Goderich  |
+| 3 | 646<br>1834<br>3851<br>1871 | 654475 | Private  | Bright, William Down  | 33rd Regt. | Bright, Mrs. Beatrice.... |  |  |  | Feb. 21, 1916. | Seaforth. Ont  | Canada  | Seaforth  |
+| 3 | 646<br>1863<br>3851<br>1900 | 054360 | Private  | Brindley, Allan Jasper  | Nil  | Brindley, William  |  |  |  | Jan. 29, 1916. | Goderich, Ont  | Canada  | Goderich  |
+| 3 | 643<br>1891<br>3851<br>1928 | 054: 09 | Private  | Brintncll, Clifford  | Nil  | Brintncll, Donald  |  |  |  | Jan. 24, 1916. |
+| 3 | 645<br>1921<br>3851<br>1955 | 654421 | Private  | Brittain, Frederick James  | Nil  | Brittain, William  |  |  | Wroxeter  | Feb. 9, 1916. |
+| 3 | 644<br>1949<br>3851<br>1987 | 054412 | Private  | Brock, George Edward  | Nil  | Brock, Mrs. Flossie  |  |  |  | Feb. 8, 1916. | Hensall  |
+| 3 | 645<br>1978<br>3852<br>2013 | 054553 | Private  | Brockenshire, Arva Everett  | Nil  | Brokenshire, Silas |  |  |  | Mar. 6, 1916. |
+| 3 | 645<br>2007<br>3852<br>2044 | 054260 | Private  | Brombley, Charles Edward | Nil  | Brombley, William  | Londesborough, Ont  | Canada  | Blyth  | Jan. 18, 1916. |
+| 3 | 645<br>2036<br>3854<br>2071 | 054142 | Private  | Brown, Bernard  | Nil  | Brown, Edward  | Ripley, Ont  | Scotland  | Seaforth  | Jan. 1, 1916. |
+| 3 | 645<br>2065<br>3852<br>2102 | 054009 | Private  | Brown, .Samuel Henry  | Can. Mil.. | Brown, John  |  | Canada  | Clinton  | Dec. S, 1915. |
+| 3 | 645<br>2094<br>3852<br>2130 | 054001 | L.-Corporal  | Brunner, Charles Edward  | Nil  | Brunner, Mrs. John |  | Canada  |  | Mar. 21, 1010. |
+| 3 | 1855<br>2123<br>3853<br>2153 |  |  |  |  | Buchanan, Robert  |  |  | Londesborough. | May 9, 1916. |
+| 3 | 645<br>2151<br>3853<br>2186 | 054443 | Private  | Buchanan, Ward Miles  | Nil  | Buchanan, Mark  |  |  | Brussels  | Feb. 12, 1916. | Canada  |
+| 4 | 551<br>559<br>3242<br>597 | Mz |  |  | Former Corps. |  | Country of |
+| 4 | 646<br>712<br>3737<br>741 |  | Private  |  | Nil  |  |  |  | 29, 1910. |
+| 4 | 645<br>741<br>3738<br>771 |  | Co. Scrgt.-Major.. | Burchell, Fred William  | Nil  |  |  |  | 6, 1916. |
+| 4 | 645<br>769<br>3737<br>798 |  | Private  | Burling, Lome  | Nil  |  |  |  | 19. 1916. |
+| 4 | 645<br>799<br>3736<br>829 |  | Private  | Burton, Roy Martin  | Nil  |  |  |  | 10, 1910. |
+| 4 | 645<br>827<br>3736<br>858 |  | Private  | Butcher, Norman Leslie  | Nil  |  |  |  | 16, 1916. |
+| 4 | 645<br>856<br>3736<br>887 |  | Private  | Butler, John Robert  | Nil  |  |  |  | 21, 1916. |
+| 4 | 547<br>885<br>3736<br>916 | G54831 | Private  | Buttrey, Charlie Wesley  | Nil  |  |  |  | 16, 1916. |
+| 4 | 643<br>914<br>3735<br>944 |  | Corporal  | Caldwell, Robert Revnolds  |  | Caldwell, William T  |  |  | 10, 1916. |
+| 4 | 644<br>943<br>3736<br>974 |  | Private  | Callow, Earnest   | Nil  |  |  |  | 8, 1916. |
+| 4 | 1419<br>1030<br>3737<br>1059 |  |  |  | Nil  |  |  |  | 2, | 1915. |
+| 4 | 1418<br>1059<br>3737<br>1087 |  |  |  | Nil  |  |  |  | 17, | 1916. |
+| 4 | 643<br>1087<br>3738<br>1115 |  | Private  |  | Nil  |  |  |  | 31, | 1910. |
+| 4 | 545<br>1116<br>3738<br>1143 | 654481 |  |  | Nil  |  |  |  | 21, | 1910. |
+| 4 | 545<br>1145<br>3738<br>1174 | G54011 | Private  | Campbell, Hugh  | Nil  |  |  |  | IS, | 1915. |
+| 4 | 545<br>1174<br>3739<br>1202 | G54194 |  |  | Nil  |  |  |  | 8. | 1916. |
+| 4 | 1417<br>1203<br>3739<br>1230 |  |  |  | Nil  |  |  |  | 13, | 1915. |
+| 4 | 1417<br>1232<br>3738<br>1259 |  |  |  | Nil  |  |  |  | 5, | 1916. |
+| 4 | 545<br>1261<br>3739<br>1288 | 054 602 |  |  | Nil  |  | U.S.A  |  | 22, | 1916. |
+| 4 | 545<br>1290<br>3738<br>1318 | 054231 | Private  | Carruth, Frederick Lachlan  | Nil  |  |  | Wingham  | 13, | 1916. |
+| 4 | 545<br>1319<br>3738<br>1347 | 654801 | Private  | Carruth, Joseph Hunter  | 30th Regt  | Carruth, Mrs. Emily  |  | Wingham  | 15, | 1916. |
+| 4 | 544<br>1348<br>3737<br>1375 | 654864 |  |  | Nil  |  | Canada  | Clinton  | 21, | 1916. |
+| 4 | 544<br>1377<br>3736<br>1403 | 654013 |  |  |  |  | Canada  |  | 13, | 1915. |
+| 4 | 544<br>1405<br>3736<br>1432 | 654662 |  |  | Nil  |  |  | Manchester  | 23, | 1916. |
+| 4 | 543<br>1435<br>3734<br>1461 | 654427 |  |  | Nil  |  |  | Wroxeter  | 10. | 1916. |
+| 4 | 542<br>1462<br>3735<br>1490 | 054523 |  |  | Nil... |  |  | Clinton  | 22, | 1916. |
+| 4 | 542<br>1491<br>3734<br>1517 | 654014 |  |  |  |  |  | Goderich  | 13, | 1915. |
+| 4 | 541<br>1521<br>3734<br>1546 | 654276 |  |  | Nil... |  |  |  | 14, | 1916. |
+| 4 | 541<br>1549<br>3735<br>1579 | 654278 | Private  | Champion, Roy Albert  | Nil  | Champion, Mrs. Martha  | Canada  |  | 14, | 1916. |
+| 4 | 542<br>1578<br>3735<br>1608 | 654757 | Sergeant  |  |  | C’hapman, Mrs. Elizabeth J  | Canada  |  | 21/ | 1916. |
+| 4 | 543<br>1607<br>3735<br>1632 | 654730 |  |  | Nil... |  |  |  | :io, | 1916. |
+| 4 | 543<br>1635<br>3736<br>1660 | 751752 |  |  | Nil  |  |  | London  | 27. | 1916. |
+| 4 | 544<br>1664<br>3737<br>1693 | 654603 |  |  | Nil  | Chisholm, Mrs. Lily   |  |  | 21, | 1916. |
+| 4 | 545<br>1691<br>3738<br>1718 | 654759 |  |  | Nil  |  |  | Clinton  | 2, | 1916. |
+| 4 | 545<br>1719<br>3738<br>1746 | 654694 |  |  | Nil  |  |  |  | 22, | 1916. |
+| 4 | 546<br>1748<br>3739<br>1775 | 654821 |  |  | Nil  |  |  | Clinton  | 15. | 1916. |
+| 4 | 1747<br>1777<br>3740<br>1806 |  |  |  |  | (Mark, Mrs. Margaret  |  | Seaforth  | II. | 1916. |
+| 4 | 1419<br>1805<br>3741<br>1832 |  |  |  | Nil  |  |  | Hensall  | 1916. |
+| 4 | 1420<br>1834<br>3742<br>1862 |  |  |  | Nil... |  |  | Bayfield  | 25, | 1916. |
+| 4 | 1420<br>1862<br>3743<br>1890 |  |  |  | Nil  |  | Canada  | Brussels  | 17, | 1915. |
+| 4 | 3298<br>1891<br>3743<br>1917 |  |  |  |  |  |  | Hensall  | 13. | 1916. |
+| 4 | 545<br>1920<br>3743<br>1949 | 654801 |  |  |  |  | England  |  | 13, | 1916. |
+| 4 | 1421<br>1949<br>3744<br>1978 |  |  |  | Nil  |  | England  | Seaforth  | Dec. | 17, | 1915. |
+| 4 | 1422<br>1978<br>3744<br>2005 |  |  |  | Nil  |  |  | Seaforth  | Dec. | 14, | 1915. |
+| 4 | 3053<br>2007<br>3745<br>2034 |  |  |  |  |  | Canada  | Clinton  | April | 3, | 1916. |
+| 4 | 1422<br>2036<br>3745<br>2063 |  |  |  | Nil  |  |  |  | Feb. | 2, | 1916. |
+| 4 | 1422<br>2065<br>3745<br>2092 |  |  |  | Nil  |  |  |  | Mar. | 20, | 1916. |
+| 4 | 545<br>2093<br>3747<br>2126 | 054701 | Private  | Colclough, Douglas Oscar  | Nil  | Colclough, John  |  | Blvth  | Mar. | 27, | 1916. |
+| 5 | 663<br>420<br>3850<br>454 | 654429 | Private  | Cole, Francis Joshua  | 33rd Regt.. | McDonald, Mrs. Allen  | Goderich, Ont  |  |  | Feb | 5 | 1916. |
+| 5 | 664<br>450<br>3851<br>483 | 654822 | Private  | Cole, Oliver John  | Nil  | Cole, Thomas Henry  | R.R. No. 3, Clinton, Ont  | Canada  |  | May | 14 | 1916. |
+| 5 | 663<br>479<br>3850<br>511 | 654016 | Private  | Cole, Robert Nelson  | Nil  | Cole, Mrs. Flossie E  | Clinton, Ont  | Canada  |  |  | 11 | 1915. |
+| 5 | 663<br>508<br>3851<br>542 | 654587 | Private  | Coleman, Charles Sidney  | Nil  | Coleman, Mrs. E  | 6 Brandon Rd., YVood St., Walthamstow, Essex, Eng. | England  |  |  | IS | 1916. |
+| 5 | 662<br>537<br>3851<br>570 | 654195 | Private  | Collingwood, Ernest  | Nil  | Collingwood, Mrs. Violet  | Exeter, Ont  |  |  |  | 6 | 1916. |
+| 5 | 662<br>566<br>3851<br>600 | 654842 | Private  | Collins, James Wilson M  | Nil  | Collins, William  | Bruce field, Ont  |  |  | May | 11 | 1916. |
+| 5 | 662<br>595<br>3850<br>630 | 654020 | Private  | Colvin, David  | Nil  | Colvin, Mrs. Eliza Ann  | Bellyneagh, Moneymore, Co. Londonderry, Ire  |  |  | Dec. | Ireland  | 13 | 1915. |
+| 5 | 662<br>624<br>3852<br>657 | 654017 | Private  | Consigney, Charles  | Nil  | Consigney, Charles  | Seaforth, Ont  |  |  |  | 25 | 1915. |
+| 5 | 661<br>653<br>3852<br>687 | 654238 | Private  | Cook, Mansfield Smith  | Nil  | Cook, Fred  | Clinton, Ont  |  |  |  | 11 | 1916. |
+| 5 | 662<br>683<br>3852<br>716 | 654790 | Private  | Cook, Milton Joshua  | Nil  | Cook, Joshua  | Clinton, Ont  |  |  | May | 11 | 1916. |
+| 5 | 661<br>711<br>3851<br>744 | 654279 | Corporal  | Cook, Rollo Elmer  | Nil  | Cook, Mrs. Jane  | Seaforth, Ont  | U.S.A.... |  |  | 14 | 1916. |
+| 5 | 661<br>741<br>3850<br>774 | 654021 | Private  | Cook, Willett Glen  | Nil  | Cook, Frederick  | Clinton, Ont  |  |  |  | 16 | 1915. |
+| 5 | 660<br>770<br>3851<br>803 | 654280 | Private  | Cooper, Cecil Wilford  | Nil  | Cooper, George E  | Clinton, Ont  |  |  | Jan. | 17 | 1916. |
+| 5 | 660<br>799<br>3844<br>832 | 654871 | Private  | Copeland, Chester Russell | Nil  | Copeland, Mrs. Pearl V  | Wingham, Ont  |  |  | June | 3 | 1916 |
+| 5 | 660<br>828<br>3850<br>860 | 654802 | Private  | Corbett, Erie Armstrong  | Nil  | Corbett, Mrs. Sarah  | R.R. No. 1, Goderich, Ont  |  |  | May | 10 | 1916. |
+| 5 | 660<br>857<br>3852<br>890 | 654022 | L.-Corporal  | Cornish, John Hendall  | Nil  | Cornish, John  | Elimville, Ont  |  |  | Dec. | 11 | 1915. |
+| 5 | 660<br>886<br>3852<br>918 | 654702 | Private  | Cornish, Richard Hardwick.. | Can. Mil. . . . | Cornish, John  | Elimville, Ont  |  | Exeter  | Mar. | 20 | 1916. |
+| 5 | 659<br>915<br>3852<br>948 | 654023 | Private  | Cornwall, William Francis.... | 2nd Regt | Cornwall, Mrs. Sarah Jane  | Wroxeter, Ont  |  |  | Dec. | 20 | 1915. |
+| 5 | 659<br>944<br>3852<br>978 | 654348 | Sergeant  | Coultes, Charlie Russell  | Nil  | Coultes, Mrs. George W  | Wingham, Ont  |  | Blyth  | Jan. | 1916. |
+| 5 | 659<br>973<br>3852<br>1006 | 654491 | Private  | Coultes, James Howard  | Nil  | Coultes, Mrs. Lizzie. .    | Weston, Ont  |  |  | Feb. | 17 | 1916. |
+| 5 | 660<br>1002<br>3852<br>1034 | 654019 | Btn. Q.-M. Sergt.. | Counter, Morley  | Can. Mil.... | Counter, William R  | Clinton, Ont  |  |  | Dec. | 10 | 1915. |
+| 5 | 660<br>1031<br>3853<br>1064 | 654832 | Private  | Coutts, Andrew Donald  | Nil  | Coutts, Mrs. Mary  | Jamestown, Ont  |  |  | May | 16 | 1916. |
+| 5 | 660<br>1060<br>3852<br>1094 | 654710 | Private  | Cowan, John Alexander  | Nil  | Cowan, Isaac  | Blyth,Ont  |  |  | Mar. | Canada  | Blyth  | 27 | 1916. |
+| 5 | 660<br>1088<br>3852<br>1123 | 654444 | Private  | Cowan, Walter  | Nil  | Cowan, David  | Blyth, Ont  |  |  | Feb | 10 | 1916. |
+| 5 | 660<br>1117<br>3845<br>1152 | 654327 | Private  | Cowan, William Edgar  | Nil  | Cowan, Isaac  | Blyth, Ont  |  | Blyth  |  | 25 | 1916 |
+| 5 | 659<br>1146<br>3852<br>1180 | 654791 | Private  | Cowell, Richard Tomlinson... | Nil  | Cowell, Mrs. Frances Rebecca. . | Wingham. Ont  |  |  | May | 11 | 1916. |
+| 5 | 659<br>1175<br>3853<br>1207 | 654343 | Sergeant,  | Cox, Clarence James  | Nil  | Cox, Mrs. Olive Jane  | Auburn, Ont  |  |  |  | 27 | 1916. |
+| 5 | 659<br>1204<br>3852<br>1236 | 654024 | Private  | Cox, Richard Frederick  | Nil  | Cox, Richard  | Brussels, Ont  |  | Brussels  |  | 21 | 1915. |
+| 5 | 658<br>1233<br>3853<br>1266 | 654328 | Corporal  | Craig, Joseph Chambers  | Nil  | Craig, Mrs. Lily  | Goderich, Ont  |  |  |  | r? | 1916. |
+| 5 | 658<br>1262<br>3853<br>1295 | 65402.' | Private  | Cramer, John  | Can. Mil | Cramer, John  | Paris, Ont  |  |  |  | 23 | 1915. |
+| 5 | 657<br>1291<br>3853<br>1325 | 654239 | Corporal  | Crawford, Frederick  | 33rd Regt. .. | Crawford, Edward  | Londcsborough,Ont  |  |  |  | 14 | 1916. |
+| 5 | 657<br>1320<br>3853<br>1354 | 654841 | Private  | Crawford, James Clarence. . . . | Nil  | Crawford, Charles  | Ixjndesborough, Ont  |  |  | May | 19 | 1916. |
+| 5 | 657<br>1350<br>3853<br>1384 | 654703 | Private  | Crawford, Roy Edward  | 33rd Regt. .. | Crawford, George. .   | Blyth, Ont  |  | Blyth  |  | 28 | 1916. |
+| 5 | 657<br>1378<br>3853<br>1412 | 654516 | Private  | Crawford, St. Clair  | Nil  | Crawford, Alexander McDonald. | Wingham, Ont  |  |  | Feb | 28 | 1916. |
+| 5 | 656<br>1407<br>3853<br>1440 | 654026 | Sergeant  | Cree, Lockhart John  | Nil  | Cree, Mrs. Maggie  | Clinton, Ont  |  |  |  | 6 | 1915. |
+| 5 | 656<br>1437<br>3853<br>1468 | 654027 | Co. Sergt.-Major.. | Crich, James Onslow  | 33rd Regt. . . | Crich, Mrs. Susan  | Clinton, Ont  | Canada  |  |  | 6 | 1915. |
+| 5 | 656<br>1466<br>3853<br>1497 | 654758 | Private  | Crich, Wilfred Victor  | Nil  | Crich, Onslow  | Clinton, Ont  | Canada  | Clinton  | April 29 | 1916. |
+| 5 | 656<br>1494<br>3853<br>1526 | 654508 | Private  | Cud more, Lome  | Nil  | Cudmorc, Mrs. Louisa  | Exeter, Ont  |  |  | Feb. 25 | 1916. |
+| 5 | 655<br>1524<br>3852<br>1556 | 654361 | Private  | Culbert, Gordon Carroll  | Nil  | Culbert, John  | Centralta, Ont  |  | Exeter  |  | 31 | 1916. |
+| 5 | 655<br>1553<br>3846<br>1585 | 654626 | Private  | Culbert, Wilson  | Nil  | Culbert, John  | Central ia, Ont  |  |  |  | 21 | 1916 |
+| 5 | 656<br>1582<br>3846<br>1613 | 654719 | Private  | Currell, Lloyd William  | Nil  | Currell, Edward Albert  | Goderich, Ont. *  |  |  |  | 27 | 1916 |
+| 5 | 655<br>1611<br>3846<br>1644 | 654792 | Private  | Currie, David  | Nil  | Currie, Mrs. Jemima Hope  | Wingham, Ont  |  |  | May | 11 | 1916 |
+| 5 | 655<br>1640<br>3854<br>1672 | 654127 | Private  | Currie, Harold James  | Nil  | Currie, W. J  | R.R. No. 5, Wingham, Ont  |  |  |  | 31 | 1915. |
+| 5 | 655<br>1669<br>3854<br>1701 | 654196 | Corporal  | Currie, Harold Reginald  | Nil  | Currie, Peter  | Goderich, Ont  |  |  |  | 7 | 1916. |
+| 5 | 655<br>1698<br>3853<br>1730 | 654144 | L.-Sergeant  | Currie, James Hilton  | Nil  | Currie, John T  | R.R. No. 3, Wingham, Ont  |  |  | Jan. | 4 | 1916. |
+| 5 | 655<br>1727<br>3853<br>1759 | 654469 | Private  | Currie, Kenneth  | Nil  | Currie, Mrs. Agnes  | Bayfield, Ont  |  |  | Feb. | 17 | 1916. |
+| 5 | 655<br>1756<br>3846<br>1789 | 654627 | L.-Corporal  | Curson, James Robert  | Nil  | Curson, Mrs. Nellie  | Goderich, Ont  |  |  | Mar. | 22 | 1916 |
+| 5 | 655<br>1785<br>3853<br>1818 | 654524 | L.-Corporal  | Dftvidson, Leonard Robert | Nil  | Davidson, William  | Zurich, Ont  |  |  | Feb | 29 | 1916. |
+| 5 | 655<br>1812<br>3853<br>1846 | 654253 | Private  | Davidson, Thomas Alexander. | Nil  | Davidson, William  | Zurich, Ont  |  |  | Jan. | 1 | 1916. |
+| 5 | 654<br>1842<br>3852<br>1876 | 654863 | Private  | Davis, George Newton  | 33rd Regt. . . | Davis, George  | Clinton, Ont  |  |  | May | 16 | 1916. |
+| 5 | 654<br>1871<br>3852<br>1905 | 654588 | Private  | Day, George Linfred  | Nil    | Day, Robert John  | Wingham, Ont  |  |  | Mar. | 18 | 1916. |
+| 5 | 654<br>1900<br>3853<br>1934 | 654711 | Private  | Day, Louis Edgar  | Nil  | Day, Louis  | Exeter, Ont  |  |  | Mar. | 30 | 1916. |
+| 5 | 654<br>1929<br>3852<br>1962 | 654867 | Private  | Deem, Harold Arthur   | Nil  | Deem, Mrs. Martha Irene  | Wingham, Ont  |  |  | May | 27 | 1916. |
+| 5 | 654<br>1958<br>3852<br>1992 | 654589 | Private  | Deem, Sydney  | Nil  | Deem, William  | Seaforth, Ont  |  |  | Mar. | 20 | 1916. |
+| 5 | 653<br>1987<br>3845<br>2021 | 654312 | L.-Corporal  | Dennison, Alfred Wesley  | 33rd Regt. . . | Dennison, Mrs. Lilian  | Walton, Ont  |  |  |  | 24 | 1916 |
+| 5 | 653<br>2015<br>3845<br>2049 | 654803 | Private  | Dexter, Harold Lloyd  | Nil  | Dexter, Mrs. E. J  | Blyth, Ont  |  |  | May | II | 1916 |
+| 5 | 653<br>2044<br>3852<br>2078 | 654029 | Private  | Dexter, Herbert Manson  | Nil  | Dexter, Mrs. Emma Jane  | Blyth, Ont  |  |  | Dec. | 28 | 1915. |
+| 5 | 653<br>2073<br>3843<br>2107 | 654591 | Private  | Dick, Ross Thomas  | Nil  | Dick, Mrs. Elizabeth  | Hay, Ont  |  |  | Mar. | 20 | 1916 |
+| 5 | 654<br>2102<br>3844<br>2136 | 654145 | Co. Q.-M. Sergt... | Dick, Thomas Henry  | 33rd Regt. . | Dick, John  | Seaforth, Ont  |  |  | Dec. | 27 | 1915 |
+| 5 | 654<br>2131<br>3853<br>2165 | 654720 | L.-Corporal  | Dickinson, Joseph Arthur  | Nil  | Dickinson, Mrs. Margaret S  | 1001 Bathurst St., Toronto, Ont  | Canada  |  | April | 3 | 1916. |
+| 6 | 759<br>538<br>3265<br>567 |  |  |  | Former Corps. | Country of |
+| 6 | 570<br>681<br>3759<br>708 | 654310 | Private  |  | Nil  |  | Seaforth  | Jan. 24, 191C. |
+| 6 | 570<br>711<br>3759<br>736 | 654712 |  |  |  |  |  | Mar. 21, 1916. | Nil  |
+| 6 | 569<br>768<br>3759<br>797 | 654146 | Sergeant.  | Dougall, Roswell Percival Ingram | Nil  | Canada  | Hensall  | Jan. 4, 1916. |
+| 6 | 569<br>797<br>3758<br>823 | 654190 |  |  |  |  |  | Jan. 6, 1916. | Nil  |
+| 6 | 569<br>826<br>3759<br>855 | 654030 |  |  |  |  |  | Dec. 6, 1915. | L.-Sergeant  | Draper, Robert Murray  | Nil  | Canada  | Clinton  |
+| 6 | 569<br>855<br>3759<br>880 | 654262 |  |  |  |  |  | Jan. 17, 1916. | Private  |
+| 6 | 569<br>884<br>3757<br>912 | 654232 |  |  |  |  |  | Jan. 13, 1916. | Corporal  | Nil  |
+| 6 | 568<br>913<br>3759<br>938 | 654565 |  |  |  |  |  | Mar. 10, 1916. | Private  | Nil   |
+| 6 | 568<br>942<br>3758<br>970 | 654147 |  |  |  |  |  | Jan. 3, 1916. | L.-Corporal  | Dunford, Ernest Russell  | C.A.M.C-  | Canada  |
+| 6 | 568<br>971<br>3759<br>998 | 654470 |  |  |  |  |  | Feb. 19, 1916. | Nil  | Sergeant  |
+| 6 | 567<br>999<br>3758<br>1028 | 654336 |  |  |  |  |  | Jan. 25, 1916. | Corporal  | Belgrave  |
+| 6 | 567<br>1029<br>3758<br>1054 | 654592 |  |  |  |  |  | Mar. 21, 1916. | Nil  |
+| 6 | 568<br>1057<br>3758<br>1082 | 654687 |  |  |  |  |  | Mar. 27, 1916. | Private  | Nil  |
+| 6 | 567<br>1086<br>3758<br>1114 | 654436 |  |  |  |  |  | Feb. 11, 1916. | Private  | Elliott, Lewis McMann  | Nil  | Goderich  |
+| 6 | 567<br>1115<br>3757<br>1140 | 654673 |  |  |  |  |  | Mar. 24, 1916. | Private  | Nil  |
+| 6 | 567<br>1144<br>3758<br>1169 | 654393 | Private  |  | Nil  |  |  | Feb. 3, 1916. |
+| 6 | 567<br>1173<br>3758<br>1199 | 654210 |  |  |  |  |  | Jan. 5, 1916. | Private  | Ervine, Edward  | Nil  | Goderich  |
+| 6 | 566<br>1201<br>3758<br>1232 | 654148 |  |  |  |  |  | Jan. 1, 1916. | Private  | Ervine, Robert  | Nil  | Canada  |
+| 6 | 567<br>1230<br>3758<br>1259 | 654492 | Private  | Fallis, Robert John  |  | Canada  | Wingham  | Feb. 19, 1916. |
+| 6 | 566<br>1259<br>3758<br>1286 | 654031 | Private  | Farrant, James Harold  |  |  |  | Dec. 27, 1915. |
+| 6 | 566<br>1288<br>3758<br>1317 | 654329 |  |  |  |  |  | Jan. 25, 1916. | Private  | Fay, Richard  | Nil  |
+| 6 | 565<br>1317<br>3758<br>1345 | 654032 |  |  |  |  |  | Nov. 27, 1915. | Corporal  | Feagan, William Leonard  | Nil  |
+| 6 | 564<br>1347<br>3757<br>1373 | 654033 |  |  |  |  |  | Dec. 9, 1915. | Private  | Fearon, Arthur  | U.S. A  |
+| 6 | 563<br>1375<br>3757<br>1403 | 654493 |  |  |  |  |  | Feb. 14, 1916. | Sergeant  | Ferguson, Samuel Foster  | Nil  |
+| 6 | 562<br>1404<br>3757<br>1433 | 654263 |  |  |  |  |  | Jan. 15, 1916. | L.-Corporal  | Fetterly, William Marcus G  | Nil  | Wingham  |
+| 6 | 561<br>1433<br>3756<br>1460 | 654350 |  |  |  |  |  | Jan. 31, 1916. | L.-Sergeant  | Nil. |
+| 6 | 561<br>1462<br>3756<br>1488 | 654537 |  |  |  |  |  | Mar. 4, 1916. | Private  | Nil  |
+| 6 | 560<br>1490<br>3756<br>1519 | 654423 |  |  |  |  |  | Feb. 8, 1916. | L.-Corporal  | Fisher, George  |
+| 6 | 560<br>1519<br>3756<br>1546 | 654459 |  |  |  |  |  | Jan. 24, 1916. | Private  | Fisher, Robert Percival  | Nil  |
+| 6 | 560<br>1548<br>3756<br>1576 | 654034 |  |  |  |  |  | Dec. 6, 1915. | Private  | Fisher, Stanley Gordon  | Nil  |
+| 6 | 561<br>1576<br>3756<br>1604 | 654833 |  |  |  |  |  | Mav 17, 1916. | L.-Corporal  |
+| 6 | 561<br>1606<br>3754<br>1632 | 654264 | Private  |  | Nil  |  |  | Jan. 14, 1916. |
+| 6 | 561<br>1634<br>3755<br>1661 | 654035 |  |  |  |  |  | Dec. 10, 1915. | Sergeant  | Nil  |
+| 6 | 560<br>1663<br>3755<br>1690 | 654036 |  |  |  |  |  | Dec. 10, 1915. | Corporal  | Nil  |
+| 6 | 560<br>1692<br>3755<br>1720 | 694531 |  |  |  |  |  | Mar. 1, 1916. | Private  | Ford, Garnet  | Nil  |
+| 6 | 560<br>1721<br>3756<br>1750 | 654770 | Private  | Forrest, Charles Barclay  | Nil  |  |  | Mav 6, 1916. |
+| 6 | 559<br>1750<br>3756<br>1778 | 654297 |  |  |  |  |  | Jan. 15, 1916. | Private  | Forrester, Ross  | Nil  |
+| 6 | 559<br>1779<br>3756<br>1806 | 730097 |  |  |  |  |  | Nov. 27, 1915. | Private  | Forrester, Rov Alexander  |
+| 6 | 559<br>1807<br>3755<br>1836 | 654177 |  |  |  |  |  | Jan. 3, 1916. | Private  | Forsyth, Ross Frederick  |
+| 6 | 558<br>1836<br>3756<br>1863 | 654545 |  |  |  |  |  | Mar. 4, 1916. | Private  | Nil  |
+| 6 | 557<br>1865<br>3756<br>1894 | 654724 |  |  |  |  |  | April 4, 1916. | Private  | Nil  |
+| 6 | 557<br>1894<br>3755<br>1921 | 654834 |  |  |  |  |  | Mav 17, 1916. | Private  |
+| 6 | 557<br>1923<br>3755<br>1951 | 654037 | L.-Sergeant  | Fox, Robert Edward Stuart  | Nil  |  | Brussels  | Dec. 20, 1915. |
+| 6 | 556<br>1952<br>3755<br>1980 | 654149 |  |  |  |  |  | Jan. 4, 1916. | ?rivate  |
+| 6 | 556<br>1981<br>3754<br>2008 | 645298 | Private  |  | Nil  |  |  | Jan. 24, 1916. |
+| 6 | 556<br>2010<br>3754<br>2039 | 654868 |  |  |  |  |  | May 27, 1916. | Private  | Nil  |
+| 6 | 555<br>2039<br>3754<br>2067 | 654430 |  |  |  |  |  | Feb. 10, 1916. | Private  | Nil  |
+| 6 | 555<br>2068<br>3753<br>2098 | 654181 |  |  |  |  |  | Jan. 5, 1916. | Private  | Furness, Bert  | Nif  | Canada  | Clinton  |
+| 7 | 1551<br>419<br>3859<br>454 |  |  | Nil  | G&mbrill, Mrs. Elsie  | Exeter, Ont :  | England.. |  | Feb | 2S, 1916. |
+| 7 | 1552<br>449<br>3859<br>483 |  |  | Nil  | Garton, Mrs. Edward  | Brussels, Ont  | Canada... |  |  | 4, 1916. | Brussels  | Mar. |
+| 7 | 1883<br>478<br>3852<br>514 |  |  |  | Gauley, Mrs. Ella Gertrude .. | Goderich, Ont  | Canada... |  |  | 4, 1916 | May |
+| 7 | 675<br>507<br>3860<br>543 | 654823 Co. Q.-M. Sergt... |  | Nil  | Geddes, William James  | Belgrave, Ont  | Canada... |  |  | 15. 1916. | May | Clinton  |
+| 7 | 1552<br>536<br>3859<br>571 |  |  | Nil  | Gidlcy, Samuel  | Blyth, Ont  | Canada... |  |  | 23, 1916. | Blyth  |
+| 7 | 3179<br>565<br>3860<br>591 |  |  |  |  |  | Canada... |  |  | 1, 1916. | Feb |
+| 7 | 1550<br>571<br>3164<br>601 |  |  | C.O.T.C  | Gillespie, Neil  | Cromarty, Ont  |
+| 7 | 1883<br>595<br>3860<br>629 |  |  |  | Glazier, William  | Goderich, Ont  | Canada... |  |  | 14, 1916. |
+| 7 | 1552<br>624<br>3861<br>657 |  |  | Nil  | Gliddon, Daniel  | Holmesville, Ont  | Canada.. |  |  | 31, 1916. |
+| 7 | 1551<br>653<br>3861<br>686 |  |  | Nil  | Good, John  | Auburn, Ont  | Canada... |  |  | 13, 1916. | May |
+| 7 | 1551<br>682<br>3861<br>715 |  |  | Nil  | Good, John  | Auburn, Ont  | Canada... |  |  | 15, 1916. | Mar. | Blyth  |
+| 7 | 1883<br>710<br>3854<br>744 |  |  |  | Goodwin, Mrs. Isaac  | Yaxley, Peterborough, Eng  | England.. |  |  | 11, 1916 | Goderich  | Feb. |
+| 7 | 1551<br>740<br>3862<br>774 |  |  | Nil  | Goslcigh, Mrs. Thirza  | Clinton, Ont  | Canada... |  |  | 27, 1915. |
+| 7 | 1551<br>768<br>3862<br>802 |  |  | Nil  | Graham, Adam Alexander ... | R. R. No. 1, Gorrie, Ont  | Canada .. |  |  | 10, 1916. | May |
+| 7 | 1044<br>798<br>3863<br>833 |  | Graham, William Henry Ernest... |  | Graham, Reuben  | Clinton, Ont  | Canada... |  |  | 7, 1915. |
+| 7 | 1551<br>826<br>3863<br>861 |  |  | Nil  | Grant, Mrs. Lydia  | Clinton, Ont  | Canada .. |  |  | 17, 1916. |
+| 7 | 1551<br>855<br>3864<br>889 |  |  | Nil  | Grant, Mrs. Lydia  | Clinton, Ont  | Canada... |  |  | 10, 1916. |
+| 7 | 1551<br>884<br>3863<br>918 |  |  | Nil  | Grealis, Edward  | Clinton, Ont  | Canada... |  |  | 21, 1916. |
+| 7 | 3179<br>913<br>3863<br>942 |  |  |  |  |  | England.. |  |  | 11, 1916. | Feb |
+| 7 | 1551<br>919<br>3135<br>946 |  |  | Nil  | Grindrod, Mrs. Anna  | Goderich, Ont   |
+| 7 | 1882<br>942<br>3864<br>976 |  |  |  | Grisdalc, Mrs. Mary  | Wingham, Ont  | Canada... |  |  | 22, 1916. | Wingham  | Mar. |
+| 7 | 1882<br>970<br>3864<br>1004 |  |  |  | Grover, Mrs. L. H  | 234 Withrow Ave., Toronto, Ont  | U.S.A.. |  |  | 26, 1916. | Gamp Borden... | Oct. |
+| 7 | 1882<br>1000<br>3865<br>1034 |  |  |  | Guest, Mrs. Annie  | Wingham, Ont  | Canada... |  |  | 9, 1916. | Feb |
+| 7 | 1551<br>1029<br>3865<br>1063 |  |  | Nil  | Guest, William  | Wingham, Ont    | Canada... |  |  | 13, 1915. |
+| 7 | 1551<br>1058<br>3865<br>1091 |  |  | Nil  | Gwyn, Elizabeth  | Peterboro*, Ont  | England.. |  |  | 22, 1916. |
+| 7 | 1551<br>1088<br>3865<br>1120 |  |  | Nil  | Haggitt, Mrs. G. A  | Blyth, Ont  | Canada... |  |  | 17, 1916. |
+| 7 | 1551<br>1116<br>3866<br>1148 |  |  | Nil  | Haines, Mrs. Mary  | R. R. No. 2, Lucknow, Ont  | Canada... |  | Feb | 14, 1916. |
+| 7 | 1551<br>1145<br>3866<br>1178 |  |  | Nil  | Haines, Arthur  | Wingham, Ont  | Canada... |  |  | 3, 1916. |
+| 7 | 1551<br>1174<br>3865<br>1205 |  |  | Nil  | Hall, Mrs. Clara Edna  | Wroxeter, Ont  | Canada... |  |  | 31, 1916. |
+| 7 | 1551<br>1204<br>3866<br>1234 |  |  | Nil  | Hall, Mrs. Alice Maud  | R. R. No. 2, Goderich, Ont  | England.. |  |  | 22. 1916. |
+| 7 | 1550<br>1232<br>3864<br>1263 |  |  | Nil  | Hallam, Thomas  | Auburn, Ont  | England.. |  |  | 27, 1916. |
+| 7 | 1550<br>1261<br>3866<br>1294 |  |  | Nil  | Hamm, Alexander  | Blyth, Ont  | Canada... |  |  | 15, 1916. |
+| 7 | 1550<br>1290<br>3866<br>1322 |  |  | Nil  | Handley, Mrs. Louisa E  | Clapham, London, S.W., Eng  | England.. |  |  | IS, 1916. |
+| 7 | 1549<br>1320<br>3867<br>1350 |  |  | Nil  | Haney, George  | Bluevalc, Ont  | Canada... |  |  | 10, 1916. | May |
+| 7 | 1548<br>1349<br>3867<br>1379 |  |  | Nil  | Hanncnt, Mrs. Alice  | Clinton, Ont  | England.. |  | May | 20, 1916. |
+| 7 | 1548<br>1378<br>3867<br>1408 |  |  | Nil  | Hanncnt, Oxlcv  | Clinton, Ont  | England.. |  |  | 22, 1916. |
+| 7 | 1548<br>1407<br>3867<br>1436 |  |  | Nil  | Harburn, William  | Hensall, Ont  | Canada... |  |  | 17, 1916. |
+| 7 | 1042<br>1435<br>3867<br>1468 |  | Harness, Walter Henry  | Nil  | Harness, Mrs. Elizabeth  | Exeter, Ont  | Canada... |  |  | 23, 1916. | Feb |
+| 7 | 1548<br>1465<br>3868<br>1496 |  |  | Nil  | Hart, Mrs. Jane N  | Egmondville, Ont  | Scotland. |  |  | 1, 1916. |
+| 7 | 1547<br>1493<br>3867<br>1523 |  |  | Nil  | Harvey, Thomas  | Exeter, Ont  | Canada... |  |  | 22, 1916. | Feb |
+| 7 | 1547<br>1523<br>3868<br>1552 |  |  | Nil  | Haskins, Albert  | R. R. No. 1, Clifford, Ont  | Canada... |  |  | 21, 1916. |
+| 7 | 1879<br>1552<br>3868<br>1582 |  |  |  | Hastic. Matthew  | Harris ton, Ont  | Canada... |  |  | 11, 1916. | May |
+| 7 | 1547<br>1581<br>3868<br>1610 |  |  | Nil  | Hastie, Alexander  | Wroxeter, Ont  | Canada... |  |  | 8, 1916. |
+| 7 | 1546<br>1610<br>3868<br>1638 |  |  | Nil  | Hastings, Alvin  | New Liskeard, Ont  | Canada... |  |  | 1, 1916. | May |
+| 7 | 1546<br>1639<br>3868<br>1667 |  |  | Nil  | Hayden, Nelson  | R. R. No. 2, Blucvale, Ont    | Canada... |  | May | Wroxeter  | 6, 1916. |
+| 7 | 1546<br>1668<br>3869<br>1698 |  |  | Nil  | Haiggins, Mrs  | 38 Vicarage Pk., Plum stead, London, Kent, Eng  | England.. |  |  | 3, 1916. |
+| 7 | 1546<br>1697<br>3869<br>1725 |  |  | Nil  | Hayward, Mrs. Bertha  | Hensall, Ont  | Canada... |  |  | 24, 1916. |
+| 7 | 1546<br>1726<br>3867<br>1754 |  |  | Nil  | Hayward, Mrs. Alberta Jane.. | Hensall, Ont  | Canada.. |  |  | 22, 1916. |
+| 7 | 1546<br>1755<br>3869<br>1782 |  |  | Nil  | Heard, Mrs. Isabelle Frances. | Brucefield, Ont  | Canada... |  |  | 13, 1916. |
+| 7 | 1546<br>1784<br>3869<br>1814 |  |  | Nil  | Hefford, Miss Lottie E  | R. R. No. 1, Dungannon, Ont  | England.. |  |  | 22, 1915. |
+| 7 | 1879<br>1813<br>3868<br>1841 |  |  |  | Helps, Mrs. William  | Wingham, Ont  | Canada... |  |  | 3, 1916. | Feb |
+| 7 | 1545<br>1841<br>3869<br>1869 |  |  | Nil  | Ellis, Mrs. John  | Brussels, Ont  | Canada... |  |  | 24, 1916. | Brussels  | Mar. |
+| 7 | 1545<br>1870<br>3869<br>1898 |  |  | Nil  | Herman, Mrs. Ellen  | Clinton, Ont  | Canada... |  |  | 21. 1915. |
+| 7 | 668<br>1900<br>3869<br>1930 | 654794 Private  | Hewer, Lloyd Bertram  | Nil  | Hewer, John  | Wingham, Ont  | Canada... |  | Mav. 12. 1916. |
+| 7 | 667<br>1928<br>3869<br>1958 | 654526 Private  | Hildebrant, Irwin Andrew  | Nil  | Hildcbrant, William  | Hensall, Ont  | Canada... |  |  | 29, 1916. |
+| 7 | 667<br>1957<br>3869<br>1988 | 654045 Private  | Hill, Edwin Byard  | Nil  | Hill, Mrs. Maud  | Clinton, Ont  | Canada.. |  |  | 6, 1915. |
+| 7 | 667<br>1986<br>3870<br>2016 | 654183 Private  | Hillson, Frederick Richard  | Nil  | Not stated  | Not stated  | England.. |  | Jan. | 3, 1916. |
+| 7 | 1545<br>2015<br>3870<br>2042 |  |  | Nil  | Hinscliffe, Mrs. H  | Wingham, Ont  | Canada.. |  |  | 16, 1915. |
+| 7 | 667<br>2044<br>3870<br>2074 | 654241 Private  | Hirons, James Frederick  | Nil  | Hirons, George  | Blyth, Ont  | Canada.. |  |  | 10, 1916. |
+| 7 | 1544<br>2072<br>3871<br>2102 |  |  | Nil  | Hitchin, Mrs. Esther  | London, Eng  | England.. |  |  | 6, 1915. |
+| 7 | 667<br>2101<br>3870<br>2131 | 654807 Private  | Hoare, Carman Harold  | Nil  | Hoare, Cornelius  | Clinton, Ont  | Canada.. |  | May | 13, 1916. |
+| 7 | 666<br>2130<br>3871<br>2161 | 654254 Sergeant  | Hodges, Charles A   | Territorials  | Hodges, Mrs. Sarah  | Seaforth, Ont  | England |  | Jan. | Seaforth  | 15, 1916. |
+| 8 | 769<br>544<br>3274<br>576 |  |  | Former Corps. |  |  | Country of |
+| 8 | 578<br>689<br>3224<br>719 | 654 | Hoffman, James Alexander. | Nil  | Hoffman, Mrs. Elizabeth... | Wroxeter, Ont  | Canada... |
+| 8 | 577<br>719<br>3224<br>748 | 654 | Hoffman, Philip George.... | Nil  | Hoffman, Mrs. Mary Ann... | Kentville, Ont  | Canada... |
+| 8 | 577<br>748<br>3234<br>777 | 654 | Hogarth, Lucien Victor  | Nil  | Hogarth, Stephen Joshua. . . | Exeter, Ont  | Canada  |
+| 8 | 576<br>777<br>3234<br>806 | 654 | Holland, Benjamin  | Nil  | Holland, John  | Bay City, Mich., U.S.A  | England... |
+| 8 | 576<br>806<br>3234<br>836 | 654 | Holmes, John Elwood  | 33rd Regt. . | Holmes, Dudley  | Wingham r Ont  | Canada  |
+| 8 | 575<br>835<br>3234<br>864 | 654 | Hooper, Grant Alexander... | Nil  | Hooper, Adolphus  | R. R. No. 1, Hay, Ont  | Canada  |
+| 8 | 575<br>864<br>3234<br>893 | 654 | Hoover, Robert Harvey.... | Nil  | Hoover, Robert J  | Brussels, Ont ?., | Canada  |
+| 8 | 575<br>893<br>3234<br>921 | 654 | Horne, Albert Frank  | Nil  | Horne, Mrs. Elsie  | R. R. No. 4, Wingham, Ont  | England... |
+| 8 | 574<br>922<br>3234<br>950 | 654 | Horton, Hillary  | Nil  | Horton, Mrs. Hillary  | Exeter, Ont  | Canada  |
+| 8 | 574<br>950<br>3234<br>979 | 654 | Howes, Edward Gordon — | Nil  | Howes, Edward  | Ste. Therese, P.Q  | Canada  |
+| 8 | 574<br>980<br>3234<br>1008 | 654 | Hudson, Joseph Acheson.... | Nil  | Hudson, George  | Hensall, Ont  | Canada  |
+| 8 | 574<br>1008<br>3234<br>1037 | 654 | Huffman, Roland  | Can. Mil  | Huffman, John  | Wingham, Ont   | Canada  |
+| 8 | 574<br>1037<br>3234<br>1066 | 654 | Hunking, Albert Edward. .. | Nil  | Hunking, Mrs. Martha  | Auburn, Ont  | Canada  |
+| 8 | 574<br>1066<br>3234<br>1095 | 054 | Hunking, Harvey  | Nil....  | Hunking, Thomas  | Londesborough, Ont  | Canada  |
+| 8 | 574<br>1095<br>3234<br>1123 | 654 | Hunking, Norman  | Nil  | Hunking, Thomas  | 13th Con., Londesborough, Hullet Tp., Ont. | Canada  |
+| 8 | 574<br>1124<br>3234<br>1153 | 654 | Hunt, Roy  | 33rd Regt. . | Hunt, Charles  | Goderich, Ont  | Canada— |
+| 8 | 574<br>1153<br>3223<br>1182 | G54 | Hunter, George Johnson G.. | Nil  | Clements, Mrs. Jess  | 22 West Wynd, Dundee, Scot  | Scotland.. |
+| 8 | 574<br>1182<br>3234<br>1209 | 654 | Hunter, John Graham  | Nil  | Hunter, William P  | R. R. No. 3, Exeter, Ont  | Canada— |
+| 8 | 574<br>1210<br>3233<br>1238 | 554 | Hurdon, Nicholas Eric  | Nil  | Hurdon, Nicholas Dyer  | Exeter, Ont  | Canada  |
+| 8 | 574<br>1239<br>3232<br>1267 | 554 | Hutton, John Cowan  | Nil  | Hutton, John  | Stratton, Ont  | Canada  |
+| 8 | 574<br>1268<br>3232<br>1297 | 554 | Inglis, George  | Nil  | McElnair, Mrs. Charles  | R. R. No. 1, Clifford, Ont  | Canada  |
+| 8 | 574<br>1298<br>3231<br>1326 | 354 | Ingram, James Angus  | Nil  | Ingram, George  | Pope, Man  | Canada  |
+| 8 | 574<br>1326<br>3217<br>1354 | 354: | Ireland, George Roy A  | Nil  | Ireland, Alfred  | Kincardine, Ont  | Canada... |
+| 8 | 574<br>1353<br>3230<br>1384 | 354' | Isard, Herbert Henry  | 33rd Regt. . | Isard, James Stephen  | Wingham, Ont  | Canada— |
+| 8 | 575<br>1383<br>3229<br>1412 | 354 | Jackson, James Lister  | Nil  | Jackson, Mrs. Alice  | Palmerston, Ont  | England... |
+| 8 | 574<br>1412<br>3228<br>1441 | 3541 | James, Frederick  | Nil  | James, Mrs. Alice  | R. R. No. 2, Bluevale, Ont  | England.. . |
+| 8 | 574<br>1441<br>3228<br>1470 | 3541 | James, Henry George  | Territorials. | James, Mrs. Geoige  | Goderich, Ont  | England.. . |
+| 8 | 937<br>1470<br>3228<br>1498 |  | Jane, Alfred Herbert  | S.A. | Jane, Mrs. Gwenthleon  | Goderich, Ont  | England.. . |
+| 8 | 940<br>1499<br>3228<br>1528 |  | Jardine, George Edward  | 33rd Regt. | Jardine, Mrs. Emma  | Goderich, Ont  | Canada  |
+| 8 | 937<br>1528<br>3214<br>1557 |  | Jarman, Albert Wellington... | Nil  | Jarman, William  | 63 Havelock St., Leicester, Eng  | England.. |
+| 8 | 937<br>1557<br>3215<br>1585 |  | Jefferson, John Roy  | Nil  | Jefferson, John  | Auburn, Ont  | Canada... |
+| 8 | 937<br>1585<br>3215<br>1614 |  | Jeffery, William Edward  | Nil  | Jeffery, William George.... | Exeter, Ont  | Canada... |
+| 8 | 939<br>1614<br>3215<br>1642 |  | Johns, Lawrence Earl  | Nil  | Johns, Henry  | Elimville, Ont  | Canada... |
+| 8 | 942<br>1643<br>3215<br>1671 |  | Johns, Norman Wellington... | Nil  | Johns, William  | Centralia, Ont  | Canada... |
+| 8 | 939<br>1671<br>3203<br>1700 |  | Johnson, Clarence Albert  | Nil  | Johnson, James W  | Hensall, Ont  | Canada.. |
+| 8 | 936<br>1700<br>3214<br>1728 |  | Johnson, Frank  | Nil  | Hex, Mrs. Elizabeth  | 25 Crowshay Rd., London, Eng  | England.. |
+| 8 | 936<br>1729<br>3204<br>1758 |  | Johnson, George Reginald.... | Nil  | Johnson, J. W  | Hensall, Ont  | Canada.. |
+| 8 | 936<br>1758<br>3205<br>1786 |  | Johnson, Oliver M  | Nil  | Johnson, Oliver  | Goderich, Ont  | Canada.. |
+| 8 | 936<br>1786<br>3205<br>1815 |  | Johnston, David  | Nil  | Johnston, John  | Bluevale, Ont  | Canada.. |
+| 8 | 936<br>1815<br>3206<br>1844 |  | Johnston, George Carswill... | Nil  | Johnston, Mrs. Bessie  | Brussels, Ont  | Canada.. |
+| 8 | 934<br>1843<br>3207<br>1873 |  | Johnston, Henry Cresswell... | Nil  | Johnston, William  | Blyth, Ont.  | Canada.. |
+| 8 | 934<br>1872<br>3207<br>1903 |  | Johnston, Hiram Wellington.. | 57th Regt. | Johnston, Charles  | Norwich, Ont  | Canada.. |
+| 8 | 934<br>1901<br>3208<br>1931 |  | Johnston, John Aiken  | Nil  | Johnston, George  | Bluevale, R.R. No. 2, Ont  | Canada.. |
+| 8 | 934<br>1930<br>3207<br>1959 |  | Johnston, Miltcn Alfred  | Nil  | Johnston, Thomas  | Zurich, Ont  | Canada.. |
+| 8 | 933<br>1959<br>3209<br>1989 |  | Johnston, William Lome  | Nil  | Johnston, George Alexander. | Dungannon, Ont  | Canada.. |
+| 8 | 932<br>1988<br>3205<br>2017 |  | Jones, Francis William  | Nil  | Jones, Mrs. Gertrude May. .. | Clinton, Ont  | England. |
+| 8 | 932<br>2017<br>3209<br>2046 |  | Jones, John Francis  | Nil  | Robinson, Mrs. Eleanor  | 121 Porter St., Preston, Eng  | Wales.... |
+| 8 | 933<br>2046<br>3209<br>2075 |  | Jones, William Guy  | Can. Mil... | Jones, Mrs. Annie May  | Clinton, Ont  | Canada.. |
+| 8 | 935<br>2075<br>3210<br>2104 |  | Kellett, George Edward  | Nil  | Kellett, George  | Elimville, Ont  | Canada.. |
+| 9 | 650<br>408<br>3831<br>443 | 654198 Corporal  | Nil  | Kelly, J. W  | Wroxeter  | Jan. 7, 1916. |
+| 9 | 650<br>443<br>2328<br>471 | 654572 Private  | Nil  | Kemp, Henry Samuel  |
+| 9 | 650<br>494<br>3831<br>529 | 654735 Private  | Nil  | Kerney, Frank  |  | April 7, 1916. |
+| 9 | 1857<br>524<br>3832<br>557 |  |  | Kerr, Mrs. Alex Buchanan  |  | Feb. 1, 1916. | Brussels  |
+| 9 | 1526<br>612<br>3832<br>644 |  | Nil.... | Kestle, Edward  |  | May 16, 1916. |
+| 9 | 647<br>931<br>3834<br>962 | 654479 Private.. |  | Lake, John  |  | Feb. 21, 1916. | Brussels  |
+| 9 | 647<br>965<br>2327<br>992 | 654353 Private  | Nil  | Lang, Thomas  |
+| 9 | 1527<br>1018<br>3834<br>1050 |  | Nil  | Lattimore, Mrs. Mary L  |  | Feb. 25, 1916. |
+| 9 | 1526<br>1047<br>3835<br>1078 |  | Nil  | Lawson, Mrs. John  |  | Feb. 22, 1916. |
+| 9 | 648<br>1075<br>3835<br>1108 | 654548 L.-Corporal  | Nil  | Lawson, Mrs. John  |  | Mar. 6, 1916. | Blyth  |
+| 9 | 1527<br>1104<br>3836<br>1136 |  | Nil  | Lawson, John  |  | Mar. 24, 1916. |
+| 9 | 1527<br>1133<br>3836<br>1166 |  | Nil  | Leith, George  |  | Mar. 29, 1916. | Blyth  |
+| 9 | 1527<br>1162<br>3836<br>1194 |  | Nil  | Leppington, Mrs. Susan  |  | Dec. 7, 1915. |
+| 9 | 1527<br>1220<br>3838<br>1252 |  | Nil  | Letson, Mrs. Mary Ann  |  | Dec. 30, 1915. |
+| 9 | 1527<br>1249<br>3838<br>1281 |  | Nil  | Letson, Mrs. Mary  |  | Jan. 11, 1916. |
+| 9 | 1526<br>1279<br>3838<br>1308 |  | Nil  | Littlechild, William  |  | Dec. 31, 1915. |
+| 9 | 1527<br>1307<br>3838<br>1336 |  | Nil  | Lockwood, Frederick  |  | Jan. 3, 1916. |
+| 9 | 1527<br>1337<br>3839<br>1365 |  | Nil  | Love, William  |  | May 11, 1916. | Brussels  |
+| 9 | 1527<br>1366<br>3839<br>1394 |  | Nil  | Lovett, Nellie  |  | Dec. 31, 1915. |
+| 9 | 1527<br>1394<br>3839<br>1424 |  | Nil  | Lowry, Edward Graham  |  | April 26, 1916. |
+| 9 | 1528<br>1424<br>3840<br>1453 |  | Nil  | Lowry, George  |  | Feb. 12, 1916. | Brussels  |
+| 9 | 1528<br>1452<br>3840<br>1481 |  | Nil  | Lutton, Tollerton  |  | Mar. 11,1916. |
+| 9 | 1020<br>1481<br>3840<br>1511 |  | Nil  | Lymburner, M. E  |  | Jan. 5, 1916. |
+| 9 | 1529<br>1510<br>3840<br>1538 |  | Nil  | Lymburner, M. E  |  | Feb. 7, 1916. |
+| 9 | 1529<br>1539<br>3841<br>1566 |  | Nil  | Macdonald, Donald  |  | Mar. 2, 1916. |
+| 9 | 1530<br>1597<br>3842<br>1624 |  | Nil  | MacLaren, Robert  |  | Feb. 17, 1916. |
+| 9 | 1530<br>1625<br>3842<br>1654 |  | Nil  | MacLean, Alexander  |  | April 8, 1916. |
+| 9 | 1530<br>1655<br>3843<br>1681 |  | Nil  | MacLeod, Roderick  |  | Feb. 14, 1916. |
+| 9 | 1530<br>1684<br>3843<br>1712 |  | Nil  | MacPhail, Joseph  |  | Feb. 8, 1916. |
+| 9 | 1530<br>1712<br>3844<br>1740 |  | Nil.. . | MacTavish, Dugald  |  | Jan. 6, 1916. |
+| 9 | 1863<br>1741<br>3844<br>1768 |  |  | Mahoney, J  |  | Mar. 23, 1916. | Wroxeter  |
+| 9 | 1863<br>1770<br>3844<br>1799 |  |  | Maines, John  |  | Jan. 24, 1916. | Blyth  |
+| 9 | 1531<br>1799<br>3845<br>1826 |  | Nil  | Mallett, Mrs. Lydia  |  | Feb. 24, 1916. |
+| 9 | 1022<br>1856<br>3845<br>1887 |  | C.A.M.C  | Mannall, George  |  | Jan. 31, 1916. |
+| 9 | 1531<br>1885<br>3846<br>1912 |  | Nil  | Manuel, Mrs. A. E  |  | Jan. 22, 1916. |
+| 9 | 1531<br>1939<br>3847<br>1972 |  | Nil  | Marshall, William  |  | April 3, 1916. |
+| 9 | 1531<br>1972<br>3847<br>1999 |  | Nil  | Marshall, Mrs. Elizabeth  |  | Jan. 24, 1916. |
+| 9 | 1531<br>2001<br>3848<br>2028 |  | Nil  | Marshall, Mrs. Elizabeth  |  | Mar. 20, 1916. |
+| 9 | 1531<br>2030<br>3848<br>2057 |  | Nil  | Marshall, Mrs. Clara Evelyn W. |  | Jan. 24, 1916. |
+| 9 | 1530<br>2087<br>3849<br>2116 |  | Nil  | Mason, John  |  | Mar. 27, 1916. | Blyth  |
+| 9 | 651<br>2116<br>3850<br>2144 | 654354 Private  | Nil  | Matthews, Herbert  |  | Jan. 29, 1916. |
+| 10 | 1860<br>559<br>3255<br>586 |  |
+| 10 | 559<br>703<br>3748<br>731 | 654301 | Private  | Mayhew, Albert  | Nil  | Goderich  | Jan. 18, 1916. |
+| 10 | 559<br>732<br>3748<br>761 | 654614 | Private  | McArthur, Elliot Ray  | Nil  |  | Mar. 21, 1916. | Hensall  |
+| 10 | 559<br>761<br>3748<br>790 | 654191 | Sergeant  | McArthur, Sidney Ellis  | Nil  |  | Jan. 7, 1916. |
+| 10 | 559<br>790<br>3748<br>819 | 654185 | Sergeant  | McArthur, William  | Nil  |  | Jan. 4, 1916. |
+| 10 | 558<br>820<br>3748<br>848 | 654615 | Private  | McBride, George Henry  | Nil  |  | Mar. 21, 1916. |
+| 10 | 558<br>848<br>3748<br>876 | 654333 | Sergeant  | McCallum, James  | Nil  |  | Jan. 25, 1916. | Belgrave  |
+| 10 | 559<br>877<br>3749<br>905 | 654334 | Private  | McCauley, Thomas Michael . | Nil  |  | Jan. 25, 1916. |
+| 10 | 559<br>906<br>3749<br>933 | 654775 | Private  | McClinchey, David John  | Nil  |  | Mar. 5, 1916. |
+| 10 | 558<br>935<br>3748<br>963 | 654713 | Private. | McClinchey, Wesley  | Nil  |  | Mar. 29, 1916. |
+| 10 | 559<br>964<br>3748<br>992 | 654636 | Private  | McCluskey, Joseph, Arthur. .. | 33rd Regt... |  | Mar. 20. 1916. |
+| 10 | 558<br>993<br>3749<br>1021 | 654637 | L.-Corporal. | McCluskey, Harvey Pearson... | Nil  |  | Mar. 21, 1916. |
+| 10 | 558<br>1021<br>3748<br>1049 | 654438 | Private  | McClymont, James Melville... | Nil  |  | Feh. 12, 1916. |
+| 10 | 558<br>1050<br>3748<br>1078 | 654186 | Private  | McCracken, Lyle Gardener.... | Nil  |  | Jan. 6. 1916. |
+| 10 | 557<br>1080<br>3748<br>1107 | 654638 | Private  | McCreath, Harry Alexander.. | Nil  |  | Mar. 23, 1916. |
+| 10 | 557<br>1107<br>3748<br>1136 | 654218 | Private  | McCullough, Arthur Walter... | Nil  |  | Jan. 8, 1916. |
+| 10 | 557<br>1138<br>3749<br>1166 | 654395 | Private  | McCullough, George Henry... | Nil  |  | Feb. 3, 1916. |
+| 10 | 557<br>1167<br>3749<br>1194 | 654507 | Private  | McDonald, Albert Henry  | Nil  |  | Feb. 25, 1916. |
+| 10 | 557<br>1195<br>3750<br>1223 | 654158 | Private  | McDonald, George Alexander. | Nil  |  | Jan. 1, 1916. |
+| 10 | 557<br>1224<br>3749<br>1252 | 654066 | Corporal  | McDonald, Theodore St. Clair. | Nil  |  | Nov. 30, 1915. |
+| 10 | 557<br>1252<br>3749<br>1282 | 654639 | Private  | McDougall, Austin Joseph  | Nil  |  | Mar. 21, 1916. |
+| 10 | 556<br>1282<br>3749<br>1311 | 654287 | Sergeant  | McDougall, Neil Gordon  | 33rd Regt. . |  | Jan. 19, 1916. |
+| 10 | 556<br>1311<br>3749<br>1339 | 654640 | Private  | McDougall, William  | Nil  |  | Mar. 21, 1916. |
+| 10 | 556<br>1339<br>3748<br>1369 | 654.498 | Private  | McElroy, Leslie McAll  | Nil  |  | Feb. 23, 1916. | Blyth  |
+| 10 | 556<br>1369<br>3748<br>1397 | 654271 | Private  | McEwen, Alpine Finley  | Nil  |  | Jan. 17, 1916. |
+| 10 | 556<br>1397<br>3748<br>1427 | 654816 | Private  | McFalls, Elmer  | Nil  |  | May 15, 1916. |
+| 10 | 556<br>1425<br>3748<br>1455 | 654067 | Private  | McGarva, Andrew  | Nil  |  | Dec. 18, 1915. |
+| 10 | 555<br>1455<br>3748<br>1484 | 654068 | Private.  | McGee, Herbert Joseph  | Nil  |  | Doc. 13, 1915. |
+| 10 | 555<br>1483<br>3748<br>1512 | 65<641 | Private  | McGinn, Michael  | Nil  |  | Mar 21, 1916. |
+| 10 | 554<br>1508<br>3748<br>1541 | 654449 | Private  | McGratten, Thomas Ernest  | Nil  |  | Feb. 14, 1916. |
+| 10 | 554<br>1539<br>3748<br>1570 | 654187 | L.-Corporal.. | McGratten, William Harold. .. | 33rd Regt. . |  | Jan. 5. 1916. |
+| 10 | 554<br>1564<br>3748<br>1599 | 654304 | Private  | McGregor, Alfred Charles D.. | Nil  |  | Jan. 17, 1916. |
+| 10 | 553<br>1599<br>3749<br>1627 | 654484 | Private  | McGuire, Robert  | Nil.   |  | Feb. 15. 1916. |
+| 10 | 553<br>1629<br>3749<br>1656 | 054272 | Private  | McIntyre, Alexander Gibson.. | Nil  |  | Jan 10, 1916. |
+| 10 | 553<br>1658<br>3749<br>1686 | 654070 | Private  | McKay, Gordon William  | 33rd Regt. . |  | Dec. 11, 1915. |
+| 10 | 553<br>1686<br>3750<br>1714 | 654722 | Private  | McKay, Hugh R    | Nil  |  | Mar. 25, 1916. | Bayfield  |
+| 10 | 553<br>1715<br>3751<br>1744 | 654583 | L.-Corporal. | McKay, John Blain  | 33rd Regt. . |  | Mar. 13, 1916. |
+| 10 | 553<br>1744<br>3751<br>1771 | 654616 | Private  | McKay, Kenneth  | Nil  |  | Mar. 22 1916. |
+| 10 | 553<br>1773<br>3751<br>1801 | 654396 | Private  | McKay, William Alexander  | Nil  |  | Feb. 2, 1916. |
+| 10 | 553<br>1801<br>3751<br>1831 | 654071 | Sergeant  | McKinley, William  | Imp. Forces. |  | Dec. 18, 1915. |
+| 10 | 553<br>1831<br>3752<br>1860 | 654736 | Private  | McKinney, Thomas Leslie  | Nil  |  | April 8, 1916. |
+| 10 | 553<br>1860<br>3751<br>1888 | 654404 | Private  | McLaughlin, George Albert  | Nil  |  | Jan. 29, 1916. |
+| 10 | 553<br>1888<br>3752<br>1917 | 654288 | Private  | McLauehlin, John Ross  | Nil  |  | Jan. 15, 1916. |
+| 10 | 553<br>1917<br>3752<br>1945 | 654595 | Private  | McLeod, James Edmund  | Nil  |  | Msr. 20, 1916. |
+| 10 | 553<br>1946<br>3752<br>1976 | 654854 | Private  | McLeod, James Norman  | Nil  |  | May 20, 1916. |
+| 10 | 553<br>1975<br>3752<br>2004 | 654220 | Private  | McLeod, John Knox  | Nil. |  | Jan. 10, 1916. |
+| 10 | 553<br>2004<br>3752<br>2033 | 654737 | Private  | McLeod, Kenneth  | Nil. |  | April 8, 1916. |
+| 10 | 552<br>2033<br>3744<br>2060 | 654597 | Private  | McLeod, Norman  | Nil. |  | Mar 20 1916 |
+| 10 | 552<br>2059<br>3752<br>2090 | 654425 | Private  | McLeod, Ogal  | Nil. |  | Feb. 9, 1916. |
+| 10 | 551<br>2091<br>3752<br>2119 | 654499 | Private  | McNamara, Charles  | Nil. |  | Feb. 24, 1916. | Seaforth  |
+| 11 | 659<br>409<br>3834<br>440 | 654480 | Private  | McNaught, Wilfred Donald  | Nil  | McNaught, Raymond Alexander. |  |  | Feb | 22 | 1916 |
+| 11 | 659<br>438<br>3834<br>468 | 654714 | Private  | McNaughton, William Middleton. | Nil  | McNaughton, John  |  |  | Mar. | 30 | 1916 |
+| 11 | 659<br>467<br>3842<br>497 | 654576 | Private  | McNevin, Alexander  | Nil  | McNevin, Joseph  |  |  | Mar. | ts | 1916. |
+| 11 | 659<br>497<br>3843<br>527 | 654855 | Private  | McSherry, Wilson  | Nil  | McSherry, Mrs. Isabella  |  |  | May | 20 | 1916. |
+| 11 | 659<br>526<br>3843<br>557 | 654632 | Private  | Medd, John Roy  | C.A.M.C... | Medd, John H  |  |  | Mar. | 21 | 1916. |
+| 11 | 659<br>555<br>3843<br>586 | 654466 | Private  | Meahan, Alfred Hope  | Nil  | Meahan, Mrs. Elizabeth  |  |  | Feb | 17 | 1916. |
+| 11 | 659<br>584<br>3843<br>616 | 654549 | Private  | Meahan, Tony  | Nil  | Meahan, Mrs. Elizabeth  | U.S.A  | Wroxeter  | Mar. | 4 | 1916. |
+| 11 | 658<br>613<br>3842<br>644 | 654390 | L.-Corporal.. | Megaw, Francis Riggs  | Nil  | Megaw, Mrs. Emma Addison.... |  |  |  | 38 | 1916. |
+| 11 | 658<br>640<br>3844<br>672 | 654827 | Private  | Meyers, John Aaron  | Nil  | Meyers, Charles  |  |  | May | It | 1916. |
+| 11 | 658<br>671<br>3844<br>702 | 654433 | Private  | Millar, Arnold Ray  | Nil  | Millar, George  |  |  | Feb | 8 | 1916. |
+| 11 | 657<br>699<br>3844<br>731 | 654773 | Private  | Miller, Andrew Thompson  | Nil  | Miller, John D  |  |  | May | t | 1916. |
+| 11 | 657<br>729<br>3844<br>758 | 654870 | Private  | Miller, James Blackader  | Nil  | Miller, Mrs. Helen May  |  |  | May | Clinton  | 29 | 1916. |
+| 11 | 656<br>758<br>3843<br>789 | 654286 | Private  | Miller, Norman Wellington  | Nil  | Miller, James  |  |  | Jan. | Canada  | Clinton  | 17 | 1916. |
+| 11 | 656<br>786<br>3843<br>817 | 654215 | Private  | Milligan, Andrew Harvey  | Nil  | Milligan, John  |  | Brussels  | Jan. | 10 | 1916. |
+| 11 | 656<br>815<br>3843<br>846 | 654678 | Private  | Mills, William Charles  | Nil  | Mills, John  |  |  | Mar. | M | 1916. |
+| 11 | 655<br>845<br>3843<br>875 | 654367 | Private  | Millson, W'alker Wilbur  | Nil  | Tokely, Mrs. T  |  |  |  | 29 | 1916. |
+| 11 | 654<br>873<br>3843<br>905 | 823028 | L.-Corporal.. | Miner, Harry Garnet B  | Nil  | Miner, John  |  | Ix>ndon  | Dec. | 1 | 1915. |
+| 11 | 655<br>902<br>3843<br>933 | 654062 | Private  | Miner, John Walter  | 7th Regt. .. | Miner, Mrs. Myrtle  | Canada  | Clinton  | Dec. | 24 | 1915. |
+| 11 | 655<br>932<br>3843<br>962 | 654633 | L.-Corporal . | Mitchell, Carl Hollos  | Nil  | Mitchell, Edward A  | Canada  | Wroxeter  | Mar. | 23 | 1916. |
+| 11 | 654<br>960<br>3843<br>992 | 654634 | Private  | Mohring, Roy  | Nil  | Mohring, Mrs. Berriman  | Canada  | Goderich  | Mar. | 21 | 1916. |
+| 11 | 654<br>988<br>3843<br>1019 | 654157 | Private  | Moore, Frank Sanford  | Nil  | Moore, William  | Canada  |  | Dec. | 13 | 1915. |
+| 11 | 654<br>1018<br>3843<br>1048 | 654696 | Private  | Moore, Robert James  | Nil  | Moore, Mrs. Lena  | England  | Dungannon  | Mar. | 21 | 1916. |
+| 11 | 654<br>1046<br>3842<br>1078 | 654064 | Private  | Moore, Stanley Herbert  | 33rd Regt. . | Moore, Mrs. Mirian  |  | Goderich  | Nov. | M | 1915. |
+| 11 | 654<br>1075<br>3842<br>1107 | 654065 | Corporal  | Morgan, William Edward  | Nil  | Morgan, Mrs. Charlotte  | England  | Clinton  | Dec. | 6 | 1915. |
+| 11 | 653<br>1104<br>3842<br>1134 | 654812 | Private  | Morrow, Charles  | Nil  | Dilling, Mrs. John  | U.S.A  | Brussels  | May | 11 | 1916. |
+| 11 | 653<br>1133<br>3842<br>1163 | 654471 | Private  | Morrow, Hebert James  | Nil  | Morrow, Mrs. Annie  |  |  | Feb | IS | 1916. |
+| 11 | 653<br>1161<br>3842<br>1193 | 654302 | Private  | Mugford, Jonathan Martin L  | Nil  | Mugford, Martin  | Canada  | Clinton  | Jan. | 19 | 1916. |
+| 11 | 652<br>1190<br>3842<br>1222 | 654184 | Private  | Mugford, Joseph  | Nil  | Mugford, Martin  | Canada  | Goderich  | Jan. | 5 | 1916. |
+| 11 | 652<br>1220<br>3842<br>1250 | 654303 | Private  | Muir, Burton Oliver  | Nil  | Muir, John  |  |  |  | ?0 | 1916. |
+| 11 | 652<br>1248<br>3842<br>1280 | 65421C | Private  | Mundy, Basil    | Nil  | Mundy, Harry  |  | Clinton  | Jan. | 8 | 1916. |
+| 11 | 652<br>1278<br>3841<br>1308 | 654755 | Private  | Mundy, Theodore Franklin  | Nil  | Mundy, Harry  |  |  |  | 23 | 1916. |
+| 11 | 651<br>1307<br>3842<br>1338 | 654467 | Corporal | Munn, Edgar Wilford  | Nil  | Munn, Peter  |  |  | Feb | 17 | 1916. |
+| 11 | 652<br>1335<br>3842<br>1367 | 707069 | L.-Sergeant.. | Munnings, William Percy  | Nil  | Munnings, William Robert  |  |  | Dec. | 13 | 1915. |
+| 11 | 651<br>1366<br>3146<br>1395 | 654381 | Private  | Murphy, Stafford Rice  | Nil  | Murphy, Mary Ann  |
+| 11 | 3401<br>1392<br>3843<br>1418 |  |  |  |  |  |  | Goderich  | Jan. | 28 | 1916. |
+| 11 | 651<br>1421<br>3843<br>1454 | 654635 | Corporal. | Murray, John Wellington  | Nil  | Murray, Mrs. Elizabeth McC. | Canada  | Goderich  | Mar. | 20 | 1916. |
+| 11 | 650<br>1450<br>3843<br>1481 | 654448 | Private.. | Musgrove, James Elmer  | Nil  | Musgrove, Thomas  |  | Wroxeter  | Feb. | 14 | 1916. |
+| 11 | 651<br>1479<br>3843<br>1509 | 654510 | Private.. | Musgrove, Thomas Richard. | Nil  | Musgrove, Ina.   |  |  | Feb. | 22 | 1916. |
+| 11 | 651<br>1508<br>3842<br>1539 | 654217 | Sergeant. | Mustard, Arthur Roy  | Nil  | Mustard, Mrs. Elizabeth  |  |  | Jan. | 10 | 1916. |
+| 11 | 651<br>1537<br>3843<br>1567 | 654132 | Private.. | Nash, Edward Beverly  | Nil  | Nash, Thomas  |  | Wroxeter  | Dec. | 29 | 1915. |
+| 11 | 651<br>1565<br>3843<br>1595 | 654642 | Private.. | Nash, Milford Earl  | Can. Mil . . . . | Nash, Thomas  |  |  | Mar. | 1916. |
+| 11 | 651<br>1594<br>3843<br>1625 | 654159 | Sergeant. | Nash, Roland Philips  | 30th Regt. . . | Nash, Thomas  |  |  | Jan. | 3 | 1916. |
+| 11 | 651<br>1623<br>3843<br>1653 | 654342 | Private.. | Nediger, Clarence Austin | Nil  | Nediger, W. J  |  |  | Jan. | 28 | 1916. |
+| 11 | 651<br>1652<br>3843<br>1682 | 654463 | Corporal. | Neelands, Roy Marlowe  | Nil  | Neolands, Thomas  |  |  | Feb. | 17 | 1916. |
+| 11 | 652<br>1680<br>3843<br>1712 | 654417 | Private.. | Neely, Arthur Cecil  | 33rd Regt. . . | Neely, Mrs. Mary  |  |  | Feb. | 9 | 1916. |
+| 11 | 651<br>1709<br>3843<br>1740 | 654244 | Private.. | Neely, Charles Franklin  | Nil  | Neely, Mrs. Mary  |  |  | Jan. | 12 | 1916. |
+| 11 | 651<br>1738<br>3844<br>1769 | 654643 | Private.. | Neil, William Ernest  | Nil  | Neil, Wellington  |  |  | Mar. | 23 | 1916. |
+| 11 | 651<br>1767<br>3844<br>1798 | 654566 | Private... | Newcombe, Harold  | 33rd Regt. .. | Newcombe, Mrs. Martha  |  | Goderich  | Mar. | 9 | 1916. |
+| 11 | 651<br>1795<br>3844<br>1826 | 654453 | Private.. | Newell, John Norman  | Nil  | Newell, Mrs. George  |  | Godcrich  | Feb | 14 | 1916. |
+| 11 | 651<br>1824<br>3844<br>1856 | 654160 | Private... | Newton, Herbert Kenneth... | 36th Regt. . . | Newton, William Francis  |  | Goderich | Jan. | 4 | 1916. |
+| 11 | 651<br>1853<br>3844<br>1884 | 654644 | Private... | Nicholson, Charles Thomas. | Nil  | Nicholson, Mrs. Grace  |  |  |  | :’l | 1916. |
+| 11 | 651<br>1882<br>3844<br>1914 | 654382 | Private... | Nivins, Charles Alexander. .. | 33rd Regt. . . | Nivins, James David  |  |  | Jan. | 28 | 1916. |
+| 11 | 651<br>1910<br>3844<br>1942 | 654692 | Private... | Noble, Clarence Jarrett  | Nil  | Stewart, Mary Ann  |  |  | Mar. | 25 | 1916. |
+| 11 | 650<br>1939<br>3845<br>1972 | 654877 | Private... | Noble, Walter George  | Nil  | Noble, James  |  |  | June | 12 | 1916. |
+| 11 | 650<br>1968<br>3844<br>2000 | 654529 | Private... | Nunn, Thomas William  | Nil  | Nunn, Louis IT  |  |  | Feb. | 28 | 1916. |
+| 11 | 650<br>1997<br>3844<br>2029 | 654319 | Private... | O’Brien, Ernest Patrick  | Imp. Forces. | O’Brien, Mrs. Kate  |  |  | Dec. | 16 | 1915. |
+| 11 | 650<br>2025<br>3845<br>2058 | 654072 | Private... | O’Donnell, Martin  | Nil  | O’Donnell, Martin  |  |  | Dec. | 6 | 1915. |
+| 11 | 650<br>2055<br>3846<br>2088 | 654706 | Private... | Oke, Edmund Alban  | Nil  | Oke, William  |  |  | Mar. | 24 | 1916. |
+| 11 | 650<br>2083<br>3846<br>2116 | 654235 | Private... | Orchard, Francis Cicil  | Nil  | Orchard, Mrs. Sarah  |  |  | Jan. | 11 | 1916. |
+| 11 | 649<br>2112<br>3846<br>2144 | 654133 | Private... | Osman, Alfred  | Nil  | Osman, Mrs. Amy  | England  | Goderich  | Dec. | 31 | 1915. |
+| 12 | 772<br>548<br>3277<br>577 |  | Former Corps. | Country of |
+| 12 | 580<br>692<br>3771<br>717 | 65459C | Nil  |  | ^0 | 1916. |
+| 12 | 580<br>721<br>3771<br>745 | 654874 | Nil   |  | 29 | 1916. |
+| 12 | 579<br>750<br>3771<br>774 | 654201 | Nil  |  | 10 | 1916. |
+| 12 | 578<br>778<br>3771<br>803 | 654245 | Nil  |  | Jan. | 15 | 1916. |
+| 12 | 578<br>807<br>3771<br>832 | 654728 | Nil  |  | M ar. | ?4 | 1916. |
+| 12 | 577<br>836<br>3771<br>861 | 654454 | Nil  |  | Feb | 15 | 1916. |
+| 12 | 576<br>865<br>3770<br>891 | 654074 | Nil  |  | Dec. | 13 | 1915. |
+| 12 | 575<br>894<br>3770<br>920 | 654075 | Nil |  | 13 | 1915. |
+| 12 | 573<br>923<br>3770<br>949 | 654076 | Nil |  | 16 | 1915. |
+| 12 | 573<br>952<br>3759<br>978 | 654690 | Nil  | Canada  | Mar. | 25 | 1916 |
+| 12 | 572<br>981<br>3770<br>1007 | 654550 | Nil .. |  | 6 | 1916. |
+| 12 | 572<br>1010<br>3770<br>1033 | 654368 |  |  | 29 | 1916. |
+| 12 | 571<br>1039<br>3770<br>1064 | 654045 | Nil ... |  | ?\ | 1916. |
+| 12 | 571<br>1067<br>3770<br>1093 | 654077 | Nil  |  | 0 | 1915. |
+| 12 | 571<br>1095<br>3771<br>1122 | 654520 | Nil... |  | Feb. | » | 1916. |
+| 12 | 570<br>1125<br>3771<br>1151 | 654320 | Nil  |  | 25 | 1916. |
+| 12 | 570<br>1153<br>3771<br>1180 | 654617 | Nil    |  | Mar. | 21 | 1916. |
+| 12 | 569<br>1182<br>3770<br>1209 | 654666 | Nil  |  | Mar. | 23 | 1916. |
+| 12 | 568<br>1211<br>3770<br>1235 | 654078 |  |  | Dec. | 28 | 1915. |
+| 12 | 567<br>1240<br>3770<br>1266 | 654134 |  | U.S.A  | Dec. | 27 | 1915. |
+| 12 | 567<br>1269<br>3770<br>1296 | 654080 | Nil  |  | Dec. | 11 | 1915. |
+| 12 | 566<br>1298<br>3770<br>1324 | 654732 | Nil |  | 8 | 1916. |
+| 12 | 566<br>1327<br>3770<br>1355 | 654796 | Nil... |  | May | 10 | 1916. |
+| 12 | 566<br>1357<br>3066<br>1384 | 654397 | Nil... |
+| 12 | 3571<br>1384<br>3769<br>1408 |  |  |  | Feb | 3 | 1916. |
+| 12 | 566<br>1413<br>3769<br>1440 | 654161 | Nil |  | 3 | 1916. |
+| 12 | 565<br>1442<br>3769<br>1469 | 654081 | Nil |  | 28 | 1915. |
+| 12 | 565<br>1471<br>3769<br>1499 | 654761 | Nil . |  | April | 72 | 1916. |
+| 12 | 565<br>1499<br>3767<br>1526 | 654356 | Nil |  | M | 1916. |
+| 12 | 565<br>1528<br>3768<br>1555 | 654434 | Nil |  | Feb | 9 | 1916. |
+| 12 | 565<br>1557<br>3768<br>1581 | 654082 |  |  | 9 | 1915. |
+| 12 | 565<br>1586<br>3768<br>1613 | 654221 | Nil  | Canada  | July | 10 | 1916. |
+| 12 | 565<br>1615<br>3768<br>1642 | 654162 | Nil... |  | 31 | 1915. |
+| 12 | 565<br>1643<br>3768<br>1670 | 654246 | Nil . | Canada  | Jan. | 10 | 1916. |
+| 12 | 565<br>1672<br>3768<br>1699 | 654776 | Nil |  | 8 | 1916. |
+| 12 | 564<br>1700<br>3769<br>1725 | 654647 |  |  | ^0 | 1916. |
+| 12 | 564<br>1729<br>3769<br>1757 | 654731 |  |  | April | 6 | 1916. |
+| 12 | 564<br>1758<br>3769<br>1786 | 654752 | Nil |  | April | 25 | 1916. |
+| 12 | 563<br>1787<br>3768<br>1815 | 654455 | Nil | Canada  | Feb. | 14 | 1916. |
+| 12 | 563<br>1816<br>3768<br>1845 | 654618 | Nil |  | 21 | 1916. |
+| 12 | 563<br>1845<br>3769<br>1870 | 654369 |  |  | Jan. | 29 | 1916. |
+| 12 | 563<br>1873<br>3768<br>1902 | 654189 | Nil |  | Jan. | 5 | 1916. |
+| 12 | 563<br>1902<br>3768<br>1931 | 654083 | Nil |  | Dec. | 15 | 1915. |
+| 12 | 563<br>1931<br>3768<br>1957 | 654084 |  |  | Dec. | 20 | 1916. |
+| 12 | 562<br>1960<br>3768<br>1989 | 654 762 | Nil |  | April | 29 | 1916. |
+| 12 | 562<br>1988<br>3768<br>2018 | 654163 | Nil |  | Dec. | 30 | 1915. |
+| 12 | 561<br>2017<br>3768<br>2047 | 654337 | Nil |  | Jan. | 24 | 1916. |
+| 12 | 561<br>2047<br>3769<br>2076 | 305134 | Nil |  | Dec. | 16 | 1915. |
+| 12 | 560<br>2076<br>3769<br>2109 | 654485 | 53rd Regt  |  | Feb. | 22 | 1916. |
+| 13 | 1537<br>432<br>3847<br>465 | Nil  | Rivett, Mrs. Roderick  | Dungannon, Ont  | Canada — | Goderich  | May | 9, 1916. |
+| 13 | 1538<br>462<br>3846<br>494 | Nil  | Yeo, Jennie  | R.R. No. 1, Bluevale, Ont  | Canada  | Wroxeter  | Jan. | 10, 1916. |
+| 13 | 1537<br>491<br>3846<br>523 | Nil  | Robertson, John Alexander. . | Goderich, Ont  | Canada.... | Goderich  | Mar. | 21, 1916. |
+| 13 | 1030<br>519<br>3846<br>553 | C.A.M.C  | Robertson, John Alexander. . | Goderich, Ont  | Canada— | Goderich  | May | 9, 1916. |
+| 13 | 1537<br>549<br>3847<br>583 | Nil  | Roles, Thomas  | 47a Norfolk Sq., Brighton, Sussex, Eng  | England... | Hensall  | May | 15, 1916. |
+| 13 | 1536<br>578<br>3847<br>611 | Nil  | Rollinson Mrs. Mary  | Auburn, Ont  | Canada— | Manchester.... | April | 8, 1916. |
+| 13 | 1537<br>607<br>3847<br>640 | Nil  | Ross, Charles  | Oxford St., Goderich, Ont  | U.S.A  | Goderich  | Jan. | 1, 1916. |
+| 13 | 1535<br>636<br>3846<br>669 | Can. Mil | Rouatt, Mrs. Annie  | Bayfield, Ont  | Canada  | Clinton  | Feb. | 8, 1916. |
+| 13 | 1536<br>665<br>3846<br>698 | Nil  | Rowland, J. Edward  | R.R. No. 1, Ethel, Ont  | Canada  | Brussels  | Mar. | 22, 1916. |
+| 13 | 1536<br>694<br>3846<br>727 | Nil  | Rowland, John  | Walton, Ont  | Canada— | Brussels  | Jan. | 3, 1916. |
+| 13 | 1536<br>723<br>3847<br>756 | Nil  | Ruddock, Mrs. Christiania. . | Port Albert, Ont    | England... | Goderich  | April | 5, 1916. |
+| 13 | 1535<br>752<br>3846<br>786 | Nil  | Ruffell, Mrs. E  | ‘ March Cottage,’- Midhurst, Sussex, Eng... | England... | Seaforth  | Dec. | 23, 1915. |
+| 13 | 1535<br>781<br>3846<br>814 | Nil  | Rush, Mrs. Charles  | 59 Beatrice Rd., Bermondsey, London, Eng. | England... | Wingham  | Mar. | 24, 1916. |
+| 13 | 1535<br>809<br>3846<br>843 | Nil  | Russell, Mrs. S. J  | 29 Francis St., Berlin, Ont  | India  | Seaforth  | May | 19, 1916. |
+| 13 | 1534<br>838<br>3845<br>873 | Nil  | Rutledge, William  | Brussels, Ont  | Canada.... | Brussels  | Jan. | 17, 1916. |
+| 13 | 1534<br>868<br>3846<br>901 | Nil  | Ryan, Thomas  | Walton, Ont  | Canada.... | Brussels  | Jan. | 10, 1916. |
+| 13 | 1534<br>897<br>3845<br>931 | Nil  | Salter, William George  | Wingham, Ont  | Canada.... | Wingham  | Feb. | 15, 1916. |
+| 13 | 1534<br>925<br>3845<br>959 | Nil  | Sanderson, Albert  | Wingham, Ont  | Canada.... | Wingham  | Dec. | 1, 1915. |
+| 13 | 1532<br>954<br>3845<br>989 | Territorials.. | Sangstcr, Mrs. W  | Dundas St., Stromness, Scot  | Scotland... | Hensall  | Jan. | 18, 1916. |
+| 13 | 1533<br>983<br>3844<br>1018 | Nil  | Savage, Thomas  | Wroxeter, Ont  | Canada— | Wroxeter  | Mar. | 25, 1916. |
+| 13 | 1533<br>1012<br>3844<br>1046 | Nil  | Savage, Mrs. James  | Taunton, Somerset, Eng  | England... | Clinton  | May | 13, 1916. |
+| 13 | 1533<br>1042<br>3844<br>1076 | Nil  | Savage, Thomas Henry  | Wroxeter, Ont  | Canada.... | Brussels  | Dec. | 31, 1915. |
+| 13 | 1530<br>1071<br>3844<br>1103 | Can. Mil. . . . | Scharfer, Adam  | Wingham, Ont  | U.S.A  | Wingham  | Dec. | 2, 1915. |
+| 13 | 1532<br>1100<br>3844<br>1132 | Nil  | Scott, Thomas G  | Seaforth, Ont  | Canada  | Seaforth  | Dec. | 10, 1915. |
+| 13 | 1531<br>1129<br>3843<br>1162 | Nil  | Scott, James  | Clinton, Ont   | Canada  | Clinton  | Jan. | 3, 1916. |
+| 13 | 1529<br>1158<br>3844<br>1191 | C.F.A  | Scott, Mrs. Emily  | 707 Fleet Avc., Winnipeg, Man  | Canada  | Brussels  | May | 17, 1916. |
+| 13 | 1531<br>1187<br>3844<br>1219 | Nil  | Scott, Mrs. Alma  | R.R. No. 1, Belgrave, Ont  | Canada— | Belgravc  | Jan. | 25, 191d. |
+| 13 | 656<br>1216<br>3843<br>1249 | S. A  | Seeley, Mrs. Elizabeth  | Brucefield, Ont  | England... | Clinton  | Sept. | 15, 1915. |
+| 13 | 1531<br>1245<br>3843<br>1276 | R.C.R  | Sewell, Mrs. Beatrice  | Clinton, Ont  | England... | Clinton  | Feb. | 8, 1916. |
+| 13 | 1530<br>1274<br>3842<br>1305 | Nil  | Shaddick, Thomas  | Hensall, Ont  | Canada  | Hensall  | Jan. | 25, 1916. |
+| 13 | 1530<br>1304<br>3843<br>1334 | Nil  | Shaddick, Thomas  | Hensall, Ont  | Canada — | Hensall  | Jan. | 24, 1916. |
+| 13 | 1530<br>1332<br>3843<br>1363 | Nil  | Shannon, Mrs. Ellen  | Goderich, Ont  | Canada  | Goderich  | Mar. | 20, 1916. |
+| 13 | 1530<br>1361<br>3842<br>1393 | Nil  | Sharpin, James  | 14 Rhodes Ave., Toronto, Ont  | Canada  | Wroxeter  | Mar. | 22, 1916. |
+| 13 | 1529<br>1390<br>3843<br>1421 | Nil  | Shaw, Anson  | R.R. No. 2, Bluevale, Ont  | Canada — | Wroxeter  | May | 6, 1916. |
+| 13 | 1529<br>1419<br>3843<br>1451 | Nil  | Shephard, Mrs. Mary Jane.. | Clinton, Ont  | Canada— | Camp Borden.. | July | 8, 1916. |
+| 13 | 1529<br>1448<br>3843<br>1479 | Nil  | Shephard, Mrs. Christina. . . | Hensall, Ont  | Canada— | Hensall  | Mar. | 23, 1916. |
+| 13 | 1529<br>1477<br>3843<br>1509 | Nil  | Sherritt, Mrs. Nellie May. . . | Hensall, Ont  | Canada  | Hensall  | Jan. | 3, 1916. |
+| 13 | 1529<br>1506<br>3843<br>1535 | Nil  | Parish, Mrs. James  | Brussels, Ont  | Canada  | Brussels  | Dec. | 24, 1915. |
+| 13 | 1529<br>1535<br>3843<br>1565 | Nil  | Sholdice, Adam  | Walton, Ont  | Canada— | Brussels  | Jan. | 22, 1916. |
+| 13 | 1529<br>1563<br>3843<br>1594 | Nil  | Shropshall, Mrs. Alice  | R.R. No. 1, Wingham, Ont  | England... | Wroxeter  | Feb. | 17, 1916. |
+| 13 | 1529<br>1592<br>3843<br>1623 | Nil  | Bainbridge, Leah  | Wythburn, Grasmere, Westmorland, Eng.. . | England... | Clinton  | Mar. | 7, 1916. |
+| 13 | 1529<br>1621<br>3843<br>1651 | Nil  | Simmons, Mrs. Hannah  | R.R. No. 1, Hensall, Ont  | Canada— | Hensall  | Mar. | 16, 1916. |
+| 13 | 1528<br>1650<br>3841<br>1680 | Nil  | Simmons, Charles  | Gorrie, Ont  | Canada— | Wroxeter  | Feb. | 21, 1916. |
+| 13 | 1528<br>1679<br>3842<br>1709 | Nil  | Simon, Mrs. Florence  | 5 Emmerson Ave., Toronto, Ont  | England... | Clinton  | Feb. | 2, 1916. |
+| 13 | 1528<br>1708<br>3842<br>1738 | Nil  | Sims, Jonah  | Crediton East, Ont  | Canada— | Exeter  | Mar. | 4, 1916. |
+| 13 | 1528<br>1737<br>3843<br>1767 | Nil  | Sinclair, Mrs. A  | Brussels, Ont  | Canada  | Brussels  | Feb. | 12, 1916. |
+| 13 | 1526<br>1765<br>3843<br>1797 | 6th Regt.... | Sinclair, Mrs. Irene A  | Brussels, Ont  | Canada  | Brussels  | Dec. | 24, 1915. |
+| 13 | 1528<br>1795<br>3843<br>1824 | Nil  | Sloman, Jacob  | Clinton, Ont  | Canada  | Clinton  | Feb. | 7, 1916. |
+| 13 | 1528<br>1823<br>3842<br>1854 | Imp. Forces. | Smith, Mrs. Alice Elizabeth | Goderich, Ont  | England... | Goderich  | Mar. | 20, 1916. |
+| 13 | 1528<br>1853<br>3842<br>1883 | Nil  | Smith, Mrs. Alice Emily. . | Bruce St., Goderich, Ont  | England... | Goderich  | Mar. | 9, 1916. |
+| 13 | 1528<br>1881<br>3842<br>1911 | Nil  | Smith, Mrs. Marion  | Clinton, Ont  | Canada  | Clinton  | Mar. | 26, 1916. |
+| 13 | 1528<br>1911<br>3842<br>1940 | Nil  | Smith, John  | Wroxeter, Ont  | Canada  | Wroxeter  | Mar. | 21, 1916. |
+| 13 | 1528<br>1940<br>3842<br>1969 | Nil  | Smith, Mrs. Jessie  | Seaforth, Ont  | Canada  | Seaforth  | Mar. | 4, 1916. |
+| 13 | 1528<br>1969<br>3841<br>1998 | Nil  | Smith, John  | Hay, Ont  | Canada  | Exeter  | Dec. | 11, 1915. |
+| 13 | 1528<br>1998<br>3842<br>2027 | Nil  | .Smith, Mrs. Florence  | Seaforth, Ont  | England.. . | Seaforth  | Feb. | 12, 1916. |
+| 13 | 1528<br>2027<br>3841<br>2055 | Nil  | Snazel, Arthur  | Goderich, Ont  | Canada  | Goderich  | Jan. | 13, 1916. |
+| 13 | 1528<br>2056<br>3842<br>2085 | Nil  | Snell, James  | R.R. No. 1, Clinton, Ont  | Canada  | Clinton  | Jan. | 24, 1916. |
+| 13 | 1528<br>2085<br>3841<br>2113 | Nil  | Snell, William  | Blyth, Ont  | Canada  | Clinton  | Dec. | 22, 1915. |
+| 13 | 1528<br>2114<br>3841<br>2142 | Nil  | Snell, William  | Blyth, Ont  | Canada  | Blyth  | Dec. | 16, 1915. |
+| 13 | 650<br>2143<br>3842<br>2172 | Nil  | Snelling, George  | Moncton, Ont  | Canada  | Bruasels  | Jan. | 29, 1916. |
+| 14 | 769<br>568<br>3272<br>600 |  |  |  | Former Corps. |  |  | Country of |
+| 14 | 577<br>711<br>3766<br>745 | 0.54371 | Private  | Snelling, William Harvie  | Nil  | Snelling, George  | Moncton, Ont  | Canada  | Brussels  | Jan. | 1016. |
+| 14 | 577<br>740<br>3766<br>773 | 054291 | Private  | Snider, Benjamin  | Nil  | Snider, Mrs. Marie  | Brussels, Ont  | Canada  | Brussels  | Jan. | 1916. |
+| 14 | 577<br>769<br>3766<br>802 | 0.54081 | Private  | Somers, Albert Archibald .... | Nil  | Somers, Richard  | Blyth, Ont  | Canada  | Blyth  | Mar. | 1916. |
+| 14 | 577<br>798<br>3766<br>831 | 054054 | Private  | Somersall, Edward Haughton. | Nil  | Somersall, Mrs. Mary  | Goderich, Ont  | Canada  | Goderich | Mar. | 1916. |
+| 14 | 577<br>827<br>3766<br>859 | 054535 | Private  | Southcott, Robert Earl  | Nil  | Southcott, Mrs. C. A  | Exeter, Ont  | Canada  | Exeter  | Mar. | 1916. |
+| 14 | 577<br>856<br>3766<br>889 | 054383 | Private  | Spafford, Austin Robert R  | Nil  | Spafford, Mrs. M  | Blyth, Ont  | Canada  | Blyth  | Jan. | 1916. |
+| 14 | 576<br>885<br>3766<br>918 | 054090 | Private  | Sparks, Neil Douglas  | Nil  | Sparks, Alexander  | Hensall, Ont  | Canada  | Clinton  | Dec. | 1915. |
+| 14 | 576<br>914<br>3766<br>947 | 054051 | Private  | Stacey, Nelson Peter  | Nil  | Stacey, Jabez  | Coronation, Alta  | Canada  | Exeter  | Mar. | 1916. |
+| 14 | 576<br>943<br>3767<br>976 | 054829 | Private  | Stafford, Walter Harvey  | Nil  | Stafford, Benjamin V  | R.R. No. 1, Wroxeter, Ont  | Canada  | Wroxeter. . . . | May | 1916. |
+| 14 | 575<br>972<br>3767<br>1004 | 054052 | L.-Corporal  | Steels, Frederick  | Nil  | Steels, Mrs. Philip  | Sheppard ton, Ont  | Canada  | Goderich.... | Mar. | 1916. |
+| 14 | 575<br>1001<br>3767<br>1033 | 054204 | Private  | Steep, Andrew William  | 33rd Regt. .. | Steep, David  | Clinton, Ont  | Canada  | Clinton  | Jan. | 1916. |
+| 14 | 575<br>1030<br>3762<br>1062 | 054782 | Private  | Stephenson, George Henry  | Nil  | Stephenson, Mrs. Ida  | Seaforth, Ont  | Canada  | Seaforth  | May | 1916. |
+| 14 | 575<br>1059<br>3766<br>1091 | 054820 | Sergeant   | Sterling, John Dempsey  | 33rd Regt. . . | Sterling, John  | Clinton, Ont  | Canada  | Clinton  | May | 1916. |
+| 14 | 574<br>1088<br>3767<br>1119 | 0547G8 | Private  | Stevens, Louis  | Nil  | Stevens, Mr  | Londesborough, Ont  | Canada  | Blyth  | May | 1916. |
+| 14 | 574<br>1117<br>3767<br>1149 | 054098 | Private  | Stewart, David Henry  | 33rd Regt. . . | Stewart, Mrs. Margaret  | Seaforth, Ont  | Canada  | Clinton  | Dec. | 1915. |
+| 14 | 575<br>1145<br>3767<br>1176 | 054230 | Private  | Stewart, Wilfred.Grant  | Nil  | Stewart, James  | Exeter, Ont  | Canada  | Exeter  | Jan. | 1916. |
+| 14 | 575<br>1174<br>3767<br>1206 | 054099 | Sergeant  | Stickles, Orin Andrew  | Nil  | McGowan, Mrs. Henrietta. .. | Stockdale, Ont  | Canada  | Clinton  | Dec. | 1915. |
+| 14 | 575<br>1203<br>3767<br>1235 | 054738 | Private  | Stiles, William Henry  | Nil...   | Stiles, Mrs. Annie  | Seaforth, Ont  | Canada  | Brussels  | April | 1916. |
+| 14 | 575<br>1232<br>3767<br>1264 | 054170 | Private  | Stillwell, George Leonard  | Imp. Forces. | Stillwell, William  | Portsmouth, Hants, Eng  | England.. .. | Wingham — | Jan. | 1916. |
+| 14 | 574<br>1261<br>3766<br>1292 | 654850 | Private  | Stockall, Peter  | Nil  | Stockall, William  | Humboldt, Sask  | Canada  | Clinton  | May | 1916. |
+| 14 | 574<br>1290<br>3765<br>1322 | 054249 | Private  | Stoddart, Herbert Reginald. . . | Nil  | Stoddart, Mrs. Caroline  | Clinton, Ont  | U.S.A  | Clinton  | Jan. | 1916. |
+| 14 | 573<br>1319<br>3765<br>1350 | G5470S | Private  | Stokes, Frederic William  | Nil  | Stokes, Mrs. Agnes  | Goderich, Ont  | Canada  | Goderich  | Mar. | 1916. |
+| 14 | 572<br>1348<br>3764<br>1380 | 054135 | Private  | Stokes, George Wilfred  | 33rd Regt. . . | Stokes, Frederick  | Goderich, Ont  | Canada  | Goderich... . | Dec. | 1915. |
+| 14 | 571<br>1377<br>3764<br>1407 | 054536 | Private  | Stone, William Charles  | Nil  | Stone, Mrs. Eleanor Rose.... | Hensall, Ont  | England. . . . | Hensall  | Mar. | 1916. |
+| 14 | 571<br>1405<br>3762<br>1437 | 054100 | Sergeant  | Straiton, John Watson  | 33rd Regt. . . | Straiton, John  | Goderich, Ont  | Canada  | Goderich | Dec. | 1915. |
+| 14 | 570<br>1434<br>3762<br>1465 | 054817 | Private  | Strang, John Caldwell  | Nil  | Strang, Henry  | R.R. No. 1, Hensall, Ont  | Canada  | Exeter  | May | 1916. |
+| 14 | 569<br>1463<br>3763<br>1494 | G54357 | Private  | Sturdy, Francis Dixon  | 33rd Regt. . . | Sturdy, William John  | Auburn, Ont  | Canada  | Wingham | Jan. | 1916. |
+| 14 | 569<br>1491<br>3763<br>1522 | G54402 |  | Sullivan, Thomas  | Nil  | Fielder, George  | 61 St. Peters St., Hackney ltd., London, Eng. | England | Brussels  | Feb. | 1916. |
+| 14 | 572<br>1520<br>3763<br>1549 | 127512 | Private  | Swarts, Jack Bertram  | Nil  | Swarts, Mrs. Charlotte  | Goderich, Ont  | Canada  | Goderich | Oct. | 1915. |
+| 14 | 570<br>1548<br>3763<br>1580 | G54384 | Private  | Taman, John Henry  | Nil  | Taman, John  | Seaforth, Ont  | 'anada  | Seaforth  | Jan. | 1916. |
+| 14 | 570<br>1577<br>3763<br>1607 | 654418 | Private  | Taman, William James  | Nil  | Sanderson, Mrs. Thomas  | Goderich, Ont  | 'anada  | Goderich... . | Fob. | 1916. |
+| 14 | 571<br>1606<br>3764<br>1636 | 654513 | Private  | Tasker, Albert Richard  | Nil  | Sims, Mrs. William  | Myth, Ont  | ’anada  | Wingham | Fob. | 1916. |
+| 14 | 572<br>1634<br>3764<br>1665 | 654410 | L.-Corporal  | Tasker, John Lancelot  | Nil  | Sims, Mrs. William  | Blyth, Ont  | ('anada  | Belgravc | Feb. | 1916. |
+| 14 | 572<br>1663<br>3765<br>1694 | 654745 | Sergeant  | Tasker, Richard  | nd Regt. | Tasker, Mrs. lna  | Clinton, Ont  | Canada  | Clinton  | April | 1916. |
+| 14 | 573<br>1691<br>3765<br>1722 | 654542 | Private  | Taylor, Frederick Charles Cl. . | Nil  | Scarlett, Robert  | R.R. No. 1, Seaforth, Ont  | England.... | Seaforth  | Feb. | 1916. |
+| 14 | 573<br>1719<br>3766<br>1751 | 654101 | Private  | Taylor, George Ross  | Nil  | Taylor, William  | White Church, Ont  | Canada  | Wingham.... | Dec. | 1915. |
+| 14 | 573<br>1747<br>3767<br>1780 | 054487 | Private  | Taylor, Ira David  | Nil  | Taylor, Mrs. Charlotte  | Hay, Ont  | Canada  | Exeter  | Feb. | 1916. |
+| 14 | 573<br>1776<br>3768<br>1809 | 054399 | Private  | Taylor, James  | Nil  | Taylor, Mrs. Margaret Annie. | Goderich, Ont  | England | Goderich.. . | Feb. | 1916. |
+| 14 | 572<br>1805<br>3768<br>1837 | 654102 | Private  | Taylor, James Thomas  | Nil  | Taylor, George R  | Clinton, Ont  | Canada  | Clinton  | Dec. | 1915. |
+| 14 | 571<br>1833<br>3768<br>1866 | G54723 | Private  | Terry, John Edward  | Nil  | Terry, Edward Ferguson. . . . | Listowel, Ont  | Canada  | Clinton  | Mar. | 1916. |
+| 14 | 571<br>1862<br>3769<br>1895 | 654171 | Private  | Thamer, George Henry  | Nil  | Thamer, William  | Walton, Ont  | Canada  | Brussels  | Jan. | 1916. |
+| 14 | 570<br>1891<br>3769<br>1923 | 654450 | Private  | Thibideau, John Arthur  | Nil  | Thibideau, Mrs. Lucy May .. | Brussels, Ont  | Canada  | Brussels  | Feb. | 1916. |
+| 14 | 570<br>1921<br>3769<br>1951 | 054103 | Private  | Thibideau, Steven Howard | Nil  | Thibideau, Gilbert  | Brussels, Ont  | Canada  | Brussels  | Dec. | 1915. |
+| 14 | 569<br>1950<br>3769<br>1982 | 654406 | Private  | Thompson, Charles Murray.... | Nil  | Thompson, Dr. E. W  | Clinton, Ont  | Canada  | Clinton  | Feb. | 1916. |
+| 14 | 569<br>1979<br>3769<br>2010 | 654136 | Private  | Thompson, Ernest  | Nil  | Thompson, Samuel  | Belgrave, Ont  | Canada  | Wingham  | Dec. | 1915. |
+| 14 | 569<br>2008<br>3770<br>2039 | 654104 | L.-Corporal  | Thompson, Fred Greene  | Nil  | Thompson, Charles W  | Clinton, Ont  | Canada  | Clinton  | Dec. | 1915. |
+| 14 | 570<br>2037<br>3770<br>2068 | G54543 | Private  | Thompson, Joseph Samuel  | Nil  | Thompson, Samuel  | Belgrave, Ont   | Canada  | Wingham  | Mar. | 1916. |
+| 14 | 570<br>2065<br>3770<br>2097 | 054098 | Private  | Thompson, Wilfred Clarence. . . | Nil  | Thompson, William  | R. R. No. 1, Ethel, Ont  | Canada  | Brussels.... | Mar. | 1916. |
+| 14 | 570<br>2095<br>3769<br>2124 | 654105 | Private  | Thomson, Thomas  | Nil  | Thomson, Mrs. Elizabeth.... | Wroxeter, Ont  | Scotland... | Wroxeter. .. | Dec. | 1915. |
+| 15 | 1558<br>431<br>3863<br>461 | Nil  | Thuell, William  | Brussels, Ont  | Canada  |  | Dec. 10, 1915. |
+| 15 | 1558<br>460<br>3864<br>490 | Nil.... | Thuell, William  | Brussels, Ont  |  |  | Jan. 11, 1916. | Canada  |
+| 15 | 1558<br>489<br>3864<br>519 | Nil.. . . | Thuell, William  | Brussels, Ont  |  |  | Jan. 11, 1916. | Canada  | Brussels  |
+| 15 | 1559<br>518<br>3864<br>549 | Nil.... | Tier nay, James  | Blyth, Ont  |  |  | Mar. 23, 1916. | Blyth  | Canada  |
+| 15 | 1559<br>547<br>3864<br>577 | Nil. | Toms, John  | Bayfield, Ont  |  |  | Feb. 8, 1916. | Canada  |
+| 15 | 1887<br>578<br>3864<br>606 |  | Toms, John  | Bayfield, Ont  |  |  | Feb. 29, 1916. |
+| 15 | 1559<br>607<br>3864<br>635 | Nil.. . | Tonkin, William George. ... | Warley Barracks, London, Essex, Eng  |  |  | Jan. 29, 1916. |
+| 15 | 1560<br>636<br>3864<br>664 | Nil. ... | Town, George J  | Wroxeter, Ont  |  |  | Mar. 20, 1916. |
+| 15 | 1560<br>664<br>3865<br>693 | Nil. | Trapnell, >lrs. Isabel  | 29 Hampton Court Rd., Bristol, Eng  |  |  | Mar. 13, 1916. |
+| 15 | 1560<br>693<br>3865<br>722 | Nil. | Troyer, Mrs. Sarah A  | Seaforth, Ont  |  |  | April 8, 1916. |
+| 15 | 1560<br>721<br>3865<br>751 | Nil  | Troyer, Charles Edward  | Shaunavon, Sask  |  |  | Feb. 15, 1916. | U.S.A  |
+| 15 | 1560<br>752<br>3865<br>780 | Nil  | Tucker, Mrs. Margaret  | Exmouth, Devon, Eng  |  |  | Dec. 10, 1915. |
+| 15 | 1560<br>780<br>3866<br>808 | Nil.... | Tucker, Charles E  | Exeter, Ont  |  |  | Jan. 21, 1916. |
+| 15 | 1054<br>809<br>3865<br>836 | Nil.... | Underwood, William  | Gorrie, Ont  |  |  | Mar. 24, 1916. |
+| 15 | 1560<br>838<br>3866<br>865 | Nil. .. | Vanstone, Mrs. Minnie  | Berlin, Ont  |  |  | Dec. 27, 1915. | Goderich  |
+| 15 | 1560<br>867<br>3866<br>895 | Nil.. . | Veal, William Henry  | Elimville, Ont  |  |  | May 6, 1916. |
+| 15 | 1560<br>896<br>3866<br>923 | Nil  | Vickers, Samuel  | R.R. No. 4, Goderich, Ont  |  |  | Mar. 27, 1916. |
+| 15 | 1560<br>925<br>3866<br>953 | Nil. . | Vi dean, Harry  | Goderich, Ont  |  |  | Feb. 2, 1916. |
+| 15 | 1560<br>953<br>3866<br>980 | Nil. . | Vittie, Thomas  | Gorrie, Ont  |  |  | Mar. 21, 1916. |
+| 15 | 1888<br>982<br>3866<br>1010 |  | Walker, William  | Exeter North, Ont  |  |  | May 8, 1916. |
+| 15 | 1560<br>1011<br>3866<br>1038 | Nil  | Walker, James  | Centralia, Ont  |  |  | Mar. 21, 1916. |
+| 15 | 1888<br>1039<br>3867<br>1067 |  | Waller, Mrs. K. M  | Wroxeter, Ont  |  |  | Dec. 20, 1915. |
+| 15 | 1560<br>1068<br>3867<br>1097 | Nil.. . | Walser, Mrs. Mary  | Goderich, Ont  |  |  | Feb. 8, 1916. |
+| 15 | 1560<br>1097<br>3867<br>1124 | Nil  | Ward, Mrs. Edith  | Goderich, Ont    |  |  | Feb. 14, 1916. |
+| 15 | 1560<br>1126<br>3867<br>1154 | Nil. . | Ward, Henry  | Moncricff, Ont  |  |  | May 13. 1916. |
+| 15 | 1560<br>1155<br>3867<br>1183 | Nil.. . | Warner, Mrs. Mary  | Goderich, Ont  |  |  | Jan. 29, 1916. |
+| 15 | 1561<br>1183<br>3867<br>1211 | Nil  | Wasmann, John F  | Clinton, Ont...   |  |  | Jan. 31, 1916. |
+| 15 | 1888<br>1212<br>3868<br>1240 |  | Watson, Margaret Jane  | Goderich, Ont   |  |  | Mar. 20, 1916. |
+| 15 | 1889<br>1240<br>3868<br>1269 |  | Langsdon, Mrs. Anne  | 5 Bourn St., Wilmslow, Cheshire, Eng  |  |  | Jan. 8, 1916. |
+| 15 | 1560<br>1268<br>3868<br>1300 | Nil  | Watt* James  | Blyth, Ont   |  |  | May 15, 1916. | Canada  | Blvth  |
+| 15 | 1560<br>1298<br>3868<br>1327 | Nil.... | Riddell, Mrs. William  | Thornhill, Ont  |  |  | May 16, 1916. |
+| 15 | 1560<br>1327<br>3868<br>1356 | Nil  | Watters, Mrs. Charlotte. . .. | Fordwich, Ont.   |  |  | May 12, 1916. |
+| 15 | 1560<br>1356<br>3868<br>1385 | Nil  | Wearring, George  | Wroxeter, Ont     |  |  | Mar. 23, 1916. |
+| 15 | 1560<br>1384<br>3868<br>1415 | Nil  | Webber, Henry George  | 56th Bty., C.F.A., Guelph, Ont  |  |  | May 26, 1916. |
+| 15 | 1559<br>1413<br>3869<br>1447 | Can. Mil. | Weber, Mrs. Phoebe  | Zurich, Ont '•*.*•.  |  |  | May 5, 1916. |
+| 15 | 1889<br>1442<br>3869<br>1472 |  | Websdaie, Henry  | Hardingham, Norfolk, Eng  |  |  | Dec. 11, 1915. |
+| 15 | 1561<br>1471<br>3869<br>1499 | Nil. ... | Weiss. John...  | Godcrich, Ont   |  |  | Jan. 14, 1916. |
+| 15 | 1055<br>1499<br>3870<br>1528 | Nil  | Wells, Mrs. Caroline  | Exeter, Ont     |  |  | Jan. 3, 1916. |
+| 15 | 1560<br>1529<br>3870<br>1558 | Nil  | Whistle, Annie  | Paragon Row, London, Eng   |  |  | Dec. 16, 1915. |
+| 15 | 683<br>1556<br>3862<br>1586 | Nil  | Wesley, Mrs. Euphemia  | Wroxeter, Ont  |  |  | Mar. S, 1916 |
+| 15 | 1054<br>1585<br>3862<br>1619 | Nil  | West, Mrs. Harriet E  | Exeter, Ont    j.;. .   |  |  | Feb. 22, 1916 |
+| 15 | 1560<br>1614<br>3870<br>1643 | Nil  | Westcott, Mrs. Annie  | Seaforth, Ont      |  |  | Dec. 8, 1915. |
+| 15 | 1560<br>1643<br>3862<br>1672 | Nil. | Westcott, Mrs. Annie  | Seaforth, Ont    |  |  | Dec. 14, 1915 |
+| 15 | 1560<br>1672<br>3863<br>1700 | Nil... | Mitchell, Mrs. W. J  | Wroxeter, Ont  |  |  | Jan. 10, 1916 |
+| 15 | 1560<br>1701<br>3863<br>1729 | Nil  | Mitchell, Mrs. W. J  | Wroxeter, Ont  |  |  | Jan 10, 1916 |
+| 15 | 683<br>1729<br>3863<br>1758 | Nil. | Mitchell, Mrs. W. J  | Wroxeter, Ont    |  |  | Jan. 10, 1916 |
+| 15 | 1559<br>1758<br>3864<br>1786 | Nil  | Mitchell, Mrs. W. J  | Wroxeter, Ont     |  |  | Feb. 1, 1916 |
+| 15 | 1560<br>1787<br>3872<br>1818 | Nil  | Westlake, Susan  | Bayfield, Ont       |  |  | Mar. 10, 1916. |
+| 15 | 1890<br>1815<br>3871<br>1844 |  | Mitchell, Mrs. Elizabeth.... | Wroxeter, Ont  |  |  | Jan. 25, 1916. |
+| 15 | 1560<br>1843<br>3872<br>1872 | Nil  | Weston, Mrs. Emma  | Goderich, Ont  |  |  | Mar. 21, 1916. |
+| 15 | 1559<br>1930<br>3872<br>1960 | Nil  | White, James  | Benmiller, Ont   |  |  | May 20, 1916. |
+| 15 | 1559<br>1958<br>3872<br>1988 | Nil  | Whitmore, Franklin  | Varna, Ont   |  |  | Mar. 6, 1916. |
+| 15 | 1559<br>1987<br>3872<br>2018 | Nil  | Wicker, George Thomas.. | “Myrtle Cottage," Mayfield, Sussex, Eng  |  |  | June 14, 1916. |
+| 15 | 1559<br>2016<br>3872<br>2047 | Nil.... | Morrison, Edmund  | R. R. No. 3, Kippen, Ont  |  |  | Jan. 8, 1916. |
+| 15 | 1558<br>2045<br>3873<br>2076 | Nil.... | Wightman, Charles  | Belgrave, Ont  |  |  | Mar. 25, 1916. |
+| 15 | 1559<br>2073<br>3872<br>2104 | Nil  | Wilkcn, Alfred  | Clinton, Ont  |  |  | Dec. 11, 1915. |
+| 15 | 1887<br>2102<br>3874<br>2135 |  | Wilkinson, Mrs. Mary Kate. | Wingham, Ont  |  |  | May 15, 1916. |
+| 15 | 681<br>2131<br>3874<br>2161 | Nil  | Wilkinson, Willinni Inman. . | R. R. No. 3, Exeter, Ont  |  |  | Jan. 20, 1916. | England  | Exeter  |
+| 16 | 848<br>669<br>3353<br>700 |  |  |  | Former Corps. |  |  | Country of |
+| 16 | 659<br>811<br>3852<br>844 | 654118 | Private  | Williams, Albert Charles  | Nil  | Williams, Harry George... | Wingham, Ont  | England. | Wingham.. | Dec. | 10, 1915. |
+| 16 | 659<br>840<br>3854<br>873 | 654756 | L.-Corporal. | Williams, Frank Harold  | Nil  | Trewin, Mrs. Albert  | Londesborough, Ont  | England. | Clinton  | April | 1, 1916. |
+| 16 | 658<br>870<br>3854<br>901 | 654552 | Private  | Williamson, John Charles  | Nil  | Louttit, Mrs. John  | Ethel, Ont  | Canada.. | Brussels... | Feb. | 4, 1916. |
+| 16 | 658<br>899<br>3855<br>930 | 654489 | Private  | Willis, Aimer Thomas  | Nil  | Willis, John  | R. R. No. 1, Exeter, Ont  | Canada.. | Exeter  | Feb. | 22, 1916. |
+| 16 | 657<br>928<br>3855<br>959 | 654502 | Private  | Willis, John Norman  | Nil  | Willis, John  | R. R. No. 1, Exeter, Ont  | Canada.. | Exeter  | Feb. | 22, 1916. |
+| 16 | 657<br>957<br>3856<br>989 | 654764 | Private  | Willoughby, Nicholas Arthur. | Nil  | Willoughby, Mrs. Ada  | Seaforth, Ont.  | Canada.. | Seaforth... | May | 3, 1916. |
+| 16 | 656<br>986<br>3856<br>1018 | 654769 | Private  | Winch, Leslie  | 28th Regt.. | Winch, Stephen  | Paisley, Ont  | Canada.. | Bluevale.. | May | 5, 1916. |
+| 16 | 656<br>1014<br>3857<br>1047 | 654119 | Private  | Windsor, William Augustus  | Territorials. | Windsor, George  | 33 Goldsmith St., Norwich, Norfolk, Eng | England. | Wingham. | Dec. | 1, 1915. |
+| 16 | 656<br>1043<br>3858<br>1075 | 654192 | Private  | Wood, Charles  | Nil  | Wood, Lydia  | 63 Selhurst Rd., South Norwood, Eng. ... | England. | Seaforth.. | Jan. | 4, 1916. |
+| 16 | 656<br>1072<br>3858<br>1104 | 654387 | Sergeant  | Woodley, John  | Imp. Forces | Woodley, Mrs. Louisa  | R. R. No. 3, Auburn, Ont  | England. | Goderich. | Jan. | 24, 1910. |
+| 16 | 656<br>1101<br>3858<br>1132 | 654747 | Private  | Woods, James Jackson  | Nil.?  | Woods, Robert  | Elimville, Ont  | Canada.. | Exeter  | April | 11, 1916. |
+| 16 | 655<br>1130<br>3859<br>1161 | 654252 | Corporal  | Woods, Russell Francis  | Nil  | Woods, James  | Auburn, Ont  | Canada.. | Blyth.... | Jan. | 10, 1916. |
+| 16 | 655<br>1159<br>3859<br>1191 | 65465S | Private  | Wray, Gordon  | Nil  | Wray, John  | R. R. No. 1, Wingham, Ont  | Canada.. | Wroxeter. | Mar. | 21, 1916. |
+| 16 | 655<br>1187<br>3860<br>1219 | 654659 | L.-Corporal.. | Young, Benjamin Franklin  | 33rd Regt.. | Young, Mrs. Eva Matilda.. | Goderich, Ont  | Canada.. | Goderich. | Mar. | 20, 1916. |
+| 16 | 654<br>1216<br>3861<br>1248 | 654174 | Private  | Young, Harold Melville  | Nil  | Young, James  | Hinch St., Goderich, Ont  | Canada.. | Goderich. | Jan. | 3, 1916. |
+| 16 | 655<br>1245<br>3861<br>1277 | 654660 | Private  | Young, James Emmerson  | 33rd Regt.. | Young, Mrs. Eima  | Goderich, Ont  | Canada.. | Goderich. | Mar. | 20, 1916. |
+| 16 | 654<br>1273<br>3861<br>1306 | 654373 | L.-Corporal.. | Yungblut, Jacob  | 33rd Regt.. | Yungblut, Mrs. Margaret. . | Goderich, Ont  | Canada.. | Goderich. | Jan. | 30, 1916. |
 {% endraw %}

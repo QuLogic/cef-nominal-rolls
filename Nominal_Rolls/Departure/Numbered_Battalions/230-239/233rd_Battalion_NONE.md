@@ -1,9 +1,10 @@
 ---
 title: 233rd Battalion NONE
+wide: wide
 ---
 
 {% raw %}
-| | | | | | |
-| --- | --- | --- | --- | --- | --- |
-| 1 |  |  |  |  | KiO |
+| Page | Bounds | |
+| --- | --- | --- |
+| 1 | <br><br><br> | KiO |
 {% endraw %}

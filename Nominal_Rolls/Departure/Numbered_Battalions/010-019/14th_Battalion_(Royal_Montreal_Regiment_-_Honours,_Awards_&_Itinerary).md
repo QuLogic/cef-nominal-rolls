@@ -1,9 +1,10 @@
 ---
 title: 14th Battalion (Royal Montreal Regiment - Honours, Awards & Itinerary)
+wide: wide
 ---
 
 {% raw %}
-| | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | 1863 | 126 | 3185 | 167 |  | 1920 |
+| Page | Bounds | | |
+| --- | --- | --- | --- |
+| 1 | 1863<br>126<br>3185<br>167 |  | 1920 |
 {% endraw %}

@@ -1,1833 +1,1834 @@
 ---
 title: 40th Battalion & 1st 2nd RD
+wide: wide
 ---
 
 {% raw %}
-| | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1915.) | ! | Canadian Expeditionary | Force | also | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | [ Port: Quebec. | 40th Battalion \ Ship: S.S. " Saxonia." | ^ Date: October 18th, 1915. | 30m-7-16. | 11.0. 553-2-2 . | 1st Reinfc icing Draft | 2nd Rc'i ' c'ng Draft | Port: Halifax. | Ship: S.S. 'Caledonia.” | Date: June 15th, 1915. | Port: Montreal. | Ship: S.S. “ Missanabie." | Date: October 9th, 1915. |
-| 2 | 2055 | 573 | 3445 | 602 |  |  |  |  |  |  | Country of |
-| 2 | 867 | 715 | 3946 | 750 |  | Lt.-Col  | Vincent, Arthur Gustave  | R.O   | Vincent, Mrs. Susannah.. | c o Mips Whitman, Tupperville, Annapolis | England  | Valcartier   | April | 9,1915. |
-| 2 | 865 | 745 | 3947 | 779 |  | Major  | Andrews, Charles Abner  | C.F.A   | Andrews, Edith E  | Mahore Bay, Lunenburg Co., N.S.. | Canada  | Valcartier   | Sept. | 13.1915. |
-| 2 | 866 | 775 | 3947 | 807 |  | Major  | Ditmars, John Claapraan W  | 09th Regt  | Ditmars, Leah  | Drrtp Brook, Annapolis Co., N.S.. ., | Canada  | Valcartier   | Sept. | 14, 1915. |
-| 2 | 865 | 805 | 3947 | 836 |  | Major  | Nutter, Augustine Grace  | 17 th Huss...,, | Nutter, Mrs. J. A  | 05 Drummond St., Montreal, P.Q.. | Canada  | Valcartier  | Sept. | 2, 1915. |
-| 2 | 865 | 834 | 3947 | 864 |  | Major.  | Wood, George Wiseman  | 73rd Regt..., | Wood, Mrs. George W.. | Chatham, Northumberland Co., N.B | Scotland  | Valcartier  | Sept. | 14.1915. |
-| 2 | 863 | 863 | 3947 | 893 |  | Captain.... | Bell, Hugh P...  | 63rd Regt.... | Bell, Charles   | 40 Brcnton St., Halifnx, N.S  | Canada  | Valcartier  | Aug. | 31, 1915. |
-| 2 | 863 | 892 | 3947 | 922 |  | Captain. ... | Chisholm, Christopher Ronald. | 78th Regt  | Chisholm, Duncan  | New Glasgow, Pictou Co., N.S... | U.S.A | Valcartier  | Sept. | 14, 1915. |
-| 2 | 864 | 922 | 3947 | 952 |  | Captain  | Dennis, Eric Reginald  | 03rd Regt | Dennis, William  | 45 Coburg Rd., Halifax, N.S  | Canada   | Halifax  | Sept. | 3, 1915. |
-| 2 | 864 | 950 | 3948 | 981 |  | Captain.... | Doane, William Edward E  | 03rd Regt | Donne, F. W  | 25 Young Ave., Halifax, N.S  | Canada  | Valcartier  | Aug. | 31, 1915. |
-| 2 | 864 | 980 | 3948 | 1010 |  | Captain  | Douglas, Edgar  | C.A.M.C  | Dougin*. Mrs. Mabel ... | Halifax, N.S   | India  | Valcartier  | Sept. | 14, 1915. |
-| 2 | 864 | 1008 | 3949 | 1039 |  | Captain  | Dwyer, Gerald  | 00th Regt. ... | Dwyer, Mrs. M  | 71 Spring Garden Rd., Halifnx, N.S. | Canada  | Valcartier  | Aug. | 31, 1915. |
-| 2 | 864 | 1037 | 3948 | 1068 |  | Captain  | Gillis, Gordon Harvey  | 03rd Regt. .., | Gillis, David C  | 31 Birmingham St;., Halifax, N.S  | Canada  | Valcartier  | Sept. | 14, 1915. |
-| 2 | 864 | 1067 | 3948 | 1097 |  | Captain  | Legge, John Sanderson  | R.C.R  | I>egge, Mrs. Jean...  | 368 Gottingen St., Halifax, N.S  | Ireland  | Valcartier  | Aug. | 31, 1915. |
-| 2 | 864 | 1095 | 3949 | 1127 |  | Captain  | Letcher, William Thomas  | 93rd Regt.... | Letcher, Mrs. Carrie Jean | Springhill, Cumberland Co., N.S  | Canada  | Valcartier  | Sept. | 10, 1915. |
-| 2 | 863 | 1125 | 3950 | 1156 |  | Captain  | Ross, Arthur McKay  | 76th Hups. ... | Ross, Mrs. A. M  | Waldegrave, Colchester Co., N.S.... | Canada  | Valcartier  | Sept. | 9, 1915. |
-| 2 | 867 | 1154 | 3949 | 1186 |  | Hon.-Captain | Tompkins, Miles N  | Can. Mil  | Tompkins, Nicholas.  | North East Margaree, Inverness Co. | Canada  | Halifax.  | Oct. | 27, 1915. |
-| 2 | 866 | 1182 | 3950 | 1213 |  | Lieutenant.. | Alien, Arthur Spencer    | 81st Regt...., | Allen, Mrs. Bessie Mildred | Walton, Hants Co., N.S  | Canada  | Valcartier  | Aug. | 31, 1915. |
-| 2 | 865 | 1211 | 3950 | 1241 |  | Lieutenant.. | Anderson, Alexander Burns  | 63rd Regt.... | Anderson, Maude J  | 0 Belle Aire Terr., Halifax, N.S  | Canada  | Valcartier  | Oct. | 15. 1915. |
-| 2 | 866 | 1240 | 3950 | 1272 |  | Lieutenant.. | Anderson, George Watson  | 6th Regt..., | Anderson, George Watson | High St., Forres, Moray, Scot  | Scotland  | Valcartier  | Aug. | 31, 1915. |
-| 2 | 866 | 1270 | 3950 | 1303 |  | Lieutenant.. | Campbell, George Henderson... | 03rd Regt.... | Campbell, G. S  | 105 Young Ave., Halifax, N.S  | Canada  | Valcartier  | Aug. | 31, 1915. |
-| 2 | 865 | 1299 | 3951 | 1331 |  | Lieutenant.. | Churchill, Alfred Snow  | Sint Regt  | Churchill, Ezra  | Yarmouth, N.S  | Canada  | Valcartier  | Aug. | 31, 1915. |
-| 2 | 865 | 1329 | 3951 | 1361 |  | Lieutenant.. | Cunningham, Austin Ward  | 00th Regt..., | Cunningham, Rev. Henry | St. George’s Rectory, Halifax, N.S. | Newfoundland.. | Valcartier  | Aug. | 31, 1915. |
-| 2 | 865 | 1358 | 3951 | 1389 |  | Lieutenant.. | Davidson, Bernard Franklyn — | 81st Regt  | Davidson, Mrs. B. M.... | 27 South St., Halifax, N.S  | Canada  | Valcartier  | Sept. | 13, 1915. |
-| 2 | 865 | 1387 | 3951 | 1419 |  | Lieutenant.. | Fisher, Hubert Courtenay  | C.A.S.C  | Fisher, A. W  | Falkland, B.C  | England  | Valcartier  | Oct. | 18.1915. |
-| 2 | 864 | 1417 | 3951 | 1449 |  | Lieutenant.. | Freeman, Percy  | 03rd Regt.... | Freeman. Philip A  | 8 Fawson St., Halifax, N.S  | U.S. A  | Valcartier  | Sept. | 27, 1915. |
-| 2 | 863 | 1446 | 3952 | 1479 |  | Lieutenant.. | Harley, John Robert H  | 70th Regt.... | Harley, Rev. A. W. M... | King’s College, Windsor, Hants Co., | Canada  | Valcartier  | Oct | 15, 1915. |
-| 2 | 864 | 1475 | 3952 | 1507 |  | Lieutenent.. | Heal, Harold Harcourt   | 78th Regt.... | Heal, Rev. James B  | Guysborough, Guysboro Co., N.S... | Canada  | Valcartier  | Oct. | 14, 1915. |
-| 2 | 865 | 1504 | 3952 | 1536 |  | Lieutenant.. | Holder, Philip Victor  | 75th Regt.... | Holder, L. G  | Lunenburg, N.S    | Canada  | Valcartier  | Oct. | 15.1915. |
-| 2 | 864 | 1534 | 3952 | 1568 |  | Lieutenant.. | Jago, Ralph Norton  | 13th Drag.... | Jago, Mary Stevens  | 1020 Tupper St., W:estmount, P.Q  | Canada  | Valcartier  | Sept. | 3, 1915. |
-| 2 | 865 | 1563 | 3952 | 1595 |  | Lieutenant.. | rones, Herbert Reginald St. C.. | 70th Regt  | Jones, Herbert L  | Weymouth, Digby Co., N.S  | Canada  | Valcartier  | July | 10.1915. |
-| 2 | 865 | 1593 | 3952 | 1626 |  | Lieutenant.. | Layton, Francis Paul II  | 70th Regt.... | Layton, George A  | Truro, Colchester Co., N.S  | Canada  | Valcartier  | Aug. | 31, 1915. |
-| 2 | 866 | 1622 | 3954 | 1654 |  | Lieutenant.. | Macintyre, John Donald  | 94th Regt.... | Macintyre, Duncan K — | P.O. Box. 147, Sydney, C.B., N.S... | Canada  | Valcartier  | Sept. | if., 1915. |
-| 2 | 867 | 1651 | 3953 | 1683 |  | Lieutenant.. | MacKcnzie. D. II  | 94th Regt.... | MacKenzie, James W. ... | Glace Bay, C.B., N.S  | Canada  | Valcartier  | Oct. | 14, 1915. |
-| 2 | 864 | 1681 | 3953 | 1712 |  | Lieutenant.. | MacLeod, Macintosh   | 93rd Regt  | MacLeod, Mrs. A  | P.O. Box 148, Baddeck, C.B., N.S.. | Canada  | Valcartier  | Oct. | 9, 1915. |
-| 2 | 867 | 1710 | 3953 | 1742 |  | Lieutenant.. | Murray, George Belcher  | 66th Regt  | Murray, G. H     | Halifax, Pictou Co., N.S  | Canada  | Valcartier  | Sept. | 13, 1915. |
-| 2 | 866 | 1740 | 3953 | 1771 |  | Lieutenant.. | Ormond, Lawrence Edward  | 93rd Regt.... | Ormond, Mary Isabel.. . | Amherst, Cumberland Co., N.S  | Canada  | Valcartier  | Sept. | 14, 1915. |
-| 2 | 866 | 1769 | 3955 | 1801 |  | Lieutenant.. | Pickup, Walter W    | 09th Regt... | Pickup, S. W. W.. | Granville Ferry, Annapolis Co., N.S | Canada  | Valcartier  | Oct. | 15, 1915. |
-| 2 | 868 | 1799 | 3953 | 1829 |  | Lieutenant.. | Robertson, < Jeorp? Frederick... | S.A  | Robertson, Mrs. F. G | 260)4 Gottingen St., Halifax, N.S... | Canada  | Valcartier  | Oct. | 14, 1915. |
-| 2 | 867 | 1828 | 3954 | 1858 |  | Lieutenant.. | Slack, Lawrence William W  | 81st Regt.... | Slack, D. N  | Windsor, Hants Co., N.S  | Canada  | Valcartier  | Oct. | 15.1915. |
-| 2 | 868 | 1857 | 3944 | 1889 |  | Lieutenant.. | Sylvester, George M  | 03rd Regt... | Sylvester, Walter. | ew Glasgow, Pictou Co., N.S  | Canada  | Halifax   | Sept. | 4,1915 |
-| 2 | 866 | 1886 | 3953 | 1917 |  | Lieutenant.. | Tuttle, Charles lidward  | 93rd Regt.... | Tuttle, Stephen  | Wallace Bay, Cumberland Co., N.S. | Canada  | Valcartier  | Oct. | 15, 1915. |
-| 2 | 766 | 1916 | 3954 | 1947 | 415704 | Private  | Adams, Albert Harry  | Imp. Forces. | Not Stated  | Not Stated  | England  | Aldershot  | Aug | 7. 1915. |
-| 2 | 766 | 1945 | 3951 | 1980 | 415523 | Private  | Adams, Frank   .   | 75th Regt.... | 'Kaiser, Mrs. Lemuel | Gold River, Lunenburg Co., N.S  | Canada  | Bridgewater .. | April | ^n, 1915. |
-| 2 | 766 | 1973 | 3806 | 2006 | 415792 | Private  | Adams, Guy Kinsman  | Nil  | I Adams, E. W  | Deep Brook, Annapolis Co., N.S....- | Canada   | Aldershot. | Aui? |
-| 2 | 767 | 1999 | 3953 | 2036 | ■11513!' | Private  | Adams, llnrvey   | Nil  | , Vdams, Frederick | New Ross, Lunenburg Co., N.S  | Canada  | Kentville   | May | 4, 1915. |
-| 2 | 768 | 2027 | 3953 | 2071 | 414951 | Private  | Addicott, Henry   | Nil  | jAridicott, Mrs. Mary | New Aberdeen, C.B., N.S  | Newfoundland . | Sydney  | A’ig. | 13, 1915. |
-| 2 | 768 | 2062 | 3676 | 2101 | 414068 | Private  | Ahern, Cornelius...  | Nil  | |Ahern, Mrs  | P.O. Sydney Mines, C.B., N.S  | Canada  | Halifax  |
-| 2 | 768 | 2092 | 3609 | 2133 | 414301 | Bugler  | jAikenhead, Frederick  | Nil  | Aikcnhead. Mrs. Ada | 357 Campbell Rd., Halifax, N.S.... | Canada  | Halifax |
-| 2 | 768 | 2118 | 3645 | 2155 | 415797 | Private  | lAitken, Joseph P..   | Nil  | I \»tken, John  | Greenock, Scot  | .Scotland  | Alder«h"t |
-| 3 | 2323 | 361 | 3800 | 393 |  |  |  |  |  | IP.O. Box Iney, C.B., N S  ’Knahind   |  | Aldershot IJuly 1 |  | i, m*. |
-| 3 | 630 | 378 | 3799 | 424 | •I I . 1 7t | Pri vate  | \ iu'ltui '1 11 irold J  | Nil  | V kehurst, Mrs. Iv.‘" | 147 Queen St., St John, N.B ICanjidri.. 'Sussex  \<)ct. |  |  |  | >, 1015. |
-| 3 | 628 | 408 | 3799 | 452 | 4S207!) | IVivate. ....... | A (chord, Bert.   | 02nd Regt  | Alchorn, Mrs. Maud | 47 Falm-Kifh St Svdm y. C.B., N.S  !< amda |  | Aldershot 1 | \Uf>. I | I. 1915. |
-| 3 | 628 | 436 | 3799 | 485 | 415422 | Private  | Alchorn, William   | Nil  | Alrfhorn, Mrs. M i r: | 8pr»r>r ff!M ' m ’Hand Co.; N.S  | Seot’.xrd | Aldershot i | luly 2! | >, I'M5. |
-| 3 | 628 | 466 | 2174 | 500 | •114701 | I’ri vate  | \t*»xander, Wils;>n—  | Nil  | Alexander, Mrs. M : |
-| 3 | 2329 | 479 | 3799 | 512 |  |  |  |  |  | 70 Waterloo ltd if'- lericton, N.B  | 1 -tr idsi  | Sussex    | scpt. | <. 11*15. |
-| 3 | 634 | 494 | 3800 | 542 | isjur | Private.  | VI lea* Hay ' ir i it  | Nil  | Allen. John W | Trenton, Pi- t«*u • •» . N.S  | ".'Tin   | Valcartier | lulv | \ 1915. |
-| 3 | 634 | 525 | 2048 | 556 | ii Pm 1 | I’rivn t.*  | Mien, M>inlo k Georg**  | 78th Regt  | Vilen, Geotge . |
-| 3 | 2333 | 538 | 3799 | 571 |  |  |  |  |  | Reserve Mines, Gla r Bay, C'.B., N.S  | 1 ana>la  | Aldershot | lulv 2 | I, 1915. |
-| 3 | 628 | 553 | 3798 | 593 | •l 11181 | Private* | \; rnnn, iv '*e*t   | Nil  | AIrnon. Will |  |  |  |  | i. 1915. |
-| 3 | 2329 | 570 | 3663 | 599 |  |  |  |  |  | Oxford. I‘ninb^rlnn'i * *o., N.S   | ■ ii 1 | Amherst. | May |
-| 3 | 633 | 583 | 2090 | 614 | u r*2‘> | Private  | Ainon, William   .... | Nil  | Ainon. Mrs Pi v • |
-| 3 | 2330 | 596 | 3800 | 627 |  |  |  |  |  | 51 Duke St.. 11 all fax. N.S...   | (ran la | Aldershot  | A UR. | S. 1915. |
-| 3 | 631 | 611 | 2082 | 642 | ii i nr | Private. | Anderson, Frederick Nelson | Nil  | \mler on, Mr** ‘*1 |
-| 3 | 2332 | 626 | 3800 | 662 |  |  |  |  |  | 43 Urqabfirt Bd.. AV»erdeon, Scot  | S< otlai.d.. . • | Aldershot  | luly | ». 1915. |
-| 3 | 627 | 640 | 2047 | 671 | •MIMj | i’ll vate. | Anderson,.John  | Imp. Forces  | Shepherd, Alex |
-| 3 | 2333 | 656 | 3800 | 686 |  |  |  |  |  | North P'jrt, OimKerland Co., N.S  | r*anada | Aldershot  | \'tK- 11 | ), 1915. |
-| 3 | 632 | 670 | 2074 | 700 | ir.sir» | Private.   | Anderson, Perry  | Nil  | Anderson, Henrv |
-| 3 | 2330 | 685 | 3800 | 717 |  |  |  |  |  | •II Duke Ht., Halitat. N.S  | < annda  | Halifax  | luly :u | i, 1915. |
-| 3 | 631 | 698 | 2082 | 728 | 111 ii)* | Private  | And**non, William   | m\  | Andersen, Mr** M |
-| 3 | 2330 | 714 | 3801 | 744 |  |  |  |  |  | 39 Granville St., If difax. N.S  | ^'annda .. | Mdcrshot   | AuC. H | 1915. |
-| 3 | 632 | 728 | 1997 | 758 | ; 15 12$ | Private   | Andrews, Walter George  | Nil  | Andrews. V |
-| 3 | 2331 | 733 | 3722 | 777 |  |  |  |  |  | Glace Bsy, C.H. N."      | < ’anrida  | Syd nov  | Oct. | »! |
-| 3 | 625 | 756 | 2186 | 787 | 41544')! Private  |  | Anthony, Robert John  | R FA  | Anth'-P} . Mr-. W , j 1 • |
-| 3 | 2330 | 773 | 3801 | 805 |  |  |  |  |  | 57 East St.. Whit»e\ Pier, C.B., N.S  | I!ngl:i!td . | Kentville  ! | luly 21 | ). 1M5. |
-| 3 | 624 | 785 | 2048 | 817 | •U.M7.: | Puvale  | Apted, William Christopher. | Nil    | Apted. \\ 1II1 »m |
-| 3 | 624 | 814 | 2073 | 849 | 414481*1 Private. . . |  | Archibald, Blair V  | Nil  | Archil ild. Ear ’ |
-| 3 | 2384 | 835 | 3497 | 861 |  |  |  |  |  | Colehe^ter <Jo.. N S       | Canada  | Aldershot |
-| 3 | 2333 | 864 | 3583 | 893 |  |  |  |  |  | rcmont Bsy, Priri--e f'o., P.E l  | ^’anada  | Sussex  |
-| 3 | 624 | 875 | 1757 | 903 | •S 1J )•<.'] l*«*i vato.  |  | Arsenault, A   | Nil  |
-| 3 | 2382 | 889 | 3571 | 919 |  |  |  |  |  | Brtnu»wici: St . Halifax, N.S    | Canada  | Aldershot  |
-| 3 | 624 | 903 | 1801 | 932 | 4141'lSj Private..  |  | Ash, Frederick  | Nil  |
-| 3 | 2334 | 922 | 3571 | 952 |  |  |  |  |  | 10 Stamford Rd.. l/ongsieht, Mancbcater, Eng | England  | Aldorshot  |
-| 3 | 624 | 930 | 2028 | 959 | •i i | Private........ | Aide. Georire Esm jnde  | Nil  | Astle. Oswald |
-| 3 | 2335 | 952 | 3572 | 980 |  |  |  |  |  | P.O. Box 52, Tniro, C-nlenester Co., N.S   | Canada  | Aldershot  |
-| 3 | 624 | 958 | 2114 | 990 | 41 4W»| Private . . . |  | Atkinson, Charles 11  | Nil  | Atkinson. Frank N. |
-| 3 | 2334 | 981 | 3584 | 1009 |  |  |  |  |  | Famworth, T.nnes.. F’ng   | l-.ng’nrd  | Sydney  |
-| 3 | 623 | 987 | 2188 | 1017 | 4 15 ;'); | Private   | Atkinson, Thomas  | Nil  | Atkinson. John  |
-| 3 | 2332 | 1011 | 3571 | 1039 |  |  |  |  |  | Inverness. C.B.. N.S  | t ’annda   | Sydney  |
-| 3 | 624 | 1017 | 2014 | 1046 | 41»7St» | Private  | Aucoin, Pet.or  | Nil  | Doucct. AI ‘X |
-| 3 | 625 | 1039 | 3586 | 1074 | 4I41H) | Pri vat*  | Audas, Fred   | 70th Regt  | \udas, All | Truro, Colchester <'*• . N.S     | England  | Yalcarticr  |
-| 3 | 622 | 1068 | 3588 | 1103 | 4111 i^i Pri vat »  |  | Ua^te. Ernest Harold..  | R.C.G A  | Bagg*. Klixab t!i | 18 Lilyville Rd . I^nibtn. I'.nc.    | England  | Aldershot  |
-| 3 | 628 | 1096 | 3511 | 1133 | \ 15; 13 | Private  | Parley, Charles  | Royal Navy  | Baelev, Mn. 1 ■ u »ars | '4 North Creirhton St.. Halifax. N.S  | England  | Aldershot. |
-| 3 | 623 | 1125 | 3666 | 1160 | 4 I;i7l7 Pri vate  |  | Bntrnelt, S**ward Hall.   | Nil  | Bngnell, M i s. < it •!in< . | Priaee Pt., Hv»lney t* P., \ S   | Canada. . | Sydney...... !Aur. |
-| 3 | 623 | 1154 | 3558 | 1190 | 4 157 2'\) | Private  | Bn^nell, Wilbert  | Nil  | Bnjrncll, Mrs. '1 .... | GabarxHJse, C.B.. N.S   | ( aiv'da  | Sydney  |
-| 3 | 622 | 1184 | 3574 | 1219 | 4 <i J .M i | Private   | Bailey, Paul  .. | Nil  | Bailey, M rs. S 1:i  | Frefferieton, N.B  | »’anada  | Sup ‘ex  |
-| 3 | 623 | 1213 | 3589 | 1247 | 4I5J3* | Private  | Bailey, Percy  | 0flth Regt   | Bailey, Mrs. S ui 11 .. | Nottingham. Eng  | England    | Halifax  |
-| 3 | 622 | 1241 | 3574 | 1275 | 4S1115 | Private  ... | Baird, Alexander  | Nil  | Bnird, M rs. irali   | Sackville, We^tmorelanl t . , V P.  | England  | Sm^spx  |
-| 3 | 622 | 1270 | 3577 | 1305 | 413178 | Private  | Baird, Raymond  | Nil  | Bnird, Mrs. 1 -»-i 1 »• : ... | lOofdow Station, Cole!n*«t<*r f'n., N.S...    | (’anada  | Aldershot  |
-| 3 | 621 | 1300 | 3589 | 1333 | 4 1 176*3 | Private  | Baker, Ernest  | Nil  | Baker, M r-*. S vrali . |  |  | Aldershot  | .Box 155 Carboi^ar, Newfotin.|land   | Nev. foundland . |
-| 3 | 641 | 1327 | 3574 | 1365 | 142 J'J | Private  |  | Nil  | Baker, Albert   |  | England  | Sussex   |
-| 3 | 626 | 1357 | 3589 | 1391 | 1 * >530 | Private  | • •'\k »r, ()ran WiKre l . .... | Nil  | Baker, ft A. .* .... | (Brilr ' * »*r, 1 'inen^nrjr f'n., N.S ...   | Canada  | Valearti<*r  |
-| 3 | 622 | 1387 | 3575 | 1418 | 4 1 Y\V\ | Private  | 1 ,al Jwin, William  | Nil  | Walker \\ rs. 1 ll»- i«*t. .. |  | England  | Aldershot .... |
-| 3 | 622 | 1415 | 3695 | 1447 | 41 I'iVl | Private  | Ball, John  | Nil   | Ball. Mm Martha | .oyfti..; ydney Mines. N.S     | England  | Sydney Mines. Mar. 1 |
-| 3 | 622 | 1443 | 3590 | 1477 | 4l579t5 | Private  | Barker, George H   | Nil  | Harker. J.tne \nn  | Amherst, Cnmb^land Co.. N ^   | Enjrlnnd, ... . | Aldershot  |
-| 3 | 622 | 1473 | 3591 | 1506 | 411532 | Private  | Barley, Frederick   | Nil  | Barley, L**itie  | Morenoeville, CTarl»ton Co., \ B  | England   | Amherst  |
-| 3 | 622 | 1498 | 3593 | 1534 | 41 *7.11 | Private  | Barnes, Jacob  | Nil  | B antes, Alfre<l  | Fortune Bay, Newfoua«iland   | Newfoundland.. | Sydney  |
-| 3 | 622 | 1530 | 3592 | 1561 | 4iihdh | Private  | Barrett, Gordon Lucas  | Nil  | i'larrett Noah   | Truro, Col''liesu*r Co., N S. .   | ('annda  | Aldershot  |
-| 3 | 622 | 1557 | 3592 | 1590 | 4151 S') | Private  | Barteaux. Vance   | 93rd Regt  | Bartenui. Fre<leri 'k  | Advocate Harbour, Cumberland Co., N.S   | Canada  | Aldershot  |
-| 3 | 622 | 1587 | 3593 | 1619 | 4i 49*2 | Private  | Barter, Walter  | Nil  |  | CaJ loaia MifiM,C.B., N.S   | Newfoundland. | Sydney  |
-| 3 | 622 | 1616 | 3593 | 1648 | 41VJB3 | Private   | Bsrklei!. Jams 11   | Nil  | i’.nrllett. Mrs. H.   | Sydney, C.B., N.S  | (’nnada  | Sydney  |
-| 3 | 623 | 1645 | 3594 | 1679 | 41V104 | Pri vate  | Bates, James D.    | Nil  | Bates, M rs. M. J  | Louisburft, C.B., N.B....   | |< 'anada  | Sydney  |
-| 3 | 623 | 1673 | 3593 | 1706 | 414333 | Private  . . .. | Baxter, James Farmer.  | Nil  | Baxter. Mr**. Mrv.rcij  | ’f^ltartnn. Pietoe Co.. N.S   | i V'ngland  . | New t!lns(!ow. . |
-| 3 | 624 | 1702 | 3595 | 1734 | 4 1 37M | Pri vat.*.  | Bayers, Kenneth   | Nil  | Bavi»rs. Intnes  | •131 Catnpbrll ltd , Hnfifax, N.S  | (’anada  | Halifax  |
-| 3 | 623 | 1731 | 3595 | 1761 | 415539 | Private.  | Beals. Freeman E  | Nil  | N’eily. M is. C. A .. | Brooklyn, Vermouth f'n., N.S | ^’nnn^la  | Middleton  |
-| 3 | 624 | 1759 | 3596 | 1794 | 415730 | Private   | Beardsley, Aubrey. | Nil  | BeanNlrv, Lorne  | Port Lara#, AattBpoli* Co., N.ft.   | Canada  | Aldershot  |
-| 3 | 624 | 1789 | 3594 | 1821 | 41 1714 | Private  | Kenton, Talmage Phillip., | Nil  | Beaton, Mrs. ('atherimv . | Aml:er»t Shore, ( uml»erland ‘ *o , N.S.   | K \anndn  | Kentville  |
-| 3 | 629 | 1818 | 3595 | 1852 | 11{:») | Pri vate  | Bsattie James .    | Nil  | Beattie, Mrs. lsnbelle.... | Perth, Soot  | Ncotlnnd  | Sydney  |
-| 3 | 630 | 1837 | 3808 | 1887 | 1C* 3 75 | Private  | Bell. William Bernard  | C.P.A.M.C  | Kdnmans, Mrs Minnie... | 329 Bnrringfon St. Ilali fat. VS  | jf’annda  | Halifax  |  | ! |
-| 3 | 624 | 1875 | 3595 | 1905 | 4U347 | Private.  | B.rilfontnino, < -lenient  | Nil  | Bellfontainc. Mr* Annie. | Portland Hi., Dartrno-ith, Halifax Co N.S.  | ('nnaria  | Aldershot  |
-| 3 | 624 | 1904 | 3597 | 1935 | 4»>S 7 4 | Pri vate  | Bellfontain, G »orge  | Nil  | 1^ •llfontnin. M: s. M,iy... | 5.3 Dresden Row, Halifax, N.S  | I( ’nnada  | Halifax  |
-| 3 | 624 | 1932 | 3808 | 1973 | 414327 | Private    | Bellfontaino, Michael   | Nil  | Bellfontaine. Mrs. Ayncs. | . Pine St., Dartmouth, Halifnx Co., N.S | j( ’annda  | Halifax  |  | . |
-| 3 | 623 | 1961 | 3597 | 1993 | •W >579 | Corpjral  ... | Bnnjamin, Percy Earle  | 93rd Regt  | Benjamin, Mrs Jameg... | . Pugwash, Cumberland Co., N.S  | ' 'anaxla  | Aldershot  |
-| 3 | 623 | 1989 | 3597 | 2023 | 414531 | Private  | Benjamin, Wiley Allen.  | Nil  | Benjamin. Mrs Wiley A | !9 Fic'^'unt 8t,. Amherst, ( 'uml>erlard f 0 , N.S . | i< ’anada  | Amherst  |
-| 3 | 624 | 2018 | 3599 | 2053 | 415 421 | S *rg«* lit  | Bennett, Archibald  | Imp. Forces  | Bennett, Mrs Maria ... | , I Victoria St., Glace Bay, C.B., N.S  | '.England  | Aldershot....... |
-| 3 | 624 | 2044 | 3584 | 2083 | 41M14 | Private   | Bennett, Oscar Ho.ds**rs  | *>’3th Regt  | Bennett, J. R  | . 251 Brunrwick St.. Halifax. N.S  | K’nnada  | Aldershot  |
-| 3 | 626 | 2075 | 3585 | 2109 | 41 *»333 | Private .. ... . | Bennett. Wiley Iloss  | Nil  | Bennett. Mrs. Bcsiic  | .ICanning, Kings Co., N.S  | iC’anada.   | Aldershot  |
-| 4 | 951 | 591 | 3435 | 622 |  | Hank. |  | Former Corps. | Name of Next of Kin |  | Country of |
-| 4 | 762 | 738 | 3940 | 769 | 415510 | Private.. | Berryman, Harvey Charles. | Nil  | Berryman. William | Milton, Queens Co., N.S  | Canada  | Liverpool  April | 13, 1915. |
-| 4 | 763 | 767 | 3941 | 797 | 4i5851 | Private,. | Berteaux, Herbert  | Nil  | Berteaux, Edward. | Deep Brook, Annapolis Co., N.S  | Canada  | Aldershot Aug. | 12, 1915. |
-| 4 | 765 | 797 | 3941 | 827 | il540i» | Private.. | Besszong, Patrick Joseph. . . | 63 rd Hegt. | Besszong, Mrs. Freda | 2 Fairbank St., Dartmouth, Halifax Co., N.S  | Canada  | Valcartier Aug. | 23, 1915. |
-| 4 | 766 | 827 | 3940 | 859 | nr,178 | Private.. | Betts. Graham    |  | Bet ta, M r». Mary    | Mncean, Cumberland Co., N.S  | Canada  | Aldershot  July | 24, 1915. |
-| 4 | 766 | 856 | 3941 | 887 | 111535 | Private.. | Burlington, Arthur Vincent. | Nil  | Biddington, George.  | Shediac, Westmoreland, N.B  | Canada  | Amherst  April | 10, 1915. |
-| 4 | 765 | 882 | 3942 | 915 | 115021 | Private.. | Bigelow, Frederick A  | 94th Hegt. | Bigelow. Mrs J. C. | Glace Bay, C.B., N.S  | Canada  | Aldershot June | 9, 1915. |
-| 4 | 764 | 915 | 3943 | 943 | 414485 | Private.. | Bilton. Oliver  | Nil  | Bilton. Samuel ... | Barrow, Lincs., Eng  | England  | Aldershot Aug. | 10, 1915. |
-| 4 | 762 | 941 | 3943 | 975 | 415317 | Private.. | Bishop, Harry John  | Nil  | Bishop, Mr=*. Minnie | 1.80 Charles St., Halifax, N.S  | Canada  | Halifax July | 31.1915. |
-| 4 | 761 | 973 | 3943 | 1011 | 415094 | Private.. | Bishop, Laurie L  | Nil  | Bishop, William L. | j^helbume, N.S  | Canada  | Aldershot July | 29, 1915. |
-| 4 | 761 | 997 | 3943 | 1031 | 4 11071 | Private.. | Bixton, George  | Nil  | i Ling. Emma | !12 Avenue Rd., Camberwell, London, Eng  | Englnnd  | Aldershot. .... Aug | 12, 1915. |
-| 4 | 761 | 1031 | 3944 | 1060 | 4S2041 | Private.. | Blair, William Thomas . .. | Nil  | iBlair, Mrs. Lena | Westville. Pictou Co., N.S  | Cnnada  | Sussex Sept. | 16, 1915. |
-| 4 | 761 | 1059 | 3944 | 1088 | 415181 | Private.. | Blank, Gcorgo William   | 63rd Hegt | Blank. Mrs Mcletha. | I Lake ltd ., Dartmouth, Halifax Co., N.S  | Canada  | Valcartier Aug. | 31, 1915. |
-| 4 | 761 | 1088 | 3944 | 1116 | 414230 | Private.. | Blinkhorn. Harold  | Nil  | Blinkhorn, Mrs. David | Fenwick, Cumberland Co., N.S  | Canada  | Atnherat Mai | 17, 1915. |
-| 4 | 761 | 1117 | 3945 | 1148 | 4^2020 | Private.. | Blinkhorn, John  | (Nil  | Blinkhorn. Margaret | 32 Hawthorn Bank. Hadlington, Lancs., Eng  | Englnnd  | 8ydney  Sept | 1.1915. |
-| 4 | 760 | 1142 | 3944 | 1174 | 4 I 1,803 | Private.. | Blinkhorn, Robert  | Nil  | Blinkhorn. James | I Florence, C.B., N.S  | England  | Sydney  Aug. | 9, 1915. |
-| 4 | 760 | 1174 | 3945 | 1204 | 414421 | Private.. | Bonang, Frederick  | Nil  | Blackburn. Margaret. | i Prospect House, Water St., Halifax, N.S  | Canada  | Halifax July | 30, 1915. |
-| 4 | 761 | 1203 | 3946 | 1234 | 415332 | Private.. | Bonnett, John  | 66th Hegt. | Bonnett, Mrs. Annie. | '20 Bilby St., Halifax, N.S  | Englnnd  | Aldershot Aug. | 10.1915. |
-| 4 | 761 | 1230 | 3945 | 1268 | 415883 | Private.. | Boudreau, John  | Nil | Boudreau. Mrs. C... | "^5 Agricola St.. Halifax, N.S  | Canada  | j Halifax Aug. | 13, 1915. |
-| 4 | 762 | 1257 | 3947 | 1293 | 482077 | Private.. | Boulter, George.   | Nil | Boulter. R | Fredericton, N.B  | Canada  | 'Sussex.  Oct. | 5, 1915. |
-| 4 | 761 | 1287 | 3937 | 1324 | 415001 | Private.. | (Boutilier, Alex  | Nil. | Boutilier. Mr** Jane. | J |{r.««»rve Mines, C.B., N.S  | Canada  | •Valcartier July | 13, 1015 |
-| 4 | 766 | 1312 | 3946 | 1363 | 114240 | Private.. | | Boutilier, Charles Patrick.. | •|Nil  | Boutilier, T C   | !< lardiner Mines. C.B., N.S  | Canada  | Aldershot June | 9, 1915. |
-| 4 | 763 | 1341 | 3946 | 1382 | 414348 | Private.. | Boutilier, John F  | • i Nil  | Cameron. Mrs. Sandy | j Bridgeport, C.B., N.S  | Canada   | Aldershot July | 20, 1915. |
-| 4 | 762 | 1370 | 3947 | 1410 | 415472 | Private.. | !Boutilier, William Kelly | . jfiflth Regt  | Boutilier. Peter | 113 Fern I,ane. Halifnx, N.S.  | Canada   | Halifax Aug. | 10, 1915. |
-| 4 | 763 | 1405 | 3948 | 1440 | 415071 | Private.. | Bowles, Arthur Henry | 60th Hegt  | Leake. Alex . | 118 Livingston Rd., New Broughton, Kent, Eng  | England  | Valcartier  Sept. | 24, 1915. |
-| 4 | 763 | 1432 | 3947 | 1469 | 415306 | Private.. | Bowron, Charles Alfred | 78th Hegt-  | Blakeloek. Mrs. William... | New Glasgow, Pictou Co., N.S  | England   | Sydney I Aug. | 13, 1015. |
-| 4 | 763 | 1460 | 3949 | 1503 | 411832 | Private.. | Bowser, Frank  | Nil. | Bowser. Mrs. Edith  | • 501 Robie St., Halifax, N.S  | Canada  | Halifax [July | 31.1915. |
-| 4 | 763 | 1491 | 3949 | 1528 | 414278 | Private.. | Boyce, William S  | 06th Regt  | Boyce, lienty  | 37 Stanley St., Halifax, N.S  | Canada  | Aldershot June | 10.1915. |
-| 4 | 764 | 1519 | 3949 | 1558 | 414300 | Private.. | (Boyd, William Dickson  | Nil  | IBoyd, Gilbert  | Lower Five Islands, Colchester Co., N.S  | Canada  | Aldershot June | 11, 1915. |
-| 4 | 763 | 1547 | 3950 | 1595 | 482002 | Private.. | j Boyle, Joseph Ji  | Nil  | |Boyle. Mrs. Mary  | Hazleton, Pa., U.S.A  | U.S.A  | Sussex 'Aug. | 28, 1915. |
-| 4 | 764 | 1577 | 3950 | 1615 | 482027 | Private.. | I Braekenhury. William H — | Imp. Forces. | jBrackenbury. Mrs. J*»an E. | New Aberdeen, C.B., N.S  | England  | Sydney  | ept | 1, 1915. |
-| 4 | 764 | 1606 | 3951 | 1643 | 482023 | Private.. | iBrackett. W illiam  | Nil  | 'Brackett, William   | Herring Cove, Halifax Co.. N.S  | C annrla  | iFussex  | Sept. | 9. 1915. |
-| 4 | 1969 | 1635 | 3950 | 1667 |  |  |  |  | Bradbury, Mrs. Margaret | 154 Argyle St., Halifax, N.S  | Newfoundland | i Halifax  | Aug. | 13, 1915. |
-| 4 | 763 | 1644 | 1820 | 1674 | 415882 | Private.. | Bradbury, John Joseph   | Nil  |
-| 4 | 763 | 1664 | 3950 | 1704 | 415881 | Private.. | Bradbury, Pe ter Joseph .... | 66th Regt.. . | ! Brad bury, Mrs. Mabel... | 141 Barrington St., Halifax. N.S  | Newfoundland. | Halifax  | Aug. | 13, 1915. |
-| 4 | 1960 | 1694 | 3951 | 1726 |  |  |  |  | iBragg, Mrs. Sarah... | 00 Agricola St., Halifax, N.S ;  | Newfoundland. | Aldershot   | Aug. | 7, 1915. |
-| 4 | 764 | 1703 | 1819 | 1733 | 415708 | Private.. | Bragg. JainfM.. ........ | Nil  |
-| 4 | 765 | 1723 | 3952 | 1761 | 415022 | Private.. | Bramwell, Ralph   | 94th Regt.. | ,Bramwell, Mrs. Mary 1 | Dominion No. 4, Glace Bay, C.B., N.S  | England  | Aldershot  | May | 24, 1915. |
-| 4 | 765 | 1752 | 3952 | 1789 | 415302 | Private.. | Brennan, Janies  | Nil  | 'Brennan, Thomas  | Sydney Mines, C.B., N.S  | England  | Sydney  | Aug. | 7.1915. |
-| 4 | 764 | 1782 | 3953 | 1818 | 414051 | Private.. | !Brennan, William ... .... | Nil  | 'Brennan, Kate  | Thorburn, Pictou Co., N.S  | Ireland  | Aldershot  | Aug. | 11, 1915. |
-| 4 | 1962 | 1811 | 3953 | 1842 |  |  |  |  | I Brennan, Thomas | Svdnev Mines, C.B., N.S  | England  | Sydney  | Aug. | 9. 1915. |
-| 4 | 765 | 1820 | 1823 | 1848 | 414850 | Private.. | • Brennan. William  | Nil  |
-| 4 | 765 | 1840 | 3954 | 1878 | 41528 | Private . | : Brewer, George  | Nil  | Brewer, Albert E | Glace Bay, C.B., N.S   | England    | Sydney  | Aug. | 7, 1915. |
-| 4 | 766 | 1869 | 3945 | 1909 | 415407 | Private.. | (Briggs, Clairborn Edwin.. . | 63rd Regt | Briggs, Mrs. Ro«e . | 0 Le Marchant St., Halifax, N.S  | Canada  | Valcartier  | Aug. | 18,1915 |
-| 4 | 1953 | 1898 | 3952 | 1929 |  |  |  |  | . Brown, Mrs. Ellen | 27 Prospect St., Central Sq., Cambridge, Mass., U.S.A. | England  | Aldershot  | Aug. | 7.1915. |
-| 4 | 767 | 1907 | 1824 | 1937 | 415277 | Private.. | !Brown, Charles Allen.   | Nil  |
-| 4 | 1975 | 1928 | 3955 | 1957 |  |  |  |  | Brown, Katherine  | 10 Grafton St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 10, 1915. |
-| 4 | 768 | 1937 | 1824 | 1966 | 411100 | Private. | Brown, James Bernard | Nil  |
-| 4 | 1975 | 1957 | 3947 | 1987 |  |  |  |  | Brown, Mrs. Annie . | West River Station, Pictou Co., N.S  | Canada  | Aldershot  | Aug. | 12, 1915 |
-| 4 | 769 | 1964 | 1824 | 1997 | 4 11'.) 10 | Private . | Brown, Hoy   | ..|Ni1  |
-| 4 | 771 | 1986 | 3225 | 2024 | 4 1 W53 | Private. | Brown, Thomas M | 'Nil  | Brown, Mrs. Safa. . | Lakeland, R.R. No. 1. Parrsboro’, Cumberland Co., |
-| 4 | 2527 | 2016 | 3956 | 2042 |  |  |  |  |  | N.S  | Canada  | Aldershot. | Aug. 11,1915. |
-| 4 | 774 | 2043 | 3958 | 2080 | 415471 | PrivrUn. |  |  | .(Brown, Mr-. Annie | JPreston St.. Halifax, N.S.  | Canndn  | Halifax.. k. | Aug. 10. 1915. |
-| 4 | 776 | 2072 | 3957 | 2102 | 4S2073 | Pri |  |  | i Brow ne. W illiam 11 | 070 Namayo Ave., Edmonton, Alta  | Cnnada  | Sussex  | Sept. 9,1915. |
-| 4 | 1978 | 2099 | 3957 | 2134 |  |  |  |  | Bryan. James A | Norfolk. Va.. U.S. A  | U.S. A  | Sussex  | Sept. 9. 1915. |
-| 4 | 1978 | 2127 | 3959 | 2159 |  |  |  |  | Budden, Mrs. Laura | Glace Bay, C.B., N.S  | Newfoundland.. | Glace Bay. | May 5. 1915. |
-| 5 | 662 | 286 | 1850 | 316 | 411.157 | Corporal  | Bulger, F I ward Joseph  | Nil  |
-| 5 | 2413 | 338 | 3825 | 369 |  |  |  |  |  | Sea, Sussex, Eng  | England ' | Aldershot  | July 29, | 1915. |
-| 5 | 662 | 368 | 3825 | 405 | 415830 | Private  | Burgess, Edgar M  | Nil  | Burgess, Marshall  | Lockeport, Shelburne Co., N.S  | Canada  | Aldershot   | Aug. 12, | 1915. |
-| 5 | 660 | 399 | 3824 | 434 | 415202 | Private.  | Burgess, Thomas  |  | Burgess, Mis. Mary  ... | 283 Brunswick St., Halifax, N.S .  | Canada  | Aldershot  | Aug. 7, | 1915. |
-| 5 | 792 | 428 | 3825 | 464 |  | -Corporal  | Burgess. William  | Nil  | Burgess, 8.A  | 38 Eddy St.. Amherst, < 'umberland Co.. N.S  | Canada  | Amherst  | May 7, | 1915. |
-| 5 | 762 | 459 | 3826 | 494 |  | Private  | Burgoyne, Victor Raymond  |  | Burgoyne, William 11  | St. Margaret's Bay. Halifax Co., N.S  | Canada  | Halifax  | Aug. 10, | 1915. |
-| 5 | 764 | 488 | 3826 | 523 |  | Private    | Burko, Douglas Donald  | Nil  | Burke, Frederick A  | River Bourgeois, C.B., N.S  | Canada  | Aldershot  | Aug. 7, | 1915. |
-| 5 | 2353 | 518 | 3826 | 546 |  |  |  |  |  | 40Banwell St., Belfast, Ire  | Ireland  | Halifax  | April 12, | 1915. |
-| 5 | 764 | 523 | 2279 | 552 |  | Private  | Burke, William  | Nil  | Baick, Mrs   |
-| 5 | 764 | 547 | 3826 | 581 |  | Private  | Burton, George William  | Nil  | Burton, Mrs. Anthony  | Spring Hill, Cumberland Co., N.S  | Canada  | Aldershot  | July 29, | 1915. |
-| 5 | 664 | 576 | 3826 | 610 | 414083 | Private  | Butler, Nathan  | Nil  | Butler, Mr*. Abigcal  | Cupids, Concept ion Bay, Nfld   | Newfoundland.. | Sydney  | Aug. 13, | 1915. |
-| 5 | 665 | 606 | 3827 | 639 | 415009 | Private  |  |  | Butt, Mis* B  | Spaniards Bay, Browns Road, Nfld  | Newfoundland.. | Halifnx  | Aug. 13, | 1915. |
-| 5 | 665 | 635 | 3827 | 668 | 414741 | Private  | Butts, Thomas    | Nil  | Butts, Mr*. William  | Carbonear, Nfld  | Newfoundland.. | Aldershot   | July 24, | 1915. |
-| 5 | 665 | 664 | 3828 | 705 | 4 14050 | Private  | Byrae, Aloysios  | Nil  | Divine, Mrs. .lolin   | rort-nu-Port, St. George's Bay, Nfld  | Newfoundland. | Sydney  | Aug. 13, | 1915. |
-| 5 | 665 | 694 | 3828 | 728 | 414170 | Sergeant  | Byron, William  | Nil  | Byron, Mrs. Margaret  | Setauket, Long Island, N.Y., U.S.A  | Ireland  | Valeartier  | Sept. 21, | 1915. |
-| 5 | 667 | 723 | 3828 | 755 | 414001 |  |  | Nil   | McDonald, Mrs. Mary....... | Spring Hill, Cumberland Co., N.S  | Scotland  | Aldershot  | Aug. 10, | 1915. |
-| 5 | 666 | 750 | 3828 | 785 | 414108 | Private  | Caldwell, William Arthur.   |  | Caldwell, j N  | lOOOchterloney St., Dartmouth, Halifax Co., N.S  | Cnnada  | Halifax  | May 5, | 1915. |
-| 5 | 666 | 777 | 3828 | 815 | 415203 | Private  | Cameron, Alexander .Joseph  | Nil   | Cameron, Alexander   | Bridgeport, C.B., N.S  | Cannda  | Sydney  | Aug. 7, | 1915. |
-| 5 | 667 | 811 | 3828 | 843 | 415241 |  |  |  | Cameron, Mrs. Sarah  | Dominion No 1, C.B., N.S  | Canada  | Aldershot  | July 29, | 1915. |
-| 5 | 666 | 841 | 3829 | 873 | 414800 | Private  | Cnmoron, Donald  | Nil  | Cameron, A. C   | P.O. Box071, Amherst, Cumberland Co., N.S  | England  | Aldershot  | Aug. 10, | 1915. |
-| 5 | 667 | 869 | 3830 | 902 | 415321 |  |  | Nil   | Cami’ron, Duncan   | 56 West St., Halifax, N.S  | Canada  | Halifax  | Aug. 2, | 1915. |
-| 5 | 764 | 899 | 3829 | 933 |  | Private  | Campbell, Angus.   | Nil  | Campbell, Mrs. Mary  | New Waterford, C B., N.S  | Cannda  | Sydney  | Mar. 20, | 1915. |
-| 5 | 764 | 924 | 3830 | 962 |  | Private  | Campbell, Gerald...   |  | Campbell, John E   | Baddcck, C.B., N.S  | Cannda  | Sydney  | Aug. 7, | 1915. |
-| 5 | 764 | 956 | 3830 | 991 |  | Private  | Campbell, .lames  | Nil  | Campbell, James  | 227 Glasgow Rd., Bumbank, Lanark, Scot  | Scotland  | Sydney  | Aug. 7, | 1915. |
-| 5 | 764 | 987 | 3831 | 1019 |  | Private  |  | Nil  | Campbell, Malcolm  | Inverness, C.B., N.S  | Canada  | Sydney  | Aug. 7, | 1915. |
-| 5 | 667 | 1016 | 3831 | 1049 | 414442 | Private  | Campbell, Joseph  | Nil  | Campbell, Michael  | Sydney, C.B., N.S  | Canada  | Sydney  | Aug. 7, | 1915. |
-| 5 | 666 | 1045 | 3831 | 1077 | 482054 | Private  |  |  | Campbell, Thomas E  | ast Lake, Ainslie, Inverness Co., N.S  | U.S.A  | Sussex  | Aug. 28, | 1915. |
-| 5 | 666 | 1070 | 3831 | 1105 | .414050 | Private  |  | Nil . | Cantwell, Mrs. Annie  | Little Bras D’or, C.B., N.S  | Canadn  | Sydney Mines . | Mar. 31, | 1915. |
-| 5 | 667 | 1099 | 3831 | 1136 | 482070 | Private  | Carrigan, James  | Nil  | Carrigan, Mrs. Hannah C  | ’'Vestville, Pictou Co., N.S  | Canada  | Sussex  | Aug. 28, | 1915. |
-| 5 | 667 | 1133 | 3831 | 1167 | 414 | Private  | Carter, Clyde  | Nil  | Carter, Cyrus^  | Westmoreland Point, N.B.   | Cannda  | Amherst  | Mar. 17, | 1915. |
-| 5 | 666 | 1162 | 3832 | 1194 | 414 | Private  | Casey, Arthur  | C A.S.C  | Casey, Mrs. Annie Elizabeth. | 21 Morris St., Halifax, N.S   | Scotland  | Halifax  | June 10, | 1915. |
-| 5 | 667 | 1192 | 3832 | 1222 | 415201 | Private  | ('n‘>ey, Edward Joseph  | C.F.A  | Casey, Thomas  | Caledonia, C.B.. N.S  | Canada  | Sydney  | Aug. 7, | 1915. |
-| 5 | 667 | 1221 | 3831 | 1254 | 414154 | Q.-M. Sergeant.. | Cassidy, Harold  |  | Cessidy. H. V  | Tatamagouche, Colchester Co , N.S  | U.S.A  | Halifax  | May 4, | 1915. |
-| 5 | 666 | 1250 | 3832 | 1279 | 415318 | Private  | v aFlle, Arthur Arnold  | Nil  | Cas'le, Robert   | 6 Fern St., Halifax, N.S    | Canada  | Halifax  | Aug. 2, | 1915. |
-| 5 | 667 | 1279 | 3833 | 1310 | 415283 | Private  . . . | ( atlin. G^rce  | Royal Navy  | Catlin. Charles D    | Salford, Lancs., Eng    | England  | Aldershot  | Aug. 7, | 1915. |
-| 5 | 666 | 1308 | 3833 | 1338 | 482010 | Private  . . | Cavers, Robert:  | Nil   | Cavers, James  | West Bay Rd.. C.B.. N.S  | England  | Sussex  | Aug. 28, | 1915. |
-| 5 | 666 | 1337 | 3832 | 1368 | 416004 | C.S.M  | Chapman, John  |  | Chapman, Mrs. Suasn  | Glace Bay, C.B., N.S  | Scotland  | Glace Bay    | May 5, | 1915. |
-| 5 | 666 | 1364 | 3833 | 1398 | 414006 | Private  | Chase, William II  | Nil ! |  | Truro, Colchester Co., N.S   | England  | Aldershot  | Aug. 11, | 1915. |
-| 5 | 666 | 1396 | 3834 | 1425 | 415031 | Private  | Cheetham, James  | Nil  |  | New Waterford, C.B., N.S  | England  | Sydney  | May 3, | 1915. |
-| 5 | 666 | 1425 | 3835 | 1453 | 414715 |  |  |  | iiolm, Miss Alma  | 10 Morris St., Halifax, N.S  | Cnnada  | \Idershot  | July 14, | 1915. |
-| 5 | 667 | 1453 | 3835 | 1483 | 482083 | Private  | Chisholm, iiarohJ C  | Nii  | Chisholm, W. S  | llridgedale, Albert Co., N.B  | U.S. A  | Sussex  | Sept. 28, | 1915. |
-| 5 | 667 | 1482 | 3835 | 1512 | 416335 | Private  |  |  | Christian, Jessie   | 47 Longard Rd., Halifax, N.S  | Canada  | Halifax  | July 30, | 1915. |
-| 5 | 667 | 1511 | 3834 | 1542 | 414174 | Private  | Clare, Ernest Albert  | (>3rd Regt  | Clare, Mrs. Ada Harriett.... | 12 Union St., Halifax, N.S  | England  | McNab's Island | May 10, | 1915. |
-| 5 | 667 | 1540 | 3835 | 1570 | 414085 | Private  |  | Nil  | Clark, Mrs. Mary A  | 0 Gladstone St., Crook Co., Durham, Eng  | Englnnd  | Sydney  | Aug. 13, | 1915. |
-| 5 | 669 | 1568 | 3834 | 1598 | 414080 | Private  |  | Nil  | Clark, James  | Reserve Mines, C.B., N.S  | Canada  | Sydney  | Aug. 13, | 1915. |
-| 5 | 667 | 1595 | 3836 | 1628 | 414200 | Private  | Clarke, Charles  | GOtll Regt  | Clark, William  | Reserve Mines, C.B., N.S  | Canada  | Aldershot  | June 1, | 1915. |
-| 5 | 667 | 1626 | 3837 | 1658 | 414055 | Private  | Clark, JJcnrv II  | Nil  | Clark, Mrs. Elizabeth  | Truro, Colelicster Co., N.S  | Cannda  | Aldershot  | Aug. 12, | 1915. |
-| 5 | 666 | 1655 | 3836 | 1687 | 415302 | Private  | Clark, l’ermenis  | Nil  | Clark, Abel  | Victoria, Carbonear, Nfld  | Newfoundland.. | Sydney  | Aug. 13, | 1015. |
-| 5 | 666 | 1684 | 3837 | 1715 | 414070 | Private  |  |  | Clark, James  | Spring Hill Mines, Cumberland Co., N.S  | Canada  | Aldershot  | Aug. 12, | 1915. |
-| 5 | 667 | 1707 | 3836 | 1745 | 414807 | Private  |  |  | Clarke, Miss Jessie    | 2 Leamington Parade, White St., Leamington Spa, Eng. | Scotland  | Aldershot  | Aug. 3, | 1915. |
-| 5 | 667 | 1745 | 3837 | 1773 | 415100 | Private  |  | Nil  |  | North Sydney, C.B., N.S  | Newfoundland. | Aldershot  | July 29 | 1915. |
-| 5 | 667 | 1773 | 3837 | 1802 | 415184 | Privato  | Clarke, Robert  | Nil  |  | North Sydney, C.B.. N.S  | Newfoundland.. | Aldershot  | July 24 | 1915. |
-| 5 | 667 | 1803 | 3837 | 1832 | 415310 | Private  | Clement, Albon  | R.C.G.A  |  | 70 Coburg Rd., Halifax, N.S   | Canada  | Halifax  | Aug. 2, | .1915. |
-| 5 | 666 | 1832 | 3837 | 1861 | 482003 | Private  | Cleveland, Granville  | Nil '• |  | North West Cove, Lunenburg Co., N.S  | Cannda  | Sussex  | Aug. 30 | ,1915. |
-| 5 | 667 | 1861 | 3838 | 1891 | 41471 | Private  | Clough, Frank  | Nil  |  | Aldbrough, Hull, Eng   | England  | Aldershot  | July 14 | .1915. |
-| 5 | 667 | 1888 | 3839 | 1921 | 416648 | Private  | C'oaklev, Maurice  | Can. Mil  | .iCoakloy, Mrs. Ellen | Round Hill, Annapolis Co.. N.S   | Canada  | Middleton  | April 17 | , 1915. |
-| 5 | 666 | 1913 | 3837 | 1947 | 414432 | Private  |  |  | JCobb. Mrs. Florence. | New Glasgow, Pictou Co., N.S  | ICanada  | New Glasgow,. | May 1 | ,1915. |
-| 5 | 666 | 1945 | 3840 | 1982 | 415074 | Private  | Colwell, Alexander  | Nil   | Colwell, Mrs. James. | New Waterford, C.B., N.S  | jCnnada  | Aldershot  | July 14 | , 1915. |
-| 5 | 665 | 1974 | 3839 | 2017 | 414002 |  |  |  | jColl. Mrs. Vamn  | Oxford Ave., Sydney Mines, N.S    | | Englnnd  | Sydney Mines.. | Mar. 31 | , 1015. |
-| 5 | 664 | 2002 | 3841 | 2037 | 414010 | Private  | Comeau, John  |  | iComeau, Miss Mary. | Sanford. Me., U.S.A    | 1C nnada  | Aldershot  | Aug. 12 | , 1915. |
-| 6 | 771 | 598 | 3443 | 635 | .§z |  |  | Former Corps. |  |  | Country of |
-| 6 | 780 | 649 | 3886 | 672 | a |  |  |  |  |  |  | Place. | Dato. |
-| 6 | 872 | 748 | 3941 | 779 |  | Privnta... | Comcnu, Thcodule  |  | Comeau, Leopold  | Sfce. Christine, P.Q   | Canada  | M183ex  | Oct. 7, | 191.5. |
-| 6 | 773 | 774 | 3941 | 808 | 432048 | Private... | Como, James  | Nil  | Como, Mrs. Mclia...    | Toggin Mines, Cumberland Co., N.S  | Canada  | Sussex  | Aug. SO, | 1915. |
-| 6 | 773 | 806 | 3940 | 839 | 4142.52 | Sergeant.. | Congdon, Elbert Black  | '•Kith Regt. | Congdon, H. S  | Dartmouthi Halifax Co., N.S  | Canada  | Aldershot  | June 9, | 1915. |
-| 6 | 772 | 832 | 3941 | 866 | 415979 | Private... | Connell, Michael  | " F.A  | Connell, Mrs. M  | 13 Brunswick Court, Halifax, N.S  | Canada  | Halifax  | Aug. 13, | 1915. |
-| 6 | 772 | 865 | 3940 | 897 | 415437 | Private... | Connelly, Patrick Charles... | Nil. | Connelly, H.C   | 171 Grafton St., Amherst, Cumberland Co., N.S.... | Canada  | Amherst  | May 7, | 1915. |
-| 6 | 773 | 895 | 3941 | 927 | 414903 | Private... | Connley, Chesley  | Nil  | Hamilton, Mrs. It. A | Upper Onslow, Colchester Co., N.S..   | Canada  | Aldershot  | Aug. 10, | 1915. |
-| 6 | 772 | 924 | 3941 | 956 | 414378 | Private... | Connley, Lester  | Nil  | Hamilton. Mrs. Hoy E.. | Upper Onslow, Colchester Co., N.S  | Canada  | Aldershot  | Aug. 10, | 1915. |
-| 6 | 772 | 954 | 3941 | 983 | 414.100 | Privato... | Connors, Edward Louis  | Nil  | Connors, Mrs. Annie, | 19 Art* St., Halifax, N.S  | Canada  | Halifax  | July 31, | 1915. |
-| 6 | 773 | 983 | 3941 | 1014 | 4i:>sna | Private... | Connors, John  |  | Connors, Mis* Lizzie  | ?.1l- Main St., Glasgow, Scot  | Scotland  | Valcartier  | Vug. 28, | 1915. |
-| 6 | 775 | 1012 | 3942 | 1044 | »14043 | Privato... | Conroy, Gerald  | Nil  | Conroy, R. O   | Antigonishe, N.S  | Canada  | Halifax  | Mar. 13. | 1915. |
-| 6 | 777 | 1041 | 3942 | 1072 | H5780 | Privato... | Cook, Arthur  | Nil. | Cook, Mrs. Louisa  | Maitland, Hants Co., N.S  | England  | Aldershot  | Aug. 10, | 1915. |
-| 6 | 777 | 1070 | 3942 | 1101 | 111921 | Private... | Cook, Edmund  | Nil  | Cook, Mrs. Bessie B... . | Joggins Mines, Cumberland Co., N.S  | Canada  | Aldershot  | Auk- 11. | 1915. |
-| 6 | 774 | 1097 | 3942 | 1130 | 415732 | Private... | Cooke, Frederick.    | Nil  | Cooke, Harry  | Sydney, C.B., N.S.    | Newfoundland.. | Sydney  | Aug. 9, | 1915. |
-| 6 | 775 | 1124 | 3943 | 1160 | rair>r> | Private... | Coolen, Patrick   | it6th Regt. | Coolen, Mrs. Annie . . | Upp^r Prospect, Halifax Co., N.S  | Canada  | Halifax  | Aug. 10. | 1915. |
-| 6 | 774 | 1157 | 3942 | 1188 | ««88 | Private... | Cooper, George Percival.... | Nil  | Cooper, Mrs. Mary  | IG Bloomfield St., Halifax, N.S  | Canada  | Halifax  | Aug. 2, | 1915. |
-| 6 | 774 | 1185 | 3943 | 1217 | 4')20li(l | Private... | Cooper, Lewis    | Nil. | Cooper, James.   | Churchill, Oxon., Eng  | England  | Sussex  | Aug. 30, | 1915. |
-| 6 | 775 | 1214 | 3942 | 1246 | 4N2057 | Private... | Cooper, John Arthur  | Nil  | Cooper, Mrs. Kate   | Shubenacadie, Hants Co., N.S  | Canaria  | Halifax  | Aug. 19, | 1915. |
-| 6 | 775 | 1243 | 3943 | 1276 | 411799 | Private,.. | Cooper, Joseph  | Nil  | Cooper, Mrs Elizabeth. | Fishponds, Bristol, Eng  | England  | Aldershot  | July 29, | 1915. |
-| 6 | 775 | 1272 | 3942 | 1305 | 115300 | Private... | Copeland, David Charles... | Nil  | Copeland, Jesse  | Glace Bay, C.B., N.S  | England  | Sydney  | Aug. 7, | 1915. |
-| 6 | 774 | 1302 | 3943 | 1333 | M5BM | Private... | Corbett, Alfred Meigs  | 63rd Regt. . | Corbett, Mrs. Henrietta | U State St., Boston, Mass, U.S. A  | Canada  | Valcartier  | Aug. 18, | 1915. |
-| 6 | 775 | 1331 | 3943 | 1363 | ♦150B3 | Private... | Cordy, Mark II  | Nil  | Cordy, John.. ... | New Aberdeen, Glace Bay, C.B., N.S  | England  | Glace Bay  | Mar. 31, | 1915. |
-| 6 | 777 | 1359 | 3944 | 1393 | 11.5306 | Privato... | Cordy, Thomas  | Nil  | Smith, Mrs. Julia  | Florence, C.B., N.S  | England  | Sydney  | Aug. 7, | 1915. |
-| 6 | 775 | 1389 | 3944 | 1420 | ♦1\5838 | Private... | Corkum, Charles N  | Nil  | Corltuni, Mrs. Sarah  | Bridgewater, Lunenburg Co., N.S  | Canada,  | Aldershot  | Aug. 12, | 1915. |
-| 6 | 776 | 1415 | 3943 | 1450 | H-5431 | Private... | Cornwall, Harry Allan  | Nil  | Cornwall, H. A .   | Berwick, Kings Co., N.S   | Canada  | Valcartier  | Aug. 23, | 1915. |
-| 6 | 777 | 1447 | 3944 | 1479 | 1H2059 | Private... | Cosman, Blanchard  | Nil  | Cosman, Mrs. M. B .. .. | Yarmouth, N.S  | Canada  | Sussex  | Aug. 27, | 1915. |
-| 6 | 775 | 1476 | 3944 | 1508 | 41-1557 | Private... | Cosman, Percy  | Nil  | Cosman, Mrs. Anna Ii . . | \ Croft St., Amherst,. Cumberland Co., N.S  | Canada  | Amherst  | May 7, | 1915. |
-| 6 | 776 | 1504 | 3945 | 1537 | W49B7 | Private... | Coulter, Janies R  | Nil  | Gordon, Ethel  | Truro; Colchester Co., N.S  | Canada  | Aldershot  | Aug. 12, | 1915. |
-| 6 | 776 | 1533 | 3944 | 1567 | 415070 | Private... | Courtney, Charles Patrick.. | fiOth Regt.. | Courtenay, Mrs. P  | 71} Grafton St., Halifax, N.S  | Canada  | Valcartier  | Aug. 23. | 1915. |
-| 6 | 775 | 1563 | 3945 | 1598 | 414588 | Corporal.. | Covell, Phillip  | Nil  | Covell, Isabella   | SteUarton,.Pictou Co., N.S  | England  | Now Glasgow . | Mar. 31, | 1915. |
-| 6 | 775 | 1592 | 3945 | 1626 | 413434 | Private... | Cowling, Thomas  | s. A  | Wallace. Mr'. J. R   | Middleton, Annapolis Co., N.S  | Canada  | Valcartier.... | Sept. 8, | 1915. |
-| 6 | 775 | 1621 | 3945 | 1653 | 414864 | Private... | Crane, James  | Nil. | Crane, Mrs. Lydia ■ ■ | Sydney Mines, C.B., N.S  | England  | Sydney  | Aug. 9, | 1915. |
-| 6 | 776 | 1650 | 3946 | 1683 | 415005 | flcrgeant.. | Crawford, James  | Nil  | Crawford. Mr*. K ■ . | Tfew Waterford, C.B., N.S  | Scotland  | Sydney  | Mar. 20, | 1915. |
-| 6 | 775 | 1677 | 3946 | 1712 | 414017 | Pri vn t#... | Crawshnw, Joseph  | Nil  | Crawshaw, Mr-. Mary... | Amherst, Cumberland Co., N.S  | England  | Aldershot  | Aug. 11, | 1915. |
-| 6 | 776 | 1703 | 3947 | 1740 | 414*88 | Private... | Cmwshaw, Thomas  | Nil  | Cr*nvshau , Mr- ll'whe! | Gladstone Ave., Amherst, Cumberland Co., | England  | Aldershot  | Aug. 10, | 1915. |
-| 6 | 776 | 1733 | 3947 | 1770 | 4-14422 | Private... | Cream, John  | Nil  | ,i .'i-'-am. Mi ■hni’l | Cardiff, Wales  | Wales.   | Aldershot  | Aug. 7, | 1915. |
-| 6 | 777 | 1763 | 3947 | 1799 | 414253 | Private... | Creemer, Lawrence  | Nil  | a'p-nmer, Mr1 M  | tfichollsvHle, Kings Co., N.S  | Canada  | Aldershot  | June 14. | 1915. |
-| 6 | 1974 | 1794 | 3947 | 1824 |  |  |  |  | [Jiltier. Mr '-liaaa.i  | LamaJine* Nfld  | Newfoundland. | Sydney  | Aug. 7, | 1915. |
-| 6 | 777 | 1803 | 1794 | 1832 | 415305 | Pri-rate... | Crews, George  | 91th Regt. |
-| 6 | 1963 | 1822 | 3947 | 1855 |  |  |  |  | IrViv-, Jo!,!  | Placentia Bay, Nfl«l    | Newfoundland., | Sydney  | Aug. 13, | 1915. |
-| 6 | 777 | 1832 | 1769 | 1862 | 41586' | Private... | Crews, George  | Nil   |
-| 6 | 1962 | 1852 | 3948 | 1890 |  |  |  |  | jCror-kT '1m. Cecilia.... | 129 Cornwallis St., Halifax, N.S  | Canada   | Halifax  | \ug. 11, | 1915. |
-| 6 | 776 | 1861 | 1797 | 1891 | 415405 | Privato. | Crocker, Arnold Alexander. | Nil  |
-| 6 | 776 | 1881 | 3948 | 1921 | 432028 | Private... | Crocker, James Augustus... | Nil  | Cr>f,k-T. Mis* Leona  | 52nd Ave., Montreal. P.Q  | Canada  | Sussex  | Sept. 9, | 1915. |
-| 6 | 1962 | 1910 | 3948 | 1944 |  |  |  |  | jrv.i Mrs. Margaret. | Mtf, IStti Ave. E., Calgary, Aim  | Canada  | Aldershot   | Aug. 12, | 1915. |
-| 6 | 777 | 1920 | 1797 | 1950 | 415493 | Private... | Crockett, Chester A  | Nil  |
-| 6 | 2093 | 1938 | 3948 | 1970 |  |  |  |  |  | P.O. Box 128, Yarmouth, N.S  | Canada........ | Aldershot | Vug. 12, | 1915. |
-| 6 | 777 | 1949 | 1797 | 1980 | 415358 | Pri vnte.., | Crosby, Harold Erskine... | Nil  |
-| 6 | 1962 | 1967 | 3948 | 2006 |  |  |  |  | |( Mr*. j5Va  | 'l North Creighton St., Halifax, N.S  | Canada  | Halifax  | July 31, | 1915. |
-| 6 | 776 | 1979 | 1795 | 2010 | 415320 | Private... | Crosby, Howard  | OOtli Regt. |
-| 6 | 777 | 1997 | 3949 | 2040 | 415769 | Private.., | rushy, Keith Bruce  | Nil  | iry.*ji*\. Howard  | f’arleton, Yarmouth Co., N.S   | Canada.   | Aldershot  | Aug. 7. | 1915. |
-| 6 | 2049 | 2026 | 3950 | 2053 |  |  |  |  | . Mr?. Alirn  |  | England  | Halifax  | Aug. 2, | 1013. |
-| 6 | 777 | 2030 | 3098 | 2068 | 415322 | Private.. | Cross, Harry   | R.C.A  |  | 'u Buckingham St., Halifax. N.S  |
-| 6 | 1964 | 2055 | 3949 | 2090 |  |  |  |  | \< ’toucher, Geor :o  | jOrouchers Island, Sb. Margaret’s Bay, N.S.. | Canada  | Halifax  | Aug. 13. | 1915. |
-| 6 | 778 | 2065 | 1799 | 2097 | 415397 | Private.., | Croucher, William Fraser... | Nil  |
-| 6 | 1963 | 2083 | 3950 | 2122 |  |  |  |  | [Crowell, rtha ... | (Brazil Lake. Yarmouth Co., N.S....  | Canada  | Aldershot  | Aug. 7, | 1915. |
-| 6 | 779 | 2095 | 1799 | 2126 | 415770 | Private.. | Crowell, George  | Nil  |
-| 6 | 778 | 2110 | 3950 | 2156 | 415899 | Private.. | Crowell, Winnie   | Nil  | •Crowell, Mrs. Emma. | iBaecaro, Shelburne Co., N.S  | jCannda   | Aldershot  | Aug. 14, | 1915. |
-| 6 | 1964 | 2143 | 3954 | 2176 |  |  |  |  | ICruse, Mm. Fannie  | 122 Cunard St., Halifax, N.S  | ICanada.  | Halifax  | July 31, | 1915. |
-| 6 | 778 | 2152 | 1800 | 2185 | 414842 | Private.. | Cruse, Edward Joseph  | Nil  |
-| 7 | 659 | 297 | 3811 | 342 | 4l4204|Privnte . . |  | [Cullen, Jame* | 661 h Regt  | |Manile, Mrs | DU Hollis St., Halifax, N.S  | Canada  | Aldershot  | une | 1,1915. |
-| 7 | 659 | 327 | 3811 | 373 | 41451(i|IVivnlp |  | tCulIen, Patrick   | 60>t h Regt. .. | 'Mantle, Mrs... | 116 Hollis St., Halifax, N.S  | Canada  | \ldershot  | une | 2,1915. |
-| 7 | 660 | 355 | 3810 | 395 | 4S20M i I "rival e.  |  | ,Cummings, William    | Nil.    | ■( .'ummings, Albert | 51 Cornell St., M on^t'*n, N.B  | Canada  | ?ussex  | ?ept. 25.1A15. |
-| 7 | 659 | 387 | 3809 | 434 | 4150SI Srriy.'inl  |  | jCunninghnm. Herbert Lorraine.. | Nil  | Mitchell, M rs. I^r-v | Yarmouth, N.S. .     | Canada  | Yarmouth ... | \pril 12. H»15. |
-| 7 | 659 | 406 | 3810 | 455 | 41443f iPrivnte... |  | ICurnew. John Bunyan .   | Nil  | • k ■ | new, Edward | Bay Roberts. Nlid    | Newfoundland . | Sydney  | \ug. | 7,1915. |
-| 7 | 659 | 444 | 3812 | 491 | 41B78P|Privn1e  |  | < ’urry, Frederick  | Nil  | [Curry, Thomas J | O'Brien St., Windsor N d....   | Canada  | Aldershot  | Aug. | 10.1915. |
-| 7 | 659 | 476 | 3811 | 521 | 414060|l’riv!tie   |  | 'Curry, Ronald Daniel  | Nil  | Curry. John D. | EaMBaJ', McAdam > Lake, C.B., N.S  | Canada  | Sydney Mines.. | ilar. | 31,1915. |
-| 7 | 660 | 507 | 3811 | 544 | 41 531 I H’riviitc . |  | jt ’urlis, Jeremiah  | Nil  | Curtis, Mrs. Mn»-g«t* | GlH^e Buy, C.B.. N <   | Canada  | Sydney  | \ug. | 7,1915. |
-| 7 | 660 | 536 | 3812 | 575 | 415214 i 'orporal  |  | i( ushing, Homer Bertie  | Nil  | Cushing, Robbio B | Bridgewater, Lunenburg < o., N.S.  | Canada  | Bridgewater  | April 17, 1915. |
-| 7 | 659 | 567 | 3812 | 610 | 414563 l’riviite  |  | jt \ rs, Alexander  | Nil  | < Vrs, Mrs. Mary .. | ' . ! ’P. (rlnur»* t«T * > . N.B   | Canada  | Nev, Glasgow.. | May | 3,1915. |
-| 7 | 659 | 596 | 3813 | 632 | 415307 Privnt c  |  | i Pri I ton, Ronald Jam*»s  | Nil  | Dalton, Michael An«V»ny | '• *y Pier, C.B., N S  | Canada......... | Sydney  | \ug. | 13,1915. |
-| 7 | 660 | 624 | 3813 | 661 | 414241 PrivntC   |  | Dalton, Thomas Edward  | Nil  | Dalton, James E  | j^ntble Mountain, C.B . N.S  | Canada  | Aldershot  | lune | 9,1915. |
-| 7 | 659 | 656 | 3814 | 700 | 482002 Privnte  |  | jDamy, P. J..   | Nil  | Darcy, Mrs. B  | |0tljwa, Ont  | Canada  | Sussex  | Sept. 15.1915. |
-| 7 | 659 | 685 | 3814 | 719 | 414505 I’rivnte    |  | Darroeh, \\ illiam  | Nil  | Darroeh, Mrs. Hanna | . ’• ton Co., N.S    | Scotland  .New Glasgow. |  | Mar. | 31,1915. |
-| 7 | 660 | 715 | 3814 | 749 | 415400 Private  |  | 1 )auphince, John William    | 63rd Regt. .. | Dauphinee, Mrs. Marv.. | RMm Hi , Halifax, N ^   | Canada  | VuJrartier (Aug. | 18,1915. |
-| 7 | 659 | 744 | 3815 | 779 | 414305 Privnte .. |  | ’ ■ ’’nvidron, Henry W..  | . 78th Regt.... | Davidson, Mrs. L. A | \ Duncan St., Halifui. VS  | Canada   | Valcartier.   | Sept. | 27,1915. |
-| 7 | 659 | 774 | 3816 | 807 | 415675 Private  |  | 1 Javidson, James .  | . ;94th Regt... | Davidson, Mrs. Clara B. | 11 t. N.S   | Scotland   | Aldershot  | July | 14,1915. |
-| 7 | 659 | 800 | 3815 | 843 | 415747 Private   |  | 1 Davidson, Paul W   | .Nil  | Davidson, Boetnan O . . | pVolfrflK Kings Co., N.S  | Canada.   | Aldershot Uuly | 30,1915. |
-| 7 | 660 | 823 | 3816 | 866 | 411804 Private  |  | Davies, On-v i<i James  | .. I Nil  | Davies, Mrs. Ester. . | V* man! ord, Wales  |  | Halifax IJuly | Wales   | 30. 1915. |
-| 7 | 660 | 863 | 3816 | 895 | 415331 I’rivnte.... .. |  | Davis, Arthur Stanley  | . . Nil  | Davis, Mrs. A  | Te rrHml if ax, N. S   | Canada  | Aldershot  | Aug. | 10,1915. |
-| 7 | 660 | 893 | 3816 | 925 | 414425 Private  |  | Davis, Edward Frank  | .. Territorials.. | Davis, Harry.   | P'i. Ud., Fulham, London, Eng  | England  | Aldershot  | Aug. | 7,1915. |
-| 7 | 660 | 922 | 3816 | 956 | 41471!) Private  |  | Davis, Frank  | ..Nil  | Davis, Mrs. William... | . |{ ry, Mass, U.S.A ,.... | Canada  | Aldershot  | July | 14.1915. |
-| 7 | 661 | 951 | 3817 | 985 | 414418 Private  |  | Davis, Frank William  | .. C.F.A  | Davis, Mts. Iy^na  | 1 ’I-'1- \n .qt, Halifax, N.S  | Encland  | Halifax  | July | 31,1915. |
-| 7 | 661 | 981 | 3817 | 1015 | 414881 Private  |  | Davis, Harry A  | . . Nil  | Davis, James A  | V’prfnc fJ»ll, Curnlierland Co., N.S  | Canada  | Aldershot  | Aug. | 10,1915. |
-| 7 | 662 | 1009 | 3817 | 1043 | 415313 Private  |  | Davis, John Joseph  | .. Ofitli Regt... | McNeil, Amy  | •' Pi by St.. Halifax. N.S  | Cannda  . | Aldershot  | Aug. | 10,1915. |
-| 7 | 662 | 1039 | 3818 | 1074 | 414223|1 *rivate  |  | Davis, Robert Frederick  |  | Davis, Mrs. Fanny   | 1 fUl„ Ifnrbour Grace, Nfld  | Newfoundland.. I Halifax  |  | June | 5,1915. |
-| 7 | 660 | 1068 | 3819 | 1109 | *MS03|l*rivnte  |  | Dswson, William  | .. Territorials.. | Dawson, William H ... | HI ’farpiret St.. Nr. Barn«ley, Yorks., Eng   | Encland  | Halifax  | July | 31,1915. |
-| 7 | 661 | 1097 | 3818 | 1132 | 4 14801 'Private  |  | Day, Charles...   | ..Nil  | Day, Mrs. Margaret ... | if} Grafton Ht., Halifax. N S  | Canada  | Halifax   | July | 31,1915. |
-| 7 | 662 | 1120 | 3819 | 1166 | 41578* Private  |  | Day, l^inuel  | . .'Nil  | Day, Mrs. Thomas  | -JWiruN^r, ilwrtaCo . N.S  | Canada  | Aldershot  | Aug. | 10. 1915. |
-| 7 | 661 | 1152 | 3819 | 1189 | 415911 Private  |  | Day, Mack   | With Regt... | Day, Mrs. Kathleen  | :TV>p.>*g itfubour. Hnl if at Co., N> .   | Canada  | Halifax  | Aug. | 10, 1915. |
-| 7 | 661 | 1185 | 3820 | 1218 | 415505 ^ergennt  |  | De Champ. Frederick   | Nil  | De Champ, Miss Qucenie | > 8     | Canada  | Halifax  | May | 6, 1915. |
-| 7 | 662 | 1213 | 3819 | 1246 | 4143*^ I'nvate  |  | De Cost'\ Archie Nicholas  | Nil  | Do Coste, Mr5’. Jessie... | U \ n 11 ichc, \ nl \ in -!|< . N.S  | Canada  | Truro  | April 20, 1P15. |
-| 7 | 661 | 1244 | 3819 | 1277 | 415999 Private  |  | iDcvan, John Franeif  | Nil  | Devan, Mrs. Anne...... | Dartmouth, Co., N   | Canada  | Valcartier  | Aug. | 23. 1915. |
-| 7 | 662 | 1272 | 3820 | 1312 | 41482! Private  |  | | Dev can, William Joseph.  | Nil  | Deveau, Joseph J   . | 'du^amiJliiSU Halifax. N S.. ..    | Canada  | Aldershot  | Aug. | 7. 1915. |
-| 7 | 662 | 1301 | 3820 | 1336 | 41450# Sergeant  |  | ; Dewar, Gordon *  | Can. Mil  | Dewnr. Mrs. Gordon  |  | Canada  | Amlierst  | Mar. | 17. 1915. |
-| 7 | 662 | 1331 | 3821 | 1363 | 415C95 Private  |  | I Dp Wolfe?, John II  | Nil  | De Wolfe, Mrs. Margaret | ■ ' n ?g. K'-."’im Co., N.S..     | Canada  | Aldershot  | July | 21*. 1915. |
-| 7 | 663 | 1361 | 3822 | 1394 | 414<'l# l’rivate  |  | ! Ho Young, Gordon  | Nil  | De Young, James   | '• ii t!- I , Herring Core, Halifnx. N.S.   | Canada  | Aldershot  | Aug. | 8. 1915. |
-| 7 | 663 | 1390 | 3821 | 1422 | 414971* l’rivate  |  | Diamond, Herbert  | Nil  | Dirmmnd, Mrs. Mary  | f. itftmrr 'He, Nfid....   | Newfoundland. | Sydney  | Aug. | 13, 1915. |
-| 7 | 663 | 1419 | 3823 | 1450 | 4 Mm Private  |  | Dickson. Albert. John.  | Nil  | Doncett, Mrs. Thomas . | Wn^etrord. C.B., N.S.  | England  | Valcartier  | July | 13. 1915. |
-| 7 | 663 | 1447 | 3823 | 1481 | 115501 Private. .*  |  | Dillon, Daniel Henderson  | ..(Nil  | Dillon, Mrs. Fjdith  |   | Canada  | Digby  | May | 10.1915. |
-| 7 | 664 | 1476 | 3823 | 1510 | 414 -W Private  |  | Doherty, Dennis Joseph  | ..(Nil  | Doherty, Miss Annie . . | Dorvh1 ‘or. U.S. A    | Newfoundland. | New Glasgow. . | May | 1. 1915. |
-| 7 | 664 | 1504 | 3824 | 1539 | 4 M Sin i Private  |  | Dolimont, Hi chard    | .. ;94th Regt.... | Dolimont, Mary  | ^ North ! ( B., N.S   | Canada  | Aldershot  | Aug. | 7. 1915. |
-| 7 | 664 | 1531 | 3823 | 1570 | 4 MfjOTjPrivate  |  | ! Doncaster, Clarence Leslie  | ..Nil  | ..|Doncaster, Arthur  | - ^U, Amh'-m. Cjtnlyrrbin«l Co., N.S  | U.S.A  | Amherst  | M a.v | 10.1915. |
-| 7 | 664 | 1564 | 3824 | 1601 | 415S4t» Private  |  | Donohoe, John... | .. | N il  | .. |Donohoe, Mrs. Liddie... | . I:u , Yarm''*jth, N.S  | Canada  | Aldershot  | Aug. | 12. 1915. |
-| 7 | 665 | 1593 | 3824 | 1634 | 414389 (Private  |  |  | .. ,70 Regt  | ..jDonovan, Mrs. Mabel  | T -i, hr-«tot C«>., N.S    | Canada  | Truro  | April 20, 1915. |
-| 7 | 665 | 1621 | 3825 | 1661 | 4R2061 j Privato  |  | j Durey, Clnrcnce Wesley  | ..Nil  | .. jDorey, John  | •••', Lv-»" Co..N S  | Canada  . | | Sussex  | Sept | S, 1915. |
-| 7 | 665 | 1646 | 3825 | 1689 | 4 <W5o! Private  |  | iDorey, Spencer  | .. j Nil  | .. Dorey, Mrs. W'illiam.... | • * HftJtfa Co.. N.s    | Canada  | | Sussex  | Aug. | 18, 1915. |
-| 7 | 665 | 1680 | 3826 | 1713 | 4150% | Private  | Dormor, Horry  | .. (Territorials.. | ..iDormor, Mrs. Harry.... |  | England  | i.Vldershot  | July | 29,1915. |
-| 7 | 666 | 1704 | 3826 | 1745 | 415756 | Private  | 'Doubleday, Herbert  | ..Nil  | Doubledav, Percy  | St., rtnhfnx. N.S      | Canada  | ! Halifax  | July | 30, 1915. |
-| 7 | 667 | 1735 | 3826 | 1783 | 415502 | Private  | j Doucett e, Felix  | ..Nil  | Doucette, Thomas  | . Turt Yanno«th Co., N.H  | Canada   | Yarmouth  | April 12. 1915. |
-| 7 | 667 | 1765 | 3828 | 1804 | 414987 | Private  | Dow ard, John T  | ..Nil  | Dowanl, Mrs. Martha.. | T^r'. ginwn. IJMifla., . .      | England  | Sydney  | Aug. | 13, 1915. |
-| 7 | 667 | 1798 | 3828 | 1832 | •415400 | Private  | • Dowling, William Matthews.... | • •Nil  | Rearcha, Mrs. Edith F. |  | Canada  | Halifax  | Aug. | 11.1915. |
-| 7 | 667 | 1822 | 3828 | 1861 | 41.5301 | Private  | Downing, Percy G  | ..Nil  | Downing, J. J  | Kivfr u, !e. M‘»rt (.Jo., N.B   | Canada  | Sydney  | Aug. | 13, 1915. |
-| 7 | 668 | 1851 | 3827 | 1892 | 414445 | Private  | ! Doyle, Enoch  | ..Nil  | Doyle, Mrs. Kate  | ^t^O^ton, Prtou Co., N.S    | Canada  | New Glasgow. | Mar. | 31, 1915. |
-| 7 | 668 | 1878 | 3828 | 1924 | 4 J 4340 Private  |  | 'Doyle, Gregory Edward  | ..Nil  | Doyle, Mrs. Edward  | Avond^i*, NfM.-.  "i.   | Newfoundland. | I Kentville  | July | 20, 1915. |
-| 7 | 669 | 1909 | 3829 | 1958 | 414410 Private  |  | [Doyle, Herbert Albert  | .. {Nil  | Doyle, Lewis  | •\ ]*'>»rp•r*r (V urt, 1/^ktnM St.. Halifax, N .S .. | . Cnnada..   | [Halifax  | Aug. | 3, 1915. |
-| 7 | 668 | 1939 | 3829 | 1982 | 410327 Private  |  | Doyle, James  | ..Nil  | Doyle, Miles  | • -y. Coon, UJ A    | . Canada  | j Aldershot  | Aug. | 10, 1915. |
-| 7 | 673 | 1967 | 3830 | 2011 | 415300 Private  |  | . I Drew, Henry. | ..Nil  | .. iClarke, Mrs. Mary  | North C.B., N.H   | .(Canada.. . | Sydney  | Aug | 13, 1915. |
-| 7 | 674 | 1997 | 3830 | 2046 | 114780 Private  |  | Driver Edward.. | ..'Nil  | .. j Driver, Miss Susie  | \. I .... .    •   . . | . [England  | (Aldershot  | July | 29, 1915. |
-| 7 | 673 | 2024 | 3831 | 2071 | 114156 Private  |  | .IDufley, Arthur.. | .. 193rd Regt... | . . [DulYey, Mrs. Owen  | .!rarrtbrr,o%, CuniWwd C o . N S  .. . . | . ICannda  | Halifax  | May | 4, 1915. |
-| 8 | 937 | 596 | 3423 | 628 |  |  |  | Former Corps. |  |  | Country of |
-| 8 | 751 | 741 | 3917 | 773 | 414302 | Pri vale... | Duggan, William Patrick  | Nil  | Duggan, Samuel  | 36 l/owor Water St., Halifax, N.S  | Canada  | Aldershot... | Aug. | 1915. |
-| 8 | 751 | 771 | 3918 | 802 | 414948 | Private... | Dunham, Charles  | Nil  | Dunham, Mrs. Mary.. | •' I Bay, C.B., N.S  | Cannda  | Sydney  | Aug. | 1915. |
-| 8 | 752 | 800 | 3918 | 831 | 41528* | Private... | Dunlop, George Fred  | Nil  | Strang, Mrs. Morley. | Metcalfe St., St. John, N.B  | Canada  | Sydney  | Aug. | 1915. |
-| 8 | 752 | 829 | 3918 | 859 | 415991 | Private... | Dunlop, William Campbell... | 63rd Regt., | McCaugliin, Mrs. E. A | 27 Vernon St., Halifnx, N.S  | Ireland  | Valcartier... | Aug. | 1915. |
-| 8 | 752 | 859 | 3918 | 890 | 482058 | Private... | Dunn, Fenwick ii  | Nil  | Dunn, Fenwick L  | Yarmouth, N.S  | Canada  | Sussex  | Aug. | 1915. |
-| 8 | 753 | 888 | 3917 | 918 | 415887 | Privato... | Dunsworth, Roy Victor  | 63rd Regt-.. | Dunsworth, Mrs. Nelli | Prince St., Dartmouth, Halifax Co., N.S | Canada  | Halifax  | Aug. | 1915. |
-| 8 | 752 | 918 | 3918 | 948 | 414094 | Privates | During, John Joseph  | 03rd Regt.. | During, D. V.     | 38 ( n.r|p*on St., Halifax. N.S  | Canada  | Valcartier... | Aug. | 1915. |
-| 8 | 753 | 947 | 3918 | 977 | 415840 | Private... | Durkee, Boumnn  | Nil  | Durkee, Minnie  | Beaver River, Digby Co., N.S  | Canada  | Aldershot... | Aug. | 1915. |
-| 8 | 754 | 969 | 3918 | 1006 | 416647 | Private... | Durkee, James Hnrvey  | C.F.A.?..., | Durkee, Jefferson  | Yarmouth, N.S  | Canada  | Yarmouth... | April | 1915. |
-| 8 | 753 | 1005 | 3918 | 1035 | 416855 | Private. .•. | Durkee, Lester P  | Nil | Durkee, Asa P  | 447 Prospect St., Mass Town, N.S  | Canada  | Aldershot. .. | Aug. | 1915. |
-| 8 | 754 | 1035 | 3918 | 1064 | 415763 | Private... | Ead, Edward Joseph  | R.C.R  | Ead, Mrs. Sophia .... | 16 Grafton St., Halifax, N.S  | Canada  | Aldershot... | Aug. | 1915. |
-| 8 | 753 | 1064 | 3917 | 1093 | 414462 | Private... | Eades, Alfred   | Imp. Forces | Eades, Mrs. Rose  | 25 Bauer St., Halifax, N.S  | England  | Aldershot. .. | Aug. | 1915. |
-| 8 | 754 | 1092 | 3918 | 1122 | 415390 | Private... | nton, Roy Hnwkesworth... | Nil  | Eaton, Mrs. Clara B.. | Grand Pre, Kings Co., N.S  | Canada  | Halifax  | Aug. | 1915. |
-| 8 | 755 | 1120 | 3918 | 1152 | 414806 | Private... | Edward, George  | Nil  | Medler, Mrs. F.    | 20 St. James St., Quebec, P.Q  | Cannda  | Aldershot. . . | Aug. | 1915. |
-| 8 | 756 | 1151 | 3918 | 1180 | 414305 | Private... | Edwards, John Joseph  | Nil  | Edwards, Alexander.. | Joggin Mines, Cumberland Co., N.S  | Canada  | Amherst  | April | 1915. |
-| 8 | 755 | 1180 | 3918 | 1209 | 414403 | Private... | Eld, Fred Samuel.   | Nil  | Eld, Frederick  | 141 Lockman St., Halifax. N.S  | England  | Aldershot... | Aue. | 1915. |
-| 8 | 756 | 1209 | 3918 | 1238 | 482059 | Private... | Eldershaw, James Hector.... | Nil  | Eldershaw, Thomas.. | Clam Harbour, Halifax Co., N.S  | Canada  | Sussex  | Sept. | 1915. |
-| 8 | 756 | 1238 | 3919 | 1268 | 415772 | Private... | Eld ridge, Victor Eugene  | Nil  | Eld ridge, Jacob T  | Yarmouth, N.S  | Canada  | Aldershot. .. | Aug. | 1915. |
-| 8 | 756 | 1267 | 3918 | 1296 | 415817 | Private... | Elliott, Le Lacheur  | Nil  | Elliott, Odin  | Advocate Harbour, Cumberland Co., N. | Canada  | Aldershot... | Aug. | 1915. |
-| 8 | 755 | 1296 | 3919 | 1327 | 482042 | Private... | Ellis, E. Ethel  | Nil  | Ellis, Charles  | Norwood, Yarmouth Co., N.S  | Canada  | Sussex  | Aug. | 1915. |
-| 8 | 756 | 1325 | 3919 | 1356 | 415771 | Private... | Ellis, George M  | Nil  | Ellis, Mrs. Eliza J.... | Port Maitland, Yarmouth Co., N.S  | Canada  | Aldershot... | Aug. | 1915. |
-| 8 | 756 | 1354 | 3919 | 1384 | 414351 | Private... | Ellis, Winfield Lawrence  | Nil  | Ellis, Mrs. Julia  | 35 Manberry St., Bangor, Me., U.S.A... | Canada  | Aldershot. .. | July | 1915. |
-| 8 | 756 | 1384 | 3919 | 1412 | 48200G | Private... | Ellison, Arthur H  | Nil  | Mclnnis, Rod  | West Bay Rd., C.B., N.S  | England  | Sussex  | Aug. | 1915. |
-| 8 | 757 | 1412 | 3919 | 1444 | 415689 | Private... | Eloquin, John  | Nil  | Eloquin, Dan  | Magdalen Island, C.B., N.S  | Cnnada  | Aldershot  | July | 1915. |
-| 8 | 758 | 1440 | 3918 | 1473 | 414791 | Private... | Els worth, Hugh  | Nil  | Elsworth, James  | Spring Hill Mines, Cumberland Co., N.S | Canada  | Aldershot.. . | July | 1915. |
-| 8 | 757 | 1468 | 3918 | 1503 | 414104 | Sergeant.. | Embrce, David Thornton.... | C.O.T.C.... | Embree, E. C  | Port Hawkesbury, C.B., N.S  | Canada  | Halifax  | Mar. | 1915. |
-| 8 | 756 | 1498 | 3918 | 1530 | 415907 | Private... | English, Edward J  | Nil  | English, Mrs. Bridget. | 26 Bnrrington St., Halifax. N.S  | Canada  | Valcartier... | Aug. | 1915. |
-| 8 | 758 | 1527 | 3918 | 1559 | 414800 | ]>rivate... | Enion, Ernest  | Nil  | McDonald, Mrs. Mary | Florence No. 3, C.B., N.S  | England  | Aldershot  | July | 1915. |
-| 8 | 757 | 1555 | 3918 | 1588 | 414357 | Private... | Esau, David    | Can. Mil.... | Esau, Mrs. Nellie  | Londonderry, Colchester Co., N.S  | Canada  | Amherst  | May | 1915. |
-| 8 | 757 | 1584 | 3919 | 1616 | 415250 | Private... | Essis, Peter  | Nil  | Essis, Amastasia  | Minsk, Russia   | Russia  | Aldershot. .. | Aug. | 1915. |
-| 8 | 758 | 1612 | 3919 | 1646 | 414915 | Private... | Evans, Joseph  | Nil  | Evans, Elizabeth  | lorence Cmk, Sunderland, Eng  | England  | Aldershot. . . | Aug. | 1915. |
-| 8 | 757 | 1641 | 3919 | 1675 | 482003 | Private... | Extell, George  | Nil  | Not Stated....   | Not Stated  | Canada  | Sussex  | Srpt. | 1915. |
-| 8 | 758 | 1666 | 3919 | 1717 | 414781 | j Pri vate... | Eye, Ralph  | 68th Regt.. | Eye. Mrs. Susie  | Chapel St., Spring Hill, Cumberland Co | Canada  | Aldershot. .. | [July | 1915. |
-| 8 | 757 | 1698 | 3919 | 1737 | 41543? | j Private... | Falconcr, James Arthur  | Can. Mil.... | . Falconer, Mrs. Alice. | 68 Leonard St., Sydney, C.B., N.S  | Canada  | Valcartier. .. | Aug. | 1915. |
-| 8 | 756 | 1724 | 3920 | 1764 | 415418 | Private... | Farewell, Thomas William... | Nil......... | .'Farewell, Susina... . | 43 Livingstone St., Halifax, N.S   | Newfoundland.. | Halifax  | ! Aug. | 1915. |
-| 8 | 758 | 1752 | 3919 | 1792 | 415295 | Private... | Fawcett, Walter  | Territorials. | .'Fawcett., Mrs. Anni** | New Aberdeen, C.B.. N.S  | England  | Sydney   | I Aug. | 1915. |
-| 8 | 757 | 1783 | 3920 | 1824 | 415490 | Corporal. | Fear, James   | Nil... | . Samuel.... | .. |Caerphilly, South Wales   | Wales  | Spring Hill.. | ! April | 1915. |
-| 8 | 758 | 1813 | 3919 | 1850 | 415902 | Private... | Feltmatc, William  ... | Nil... | .:Feltmate, Mrs. Harriett | .. Whitehead, Guvsboro Co., N.S  | Canada  | Aldershot. . . | Aug. | 1915. |
-| 8 | 757 | 1843 | 3920 | 1879 | 415292 | Private... | Ferguson, Alexander James.,. | Nil... | . Ferguson, Malcolm... | .. vdnpy. C.B., N.S  | Canada  | Sydney  | Aug. | 1915. |
-| 8 | 758 | 1869 | 3919 | 1910 | 414978 | Private... | Ferguson, Angus K  | Nil... | .{Ferguson, Mrs. Katherin*' | ..iGlare Bay, C.B., N.S   | Canada  | Sydney  | Aug. | 1915. |
-| 8 | 758 | 1900 | 3920 | 1942 | 482087 | Private... | Ferguson, Charles F  | Nil... | .(Ferguson, Frederick | it. John, N.B  | Canada  | Sussex  | Sept. | 1915. |
-| 8 | 757 | 1929 | 3920 | 1969 | 414506 | Sergcnnt. | Ferguson, Frederick B  | Nil... | . iFerguson, Miss E. B. | 75 La Planche St., Amherst, Cumberland | Canada  | Amherst. . .. | May | 1915. |
-| 8 | 758 | 1959 | 3920 | 1996 | 414855 | Private. | Ferguson, John Alexander.... | Nil... | . (Ferguson, John.... | Sydney, C.B., N.S  | Canada  | Sydney  | Aug. | 1915. |
-| 8 | 758 | 1986 | 3920 | 2026 | 415191 | Private... | Ferguson, Robert   | Nil... | . Ferguson, Hector | (Uaoe Bay, C.B.. N.S    | Cannda  | Aldershot. . . | | July | 1915. |
-| 8 | 758 | 2016 | 3920 | 2055 | 415868 | Private.., | Ferguson, Rodney W   | Nil... | .1 Ferguson. Mrs. Thom | Sydney Mines, C.B., N.S  | Cannda  | Sydney  | i Aug. | 1915. |
-| 8 | 757 | 2044 | 3921 | 2085 | 414938 | Private... | Fiander, John Kenneth .. | (Nil... | .!Fiander, Mrs. Helen | Catherenne St., North Sydney, C.B., N | Newfoundland. | Aldershot... | Aug. | 1915. |
-| 8 | 1932 | 2065 | 3921 | 2106 |  |  |  |  | .: Fielding, Mrs. Barbara | 26 Hanover St., Halifax, N.S  | Canada — | Halifax  | Ijuly | 1915. |
-| 8 | 758 | 2082 | 1706 | 2113 | 414305 | Private... | Fielding. Frederick Nathanie | Nil... |
-| 8 | 1932 | 2101 | 3921 | 2133 |  |  |  |  | .’Fisher, John W. .. | 450 Gottingen St., Halifax, N.S   | Canada— | Aldershot . . | I Aug. | 1915. |
-| 8 | 758 | 2114 | 1492 | 2142 | 414371 | Private... | Fisher, Robert John   |
-| 8 | 757 | 2129 | 3922 | 2175 | 415258, | Private... | Fleisig, Samuel  .... | (Territorials | i Fleisig, Esther  | 1279 St. Urbain St.. Montreal, P.Q  | England.. | I Aldershot. . . | • Aug. | 1915. |
-| 9 | 656 | 310 | 3083 | 342 | 415S78 | Private.. | Fleming, Frank Joseph... | Nil  | Fleming, Mrs. John. | St. Vincent, St. Mary's Bay, Nfld  |
-| 9 | 657 | 341 | 3085 | 373 | 41417^ | Private.. | Finning, Herbert Stanley | 63rd Regt | Fleming, Lieut. Joseph.. | 4fMH Battalion C.E.F  |
-| 9 | 657 | 369 | 3085 | 403 | ■1153:!.'! | Private.. | Fiinn, Joseph Arthur  | Nil  | Flinn, Mrs. Mary  | 72 Qninpool Rd„ Halifax, N.S  |
-| 9 | 656 | 393 | 3595 | 431 | 4 )4DIH> | Private.. | Flynn, Michael Patrick.. | 03 rd Regt | Flynn, Patrick. | Spring Hill Mine?, Cumberland Co., N.S  | Newfoundland.. | Valcartier  |
-| 9 | 656 | 427 | 3085 | 459 | 415978 | Private.. | Flynn, Robert  | Nil  | Flynn, William E  | c/o W. Wilson, Glace Bay, C.B., N.S  |
-| 9 | 656 | 455 | 3085 | 489 | 415275 | Private.. | Foley, John C  | Nil  | 7 Cameron, Mrs. Isabelle. | Lansdowne, Digby Co., N.S...;  |
-| 9 | 655 | 483 | 3596 | 518 | 414957 | Private.. | Finite, William   | Nil  | .Foote, Mrs. Elizabeth | Now Aberdeen, C.B., N.S  | Newfoundland . | Sydney  |
-| 9 | 656 | 512 | 3596 | 556 | 415007 | Sergeant. | Forbes, James E. M ... | Nil  | j Forbes, William  | North Sydney, C.B., N.S  | Cannda  | Sydney   |
-| 9 | 656 | 543 | 3087 | 576 | 4J5061 | Private.. | Fortune, Daniel McGregor | Nil  | .'Fortune, Mr*. Mary Jane | New Wntetford, C.B., N.S  |
-| 9 | 655 | 570 | 3582 | 604 | 415200 | Private.. | Foster, Stanton Hay  | Nil  | Foster, William  | White Rock, Kings Co., N.S  | Cnnada  | Aldershot  |
-| 9 | 655 | 603 | 3085 | 633 | 414071 | Private.. | Foster, Thomas  | Territorials | Foster, Mrs. Thomas... | Newton Cnlcndnr, Fife, Scot  |
-| 9 | 655 | 628 | 3597 | 662 | 482005 | Private.. | Fougere, Peter  | Nil  | Fougere, Simon..  | Larry’B River, Guysboro Co., N.S  | Canada  | Sussex  |
-| 9 | 655 | 659 | 3813 | 691 | 482000 | Private.. | Fougere, William A  | Nil  | Fougere, James  | Harbour Au Boche, Antigonishe Co., N.S  | Canada  | Sussex  | 5. |
-| 9 | 654 | 688 | 3597 | 720 | 415007 | Private.. | Fox, nrnilford Rrenton... | C.F.A  | Fox, Mrs. Annie  | Yarmouth, N.S  | Canada  | Aldershot  |
-| 9 | 654 | 717 | 3598 | 751 | 415567 | Private.. | Fox, Charles  | Nil  | ’ox. Hemy  | Shrewsbury, Salop, Eng  | England  | Kentville  |
-| 9 | 655 | 745 | 3814 | 779 | 414244 | Private.. | Fox, John David  | Nil  | Fox, David    | Valley Station, Colchester Co., N.S  | Canada  | Aldershot  | 115. |
-| 9 | 654 | 774 | 3805 | 808 | 415833 | Private.., | Fox, l.vle  | Nil  | Fox, Cassia  | Bridgewater, Lunenburg Co., N.S  |  |  | 5 |
-| 9 | 654 | 806 | 3087 | 839 | 41503 | Private... | Fox, Thomas, Quigley... | Nil  | Fox, Mrs. Eliz  | Broughton, C.B., N.S  |
-| 9 | 654 | 836 | 3602 | 867 | 415458 | Private... | Fraser, Charles Edward. | 78 th Regt | Fraser, Mrs. Margaret.. | Eureka, Pictou Co., N.S  |  | New Glasgow... |
-| 9 | 653 | 865 | 3807 | 897 | 415108 | Private.., | Fraser, John  | Nil  | Fraser, Mrs. Alice  | New Waterford, C.B., N.S  |  |  | 5 |
-| 9 | 652 | 896 | 3088 | 926 | 414322 | Private... | Fraser, Thomas  | Nil  | Fraser, John A r.. | Denmark, Colchester Co.. N.S  |
-| 9 | 652 | 925 | 3600 | 955 | 414423 | Private... | Fraser. Wal ter Joseph.... | Nil  | Fraser, Mrs. Frances— | 1 Phillips St., Halifax, N.S  |  | Halifax  |
-| 9 | 652 | 954 | 3585 | 984 | 414950 | Private... | Frizzell, Matthew, T  | Nil  | Pratt, Mrs. Ellen  | Bible Hill, Truro, Colchester Co., N.S  | Canada  | Aldershot  |
-| 9 | 653 | 984 | 3356 | 1013 | 414680 | Private... | Fry. Harold  | Nil  | Fry, Mrs. Fanny  | P.O. Box 500. Glace Bay, C.B., N.S  | England  |
-| 9 | 653 | 1012 | 3090 | 1042 | 415300 | Private... | Gallacher, David  | Nil  | Gsllacher, Mrs. Jean.... | Florence, C.B., N.S  |
-| 9 | 653 | 1041 | 3601 | 1070 | 415291 | Privato... | Gallant, Edward.  | Nil  | Gallant, John  | Gardiner Mines, C.B., N.S  | Canada  | Sydney  |
-| 9 | 652 | 1070 | 3586 | 1100 | 415435 | Private... | Gallant, Eugene C  | Nil  | Gallant, Calix  | Rogersville, Northumberland Co., N.B  | Canada  | Amherst  |
-| 9 | 653 | 1092 | 3090 | 1129 | 4R2004 | Private... | Gardiner, F. L. R  | Nil  | Gardiner, H. P  | St. John, N.B  |
-| 9 | 652 | 1127 | 3062 | 1156 | 415359 | Private.., | Gardiner, Luke  | Nil | Gardiner, Mrs. Catherin | Dominion, C.B., N.S .   |
-| 9 | 652 | 1155 | 3091 | 1186 | 415357 | Privato... | Gardiner, Michael F  | Nil | Gardiner, Mrs. Annie... | Reserve Mines, C.B., N.S  |
-| 9 | 652 | 1184 | 3573 | 1216 | 415358 | Privato... | Gardiner, Randall  | Nil  | Gardiner, Miss Sara Kat | Gardiner Mines, C.B., N.S  | Canada  | Sydney  |
-| 9 | 653 | 1213 | 3573 | 1246 | 415299 | Private... | Gardiner, William  | Nil  | Gardiner, Mrs. William. | Sydney Mines, C.B., N.S  | Canada  | Sydney  |
-| 9 | 653 | 1240 | 3820 | 1276 | 414750 | Private.., | Garrett, William Patrick | Nil  | . . (Garrett, Mrs. Sarah  | 150 North St., Halifax, N.S  | Canada  | Aldershot  | 5. |
-| 9 | 653 | 1271 | 3588 | 1304 | 415739 | Private... | Gates, Ellis Greely  | Nil  | . Gates, William  | Blandford. Lunenburg Co., N.S  | Canada  | Aldershot... . |
-| 9 | 653 | 1300 | 3820 | 1334 | 414262 | Private... | Gay, William  | Nil  | Gay. Margaret  | Spring Hill, Cumberland Go., N.S  | Canada  | Amherst  | 5. |
-| 9 | 653 | 1330 | 3574 | 1362 | 414031 | Private.., | Gibb, Charles  | Imp. Force* | Gibb, Charles. .   | Police Barracks. East Queen St., Glasgow, Scot  | Scotland  | Halifax  |
-| 9 | 653 | 1358 | 3820 | 1392 | 414186 | Private... | Gibson, Earl C   | 09th Regt | Gibson, Mrs. Hattie ... | MargaretsviUe, Annapolis. N.S  | Canada  | Valcartier  | 5. |
-| 9 | 652 | 1387 | 3604 | 1422 | 414324 | Private... | Gi ton; Hugh   | Territorials | Gibson, Mrs. Mary  | Linwood, Dalmellington Rd., Ayr, Scot  | Scotland  | Halifax  |
-| 9 | 652 | 1417 | 3603 | 1449 | 415394 | Private.., | Gilbert Robert  | Nil  | Gilbert, Mrs. A   | 27 Maitland St., Halifax, N.S  | Canada  | Halifax  |
-| 9 | 653 | 1446 | 3604 | 1479 | 415301 | Private... | Gilday, Michael  | Nil  | Giiday. Mrs. Martin.... | Caledonia Mines, C.B., N.S  | Canada  | Sydney  |
-| 9 | 654 | 1471 | 3604 | 1507 | 415570 | Private... | Giles, Thomna  | C.F.A... | Giles, Matthew  | Yormouth, N.S  | Canada  | Yarmouth  |
-| 9 | 654 | 1498 | 3823 | 1538 | 414723 | Private... | Gilhooly, William  | Nil  | Gilhooly, Mrs. Bridget. | Cranberry, Sydney Mines. C.B., N.S  | Scotland  | Aldershot  | 5. |
-| 9 | 654 | 1527 | 3823 | 1566 | 415039 | Private.., | Gillies, Daniel  | Nil  | Gillies, Mrs  | Richmond Co., N.S  | Canada  | Glace Hay  | 115. |
-| 9 | 654 | 1562 | 3602 | 1596 | 415572 | Private.., | Gillii's, Joseph *. | Nil  | Gillies, Mrs. Lizzie  | Asbinore, Digby Co., N.S  | Canada  | Digby  |
-| 9 | 654 | 1592 | 3092 | 1625 | 415310 | Private.., | Gillis, i ’larence  | Nil  | Gillis, John H  | Glneo Bay, C.B., N.S  |
-| 9 | 654 | 1620 | 3606 | 1658 | 415158 | Sergeant. | Gillis, Martin J  | R.C.R.. | Gillis, D. J  | Sydney Forks. C.B., N.S  | Canada  | Sydney  |
-| 9 | 654 | 1650 | 3745 | 1683 | 415040 | Private.., | Gillis, Stephen S  | Nil  | Gillis, Mrs. Stephen  | Shenaeadie, C.B., N.S  | Canada  | Sydney Mines | , |
-| 9 | 654 | 1679 | 3363 | 1712 | 414443 | Private . | Golden, William James.. | Nil | Golden, Archibald  | Whitewny, Trinity Bay, Nfld  | Newfoundland.. |
-| 9 | 654 | 1701 | 2187 | 1734 | 415296 | Private.. | Goldie, Arthur  | Nil  | Goldie, John  |
-| 9 | 2345 | 1713 | 3606 | 1742 |  |  |  |  |  | Sydney, C.B., N.S  | Canada  | Sydney  |
-| 9 | 656 | 1730 | 3747 | 1770 | 414511 | Sergeant. | Goldrich, Oscar  | Can. Mil. | Goldrich, James E  | Spring Hill, Cumberland Co., N.S   | Canada  | Amherst  | 7, |
-| 9 | 656 | 1765 | 3816 | 1799 | 415520 | Sergeant. | Golightly, Edwin  | Nil  | Golightly, Robert  | Bridgewater, Lunenburg Co., N.S  | England  | Bridgewater.... | 5 |
-| 9 | 656 | 1794 | 3608 | 1827 | 414306 | Private.. | Goodmin, Charles  | Nil  | Not Stated  | Not Stated     | England  | Valcartier  |
-| 9 | 656 | 1824 | 3818 | 1860 | 415740 | Private.. | Goodwin, Henry Richard | Nil  | .(Goodwin, Mrs. Margaret | Argyte Sound, Yarmouth Co., N.S  | Canada  | Aldershot   | , | » |
-| 9 | 656 | 1856 | 3818 | 1953 | 415G56 | Private.. | Goodwin, Raymond Haro | Nil  | 1 Goodwin, Millage  | Lower Wood Harbour, Shelburno Co., N.S  | Canada  | Yarmouth  | . | 5 |
-| 9 | 656 | 1880 | 3818 | 1917 | 415742 | Private.. | Goodwin, Thelston  | Nil  | Goodwin, James  | Argyle Sound, Yarmouth, N.S  | Canaria  | Aldershot  | , | 5 |
-| 9 | 656 | 1909 | 3750 | 1947 | 414988 | Private.. | Goose, Absoleme  | Nil  | Goose, John  | B lake town, Nfld  | Newfoundland | Sydney  | 3, |
-| 9 | 656 | 1944 | 3819 | 1981 | 414460 | Private.. | Gordon, William  | Nil  | . jGordon, Mrs. Mary  | 9 Morris St., Halifax, N.S,  | Canada  | Aldershot  | 0, | 5 |
-| 9 | 656 | 1970 | 3819 | 2004 | 415461 | Private.. | Gorman, William Edward | 63rd Reg | ..iGonnan, Mrs. Annie. ... | 4 Lockman Terr., Halifax, N.S  | Canada  | Valcartier  | 8, | 5 |
-| 9 | 657 | 1997 | 3820 | 2039 | 414373 | Corporal. | Gould, Harry  | Nil.... | .. jGrove, Mrs  | 2380 Marys Rd., Munsey, Middlesex, Eng  | England  | Aldershot  | 5 |
-| 9 | 656 | 2029 | 3820 | 2063 | 414233 | Private.. | Gould, Harry Philip.., | Nil.... | .. iGould, William | Steam Mill Village, Kings Co., N.S    |  | Aldershot .*... | i. | 5 |
-| 10 | 964 | 573 | 3445 | 609 |  |  |  | Former Corps. |  |  | Country of |
-| 10 | 778 | 720 | 3946 | 754 | 4H2074 | Private  |  | Nil |  |  |  |  | 24, 1915. |
-| 10 | 778 | 750 | 3946 | 787 | 415760 | Private   | Grncio, Henry C  | Mlh Regt  |  | Glace Bay, CD., N.S  |  |  | lulv | 29, 1915. |
-| 10 | 777 | 779 | 3946 | 813 | 415740 | Private  |  | »4th Regt   |  |  |  | Aldershot... . | luly | 29, 1915. |
-| 10 | 778 | 808 | 3947 | 844 | 415852 | Corporal  |  |  |  |  |  |  | Aug. | 9. 1915. |
-| 10 | 777 | 838 | 3947 | 871 |  | Private  | 414877 | Nil  | Grant, Annie   | I'.O. Hox 729, 1 ruro, Colchester Co., N.S  | ( anada  |  | Aug. | 10. 1915. |
-| 10 | 776 | 867 | 3947 | 903 | 416308 | Private  | Grant, Richard *  | Nil  | Grant, William  |  | Newfoundland.. | Sydney  | Auk. | 13, 1915. |
-| 10 | 776 | 896 | 3947 | 932 | 414910 | Private  | Gray, Hubert Joseph  | Nil  | Gray, Mrs. Ililda    | 7 North Bland St.. Halifax. N.S  | Canada  | Halifax  | luly | 30, 1915. |
-| 10 | 776 | 925 | 3948 | 957 | 41.*>102 | Private  |  | Nil  | Gray, Mrs. Sarah  | Parliament How, Herts. Co., Knjs  | England  | Valcartier  | luly | 13, 1915. |
-| 10 | 774 | 958 | 2448 | 988 | 414238 | Private  | Greene, Clifford Varlcy  | Nil..*  | Greene, Mrs. Burpee   |
-| 10 | 774 | 982 | 3947 | 1017 | 414230 | Private  | Greene, llcnry Arnold  ... | Nil  | Greene, Mrs. Burpee   |  |  |  | If., 1915. | NewTusket, Digby Co., N.S  | Aldershot  | lune |
-| 10 | 774 | 1012 | 3947 | 1045 |  |  |  |  |  | Spring Hill, Cumberland Co., N.S  | 410070 | Private  | GrifFic", Michael   | Nil  | GrifTies, George  | Canada  | Halifax  | 1 >cr. | 2. 1914. |
-| 10 | 773 | 1041 | 3948 | 1073 | 482013 | Private  | GrifTin. John  | Nil  | Griffin, John  | 100 Erin St., St. John, N.B  | Canaria  | Sussex  | Sept. | S, 1915. |
-| 10 | 773 | 1069 | 3947 | 1102 | 482038 | Private  | Grimmer, .James  | R.G.R  | Grimmer, H—  | New Glasgow, Pictou Co., N.S  | Canada  | Sussex  | 2, 1915. |
-| 10 | 772 | 1097 | 3948 | 1131 | 414000 | Private  |  | 00! h Rest  |  |  |  |  | Mar. | 24, 1918. |
-| 10 | 771 | 1127 | 3939 | 1160 | 415427 | Private  |  |  |  |  |  |  | M;ir. | 13. 1915 | Broughton, C.B., N.S  | Glace Bay   |
-| 10 | 772 | 1156 | 3949 | 1200 | 414-151 | Private  |  |  |  | 140 Forfar St., Montreal, P.Q  | Guard man, Jo«eph  | Nil  | Auk. | 7, 1915. |
-| 10 | 771 | 1186 | 3950 | 1218 | 414 or,r, | Private  |  |  |  | Bible Hill, Truro, Colchester Co., N.S  | Guild, George 1* — i;  | Nil  | Auk. | Guild, Mrs. Alice    | U.S. A  | Aldershot.... | 12, 1915. |
-| 10 | 770 | 1215 | 3949 | 1248 | 414782 Privalc  |  | Guilin*, Elmore   | 04 th Regt  | Guilin*. Allen    | Beverly, Mass., U.S.A  | Cnnada  | Aldershot . . | •luiy | 29, 1915. |
-| 10 | 769 | 1245 | 3949 | 1280 | 414848!PrivatP  |  | Guy, William L  | Nil  | Guv, Mrs. M  | Sydney Mines, C.B., N.S  | Cnnada  | Sydney  | A UR. | 9, 1915. |
-| 10 | 769 | 1274 | 3949 | 1310 | 414577 | Private  | riacqunil, Samuel J  | Nil  | Ilaequoil, Mrs. Frann'   | Spring nill, Cumberland Co., N.S  | Canada  | Amherst  | M ay | 7. 1915. |
-| 10 | 768 | 1304 | 3950 | 1336 | 414783 | Private  | Hall. Arthur  | Nil  | Hall. Mrs. Mary L..   | Elgin St., Spring Hill, Cumberland Co., N.S  | Canada  | Aldershot | July | 29, 1915. |
-| 10 | 768 | 1334 | 3950 | 1364 | 414000 | Private.   | Hall. Irvinr D    | Nil  | Hall, Stanley R    | 1 -awrencetown, Annapolis Co., N.B  | Canaria  | Aldershot | luly | 14. 1915. |
-| 10 | 767 | 1360 | 3950 | 1393 |  |  |  |  |  | Voitk Yarmouth Co., N.S  | 415854 | Private  | Hamilton. Arthur Roas  | Nil  | Hamilton, Bertha .   | Canada   | Aldershot | Aub. | 12, 1915. |
-| 10 | 767 | 1392 | 3951 | 1423 | 414007 | Private  | Hanrahan, Henry  | Nil  |  | :'l Duncan St., Halifax, N.S  |  |  | Mar. | 26. 1915. |
-| 10 | 767 | 1420 | 3951 | 1453 |  |  |  |  |  | *1 ^ Buckingham St., Halifax, N.S  | 415410 | Hanson. Harry    | Auk- | IS. 1915. |
-| 10 | 767 | 1449 | 3951 | 1482 |  |  |  |  |  | Dartmouth, Halifax Co., N.S  | 4I5W* | Private  | Hare, John  | Nil  | Hare, Mrs. Sarah     | Canada  | Valcartier. | Aua. | 23. 1915. |
-| 10 | 766 | 1477 | 3951 | 1512 | 415370 | Private 1 | Harper, .tame*....   | Imp. Forces  | Harper, Mrs. Lilly   | Now Waterford, C.B., N.S  | Scotland  | Sydney  | Auk. | 9. 1915. |
-| 10 | 766 | 1506 | 3951 | 1538 |  |  | Harris, Borden I)  | 415774 | Private  | Nil  | Harris, Mrs. Fannie   | SI tort Bofieh, Yarmouth Co., N.S  | Canada  | Aldershot.. | Auk- | 7, 1915. |
-| 10 | 766 | 1534 | 3951 | 1567 | 414580 | Private  | Harri'*, Charles William  | 78th Regt  | Harris, Mrs. Florence  | ■outh River, Antigonishe Co., N.S   | Canada  | New Glasgow | M KV | 1, 1915. |
-| 10 | 766 | 1564 | 3951 | 1602 | 414977 | Private  | Harri*. Selby   | Nil  | Harris, Elzer  | t rinity Bay. Nlid  | Newfoundland.. | Svdney  | Auk- | 13. 1915. |
-| 10 | 766 | 1593 | 3951 | 1625 | 414011 | Private  | Hnrrieon, Harry   | Nil  | Harrison, Mrs. T  | Brunswick St., Truro, Colchester Co., N.S  | Canada  | Aldershot  | Auk- | 12, 1915. |
-| 10 | 766 | 1621 | 3952 | 1655 |  |  |  |  | Hart, Thomas ...   | 4 i 5300 | Private  | Her*. Jarnev | Nil  | Olnco Bay, C.B., N.S  | Canada  | Sydney  | Auk. | 13.1915. |
-| 10 | 765 | 1652 | 3952 | 1686 | 415489 |  | Hartiin. Jo«iah  | Nil  | Ifartlin, Georg-   | Halifax, N.S.     | Canada  | Aldershot  | Auk. | 14. 1915. |
-| 10 | 764 | 1681 | 3952 | 1715 | 415773 |  |  | Nil  | Harvev, Robert A.   | Milden, Colchester Co., N.S  | Cnnada   | Aldershot . . | Auk- | 7. 1915. |
-| 10 | 764 | 1711 | 3953 | 1745 | 415371 | Privato ' Hntfie'M. Arthur  |  | Nil  | Hat field, Arthur   | Dominion No. 0. C.B., N.S  | England.   | Sydney  | Aub. | 13, 1915. |
-| 10 | 764 | 1741 | 3952 | 1773 | 415515 |  | 1 rn’ t.« id. .1 '-rv» Adolphus  | Nil  | Hatfield. Mr1?. Annie   | t'usket, Yarmouth Co., N.S  | Cnnada   | Yarmouth . | April 12, 1.15. |
-| 10 | 764 | 1769 | 3953 | 1802 | 415087 |  | Iin «•»'?. .J" < ph Malcolm  | Nil  | Hanes, Mrs. Martha Ellen  | Tangier, Halifax Co., N.S  | ('annda | Halifax  | Auk. | it, 1915. |
-| 10 | 765 | 1799 | 3954 | 1833 | 414070 |  | Havp*. < h'Tl”?  | Nil  | Haves, Mrs. Edna ..   | St.Johns, Nfld  | Newfoundland . | Sydney.. | Auk. | 13, 1915. |
-| 10 | 1138 | 1828 | 3954 | 1861 |  |  | Hearn, Har-ey H   | Nil  | Hearn, Mrs. Mary.   | Bridgetown, Annapolis Co., N.S  | England  | Aldershot  | Auk | 7. 1915. |
-| 10 | 764 | 1857 | 3954 | 1890 | 415177 |  | HonMioring’on, Thom a*?  | 04 th Regt  | Henthorington, Mr Rut It  | Glace Bay, C.B., N.S   | England  | Aldershot . | • lulv | 24. 1915. |
-| 10 | 763 | 1886 | 3945 | 1919 | 414308 |  | Ijr'Vr. (rdon Frederick  | Nil  | Hotter, Mrs. Lmmi  | 138 Campbell Rd . Halifax, N.S   | Canada  | Aldershot | \UK | 3. 1915 |
-| 10 | 763 | 1915 | 3954 | 1948 | 414300 |  | Hefler. Hubert Norman  | 03 rd Reyt  | Holier. Mrs Emma .    | 138 Campbell Rd.. Halifax, N.S   | Canada  | Aldershot | Auk- | 3, 1915. |
-| 10 | 763 | 1946 | 3954 | 1981 | 415714 |  |  | Nil  | Hcmsley, Mrs. E   | Sydney. C.B.. N.S  | England  | Svdney   | Aub. | 7. 191'. |
-| 10 | 764 | 1976 | 3946 | 2009 | 4 14781 |  | Henderson. Isaac  | Nil.    | Henderson, Mrs. Elm' t!i Jano.. | Spring Hill, Cumberland Co., N.S   | Enel and  | Aldershot . | Julv | 29.1915 |
-| 10 | 763 | 2005 | 3955 | 2039 | 414110 |  | Fonsiiaw, Frederick Prescott. .. | 09th Regt. | Honshnw, Simon   | Centre Lake, Annapolis Co., N.S   | Canada    | Halifax  | A pri | 30, 1915. |
-| 10 | 764 | 2034 | 3955 | 2067 | 414833 |  | Heoburn. Charles C  | Nil  | Hepburn, Alexander   | Aberdeen, Scot ..    | Scotland  | Aldershot | Auk. | 7. 1915. |
-| 10 | 764 | 2063 | 3956 | 2097 | 414820 |  |  | Nil  | 1 Herb. John     | t Proctor St., Halifax, N.S  | Cannda  | Halifax.. | Auk- | 3. 1915. |
-| 10 | 764 | 2092 | 3957 | 2128 | 415870 |  | Heron, Albert. Louis.    | Nil  | Murphy, Mary Ellen   | Charlottetown, P.E I  | Canada... . | H al ifax  | Auk. | 11. 1915. |
-| 10 | 765 | 2122 | 3957 | 2158 | 414367 | fVivato  | Hessian. William  | Nil  | • Hessian, John....   | 20 East Young St., Halifax, N.S  | Canada | Aldershot | Aup. | 3. 1915. |
-| 11 | 3129 | 333 | 3812 | 366 |  |  |  |  |  |  | England. |  | May | 7, 1915. |
-| 11 | 646 | 339 | 3112 | 377 | 414525 Corporal  |  | IIoxtail, Thomas William  | Nil.. | Hextall, Mrs. Tboam?  | 52 Albion St., Amherst, Cumberland Co.. N.S  |
-| 11 | 3129 | 364 | 3812 | 396 |  |  |  |  |  |  | Canada.. |  | Aug. | 7, 1915. |
-| 11 | 648 | 370 | 3112 | 408 | 415715 Private  |  | Hickey, Charles Cornelius   | Nil.. | Hickey, Charles  | 517 Charlotte St., Sydney, C.B., N.S  |
-| 11 | 3132 | 394 | 3812 | 426 |  |  |  |  |  |  | U.S.A... |  | Mar. | 17.1915. |
-| 11 | 647 | 403 | 3114 | 436 | 414503 C.Q.M.S  |  | Higgins, C. Aubrey  | Nil.. | Higgins, E. T   | Wentworth Valley. N.S  |
-| 11 | 3131 | 424 | 3812 | 452 |  |  |  |  |  |  | Ireland . | Halifax  | Aug. | 11.1915. |
-| 11 | 648 | 436 | 3100 | 465 | 415395 Private  |  | 1! i;rnins. James  | Nil.. | [Jiggins, Annie..   | Belfast, Ire   |
-| 11 | 3131 | 454 | 3814 | 486 |  |  |  |  |  |  | England  | Sydney  | May | 3.1915. |
-| 11 | 647 | 461 | 3114 | 496 | 415131 Private  |  | Hicham, John  | Nil.. | Hizham, Mrs. C  | 110 Frog Lane. " igan, Lanes., Eng  |
-| 11 | 3130 | 484 | 3813 | 513 |  |  |  |  |  |  | Canada  | \ldershot  | July | 24, 1915. |
-| 11 | 647 | 492 | 3115 | 524 | 415187 Private  |  | Hill, Ernest G  | Nil.. | Hill, Miss Edith Grnntmine. | Sydney, C.B.. N.S.   |
-| 11 | 3130 | 514 | 3814 | 543 |  |  |  |  |  |  | Canada  | Aldershot  | July | 14.1915. |
-| 11 | 647 | 523 | 3115 | 554 | 415160 Private  |  | Hill, John  | Nil.. | Hill, John  | Sydney Mines, C.BN.S     |
-| 11 | 648 | 543 | 3814 | 583 | 414824 Private  |  | Hiliier, Charles Edward.  | S.A.. | Hiliier, Mrs. Kathleen  | 35 North Clifton St.. Halifax, N.S  | Canada  | Halifax  | July | 26.1915. |
-| 11 | 3133 | 573 | 3815 | 603 |  |  |  |  |  |  | Newfoundland.. | Sydney Mines. . | Mar. | 31.1915. |
-| 11 | 649 | 577 | 3115 | 613 | 414 080 Private  |  | Ilillier, Harold  | Nil.. | Martin, Mrs  | Stanley St., North Sydney, N.S  |
-| 11 | 648 | 603 | 3816 | 643 | 415459 Private  |  | Hills, Harold Philip   | 03 rd | Regt. | Edward, Mrs. John   | 134 Brunswick St., Halifax, N.S  | Canada  | Valcartier  | Aug. | 11, 1915. |
-| 11 | 648 | 633 | 3816 | 671 | 415841 Private  |  | Hilton, Austin  | Nil.. | Hilton, Martin  | Ohio, Antigonish Co.. N.S  | Canada  | Aldershot  | Aug. | 12, 1915. |
-| 11 | 649 | 663 | 3816 | 702 | 415884 Private  |  | Hilt*, Frank Owen  | 09 th | Regt. | Hiltz, John    | Look Off, Kings Co., N.S  | Canada  | Halifax  | Aug. | 13.1915. |
-| 11 | 649 | 693 | 3816 | 731 | 414582 Private  |  | Hingley, Daniel J  | 78th | Regt. | Hingley, Mrs. Alexander..... | Kempt Town, Colchester Co., N.S  | Cnnnd a  | New Glasgow. . | May | 7, 1915. |
-| 11 | 650 | 723 | 3816 | 760 | 415488 Private  |  | Hirst, William G  | 6th | Regt. | Hirst, Mrs. Gennet  | Guy’s River. Colchester Co., N.S  | England:  | Aldershot  | Aug. | 14.1915. |
-| 11 | 650 | 752 | 3817 | 791 | 415102 Private  |  | Iliscock, Percy Melborn  | 75th | Regt. | Hiscock, Alfred  | New Ross, Lunenburg Co.. N.S  | Canada  | Kentville  | April | 7.1915. |
-| 11 | 650 | 782 | 3817 | 819 | 414378 Private  |  | Hoar, Gerald Arthur  | 03 rd | Regt. | Hoar, Arthur M  | 18 Mitchell St.. Halifax, N.S  | Canada  | Aldershot  | Aug. | 8, 1915. |
-| 11 | 650 | 812 | 3817 | 849 | 414394 Private  |  | Hoafe, Michael Edward  | Nil. | Hoare, Edward  | 4 Blowers St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 8, 1915. |
-| 11 | 650 | 842 | 3818 | 879 | 414995 Private  |  | Hoare, Patrick Joseph  | 03rd | Regt. | Hoare, Ed ward :... | 4 Blowers St., Halifax, N.S  | Cnnada  | Valcartier  | Aug. | 18.1915. |
-| 11 | 650 | 871 | 3817 | 906 | 482009 Private  |  | Hobin, Thomns William  | Nil. | Hobin, Mrs. Jane  | 184 Greighton St.. Halifnx, N.S  | Canada  | Sussex  | Aug. | 30.1915. |
-| 11 | 649 | 902 | 3817 | 937 | 415256 Private  |  | Hoboroy, Nicholas  | Nil. | Hoboroj', Mary  | Slobodskoi, Russia  | Russia  | Aldershot  | Aug. | 3, 1915. |
-| 11 | 649 | 930 | 3819 | 966 | 414106 Private  |  | Hogan, Frank  | 63 rd | Regt | Hogan, John  | 57 West St., Halifax, N.S  | Canada  | Halifax  | May | 5, 1915. |
-| 11 | 649 | 961 | 3820 | 995 | 4 14475 Corporal  |  | Hong. Alexander  | 63rd | Regt, | Hogg, Mrs. Jessie  | 53 St. Alban's St., Halifax, N.S  | Scotland  | Aldershot  | Aug. | 10, 1915. |
-| 11 | 650 | 990 | 3820 | 1025 | 415490 Private  |  | Holmes, James Alfred  | 03rd | Regt | Holmes, Mrs. G   | 1)4 Princess St., Halifax, N.S  | B.W.I  | Halifax | Aug. | 12.1915. |
-| 11 | 651 | 1019 | 3820 | 1053 | 415008 Private  |  | Holton, George H  | Nil. | Holton, Mrs. A. B   | Caledonia Mine«, C.B., N.S    | England Sydney  |  | Mar. | 27, 1915. |
-| 11 | 650 | 1048 | 3821 | 1081 | 482035 Private  |  | Hooper, John E  |  | Tower, Mrs. Ervin   | Park St., Amherst, Cumberland Co., N.S  | Canada (Sussex  |  | Sept. | 7,1915. |
-| 11 | 651 | 1075 | 3821 | 1112 | 414908 Private  |  | Hopton, Charles....   | Nil. | Hopton, Mary A  | Plymouth, New Glasgow, l’ielou Co., N.S  | Englnnd 'Aldershot. |  | Aug. | 12.1915. |
-| 11 | 649 | 1107 | 3822 | 1142 | 415171 Private  |  | Horn, Frederick  | Nil. | Horn, Mrs. Robert  | Myra ltd., South Sydney, C.B., N.S  | Canada i Kentville.. |  | July | 14.1915. |
-| 11 | 650 | 1138 | 3822 | 1173 | 415995|Privatc  |  | 'Iorne. Herbert  | 63rd | Regt | Horne, Mrs. Lucy  | 758 Sherbrooke SiMontreal West, P.Q.   | England | Valcartier. | Aug. | 31.1915. |
-| 11 | 650 | 1167 | 3821 | 1199 | 415339 Private  |  | . Horne, Howard Stanton  | 63rd | Regt | Horne, George  | 69 Victoria Rd., Halifax, N.S  | Canada  | Aldershot. | Aug. | 10, 1915. |
-| 11 | 649 | 1196 | 3822 | 1229 | 414133 | Private Horne, John |  | Nil. | Horne, Prior  | Napier, N.Z  | New Zealand.. | Halifax  | April | 20, 1915. |
-| 11 | 650 | 1224 | 3823 | 1259 | 415289 | Private I Horton, Arthur |  | 94 th | Rest. | Horton, Hiram C  | Canso. Guysboro'. Co., N.S  | Canada  | Sydney  | Aug. | 9, 1915. |
-| 11 | 650 | 1256 | 3823 | 1287 | 415510 | Private. | Horton, Clarence  | Nil. | Horton. Mrs. Charlotte  | New Glasgow, Pictou Co., N.S  | Cnnada  | New Glasgow. | Mar. | 30, 1915. |
-| 11 | 651 | 1285 | 3824 | 1317 | 415811 | Private. | Howard, Harry  | Nil.. | Howard. Frederick  | 15 Melrose St.. Sherwood, Notts, Eng  | England   | Aldershot  | Aug. | 10, 1915. |
-| 11 | 651 | 1315 | 3824 | 1345 | 415192 | Private. | Howard, Herbert Sydney  | Nil.. | Howard, Herbert S  | No. 3 Beach, Florence, C.B., N.S  | England  | Aldershot  | July | 29. 1915. |
-| 11 | 650 | 1343 | 3825 | 1378 | 414894|Private. |  | Howes, Arthur  | Nil.. | Howes, Mrs. Elizabeth J ... | Truro, Colchester Co., N.S   | England  | Aldershot  | Aug. | 10.1915. |
-| 11 | 650 | 1373 | 3824 | 1406 | 482072]Private. |  | Howie, Colin  | Nil,. | Howie, William A  | 50 Southern Ave., Dorchester, Mass., U.S.A  | Canada  | Sydney  | Aug. | 24, 1915. |
-| 11 | 651 | 1403 | 3825 | 1433 | 415172|Private  |  | Howley, Alexander  | Nil.. | Howley, John  | Kays Corner, Glace Bay, C.B., N.S  | Canada  | Aldershot. | July | 14, 1915. |
-| 11 | 652 | 1430 | 3824 | 1463 | 414467 j Private iHubley, Benjamin  |  |  | Nil.. | Hubley, Mrs. Maud  | Annapolis. N.S..   | Canada  | Aldershot  | Aug. | 10, 1915. |
-| 11 | 1026 | 1461 | 3826 | 1491 |  |  | Hughes, Edward  | Nil.. | Hughes, Mrs. E  | English Bicknor, Colcford, Glos., Eng..    | England  | Sydney  | Mar. | 27, 1915. |
-| 11 | 652 | 1489 | 3826 | 1520 | 415471 Private  Hughes, Herbert Hanson |  |  | Can. | Mil. | Hughes, Mrs. Mary V  | Milford Station, Hants Co., N.S  | England  | Valcartier  | Aug. | 23, 1915. |
-| 11 | 653 | 1514 | 3826 | 1548 | 415057 | Private illulbert, Havclock. |  | Nil.. | Huibert, John G  | Antigonish, N.8  | Canada  | Valcartier  | July | 13, 1915. |
-| 11 | 653 | 1548 | 3827 | 1584 | 414409 | Private | Humphrey, Edward Thomas  |  | Imp. | Forces | Humphrey, Mrs. Sarah  | 07 Sackville St., Halifax, N.S  | England  | Halifax  | July | 31, 1915. |
-| 11 | 653 | 1577 | 3826 | 1614 | 415255 | Private |Hunter, James  |  | '8 th | Hegt.. | Hunter, Mrs. Mary  | 3 Campbell Rd., Halifax, N.S  | Canada  | Halifax  | July | 31, 1915. |
-| 11 | 653 | 1608 | 3827 | 1646 | 414887 | Private |Hunter, John G  |  | Nil.. | Hunter, Mrs. Julia  | 8nring Hill, Cumberland Co., N.S  | England  | Aldershot  | Aug. | 10, 1915. |
-| 11 | 653 | 1632 | 3828 | 1671 | 415011 | Corporal Hurst, Sidney L. |  | Imp. | Forces. | Hurst, Mrs. A. M  | Caledonia Mines, C.B., N.S..   | England  | Sydney  | M ar. | 26, 1915. |
-| 11 | 654 | 1666 | 3828 | 1699 | 415776 | Privato. | Huston, Gerald Roy  | Nil.. | Huston, Frank  | Canning, Kings Co., N.S  | Canada  | Aldershot. | Aug. | 3, 1915. |
-| 11 | 654 | 1696 | 3828 | 1726 | 414926 | Private... | Hutchinson. Arthur Wentworth... | Nil.. | Hutchinson, George  | Locklinrtville, Kings Co., N.S  | Canada  | Aldershot .. .. | Aug. | 11, 1915. |
-| 11 | 654 | 1725 | 3828 | 1759 | 414880 | Private... | Hyden, William E  | Nil.. | Hyden, Mrs. Marion  | River Hebert, Cumberland Co., N.S  | England  | Aldershot. ... | Aug. | 10, 1915. |
-| 11 | 655 | 1755 | 3829 | 1787 | 415832 | Private... | Hyson, William G  | Nil.. | Hyson, Mrs. Albert  | Hantsport, Hants Co.. N.S   | Canada  | Aldershot. ... | Aug. | 12, 1915. |
-| 11 | 655 | 1784 | 3829 | 1816 | 414504 | Sergeant.. | Illingsworth, Arthur  | Nil.. | Illingsworth, Mrs. Arthur... | 112 Church St., Amherst, Cumberland Co., N.8  | England  | Amherst  | Mar. | 17. 1915. |
-| 11 | 655 | 1814 | 3829 | 1844 | 415698 | Private... | Innis, George    | 04 th | Regt | Leigh, Mrs .  | Belfast, Ire  | Ireland  | Aldershot. ... | July | 29, 1915. |
-| 11 | 656 | 1842 | 3830 | 1872 | 415495 | Private... | Isenor, Warner David Victor  | Cnn. | Mil. | Isenor, Mrs. Catherine  | Chaswood, Halifax Co., N.S  | Cnnada  | Valcartier.... | Aug. | 23, 1915. |
-| 11 | 655 | 1871 | 3830 | 1908 | 482040 Priv |  | Jncqunrd, Forman.   | Nil., | Jacquard, Edward  | Comeati's Hill, Yarmouth Co., N.S,  | Canada  | Sussex. | Sept. | 1, 1915. |
-| 11 | 656 | 1901 | 3830 | 1932 | 415468 | Private... | Jamieson, Frank  | 63rd | Regt  | Williams, Mary  | 11 Bouverie St., Port Glasgow. Scot  | Scotland  | Valcartier. | Aug. | 23, 1915. |
-| 11 | 657 | 1930 | 3831 | 1963 | 414604 | Bugler  | JefTery, Frank Neil  | Nil | Jeffery, James  | 39W Lockman St., Halifax, N.S  | Canada  | Halifax. | Mar. | 13.1915. |
-| 11 | 658 | 1959 | 3831 | 1990 | 414359 | Privnte... | Jenkins, John  . | Nil | Jenkins, Joseph A  | 10 South Bland St., Halifnx ,N.S  | Canada  | Aldershot. | Aug. | 3, 1915. |
-| 11 | 658 | 1988 | 3832 | 2020 | 414039 | C.S.M  | Jennings, Thomas John  | Imp | . Forces. | Jennings, Mrs. Mary  | 23 Campbell ltd., Halifax, N.S  | England  | Halifax. | Mar. | 13.1915. |
-| 11 | 658 | 2016 | 3832 | 2054 | 414902 | Private... | Jewkes, Charles A^_  | Nil. |  iJewkes, Arthur  | Spring Hill. Cumberland Co., N.S  | Canada  | Aldershot. . | Aug. | 10.1915. |
-| 11 | 658 | 2046 | 3833 | 2078 | 415082 | Privato  | Jodrie, Frederick | Nil. |  Jodrie, George A  | Canning, Kings Co.. N.S  | Canada  | Aldershot. | July | 24, 1915. |
-| 11 | 658 | 2076 | 3833 | 2108 | 415468 | Private IJohnson, Alexander. |  | 94th | Hegt 'Johnson, Mrs. M  | Calodonin Mines, C.B., N.S  | Canada  | 'Sydney. | Aug. | 7, 1915. |
-| 12 | 768 | 517 | 3437 | 588 | k | Haul, |  |  |  |  | Country of |
-| 12 | 761 | 701 | 3937 | 734 | 414391 | Private. ., | Johnson, Hnrry 3    | N»t     | Johnson, Leonard ;..., | Truro, Colchester Co., N.S  | Canada  | Truro  | April | 28, | 1915. |
-| 12 | 861 | 732 | 3937 | 767 |  | Private,. | Johnston, Oril Frederick. . | I' ’*•( Regt  | Johnston, Mrs. Ellen  | 54 .South Kline St., Halifax, N.S  | Canada  | Valcartier  | Aug. | 18, | 1915. |
-| 12 | 760 | 762 | 3938 | 792 | 414271 |  | Johnson, Rtifii"   . | NH   | Johnson, Frederick   | Spring Hill, Cumberland Co., N.S  | Canada  | Amherst  | Mar. | 17, | 1915. |
-| 12 | 761 | 791 | 3938 | 823 | 41*831 | Privntc  | Johnston, Charles William 8. | Nii   | Johnston, Mrs. Annie  | Truro, Colchester Co., N.S  | Scotland  | Aldershot  | Aug. | 7, | 1915. |
-| 12 | 761 | 820 | 3938 | 849 | 414835 | Private  |  | Nil ,   | Johnston, Mrs. Eliza   | Young St., Truro, N.S  | Scotland  | Aldershot  | Aug. | 7, | 1915. |
-| 12 | 761 | 850 | 3938 | 881 | 41521!) | Privatr.  | Johnston, James... | Nil    | Johnston, William   | Station House, Trillick, Co. Tyrone, Ire  | Ireland  | Aldershot  | Aug. | 3, | 1915. |
-| 12 | 760 | 879 | 3938 | 910 | 414758 | Private  | Johnston, John.... | Nil  | Abrom, Mrs. Andrew ,.... | Truro, Colchester Co., N.S  | (Canada  | Aldershot  | July | 29, | 1915. |
-| 12 | 762 | 910 | 3939 | 940 | 41481)6 | Privato  | ./ones, Richard | Nil  | Jones, Florence ..»  | Spring Hill, Cumberland Co., N.S  | Wales  | Aldershot  | Aug. | 10, | 1915. |
-| 12 | 762 | 939 | 3939 | 970 | 415266 | Private  | Jordan, John  | Nil  | Cann, Mrs. 8 ..., | I Monaghan’s Lane, Halifax, N.S  | Canada  | Halifax  | July | 30, | 1915. |
-| 12 | 761 | 967 | 3931 | 998 | 482045 | Private.  |  | Nil  | Joudrey, Miss Belle  | Liverpool. Queen’s Co., N.S  | ('anada  | Sussex  | Sept. | 4, | 1918 |
-| 12 | 762 | 992 | 3939 | 1027 | 482043 |  | Kaill, Albert.  | Nil  | Kaill, Mrs. Helen Mildred  | •’ «(k>fctingen St., Halifax, N.S  | Kngland  | Sussex  | Sept. | 9, | 1915. |
-| 12 | 762 | 1026 | 3939 | 1057 | 415183 |  | Kalloway, Elijah  | Nil  | Kalloway, Mrs. Rosina  | Glace Bay, C.B., N.S   | Newfoundland. | Aldershot.... | July | 24, | 1915. |
-| 12 | 762 | 1052 | 3939 | 1085 | 482040 | Private  | Kcaling, Georgo  | 94t,h Regt  | Kealing, Annie  | Beacon St., Stafford. Eng  | England  | Sydney  | Sept. | 1, | 1915. |
-| 12 | 761 | 1084 | 3939 | 1115 | 414476 | Private  | Keating, George Harry  | Nil  | Keating, Mrs. Jane  | 148 Pleasnnt St., Halifax, N.S...   . | Canada  | Aldershot  | Aug. | 10, | 1915. |
-| 12 | 762 | 1114 | 3939 | 1145 | 482071 | Private  | Keating, Thomas  | Nil  | Keating. Maggie McLellan  | Waterford, C.B., N.S  | Scotland  | Sydney  | Aug. | 24, | 1915. |
-| 12 | 762 | 1143 | 3940 | 1172 | 415494 |  | Keel, W illiam Edgar  | Nil  | Keel, Charles  | Queens Rd., Thames Ditton, Surrey, Eng  | iCngland  | Valcartier  | Aug. | 23, | 1915. |
-| 12 | 763 | 1172 | 3940 | 1202 | 415336 | Privatr  | Keith, David Haswell  | Nil  | Keith, Alice  | Arcadia St., New Glasgow, Pictou Co., N.S  | Scotland  | Halifax  | Aug. | 2, | 1915. |
-| 12 | 763 | 1200 | 3941 | 1231 | 415420 | Private  | Kellough, Francis I/orne  | 76th Regt  | Kellough, Mrs. H  | Enocks Brook, Halifax Co., N.S  | Canada  | Halifax  | Aug. | 10, | 1915. |
-| 12 | 765 | 1230 | 3941 | 1261 | 415157 | Private  | Kelly, Bernard  | Imp. Forces  | Kelly, Mrs. Mary  | Reserve Mines, C.B., N.S  | Scotland  | ydney.   | May | 3, | 1915. |
-| 12 | 764 | 1258 | 3942 | 1290 | 411477 | Private.   | Kennedy, George Wilfred  | Nil  | Kennedy, Mrs. Emily  | 251 Hi Maynard St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 10, | 1915. |
-| 12 | 764 | 1289 | 3942 | 1319 | 415354 | Private  | Kennedy, Murdoch A  | Nil  | Kennedy, Mrs. Archibald   | Irish Vale. C.B., N.S  | Canada  | Sydney  | Aug. | 9. | 1915. |
-| 12 | 764 | 1318 | 3942 | 1348 | 414876 |  | Kennedy, Thomas Edward... | Nil  | Kennedy, Gordon   | Truro, Colchester Co., N.S  | anada  | Aldershot  | Aug. | 10, | 1918. |
-| 12 | 764 | 1347 | 3943 | 1377 | 414740 |  | Kennedy, William  | Nil  | Kennedy, John   | Dominion No. 6, C.B., N.S  | Newfoundland. | Aldershot .... | July | 24, | 1918. |
-| 12 | 765 | 1375 | 3942 | 1406 | 415409 | Private  | Kidd, Albert Lewis  | 63rd Regt  | Kidd* Mrs. Edith  | 208 Agricola St., Halifax, N.S  | England  | Valcartier  | Aug. | 18. | 1915. |
-| 12 | 764 | 1404 | 3942 | 1436 | 415408 |  | Kidd, Harry Benjamin  | R.C.R  | Kidd, Mrs. Edith  | 208 Agricola St., Halifax, N.S  | ICngland  | Valcartier  | Aug. | 18, | 191ft. |
-| 12 | 765 | 1434 | 3942 | 1465 | 415583 |  | King, ClilTord Stanley  | Nil  | King, Mrs. Annie  | Brooklyn, Yarmouth Co., N.S  | Canada  | Yarmouth  | April | 33. | 1915. |
-| 12 | 765 | 1463 | 3943 | 1494 | 414334 | Privato  | King, John   | Nil.   | King, Mrs. Charlotte  | 7 Maitland St., Halifax, N.S  | England  | Kentville  | luly | 20, | 1915. |
-| 12 | 764 | 1492 | 3942 | 1523 | 414999 | Private  | King, Wallace Henry  | (3rd Regt  | King, Mrs. Annie . | Windsor, Hants Co., N.S  | Canada  | Valcartier  | Aug. | 18, | 1915. |
-| 12 | 765 | 1520 | 3943 | 1555 | 415356 |  | Kipping, Hayward  | Nil  | Kipping, Thomas  | Glace Bay, C.B., N.S  | Newfoundland. | Sydney  | Aug. | 18, | 191ft. |
-| 12 | 766 | 1550 | 3943 | 1585 | 415355 | Private  | Kipping, Jacob  | Nil  | Kipping, Thomas H  | Glare Bay, C.B., N.S  | Newfoundland. | Sydney  | Aug. | 13, | 1915. |
-| 12 | 766 | 1578 | 3944 | 1614 | 415373 | Private  | Kipping, John Henry  | Nil  | Kipping, Thomas H  | Glare Bay, C.B., N.S  | Newfoundland. | Sydney  | Aug. | 13, | 1915. |
-| 12 | 767 | 1607 | 3943 | 1641 | 414731 | Private  | Kitchen, George A  | Nil  | Kitchen, Mrs. Jane  | Fredericton, N.B.   | Canada  | Aldershot | July | 14, | 1915. |
-| 12 | 767 | 1636 | 3943 | 1672 | 414998 |  | Knowles, Phillip Murray  | 63rd Regt  | Knowles, Philip R  | Windsor, Hants Co., N.S  | Canada  | Valcartier  | Aug. | 18, | 1915. |
-| 12 | 767 | 1664 | 3944 | 1701 | 415323 | Private  | Kyte, Stnnislause Elwood  | Nil  | Kyte, P. J  | St. Peters, C.B., N.S  | Canada... .... | Halifax  | July | 25, | 1918. |
-| 12 | 767 | 1694 | 3944 | 1730 | 414171) |  | Lacey, Alfred Joseph —   | Nil  | Lacey, Mrs. E  | 49 George St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 10, | 191ft. |
-| 12 | 768 | 1723 | 3944 | 1760 | 416873 | Privntr..    | Lacey, James  | Nil   | Lacey, Miss Agnes  | 10 Elevator Court. Halifax, N.S  ... | Canada  | Halifax  | Aug. | II. | 1915. |
-| 12 | 768 | 1752 | 3944 | 1789 | 4148251Private  |  | Lncey, Stanley ........ | Nil   | Laeev, Richard  | 49 George St., Halifax. N.S  | Canada  | Halifax  | July | 30. | 1915. |
-| 12 | 769 | 1781 | 3944 | 1818 | 414590 | Private  | Lamb, Joseph   | Nil  | Lamb, Elizabeth  | 16 Quern St., Ulverston, Lancs., Eng  | Rnglnnd  | Amherst  | Mar. | 17, | 1915. |
-| 12 | 769 | 1810 | 3945 | 1853 | 414251 | Private  | Lambert, William.   | Nil  | |i#ambert, Mrs. Elizabeth  | Fairbanks St., Dartmouth, Halifax Co., N.S  | England  | Halifax  | June | 7, | 1915. |
-| 12 | 770 | 1839 | 3945 | 1877 | 41407C | Private  | Lampard. Edward   | R.C.R   | | Lampard, Mrs. Edward   | 32 Grafton St., Halifax, N.S  | England  | Halifax  | Mar. | 13, | 1915. |
-| 12 | 771 | 1867 | 3945 | 1906 | 41565J | Private  | Landry, Daniel.   | C.F.A  | ! Landry, JefTrev  | Yarmouth, N.S  | Canada  | Yarmouth  | April | 10, | 1915. |
-| 12 | 771 | 1897 | 3938 | 1938 | 415337 | Private  | Lnndry, Joseph < Diaries  | Nil  | (Landry, Mrs. Mary..   | 36a Stanley St., Halifax, N.S  | Canada  | Halifax  | July | 31. | 1915 |
-| 12 | 772 | 1926 | 3947 | 1964 | 41489: | Private  | hangiile, Alexander A.    | Nil  | fjangille, Mrs. B  | Truro, Colchester Co., N.S  | Canada  | Aldershot | Aug | 10. | 191ft. |
-| 12 | 772 | 1954 | 3946 | 1994 | 48202f | Private  | Langille, Frederick G   | Nil  | Langille, Mrs. F.  | Centreville, N.S  | Cannda  | Sussex  | Sept. | I. | 191ft. |
-| 12 | 773 | 1983 | 3938 | 2021 | 41136: | Private  | Langille, Frederick Thomas. . | Nil  | .T*angille, Mrs. Ella  | 6 Poplar Grove, Halifax, N.S   | ('anada  | Halifax  | July | •M . | 191ft |
-| 12 | 773 | 2015 | 3806 | 2052 | 41411? | Privatr  | Laphen, John l^nis  | 63 rd Regt   | Laphen, John T   | II Falkland St.. Halifax, N.S  | Canada  | Halifax  | M ay |
-| 12 | 774 | 2039 | 3939 | 2082 | 41535." | Private  | Laphen, Joseph Patrick. | Nil  | {Laphen, Jopnph G.   | 16 Glebe PL. Sydney Co., N.S    | Canada  | Sydney  | Aug | 9 | . 1915 |
-| 12 | 774 | 2068 | 3949 | 2115 | 41407i | Private  | Lavers, John William  | Nil  | j Lavers, William .   | 80 * !harl<i St., Halifax, N.S  | Canada  | Halifax   | Mar. | ia | 1915. |
-| 12 | 775 | 2098 | 3949 | 2140 | 415688 | Private    | Lavinge, Joseph  ....... | French Navy  | ITixier, Rinia    | Pleven, France  | I France.  | lAldershot | July | 24 | . 1915. |
-| 13 | 706 | 319 | 3861 | 360 | 4157931 Private.. |  | Lawlor. Joseph  | Nil.  | .. iLawlor, James..   | Amherst, Cumberland < ’o., N.S  | Canada  | Aldershot  | Aug. 10, 1915. |
-| 13 | 707 | 349 | 3861 | 392 | 414759 |  | Lawrance, George  | Private. | Nil  | . ! I -awrance, Heary   | c/o F. Nelson Bathurst Villa, Gloucester Co., N. | England  | Aldershot  | July | 29, 1915. |
-| 13 | 3180 | 380 | 3854 | 408 |  |  |  |  |  |  | Canada  | Halifax  | July | 30, 1915 |
-| 13 | 705 | 386 | 3079 | 419 | 414372 |  | Lawrence, Joseph Arthur Budd. .. | Private.... | Nil  | . (Lawrence. Mrs Mary W  | 28 Salter St.. Hiiitn. N.S  |
-| 13 | 3180 | 410 | 3862 | 438 |  |  |  |  |  |  | C -anada  | Halifax  | Aug | 2, 1915. |
-| 13 | 708 | 416 | 3078 | 458 | 4148IG |  | Lawson, James  . | Private.... | Nil  | . jLawson, Mrs. Ethel  | 38 Grafton St.. Halifax, N.S  |
-| 13 | 710 | 441 | 3863 | 479 | 114792 |  | Letcher, Robert G  | Private.... | Nil  | iLetcher, Mrs. Eliza   | Spring Hill, Cumberland Co., N.S  | ('nnada  | Aldershot. ... | July | 29, 1915. |
-| 13 | 707 | 470 | 3863 | 511 | 415512 |  | Levy, Allan James   | Sergeant... | 03rd Regt  | . |Levy, Mrs. Emily A   | Digby, N.S.   | Canada  | Valcartier  | July | 13, 1915. |
-| 13 | 707 | 500 | 3863 | 547 | 415050 |  | Lewis, Clifford  | Private.... | Nil  | .. (Lewis, Frederick   | Point Edward. C.B., N.S  | Canada  | Aldershot.   | June | 5,1915. |
-| 13 | 707 | 530 | 3864 | 570 | 415374 |  | Lewis, Roland  | Private.... | Nil  | .. (Lewis, Orlando A  | 42 Ferry St.. Sydney, C.B., N.S  | Cnnada  | Sydney  | Aug. 13. 1915. |
-| 13 | 707 | 559 | 3865 | 596 | 4141*21 |  | Ligr'ins, Alfred  | Corporal... | 00 th Regt  | Liggins, Mrs..   | 246 Agricola St., Halifax, N.S  | England  | Aldershot  | June 7, 1915. |
-| 13 | 707 | 588 | 3865 | 625 | 4I44.H |  | Ling, Thomas  | Private.... | Nil  | Ling, William    | Reserve Mines, C.B., N.S  | Canada  | Sydney  | Aug. 7. 1915. |
-| 13 | 706 | 619 | 3865 | 656 | 4142.10 |  | Ling, William  | Private.... | Nil  | Ling, Mrs. Mary E * | 37 De White St., Boston, Mass, U.S.A  | Canada  | Aldershot  | June 9, 1915. |
-| 13 | 706 | 647 | 3866 | 683 | 416894 |  | Linihan, Richard Henry  | Private.. . | Nil  | Linihan, John. . | 32 George .St.. Halifax, N.S  | Canada 1 | Valcartier  | Aug. 23. 1915. |
-| 13 | 706 | 678 | 3866 | 712 | 482031 |  | Litchfield, Ernest Edward........ | Private.... | Nil  | Litchfield, Mrs   | Nottingham, Eng      | England  | Sussex  | Aug. 24, 1915. |
-| 13 | 707 | 707 | 3867 | 742 | 415809 |  | Livingstone, David  | Private.... | Nil  | Livingstone, Mrs. Mary  | Big Bras D'Or, Victoria (Jo., N.S  | (.’anada  | Sydney  | Aug. 13. 1915. |
-| 13 | 706 | 736 | 3869 | 771 | 415281 |  | Locke, Charles Henry  | Private.. . | Nil  | Locke, Charles.    | 18 Maynard St.. Halifnx, N.S.  | England  | Aldershot  | Aug. | 3, 1915. |
-| 13 | 707 | 765 | 3869 | 800 | 414515 |  | Locke, Frederick  | Sergeant... | Nil  | Locke, Rebecca N  | Amherst, Cumberland Co., N.S   | Canada  | Amherst  | May | 7, 1915. |
-| 13 | 707 | 795 | 3869 | 830 | 415482 |  | Lodge, James W  | Private.... | Nil  | Lodge, Mis. E  | ■’ Devonshire Terr . Hyde Park, London, Engi.. | England  | Aldershot. .... | Aug. | 14, 1915. |
-| 13 | 707 | 825 | 3869 | 859 | 414424 |  | Luke, George Edward  | Private — | Nil  | Luke, Mrs. Mary     | 292 Gottingen St., Halifax. N.S  | Canada  | Aldershot  | Aug. | 7, 1915. |
-| 13 | 707 | 855 | 3871 | 888 | 415485 |  | Lumsden. Archibald  | Private  | Nil  | Lumsden, Mrs. Eliza   | Canso, N.S  | Cannda  | Aldershot. ... | Aug. 14, 1915. |
-| 13 | 707 | 884 | 3870 | 919 | 414510 |  | Lyons, Henry  | Sergeant... | Imp. Forces  | Lyons, Mrs. Mary E  | Westville, Pictou Co., N.8.    | England  | New Glasgow. | Mar. 31, 1915. |
-| 13 | 707 | 913 | 3871 | 948 | 415457 |  | Lyons, James     | Private.... | Nil  | Lyons, Mrs. H  | We^tville, Pictou. N.S  | England  | Valcartier  | Sept. 27, 1915. |
-| 13 | 707 | 943 | 3871 | 976 | 415777 |  | Lyons, William Wilson   | Private. .. | Imp. Forces  | Lyons, Mrs. Bridget  | Ballyhaunis, Co. Mayo, Ire  | Ireland  | Aldershot  | Aug. 7, 1915. |
-| 13 | 708 | 972 | 3871 | 1005 | 415058 |  | McArt.hur, .lohn Angus  | Private ... | Nil  | McArthur, John .  | Stellarton, Pictou Co., N S  | Canada  | Sydney  | Mar. 27, 1915. |
-| 13 | 707 | 1002 | 3872 | 1035 | 414183 |  | McAskill, John  | Corporal. . | S. A  | McAskill, Mrs. Catherine.... | Glace Bay | Canada  | Aldershot  | May 25, 1915. |
-| 13 | 708 | 1031 | 3873 | 1064 | 415707 |  | McAulny, John  | Private... | Nil...  | McAulay, Aulev.   | Sydney M | Canada  | Sydney  | Aug. | 9, 1915. |
-| 13 | 707 | 1061 | 3872 | 1093 | 415012 |  | McAulay, John Henry  | Sergeant... | Nil  | McAulay, Mrs  | Glace Bay, C.B.. N.S | Canada  | Glace Bay  | May | 5, 1915. |
-| 13 | 707 | 1088 | 3874 | 1121 | 415705 |  | McAulay, Peter N  | Private.... | Nil  | McAulay, Alexander D  | Caledonia Mines. C.B., N.S— | Canada  | Sydney  | May | 7. 1915. |
-| 13 | 707 | 1120 | 3873 | 1151 | 415473 |  | McBardsley, Hugh Mack  | Private.... | GGth Regt  | McBardsley, Mrs. Charlotte. | 30 Columbus St., Halifax, N.S | Canada  | Halifax  | Aug. 10, 1915. |
-| 13 | 707 | 1149 | 3873 | 1186 | 41517 J |  | McBurney, James T  | Private  | 93rd Regt  | McBurney, Mrs. J. T  | Spring Hill. Cumberland Co., N.S. | (.-anada  | Aldershot  | July 14, 1915. |
-| 13 | 707 | 1177 | 3873 | 1210 | 415193 |  | McCormick, Daniel  | Private  | Nil   | McCormick, John  | Glace Bny, C.B.. N .S   | Canada  | Aldershot  | Julv 29, 1915. |
-| 13 | 707 | 1207 | 3875 | 1239 | 414*84 |  | McCuinber, Charles    | Private  | Nil  | McCumber, Miss Freda  | 33 College St.. Halifax, N.S | Canada  | Aldershot  | Aug. 10, 1915. |
-| 13 | 707 | 1236 | 3875 | 1268 | 415001 |  | McDonald, Angus    | Private  | C.F.A  | McDonald, Mrs. James  | Sydney Forks. C.B., N.S | Canada  | Sydney  | April 27, 1915. |
-| 13 | 707 | 1266 | 3876 | 1299 | 414010 |  | McDonald, Angus  | Private  | Nil    | McDonald. E. J  | Glace Bay, C.B., N.S... | Canada  | Halifax  | Mar. 13, 1915. |
-| 13 | 708 | 1295 | 3875 | 1328 | 415720 |  | McDonald, Archibald  | Private  | C.F.A  | McDonald, Mrs. H  | Glace Bay, C.B.. N.S... | Canada  | Sydney  | Aug. 7, 1915. |
-| 13 | 707 | 1325 | 3876 | 1358 | 4150G2 |  | McDonald, Daniel  | Private.... | Nil  | McDonald, Hugh   | Caledonia Mines,,C.B., N.S | Canada  | Sydney  | May 3, 1915. |
-| 13 | 708 | 1354 | 3877 | 1388 | 415200 |  | McDonald, David  | Private.... | Nil  | McDonald, Dan E  | South St., Gla^e Bay, C.B., N.S | Canada  | Aldershot  | July 29, 1915. |
-| 13 | 708 | 1384 | 3878 | 1417 | 414858 |  | McDonald, Edward H  | Private  | Nil  | McDonald, Mrs. May Walker | Pictou, N.8  | Canada  | Quebec  | /Vug. 6,1915. |
-| 13 | 709 | 1412 | 3878 | 1446 | 414283 |  | McDonald, Gourley  | Private  | Nil   | McDonald, Maria  | ,foa;gins Mine*, Cumberland Co., N.S. | Canada  | Amherst   | Mar. 17, 1915. |
-| 13 | 709 | 1442 | 3878 | 1476 | 415239 |  | McDonald, Hector J  | Private.... | 94th Regt  | McDonald, Dan E  | P.O. Box 844, Glare hay. C.B., N.S.. | Canada  | Aldershot  | Mar. 17, 1915. |
-| 13 | 709 | 1472 | 3880 | 1506 | 414434 |  | McDonald, Henry O  | Private  | Nil  | McDonald, John .   | New Waterford, <' B., N.S  | Canada  | Sydney.... .... | Aug. 7, 1915. |
-| 13 | 709 | 1502 | 3879 | 1533 | 415234 |  | Me Donald, Herbert.   | Private  | Nil  | McDonald, John H  | Reserves St.. Glace Bay. C.B., N.S... | Canada  | Aldershot   | Julv 29, 1915. |
-| 13 | 710 | 1530 | 3871 | 1562 | 4)5710 |  | McDonald, Herbert  | Private.... | 94 th Regt  | McDonald, Angus  | Ola^e Bay, C.B.. N.S | Canada  | Sydney | Aug. 9, 1915 |
-| 13 | 710 | 1559 | 3881 | 1592 | 415212 |  | McDonald, Hugh  | Private.... | 94th Regt  | McDonald, John J  | Baddeok, C.B., N.S   | Canada  | Sydnev | Aug. 7, 1915. |
-| 13 | 711 | 1588 | 3883 | 1621 | 482022 |  | McDonald, James I  | Private  | 94th Reset  | McDonald, Neil B  | Now Aberdeen. C.B., N.S .   | Canada  | Sydney | Aug. 24, 1915. |
-| 13 | 711 | 1618 | 3882 | 1651 | 414270 |  | McDonald. .lames Joseph    | Private  | Nil  | McDonald, Angus  | New Waterford, C.B., N.S  | Canada  | Valcartier | June 28, 1915. |
-| 13 | 711 | 1645 | 3882 | 1681 | 414000 |  | McDonald, James  | Corporal... | Can. Mil  | McDonald, Mrs. Warren  | 15 Palmer St., Amherst, Cumberland Co., N.S. | Canada  | Amherst | May 7,1915. |
-| 13 | 711 | 1674 | 3885 | 1709 | 415207 |  | McDonald, John Albert  | Private.... | 00th Regt  | McDonald, Mary  | Q South Kline St., Halifax, N.S  | Canada  | Aldershot | Aug. 8, 1915. |
-| 13 | 712 | 1704 | 3885 | 1741 | 414859 |  | McDonald, John James  | Private.... | is i I  | . .jMcDonald, Hugh  | ' )laee Bay*(>.B., N.S  | Canada  | Sydney | Aug. 7, 1915. |
-| 13 | 712 | 1734 | 3886 | 1766 | 415242 |  | McDonald, John K  | Private  | Nil... | (McDonald, Mrs. Charlotte . * | Dominion No. 3, No. 4 P.O., Glace Bay, C.B., | Canada  | Aldershot  | July 29,1915. |
-| 13 | 713 | 1763 | 3886 | 1795 | 415497 |  | McDonald, John R  | Private  | Nil i.McDonald, James. | Reserve Mines, C.B., N.S    | Canada  | Valcartier | Aug. 31, 1915. |
-| 13 | 713 | 1792 | 3887 | 1824 | 414215 |  | McDonald, John Robert  | Private  | Nil. | McDonald, John B. | Mabou West, Inverness Co., N.S  | anada  | Halifax | June 4, 1915. |
-| 13 | 715 | 1821 | 3887 | 1854 | 414435 |  | McDonald, Joseph  | Private  | Nil  | McDonald, Angus  | Waterford. C.B , N.S    | Canada  | Sydney | Aug. 7, 1915. |
-| 13 | 715 | 1850 | 3887 | 1882 | 482080 |  | McDonald, Malcoim  | Private... | Nil  | McDonald, Mrs. Sarah  | Reserve Mines, C.B., N.S   | (.’anada  | Sussex | Sept. 22, 1915. |
-| 13 | 716 | 1880 | 3889 | 1912 | 415718 |  | McDonald, Malcolm Angus  | Private  | Nil  | McDonald, Mrs. Hannah... | Florence, C.B., N.S  | Canada  | Sydney | Aug. 7, 1915. |
-| 13 | 715 | 1909 | 3887 | 1941 | 415728 |  | McDonald, Murdock  | Private | McDonald, D   | New Aberdeen, C.B., N.S  | Canada  | Sydney | Aug. 7, 1915. |
-| 13 | 714 | 1939 | 3888 | 1970 | 414009 | Private  McDonald, Peter  |  | 93rd Regt. | McDonald, Mrs. Dorothy.... | Spring Hill, Cumberland Co., N.S  | Canada  | Spring Hill | Mar. 17, 1915. |
-| 13 | 716 | 1967 | 3888 | 2000 | 414158 | Private McDonald, Roderick  |  | 70th Regt. | McDonald, William  | Dundaa, Kings Co., P.E.l   | Canada  | Halifax | May 4, 1915. |
-| 13 | 716 | 1997 | 3889 | 2031 | 415347 | Private |McDonald, Ronald   |  | Nil.......; | Me Donald, Charles... fi .VTH | North Sydney, C.B., N.S     | Canada   | Sydney. | Aug. 13, 1915. |
-| 13 | 718 | 2025 | 3890 | 2062 | 482037 | Private |McDonald, Russell  |  | Nil  | McDonald, Mrs. J  | Port Elgin, Westmoreland Co., N.B  | Canada  | Sussex.. | Sept. 2, 1915. |
-| 13 | 718 | 2055 | 3890 | 2088 | 415005 | Private iMr Donald, Sandy  |  | Nil  | McDonald, Miss M. A • i | Sydney Mines. C.B., N.S  | Canada  | Sydney. | May 3, 1915. |
-| 14 | 949 | 585 | 3441 | 615 |  |  |  | Former Corps. |  |  | Country of |
-| 14 | 771 | 632 | 3879 | 656 | c. |  |  |  |  |  |  | Place. | Date. |
-| 14 | 764 | 732 | 3935 | 763 | 41 5992 |  |  | Nil.... | McDonald, Mrs. Maggin . | tOT'^'Gottinker, St., Halifax, N.S. .. | Canada  | Valcartier  | (Vug. | 18. | 1315. |
-| 14 | 763 | 761 | 3936 | 793 | 414899 |  | •McDonald, Thomas  | Nil.... | McDonald, James  | Spring Hill, Cumberland Co., N.S.. | Scotland  | Aldershot  | Aug. | 10. | 1915. |
-| 14 | 763 | 791 | 3936 | 821 | 4!5733 |  | McDonald, Victor  | Nil  | McDonald, John  | 33 Amelia St., Sydney, C.B., N.S... | Canada  | Sydney  | Aug. | 7, | 1915. |
-| 14 | 764 | 817 | 3936 | 851 | *14444 |  | McDonald. William A  | Nil  | Munroe, Mrs. A  | Burnside, Pictou Co., N.S  | Canada  | Sydney  | Aug. | 7, | 1915. |
-| 14 | 764 | 850 | 3935 | 883 | 414299 |  | McDougali, Alexander  | C.A.S.C. | McDougali, Mrs. A | Glaco Bay, C.B., N.S  | Canada  | Valcartier  | lune | 28, | 1915. |
-| 14 | 764 | 880 | 3935 | 913 | 414703 |  | McDougall, John  | Nil  | McDougali, Alexander . . | North Sydney, C.B., N.S  | Cannda  | Sydney Mines. | Mar. | 31. | 1915. |
-| 14 | 763 | 910 | 3937 | 943 | 415273 | Private  | McDougali, John Lawrence  | Nil  | MacDougall, Andrew. . . | South Maitland. Hants Co., N.S.... | Cnnada  | Udershot  | Aug. | 8, | 1915. |
-| 14 | 763 | 939 | 3937 | 973 | 414339 |  | McGahey, Charles Joseph Dennis | Nil  | McGahey, Miss Adu   | 27 Surrey FI., Toronto, Ont  | Cannda  | Kentville  | July | 20. | 1915. |
-| 14 | 763 | 968 | 3936 | 999 | 414204 |  | McGill, Gordon Edward  | Nil  | Fawkes, Miss Mabel . | Worcester, Mass, U.S.A  | Cannda  | Hnlifax  | June | 10. | 1015. |
-| 14 | 763 | 995 | 3936 | 1029 | 414491 |  | McGlone, Frederick  | Nil  | McGlone, Mrs. M . | 119 Oxford St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 10, | 1915. |
-| 14 | 765 | 1022 | 3937 | 1057 | 414490 |  | McGlone, Thomas  | Nil  | McGlone, Margar^to | 119 Oxford St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 10, | 1915. |
-| 14 | 764 | 1055 | 3937 | 1087 | 414200 |  | McGowan, John Kerr  | Nil  | McGowan, Mrs. Agnr- | Joggin Mines, Cumberland Co., N.S. | Scotland  | \ldershot  | June | 14, | 1915. |
-| 14 | 764 | 1084 | 3937 | 1117 | 415338 | Private  | McGrath, Joseph  | Nil  | McGrath, Mrs. Christie | 41 Almon St., Halifax, N.S  | Canada  | Halifnx  | July | 30, | 1915. |
-| 14 | 764 | 1113 | 3938 | 1145 | 415877 | Private  | McGrath, Maurice Frederick  | Nil  | McGrath, John M  | Bedford, Halifax Co., N.S  | Canada  | Halifax  | Aug. | 12, | 1915. |
-| 14 | 764 | 1142 | 3937 | 1173 | 41491.') |  | Mclnnis, James   | Nil  | Mclnnis, Mrs. Elizabeth | New Aberdeen, C.B., N.S  | Canada  | Syd ney  | Aug. | 13, | 1915. |
-| 14 | 764 | 1171 | 3937 | 1203 | 415349 |  | McIntosh, Daniel  | Nil  | McIntosh, Mrs. Catherine | Reserve Mines, C.B., N.S  | Canada  | Sydney  | Aug. | 13, | 1915. |
-| 14 | 766 | 1201 | 3937 | 1233 | 4 14l»l2 |  | Macintosh, Laurie Alexander. | Nil  | Macintosh, Sylvia and Svbi | c/o Kenneth Macintosh, Truro, Colchcs | .. | Canada  | Aldershot  | Aug. | 11. | 1915. |
-| 14 | 764 | 1230 | 3938 | 1264 | 41580! |  | McIntosh, Robert  | Nil  | McIntosh, Mrs. Dora  | •ydney Mines, C.B., N.S  | Canada  | Sydney  . | Aug. | 13, | 1915. |
-| 14 | 765 | 1258 | 3937 | 1296 | 41497s |  | McIntyre, Hugh  | Nil  | McIntyre, Joseph .1 . | Caledonia Crossing, N.S  | Cannda  | Sydney  | Aug. | 13. | 1915. |
-| 14 | 765 | 1289 | 3937 | 1324 | 415214 |  | McIntyre, James  | Nil  | McIntyre, Jnme3  | Florence No. 3, C.B., N.S >  | Scotland  | Aldershot  | July | 29, | 1915. |
-| 14 | 763 | 1318 | 3937 | 1353 | 482032 | Private  | McIntyre, John A  | Nil  | McIntyre, James  | Dominion No. 4, Glace Bay, C.B., N.S | Canada  | Sydney  | Sept. | 1, | 1915. |
-| 14 | 764 | 1344 | 3938 | 1383 | 415379 | Private  | McIntyre, Matthew  | Nil  | McIntyre, Miss Sarah  | Reserve Mines, C.B., N.S  | Cannda  | Sydney  | Aug. | 13, | 1915. |
-| 14 | 764 | 1372 | 3938 | 1412 | 482066 | Private  | McKay, Daniel F  | Nil  | McKay, Mrs. Minnie  | Stellarton, Pictou Co., N.S  | Canada   | Sussex  | Aug. | 23, | 1915. |
-| 14 | 764 | 1406 | 3936 | 1441 | 414263 |  | McKay, Duncan  | Nil  | McKny, Mrs. F  | Grand River, Richmond Co., C.B., N.f | Canada  | Aldershot  | June | 19, | 1915. |
-| 14 | 765 | 1435 | 3938 | 1471 | 415002 | C.Q.M.S  | MacKay, James Wilson  | Nil  | MacKay, F,. D. | Baddeck, C.B., N.S  | Cnnada  | Sydney  | Mar. | 27, | 1915. |
-| 14 | 763 | 1464 | 3939 | 1501 | 415280 |  | McKay, John  | Nil  | McKay, J. P  | Chisholm St., New Glasgow, Pictou Co | Canada  | Aldershot  | Aug. | 7, | 1915. |
-| 14 | 764 | 1493 | 3938 | 1529 | 414793 | Private  | McKay, Theodore  | Nil  | McKay, Mrs. Mary. | Spring Hill, Cumberland Co., N.S  | Canada  | Aldershot  | July | 29, | 1915. |
-| 14 | 764 | 1523 | 3939 | 1559 | 414857 |  | McKay, William  | Nil  | McKay, Mrs. Annie Rosin. | Stellarton, Pictou Co., N.S  | Cnnada  | Quebec  | Aug. | 6. | 1915. |
-| 14 | 764 | 1552 | 3939 | 1587 | 415723 | Private  | McKeigan, Angus Dnn  | Nil  | McKeigan, Mrs. Johanna... | Sydney Mines, C.B., N.S  | Canada  | Sydney  | Aug. | 9, | 1915. |
-| 14 | 765 | 1581 | 3940 | 1618 | 415802 | Private  | McKeigan, Nelson  | Nil  | McKeigan, Mrs. Ro^e. | Westville, Pictou Co., N.S  | Canada  | Sydney  | Aug. | 13, | 1915. |
-| 14 | 764 | 1609 | 3939 | 1648 | 415721 | Private  | McKenzie, Charles  | Nil  | McKenzie, Charley  | Liverpool, Queen’s Co., N.S  | Cannda  | Sydney  | Aug. | 7, | 1915. |
-| 14 | 764 | 1639 | 3940 | 1674 | 415348 | Private  | McKenzie, Dalton  | Nil  | McKenzie, Mrs. Chari-s | Reservo Mines, C.B., N.S  | Canada  | Sydney  | Aug. | 13, | 1915. |
-| 14 | 764 | 1668 | 3940 | 1704 | 414785 | Private  | McKenzie, Frank.    | Nil  | McKenzie, Henry   . | Parrsboro’, Cumberland Co., N.S  | Cnnada  | Aldershot  | July | 29, | 1915. |
-| 14 | 765 | 1697 | 3940 | 1734 | 415071 | Private  | McKenzie, Hugh F.  | 94th Reg | McKenzie, A. .) | Rear Christmas Island. C.B., N.S  | Canada  | Valcartier   | Aug. | 6, | 1915. |
-| 14 | 764 | 1725 | 3941 | 1764 | 415218 | Private  | McKenzie, Joseph   | C.F.A.. | McKenzie. Mrs. John | Main St., Glace Bay, C.B., N.S  | Canada  | Aldershot  | July | 29, | 1915. |
-| 14 | 765 | 1755 | 3941 | 1794 | 415834 | Private  | Mar'Kcnzic, Loring   | Nil  | MncKenzie, Mrs. Florence. | Bridgewater, Lunonburg Co., N.S  | Cannda  | Aldershot  | Aug. | 12, | 1915. |
-| 14 | 764 | 1784 | 3941 | 1823 | 415220 | Privaf e  | McKenzie, Hod. A   | 94 th Regt | McKenzie, Mrs. | Caledonia Mines, C.B., N.S  | Cannda  | Aldershot  | July | 29, | 1915. |
-| 14 | 764 | 1814 | 3941 | 1853 | 415325 | Private  | McKinlay, Albert Edward  | Nil  | McKinlay, Georg • - | 108 Maynard St., Halifax, N.S  | Canada  | Ilnlifax  | July | 31, | 1915. |
-| 14 | 765 | 1839 | 3942 | 1880 | 415290 | Private  | McKinnon, Alexander Benedict... | Nil  | McKinnon, Mrs. Mary A .. | Viotoria St., Glace Bay, C.B., N.S. . .. | Canada  | Sydney  | Aug. | 9, | 1915. |
-| 14 | 766 | 1873 | 3941 | 1909 | 414182 | Privnte  |  | Nil  | McKinnon, Mrs. P • | Glace Bay, C.B., N.S  | Cnnnda  | Aldershot  | May | 25, | 1915. |
-| 14 | 1963 | 1903 | 3943 | 1935 |  |  |  |  | McKinnon, Mr*. Barrie*. .. | Truro, Colchester Co., N.S  | Canada  | Aldershot  | Aug. | 12, | 1915. |
-| 14 | 766 | 1911 | 1756 | 1939 | 414930 | Private  |  | Nil  |
-| 14 | 764 | 1932 | 3941 | 1970 | 414007 | Private  . | IMcKinnon, Laughlin  . | Nil  | McKinnon, Mrs. Mary B. | Eureka, Pictou Co., N.S  | Canada. ... | New Glasgow. | May | 4, | 1915. |
-| 14 | 764 | 1957 | 3942 | 1998 | 482082 | Private  | 'McKinnon. Wilfred  | Nil  | McKinnon. Mrs. K-b- "s.. | Chignecto. Cumberland Co.. N.S  | Canada  | Sussex  | Oct. | 11, | 1915. |
-| 14 | 766 | 1991 | 3943 | 2033 | 415531 | Private  | jMaeKinnon, William Karl  | Nil  | MacKinnon, W. C | Yarmouth, N.S.   | Cannda  | Ynrmouth ... | April | 21, | 1915. |
-| 14 | 766 | 2020 | 3943 | 2057 | 414905 | Privnte  | '.MacLarcn, Charles Robert  | Nil  | MaeLnrcn, Charles 1! | Moncton, N.B., Westmoreland Co | Canada  | Aldershot  | Aug. | 11, | 1915. |
-| 14 | 766 | 2045 | 3943 | 2090 | 414300 | Private  | lughlin, James Thomas.. | Nil  | McLaughlin, Mrs. Elizabeth | 8 Armoury PI., Halifax, N.S  | Cannda  | Aldershot. | Aug. | 3. | 1915. |
-| 14 | 766 | 2078 | 3944 | 2119 | 414925 | Private  | 'McLaughlin, Robert Taylor.. . | Nil  | McLaughlin, L | Stellarton, Pictou Co., N.S  | Canada  | Aldershot  | Aug. | 11. | 1915. |
-| 14 | 767 | 2108 | 3944 | 2146 | 414227 |  | IMcLean, Angus  | Nil  | IMcLean, Dan. B.. | Dominion No. 1, Sydney, C.B., N.S.. | Cannda  | Aldershot  | June | 10, | 1915. |
-| 14 | 767 | 2135 | 3944 | 2173 | 414989 | Private  |  | Nil  | 'Mcl^an. Mrs. Mar. | Reserve Mines, C.B., N.S  | Scotland  | Sydney  | Aug. | 13. | 1915. |
-| 15 | 632 | 292 | 3797 | 329 | 41 KiM!Private.... |  | McLean, Edward   | Nil  | . |McLcan, Mrs. Nora  | Glace Bay, C.B., N.S  | Canada  | Valcartier  | July 13, | 1915. |
-| 15 | 632 | 323 | 3798 | 365 | •IM’iill Private.... |  | McLean, Hector   | C.F.A.... | j McLean, Rod  | Dominion, C.B., N.S  | Canada  | Aldershot  | June 1G, | 1015. |
-| 15 | 632 | 353 | 3797 | 388 | 415722 Private.... |  | McLean, John   | Nil. | . McLean, Mrs. Mary. | Glace Bay, C.B., N.S  | Canada  | Sydney  | Aug. 7, | 1915. |
-| 15 | 631 | 383 | 3798 | 416 | 4150 Private.... |  | McLean, John A ..., | Nil  | Mr-Lean, Mrs. Lizzie  | Glace Bny, C.B., N.S  | Canada  | Sydney.  | Aug. 13, | 1915. |
-| 15 | 632 | 411 | 3800 | 446 | 415700 Private.... |  | McLean, John Jnrnes  | Nil  | Me Lean, John   | Sydney Mines, C.B., N.S.    | U.S.A  | Jydney  | Auk- 9, | 1915. |
-| 15 | 631 | 442 | 3800 | 475 | 482017 Private.... |  | Me Lean, John J  | 94th Regt. | McLenn, Bessie  | Washabuck Centre, C.B., N.S  | Cnnada...   | Sydney  | Sept. 1, | 1915. |
-| 15 | 631 | 472 | 3799 | 506 | 4i54G2iPrivate.... |  | McLean, Malcolm Morris   | 03rd Regt. | McLean, Daniel....   | 00 Windsor, St., Halifax, N.S  | Canada  | Valcartier  | Aug. 18, | 1915. |
-| 15 | 631 | 501 | 3799 | 533 | 4 15075' Private.... |  | McLean, Ronald   | Nil  | McLean, Mrs  | Louisburg Road, C.B., N.S  | Canada  | Glace Bay  | May 5, | 1915. |
-| 15 | 638 | 532 | 3799 | 563 | •! 1112 Private.... |  | McLean, Vincent   | Nil  | McLean, Dan  | Sydney Mines, C.B., N.S  | U.S.A  | U.S.A  | Aug. 9, | 1915. |
-| 15 | 632 | 561 | 3800 | 596 | 482088 Private.... |  | McLcllan, An^us  | Regt.. | MeLellan, Allen .     | New Waterford, C.B., N.S  | Canada  | Valcartier  | Oct. 17, | 1915. |
-| 15 | 631 | 591 | 3800 | 621 | 4142G‘J Private.... |  | McLellnn, Hugh   |   | McLcllan, Miss Annie L  | Sydney Mines, C.B., N.S  | Canada  | Aldershot  | Juno 10, | 1915. |
-| 15 | 631 | 620 | 3800 | 652 | 415350 Privato.... |  | McLelinn, Michnel C   | Nil  | McLellnn, Mrs. Catharine.... | New Waterford, C.B., N.S  | Canada  | Sydney  | Aug. 13, | 1915. |
-| 15 | 631 | 650 | 3800 | 683 | 414333 | Private | McLeod, Angus D  | 94th Regt. | McLeod, Mrs. Annabel  | English Town, Victoria Co., N.S  | Canada  | Halifax  | Nov. 2t>, | 1915. |
-| 15 | 631 | 679 | 3801 | 712 | 482030 | Private.... | McLeod, Frank H   | 94th Regt. | McLeod, Mary  | Lewis Mountain, C.B., N.S  | U.S.A  | Sydney  | Sept. 1, | 1915. |
-| 15 | 631 | 709 | 3800 | 740 | 415100 | Private. | McLeod, Hugh Henry   | C.O.T.C.. | McLeod, Mrs. Elizabeth M.. | ?5 Preston St., Halifax, N.S  | Canada  | Halifax  | Aug. 3, | 1915. |
-| 15 | 632 | 738 | 3801 | 770 | 414875 | Private.... | McLeod, John   | Nil  | McLeod, Mrs. Annie   | River Hebert, Cumberland Co., N.S  | Canada  | Aldershot  | Aug. 10, | 1915. |
-| 15 | 631 | 768 | 3801 | 799 | 415380 | Private.... | McLeod, John A  |  | McLeod, Archie    | Dominion No. 6, C.B., N.S  | Canada  | Sydney  | Aug. 13, | 1915. |
-| 15 | 631 | 798 | 3800 | 829 | 415735 | Private.... | McLeod, John II  | 94th Regt.. | McLeod, Murdock  | Baddcck, C.B., N.S  | Canada  | Sydney  | Aug. 9, | 1915. |
-| 15 | 632 | 828 | 3801 | 858 | 415378 | Private.... | McLeod, John K  | Nil  | McLeod, Mrs. Mabel  | P.O. Box 183, Sydney, C.B., N.S  | Canada  | Sydney  | Aug. 13, | 1915. |
-| 15 | 632 | 857 | 3801 | 888 | 415719 | Private.... | McLeod, Lawrence   | Nil  | McLeod, Angus   | New Waterford, C.B., N.S  | Canada  | Sydnej’  | Aug. 7, | 1915. |
-| 15 | 631 | 886 | 3802 | 916 | 4J4352 | Private.... | McLeod, William   | Nil  | Mcf>eod, Mrs. Cathnrine  | 13 Stairs St., Halifax, N.S  | Canada  | Aldershot  | July 29, | 1915. |
-| 15 | 631 | 916 | 3802 | 946 | 4140G2 | Private.... | McLeod, William  | 93rd Re^t.. | McLeod, Mrs. Annie   | P.O. Box 191, Spring Hill, Cumberland, N.S  | Canada  | Aldershot  | Aug. 11, | 1915. |
-| 15 | 631 | 944 | 3801 | 975 | 4141111 | Privnte. | McMillan, Roderick   | Can. Mil... | McMillan, Mrs. Agnes  | Spring nill, Cumberland Co., N.S  | Scotland  | Aldershot  | May 29, | 1915. |
-| 15 | 630 | 974 | 3801 | 1003 | 414058 | Privnte.... |  | Nil  | McMillan, Sidon G  | Intro, Colchester Co., N.S  | Canada  | Aid^rshot  | Aug. 12, | 1915. |
-| 15 | 631 | 1003 | 3801 | 1034 | 414913 | Privnte. | McMillan, William i I  | Nil  | McMillan, William  | Fleas'int St., Truro, Colchester Co., N.S  | Canada  | Aldershot  | Aug. 11, | 1915. |
-| 15 | 631 | 1032 | 3801 | 1063 | 415700 | Privnte.... | McMullen, Normnn Angus..... | Nil  | McMullen, Archie  | Caledonia Mines, C.B., N.S  | Canada  | Sydney  | Aug. 9, | 1915. |
-| 15 | 630 | 1061 | 3802 | 1092 | 414012 | Privnte. | McNnughton, John  | Nil  | McNaughton, Mrs. Margaret. | Eureka, Pictou Co., N.S    | Canada  | New Glasgow. . | Mar. 30, | 1915. |
-| 15 | 630 | 1090 | 3802 | 1121 | 414307 | Privnte.... | McNeil, Angus  | Nil  | Neil, Rory J   | New Waterford, C.B., N.S  | Canada  | Valcartier  | June 28, | 1915. |
-| 15 | 630 | 1119 | 3803 | 1149 | 414297 | Private.... | McNeil, Angus P  | Nil  | McNeil, MichaH A  | Grand Narrows, C.B., N.S. .   | Canada  | Valcartier  | June 28, | 1915. |
-| 15 | 630 | 1149 | 3803 | 1180 | 414445 | Privnte  | McNeil, Dnniel.   | Nil  | McNeil, Kenneth  | Dominion, C.B., N.S...   | Canada  | Sydney  | Aug. 7, | 1915. |
-| 15 | 630 | 1178 | 3804 | 1208 | 414473 | Privnte.... | McNeil, James Ronald George. | Nil  | McNeil, Mrs. Jane  | 103 Queen St., Halifax, N.S  | Canada  | Aldershot  | Aug. 10, | 1915. |
-| 15 | 631 | 1208 | 3803 | 1237 | 415989 | Privnte.... | Mac Neil, John it  | 91th Regt.. | MacNeil, Mary  | Boston, Ma^s., U.S.A   | Cannda  | Halifax  | Aug. 12, | 1915. |
-| 15 | 631 | 1236 | 3803 | 1268 | 4148G2 | Privnte.... | McNeil, Lawrence  | Nil  | McNeil, Mrs. A  | New Aberdeen, C.B., N.S  | Canada  | Sydney  | Aug. 7, | 1915. |
-| 15 | 631 | 1266 | 3803 | 1298 | 414973 | Private.... | McNeil, Malcolm  | Nil  | McNeil, James N  | Big Baddcck, C.B., N.S    | Canada  | Sydney  | Aug. 13, | 1915. |
-| 15 | 631 | 1296 | 3804 | 1328 | 415871 | Private.... | McNeil, Neil  | Nil  | McNeil, Don   | Sydney Mines, C.B., N.S   | Cannda  | Sydney  | Aug. 13, | 1915. |
-| 15 | 631 | 1325 | 3803 | 1354 | 4142G9 | Privnte.... | McNeil, William  | iSil  | McNeil, Mrs. Jessie  | Wallace, Cumberland Co., N.S ^  | Canada  | Halifax  | Nov. 21, | 1915. |
-| 15 | 632 | 1350 | 3804 | 1386 | 482020 | Private.... | McNeill, Robert  | Nil  | McNcili, Miss Janet. ... | Kirkcaldy, Fife, Scot  | Scotland  | Sydney  | Sept. 1, | 1915. |
-| 15 | 632 | 1383 | 3804 | 1413 | 4151G3 | Private.... | •ineNevin, Colin Uriah  | C.F.A  | MacNevin. John Colin  | De Sable, Queens Co., P.E.l   | Canada  | Halifax.  | Feb. 15, | 1915. |
-| 15 | 632 | 1412 | 3804 | 1442 | 414185 | Private.... | McPhee, Alexander  | Nil  | McPhee, Archie  | Sydney Minns, C.B., N.S.  | Canada  | Halifax  | Feb. 11, | 1915. |
-| 15 | 632 | 1441 | 3804 | 1474 | 414403 | Privnte.... | McPhee, Carl Frederick  | Nil  | McPhee, Mrs. Hattie  | 37 Maynard St., Halifax, N.S   | Canada  | Halifax  | July 30, | 1915. |
-| 15 | 632 | 1470 | 3804 | 1503 | 415224 | Privnte  | M cPhee, George  | 94th Regt.. | McPhee, Mrs. Lydia  | New Aberdeen, C.B., N.S  | Canada  | Aldershot  | July 29, | 1915. |
-| 15 | 633 | 1499 | 3804 | 1532 | 482001 | Private.... | McPhee, Patrick  | Nil  | McPhee, Neil  | Argyle St., Sydney, C.B., N.S  | Canada  | Sydney  | Aug. 24, | 1915. |
-| 15 | 633 | 1528 | 3804 | 1558 | 482089 |    Private.... | McPherson, Andrew  | 8th Regt... | Doucette, Mrs. W  | Now Waterford, C.B., N.S  | Canada  | Valcartier  | Oct. 17, | 1915. |
-| 15 | 633 | 1557 | 3804 | 1591 | 415708 Private.... |  | McPherson, Dan. J  | Nil  | McPherson, Mrs. Dan. J  | Glace Bay, C.B., N.S  | Canada  | Sydney  | Aug. 7, | , 1915. |
-| 15 | 633 | 1586 | 3805 | 1620 | 414432 Piivate.... |  | McPherson, Ernest Corbett.... | Nil  | McDonald, Mrs. Clara  | New Waterford, C.B., N.S  | Canada  | Sydney  | Aug. 9, | , 1915. |
-| 15 | 633 | 1615 | 3805 | 1649 | 4154391 Pri vate.... |  | McPherson, Neil  | Nil  | McPherson, Mose  | Reserve Mines, C.B., N.S  | Canada   | Aldershot  | May 24, | , 1915. |
-| 15 | 634 | 1645 | 3806 | 1679 | 482011 Privnte |  | McPherson, William  | Nil  | McPherson, Mo«*es  | Reserve Mines, C.B., N.S   | Canada  | Sydney  | Aug. 13, | , 1915. |
-| 15 | 634 | 1674 | 3806 | 1707 | 415980 | Privnte.... | McQuarrie, Walter  | Nil  | McQuarrie, Alrxand^r  | Mount Uniacke, Hants Co., N.S  | Canada   | Halifax  | Aug. 9, | . 1915. |
-| 15 | 635 | 1703 | 3806 | 1735 | 415S90 | Private  | Maebus, Harry Frederick  | R.C.R  | Heim, Mrs. Alexander  | Winkler, Man  | Cannda   | Valcartier  | Aug. 1*, | , 1915. |
-| 15 | 635 | 1732 | 3807 | 1766 | 415287 | Privnte.... | Mann, John  | Nil  | Mnnn, James H  | Florence, C.B., N.8  | Scotland  | Sydney  | Aug. 7, | , 1915. |
-| 15 | 635 | 1761 | 3806 | 1795 | 415129 | Private.... | Mansfield, Edwnrd  | Nil  | Chisholm, Mrs. Katie  | Tablo Head, Glace Bay, C.B., N.S  | Newfoundland. | Alexander. . | May 24, | , 1915. |
-| 15 | 636 | 1790 | 3807 | 1825 | 414941 | Sergeant... | Maneley, Thomns  | 03rd Regt.. | Mansiey, Mrs. II  | 30-1 Brunswick 8t., Halifax, N.S  | England  | Valcartier.. | Sept. 21, | , 1915. |
-| 15 | 636 | 1820 | 3807 | 1855 | 415972 | Private.... | Manuel, Jacob  | Nil. | Manuel. Mrs. Elizabeth  | 119 Lockman St., Halifax, N.S  | Cannda  | Halifax   | Aug. 12. | , 1915. |
-| 15 | 636 | 1849 | 3807 | 1884 | 415159 | Privnte.... | Marsh, Colin  | Nil  | Marsh. Mrs. Colin  | Reservo Min^s, C.B., N.S  | Canada........ | Valcartier  | July 13 | , 1915. |
-| 15 | 637 | 1879 | 3808 | 1914 | 414108 | Private  | Marshall, David Fraser  | Nil  | Marshall, Fraser G   | P.O. Box 310, New Glasgow. Pictou Co., N.S  | Canada  | Aldershot  | Aug. 3 | , 1915. |
-| 15 | 637 | 1908 | 3808 | 1943 | 415101 | Private.... | Marshall, Frederick H  | 09th Regt. | Marshall, Miss Hattie I  | Bear River, Digby Co., N.S  | Cannda  | Valcartier  | July 13 | 1915. |
-| 15 | 638 | 1937 | 3808 | 1973 | 415351 | Private.... | Marshall, Kenneth  | Nil  | Marshall, Burpee  | Sydney, C.B.. N.S   | Cannda  | Sydney  | Aug. 13 | ,1915. |
-| 15 | 638 | 1966 | 3809 | 2002 | 415590 | Private.... | Marshall, Vernon Chipmnn  | Nil  | Marshall, Wheelock  | Bridgetown, Annapolis Co., N.S  | Canada  | Middleton  | April 5 | 1915. |
-| 15 | 638 | 1995 | 3809 | 2031 | 415891 | Privnte..,. | Martell, Edwnrd Samuel  | 03rd Regt. | Martell, E. 8  | 50 Bloomfield St., Halifax, N.S  | Canada  | Valcartier  | Aug. 18 | 1915. |
-| 15 | 639 | 2024 | 3809 | 2057 | 414007 | Private.... | Martell, John  | Nil  | Martell, Mrs. Fanny  | 60 Bloomfield St., Halifax, N.S  | Canada  | Halifax •... | Mai. 15 | . 1915. |
-| 16 | 935 | 635 | 3414 | 665 |  |  |  | Former Corps. |  |  | Country of |
-| 16 | 744 | 783 | 3910 | 812 | 414)24 |  |  | R.C.R  |  |  |  |  | June 22, 1915. |
-| 16 | 744 | 842 | 3909 | 873 | 415220 |  |  |  |  |  |  |  | July 29, 1915. | Nil  | Glace Bay, C.B., N.S  |
-| 16 | 743 | 959 | 3910 | 989 | 414322 |  |  |  |  |  |  |  | July 30,1915. | Mason, John  | Nil  |
-| 16 | 742 | 989 | 3910 | 1018 | 414004 |  |  |  |  |  |  |  | Aug. 10, 1915. | Nil  |
-| 16 | 742 | 1017 | 3910 | 1048 | 414320 |  |  |  |  |  |  |  | July 13 1915. | Nil  | Dundns, Kings Co., P.E.I  |
-| 16 | 743 | 1047 | 3910 | 1076 | 415711 |  |  | Nil  |  |  |  |  | Aug. 9, 1915. |
-| 16 | 742 | 1076 | 3911 | 1105 | 415484 |  |  |  |  |  |  |  | Aug. 10,1915. | Nil  |
-| 16 | 742 | 1105 | 3910 | 1135 | 414718 |  |  |  |  |  |  |  | July 6, 1915. | Maynard, George Lester  | Nil  | Millers Creek, Hants Co., N.S  |
-| 16 | 742 | 1134 | 3910 | 1162 | 415-187 |  |  |  |  |  |  |  | Aug. 14, 1915. | Meager, Arthur  | Imp. Forces  | 12 Maple St., Spring Hill, Cumberland Co., N.S  |
-| 16 | 742 | 1163 | 3910 | 1191 | 415442 |  |  |  |  |  |  |  | Oct.. 10, 1915. | Spring Hill Mines, Cumberland Co., N.S  | Valcartier  |
-| 16 | 742 | 1192 | 3910 | 1221 | 415270 |  |  |  |  |  |  |  | Aug. 8, 1915. | Nil... |
-| 16 | 742 | 1220 | 3910 | 1249 | 482012 |  |  |  |  |  |  |  | Aug. 27, 1915. | Nil  | 40 Calville Rd., Birmingham, Eng  | England  | Sussex  |
-| 16 | 742 | 1249 | 3910 | 1277 | 414745 |  |  |  |  |  |  |  | Julv 24, 1915. | Lower Five Islands, Colchester Co., N.S  | Private  | Mcckins, Amos  | Nil  |
-| 16 | 741 | 1280 | 3910 | 1307 | 4151OH |  |  |  |  |  |  |  | Julv 14, 1915. | Nil  |
-| 16 | 742 | 1308 | 3910 | 1337 | 414780 |  |  |  |  |  |  |  | July 29, 1915. | Amherst, Cumberland Co., N.S  | Canada  |
-| 16 | 741 | 1337 | 3911 | 1366 | 414103 |  |  |  |  |  |  |  | Mar. 29, 1915. | ft Moran St., Halifax, N.S  | Melvin, Willard Douglas  | C.O.T.C  | Melvin, D. J   |
-| 16 | 741 | 1366 | 3911 | 1395 | 414874 |  |  |  |  |  |  |  | Aug. 7, 1915. | 91 Victoria St., Caerau, Bridgend, Glamorgan, Wales.. |
-| 16 | 741 | 1397 | 3910 | 1425 | 415227 |  |  |  |  |  |  |  | July 29, 1915. | Nil  |
-| 16 | 741 | 1425 | 3911 | 1453 | 482090 |  |  |  |  |  |  |  | Aug. 27, 1915. | Nil  | Spring Hill, Cumberland Co., N.S  |
-| 16 | 742 | 1455 | 3911 | 1483 | 414788 |  |  |  |  |  |  |  | July 29,1915. | Mil burn, William Robert  | Nil  |
-| 16 | 741 | 1485 | 3911 | 1512 | 415144 |  |  |  |  |  |  |  | May 5,1915. | Kentville  |
-| 16 | 741 | 1512 | 3911 | 1542 | 415107 |  |  |  |  |  |  |  | Aug. 10, 1915. | Private  | Miller, Archibald 'l homas. — | 5 Fenwick St., Halifax, N.S  |
-| 16 | 741 | 1542 | 3911 | 1570 | 415243 |  |  |  |  |  |  |  | July 30. 1915. | Nil  |
-| 16 | 741 | 1600 | 3912 | 1628 | 415334 |  |  | Nil  |  |  |  |  | July 30, 1915. |
-| 16 | 742 | 1629 | 3912 | 1657 | 414338 |  |  |  |  |  |  |  | Mar. 30, 1915. | Miller John W | Nil  |
-| 16 | 741 | 1657 | 3912 | 1688 | 414897 |  |  |  |  |  |  |  | Aug. 10.1915. | Private  | Mills, Elisha R. .   | Nil  | Mills, Mrs. Nora    | P.O. Box 973, Truro, Colchester Co., N.S  | Aldershot  |
-| 16 | 741 | 1685 | 3912 | 1715 | 414214 |  |  |  |  |  |  |  | June 2. 1915. | Private  | Gay’s River, Colchester Co., N.S  |
-| 16 | 741 | 1714 | 3912 | 1745 | 482020 | Private  |  |  |  | Sackville, Westmoreland Co., N.B  | Milton, Smith field  | Nil  | Milton, Miss Vera  | Canada  | Sussex...   | Sept. 17,1915. |
-| 16 | 1109 | 1772 | 3913 | 1801 |  |  |  |  |  |  |  |  | Aug. 11,1915. | Mitchell. Frederick M  | Nii  | Truro, Colchester Co., N.S  | Canada  | Aldershot  |
-| 16 | 741 | 1801 | 3913 | 1832 |  |  |  |  |  |  |  |  | Aug. C, 1915. | Monahan, William Patrick  | Nil  | Canada  | Valcartier  | 414085 | Private.   |
-| 16 | 742 | 1860 | 3905 | 1892 | 414828 |  | Moore. Patrick Joseph  | Nil  |  |  |  | Halifax  | May 30. 1915 |
-| 16 | 742 | 1888 | 3915 | 1921 | 415901 |  | Moran, Robert  | Nil  |  |  |  |  | Aug. 14, 1915. | Moran, David   |
-| 16 | 742 | 1916 | 3914 | 1951 | 415787 |  | M crash, Allan  | Nil   |  |  |  |  | Aug 10. 1915. | Morash, Mrs. Maria  | Private  |
-| 16 | 741 | 1947 | 3913 | 1981 | 415.805 |  | Morgan, William  | Nil:   |  |  |  |  | Aug. 13,1915. | Morgan, Joseph.     | Private  | Manuels, Nfld   | Newfoundland.. | Sydney  |
-| 16 | 741 | 1975 | 3914 | 2009 | 414940 |  | Morgan, William John..   | Nil  |  |  |  |  | Aug. 13, 1915. | Morgan, Mrs. Cassie .   | Private  | New Aberdeen, C.B., N.S   | Newfoundland . | Sydney  |
-| 16 | 742 | 2005 | 3914 | 2039 | 415909 |  | Mori lie, Victor Curtis  | Nil  |  |  |  |  | May 10, 1915. | Morinc, Miss Amy..   | Private  | e/o Lee Morine, Rear River, Digby Co., \T.S  | Canada  | Digby  |
-| 16 | 742 | 2034 | 3914 | 2068 | 415818 |  | Morris, Thomas Richard  | Nil  |  |  |  |  | Aug. 2. 1915. | Hanlon, Mrs. Sarah .   | Private  | Neri^sa, Guysborough C<» . N.S..   | Cnnada  | Halifax .   |
-| 16 | 742 | 2064 | 3914 | 2098 | 414744 |  | Morrison, Angus D  | C.F.A  |  |  |  |  | May 8. 1915. | Morrison, Michell D  | Private  | Sydney Mines, C.B., N.S  | Canada  | Sidney*Mines... |
-| 16 | 742 | 2093 | 3915 | 2127 | 415352 |  | Morrison, Christopher..   | Nil  |  |  |  |  | Aug. 9. 1915. | Sydney, C.B., N.S  |
-| 16 | 743 | 2124 | 3906 | 2156 | 415375 |  | Morrison, Dan. J  | Nil  |  |  |  |  | Aug. 13, 1915 | Glace Bay, C.B., N.S  |
-| 16 | 743 | 2153 | 3915 | 2186 | 415376 |  | Morrison, D. D  | Nil  |  |  |  |  | Aug. 13. 1915. | Framboise, Richmond Co., N.^   | Private  | Morrison, R. R.   | Canada.. .. | Sydney  |
-| 16 | 743 | 2181 | 3907 | 2213 | 415051 |  | Morrison, Malcolm   | Can. Mil   |  |  |  |  | July 1". 1015 | Glace Bay, C.B., N S | Private  | lMorr»«on, Angus D.   | Canada    | Valcartier |
-| 17 | 660 | 388 | 3618 | 425 | 415600 Sergeant  |  | Morrow, John  | Nil  | Morrow, Marion S  | c/o William Stairs Son Morrow, Halifax | Canada  | Bridgewater.... |
-| 17 | 661 | 417 | 3619 | 454 | 415754 Private  . |  | Morton, James....   | Nil  | Morton, Hannah..   | New Germany, Lunenburg Co., N.S  | Canada  | Aldershot  |
-| 17 | 661 | 448 | 3618 | 483 | 415901 Private  |  | Mosher, Zenas H  | Nil  | Mosher, Mrs. Dorothy  | Middleton, Antic>nirh Co., N.S  | Canaria  | •Vldershot  |
-| 17 | 662 | 477 | 3619 | 513 | 414837 Private  |  | Moss, Stanley  | Nil  | Moss, Mrs. Elisabeth  | 00 West St., Halifax. N.S  | Canada  | Aldershot  |
-| 17 | 663 | 508 | 3619 | 541 | 4)5377 Privnte  |  | M'Milton, Frank;  | Nil  | Moulton, Mrs. Elizabeth.... | Belleoram, Nfld  | Newfoundland.. | Sydney  |
-| 17 | 665 | 537 | 3618 | 573 | 114274 j Privat e  |  | Muise, Alexander  | Nil  | Muise, Mrs. George  | Inverness, C.B., N.S  | Canada   | Halifax  |
-| 17 | 660 | 567 | 3619 | 599 | 415589 Private  |  | Muise, Dennis  | C.F.A.. | Muise, Peter J  | Yarmouth, N.S  | Canada  | Yarmouth  |
-| 17 | 661 | 597 | 3619 | 629 | 415649 Private  |  | Muise, Enos  | C.F.A.. | Muise, Mrs. Lena  | Yarmouth, N.S  | Canada  | Yarmouth  |
-| 17 | 662 | 626 | 3619 | 660 | 415744 j Privato  |  | Muise, Robert John  | Nil  | Muise, Frank  | Yarmouth, N.S   | Canada  | Aldershot  |
-| 17 | 661 | 656 | 3620 | 688 | 414237 Private  |  | Mullen, Ernest Ralph  | Nil  | Mullen, Mrs. Enoch  | Havelock, New Tusket, Digby, Co., N.S. | Canada  | Aldershot  |
-| 17 | 662 | 686 | 3619 | 718 | 415845 Private  |  | Mull in, Charles  | Nil  | Mullin, Alfred  | Norwood, Yarmouth. N.S  | Canada  | Aldershot  |
-| 17 | 663 | 715 | 3620 | 747 | 415228 Private   |  | Mullins, Jerry  | Nil  | Mullins, Lawrence  | Main St., Glace Bay,C.B., N.S.  | Canada  | Aldershot  |
-| 17 | 662 | 745 | 3620 | 778 | 414250 Sergeant  |  | M ulienger, Joseph  | 66th Regt  | Mulienger, Mrs. S   | Herring Cove, Halifax Co., N.S  | England  | Aldershot  |
-| 17 | 663 | 775 | 3620 | 808 | 415901 Private  |  | M ulienger, Roy Arthur  | GOth Regt  | Mullonger, Joseph  | Herring Cove, Halifax Co., N.S  | Canada  | Halifax  |
-| 17 | 661 | 804 | 3619 | 834 | 415403 Private  |  | Mumford, Edward  | 00th Regt  | Mumford, G. E  | 14 Allen St., Halifax. N.B  | Canada  | Halifax  |
-| 17 | 661 | 833 | 3619 | 866 | 415209 Private  |  | Mummery, Arthur   | C.A.M.C  | Mummery, Mrs. Alice  | 130 Agricola St., Halifax, N.S  | Canada  | Aldershot  |
-| 17 | 661 | 863 | 3620 | 895 | 414301 Privato  |  | Munro, Angus  | Nil  | Munro, Mrs. Mary  | Reserve Mines, C.B., N.S  | Canada  | Valcartier  |
-| 17 | 661 | 892 | 3621 | 924 | 414242 Private  |  | Munro, John Maxwell  | Nil | Munro, Jo tries  | Sydney River, C.B., N.S  | Canada  | Aldershot  |
-| 17 | 661 | 921 | 3621 | 953 | 415592 Private  |  | Munroe, Daniel.    | Nil | Munroe, Mrs. Blinn  | Queens Port, Guysborough Co., N.S  | Canada  | Kentville  |
-| 17 | 661 | 950 | 3622 | 982 | 415100 Private  |  | 1 unroe, Duncan Keer  | Nil | McLean, Mrs. Rosy.  | Sydney, C.B., N.S | Canada  | Valcartier  |
-| 17 | 661 | 978 | 3621 | 1012 | 4158501 Private  |  | Munroe, William H  | Nil.. | Munroe, Lizzie  | Yarmouth, N.S | Canada  | Aldershot  |
-| 17 | 662 | 1009 | 3623 | 1045 | 482018 [Private  |  | Murdock, Murray  | Nil | Murdock, Mrs. Edith  | St. John, N.B. . | Canada  | Sussex  |
-| 17 | 662 | 1038 | 3622 | 1070 | 414923 Private  |  | Murphy, Arthur  | Nil | Murphy, Mrs. Arthur. | 51 DufiusSt., Halifax, N.S | Canada  | Aldershot  |
-| 17 | 662 | 1068 | 3623 | 1098 | 482008 Private  |  | Murphy, Daniel   | Nil | Murphy, Patrick  | Reserve Mines, C.B., N.S, | Canada  | Sydney  |
-| 17 | 663 | 1096 | 3624 | 1130 | 4144721 Pri vate  |  | Murphy, i red crick Joseph .... | Nil | Murphy, Mrs. Annie  | 110 Maynard St., Halifax, N.S  | Canada  | Aldershot  |
-| 17 | 663 | 1126 | 3624 | 1157 | 414300 Private  |  | Murphy, Frederick Michael  | Nil  | Peverill, Mrs. Violet  | 210 Windsor St., Halifax, N.S  | Canada  | Halifax  |
-| 17 | 663 | 1155 | 3624 | 1187 | 4147981 Private  |  | Murehy, John | Nil   | Murphy, Mrs. Annie  | 39 Cold St., Queenstown, Cork, Ire  | Ireland  | Aldershot  |
-| 17 | 662 | 1183 | 3624 | 1215 | 414993 Private  |  | Murphy, Pcrcival Bernard  | 03 rd Regt  | Murphy, Mrs. Elizabeth.... | 39Loekman St., Halifax, N.S  | Canada  | Valcartier  |
-| 17 | 663 | 1213 | 3623 | 1245 | 416063 Private.... ... |  | Murphy, Stanley  | Nil  | Murphy, James .  | North Fast Margaree. C.B.. N.S  | Canada  | Sydney Mines. . |
-| 17 | 664 | 1242 | 3624 | 1273 | 414483 Private... |  | Murphy, William Gerald  | Nil  | Murphy, Mrs. Catharine... | 32 Birmingham St., Halifax, N.S  | Canada  | Aldershot  |
-| 17 | 664 | 1270 | 3623 | 1304 | 414031 | Private  | 1 urray, Alexander  | Nil  | Murray, Mrs. Ann  | Hantsport, Hants Co., N.S  | Canada  | Aldershot   |
-| 17 | 663 | 1300 | 3624 | 1332 | 415477 | Private  | Murray, John Gordon  | Nil  | Murray, Emma  | Truro, Col **ster( o , N.S  | Cannda  | Aldershot  |
-| 17 | 664 | 1330 | 3623 | 1361 | 414276 | Private  | Murray, Thomas  | Nil ;  | Murray, Mrs. Mary Ann  | 37 Provnnhil) St., Glasgow, Scot  | Scotland  | Halifax  |
-| 17 | 664 | 1358 | 3595 | 1391 | 415870 | Private  | Myers, John   | Nil  | Myers, Mrs. Sarah  | 15 Dolbein St., Sydney, < '.B., N.S  | Canada  | Sydney   |
-| 17 | 664 | 1387 | 3624 | 1419 | 415410 | Privnte  | Myers, John B  | Nil    | Myers, Mrs. l^ewis  | Water St., Dartmouth. Halifax Co., N.S.. | Canada  | Valcartier  |
-| 17 | 665 | 1415 | 3624 | 1449 | 414035 | Privnte  | Myra, William  . | Nil  | Myra, Mrs. Caroline  | 49 Longard Rd.. Halifax, N.S  | Canada  | Halifax  |
-| 17 | 666 | 1445 | 3612 | 1477 | 414020 | Private  | Nenry. Patrick J  | Nil  | Neary, Mrs. Mary  | 3:Ha Barrington St., Halifax, N.S  | Canada  | Aldershot  |
-| 17 | 666 | 1475 | 3612 | 1505 | 414813 | Private  | Newell, Foster  | Nil  | Robinson, Herbert  | 44 Birmingham St., Halifax, N.S  | Cannda  | Halifax  |
-| 17 | 665 | 1504 | 3614 | 1536 | 482075 | Privnte.  | Nickerson, Abijah  | Nil  | Nickerson, Mrs. Lockhart. | 1 ■ -Me, N.S  | Canada  | Sussex  |
-| 17 | 665 | 1533 | 3613 | 1565 | 482039 | Private  | Nickerson, John Philip  | C.F.A  | Nickerson, Jo'wph  | 18 Wright Ave., Halifax, N.S  | Canada  | Sussex  |
-| 17 | 666 | 1562 | 3612 | 1594 | 414800 | Privato  | Nicol, James  | Nil  | Nicol, Mrs. Dolly.  | Glace Bay. C.B., N.S  | Scotland  | Sydney  |
-| 17 | 666 | 1591 | 3614 | 1623 | 414015 | Private  | Niles, Frank Patrick  | Nil  | Ryan, Mrs. Frederick  | St. Andr6 do Shcdiac, Westmoreland Co. | Canada  | Amherst  |
-| 17 | 666 | 1620 | 3614 | 1652 | 415740 | Private  | Nixon, Richard   | Nil  | Nixon, Mrs. H  | 48a Eaden St., Cambridge, Eng  | England  | Aldershot  |
-| 17 | 666 | 1649 | 3614 | 1681 | 415087 | Private  | Nolan, John H  | 94 th Regt  | Nolan, William    | Water St., Glace Bay, C.B., N.S  | Canada  | Valcartier  |
-| 17 | 667 | 1678 | 3629 | 1709 | 415801 | Private  | Nolan, John M  | NTil  | Nolan, Mrs. Morris  | Glace Bay, C.B., N.S  | Canada  | Sydney  |
-| 17 | 667 | 1707 | 3614 | 1740 | 415993 | Private  | Noonan, George B  | 03rd Regt  | Noonan, Mrs. Ellen  | Portland St., Dartmouth, Ilulifax, N.S  | Canada  | Valcartier  |
-| 17 | 667 | 1735 | 3615 | 1768 | 414924 | Private  | Norris, Bernard Hill  | Nil    | Norris, Mrs. Annie  | 134 Pleasant St., Halifax, N.S  | England   | Halifax  |
-| 17 | 668 | 1765 | 3616 | 1798 | 414919 | Private  | Norris, John Francis  | ... jttQth Regt  | Norris, Mrs. Annie  | 134 Pleasant St., Halifax, N.S  | England  | Aldershot  |
-| 17 | 668 | 1794 | 3616 | 1828 | 4154 00 | Private  | North, Earl Roy  | ... i03rd Regt  | North, Mrs. Margaret A... | 38 Bauer St., Halifax. N.S  | Canada  | Valcartier  |
-| 17 | 668 | 1824 | 3616 | 1858 | 415000 | Corporal  | North, George Albert  | ... C.A.S.C  | North, Christina.      | 346 Maynard St., Halifax, N.S  | Canada  | Valcartier  |
-| 17 | 668 | 1848 | 3617 | 1886 | 416329 | Private  | Northage, Barry  | .. .iNit  | Northage, Mrs. Carrie  | 15 Stairs St., Halifax. N.S  | England  | Aldershot  |
-| 17 | 669 | 1883 | 3617 | 1915 | 415101 | Privnte  | Oakley, John  |  | Oakley, Mrs. Mary  | Spring Hill Mines, Cumberland Co., N.S.. | England  | Valcartier  |
-| 17 | 668 | 1911 | 3617 | 1943 | 414448 | Privnte  | O’Brien, John  | ... I Nil  | O’Brien, Mrs. Mary  | Conception Bay, Nfld  | Newfoundland. | Sydney....... |
-| 17 | 668 | 1941 | 3614 | 1973 | 414708 | Privnte   | O’Brien, John Francis  | ...Nil  | O’Brien, Mrs. Elizabeth... | Brockland Ave.. Sydney Mines, N.S  | Canada  | Sydney Mines. |
-| 17 | 669 | 1971 | 3618 | 2002 | 414484 | Privnte  | O’Connell, Dennis Joseph  | ... R.G.A  | O'Connell, Mrs. D  | Ocheoruey, Dartmouth, Halifax Co., N.S | Ireland  | Aldershot  |
-| 17 | 670 | 2000 | 3618 | 2032 | 416381 | Private  | jO’Grady, Harold   | Nil  | O’Grady. Mrs. Margaret... | HaUfai, N.S  | Canada  | Sydney  |
-| 17 | 670 | 2029 | 3619 | 2061 | 414G17 | Private  | O’Hara, Frank James  | 93rd Regt  | O’Hara, Mrs. Annie  | Spring Hill, Cumberland Co., N.S  | Canada  | Spring Hill.... |
-| 17 | 675 | 2058 | 3619 | 2090 | 11' I | Private  | O’Heam, William   | 00th Regt  | O’Heam, Florence  | 49 George St., Halifax, N.S  | Canada  | Aldershot  |
-| 17 | 670 | 2087 | 3620 | 2119 | 414500 | Private  | Oldershaw, Charles William... | Territorials  | Oldershaw, Mrs. M..   | 41 Falkirk St., London, N., Eng  | England  | Aldershot  |
-| 17 | 671 | 2116 | 3620 | 2149 | 414492 | Private  | Oliver, James  | Nil  | Oliver, Elizabeth  | Stellarton, Pictou Co., N.S  | England  | Aldershot  |
-| 18 | 1326 | 589 | 3434 | 621 |  |  |  | Former Corps. |  |  | Country of |
-| 18 | 763 | 734 | 3931 | 767 | 414*12 | Privnte., | Oliver, Joseph  | Nil  | Chinn, Mrs. Mary J  | fjf. Gcnrgo Bay, Nfld  | Newfoundland. | Aldershot  | Aug. 3, | 1915. |
-| 18 | 763 | 764 | 3931 | 796 | 414142 | Corporal | Oliver, William Edward | 75th Uegt | Oliver, Mrs. Louise Ann . | Ltimmburg, N.S  | Englnnd  | Halifax  | April 28, | 1915. |
-| 18 | 763 | 794 | 3931 | 825 | 414191 | Private.... | O’Rourke, John M  | Nil  | O’Rourke, Mrs. Elizabeth | Hni'tmvick St., Truro, Colchester Co., N.S  | Cannda  | Aldershot  | Aug. 12, | 1915. |
-| 18 | 762 | 824 | 3930 | 855 | 482075 | Private.... | Orr, C  | Nil  | Orr, J  | St. John, N.B  | Cannda  | Sussex  | Sept. 15, | 1915. |
-| 18 | 762 | 853 | 3931 | 884 | 415880 | Private.... | Orton, Archibald Benjamin | Nil  | Orton, Mrs. T    | 0 Oerrish X.ane, Halifax, N.S  | Canada  | Halifax  | Aug. 11, | 1915. |
-| 18 | 762 | 883 | 3931 | 914 | 415981 | Private.... | Osborne, Patrick  | Nil  | Chision, Miss Catharine . | New Aberdeen, C.B., N.S  | Newfoundland. | Sydney  | Aug. 13, | 1915. |
-| 18 | 762 | 908 | 3931 | 943 | 482013 | Private.... | Pago, Ernest  | C.A.S.C | L*e, William...    | 27 Cherry St., Birmingham, Eng  | England  | Sussex  | Sept. 17, | 1915. |
-| 18 | 761 | 942 | 3931 | 972 | 414020 | Privato.... | Painter, Ernest  | Nil  | Painter, Amos  | North Stalls., Eng   | England  | New Glasgow. | Mar. 31, | 1915. |
-| 18 | 762 | 972 | 3931 | 1001 | 415701 | Private.... | Pape, Walter  | K.F.A.. | Pape, Charles  | 5 Grace St., Leeds, Yorks, Eng  | England  | Halifnx  | July 30, | 1915. |
-| 18 | 762 | 1001 | 3930 | 1030 | 415002. | Private.... | Parker, Archibald  | C.F.A.. | Parker, Mrs. Kathleen M | Digby, N.S  | Canada  | Digby  | May 10, | 1915. |
-| 18 | 762 | 1030 | 3930 | 1059 | 482021 | Private.... | Parry, William  | Nil  | Parry, Mrs. L  | 151 Albert Rd., Birmingham, Eng  | England  | Sussex  | Sept. 13, | 1*115. |
-| 18 | 763 | 1059 | 3932 | 1090 | 415404 | Private  | Patoy, William  | Nil  | Murray, Mrs. Amv  | 1 'ape Ray, Nfld  | Newfoundland. | Hnlifax  | Aug. 13, | 1915. |
-| 18 | 762 | 1088 | 3931 | 1117 | 414000 | Private.... | Patterson, Neil  | Nil  | Patterson, Mrs. Christina | 1 lace Hay, C.B., N.S  | Cannda  | Sydney  | Aug. 13, | 1915. |
-| 18 | 762 | 1117 | 3931 | 1146 | 414420 | Privato.... | Peacock, George Morton.. | Nil  | Rushton, Mrs. Emily. | New Waterford, C.B., N.S  | England  | Sydney   | i\ug. 9. | 1915. |
-| 18 | 762 | 1146 | 3931 | 1175 | 414022 | Bugler  | Penketh, William  | Nil  | Penketh, Mrs. Elizabeth Ann | stellarton, Pictou Co., N.S  | England....... | New Glasgow. . | Mar. 31, | 1915. |
-| 18 | 762 | 1175 | 3931 | 1203 | 414023 | Private,... | Pcnninglon. Timothy  | Nil  | Pennington, Mrs. Susie.. | Tocirin Mines, Cumberland Co., N.S  | England....... | Amherst  | Mnr. 17, | 1915. |
-| 18 | 762 | 1204 | 3931 | 1234 | 414007 | Sergeant... | Penny, William Redford.. | Imp. For | Penny, Mrs. E. A  | Berwick, Kings Co., N.S  | England  | Halifax  | Aug. 13, | 1915. |
-| 18 | 762 | 1232 | 3932 | 1262 | 482033 | Private.,.. | Penticost, David  | Nil  | Penticost, Mrs. Katie . | Sydney Mines, C.B., N.S  | Newfoundland. | Sydney  | Sept. 1, | 1915. |
-| 18 | 762 | 1261 | 3932 | 1292 | 482014 | Private.... | Perfoct, Harry  | Nil  | Perfect, Leonard  | Wells, Me., U.S.A  | Englnnd  | Sydney  | Aug. 24, | 1915. |
-| 18 | 762 | 1291 | 3932 | 1321 | 414813 | Private.... | Perrier, Patrick Michael Alp | Nil  | Perrier, Jeffrey  | 14 Dresden Row, Halifax, N.S  | Canada  | Halifax  | July 30, | 1015. |
-| 18 | 762 | 1315 | 3932 | 1351 | 415844 | Private.... | Perry, Willard W  | Nil  | Perry, Mrs. Jennie  | Port Maitland, Yarmouth Co., N.S  | Canada  | Aldershot  | Aug. 12, | 1915. |
-| 18 | 762 | 1348 | 3932 | 1379 | 414805 | I’rivato.... | Petrie, Thomas  | Nil  | Petrie, Joseph  | Sydney Mines, C.B., N.S  | Canada  | Sydney  | Aug. 9, | 1915. |
-| 18 | 762 | 1374 | 3932 | 1409 | 414007 | Private. | Pettigrew, Ornn  | Nil  | Pettigrew, Edgar  | North Greenville, Cumberland Co., N.S  | Canada  | Aldershot  | Aug. 12, | 1915. |
-| 18 | 763 | 1405 | 3932 | 1439 | 415502 | Sergeant... | Phinney, Burpee  | 69th Reg | Phinney, Mrs. Margaret McKenzie | Bridgetown, Annapolis Co., N.S  | Cannda  | Hnlifax  | April 10, | 1915. |
-| 18 | 763 | 1436 | 3933 | 1468 | 415800 | Private.... | Pinkney, Frank  | Nil  | Pinkney, Albert  | Deep Brook, Annapolis Co., N.S  | Canndn  | Aldershot  | Aug. 12, | 1915. |
-| 18 | 762 | 1465 | 3933 | 1496 | 415006 | Private.... | Pinkney, Willinm  | Nil  | Pinkney, Mrs. Albert — | Deep Brook, Annapolis Co.. N.S  | Canada  | Digby  | May 0, | 1915. |
-| 18 | 763 | 1494 | 3934 | 1526 | 415771) | Private.... | Piper, Arthur Edwin  | Nil  | Piper, Agnes M  |  | England  | Halifax  | Aug. 3, | 1915. |
-| 18 | 763 | 1523 | 3932 | 1554 | 414024 | Private.... | Pipes, Oliver Einbree  | Nil  | Pipes, Mrs. Helen A... | ) Smith St., Amherst, Cumberland Co., N.S  | Cnnada  | Amherst  | Mar. 17, | 1915. |
-| 18 | 762 | 1552 | 3933 | 1583 | 414318 | Private..,. | Poole, William H  | Nil  | Poole, Mary  | Pujxwash River, Cumberland Co., N.S  | Canada  | Halifax  | Nov. 25, | 1915. |
-| 18 | 762 | 1580 | 3933 | 1612 | 415125 | Private.... | Porrier, Thomas  | Nil  | Lee, Henry  | Glace Bay, C.B., N.S  | Canada  | Valcartier  | July 27, | 1915. |
-| 18 | 762 | 1610 | 3934 | 1642 | 416857 | Private.... | Porter, F. Emerson  | Nil  | Gordon, Mildred  | I ike Annis, Yarmouth Co., N.S  | U.S.A  | Aldershot... | Aug. 12, | 1915. |
-| 18 | 761 | 1639 | 3934 | 1670 | 415814 | Private.... | Porter, George  | Nil  | Porter, George. | Spring Hill Mines, Cumberland Co., N.S  | Canada  | Aldershot  | Aug. 10, | 1915. |
-| 18 | 762 | 1668 | 3934 | 1700 | 414834 | Private.... | Porter, Jacob  | Nil  | Stanley, Mary Ann | Conception Bay, Nlld  | Newfoundland. | Aldershot... | Aug. 8, | 1915. |
-| 18 | 763 | 1696 | 3934 | 1729 | 414405 | Private..., | Porter, Jolir. W  | Nil  | Porter, Mrs. Alice Bruce | Vi eat River Hebert, Cumberland Co., N.S  | Cnnada  | Aldershot. .. | Aug. 12, | 1915. |
-| 18 | 762 | 1725 | 3935 | 1757 | 414408 | Private.... | Porteous, Thomas Cliffori | Nil  | Porteous, Bertha H | 15 Orchard Ave., Waban, Mass., U.S.A  | Wales  | Aldershot. .. | Aug. 10, | 1915. |
-| 18 | 763 | 1754 | 3934 | 1787 | 415780 | Privnte  | Pothier, James  | Nil  | j Pothier. Silver .. . | 'Vedgeport, Yarmouth Co., N.S  | Canada  | Aldershot  | Aug. 7, | 1915. |
-| 18 | 763 | 1783 | 3935 | 1817 | 415006 | Private.... | Pottie, Edward  | 66th Reg | I Pottie, Elie  | t/Ardoise, C.B., N.S  | Canada  | Halifax  | Aug. 10, | 1915. |
-| 18 | 763 | 1807 | 3936 | 1846 | 414S66 | Private.... | Poulton, Wilfred  | Nil  | ' Roper, Mrs. Emily . | -Vvdnny Mines, C.B., N.S  | England  | Sydney  | Aug. 7, | 1915. |
-| 18 | 764 | 1841 | 3936 | 1874 | 414353 | Private  | Powell, John    | Nil  | Irving, Mrs. John | Port Blandford, Nfld   | Newfoundland. | Aldershot  | July 20, | 1915. |
-| 18 | 764 | 1870 | 3936 | 1904 | 415282 | Private  | Power, James Joseph  | Nil  | Power, Mrs. Annie . | |12 Loekman St., Halifax, N.S  | Canada  | Aldershot  | Aug. 7, | 1915. |
-| 18 | 764 | 1898 | 3936 | 1933 | 482010 | Private.... | Power, John P  | Nil  | Zsvickor, Mrs. J. H. | ' ivnpool. Queens Co., N.S  | Irelnnd  | Sussex  | Aug. 25, | 1915. |
-| 18 | 764 | 1927 | 3936 | 1963 | 414427 | Private.... | Powers, Maurice  | Nil  | Powers, Mrs. Helen  | Plai’entin, Nfld  | Newfoundland. | Sydney  | Aug. 9, | 1915. |
-| 18 | 765 | 1957 | 3936 | 1992 | 415004 | Private.... | Price, Basil  | Nil  | Price, Samuel  | Inverness, N.S   | Canada  | Sydney  | Mnr. 26, | 1915. |
-| 18 | 764 | 1986 | 3936 | 2022 | 414800 | Private.... | Price, John  | Nil  | Price, Mrs. Emma | 77 Bilby St., Halifnx, N.S  | Cnnada  | Halifax  | July 30, | 1915. |
-| 18 | 765 | 2015 | 3937 | 2052 | 414069 | Private.... | Price, Stanley W.   | Nil  | |l,nngi!'e. Mrs. Georg.' | Oliver, Colchester Co., N.S  | Englnnd  | Aldershot  | (Aug. II, | 1915. |
-| 18 | 764 | 2044 | 3937 | 2081 | 4152' | Private.... | Purcell, El wood Milton... | Nil  | ,Purcell, Mrs. Susan. | 9 Suiter St., Halifax, N.S  | Canada  | Aldershot  | Aug. 3, | 1915. |
-| 18 | 765 | 2074 | 3938 | 2111 | 415279 | Private.... | Purceil, James Joseph  | 66t,h Regt | IPurcell, Miss Annie. | '8 Temple St., Boston, Mass, U.S.A  | Canada  | Aldershot  | Aug. 7. | 1015. |
-| 18 | 765 | 2102 | 3938 | 2140 | 414469 | Private  | Purcell, Lstvrence R  | Nil  | Purcell, Mrs. Susan | 9 Salter, St., Halifax, N.S  | Canada  | Aldershot  | Aug. 10 | 1915. |
-| 18 | 766 | 2132 | 3939 | 2170 | 415433 | Private.... | Purcell, William  . | Nil  | ’Purcell, John   | Sydney, C.B., N.S  | Canndn  | Sydney. . .. | lAug. 13 | . 1915. |
-| 19 | 636 | 359 | 3802 | 393 | 415391 | Private  | Putt, Thomas  | Nil  |  | ISt. John's, Nfld      | Newfoundland.. | Sydney  | Aug. 13,1915. |
-| 19 | 636 | 386 | 3803 | 426 | 414310 | Private  | Quinn, John Joseph    | 03rd Regt  | Quinn, Mrs. jcnni»  | [.'175 Barrington St.. Halifax. N.S  | Canada  | Hnlifax  | June 18,1915. |
-| 19 | 637 | 418 | 3802 | 453 | 414073 | Kcrgennt  | Quinn, William Richard  | Imp. Forces  | Quinn, Mrs. Annie  | iJoggin Mines, Cumberland Co., N.S  | Englnnd  | Anherst   | Mar. 19,1915. |
-| 19 | 636 | 446 | 3803 | 482 | 482030 | Private  | Rafuse, George L  | Nil  | Rafuse, Mrs. A  | ICentreville, N.S    | Canada  | Sussex  | Sept. 1,1915. |
-| 19 | 636 | 478 | 3804 | 512 | 415483 | Private  | Ramsden, John 13  | Nil  | Ramsden, Samuel | Lodges, Leeds, Yorks, Eng  | Englnnd  | Aldershot  | Aug. 14,1915. |
-| 19 | 635 | 508 | 3804 | 542 | 414805 | Privnte  | Hay, Herbert  | Nil  | McLeod, Mrs. J  | |20 West Ave., Haverhill. Mass., U.S.A  | Canada  | Aldershot  | Aug. 3, 1915. |
-| 19 | 635 | 532 | 3805 | 568 | 415185 |  |  | Nil  | ltea, Harry  | Spring Ilill, Cumberland Co., N.S  | Canada  | Aldershot  | July 24,1915. |
-| 19 | 635 | 567 | 3805 | 599 | 414044 | Private   | Read, Rayworth Wilton  | Nil  | Read, Edith  | Upper Rockport, Westmoreland Co., N.B  | Canada  | Amherst  | May 10,1915. |
-| 19 | 635 | 594 | 3805 | 628 | 415404 | Private  | Kcdford, Leslie Cabot  | 03rd Regt  | Redford, Mrs. John  | Bedford, Halifax, Co., N.S    | Cannda  | Valcartier  | Aug. 18,1915. |
-| 19 | 635 | 626 | 3805 | 657 | 415783 | Private  | Reid, Edwnrd M  | Nil  | Reid, Mrs. Melinda  | Cochiluate, Mass, U.S.A  | U.S.A  | Aldershot  | Aug. 7, 1915. |
-| 19 | 635 | 655 | 3805 | 687 | 414140 | Private  | Reid, Henry Nathan  | Nil  | Reid, Thomas...,   | Codroy, Nfld  | Newfoundland.. | Hnlifax  | April 28, 1915. |
-| 19 | 635 | 685 | 3806 | 716 | 415105 | Private  | Reid, Howard  | Nil  | Reid, Robert E  | Glnce Bay, C.B , N.S   | Cannda  | Glace Bay.... | Mar. 31, 1915. |
-| 19 | 635 | 714 | 3806 | 744 | 414662 | Privnte  | Reid, Jnmes  | Nil  | Reid, James  | 14 Exeter St., Plymouth, Eng  | Seotlnnd   | Amherst .... | Mny 7, 1915. |
-| 19 | 636 | 744 | 3806 | 774 | 415078 | Privnte  | Reid, Thomas  | Nil  | Bernard, Mrs. A. A  | P.O. Box 3, New Waterford, C.B., N.S  | Newfoundland . | Aldershot  | June 14, 1915. |
-| 19 | 637 | 773 | 3807 | 804 | 414320 |  |  |  | Reid, Jessie Campbell  | Spring Hill, Cumberland Co., N.S  | Canada  . | Spring Hill  | Mar. 17, 1915. |
-| 19 | 636 | 803 | 3807 | 833 | 415837 |  |  |  | Reiley, Hiram   | Spting Hill, Cumberland Co., N.S  | Canada  | Aldershot  | Aug. 10,1915. |
-| 19 | 636 | 834 | 3808 | 865 | 415252 |  |  | Nil  | Relf, Mrs. Edith  | 32 Lookman St., Halifax, N.S    | England  | Halifax  | July 30,1915. |
-| 19 | 636 | 862 | 3808 | 894 | 415401 | Private  | Rice, Henry George  | Nil  | Rice, Mrs. Fanny   | Pilloy island, Notre Dame Bay, Nfld  | Newfoundland.. | Halifnx  | Aug. 13, 1915. |
-| 19 | 635 | 892 | 3809 | 923 | 414324 |  |  | Nil  | Richards, Joseph  | Tufts Cove., Dartmouth, N.S  | Canndn  | Aldershot  | Aug. 8, 1915. |
-| 19 | 635 | 921 | 3809 | 953 | 414714 |  |  |  | Richards, John  | North Sydney, C.B., N.S  | Newfoundland.. | Sydney M ines. | Mar. 31, 1915. |
-| 19 | 635 | 951 | 3809 | 983 | 415383 | Privnte  | Riohardson, Harvey  | Nit  | Richardson, George  | Lovers Lane, Sydney, C.B., N.S  | Cannda  | Sydney  | Aug. 9,1915. |
-| 19 | 635 | 981 | 3809 | 1013 | 414011 | Sergeant  | Riley, Arthur  | R.C.R  | Ui-ley, Mrs. Matilda  | 103 North St., Halifax. N.S  | England  | Halifax  | Mar. 15, 1915. |
-| 19 | 635 | 1010 | 3810 | 1041 | 482053 |  |  | Nil  | Riley, William   | 36J-3 Macarn St., Halifax, N.S  | Canada  | Sussex  | Sept. 9, 1915. |
-| 19 | 635 | 1039 | 3811 | 1070 | 415204 |  |  | Nil  | Robur, f/eander  | Torbrook, Annapolis Co., N.S  | Canada  | Liverpool  | April 13, 1915. |
-| 19 | 635 | 1068 | 3812 | 1099 | 414807 |  |  | Nil  | Robb, Mrs. A. H  | Sydney, C.B., N.S  | Cannda  | Sydney  | Aug. 7,1915. |
-| 19 | 1838 | 1096 | 3812 | 1128 |  |  |  |  | Balch, Miss C    | 2 Almon Place., Halifax, N.S  | England  | Halifax  | Mar. 15, 1915. |
-| 19 | 636 | 1126 | 3812 | 1157 | 415872 | Privnte   | Roberts, Richard Henry  | Nil  | Roberts, Mrs. Mary  | Sydney Mines, C.B., N.S  | England  | Sydney  | Aug. 13,1915. |
-| 19 | 636 | 1149 | 3813 | 1185 | 414(130 |  |  | Nil  | Ross, Mrs. John  | New Waterford, C.B., N.S  | Canada  | Aldershot  | Aug. 11,1915. |
-| 19 | 636 | 1184 | 3813 | 1214 | 414938 | 'Private  | Pobcrtson, Donald R  | Nil  | Robertson, Mrs. Etta  | Truro, Colchester Co., N.S  | Canada  | Aldershot  | Aug. 12, 1915. |
-| 19 | 636 | 1213 | 3813 | 1245 | 415380 | Private  | Robertson, William Ailan  | Nit  | Gordon, Capt Alexander.. | North Sydney, C.B., N.S  | Cannda  | Sydney  | Aug. 13, 1915. |
-| 19 | 636 | 1242 | 3813 | 1274 | 415607 | Privnte  | Pobichenu, John  | Nil  | Robichenu, William  | Yarmouth, N.S  | Canada  | Yarmouth  | April 10, 1915. |
-| 19 | 636 | 1271 | 3813 | 1303 | 414929 |  |  |  | Robinson, Mrs. Edith  | 20 Bilby St.. Hnlifax, N.S  | Ireland   | Aldershot  | Aug. 10, 1915. |
-| 19 | 636 | 1301 | 3814 | 1332 | 414285 |  |  |  | Rogers, Edward  | King Edward St., Glace Bay, C.B., N.S  | Canndn  | Aldershot  | June 16, 1915. |
-| 19 | 637 | 1331 | 3814 | 1363 | 415781 |  |  |  | Rogers, John  | Derby, Eng  | Englnnd  | Aldershot  | Aug. 7, 1915. |
-| 19 | 636 | 1360 | 3815 | 1392 | 414430 | Privnte  | Rolls, Frederick John  | Nil  |  | Bona vista, Nfld  | Newfoundland. | Sydney  | Aug. 7,1915. |
-| 19 | 637 | 1388 | 3814 | 1420 | 415782 | Privnte  | Roonev, Berwick  | Nil  | Rooney, Winfield  | Canning, Kings Co., N.S  | Cnnada  | Aldershot  | Aug. 3,1915. |
-| 19 | 637 | 1418 | 3816 | 1450 | 414450 | Private  | Ross, Arthur  | S. A  | !>"«. Mrs Christie  | St. Peters, C.B., N.S  | Canada  | Valcartier.... | Aug. 12, 1915. |
-| 19 | 638 | 1447 | 3815 | 1478 | 414355 | Privnte  | Hoss, Howard.   | Nil  | i 1 ', Mrs. D  | St. Peters, C.B., N.S  | Cannda  | Aldershot  | Julv 29, 1915. |
-| 19 | 638 | 1476 | 3815 | 1509 | 414358 | Private  | lioss, John  | Nil  | I loss, James  | Grandique Ferry, C.B., N.S  | Canada  | Aldershot   | July 29,1915. |
-| 19 | 638 | 1505 | 3816 | 1539 | 414733 | Private  | Ross, John A  | Nil  | 'Voss, Mrs. Margaret  | Upper River, Inverness Co., N.S  | U.S.A  | Aldershot  | July 14,1915. |
-| 19 | 638 | 1534 | 3816 | 1568 | 415399 | Private  | Rout, Frederick George  | C.F.A  | Rout, Mrs. Alice M  | 21 Gerrish St., Halifax, N.S  | England  | Halifnx  | Aug. 13, 1915. |
-| 19 | 638 | 1562 | 3817 | 1597 | 415387 | J’rivnte  | Routlcdge, Cameron  | Nil  | Rout led ge, Mrs. Ellen  | Reserve Mines, C.B., N.S  | Canada  | Sydney  | Aug. 13, 1915. |
-| 19 | 639 | 1591 | 3816 | 1626 | 482034 | Private  | Routlcdgc, Willinm  | Nil  | Routledgc, Harry  | Armstrong 8t., Sydney, C.B., N.8  | Newfoundland. | Sydney  | Sept. 1, 1915. |
-| 19 | 639 | 1619 | 3817 | 1655 | 414417 | Private  | Rowley, Alfred Cornelius  | Nil  | Rowley, Mrs. Catharine... | 48 West, St.. Halifax, N.S  | Cannda  | Halifax  | July 30,1915. |
-| 19 | 639 | 1649 | 3817 | 1685 | 415385 | Private.  | Rowset 1, Joseph  | Nil  | Rowsell, Mrs. Caroline.... | l’uslithrough, Nfld  | Cannda  | Sydney  | Aug. 13,1915. |
-| 19 | 639 | 1678 | 3818 | 1712 |  |  | Roy, Gerald Edward  | 415907 | Corporal  | Nil  | Brittinn, Mrs. Catharine... | Yarmouth, N.S  | Cannda  | Yarmouth  | April 23, 1915. |
-| 19 | 639 | 1707 | 3818 | 1741 | 414512 | .Serpennt Major... | Russell, James  | Nil  | Russell, Tom Logan  | Snltburn-by-the-Sea, Yorks, Eng  | Seotlnnd  | Amherst  | Mnr. 1G, 1915. |
-| 19 | 640 | 1736 | 3819 | 1771 | 414907 | Private  | Ruston, Erry  | Nil  | Huston. Mrs. Sarah J  |  | Canada  | Aldershot  | Aug. 12,1915. |
-| 19 | 640 | 1765 | 3073 | 1796 | 414811 | Privnte  | Rvnn, Arthur  | Nil   | Ryan, Mrs. Catharine  | 52 Oinfton St., Halifax, N.8  |
-| 19 | 3132 | 1772 | 3819 | 1800 |  |  |  |  |  |  | Cannda  | Halifax  | July 30, 1915. |
-| 19 | 641 | 1794 | 3819 | 1829 | 415415 | Private  | Rvnn, Willinm Jnmes  | C.A.M.C  | Ryan, Mrs. Annie  | 53 Albemarle St., Halifax, N.S  | Canada  | Valcartier  | Aug. 23,1915. |
-| 19 | 641 | 1823 | 3819 | 1858 | 41.5430 | Private  | Si. Fctcr, Chnrlcs  | Nil  | St. Peter, Mrs. Rosanna... | Mnrcnn Station, Cumberland Co., N.8  | Canada  | Amherst  | Mnr. 17, 1915. |
-| 19 | 641 | 1852 | 3820 | 1889 |  |  | Snmson, Arthur  | 414497 | Private  | Nil  | Samson, Mrs. Daisy  | Stellarton, Tictou Co., N.S  | Englnnd  | Aldershot  | Aug. 12,1915. |
-| 19 | 641 | 1881 | 3820 | 1918 | 414908 | Privnte  | Schurmnn, Harry  | Nil  | Schurmnn, A. B  | 555 George St., Sydney, C.B., N.8  | Cnnndn  | Aldershot  | Aug. 12,1915. |
-| 19 | 642 | 1910 | 3821 | 1948 | 414871 | Private  | Scott, Jnmes Alfred  | R.C.R  | Scott, William B  | Bridgeport, C.B., N.S  | Cannda  | Sydney  | Aug. 7,1915. |
-| 19 | 642 | 1940 | 3074 | 1971 | 41550? | Sergeant  | Scott, Leonard Weston  | Nil  | Scott, Capt. Ellery  | Yarmouth, N.S  |
-| 19 | 3136 | 1948 | 3821 | 1976 |  |  |  |  |  |  | Canada  | Valcartier  | Sept. 21, 1915. |
-| 19 | 642 | 1969 | 3822 | 2006 | 414043 | Privnte  | Scranton, John Snmuel  | Nil  | Scranton, Miss Annie  | Manchester, Guysborough Co., N.S  | Cnnada  | New Glasgow.. | May 1, 1915. |
-| 19 | 643 | 1998 | 3822 | 2036 | 41541? | Privnte  | Scllon, Hownrd  | Nil  | Scllon, Mrs. Ada  | 85 Windsor St., Halifax, N.S  | Canada  | Valcartier  | Aug. 23, 1915. |
-| 19 | 643 | 2027 | 3812 | 2063 | 415009 | Privnte  | Selvnge, Waller  | Nit  | Selvage, James  | Yarmouth, N.S  | Canada  | Aldershot. .'.... | June 15, 1915 |
-| 19 | 644 | 2057 | 3822 | 2093 | 415419 | Private  | Serridge, Willinm  |  | Serridge, Mrs. Mary    | 43 Quinn St., Halifax, N.8  | Englnnd  | Valcartier  | Oct. 12, 1915. |
-| 19 | 644 | 2081 | 3824 | 2123 | 415091 |  |  |  | Shack ley, Mrs. Elizabeth. | New Glasgow, Pictou Co., N.S  | England  | Aldershot  | July 14,1915. |
-| 20 | 937 | 604 | 3420 | 635 |  |  |  | Former Corps. |  |  | Country of |
-| 20 | 746 | 751 | 3918 | 783 | 415850 | Private  | ShafTner, Elliott  | 69th Regt  | ShafTner, L. S  | Middleton, Annapolis Co., N.S  | Canada  | Aldershot Aug. 11, 1915. |
-| 20 | 745 | 780 | 3918 | 817 | 414280 | Private  | Shank ley, Robert  | N U  | Slemming, Mrs.J  | (♦Vjwdenbeath, Fife, Scot   | Scotland  | Aldershot June 14, 1915. | Aldershot |
-| 20 | 744 | 810 | 3917 | 842 | 416480 | Private...,  | Share, Waller E  | 63rd Regt  | Share, Mrs. Lurv.. | Yale St., Halifax, N.S   | Canada  | Valcartier Oct. 8, 1915. | Valcartier |
-| 20 | 745 | 838 | 3919 | 871 | 414072 | Private.   | Shaw, William  | Nil  | Shaw, Sarah Ann. | Glace Bay, C.B., N.S    | England  |  | Aug. 13, 1915. | Sydney  |
-| 20 | 745 | 869 | 3918 | 901 | 414846 | Private  | Shatford, Clarke   | Nil  | Shatford, Mrs. Matilda. | Mill Cove, Lunenburg Co., N.S  | Canada  |  | Aug. 7, 1915. | Aldershot  |
-| 20 | 746 | 898 | 3918 | 931 | 414800 | Private  | Shepherd, George William  | Nil  | Shepherd, Mr*. Lillian | Florence, C.B., N.S  | England  |  | Aug 7, 1915. | Sydney   |
-| 20 | 746 | 927 | 3918 | 961 | 416888 | Private  | Shipley, Frederick  | 66th Regt  | Shipley, Mrs. M . | 32 Dresden Row, Halifax, N.S  | Canada  |  | Aug. 7, 1915. | Halifax  |
-| 20 | 747 | 957 | 3919 | 990 | 414471 | Private  | Shubley, Arthur  | R.C.G.A  | Shubley, Mrs. 13. Ella | :6 West St., Halifax, N.S  | Canada  |  | Aug. 10, 1915. | Aldershot  |
-| 20 | 748 | 986 | 3919 | 1019 | 416847 | Private  | Shupe, Robert  | Nil  | Shupe, Marjorie... | Tunket, Yarmouth Co., N.S  | Canada  |  | Aug. 12, 1915. | Aldershot  |
-| 20 | 748 | 1015 | 3918 | 1047 | 414501 | R.S.M  | Siddlo, Ernest Arthur  | Imp. Forces  | Siddle, Mrs. Maud  | t Donalds Avo., Amherst., Cumberland Co., N.S  | England  |  | April 7, 1915. | Amherst  |
-| 20 | 748 | 1044 | 3919 | 1077 | 415014 | Private  | Simmonds, Arthur George  | U. S. Army  | Simmonds. Miss E... . | Weymouth North, Digby Co., N.S  | U.S.A  |  | Aug. 23, 1915. | Valcartier  |
-| 20 | 747 | 1073 | 3918 | 1105 | 416013 | Private  | Simms, J. Edward  | 08th ltcgt,  | Simms, William  | Liverpool, Queens Co., N.S  | Canada  |  | April 13, 1915. | Liverpool  |
-| 20 | 747 | 1102 | 3919 | 1134 | 415344 | Privato  | Simpson, Arthur  | O. Re.-?. A.S.C  | Simpson, Frank Marsh | F.dm^nton, Alta  | Canada  |  | Aug. 13, 1915. | Sydney  |
-| 20 | 747 | 1131 | 3919 | 1165 | 415084 | Private   | Simpson, Ellnrd  | Nil  | Simpson. Mrs. Lucy M | 4 Bridge St., Bevorly, Mass., U.S.A  | Cannda  |  | July 24, 1915. | Aldershot  |
-| 20 | 748 | 1160 | 3919 | 1195 | 415012 | Sergeant  | Skead, George Carleton McKay... | C.F.A  | Skead, Madge  | : Jubilee Rd., Halifax, N.S  | Canada   |  | April 17, 1915. | Bridgewater.... |
-| 20 | 748 | 1190 | 3916 | 1223 | 414873 | Private  | Slancy, Harold  | Nil  | Slaney, Miss Alsie . . . | ydney Min»»s, C.B., N.S  | Englnnd  |  | Aug. 7, 1915. | Sydney  |
-| 20 | 748 | 1219 | 3920 | 1251 | 415059 | Private  | Slaunwhite, Georgo Arthur  | 03rd Regt  | Slaunwhite, Ernest . | 91 Windsor St., Halifax, N.S   | Canada   |  | Aug. 23, 1915. | Valcartier  |
-| 20 | 748 | 1248 | 3920 | 1281 | 414240 | Private  | Smith, Arthur  | Nil  | McKay, Roderick . | Grand River, Richmond Co., N.S  | Canada  |  | June 19, 1915. | Aldershot  |
-| 20 | 748 | 1277 | 3921 | 1310 | 415302 | Private  | Smith, Charles Vincent  | Nil  | Smith, Mrs. Grace . | *79 Prince St., Sydney, C.B., N.S  | Canada  |  | Aug. 7, 1915. | Sydney  |
-| 20 | 748 | 1306 | 4027 | 1340 | 416000 | Private  | Smith, Clayton  | Nil  | Smith, Miss Eva A | Srnithsville, Shelburne Co., N.S  | Canada  |  | Aug. 14, 1915. | Aldershot  |
-| 20 | 749 | 1335 | 3922 | 1369 | 415751 | Private  | Smith, Clifford Kay  | 68th Regt  | Smith, Mrs. Lillian. | Windsor, Hants Co., N.S  | Canada  |  | Julv .31,1915. | Halifax  |
-| 20 | 749 | 1364 | 3922 | 1398 | 41609$ | Private  | Smith, Dan R  | Nil  | Smith, Able  | Port Morion, C.B., N.S  | Canada  |  | Mar. 25, 1915. | Sydney  |
-| 20 | 750 | 1393 | 3922 | 1427 | 415800 | Private  | Smith, Douglas  | Nil  | Smith, James. .... | Smifchmrille, Shelburne Co., N.S  | Canada  |  | Aug. 14, 1915. | Aldershot  |
-| 20 | 749 | 1422 | 3922 | 1456 | 41491 • | Private  | Smith, F. Earl  | Nil  | Smith, Mrs. Matilda | 13 Copp Ave., Amherst, Cumberland Co., N.S  | Canada  |  | Aug. 11,1915. | Aldershot  |
-| 20 | 750 | 1451 | 3922 | 1486 | 41601 | Private  | Smith, Guyon Locko  | Nil  | Smith, Mrs. Elsio  | lyockeport. Shelburne Co., N.S  | Canada  |  | May 1,1915. | Liverpool  |
-| 20 | 750 | 1480 | 3922 | 1514 | 416623 | Privato.  | Smith, Harry   | Nil  | Smith, Mrs. Hattie  | Yarmouth, N.S  | Canada  |  | April 12, 1915. | Yarmouth  |
-| 20 | 751 | 1509 | 3922 | 1543 | 414115 | Private*  | Smith, Howard  | Nil  | Smith, Mrs. Gladys.. | "0 Argylo St., Halifax, N.S  | Canada  |  | April 6, 1915. | Halifax  |
-| 20 | 751 | 1539 | 3922 | 1572 | 482005 | Private  | Smith, Howard  | Nil  | Smith, Mrs. Annie  | Lunenburg, N.S  | Canada  |  | Aug. 25, 1915. | Sussex  |
-| 20 | 751 | 1567 | 3923 | 1600 | 414801 | Private  | Smith, James Albert  | Nil  | Smith, Mrs. James. | Sydney Mines, C.B., N.S  | England  |  | Aug. 7, 1915. | Sydney  |
-| 20 | 751 | 1597 | 3922 | 1631 | 416470 | Private  | Smith, James Joseph  | Nil  | Smith, Minnie  | V* Bedford Row, Halifax, N.S  | Canada  |  | Sept. 8, 1915. | Valcartier  |
-| 20 | 751 | 1626 | 3923 | 1659 | 416121 | Private  | Smith, John  | Territorials  | Smith, Mrs. Emma F. | Glace Bay, C.B., N.S  | England  |  | Mar. 27. 1915. | Sydney  |
-| 20 | 752 | 1655 | 3923 | 1688 | 414245 | Privato  | Smith, John  | Nil  | Not stated  • | Not Stated  | England  |  | June 19, 1915. | Aldershot  |
-| 20 | 752 | 1684 | 3924 | 1716 | 414283 | Privato  | Smith, Martin   | Nil  | Smil l, M i s. Mary | Port Mulgrave, Guysboro’ Co., N.S  | Canada  |  | June 16, 1915. | Aldershot  |
-| 20 | 752 | 1713 | 3925 | 1748 | 414400 | Private  | Smith, Ralph P   | Nil  | Smith, Mrs. Verne ... | Bathurst, Gloucester Co., N.B  | Canada  |  | Aug. 12, 1915. | Aldershot  |
-| 20 | 753 | 1742 | 3924 | 1774 | 414337 | Private  | Smith, Robert Arthur..   | Nil  | Smith, Mrs. Wiliam | Goldboro*, Guysborough Co., N.S  | Canada  |  | Julv 20, 1915. | Kentville  |
-| 20 | 753 | 1770 | 3924 | 1804 | 414808 | Privato  | Smith, Robert William  | Nil  | .. Wilkie, Mrs. Christina | Aspy Bay, Cape North, C.B., N.S   | Canada  |  | Aug. 7, 1915. | Sydney   |
-| 20 | 754 | 1800 | 3925 | 1834 | 415843 | Private  | Smith, Thomas.  | Nil  | ..;Smith, Mrs. Susan | Port Maitland, Yarmouth Co., N.S  | Canada  |  | Aug. 12. 1915. | Aldershot   |
-| 20 | 754 | 1828 | 3926 | 1863 | 414325 | Private.....  | Smith, Walter John  | Nfld | . Mil. | .. (Smith, John  | 5 Spence St., St. John’s, N fid  | Newfoundland | July 13, 1915. | Halifax  |
-| 20 | 754 | 1858 | 3926 | 1894 | 482000 | Privato  | Sinythe, John  | Nil.. | . . ISmythe, James... | Parrsboro’, Cumberland Co., N.S  | Canada  |  | Sept. 1, 1915. | Sussex  |
-| 20 | 755 | 1887 | 3926 | 1924 | 414045 | Private  | Smvthe, Warren 13    | 70 Ih Regt  | . ... Smythe, Mrs. W. K | Truro, Colchester Co., N.S  | U.S.A  |  | April 28, 1915. | Truro  |
-| 20 | 755 | 1917 | 3927 | 1953 | 414293 | Private  | Snider, Albert  | OGth Regt Snider, Mrs. 1 |  | Quarrel St., Dartmouth, N.S  | Canada  |  | June 21,1915. | Aldershot  |
-| 20 | 755 | 1946 | 3928 | 1981 | 415807 | Privnte  | Snow, Oscar   | Nil  | Snow, Mrs. Jennie. | Port La Tour, Shelburne Co., N.S  | Canada  |  | Aug. 14, 1915. | Aldershot   |
-| 20 | 756 | 1975 | 3928 | 2010 | 415073 | Private  | Snow, William  | Nil  | (Snow, Mrs. Emma | Glaee Bay, C.B., N.S  | Newfoundland. |  | July 14, 1915. | Aldershot  |
-| 20 | 757 | 2004 | 3928 | 2041 | 415345 | Private  | Spracklin, Wilcox  | Nil  | . Spracklin, Wilcox. | North Sydney, C.B . N.S  | Newfoundland. |  | Aug. 13, 1915. | Sydney  |
-| 20 | 757 | 2034 | 3928 | 2073 | 415504 | C.Q.M.S  | Spurr. Augustus T  | Nil  | . iSpurr, Mrs. A. T... | Round Hill, Annapolis Co., N.S  | Canada  |  | May 10, 1915. | Digby •  |
-| 20 | 757 | 2062 | 3929 | 2101 | 415620 | Private.. | Squibbs, Sylvester S.  | 11. Can. Eng. | .Hires, Mrs. Frederick | Amherst, Cumberland Co., N.S  | Ireland  |  | April 1, 1915. | Windsor  |
-| 20 | 758 | 2092 | 3929 | 2129 | 414209 | Privato iStapleton. William |  | 66th Rpgt  .. Stapleton, Frnncis |  | 44 Stair St., Halifax. N.S  | Canada  |  | June 2, 1915. | Aldershot. ... |
-| 20 | 758 | 2121 | 3929 | 2156 | 414895 | Private 'Stevpns. Harris . |  | Nil   .Williams, Mrs. Aron |  | River Hebert, Cumberland Co., N.S  | Canada |  | Aug. 10. 1915. | Aldershot  |
-| 21 | 646 | 368 | 3808 | 402 | 414390 | Privato  | Steeves, Blair  | 08th Regt.. | iSteeves. Mrs. Annie | Little River, St. John Co., N.B  | Canada  | Truro  | 28, 1915. |
-| 21 | 646 | 398 | 3808 | 431 | 41412? | I’rivale  | Stevens, Hugh  | Nil  | Stevens, Richard. | Dahlia St., Dari; i 'Utli, Halifax Co., N.S  | Canada   | Halifax  | 9, 1915. |
-| 21 | 646 | 428 | 3808 | 461 | 415492 | Private  | Stevenson, John    | 78th Regt.. | Stevenson, Mrs. John | Stellarton. Pictou < " . N'.S  | Newfoundnlnd.. | New Glasgow.. | 30.1915. |
-| 21 | 650 | 457 | 3809 | 490 | 115230 | Private  | Stevenson, Thomas T  | Nil  | (Stevenson. William J | Big Bras d'Or, \ i lori.’t Co., C.B. N.S    | Scotland  | Aldershot  | 29, 1915. |
-| 21 | 645 | 486 | 3810 | 517 | 414602 | Private  | Stewart, Arthur  | Nil  | .-Stewart, John  | Sutton in-Ashfiold. Notts., Eng '.  | England  | Sydney  | 7, 1915. |
-| 21 | 644 | 517 | 3810 | 550 | 414031 | Private.   | Stewart, ('harles D.    | Nil  | Stewart, Mrs. Mary Dale | Wostville, Pictou Co., N.S  | Canada  | New Glasgow. . | 1, 1915. |
-| 21 | 644 | 546 | 3810 | 578 | 414(133 | Private  | Stewart, Samuel R  | Nil  | Stewart, Mrs. Viola  | Westville, Pictou Co., N.S  | Canada  | New Glasgow. . | 31, 1915. |
-| 21 | 644 | 576 | 3810 | 608 | 414470 | Private  | Stewart, William  | Nil  | Stewart, Archibald.... | 8 Clyde St., Anderson, Glasgow, Scot  | Scotland  | Aidershot  | 10.1915. |
-| 21 | 644 | 605 | 3810 | 637 | 414853 | Private  | Slone, Stanley  | Nil  | none. Mrs. Lizzie  | Glace Bay, C.B., N.S   | Canada  | Sydney  | 7, 1915. |
-| 21 | 643 | 634 | 3810 | 672 | 415059 | Privato  | Stone, Thomas W  | Territorials. | Stone, Mrs. T. W  | New Tuskct, Digby Co., N.S,  | England j | Yarmouth  | 13.1915. |
-| 21 | 643 | 664 | 3810 | 697 | 415271 | Private  | Strangward. Bertram John  | Nil  | Strnngnard, Francis E. | 98 Argytc St., Halifax, N.S  |  |  | 30.1915. |
-| 21 | 643 | 693 | 3810 | 726 | 415755 | Private  | St rickland, < Jecil  | Nil  | Strickland, Emanuel  | Port aui Basque. Nfld  | Newfoundland.. | Aldershot  | 3, 1915. |
-| 21 | 644 | 723 | 3811 | 755 | 415983 | Private  | Strobridge, Thomas  | Nil  | Strobridge, Miss Emma | Fortune Bay, Nfld  | Newfoundland.. |  | 13, 1C15. |
-| 21 | 644 | 752 | 3811 | 783 | 414943 | Privato  | S t- rowbrid go, Frcderick  | Nil  | Hardy, Mrs. Emma.. | Belleoram, Fortune Bay, Nfld    | Newfoundland.. |  | 13, 1915. |
-| 21 | 644 | 781 | 3811 | 812 | 482078 | Privato  | Stymest, Percy H   | Nil  | Stymest, W  | Fairville, St.John, N.B  | Canada  | Sussex  | 18.1915. |
-| 21 | 644 | 811 | 3811 | 843 | 415748 | Privato  | Suker, Thomas < »enio  | Nil  | Suker, Mrs. Eva  | 190 Creighton St., Halifax, N.S  |  |  | 29.1915. |
-| 21 | 644 | 840 | 3812 | 871 | 414854 | Privato  | Sullivan, Frederick William  | Nil  | Sullivan, Airs. Katherine. | New Aberdeen, C.B., N.S   |  |  | 7, 1915. |
-| 21 | 643 | 870 | 3811 | 901 | 415412 | Private  | Sullivan, William  | Nil  | Sullivan, Mrs. William.. | 48 John St., Halifax, N.S  |  |  | 23, 1915. |
-| 21 | 643 | 899 | 3812 | 928 | 415231 | Private  | Sutherland, Andrew  | Nil  | Sutherland, Donald  | Now Harris. Victoria Co., C.B., N.S  |  |  | July | 29, 1915. |
-| 21 | 641 | 929 | 3812 | 958 | 414933 iPrivate  |  | Sutherland, Henry M  | Nil  | Sutherland, Mrs. Clnra. | Truro, Colchester Co., N.S  |  |  | 10.1915. |
-| 21 | 642 | 954 | 3812 | 989 | 482062jPrivate  |  | Suttie, Guy  | C.F.A  | Suttie, Alfred B  | Yarmouth North, N.S •.  |  |  | 19, 1915. |
-| 21 | 641 | 988 | 3812 | 1018 | 41 5R4D Privf, 11. | •f I (>'' 11 l 1 l \ 11 i   |  |  | Suttie, Laura  | Vancouver St., Yarmouth, N.S  |  |  | 12, 1915. |
-| 21 | 641 | 1016 | 3812 | 1048 | 416003 Private   |  |  | Nil  | Swaine, Mrs. Emma.... | Canso, Guysborough Co., N.S  |  |  | 14, 1915. |
-| 21 | 642 | 1046 | 3813 | 1076 | 414W53 Private  |  | Swaine. Roland Judson  | Nil  | Swaine, Samuel  | t’anso, Guysborough Co., N.S  | Canada  |  | 10, 1915. |
-| 21 | 641 | 1071 | 3812 | 1105 | 414195 (’orporal  |  | Swan, Edwnrd Thomas  | Nil......... | Swan. Mrs. Mary  | 64 Portabeila Rd., Kensington, West London, Eng  | England  | Halifax  | 27, 19i;. |
-| 21 | 641 | 1104 | 3814 | 1134 | 414701 Private  |  | Swanwick, Alfred  | Territorials. | Swanwick, Mrs. Gertrude | Spring Hill Mines, Cumberland Co., N.S  | England  | Aldershot  | 29. 1915. |
-| 21 | 641 | 1134 | 3814 | 1164 | 114937 | Private  | •M, Ralph  | Nil  | Sweet, Mrs. Bertha  | Gohlenville, Guysborough Co., N.S   |  |  | 12, 1915. |
-| 21 | 641 | 1160 | 3815 | 1192 | 414830 | Privote  |  | Nil  | Swindells. Maggie  | 280J4 Campbell Rd., Halifax, N.S  |  |  | 2, 1915. |
-| 21 | 641 | 1188 | 3816 | 1226 | 414449 | Private  |  | Nil  | Dobbin, Mrs. Charles.. | Sydney. C.B., N.S  | Newfoundland |  | 7.1916. |
-| 21 | 641 | 1219 | 3815 | 1249 | 416784 | Private  |  | Nil  | Taylor, William C  | Yarmouth, N.S  |  |  | 7, 1915. |
-| 21 | 640 | 1248 | 3815 | 1278 | 414040 | Privato  | Torrio, William D  |  | Terrio. Mrs .lane Burk. | Douglas Ave.. Amherst, Cumberland Co., N.S  | Cannda  |  | 8, 1915. |
-| 21 | 641 | 1276 | 3815 | 1307 | 414311 | Private  | Theriault, John  | Nil  | Theriault, Mrs. Ada.... | Weymouth, Digby Co., N.S  | Canada  |  | 10.1915. |
-| 21 | 640 | 1305 | 3816 | 1336 | 415085 | Privato  | Thomas, Charles  | Territorials. | Thomas, Mrs. Marie.... | 26 Olnev St., County RdWalton, Liverpool, Eng  | England  | Aldershot  | 24. 1915. |
-| 21 | 641 | 1334 | 3817 | 1364 | 415411 | Private  | Thomas, David John.  | Nil  | Thomas, Mira M  | 83 Albemarle St., Halifax N.S :  | Canada  | Valcartier  | 23, 1915. |
-| 21 | 641 | 1360 | 3816 | 1394 | 415702 | Private  | Thompson, Aubrey Simpson  | Nil  | Thompson, J. R  | 40 Devon St., Moncton, Westmoreland, N.B  |  |  | Aug. | 3, 1915. |
-| 21 | 640 | 1391 | 3817 | 1424 | 415812 | Private....  | Thompson, iiornce   | 93rd Regt.. | Thompson, Mrs. W. B. | Sackville, Westmoreland Co., N.B  |  |  | Aug. | 10.1915. |
-| 21 | 641 | 1420 | 3817 | 1453 | 4148721 Private   |  | rhomp m o nas Nikolai  | Nil  | Thompson, Nikolai.... | Morke, Denmark  |  |  | Aug. | 7, 1915. |
-| 21 | 641 | 1449 | 3816 | 1481 | 414522 | .Sergeant  ... | Thornton, Charles William  | Nil  | Thornton, Amelia  | P.O. Box 694, Amherst, Cumberland Co., N.S  |  |  | Mar. | 18, 1915. |
-| 21 | 641 | 1478 | 3817 | 1511 | 414457 | Private  | Timmins, Guy W   | Nil  | Timm ins. William A... | 61 Le Marchant St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 10.1915. |
-| 21 | 641 | 1507 | 3818 | 1538 | 416278 Pri vate  |  | Tindle, George *  | Nil  | Smith. Mrs. Nettie  | !27 Grafton St., Halifax, N.S  | England  | Aldershot  | Aug. | 7, 1915. |
-| 21 | 641 | 1535 | 3817 | 1568 | 414140'Corporal  |  | Toed, Guv.    | 09th Regt.. | Todd. Jnmes  | Bridgetown, Annapolis Co., N.S  |  |  | April | 27, 1915. |
-| 21 | 641 | 1565 | 3817 | 1600 | 4142871 Sergeant  |  | Todd, John McDonald  | Imp. Force* | Todd, Mrs. Eva  | 23 Dresden Row, Hnlifax, N.S   |  |  | June | 16. 1915. |
-| 21 | 641 | 1598 | 3120 | 1626 | 414498 Privato  |  | Tomkinson. Samuel  | Nil  | Tomkinson, Mrs. Mary J< | Stellarton, Tictou Co., N.S   |
-| 21 | 640 | 1622 | 3818 | 1656 | 414891 Private  |  | Tompkins. Jam^s Kenneth  | Nil  | Tompkins, Michael.. | Truro, Colchester Co., N.S  |  |  | Aug. | 10, 1915. |
-| 21 | 640 | 1651 | 3819 | 1686 | 4820911 Privato  |  | Tracey, James T  | r,ith Regt., | Tracey, Martin  | New Aberdeen, C.B., N.S  |  |  | Aug. | 24, 1915. |
-| 21 | 641 | 1685 | 3120 | 1718 | 415517 (Corporal  |  | Trask, Charles Edward  | C.F.A  | Trask, Clayton  | Yarmouth, N.S  |
-| 21 | 641 | 1714 | 3120 | 1745 | 4l4817|Privato  |  | Travers, John Janies  | Nil  | Travdrs, Mrs. Mary. . | 37BJ-4 Barrington St., Halifnx, N.S  |
-| 21 | 641 | 1743 | 3120 | 1773 | 4l58l3IPrivate  |  | Tray nor, John. ..    | R.C.R  | Jones, M ary  | 91 Cann St.. Lansdown Rd., Manchester, Eng  |
-| 21 | 3378 | 1765 | 3819 | 1794 |  |  |  |  |  |  |  | Digby  | April | 5. 1915. |
-| 21 | 641 | 1771 | 3120 | 1802 | 415025 | Private  | Turnbull, Alfred M  | Nil  | Turnbull, Henry G... | Digby, N.S  |
-| 21 | 642 | 1801 | 3120 | 1831 | 415514 Srrp’Mnt  |  | Turnbull, George Archer  | Nil  | Turnbull. Mrs. George D | Digby, N.S  |
-| 21 | 642 | 1830 | 3120 | 1859 | 415ISO Privato  |  | Turner, Gordon ii  | Nil  | Turner, John | 206 Caledonin Minos, C R., N.S  |
-| 21 | 642 | 1858 | 3120 | 1889 | 4159021 Private  ... |  |  | OOth Regt.. | Turner, Mrs. Ixjuise . | 305 Maynard St., Halifax, N.S.    |
-| 21 | 642 | 1888 | 3120 | 1918 | 416905 | Private  | Turner, Raymond Vaughan  | 00th Regt.. | Turner, Mrs. L   | 305 Maynard St., Halifax, N.S  |
-| 21 | 642 | 1917 | 3108 | 1947 | 4158K«>| Private  |  | Turpin, James  | 03rd Regt.. | Squires, Mrs. Susie.. | 1 Fawson St. Halifax N.S..  |
-| 21 | 642 | 1945 | 3108 | 1976 | 415702; Private  |  | Twist, Auston  | 94 th Regt.. | Knowles, Mrs. Alice. | Caledonia Mines, C.B., N.S  |
-| 21 | 642 | 1975 | 3110 | 2006 | 416429 Private  |  | Twist, John .   | Nil...  | Twist, Mrs. Alice | Glace Bay, C.B., N.S  |
-| 21 | 3138 | 1994 | 3821 | 2023 |  |  |  |  |  |  | Canada.  | Aldershot  | Aug. | 12, 1915. |
-| 21 | 642 | 2004 | 3111 | 2033 | 415853 Private  |  | Vanhorne, Reuben  | Nil  | . Vnnhome, Mrs. Jessie M | Yarmouth, N.S    |
-| 21 | 3142 | 2023 | 3820 | 2052 |  |  |  |  |  |  | Newfoundland | Aldershot. .*.... | July | 29. 1915. |
-| 21 | 642 | 2033 | 3110 | 2065 | 4147G2 Privato  |  | Vaters. Eli   | 9tth Regt.. | Vnt>-n<, Rebecca . | North Sydney, C.B., N.S  |
-| 21 | 643 | 2062 | 3109 | 2094 | A 1 | Privn) n |  |  | .Vaughan, Mrs. Ellen. | 144 Creighton St., Halifax. N.S  |
-| 21 | 643 | 2091 | 3111 | 2123 | 4154141 Privato  |  | Veinott, Alexander  | Nil  | .IVeinott, Mrs. Mary | Myrtle St., Dartmouth, Halifax Co., N.S  |
-| 22 | 749 | 568 | 3416 | 610 | •S.55 |  |  | Former Corps. |  |  | Country of |
-| 22 | 749 | 718 | 3914 | 750 | 415835 | Private.. | Veinott, Robert W  | Nil  | Veinott, Mrs. A   | Bridgewater, Lunenburg Co., N.S  | Canada  | Aldershot  | Aug. | 12, | 1915. |
-| 22 | 749 | 749 | 3914 | 780 | 4)5752 | Privato.. | Vincent, George Thornton  | Nil  | Vincent, Mrs. Maggie  | <13 South St., Halifax, N.S  | Canada  | Halifax  | June | 5, | 1915. |
-| 22 | 749 | 778 | 3914 | 808 | 414883 | Privato.. | Waite, Vibert L  | Nil  | Waite, Mrs. J. C  | Truro, Colchester Co., N.S  | Canada  | Aldershot  | Aug. | 10, | 1915. |
-| 22 | 749 | 807 | 3914 | 839 | 416179 | Private.. | Walker, David 11  | Nil...  | Walker, George ...   | Joirdn Mines, Cumberland Co., N.S  | Canada  | Aldershot  | July | 24, | 1915. |
-| 22 | 748 | 838 | 3915 | 868 | 41670: | Privato,. | Walker, Harry  | Imp. Forces  | Walker, Miss Jessie  | ydnejr Mines, C.B., N.S  | England  | Aldershot  | July | 29, | 1915. |
-| 22 | 749 | 867 | 3915 | 897 | 415031 | Private.. | Walker, Isaac  | Nil  | Walker, Hannah V... . | Weymouth, Digby Co., N.S  | England  | Digby  | May | 11, | 1915. |
-| 22 | 747 | 896 | 3915 | 926 | 41579X | Private.. | Walker, Lawronce  | Nil  | Walker, Arthur  | Thorn Road Lane, Nottingham, Eng  | England  | Aldershot  | Aug. | 10, | 1915. |
-| 22 | 747 | 926 | 3916 | 956 | 415716 | Privnlo.. | Wall, Patrick  | Nil  | Wall, Michael  . ... | Herring Cove, Nfld  | Newfoundland.. | Sydney  | Aug. | 9, | 1915. |
-| 22 | 747 | 955 | 3916 | 985 | 414814 | Private,. | Waller, Edward Patrick  | Nil  | Waller, Mrs. Edward... | ■S00 Pleasant St., Halifnx, N.S  | Canada  | Aldershot  | Aug. | 3, | 1915. |
-| 22 | 747 | 984 | 3916 | 1015 | 41484'! | Private.. | Walsh, John Edward  | Nil  | Walsh, John  | Sydney Mines, C.B., N.S  | Canada   | Sydney  | Aug. | 9, | 1915. |
-| 22 | 747 | 1014 | 3916 | 1043 | 415687 | Private.. | Walsh, Maurice  | Nil  | Walsh, James  | YVestern Bay, Nfld  | Newfoundland.. | Aldershot  | July | 24, | 1915. |
-| 22 | 747 | 1042 | 3915 | 1073 | 41547!' | Privnte.. | Walters, Reucl  | Nil  | Walters, Harry   | Upper Keunetcook, Hants Co., N.S  | Canada  | Aldershot.  | Aug. | H, | 1915. |
-| 22 | 746 | 1071 | 3916 | 1101 | 416839 | Privato.. | Walton, Stanley  | Nil  | Walton, Sarah   | Truro, Colchester Co., N.S  | Canada  | Aldershot  | Aug. | 12, | 1915. |
-| 22 | 745 | 1101 | 3917 | 1130 | 415B90 | Private.. | Wnmbolt, Guy Alonzo  | Nil  | Wambolt, Emma...   | Portland St., Dartmouth, Halifax Co., N.S  | Canada  | Valcartier  | Aug. | 23, | 1915. |
-| 22 | 747 | 1130 | 3916 | 1160 | 4I4S41 | Private.. | Ward, Charles Henry  | Royal Navy  | Ward, Mrs. Ada F  | 30 North Creighton St., Halifax, N.S  | England  | Halifnx  | July | 30, | 1915. |
-| 22 | 745 | 1159 | 3916 | 1189 | 415753 | Private.. | Ward, Thomas Joseph  | Nil  | Ward, Mrs. Mary Ann. ... | Wentworth St., Windsor, Hants Co., N.S  | Canada  | Halifax  | July | 31, | 1915. |
-| 22 | 745 | 1188 | 3916 | 1217 | 415693 | Private.. | Warden, Joseph Cecil  | Nil  | Warden, Mrs. A  | Kingsport, Kings Co., N.S  | Canada  | Aldershot  | July | 24, | 1915. |
-| 22 | 745 | 1216 | 3916 | 1248 | 415438 | Private.. | Warren, John    | Nil  | Warren, George   | Spring Hill, Cumberland Co., N.S  | England  | Sussex  | Aug. | 18, | 1915. |
-| 22 | 745 | 1246 | 3916 | 1277 | 414892 | Private.. | Watson, George  | Nil  | Bell, Agnes  | 23 Beckginns, Whitehaven, Cumberland Co., Eng. | England  | Aldershot  | Aug. | 10, | 1915. |
-| 22 | 745 | 1276 | 3916 | 1306 | 414476 | Private., | Watson, William George  | Nil  | Wat-son, Mrs. Agnes Jane  | Truro, Colchester Co., N.S  | Canada  | Aldershot  | Aug. | 10, | 1915. |
-| 22 | 745 | 1305 | 3917 | 1336 | 482047 | Privato.. | Way, David  | Nil  | Way, Mrs. Sarah  | Sydney Mines, C.B., N.S  | Canada  | Sydney  | Sept. | 1, | 1915. |
-| 22 | 746 | 1334 | 3916 | 1365 | 415421 | Private.. | Way, Henry  | Nil  | Way, Miss Lucy  | c/o Mrs. John McDonald, Millville, C.B., N.S  | Canada  | Aldershot  | Aug. | 14, | 1915. |
-| 22 | 745 | 1364 | 3916 | 1394 | 414851 | Private.. | Way, Robert   | Nil  | Way, Robert  | Sydney Mines, C.B., N.S    | Canada  | Sydney  | Aug. | 7, | 1915. |
-| 22 | 744 | 1393 | 3917 | 1424 | 415988 | Private.. | Way, Walter John  | Nil  | Way, Annie  | Woodland Ave., Dartmouth, Halifax, N.S  | England  | Halifax  | Aug. | 12, | 1915. |
-| 22 | 744 | 1422 | 3917 | 1452 | 415799 | Private.. | Weatherbed, James  | Nil  | Weatherbed, John  | Pynn Terr., Nottingham, Eng  | England  | Aldershot  | Aug. | 10, | 1915. |
-| 22 | 744 | 1451 | 3917 | 1483 | 414370 | Private.. | Weatherdon, Thomas Jeremiah.. | 66th Regt  | Weatherdon, Mrs. Eva May. | 32 Albemarle St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 3, | 1915. |
-| 22 | 744 | 1480 | 3917 | 1510 | 482044 | Private.. | Webb, Joseph K  | Nil  | Webb, Logan K  | Birmingham, Eng  | England   | Sussex  | Aug. | 24, | 1915. |
-| 22 | 744 | 1510 | 3917 | 1538 | 414942 | Private.. | Weeks, Charles   | Nil  | Weeks, Mrs. Mary Ann  | Glace Bay, C.B., N.S  | Canada   | Sydney  | Aug. | 13, | 1915. |
-| 22 | 743 | 1537 | 3917 | 1568 | 416420 | Privato,. | Weir, Archibald   | Nil  | Weir, Mrs. Cnthcrine  | Reserve Mines, C.B., N.S..’.  | Scotland  | Sydney  | M By | 3, | 1915. |
-| 22 | 742 | 1567 | 3917 | 1597 | 414964 | Private,. | Welsh, John E  | Nil  | Welsh, Mrs. Willena  | Spring Hill, Cumberland Co., N.S  | Cnnada  | Aldershot  | Aug. | 12, | 1915. |
-| 22 | 743 | 1596 | 3917 | 1626 | 416850 | Private.. | Westcott, Leonard  | Nil  | Westcott, Mrs. May  | Midfile River, Yarmouth, N.S  | Canada  | Aldershot  | Aug. | 12, | 1915. |
-| 22 | 742 | 1626 | 3918 | 1657 | 416-163 | Private.. | Westermnn, Harry Charles   | 03rd Regt  | Westerman, Mrs. Mary  | 0 Uniacke St.. Halifax, N.S  | Canada  | Valcartier  | Aug. | 18. | 1915. |
-| 22 | 742 | 1655 | 3918 | 1684 | 414732 | Private.. | Whalen, John  | Nil  | Whalen, Mrs. Mary  | North Sydney, C.B., N.S  | Canada  | Sydney Mines. . | Mar. | 31, | 1915. |
-| 22 | 743 | 1684 | 3917 | 1712 | 415518 | Corporal. | Wharton, Cecil William   | Can. Mil | Wharton, William. . | Reach Meadows, Queens Co., N.S  | Canada  | Middleton  | April | 5, | 1915. |
-| 22 | 742 | 1713 | 3918 | 1743 | 415810 | Private.. | Wheat, John   | Nil I Wheat, Harry. |  | 14 Cathcart St., Nottingham, Eng  | England  | Aldershot  | Aug. | 10, | 1915. |
-| 22 | 743 | 1742 | 3918 | 1773 | 41539S | Private.. | Whiley, William Ernest G  | C.G.A (Whiley, Mrs. Emma. |  | 102 Lockman St., Halifax, N.S  | England  | Halifax  | Aug. | 13, | 1915. |
-| 22 | 743 | 1771 | 3918 | 1806 | 414232 | Private.., | White, Arthur Melvin  | Nil j Doucette, Mrs. E  |  | Centreville, Kings Co., N.S  | Canada  | Aldershot  | June | 16, | 1915. |
-| 22 | 742 | 1801 | 3919 | 1835 | 414437 | Private.. | White, Lnuchie  | Nil |White, Daniel A.. . |  | Big Ridge, C.B., N.S  | Canada  | Sydney  | Aug. | 7, | 1915. |
-| 22 | 743 | 1830 | 3918 | 1861 | 414231 | Private.. | White, Thomas Patrick  | Nil I White, Miss Agnes... |  | Reserve Mines, C.B., N.S  | Newfoundland. | Aldershot  | June | 9. | 1915. |
-| 22 | 742 | 1858 | 3920 | 1890 | 415519 | Sergeant. | Whitehead, Jack  | Nil (Whitehead, Mrs. |  | 74 Ave Rd., Acton, London, Eng  | England  | Middleton  | April | 5, | 1915. |
-| 22 | 742 | 1885 | 3919 | 1919 | 415759 | Private.. | Whitman, Lawrence   | 70th Regt (Whitman, Asaph. |  | Port Lome, Annapolis Co., N.S  | Canada  | Aldershot  | Aug. | 3, | 1915. |
-| 22 | 741 | 1912 | 3920 | 1948 | 482021 | Privato.., | Wicks, James | Nil jWicks, Eli.. |  | Fortune Bay, Nfld  | Newfoundland. | Sydney  | Sept. | 1. | 1915. |
-| 22 | 742 | 1947 | 3919 | 1978 | 415975 | Sergeant. | Wilcox, Abrahnm   n4th Regt Wilcox, Mrs. Henrietta W. |  |  | Glace Bay, C.B., N.S   | Canada  | Valcartier  | Sept. | 8, | 1915. |
-| 22 | 741 | 1976 | 3920 | 2006 | 415343 | Private.., | W i I nn* lntnna AmliiKnl/1 Mil ! W11 Pn* Mra lfonrinltn | Wilcox. James Archibald.. | Nil Wilcox. Mrs. Henrietta. | Glace Bay, C.B., N.S  | Cnnada   | Sydney  | Aug. | 13, | 1915. |
-| 22 | 741 | 2005 | 3919 | 2038 | 414928 | Private... | Williams, Ernest Arthur | Nil jWilliaras, Mrs. Fannio |  | Birmingham, Eng  ..   | England  | Aldershot  | Aug. | II. | 1915. |
-| 22 | 741 | 2034 | 3920 | 2064 | 414344 | Private.., | Williams, Hnrold  ... | Nil ;W illiam*, Sarah  |  | Monk’s Sherborne, Hants., Eng  | England  | Halifax  | July | 14, | 1915. |
-| 22 | 741 | 2063 | 3921 | 2094 | 414152 | Bugler.... | Williams, Henry  | Nil iWilliams, Mrs. Elma. |  | 12 Creighton St., Halifax, N.S  | Canada  | Halifax  | April | 30, | 1915. |
-| 22 | 741 | 2092 | 3921 | 2132 | 416265 | Private... | Williams, Llewellyn Robert.. | Nil j Williams, Silas M  |  | 219 Brunswick St., Halifax, N.S  | Wales.   | Halifax. .   | July | 30, | 1915. |
-| 22 | 741 | 2121 | 3921 | 2153 | 415264 | Private... | Williams, Schofield Victor.. | Nil 'Williams, Mrs. Julia. . |  | 219 Brunswick St., Halifax. N.S  | England  | Aldershot  | Aug. | 1915. |
-| 23 | 3151 | 353 | 3830 | 385 |  |  |  |  |  |  | Englnnd   | Halifax  | July | 30,1915. |
-| 23 | 675 | 375 | 3831 | 419 | 414}l2jPrivate.... |  | .. iWiimin, Alfred Edwnrd.... | Nil  | Wjlmin, Margaret |  | Canada  | Halifax  | May | 5, | 1915. |
-| 23 | 675 | 413 | 3831 | 448 | 414109 Private. .. |  | Imot, Ronald  | Nil...,...,. . . |  |  | England  | Aldershot  | May | 24,1915. |
-| 23 | 675 | 442 | 3831 | 474 | 4 if> 133! Private* .. |  | ih'’n, Charles  | Nil  |  |  | Canada  | Sydney  | Aug. | 9, | 1915. |
-| 23 | 675 | 470 | 3831 | 504 | 4 1144i 'Private.... |  | Wilson, Harold Emmerson. | Nil  |  |  | Canada  | Aldershot.  | July | 29, | 1915. |
-| 23 | 673 | 499 | 3829 | 531 | 415232 Private.... |  | .. |Wilson, John Vincent  | Nil  |  |  | Canada  | Aldershot  | July | 29, 1915. |
-| 23 | 673 | 528 | 3832 | 561 | 415233.Private.... |  | .. Wilson, John William  | Nil  |  |  | Canada  | Sydney  | Aug. | 7, | 1915. |
-| 23 | 672 | 556 | 3831 | 594 | 414438 Private  |  | . .(Wilson, Neil Francis.  | Nil  |  |  | Scotland  | Aldershot   | June | 23, 1915. |
-| 23 | 673 | 585 | 3833 | 618 | 4 l4315|Frivntc.... |  | . . Wilson, Robert Kcnnie  | Nil  |  |  | Scotland  | Sydney  | Mar. | 20,1915. |
-| 23 | 672 | 614 | 3833 | 647 |  | Private  | 41510' | iWilson, Samuel  | Nil  . |  | England  | Sussex ISept. | 3, | 1915. |
-| 23 | 672 | 643 | 3833 | 678 |  | Private  | 4S2007 | .. Wilson, William Ernest.... | Imp. Forre* |  | Englnnd  | Valcartier  | Auc- | 23, 1915. |
-| 23 | 672 | 672 | 3833 | 708 |  | Private  | 114981 | . jWomersley, Albert  | Uth Ae«i.. |  | England  | New Glasgow. . | Mar. | 31, 1915. |
-| 23 | 671 | 700 | 3833 | 740 |  | Private  | 411049 | w ood, Jo ■ ph  | Nil..*  |  | Englnnd  | Aldershot  | Aug. | 7, | 1915. |
-| 23 | 672 | 731 | 3834 | 767 |  | Private.... | 415785 | ! Woodley, Sydney C   | Nil  |  | Canada  | Aldershot  | July | 29, | 1915. |
-| 23 | 673 | 756 | 1766 | 790 | 414350 Private  |  | ,. ‘Woods, George   | K»l  |
-| 23 | 3149 | 769 | 3835 | 796 |  |  |  |  |  |  | Canada  | Halifax  | June | 11, 1915. |
-| 23 | 672 | 789 | 1753 | 819 | 4142S2 C.Q.M.S, . |  | Woods, William Cletus.,... | Nil...  |
-| 23 | 3150 | 799 | 3835 | 829 |  |  |  |  |  |  | England  | Hnlifax  | Aug. | 11. | 1915. |
-| 23 | 672 | 820 | 1691 | 847 | 414991 Private.... |  | . !Worden, Edwin Collins. | Mrd Beet. |
-| 23 | 3149 | 829 | 3835 | 857 |  |  |  |  |  |  | Canada  | Aldershot  | Aug. | 10, 1915. |
-| 23 | 672 | 848 | 1752 | 879 | 414927 Privnte  |  | .. Wright, Percy Arnold  | Nil  |
-| 23 | 3150 | 859 | 3836 | 885 |  |  |  |  |  |  | Canada  | Halifax  | Aug. | 2. | 1915. |
-| 23 | 672 | 878 | 1778 | 910 | 411922 Private.... |  | ,. jWylde, Harry Gilbert  | Nil  |
-| 23 | 3150 | 888 | 3834 | 914 |  |  |  |  |  |  | Canada  | Aldershot  | Aug. | 12,1915. |
-| 23 | 671 | 906 | 3835 | 946 | 415848 Privnte.... |  | . jWymnn, Wilfred A  | NO  |  |  | Canada  | Digby  | May | 10 | 1915. |
-| 23 | 669 | 932 | 1765 | 966 | 4150371 Pri vate.... |  | .! Vorke, Curtis M  | C?tb )tr*t  |
-| 23 | 3150 | 947 | 3835 | 975 |  |  |  |  |  |  | Canada  | Sydney  | Aug. | 13. 1915, |
-| 23 | 3150 | 976 | 3836 | 1003 |  |  |  |  |  |  | Canada  | Aldershot  | Aug. | 7, | 1915. |
-| 23 | 668 | 994 | 1778 | 1024 | 414835* j Private.... |  | . I You den, George  | Nil *  |
-| 23 | 3150 | 1004 | 3836 | 1031 |  |  |  |  |  |  | Canada  | Aldershot  | Aug. | 7, | 1915. |
-| 23 | 668 | 1022 | 1776 | 1050 | 4J4H40 Private  |  | \ ounr, Foster l/eslie  | Nil  |
-| 23 | 3150 | 1034 | 3836 | 1062 |  |  |  |  |  |  | Canada  | Sydney  | Aug. | 13, | 1915. |
-| 23 | 667 | 1052 | 1776 | 1080 | 415982. Pri1vate  |  | . Young, John  | Nil  |
-| 23 | 3151 | 1063 | 3837 | 1089 |  |  |  |  |  |  | Scotland  | Aldershot  | Aug. | 42, | 1915. |
-| 23 | 667 | 1079 | 1776 | 1116 | 414935 Private.... |  | j Young, John   | Nil   |
-| 23 | 1856 | 1092 | 3837 | 1129 |  |  |  |  | !McFadyen, John Allan... | P.O., Aberdeen, C.B., N.S  | England  | Sydney  | Aug. | 24 | 1915. |
-| 23 | 666 | 1107 | 1775 | 1144 | 482004 Private.... |  | j Young, John Henry  | #4th Ri'gt  |
-| 23 | 1856 | 1121 | 3837 | 1157 |  |  |  |  | 'Young, Mrs. Eva  | Mill Cove, Lunenburg Co., N.8  | Canada  | Aldershot  | Aug. | 7. | 1915. |
-| 23 | 666 | 1138 | 1760 | 1170 | 414847jPrivate  |  | . j Young, Moody Malcolm | Nil  |
-| 23 | 1867 | 1151 | 3837 | 1186 |  |  |  |  | Voting. Mrs. Annie.... .. | Sydney, C.B., N.S  | Canada  | Sydney  | Aug. | 13. | 1915. |
-| 23 | 666 | 1165 | 1716 | 1198 | 415341 j Pri vate  |  | i Young, William  | NU  |
-| 23 | 3150 | 1181 | 3837 | 1207 |  |  |  |  |  |  | Canada  | Halifax  | May | 6, | 1915. |
-| 23 | 665 | 1194 | 1674 | 1225 | 414173 Private .. |  | iVoung, William Harry  | 03rd Heft |
-| 23 | 1855 | 1210 | 3837 | 1245 |  |  |  |  | Uoudrey. Mrs. Sophia . . | Mahone Bay, Lunenburg Co., N.S  | Canada  | Halifax  | July | 8, | 1915. |
-| 23 | 665 | 1220 | 1703 | 1252 | 4150711 Private  |  | /wicker, Charles  | Nil  •• |
-| 23 | 755 | 1399 | 3839 | 1444 |  | I- • |  |  | Ilwyrr. Mr. Johanna Ornce | 113 Dresden Row, Halifax, N.S....  | Canada  | Aldershot  | May | 16.1915. |
-| 23 | 762 | 1421 | 1731 | 1460 |  | Captain | j Dwyer, John Patrick  | ,100th ftegt. • • • |
-| 23 | 1516 | 1440 | 3840 | 1477 |  |  |  | . Ml* licet  | IlcMton. Mr. (':ir!ierine | North Sydney, C.B., N.S    | Canada  | Aldershot  | May | 10. 1915. |
-| 23 | 3395 | 1469 | 3839 | 1498 |  |  |  |  |  |  |  | Bridgewater  | April | 19, 1915. |
-| 23 | 764 | 1481 | 1730 | 1514 |  | Lieutenant. | 1 'rsgg, Gerald I id win  | . j75th Rest... . |
-| 23 | 1858 | 1498 | 3840 | 1533 |  |  |  |  | John*urn, .Inhn W  | Sydney Mines, C.B., N.S  | Canada  | Aldershot  | May | 24, 1915. |
-| 23 | 764 | 1508 | 1758 | 1541 |  | Lieutenant. | . Johnston, Stanley  | !70th Hnrt  |
-| 23 | 1865 | 1526 | 3841 | 1560 |  |  |  |  | Msjor, Mr.. Alice Nash | P.O. B/’X 444, Truro, Colchester Co., N.S  | Canada  | Aldershot  | May | 21, 1915. |
-| 23 | 764 | 1538 | 1746 | 1571 |  | Lieutenant. | .'Major, Charles Stevens  | 70th But  |
-| 23 | 1865 | 1555 | 3840 | 1588 |  |  |  |  | Allan, Charlna O  | Kentville, Kings Co., N.S  | Canada  | Kentville  | April | 7, 1915. |
-| 23 | 662 | 1566 | 1758 | 1604 | 415111 | Private  | . | Allan, Charles Owen  | .Nil  |
-| 23 | 1865 | 1585 | 3840 | 1619 |  |  |  |  | Almond, Alexander... | George’s River, C.B., N.S  | Canada  | Sydney Mines. | May | 8. 1915. |
-| 23 | 663 | 1594 | 1758 | 1625 | 414735 | Privnte  | , I Almond, John D  | . N«  |
-| 23 | 1865 | 1614 | 3841 | 1648 |  |  |  |  | Almond. John   | George’s River, C.B., N.S  | Canada  | Sydney Mines. | May | 8, 1915. |
-| 23 | 662 | 1625 | 1758 | 1654 | 414730 | Private  | .1 \lmond, Martin  | . Nil  |
-| 23 | 1865 | 1643 | 3841 | 1676 |  |  |  |  | Amon, Mrs. Rebecca. | Parrsboro’. Cumberland Co., N.S  | Canada  | Amherst  | Mar. | 22, 1915. |
-| 23 | 662 | 1647 | 1747 | 1685 | 414330 | Private  | mon, Alexander  | .I.Nil..  |
-| 23 | 662 | 1672 | 3842 | 1712 | 4143S2 | Private  | .'Archibald, William A ... | '! ih Hr«t  | Archibald, James  | Hilden, Colchester Co., N.S  | Cnnada  | Truro  | April | 28, 1915. |
-| 23 | 662 | 1702 | 3843 | 1742 | 414402 | Private  | Utvood, Alfred Edward. .. | .Nil    | Attworwl, William... | Caledonia Mines, C.B., N.S  | England  | Truro  | May | 5,1915. |
-| 23 | 1516 | 1731 | 3843 | 1767 |  |  |  | .'Imp. l'orce*. | Bainl, Mr.. Robert.... | Snckville, Westmoreland Co., N.B  |  Seotlnnd  | Amherst  | Mar. | 18.1915. |
-| 23 | 1968 | 1760 | 3842 | 1793 |  |  |  |  |  | R.R. No.), LittleShemoque. Westmoreland Co., | .B. | Canada  | Amherst  | Mar. | 19, 1915. |
-| 23 | 662 | 1769 | 1758 | 1802 | 414328 Private  |  | ■ i, Elvy  | .Nil  |
-| 23 | 1529 | 1789 | 3842 | 1822 |  |  |  | 'M'h Reift  | Maker. Mr*. William A | t'!harlesl..n, IJnnrns Co., N.S  | ... [Canada  | Liverpool  | April | 13, 1915. |
-| 23 | 663 | 1819 | 3843 | 1866 | 4151271 Pri vate  |  | . jBnttzer, George     | 0»th R«*t  | "altior, Jonathan .... | Waterville, Kings Co., N.S  | .... Canada  | Kentville  | May | 4. 1915. |
-| 23 | 663 | 1848 | 3843 | 1886 | 415130: Private  |  | ..Barkhouse, Arthur  | Nil  | Knrkhnose, William. | Waterville, Kings Co., N.S       | .... Cnnada  | Kentville  | May | 4, 1915. |
-| 23 | 1867 | 1872 | 3843 | 1912 |  |  |  |  | Hurry, James It ... | Cape Tormentine, Westmoreland Co., N.B  | .... jCanada  | Amherst  | Mar. | 17, 1915. |
-| 23 | 663 | 1884 | 1758 | 1924 | 414235 Privnte  |  | . |Barry, John  | Nil  |
-| 23 | 664 | 1904 | 3844 | 1946 | 415251) Private  |  | . Belaney, Archibnld  | fflth Dragoon*. | IMeVane, John | Westfield Centro, Kines Co., N.B  | .... [Canada  | Digby  | May | 6, 1915. |
-| 23 | 663 | 1935 | 3844 | 1976 | 415100 Private  |  | Bennett, Harry Wilfred  | Nil  | 11,-mott, Hurt/hi . | Canning, Kings Co., N.S  | .... [Canada  | Kentville  | April | 7, 1915. |
-| 23 | 664 | 1964 | 3844 | 2004 | 414400 Private  |  | I Bentley. George Marvine.., | Nil  | [Bentley, Mm. Ida ... | Robie St., Truro, Colchester Co., N.S  |   Canada  | Truro  | May | 8, 1915. |
-| 23 | 664 | 1988 | 3844 | 2031 | 4 15137 Private  |  | . Best, Thomas  | NU  | |H«rt, Walter . | 40th Battalion C.E.E  | Canada  | Kentville. v  | May | 4. 1915. |
-| 23 | 1539 | 2020 | 3845 | 2057 |  |  |  | 7Pth n<Tft   | Kelly, Mm. r  | Dunfermline, Fife, Scot    | Scotland  | Sydney—‘  | Mar. | 20, 1915. |
-| 23 | 667 | 2048 | 3845 | 2098 | 414051! Private.... |  | . [Bond, Frank  | Nil  | Bond, Mrs. Rebecca... | Little Bras D'Or, C.B., N.S  | England  | Sydney Mines | |Mar. | 31, 1915. |
-| 23 | 1859 | 2072 | 3846 | 2110 |  |  |  |  | •Bootle, Mrs. Eliia  |  |  |  | I Mar. | 31. 1915. |
-| 23 | 668 | 2085 | 3057 | 2122 | i 14109* Sergeant... |  | . iBootle, James Albert  | Imp. I'oree*... |  | 183 High St., Pawtucket, R.I., U.S.A  |
-| 24 | 2024 | 559 | 3438 | 588 |  |  |  |  | Name of Next of Kin. |  | Country of |
-| 24 | 766 | 701 | 3938 | 734 | 414313 | Private  | Boutilier, Edward Ernest  | Can. Mil.... | Boutilier, Mrs. Ellen  | Nappna, Cumberland Co., N.S...  | Cnnada  | Spring Hill | Mar. | 17, | 1915. |
-| 24 | 767 | 728 | 3938 | 763 | 415212 | Private  | Boutilier, John  | Nil  | Boutilier, Thomas  | Point. Tupper, C.B., N.S.  | Canada  | Liverpool  | M ay | 1, | 1015. |
-| 24 | 766 | 760 | 3939 | 792 | 41138.*) | Private  | Bowers, Carl C  | Nil  | Bowers, W. D   | Shubenacadie, Hants Co., N.S  | 'anada  | Truro  | April | 28, | 1915. |
-| 24 | 766 | 790 | 3938 | 822 | 414054 | Private. | Briggs, Jnmes William  | Nil  | Briggs, Mrs. Anna Myria   | Hunslot, Leeds, Yorks., Eng  | England.  | Sydney Mines. | M ar. | 31, | 1915. |
-| 24 | 767 | 820 | 3939 | 849 | 414321' | Private. | Brine, Joseph Arthur  | Nil  | Brine. Andrew  | Jogflin Mines, Cumberland Co., N.S  | Cannda  | Amherst  | Mar. | 19, | 1915. |
-| 24 | 766 | 849 | 3939 | 880 | 414234 | Privato. | Hrodie, Archibald  | Nil  | Brodie, Clarence   | Pleasant St., Amherst. Cumberland Co., N.S  | Canada  | Amherst  | Mar. | 17, | 1915. |
-| 24 | 766 | 878 | 3940 | 910 | 414850 | Private  | Brogan, Frank....  | Nil  | Brogan, Mrs. Jane.    | Dominion No. 3, Florence, Sydney Mines, C.B., N.S.. | Englnnd  | Sydney Mines. | Mar. | 31, | 1915. |
-| 24 | 766 | 908 | 3939 | 940 | 414055 | Private  | Brogan, Henry  | Nil  | Brogan, Mrs. Henry   | Sydney Mines, C.B., N.S  | England  | Sydney Mines. | M ar. | 31, | 1915. |
-| 24 | 766 | 937 | 3940 | 970 | 4140571 | Privato  | Brogan, Patrick  | T erritorials.. | Brognn, Mrs. Elizabeth  | Sydney Mines, C.B., N.S  | England  | Sydney M ines. | Mar. | 31. | 1915. |
-| 24 | 765 | 966 | 3940 | 998 | 414239 | Private  | Brown, Carl  | Nil  | Brown, Mrs. Charles  | Westmoreland Point, Westmoreland Co., N.B..  | Canada  | Amherst  | M ar. | 17. | 1915. |
-| 24 | 765 | 997 | 3940 | 1027 | 415308 | Private.   | Brown, Herbert  | Nil  | Brown, Thomas..     | Halifax, N.S  | ('anada   | Windsor  | April | 8, | 1915. |
-| 24 | 766 | 1026 | 3941 | 1056 | 415298 | Private...,  | Burns, Robert Fowler  | Nil  | Burns, Mrs. R. F  | Hantsport, Hants Co., N.S  | Canada  | Windsor  | April | 1, | 1915. |
-| 24 | 766 | 1055 | 3941 | 1086 | 414058 | Private  | Burrows. Joseph     | Nil  | Burrows, Mrs. Annie    | Barrington St., Sydney Mines, C.B , N.S  | England  | Sydney Mines. | May | 8. | 1915. |
-| 24 | 767 | 1084 | 3940 | 1114 | 415809 | Privnte.    | Caldwell. Allred L  | Can. Mil.... | Caldwell, Mrs. Clara M  | Arlington West, Annapolis Co., N.S.   | Canada   | Aldershot  | June | 13, | 1915. |
-| 24 | 766 | 1113 | 3941 | 1143 | 414411 | Private  | Campbell, Augustus  | 8. A  | Campbell, Mrs. John  | Bass River, Kent Co., N.B  | Cnnada  | Truro  | April | 28, | 1915. |
-| 24 | 766 | 1142 | 3940 | 1173 | 414387 | Corporal   | Campbell, Robert Vernon  | Nil  | Campbell, Noil R  | Truro, Colchester Co., N.S  | Canada  | Truro  | April | 28, | 1915. |
-| 24 | 766 | 1168 | 3941 | 1202 | 414401 | Privnte. | Cann, John  | Nil  | Cann, Mrs. Elizabeth  | Sydney Mines, C.B., N.S  | f 'anada  | Sydney Mines. | Mnr. | 20, | 1915. |
-| 24 | 767 | 1201 | 3942 | 1231 | 414401 | Privnte. | Cann, William Robert  | Imp. Forces. | Hastings. Mrs. Mary  | 13 Daisy field St., Belfast, Ire  | Ireland  | Truro  | M ay | 5. | 1915. |
-| 24 | 766 | 1230 | 3942 | 1260 | 414428 | Private. | I'nrter, Edward   | Nil  | Carter, Mrs. Mary Ann  | Park St., Westville, Kings Co., N.S  | England  | New Glasgow. | Mny | 1, | 1915. |
-| 24 | 767 | 1260 | 3942 | 1290 | 414750 | Private. | Carter, llugh  | Nil  | Young, A. D  | 3 Rock Cove, Nfld  | Newfoundland | Sydney Mines. | May | 8, | 1915. |
-| 24 | 767 | 1289 | 3942 | 1318 | 414033 | Corporal. | Cnstle, Frederick  | Nil  | Castle, Robert  | 0 Fern St., Halifax, N.S  | Canada  | Halifax  | Mar. | 13, | 1915. |
-| 24 | 766 | 1318 | 3943 | 1347 | 414459 | Private.... | Cathcart, Barney  | Nil  | Cathcart, Mrs. Lena  | New Waterford, C.B., N.S  | Canada  | Sydney  | Mar | 27, | 1915. |
-| 24 | 767 | 1348 | 3943 | 1377 | 414430 | Private.... | Chatterley, Willinm A  | Nil  | Chatterley, Mrs. Christina  | Leicester, Eng  | England...... | New Glasgow. | Mnr | 31, | 1915. |
-| 24 | 767 | 1377 | 3943 | 1406 | 414379 | Private.... | Chisholm, Herbert John   | 70t.h Regt... | Chisholm, Miss Marion  | Worcester, Eng  | Englnnd  | Truro  | April | 28, | 1915. |
-| 24 | 767 | 1406 | 3943 | 1435 | 414247 | Privato  | Chisson, Joseph  | Nil  | Chisson, Annie  | Montreal, P.Q  | Canada  | Amherst  | Mar. | •17, | 1915. |
-| 24 | 767 | 1435 | 3935 | 1466 | 414314 | Private  | Coleman, Dnvid John  | 93rd Regt... | Coleman, Mrs. Annie  | Spring Hill, Cumberland Co., N.S.     | U.S.A  | Spring Hill . . | Mnr. | 17, | 1915 |
-| 24 | 767 | 1465 | 3935 | 1493 | 414335 | Private  | Coles, Arthur J  | Nil  | Coles, A. J  | Oak Hill, Somerset, Eng <   | Englnnd  | Amherst | Mnr | 30, | 1915 |
-| 24 | 767 | 1494 | 3944 | 1524 | 414222 | Privato  | Collings, Willinm  | 00th Regt. . . | Collings, Mrs. M   | 11 Brussels St., Halifax, N.S  | Canada   | Aldershot...... June 7, | 1915. |
-| 24 | 767 | 1523 | 3944 | 1553 | 415134 | Private.... | Comrs, John  | 08th Regt... | Landry, Mrs ; | Kentville, Kings Co., N.S  | Canada  | Kentville | M ay | 1915. |
-| 24 | 767 | 1552 | 3945 | 1582 | 414004 | Private.... | Cooper, William  | Nil  | Cooper, Mrs. William  | Sydney Mines, C.B., N.S  | England  | Sydney Mines | Mar. | 1915. |
-| 24 | 767 | 1581 | 3944 | 1611 | 414433 | Private.... | Cordey, Gerald Gordon  | Nil  | Cordey, John W  | South Willingham, Lincs., Eng  | England  | New Glasgow. | Mbt. | 1915. |
-| 24 | 767 | 1610 | 3945 | 1641 | 415128 | Private... t | Corkum, George Allen  | Nil  | Corkum, Joniah  , | North River, Kings Co., N.8  | Cannda  | Kentville  | May | 1915. |
-| 24 | 768 | 1640 | 3946 | 1669 | 4I4G0.3 | Private.... | Coule, Thomas  | Nil  | Coule, Mrs. Rose Ann  | Not Stated  | England.... ... | Sydney Mines | Mnr. | 1915. |
-| 24 | 768 | 1669 | 3945 | 1698 | 414001 | Private.... | Cross, William  | Nil  | Cross, Mrs. William  | Sydney Mines, C.B., N.S  | England  | Sydney Mines. | Mar. | 1915. |
-| 24 | 768 | 1698 | 3945 | 1727 | 415200 | Privnte  | Crouse, John A  | Nil  | Crouse, Mrs. Elisabet.li   | Lockeport, Shelburne Co., N.S  | ('anada  | Liverpool  | April | 1915. |
-| 24 | 768 | 1727 | 3946 | 1757 | 414370 | Private  | Crowe, Alfred Earl  | Nil  | Crowe, Alfred   | R.R. No. 1, Truro, Colchester Co., N.S  | Canada  | Truro  | April | 1915. |
-| 24 | 769 | 1757 | 3937 | 1790 | 414380 | 1'rivato.   [I 'urrie, George M. |  | Nil  | Currie, Mrs. Edith Maud ...... | River Hebert, Cumberland Co., N.S  | I 'anada  | Truro  | April | 1915 |
-| 24 | 769 | 1786 | 3947 | 1816 | 414008 | Private. | IJongnn, Edwnrd  | Territorials.. | Dongen, Joseph  | Bredn, Hollnnd  | Holland  | Sydney Mines. | Mnr. | 1915. |
-| 24 | 769 | 1816 | 3427 | 1846 | 414389 | Private  . | Donovan, Normnn S  | 70th Regt. . | Donovan, Mrs. Mabel     | Truro, Colchester Co., N.S  | Canada  |
-| 24 | 769 | 1844 | 3947 | 1875 | 414009 | Privnte  | Donovan, Thomas  | Nil   | Donovan, Mrs. Margaret  | Pitt St., Sydney Mines, C.B., N.S.-.  | Canada.   | Sydney Mines | Mny | 1915. |
-| 24 | 770 | 1873 | 3948 | 1905 | 414510 | Private  | Doucette, Thomas Leo. | Nil  | Doucette, John ij.  | New Waterford, C.B., N.S  | ( anada....... | Sydney  | Mny | 1915. |
-| 24 | 770 | 1901 | 3939 | 1934 | 414157 | Private  | Puffy, Stewart Russell. | 93rd Regt .. | Duffy, Owen   | Parrsboro!, Cumberland Co., N.S       | ('anada  | Halifnx ...... | Mnv | 1915 |
-| 24 | 770 | 1929 | 3939 | 1963 | 414772 | Private  | Dumpily. Willinm  | Nil  | Dumphy, Mrs. Catherine...... | North Sydney, C.B., N.S  | Cnnada  | Sydney Mines. | May | 1915 |
-| 24 | 770 | 1958 | 3948 | 1992 | 414410 | Private  | Dunbar, < 'harles  | Nil  | Dunbar, Mrs. Agnes  | Stellarton, Pictou Co.. N.S  | ('anada  | New Glasgow | Mar. | 1915. |
-| 24 | 771 | 1987 | 3939 | 2023 | 414000 | Private  | Duxbury. Adam  | Nil  | Duxbury, Joseph ' | 20 Fleetwood St., Preston, Lanes., Eng  | England  | Sydney M ines | Mar. | 1915 |
-| 24 | 771 | 2015 | 3939 | 2051 | 414250 | Private  | INnton. Aubrey Harris.. | Nil  | Eaton, Mrs. Frederick  | Amherst., Cumberland Co., N.S  | Cannda  | Amherst . . | Mar. | 1915 |
-| 24 | 771 | 2044 | 3940 | 2080 | 414381 | Private  | Edwards, William H... | Nil  | Edwards, Mrs. K. S  | Brynville. Talley, Llnndilo, Carmarthen, Wales  | Wales .   | Trurp  | April | ipir, |
-| 24 | 772 | 2073 | 3940 | 2109 | 414380 | Private . | IlCllis, William H  | Nil  | Ellis. W. J  | Truro, Colchester Co., N.S  | Canada  | Truro   | April | 1915 |
-| 24 | 772 | 2101 | 3949 | 2139 | 414374 | Privnte  | 'Fnge, Rlnir Albert  | Nil   | Fage, Mrs. Elsie   | Hastings, Cumberland Co., N.S  | Cannda  | Amherst | M ay | 1915. |
-| 25 | 3168 | 291 | 3847 | 321 |  |  |  |  |  |  | Newfoundland | Sydney Mines.. | Mav 8. 1915. |
-| 25 | 688 | 312 | 3847 | 359 | 414734 | Privjuc  | Farrell, Augustus  | Nil  | Farris, Lewis   | Chipman’s Corners, Kings Co., N.8    • • • | Cannda  | Kentville  | April 7, 1915. |
-| 25 | 689 | 341 | 1839 | 371 | 4151 IS | Private  | Farris, James William  | 68th Hegt  |
-| 25 | 2378 | 352 | 3847 | 383 |  |  |  |  |  | Horton Poor Farm, Greenwich, Kings Co., N.S.. | Scotland  | Kentville  | May 4, 1915. |
-| 25 | 687 | 368 | 3848 | 421 | 415138 | Private  | Fenwick, John Bannerman   | Territorials  | Flynn, Mrs. Mary  | rborbnm, Pictou Co., N.S  | Canada  | New Gln«cow. | Mnr. 31, 1915. |
-| 25 | 688 | 402 | 1838 | 431 | 414447 | Private  | Flynn, Owen Francis   . . | NU  |
-| 25 | 3165 | 412 | 3848 | 440 |  |  |  |  |  |  | Cannda  | Sydney Mines. . | May 8, 1915. |
-| 25 | 687 | 430 | 3848 | 479 | 414775 | Private  | Forrest, David  | Nil  | Forrest, Alexander  | Sydney Mines, C IV, N.S.   | Canada  | Sydney Mines.. | May |
-| 25 | 687 | 461 | 3848 | 507 | 414738 | Private  .. . . | Forrest, George     | Nil  | Gaskill, Catharine  | 14 Bog Row, Sydney Mines, C.B., N.S  | England  | Sydney Mines. . | May |
-| 25 | 686 | 490 | 1792 | 516 | 41475.1 | Private  | Gaskill. Samuel  | Nil  |
-| 25 | 3165 | 500 | 3848 | 529 |  |  |  |  |  |  | Cauad a  | New Glasgow | May |
-| 25 | 685 | 520 | 1778 | 548 | 4155(11 | Privnte  | Gilchrist, Donald Robert  | 78th Regt  |
-| 25 | 3166 | 530 | 3848 | 556 |  |  |  |  |  |  | B.W.I  | Aldershot  | June 12,1915. |
-| 25 | 685 | 549 | 1748 | 577 | 414787 | Privnte  | Gill, George     | Nil  |
-| 25 | 1879 | 559 | 3849 | 596 |  |  |  |  | Good, George  | Westville, Pictou Co.. N.S  | Canada  | Spring Hill  | Mar. 17, 1915. |
-| 25 | 685 | 577 | 1693 | 605 | 4J4H10 | Private  | flood, Allen    | 93rd Regt |
-| 25 | 3165 | 586 | 3849 | 615 |  |  |  |  |  |  | Canada  | Middleton  | April 5, 1915. |
-| 25 | 685 | 607 | 1806 | 635 | 415803 | Private... | Greenlun, Joseph   | Nil  |
-| 25 | 1879 | 617 | 3850 | 653 |  |  |  |  | Greeno, Mrs. Maud... | Cheverie. Hants Co., N.S  | Canada  | Windsor  | April 1, 1915. |
-| 25 | 685 | 636 | 1847 | 664 | 415307 | Private  | Greeno, Willinm Ilenry.    | Nil  |
-| 25 | 3165 | 647 | 3849 | 676 |  |  |  |  |  |  | Canada  | Sydney Mines. | Mar. 31,1915. |
-| 25 | 684 | 664 | 1749 | 693 | 414877 | Private..... .. | Hnpr.“rty, William Edward  | R.C.R  |
-| 25 | 3168 | 676 | 3850 | 705 |  |  |  |  |  |  | England  | New Glasgow. . | May 31, 1915. |
-| 25 | 684 | 690 | 1748 | 721 | 415503 | Private  | Ilallam, .Samuel. .   | NU  |
-| 25 | 1882 | 706 | 3851 | 739 |  |  |  |  | Hammond, Mrs. James | New Germany, Lunenburg Co., N.8   | Canada  | Liverpool | April 12, 1915. |
-| 25 | 684 | 723 | 1749 | 750 | 415198 | Private  | 1 lammond, James Angus......... | Nil   |
-| 25 | 1881 | 735 | 3851 | 771 |  |  |  |  | Harlov.-. Spurgeon  | Bridgewater, Lunenburg Co., N.S  | Canada  | Bridgewater... | April 17, 1915. |
-| 25 | 684 | 752 | 1597 | 776 | 415217 | Private |  | Nil |
-| 25 | 3170 | 765 | 3852 | 793 |  |  |  |  |  |  | Newfoundland. | Sydney Mines | May 8, 1915. |
-| 25 | 684 | 781 | 1292 | 808 | 411743 | Private  | 11 art, Charles. . . |
-| 25 | 3167 | 794 | 3852 | 823 |  |  |  |  |  |  | Canada  | Truro  | April 28. 1915. |
-| 25 | 682 | 810 | 1747 | 838 | 414418 | Private. | Hnrvie, Calvin    | Nil  |
-| 25 | 3167 | 824 | 3852 | 853 |  |  |  |  |  |  | Canada  | Middleton  | April 5. 1915. |
-| 25 | 682 | 838 | 1748 | 868 | 415807 | Private  ... . | Hayes, Clnrence  | Can. Mil  |
-| 25 | 3167 | 855 | 3853 | 883 |  |  |  |  |  |  | Canada  | Sydney Mines.. | May 8, 1915. |
-| 25 | 682 | 869 | 1862 | 898 | 414 114 | Private  | Heenie, William  | Nil  |
-| 25 | 1879 | 884 | 3853 | 918 |  |  |  |  | Henderson, Mrs. Mertie | Merigomish, Pictou Co., N.S  | Cannda,  | New Glasgow. . | May 1, 1915. |
-| 25 | 682 | 899 | 1847 | 928 | 415508 | Private  | Henderson, Kenginald Smith  | Nil  |
-| 25 | 1879 | 914 | 3854 | 947 |  |  |  |  | Heron, Mrs. James  | Shotten Colliery, Haswcll, Durham, Eng  | Scotland  | Sydney Mines. . | Mar. 31, 1915. |
-| 25 | 681 | 928 | 1861 | 958 | 414878 | Lce.-Corporal  | Heron, James  | Nil  |
-| 25 | 1880 | 943 | 3854 | 978 |  |  |  |  | Hest, Joseph  | Caledonia Mines, C.B., N.S  | England  | Sydney Mines.. | May 3, 1915. |
-| 25 | 681 | 957 | 1862 | 984 | 414548 | Private  | Ilest, Ernest  | Nil  |
-| 25 | 1880 | 973 | 3854 | 1005 |  |  |  |  | Hicken, Albert  | Trenton, Pictou Co., N.S  | Canada  | New Glasgow. | Mar. 30, 1915. |
-| 25 | 657 | 986 | 1847 | 1014 | . 415507 | Private   | Hicken, Edward Albert.    | Nil  |
-| 25 | 1880 | 1002 | 3854 | 1034 |  |  |  |  | Hicks, Nathaniel  | Middle Sackville. Westmoreland Co., N.B  | Canada  | Amherst  | Mar. 17, 1915. |
-| 25 | 681 | 1014 | 1861 | 1042 | 414287 | Private  | Hicks, Everett ..   | Nil  |
-| 25 | 1880 | 1029 | 3854 | 1063 |  |  |  |  | Hicks, Clarence  | Pointe de Bute, Westmoreland Co., N.B  | Canada  | Amherst  | Mar. 17, 1915. |
-| 25 | 681 | 1043 | 1861 | 1074 | 414288 | Privnte   | Hicks, Harley  | Nil ,  |
-| 25 | 1880 | 1061 | 3855 | 1092 |  |  |  |  | Hilder, E. S   | 8 Palmer St., Amherst., Cumberland Co., N.S.... | England  | Amherst  | Mar. 17, 1915. |
-| 25 | 681 | 1072 | 1859 | 1100 | 414205 | Private  | Hilder, Edward Richard  | Nil    |
-| 25 | 681 | 1090 | 3855 | 1128 | 414879 | Private  | 11 ill, Samuel  | Nil  | Hill, Mrs. Alice Maud.. | Sydney Mines, C.B., N.S   | Englnnd  | Sydney Mines.. | Mar. 31,1915. |
-| 25 | 680 | 1114 | 3856 | 1158 | 415508 | Private  | Horne, Colin Harry  | 78th Regt  | Horne. Mrs. Joseph C.. | New Glasgow, Pictou Co.. N.S  | Cnnada  | New Glasgow. | May 7, 1915. |
-| 25 | 1878 | 1148 | 3855 | 1180 |  |  |  |  | Horrocks, Mrs. Joseph.. | Sydney Mines. C.B., N.S  | England  | Sydney Mines . | Mar. 31, 1915. |
-| 25 | 680 | 1158 | 1859 | 1188 | 414875 | Private  | Horrocks, Joseph  | Nil  |
-| 25 | 680 | 1177 | 3847 | 1214 | 415804 | Private | Howard, I^ewis Earle |  | Howard, Mrs. Jessie.. | Middleton, Annapolis Co., N.S.....  | Canada  | Middleton  | April 5, 1915 |
-| 25 | 1879 | 1206 | 3856 | 1238 |  |  |  |  | Hughes, John  | 25 Wrexham Rd., Wrexham, Denbigh, Wales  | Wales  | Aldershot  | June II. 1915. |
-| 25 | 679 | 1215 | 1831 | 1242 | 415808 | Private  | Hughes. Riclmrd  | 91th Hegt  |
-| 25 | 679 | 1235 | 3857 | 1273 | 414876 | Private  | Hutchings, Harold  | Nil  | Hutchings, Mrs. Harold | Florence, C.B., N.S  | Englnnd  | Sydney Mines. . | Mar. 31, 1915. |
-| 25 | 680 | 1265 | 3857 | 1303 | 415207 | Privnte  | Hutt., Carl  | Nil  | Boutilier, Mrs. Daniel .. | Western Head. Queens Co.. N.S  | Canada  | Liverpool  | April 13, 1915. |
-| 25 | 680 | 1294 | 3857 | 1330 | 415205 | Private  | Hutt, Kenneth W.    | Nil  | Hutt, John  | Milton, Queens Co., N.S    | Canada  | Liverpool  | April 13. 1915. |
-| 25 | 680 | 1324 | 3858 | 1360 | 414760 | Private.   | Ives, Sylvester   | Nil  | I ves, Mr*. Jane  | Sydney Mines, C.B.. N.S  | England  | Sydney Mines | Mav 8, 1915. |
-| 25 | 679 | 1353 | 3858 | 1389 | 415288 | Private    | Jackson, Harry Allen  | Nil  | lackson, David  | Upper Woodstock, Carleton Co., N.B  | Cannda  | Digby  | May 11. 1915. |
-| 25 | 679 | 1380 | 3858 | 1418 | 414102 | C.Q.M.8  | Jackson, Miles Moore   | 07th Regt  | Jackson. D. W  | Upper Woodstock, Carleton Co., N.B.   | Cannda  | Halifax  | Mar. 27, 1915. |
-| 25 | 679 | 1412 | 3859 | 1450 | 414882 | Lee.-Corporal  | Jenkins, Lawrence  | Nil  | Jenkins, Mrs. Lawrence. | 28 Buckingham St., Newcastle, Northumberland, | Eng | Englnnd  | Sydney Mines. | Mar. 31, 1915. |
-| 25 | 679 | 1437 | 3858 | 1472 | 414883 | Private  | Jenkins. Victor  | Nil  | Jenkins Mr«. Louise.... | Harbour Grace, Nfld  | Newfoundland. | Sydney Mines. | Mar. 31. 1915. |
-| 25 | 678 | 1470 | 3859 | 1503 | 414787 | Private’.  ... | Jesso, Dames    | Nil  | Jes=>o, Jnhn   | Little Bras D'Or, C.B., N.S  | Canada  | Sydney Mines | May 8. 1915. |
-| 25 | 678 | 1499 | 3860 | 1532 | 414770 | Private  | Jes»o, James L    | 94th Regt  | Jesso, Mrs Mary  | Cantwell Ave., Little Bras D'Or, C.B., N.S | Canada  | Sydney M ines. | May 8, 1915. |
-| 25 | 679 | 1528 | 3860 | 1560 | 414478 |  | Johnson, Frederick . |  | Johnson, Joseph  | Fernie, B.C  | England  | Sydney  | Mar. 25, 1915. |
-| 25 | 678 | 1556 | 3860 | 1591 | 414391 | Privato  | Johnson. Harry S  | Nil  | Johnson, Leonard  | Truro. Colchester Co;. N.S  | Canada  | Truro  | April 28, 1915. |
-| 25 | 679 | 1586 | 3860 | 1619 | 415122 | Private  | Jones, Spurgeon  | 88th Regt  | loncs. Ilallet  | Millville, Kings Co., N.S.   | Canada  | Kentville  | May 4, 1915. |
-| 25 | 677 | 1612 | 3860 | 1646 | 415210 | Private... | KaUlback, Prescott. Jslkanah  |  | Kaulbnck, Enos.   | Bridgewater, Lunenburg Co., N.S  | Canada  | Bridgewater... | April 17, 1915. |
-| 25 | 678 | 1643 | 3861 | 1676 | 414885 | Private  | Ivawnja, Harry B. P  | Nil  | Kawnja, Mrs. Assad  | Sydney Mines, C.B., N.S  | Australia  | Sydney Mines. | Mar. 31,1915. |
-| 25 | 678 | 1672 | 3861 | 1705 | 414888 | Private  | Keeling, Ralph  | Nil    | Keeling. Mrs. Ralph... | Florence, Sydney Mines, C.B., N.S  | England  | Sydney Mines. | Mar. 31, 1915. |
-| 25 | 678 | 1700 | 3862 | 1733 | 414737 | Private  ..... | Kelly, Sydney W  | Nil  | Kelly. William II  | George’s River, C.B., N.S   | Canada  | Sydney Mines. | Mav 8, 1915. |
-| 25 | 679 | 1728 | 3863 | 1761 | 414304 | Private  | King. Flovd George  | 93rd Regt  | Kinc. George A  | Oxford, Cumberland Co., N.S  | Cannda  | Amherst   | April 21.1915. |
-| 25 | 679 | 1757 | 3862 | 1791 | 414705 | Private.. | Lnidlaw, Jackson  | 94th Regt..-, r ,    | Laidlaw, Mrs. Sadie... | Sydney Mines. C.B., N.S '.    | Englnnd  | Sydney Mines. | May 8, 1915. |
-| 25 | 679 | 1786 | 3863 | 1820 | 414481 |  | Latham, John.  | 1 mp. Forces   | Bennett, Mrs. Helen.... | 25 William St., Wigan. Lancs., Eng  | England  | Sydney  | Mar. 25. 1915. |
-| 25 | 680 | 1815 | 3862 | 1849 | 414111 | Corporal  | Lawson, John  | Territorials  | Lawson. James  | Cecil PL, Glasgow, Scot  | Scotland  | Halifax  | April 5,1915. |
-| 25 | 681 | 1844 | 3863 | 1879 | 415203 | Private  | I,eary, Walter  | Nil;....; ii;... | Leary, William  | Port Mouton, Queens Co., N.S   | Canada  | Liverpool  | April 13. 1915. |
-| 25 | 680 | 1873 | 3863 | 1908 | 414747 | Private  | LeBlnnc, Willinm  | Nil  | LeBlnnc, Mrs. May... | Florence, C.B., N.S  | Cnnnda  | Sydney Mines. | May 8. 1915. |
-| 25 | 680 | 1902 | 3863 | 1938 | 414087 | Private  | I,ee, Thomns C  |  | Lee, Mrs. Thomas C... | Sydney Mines, C.B., N.S  | Scotland  | Sydney Mines. | Mar. 31. 1915. |
-| 25 | 681 | 1930 | 3864 | 1964 | 414482 |  | Le Lievre. Charles | Nil  | Le Lievre. Dora..  | Inverness. N.S  | Cannda   | Sydney  | Mar. 2«, 1915. |
-| 25 | 681 | 1959 | 3864 | 1996 | 414397 | Private      | Leonard, Francis Parnell  | 78th Regt.. ..... .. | McGee, Mrs. Frank... | Truro, Colchester Co., N.S  | Canada  | Halifax  | April 12.1915. |
-| 25 | 680 | 1989 | 3864 | 2025 | 415802 | Private  | Lightixcr, John I-co  | Nil  | Lightiier, Harry  | Middleton, Annapolis Co., N.S  | Canada   | Middleton  | April 5. 1915. |
-| 25 | 681 | 2017 | 3865 | 2055 | 415222 | Private  | Lindh, Bertie Albert  | Nil  | Lindh, Hnlda  | Roslagsgatan, 34 IV Stockholm, Sweden  | Sweden  | Bridgewater... | April 17. 1915. |
-| 26 | 756 | 591 | 3403 | 630 | M£ |  |  | Former Corps. |  |  | Country ol |
-| 26 | 755 | 744 | 3902 | 775 | 414480 | Privnte... | T/inp. Lawrence  | NU  | Ling. Mrs. John |  | Canada. | Sydney. | Mar. 27, 1915. |
-| 26 | 755 | 774 | 3202 | 806 | 415801 | Privnte... | Llo.vd, Osman E. B... | O.T.C. Eng. | Lloyd, E. \Y. | • ?’ ■’ \ H. M. Beaueere tc Co., Lima, Peru, South |
-| 26 | 2487 | 803 | 3903 | 832 |  |  |  |  |  | Atne'iea  | South America | Middleton  | April 5,1915. |
-| 26 | 754 | 833 | 3903 | 868 | 414741 | Privnte  | Lynch, Bernard  | Nil  | Lynch, Mrs. Mary | • Mines, C.B., N.S. | Scotland  | Sydney Mines.. | May 8, 1915. |
-| 26 | 755 | 863 | 3903 | 895 | 415221) | Privnte  | Lynch, Martin  | Nil  | Lynch, James | j Ire  | Ireland  | Montreal  | Oct. 26, 1914. |
-| 26 | 754 | 892 | 3905 | 923 | 415202 | Privnte  | Manthorno, Samuel  | Nil  | Manthorne, EdwnH | " i. Queens Co., N.S | Canada  | Liverpool  | April 13,1915. |
-| 26 | 754 | 921 | 3906 | 954 | 414.177 | Privnte  | Mnttntnll, Frank L  | 76th Regt... | Mattatall, Mrs. Hell | • • n, Colchester Co., N.S  | Canada  | T ruro   | April 28,1915. |
-| 26 | 754 | 951 | 3906 | 983 | 415103 | Privnte  | McCall, Ucx Deville  | 68th Regt... | McCall, Mrs. Laurn | vjvtlle, Kings Co., N.S  | Canada  | Kentville   | April 7, 1915. |
-| 26 | 754 | 980 | 3907 | 1012 | 416123 | Privnte  | McColl, Frnnk  | 68th Regt... | McColl, Neal... | ■dviUo, Kings Co., N.S  | Cannda  | Kentville  | May 4, 1915. |
-| 26 | 754 | 1010 | 3907 | 1040 | 414115 | Privnte  | McCully, Frederick Archibald. | Nil  | McCully. Burnham | [7 ’'«rt Station, Colchester Co., N.S  | Cnnada  | Truro  | April 28, 1915. |
-| 26 | 755 | 1038 | 3907 | 1069 | 414707 | Private  | McDonald, Charles  | Nil  | McDonald, Miss M | ttrwrve Mines, C.B., N.S  | Canada  | Aldershot  | June 11,1915. |
-| 26 | 755 | 1068 | 3909 | 1097 | 414543 | Privnte  | McDonald, Dan  | Nil  | McDonald, Mrs. M | Mines, C.B., N.S  | Canada  | Sydney  | Mny 3, 1915. |
-| 26 | 755 | 1097 | 3909 | 1127 | 414281 | Privnte  | McDonald, Henry Elmer  | Nil  | McDonald, Rent ■>rl | eto, Cumberland Co., N.S.    | Cnnada  | Amherst  | Mar. 17, 1915. |
-| 26 | 754 | 1126 | 3909 | 1154 | 414700 | Privnte  | McDonald, Jnmes Donald  | Nil  | MacLean, Mrs. John | Mines, C.B., N.S  | Cnnada  | Sydney Mines. | Mar. 31,1915. |
-| 26 | 754 | 1155 | 3910 | 1185 | 414852 | Privnte  | McDonald, John J  | Nil  | McDonald, Mrs. M.in | Kydney Mines, C.B., N.S  | Canada  | Sydney Mines. | May 8, 1915. |
-| 26 | 754 | 1184 | 3910 | 1213 | 414092 | Privnte  | .MacDonald, Thomas.   | Nil  | MacDonald, Dan K   | ;'Mh Battalion, C.E.F  | Canada  | Sydney Mines. | May 8, 1915. |
-| 26 | 755 | 1208 | 3911 | 1244 | 415229 | Privnte   | MacDougnld, Dugald Stewart. | Nil  | MaeDougald, Priscilla   | ''rMgewnlor, Lunenburg Co., N.S  | Canada  | Bridgewater... | April 19, 1915. |
-| 26 | 755 | 1242 | 3912 | 1273 | 414300 | Private   | McDougali, Harry O  | Nil  | McDougnll, Satler   | Alton, Colchester Co., N.8  | Canada  | Truro  | April 28, 1915. |
-| 26 | 755 | 1271 | 4020 | 1303 | 414754 | Privnte  | McDougali, Joseph  | Nil  | McDougali, Neil   | 'rdney Mines, C.B., N.S  | Canada  | Sydney Mines. | May 8, 1915. |
-| 26 | 755 | 1301 | 3913 | 1332 | 414702 | Privnte  | MacEwan, Robert  | Nil  | MacEwan, Mrs. Eli*ah«-t!i ...... | lorenoe, Sydney Mines, C.B., N.S  | Scotland  | Sidney Mines.. | Mar. 31, 1915. |
-| 26 | 755 | 1331 | 3913 | 1363 | 414095 | Private  | McGillivray, Stephen  | Nil  | McGillivray, Mrs. Cathwin*   | East Bay, C.B., N.S  | Canada  | Sydney Mines. | May 8, 1915. |
-| 26 | 755 | 1360 | 3913 | 1391 | 41469D | Private  | McIntosh, Allen Francis  | Nil  | McIntosh, Mary  | ~j-dney Mines, C.B., N.S  | Canada  | Sydney Mines. | Mar. 31, 1915. |
-| 26 | 753 | 1389 | 3914 | 1420 | 414755 | Private  | McIntosh, Isaac  | Nil  | McIntosh, Mrs. Dora   | 'Jvdnev Mines. C.B., N.S  | Cnnada  | Sydney Mines. | May 8, 1915. |
-| 26 | 754 | 1415 | 3915 | 1451 | 414400 | Private  | McKenzie, Angus Dennis  | 94th Regt... | McKenzie, Thomas | New Waterford, C.B., N.S  | Canada  | Sydney  | Mar. 27, 1915. |
-| 26 | 755 | 1447 | 3914 | 1480 | 415524 | Private  | McKenzie, Joseph  | Nil  | McKenzie, Hugh | Pcuch Hill, Antigonish Co., N.S  | Cannda  | New Glasgow. | Mar. 31, 1915. |
-| 26 | 755 | 1474 | 3915 | 1508 | 414701 | Private  | McKinnon, Neii Angulus  | Nil  | MacKinnon, Mrs. Archie | Pont St., Sydney Mines, C.B., N.S  | Canada  | Sydney Mines. | Mar. 31,1915. |
-| 26 | 755 | 1506 | 3915 | 1541 | 41469S | Private  | McLean, Allen. | Nil  | McLean, Mrs. Allen.. | ^•dney Mines, C.B., N.S  | Canada  | Sydney Mines. | Mar. 31,1915. |
-| 26 | 755 | 1534 | 3916 | 1567 | 414392 | Private  | McLean, Thomas M  | Nil  | McLean, Mrs. P. A . | iVhycocomagh, Inverness Co., C.B., N.S  | Canada  | Truro  | April 28, 1915. |
-| 26 | 755 | 1563 | 3916 | 1596 | 415521 | Privnte  | MacLeod, Colin  | 78th Regt... | MacLeod, Mrs. May | Stellarton, Piotou Co., N.S  | Canada  | New Glasgow. | Mar. 30, 1915. |
-| 26 | 755 | 1593 | 3916 | 1625 | 414419 | Privnte  | McLeod, Daniel Frederick  | Nil  | McLeod, Mrs. D. C  | Truro, Colchester Co., N.S.   | Canada  | Aldershot  | Mar. 17,1915. |
-| 26 | 755 | 1622 | 3917 | 1659 | 414646 | Privnte  | McLeod, Neil  | NU  | McLeod, Mrs _ | Glace Bay, C.B., N.S  | Canada  | Grnce Bay | May 5, 1915. |
-| 26 | 755 | 1651 | 3918 | 1684 | 414020 | Corpornl  | MacNaught, Charles  | Imp. Forces. | MacNaught, Mn. E . | II Main St., Stevenston, Ayr, Scot  | Scotland  | Halifax  | Mar. 13, 1915. |
-| 26 | 755 | 1679 | 3918 | 1712 | 414691 | Private  | McNeil, Joseph  |  | McNeil, Donald ... .... | Sydney Mines, C.B., N.S  | Canada  | Sydney Mines. | Mar. 31,1915. |
-| 26 | 756 | 1709 | 3919 | 1741 | 414827 | Private  | McNeil, NeilJ  | 04th Regt... | McNeil, Dan  •••. | ■'lace Bay, C.B., N.S  | Canaria  | Aldershot  | June 11,1915. |
-| 26 | 756 | 1737 | 3919 | 1770 | 415201 | Private  | McRae, Farquhar   | Nil  | McRae, John  — | St. Godfroy, P.Q  | Canada  | Liverpool  | April 13, 1915. |
-| 26 | 756 | 1767 | 3920 | 1799 | 414493 | Privnte  | McVicar, Leo  | R.C.R  | McDonald, Mrs. D'in II ..... | Mira Ferry, C.B., N.S  | Canada  | Sydney  | Mar. 25, 1915. |
-| 26 | 756 | 1796 | 3921 | 1830 | 415140 | Privnte  | Miles, Frank    | Nil  | Miles, Gideon   | Wallbrook, Kings Co., N.S  | Canada  | Kentville  | May 4, 1915. |
-| 26 | 756 | 1825 | 3920 | 1859 | 4146S8 | Sergennt  | Milns, Osrar  | NU  | Miles, Mrs. Oscar .... | Main St., Sydney Minns, C.B., N.S  | Wales  | Sydney Mines | Mar. 31, 1915. |
-| 26 | 757 | 1854 | 3922 | 1889 | 414488 | Privnte  | Miller, Albert Bernard  | Nil  | Miller, Mrs. James .... | Margaree Forks, C.B., N.S  | Canada  | Sydney  | Mar. 27, 1915. |
-| 26 | 757 | 1884 | 3923 | 1916 | 414689 | Privnte  | Mitchell. John George  | Nil  | Mitchell, Mrs. 1.1" !' ■ r l ine  | Tilt Cove, Nfld  | Newfoundland. | Sydney Mines. | Mar. 31, 1915. |
-| 26 | 757 | 1914 | 3922 | 1947 | 414375 | Sergennt  | Munro, Allred E  | 781h Regt... | Munro, Alexander .... | New Annan, Colchester Co., N.S  | Cnnada  | Aldershot. ... | May 15, 1915. |
-| 26 | 757 | 1943 | 3923 | 1977 | 41476H | Privnte  | Moore, Albert....  | 78th Regt... | Moore, William ..... | North Sydney, C.B.. N.S  | Canada  | Sydney Mines | May 1,1915. |
-| 26 | 757 | 1973 | 3924 | 2003 | 415221 | Privnte  | Moorrees, John Peter G  | Nil  | Notstnted  •••• | Not Stated  | Holland  | Bridgewater.. | April 17, 1915. |
-| 26 | 757 | 2002 | 3924 | 2035 | 415270 | Private  | Morby, Arthur.  | Territorials.. | Morby, Thoma«   | Chnrwelton, Northnnts, Eng  | Englnnd  | Digby  | April 5, 1915. |
-| 26 | 758 | 2030 | 3925 | 2065 | 41474'! | Privnte  | jMorrison. Alexander  | Nil  | Morrison, Mrs. Mat' .... | Maine St., Sydney Mines, C.B., N.S  | Seotlnnd  | Sydney Mines | May 8, 1915. |
-| 26 | 759 | 2061 | 3925 | 2095 | 414690 | Privnte  | ■Morrison, Alexander Randolph. | Nil  | Morrison, Dan A   | Cottage St., Sydney Mines, C.B., N.S  | Canndn | Sydney "Mines | Mar. 31, 1915. |
-| 26 | 759 | 2090 | 3924 | 2125 | 414778 | Privnte  | IMorrison, Mellow  | 94th Regt. | Morrison, Mrs. Mar: Ar.n   | Convent St., Sydney Mines. C.B., N.S  | Cnnada | Aldershot.... | June 12, 1915. |
-| 26 | 758 | 2119 | 3926 | 2157 | 414346 | Privnte  | Mountain, Terance  | Nil  | [Mountain, Mrs. A:mir-   | Northport, Cumberland Co., N.S  | Canada i Amherst |  | Mar. 30,1915. |
-| 26 | 759 | 2144 | 3926 | 2182 | 415520 | Privnte  | 'Munford, Frederick  | 'Nil  | 'Kellet, Mrs. Eliza | Askern, Doncaster, Yorks., Eng  | England  .'New Glasgow. |  | Mnr. 31. 1915. |
-| 27 | 3144 | 319 | 3832 | 347 |  |  |  |  |  |  |  | Canada 1 | Sydney  | Mar. | 27, 1915. |
-| 27 | 662 | 343 | 3831 | 394 | 4l441!7irrivn1<'   |  | . 'Munro, Stanley  |  | Nil  | 'Murphy, David...   | Kilden, Colchester Co., N.S  | Canada I | Truro  | \pril 18, 1915. |
-| 27 | 3145 | 378 | 3831 | 407 |  |  |  |  |  |  |  | Canada  | Truro  | April 28, 1915. |
-| 27 | 663 | 381 | 3116 | 425 | 41I’rivatf  |  | .(Murphy, Frederick Abner  |  | Nil   | I Murray, Mi*w Elvira   | FLilden, Oolrhestcr < ‘o., N.S  |
-| 27 | 662 | 408 | 3831 | 453 | 4MWl'Private  |  | Murray, Newton  |  | NU   | (Murtha, Daniel... — | Liverpool, C^uern'*( N.S  | Cannda  | Liverpool.   | April 13, 1915. |
-| 27 | 3146 | 438 | 3830 | 465 |  |  |  |  |  |  |  | Canada  | Amherst  | Mar. | 30, 1915. |
-| 27 | 662 | 442 | 3116 | 486 | 415IP**ll*riv»1f |  | |Murtha, Arthur  |  | Nil  | Nicholson, James . .... | River IlebeiI, (’uniborland Co., N.S  • • • |
-| 27 | 3148 | 467 | 3831 | 498 |  |  |  |  |  |  |  | England  | Aldershot | lune | 1, 1915, |
-| 27 | 661 | 472 | 3116 | 510 | 4l4350|Privnto .. |  | N’ieholson, James . |  | Nil    | .Dickinson, G  | Wallaend-on-Tynt- Northumberland, Eng  |
-| 27 | 660 | 496 | 3829 | 540 | 414201 Privato  |  | Nixon, Robert   |  | roth R4*1  | Norse, Mrs. Mary Mizabeth. | Sydney Mines, C.Il., N-S  | Canada   | Sydney Mines.. | May | S, 1915. |
-| 27 | 660 | 528 | 3830 | 580 | 4M705|Private  |  | . j Norse, Willinm  |  | i Nil  | JO'Hatiley, Mrs, Douglas  | Sydney Mines, C R • N.S  | Canada  | Sydney Mines. . | Slar. | 31, 1915. |
-| 27 | 660 | 553 | 3830 | 601 | 414700 Private   |  | O'Hanley, Douglas  |  | I Nil •■••vi; • • • | Oldfield, Mrs. StoVa   | 09 George St . Hnlifax, N.S    | Canada .. . | | Halifax  | Nlar. | 15, 1915. |
-| 27 | 1527 | 579 | 3830 | 616 |  |  |  |  | iC.P.A.*0 C-.- |  |  | Kngiund  | Sidney Mines. | Mar. | 31, 1915. |
-| 27 | 661 | 594 | 3116 | 629 | 41402(1 Sergeant   |  | 'Idfield, Frederick Hichnrd |  |  | Osborne, Mrs. Edith Hilda.. | Florence, C.B., N.S    |
-| 27 | 1527 | 611 | 3831 | 645 |  |  |  |  | ilioval N»vy- • |  |  | England  | Sydney Mines. . | Mar. | 31, 1915. |
-| 27 | 661 | 622 | 3116 | 659 | 414707[< Corporal  |  | Uid>arae. George Stephen. . .. |  |  | lOsborno, Mrs. Jam Ann  | Plymouth, Devon, Kn*?  |
-| 27 | 661 | 640 | 3831 | 685 | 414706 Pri vale  |  | Osborne, William  |  | [R.A.M.C  | Il’arrj", Mrs. Marv   | M inf odd Terr., Llanrug, Carnarvon, Wales  | Wales  | Aldershot   | June | 11, 1915. |
-| 27 | 662 | 672 | 3832 | 716 | 414771'! Private  |  | nrry, Hash.. ^  |  | |<Htli lloict. • •• | i Peck, Ephiram..   | Kentville, Kings Co., N.S   | Canada  | Kentville  | April | 7, 1915. |
-| 27 | 661 | 705 | 3831 | 751 | 415II4|Private  |  | Peck. JYlcr Percy  |  | Nil  | Porter, Hi'nil'T"’-’"   | Cain bridge Station, Kings Co., N.S  | Canada | | Kentville  | April | 7. 1915. |
-| 27 | 663 | 733 | 3832 | 773 | 410120 Private  |  | Porter, Roy Cecil...... . |  | Nil  | Pratt, John 11..   | Beluiont. Colchester Co., N.B  | Canada | Truro  | May | S, 1915. |
-| 27 | 662 | 755 | 3832 | 803 | 414405 Privnte |  | Pmtl, Chiirlwi Edward |  | I Nil  | Pj ke, Mrs. A  | St. Lawrence, Nfld  | Newfoundland.. | Sydney Minus.. | May | S, 1915. |
-| 27 | 662 | 787 | 3833 | 837 | 41173!' | Private  | PylWjltirr)*  |  | (Nil  | Rao, Mrs. Huflh   | Itoy Bog, Blairndam, Kinross, Scot  | Scotland  | Truro    | April | 28, 1915. |
-| 27 | 663 | 820 | 3833 | 861 | 411WI | Private  | ?tae, Thtmiw  |  | Ml  | llalston, Mrs. J •••• | Brooklyn Ave., Sydney Mines, C.B., N.S  | Scotland  | Sydney Mines. . | M ay | S. 1915. |
-| 27 | 662 | 848 | 3832 | 889 | 414710 | Private  | Ralston, Henry   ... |  | NU  • | Ilalstoa, Mrs. Jane   | Brooklyn Ave.. Sydney Mines, C.B., N.S  | Scotland  | Sydney Mines. . | M ay | 8, 1915. |
-| 27 | 663 | 881 | 3834 | 928 | 414742 | Privato  | Ralston, Henry B  |  |  | j Wagner, Annie  | New Canada, Lunenburg Co., C.B., N.S  | Canada  | Brigd water  | April 19, 1915. |
-| 27 | 662 | 905 | 3834 | 948 | 41.1235 | Privato  | Ramey. William  |  |  | ltanouf, Julian  | Robiuson’s Head, NDd    |  | Sydney Mines. . | Newfoundland.. | May | 8, 1915. |
-| 27 | 662 | 934 | 3834 | 972 | 414774 | Privato  | Hawaii. Frederick   |  | Nil  |  | Green Harbouf, Trinity Bay, Nfld  | Newfoundland . | Sydney Mines . | May | 8, 1915. |
-| 27 | 663 | 968 | 3835 | 1008 | 41474V | Private  | Held* I»alt*r  |  |  | Ilifiby, Mrs. Margaret  | Sydney Minf's, C.B., N.S  | Ragland  | Sydney Mines. . | Mar. | 31, 1915. |
-| 27 | 663 | 997 | 3835 | 1033 | 414710 | Private  | Rif. by, IlnlxTt William  |  |  | Robinson. Mrs. John  | Diggins St., Sydney Mines, C.B,, N.S  | England  | Sydney Mines. . | M ar. | 31, 1915. |
-| 27 | 662 | 1026 | 3836 | 1064 | 411715 | C’.H.M  | llobiaiKM.   |  |  | Roper. Mrs. Emily  | Standish, Lancs. Eng    ;  | England  | Sydney Mines. . | May | 8, 1915. |
-| 27 | 664 | 1051 | 3836 | 1091 | 414717 | Private  | 1 toper, ^\J£rw«l  .. |  |  | P^tm. )ln. Alice   | Huron Ave., Sydney Mines, C.B., N.S  | Scotland  | Sydney Mines . | Mar. | 3i, 1915. |
-| 27 | 665 | 1083 | 3836 | 1120 | 414711 | Piivnto  | Roe*, C1»rl« l>Jrer    • |  |  | R<>««. M rs. Sarah   | 17 Hill .St., Amherst, Cumberland Co.. N.S  | Canada  | Amherst  | Mar. | 17, 1915. |
-| 27 | 665 | 1112 | 3836 | 1154 | 414200 | Pri vole  | Rom, V* ttliaro Jamas....... |  |  | Ryan. Mr*. IxraL“-  | North Sydney. C.B., N.S    | Canada  | Sydney Mines . | May | 8, 1915. |
-| 27 | 665 | 1139 | 3837 | 1184 | 414777 | Private  | Ryan, Dm U  |  |  | Ryan, Mrs. M. F   | New Waterford, C.B., N.S ;.  | Canada  | Sydney  | Mar | 20, 1915. |
-| 27 | 665 | 1170 | 3939 | 1207 | 414614 | Privato  | Rynfc. Jrtry . |  |  | Mr-* Henry.  | Kentville, Kings Co., N.S  | Canada   | Kentville  | April | 7, 1915. |
-| 27 | 665 | 1193 | 3939 | 1239 | 415IOVPrivate.. |  |  | Ralph Kdward |  | Knvl. W.ry (> ........ | North J>o*M-ing, M*», U.S.A.    | Canada   | Bridgewater.... | Mav | 5, 1915. |
-| 27 | 665 | 1218 | 1794 | 1252 | 41.'.»4t> i‘riv«i»  |  |  | Jaw** IUl»r • • | • iN*I....,;  |
-| 27 | 1869 | 1233 | 3838 | 1267 |  |  |  |  |  | ^•is"kh \ . Josoph   | New Glasgow, Pictou Co., N.S    | Englnnd  | Truro  | April 28, 1915. |
-| 27 | 1857 | 1263 | 3838 | 1295 |  |  |  |  |  | l-lifr*. Ooorco   | Sydnoy Mines, C.B., N.S...     | Scotland   | Sydney Mines . | Mnr. | 31, 1915. |
-| 27 | 1546 | 1293 | 3838 | 1326 |  |  |  |  | I rmtoruJi, .. | •nilth, 'I rs Vlbert   | 8 Friary St., Plymouth, Devon, Eng    | Kngiand    | Sydney Mints | Mar. | 31, 1915. |
-| 27 | 1543 | 1322 | 3838 | 1357 |  |  |  |  | Nil  | ^mt’.h, Mrs. Jnliu*    | Florence, C.B., N.S   | England. . | Sydney Mines . | May | 8, 1915. |
-| 27 | 1859 | 1351 | 3839 | 1392 |  |  |  |  |  | jvrnith, Stow art   | Pott Monton, Qiioons Co., N.S.   | Canada  | 1 #iverpool  | April 13, 1915. |
-| 27 | 1533 | 1378 | 3838 | 1412 |  |  |  |  | .' -rt w»W  | -.ouhi^s. Mrs. Jsne B  | 38 Dogford Rd„ Itoyton, Manch^st<*r, F>>«  . | England  | Aldershot  | May | 25, 1915. |
-| 27 | 668 | 1408 | 3839 | 1457 | 41172' ,I*riv«'r   |  |  | I*.*.  | ,;n j  | pWv*. Mr». Kdmml 15 . . | Fonrr*^t St., 8jrdw»y Mine*, C.H., N^  | Canada  | Sydney M ines | M ar. | 31. 1915. |
-| 27 | 1861 | 1438 | 3839 | 1470 |  |  |  |  |  | ‘ ; r>>i«I. Arthur   | lyiverpool, Qtieens Cx»., N.8    | Canada  | Liverpool  | April 13, 1915. |
-| 27 | 1872 | 1467 | 3840 | 1498 |  |  |  |  |  | "* * f . W illi.in T  | Liverpool, QtifMin* Co., N.H.    | Cnnad a    | Liverpool  | April 13, 1915. |
-| 27 | 1188 | 1494 | 3840 | 1532 |  |  |  | J »Hn IVrw   | . NU  | .’I'-Koutr, Xlr.. Munlock... | Millville, Bo«Urdar»#, C.B., N.8.,,.  | Cana* la . | Sydney Mines . | Mar. | 31, 1915. |
-| 27 | 2000 | 1523 | 3840 | 1554 |  |  |  |  |  | f.liroln'th   | Clarke's IJc'ieh* Conception Hay, N fid   | \«** ("midland.. | Spring Hill.. . | Mar. | 17, 1915. |
-| 27 | 1030 | 1552 | 3841 | 1597 |  |  | ;■ .«***#, <i*H? * .. |  | .|nm. ...... «%«.«,#«• | v . Mr. J. 1)  | Truro, Colnb«»tor Co.. N.H.     | Canada   | Truro  | April 28, 1915. |
-| 27 | 1861 | 1581 | 3841 | 1620 |  |  |  |  |  | j*«J«»la»cl, Mm. Vincent .. | Sheffield, York*., r.aguiiNi.,  | England  .. | Sydney Mines. . | Mar. | 31, 1915. |
-| 27 | 669 | 1587 | 1813 | 1627 | 411721 Priv.to  |  | '     |  | • IS®..»••• |
-| 27 | 1533 | 1608 | 3842 | 1644 |  |  |  |  | f*M    |  | Sydney, uJ3,» N .S  | f Vuim'Im   | Sydney Mines.. | Mar. | 31, 1915. |
-| 27 | 1017 | 1639 | 3842 | 1681 |  |  | *h #m Mm ww»*   |  | lt»*, ........ | VIr» John William  | \\f»lliro«>d, I>tmferml»ee, Fif^., Hwt..,  | Scotland  | Sydney Mines. . | Mar. | 31, 1915. |
-| 27 | 1615 | 1666 | 3842 | 1701 |  |  |  |  |    | frwl. NrJ’-M | 23 r»terroe rtt, Awlwmt, CtoibirM Co.( N.S ... | Canfwla  | Amherst  | Mar. | 17, 1915. |
-| 27 | 1877 | 1696 | 3843 | 1730 |  |  |  |  |  | ' • ■ K, Mr*. \ . ... | 1S5 Church Kd.« field. Bristol, lOn*  | Ivnglan<l   | Halifax  | Mar. | 13. 1915. |
-| 27 | 1284 | 1725 | 3843 | 1757 |  |  |  | NMwi ... |  | ' Itrr Mrs ll-ich   | Waterville, Kings Co., N.H   | Canada  | Kentville  | April | 7, 1915. |
-| 27 | 670 | 1746 | 3845 | 1785 | MSIlt ltivati*  |  |  |  |  | . t-m. Mi" llolca   | Middleton, N.S    | Syria  | Middleton  | April | 5, 1915. |
-| 27 | 670 | 1765 | 3845 | 1819 | 4 l£f>05, Privato  |  | .It   |  |  | t..s» Me Uir i'-.-'-Ii Ann. | Sydney Mines, C.B., N.S...^.    | England.... .. | Sydney M ines. | Mav | S, 1915. |
-| 27 | 670 | 1806 | 3845 | 1846 | 414773'Private  |  |  |  |  | ‘‘T I   | Barrow-ln-Foniean, L*nr«.j Kit*    | England  | Aldershot  | Mnv | 24, 1915. |
-| 27 | 1523 | 1841 | 3846 | 1873 |  |  |  |  | . SJ.. | 1 tfff, i   | Bear River, 1 >»ebjr Co^ N  | t ana<la  | M iddleton  | April 5, 1915. |
-| 27 | 670 | 1865 | 3846 | 1902 | 4 l.^SOO'Private..*  |  |  |  | N4 | T t*fi * I • f * | Admiral H^ k. Hants Co., N.S.. i     |  |  | April 28, 1915. | * 'nnada . | T ruro  |
-| 27 | 671 | 1882 | 3846 | 1928 | 41457*1 Private  |  | Twnto* /.f. |  |  | ‘ *. W | Waterville. Kint* Ck>., N.S....  | f 'nnada .. | Kentville  | May | 4, 1915. |
-| 27 | 672 | 1924 | 3846 | 1958 | 415132 Private  |  |  |  | N/ | V»* Mucki* .... | Sydney Min*e. C H.. N.S...  | < *anada | Sydney Mines | Mar. | 31, 1915. |
-| 27 | 672 | 1953 | 3847 | 1987 | 414729 i Privnte  |  |  |  | 4NM.. | \ Mr« H .   | Jam^ Pt« Ambervt. C»mberle»d N.B  | Ertr^aird  | I Amherst  | Mar. | 17. 1916. |
-| 27 | 671 | 1982 | 3847 | 2022 | 41439? I Private.i.s  |  |  |  | .•,*V J | \ . |.«« i* J . . . , | letSt., Ami ibeflnad Co., K<8  | England  | |Amherst   | Mar. | 18. 1915. |
-| 27 | 672 | 2008 | 3840 | 2050 | 414303 j Private  |  |  |  | jjt* | i >t*'«m*Wxfrw%k .   | . jUrefiv*^, N.B   | . Canada .. | J Liverpool.,.. | April 13, 1915 |
-| 27 | 673 | 2018 | 3848 | 2072 | 415199 Privato  |  |  | °   |  |  | ‘ f ^imaline. Nlli.    | . Newfoundalnd | iSydney Mines | May | 8, 1915. |
-| 28 | 928 | 676 | 2987 | 706 |  |  |  | Former Corps. |
-| 28 | 748 | 729 | 3866 | 766 | £ |  |  |  |  |  |  |  | Place. | Date. |
-| 28 | 746 | 822 | 2983 | 855 | 415117 | Privato  | Wentiell, Joseph Hughie... | 14th Hussars | Wentsell, Henry  | Berwick, Kings Co., N.S  |
-| 28 | 3233 | 836 | 3922 | 866 |  |  |  |  |  |  |  | Canada  | Kentville  | April | 7,1915. |
-| 28 | 746 | 853 | 2982 | 884 | 415135 | Privnte  | WhilnifT, Albert  | C.G.A... | WhilnifT, William  | Bathurst, Gloucester Co., N.B  |
-| 28 | 3233 | 866 | 3923 | 896 |  |  |  |  |  |  |  | Canada  | Kentville  | May | 4, 1915. |
-| 28 | 745 | 883 | 2983 | 915 | 414752 | Private  | Whito, Aubrey  | Nil  | Whito, Charles  | Victoria, Nfld  |
-| 28 | 3237 | 896 | 3922 | 926 |  |  |  |  |  |  |  | Newfoundland.. | Sydney Mines.. | May | 8, 1915. |
-| 28 | 745 | 913 | 2983 | 944 | 415549 |  | Whootcn, William Raymond | Nil  | Moorfoot, Mrs. H  | Lynn, Mass., U.S.A  |
-| 28 | 3235 | 925 | 3922 | 954 |  |  |  |  |  |  |  | Cnnada  | New Glasgow. . | May | 1, 1915. |
-| 28 | 745 | 942 | 2982 | 974 | 415210 | Loe.-Corporai   | Whynott, Charles Scott.... | Nil  | Whynott, Currie  | Bridgewater. Lunenburg Co., N.S  |
-| 28 | 3234 | 954 | 3923 | 982 |  |  |  |  |  |  |  | Canada  | Bridgewater.... | April | 17, 1915. |
-| 28 | 745 | 971 | 2983 | 1002 | 415109 | Sergeant  | Whynott, Harry Creighton | Nil  | Whynott, Mrs. Harry  | Kentville, Kings Co., N.S  |
-| 28 | 3234 | 983 | 3923 | 1011 |  |  |  |  |  |  |  | Canada  | Kentville  | April | 7, 1915. |
-| 28 | 745 | 998 | 2983 | 1031 | 415215 | Private  | Whynott, Merl Erven  | Nil  | Whynott, Currie  | Bridgewater, Lunenburg Co., N.S  |
-| 28 | 3234 | 1011 | 3923 | 1040 |  |  |  |  |  |  |  | Canada  | Bridgewater.... | April | 17, 1915. |
-| 28 | 745 | 1029 | 2983 | 1058 | 415215 | Private  | Wile, Malie  | Nil  | Wile, Gamaliel  | Brickfield, Queens Co., N.S  |
-| 28 | 3234 | 1040 | 3923 | 1068 |  |  |  |  |  |  |  | Canada  | Bridgewater .. | April | 19, 1915. |
-| 28 | 745 | 1058 | 2984 | 1087 | 415101 | Private  | Williams, James Arthur.... | Nil  | Williams, Thomas  | Upper Wellington, Hereford, Eng  |
-| 28 | 3236 | 1068 | 3924 | 1096 |  |  |  |  |  |  |  | England  | Kentville  | April | 7, 1915. |
-| 28 | 745 | 1086 | 2985 | 1116 | 4144(11 |  | Wilson, Richard Bowley... | Nil  | McWilliams, Mrs. William | New Waterford, C.B., N.S  |
-| 28 | 3235 | 1097 | 3924 | 1125 |  |  |  |  |  |  |  | Scotland  | Truro  | May | 5, 1915. |
-| 28 | 745 | 1116 | 2985 | 1146 | 415800 |  | Woodbury, Walter Roy.... | Nil  | Woodbury, Mrs. Bertha | Torbrook West, Annapolis, N.S.   |
-| 28 | 3235 | 1125 | 3924 | 1153 |  |  |  |  |  |  |  | Canada  | Middleton  | April | 5, 1915. |
-| 28 | 745 | 1144 | 2985 | 1174 | 414730 |  | Wright, Charles  | Nil  | Wright, Mrs. Harrie.... | Sydney Mines, C.B., N.S  |
-| 28 | 3238 | 1154 | 3924 | 1182 |  |  |  |  |  |  |  | England  | Sydney Mines. . | Mar. | 31. 1915. |
-| 28 | 745 | 1173 | 3924 | 1207 | 414343 | Private.   | Wynn, Zeb. Mullins..  | Nil....... | Wynn, Joseph  | Wallace, Cumberland Co., N.S  |  | Canada  | Amherst  | Mar. | 30. 1915. |
-| 28 | 843 | 1374 | 3924 | 1408 |  | Lieutenant,  | Dawson, Francis Murray... | 70th Regt... | Dawson, C. N  | Truro, Colchester Co., N.S  |  | Canada   | Valcartier  | Aug. | 31, 1915- |
-| 28 | 843 | 1404 | 3924 | 1438 |  | Lieutenant  | Douglas, Charles Irving... | 60th Regt... | Douglas. Harry  | Petitcodiac, Westmoreland Co., N.B. |  | Canada  | Valcartier  | Sept. | 14, 1915. |
-| 28 | 843 | 1433 | 3924 | 1467 |  | Lieutenant  | Farish, George Collins  | Slst Regt.... | Farish, Henry G  | Yarmouth, N.S  |  | Canada  | Yarmouth  | April | 17, 1915. |
-| 28 | 845 | 1462 | 3924 | 1495 |  | Lieutenant  | Jones, Owen B  | Gfjt.h Regt... | Jones, H. E  | Halifax, N.S  |  | Canada  | Sydney | Mar. | 27, 1915. |
-| 28 | 844 | 1491 | 3925 | 1524 |  | Lieutenant  | Stairs, Denis  | 6Gth Regt... | Stairs, Miss Helen  | 20 Kent St.. Halifax, N.S  |  | Canada    | Valcarticr  | Aug. | 31, 1915. |
-| 28 | 745 | 1520 | 3925 | 1552 | 414103 | Private  | Angevine, Frank  | 93rd Regt... | Angevine, Eli  | Middleboro, Cumberland Co., N.S... |  | ('anada  | Halifax  | May | 4, 1915. |
-| 28 | 746 | 1550 | 3925 | 1581 | 415500 | L.-Corporal  | Applegate, Harold C harles. | Territorials.. | Applegate, Charles Herbert. | Berwick, Kings Co., N.S  |  | England  | Middleton  | April | 5, 1915. |
-| 28 | 745 | 1579 | 3925 | 1610 | 415513 | Private  | Apt, William Russell  | Nil  | Apt, William H  | Colerain, Mass., U.S.A  |  | Canada  | Digby  | April | 5, 1915. |
-| 28 | 746 | 1607 | 3925 | 1639 | 414530 | Private  | Armsworthy, Albert Seward | Nil  | Armsworthy, William  | Canso, Guysborough Co., N.S  |  | Canada  | New Glasgow. . | May | 7, 1915. |
-| 28 | 746 | 1637 | 3924 | 1666 | 414531 | Private.....  | Arsneau, Gilbert  | Nil  | Arsneau, Paul  | Parrsboro, Cumberland Co., N.S  |  | Canada  | Amherst  | Mar. | 17, 1915. |
-| 28 | 746 | 1666 | 3925 | 1696 | 415017 | Private  | Attwood, Henry  | Nil  | Attwood, Mrs. Elizabeth... | Glace Bay, C.B., N.S   |  | England  | Sydney  | Mar. | 25, 1915. |
-| 28 | 747 | 1695 | 3925 | 1725 | 415538 | Private  | Balch, James  | Nil  | Robson, Mrs    | Dover, Kent, Eng    |  | England  | Aldershot  | June | 15, 1915. |
-| 28 | 747 | 1724 | 3925 | 1754 | 415018 | Private  | Hall, John  | Nil  | Ball, Mrs. Martha   | Guy St., Sydney Mines, C.B., N.S... |  | England  | Sydney Mines. . | Mar. | 31, 1915. |
-| 28 | 748 | 1753 | 3925 | 1783 | 415019 | L.-Corporal  | Barlow, John Henry  | Nil....  | BarlOW, Mrs. Matilda  | Sydney Mines, C.B., N.S  |  | England.   | Sydney Mines. . | Mar. | 31, 1915. |
-| 28 | 748 | 1783 | 3926 | 1816 | 415537 | Private  | Bartlett, Simon  | Nil  | Bartlett, Mrs. Eineline  | Tusket. Yarmouth Co., N.S  |  | Canada  | Liverpool (April | 13, 1915. |
-| 28 | 749 | 1812 | 3926 | 1842 | 415020 | I j.-Corporal  | Bathgate, John Henderson. | Nil  | Bnthgate, Mrs  | Kennerd Lodge, Alloa, Clackmannan, | Scot | Scotland  | Aldershot May | 24, 1915. |
-| 28 | 749 | 1841 | 3926 | 1872 | 415534 | Private  | Baxter, Arthur Roy  | Nil  | Baxter, George W  | Digby, N.S...  |  | Canada   | Digby J April | 5, 1915. |
-| 28 | 750 | 1870 | 3926 | 1900 | 415491 | Private  | Beed, Philip Atkinson  | Nil  | Beed, Mrs. Alary Ann  | Oxford, Cumberland Co.. N.S  |  | Australia  | Amherst...... I May | 6, 1915. |
-| 28 | 750 | 1899 | 3927 | 1929 | 414520 | Private ;  | Berridge, Frederick  | Nil  | Berridge, Mrs. Annie  | Claremont, Cumberland Co., N.S.... |  | England  | Amherst :Mar. | 17, 1915. |
-| 28 | 749 | 1927 | 3927 | 1957 | 414536 | Private  | Blenkhorn. Harold  | Nil  | Blenkhorn, Mrs. David  | Fenwick, Cumberland Co., N.S  |  | Cnnada  | Amherst  jMar. | 17, 1915. |
-| 28 | 750 | 1957 | 3927 | 1986 | 414524 | Private  | Booth, William   | Nil  | Booth, Mrs. Edith  | 112 Church St., Amherst, Cumberland Co | N.S | England  | Amherst Mar. | 17, 1915. |
-| 28 | 751 | 1981 | 3928 | 2015 | 4155-11 | Private  | Bourdreau. George William | Nil  | Bourdreau, Mrs. Catherine.. | Yarmouth, N.S  |  | Canada  | Yarmouth  (April | 12, 1915. |
-| 28 | 751 | 2014 | 3928 | 2051 | 415124 | Private  | Bourdreau. Wilfred  | Nil  | Bourdreau, Henry.   | Boston, Mass, U.S.A  |  | Canada  | Sydney  jMay | 3, 1915. |
-| 28 | 751 | 2044 | 3928 | 2076 | 415182 | Private.    | Boutilier, Edward   | Nil  | Boutilier, Charles  | Caledonia Mines, C.B., N.S  |  | Canada  | Aldershot iJuly | 24, 1915. |
-| 28 | 750 | 2073 | 3928 | 2106 | 414537 | Private  | Boyd, Eugene Morton  | Nil  | Boyd, Gilbert  | Five Islands, Colchester Co., N.S... |  | Canada  | Amherst... | Mar. | 17, 1915. |
-| 28 | 752 | 2098 | 3928 | 2134 | 415542 | Private  | Brooks, Dillon Bog  | Nil  | Brooks. Mrs. Annie  | Ashmore, Digby Co., N.S  |  | Canada  | 'Digby May | 11.1915. |
-| 28 | 751 | 2127 | 3929 | 2164 | 414507 | Sergeant  | Broughton. Thomas Whittak | Nil  | Broughton, Thomas  | Amherst, Cumberland Co., N.S  |  | England  | iAmherst  |Mar. | 17.1915. |
-| 28 | 752 | 2159 | 3929 | 2194 | 414539 | Private  | Brown, Ralph  | Nil  | Hayes, Mrs. Reuben  | 56 Spring St., Amherst, Cumberland Co., | N | .S... | Cnnada | Amherst  IMar. | 12, 1915. |
-| 28 | 753 | 2187 | 3930 | 2222 | 415023 | Private.   | Brown, Robert  | Imp. Forces. | Brown, Mn. M   | Ni w Waterford, C B., N.S    |  | (Scotland | Sydney  May | 3, 1915. |
-| 28 | 753 | 2213 | 3930 | 2253 | 4 nr, ii | Privatr  | Bryenton, William  | Nil  | Bryenton, Mrs. Annie  | *42 Clarence St., Amherst, Cumberland Co | N.S | •Canada | 'Amherst Mar. | 17, 1915. |
-| 29 | 2326 | 318 | 3801 | 347 |  |  |  |  |  | 91 Lower Water St.. Halifax, N.S  | Cnnada   | Halifnx  | Aug. | 10, | 1915. |
-| 29 | 634 | 326 | 2212 | 357 | 4 15fMJ3IPrivate.... |  | Iltryong, Clarence  | GOt.h Regt | Bryong, Patrick  |
-| 29 | 635 | 347 | 3800 | 384 | 415024 Private.... |  | iBuchntmn, John Angus  | Nil  | Buchanan, Murdock   | North Sydney, C.B., N.S  | Canada  | Sydney  | Mur. | 26, | 1915. |
-| 29 | 634 | 376 | 3800 | 414 | 414542 Private,... |  | Buck, William  | Nil  | Buck, Mrs. William  | 43 Prince Arthur St., Amherst, Cumberland Co. | Canada  | Amherst  | Mnr. | 17, | 1915. |
-| 29 | 634 | 406 | 3800 | 447 | 414061 [Private.... |  | !Burke, Felix Joseph  | Nil  | Burke, Miss Susan  | 42 Garry St., Halifax, N.S  | Newfoundland. | Halifax  | Mnr. | 12, | 1915. |
-| 29 | 633 | 436 | 3799 | 483 | 414I59jPrivate.... |  | ('artcr, Saxby  | 93rd Regt | Carter, William  — | Westmoreland Point, N.B  | Cannda  | Halifax  | Mny | 4, | 1915. |
-| 29 | 633 | 466 | 3799 | 504 | 415030il’rivnto.... |  | Cassidy, Andrew  | Nil  | Cassidy, Mrs. Catherine.. | Inverness, C.B., N.S  | Canada  | Glace Buy  | Mnv | 5, | 1915. |
-| 29 | 633 | 496 | 3800 | 533 | 4145401 Private.... |  | Cnvanagh, Vincent  | 78t.h Regt | Cnvanagh, Mrs. Florence. | New Glasgow, Pictou Co., N.S  | Cannda  | New Glasgow. . | Mar. | 31, | 1915. |
-| 29 | 633 | 526 | 3800 | 561 | 415555 Privnte ... |  | Cliailnor, Norman I'dward | Nil  | Cliailnor, Mrs. Ada  | Deerfield, Yarmouth Co., N.S  | Canada  | Digby  | Mny | 10, | 1915. |
-| 29 | 633 | 555 | 3801 | 591 |  | i Private.... | 414575 | Chapman, Frederick  | Nil  | Chnpmnn, Mrs. Joseph.... | 253 Church St., Amherst, Cumberland Co., N.S. | England  | Amherst  | Mar. | 17, | 1915. |
-| 29 | 633 | 585 | 3800 | 620 |  | r Bugler  | 414547 | Chisholm, Wilfred Lnurier. | C.F.A.... | Richardson, Mrs. J  | 48 Intercolonial St., Sydney, C.B., N.S  | Canada  | New Glasgow. . | Mnr. | 30, | 1915. |
-| 29 | 632 | 611 | 3801 | 650 |  | i Private.... | 41555(1 | Clarke, Stanley Herbert... | Nil  | Clarke, Spurgeon A  | Mosher's Corner, Annapolis, Co., N.S  | U.S.A  | Middleton  | April | 3, | 1915. |
-| 29 | 632 | 644 | 3802 | 679 |  | ! Private.... | 41555! | Clnrk, William  | Can. Mil. | Clark, W. H  | Mosher's Corner, Annapolis Co., N.S  | Canada  | Valcartier  | July | 13, | 1915. |
-| 29 | 632 | 673 | 3803 | 710 |  | Private.... | 415551 | Conienu, Joseph CVenr  | Nil  | Comeau, Mrs. Mary  | Centreville, Digby Co., N.S  | Canada  | Digby  | May | 10, | 1915. |
-| 29 | 631 | 703 | 3802 | 738 |  | Private.... | 414551 | Cook, Herbert William  | Nil  | Cook, Mrs. Ruth  | Spring Hill, Cumberland Co., N.S  | Canada  | Amherst  | Mnr. | IS, | 1915. |
-| 29 | 632 | 733 | 3804 | 768 |  | i Private | 415558 | Corkum. Millngc St. Claire | Nil  | Corkum, John S  | Bridgewater, Lunenburg Co., N.S  | Canada  | Bridgewater.... | M ay | 5, | 1915. |
-| 29 | 632 | 762 | 3804 | 797 | 4142411 | Private  | Coi, William  | Nil  | Cox, William  | Bonavista, Nfld  | Newfoundland.. | Aldershot | June | ». | 1915. |
-| 29 | 631 | 792 | 3804 | 827 | 414559 | Private  | Crawford, Andrew  | Nil  | Crawford, Mrs. Sarah  | 20 Electric St., Amherst, Cumberland Co., N.S. | Canndn  | Amherst Mar. | 29, | 1915. |
-| 29 | 632 | 822 | 3803 | 857 | 415115 | Private.... | Crawford, Charles  | Nil  | Crawford, James  | Beaver Mines, Edmonton, Alta  | Seotlnnd  | Sydney | Mar. | 26, | 1915. |
-| 29 | 631 | 852 | 3803 | 887 | 415499 | Private.... | Crawford, Stanley  | Nil  | Crawford, Celia  | Sackville, Westmoreland Co., N.B  | Canada  | Amherst  | Mar. | IS, | 1915. |
-| 29 | 631 | 881 | 3803 | 916 | 414500 | Private.... | Cream, Clyde   | Nil  | Cream, Mrs. William  | Truro, Colchester Co., N.S  | Cannda  | Amherst  | Mar. | 17, | 1915. |
-| 29 | 631 | 911 | 3804 | 944 | 414184 | Privnte.... | Croken, John P  | 82nd Regt | Donagnn, Mrs. John...... | 15 West St., Marlboro’, Mass, U.S.A  | Canada  | Valcartier  | Aug. | 6, | 1915. |
-| 29 | 632 | 939 | 3805 | 973 | 414097 | Private.... | Cross, John A  | Nil  | Cross, Mrs. Mary  | Ingersoll, Ont  | Canada  | Kentville  | July | 20, | 1915. |
-| 29 | 632 | 968 | 3804 | 1002 | 4145G2 | Private.... | Crossan, Thomas W  | Nil  | Crossan, Mrs. Elizabeth.. | 422 Ashfalt, Stellarton, Fictou Co., N.S  | Ireland  | New Glasgow.. | Mar. | 31, | 1915. |
-| 29 | 632 | 997 | 3804 | 1031 | 414501 | Privnte.... | Crossan. Jnmes  | Nil  | Crossan, Mrs. Elizabeth | Stellarton, Pictou Co., N.S  | Scotland  | New Glasgow.. | Mar. | 31, | 1915. |
-| 29 | 631 | 1025 | 3804 | 1060 | 415553 | Private.... | Crouse, Frederick Claremoi | 75 (h Regt | Crouse, D. Angus  | Lower Branch, Lunenburg Co., N.S  | Cannda  | Bridgewater.... | April | 19, | 1915. |
-| 29 | 631 | 1055 | 3805 | 1089 | 414148 | Private.,.. | Cunningham, llnrold  | Nil  | Cunningham, Rev. W  | Hopewell, Fictou Co., N.S   | Cannda  | Halifax  | April | 29, | 1915. |
-| 29 | 630 | 1084 | 3805 | 1117 | 415032 | Private.... | Currie, Archibald  | Nil  | Currie, Mrs. C. L  | 54 Marion St., Dorchester, Mass, U.S.A  | Canada  | Sydney  | Mar. | 26. | 1915. |
-| 29 | 630 | 1114 | 3805 | 1146 | 414708 | Private.,.. | Currie, Charles E  | Nil  | Currie. Mrs. Catherine ... | Glace Bay, C.B., N.S  | Cannda  | Kentville  | July | 20, | 1915. |
-| 29 | 629 | 1143 | 3804 | 1177 | 414308 | Private..,. | Dalrymple, James Whitman | 102 nd Regt | Dalrymple, Capt. A. T... | Truro, Colche ter Co., N.S   | Cnnada  | Aldershot  | June | 10, | 1915. |
-| 29 | 630 | 1171 | 3805 | 1205 | 415505 | Private.,.. | Dean, Guy St. Claire  | Nil  | Dean, Ira Gilbert  | Block House, Lunenburg Co., N.S  | Canada  | Bridgewater  | April | 17, | 1915. |
-| 29 | 630 | 1201 | 3805 | 1234 | 415034 | Private.... | Dovoc, Miclmel Ambrose.. | Nil  | Devoe, Joseph  | Glace Bay, C.B., N.S..'.  | Cannda  | Vnleartier  | July | 13, | 1915. |
-| 29 | 629 | 1231 | 3806 | 1263 | 414181 | Privnte..., | Dewolfe, l ei and B  | Nil  | Dew olfe, Mrs. M  | Canning, Kings Co., N.S  | Cannda  | Aldershot  | May | 25, | 1915. |
-| 29 | 629 | 1260 | 3806 | 1293 | 415000 | Scrgennt... | Dickson, William  | Nil  | Dickson, Mrs. Jessie  | 30 Pitt St., Edinburgh, Scot  | Scotland  | Sydney  | Mar. | 27, | 1915. |
-| 29 | 629 | 1290 | 3807 | 1323 | 414190 | Private.... | Dodd, Joseph  | Nil  | Dodd, J  | Fernie, B.C  | Englnnd  | Aldershot  | May | 29, | 1915. |
-| 29 | 629 | 1319 | 3807 | 1351 | 415035 | Private.... | Donovnn, Valentine  | Nil  | Donovan. Miss Bertha  | Sydney, C.B., N.S  | Canada  | Sydney  | Mar. | 27, | 1915. |
-| 29 | 629 | 1349 | 3807 | 1382 | 415892 | Privnte.... | Doneet, Joseph  | R.C.R... | Doucct, Kate  | 93 Hollis St., Halifax, N.S  | Canada  | Valcartier  | Aug. | 18. | 1915. |
-| 29 | 628 | 1378 | 3807 | 1410 | 415564 | Private.,,, | Doucette, Walter John  | Nil  | Doucette. Eli C  | Quinan, Yarmouth Co., N.S  | Canada  | Yarmouth  | May | 4, | 1915. |
-| 29 | 628 | 1404 | 3807 | 1440 | 414527 | Privnte.,.. | Dowell, Jnmes Robert  | Nil  | Dowell, Mrs. Pansy  | Westville, Pictou Co., N.S  | England  | New Glasgow. | Mar. | 31, | 1915. |
-| 29 | 628 | 1435 | 3808 | 1470 | 415557 | Private.... | Duffy, William Henry  | Nil  | Duffy, Jo-cph  | Gloucester, Mass, U.S.A  | Newfoundland.. | Yarmouth  | April | 10, | 1915. |
-| 29 | 628 | 1465 | 3807 | 1498 | 415559 | Private.... | Duncan, Sidney  | 76th Regt | Duncan, Mrs. Willard  | Windsor, Hants Co., N.S  | Canada.... | Windsor  | April | 1, | 1915. |
-| 29 | 628 | 1494 | 3808 | 1526 | 415191 | Private  | Knrle, Milledge Crouse  | Nil  | Earle. John C  | ricn"int Late, Yarmouth Co., N.S  | Canada.,., | Yarmouth  | May | 4, | 1915. |
-| 29 | 628 | 1522 | 3808 | 1556 | 415526 | L.-Coi pora | iKiln, Glenn ,Stephens  | Nil  | Ells, A. E   | Sheffield Mills, Kings Co., N.S  | Canada.... | Valcartier  | July | 13, | 1915. |
-| 29 | 628 | 1551 | 3808 | 1586 | 414571 | Private.... | I)',vans, William George A.. | Territorials | Evans, William Henry  | Gainsboro' Rd., Leytonstone, Sussex, Eng  | England... | Amherst  | April | •JO. | 1915. |
-| 29 | 629 | 1580 | 3808 | 1613 | 415498 | Private.... | iFnirc, Avard Nelson  | Nil  | Fnge, Thompson  | Hastings, Cumberland Co., N.S  | Canada.... | Amherst  | Mar. | 17. | 1915. |
-| 29 | 629 | 1609 | 3809 | 1651 | 415525 | 1/.-Corporal | |l'nles, Le Roy  | Nil  | Falcs, David  | Victoria Vale, Annapolis Co., N.S  | Canada.... | Middleton  | April | 5. | 1915. |
-| 29 | 629 | 1638 | 3809 | 1673 | 41511? | Private.... | iFnrquhnrson, John  | Nil  | Farquharson, Mrs  | Sydney, C.B., N.S  | Canada.... | Aldershot  | May | 21, | 1915. |
-| 29 | 630 | 1667 | 3809 | 1700 | 414740 | Private.... | Ferguson, Arthur John  | 94 th Regt | Ferguson. Mrs. Sophia  | Dominion, No. 1, C.B., N.S  | Canada.... | Kentville  | July | 20, | 1915. |
-| 29 | 629 | 1697 | 3809 | 1729 | 414093 | Private..,. | Fitrgernld, James O’Neil.. | 66th Regt | Fitrgcrald, Mrs. Margaret | 112 Queen 8t., Halifax, N.S  | Canada ... | Halifax  | Mar. | 24, | 1915. |
-| 29 | 629 | 1726 | 3809 | 1760 | 415281 | Private.... | I linn, Timothy  | Nil  | Flinn, John  | 3 Borrett Lane, Cork, Ire  | Ireland  | Hnlifax  | Aug. | 2, | 1915. |
-| 29 | 630 | 1755 | 3809 | 1794 | 415113 | Private.... | Forsyth. William  | Nil  | Forsyth, David  | Longdyke, Scot  | Scotland.. | Sydney  | Mar. | 26, | 1915. |
-| 29 | 630 | 1784 | 3809 | 1816 | 415569 | Private.... | Fortier, Vincent  | Nil  | Fortier, L. M  | Annapolis Royal, N.8  | Canada  | Middleton  | April | 8, | 1915. |
-| 29 | 631 | 1812 | 3810 | 1846 | 415528 | ■Sergeant... | Fox, James Ernest  | Nil  | Fox, Mrs. James  | Yarmouth, N.S  | Canada..., | Valcartier  | July | IS, | 1915. |
-| 29 | 631 | 1843 | 3810 | 1875 | 414572 | Private.... | Fraser, Donald Duncan.... | 28 th Regt | Fraser, Mrs. Daniel C  | Stellarton, Pictou Co., N.S  | Canada.... | New Glasgow.. | May | 8, | 1915. |
-| 29 | 631 | 1869 | 3810 | 1906 | 414519 | Corporal.. | Gay, William. | Nil  | Gay, Mrs. Margaret   | Spring Hill, Cumberland Co., N.S.  | Canada..., | Amherst  | Mar. | 17, | 1915. |
-| 29 | 631 | 1901 | 3810 | 1938 | 416511 | Sergeant... | |Gesner, Frederick  | 09th Hegt | Gesner, George R  | Belleisle, Annapolis Co., N.S  | Canada ... | Halifax  | April | 10, | 1915. |
-| 29 | 631 | 1931 | 3810 | 1964 | 414584 | Private.... | iGibhons, Peter  | Imp. Force* | Gibbons. Mrs. Sarah  | Jognin Mines, Cumberland Co., N.S  | Englnnd.., | Amherst  | Mar. | 17, | 1915. |
-| 29 | 632 | 1960 | 3810 | 1990 | 414586 | Private.... | Gould, Arcade  | Nil..,. | Gould, Mrs. Phemie  | 64 I’nrk St., Amherst, Cumberland Co., N.S— | Canada  | Valcartier  | July | 5, | 1915. |
-| 29 | 632 | 1989 | 3811 | 2021 | 415041 | Private.... | Gray, William Jones  | Territorials | Gray, Mrs. Agnes  | New Waterford, C.B., N.S  | Scotland  | Sydney  | M ay | 3, | 1915. |
-| 29 | 632 | 2018 | 3812 | 2049 | 415532 | Bugler  | Griffin, Ralph Wilkie  | Nil.... | Griffin, Mr*. Hilda  | Brit!"" ■ '■t'-r, Lunenburg Co., N.S  | Canada  | Brigdewater  | April | 17. | 1915. |
-| 29 | 633 | 2047 | 3812 | 2079 | 414034 | Private.... | Hall, John Ross   | Nil.... | Hall, Edmund  | 224 Morris St., Halifax, N.S  | Cansds | Halifax | Mar. | 13, | 1915. |
-| 30 | 765 | 652 | 3913 | 683 | 4I45V0 | I Private... | Hamilton, Johh P  | • Nil  | Hamilton, Miss Gvrlrude | Hri ’ , v. .ter."Lunenburg Co., N.S  | Canada  | Amherst  | Mar. | 22, | 1915. |
-| 30 | 766 | 679 | 3912 | 712 | 4155VI | I Private... | Hansford, Cecil Hambly | . Nil  | Stevens, Mrs. K. J | I tub'eek Mine*, Annapolis Co., N.S   | . Canada  | Middleton  | April | 5, | 1915. |
-| 30 | 761 | 712 | 3913 | 743 | '415973 |  1 Pri vote... | Harrison, Joseph  | . 06th Itegt. | Harrison, Mrs. F. | her St.. West Hartlepool, Durham, Eng  | England   | Valcartier  | Aug. | 31. | 1015. |
-| 30 | 762 | 742 | 3914 | 775 | 4 t4irc<j Private... |  | llaughn, Grover  | . 06t.h Regt. | Hnughn, W. D  | <« H •(«•»>, LunenburE 'Jo., N.S  | . Canada  | Aldershot  | June | 1, | 1915. |
-| 30 | 765 | 770 | 3914 | 801 | 415012 Private... |  | llaycox, Thomas  | . Nil  | Haycox, Mrs. Johr | * V<nm fit., Birmingham, Eng  | Englnnd  | Sydney  | Mar. | 20, | 1915. |
-| 30 | 765 | 799 | 3915 | 830 | 415067 Private... |  | Hcnnessy, John  | . 93nl Regt. | Hennessy, Mrs. Helen | Hill, Caraberlaml Co., N.S  | . Canada  | Val oartier  | July | 13, | 1015. |
-| 30 | 767 | 829 | 3916 | 858 | 41557,S Private... |  | Hill, Basil George  | . Nil  | Mfllbury, David | 1 om", Annapolis Co., N.S  | , Canada  | Middleton  | April | 5, | 1915. |
-| 30 | 767 | 857 | 3916 | 889 | 41.j37.’ Private... |  | Hodge, Archibald S  | . Nil  | Hodge, Mrs. it. J- | ■ ■■. 6th Avt). and Corn St., Gary, Ind„ U.S.A— | Canada  | Sydney  | Aug. | 9, | 1915. |
-| 30 | 766 | 888 | 3916 | 918 | 415043 Private... |  | Hollingsworth, William.. | . Imp. Forces | Hollingsworth, Georg* | '’< I'orrwgh, YoTks., Eng  | England  | Sydney  | Mar. | 20, | 1915. |
-| 30 | 765 | 916 | 3908 | 948 | 4154"f Bugler.... |  | Holt, Charles  | . Nil  | Holt, Frederick | 1 To .-mend St., Sydney, C.B., N.S  | England  | Sydney  | Mar. | 25, | 1915 |
-| 30 | 766 | 946 | 3917 | 975 | 41623* Private... |  | Hooton, Robert  | . 94th Regt. | Hooton, Mrs. Ethel | Kfii ilon No. 4, C.B., N.S  | England  | Aldershot  | July | 29, | 1915. |
-| 30 | 766 | 973 | 3916 | 1006 | 414732 Private. |  | Hopkins, Harry William. | . Territorials. | Hopkins. Mrs. Caroline | M Gilt ertSt., Coventry, Warwick, Eng  | England  | Kentville  | July | 20, | 1915. |
-| 30 | 766 | 1004 | 3917 | 1034 | 41411 | Private... | Horan, Prank    | . Imp. Forces | Horan. Mr«. I. | M E. R(r>eo<*St-, London, E C., Eng  | England  | Halifax  | April | 28, | 1915. |
-| 30 | 766 | 1027 | 3917 | 1063 | 4141'.' | Private... | Horsetail. Bernard  | . Nil  | Horsetail, Aquilla | • - nx.lioad, Oldbam, Lanes., Eng  | England  | Aldershot  | May | 31, | 1015. |
-| 30 | 766 | 1062 | 3917 | 1093 | 414171 | Private... | Hunter, Harry  | . C.A.S.C... | Hunter, John | ■ I Wardlen Ave., Rut.herglen, Glasgow, Scot  | Scotland  | Halifax  | May | 6, | 1915. |
-| 30 | 766 | 1087 | 3915 | 1120 | 415014 | Private... | Hurst, Thomas  | . *04th Regt. | Hurst, Mrs. Elizabeth | •on No. 4, C.U., N.S  | England  | Aldershot  | May | 24, | 1915. |
-| 30 | 765 | 1120 | 3918 | 1151 | 414212 | Private... | Ingle, Albert Charles.... | Nil  | Ingle, Samuel . . | St., Gravesend, Kent., Eng  | England  | Aldershot  | June | 2, | 1915. |
-| 30 | 765 | 1144 | 3919 | 1180 | 415580 | Private... | Jeffrey, Amo?  | . Nil  | Forbes, Mrs. Abner | ' Kemptville, Yarmouth Co., N.S  | Canada  | Yarmouth  | April | 12, | 1915. |
-| 30 | 765 | 1177 | 3919 | 1207 | 414588 | Private... | Johnstone, Robert  | .Nil  | Whyley, Mr«. Harry | i dbirton, Pictou Co., N.S  | . Scotland  | ew Glasgow. . | Mar. | 31, | 1915. |
-| 30 | 765 | 1207 | 3919 | 1237 | 414580 | Private... | Jones, Harold Clifford... | . NU. | Jonos, Airs. A. S . | M- '-cait Hotel, Maccaa, Cumberland Co., N.S  | . Canada  | Amherst  | Mar. | 30, | 1915. |
-| 30 | 765 | 1236 | 3920 | 1266 | 415581 | Private... | Jones, William Frederick | . Nil  | Jones, Frederick  | Lake Annis, Yarmouth Co., N.S  | . Canada   | Aldershot .... | June | 15. | 1915. |
-| 30 | 764 | 1265 | 3920 | 1296 | 415582 | Private... | KchOe, Donald  | . Nil  | Cavanagh, Lawrence | Yarmouth, N.S    | . Canada  | Yarmouth  | April | 12, | 1915. |
-| 30 | 764 | 1294 | 3920 | 1326 | 414464 | Privnte... | Killen, William Henry... | 00th Regt. | Killen, Mrs. Elizabeth | '•') Armoury St.. Halifax, N.S  | . Canaria  | Halifax.    | Aug. | 2, | 1915. |
-| 30 | 764 | 1320 | 3920 | 1354 | 415045 | Private... | Kind, Charles  | . Nil  | King, Jerry  | ’Iiitney Pier, Sydney, C.B., N.S  | . Newfoundland. | Sydney  | Mar. | 27, | 1915. |
-| 30 | 764 | 1353 | 3920 | 1384 | 415584 | Private... | Labrador, Charles  | 75th Regt. | Labrador, Mary  . | Iriii. i?Water, Lunenburg Co., N.S  | . Canada  | Bridgewater... | April | 17, | 1015. |
-| 30 | 764 | 1378 | 3920 | 1412 | 415585 | Privato... | Labrador, Lewis  | . Nil  | Labrador, Mrs. L  | 1’.ridgewator, Lunenburg Co., N.S  | . Canada  | Aldershot  | June | 14, | 1915. |
-| 30 | 763 | 1409 | 3920 | 1442 | 414210 | Private... | Lntnphier, James Joseph. | Nil  | Lamphier, Mary F  | 33 Newburn St., Knxbury, Mass., U.S.A  | . Canada  | Halifax  | June | 2, | 1915. |
-| 30 | 764 | 1439 | 3921 | 1471 | 415580 | Private... | Langford, Alexander  | Nil  | Langford, Kathleen   | Weymtfuth, Digby Co., N.S  | . Canaria  | Digby...  | May | II, | 1915. |
-| 30 | 764 | 1467 | 3921 | 1500 | 414504 | Private... | Littler, William Joseph .. | Nil  | Littler, Mrs. Mary  | Spring Hill, Cumberland Co., N.S  | . England  | Spring nill  | Mar. | 17, | 1915. |
-| 30 | 764 | 1496 | 3921 | 1530 | 414595 | Privnte... | Livingstone, George Nieoll. | , Nil  | Livingstone, Mrs. Georgina | tTellarton, Pictou Co., N.S  | . Canada  | New Glasgow. | May | 1. | 1915. |
-| 30 | 764 | 1522 | 3922 | 1558 | 415655 | Private... | Lombard, Leonelle... | . Nil  | Lombard, Deremec  | Little Brook, Digbv Co., N.S  | . Canada  | Digby  | April | 5, | 1915. |
-| 30 | 764 | 1552 | 3922 | 1588 | 414203 | Privato... | lordly, Harold  | 06th Regt. | Lordly, F. J  | !»'"J Qur -nSt., Halifax, N.S  | . Canada  | Aldershot  | June | 1, | 1015. |
-| 30 | 764 | 1585 | 3922 | 1616 | 414014 | Private.... | Loivther, Willinm.... | Nil. | Lowther, George  | i! South Albion, Amherst, Cumberland Co., N.S.. | .. Canada  | Amherst.  | Mar. | 17, | 1015. |
-| 30 | 765 | 1612 | 3922 | 1646 | 414330 | 1,.-Corpora! | Lynch, George  | . Trap. Forces | Lynch, Mrs. Mary Ann . . | V'rbournn. St. John, Basingstoke, Hants, Eng. .. | . England  | Kentville. . | July | 20. | 1915. |
-| 30 | 765 | 1639 | 3923 | 1675 | 4150*10 | Privnte... | Lynch, Thomas  | . Nil  | Lynch, Mrs. Nina. | Je.iv Aberdeen C.B., N.S  | ,. Newfoundland . | Glace Bay  | M ay | 5, | 1015. |
-| 30 | 765 | 1672 | 3924 | 1702 | 414132 | Privnte... | McKenuie, Melvin  | . Nil  | McKenxie, Mrs. Robert | 'xxverSelmah, Hants Co., N.S  ... | . Canada  | Halifax  | April | 16, | 1915. |
-| 30 | 765 | 1701 | 3923 | 1732 | 415500 | Private... | MnoKenzie, Potnnm Stanley | • Nil  | MacKenzie, Herbert W. | I’ridgi'water, Lunenburg Co.. N.S  | .. Canada  | Bridgewater... | April | 19. | 1915. |
-| 30 | 765 | 1730 | 3924 | 1761 | 415047 | Private... | Marshall, Robert Whitelaw. | Nil  | Marshall, Thomas.. | iydney, C.B., N.S  | .. Scotland  | Sydney  | Mar. | 1915. |
-| 30 | 766 | 1759 | 3924 | 1791 | 414600 | Privnte... | Marsters, Lloyd  | . 08th Regt. | Marsters, Mrs. T. A | llanta port, Hants Co., N.S  | ,. Canada  | Aldershot  | June | 1915. |
-| 30 | 766 | 1783 | 3925 | 1820 | 414120 | Private... | Martin, Raymond Vincent . | . Nil  | Martin, Charles Fran i-  | 52 South Park St., Halifax, N.S  | ,. Canada  | Halifax  | April | . 1915. |
-| 30 | 766 | 1817 | 3924 | 1848 | 414270 Private.. |  | Mntheson, Kenneth  | . Nil  | Matheson, Roderick | VArdoise Highlands, Richmond Co., N.S  | ,. Canada  | Aldershot  | June | 1915. |
-| 30 | 766 | 1844 | 3924 | 1878 | 415141 | Private... | McCabe, William  | Nil. | McCabe, Mrs  | Glace Bay, C.B., N.S  | .. England...... | Glace Bay  | Mny | . 1915. |
-| 30 | 767 | 1874 | 3925 | 1905 | 414001 | .. I Private... | McCallurn, Dougins   | Nil. | MeCaUurn, Bessie N  | 25 Willow St., Amherst, Cumberland Co., N.S.,.. | .. Canada.    | Amherst  | May | . 1015. |
-| 30 | 766 | 1904 | 3925 | 1935 | 415050 Corporal.. |  | M cCornisky, Owen  | Imp. Forces. | McCornisky, Mrs. Ellen. . . | New Watorford, C.B., N.S  | .. Scotland  | Aldershot.. | June | , 1015. |
-| 30 | 768 | 1932 | 3925 | 1964 | 414005 Private... |  | McDiarmid, Harold Williair | Nil  | McDiarmid, Mary .I | Carleton Place, Onl   | .. Canada  | New Glasgow | Mar. | . 1915. |
-| 30 | 767 | 1961 | 3926 | 1993 | 416000 Private... |  | McDonald, Alexander  | Nil  | McDonald, Mrs. Henrietta. | Glace Bay, C.B., N.S  | .. Canada.... . | Aldershot  | M ay | . 1015. |
-| 30 | 768 | 1990 | 3927 | 2023 | 414044 Private... |  | McDonald, Gen rue Stanley | Nil  | McDonald, Charles.. | 13 Cornwallis St., Halifax, N.S    | . . Canada  | IHaliFax  | Mar. | , 1915. |
-| 30 | 768 | 2019 | 3926 | 2053 | 414010 Private... |  | McDonald, Gourley  | Nil  . | McDonald, Maria.. | Joggin Mines, Cumberland Co., N.S  | .. I reland  | Amherst  | Mar | , 1915. |
-| 30 | 769 | 2042 | 3927 | 2082 | 415209 Privnte... |  | McDonnld, Joseph  | 94 th iftegt. | McDonald, Niehola . .... | McKay’s Corner, Clace Bay, C.B., N.S  | ., Canada . . | ^Aldershot  | July | 1915. |
-| 31 | 3144 | 330 | 3830 | 359 |  |  |  |  |  |  | Canada  | Sydney  | Mar. 20, 1915. |
-| 31 | 661 | 346 | 3830 | 389 | 415003 | Private  JMcDonald, Neil J  |  | Nil   | \; I Mnsld, rV**V«! | |Hf»l Cor*. |„ .rccssCo.. N.S. | Canada.   | Sydney  | Mar. 20. 1913. |
-| 31 | 666 | 382 | 3831 | 417 | fl.MXH | Pr irate   | McDonald, Robert WrrotrofT  | Nil    | McDonald, Mn. V. | Jy>tn*T, C H.. > ' ■    •    | Canada  | Halifax  | June 7. 101.). |
-| 31 | 662 | 404 | 3831 | 456 | •n.Tjr.n | Private  | 'cDtrmnlL, Arthur Patrick  | Nil    | McDouewfl, Kllrti | il St.. I’ N.S  | j Canada  | Sydney  | 3, 1915. | May |
-| 31 | 662 | 440 | 3831 | 480 | 44.ms | Pnvnr** iMeDetrgnO, John Andrew.. |  | Nil  | MeLellen, | tnrrmr-*. C.B.. ' ~ ........ ’ . .' v Vj' ' | |Canada  | Aldershot  | 29, 1915. | July |
-| 31 | 662 | 470 | 3830 | 509 | 41.-.311 | Private  | McEacbenr, Colin   | 04 th Regt  | M'dCachem. Ji/hn |  | Scotland  | Sydney.  | 3, 1913. | May |
-| 31 | 662 | 488 | 3056 | 528 | tir<ofld | Private  | McEwan, Thomas..   | NU  | McEwan, Mrw. Klir > | CiMonia Mines. N.S  |
-| 31 | 3146 | 509 | 3831 | 537 |  |  |  |  |  |  | Canada  | Glace Bay   | 5, 1913. | May |
-| 31 | 661 | 521 | 3056 | 557 | 4151)07 | Frivate  | McGillivrnr, Willium   | Nit  | McGillivrav, Mr® | Otace Mny, C.B., N V............  |
-| 31 | 3147 | 537 | 3831 | 567 |  |  |  |  |  |  | Canada  | Digby  | 5. 1913. | April |
-| 31 | 661 | 549 | 2136 | 586 | 41.wo; | L.-Corporal  | McGrath, Harry W  | Nil   | McGrath, Mrs. Ad i |
-| 31 | 3146 | 568 | 3832 | 596 |  |  |  |  |  |  | Canada  | Sydney  | Mar. 23. 1913. |
-| 31 | 661 | 585 | 1842 | 613 | 415008 | Private  | McGregor. Hector R    | !>4t.h Reet  |
-| 31 | 662 | 597 | 3831 | 641 | 4i mo | Private  | . 1! 'i"h   | N U  | Mclnnes, Mrs  | 79 Cadogan St.. Glasgow, S^ofc  | Scotland  | Halifax  | Mar. 13. 1913. |
-| 31 | 662 | 627 | 3832 | 671 | 415013 | Private  | *>T.«:vtc, Daniel Sandy  | Nil  | Mclsaac, Mrs. Ai^v.« ntler.. | New Waterford, C.B., N.S    | Newfoundland.. | Sydney  | Mar. 25. 1913. |
-| 31 | 662 | 656 | 3831 | 700 | 41.W<! | Private.   | McKay, John Grant..   | Nil...'.  | McKay, Mrs    | Glace, Day, C.B., N.S  | Canada  | Glace Bay  | May 5. 1913. |
-| 31 | 661 | 686 | 3756 | 729 | 415072 | Privnte  | McKerrow, Robert  | Nil  | McKcrrow, Mrs. Mary.... | McKay’s Corner, Glace Bay, N.S  | Scotland.    | Aldershot   | .June 9, |
-| 31 | 2356 | 715 | 3833 | 746 |  |  |  |  |  | Rear River, Digby Co., N.S...,  | Canada   | Digby  | April 3, 1913. |
-| 31 | 662 | 723 | 2225 | 758 | 415501 | Private  | McKinnon, James Edward  | Nil  | MclChmon. John  |
-| 31 | 2353 | 745 | 3834 | 775 |  |  |  |  |  | Sydnoj', C.B., N.S   | Canada  | Sydney  | Mar. 23. 1913. |
-| 31 | 662 | 753 | 2226 | 787 | 41 5073 | L -C-nrpnral   | \trt Charles J  | 91th Regt  | McLean, Mr*. Rose  |
-| 31 | 1861 | 774 | 3835 | 810 |  |  |  |  | McLean, John  | Sydney Mines, C.B.. N.S    | U.S.A  | Sydney  | Aug. 9, lit*. |
-| 31 | 662 | 786 | 1841 | 816 |  |  | McLenn, John Jnmes  | 41511>.» | Private  | Nil  |
-| 31 | 2354 | 805 | 3835 | 833 |  |  |  |  |  | St rath I orne, C.B., N.S  | Canada  | Sydney   | Mar. 23, 1913. |
-| 31 | 662 | 812 | 2224 | 847 | 415074 | Privntie  | McLean, Joseph   | Nil  | ' loLcan, Alexander  |
-| 31 | 2359 | 834 | 3835 | 862 |  |  |  |  |  | Dominion No. 1, C.B., N.S  | Canada  | Valcartier  | July 13, 1313. |
-| 31 | 663 | 841 | 2226 | 874 | 115062 | Private  | McLr:m, Neil David  | NU  | McLeanv Mrs. Neil D... . |
-| 31 | 2359 | 863 | 3836 | 891 |  |  |  |  |  | New Aberdeen, C.B., N.S  | Canada  | Aldershot   | ■ 19,1913. |
-| 31 | 661 | 871 | 2226 | 902 | 415084 | Private  | Mel,can, Thomas Callahan  | NU  | McLean. Angus  |
-| 31 | 661 | 893 | 3836 | 931 | 415085 | Private  | McLean, Wilson  |  | Mr Lean, Mrs. Mary. ... . | Glace Bay, C.B., N.S  | Canada  | Aldershot  | May 24,1913. |
-| 31 | 661 | 922 | 3836 | 960 | 415070 | Privnte  | McLrli n, Daniel J  | Nil  | M’cLellan, Mrs. Anrn*  | Reserve Mines, C.B., N.S  | Canada  | Sydney  | May 3, 1913. |
-| 31 | 662 | 950 | 3836 | 988 | 414013 | Private  | McF/eod, Donald  | C.F.A  | McLeod, Mrs. Elizabeth.. | Mrs. H. D. McLeod, Westville, Pictou Co.* N.S. | Canada  | New Glasgow. | 3, 1915. |
-| 31 | 662 | 981 | 3837 | 1017 | 415142 | Frivate  | McLeod, Malcolm  | Nil  | McLeod, f>. B  | Sydney, C.B., N.S  | Canada  | Sydney  | 3. 1913. |
-| 31 | 662 | 1009 | 3836 | 1045 | 415078 | Private  | MrTveod, Willinm Clifton   | 04th Regt  | Mcl/eod, Mrs. Marcar't... | Vorth Sydney, C.B., N.S   | Canada..   | Mil snoot  | May 24, 1913. |
-| 31 | 662 | 1038 | 3836 | 1073 | 415077 | Private    | McT eod, William Donald........ | Nil  | McLeod, John D  | Big Bras d’Or, Victoria Co.. N.S  | Canada  | Sydney  | Mar. 31. 1913. |
-| 31 | 662 | 1068 | 3837 | 1104 | If-IOT!) |  |  | Nil  | McMaster, Mrs. Angus . . | Pictou, N.S  | Canada  | Sydney  | Mar. 27, 1913. |
-| 31 | 662 | 1097 | 3837 | 1131 | 414011 | Private.... | aster. ^cl<Ion Cumniings  | 75th Regt.  | Hied, David   | Truro, Colchester Co., N.S........   | Canada  | New Glasgow. | May 7, 1913. |
-| 31 | 662 | 1125 | 3838 | 1159 | 41-1844 | Private  | MacNoil, Charles Alexander  | Nil.....’:  | Mac Neil, Alexander   | Canadian Government S.S. " Tyrian,” Halifax, | Cana/la  | Aldershot  | Awg. | 8, 1913. |
-| 31 | 662 | 1154 | 3839 | 1189 | 415080 | Privnte*  | McNeil, John Martin  | Nil  | McNeil, Mrs. John A .. | Alexander St., Sydney, C.B., N.S  | Canada  | Valcartier  | Oct. | 8, 1915. |
-| 31 | 661 | 1185 | 3841 | 1219 | 415083 | Private  | McNeil, Michitel Jamcn  | 04th Regt  | McNeil, M  | Glace Bay, C.B., N.S   | Canada  | Val car tier  | Aug. | 6, 1915. |
-| 31 | 661 | 1214 | 3840 | 1248 | 415081 | Private  | McNeil* Joseph  | C.F.A..   | McNeil, John  | Sydney, O.B., N.S  | Canada  | Sydney  | May | 3. 1913. |
-| 31 | 662 | 1244 | 3839 | 1276 | 414693 | I’rivate   | McPhee, Neil Archibald  | NU  | MePheo, Genrge.   | Sydney Mines, C.B., N.S  | U.S.A  | Sydney  | Mar. 31.1915. |
-| 31 | 662 | 1270 | 3840 | 1307 | 415080 | Private  | McRae, Colin J  | 94 th Regt  | MOlUt, M. A  | West Lake, Ainslie. Inverness Co., N.S.  | Canada  | [Sydney  | Mar. 27. ttl*. |
-| 31 | 662 | 1298 | 3839 | 1341 | 4T5049 | Privnte  | Morgan, George  | Nil  | Morgan, Mrs. Anni"  | Caledonia, C.B., N.S...     | U.S.A  | jSvdney  | May 3, 1913. |
-| 31 | 662 | 1331 | 3840 | 1364 | 414228 | Private  | Morgan, William — .    | Nil  | Morgan, Mrs-. P...   | Long Pond, Conception Bay, Nfld  | Newfoundland | l\ldorshot  | Juuo 9, 1913. |
-| 31 | 662 | 1361 | 3841 | 1394 | 415050 | Private  | Morrison, John M. William  | 94 th Regt  | Morrison, Mrs. Annie | BaddeCk,<J.B., N.S ;  | Canada  | ydnny.  | Mar. 26, 1913. |
-| 31 | 662 | 1391 | 3840 | 1421 | 414505 | Sergeant  | Morson, Ernest  | Territorials  | Morson, Mrs. Ernest .... | Stellarton, Pictou Co., N.S..    | England  | New Glasgow | Mar. 30, 1913. |
-| 31 | 662 | 1420 | 3842 | 1449 | a i rjVi1) | i > _ i„ t. | i rn are.   |  | Miroroe, James  | Sydney River, C.B., N.S  | Canada  | Sydney   | Mar. 26, 1913. |
-| 31 | 663 | 1438 | 3841 | 1479 | 414513 | Private  | Mirrrny, Donah? Robert  | kil  | Murray, Mrs. Catherine.. | New Glasgow, Pictou Co., N.S  | Canada  | New Glasgow. | Mar. 30, 1913. |
-| 31 | 663 | 1477 | 3842 | 1508 | 414521 | Corporal  |  | 78th Regt | iMurray, Mrs. DanM  | Pleasant Valley, Pictou Co., N.S  | Canada  | New Glasgow. | May 7, 1915. |
-| 31 | 663 | 1506 | 3843 | 1542 | 415503 | Private  | Murree, Hurry Stanley  | C.F.A  | Mnrree, Mrs. Henry  | Yarmouth, N.S  | Canada  | Yarmouth  | April 10, 1913. |
-| 31 | 664 | 1535 | 3844 | 1565 | 415054 | Private  | i ni ford, Wfllhim  | Nil  | ‘Mntfonl. Mrs. Anrrie  | Twillingatc, Nfld  | Newfoundland. | Glacc Bay  | Mar. 31, 1913. |
-| 31 | 663 | 1563 | 3846 | 1595 | 415055 | Private  | Mvers. Nspolron  | Nil  | Myers, Mrs. Sarah  | Sydney, C.B., N.S  | Canada  | Sydney  | Mar. 23,1911 |
-| 31 | 664 | 1593 | 3845 | 1623 | 414-105 | Private  | Nicholp, John  | 00th Regt  | Nichol*, Mrs. Helen  | Tulip St., Dartmouth, N.S  | Canada  | Halifax  | Aug. 2, 1913. |
-| 31 | 664 | 1621 | 3844 | 1651 | 415590 | Private  |  | Nil  | O’Connell, Mrs. George.. | Yarmouth, N.S  | Canada  | Yarmouth  | April 10. 1913. |
-| 31 | 664 | 1651 | 3846 | 1680 |  | Privnte  | 415508 |  | I>’Connell, Mrs. May.... | Main St., Yarmouth, N.S   | Canada  | Halifax  | June 18.1913. |
-| 31 | 664 | 1680 | 3846 | 1708 |  | ■S<Tr7*nnt  | 414.500 | Olirer, Arthur  | Imp. Forces  | Oliver, Mrs. Arthur  | 27 Havelock 8t., Amherst .Cumberland Co., N | England  | Amherst  | Mar. 17,1913. |
-| 31 | 664 | 1707 | 3847 | 1737 | 4H117 | Private  | O’Neil, Ilob<*rt Newton  | Nil  | O’Neil, Mrs. Edward... | Rivorsdale, Colchester Co., N.S  | U.S.A  | Aldershot  | May 10,1913- |
-| 31 | 761 | 1738 | 3847 | 1768 |  | i 1AtnArnI | *_orpor«i. ........ |  | Parkinson, John  | Svdney, C.B., N.S   | England  | Sydney  | Mar. 2«5, 1913. |
-| 31 | 664 | 1766 | 3847 | 1797 | 415089 | Private  |  | Nil  | Parkinson, John  | Sydney, C.B., N.S  | England  | Sydney  | Mar. 25, 1913. |
-| 31 | 664 | 1796 | 3848 | 1825 | 411021 | Privato  | 1’artncr, Cyril  | Nil  | Partner, Mrs. Annie  | Stellarton, Pictou Co., N.S  | ngland  | New Glasgow. | Mnr. 31,1915. |
-| 31 | 665 | 1824 | 3848 | 1854 | 415090 | Privnte  | .Pennington, Jnmos.   | Territorials...  | Pennington, Mrs. Ellen... | 111 Dominion No. 4, C.B., N.S  | England  | Aldershot  | Mny 24, 1915. |
-| 31 | 665 | 1853 | 3848 | 1884 | 415003 | Privnte  | I’ettitt, Albert O  | Nil  | Pettitt, Edward  | OS Croydon Rd., Plaistow, London, Eng  | England..  | Valcartier  | July 13. 1915. |
-| 31 | 665 | 1883 | 3848 | 1914 | 415002 | Privnte  | Porter, John  | Nil  | Porter, Mrs. J  | 75 Greenhill Rd., Rutherglen, Glasgow, Scot  | Scotland  | Svdney  | Mar. 26, 1915. |
-| 31 | 665 | 1911 | 3849 | 1942 | 414272 | Private  | Price, Frank O  | Nil  | Price, Isaac   | Middlefield, Quoens Co., N.S  | Cannda  | V alcartier. | Aug. 6,1915. |
-| 31 | 666 | 1941 | 3849 | 1972 | 415095 | Private  | I’roucht, Peter L  | Nil  | Prought, Mrs. Daniel.... | Sydney, C.B., N.S  | Canada  | Sydney   | Mar. 27,1915. |
-| 31 | 667 | 1970 | 3850 | 1999 |  |  | Hatchlonl, Charles F  | A14072 | Private  | Nil  | Itntrhford, C. E  | c/o Customs Dent., Amherst, Cumberland Co., N.S.. | Canada  | Amherst  | Mar. 31, 1915. |
-| 31 | 667 | 1998 | 3852 | 2030 | 414::42 | 1. -Corporal  | Heid, William  | Nil  | Watters, Mrs. Clara | Creighton St., Halifax, N.S      | Newfoundland. | Halifax , .. | July 7,19lx |
-| 31 | 667 | 2028 | 3851 | 2059 | 415000 | Private  | Koynolds, John . . ....7  | Nil  | Reynolds, Mrs. L  | Chailo’s Cove, Guysboro’ Co., N.S..  | Canada  | Valcartier ... | July 13, 1915. |
-| 31 | 668 | 2057 | 3852 | 2089 | 414075 | Private  | Rhodiaer, Roubin  | R.C.R  | Rhodiscr, Jacob ....... | .(Bridgewater, Lunenburg Co., N.S    | Canada  | Halifax  | Mar. 13, 1915. |
-| 32 | 955 | 651 | 3441 | 682 |  |  | Former Corps. |  |  | Country of |
-| 32 | 772 | 797 | 3939 | 829 | 4151.15 Private  | Richards, George Gower  | Nil  | Richards, John  | North Svdney, C.B., N.S  | Newfoundland.. | Sydney  | Mar. 31, | 1915. |
-| 32 | 772 | 828 | 3940 | 858 | 415006 Private  | Robar, Charles A  | Nil  | Robar, Leandcr.    | Torbrook, Annnpolis Co., N.S   | Canada  | Liverpool  | April 13, | 1915. |
-| 32 | 772 | 857 | 3938 | 887 | 414526 Corporal  | Roberts, Harold Allen  | Nil  | Roberts, Harry  | Albert St., New Glasgow, Pictou Co., N.S  | Canada  | Amherst  | Mar. 17, | 1915. |
-| 32 | 771 | 886 | 3940 | 917 | 414036 Private  | Robinson, Frederick James  | R.C.G.A  | Robinson, Mrs. Margaret Ann.. | Stellarton, Pictou Co., N.S  | England  | New Glasgow. | Mar. 31, | 1915. |
-| 32 | 771 | 915 | 3939 | 945 | 415530 Corporal  | Robinson, Richard Benjnman  | NU  | Robinson, Howard   | Yarmouth, N.S  | Canada  | Yarmouth  | April 10, | 1915. |
-| 32 | 770 | 944 | 3940 | 974 | 414143 Private  | Rodenhiser, Arthur Sinclair  | 75 th Regt  | Rodenhiser, Charles  | Anbumdale, Lunenburg Co., N.S  | Canada  | Halifax  | April 28, | 1915. |
-| 32 | 771 | 970 | 3940 | 1003 | 414141 L.-Corporal  | Rodenhiser, Edward James  | 75th Regt  | Rodenhiser, Charles..   | Auburndale, Lunenburg Co., N.S   | Canada  | Halifax  | April 28, | 1915. |
-| 32 | 770 | 1001 | 3940 | 1032 | 415608 Private  | Rogers, Grant William  | Nil  | Rogers, William   | Coldbrook Station, Kings Co., N.S  | Canada  | Kentville  | April 7, | 1915. |
-| 32 | 770 | 1030 | 3940 | 1061 | 415516 Corporal  | Rogers, Robert Lindsay  | Nil  | Rogers, Mrs. Joseph R   | Yarmouth, N.S  | Canada  | Yarmouth  | April 12, | 1915. |
-| 32 | 770 | 1059 | 3939 | 1089 | 414071 Private  | Riishton, Royal  | Nil  | Rushton, Mrs. Jennie  | P.O. Box 562, Truro, Colchester Co., N.S  | Canada  | Amherst  | May 6, | 1915. |
-| 32 | 770 | 1088 | 3940 | 1119 | 414670 Private  | Rutledge, Edward  | Nil  | Rutledge, Mrs Mnrv  | Westmoreland Pt., N.B  | Canada  | New Glasgow. | Mar. 30, | 1915. |
-| 32 | 770 | 1112 | 3939 | 1149 | 415001 Sergeant  | Samuel, Andrew  | Nil  | Samuel, Mrs. Emma  | New Waterford, C.B., N.S  | Scotland  | Sydney  | Mar. 20, | 1915. |
-| 32 | 769 | 1146 | 3941 | 1178 | 415014 Private  | Sankey, William  | Nil  | Sankey, William  | 100 Rotton Rd., Ashton-in-Makerfield, Lanes., Eng.... | England  | Sydney  | Mar. 25, | 1915. |
-| 32 | 770 | 1176 | 3941 | 1205 | 414229 Private    | Sexton, Henry  | Nil  | Sexton, John  | Bona vista, Nfld  | Newfoundland. | Aldershot  | June 9, | 1915. |
-| 32 | 770 | 1200 | 3941 | 1235 | 4156112 Private  | Silver, Floyd Joseph  | 78th Regt  | Silver, Willoughby  | r/o Q. 8. Campbell <k Co., Hnlifax, N.S  | Cannda  | Yarmouth  | April 23, | 1915. |
-| 32 | 769 | 1230 | 3942 | 1264 | 414635 Privato  | Simmons, Amos Edward  | Nil  | Simmons, Mrs Elizabeth   | 99 East Pleasant St., Amherst, Cumberland Co., N.S. | Canada  | Amherst  | Mar. 14, | 1915. |
-| 32 | 768 | 1259 | 3942 | 1294 | 414102 Private  | Simpson, Stanley  | 93 rd Regt  | Simpson, H. P  . . .... | 48 Spring St., Amherst, Cumberland Co., N.S  | Canada  | Halifax  | May 4, | 1915. |
-| 32 | 768 | 1287 | 3943 | 1323 | 41462!) Private  | Sinclair, Jnmes Daniel  | 78th Regt  | Sinclair, Mrs. Isabelle  | Mount 'I hom, Pictou Co., N.S  | Canada  | New Glasgow. | May 8, | 1915. |
-| 32 | 769 | 1316 | 3944 | 1353 | 415009 Sergeant  | Small, Douglas F  | Nil  | Small, David   | Loohland Cottage, Forfar, Scot  | Scotland  | Sydney  | Mar. 27, | 1915. |
-| 32 | 769 | 1346 | 3944 | 1381 | 414329 Private  | Small, Robert  | 12th Dragoons. | Small, Mrs. Catherine  | 4 George St., Whiteinch, Glasgow, Scot  | Scotland.   | Kentville.. | July 20, | 1915. |
-| 32 | 771 | 1378 | 3944 | 1410 | 414639 Private  | Smith, Cecil Lester  | Nil.:  | Smith, Mrs. Elizabeth  | 14 Davison St., Amherst, Cumberland Co., N.S  | Canada  | Amherst. . | Mar. 18, | 1915. |
-| 32 | 770 | 1408 | 3944 | 1439 | 415616 Private  | Smith, Frederick  | Nil  | Smith, Miss Florence  | Gen. Del., Halifax, N.S  | Newfoundalnd.. | Yarmouth. | April 10, | 1915. |
-| 32 | 770 | 1438 | 3945 | 1468 | 414245 Private  | Smith, John  | Nil    | Not stated   | Not Stated  | England  | Aldershot. | June 19, | 1915. |
-| 32 | 770 | 1465 | 3945 | 1498 | 415121 Private  | Smith, John  | Territorials.... | Smith, Mrs. Emma F  | Glace Bay, C.B.,‘ N.S  | England  | Sydney.... | Mar. 27, | 1915. |
-| 32 | 770 | 1495 | 3946 | 1526 | 414630 Private  | Smith, John G  | Nil  | Smith, Robert  | Thorburn, Pictou Co., N.S  | Canada  | New Glasgow. . | Mar. 3, | 1915. |
-| 32 | 771 | 1524 | 3946 | 1556 | 415015 Private  | Spencer, Clement A..   | Nil  | Spencer, Mrs. Mary  | Caledonia Mines, C.B., N.S  | England  | Sydney  | Mar. 25, | 1915. |
-| 32 | 771 | 1547 | 3947 | 1583 | 415017 Private  | Starratt, Mark Albion  | Nil  | Starratt, Charles A  | Port Lome, Annnpolis Co., N.S  | Canada  | Middleton... | April 14, | 1915. |
-| 32 | 771 | 1581 | 3947 | 1612 | 415621 Privato  | Steele, Elizer  | NU  | Mooney, Mrs. Alice  | Northern Bay, Nfld  | Newfoundland.. | Yarmouth... | April 12, | 1915. |
-| 32 | 772 | 1605 | 3948 | 1642 | 414202 Private  | Stephenson. Charles  | 66th Regt  | Jessup, Mrs  | 139 Easton Rd., London, E.C., Eng  | England  | Aldershot... | June I, | 1915. |
-| 32 | 772 | 1636 | 3948 | 1670 | 414197 Private....  | St. Peter, Thomas F  | Nil  | St. Peter, Mrs. Rosanna  | Maeean, Cumberland Co., N.S  | Canada  | Aldershot... | June 1, | 1915. |
-| 32 | 773 | 1668 | 3947 | 1699 | 414248 Private...  | Surrick, Doniel  | Nil  | Surrick, Richard  | Cupids, Nfld  | Newfoundland.. | Halifax  | June 15, | 1915. |
-| 32 | 773 | 1696 | 3948 | 1729 | 415099 Private  | Sutherland, John Leo  | Nil  | Sutherland, Michnel  | Sydney Mines, C.B., N.S  | Canada  | Valcartier. .. | July 13, | 1915. |
-| 32 | 773 | 1726 | 3949 | 1757 | 415622 Private  | Swnin, Frederick  | Nil  | Swain, Mrs. Mary Jane  | Yarmouth, N.S  | Canada  | Yarmouth ... | April 12, | 1915. |
-| 32 | 773 | 1756 | 3949 | 1788 | 414192 Private  | Tnylor, Walter  | Nil  | Taylor, James  | St.John's, Nfld  | Newfoundland. | Aldershot .. | May 29, | 1915. |
-| 32 | 773 | 1785 | 3949 | 1817 | 415522 Private  | Thimot, Melbourne  | Nil  | Thimot, Mrs. Annie.  | Snulnierville, Digby Co., N.S  | Canada  | Digby  | May 10, | 1915. |
-| 32 | 774 | 1815 | 3950 | 1846 | 415624 Private  | Thimot, Odelphn.   | Nil  | Thimot, Moses  | ?»ulnierville, Digby Co., N.S  | Canada  | Yarmouth  | April 10, | 1915. |
-| 32 | 774 | 1842 | 3950 | 1875 | 414172 Private  | Tupper, John Nathaniel  | Nil  | Tupper, Mrs. Rhoda L  | Head St. Margnret's Bay, Halifax, N.S  | Canada  | Halifax  | May 10, | 1915. |
-| 32 | 774 | 1870 | 3951 | 1905 | 414638 Private  | Turton, Robert  | Nil  | Turton, Mrs. Sarah Alice  | Stellarton, Pictou Co., N.S  | England  | New Glasgow. . | Mar. 31, | 1915. |
-| 32 | 774 | 1900 | 3952 | 1934 | 415626 Private  | VanTassel, Alexander  | Nil  | Van Tassel, Mrs. .Minnie.  | Mount Pleasant. Cumberland Co., N.S  | Canada  | Digby  | May 6, | 1915. |
-| 32 | 775 | 1932 | 3952 | 1964 | 415703 Private  | Wnlker, Harry  | Territorials  | Walker, Miss Jessie.   | Sydney Mines, C.B., N.S  | Englnnd  | Aldershot  | July 29, | 1915. |
-| 32 | 775 | 1959 | 3952 | 1992 | 411217 Private  | Wallace, Haliburton  | Nil  | Wallace, Mrs. Hattie  | Shubenacadie, Hants Co., N.S  | Cannda  | Halifax  | June 5, | 1915. |
-| 32 | 775 | 1987 | 3953 | 2022 | 415428 Privato  | Ward, Claude Wilton  | Nil  | Ward, Harry.   | Sydney, C.B., N.S  | Cnnada  | Sydney  | Mar. 26, | 1915. |
-| 32 | 776 | 2019 | 3952 | 2050 | 415830 Privnte  | Warren, Lcander Dome.nic  | C.F.A  | Warren, Mrs. II. I'    | Smiths Cove, Digby Co., N.S  | U.S.A  | Digby  | April | .1915. |
-| 32 | 776 | 2047 | 3953 | 2082 | 415635 L.-Corpornl  | Wengle, Freeman George  | Nil  | Weagle. Jncob   | Conquemll Banks, I,unenburg, N.S  | Canada  | Bridgewater  | April 17 | . 1915. |
-| 32 | 777 | 2077 | 3954 | 2108 | 414060'Privnte | Webb, George Frederick   | Nil  | iWehb, Mrs. Martha  | 24 Charles St., Halifax, N.S  | Canada  | Am herst  | Mny 10 | .1915. |
-| 32 | 778 | 2104 | 3954 | 2137 | 415631 | Welsh, John R    |  | Welsh, Mrs. Eugenie   | Saulnierville. Digby, N.S  | Canada  | Aldershot  | June 15 | , 1915. |
-| 32 | 776 | 2136 | 3955 | 2167 | 415342 | Werther, Charles Frederick  | Nil.  | Werther, Francis O   | 97 Intercolonial St., Montreal, P.Q  | U.S.A  | Sydney  | Aug. | . 1915. |
-| 32 | 777 | 2163 | 3954 | 2198 | 414659 | White, Jack  | Nil  | Whito, Annie  | 16 South Albion St., Amherst, Cumberland Co., N.S. | Canada   | Amherst  | Mar. 18 | . 1915. |
-| 32 | 778 | 2193 | 3954 | 2227 | 415105 | Whitehead, William Henry  | Nil  | 'Whitehead, Mrs. Mnrgaret  | 7 Wath Rd., Mei'iorough, Yorks., Eng  | England   | Glace Bay  | Mar. 31 | 1915. |
-| 33 | 640 | 272 | 3809 | 309 | 414341 | Private. | Whitney, Lawrence Willinm.. | S. A  | ■ Whitney, Mrs. Harriet.. | 84 Sullivan St.. Toronto, Ont. | Canada  | Kentville  | July | 20,1915. |
-| 33 | 642 | 302 | 3809 | 338 | 114280 | Private. | Widgery, Charles Edward... | Nil  | Widgery, Charles  | 108 Lawrence St., Halifax, N.S | Canada  | Halifax  | June | 12, 1915. |
-| 33 | 644 | 332 | 3810 | 370 | 116078 | Privnte. | Wile, Clyde Archibald  | Nil  | Wile. Archibald 8  | Lapland, Lunenburg Co., N.S |  | Bridgewater  | April | 19,1915. |
-| 33 | 639 | 362 | 3810 | 402 | 414040 | I Private. | Williams, Albert  | Nil  | . Williams, Mrs. Georgina | Stellarton, Pictou Co., N.S... . | Canada  | New Glasgow. . | Mar. | 31. 1915. |
-| 33 | 639 | 391 | 3811 | 428 | 4 1404 | I Private. | Williams, James Elisha  | 78th Reet | Williams, Mrs. Gcoreina | Stellarton, Pictou Co., N.S. . | Canada  | New Glasgow | May | 1, 1915. |
-| 33 | 637 | 417 | 3810 | 458 | 415030 | Private, | Williams, John Lewis  | Nil  . | W illiams, Alexander ... | Yarmouth, N.S.    .. | Canada  | Yarmouth  | April | 12, 1915. |
-| 33 | 637 | 450 | 3811 | 489 | 415032 | i Private. | Woodworth, Walter Benjamin | 08th Regt | Woodworth, George.... | Rockland, Kings Co.. N.S... . | (’anada  | Kentville  | April | 7, 1915. |
-| 33 | 639 | 479 | 3810 | 521 | 415230 | I Privatr. | Wynn, Joseph  | 04th Regt | Wynn, Mrs. Annie  | Glace Bay, C.B., N S  | England  | Aldershot  | July | 29, 1915. |
-| 33 | 639 | 508 | 3812 | 545 | 41523: | I Private. | Wynn, Thomas  | 94th Regt | Wynn, Mrs. Annie  | Dominion No. 4, C.IV, N.S . | England  | Aldershot  | July | 29, 1915. |
+| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | ! | Canadian Expeditionary | Force | also | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | [ Port: Quebec. | 40th Battalion \ Ship: S.S. " Saxonia." | ^ Date: October 18th, 1915. | 30m-7-16. | 11.0. 553-2-2 . | 1st Reinfc icing Draft | 2nd Rc'i ' c'ng Draft | Port: Halifax. | Ship: S.S. 'Caledonia.” | Date: June 15th, 1915. | Port: Montreal. | Ship: S.S. “ Missanabie." | Date: October 9th, 1915. |
+| 2 | 2055<br>573<br>3445<br>602 |  |  |  |  |  |  | Country of |
+| 2 | 867<br>715<br>3946<br>750 |  | Lt.-Col  | Vincent, Arthur Gustave  | R.O   | Vincent, Mrs. Susannah.. | c o Mips Whitman, Tupperville, Annapolis | England  | Valcartier   | April | 9,1915. |
+| 2 | 865<br>745<br>3947<br>779 |  | Major  | Andrews, Charles Abner  | C.F.A   | Andrews, Edith E  | Mahore Bay, Lunenburg Co., N.S.. | Canada  | Valcartier   | Sept. | 13.1915. |
+| 2 | 866<br>775<br>3947<br>807 |  | Major  | Ditmars, John Claapraan W  | 09th Regt  | Ditmars, Leah  | Drrtp Brook, Annapolis Co., N.S.. ., | Canada  | Valcartier   | Sept. | 14, 1915. |
+| 2 | 865<br>805<br>3947<br>836 |  | Major  | Nutter, Augustine Grace  | 17 th Huss...,, | Nutter, Mrs. J. A  | 05 Drummond St., Montreal, P.Q.. | Canada  | Valcartier  | Sept. | 2, 1915. |
+| 2 | 865<br>834<br>3947<br>864 |  | Major.  | Wood, George Wiseman  | 73rd Regt..., | Wood, Mrs. George W.. | Chatham, Northumberland Co., N.B | Scotland  | Valcartier  | Sept. | 14.1915. |
+| 2 | 863<br>863<br>3947<br>893 |  | Captain.... | Bell, Hugh P...  | 63rd Regt.... | Bell, Charles   | 40 Brcnton St., Halifnx, N.S  | Canada  | Valcartier  | Aug. | 31, 1915. |
+| 2 | 863<br>892<br>3947<br>922 |  | Captain. ... | Chisholm, Christopher Ronald. | 78th Regt  | Chisholm, Duncan  | New Glasgow, Pictou Co., N.S... | U.S.A | Valcartier  | Sept. | 14, 1915. |
+| 2 | 864<br>922<br>3947<br>952 |  | Captain  | Dennis, Eric Reginald  | 03rd Regt | Dennis, William  | 45 Coburg Rd., Halifax, N.S  | Canada   | Halifax  | Sept. | 3, 1915. |
+| 2 | 864<br>950<br>3948<br>981 |  | Captain.... | Doane, William Edward E  | 03rd Regt | Donne, F. W  | 25 Young Ave., Halifax, N.S  | Canada  | Valcartier  | Aug. | 31, 1915. |
+| 2 | 864<br>980<br>3948<br>1010 |  | Captain  | Douglas, Edgar  | C.A.M.C  | Dougin*. Mrs. Mabel ... | Halifax, N.S   | India  | Valcartier  | Sept. | 14, 1915. |
+| 2 | 864<br>1008<br>3949<br>1039 |  | Captain  | Dwyer, Gerald  | 00th Regt. ... | Dwyer, Mrs. M  | 71 Spring Garden Rd., Halifnx, N.S. | Canada  | Valcartier  | Aug. | 31, 1915. |
+| 2 | 864<br>1037<br>3948<br>1068 |  | Captain  | Gillis, Gordon Harvey  | 03rd Regt. .., | Gillis, David C  | 31 Birmingham St;., Halifax, N.S  | Canada  | Valcartier  | Sept. | 14, 1915. |
+| 2 | 864<br>1067<br>3948<br>1097 |  | Captain  | Legge, John Sanderson  | R.C.R  | I>egge, Mrs. Jean...  | 368 Gottingen St., Halifax, N.S  | Ireland  | Valcartier  | Aug. | 31, 1915. |
+| 2 | 864<br>1095<br>3949<br>1127 |  | Captain  | Letcher, William Thomas  | 93rd Regt.... | Letcher, Mrs. Carrie Jean | Springhill, Cumberland Co., N.S  | Canada  | Valcartier  | Sept. | 10, 1915. |
+| 2 | 863<br>1125<br>3950<br>1156 |  | Captain  | Ross, Arthur McKay  | 76th Hups. ... | Ross, Mrs. A. M  | Waldegrave, Colchester Co., N.S.... | Canada  | Valcartier  | Sept. | 9, 1915. |
+| 2 | 867<br>1154<br>3949<br>1186 |  | Hon.-Captain | Tompkins, Miles N  | Can. Mil  | Tompkins, Nicholas.  | North East Margaree, Inverness Co. | Canada  | Halifax.  | Oct. | 27, 1915. |
+| 2 | 866<br>1182<br>3950<br>1213 |  | Lieutenant.. | Alien, Arthur Spencer    | 81st Regt...., | Allen, Mrs. Bessie Mildred | Walton, Hants Co., N.S  | Canada  | Valcartier  | Aug. | 31, 1915. |
+| 2 | 865<br>1211<br>3950<br>1241 |  | Lieutenant.. | Anderson, Alexander Burns  | 63rd Regt.... | Anderson, Maude J  | 0 Belle Aire Terr., Halifax, N.S  | Canada  | Valcartier  | Oct. | 15. 1915. |
+| 2 | 866<br>1240<br>3950<br>1272 |  | Lieutenant.. | Anderson, George Watson  | 6th Regt..., | Anderson, George Watson | High St., Forres, Moray, Scot  | Scotland  | Valcartier  | Aug. | 31, 1915. |
+| 2 | 866<br>1270<br>3950<br>1303 |  | Lieutenant.. | Campbell, George Henderson... | 03rd Regt.... | Campbell, G. S  | 105 Young Ave., Halifax, N.S  | Canada  | Valcartier  | Aug. | 31, 1915. |
+| 2 | 865<br>1299<br>3951<br>1331 |  | Lieutenant.. | Churchill, Alfred Snow  | Sint Regt  | Churchill, Ezra  | Yarmouth, N.S  | Canada  | Valcartier  | Aug. | 31, 1915. |
+| 2 | 865<br>1329<br>3951<br>1361 |  | Lieutenant.. | Cunningham, Austin Ward  | 00th Regt..., | Cunningham, Rev. Henry | St. George’s Rectory, Halifax, N.S. | Newfoundland.. | Valcartier  | Aug. | 31, 1915. |
+| 2 | 865<br>1358<br>3951<br>1389 |  | Lieutenant.. | Davidson, Bernard Franklyn — | 81st Regt  | Davidson, Mrs. B. M.... | 27 South St., Halifax, N.S  | Canada  | Valcartier  | Sept. | 13, 1915. |
+| 2 | 865<br>1387<br>3951<br>1419 |  | Lieutenant.. | Fisher, Hubert Courtenay  | C.A.S.C  | Fisher, A. W  | Falkland, B.C  | England  | Valcartier  | Oct. | 18.1915. |
+| 2 | 864<br>1417<br>3951<br>1449 |  | Lieutenant.. | Freeman, Percy  | 03rd Regt.... | Freeman. Philip A  | 8 Fawson St., Halifax, N.S  | U.S. A  | Valcartier  | Sept. | 27, 1915. |
+| 2 | 863<br>1446<br>3952<br>1479 |  | Lieutenant.. | Harley, John Robert H  | 70th Regt.... | Harley, Rev. A. W. M... | King’s College, Windsor, Hants Co., | Canada  | Valcartier  | Oct | 15, 1915. |
+| 2 | 864<br>1475<br>3952<br>1507 |  | Lieutenent.. | Heal, Harold Harcourt   | 78th Regt.... | Heal, Rev. James B  | Guysborough, Guysboro Co., N.S... | Canada  | Valcartier  | Oct. | 14, 1915. |
+| 2 | 865<br>1504<br>3952<br>1536 |  | Lieutenant.. | Holder, Philip Victor  | 75th Regt.... | Holder, L. G  | Lunenburg, N.S    | Canada  | Valcartier  | Oct. | 15.1915. |
+| 2 | 864<br>1534<br>3952<br>1568 |  | Lieutenant.. | Jago, Ralph Norton  | 13th Drag.... | Jago, Mary Stevens  | 1020 Tupper St., W:estmount, P.Q  | Canada  | Valcartier  | Sept. | 3, 1915. |
+| 2 | 865<br>1563<br>3952<br>1595 |  | Lieutenant.. | rones, Herbert Reginald St. C.. | 70th Regt  | Jones, Herbert L  | Weymouth, Digby Co., N.S  | Canada  | Valcartier  | July | 10.1915. |
+| 2 | 865<br>1593<br>3952<br>1626 |  | Lieutenant.. | Layton, Francis Paul II  | 70th Regt.... | Layton, George A  | Truro, Colchester Co., N.S  | Canada  | Valcartier  | Aug. | 31, 1915. |
+| 2 | 866<br>1622<br>3954<br>1654 |  | Lieutenant.. | Macintyre, John Donald  | 94th Regt.... | Macintyre, Duncan K — | P.O. Box. 147, Sydney, C.B., N.S... | Canada  | Valcartier  | Sept. | if., 1915. |
+| 2 | 867<br>1651<br>3953<br>1683 |  | Lieutenant.. | MacKcnzie. D. II  | 94th Regt.... | MacKenzie, James W. ... | Glace Bay, C.B., N.S  | Canada  | Valcartier  | Oct. | 14, 1915. |
+| 2 | 864<br>1681<br>3953<br>1712 |  | Lieutenant.. | MacLeod, Macintosh   | 93rd Regt  | MacLeod, Mrs. A  | P.O. Box 148, Baddeck, C.B., N.S.. | Canada  | Valcartier  | Oct. | 9, 1915. |
+| 2 | 867<br>1710<br>3953<br>1742 |  | Lieutenant.. | Murray, George Belcher  | 66th Regt  | Murray, G. H     | Halifax, Pictou Co., N.S  | Canada  | Valcartier  | Sept. | 13, 1915. |
+| 2 | 866<br>1740<br>3953<br>1771 |  | Lieutenant.. | Ormond, Lawrence Edward  | 93rd Regt.... | Ormond, Mary Isabel.. . | Amherst, Cumberland Co., N.S  | Canada  | Valcartier  | Sept. | 14, 1915. |
+| 2 | 866<br>1769<br>3955<br>1801 |  | Lieutenant.. | Pickup, Walter W    | 09th Regt... | Pickup, S. W. W.. | Granville Ferry, Annapolis Co., N.S | Canada  | Valcartier  | Oct. | 15, 1915. |
+| 2 | 868<br>1799<br>3953<br>1829 |  | Lieutenant.. | Robertson, < Jeorp? Frederick... | S.A  | Robertson, Mrs. F. G | 260)4 Gottingen St., Halifax, N.S... | Canada  | Valcartier  | Oct. | 14, 1915. |
+| 2 | 867<br>1828<br>3954<br>1858 |  | Lieutenant.. | Slack, Lawrence William W  | 81st Regt.... | Slack, D. N  | Windsor, Hants Co., N.S  | Canada  | Valcartier  | Oct. | 15.1915. |
+| 2 | 868<br>1857<br>3944<br>1889 |  | Lieutenant.. | Sylvester, George M  | 03rd Regt... | Sylvester, Walter. | ew Glasgow, Pictou Co., N.S  | Canada  | Halifax   | Sept. | 4,1915 |
+| 2 | 866<br>1886<br>3953<br>1917 |  | Lieutenant.. | Tuttle, Charles lidward  | 93rd Regt.... | Tuttle, Stephen  | Wallace Bay, Cumberland Co., N.S. | Canada  | Valcartier  | Oct. | 15, 1915. |
+| 2 | 766<br>1916<br>3954<br>1947 | 415704 | Private  | Adams, Albert Harry  | Imp. Forces. | Not Stated  | Not Stated  | England  | Aldershot  | Aug | 7. 1915. |
+| 2 | 766<br>1945<br>3951<br>1980 | 415523 | Private  | Adams, Frank   .   | 75th Regt.... | 'Kaiser, Mrs. Lemuel | Gold River, Lunenburg Co., N.S  | Canada  | Bridgewater .. | April | ^n, 1915. |
+| 2 | 766<br>1973<br>3806<br>2006 | 415792 | Private  | Adams, Guy Kinsman  | Nil  | I Adams, E. W  | Deep Brook, Annapolis Co., N.S....- | Canada   | Aldershot. | Aui? |
+| 2 | 767<br>1999<br>3953<br>2036 | ■11513!' | Private  | Adams, llnrvey   | Nil  | , Vdams, Frederick | New Ross, Lunenburg Co., N.S  | Canada  | Kentville   | May | 4, 1915. |
+| 2 | 768<br>2027<br>3953<br>2071 | 414951 | Private  | Addicott, Henry   | Nil  | jAridicott, Mrs. Mary | New Aberdeen, C.B., N.S  | Newfoundland . | Sydney  | A’ig. | 13, 1915. |
+| 2 | 768<br>2062<br>3676<br>2101 | 414068 | Private  | Ahern, Cornelius...  | Nil  | |Ahern, Mrs  | P.O. Sydney Mines, C.B., N.S  | Canada  | Halifax  |
+| 2 | 768<br>2092<br>3609<br>2133 | 414301 | Bugler  | jAikenhead, Frederick  | Nil  | Aikcnhead. Mrs. Ada | 357 Campbell Rd., Halifax, N.S.... | Canada  | Halifax |
+| 2 | 768<br>2118<br>3645<br>2155 | 415797 | Private  | lAitken, Joseph P..   | Nil  | I \»tken, John  | Greenock, Scot  | .Scotland  | Alder«h"t |
+| 3 | 2323<br>361<br>3800<br>393 |  |  |  |  |  | IP.O. Box Iney, C.B., N S  ’Knahind   |  | Aldershot IJuly 1 |  | i, m*. |
+| 3 | 630<br>378<br>3799<br>424 | •I I . 1 7t | Pri vate  | \ iu'ltui '1 11 irold J  | Nil  | V kehurst, Mrs. Iv.‘" | 147 Queen St., St John, N.B ICanjidri.. 'Sussex  \<)ct. |  |  |  | >, 1015. |
+| 3 | 628<br>408<br>3799<br>452 | 4S207!) | IVivate. ....... | A (chord, Bert.   | 02nd Regt  | Alchorn, Mrs. Maud | 47 Falm-Kifh St Svdm y. C.B., N.S  !< amda |  | Aldershot 1 | \Uf>. I | I. 1915. |
+| 3 | 628<br>436<br>3799<br>485 | 415422 | Private  | Alchorn, William   | Nil  | Alrfhorn, Mrs. M i r: | 8pr»r>r ff!M ' m ’Hand Co.; N.S  | Seot’.xrd | Aldershot i | luly 2! | >, I'M5. |
+| 3 | 628<br>466<br>2174<br>500 | •114701 | I’ri vate  | \t*»xander, Wils;>n—  | Nil  | Alexander, Mrs. M : |
+| 3 | 2329<br>479<br>3799<br>512 |  |  |  |  |  | 70 Waterloo ltd if'- lericton, N.B  | 1 -tr idsi  | Sussex    | scpt. | <. 11*15. |
+| 3 | 634<br>494<br>3800<br>542 | isjur | Private.  | VI lea* Hay ' ir i it  | Nil  | Allen. John W | Trenton, Pi- t«*u • •» . N.S  | ".'Tin   | Valcartier | lulv | \ 1915. |
+| 3 | 634<br>525<br>2048<br>556 | ii Pm 1 | I’rivn t.*  | Mien, M>inlo k Georg**  | 78th Regt  | Vilen, Geotge . |
+| 3 | 2333<br>538<br>3799<br>571 |  |  |  |  |  | Reserve Mines, Gla r Bay, C'.B., N.S  | 1 ana>la  | Aldershot | lulv 2 | I, 1915. |
+| 3 | 628<br>553<br>3798<br>593 | •l 11181 | Private* | \; rnnn, iv '*e*t   | Nil  | AIrnon. Will |  |  |  |  | i. 1915. |
+| 3 | 2329<br>570<br>3663<br>599 |  |  |  |  |  | Oxford. I‘ninb^rlnn'i * *o., N.S   | ■ ii 1 | Amherst. | May |
+| 3 | 633<br>583<br>2090<br>614 | u r*2‘> | Private  | Ainon, William   .... | Nil  | Ainon. Mrs Pi v • |
+| 3 | 2330<br>596<br>3800<br>627 |  |  |  |  |  | 51 Duke St.. 11 all fax. N.S...   | (ran la | Aldershot  | A UR. | S. 1915. |
+| 3 | 631<br>611<br>2082<br>642 | ii i nr | Private. | Anderson, Frederick Nelson | Nil  | \mler on, Mr** ‘*1 |
+| 3 | 2332<br>626<br>3800<br>662 |  |  |  |  |  | 43 Urqabfirt Bd.. AV»erdeon, Scot  | S< otlai.d.. . • | Aldershot  | luly | ». 1915. |
+| 3 | 627<br>640<br>2047<br>671 | •MIMj | i’ll vate. | Anderson,.John  | Imp. Forces  | Shepherd, Alex |
+| 3 | 2333<br>656<br>3800<br>686 |  |  |  |  |  | North P'jrt, OimKerland Co., N.S  | r*anada | Aldershot  | \'tK- 11 | ), 1915. |
+| 3 | 632<br>670<br>2074<br>700 | ir.sir» | Private.   | Anderson, Perry  | Nil  | Anderson, Henrv |
+| 3 | 2330<br>685<br>3800<br>717 |  |  |  |  |  | •II Duke Ht., Halitat. N.S  | < annda  | Halifax  | luly :u | i, 1915. |
+| 3 | 631<br>698<br>2082<br>728 | 111 ii)* | Private  | And**non, William   | m\  | Andersen, Mr** M |
+| 3 | 2330<br>714<br>3801<br>744 |  |  |  |  |  | 39 Granville St., If difax. N.S  | ^'annda .. | Mdcrshot   | AuC. H | 1915. |
+| 3 | 632<br>728<br>1997<br>758 | ; 15 12$ | Private   | Andrews, Walter George  | Nil  | Andrews. V |
+| 3 | 2331<br>733<br>3722<br>777 |  |  |  |  |  | Glace Bsy, C.H. N."      | < ’anrida  | Syd nov  | Oct. | »! |
+| 3 | 625<br>756<br>2186<br>787 | 41544')! Private  |  | Anthony, Robert John  | R FA  | Anth'-P} . Mr-. W , j 1 • |
+| 3 | 2330<br>773<br>3801<br>805 |  |  |  |  |  | 57 East St.. Whit»e\ Pier, C.B., N.S  | I!ngl:i!td . | Kentville  ! | luly 21 | ). 1M5. |
+| 3 | 624<br>785<br>2048<br>817 | •U.M7.: | Puvale  | Apted, William Christopher. | Nil    | Apted. \\ 1II1 »m |
+| 3 | 624<br>814<br>2073<br>849 | 414481*1 Private. . . |  | Archibald, Blair V  | Nil  | Archil ild. Ear ’ |
+| 3 | 2384<br>835<br>3497<br>861 |  |  |  |  |  | Colehe^ter <Jo.. N S       | Canada  | Aldershot |
+| 3 | 2333<br>864<br>3583<br>893 |  |  |  |  |  | rcmont Bsy, Priri--e f'o., P.E l  | ^’anada  | Sussex  |
+| 3 | 624<br>875<br>1757<br>903 | •S 1J )•<.'] l*«*i vato.  |  | Arsenault, A   | Nil  |
+| 3 | 2382<br>889<br>3571<br>919 |  |  |  |  |  | Brtnu»wici: St . Halifax, N.S    | Canada  | Aldershot  |
+| 3 | 624<br>903<br>1801<br>932 | 4141'lSj Private..  |  | Ash, Frederick  | Nil  |
+| 3 | 2334<br>922<br>3571<br>952 |  |  |  |  |  | 10 Stamford Rd.. l/ongsieht, Mancbcater, Eng | England  | Aldorshot  |
+| 3 | 624<br>930<br>2028<br>959 | •i i | Private........ | Aide. Georire Esm jnde  | Nil  | Astle. Oswald |
+| 3 | 2335<br>952<br>3572<br>980 |  |  |  |  |  | P.O. Box 52, Tniro, C-nlenester Co., N.S   | Canada  | Aldershot  |
+| 3 | 624<br>958<br>2114<br>990 | 41 4W»| Private . . . |  | Atkinson, Charles 11  | Nil  | Atkinson. Frank N. |
+| 3 | 2334<br>981<br>3584<br>1009 |  |  |  |  |  | Famworth, T.nnes.. F’ng   | l-.ng’nrd  | Sydney  |
+| 3 | 623<br>987<br>2188<br>1017 | 4 15 ;'); | Private   | Atkinson, Thomas  | Nil  | Atkinson. John  |
+| 3 | 2332<br>1011<br>3571<br>1039 |  |  |  |  |  | Inverness. C.B.. N.S  | t ’annda   | Sydney  |
+| 3 | 624<br>1017<br>2014<br>1046 | 41»7St» | Private  | Aucoin, Pet.or  | Nil  | Doucct. AI ‘X |
+| 3 | 625<br>1039<br>3586<br>1074 | 4I41H) | Pri vat*  | Audas, Fred   | 70th Regt  | \udas, All | Truro, Colchester <'*• . N.S     | England  | Yalcarticr  |
+| 3 | 622<br>1068<br>3588<br>1103 | 4111 i^i Pri vat »  |  | Ua^te. Ernest Harold..  | R.C.G A  | Bagg*. Klixab t!i | 18 Lilyville Rd . I^nibtn. I'.nc.    | England  | Aldershot  |
+| 3 | 628<br>1096<br>3511<br>1133 | \ 15; 13 | Private  | Parley, Charles  | Royal Navy  | Baelev, Mn. 1 ■ u »ars | '4 North Creirhton St.. Halifax. N.S  | England  | Aldershot. |
+| 3 | 623<br>1125<br>3666<br>1160 | 4 I;i7l7 Pri vate  |  | Bntrnelt, S**ward Hall.   | Nil  | Bngnell, M i s. < it •!in< . | Priaee Pt., Hv»lney t* P., \ S   | Canada. . | Sydney...... !Aur. |
+| 3 | 623<br>1154<br>3558<br>1190 | 4 157 2'\) | Private  | Bn^nell, Wilbert  | Nil  | Bnjrncll, Mrs. '1 .... | GabarxHJse, C.B.. N.S   | ( aiv'da  | Sydney  |
+| 3 | 622<br>1184<br>3574<br>1219 | 4 <i J .M i | Private   | Bailey, Paul  .. | Nil  | Bailey, M rs. S 1:i  | Frefferieton, N.B  | »’anada  | Sup ‘ex  |
+| 3 | 623<br>1213<br>3589<br>1247 | 4I5J3* | Private  | Bailey, Percy  | 0flth Regt   | Bailey, Mrs. S ui 11 .. | Nottingham. Eng  | England    | Halifax  |
+| 3 | 622<br>1241<br>3574<br>1275 | 4S1115 | Private  ... | Baird, Alexander  | Nil  | Bnird, M rs. irali   | Sackville, We^tmorelanl t . , V P.  | England  | Sm^spx  |
+| 3 | 622<br>1270<br>3577<br>1305 | 413178 | Private  | Baird, Raymond  | Nil  | Bnird, Mrs. 1 -»-i 1 »• : ... | lOofdow Station, Cole!n*«t<*r f'n., N.S...    | (’anada  | Aldershot  |
+| 3 | 621<br>1300<br>3589<br>1333 | 4 1 176*3 | Private  | Baker, Ernest  | Nil  | Baker, M r-*. S vrali . |  |  | Aldershot  | .Box 155 Carboi^ar, Newfotin.|land   | Nev. foundland . |
+| 3 | 641<br>1327<br>3574<br>1365 | 142 J'J | Private  |  | Nil  | Baker, Albert   |  | England  | Sussex   |
+| 3 | 626<br>1357<br>3589<br>1391 | 1 * >530 | Private  | • •'\k »r, ()ran WiKre l . .... | Nil  | Baker, ft A. .* .... | (Brilr ' * »*r, 1 'inen^nrjr f'n., N.S ...   | Canada  | Valearti<*r  |
+| 3 | 622<br>1387<br>3575<br>1418 | 4 1 Y\V\ | Private  | 1 ,al Jwin, William  | Nil  | Walker \\ rs. 1 ll»- i«*t. .. |  | England  | Aldershot .... |
+| 3 | 622<br>1415<br>3695<br>1447 | 41 I'iVl | Private  | Ball, John  | Nil   | Ball. Mm Martha | .oyfti..; ydney Mines. N.S     | England  | Sydney Mines. Mar. 1 |
+| 3 | 622<br>1443<br>3590<br>1477 | 4l579t5 | Private  | Barker, George H   | Nil  | Harker. J.tne \nn  | Amherst, Cnmb^land Co.. N ^   | Enjrlnnd, ... . | Aldershot  |
+| 3 | 622<br>1473<br>3591<br>1506 | 411532 | Private  | Barley, Frederick   | Nil  | Barley, L**itie  | Morenoeville, CTarl»ton Co., \ B  | England   | Amherst  |
+| 3 | 622<br>1498<br>3593<br>1534 | 41 *7.11 | Private  | Barnes, Jacob  | Nil  | B antes, Alfre<l  | Fortune Bay, Newfoua«iland   | Newfoundland.. | Sydney  |
+| 3 | 622<br>1530<br>3592<br>1561 | 4iihdh | Private  | Barrett, Gordon Lucas  | Nil  | i'larrett Noah   | Truro, Col''liesu*r Co., N S. .   | ('annda  | Aldershot  |
+| 3 | 622<br>1557<br>3592<br>1590 | 4151 S') | Private  | Barteaux. Vance   | 93rd Regt  | Bartenui. Fre<leri 'k  | Advocate Harbour, Cumberland Co., N.S   | Canada  | Aldershot  |
+| 3 | 622<br>1587<br>3593<br>1619 | 4i 49*2 | Private  | Barter, Walter  | Nil  |  | CaJ loaia MifiM,C.B., N.S   | Newfoundland. | Sydney  |
+| 3 | 622<br>1616<br>3593<br>1648 | 41VJB3 | Private   | Bsrklei!. Jams 11   | Nil  | i’.nrllett. Mrs. H.   | Sydney, C.B., N.S  | (’nnada  | Sydney  |
+| 3 | 623<br>1645<br>3594<br>1679 | 41V104 | Pri vate  | Bates, James D.    | Nil  | Bates, M rs. M. J  | Louisburft, C.B., N.B....   | |< 'anada  | Sydney  |
+| 3 | 623<br>1673<br>3593<br>1706 | 414333 | Private  . . .. | Baxter, James Farmer.  | Nil  | Baxter. Mr**. Mrv.rcij  | ’f^ltartnn. Pietoe Co.. N.S   | i V'ngland  . | New t!lns(!ow. . |
+| 3 | 624<br>1702<br>3595<br>1734 | 4 1 37M | Pri vat.*.  | Bayers, Kenneth   | Nil  | Bavi»rs. Intnes  | •131 Catnpbrll ltd , Hnfifax, N.S  | (’anada  | Halifax  |
+| 3 | 623<br>1731<br>3595<br>1761 | 415539 | Private.  | Beals. Freeman E  | Nil  | N’eily. M is. C. A .. | Brooklyn, Vermouth f'n., N.S | ^’nnn^la  | Middleton  |
+| 3 | 624<br>1759<br>3596<br>1794 | 415730 | Private   | Beardsley, Aubrey. | Nil  | BeanNlrv, Lorne  | Port Lara#, AattBpoli* Co., N.ft.   | Canada  | Aldershot  |
+| 3 | 624<br>1789<br>3594<br>1821 | 41 1714 | Private  | Kenton, Talmage Phillip., | Nil  | Beaton, Mrs. ('atherimv . | Aml:er»t Shore, ( uml»erland ‘ *o , N.S.   | K \anndn  | Kentville  |
+| 3 | 629<br>1818<br>3595<br>1852 | 11{:») | Pri vate  | Bsattie James .    | Nil  | Beattie, Mrs. lsnbelle.... | Perth, Soot  | Ncotlnnd  | Sydney  |
+| 3 | 630<br>1837<br>3808<br>1887 | 1C* 3 75 | Private  | Bell. William Bernard  | C.P.A.M.C  | Kdnmans, Mrs Minnie... | 329 Bnrringfon St. Ilali fat. VS  | jf’annda  | Halifax  |  | ! |
+| 3 | 624<br>1875<br>3595<br>1905 | 4U347 | Private.  | B.rilfontnino, < -lenient  | Nil  | Bellfontainc. Mr* Annie. | Portland Hi., Dartrno-ith, Halifax Co N.S.  | ('nnaria  | Aldershot  |
+| 3 | 624<br>1904<br>3597<br>1935 | 4»>S 7 4 | Pri vate  | Bellfontain, G »orge  | Nil  | 1^ •llfontnin. M: s. M,iy... | 5.3 Dresden Row, Halifax, N.S  | I( ’nnada  | Halifax  |
+| 3 | 624<br>1932<br>3808<br>1973 | 414327 | Private    | Bellfontaino, Michael   | Nil  | Bellfontaine. Mrs. Ayncs. | . Pine St., Dartmouth, Halifnx Co., N.S | j( ’annda  | Halifax  |  | . |
+| 3 | 623<br>1961<br>3597<br>1993 | •W >579 | Corpjral  ... | Bnnjamin, Percy Earle  | 93rd Regt  | Benjamin, Mrs Jameg... | . Pugwash, Cumberland Co., N.S  | ' 'anaxla  | Aldershot  |
+| 3 | 623<br>1989<br>3597<br>2023 | 414531 | Private  | Benjamin, Wiley Allen.  | Nil  | Benjamin. Mrs Wiley A | !9 Fic'^'unt 8t,. Amherst, ( 'uml>erlard f 0 , N.S . | i< ’anada  | Amherst  |
+| 3 | 624<br>2018<br>3599<br>2053 | 415 421 | S *rg«* lit  | Bennett, Archibald  | Imp. Forces  | Bennett, Mrs Maria ... | , I Victoria St., Glace Bay, C.B., N.S  | '.England  | Aldershot....... |
+| 3 | 624<br>2044<br>3584<br>2083 | 41M14 | Private   | Bennett, Oscar Ho.ds**rs  | *>’3th Regt  | Bennett, J. R  | . 251 Brunrwick St.. Halifax. N.S  | K’nnada  | Aldershot  |
+| 3 | 626<br>2075<br>3585<br>2109 | 41 *»333 | Private .. ... . | Bennett. Wiley Iloss  | Nil  | Bennett. Mrs. Bcsiic  | .ICanning, Kings Co., N.S  | iC’anada.   | Aldershot  |
+| 4 | 951<br>591<br>3435<br>622 |  | Hank. |  | Former Corps. | Name of Next of Kin |  | Country of |
+| 4 | 762<br>738<br>3940<br>769 | 415510 | Private.. | Berryman, Harvey Charles. | Nil  | Berryman. William | Milton, Queens Co., N.S  | Canada  | Liverpool  April | 13, 1915. |
+| 4 | 763<br>767<br>3941<br>797 | 4i5851 | Private,. | Berteaux, Herbert  | Nil  | Berteaux, Edward. | Deep Brook, Annapolis Co., N.S  | Canada  | Aldershot Aug. | 12, 1915. |
+| 4 | 765<br>797<br>3941<br>827 | il540i» | Private.. | Besszong, Patrick Joseph. . . | 63 rd Hegt. | Besszong, Mrs. Freda | 2 Fairbank St., Dartmouth, Halifax Co., N.S  | Canada  | Valcartier Aug. | 23, 1915. |
+| 4 | 766<br>827<br>3940<br>859 | nr,178 | Private.. | Betts. Graham    |  | Bet ta, M r». Mary    | Mncean, Cumberland Co., N.S  | Canada  | Aldershot  July | 24, 1915. |
+| 4 | 766<br>856<br>3941<br>887 | 111535 | Private.. | Burlington, Arthur Vincent. | Nil  | Biddington, George.  | Shediac, Westmoreland, N.B  | Canada  | Amherst  April | 10, 1915. |
+| 4 | 765<br>882<br>3942<br>915 | 115021 | Private.. | Bigelow, Frederick A  | 94th Hegt. | Bigelow. Mrs J. C. | Glace Bay, C.B., N.S  | Canada  | Aldershot June | 9, 1915. |
+| 4 | 764<br>915<br>3943<br>943 | 414485 | Private.. | Bilton. Oliver  | Nil  | Bilton. Samuel ... | Barrow, Lincs., Eng  | England  | Aldershot Aug. | 10, 1915. |
+| 4 | 762<br>941<br>3943<br>975 | 415317 | Private.. | Bishop, Harry John  | Nil  | Bishop, Mr=*. Minnie | 1.80 Charles St., Halifax, N.S  | Canada  | Halifax July | 31.1915. |
+| 4 | 761<br>973<br>3943<br>1011 | 415094 | Private.. | Bishop, Laurie L  | Nil  | Bishop, William L. | j^helbume, N.S  | Canada  | Aldershot July | 29, 1915. |
+| 4 | 761<br>997<br>3943<br>1031 | 4 11071 | Private.. | Bixton, George  | Nil  | i Ling. Emma | !12 Avenue Rd., Camberwell, London, Eng  | Englnnd  | Aldershot. .... Aug | 12, 1915. |
+| 4 | 761<br>1031<br>3944<br>1060 | 4S2041 | Private.. | Blair, William Thomas . .. | Nil  | iBlair, Mrs. Lena | Westville. Pictou Co., N.S  | Cnnada  | Sussex Sept. | 16, 1915. |
+| 4 | 761<br>1059<br>3944<br>1088 | 415181 | Private.. | Blank, Gcorgo William   | 63rd Hegt | Blank. Mrs Mcletha. | I Lake ltd ., Dartmouth, Halifax Co., N.S  | Canada  | Valcartier Aug. | 31, 1915. |
+| 4 | 761<br>1088<br>3944<br>1116 | 414230 | Private.. | Blinkhorn. Harold  | Nil  | Blinkhorn, Mrs. David | Fenwick, Cumberland Co., N.S  | Canada  | Atnherat Mai | 17, 1915. |
+| 4 | 761<br>1117<br>3945<br>1148 | 4^2020 | Private.. | Blinkhorn, John  | (Nil  | Blinkhorn. Margaret | 32 Hawthorn Bank. Hadlington, Lancs., Eng  | Englnnd  | 8ydney  Sept | 1.1915. |
+| 4 | 760<br>1142<br>3944<br>1174 | 4 I 1,803 | Private.. | Blinkhorn, Robert  | Nil  | Blinkhorn. James | I Florence, C.B., N.S  | England  | Sydney  Aug. | 9, 1915. |
+| 4 | 760<br>1174<br>3945<br>1204 | 414421 | Private.. | Bonang, Frederick  | Nil  | Blackburn. Margaret. | i Prospect House, Water St., Halifax, N.S  | Canada  | Halifax July | 30, 1915. |
+| 4 | 761<br>1203<br>3946<br>1234 | 415332 | Private.. | Bonnett, John  | 66th Hegt. | Bonnett, Mrs. Annie. | '20 Bilby St., Halifax, N.S  | Englnnd  | Aldershot Aug. | 10.1915. |
+| 4 | 761<br>1230<br>3945<br>1268 | 415883 | Private.. | Boudreau, John  | Nil | Boudreau. Mrs. C... | "^5 Agricola St.. Halifax, N.S  | Canada  | j Halifax Aug. | 13, 1915. |
+| 4 | 762<br>1257<br>3947<br>1293 | 482077 | Private.. | Boulter, George.   | Nil | Boulter. R | Fredericton, N.B  | Canada  | 'Sussex.  Oct. | 5, 1915. |
+| 4 | 761<br>1287<br>3937<br>1324 | 415001 | Private.. | (Boutilier, Alex  | Nil. | Boutilier. Mr** Jane. | J |{r.««»rve Mines, C.B., N.S  | Canada  | •Valcartier July | 13, 1015 |
+| 4 | 766<br>1312<br>3946<br>1363 | 114240 | Private.. | | Boutilier, Charles Patrick.. | •|Nil  | Boutilier, T C   | !< lardiner Mines. C.B., N.S  | Canada  | Aldershot June | 9, 1915. |
+| 4 | 763<br>1341<br>3946<br>1382 | 414348 | Private.. | Boutilier, John F  | • i Nil  | Cameron. Mrs. Sandy | j Bridgeport, C.B., N.S  | Canada   | Aldershot July | 20, 1915. |
+| 4 | 762<br>1370<br>3947<br>1410 | 415472 | Private.. | !Boutilier, William Kelly | . jfiflth Regt  | Boutilier. Peter | 113 Fern I,ane. Halifnx, N.S.  | Canada   | Halifax Aug. | 10, 1915. |
+| 4 | 763<br>1405<br>3948<br>1440 | 415071 | Private.. | Bowles, Arthur Henry | 60th Hegt  | Leake. Alex . | 118 Livingston Rd., New Broughton, Kent, Eng  | England  | Valcartier  Sept. | 24, 1915. |
+| 4 | 763<br>1432<br>3947<br>1469 | 415306 | Private.. | Bowron, Charles Alfred | 78th Hegt-  | Blakeloek. Mrs. William... | New Glasgow, Pictou Co., N.S  | England   | Sydney I Aug. | 13, 1015. |
+| 4 | 763<br>1460<br>3949<br>1503 | 411832 | Private.. | Bowser, Frank  | Nil. | Bowser. Mrs. Edith  | • 501 Robie St., Halifax, N.S  | Canada  | Halifax [July | 31.1915. |
+| 4 | 763<br>1491<br>3949<br>1528 | 414278 | Private.. | Boyce, William S  | 06th Regt  | Boyce, lienty  | 37 Stanley St., Halifax, N.S  | Canada  | Aldershot June | 10.1915. |
+| 4 | 764<br>1519<br>3949<br>1558 | 414300 | Private.. | (Boyd, William Dickson  | Nil  | IBoyd, Gilbert  | Lower Five Islands, Colchester Co., N.S  | Canada  | Aldershot June | 11, 1915. |
+| 4 | 763<br>1547<br>3950<br>1595 | 482002 | Private.. | j Boyle, Joseph Ji  | Nil  | |Boyle. Mrs. Mary  | Hazleton, Pa., U.S.A  | U.S.A  | Sussex 'Aug. | 28, 1915. |
+| 4 | 764<br>1577<br>3950<br>1615 | 482027 | Private.. | I Braekenhury. William H — | Imp. Forces. | jBrackenbury. Mrs. J*»an E. | New Aberdeen, C.B., N.S  | England  | Sydney  | ept | 1, 1915. |
+| 4 | 764<br>1606<br>3951<br>1643 | 482023 | Private.. | iBrackett. W illiam  | Nil  | 'Brackett, William   | Herring Cove, Halifax Co.. N.S  | C annrla  | iFussex  | Sept. | 9. 1915. |
+| 4 | 1969<br>1635<br>3950<br>1667 |  |  |  |  | Bradbury, Mrs. Margaret | 154 Argyle St., Halifax, N.S  | Newfoundland | i Halifax  | Aug. | 13, 1915. |
+| 4 | 763<br>1644<br>1820<br>1674 | 415882 | Private.. | Bradbury, John Joseph   | Nil  |
+| 4 | 763<br>1664<br>3950<br>1704 | 415881 | Private.. | Bradbury, Pe ter Joseph .... | 66th Regt.. . | ! Brad bury, Mrs. Mabel... | 141 Barrington St., Halifax. N.S  | Newfoundland. | Halifax  | Aug. | 13, 1915. |
+| 4 | 1960<br>1694<br>3951<br>1726 |  |  |  |  | iBragg, Mrs. Sarah... | 00 Agricola St., Halifax, N.S ;  | Newfoundland. | Aldershot   | Aug. | 7, 1915. |
+| 4 | 764<br>1703<br>1819<br>1733 | 415708 | Private.. | Bragg. JainfM.. ........ | Nil  |
+| 4 | 765<br>1723<br>3952<br>1761 | 415022 | Private.. | Bramwell, Ralph   | 94th Regt.. | ,Bramwell, Mrs. Mary 1 | Dominion No. 4, Glace Bay, C.B., N.S  | England  | Aldershot  | May | 24, 1915. |
+| 4 | 765<br>1752<br>3952<br>1789 | 415302 | Private.. | Brennan, Janies  | Nil  | 'Brennan, Thomas  | Sydney Mines, C.B., N.S  | England  | Sydney  | Aug. | 7.1915. |
+| 4 | 764<br>1782<br>3953<br>1818 | 414051 | Private.. | !Brennan, William ... .... | Nil  | 'Brennan, Kate  | Thorburn, Pictou Co., N.S  | Ireland  | Aldershot  | Aug. | 11, 1915. |
+| 4 | 1962<br>1811<br>3953<br>1842 |  |  |  |  | I Brennan, Thomas | Svdnev Mines, C.B., N.S  | England  | Sydney  | Aug. | 9. 1915. |
+| 4 | 765<br>1820<br>1823<br>1848 | 414850 | Private.. | • Brennan. William  | Nil  |
+| 4 | 765<br>1840<br>3954<br>1878 | 41528 | Private . | : Brewer, George  | Nil  | Brewer, Albert E | Glace Bay, C.B., N.S   | England    | Sydney  | Aug. | 7, 1915. |
+| 4 | 766<br>1869<br>3945<br>1909 | 415407 | Private.. | (Briggs, Clairborn Edwin.. . | 63rd Regt | Briggs, Mrs. Ro«e . | 0 Le Marchant St., Halifax, N.S  | Canada  | Valcartier  | Aug. | 18,1915 |
+| 4 | 1953<br>1898<br>3952<br>1929 |  |  |  |  | . Brown, Mrs. Ellen | 27 Prospect St., Central Sq., Cambridge, Mass., U.S.A. | England  | Aldershot  | Aug. | 7.1915. |
+| 4 | 767<br>1907<br>1824<br>1937 | 415277 | Private.. | !Brown, Charles Allen.   | Nil  |
+| 4 | 1975<br>1928<br>3955<br>1957 |  |  |  |  | Brown, Katherine  | 10 Grafton St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 10, 1915. |
+| 4 | 768<br>1937<br>1824<br>1966 | 411100 | Private. | Brown, James Bernard | Nil  |
+| 4 | 1975<br>1957<br>3947<br>1987 |  |  |  |  | Brown, Mrs. Annie . | West River Station, Pictou Co., N.S  | Canada  | Aldershot  | Aug. | 12, 1915 |
+| 4 | 769<br>1964<br>1824<br>1997 | 4 11'.) 10 | Private . | Brown, Hoy   | ..|Ni1  |
+| 4 | 771<br>1986<br>3225<br>2024 | 4 1 W53 | Private. | Brown, Thomas M | 'Nil  | Brown, Mrs. Safa. . | Lakeland, R.R. No. 1. Parrsboro’, Cumberland Co., |
+| 4 | 2527<br>2016<br>3956<br>2042 |  |  |  |  |  | N.S  | Canada  | Aldershot. | Aug. 11,1915. |
+| 4 | 774<br>2043<br>3958<br>2080 | 415471 | PrivrUn. |  |  | .(Brown, Mr-. Annie | JPreston St.. Halifax, N.S.  | Canndn  | Halifax.. k. | Aug. 10. 1915. |
+| 4 | 776<br>2072<br>3957<br>2102 | 4S2073 | Pri |  |  | i Brow ne. W illiam 11 | 070 Namayo Ave., Edmonton, Alta  | Cnnada  | Sussex  | Sept. 9,1915. |
+| 4 | 1978<br>2099<br>3957<br>2134 |  |  |  |  | Bryan. James A | Norfolk. Va.. U.S. A  | U.S. A  | Sussex  | Sept. 9. 1915. |
+| 4 | 1978<br>2127<br>3959<br>2159 |  |  |  |  | Budden, Mrs. Laura | Glace Bay, C.B., N.S  | Newfoundland.. | Glace Bay. | May 5. 1915. |
+| 5 | 662<br>286<br>1850<br>316 | 411.157 | Corporal  | Bulger, F I ward Joseph  | Nil  |
+| 5 | 2413<br>338<br>3825<br>369 |  |  |  |  |  | Sea, Sussex, Eng  | England ' | Aldershot  | July 29, | 1915. |
+| 5 | 662<br>368<br>3825<br>405 | 415830 | Private  | Burgess, Edgar M  | Nil  | Burgess, Marshall  | Lockeport, Shelburne Co., N.S  | Canada  | Aldershot   | Aug. 12, | 1915. |
+| 5 | 660<br>399<br>3824<br>434 | 415202 | Private.  | Burgess, Thomas  |  | Burgess, Mis. Mary  ... | 283 Brunswick St., Halifax, N.S .  | Canada  | Aldershot  | Aug. 7, | 1915. |
+| 5 | 792<br>428<br>3825<br>464 |  | -Corporal  | Burgess. William  | Nil  | Burgess, 8.A  | 38 Eddy St.. Amherst, < 'umberland Co.. N.S  | Canada  | Amherst  | May 7, | 1915. |
+| 5 | 762<br>459<br>3826<br>494 |  | Private  | Burgoyne, Victor Raymond  |  | Burgoyne, William 11  | St. Margaret's Bay. Halifax Co., N.S  | Canada  | Halifax  | Aug. 10, | 1915. |
+| 5 | 764<br>488<br>3826<br>523 |  | Private    | Burko, Douglas Donald  | Nil  | Burke, Frederick A  | River Bourgeois, C.B., N.S  | Canada  | Aldershot  | Aug. 7, | 1915. |
+| 5 | 2353<br>518<br>3826<br>546 |  |  |  |  |  | 40Banwell St., Belfast, Ire  | Ireland  | Halifax  | April 12, | 1915. |
+| 5 | 764<br>523<br>2279<br>552 |  | Private  | Burke, William  | Nil  | Baick, Mrs   |
+| 5 | 764<br>547<br>3826<br>581 |  | Private  | Burton, George William  | Nil  | Burton, Mrs. Anthony  | Spring Hill, Cumberland Co., N.S  | Canada  | Aldershot  | July 29, | 1915. |
+| 5 | 664<br>576<br>3826<br>610 | 414083 | Private  | Butler, Nathan  | Nil  | Butler, Mr*. Abigcal  | Cupids, Concept ion Bay, Nfld   | Newfoundland.. | Sydney  | Aug. 13, | 1915. |
+| 5 | 665<br>606<br>3827<br>639 | 415009 | Private  |  |  | Butt, Mis* B  | Spaniards Bay, Browns Road, Nfld  | Newfoundland.. | Halifnx  | Aug. 13, | 1915. |
+| 5 | 665<br>635<br>3827<br>668 | 414741 | Private  | Butts, Thomas    | Nil  | Butts, Mr*. William  | Carbonear, Nfld  | Newfoundland.. | Aldershot   | July 24, | 1915. |
+| 5 | 665<br>664<br>3828<br>705 | 4 14050 | Private  | Byrae, Aloysios  | Nil  | Divine, Mrs. .lolin   | rort-nu-Port, St. George's Bay, Nfld  | Newfoundland. | Sydney  | Aug. 13, | 1915. |
+| 5 | 665<br>694<br>3828<br>728 | 414170 | Sergeant  | Byron, William  | Nil  | Byron, Mrs. Margaret  | Setauket, Long Island, N.Y., U.S.A  | Ireland  | Valeartier  | Sept. 21, | 1915. |
+| 5 | 667<br>723<br>3828<br>755 | 414001 |  |  | Nil   | McDonald, Mrs. Mary....... | Spring Hill, Cumberland Co., N.S  | Scotland  | Aldershot  | Aug. 10, | 1915. |
+| 5 | 666<br>750<br>3828<br>785 | 414108 | Private  | Caldwell, William Arthur.   |  | Caldwell, j N  | lOOOchterloney St., Dartmouth, Halifax Co., N.S  | Cnnada  | Halifax  | May 5, | 1915. |
+| 5 | 666<br>777<br>3828<br>815 | 415203 | Private  | Cameron, Alexander .Joseph  | Nil   | Cameron, Alexander   | Bridgeport, C.B., N.S  | Cannda  | Sydney  | Aug. 7, | 1915. |
+| 5 | 667<br>811<br>3828<br>843 | 415241 |  |  |  | Cameron, Mrs. Sarah  | Dominion No 1, C.B., N.S  | Canada  | Aldershot  | July 29, | 1915. |
+| 5 | 666<br>841<br>3829<br>873 | 414800 | Private  | Cnmoron, Donald  | Nil  | Cameron, A. C   | P.O. Box071, Amherst, Cumberland Co., N.S  | England  | Aldershot  | Aug. 10, | 1915. |
+| 5 | 667<br>869<br>3830<br>902 | 415321 |  |  | Nil   | Cami’ron, Duncan   | 56 West St., Halifax, N.S  | Canada  | Halifax  | Aug. 2, | 1915. |
+| 5 | 764<br>899<br>3829<br>933 |  | Private  | Campbell, Angus.   | Nil  | Campbell, Mrs. Mary  | New Waterford, C B., N.S  | Cannda  | Sydney  | Mar. 20, | 1915. |
+| 5 | 764<br>924<br>3830<br>962 |  | Private  | Campbell, Gerald...   |  | Campbell, John E   | Baddcck, C.B., N.S  | Cannda  | Sydney  | Aug. 7, | 1915. |
+| 5 | 764<br>956<br>3830<br>991 |  | Private  | Campbell, .lames  | Nil  | Campbell, James  | 227 Glasgow Rd., Bumbank, Lanark, Scot  | Scotland  | Sydney  | Aug. 7, | 1915. |
+| 5 | 764<br>987<br>3831<br>1019 |  | Private  |  | Nil  | Campbell, Malcolm  | Inverness, C.B., N.S  | Canada  | Sydney  | Aug. 7, | 1915. |
+| 5 | 667<br>1016<br>3831<br>1049 | 414442 | Private  | Campbell, Joseph  | Nil  | Campbell, Michael  | Sydney, C.B., N.S  | Canada  | Sydney  | Aug. 7, | 1915. |
+| 5 | 666<br>1045<br>3831<br>1077 | 482054 | Private  |  |  | Campbell, Thomas E  | ast Lake, Ainslie, Inverness Co., N.S  | U.S.A  | Sussex  | Aug. 28, | 1915. |
+| 5 | 666<br>1070<br>3831<br>1105 | .414050 | Private  |  | Nil . | Cantwell, Mrs. Annie  | Little Bras D’or, C.B., N.S  | Canadn  | Sydney Mines . | Mar. 31, | 1915. |
+| 5 | 667<br>1099<br>3831<br>1136 | 482070 | Private  | Carrigan, James  | Nil  | Carrigan, Mrs. Hannah C  | ’'Vestville, Pictou Co., N.S  | Canada  | Sussex  | Aug. 28, | 1915. |
+| 5 | 667<br>1133<br>3831<br>1167 | 414 | Private  | Carter, Clyde  | Nil  | Carter, Cyrus^  | Westmoreland Point, N.B.   | Cannda  | Amherst  | Mar. 17, | 1915. |
+| 5 | 666<br>1162<br>3832<br>1194 | 414 | Private  | Casey, Arthur  | C A.S.C  | Casey, Mrs. Annie Elizabeth. | 21 Morris St., Halifax, N.S   | Scotland  | Halifax  | June 10, | 1915. |
+| 5 | 667<br>1192<br>3832<br>1222 | 415201 | Private  | ('n‘>ey, Edward Joseph  | C.F.A  | Casey, Thomas  | Caledonia, C.B.. N.S  | Canada  | Sydney  | Aug. 7, | 1915. |
+| 5 | 667<br>1221<br>3831<br>1254 | 414154 | Q.-M. Sergeant.. | Cassidy, Harold  |  | Cessidy. H. V  | Tatamagouche, Colchester Co , N.S  | U.S.A  | Halifax  | May 4, | 1915. |
+| 5 | 666<br>1250<br>3832<br>1279 | 415318 | Private  | v aFlle, Arthur Arnold  | Nil  | Cas'le, Robert   | 6 Fern St., Halifax, N.S    | Canada  | Halifax  | Aug. 2, | 1915. |
+| 5 | 667<br>1279<br>3833<br>1310 | 415283 | Private  . . . | ( atlin. G^rce  | Royal Navy  | Catlin. Charles D    | Salford, Lancs., Eng    | England  | Aldershot  | Aug. 7, | 1915. |
+| 5 | 666<br>1308<br>3833<br>1338 | 482010 | Private  . . | Cavers, Robert:  | Nil   | Cavers, James  | West Bay Rd.. C.B.. N.S  | England  | Sussex  | Aug. 28, | 1915. |
+| 5 | 666<br>1337<br>3832<br>1368 | 416004 | C.S.M  | Chapman, John  |  | Chapman, Mrs. Suasn  | Glace Bay, C.B., N.S  | Scotland  | Glace Bay    | May 5, | 1915. |
+| 5 | 666<br>1364<br>3833<br>1398 | 414006 | Private  | Chase, William II  | Nil ! |  | Truro, Colchester Co., N.S   | England  | Aldershot  | Aug. 11, | 1915. |
+| 5 | 666<br>1396<br>3834<br>1425 | 415031 | Private  | Cheetham, James  | Nil  |  | New Waterford, C.B., N.S  | England  | Sydney  | May 3, | 1915. |
+| 5 | 666<br>1425<br>3835<br>1453 | 414715 |  |  |  | iiolm, Miss Alma  | 10 Morris St., Halifax, N.S  | Cnnada  | \Idershot  | July 14, | 1915. |
+| 5 | 667<br>1453<br>3835<br>1483 | 482083 | Private  | Chisholm, iiarohJ C  | Nii  | Chisholm, W. S  | llridgedale, Albert Co., N.B  | U.S. A  | Sussex  | Sept. 28, | 1915. |
+| 5 | 667<br>1482<br>3835<br>1512 | 416335 | Private  |  |  | Christian, Jessie   | 47 Longard Rd., Halifax, N.S  | Canada  | Halifax  | July 30, | 1915. |
+| 5 | 667<br>1511<br>3834<br>1542 | 414174 | Private  | Clare, Ernest Albert  | (>3rd Regt  | Clare, Mrs. Ada Harriett.... | 12 Union St., Halifax, N.S  | England  | McNab's Island | May 10, | 1915. |
+| 5 | 667<br>1540<br>3835<br>1570 | 414085 | Private  |  | Nil  | Clark, Mrs. Mary A  | 0 Gladstone St., Crook Co., Durham, Eng  | Englnnd  | Sydney  | Aug. 13, | 1915. |
+| 5 | 669<br>1568<br>3834<br>1598 | 414080 | Private  |  | Nil  | Clark, James  | Reserve Mines, C.B., N.S  | Canada  | Sydney  | Aug. 13, | 1915. |
+| 5 | 667<br>1595<br>3836<br>1628 | 414200 | Private  | Clarke, Charles  | GOtll Regt  | Clark, William  | Reserve Mines, C.B., N.S  | Canada  | Aldershot  | June 1, | 1915. |
+| 5 | 667<br>1626<br>3837<br>1658 | 414055 | Private  | Clark, JJcnrv II  | Nil  | Clark, Mrs. Elizabeth  | Truro, Colelicster Co., N.S  | Cannda  | Aldershot  | Aug. 12, | 1915. |
+| 5 | 666<br>1655<br>3836<br>1687 | 415302 | Private  | Clark, l’ermenis  | Nil  | Clark, Abel  | Victoria, Carbonear, Nfld  | Newfoundland.. | Sydney  | Aug. 13, | 1015. |
+| 5 | 666<br>1684<br>3837<br>1715 | 414070 | Private  |  |  | Clark, James  | Spring Hill Mines, Cumberland Co., N.S  | Canada  | Aldershot  | Aug. 12, | 1915. |
+| 5 | 667<br>1707<br>3836<br>1745 | 414807 | Private  |  |  | Clarke, Miss Jessie    | 2 Leamington Parade, White St., Leamington Spa, Eng. | Scotland  | Aldershot  | Aug. 3, | 1915. |
+| 5 | 667<br>1745<br>3837<br>1773 | 415100 | Private  |  | Nil  |  | North Sydney, C.B., N.S  | Newfoundland. | Aldershot  | July 29 | 1915. |
+| 5 | 667<br>1773<br>3837<br>1802 | 415184 | Privato  | Clarke, Robert  | Nil  |  | North Sydney, C.B.. N.S  | Newfoundland.. | Aldershot  | July 24 | 1915. |
+| 5 | 667<br>1803<br>3837<br>1832 | 415310 | Private  | Clement, Albon  | R.C.G.A  |  | 70 Coburg Rd., Halifax, N.S   | Canada  | Halifax  | Aug. 2, | .1915. |
+| 5 | 666<br>1832<br>3837<br>1861 | 482003 | Private  | Cleveland, Granville  | Nil '• |  | North West Cove, Lunenburg Co., N.S  | Cannda  | Sussex  | Aug. 30 | ,1915. |
+| 5 | 667<br>1861<br>3838<br>1891 | 41471 | Private  | Clough, Frank  | Nil  |  | Aldbrough, Hull, Eng   | England  | Aldershot  | July 14 | .1915. |
+| 5 | 667<br>1888<br>3839<br>1921 | 416648 | Private  | C'oaklev, Maurice  | Can. Mil  | .iCoakloy, Mrs. Ellen | Round Hill, Annapolis Co.. N.S   | Canada  | Middleton  | April 17 | , 1915. |
+| 5 | 666<br>1913<br>3837<br>1947 | 414432 | Private  |  |  | JCobb. Mrs. Florence. | New Glasgow, Pictou Co., N.S  | ICanada  | New Glasgow,. | May 1 | ,1915. |
+| 5 | 666<br>1945<br>3840<br>1982 | 415074 | Private  | Colwell, Alexander  | Nil   | Colwell, Mrs. James. | New Waterford, C.B., N.S  | jCnnada  | Aldershot  | July 14 | , 1915. |
+| 5 | 665<br>1974<br>3839<br>2017 | 414002 |  |  |  | jColl. Mrs. Vamn  | Oxford Ave., Sydney Mines, N.S    | | Englnnd  | Sydney Mines.. | Mar. 31 | , 1015. |
+| 5 | 664<br>2002<br>3841<br>2037 | 414010 | Private  | Comeau, John  |  | iComeau, Miss Mary. | Sanford. Me., U.S.A    | 1C nnada  | Aldershot  | Aug. 12 | , 1915. |
+| 6 | 771<br>598<br>3443<br>635 | .§z |  |  | Former Corps. |  |  | Country of |
+| 6 | 780<br>649<br>3886<br>672 | a |  |  |  |  |  |  | Place. | Dato. |
+| 6 | 872<br>748<br>3941<br>779 |  | Privnta... | Comcnu, Thcodule  |  | Comeau, Leopold  | Sfce. Christine, P.Q   | Canada  | M183ex  | Oct. 7, | 191.5. |
+| 6 | 773<br>774<br>3941<br>808 | 432048 | Private... | Como, James  | Nil  | Como, Mrs. Mclia...    | Toggin Mines, Cumberland Co., N.S  | Canada  | Sussex  | Aug. SO, | 1915. |
+| 6 | 773<br>806<br>3940<br>839 | 4142.52 | Sergeant.. | Congdon, Elbert Black  | '•Kith Regt. | Congdon, H. S  | Dartmouthi Halifax Co., N.S  | Canada  | Aldershot  | June 9, | 1915. |
+| 6 | 772<br>832<br>3941<br>866 | 415979 | Private... | Connell, Michael  | " F.A  | Connell, Mrs. M  | 13 Brunswick Court, Halifax, N.S  | Canada  | Halifax  | Aug. 13, | 1915. |
+| 6 | 772<br>865<br>3940<br>897 | 415437 | Private... | Connelly, Patrick Charles... | Nil. | Connelly, H.C   | 171 Grafton St., Amherst, Cumberland Co., N.S.... | Canada  | Amherst  | May 7, | 1915. |
+| 6 | 773<br>895<br>3941<br>927 | 414903 | Private... | Connley, Chesley  | Nil  | Hamilton, Mrs. It. A | Upper Onslow, Colchester Co., N.S..   | Canada  | Aldershot  | Aug. 10, | 1915. |
+| 6 | 772<br>924<br>3941<br>956 | 414378 | Private... | Connley, Lester  | Nil  | Hamilton. Mrs. Hoy E.. | Upper Onslow, Colchester Co., N.S  | Canada  | Aldershot  | Aug. 10, | 1915. |
+| 6 | 772<br>954<br>3941<br>983 | 414.100 | Privato... | Connors, Edward Louis  | Nil  | Connors, Mrs. Annie, | 19 Art* St., Halifax, N.S  | Canada  | Halifax  | July 31, | 1915. |
+| 6 | 773<br>983<br>3941<br>1014 | 4i:>sna | Private... | Connors, John  |  | Connors, Mis* Lizzie  | ?.1l- Main St., Glasgow, Scot  | Scotland  | Valcartier  | Vug. 28, | 1915. |
+| 6 | 775<br>1012<br>3942<br>1044 | »14043 | Privato... | Conroy, Gerald  | Nil  | Conroy, R. O   | Antigonishe, N.S  | Canada  | Halifax  | Mar. 13. | 1915. |
+| 6 | 777<br>1041<br>3942<br>1072 | H5780 | Privato... | Cook, Arthur  | Nil. | Cook, Mrs. Louisa  | Maitland, Hants Co., N.S  | England  | Aldershot  | Aug. 10, | 1915. |
+| 6 | 777<br>1070<br>3942<br>1101 | 111921 | Private... | Cook, Edmund  | Nil  | Cook, Mrs. Bessie B... . | Joggins Mines, Cumberland Co., N.S  | Canada  | Aldershot  | Auk- 11. | 1915. |
+| 6 | 774<br>1097<br>3942<br>1130 | 415732 | Private... | Cooke, Frederick.    | Nil  | Cooke, Harry  | Sydney, C.B., N.S.    | Newfoundland.. | Sydney  | Aug. 9, | 1915. |
+| 6 | 775<br>1124<br>3943<br>1160 | rair>r> | Private... | Coolen, Patrick   | it6th Regt. | Coolen, Mrs. Annie . . | Upp^r Prospect, Halifax Co., N.S  | Canada  | Halifax  | Aug. 10. | 1915. |
+| 6 | 774<br>1157<br>3942<br>1188 | ««88 | Private... | Cooper, George Percival.... | Nil  | Cooper, Mrs. Mary  | IG Bloomfield St., Halifax, N.S  | Canada  | Halifax  | Aug. 2, | 1915. |
+| 6 | 774<br>1185<br>3943<br>1217 | 4')20li(l | Private... | Cooper, Lewis    | Nil. | Cooper, James.   | Churchill, Oxon., Eng  | England  | Sussex  | Aug. 30, | 1915. |
+| 6 | 775<br>1214<br>3942<br>1246 | 4N2057 | Private... | Cooper, John Arthur  | Nil  | Cooper, Mrs. Kate   | Shubenacadie, Hants Co., N.S  | Canaria  | Halifax  | Aug. 19, | 1915. |
+| 6 | 775<br>1243<br>3943<br>1276 | 411799 | Private,.. | Cooper, Joseph  | Nil  | Cooper, Mrs Elizabeth. | Fishponds, Bristol, Eng  | England  | Aldershot  | July 29, | 1915. |
+| 6 | 775<br>1272<br>3942<br>1305 | 115300 | Private... | Copeland, David Charles... | Nil  | Copeland, Jesse  | Glace Bay, C.B., N.S  | England  | Sydney  | Aug. 7, | 1915. |
+| 6 | 774<br>1302<br>3943<br>1333 | M5BM | Private... | Corbett, Alfred Meigs  | 63rd Regt. . | Corbett, Mrs. Henrietta | U State St., Boston, Mass, U.S. A  | Canada  | Valcartier  | Aug. 18, | 1915. |
+| 6 | 775<br>1331<br>3943<br>1363 | ♦150B3 | Private... | Cordy, Mark II  | Nil  | Cordy, John.. ... | New Aberdeen, Glace Bay, C.B., N.S  | England  | Glace Bay  | Mar. 31, | 1915. |
+| 6 | 777<br>1359<br>3944<br>1393 | 11.5306 | Privato... | Cordy, Thomas  | Nil  | Smith, Mrs. Julia  | Florence, C.B., N.S  | England  | Sydney  | Aug. 7, | 1915. |
+| 6 | 775<br>1389<br>3944<br>1420 | ♦1\5838 | Private... | Corkum, Charles N  | Nil  | Corltuni, Mrs. Sarah  | Bridgewater, Lunenburg Co., N.S  | Canada,  | Aldershot  | Aug. 12, | 1915. |
+| 6 | 776<br>1415<br>3943<br>1450 | H-5431 | Private... | Cornwall, Harry Allan  | Nil  | Cornwall, H. A .   | Berwick, Kings Co., N.S   | Canada  | Valcartier  | Aug. 23, | 1915. |
+| 6 | 777<br>1447<br>3944<br>1479 | 1H2059 | Private... | Cosman, Blanchard  | Nil  | Cosman, Mrs. M. B .. .. | Yarmouth, N.S  | Canada  | Sussex  | Aug. 27, | 1915. |
+| 6 | 775<br>1476<br>3944<br>1508 | 41-1557 | Private... | Cosman, Percy  | Nil  | Cosman, Mrs. Anna Ii . . | \ Croft St., Amherst,. Cumberland Co., N.S  | Canada  | Amherst  | May 7, | 1915. |
+| 6 | 776<br>1504<br>3945<br>1537 | W49B7 | Private... | Coulter, Janies R  | Nil  | Gordon, Ethel  | Truro; Colchester Co., N.S  | Canada  | Aldershot  | Aug. 12, | 1915. |
+| 6 | 776<br>1533<br>3944<br>1567 | 415070 | Private... | Courtney, Charles Patrick.. | fiOth Regt.. | Courtenay, Mrs. P  | 71} Grafton St., Halifax, N.S  | Canada  | Valcartier  | Aug. 23. | 1915. |
+| 6 | 775<br>1563<br>3945<br>1598 | 414588 | Corporal.. | Covell, Phillip  | Nil  | Covell, Isabella   | SteUarton,.Pictou Co., N.S  | England  | Now Glasgow . | Mar. 31, | 1915. |
+| 6 | 775<br>1592<br>3945<br>1626 | 413434 | Private... | Cowling, Thomas  | s. A  | Wallace. Mr'. J. R   | Middleton, Annapolis Co., N.S  | Canada  | Valcartier.... | Sept. 8, | 1915. |
+| 6 | 775<br>1621<br>3945<br>1653 | 414864 | Private... | Crane, James  | Nil. | Crane, Mrs. Lydia ■ ■ | Sydney Mines, C.B., N.S  | England  | Sydney  | Aug. 9, | 1915. |
+| 6 | 776<br>1650<br>3946<br>1683 | 415005 | flcrgeant.. | Crawford, James  | Nil  | Crawford. Mr*. K ■ . | Tfew Waterford, C.B., N.S  | Scotland  | Sydney  | Mar. 20, | 1915. |
+| 6 | 775<br>1677<br>3946<br>1712 | 414017 | Pri vn t#... | Crawshnw, Joseph  | Nil  | Crawshaw, Mr-. Mary... | Amherst, Cumberland Co., N.S  | England  | Aldershot  | Aug. 11, | 1915. |
+| 6 | 776<br>1703<br>3947<br>1740 | 414*88 | Private... | Cmwshaw, Thomas  | Nil  | Cr*nvshau , Mr- ll'whe! | Gladstone Ave., Amherst, Cumberland Co., | England  | Aldershot  | Aug. 10, | 1915. |
+| 6 | 776<br>1733<br>3947<br>1770 | 4-14422 | Private... | Cream, John  | Nil  | ,i .'i-'-am. Mi ■hni’l | Cardiff, Wales  | Wales.   | Aldershot  | Aug. 7, | 1915. |
+| 6 | 777<br>1763<br>3947<br>1799 | 414253 | Private... | Creemer, Lawrence  | Nil  | a'p-nmer, Mr1 M  | tfichollsvHle, Kings Co., N.S  | Canada  | Aldershot  | June 14. | 1915. |
+| 6 | 1974<br>1794<br>3947<br>1824 |  |  |  |  | [Jiltier. Mr '-liaaa.i  | LamaJine* Nfld  | Newfoundland. | Sydney  | Aug. 7, | 1915. |
+| 6 | 777<br>1803<br>1794<br>1832 | 415305 | Pri-rate... | Crews, George  | 91th Regt. |
+| 6 | 1963<br>1822<br>3947<br>1855 |  |  |  |  | IrViv-, Jo!,!  | Placentia Bay, Nfl«l    | Newfoundland., | Sydney  | Aug. 13, | 1915. |
+| 6 | 777<br>1832<br>1769<br>1862 | 41586' | Private... | Crews, George  | Nil   |
+| 6 | 1962<br>1852<br>3948<br>1890 |  |  |  |  | jCror-kT '1m. Cecilia.... | 129 Cornwallis St., Halifax, N.S  | Canada   | Halifax  | \ug. 11, | 1915. |
+| 6 | 776<br>1861<br>1797<br>1891 | 415405 | Privato. | Crocker, Arnold Alexander. | Nil  |
+| 6 | 776<br>1881<br>3948<br>1921 | 432028 | Private... | Crocker, James Augustus... | Nil  | Cr>f,k-T. Mis* Leona  | 52nd Ave., Montreal. P.Q  | Canada  | Sussex  | Sept. 9, | 1915. |
+| 6 | 1962<br>1910<br>3948<br>1944 |  |  |  |  | jrv.i Mrs. Margaret. | Mtf, IStti Ave. E., Calgary, Aim  | Canada  | Aldershot   | Aug. 12, | 1915. |
+| 6 | 777<br>1920<br>1797<br>1950 | 415493 | Private... | Crockett, Chester A  | Nil  |
+| 6 | 2093<br>1938<br>3948<br>1970 |  |  |  |  |  | P.O. Box 128, Yarmouth, N.S  | Canada........ | Aldershot | Vug. 12, | 1915. |
+| 6 | 777<br>1949<br>1797<br>1980 | 415358 | Pri vnte.., | Crosby, Harold Erskine... | Nil  |
+| 6 | 1962<br>1967<br>3948<br>2006 |  |  |  |  | |( Mr*. j5Va  | 'l North Creighton St., Halifax, N.S  | Canada  | Halifax  | July 31, | 1915. |
+| 6 | 776<br>1979<br>1795<br>2010 | 415320 | Private... | Crosby, Howard  | OOtli Regt. |
+| 6 | 777<br>1997<br>3949<br>2040 | 415769 | Private.., | rushy, Keith Bruce  | Nil  | iry.*ji*\. Howard  | f’arleton, Yarmouth Co., N.S   | Canada.   | Aldershot  | Aug. 7. | 1915. |
+| 6 | 2049<br>2026<br>3950<br>2053 |  |  |  |  | . Mr?. Alirn  |  | England  | Halifax  | Aug. 2, | 1013. |
+| 6 | 777<br>2030<br>3098<br>2068 | 415322 | Private.. | Cross, Harry   | R.C.A  |  | 'u Buckingham St., Halifax. N.S  |
+| 6 | 1964<br>2055<br>3949<br>2090 |  |  |  |  | \< ’toucher, Geor :o  | jOrouchers Island, Sb. Margaret’s Bay, N.S.. | Canada  | Halifax  | Aug. 13. | 1915. |
+| 6 | 778<br>2065<br>1799<br>2097 | 415397 | Private.., | Croucher, William Fraser... | Nil  |
+| 6 | 1963<br>2083<br>3950<br>2122 |  |  |  |  | [Crowell, rtha ... | (Brazil Lake. Yarmouth Co., N.S....  | Canada  | Aldershot  | Aug. 7, | 1915. |
+| 6 | 779<br>2095<br>1799<br>2126 | 415770 | Private.. | Crowell, George  | Nil  |
+| 6 | 778<br>2110<br>3950<br>2156 | 415899 | Private.. | Crowell, Winnie   | Nil  | •Crowell, Mrs. Emma. | iBaecaro, Shelburne Co., N.S  | jCannda   | Aldershot  | Aug. 14, | 1915. |
+| 6 | 1964<br>2143<br>3954<br>2176 |  |  |  |  | ICruse, Mm. Fannie  | 122 Cunard St., Halifax, N.S  | ICanada.  | Halifax  | July 31, | 1915. |
+| 6 | 778<br>2152<br>1800<br>2185 | 414842 | Private.. | Cruse, Edward Joseph  | Nil  |
+| 7 | 659<br>297<br>3811<br>342 | 4l4204|Privnte . . |  | [Cullen, Jame* | 661 h Regt  | |Manile, Mrs | DU Hollis St., Halifax, N.S  | Canada  | Aldershot  | une | 1,1915. |
+| 7 | 659<br>327<br>3811<br>373 | 41451(i|IVivnlp |  | tCulIen, Patrick   | 60>t h Regt. .. | 'Mantle, Mrs... | 116 Hollis St., Halifax, N.S  | Canada  | \ldershot  | une | 2,1915. |
+| 7 | 660<br>355<br>3810<br>395 | 4S20M i I "rival e.  |  | ,Cummings, William    | Nil.    | ■( .'ummings, Albert | 51 Cornell St., M on^t'*n, N.B  | Canada  | ?ussex  | ?ept. 25.1A15. |
+| 7 | 659<br>387<br>3809<br>434 | 4150SI Srriy.'inl  |  | jCunninghnm. Herbert Lorraine.. | Nil  | Mitchell, M rs. I^r-v | Yarmouth, N.S. .     | Canada  | Yarmouth ... | \pril 12. H»15. |
+| 7 | 659<br>406<br>3810<br>455 | 41443f iPrivnte... |  | ICurnew. John Bunyan .   | Nil  | • k ■ | new, Edward | Bay Roberts. Nlid    | Newfoundland . | Sydney  | \ug. | 7,1915. |
+| 7 | 659<br>444<br>3812<br>491 | 41B78P|Privn1e  |  | < ’urry, Frederick  | Nil  | [Curry, Thomas J | O'Brien St., Windsor N d....   | Canada  | Aldershot  | Aug. | 10.1915. |
+| 7 | 659<br>476<br>3811<br>521 | 414060|l’riv!tie   |  | 'Curry, Ronald Daniel  | Nil  | Curry. John D. | EaMBaJ', McAdam > Lake, C.B., N.S  | Canada  | Sydney Mines.. | ilar. | 31,1915. |
+| 7 | 660<br>507<br>3811<br>544 | 41 531 I H’riviitc . |  | jt ’urlis, Jeremiah  | Nil  | Curtis, Mrs. Mn»-g«t* | GlH^e Buy, C.B.. N <   | Canada  | Sydney  | \ug. | 7,1915. |
+| 7 | 660<br>536<br>3812<br>575 | 415214 i 'orporal  |  | i( ushing, Homer Bertie  | Nil  | Cushing, Robbio B | Bridgewater, Lunenburg < o., N.S.  | Canada  | Bridgewater  | April 17, 1915. |
+| 7 | 659<br>567<br>3812<br>610 | 414563 l’riviite  |  | jt \ rs, Alexander  | Nil  | < Vrs, Mrs. Mary .. | ' . ! ’P. (rlnur»* t«T * > . N.B   | Canada  | Nev, Glasgow.. | May | 3,1915. |
+| 7 | 659<br>596<br>3813<br>632 | 415307 Privnt c  |  | i Pri I ton, Ronald Jam*»s  | Nil  | Dalton, Michael An«V»ny | '• *y Pier, C.B., N S  | Canada......... | Sydney  | \ug. | 13,1915. |
+| 7 | 660<br>624<br>3813<br>661 | 414241 PrivntC   |  | Dalton, Thomas Edward  | Nil  | Dalton, James E  | j^ntble Mountain, C.B . N.S  | Canada  | Aldershot  | lune | 9,1915. |
+| 7 | 659<br>656<br>3814<br>700 | 482002 Privnte  |  | jDamy, P. J..   | Nil  | Darcy, Mrs. B  | |0tljwa, Ont  | Canada  | Sussex  | Sept. 15.1915. |
+| 7 | 659<br>685<br>3814<br>719 | 414505 I’rivnte    |  | Darroeh, \\ illiam  | Nil  | Darroeh, Mrs. Hanna | . ’• ton Co., N.S    | Scotland  .New Glasgow. |  | Mar. | 31,1915. |
+| 7 | 660<br>715<br>3814<br>749 | 415400 Private  |  | 1 )auphince, John William    | 63rd Regt. .. | Dauphinee, Mrs. Marv.. | RMm Hi , Halifax, N ^   | Canada  | VuJrartier (Aug. | 18,1915. |
+| 7 | 659<br>744<br>3815<br>779 | 414305 Privnte .. |  | ’ ■ ’’nvidron, Henry W..  | . 78th Regt.... | Davidson, Mrs. L. A | \ Duncan St., Halifui. VS  | Canada   | Valcartier.   | Sept. | 27,1915. |
+| 7 | 659<br>774<br>3816<br>807 | 415675 Private  |  | 1 Javidson, James .  | . ;94th Regt... | Davidson, Mrs. Clara B. | 11 t. N.S   | Scotland   | Aldershot  | July | 14,1915. |
+| 7 | 659<br>800<br>3815<br>843 | 415747 Private   |  | 1 Davidson, Paul W   | .Nil  | Davidson, Boetnan O . . | pVolfrflK Kings Co., N.S  | Canada.   | Aldershot Uuly | 30,1915. |
+| 7 | 660<br>823<br>3816<br>866 | 411804 Private  |  | Davies, On-v i<i James  | .. I Nil  | Davies, Mrs. Ester. . | V* man! ord, Wales  |  | Halifax IJuly | Wales   | 30. 1915. |
+| 7 | 660<br>863<br>3816<br>895 | 415331 I’rivnte.... .. |  | Davis, Arthur Stanley  | . . Nil  | Davis, Mrs. A  | Te rrHml if ax, N. S   | Canada  | Aldershot  | Aug. | 10,1915. |
+| 7 | 660<br>893<br>3816<br>925 | 414425 Private  |  | Davis, Edward Frank  | .. Territorials.. | Davis, Harry.   | P'i. Ud., Fulham, London, Eng  | England  | Aldershot  | Aug. | 7,1915. |
+| 7 | 660<br>922<br>3816<br>956 | 41471!) Private  |  | Davis, Frank  | ..Nil  | Davis, Mrs. William... | . |{ ry, Mass, U.S.A ,.... | Canada  | Aldershot  | July | 14.1915. |
+| 7 | 661<br>951<br>3817<br>985 | 414418 Private  |  | Davis, Frank William  | .. C.F.A  | Davis, Mts. Iy^na  | 1 ’I-'1- \n .qt, Halifax, N.S  | Encland  | Halifax  | July | 31,1915. |
+| 7 | 661<br>981<br>3817<br>1015 | 414881 Private  |  | Davis, Harry A  | . . Nil  | Davis, James A  | V’prfnc fJ»ll, Curnlierland Co., N.S  | Canada  | Aldershot  | Aug. | 10,1915. |
+| 7 | 662<br>1009<br>3817<br>1043 | 415313 Private  |  | Davis, John Joseph  | .. Ofitli Regt... | McNeil, Amy  | •' Pi by St.. Halifax. N.S  | Cannda  . | Aldershot  | Aug. | 10,1915. |
+| 7 | 662<br>1039<br>3818<br>1074 | 414223|1 *rivate  |  | Davis, Robert Frederick  |  | Davis, Mrs. Fanny   | 1 fUl„ Ifnrbour Grace, Nfld  | Newfoundland.. I Halifax  |  | June | 5,1915. |
+| 7 | 660<br>1068<br>3819<br>1109 | *MS03|l*rivnte  |  | Dswson, William  | .. Territorials.. | Dawson, William H ... | HI ’farpiret St.. Nr. Barn«ley, Yorks., Eng   | Encland  | Halifax  | July | 31,1915. |
+| 7 | 661<br>1097<br>3818<br>1132 | 4 14801 'Private  |  | Day, Charles...   | ..Nil  | Day, Mrs. Margaret ... | if} Grafton Ht., Halifax. N S  | Canada  | Halifax   | July | 31,1915. |
+| 7 | 662<br>1120<br>3819<br>1166 | 41578* Private  |  | Day, l^inuel  | . .'Nil  | Day, Mrs. Thomas  | -JWiruN^r, ilwrtaCo . N.S  | Canada  | Aldershot  | Aug. | 10. 1915. |
+| 7 | 661<br>1152<br>3819<br>1189 | 415911 Private  |  | Day, Mack   | With Regt... | Day, Mrs. Kathleen  | :TV>p.>*g itfubour. Hnl if at Co., N> .   | Canada  | Halifax  | Aug. | 10, 1915. |
+| 7 | 661<br>1185<br>3820<br>1218 | 415505 ^ergennt  |  | De Champ. Frederick   | Nil  | De Champ, Miss Qucenie | > 8     | Canada  | Halifax  | May | 6, 1915. |
+| 7 | 662<br>1213<br>3819<br>1246 | 4143*^ I'nvate  |  | De Cost'\ Archie Nicholas  | Nil  | Do Coste, Mr5’. Jessie... | U \ n 11 ichc, \ nl \ in -!|< . N.S  | Canada  | Truro  | April 20, 1P15. |
+| 7 | 661<br>1244<br>3819<br>1277 | 415999 Private  |  | iDcvan, John Franeif  | Nil  | Devan, Mrs. Anne...... | Dartmouth, Co., N   | Canada  | Valcartier  | Aug. | 23. 1915. |
+| 7 | 662<br>1272<br>3820<br>1312 | 41482! Private  |  | | Dev can, William Joseph.  | Nil  | Deveau, Joseph J   . | 'du^amiJliiSU Halifax. N S.. ..    | Canada  | Aldershot  | Aug. | 7. 1915. |
+| 7 | 662<br>1301<br>3820<br>1336 | 41450# Sergeant  |  | ; Dewar, Gordon *  | Can. Mil  | Dewnr. Mrs. Gordon  |  | Canada  | Amlierst  | Mar. | 17. 1915. |
+| 7 | 662<br>1331<br>3821<br>1363 | 415C95 Private  |  | I Dp Wolfe?, John II  | Nil  | De Wolfe, Mrs. Margaret | ■ ' n ?g. K'-."’im Co., N.S..     | Canada  | Aldershot  | July | 21*. 1915. |
+| 7 | 663<br>1361<br>3822<br>1394 | 414<'l# l’rivate  |  | ! Ho Young, Gordon  | Nil  | De Young, James   | '• ii t!- I , Herring Core, Halifnx. N.S.   | Canada  | Aldershot  | Aug. | 8. 1915. |
+| 7 | 663<br>1390<br>3821<br>1422 | 414971* l’rivate  |  | Diamond, Herbert  | Nil  | Dirmmnd, Mrs. Mary  | f. itftmrr 'He, Nfid....   | Newfoundland. | Sydney  | Aug. | 13, 1915. |
+| 7 | 663<br>1419<br>3823<br>1450 | 4 Mm Private  |  | Dickson. Albert. John.  | Nil  | Doncett, Mrs. Thomas . | Wn^etrord. C.B., N.S.  | England  | Valcartier  | July | 13. 1915. |
+| 7 | 663<br>1447<br>3823<br>1481 | 115501 Private. .*  |  | Dillon, Daniel Henderson  | ..(Nil  | Dillon, Mrs. Fjdith  |   | Canada  | Digby  | May | 10.1915. |
+| 7 | 664<br>1476<br>3823<br>1510 | 414 -W Private  |  | Doherty, Dennis Joseph  | ..(Nil  | Doherty, Miss Annie . . | Dorvh1 ‘or. U.S. A    | Newfoundland. | New Glasgow. . | May | 1. 1915. |
+| 7 | 664<br>1504<br>3824<br>1539 | 4 M Sin i Private  |  | Dolimont, Hi chard    | .. ;94th Regt.... | Dolimont, Mary  | ^ North ! ( B., N.S   | Canada  | Aldershot  | Aug. | 7. 1915. |
+| 7 | 664<br>1531<br>3823<br>1570 | 4 MfjOTjPrivate  |  | ! Doncaster, Clarence Leslie  | ..Nil  | ..|Doncaster, Arthur  | - ^U, Amh'-m. Cjtnlyrrbin«l Co., N.S  | U.S.A  | Amherst  | M a.v | 10.1915. |
+| 7 | 664<br>1564<br>3824<br>1601 | 415S4t» Private  |  | Donohoe, John... | .. | N il  | .. |Donohoe, Mrs. Liddie... | . I:u , Yarm''*jth, N.S  | Canada  | Aldershot  | Aug. | 12. 1915. |
+| 7 | 665<br>1593<br>3824<br>1634 | 414389 (Private  |  |  | .. ,70 Regt  | ..jDonovan, Mrs. Mabel  | T -i, hr-«tot C«>., N.S    | Canada  | Truro  | April 20, 1915. |
+| 7 | 665<br>1621<br>3825<br>1661 | 4R2061 j Privato  |  | j Durey, Clnrcnce Wesley  | ..Nil  | .. jDorey, John  | •••', Lv-»" Co..N S  | Canada  . | | Sussex  | Sept | S, 1915. |
+| 7 | 665<br>1646<br>3825<br>1689 | 4 <W5o! Private  |  | iDorey, Spencer  | .. j Nil  | .. Dorey, Mrs. W'illiam.... | • * HftJtfa Co.. N.s    | Canada  | | Sussex  | Aug. | 18, 1915. |
+| 7 | 665<br>1680<br>3826<br>1713 | 4150% | Private  | Dormor, Horry  | .. (Territorials.. | ..iDormor, Mrs. Harry.... |  | England  | i.Vldershot  | July | 29,1915. |
+| 7 | 666<br>1704<br>3826<br>1745 | 415756 | Private  | 'Doubleday, Herbert  | ..Nil  | Doubledav, Percy  | St., rtnhfnx. N.S      | Canada  | ! Halifax  | July | 30, 1915. |
+| 7 | 667<br>1735<br>3826<br>1783 | 415502 | Private  | j Doucett e, Felix  | ..Nil  | Doucette, Thomas  | . Turt Yanno«th Co., N.H  | Canada   | Yarmouth  | April 12. 1915. |
+| 7 | 667<br>1765<br>3828<br>1804 | 414987 | Private  | Dow ard, John T  | ..Nil  | Dowanl, Mrs. Martha.. | T^r'. ginwn. IJMifla., . .      | England  | Sydney  | Aug. | 13, 1915. |
+| 7 | 667<br>1798<br>3828<br>1832 | •415400 | Private  | • Dowling, William Matthews.... | • •Nil  | Rearcha, Mrs. Edith F. |  | Canada  | Halifax  | Aug. | 11.1915. |
+| 7 | 667<br>1822<br>3828<br>1861 | 41.5301 | Private  | Downing, Percy G  | ..Nil  | Downing, J. J  | Kivfr u, !e. M‘»rt (.Jo., N.B   | Canada  | Sydney  | Aug. | 13, 1915. |
+| 7 | 668<br>1851<br>3827<br>1892 | 414445 | Private  | ! Doyle, Enoch  | ..Nil  | Doyle, Mrs. Kate  | ^t^O^ton, Prtou Co., N.S    | Canada  | New Glasgow. | Mar. | 31, 1915. |
+| 7 | 668<br>1878<br>3828<br>1924 | 4 J 4340 Private  |  | 'Doyle, Gregory Edward  | ..Nil  | Doyle, Mrs. Edward  | Avond^i*, NfM.-.  "i.   | Newfoundland. | I Kentville  | July | 20, 1915. |
+| 7 | 669<br>1909<br>3829<br>1958 | 414410 Private  |  | [Doyle, Herbert Albert  | .. {Nil  | Doyle, Lewis  | •\ ]*'>»rp•r*r (V urt, 1/^ktnM St.. Halifax, N .S .. | . Cnnada..   | [Halifax  | Aug. | 3, 1915. |
+| 7 | 668<br>1939<br>3829<br>1982 | 410327 Private  |  | Doyle, James  | ..Nil  | Doyle, Miles  | • -y. Coon, UJ A    | . Canada  | j Aldershot  | Aug. | 10, 1915. |
+| 7 | 673<br>1967<br>3830<br>2011 | 415300 Private  |  | . I Drew, Henry. | ..Nil  | .. iClarke, Mrs. Mary  | North C.B., N.H   | .(Canada.. . | Sydney  | Aug | 13, 1915. |
+| 7 | 674<br>1997<br>3830<br>2046 | 114780 Private  |  | Driver Edward.. | ..'Nil  | .. j Driver, Miss Susie  | \. I .... .    •   . . | . [England  | (Aldershot  | July | 29, 1915. |
+| 7 | 673<br>2024<br>3831<br>2071 | 114156 Private  |  | .IDufley, Arthur.. | .. 193rd Regt... | . . [DulYey, Mrs. Owen  | .!rarrtbrr,o%, CuniWwd C o . N S  .. . . | . ICannda  | Halifax  | May | 4, 1915. |
+| 8 | 937<br>596<br>3423<br>628 |  |  |  | Former Corps. |  |  | Country of |
+| 8 | 751<br>741<br>3917<br>773 | 414302 | Pri vale... | Duggan, William Patrick  | Nil  | Duggan, Samuel  | 36 l/owor Water St., Halifax, N.S  | Canada  | Aldershot... | Aug. | 1915. |
+| 8 | 751<br>771<br>3918<br>802 | 414948 | Private... | Dunham, Charles  | Nil  | Dunham, Mrs. Mary.. | •' I Bay, C.B., N.S  | Cannda  | Sydney  | Aug. | 1915. |
+| 8 | 752<br>800<br>3918<br>831 | 41528* | Private... | Dunlop, George Fred  | Nil  | Strang, Mrs. Morley. | Metcalfe St., St. John, N.B  | Canada  | Sydney  | Aug. | 1915. |
+| 8 | 752<br>829<br>3918<br>859 | 415991 | Private... | Dunlop, William Campbell... | 63rd Regt., | McCaugliin, Mrs. E. A | 27 Vernon St., Halifnx, N.S  | Ireland  | Valcartier... | Aug. | 1915. |
+| 8 | 752<br>859<br>3918<br>890 | 482058 | Private... | Dunn, Fenwick ii  | Nil  | Dunn, Fenwick L  | Yarmouth, N.S  | Canada  | Sussex  | Aug. | 1915. |
+| 8 | 753<br>888<br>3917<br>918 | 415887 | Privato... | Dunsworth, Roy Victor  | 63rd Regt-.. | Dunsworth, Mrs. Nelli | Prince St., Dartmouth, Halifax Co., N.S | Canada  | Halifax  | Aug. | 1915. |
+| 8 | 752<br>918<br>3918<br>948 | 414094 | Privates | During, John Joseph  | 03rd Regt.. | During, D. V.     | 38 ( n.r|p*on St., Halifax. N.S  | Canada  | Valcartier... | Aug. | 1915. |
+| 8 | 753<br>947<br>3918<br>977 | 415840 | Private... | Durkee, Boumnn  | Nil  | Durkee, Minnie  | Beaver River, Digby Co., N.S  | Canada  | Aldershot... | Aug. | 1915. |
+| 8 | 754<br>969<br>3918<br>1006 | 416647 | Private... | Durkee, James Hnrvey  | C.F.A.?..., | Durkee, Jefferson  | Yarmouth, N.S  | Canada  | Yarmouth... | April | 1915. |
+| 8 | 753<br>1005<br>3918<br>1035 | 416855 | Private. .•. | Durkee, Lester P  | Nil | Durkee, Asa P  | 447 Prospect St., Mass Town, N.S  | Canada  | Aldershot. .. | Aug. | 1915. |
+| 8 | 754<br>1035<br>3918<br>1064 | 415763 | Private... | Ead, Edward Joseph  | R.C.R  | Ead, Mrs. Sophia .... | 16 Grafton St., Halifax, N.S  | Canada  | Aldershot... | Aug. | 1915. |
+| 8 | 753<br>1064<br>3917<br>1093 | 414462 | Private... | Eades, Alfred   | Imp. Forces | Eades, Mrs. Rose  | 25 Bauer St., Halifax, N.S  | England  | Aldershot. .. | Aug. | 1915. |
+| 8 | 754<br>1092<br>3918<br>1122 | 415390 | Private... | nton, Roy Hnwkesworth... | Nil  | Eaton, Mrs. Clara B.. | Grand Pre, Kings Co., N.S  | Canada  | Halifax  | Aug. | 1915. |
+| 8 | 755<br>1120<br>3918<br>1152 | 414806 | Private... | Edward, George  | Nil  | Medler, Mrs. F.    | 20 St. James St., Quebec, P.Q  | Cannda  | Aldershot. . . | Aug. | 1915. |
+| 8 | 756<br>1151<br>3918<br>1180 | 414305 | Private... | Edwards, John Joseph  | Nil  | Edwards, Alexander.. | Joggin Mines, Cumberland Co., N.S  | Canada  | Amherst  | April | 1915. |
+| 8 | 755<br>1180<br>3918<br>1209 | 414403 | Private... | Eld, Fred Samuel.   | Nil  | Eld, Frederick  | 141 Lockman St., Halifax. N.S  | England  | Aldershot... | Aue. | 1915. |
+| 8 | 756<br>1209<br>3918<br>1238 | 482059 | Private... | Eldershaw, James Hector.... | Nil  | Eldershaw, Thomas.. | Clam Harbour, Halifax Co., N.S  | Canada  | Sussex  | Sept. | 1915. |
+| 8 | 756<br>1238<br>3919<br>1268 | 415772 | Private... | Eld ridge, Victor Eugene  | Nil  | Eld ridge, Jacob T  | Yarmouth, N.S  | Canada  | Aldershot. .. | Aug. | 1915. |
+| 8 | 756<br>1267<br>3918<br>1296 | 415817 | Private... | Elliott, Le Lacheur  | Nil  | Elliott, Odin  | Advocate Harbour, Cumberland Co., N. | Canada  | Aldershot... | Aug. | 1915. |
+| 8 | 755<br>1296<br>3919<br>1327 | 482042 | Private... | Ellis, E. Ethel  | Nil  | Ellis, Charles  | Norwood, Yarmouth Co., N.S  | Canada  | Sussex  | Aug. | 1915. |
+| 8 | 756<br>1325<br>3919<br>1356 | 415771 | Private... | Ellis, George M  | Nil  | Ellis, Mrs. Eliza J.... | Port Maitland, Yarmouth Co., N.S  | Canada  | Aldershot... | Aug. | 1915. |
+| 8 | 756<br>1354<br>3919<br>1384 | 414351 | Private... | Ellis, Winfield Lawrence  | Nil  | Ellis, Mrs. Julia  | 35 Manberry St., Bangor, Me., U.S.A... | Canada  | Aldershot. .. | July | 1915. |
+| 8 | 756<br>1384<br>3919<br>1412 | 48200G | Private... | Ellison, Arthur H  | Nil  | Mclnnis, Rod  | West Bay Rd., C.B., N.S  | England  | Sussex  | Aug. | 1915. |
+| 8 | 757<br>1412<br>3919<br>1444 | 415689 | Private... | Eloquin, John  | Nil  | Eloquin, Dan  | Magdalen Island, C.B., N.S  | Cnnada  | Aldershot  | July | 1915. |
+| 8 | 758<br>1440<br>3918<br>1473 | 414791 | Private... | Els worth, Hugh  | Nil  | Elsworth, James  | Spring Hill Mines, Cumberland Co., N.S | Canada  | Aldershot.. . | July | 1915. |
+| 8 | 757<br>1468<br>3918<br>1503 | 414104 | Sergeant.. | Embrce, David Thornton.... | C.O.T.C.... | Embree, E. C  | Port Hawkesbury, C.B., N.S  | Canada  | Halifax  | Mar. | 1915. |
+| 8 | 756<br>1498<br>3918<br>1530 | 415907 | Private... | English, Edward J  | Nil  | English, Mrs. Bridget. | 26 Bnrrington St., Halifax. N.S  | Canada  | Valcartier... | Aug. | 1915. |
+| 8 | 758<br>1527<br>3918<br>1559 | 414800 | ]>rivate... | Enion, Ernest  | Nil  | McDonald, Mrs. Mary | Florence No. 3, C.B., N.S  | England  | Aldershot  | July | 1915. |
+| 8 | 757<br>1555<br>3918<br>1588 | 414357 | Private... | Esau, David    | Can. Mil.... | Esau, Mrs. Nellie  | Londonderry, Colchester Co., N.S  | Canada  | Amherst  | May | 1915. |
+| 8 | 757<br>1584<br>3919<br>1616 | 415250 | Private... | Essis, Peter  | Nil  | Essis, Amastasia  | Minsk, Russia   | Russia  | Aldershot. .. | Aug. | 1915. |
+| 8 | 758<br>1612<br>3919<br>1646 | 414915 | Private... | Evans, Joseph  | Nil  | Evans, Elizabeth  | lorence Cmk, Sunderland, Eng  | England  | Aldershot. . . | Aug. | 1915. |
+| 8 | 757<br>1641<br>3919<br>1675 | 482003 | Private... | Extell, George  | Nil  | Not Stated....   | Not Stated  | Canada  | Sussex  | Srpt. | 1915. |
+| 8 | 758<br>1666<br>3919<br>1717 | 414781 | j Pri vate... | Eye, Ralph  | 68th Regt.. | Eye. Mrs. Susie  | Chapel St., Spring Hill, Cumberland Co | Canada  | Aldershot. .. | [July | 1915. |
+| 8 | 757<br>1698<br>3919<br>1737 | 41543? | j Private... | Falconcr, James Arthur  | Can. Mil.... | . Falconer, Mrs. Alice. | 68 Leonard St., Sydney, C.B., N.S  | Canada  | Valcartier. .. | Aug. | 1915. |
+| 8 | 756<br>1724<br>3920<br>1764 | 415418 | Private... | Farewell, Thomas William... | Nil......... | .'Farewell, Susina... . | 43 Livingstone St., Halifax, N.S   | Newfoundland.. | Halifax  | ! Aug. | 1915. |
+| 8 | 758<br>1752<br>3919<br>1792 | 415295 | Private... | Fawcett, Walter  | Territorials. | .'Fawcett., Mrs. Anni** | New Aberdeen, C.B.. N.S  | England  | Sydney   | I Aug. | 1915. |
+| 8 | 757<br>1783<br>3920<br>1824 | 415490 | Corporal. | Fear, James   | Nil... | . Samuel.... | .. |Caerphilly, South Wales   | Wales  | Spring Hill.. | ! April | 1915. |
+| 8 | 758<br>1813<br>3919<br>1850 | 415902 | Private... | Feltmatc, William  ... | Nil... | .:Feltmate, Mrs. Harriett | .. Whitehead, Guvsboro Co., N.S  | Canada  | Aldershot. . . | Aug. | 1915. |
+| 8 | 757<br>1843<br>3920<br>1879 | 415292 | Private... | Ferguson, Alexander James.,. | Nil... | . Ferguson, Malcolm... | .. vdnpy. C.B., N.S  | Canada  | Sydney  | Aug. | 1915. |
+| 8 | 758<br>1869<br>3919<br>1910 | 414978 | Private... | Ferguson, Angus K  | Nil... | .{Ferguson, Mrs. Katherin*' | ..iGlare Bay, C.B., N.S   | Canada  | Sydney  | Aug. | 1915. |
+| 8 | 758<br>1900<br>3920<br>1942 | 482087 | Private... | Ferguson, Charles F  | Nil... | .(Ferguson, Frederick | it. John, N.B  | Canada  | Sussex  | Sept. | 1915. |
+| 8 | 757<br>1929<br>3920<br>1969 | 414506 | Sergcnnt. | Ferguson, Frederick B  | Nil... | . iFerguson, Miss E. B. | 75 La Planche St., Amherst, Cumberland | Canada  | Amherst. . .. | May | 1915. |
+| 8 | 758<br>1959<br>3920<br>1996 | 414855 | Private. | Ferguson, John Alexander.... | Nil... | . (Ferguson, John.... | Sydney, C.B., N.S  | Canada  | Sydney  | Aug. | 1915. |
+| 8 | 758<br>1986<br>3920<br>2026 | 415191 | Private... | Ferguson, Robert   | Nil... | . Ferguson, Hector | (Uaoe Bay, C.B.. N.S    | Cannda  | Aldershot. . . | | July | 1915. |
+| 8 | 758<br>2016<br>3920<br>2055 | 415868 | Private.., | Ferguson, Rodney W   | Nil... | .1 Ferguson. Mrs. Thom | Sydney Mines, C.B., N.S  | Cannda  | Sydney  | i Aug. | 1915. |
+| 8 | 757<br>2044<br>3921<br>2085 | 414938 | Private... | Fiander, John Kenneth .. | (Nil... | .!Fiander, Mrs. Helen | Catherenne St., North Sydney, C.B., N | Newfoundland. | Aldershot... | Aug. | 1915. |
+| 8 | 1932<br>2065<br>3921<br>2106 |  |  |  |  | .: Fielding, Mrs. Barbara | 26 Hanover St., Halifax, N.S  | Canada — | Halifax  | Ijuly | 1915. |
+| 8 | 758<br>2082<br>1706<br>2113 | 414305 | Private... | Fielding. Frederick Nathanie | Nil... |
+| 8 | 1932<br>2101<br>3921<br>2133 |  |  |  |  | .’Fisher, John W. .. | 450 Gottingen St., Halifax, N.S   | Canada— | Aldershot . . | I Aug. | 1915. |
+| 8 | 758<br>2114<br>1492<br>2142 | 414371 | Private... | Fisher, Robert John   |
+| 8 | 757<br>2129<br>3922<br>2175 | 415258, | Private... | Fleisig, Samuel  .... | (Territorials | i Fleisig, Esther  | 1279 St. Urbain St.. Montreal, P.Q  | England.. | I Aldershot. . . | • Aug. | 1915. |
+| 9 | 656<br>310<br>3083<br>342 | 415S78 | Private.. | Fleming, Frank Joseph... | Nil  | Fleming, Mrs. John. | St. Vincent, St. Mary's Bay, Nfld  |
+| 9 | 657<br>341<br>3085<br>373 | 41417^ | Private.. | Finning, Herbert Stanley | 63rd Regt | Fleming, Lieut. Joseph.. | 4fMH Battalion C.E.F  |
+| 9 | 657<br>369<br>3085<br>403 | ■1153:!.'! | Private.. | Fiinn, Joseph Arthur  | Nil  | Flinn, Mrs. Mary  | 72 Qninpool Rd„ Halifax, N.S  |
+| 9 | 656<br>393<br>3595<br>431 | 4 )4DIH> | Private.. | Flynn, Michael Patrick.. | 03 rd Regt | Flynn, Patrick. | Spring Hill Mine?, Cumberland Co., N.S  | Newfoundland.. | Valcartier  |
+| 9 | 656<br>427<br>3085<br>459 | 415978 | Private.. | Flynn, Robert  | Nil  | Flynn, William E  | c/o W. Wilson, Glace Bay, C.B., N.S  |
+| 9 | 656<br>455<br>3085<br>489 | 415275 | Private.. | Foley, John C  | Nil  | 7 Cameron, Mrs. Isabelle. | Lansdowne, Digby Co., N.S...;  |
+| 9 | 655<br>483<br>3596<br>518 | 414957 | Private.. | Finite, William   | Nil  | .Foote, Mrs. Elizabeth | Now Aberdeen, C.B., N.S  | Newfoundland . | Sydney  |
+| 9 | 656<br>512<br>3596<br>556 | 415007 | Sergeant. | Forbes, James E. M ... | Nil  | j Forbes, William  | North Sydney, C.B., N.S  | Cannda  | Sydney   |
+| 9 | 656<br>543<br>3087<br>576 | 4J5061 | Private.. | Fortune, Daniel McGregor | Nil  | .'Fortune, Mr*. Mary Jane | New Wntetford, C.B., N.S  |
+| 9 | 655<br>570<br>3582<br>604 | 415200 | Private.. | Foster, Stanton Hay  | Nil  | Foster, William  | White Rock, Kings Co., N.S  | Cnnada  | Aldershot  |
+| 9 | 655<br>603<br>3085<br>633 | 414071 | Private.. | Foster, Thomas  | Territorials | Foster, Mrs. Thomas... | Newton Cnlcndnr, Fife, Scot  |
+| 9 | 655<br>628<br>3597<br>662 | 482005 | Private.. | Fougere, Peter  | Nil  | Fougere, Simon..  | Larry’B River, Guysboro Co., N.S  | Canada  | Sussex  |
+| 9 | 655<br>659<br>3813<br>691 | 482000 | Private.. | Fougere, William A  | Nil  | Fougere, James  | Harbour Au Boche, Antigonishe Co., N.S  | Canada  | Sussex  | 5. |
+| 9 | 654<br>688<br>3597<br>720 | 415007 | Private.. | Fox, nrnilford Rrenton... | C.F.A  | Fox, Mrs. Annie  | Yarmouth, N.S  | Canada  | Aldershot  |
+| 9 | 654<br>717<br>3598<br>751 | 415567 | Private.. | Fox, Charles  | Nil  | ’ox. Hemy  | Shrewsbury, Salop, Eng  | England  | Kentville  |
+| 9 | 655<br>745<br>3814<br>779 | 414244 | Private.. | Fox, John David  | Nil  | Fox, David    | Valley Station, Colchester Co., N.S  | Canada  | Aldershot  | 115. |
+| 9 | 654<br>774<br>3805<br>808 | 415833 | Private.., | Fox, l.vle  | Nil  | Fox, Cassia  | Bridgewater, Lunenburg Co., N.S  |  |  | 5 |
+| 9 | 654<br>806<br>3087<br>839 | 41503 | Private... | Fox, Thomas, Quigley... | Nil  | Fox, Mrs. Eliz  | Broughton, C.B., N.S  |
+| 9 | 654<br>836<br>3602<br>867 | 415458 | Private... | Fraser, Charles Edward. | 78 th Regt | Fraser, Mrs. Margaret.. | Eureka, Pictou Co., N.S  |  | New Glasgow... |
+| 9 | 653<br>865<br>3807<br>897 | 415108 | Private.., | Fraser, John  | Nil  | Fraser, Mrs. Alice  | New Waterford, C.B., N.S  |  |  | 5 |
+| 9 | 652<br>896<br>3088<br>926 | 414322 | Private... | Fraser, Thomas  | Nil  | Fraser, John A r.. | Denmark, Colchester Co.. N.S  |
+| 9 | 652<br>925<br>3600<br>955 | 414423 | Private... | Fraser. Wal ter Joseph.... | Nil  | Fraser, Mrs. Frances— | 1 Phillips St., Halifax, N.S  |  | Halifax  |
+| 9 | 652<br>954<br>3585<br>984 | 414950 | Private... | Frizzell, Matthew, T  | Nil  | Pratt, Mrs. Ellen  | Bible Hill, Truro, Colchester Co., N.S  | Canada  | Aldershot  |
+| 9 | 653<br>984<br>3356<br>1013 | 414680 | Private... | Fry. Harold  | Nil  | Fry, Mrs. Fanny  | P.O. Box 500. Glace Bay, C.B., N.S  | England  |
+| 9 | 653<br>1012<br>3090<br>1042 | 415300 | Private... | Gallacher, David  | Nil  | Gsllacher, Mrs. Jean.... | Florence, C.B., N.S  |
+| 9 | 653<br>1041<br>3601<br>1070 | 415291 | Privato... | Gallant, Edward.  | Nil  | Gallant, John  | Gardiner Mines, C.B., N.S  | Canada  | Sydney  |
+| 9 | 652<br>1070<br>3586<br>1100 | 415435 | Private... | Gallant, Eugene C  | Nil  | Gallant, Calix  | Rogersville, Northumberland Co., N.B  | Canada  | Amherst  |
+| 9 | 653<br>1092<br>3090<br>1129 | 4R2004 | Private... | Gardiner, F. L. R  | Nil  | Gardiner, H. P  | St. John, N.B  |
+| 9 | 652<br>1127<br>3062<br>1156 | 415359 | Private.., | Gardiner, Luke  | Nil | Gardiner, Mrs. Catherin | Dominion, C.B., N.S .   |
+| 9 | 652<br>1155<br>3091<br>1186 | 415357 | Privato... | Gardiner, Michael F  | Nil | Gardiner, Mrs. Annie... | Reserve Mines, C.B., N.S  |
+| 9 | 652<br>1184<br>3573<br>1216 | 415358 | Privato... | Gardiner, Randall  | Nil  | Gardiner, Miss Sara Kat | Gardiner Mines, C.B., N.S  | Canada  | Sydney  |
+| 9 | 653<br>1213<br>3573<br>1246 | 415299 | Private... | Gardiner, William  | Nil  | Gardiner, Mrs. William. | Sydney Mines, C.B., N.S  | Canada  | Sydney  |
+| 9 | 653<br>1240<br>3820<br>1276 | 414750 | Private.., | Garrett, William Patrick | Nil  | . . (Garrett, Mrs. Sarah  | 150 North St., Halifax, N.S  | Canada  | Aldershot  | 5. |
+| 9 | 653<br>1271<br>3588<br>1304 | 415739 | Private... | Gates, Ellis Greely  | Nil  | . Gates, William  | Blandford. Lunenburg Co., N.S  | Canada  | Aldershot... . |
+| 9 | 653<br>1300<br>3820<br>1334 | 414262 | Private... | Gay, William  | Nil  | Gay. Margaret  | Spring Hill, Cumberland Go., N.S  | Canada  | Amherst  | 5. |
+| 9 | 653<br>1330<br>3574<br>1362 | 414031 | Private.., | Gibb, Charles  | Imp. Force* | Gibb, Charles. .   | Police Barracks. East Queen St., Glasgow, Scot  | Scotland  | Halifax  |
+| 9 | 653<br>1358<br>3820<br>1392 | 414186 | Private... | Gibson, Earl C   | 09th Regt | Gibson, Mrs. Hattie ... | MargaretsviUe, Annapolis. N.S  | Canada  | Valcartier  | 5. |
+| 9 | 652<br>1387<br>3604<br>1422 | 414324 | Private... | Gi ton; Hugh   | Territorials | Gibson, Mrs. Mary  | Linwood, Dalmellington Rd., Ayr, Scot  | Scotland  | Halifax  |
+| 9 | 652<br>1417<br>3603<br>1449 | 415394 | Private.., | Gilbert Robert  | Nil  | Gilbert, Mrs. A   | 27 Maitland St., Halifax, N.S  | Canada  | Halifax  |
+| 9 | 653<br>1446<br>3604<br>1479 | 415301 | Private... | Gilday, Michael  | Nil  | Giiday. Mrs. Martin.... | Caledonia Mines, C.B., N.S  | Canada  | Sydney  |
+| 9 | 654<br>1471<br>3604<br>1507 | 415570 | Private... | Giles, Thomna  | C.F.A... | Giles, Matthew  | Yormouth, N.S  | Canada  | Yarmouth  |
+| 9 | 654<br>1498<br>3823<br>1538 | 414723 | Private... | Gilhooly, William  | Nil  | Gilhooly, Mrs. Bridget. | Cranberry, Sydney Mines. C.B., N.S  | Scotland  | Aldershot  | 5. |
+| 9 | 654<br>1527<br>3823<br>1566 | 415039 | Private.., | Gillies, Daniel  | Nil  | Gillies, Mrs  | Richmond Co., N.S  | Canada  | Glace Hay  | 115. |
+| 9 | 654<br>1562<br>3602<br>1596 | 415572 | Private.., | Gillii's, Joseph *. | Nil  | Gillies, Mrs. Lizzie  | Asbinore, Digby Co., N.S  | Canada  | Digby  |
+| 9 | 654<br>1592<br>3092<br>1625 | 415310 | Private.., | Gillis, i ’larence  | Nil  | Gillis, John H  | Glneo Bay, C.B., N.S  |
+| 9 | 654<br>1620<br>3606<br>1658 | 415158 | Sergeant. | Gillis, Martin J  | R.C.R.. | Gillis, D. J  | Sydney Forks. C.B., N.S  | Canada  | Sydney  |
+| 9 | 654<br>1650<br>3745<br>1683 | 415040 | Private.., | Gillis, Stephen S  | Nil  | Gillis, Mrs. Stephen  | Shenaeadie, C.B., N.S  | Canada  | Sydney Mines | , |
+| 9 | 654<br>1679<br>3363<br>1712 | 414443 | Private . | Golden, William James.. | Nil | Golden, Archibald  | Whitewny, Trinity Bay, Nfld  | Newfoundland.. |
+| 9 | 654<br>1701<br>2187<br>1734 | 415296 | Private.. | Goldie, Arthur  | Nil  | Goldie, John  |
+| 9 | 2345<br>1713<br>3606<br>1742 |  |  |  |  |  | Sydney, C.B., N.S  | Canada  | Sydney  |
+| 9 | 656<br>1730<br>3747<br>1770 | 414511 | Sergeant. | Goldrich, Oscar  | Can. Mil. | Goldrich, James E  | Spring Hill, Cumberland Co., N.S   | Canada  | Amherst  | 7, |
+| 9 | 656<br>1765<br>3816<br>1799 | 415520 | Sergeant. | Golightly, Edwin  | Nil  | Golightly, Robert  | Bridgewater, Lunenburg Co., N.S  | England  | Bridgewater.... | 5 |
+| 9 | 656<br>1794<br>3608<br>1827 | 414306 | Private.. | Goodmin, Charles  | Nil  | Not Stated  | Not Stated     | England  | Valcartier  |
+| 9 | 656<br>1824<br>3818<br>1860 | 415740 | Private.. | Goodwin, Henry Richard | Nil  | .(Goodwin, Mrs. Margaret | Argyte Sound, Yarmouth Co., N.S  | Canada  | Aldershot   | , | » |
+| 9 | 656<br>1856<br>3818<br>1953 | 415G56 | Private.. | Goodwin, Raymond Haro | Nil  | 1 Goodwin, Millage  | Lower Wood Harbour, Shelburno Co., N.S  | Canada  | Yarmouth  | . | 5 |
+| 9 | 656<br>1880<br>3818<br>1917 | 415742 | Private.. | Goodwin, Thelston  | Nil  | Goodwin, James  | Argyle Sound, Yarmouth, N.S  | Canaria  | Aldershot  | , | 5 |
+| 9 | 656<br>1909<br>3750<br>1947 | 414988 | Private.. | Goose, Absoleme  | Nil  | Goose, John  | B lake town, Nfld  | Newfoundland | Sydney  | 3, |
+| 9 | 656<br>1944<br>3819<br>1981 | 414460 | Private.. | Gordon, William  | Nil  | . jGordon, Mrs. Mary  | 9 Morris St., Halifax, N.S,  | Canada  | Aldershot  | 0, | 5 |
+| 9 | 656<br>1970<br>3819<br>2004 | 415461 | Private.. | Gorman, William Edward | 63rd Reg | ..iGonnan, Mrs. Annie. ... | 4 Lockman Terr., Halifax, N.S  | Canada  | Valcartier  | 8, | 5 |
+| 9 | 657<br>1997<br>3820<br>2039 | 414373 | Corporal. | Gould, Harry  | Nil.... | .. jGrove, Mrs  | 2380 Marys Rd., Munsey, Middlesex, Eng  | England  | Aldershot  | 5 |
+| 9 | 656<br>2029<br>3820<br>2063 | 414233 | Private.. | Gould, Harry Philip.., | Nil.... | .. iGould, William | Steam Mill Village, Kings Co., N.S    |  | Aldershot .*... | i. | 5 |
+| 10 | 964<br>573<br>3445<br>609 |  |  |  | Former Corps. |  |  | Country of |
+| 10 | 778<br>720<br>3946<br>754 | 4H2074 | Private  |  | Nil |  |  |  |  | 24, 1915. |
+| 10 | 778<br>750<br>3946<br>787 | 415760 | Private   | Grncio, Henry C  | Mlh Regt  |  | Glace Bay, CD., N.S  |  |  | lulv | 29, 1915. |
+| 10 | 777<br>779<br>3946<br>813 | 415740 | Private  |  | »4th Regt   |  |  |  | Aldershot... . | luly | 29, 1915. |
+| 10 | 778<br>808<br>3947<br>844 | 415852 | Corporal  |  |  |  |  |  |  | Aug. | 9. 1915. |
+| 10 | 777<br>838<br>3947<br>871 |  | Private  | 414877 | Nil  | Grant, Annie   | I'.O. Hox 729, 1 ruro, Colchester Co., N.S  | ( anada  |  | Aug. | 10. 1915. |
+| 10 | 776<br>867<br>3947<br>903 | 416308 | Private  | Grant, Richard *  | Nil  | Grant, William  |  | Newfoundland.. | Sydney  | Auk. | 13, 1915. |
+| 10 | 776<br>896<br>3947<br>932 | 414910 | Private  | Gray, Hubert Joseph  | Nil  | Gray, Mrs. Ililda    | 7 North Bland St.. Halifax. N.S  | Canada  | Halifax  | luly | 30, 1915. |
+| 10 | 776<br>925<br>3948<br>957 | 41.*>102 | Private  |  | Nil  | Gray, Mrs. Sarah  | Parliament How, Herts. Co., Knjs  | England  | Valcartier  | luly | 13, 1915. |
+| 10 | 774<br>958<br>2448<br>988 | 414238 | Private  | Greene, Clifford Varlcy  | Nil..*  | Greene, Mrs. Burpee   |
+| 10 | 774<br>982<br>3947<br>1017 | 414230 | Private  | Greene, llcnry Arnold  ... | Nil  | Greene, Mrs. Burpee   |  |  |  | If., 1915. | NewTusket, Digby Co., N.S  | Aldershot  | lune |
+| 10 | 774<br>1012<br>3947<br>1045 |  |  |  |  |  | Spring Hill, Cumberland Co., N.S  | 410070 | Private  | GrifFic", Michael   | Nil  | GrifTies, George  | Canada  | Halifax  | 1 >cr. | 2. 1914. |
+| 10 | 773<br>1041<br>3948<br>1073 | 482013 | Private  | GrifTin. John  | Nil  | Griffin, John  | 100 Erin St., St. John, N.B  | Canaria  | Sussex  | Sept. | S, 1915. |
+| 10 | 773<br>1069<br>3947<br>1102 | 482038 | Private  | Grimmer, .James  | R.G.R  | Grimmer, H—  | New Glasgow, Pictou Co., N.S  | Canada  | Sussex  | 2, 1915. |
+| 10 | 772<br>1097<br>3948<br>1131 | 414000 | Private  |  | 00! h Rest  |  |  |  |  | Mar. | 24, 1918. |
+| 10 | 771<br>1127<br>3939<br>1160 | 415427 | Private  |  |  |  |  |  |  | M;ir. | 13. 1915 | Broughton, C.B., N.S  | Glace Bay   |
+| 10 | 772<br>1156<br>3949<br>1200 | 414-151 | Private  |  |  |  | 140 Forfar St., Montreal, P.Q  | Guard man, Jo«eph  | Nil  | Auk. | 7, 1915. |
+| 10 | 771<br>1186<br>3950<br>1218 | 414 or,r, | Private  |  |  |  | Bible Hill, Truro, Colchester Co., N.S  | Guild, George 1* — i;  | Nil  | Auk. | Guild, Mrs. Alice    | U.S. A  | Aldershot.... | 12, 1915. |
+| 10 | 770<br>1215<br>3949<br>1248 | 414782 Privalc  |  | Guilin*, Elmore   | 04 th Regt  | Guilin*. Allen    | Beverly, Mass., U.S.A  | Cnnada  | Aldershot . . | •luiy | 29, 1915. |
+| 10 | 769<br>1245<br>3949<br>1280 | 414848!PrivatP  |  | Guy, William L  | Nil  | Guv, Mrs. M  | Sydney Mines, C.B., N.S  | Cnnada  | Sydney  | A UR. | 9, 1915. |
+| 10 | 769<br>1274<br>3949<br>1310 | 414577 | Private  | riacqunil, Samuel J  | Nil  | Ilaequoil, Mrs. Frann'   | Spring nill, Cumberland Co., N.S  | Canada  | Amherst  | M ay | 7. 1915. |
+| 10 | 768<br>1304<br>3950<br>1336 | 414783 | Private  | Hall. Arthur  | Nil  | Hall. Mrs. Mary L..   | Elgin St., Spring Hill, Cumberland Co., N.S  | Canada  | Aldershot | July | 29, 1915. |
+| 10 | 768<br>1334<br>3950<br>1364 | 414000 | Private.   | Hall. Irvinr D    | Nil  | Hall, Stanley R    | 1 -awrencetown, Annapolis Co., N.B  | Canaria  | Aldershot | luly | 14. 1915. |
+| 10 | 767<br>1360<br>3950<br>1393 |  |  |  |  |  | Voitk Yarmouth Co., N.S  | 415854 | Private  | Hamilton. Arthur Roas  | Nil  | Hamilton, Bertha .   | Canada   | Aldershot | Aub. | 12, 1915. |
+| 10 | 767<br>1392<br>3951<br>1423 | 414007 | Private  | Hanrahan, Henry  | Nil  |  | :'l Duncan St., Halifax, N.S  |  |  | Mar. | 26. 1915. |
+| 10 | 767<br>1420<br>3951<br>1453 |  |  |  |  |  | *1 ^ Buckingham St., Halifax, N.S  | 415410 | Hanson. Harry    | Auk- | IS. 1915. |
+| 10 | 767<br>1449<br>3951<br>1482 |  |  |  |  |  | Dartmouth, Halifax Co., N.S  | 4I5W* | Private  | Hare, John  | Nil  | Hare, Mrs. Sarah     | Canada  | Valcartier. | Aua. | 23. 1915. |
+| 10 | 766<br>1477<br>3951<br>1512 | 415370 | Private 1 | Harper, .tame*....   | Imp. Forces  | Harper, Mrs. Lilly   | Now Waterford, C.B., N.S  | Scotland  | Sydney  | Auk. | 9. 1915. |
+| 10 | 766<br>1506<br>3951<br>1538 |  |  | Harris, Borden I)  | 415774 | Private  | Nil  | Harris, Mrs. Fannie   | SI tort Bofieh, Yarmouth Co., N.S  | Canada  | Aldershot.. | Auk- | 7, 1915. |
+| 10 | 766<br>1534<br>3951<br>1567 | 414580 | Private  | Harri'*, Charles William  | 78th Regt  | Harris, Mrs. Florence  | ■outh River, Antigonishe Co., N.S   | Canada  | New Glasgow | M KV | 1, 1915. |
+| 10 | 766<br>1564<br>3951<br>1602 | 414977 | Private  | Harri*. Selby   | Nil  | Harris, Elzer  | t rinity Bay. Nlid  | Newfoundland.. | Svdney  | Auk- | 13. 1915. |
+| 10 | 766<br>1593<br>3951<br>1625 | 414011 | Private  | Hnrrieon, Harry   | Nil  | Harrison, Mrs. T  | Brunswick St., Truro, Colchester Co., N.S  | Canada  | Aldershot  | Auk- | 12, 1915. |
+| 10 | 766<br>1621<br>3952<br>1655 |  |  |  |  | Hart, Thomas ...   | 4 i 5300 | Private  | Her*. Jarnev | Nil  | Olnco Bay, C.B., N.S  | Canada  | Sydney  | Auk. | 13.1915. |
+| 10 | 765<br>1652<br>3952<br>1686 | 415489 |  | Hartiin. Jo«iah  | Nil  | Ifartlin, Georg-   | Halifax, N.S.     | Canada  | Aldershot  | Auk. | 14. 1915. |
+| 10 | 764<br>1681<br>3952<br>1715 | 415773 |  |  | Nil  | Harvev, Robert A.   | Milden, Colchester Co., N.S  | Cnnada   | Aldershot . . | Auk- | 7. 1915. |
+| 10 | 764<br>1711<br>3953<br>1745 | 415371 | Privato ' Hntfie'M. Arthur  |  | Nil  | Hat field, Arthur   | Dominion No. 0. C.B., N.S  | England.   | Sydney  | Aub. | 13, 1915. |
+| 10 | 764<br>1741<br>3952<br>1773 | 415515 |  | 1 rn’ t.« id. .1 '-rv» Adolphus  | Nil  | Hatfield. Mr1?. Annie   | t'usket, Yarmouth Co., N.S  | Cnnada   | Yarmouth . | April 12, 1.15. |
+| 10 | 764<br>1769<br>3953<br>1802 | 415087 |  | Iin «•»'?. .J" < ph Malcolm  | Nil  | Hanes, Mrs. Martha Ellen  | Tangier, Halifax Co., N.S  | ('annda | Halifax  | Auk. | it, 1915. |
+| 10 | 765<br>1799<br>3954<br>1833 | 414070 |  | Havp*. < h'Tl”?  | Nil  | Haves, Mrs. Edna ..   | St.Johns, Nfld  | Newfoundland . | Sydney.. | Auk. | 13, 1915. |
+| 10 | 1138<br>1828<br>3954<br>1861 |  |  | Hearn, Har-ey H   | Nil  | Hearn, Mrs. Mary.   | Bridgetown, Annapolis Co., N.S  | England  | Aldershot  | Auk | 7. 1915. |
+| 10 | 764<br>1857<br>3954<br>1890 | 415177 |  | HonMioring’on, Thom a*?  | 04 th Regt  | Henthorington, Mr Rut It  | Glace Bay, C.B., N.S   | England  | Aldershot . | • lulv | 24. 1915. |
+| 10 | 763<br>1886<br>3945<br>1919 | 414308 |  | Ijr'Vr. (rdon Frederick  | Nil  | Hotter, Mrs. Lmmi  | 138 Campbell Rd . Halifax, N.S   | Canada  | Aldershot | \UK | 3. 1915 |
+| 10 | 763<br>1915<br>3954<br>1948 | 414300 |  | Hefler. Hubert Norman  | 03 rd Reyt  | Holier. Mrs Emma .    | 138 Campbell Rd.. Halifax, N.S   | Canada  | Aldershot | Auk- | 3, 1915. |
+| 10 | 763<br>1946<br>3954<br>1981 | 415714 |  |  | Nil  | Hcmsley, Mrs. E   | Sydney. C.B.. N.S  | England  | Svdney   | Aub. | 7. 191'. |
+| 10 | 764<br>1976<br>3946<br>2009 | 4 14781 |  | Henderson. Isaac  | Nil.    | Henderson, Mrs. Elm' t!i Jano.. | Spring Hill, Cumberland Co., N.S   | Enel and  | Aldershot . | Julv | 29.1915 |
+| 10 | 763<br>2005<br>3955<br>2039 | 414110 |  | Fonsiiaw, Frederick Prescott. .. | 09th Regt. | Honshnw, Simon   | Centre Lake, Annapolis Co., N.S   | Canada    | Halifax  | A pri | 30, 1915. |
+| 10 | 764<br>2034<br>3955<br>2067 | 414833 |  | Heoburn. Charles C  | Nil  | Hepburn, Alexander   | Aberdeen, Scot ..    | Scotland  | Aldershot | Auk. | 7. 1915. |
+| 10 | 764<br>2063<br>3956<br>2097 | 414820 |  |  | Nil  | 1 Herb. John     | t Proctor St., Halifax, N.S  | Cannda  | Halifax.. | Auk- | 3. 1915. |
+| 10 | 764<br>2092<br>3957<br>2128 | 415870 |  | Heron, Albert. Louis.    | Nil  | Murphy, Mary Ellen   | Charlottetown, P.E I  | Canada... . | H al ifax  | Auk. | 11. 1915. |
+| 10 | 765<br>2122<br>3957<br>2158 | 414367 | fVivato  | Hessian. William  | Nil  | • Hessian, John....   | 20 East Young St., Halifax, N.S  | Canada | Aldershot | Aup. | 3. 1915. |
+| 11 | 3129<br>333<br>3812<br>366 |  |  |  |  |  |  | England. |  | May | 7, 1915. |
+| 11 | 646<br>339<br>3112<br>377 | 414525 Corporal  |  | IIoxtail, Thomas William  | Nil.. | Hextall, Mrs. Tboam?  | 52 Albion St., Amherst, Cumberland Co.. N.S  |
+| 11 | 3129<br>364<br>3812<br>396 |  |  |  |  |  |  | Canada.. |  | Aug. | 7, 1915. |
+| 11 | 648<br>370<br>3112<br>408 | 415715 Private  |  | Hickey, Charles Cornelius   | Nil.. | Hickey, Charles  | 517 Charlotte St., Sydney, C.B., N.S  |
+| 11 | 3132<br>394<br>3812<br>426 |  |  |  |  |  |  | U.S.A... |  | Mar. | 17.1915. |
+| 11 | 647<br>403<br>3114<br>436 | 414503 C.Q.M.S  |  | Higgins, C. Aubrey  | Nil.. | Higgins, E. T   | Wentworth Valley. N.S  |
+| 11 | 3131<br>424<br>3812<br>452 |  |  |  |  |  |  | Ireland . | Halifax  | Aug. | 11.1915. |
+| 11 | 648<br>436<br>3100<br>465 | 415395 Private  |  | 1! i;rnins. James  | Nil.. | [Jiggins, Annie..   | Belfast, Ire   |
+| 11 | 3131<br>454<br>3814<br>486 |  |  |  |  |  |  | England  | Sydney  | May | 3.1915. |
+| 11 | 647<br>461<br>3114<br>496 | 415131 Private  |  | Hicham, John  | Nil.. | Hizham, Mrs. C  | 110 Frog Lane. " igan, Lanes., Eng  |
+| 11 | 3130<br>484<br>3813<br>513 |  |  |  |  |  |  | Canada  | \ldershot  | July | 24, 1915. |
+| 11 | 647<br>492<br>3115<br>524 | 415187 Private  |  | Hill, Ernest G  | Nil.. | Hill, Miss Edith Grnntmine. | Sydney, C.B.. N.S.   |
+| 11 | 3130<br>514<br>3814<br>543 |  |  |  |  |  |  | Canada  | Aldershot  | July | 14.1915. |
+| 11 | 647<br>523<br>3115<br>554 | 415160 Private  |  | Hill, John  | Nil.. | Hill, John  | Sydney Mines, C.BN.S     |
+| 11 | 648<br>543<br>3814<br>583 | 414824 Private  |  | Hiliier, Charles Edward.  | S.A.. | Hiliier, Mrs. Kathleen  | 35 North Clifton St.. Halifax, N.S  | Canada  | Halifax  | July | 26.1915. |
+| 11 | 3133<br>573<br>3815<br>603 |  |  |  |  |  |  | Newfoundland.. | Sydney Mines. . | Mar. | 31.1915. |
+| 11 | 649<br>577<br>3115<br>613 | 414 080 Private  |  | Ilillier, Harold  | Nil.. | Martin, Mrs  | Stanley St., North Sydney, N.S  |
+| 11 | 648<br>603<br>3816<br>643 | 415459 Private  |  | Hills, Harold Philip   | 03 rd | Regt. | Edward, Mrs. John   | 134 Brunswick St., Halifax, N.S  | Canada  | Valcartier  | Aug. | 11, 1915. |
+| 11 | 648<br>633<br>3816<br>671 | 415841 Private  |  | Hilton, Austin  | Nil.. | Hilton, Martin  | Ohio, Antigonish Co.. N.S  | Canada  | Aldershot  | Aug. | 12, 1915. |
+| 11 | 649<br>663<br>3816<br>702 | 415884 Private  |  | Hilt*, Frank Owen  | 09 th | Regt. | Hiltz, John    | Look Off, Kings Co., N.S  | Canada  | Halifax  | Aug. | 13.1915. |
+| 11 | 649<br>693<br>3816<br>731 | 414582 Private  |  | Hingley, Daniel J  | 78th | Regt. | Hingley, Mrs. Alexander..... | Kempt Town, Colchester Co., N.S  | Cnnnd a  | New Glasgow. . | May | 7, 1915. |
+| 11 | 650<br>723<br>3816<br>760 | 415488 Private  |  | Hirst, William G  | 6th | Regt. | Hirst, Mrs. Gennet  | Guy’s River. Colchester Co., N.S  | England:  | Aldershot  | Aug. | 14.1915. |
+| 11 | 650<br>752<br>3817<br>791 | 415102 Private  |  | Iliscock, Percy Melborn  | 75th | Regt. | Hiscock, Alfred  | New Ross, Lunenburg Co.. N.S  | Canada  | Kentville  | April | 7.1915. |
+| 11 | 650<br>782<br>3817<br>819 | 414378 Private  |  | Hoar, Gerald Arthur  | 03 rd | Regt. | Hoar, Arthur M  | 18 Mitchell St.. Halifax, N.S  | Canada  | Aldershot  | Aug. | 8, 1915. |
+| 11 | 650<br>812<br>3817<br>849 | 414394 Private  |  | Hoafe, Michael Edward  | Nil. | Hoare, Edward  | 4 Blowers St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 8, 1915. |
+| 11 | 650<br>842<br>3818<br>879 | 414995 Private  |  | Hoare, Patrick Joseph  | 03rd | Regt. | Hoare, Ed ward :... | 4 Blowers St., Halifax, N.S  | Cnnada  | Valcartier  | Aug. | 18.1915. |
+| 11 | 650<br>871<br>3817<br>906 | 482009 Private  |  | Hobin, Thomns William  | Nil. | Hobin, Mrs. Jane  | 184 Greighton St.. Halifnx, N.S  | Canada  | Sussex  | Aug. | 30.1915. |
+| 11 | 649<br>902<br>3817<br>937 | 415256 Private  |  | Hoboroy, Nicholas  | Nil. | Hoboroj', Mary  | Slobodskoi, Russia  | Russia  | Aldershot  | Aug. | 3, 1915. |
+| 11 | 649<br>930<br>3819<br>966 | 414106 Private  |  | Hogan, Frank  | 63 rd | Regt | Hogan, John  | 57 West St., Halifax, N.S  | Canada  | Halifax  | May | 5, 1915. |
+| 11 | 649<br>961<br>3820<br>995 | 4 14475 Corporal  |  | Hong. Alexander  | 63rd | Regt, | Hogg, Mrs. Jessie  | 53 St. Alban's St., Halifax, N.S  | Scotland  | Aldershot  | Aug. | 10, 1915. |
+| 11 | 650<br>990<br>3820<br>1025 | 415490 Private  |  | Holmes, James Alfred  | 03rd | Regt | Holmes, Mrs. G   | 1)4 Princess St., Halifax, N.S  | B.W.I  | Halifax | Aug. | 12.1915. |
+| 11 | 651<br>1019<br>3820<br>1053 | 415008 Private  |  | Holton, George H  | Nil. | Holton, Mrs. A. B   | Caledonia Mine«, C.B., N.S    | England Sydney  |  | Mar. | 27, 1915. |
+| 11 | 650<br>1048<br>3821<br>1081 | 482035 Private  |  | Hooper, John E  |  | Tower, Mrs. Ervin   | Park St., Amherst, Cumberland Co., N.S  | Canada (Sussex  |  | Sept. | 7,1915. |
+| 11 | 651<br>1075<br>3821<br>1112 | 414908 Private  |  | Hopton, Charles....   | Nil. | Hopton, Mary A  | Plymouth, New Glasgow, l’ielou Co., N.S  | Englnnd 'Aldershot. |  | Aug. | 12.1915. |
+| 11 | 649<br>1107<br>3822<br>1142 | 415171 Private  |  | Horn, Frederick  | Nil. | Horn, Mrs. Robert  | Myra ltd., South Sydney, C.B., N.S  | Canada i Kentville.. |  | July | 14.1915. |
+| 11 | 650<br>1138<br>3822<br>1173 | 415995|Privatc  |  | 'Iorne. Herbert  | 63rd | Regt | Horne, Mrs. Lucy  | 758 Sherbrooke SiMontreal West, P.Q.   | England | Valcartier. | Aug. | 31.1915. |
+| 11 | 650<br>1167<br>3821<br>1199 | 415339 Private  |  | . Horne, Howard Stanton  | 63rd | Regt | Horne, George  | 69 Victoria Rd., Halifax, N.S  | Canada  | Aldershot. | Aug. | 10, 1915. |
+| 11 | 649<br>1196<br>3822<br>1229 | 414133 | Private Horne, John |  | Nil. | Horne, Prior  | Napier, N.Z  | New Zealand.. | Halifax  | April | 20, 1915. |
+| 11 | 650<br>1224<br>3823<br>1259 | 415289 | Private I Horton, Arthur |  | 94 th | Rest. | Horton, Hiram C  | Canso. Guysboro'. Co., N.S  | Canada  | Sydney  | Aug. | 9, 1915. |
+| 11 | 650<br>1256<br>3823<br>1287 | 415510 | Private. | Horton, Clarence  | Nil. | Horton. Mrs. Charlotte  | New Glasgow, Pictou Co., N.S  | Cnnada  | New Glasgow. | Mar. | 30, 1915. |
+| 11 | 651<br>1285<br>3824<br>1317 | 415811 | Private. | Howard, Harry  | Nil.. | Howard. Frederick  | 15 Melrose St.. Sherwood, Notts, Eng  | England   | Aldershot  | Aug. | 10, 1915. |
+| 11 | 651<br>1315<br>3824<br>1345 | 415192 | Private. | Howard, Herbert Sydney  | Nil.. | Howard, Herbert S  | No. 3 Beach, Florence, C.B., N.S  | England  | Aldershot  | July | 29. 1915. |
+| 11 | 650<br>1343<br>3825<br>1378 | 414894|Private. |  | Howes, Arthur  | Nil.. | Howes, Mrs. Elizabeth J ... | Truro, Colchester Co., N.S   | England  | Aldershot  | Aug. | 10.1915. |
+| 11 | 650<br>1373<br>3824<br>1406 | 482072]Private. |  | Howie, Colin  | Nil,. | Howie, William A  | 50 Southern Ave., Dorchester, Mass., U.S.A  | Canada  | Sydney  | Aug. | 24, 1915. |
+| 11 | 651<br>1403<br>3825<br>1433 | 415172|Private  |  | Howley, Alexander  | Nil.. | Howley, John  | Kays Corner, Glace Bay, C.B., N.S  | Canada  | Aldershot. | July | 14, 1915. |
+| 11 | 652<br>1430<br>3824<br>1463 | 414467 j Private iHubley, Benjamin  |  |  | Nil.. | Hubley, Mrs. Maud  | Annapolis. N.S..   | Canada  | Aldershot  | Aug. | 10, 1915. |
+| 11 | 1026<br>1461<br>3826<br>1491 |  |  | Hughes, Edward  | Nil.. | Hughes, Mrs. E  | English Bicknor, Colcford, Glos., Eng..    | England  | Sydney  | Mar. | 27, 1915. |
+| 11 | 652<br>1489<br>3826<br>1520 | 415471 Private  Hughes, Herbert Hanson |  |  | Can. | Mil. | Hughes, Mrs. Mary V  | Milford Station, Hants Co., N.S  | England  | Valcartier  | Aug. | 23, 1915. |
+| 11 | 653<br>1514<br>3826<br>1548 | 415057 | Private illulbert, Havclock. |  | Nil.. | Huibert, John G  | Antigonish, N.8  | Canada  | Valcartier  | July | 13, 1915. |
+| 11 | 653<br>1548<br>3827<br>1584 | 414409 | Private | Humphrey, Edward Thomas  |  | Imp. | Forces | Humphrey, Mrs. Sarah  | 07 Sackville St., Halifax, N.S  | England  | Halifax  | July | 31, 1915. |
+| 11 | 653<br>1577<br>3826<br>1614 | 415255 | Private |Hunter, James  |  | '8 th | Hegt.. | Hunter, Mrs. Mary  | 3 Campbell Rd., Halifax, N.S  | Canada  | Halifax  | July | 31, 1915. |
+| 11 | 653<br>1608<br>3827<br>1646 | 414887 | Private |Hunter, John G  |  | Nil.. | Hunter, Mrs. Julia  | 8nring Hill, Cumberland Co., N.S  | England  | Aldershot  | Aug. | 10, 1915. |
+| 11 | 653<br>1632<br>3828<br>1671 | 415011 | Corporal Hurst, Sidney L. |  | Imp. | Forces. | Hurst, Mrs. A. M  | Caledonia Mines, C.B., N.S..   | England  | Sydney  | M ar. | 26, 1915. |
+| 11 | 654<br>1666<br>3828<br>1699 | 415776 | Privato. | Huston, Gerald Roy  | Nil.. | Huston, Frank  | Canning, Kings Co., N.S  | Canada  | Aldershot. | Aug. | 3, 1915. |
+| 11 | 654<br>1696<br>3828<br>1726 | 414926 | Private... | Hutchinson. Arthur Wentworth... | Nil.. | Hutchinson, George  | Locklinrtville, Kings Co., N.S  | Canada  | Aldershot .. .. | Aug. | 11, 1915. |
+| 11 | 654<br>1725<br>3828<br>1759 | 414880 | Private... | Hyden, William E  | Nil.. | Hyden, Mrs. Marion  | River Hebert, Cumberland Co., N.S  | England  | Aldershot. ... | Aug. | 10, 1915. |
+| 11 | 655<br>1755<br>3829<br>1787 | 415832 | Private... | Hyson, William G  | Nil.. | Hyson, Mrs. Albert  | Hantsport, Hants Co.. N.S   | Canada  | Aldershot. ... | Aug. | 12, 1915. |
+| 11 | 655<br>1784<br>3829<br>1816 | 414504 | Sergeant.. | Illingsworth, Arthur  | Nil.. | Illingsworth, Mrs. Arthur... | 112 Church St., Amherst, Cumberland Co., N.8  | England  | Amherst  | Mar. | 17. 1915. |
+| 11 | 655<br>1814<br>3829<br>1844 | 415698 | Private... | Innis, George    | 04 th | Regt | Leigh, Mrs .  | Belfast, Ire  | Ireland  | Aldershot. ... | July | 29, 1915. |
+| 11 | 656<br>1842<br>3830<br>1872 | 415495 | Private... | Isenor, Warner David Victor  | Cnn. | Mil. | Isenor, Mrs. Catherine  | Chaswood, Halifax Co., N.S  | Cnnada  | Valcartier.... | Aug. | 23, 1915. |
+| 11 | 655<br>1871<br>3830<br>1908 | 482040 Priv |  | Jncqunrd, Forman.   | Nil., | Jacquard, Edward  | Comeati's Hill, Yarmouth Co., N.S,  | Canada  | Sussex. | Sept. | 1, 1915. |
+| 11 | 656<br>1901<br>3830<br>1932 | 415468 | Private... | Jamieson, Frank  | 63rd | Regt  | Williams, Mary  | 11 Bouverie St., Port Glasgow. Scot  | Scotland  | Valcartier. | Aug. | 23, 1915. |
+| 11 | 657<br>1930<br>3831<br>1963 | 414604 | Bugler  | JefTery, Frank Neil  | Nil | Jeffery, James  | 39W Lockman St., Halifax, N.S  | Canada  | Halifax. | Mar. | 13.1915. |
+| 11 | 658<br>1959<br>3831<br>1990 | 414359 | Privnte... | Jenkins, John  . | Nil | Jenkins, Joseph A  | 10 South Bland St., Halifnx ,N.S  | Canada  | Aldershot. | Aug. | 3, 1915. |
+| 11 | 658<br>1988<br>3832<br>2020 | 414039 | C.S.M  | Jennings, Thomas John  | Imp | . Forces. | Jennings, Mrs. Mary  | 23 Campbell ltd., Halifax, N.S  | England  | Halifax. | Mar. | 13.1915. |
+| 11 | 658<br>2016<br>3832<br>2054 | 414902 | Private... | Jewkes, Charles A^_  | Nil. |  iJewkes, Arthur  | Spring Hill. Cumberland Co., N.S  | Canada  | Aldershot. . | Aug. | 10.1915. |
+| 11 | 658<br>2046<br>3833<br>2078 | 415082 | Privato  | Jodrie, Frederick | Nil. |  Jodrie, George A  | Canning, Kings Co.. N.S  | Canada  | Aldershot. | July | 24, 1915. |
+| 11 | 658<br>2076<br>3833<br>2108 | 415468 | Private IJohnson, Alexander. |  | 94th | Hegt 'Johnson, Mrs. M  | Calodonin Mines, C.B., N.S  | Canada  | 'Sydney. | Aug. | 7, 1915. |
+| 12 | 768<br>517<br>3437<br>588 | k | Haul, |  |  |  |  | Country of |
+| 12 | 761<br>701<br>3937<br>734 | 414391 | Private. ., | Johnson, Hnrry 3    | N»t     | Johnson, Leonard ;..., | Truro, Colchester Co., N.S  | Canada  | Truro  | April | 28, | 1915. |
+| 12 | 861<br>732<br>3937<br>767 |  | Private,. | Johnston, Oril Frederick. . | I' ’*•( Regt  | Johnston, Mrs. Ellen  | 54 .South Kline St., Halifax, N.S  | Canada  | Valcartier  | Aug. | 18, | 1915. |
+| 12 | 760<br>762<br>3938<br>792 | 414271 |  | Johnson, Rtifii"   . | NH   | Johnson, Frederick   | Spring Hill, Cumberland Co., N.S  | Canada  | Amherst  | Mar. | 17, | 1915. |
+| 12 | 761<br>791<br>3938<br>823 | 41*831 | Privntc  | Johnston, Charles William 8. | Nii   | Johnston, Mrs. Annie  | Truro, Colchester Co., N.S  | Scotland  | Aldershot  | Aug. | 7, | 1915. |
+| 12 | 761<br>820<br>3938<br>849 | 414835 | Private  |  | Nil ,   | Johnston, Mrs. Eliza   | Young St., Truro, N.S  | Scotland  | Aldershot  | Aug. | 7, | 1915. |
+| 12 | 761<br>850<br>3938<br>881 | 41521!) | Privatr.  | Johnston, James... | Nil    | Johnston, William   | Station House, Trillick, Co. Tyrone, Ire  | Ireland  | Aldershot  | Aug. | 3, | 1915. |
+| 12 | 760<br>879<br>3938<br>910 | 414758 | Private  | Johnston, John.... | Nil  | Abrom, Mrs. Andrew ,.... | Truro, Colchester Co., N.S  | (Canada  | Aldershot  | July | 29, | 1915. |
+| 12 | 762<br>910<br>3939<br>940 | 41481)6 | Privato  | ./ones, Richard | Nil  | Jones, Florence ..»  | Spring Hill, Cumberland Co., N.S  | Wales  | Aldershot  | Aug. | 10, | 1915. |
+| 12 | 762<br>939<br>3939<br>970 | 415266 | Private  | Jordan, John  | Nil  | Cann, Mrs. 8 ..., | I Monaghan’s Lane, Halifax, N.S  | Canada  | Halifax  | July | 30, | 1915. |
+| 12 | 761<br>967<br>3931<br>998 | 482045 | Private.  |  | Nil  | Joudrey, Miss Belle  | Liverpool. Queen’s Co., N.S  | ('anada  | Sussex  | Sept. | 4, | 1918 |
+| 12 | 762<br>992<br>3939<br>1027 | 482043 |  | Kaill, Albert.  | Nil  | Kaill, Mrs. Helen Mildred  | •’ «(k>fctingen St., Halifax, N.S  | Kngland  | Sussex  | Sept. | 9, | 1915. |
+| 12 | 762<br>1026<br>3939<br>1057 | 415183 |  | Kalloway, Elijah  | Nil  | Kalloway, Mrs. Rosina  | Glace Bay, C.B., N.S   | Newfoundland. | Aldershot.... | July | 24, | 1915. |
+| 12 | 762<br>1052<br>3939<br>1085 | 482040 | Private  | Kcaling, Georgo  | 94t,h Regt  | Kealing, Annie  | Beacon St., Stafford. Eng  | England  | Sydney  | Sept. | 1, | 1915. |
+| 12 | 761<br>1084<br>3939<br>1115 | 414476 | Private  | Keating, George Harry  | Nil  | Keating, Mrs. Jane  | 148 Pleasnnt St., Halifax, N.S...   . | Canada  | Aldershot  | Aug. | 10, | 1915. |
+| 12 | 762<br>1114<br>3939<br>1145 | 482071 | Private  | Keating, Thomas  | Nil  | Keating. Maggie McLellan  | Waterford, C.B., N.S  | Scotland  | Sydney  | Aug. | 24, | 1915. |
+| 12 | 762<br>1143<br>3940<br>1172 | 415494 |  | Keel, W illiam Edgar  | Nil  | Keel, Charles  | Queens Rd., Thames Ditton, Surrey, Eng  | iCngland  | Valcartier  | Aug. | 23, | 1915. |
+| 12 | 763<br>1172<br>3940<br>1202 | 415336 | Privatr  | Keith, David Haswell  | Nil  | Keith, Alice  | Arcadia St., New Glasgow, Pictou Co., N.S  | Scotland  | Halifax  | Aug. | 2, | 1915. |
+| 12 | 763<br>1200<br>3941<br>1231 | 415420 | Private  | Kellough, Francis I/orne  | 76th Regt  | Kellough, Mrs. H  | Enocks Brook, Halifax Co., N.S  | Canada  | Halifax  | Aug. | 10, | 1915. |
+| 12 | 765<br>1230<br>3941<br>1261 | 415157 | Private  | Kelly, Bernard  | Imp. Forces  | Kelly, Mrs. Mary  | Reserve Mines, C.B., N.S  | Scotland  | ydney.   | May | 3, | 1915. |
+| 12 | 764<br>1258<br>3942<br>1290 | 411477 | Private.   | Kennedy, George Wilfred  | Nil  | Kennedy, Mrs. Emily  | 251 Hi Maynard St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 10, | 1915. |
+| 12 | 764<br>1289<br>3942<br>1319 | 415354 | Private  | Kennedy, Murdoch A  | Nil  | Kennedy, Mrs. Archibald   | Irish Vale. C.B., N.S  | Canada  | Sydney  | Aug. | 9. | 1915. |
+| 12 | 764<br>1318<br>3942<br>1348 | 414876 |  | Kennedy, Thomas Edward... | Nil  | Kennedy, Gordon   | Truro, Colchester Co., N.S  | anada  | Aldershot  | Aug. | 10, | 1918. |
+| 12 | 764<br>1347<br>3943<br>1377 | 414740 |  | Kennedy, William  | Nil  | Kennedy, John   | Dominion No. 6, C.B., N.S  | Newfoundland. | Aldershot .... | July | 24, | 1918. |
+| 12 | 765<br>1375<br>3942<br>1406 | 415409 | Private  | Kidd, Albert Lewis  | 63rd Regt  | Kidd* Mrs. Edith  | 208 Agricola St., Halifax, N.S  | England  | Valcartier  | Aug. | 18. | 1915. |
+| 12 | 764<br>1404<br>3942<br>1436 | 415408 |  | Kidd, Harry Benjamin  | R.C.R  | Kidd, Mrs. Edith  | 208 Agricola St., Halifax, N.S  | ICngland  | Valcartier  | Aug. | 18, | 191ft. |
+| 12 | 765<br>1434<br>3942<br>1465 | 415583 |  | King, ClilTord Stanley  | Nil  | King, Mrs. Annie  | Brooklyn, Yarmouth Co., N.S  | Canada  | Yarmouth  | April | 33. | 1915. |
+| 12 | 765<br>1463<br>3943<br>1494 | 414334 | Privato  | King, John   | Nil.   | King, Mrs. Charlotte  | 7 Maitland St., Halifax, N.S  | England  | Kentville  | luly | 20, | 1915. |
+| 12 | 764<br>1492<br>3942<br>1523 | 414999 | Private  | King, Wallace Henry  | (3rd Regt  | King, Mrs. Annie . | Windsor, Hants Co., N.S  | Canada  | Valcartier  | Aug. | 18, | 1915. |
+| 12 | 765<br>1520<br>3943<br>1555 | 415356 |  | Kipping, Hayward  | Nil  | Kipping, Thomas  | Glace Bay, C.B., N.S  | Newfoundland. | Sydney  | Aug. | 18, | 191ft. |
+| 12 | 766<br>1550<br>3943<br>1585 | 415355 | Private  | Kipping, Jacob  | Nil  | Kipping, Thomas H  | Glare Bay, C.B., N.S  | Newfoundland. | Sydney  | Aug. | 13, | 1915. |
+| 12 | 766<br>1578<br>3944<br>1614 | 415373 | Private  | Kipping, John Henry  | Nil  | Kipping, Thomas H  | Glare Bay, C.B., N.S  | Newfoundland. | Sydney  | Aug. | 13, | 1915. |
+| 12 | 767<br>1607<br>3943<br>1641 | 414731 | Private  | Kitchen, George A  | Nil  | Kitchen, Mrs. Jane  | Fredericton, N.B.   | Canada  | Aldershot | July | 14, | 1915. |
+| 12 | 767<br>1636<br>3943<br>1672 | 414998 |  | Knowles, Phillip Murray  | 63rd Regt  | Knowles, Philip R  | Windsor, Hants Co., N.S  | Canada  | Valcartier  | Aug. | 18, | 1915. |
+| 12 | 767<br>1664<br>3944<br>1701 | 415323 | Private  | Kyte, Stnnislause Elwood  | Nil  | Kyte, P. J  | St. Peters, C.B., N.S  | Canada... .... | Halifax  | July | 25, | 1918. |
+| 12 | 767<br>1694<br>3944<br>1730 | 414171) |  | Lacey, Alfred Joseph —   | Nil  | Lacey, Mrs. E  | 49 George St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 10, | 191ft. |
+| 12 | 768<br>1723<br>3944<br>1760 | 416873 | Privntr..    | Lacey, James  | Nil   | Lacey, Miss Agnes  | 10 Elevator Court. Halifax, N.S  ... | Canada  | Halifax  | Aug. | II. | 1915. |
+| 12 | 768<br>1752<br>3944<br>1789 | 4148251Private  |  | Lncey, Stanley ........ | Nil   | Laeev, Richard  | 49 George St., Halifax. N.S  | Canada  | Halifax  | July | 30. | 1915. |
+| 12 | 769<br>1781<br>3944<br>1818 | 414590 | Private  | Lamb, Joseph   | Nil  | Lamb, Elizabeth  | 16 Quern St., Ulverston, Lancs., Eng  | Rnglnnd  | Amherst  | Mar. | 17, | 1915. |
+| 12 | 769<br>1810<br>3945<br>1853 | 414251 | Private  | Lambert, William.   | Nil  | |i#ambert, Mrs. Elizabeth  | Fairbanks St., Dartmouth, Halifax Co., N.S  | England  | Halifax  | June | 7, | 1915. |
+| 12 | 770<br>1839<br>3945<br>1877 | 41407C | Private  | Lampard. Edward   | R.C.R   | | Lampard, Mrs. Edward   | 32 Grafton St., Halifax, N.S  | England  | Halifax  | Mar. | 13, | 1915. |
+| 12 | 771<br>1867<br>3945<br>1906 | 41565J | Private  | Landry, Daniel.   | C.F.A  | ! Landry, JefTrev  | Yarmouth, N.S  | Canada  | Yarmouth  | April | 10, | 1915. |
+| 12 | 771<br>1897<br>3938<br>1938 | 415337 | Private  | Lnndry, Joseph < Diaries  | Nil  | (Landry, Mrs. Mary..   | 36a Stanley St., Halifax, N.S  | Canada  | Halifax  | July | 31. | 1915 |
+| 12 | 772<br>1926<br>3947<br>1964 | 41489: | Private  | hangiile, Alexander A.    | Nil  | fjangille, Mrs. B  | Truro, Colchester Co., N.S  | Canada  | Aldershot | Aug | 10. | 191ft. |
+| 12 | 772<br>1954<br>3946<br>1994 | 48202f | Private  | Langille, Frederick G   | Nil  | Langille, Mrs. F.  | Centreville, N.S  | Cannda  | Sussex  | Sept. | I. | 191ft. |
+| 12 | 773<br>1983<br>3938<br>2021 | 41136: | Private  | Langille, Frederick Thomas. . | Nil  | .T*angille, Mrs. Ella  | 6 Poplar Grove, Halifax, N.S   | ('anada  | Halifax  | July | •M . | 191ft |
+| 12 | 773<br>2015<br>3806<br>2052 | 41411? | Privatr  | Laphen, John l^nis  | 63 rd Regt   | Laphen, John T   | II Falkland St.. Halifax, N.S  | Canada  | Halifax  | M ay |
+| 12 | 774<br>2039<br>3939<br>2082 | 41535." | Private  | Laphen, Joseph Patrick. | Nil  | {Laphen, Jopnph G.   | 16 Glebe PL. Sydney Co., N.S    | Canada  | Sydney  | Aug | 9 | . 1915 |
+| 12 | 774<br>2068<br>3949<br>2115 | 41407i | Private  | Lavers, John William  | Nil  | j Lavers, William .   | 80 * !harl<i St., Halifax, N.S  | Canada  | Halifax   | Mar. | ia | 1915. |
+| 12 | 775<br>2098<br>3949<br>2140 | 415688 | Private    | Lavinge, Joseph  ....... | French Navy  | ITixier, Rinia    | Pleven, France  | I France.  | lAldershot | July | 24 | . 1915. |
+| 13 | 706<br>319<br>3861<br>360 | 4157931 Private.. |  | Lawlor. Joseph  | Nil.  | .. iLawlor, James..   | Amherst, Cumberland < ’o., N.S  | Canada  | Aldershot  | Aug. 10, 1915. |
+| 13 | 707<br>349<br>3861<br>392 | 414759 |  | Lawrance, George  | Private. | Nil  | . ! I -awrance, Heary   | c/o F. Nelson Bathurst Villa, Gloucester Co., N. | England  | Aldershot  | July | 29, 1915. |
+| 13 | 3180<br>380<br>3854<br>408 |  |  |  |  |  |  | Canada  | Halifax  | July | 30, 1915 |
+| 13 | 705<br>386<br>3079<br>419 | 414372 |  | Lawrence, Joseph Arthur Budd. .. | Private.... | Nil  | . (Lawrence. Mrs Mary W  | 28 Salter St.. Hiiitn. N.S  |
+| 13 | 3180<br>410<br>3862<br>438 |  |  |  |  |  |  | C -anada  | Halifax  | Aug | 2, 1915. |
+| 13 | 708<br>416<br>3078<br>458 | 4148IG |  | Lawson, James  . | Private.... | Nil  | . jLawson, Mrs. Ethel  | 38 Grafton St.. Halifax, N.S  |
+| 13 | 710<br>441<br>3863<br>479 | 114792 |  | Letcher, Robert G  | Private.... | Nil  | iLetcher, Mrs. Eliza   | Spring Hill, Cumberland Co., N.S  | ('nnada  | Aldershot. ... | July | 29, 1915. |
+| 13 | 707<br>470<br>3863<br>511 | 415512 |  | Levy, Allan James   | Sergeant... | 03rd Regt  | . |Levy, Mrs. Emily A   | Digby, N.S.   | Canada  | Valcartier  | July | 13, 1915. |
+| 13 | 707<br>500<br>3863<br>547 | 415050 |  | Lewis, Clifford  | Private.... | Nil  | .. (Lewis, Frederick   | Point Edward. C.B., N.S  | Canada  | Aldershot.   | June | 5,1915. |
+| 13 | 707<br>530<br>3864<br>570 | 415374 |  | Lewis, Roland  | Private.... | Nil  | .. (Lewis, Orlando A  | 42 Ferry St.. Sydney, C.B., N.S  | Cnnada  | Sydney  | Aug. 13. 1915. |
+| 13 | 707<br>559<br>3865<br>596 | 4141*21 |  | Ligr'ins, Alfred  | Corporal... | 00 th Regt  | Liggins, Mrs..   | 246 Agricola St., Halifax, N.S  | England  | Aldershot  | June 7, 1915. |
+| 13 | 707<br>588<br>3865<br>625 | 4I44.H |  | Ling, Thomas  | Private.... | Nil  | Ling, William    | Reserve Mines, C.B., N.S  | Canada  | Sydney  | Aug. 7. 1915. |
+| 13 | 706<br>619<br>3865<br>656 | 4142.10 |  | Ling, William  | Private.... | Nil  | Ling, Mrs. Mary E * | 37 De White St., Boston, Mass, U.S.A  | Canada  | Aldershot  | June 9, 1915. |
+| 13 | 706<br>647<br>3866<br>683 | 416894 |  | Linihan, Richard Henry  | Private.. . | Nil  | Linihan, John. . | 32 George .St.. Halifax, N.S  | Canada 1 | Valcartier  | Aug. 23. 1915. |
+| 13 | 706<br>678<br>3866<br>712 | 482031 |  | Litchfield, Ernest Edward........ | Private.... | Nil  | Litchfield, Mrs   | Nottingham, Eng      | England  | Sussex  | Aug. 24, 1915. |
+| 13 | 707<br>707<br>3867<br>742 | 415809 |  | Livingstone, David  | Private.... | Nil  | Livingstone, Mrs. Mary  | Big Bras D'Or, Victoria (Jo., N.S  | (.’anada  | Sydney  | Aug. 13. 1915. |
+| 13 | 706<br>736<br>3869<br>771 | 415281 |  | Locke, Charles Henry  | Private.. . | Nil  | Locke, Charles.    | 18 Maynard St.. Halifnx, N.S.  | England  | Aldershot  | Aug. | 3, 1915. |
+| 13 | 707<br>765<br>3869<br>800 | 414515 |  | Locke, Frederick  | Sergeant... | Nil  | Locke, Rebecca N  | Amherst, Cumberland Co., N.S   | Canada  | Amherst  | May | 7, 1915. |
+| 13 | 707<br>795<br>3869<br>830 | 415482 |  | Lodge, James W  | Private.... | Nil  | Lodge, Mis. E  | ■’ Devonshire Terr . Hyde Park, London, Engi.. | England  | Aldershot. .... | Aug. | 14, 1915. |
+| 13 | 707<br>825<br>3869<br>859 | 414424 |  | Luke, George Edward  | Private — | Nil  | Luke, Mrs. Mary     | 292 Gottingen St., Halifax. N.S  | Canada  | Aldershot  | Aug. | 7, 1915. |
+| 13 | 707<br>855<br>3871<br>888 | 415485 |  | Lumsden. Archibald  | Private  | Nil  | Lumsden, Mrs. Eliza   | Canso, N.S  | Cannda  | Aldershot. ... | Aug. 14, 1915. |
+| 13 | 707<br>884<br>3870<br>919 | 414510 |  | Lyons, Henry  | Sergeant... | Imp. Forces  | Lyons, Mrs. Mary E  | Westville, Pictou Co., N.8.    | England  | New Glasgow. | Mar. 31, 1915. |
+| 13 | 707<br>913<br>3871<br>948 | 415457 |  | Lyons, James     | Private.... | Nil  | Lyons, Mrs. H  | We^tville, Pictou. N.S  | England  | Valcartier  | Sept. 27, 1915. |
+| 13 | 707<br>943<br>3871<br>976 | 415777 |  | Lyons, William Wilson   | Private. .. | Imp. Forces  | Lyons, Mrs. Bridget  | Ballyhaunis, Co. Mayo, Ire  | Ireland  | Aldershot  | Aug. 7, 1915. |
+| 13 | 708<br>972<br>3871<br>1005 | 415058 |  | McArt.hur, .lohn Angus  | Private ... | Nil  | McArthur, John .  | Stellarton, Pictou Co., N S  | Canada  | Sydney  | Mar. 27, 1915. |
+| 13 | 707<br>1002<br>3872<br>1035 | 414183 |  | McAskill, John  | Corporal. . | S. A  | McAskill, Mrs. Catherine.... | Glace Bay | Canada  | Aldershot  | May 25, 1915. |
+| 13 | 708<br>1031<br>3873<br>1064 | 415707 |  | McAulny, John  | Private... | Nil...  | McAulay, Aulev.   | Sydney M | Canada  | Sydney  | Aug. | 9, 1915. |
+| 13 | 707<br>1061<br>3872<br>1093 | 415012 |  | McAulay, John Henry  | Sergeant... | Nil  | McAulay, Mrs  | Glace Bay, C.B.. N.S | Canada  | Glace Bay  | May | 5, 1915. |
+| 13 | 707<br>1088<br>3874<br>1121 | 415705 |  | McAulay, Peter N  | Private.... | Nil  | McAulay, Alexander D  | Caledonia Mines. C.B., N.S— | Canada  | Sydney  | May | 7. 1915. |
+| 13 | 707<br>1120<br>3873<br>1151 | 415473 |  | McBardsley, Hugh Mack  | Private.... | GGth Regt  | McBardsley, Mrs. Charlotte. | 30 Columbus St., Halifax, N.S | Canada  | Halifax  | Aug. 10, 1915. |
+| 13 | 707<br>1149<br>3873<br>1186 | 41517 J |  | McBurney, James T  | Private  | 93rd Regt  | McBurney, Mrs. J. T  | Spring Hill. Cumberland Co., N.S. | (.-anada  | Aldershot  | July 14, 1915. |
+| 13 | 707<br>1177<br>3873<br>1210 | 415193 |  | McCormick, Daniel  | Private  | Nil   | McCormick, John  | Glace Bny, C.B.. N .S   | Canada  | Aldershot  | Julv 29, 1915. |
+| 13 | 707<br>1207<br>3875<br>1239 | 414*84 |  | McCuinber, Charles    | Private  | Nil  | McCumber, Miss Freda  | 33 College St.. Halifax, N.S | Canada  | Aldershot  | Aug. 10, 1915. |
+| 13 | 707<br>1236<br>3875<br>1268 | 415001 |  | McDonald, Angus    | Private  | C.F.A  | McDonald, Mrs. James  | Sydney Forks. C.B., N.S | Canada  | Sydney  | April 27, 1915. |
+| 13 | 707<br>1266<br>3876<br>1299 | 414010 |  | McDonald, Angus  | Private  | Nil    | McDonald. E. J  | Glace Bay, C.B., N.S... | Canada  | Halifax  | Mar. 13, 1915. |
+| 13 | 708<br>1295<br>3875<br>1328 | 415720 |  | McDonald, Archibald  | Private  | C.F.A  | McDonald, Mrs. H  | Glace Bay, C.B.. N.S... | Canada  | Sydney  | Aug. 7, 1915. |
+| 13 | 707<br>1325<br>3876<br>1358 | 4150G2 |  | McDonald, Daniel  | Private.... | Nil  | McDonald, Hugh   | Caledonia Mines,,C.B., N.S | Canada  | Sydney  | May 3, 1915. |
+| 13 | 708<br>1354<br>3877<br>1388 | 415200 |  | McDonald, David  | Private.... | Nil  | McDonald, Dan E  | South St., Gla^e Bay, C.B., N.S | Canada  | Aldershot  | July 29, 1915. |
+| 13 | 708<br>1384<br>3878<br>1417 | 414858 |  | McDonald, Edward H  | Private  | Nil  | McDonald, Mrs. May Walker | Pictou, N.8  | Canada  | Quebec  | /Vug. 6,1915. |
+| 13 | 709<br>1412<br>3878<br>1446 | 414283 |  | McDonald, Gourley  | Private  | Nil   | McDonald, Maria  | ,foa;gins Mine*, Cumberland Co., N.S. | Canada  | Amherst   | Mar. 17, 1915. |
+| 13 | 709<br>1442<br>3878<br>1476 | 415239 |  | McDonald, Hector J  | Private.... | 94th Regt  | McDonald, Dan E  | P.O. Box 844, Glare hay. C.B., N.S.. | Canada  | Aldershot  | Mar. 17, 1915. |
+| 13 | 709<br>1472<br>3880<br>1506 | 414434 |  | McDonald, Henry O  | Private  | Nil  | McDonald, John .   | New Waterford, <' B., N.S  | Canada  | Sydney.... .... | Aug. 7, 1915. |
+| 13 | 709<br>1502<br>3879<br>1533 | 415234 |  | Me Donald, Herbert.   | Private  | Nil  | McDonald, John H  | Reserves St.. Glace Bay. C.B., N.S... | Canada  | Aldershot   | Julv 29, 1915. |
+| 13 | 710<br>1530<br>3871<br>1562 | 4)5710 |  | McDonald, Herbert  | Private.... | 94 th Regt  | McDonald, Angus  | Ola^e Bay, C.B.. N.S | Canada  | Sydney | Aug. 9, 1915 |
+| 13 | 710<br>1559<br>3881<br>1592 | 415212 |  | McDonald, Hugh  | Private.... | 94th Regt  | McDonald, John J  | Baddeok, C.B., N.S   | Canada  | Sydnev | Aug. 7, 1915. |
+| 13 | 711<br>1588<br>3883<br>1621 | 482022 |  | McDonald, James I  | Private  | 94th Reset  | McDonald, Neil B  | Now Aberdeen. C.B., N.S .   | Canada  | Sydney | Aug. 24, 1915. |
+| 13 | 711<br>1618<br>3882<br>1651 | 414270 |  | McDonald. .lames Joseph    | Private  | Nil  | McDonald, Angus  | New Waterford, C.B., N.S  | Canada  | Valcartier | June 28, 1915. |
+| 13 | 711<br>1645<br>3882<br>1681 | 414000 |  | McDonald, James  | Corporal... | Can. Mil  | McDonald, Mrs. Warren  | 15 Palmer St., Amherst, Cumberland Co., N.S. | Canada  | Amherst | May 7,1915. |
+| 13 | 711<br>1674<br>3885<br>1709 | 415207 |  | McDonald, John Albert  | Private.... | 00th Regt  | McDonald, Mary  | Q South Kline St., Halifax, N.S  | Canada  | Aldershot | Aug. 8, 1915. |
+| 13 | 712<br>1704<br>3885<br>1741 | 414859 |  | McDonald, John James  | Private.... | is i I  | . .jMcDonald, Hugh  | ' )laee Bay*(>.B., N.S  | Canada  | Sydney | Aug. 7, 1915. |
+| 13 | 712<br>1734<br>3886<br>1766 | 415242 |  | McDonald, John K  | Private  | Nil... | (McDonald, Mrs. Charlotte . * | Dominion No. 3, No. 4 P.O., Glace Bay, C.B., | Canada  | Aldershot  | July 29,1915. |
+| 13 | 713<br>1763<br>3886<br>1795 | 415497 |  | McDonald, John R  | Private  | Nil i.McDonald, James. | Reserve Mines, C.B., N.S    | Canada  | Valcartier | Aug. 31, 1915. |
+| 13 | 713<br>1792<br>3887<br>1824 | 414215 |  | McDonald, John Robert  | Private  | Nil. | McDonald, John B. | Mabou West, Inverness Co., N.S  | anada  | Halifax | June 4, 1915. |
+| 13 | 715<br>1821<br>3887<br>1854 | 414435 |  | McDonald, Joseph  | Private  | Nil  | McDonald, Angus  | Waterford. C.B , N.S    | Canada  | Sydney | Aug. 7, 1915. |
+| 13 | 715<br>1850<br>3887<br>1882 | 482080 |  | McDonald, Malcoim  | Private... | Nil  | McDonald, Mrs. Sarah  | Reserve Mines, C.B., N.S   | (.’anada  | Sussex | Sept. 22, 1915. |
+| 13 | 716<br>1880<br>3889<br>1912 | 415718 |  | McDonald, Malcolm Angus  | Private  | Nil  | McDonald, Mrs. Hannah... | Florence, C.B., N.S  | Canada  | Sydney | Aug. 7, 1915. |
+| 13 | 715<br>1909<br>3887<br>1941 | 415728 |  | McDonald, Murdock  | Private | McDonald, D   | New Aberdeen, C.B., N.S  | Canada  | Sydney | Aug. 7, 1915. |
+| 13 | 714<br>1939<br>3888<br>1970 | 414009 | Private  McDonald, Peter  |  | 93rd Regt. | McDonald, Mrs. Dorothy.... | Spring Hill, Cumberland Co., N.S  | Canada  | Spring Hill | Mar. 17, 1915. |
+| 13 | 716<br>1967<br>3888<br>2000 | 414158 | Private McDonald, Roderick  |  | 70th Regt. | McDonald, William  | Dundaa, Kings Co., P.E.l   | Canada  | Halifax | May 4, 1915. |
+| 13 | 716<br>1997<br>3889<br>2031 | 415347 | Private |McDonald, Ronald   |  | Nil.......; | Me Donald, Charles... fi .VTH | North Sydney, C.B., N.S     | Canada   | Sydney. | Aug. 13, 1915. |
+| 13 | 718<br>2025<br>3890<br>2062 | 482037 | Private |McDonald, Russell  |  | Nil  | McDonald, Mrs. J  | Port Elgin, Westmoreland Co., N.B  | Canada  | Sussex.. | Sept. 2, 1915. |
+| 13 | 718<br>2055<br>3890<br>2088 | 415005 | Private iMr Donald, Sandy  |  | Nil  | McDonald, Miss M. A • i | Sydney Mines. C.B., N.S  | Canada  | Sydney. | May 3, 1915. |
+| 14 | 949<br>585<br>3441<br>615 |  |  |  | Former Corps. |  |  | Country of |
+| 14 | 771<br>632<br>3879<br>656 | c. |  |  |  |  |  |  | Place. | Date. |
+| 14 | 764<br>732<br>3935<br>763 | 41 5992 |  |  | Nil.... | McDonald, Mrs. Maggin . | tOT'^'Gottinker, St., Halifax, N.S. .. | Canada  | Valcartier  | (Vug. | 18. | 1315. |
+| 14 | 763<br>761<br>3936<br>793 | 414899 |  | •McDonald, Thomas  | Nil.... | McDonald, James  | Spring Hill, Cumberland Co., N.S.. | Scotland  | Aldershot  | Aug. | 10. | 1915. |
+| 14 | 763<br>791<br>3936<br>821 | 4!5733 |  | McDonald, Victor  | Nil  | McDonald, John  | 33 Amelia St., Sydney, C.B., N.S... | Canada  | Sydney  | Aug. | 7, | 1915. |
+| 14 | 764<br>817<br>3936<br>851 | *14444 |  | McDonald. William A  | Nil  | Munroe, Mrs. A  | Burnside, Pictou Co., N.S  | Canada  | Sydney  | Aug. | 7, | 1915. |
+| 14 | 764<br>850<br>3935<br>883 | 414299 |  | McDougali, Alexander  | C.A.S.C. | McDougali, Mrs. A | Glaco Bay, C.B., N.S  | Canada  | Valcartier  | lune | 28, | 1915. |
+| 14 | 764<br>880<br>3935<br>913 | 414703 |  | McDougall, John  | Nil  | McDougali, Alexander . . | North Sydney, C.B., N.S  | Cannda  | Sydney Mines. | Mar. | 31. | 1915. |
+| 14 | 763<br>910<br>3937<br>943 | 415273 | Private  | McDougali, John Lawrence  | Nil  | MacDougall, Andrew. . . | South Maitland. Hants Co., N.S.... | Cnnada  | Udershot  | Aug. | 8, | 1915. |
+| 14 | 763<br>939<br>3937<br>973 | 414339 |  | McGahey, Charles Joseph Dennis | Nil  | McGahey, Miss Adu   | 27 Surrey FI., Toronto, Ont  | Cannda  | Kentville  | July | 20. | 1915. |
+| 14 | 763<br>968<br>3936<br>999 | 414204 |  | McGill, Gordon Edward  | Nil  | Fawkes, Miss Mabel . | Worcester, Mass, U.S.A  | Cannda  | Hnlifax  | June | 10. | 1015. |
+| 14 | 763<br>995<br>3936<br>1029 | 414491 |  | McGlone, Frederick  | Nil  | McGlone, Mrs. M . | 119 Oxford St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 10, | 1915. |
+| 14 | 765<br>1022<br>3937<br>1057 | 414490 |  | McGlone, Thomas  | Nil  | McGlone, Margar^to | 119 Oxford St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 10, | 1915. |
+| 14 | 764<br>1055<br>3937<br>1087 | 414200 |  | McGowan, John Kerr  | Nil  | McGowan, Mrs. Agnr- | Joggin Mines, Cumberland Co., N.S. | Scotland  | \ldershot  | June | 14, | 1915. |
+| 14 | 764<br>1084<br>3937<br>1117 | 415338 | Private  | McGrath, Joseph  | Nil  | McGrath, Mrs. Christie | 41 Almon St., Halifax, N.S  | Canada  | Halifnx  | July | 30, | 1915. |
+| 14 | 764<br>1113<br>3938<br>1145 | 415877 | Private  | McGrath, Maurice Frederick  | Nil  | McGrath, John M  | Bedford, Halifax Co., N.S  | Canada  | Halifax  | Aug. | 12, | 1915. |
+| 14 | 764<br>1142<br>3937<br>1173 | 41491.') |  | Mclnnis, James   | Nil  | Mclnnis, Mrs. Elizabeth | New Aberdeen, C.B., N.S  | Canada  | Syd ney  | Aug. | 13, | 1915. |
+| 14 | 764<br>1171<br>3937<br>1203 | 415349 |  | McIntosh, Daniel  | Nil  | McIntosh, Mrs. Catherine | Reserve Mines, C.B., N.S  | Canada  | Sydney  | Aug. | 13, | 1915. |
+| 14 | 766<br>1201<br>3937<br>1233 | 4 14l»l2 |  | Macintosh, Laurie Alexander. | Nil  | Macintosh, Sylvia and Svbi | c/o Kenneth Macintosh, Truro, Colchcs | .. | Canada  | Aldershot  | Aug. | 11. | 1915. |
+| 14 | 764<br>1230<br>3938<br>1264 | 41580! |  | McIntosh, Robert  | Nil  | McIntosh, Mrs. Dora  | •ydney Mines, C.B., N.S  | Canada  | Sydney  . | Aug. | 13, | 1915. |
+| 14 | 765<br>1258<br>3937<br>1296 | 41497s |  | McIntyre, Hugh  | Nil  | McIntyre, Joseph .1 . | Caledonia Crossing, N.S  | Cannda  | Sydney  | Aug. | 13. | 1915. |
+| 14 | 765<br>1289<br>3937<br>1324 | 415214 |  | McIntyre, James  | Nil  | McIntyre, Jnme3  | Florence No. 3, C.B., N.S >  | Scotland  | Aldershot  | July | 29, | 1915. |
+| 14 | 763<br>1318<br>3937<br>1353 | 482032 | Private  | McIntyre, John A  | Nil  | McIntyre, James  | Dominion No. 4, Glace Bay, C.B., N.S | Canada  | Sydney  | Sept. | 1, | 1915. |
+| 14 | 764<br>1344<br>3938<br>1383 | 415379 | Private  | McIntyre, Matthew  | Nil  | McIntyre, Miss Sarah  | Reserve Mines, C.B., N.S  | Cannda  | Sydney  | Aug. | 13, | 1915. |
+| 14 | 764<br>1372<br>3938<br>1412 | 482066 | Private  | McKay, Daniel F  | Nil  | McKay, Mrs. Minnie  | Stellarton, Pictou Co., N.S  | Canada   | Sussex  | Aug. | 23, | 1915. |
+| 14 | 764<br>1406<br>3936<br>1441 | 414263 |  | McKay, Duncan  | Nil  | McKny, Mrs. F  | Grand River, Richmond Co., C.B., N.f | Canada  | Aldershot  | June | 19, | 1915. |
+| 14 | 765<br>1435<br>3938<br>1471 | 415002 | C.Q.M.S  | MacKay, James Wilson  | Nil  | MacKay, F,. D. | Baddeck, C.B., N.S  | Cnnada  | Sydney  | Mar. | 27, | 1915. |
+| 14 | 763<br>1464<br>3939<br>1501 | 415280 |  | McKay, John  | Nil  | McKay, J. P  | Chisholm St., New Glasgow, Pictou Co | Canada  | Aldershot  | Aug. | 7, | 1915. |
+| 14 | 764<br>1493<br>3938<br>1529 | 414793 | Private  | McKay, Theodore  | Nil  | McKay, Mrs. Mary. | Spring Hill, Cumberland Co., N.S  | Canada  | Aldershot  | July | 29, | 1915. |
+| 14 | 764<br>1523<br>3939<br>1559 | 414857 |  | McKay, William  | Nil  | McKay, Mrs. Annie Rosin. | Stellarton, Pictou Co., N.S  | Cnnada  | Quebec  | Aug. | 6. | 1915. |
+| 14 | 764<br>1552<br>3939<br>1587 | 415723 | Private  | McKeigan, Angus Dnn  | Nil  | McKeigan, Mrs. Johanna... | Sydney Mines, C.B., N.S  | Canada  | Sydney  | Aug. | 9, | 1915. |
+| 14 | 765<br>1581<br>3940<br>1618 | 415802 | Private  | McKeigan, Nelson  | Nil  | McKeigan, Mrs. Ro^e. | Westville, Pictou Co., N.S  | Canada  | Sydney  | Aug. | 13, | 1915. |
+| 14 | 764<br>1609<br>3939<br>1648 | 415721 | Private  | McKenzie, Charles  | Nil  | McKenzie, Charley  | Liverpool, Queen’s Co., N.S  | Cannda  | Sydney  | Aug. | 7, | 1915. |
+| 14 | 764<br>1639<br>3940<br>1674 | 415348 | Private  | McKenzie, Dalton  | Nil  | McKenzie, Mrs. Chari-s | Reservo Mines, C.B., N.S  | Canada  | Sydney  | Aug. | 13, | 1915. |
+| 14 | 764<br>1668<br>3940<br>1704 | 414785 | Private  | McKenzie, Frank.    | Nil  | McKenzie, Henry   . | Parrsboro’, Cumberland Co., N.S  | Cnnada  | Aldershot  | July | 29, | 1915. |
+| 14 | 765<br>1697<br>3940<br>1734 | 415071 | Private  | McKenzie, Hugh F.  | 94th Reg | McKenzie, A. .) | Rear Christmas Island. C.B., N.S  | Canada  | Valcartier   | Aug. | 6, | 1915. |
+| 14 | 764<br>1725<br>3941<br>1764 | 415218 | Private  | McKenzie, Joseph   | C.F.A.. | McKenzie. Mrs. John | Main St., Glace Bay, C.B., N.S  | Canada  | Aldershot  | July | 29, | 1915. |
+| 14 | 765<br>1755<br>3941<br>1794 | 415834 | Private  | Mar'Kcnzic, Loring   | Nil  | MncKenzie, Mrs. Florence. | Bridgewater, Lunonburg Co., N.S  | Cannda  | Aldershot  | Aug. | 12, | 1915. |
+| 14 | 764<br>1784<br>3941<br>1823 | 415220 | Privaf e  | McKenzie, Hod. A   | 94 th Regt | McKenzie, Mrs. | Caledonia Mines, C.B., N.S  | Cannda  | Aldershot  | July | 29, | 1915. |
+| 14 | 764<br>1814<br>3941<br>1853 | 415325 | Private  | McKinlay, Albert Edward  | Nil  | McKinlay, Georg • - | 108 Maynard St., Halifax, N.S  | Canada  | Ilnlifax  | July | 31, | 1915. |
+| 14 | 765<br>1839<br>3942<br>1880 | 415290 | Private  | McKinnon, Alexander Benedict... | Nil  | McKinnon, Mrs. Mary A .. | Viotoria St., Glace Bay, C.B., N.S. . .. | Canada  | Sydney  | Aug. | 9, | 1915. |
+| 14 | 766<br>1873<br>3941<br>1909 | 414182 | Privnte  |  | Nil  | McKinnon, Mrs. P • | Glace Bay, C.B., N.S  | Cnnnda  | Aldershot  | May | 25, | 1915. |
+| 14 | 1963<br>1903<br>3943<br>1935 |  |  |  |  | McKinnon, Mr*. Barrie*. .. | Truro, Colchester Co., N.S  | Canada  | Aldershot  | Aug. | 12, | 1915. |
+| 14 | 766<br>1911<br>1756<br>1939 | 414930 | Private  |  | Nil  |
+| 14 | 764<br>1932<br>3941<br>1970 | 414007 | Private  . | IMcKinnon, Laughlin  . | Nil  | McKinnon, Mrs. Mary B. | Eureka, Pictou Co., N.S  | Canada. ... | New Glasgow. | May | 4, | 1915. |
+| 14 | 764<br>1957<br>3942<br>1998 | 482082 | Private  | 'McKinnon. Wilfred  | Nil  | McKinnon. Mrs. K-b- "s.. | Chignecto. Cumberland Co.. N.S  | Canada  | Sussex  | Oct. | 11, | 1915. |
+| 14 | 766<br>1991<br>3943<br>2033 | 415531 | Private  | jMaeKinnon, William Karl  | Nil  | MacKinnon, W. C | Yarmouth, N.S.   | Cannda  | Ynrmouth ... | April | 21, | 1915. |
+| 14 | 766<br>2020<br>3943<br>2057 | 414905 | Privnte  | '.MacLarcn, Charles Robert  | Nil  | MaeLnrcn, Charles 1! | Moncton, N.B., Westmoreland Co | Canada  | Aldershot  | Aug. | 11, | 1915. |
+| 14 | 766<br>2045<br>3943<br>2090 | 414300 | Private  | lughlin, James Thomas.. | Nil  | McLaughlin, Mrs. Elizabeth | 8 Armoury PI., Halifax, N.S  | Cannda  | Aldershot. | Aug. | 3. | 1915. |
+| 14 | 766<br>2078<br>3944<br>2119 | 414925 | Private  | 'McLaughlin, Robert Taylor.. . | Nil  | McLaughlin, L | Stellarton, Pictou Co., N.S  | Canada  | Aldershot  | Aug. | 11. | 1915. |
+| 14 | 767<br>2108<br>3944<br>2146 | 414227 |  | IMcLean, Angus  | Nil  | IMcLean, Dan. B.. | Dominion No. 1, Sydney, C.B., N.S.. | Cannda  | Aldershot  | June | 10, | 1915. |
+| 14 | 767<br>2135<br>3944<br>2173 | 414989 | Private  |  | Nil  | 'Mcl^an. Mrs. Mar. | Reserve Mines, C.B., N.S  | Scotland  | Sydney  | Aug. | 13. | 1915. |
+| 15 | 632<br>292<br>3797<br>329 | 41 KiM!Private.... |  | McLean, Edward   | Nil  | . |McLcan, Mrs. Nora  | Glace Bay, C.B., N.S  | Canada  | Valcartier  | July 13, | 1915. |
+| 15 | 632<br>323<br>3798<br>365 | •IM’iill Private.... |  | McLean, Hector   | C.F.A.... | j McLean, Rod  | Dominion, C.B., N.S  | Canada  | Aldershot  | June 1G, | 1015. |
+| 15 | 632<br>353<br>3797<br>388 | 415722 Private.... |  | McLean, John   | Nil. | . McLean, Mrs. Mary. | Glace Bay, C.B., N.S  | Canada  | Sydney  | Aug. 7, | 1915. |
+| 15 | 631<br>383<br>3798<br>416 | 4150 Private.... |  | McLean, John A ..., | Nil  | Mr-Lean, Mrs. Lizzie  | Glace Bny, C.B., N.S  | Canada  | Sydney.  | Aug. 13, | 1915. |
+| 15 | 632<br>411<br>3800<br>446 | 415700 Private.... |  | McLean, John Jnrnes  | Nil  | Me Lean, John   | Sydney Mines, C.B., N.S.    | U.S.A  | Jydney  | Auk- 9, | 1915. |
+| 15 | 631<br>442<br>3800<br>475 | 482017 Private.... |  | Me Lean, John J  | 94th Regt. | McLenn, Bessie  | Washabuck Centre, C.B., N.S  | Cnnada...   | Sydney  | Sept. 1, | 1915. |
+| 15 | 631<br>472<br>3799<br>506 | 4i54G2iPrivate.... |  | McLean, Malcolm Morris   | 03rd Regt. | McLean, Daniel....   | 00 Windsor, St., Halifax, N.S  | Canada  | Valcartier  | Aug. 18, | 1915. |
+| 15 | 631<br>501<br>3799<br>533 | 4 15075' Private.... |  | McLean, Ronald   | Nil  | McLean, Mrs  | Louisburg Road, C.B., N.S  | Canada  | Glace Bay  | May 5, | 1915. |
+| 15 | 638<br>532<br>3799<br>563 | •! 1112 Private.... |  | McLean, Vincent   | Nil  | McLean, Dan  | Sydney Mines, C.B., N.S  | U.S.A  | U.S.A  | Aug. 9, | 1915. |
+| 15 | 632<br>561<br>3800<br>596 | 482088 Private.... |  | McLcllan, An^us  | Regt.. | MeLellan, Allen .     | New Waterford, C.B., N.S  | Canada  | Valcartier  | Oct. 17, | 1915. |
+| 15 | 631<br>591<br>3800<br>621 | 4142G‘J Private.... |  | McLellnn, Hugh   |   | McLcllan, Miss Annie L  | Sydney Mines, C.B., N.S  | Canada  | Aldershot  | Juno 10, | 1915. |
+| 15 | 631<br>620<br>3800<br>652 | 415350 Privato.... |  | McLelinn, Michnel C   | Nil  | McLellnn, Mrs. Catharine.... | New Waterford, C.B., N.S  | Canada  | Sydney  | Aug. 13, | 1915. |
+| 15 | 631<br>650<br>3800<br>683 | 414333 | Private | McLeod, Angus D  | 94th Regt. | McLeod, Mrs. Annabel  | English Town, Victoria Co., N.S  | Canada  | Halifax  | Nov. 2t>, | 1915. |
+| 15 | 631<br>679<br>3801<br>712 | 482030 | Private.... | McLeod, Frank H   | 94th Regt. | McLeod, Mary  | Lewis Mountain, C.B., N.S  | U.S.A  | Sydney  | Sept. 1, | 1915. |
+| 15 | 631<br>709<br>3800<br>740 | 415100 | Private. | McLeod, Hugh Henry   | C.O.T.C.. | McLeod, Mrs. Elizabeth M.. | ?5 Preston St., Halifax, N.S  | Canada  | Halifax  | Aug. 3, | 1915. |
+| 15 | 632<br>738<br>3801<br>770 | 414875 | Private.... | McLeod, John   | Nil  | McLeod, Mrs. Annie   | River Hebert, Cumberland Co., N.S  | Canada  | Aldershot  | Aug. 10, | 1915. |
+| 15 | 631<br>768<br>3801<br>799 | 415380 | Private.... | McLeod, John A  |  | McLeod, Archie    | Dominion No. 6, C.B., N.S  | Canada  | Sydney  | Aug. 13, | 1915. |
+| 15 | 631<br>798<br>3800<br>829 | 415735 | Private.... | McLeod, John II  | 94th Regt.. | McLeod, Murdock  | Baddcck, C.B., N.S  | Canada  | Sydney  | Aug. 9, | 1915. |
+| 15 | 632<br>828<br>3801<br>858 | 415378 | Private.... | McLeod, John K  | Nil  | McLeod, Mrs. Mabel  | P.O. Box 183, Sydney, C.B., N.S  | Canada  | Sydney  | Aug. 13, | 1915. |
+| 15 | 632<br>857<br>3801<br>888 | 415719 | Private.... | McLeod, Lawrence   | Nil  | McLeod, Angus   | New Waterford, C.B., N.S  | Canada  | Sydnej’  | Aug. 7, | 1915. |
+| 15 | 631<br>886<br>3802<br>916 | 4J4352 | Private.... | McLeod, William   | Nil  | Mcf>eod, Mrs. Cathnrine  | 13 Stairs St., Halifax, N.S  | Canada  | Aldershot  | July 29, | 1915. |
+| 15 | 631<br>916<br>3802<br>946 | 4140G2 | Private.... | McLeod, William  | 93rd Re^t.. | McLeod, Mrs. Annie   | P.O. Box 191, Spring Hill, Cumberland, N.S  | Canada  | Aldershot  | Aug. 11, | 1915. |
+| 15 | 631<br>944<br>3801<br>975 | 4141111 | Privnte. | McMillan, Roderick   | Can. Mil... | McMillan, Mrs. Agnes  | Spring nill, Cumberland Co., N.S  | Scotland  | Aldershot  | May 29, | 1915. |
+| 15 | 630<br>974<br>3801<br>1003 | 414058 | Privnte.... |  | Nil  | McMillan, Sidon G  | Intro, Colchester Co., N.S  | Canada  | Aid^rshot  | Aug. 12, | 1915. |
+| 15 | 631<br>1003<br>3801<br>1034 | 414913 | Privnte. | McMillan, William i I  | Nil  | McMillan, William  | Fleas'int St., Truro, Colchester Co., N.S  | Canada  | Aldershot  | Aug. 11, | 1915. |
+| 15 | 631<br>1032<br>3801<br>1063 | 415700 | Privnte.... | McMullen, Normnn Angus..... | Nil  | McMullen, Archie  | Caledonia Mines, C.B., N.S  | Canada  | Sydney  | Aug. 9, | 1915. |
+| 15 | 630<br>1061<br>3802<br>1092 | 414012 | Privnte. | McNnughton, John  | Nil  | McNaughton, Mrs. Margaret. | Eureka, Pictou Co., N.S    | Canada  | New Glasgow. . | Mar. 30, | 1915. |
+| 15 | 630<br>1090<br>3802<br>1121 | 414307 | Privnte.... | McNeil, Angus  | Nil  | Neil, Rory J   | New Waterford, C.B., N.S  | Canada  | Valcartier  | June 28, | 1915. |
+| 15 | 630<br>1119<br>3803<br>1149 | 414297 | Private.... | McNeil, Angus P  | Nil  | McNeil, MichaH A  | Grand Narrows, C.B., N.S. .   | Canada  | Valcartier  | June 28, | 1915. |
+| 15 | 630<br>1149<br>3803<br>1180 | 414445 | Privnte  | McNeil, Dnniel.   | Nil  | McNeil, Kenneth  | Dominion, C.B., N.S...   | Canada  | Sydney  | Aug. 7, | 1915. |
+| 15 | 630<br>1178<br>3804<br>1208 | 414473 | Privnte.... | McNeil, James Ronald George. | Nil  | McNeil, Mrs. Jane  | 103 Queen St., Halifax, N.S  | Canada  | Aldershot  | Aug. 10, | 1915. |
+| 15 | 631<br>1208<br>3803<br>1237 | 415989 | Privnte.... | Mac Neil, John it  | 91th Regt.. | MacNeil, Mary  | Boston, Ma^s., U.S.A   | Cannda  | Halifax  | Aug. 12, | 1915. |
+| 15 | 631<br>1236<br>3803<br>1268 | 4148G2 | Privnte.... | McNeil, Lawrence  | Nil  | McNeil, Mrs. A  | New Aberdeen, C.B., N.S  | Canada  | Sydney  | Aug. 7, | 1915. |
+| 15 | 631<br>1266<br>3803<br>1298 | 414973 | Private.... | McNeil, Malcolm  | Nil  | McNeil, James N  | Big Baddcck, C.B., N.S    | Canada  | Sydney  | Aug. 13, | 1915. |
+| 15 | 631<br>1296<br>3804<br>1328 | 415871 | Private.... | McNeil, Neil  | Nil  | McNeil, Don   | Sydney Mines, C.B., N.S   | Cannda  | Sydney  | Aug. 13, | 1915. |
+| 15 | 631<br>1325<br>3803<br>1354 | 4142G9 | Privnte.... | McNeil, William  | iSil  | McNeil, Mrs. Jessie  | Wallace, Cumberland Co., N.S ^  | Canada  | Halifax  | Nov. 21, | 1915. |
+| 15 | 632<br>1350<br>3804<br>1386 | 482020 | Private.... | McNeill, Robert  | Nil  | McNcili, Miss Janet. ... | Kirkcaldy, Fife, Scot  | Scotland  | Sydney  | Sept. 1, | 1915. |
+| 15 | 632<br>1383<br>3804<br>1413 | 4151G3 | Private.... | •ineNevin, Colin Uriah  | C.F.A  | MacNevin. John Colin  | De Sable, Queens Co., P.E.l   | Canada  | Halifax.  | Feb. 15, | 1915. |
+| 15 | 632<br>1412<br>3804<br>1442 | 414185 | Private.... | McPhee, Alexander  | Nil  | McPhee, Archie  | Sydney Minns, C.B., N.S.  | Canada  | Halifax  | Feb. 11, | 1915. |
+| 15 | 632<br>1441<br>3804<br>1474 | 414403 | Privnte.... | McPhee, Carl Frederick  | Nil  | McPhee, Mrs. Hattie  | 37 Maynard St., Halifax, N.S   | Canada  | Halifax  | July 30, | 1915. |
+| 15 | 632<br>1470<br>3804<br>1503 | 415224 | Privnte  | M cPhee, George  | 94th Regt.. | McPhee, Mrs. Lydia  | New Aberdeen, C.B., N.S  | Canada  | Aldershot  | July 29, | 1915. |
+| 15 | 633<br>1499<br>3804<br>1532 | 482001 | Private.... | McPhee, Patrick  | Nil  | McPhee, Neil  | Argyle St., Sydney, C.B., N.S  | Canada  | Sydney  | Aug. 24, | 1915. |
+| 15 | 633<br>1528<br>3804<br>1558 | 482089 |    Private.... | McPherson, Andrew  | 8th Regt... | Doucette, Mrs. W  | Now Waterford, C.B., N.S  | Canada  | Valcartier  | Oct. 17, | 1915. |
+| 15 | 633<br>1557<br>3804<br>1591 | 415708 Private.... |  | McPherson, Dan. J  | Nil  | McPherson, Mrs. Dan. J  | Glace Bay, C.B., N.S  | Canada  | Sydney  | Aug. 7, | , 1915. |
+| 15 | 633<br>1586<br>3805<br>1620 | 414432 Piivate.... |  | McPherson, Ernest Corbett.... | Nil  | McDonald, Mrs. Clara  | New Waterford, C.B., N.S  | Canada  | Sydney  | Aug. 9, | , 1915. |
+| 15 | 633<br>1615<br>3805<br>1649 | 4154391 Pri vate.... |  | McPherson, Neil  | Nil  | McPherson, Mose  | Reserve Mines, C.B., N.S  | Canada   | Aldershot  | May 24, | , 1915. |
+| 15 | 634<br>1645<br>3806<br>1679 | 482011 Privnte |  | McPherson, William  | Nil  | McPherson, Mo«*es  | Reserve Mines, C.B., N.S   | Canada  | Sydney  | Aug. 13, | , 1915. |
+| 15 | 634<br>1674<br>3806<br>1707 | 415980 | Privnte.... | McQuarrie, Walter  | Nil  | McQuarrie, Alrxand^r  | Mount Uniacke, Hants Co., N.S  | Canada   | Halifax  | Aug. 9, | . 1915. |
+| 15 | 635<br>1703<br>3806<br>1735 | 415S90 | Private  | Maebus, Harry Frederick  | R.C.R  | Heim, Mrs. Alexander  | Winkler, Man  | Cannda   | Valcartier  | Aug. 1*, | , 1915. |
+| 15 | 635<br>1732<br>3807<br>1766 | 415287 | Privnte.... | Mann, John  | Nil  | Mnnn, James H  | Florence, C.B., N.8  | Scotland  | Sydney  | Aug. 7, | , 1915. |
+| 15 | 635<br>1761<br>3806<br>1795 | 415129 | Private.... | Mansfield, Edwnrd  | Nil  | Chisholm, Mrs. Katie  | Tablo Head, Glace Bay, C.B., N.S  | Newfoundland. | Alexander. . | May 24, | , 1915. |
+| 15 | 636<br>1790<br>3807<br>1825 | 414941 | Sergeant... | Maneley, Thomns  | 03rd Regt.. | Mansiey, Mrs. II  | 30-1 Brunswick 8t., Halifax, N.S  | England  | Valcartier.. | Sept. 21, | , 1915. |
+| 15 | 636<br>1820<br>3807<br>1855 | 415972 | Private.... | Manuel, Jacob  | Nil. | Manuel. Mrs. Elizabeth  | 119 Lockman St., Halifax, N.S  | Cannda  | Halifax   | Aug. 12. | , 1915. |
+| 15 | 636<br>1849<br>3807<br>1884 | 415159 | Privnte.... | Marsh, Colin  | Nil  | Marsh. Mrs. Colin  | Reservo Min^s, C.B., N.S  | Canada........ | Valcartier  | July 13 | , 1915. |
+| 15 | 637<br>1879<br>3808<br>1914 | 414108 | Private  | Marshall, David Fraser  | Nil  | Marshall, Fraser G   | P.O. Box 310, New Glasgow. Pictou Co., N.S  | Canada  | Aldershot  | Aug. 3 | , 1915. |
+| 15 | 637<br>1908<br>3808<br>1943 | 415101 | Private.... | Marshall, Frederick H  | 09th Regt. | Marshall, Miss Hattie I  | Bear River, Digby Co., N.S  | Cannda  | Valcartier  | July 13 | 1915. |
+| 15 | 638<br>1937<br>3808<br>1973 | 415351 | Private.... | Marshall, Kenneth  | Nil  | Marshall, Burpee  | Sydney, C.B.. N.S   | Cannda  | Sydney  | Aug. 13 | ,1915. |
+| 15 | 638<br>1966<br>3809<br>2002 | 415590 | Private.... | Marshall, Vernon Chipmnn  | Nil  | Marshall, Wheelock  | Bridgetown, Annapolis Co., N.S  | Canada  | Middleton  | April 5 | 1915. |
+| 15 | 638<br>1995<br>3809<br>2031 | 415891 | Privnte..,. | Martell, Edwnrd Samuel  | 03rd Regt. | Martell, E. 8  | 50 Bloomfield St., Halifax, N.S  | Canada  | Valcartier  | Aug. 18 | 1915. |
+| 15 | 639<br>2024<br>3809<br>2057 | 414007 | Private.... | Martell, John  | Nil  | Martell, Mrs. Fanny  | 60 Bloomfield St., Halifax, N.S  | Canada  | Halifax •... | Mai. 15 | . 1915. |
+| 16 | 935<br>635<br>3414<br>665 |  |  |  | Former Corps. |  |  | Country of |
+| 16 | 744<br>783<br>3910<br>812 | 414)24 |  |  | R.C.R  |  |  |  |  | June 22, 1915. |
+| 16 | 744<br>842<br>3909<br>873 | 415220 |  |  |  |  |  |  |  | July 29, 1915. | Nil  | Glace Bay, C.B., N.S  |
+| 16 | 743<br>959<br>3910<br>989 | 414322 |  |  |  |  |  |  |  | July 30,1915. | Mason, John  | Nil  |
+| 16 | 742<br>989<br>3910<br>1018 | 414004 |  |  |  |  |  |  |  | Aug. 10, 1915. | Nil  |
+| 16 | 742<br>1017<br>3910<br>1048 | 414320 |  |  |  |  |  |  |  | July 13 1915. | Nil  | Dundns, Kings Co., P.E.I  |
+| 16 | 743<br>1047<br>3910<br>1076 | 415711 |  |  | Nil  |  |  |  |  | Aug. 9, 1915. |
+| 16 | 742<br>1076<br>3911<br>1105 | 415484 |  |  |  |  |  |  |  | Aug. 10,1915. | Nil  |
+| 16 | 742<br>1105<br>3910<br>1135 | 414718 |  |  |  |  |  |  |  | July 6, 1915. | Maynard, George Lester  | Nil  | Millers Creek, Hants Co., N.S  |
+| 16 | 742<br>1134<br>3910<br>1162 | 415-187 |  |  |  |  |  |  |  | Aug. 14, 1915. | Meager, Arthur  | Imp. Forces  | 12 Maple St., Spring Hill, Cumberland Co., N.S  |
+| 16 | 742<br>1163<br>3910<br>1191 | 415442 |  |  |  |  |  |  |  | Oct.. 10, 1915. | Spring Hill Mines, Cumberland Co., N.S  | Valcartier  |
+| 16 | 742<br>1192<br>3910<br>1221 | 415270 |  |  |  |  |  |  |  | Aug. 8, 1915. | Nil... |
+| 16 | 742<br>1220<br>3910<br>1249 | 482012 |  |  |  |  |  |  |  | Aug. 27, 1915. | Nil  | 40 Calville Rd., Birmingham, Eng  | England  | Sussex  |
+| 16 | 742<br>1249<br>3910<br>1277 | 414745 |  |  |  |  |  |  |  | Julv 24, 1915. | Lower Five Islands, Colchester Co., N.S  | Private  | Mcckins, Amos  | Nil  |
+| 16 | 741<br>1280<br>3910<br>1307 | 4151OH |  |  |  |  |  |  |  | Julv 14, 1915. | Nil  |
+| 16 | 742<br>1308<br>3910<br>1337 | 414780 |  |  |  |  |  |  |  | July 29, 1915. | Amherst, Cumberland Co., N.S  | Canada  |
+| 16 | 741<br>1337<br>3911<br>1366 | 414103 |  |  |  |  |  |  |  | Mar. 29, 1915. | ft Moran St., Halifax, N.S  | Melvin, Willard Douglas  | C.O.T.C  | Melvin, D. J   |
+| 16 | 741<br>1366<br>3911<br>1395 | 414874 |  |  |  |  |  |  |  | Aug. 7, 1915. | 91 Victoria St., Caerau, Bridgend, Glamorgan, Wales.. |
+| 16 | 741<br>1397<br>3910<br>1425 | 415227 |  |  |  |  |  |  |  | July 29, 1915. | Nil  |
+| 16 | 741<br>1425<br>3911<br>1453 | 482090 |  |  |  |  |  |  |  | Aug. 27, 1915. | Nil  | Spring Hill, Cumberland Co., N.S  |
+| 16 | 742<br>1455<br>3911<br>1483 | 414788 |  |  |  |  |  |  |  | July 29,1915. | Mil burn, William Robert  | Nil  |
+| 16 | 741<br>1485<br>3911<br>1512 | 415144 |  |  |  |  |  |  |  | May 5,1915. | Kentville  |
+| 16 | 741<br>1512<br>3911<br>1542 | 415107 |  |  |  |  |  |  |  | Aug. 10, 1915. | Private  | Miller, Archibald 'l homas. — | 5 Fenwick St., Halifax, N.S  |
+| 16 | 741<br>1542<br>3911<br>1570 | 415243 |  |  |  |  |  |  |  | July 30. 1915. | Nil  |
+| 16 | 741<br>1600<br>3912<br>1628 | 415334 |  |  | Nil  |  |  |  |  | July 30, 1915. |
+| 16 | 742<br>1629<br>3912<br>1657 | 414338 |  |  |  |  |  |  |  | Mar. 30, 1915. | Miller John W | Nil  |
+| 16 | 741<br>1657<br>3912<br>1688 | 414897 |  |  |  |  |  |  |  | Aug. 10.1915. | Private  | Mills, Elisha R. .   | Nil  | Mills, Mrs. Nora    | P.O. Box 973, Truro, Colchester Co., N.S  | Aldershot  |
+| 16 | 741<br>1685<br>3912<br>1715 | 414214 |  |  |  |  |  |  |  | June 2. 1915. | Private  | Gay’s River, Colchester Co., N.S  |
+| 16 | 741<br>1714<br>3912<br>1745 | 482020 | Private  |  |  |  | Sackville, Westmoreland Co., N.B  | Milton, Smith field  | Nil  | Milton, Miss Vera  | Canada  | Sussex...   | Sept. 17,1915. |
+| 16 | 1109<br>1772<br>3913<br>1801 |  |  |  |  |  |  |  |  | Aug. 11,1915. | Mitchell. Frederick M  | Nii  | Truro, Colchester Co., N.S  | Canada  | Aldershot  |
+| 16 | 741<br>1801<br>3913<br>1832 |  |  |  |  |  |  |  |  | Aug. C, 1915. | Monahan, William Patrick  | Nil  | Canada  | Valcartier  | 414085 | Private.   |
+| 16 | 742<br>1860<br>3905<br>1892 | 414828 |  | Moore. Patrick Joseph  | Nil  |  |  |  | Halifax  | May 30. 1915 |
+| 16 | 742<br>1888<br>3915<br>1921 | 415901 |  | Moran, Robert  | Nil  |  |  |  |  | Aug. 14, 1915. | Moran, David   |
+| 16 | 742<br>1916<br>3914<br>1951 | 415787 |  | M crash, Allan  | Nil   |  |  |  |  | Aug 10. 1915. | Morash, Mrs. Maria  | Private  |
+| 16 | 741<br>1947<br>3913<br>1981 | 415.805 |  | Morgan, William  | Nil:   |  |  |  |  | Aug. 13,1915. | Morgan, Joseph.     | Private  | Manuels, Nfld   | Newfoundland.. | Sydney  |
+| 16 | 741<br>1975<br>3914<br>2009 | 414940 |  | Morgan, William John..   | Nil  |  |  |  |  | Aug. 13, 1915. | Morgan, Mrs. Cassie .   | Private  | New Aberdeen, C.B., N.S   | Newfoundland . | Sydney  |
+| 16 | 742<br>2005<br>3914<br>2039 | 415909 |  | Mori lie, Victor Curtis  | Nil  |  |  |  |  | May 10, 1915. | Morinc, Miss Amy..   | Private  | e/o Lee Morine, Rear River, Digby Co., \T.S  | Canada  | Digby  |
+| 16 | 742<br>2034<br>3914<br>2068 | 415818 |  | Morris, Thomas Richard  | Nil  |  |  |  |  | Aug. 2. 1915. | Hanlon, Mrs. Sarah .   | Private  | Neri^sa, Guysborough C<» . N.S..   | Cnnada  | Halifax .   |
+| 16 | 742<br>2064<br>3914<br>2098 | 414744 |  | Morrison, Angus D  | C.F.A  |  |  |  |  | May 8. 1915. | Morrison, Michell D  | Private  | Sydney Mines, C.B., N.S  | Canada  | Sidney*Mines... |
+| 16 | 742<br>2093<br>3915<br>2127 | 415352 |  | Morrison, Christopher..   | Nil  |  |  |  |  | Aug. 9. 1915. | Sydney, C.B., N.S  |
+| 16 | 743<br>2124<br>3906<br>2156 | 415375 |  | Morrison, Dan. J  | Nil  |  |  |  |  | Aug. 13, 1915 | Glace Bay, C.B., N.S  |
+| 16 | 743<br>2153<br>3915<br>2186 | 415376 |  | Morrison, D. D  | Nil  |  |  |  |  | Aug. 13. 1915. | Framboise, Richmond Co., N.^   | Private  | Morrison, R. R.   | Canada.. .. | Sydney  |
+| 16 | 743<br>2181<br>3907<br>2213 | 415051 |  | Morrison, Malcolm   | Can. Mil   |  |  |  |  | July 1". 1015 | Glace Bay, C.B., N S | Private  | lMorr»«on, Angus D.   | Canada    | Valcartier |
+| 17 | 660<br>388<br>3618<br>425 | 415600 Sergeant  |  | Morrow, John  | Nil  | Morrow, Marion S  | c/o William Stairs Son Morrow, Halifax | Canada  | Bridgewater.... |
+| 17 | 661<br>417<br>3619<br>454 | 415754 Private  . |  | Morton, James....   | Nil  | Morton, Hannah..   | New Germany, Lunenburg Co., N.S  | Canada  | Aldershot  |
+| 17 | 661<br>448<br>3618<br>483 | 415901 Private  |  | Mosher, Zenas H  | Nil  | Mosher, Mrs. Dorothy  | Middleton, Antic>nirh Co., N.S  | Canaria  | •Vldershot  |
+| 17 | 662<br>477<br>3619<br>513 | 414837 Private  |  | Moss, Stanley  | Nil  | Moss, Mrs. Elisabeth  | 00 West St., Halifax. N.S  | Canada  | Aldershot  |
+| 17 | 663<br>508<br>3619<br>541 | 4)5377 Privnte  |  | M'Milton, Frank;  | Nil  | Moulton, Mrs. Elizabeth.... | Belleoram, Nfld  | Newfoundland.. | Sydney  |
+| 17 | 665<br>537<br>3618<br>573 | 114274 j Privat e  |  | Muise, Alexander  | Nil  | Muise, Mrs. George  | Inverness, C.B., N.S  | Canada   | Halifax  |
+| 17 | 660<br>567<br>3619<br>599 | 415589 Private  |  | Muise, Dennis  | C.F.A.. | Muise, Peter J  | Yarmouth, N.S  | Canada  | Yarmouth  |
+| 17 | 661<br>597<br>3619<br>629 | 415649 Private  |  | Muise, Enos  | C.F.A.. | Muise, Mrs. Lena  | Yarmouth, N.S  | Canada  | Yarmouth  |
+| 17 | 662<br>626<br>3619<br>660 | 415744 j Privato  |  | Muise, Robert John  | Nil  | Muise, Frank  | Yarmouth, N.S   | Canada  | Aldershot  |
+| 17 | 661<br>656<br>3620<br>688 | 414237 Private  |  | Mullen, Ernest Ralph  | Nil  | Mullen, Mrs. Enoch  | Havelock, New Tusket, Digby, Co., N.S. | Canada  | Aldershot  |
+| 17 | 662<br>686<br>3619<br>718 | 415845 Private  |  | Mull in, Charles  | Nil  | Mullin, Alfred  | Norwood, Yarmouth. N.S  | Canada  | Aldershot  |
+| 17 | 663<br>715<br>3620<br>747 | 415228 Private   |  | Mullins, Jerry  | Nil  | Mullins, Lawrence  | Main St., Glace Bay,C.B., N.S.  | Canada  | Aldershot  |
+| 17 | 662<br>745<br>3620<br>778 | 414250 Sergeant  |  | M ulienger, Joseph  | 66th Regt  | Mulienger, Mrs. S   | Herring Cove, Halifax Co., N.S  | England  | Aldershot  |
+| 17 | 663<br>775<br>3620<br>808 | 415901 Private  |  | M ulienger, Roy Arthur  | GOth Regt  | Mullonger, Joseph  | Herring Cove, Halifax Co., N.S  | Canada  | Halifax  |
+| 17 | 661<br>804<br>3619<br>834 | 415403 Private  |  | Mumford, Edward  | 00th Regt  | Mumford, G. E  | 14 Allen St., Halifax. N.B  | Canada  | Halifax  |
+| 17 | 661<br>833<br>3619<br>866 | 415209 Private  |  | Mummery, Arthur   | C.A.M.C  | Mummery, Mrs. Alice  | 130 Agricola St., Halifax, N.S  | Canada  | Aldershot  |
+| 17 | 661<br>863<br>3620<br>895 | 414301 Privato  |  | Munro, Angus  | Nil  | Munro, Mrs. Mary  | Reserve Mines, C.B., N.S  | Canada  | Valcartier  |
+| 17 | 661<br>892<br>3621<br>924 | 414242 Private  |  | Munro, John Maxwell  | Nil | Munro, Jo tries  | Sydney River, C.B., N.S  | Canada  | Aldershot  |
+| 17 | 661<br>921<br>3621<br>953 | 415592 Private  |  | Munroe, Daniel.    | Nil | Munroe, Mrs. Blinn  | Queens Port, Guysborough Co., N.S  | Canada  | Kentville  |
+| 17 | 661<br>950<br>3622<br>982 | 415100 Private  |  | 1 unroe, Duncan Keer  | Nil | McLean, Mrs. Rosy.  | Sydney, C.B., N.S | Canada  | Valcartier  |
+| 17 | 661<br>978<br>3621<br>1012 | 4158501 Private  |  | Munroe, William H  | Nil.. | Munroe, Lizzie  | Yarmouth, N.S | Canada  | Aldershot  |
+| 17 | 662<br>1009<br>3623<br>1045 | 482018 [Private  |  | Murdock, Murray  | Nil | Murdock, Mrs. Edith  | St. John, N.B. . | Canada  | Sussex  |
+| 17 | 662<br>1038<br>3622<br>1070 | 414923 Private  |  | Murphy, Arthur  | Nil | Murphy, Mrs. Arthur. | 51 DufiusSt., Halifax, N.S | Canada  | Aldershot  |
+| 17 | 662<br>1068<br>3623<br>1098 | 482008 Private  |  | Murphy, Daniel   | Nil | Murphy, Patrick  | Reserve Mines, C.B., N.S, | Canada  | Sydney  |
+| 17 | 663<br>1096<br>3624<br>1130 | 4144721 Pri vate  |  | Murphy, i red crick Joseph .... | Nil | Murphy, Mrs. Annie  | 110 Maynard St., Halifax, N.S  | Canada  | Aldershot  |
+| 17 | 663<br>1126<br>3624<br>1157 | 414300 Private  |  | Murphy, Frederick Michael  | Nil  | Peverill, Mrs. Violet  | 210 Windsor St., Halifax, N.S  | Canada  | Halifax  |
+| 17 | 663<br>1155<br>3624<br>1187 | 4147981 Private  |  | Murehy, John | Nil   | Murphy, Mrs. Annie  | 39 Cold St., Queenstown, Cork, Ire  | Ireland  | Aldershot  |
+| 17 | 662<br>1183<br>3624<br>1215 | 414993 Private  |  | Murphy, Pcrcival Bernard  | 03 rd Regt  | Murphy, Mrs. Elizabeth.... | 39Loekman St., Halifax, N.S  | Canada  | Valcartier  |
+| 17 | 663<br>1213<br>3623<br>1245 | 416063 Private.... ... |  | Murphy, Stanley  | Nil  | Murphy, James .  | North Fast Margaree. C.B.. N.S  | Canada  | Sydney Mines. . |
+| 17 | 664<br>1242<br>3624<br>1273 | 414483 Private... |  | Murphy, William Gerald  | Nil  | Murphy, Mrs. Catharine... | 32 Birmingham St., Halifax, N.S  | Canada  | Aldershot  |
+| 17 | 664<br>1270<br>3623<br>1304 | 414031 | Private  | 1 urray, Alexander  | Nil  | Murray, Mrs. Ann  | Hantsport, Hants Co., N.S  | Canada  | Aldershot   |
+| 17 | 663<br>1300<br>3624<br>1332 | 415477 | Private  | Murray, John Gordon  | Nil  | Murray, Emma  | Truro, Col **ster( o , N.S  | Cannda  | Aldershot  |
+| 17 | 664<br>1330<br>3623<br>1361 | 414276 | Private  | Murray, Thomas  | Nil ;  | Murray, Mrs. Mary Ann  | 37 Provnnhil) St., Glasgow, Scot  | Scotland  | Halifax  |
+| 17 | 664<br>1358<br>3595<br>1391 | 415870 | Private  | Myers, John   | Nil  | Myers, Mrs. Sarah  | 15 Dolbein St., Sydney, < '.B., N.S  | Canada  | Sydney   |
+| 17 | 664<br>1387<br>3624<br>1419 | 415410 | Privnte  | Myers, John B  | Nil    | Myers, Mrs. l^ewis  | Water St., Dartmouth. Halifax Co., N.S.. | Canada  | Valcartier  |
+| 17 | 665<br>1415<br>3624<br>1449 | 414035 | Privnte  | Myra, William  . | Nil  | Myra, Mrs. Caroline  | 49 Longard Rd.. Halifax, N.S  | Canada  | Halifax  |
+| 17 | 666<br>1445<br>3612<br>1477 | 414020 | Private  | Nenry. Patrick J  | Nil  | Neary, Mrs. Mary  | 3:Ha Barrington St., Halifax, N.S  | Canada  | Aldershot  |
+| 17 | 666<br>1475<br>3612<br>1505 | 414813 | Private  | Newell, Foster  | Nil  | Robinson, Herbert  | 44 Birmingham St., Halifax, N.S  | Cannda  | Halifax  |
+| 17 | 665<br>1504<br>3614<br>1536 | 482075 | Privnte.  | Nickerson, Abijah  | Nil  | Nickerson, Mrs. Lockhart. | 1 ■ -Me, N.S  | Canada  | Sussex  |
+| 17 | 665<br>1533<br>3613<br>1565 | 482039 | Private  | Nickerson, John Philip  | C.F.A  | Nickerson, Jo'wph  | 18 Wright Ave., Halifax, N.S  | Canada  | Sussex  |
+| 17 | 666<br>1562<br>3612<br>1594 | 414800 | Privato  | Nicol, James  | Nil  | Nicol, Mrs. Dolly.  | Glace Bay. C.B., N.S  | Scotland  | Sydney  |
+| 17 | 666<br>1591<br>3614<br>1623 | 414015 | Private  | Niles, Frank Patrick  | Nil  | Ryan, Mrs. Frederick  | St. Andr6 do Shcdiac, Westmoreland Co. | Canada  | Amherst  |
+| 17 | 666<br>1620<br>3614<br>1652 | 415740 | Private  | Nixon, Richard   | Nil  | Nixon, Mrs. H  | 48a Eaden St., Cambridge, Eng  | England  | Aldershot  |
+| 17 | 666<br>1649<br>3614<br>1681 | 415087 | Private  | Nolan, John H  | 94 th Regt  | Nolan, William    | Water St., Glace Bay, C.B., N.S  | Canada  | Valcartier  |
+| 17 | 667<br>1678<br>3629<br>1709 | 415801 | Private  | Nolan, John M  | NTil  | Nolan, Mrs. Morris  | Glace Bay, C.B., N.S  | Canada  | Sydney  |
+| 17 | 667<br>1707<br>3614<br>1740 | 415993 | Private  | Noonan, George B  | 03rd Regt  | Noonan, Mrs. Ellen  | Portland St., Dartmouth, Ilulifax, N.S  | Canada  | Valcartier  |
+| 17 | 667<br>1735<br>3615<br>1768 | 414924 | Private  | Norris, Bernard Hill  | Nil    | Norris, Mrs. Annie  | 134 Pleasant St., Halifax, N.S  | England   | Halifax  |
+| 17 | 668<br>1765<br>3616<br>1798 | 414919 | Private  | Norris, John Francis  | ... jttQth Regt  | Norris, Mrs. Annie  | 134 Pleasant St., Halifax, N.S  | England  | Aldershot  |
+| 17 | 668<br>1794<br>3616<br>1828 | 4154 00 | Private  | North, Earl Roy  | ... i03rd Regt  | North, Mrs. Margaret A... | 38 Bauer St., Halifax. N.S  | Canada  | Valcartier  |
+| 17 | 668<br>1824<br>3616<br>1858 | 415000 | Corporal  | North, George Albert  | ... C.A.S.C  | North, Christina.      | 346 Maynard St., Halifax, N.S  | Canada  | Valcartier  |
+| 17 | 668<br>1848<br>3617<br>1886 | 416329 | Private  | Northage, Barry  | .. .iNit  | Northage, Mrs. Carrie  | 15 Stairs St., Halifax. N.S  | England  | Aldershot  |
+| 17 | 669<br>1883<br>3617<br>1915 | 415101 | Privnte  | Oakley, John  |  | Oakley, Mrs. Mary  | Spring Hill Mines, Cumberland Co., N.S.. | England  | Valcartier  |
+| 17 | 668<br>1911<br>3617<br>1943 | 414448 | Privnte  | O’Brien, John  | ... I Nil  | O’Brien, Mrs. Mary  | Conception Bay, Nfld  | Newfoundland. | Sydney....... |
+| 17 | 668<br>1941<br>3614<br>1973 | 414708 | Privnte   | O’Brien, John Francis  | ...Nil  | O’Brien, Mrs. Elizabeth... | Brockland Ave.. Sydney Mines, N.S  | Canada  | Sydney Mines. |
+| 17 | 669<br>1971<br>3618<br>2002 | 414484 | Privnte  | O’Connell, Dennis Joseph  | ... R.G.A  | O'Connell, Mrs. D  | Ocheoruey, Dartmouth, Halifax Co., N.S | Ireland  | Aldershot  |
+| 17 | 670<br>2000<br>3618<br>2032 | 416381 | Private  | jO’Grady, Harold   | Nil  | O’Grady. Mrs. Margaret... | HaUfai, N.S  | Canada  | Sydney  |
+| 17 | 670<br>2029<br>3619<br>2061 | 414G17 | Private  | O’Hara, Frank James  | 93rd Regt  | O’Hara, Mrs. Annie  | Spring Hill, Cumberland Co., N.S  | Canada  | Spring Hill.... |
+| 17 | 675<br>2058<br>3619<br>2090 | 11' I | Private  | O’Heam, William   | 00th Regt  | O’Heam, Florence  | 49 George St., Halifax, N.S  | Canada  | Aldershot  |
+| 17 | 670<br>2087<br>3620<br>2119 | 414500 | Private  | Oldershaw, Charles William... | Territorials  | Oldershaw, Mrs. M..   | 41 Falkirk St., London, N., Eng  | England  | Aldershot  |
+| 17 | 671<br>2116<br>3620<br>2149 | 414492 | Private  | Oliver, James  | Nil  | Oliver, Elizabeth  | Stellarton, Pictou Co., N.S  | England  | Aldershot  |
+| 18 | 1326<br>589<br>3434<br>621 |  |  |  | Former Corps. |  |  | Country of |
+| 18 | 763<br>734<br>3931<br>767 | 414*12 | Privnte., | Oliver, Joseph  | Nil  | Chinn, Mrs. Mary J  | fjf. Gcnrgo Bay, Nfld  | Newfoundland. | Aldershot  | Aug. 3, | 1915. |
+| 18 | 763<br>764<br>3931<br>796 | 414142 | Corporal | Oliver, William Edward | 75th Uegt | Oliver, Mrs. Louise Ann . | Ltimmburg, N.S  | Englnnd  | Halifax  | April 28, | 1915. |
+| 18 | 763<br>794<br>3931<br>825 | 414191 | Private.... | O’Rourke, John M  | Nil  | O’Rourke, Mrs. Elizabeth | Hni'tmvick St., Truro, Colchester Co., N.S  | Cannda  | Aldershot  | Aug. 12, | 1915. |
+| 18 | 762<br>824<br>3930<br>855 | 482075 | Private.... | Orr, C  | Nil  | Orr, J  | St. John, N.B  | Cannda  | Sussex  | Sept. 15, | 1915. |
+| 18 | 762<br>853<br>3931<br>884 | 415880 | Private.... | Orton, Archibald Benjamin | Nil  | Orton, Mrs. T    | 0 Oerrish X.ane, Halifax, N.S  | Canada  | Halifax  | Aug. 11, | 1915. |
+| 18 | 762<br>883<br>3931<br>914 | 415981 | Private.... | Osborne, Patrick  | Nil  | Chision, Miss Catharine . | New Aberdeen, C.B., N.S  | Newfoundland. | Sydney  | Aug. 13, | 1915. |
+| 18 | 762<br>908<br>3931<br>943 | 482013 | Private.... | Pago, Ernest  | C.A.S.C | L*e, William...    | 27 Cherry St., Birmingham, Eng  | England  | Sussex  | Sept. 17, | 1915. |
+| 18 | 761<br>942<br>3931<br>972 | 414020 | Privato.... | Painter, Ernest  | Nil  | Painter, Amos  | North Stalls., Eng   | England  | New Glasgow. | Mar. 31, | 1915. |
+| 18 | 762<br>972<br>3931<br>1001 | 415701 | Private.... | Pape, Walter  | K.F.A.. | Pape, Charles  | 5 Grace St., Leeds, Yorks, Eng  | England  | Halifnx  | July 30, | 1915. |
+| 18 | 762<br>1001<br>3930<br>1030 | 415002. | Private.... | Parker, Archibald  | C.F.A.. | Parker, Mrs. Kathleen M | Digby, N.S  | Canada  | Digby  | May 10, | 1915. |
+| 18 | 762<br>1030<br>3930<br>1059 | 482021 | Private.... | Parry, William  | Nil  | Parry, Mrs. L  | 151 Albert Rd., Birmingham, Eng  | England  | Sussex  | Sept. 13, | 1*115. |
+| 18 | 763<br>1059<br>3932<br>1090 | 415404 | Private  | Patoy, William  | Nil  | Murray, Mrs. Amv  | 1 'ape Ray, Nfld  | Newfoundland. | Hnlifax  | Aug. 13, | 1915. |
+| 18 | 762<br>1088<br>3931<br>1117 | 414000 | Private.... | Patterson, Neil  | Nil  | Patterson, Mrs. Christina | 1 lace Hay, C.B., N.S  | Cannda  | Sydney  | Aug. 13, | 1915. |
+| 18 | 762<br>1117<br>3931<br>1146 | 414420 | Privato.... | Peacock, George Morton.. | Nil  | Rushton, Mrs. Emily. | New Waterford, C.B., N.S  | England  | Sydney   | i\ug. 9. | 1915. |
+| 18 | 762<br>1146<br>3931<br>1175 | 414022 | Bugler  | Penketh, William  | Nil  | Penketh, Mrs. Elizabeth Ann | stellarton, Pictou Co., N.S  | England....... | New Glasgow. . | Mar. 31, | 1915. |
+| 18 | 762<br>1175<br>3931<br>1203 | 414023 | Private,... | Pcnninglon. Timothy  | Nil  | Pennington, Mrs. Susie.. | Tocirin Mines, Cumberland Co., N.S  | England....... | Amherst  | Mnr. 17, | 1915. |
+| 18 | 762<br>1204<br>3931<br>1234 | 414007 | Sergeant... | Penny, William Redford.. | Imp. For | Penny, Mrs. E. A  | Berwick, Kings Co., N.S  | England  | Halifax  | Aug. 13, | 1915. |
+| 18 | 762<br>1232<br>3932<br>1262 | 482033 | Private.,.. | Penticost, David  | Nil  | Penticost, Mrs. Katie . | Sydney Mines, C.B., N.S  | Newfoundland. | Sydney  | Sept. 1, | 1915. |
+| 18 | 762<br>1261<br>3932<br>1292 | 482014 | Private.... | Perfoct, Harry  | Nil  | Perfect, Leonard  | Wells, Me., U.S.A  | Englnnd  | Sydney  | Aug. 24, | 1915. |
+| 18 | 762<br>1291<br>3932<br>1321 | 414813 | Private.... | Perrier, Patrick Michael Alp | Nil  | Perrier, Jeffrey  | 14 Dresden Row, Halifax, N.S  | Canada  | Halifax  | July 30, | 1015. |
+| 18 | 762<br>1315<br>3932<br>1351 | 415844 | Private.... | Perry, Willard W  | Nil  | Perry, Mrs. Jennie  | Port Maitland, Yarmouth Co., N.S  | Canada  | Aldershot  | Aug. 12, | 1915. |
+| 18 | 762<br>1348<br>3932<br>1379 | 414805 | I’rivato.... | Petrie, Thomas  | Nil  | Petrie, Joseph  | Sydney Mines, C.B., N.S  | Canada  | Sydney  | Aug. 9, | 1915. |
+| 18 | 762<br>1374<br>3932<br>1409 | 414007 | Private. | Pettigrew, Ornn  | Nil  | Pettigrew, Edgar  | North Greenville, Cumberland Co., N.S  | Canada  | Aldershot  | Aug. 12, | 1915. |
+| 18 | 763<br>1405<br>3932<br>1439 | 415502 | Sergeant... | Phinney, Burpee  | 69th Reg | Phinney, Mrs. Margaret McKenzie | Bridgetown, Annapolis Co., N.S  | Cannda  | Hnlifax  | April 10, | 1915. |
+| 18 | 763<br>1436<br>3933<br>1468 | 415800 | Private.... | Pinkney, Frank  | Nil  | Pinkney, Albert  | Deep Brook, Annapolis Co., N.S  | Canndn  | Aldershot  | Aug. 12, | 1915. |
+| 18 | 762<br>1465<br>3933<br>1496 | 415006 | Private.... | Pinkney, Willinm  | Nil  | Pinkney, Mrs. Albert — | Deep Brook, Annapolis Co.. N.S  | Canada  | Digby  | May 0, | 1915. |
+| 18 | 763<br>1494<br>3934<br>1526 | 415771) | Private.... | Piper, Arthur Edwin  | Nil  | Piper, Agnes M  |  | England  | Halifax  | Aug. 3, | 1915. |
+| 18 | 763<br>1523<br>3932<br>1554 | 414024 | Private.... | Pipes, Oliver Einbree  | Nil  | Pipes, Mrs. Helen A... | ) Smith St., Amherst, Cumberland Co., N.S  | Cnnada  | Amherst  | Mar. 17, | 1915. |
+| 18 | 762<br>1552<br>3933<br>1583 | 414318 | Private..,. | Poole, William H  | Nil  | Poole, Mary  | Pujxwash River, Cumberland Co., N.S  | Canada  | Halifax  | Nov. 25, | 1915. |
+| 18 | 762<br>1580<br>3933<br>1612 | 415125 | Private.... | Porrier, Thomas  | Nil  | Lee, Henry  | Glace Bay, C.B., N.S  | Canada  | Valcartier  | July 27, | 1915. |
+| 18 | 762<br>1610<br>3934<br>1642 | 416857 | Private.... | Porter, F. Emerson  | Nil  | Gordon, Mildred  | I ike Annis, Yarmouth Co., N.S  | U.S.A  | Aldershot... | Aug. 12, | 1915. |
+| 18 | 761<br>1639<br>3934<br>1670 | 415814 | Private.... | Porter, George  | Nil  | Porter, George. | Spring Hill Mines, Cumberland Co., N.S  | Canada  | Aldershot  | Aug. 10, | 1915. |
+| 18 | 762<br>1668<br>3934<br>1700 | 414834 | Private.... | Porter, Jacob  | Nil  | Stanley, Mary Ann | Conception Bay, Nlld  | Newfoundland. | Aldershot... | Aug. 8, | 1915. |
+| 18 | 763<br>1696<br>3934<br>1729 | 414405 | Private..., | Porter, Jolir. W  | Nil  | Porter, Mrs. Alice Bruce | Vi eat River Hebert, Cumberland Co., N.S  | Cnnada  | Aldershot. .. | Aug. 12, | 1915. |
+| 18 | 762<br>1725<br>3935<br>1757 | 414408 | Private.... | Porteous, Thomas Cliffori | Nil  | Porteous, Bertha H | 15 Orchard Ave., Waban, Mass., U.S.A  | Wales  | Aldershot. .. | Aug. 10, | 1915. |
+| 18 | 763<br>1754<br>3934<br>1787 | 415780 | Privnte  | Pothier, James  | Nil  | j Pothier. Silver .. . | 'Vedgeport, Yarmouth Co., N.S  | Canada  | Aldershot  | Aug. 7, | 1915. |
+| 18 | 763<br>1783<br>3935<br>1817 | 415006 | Private.... | Pottie, Edward  | 66th Reg | I Pottie, Elie  | t/Ardoise, C.B., N.S  | Canada  | Halifax  | Aug. 10, | 1915. |
+| 18 | 763<br>1807<br>3936<br>1846 | 414S66 | Private.... | Poulton, Wilfred  | Nil  | ' Roper, Mrs. Emily . | -Vvdnny Mines, C.B., N.S  | England  | Sydney  | Aug. 7, | 1915. |
+| 18 | 764<br>1841<br>3936<br>1874 | 414353 | Private  | Powell, John    | Nil  | Irving, Mrs. John | Port Blandford, Nfld   | Newfoundland. | Aldershot  | July 20, | 1915. |
+| 18 | 764<br>1870<br>3936<br>1904 | 415282 | Private  | Power, James Joseph  | Nil  | Power, Mrs. Annie . | |12 Loekman St., Halifax, N.S  | Canada  | Aldershot  | Aug. 7, | 1915. |
+| 18 | 764<br>1898<br>3936<br>1933 | 482010 | Private.... | Power, John P  | Nil  | Zsvickor, Mrs. J. H. | ' ivnpool. Queens Co., N.S  | Irelnnd  | Sussex  | Aug. 25, | 1915. |
+| 18 | 764<br>1927<br>3936<br>1963 | 414427 | Private.... | Powers, Maurice  | Nil  | Powers, Mrs. Helen  | Plai’entin, Nfld  | Newfoundland. | Sydney  | Aug. 9, | 1915. |
+| 18 | 765<br>1957<br>3936<br>1992 | 415004 | Private.... | Price, Basil  | Nil  | Price, Samuel  | Inverness, N.S   | Canada  | Sydney  | Mnr. 26, | 1915. |
+| 18 | 764<br>1986<br>3936<br>2022 | 414800 | Private.... | Price, John  | Nil  | Price, Mrs. Emma | 77 Bilby St., Halifnx, N.S  | Cnnada  | Halifax  | July 30, | 1915. |
+| 18 | 765<br>2015<br>3937<br>2052 | 414069 | Private.... | Price, Stanley W.   | Nil  | |l,nngi!'e. Mrs. Georg.' | Oliver, Colchester Co., N.S  | Englnnd  | Aldershot  | (Aug. II, | 1915. |
+| 18 | 764<br>2044<br>3937<br>2081 | 4152' | Private.... | Purcell, El wood Milton... | Nil  | ,Purcell, Mrs. Susan. | 9 Suiter St., Halifax, N.S  | Canada  | Aldershot  | Aug. 3, | 1915. |
+| 18 | 765<br>2074<br>3938<br>2111 | 415279 | Private.... | Purceil, James Joseph  | 66t,h Regt | IPurcell, Miss Annie. | '8 Temple St., Boston, Mass, U.S.A  | Canada  | Aldershot  | Aug. 7. | 1015. |
+| 18 | 765<br>2102<br>3938<br>2140 | 414469 | Private  | Purcell, Lstvrence R  | Nil  | Purcell, Mrs. Susan | 9 Salter, St., Halifax, N.S  | Canada  | Aldershot  | Aug. 10 | 1915. |
+| 18 | 766<br>2132<br>3939<br>2170 | 415433 | Private.... | Purcell, William  . | Nil  | ’Purcell, John   | Sydney, C.B., N.S  | Canndn  | Sydney. . .. | lAug. 13 | . 1915. |
+| 19 | 636<br>359<br>3802<br>393 | 415391 | Private  | Putt, Thomas  | Nil  |  | ISt. John's, Nfld      | Newfoundland.. | Sydney  | Aug. 13,1915. |
+| 19 | 636<br>386<br>3803<br>426 | 414310 | Private  | Quinn, John Joseph    | 03rd Regt  | Quinn, Mrs. jcnni»  | [.'175 Barrington St.. Halifax. N.S  | Canada  | Hnlifax  | June 18,1915. |
+| 19 | 637<br>418<br>3802<br>453 | 414073 | Kcrgennt  | Quinn, William Richard  | Imp. Forces  | Quinn, Mrs. Annie  | iJoggin Mines, Cumberland Co., N.S  | Englnnd  | Anherst   | Mar. 19,1915. |
+| 19 | 636<br>446<br>3803<br>482 | 482030 | Private  | Rafuse, George L  | Nil  | Rafuse, Mrs. A  | ICentreville, N.S    | Canada  | Sussex  | Sept. 1,1915. |
+| 19 | 636<br>478<br>3804<br>512 | 415483 | Private  | Ramsden, John 13  | Nil  | Ramsden, Samuel | Lodges, Leeds, Yorks, Eng  | Englnnd  | Aldershot  | Aug. 14,1915. |
+| 19 | 635<br>508<br>3804<br>542 | 414805 | Privnte  | Hay, Herbert  | Nil  | McLeod, Mrs. J  | |20 West Ave., Haverhill. Mass., U.S.A  | Canada  | Aldershot  | Aug. 3, 1915. |
+| 19 | 635<br>532<br>3805<br>568 | 415185 |  |  | Nil  | ltea, Harry  | Spring Ilill, Cumberland Co., N.S  | Canada  | Aldershot  | July 24,1915. |
+| 19 | 635<br>567<br>3805<br>599 | 414044 | Private   | Read, Rayworth Wilton  | Nil  | Read, Edith  | Upper Rockport, Westmoreland Co., N.B  | Canada  | Amherst  | May 10,1915. |
+| 19 | 635<br>594<br>3805<br>628 | 415404 | Private  | Kcdford, Leslie Cabot  | 03rd Regt  | Redford, Mrs. John  | Bedford, Halifax, Co., N.S    | Cannda  | Valcartier  | Aug. 18,1915. |
+| 19 | 635<br>626<br>3805<br>657 | 415783 | Private  | Reid, Edwnrd M  | Nil  | Reid, Mrs. Melinda  | Cochiluate, Mass, U.S.A  | U.S.A  | Aldershot  | Aug. 7, 1915. |
+| 19 | 635<br>655<br>3805<br>687 | 414140 | Private  | Reid, Henry Nathan  | Nil  | Reid, Thomas...,   | Codroy, Nfld  | Newfoundland.. | Hnlifax  | April 28, 1915. |
+| 19 | 635<br>685<br>3806<br>716 | 415105 | Private  | Reid, Howard  | Nil  | Reid, Robert E  | Glnce Bay, C.B , N.S   | Cannda  | Glace Bay.... | Mar. 31, 1915. |
+| 19 | 635<br>714<br>3806<br>744 | 414662 | Privnte  | Reid, Jnmes  | Nil  | Reid, James  | 14 Exeter St., Plymouth, Eng  | Seotlnnd   | Amherst .... | Mny 7, 1915. |
+| 19 | 636<br>744<br>3806<br>774 | 415078 | Privnte  | Reid, Thomas  | Nil  | Bernard, Mrs. A. A  | P.O. Box 3, New Waterford, C.B., N.S  | Newfoundland . | Aldershot  | June 14, 1915. |
+| 19 | 637<br>773<br>3807<br>804 | 414320 |  |  |  | Reid, Jessie Campbell  | Spring Hill, Cumberland Co., N.S  | Canada  . | Spring Hill  | Mar. 17, 1915. |
+| 19 | 636<br>803<br>3807<br>833 | 415837 |  |  |  | Reiley, Hiram   | Spting Hill, Cumberland Co., N.S  | Canada  | Aldershot  | Aug. 10,1915. |
+| 19 | 636<br>834<br>3808<br>865 | 415252 |  |  | Nil  | Relf, Mrs. Edith  | 32 Lookman St., Halifax, N.S    | England  | Halifax  | July 30,1915. |
+| 19 | 636<br>862<br>3808<br>894 | 415401 | Private  | Rice, Henry George  | Nil  | Rice, Mrs. Fanny   | Pilloy island, Notre Dame Bay, Nfld  | Newfoundland.. | Halifnx  | Aug. 13, 1915. |
+| 19 | 635<br>892<br>3809<br>923 | 414324 |  |  | Nil  | Richards, Joseph  | Tufts Cove., Dartmouth, N.S  | Canndn  | Aldershot  | Aug. 8, 1915. |
+| 19 | 635<br>921<br>3809<br>953 | 414714 |  |  |  | Richards, John  | North Sydney, C.B., N.S  | Newfoundland.. | Sydney M ines. | Mar. 31, 1915. |
+| 19 | 635<br>951<br>3809<br>983 | 415383 | Privnte  | Riohardson, Harvey  | Nit  | Richardson, George  | Lovers Lane, Sydney, C.B., N.S  | Cannda  | Sydney  | Aug. 9,1915. |
+| 19 | 635<br>981<br>3809<br>1013 | 414011 | Sergeant  | Riley, Arthur  | R.C.R  | Ui-ley, Mrs. Matilda  | 103 North St., Halifax. N.S  | England  | Halifax  | Mar. 15, 1915. |
+| 19 | 635<br>1010<br>3810<br>1041 | 482053 |  |  | Nil  | Riley, William   | 36J-3 Macarn St., Halifax, N.S  | Canada  | Sussex  | Sept. 9, 1915. |
+| 19 | 635<br>1039<br>3811<br>1070 | 415204 |  |  | Nil  | Robur, f/eander  | Torbrook, Annapolis Co., N.S  | Canada  | Liverpool  | April 13, 1915. |
+| 19 | 635<br>1068<br>3812<br>1099 | 414807 |  |  | Nil  | Robb, Mrs. A. H  | Sydney, C.B., N.S  | Cannda  | Sydney  | Aug. 7,1915. |
+| 19 | 1838<br>1096<br>3812<br>1128 |  |  |  |  | Balch, Miss C    | 2 Almon Place., Halifax, N.S  | England  | Halifax  | Mar. 15, 1915. |
+| 19 | 636<br>1126<br>3812<br>1157 | 415872 | Privnte   | Roberts, Richard Henry  | Nil  | Roberts, Mrs. Mary  | Sydney Mines, C.B., N.S  | England  | Sydney  | Aug. 13,1915. |
+| 19 | 636<br>1149<br>3813<br>1185 | 414(130 |  |  | Nil  | Ross, Mrs. John  | New Waterford, C.B., N.S  | Canada  | Aldershot  | Aug. 11,1915. |
+| 19 | 636<br>1184<br>3813<br>1214 | 414938 | 'Private  | Pobcrtson, Donald R  | Nil  | Robertson, Mrs. Etta  | Truro, Colchester Co., N.S  | Canada  | Aldershot  | Aug. 12, 1915. |
+| 19 | 636<br>1213<br>3813<br>1245 | 415380 | Private  | Robertson, William Ailan  | Nit  | Gordon, Capt Alexander.. | North Sydney, C.B., N.S  | Cannda  | Sydney  | Aug. 13, 1915. |
+| 19 | 636<br>1242<br>3813<br>1274 | 415607 | Privnte  | Pobichenu, John  | Nil  | Robichenu, William  | Yarmouth, N.S  | Canada  | Yarmouth  | April 10, 1915. |
+| 19 | 636<br>1271<br>3813<br>1303 | 414929 |  |  |  | Robinson, Mrs. Edith  | 20 Bilby St.. Hnlifax, N.S  | Ireland   | Aldershot  | Aug. 10, 1915. |
+| 19 | 636<br>1301<br>3814<br>1332 | 414285 |  |  |  | Rogers, Edward  | King Edward St., Glace Bay, C.B., N.S  | Canndn  | Aldershot  | June 16, 1915. |
+| 19 | 637<br>1331<br>3814<br>1363 | 415781 |  |  |  | Rogers, John  | Derby, Eng  | Englnnd  | Aldershot  | Aug. 7, 1915. |
+| 19 | 636<br>1360<br>3815<br>1392 | 414430 | Privnte  | Rolls, Frederick John  | Nil  |  | Bona vista, Nfld  | Newfoundland. | Sydney  | Aug. 7,1915. |
+| 19 | 637<br>1388<br>3814<br>1420 | 415782 | Privnte  | Roonev, Berwick  | Nil  | Rooney, Winfield  | Canning, Kings Co., N.S  | Cnnada  | Aldershot  | Aug. 3,1915. |
+| 19 | 637<br>1418<br>3816<br>1450 | 414450 | Private  | Ross, Arthur  | S. A  | !>"«. Mrs Christie  | St. Peters, C.B., N.S  | Canada  | Valcartier.... | Aug. 12, 1915. |
+| 19 | 638<br>1447<br>3815<br>1478 | 414355 | Privnte  | Hoss, Howard.   | Nil  | i 1 ', Mrs. D  | St. Peters, C.B., N.S  | Cannda  | Aldershot  | Julv 29, 1915. |
+| 19 | 638<br>1476<br>3815<br>1509 | 414358 | Private  | lioss, John  | Nil  | I loss, James  | Grandique Ferry, C.B., N.S  | Canada  | Aldershot   | July 29,1915. |
+| 19 | 638<br>1505<br>3816<br>1539 | 414733 | Private  | Ross, John A  | Nil  | 'Voss, Mrs. Margaret  | Upper River, Inverness Co., N.S  | U.S.A  | Aldershot  | July 14,1915. |
+| 19 | 638<br>1534<br>3816<br>1568 | 415399 | Private  | Rout, Frederick George  | C.F.A  | Rout, Mrs. Alice M  | 21 Gerrish St., Halifax, N.S  | England  | Halifnx  | Aug. 13, 1915. |
+| 19 | 638<br>1562<br>3817<br>1597 | 415387 | J’rivnte  | Routlcdge, Cameron  | Nil  | Rout led ge, Mrs. Ellen  | Reserve Mines, C.B., N.S  | Canada  | Sydney  | Aug. 13, 1915. |
+| 19 | 639<br>1591<br>3816<br>1626 | 482034 | Private  | Routlcdgc, Willinm  | Nil  | Routledgc, Harry  | Armstrong 8t., Sydney, C.B., N.8  | Newfoundland. | Sydney  | Sept. 1, 1915. |
+| 19 | 639<br>1619<br>3817<br>1655 | 414417 | Private  | Rowley, Alfred Cornelius  | Nil  | Rowley, Mrs. Catharine... | 48 West, St.. Halifax, N.S  | Cannda  | Halifax  | July 30,1915. |
+| 19 | 639<br>1649<br>3817<br>1685 | 415385 | Private.  | Rowset 1, Joseph  | Nil  | Rowsell, Mrs. Caroline.... | l’uslithrough, Nfld  | Cannda  | Sydney  | Aug. 13,1915. |
+| 19 | 639<br>1678<br>3818<br>1712 |  |  | Roy, Gerald Edward  | 415907 | Corporal  | Nil  | Brittinn, Mrs. Catharine... | Yarmouth, N.S  | Cannda  | Yarmouth  | April 23, 1915. |
+| 19 | 639<br>1707<br>3818<br>1741 | 414512 | .Serpennt Major... | Russell, James  | Nil  | Russell, Tom Logan  | Snltburn-by-the-Sea, Yorks, Eng  | Seotlnnd  | Amherst  | Mnr. 1G, 1915. |
+| 19 | 640<br>1736<br>3819<br>1771 | 414907 | Private  | Ruston, Erry  | Nil  | Huston. Mrs. Sarah J  |  | Canada  | Aldershot  | Aug. 12,1915. |
+| 19 | 640<br>1765<br>3073<br>1796 | 414811 | Privnte  | Rvnn, Arthur  | Nil   | Ryan, Mrs. Catharine  | 52 Oinfton St., Halifax, N.8  |
+| 19 | 3132<br>1772<br>3819<br>1800 |  |  |  |  |  |  | Cannda  | Halifax  | July 30, 1915. |
+| 19 | 641<br>1794<br>3819<br>1829 | 415415 | Private  | Rvnn, Willinm Jnmes  | C.A.M.C  | Ryan, Mrs. Annie  | 53 Albemarle St., Halifax, N.S  | Canada  | Valcartier  | Aug. 23,1915. |
+| 19 | 641<br>1823<br>3819<br>1858 | 41.5430 | Private  | Si. Fctcr, Chnrlcs  | Nil  | St. Peter, Mrs. Rosanna... | Mnrcnn Station, Cumberland Co., N.8  | Canada  | Amherst  | Mnr. 17, 1915. |
+| 19 | 641<br>1852<br>3820<br>1889 |  |  | Snmson, Arthur  | 414497 | Private  | Nil  | Samson, Mrs. Daisy  | Stellarton, Tictou Co., N.S  | Englnnd  | Aldershot  | Aug. 12,1915. |
+| 19 | 641<br>1881<br>3820<br>1918 | 414908 | Privnte  | Schurmnn, Harry  | Nil  | Schurmnn, A. B  | 555 George St., Sydney, C.B., N.8  | Cnnndn  | Aldershot  | Aug. 12,1915. |
+| 19 | 642<br>1910<br>3821<br>1948 | 414871 | Private  | Scott, Jnmes Alfred  | R.C.R  | Scott, William B  | Bridgeport, C.B., N.S  | Cannda  | Sydney  | Aug. 7,1915. |
+| 19 | 642<br>1940<br>3074<br>1971 | 41550? | Sergeant  | Scott, Leonard Weston  | Nil  | Scott, Capt. Ellery  | Yarmouth, N.S  |
+| 19 | 3136<br>1948<br>3821<br>1976 |  |  |  |  |  |  | Canada  | Valcartier  | Sept. 21, 1915. |
+| 19 | 642<br>1969<br>3822<br>2006 | 414043 | Privnte  | Scranton, John Snmuel  | Nil  | Scranton, Miss Annie  | Manchester, Guysborough Co., N.S  | Cnnada  | New Glasgow.. | May 1, 1915. |
+| 19 | 643<br>1998<br>3822<br>2036 | 41541? | Privnte  | Scllon, Hownrd  | Nil  | Scllon, Mrs. Ada  | 85 Windsor St., Halifax, N.S  | Canada  | Valcartier  | Aug. 23, 1915. |
+| 19 | 643<br>2027<br>3812<br>2063 | 415009 | Privnte  | Selvnge, Waller  | Nit  | Selvage, James  | Yarmouth, N.S  | Canada  | Aldershot. .'.... | June 15, 1915 |
+| 19 | 644<br>2057<br>3822<br>2093 | 415419 | Private  | Serridge, Willinm  |  | Serridge, Mrs. Mary    | 43 Quinn St., Halifax, N.8  | Englnnd  | Valcartier  | Oct. 12, 1915. |
+| 19 | 644<br>2081<br>3824<br>2123 | 415091 |  |  |  | Shack ley, Mrs. Elizabeth. | New Glasgow, Pictou Co., N.S  | England  | Aldershot  | July 14,1915. |
+| 20 | 937<br>604<br>3420<br>635 |  |  |  | Former Corps. |  |  | Country of |
+| 20 | 746<br>751<br>3918<br>783 | 415850 | Private  | ShafTner, Elliott  | 69th Regt  | ShafTner, L. S  | Middleton, Annapolis Co., N.S  | Canada  | Aldershot Aug. 11, 1915. |
+| 20 | 745<br>780<br>3918<br>817 | 414280 | Private  | Shank ley, Robert  | N U  | Slemming, Mrs.J  | (♦Vjwdenbeath, Fife, Scot   | Scotland  | Aldershot June 14, 1915. | Aldershot |
+| 20 | 744<br>810<br>3917<br>842 | 416480 | Private...,  | Share, Waller E  | 63rd Regt  | Share, Mrs. Lurv.. | Yale St., Halifax, N.S   | Canada  | Valcartier Oct. 8, 1915. | Valcartier |
+| 20 | 745<br>838<br>3919<br>871 | 414072 | Private.   | Shaw, William  | Nil  | Shaw, Sarah Ann. | Glace Bay, C.B., N.S    | England  |  | Aug. 13, 1915. | Sydney  |
+| 20 | 745<br>869<br>3918<br>901 | 414846 | Private  | Shatford, Clarke   | Nil  | Shatford, Mrs. Matilda. | Mill Cove, Lunenburg Co., N.S  | Canada  |  | Aug. 7, 1915. | Aldershot  |
+| 20 | 746<br>898<br>3918<br>931 | 414800 | Private  | Shepherd, George William  | Nil  | Shepherd, Mr*. Lillian | Florence, C.B., N.S  | England  |  | Aug 7, 1915. | Sydney   |
+| 20 | 746<br>927<br>3918<br>961 | 416888 | Private  | Shipley, Frederick  | 66th Regt  | Shipley, Mrs. M . | 32 Dresden Row, Halifax, N.S  | Canada  |  | Aug. 7, 1915. | Halifax  |
+| 20 | 747<br>957<br>3919<br>990 | 414471 | Private  | Shubley, Arthur  | R.C.G.A  | Shubley, Mrs. 13. Ella | :6 West St., Halifax, N.S  | Canada  |  | Aug. 10, 1915. | Aldershot  |
+| 20 | 748<br>986<br>3919<br>1019 | 416847 | Private  | Shupe, Robert  | Nil  | Shupe, Marjorie... | Tunket, Yarmouth Co., N.S  | Canada  |  | Aug. 12, 1915. | Aldershot  |
+| 20 | 748<br>1015<br>3918<br>1047 | 414501 | R.S.M  | Siddlo, Ernest Arthur  | Imp. Forces  | Siddle, Mrs. Maud  | t Donalds Avo., Amherst., Cumberland Co., N.S  | England  |  | April 7, 1915. | Amherst  |
+| 20 | 748<br>1044<br>3919<br>1077 | 415014 | Private  | Simmonds, Arthur George  | U. S. Army  | Simmonds. Miss E... . | Weymouth North, Digby Co., N.S  | U.S.A  |  | Aug. 23, 1915. | Valcartier  |
+| 20 | 747<br>1073<br>3918<br>1105 | 416013 | Private  | Simms, J. Edward  | 08th ltcgt,  | Simms, William  | Liverpool, Queens Co., N.S  | Canada  |  | April 13, 1915. | Liverpool  |
+| 20 | 747<br>1102<br>3919<br>1134 | 415344 | Privato  | Simpson, Arthur  | O. Re.-?. A.S.C  | Simpson, Frank Marsh | F.dm^nton, Alta  | Canada  |  | Aug. 13, 1915. | Sydney  |
+| 20 | 747<br>1131<br>3919<br>1165 | 415084 | Private   | Simpson, Ellnrd  | Nil  | Simpson. Mrs. Lucy M | 4 Bridge St., Bevorly, Mass., U.S.A  | Cannda  |  | July 24, 1915. | Aldershot  |
+| 20 | 748<br>1160<br>3919<br>1195 | 415012 | Sergeant  | Skead, George Carleton McKay... | C.F.A  | Skead, Madge  | : Jubilee Rd., Halifax, N.S  | Canada   |  | April 17, 1915. | Bridgewater.... |
+| 20 | 748<br>1190<br>3916<br>1223 | 414873 | Private  | Slancy, Harold  | Nil  | Slaney, Miss Alsie . . . | ydney Min»»s, C.B., N.S  | Englnnd  |  | Aug. 7, 1915. | Sydney  |
+| 20 | 748<br>1219<br>3920<br>1251 | 415059 | Private  | Slaunwhite, Georgo Arthur  | 03rd Regt  | Slaunwhite, Ernest . | 91 Windsor St., Halifax, N.S   | Canada   |  | Aug. 23, 1915. | Valcartier  |
+| 20 | 748<br>1248<br>3920<br>1281 | 414240 | Private  | Smith, Arthur  | Nil  | McKay, Roderick . | Grand River, Richmond Co., N.S  | Canada  |  | June 19, 1915. | Aldershot  |
+| 20 | 748<br>1277<br>3921<br>1310 | 415302 | Private  | Smith, Charles Vincent  | Nil  | Smith, Mrs. Grace . | *79 Prince St., Sydney, C.B., N.S  | Canada  |  | Aug. 7, 1915. | Sydney  |
+| 20 | 748<br>1306<br>4027<br>1340 | 416000 | Private  | Smith, Clayton  | Nil  | Smith, Miss Eva A | Srnithsville, Shelburne Co., N.S  | Canada  |  | Aug. 14, 1915. | Aldershot  |
+| 20 | 749<br>1335<br>3922<br>1369 | 415751 | Private  | Smith, Clifford Kay  | 68th Regt  | Smith, Mrs. Lillian. | Windsor, Hants Co., N.S  | Canada  |  | Julv .31,1915. | Halifax  |
+| 20 | 749<br>1364<br>3922<br>1398 | 41609$ | Private  | Smith, Dan R  | Nil  | Smith, Able  | Port Morion, C.B., N.S  | Canada  |  | Mar. 25, 1915. | Sydney  |
+| 20 | 750<br>1393<br>3922<br>1427 | 415800 | Private  | Smith, Douglas  | Nil  | Smith, James. .... | Smifchmrille, Shelburne Co., N.S  | Canada  |  | Aug. 14, 1915. | Aldershot  |
+| 20 | 749<br>1422<br>3922<br>1456 | 41491 • | Private  | Smith, F. Earl  | Nil  | Smith, Mrs. Matilda | 13 Copp Ave., Amherst, Cumberland Co., N.S  | Canada  |  | Aug. 11,1915. | Aldershot  |
+| 20 | 750<br>1451<br>3922<br>1486 | 41601 | Private  | Smith, Guyon Locko  | Nil  | Smith, Mrs. Elsio  | lyockeport. Shelburne Co., N.S  | Canada  |  | May 1,1915. | Liverpool  |
+| 20 | 750<br>1480<br>3922<br>1514 | 416623 | Privato.  | Smith, Harry   | Nil  | Smith, Mrs. Hattie  | Yarmouth, N.S  | Canada  |  | April 12, 1915. | Yarmouth  |
+| 20 | 751<br>1509<br>3922<br>1543 | 414115 | Private*  | Smith, Howard  | Nil  | Smith, Mrs. Gladys.. | "0 Argylo St., Halifax, N.S  | Canada  |  | April 6, 1915. | Halifax  |
+| 20 | 751<br>1539<br>3922<br>1572 | 482005 | Private  | Smith, Howard  | Nil  | Smith, Mrs. Annie  | Lunenburg, N.S  | Canada  |  | Aug. 25, 1915. | Sussex  |
+| 20 | 751<br>1567<br>3923<br>1600 | 414801 | Private  | Smith, James Albert  | Nil  | Smith, Mrs. James. | Sydney Mines, C.B., N.S  | England  |  | Aug. 7, 1915. | Sydney  |
+| 20 | 751<br>1597<br>3922<br>1631 | 416470 | Private  | Smith, James Joseph  | Nil  | Smith, Minnie  | V* Bedford Row, Halifax, N.S  | Canada  |  | Sept. 8, 1915. | Valcartier  |
+| 20 | 751<br>1626<br>3923<br>1659 | 416121 | Private  | Smith, John  | Territorials  | Smith, Mrs. Emma F. | Glace Bay, C.B., N.S  | England  |  | Mar. 27. 1915. | Sydney  |
+| 20 | 752<br>1655<br>3923<br>1688 | 414245 | Privato  | Smith, John  | Nil  | Not stated  • | Not Stated  | England  |  | June 19, 1915. | Aldershot  |
+| 20 | 752<br>1684<br>3924<br>1716 | 414283 | Privato  | Smith, Martin   | Nil  | Smil l, M i s. Mary | Port Mulgrave, Guysboro’ Co., N.S  | Canada  |  | June 16, 1915. | Aldershot  |
+| 20 | 752<br>1713<br>3925<br>1748 | 414400 | Private  | Smith, Ralph P   | Nil  | Smith, Mrs. Verne ... | Bathurst, Gloucester Co., N.B  | Canada  |  | Aug. 12, 1915. | Aldershot  |
+| 20 | 753<br>1742<br>3924<br>1774 | 414337 | Private  | Smith, Robert Arthur..   | Nil  | Smith, Mrs. Wiliam | Goldboro*, Guysborough Co., N.S  | Canada  |  | Julv 20, 1915. | Kentville  |
+| 20 | 753<br>1770<br>3924<br>1804 | 414808 | Privato  | Smith, Robert William  | Nil  | .. Wilkie, Mrs. Christina | Aspy Bay, Cape North, C.B., N.S   | Canada  |  | Aug. 7, 1915. | Sydney   |
+| 20 | 754<br>1800<br>3925<br>1834 | 415843 | Private  | Smith, Thomas.  | Nil  | ..;Smith, Mrs. Susan | Port Maitland, Yarmouth Co., N.S  | Canada  |  | Aug. 12. 1915. | Aldershot   |
+| 20 | 754<br>1828<br>3926<br>1863 | 414325 | Private.....  | Smith, Walter John  | Nfld | . Mil. | .. (Smith, John  | 5 Spence St., St. John’s, N fid  | Newfoundland | July 13, 1915. | Halifax  |
+| 20 | 754<br>1858<br>3926<br>1894 | 482000 | Privato  | Sinythe, John  | Nil.. | . . ISmythe, James... | Parrsboro’, Cumberland Co., N.S  | Canada  |  | Sept. 1, 1915. | Sussex  |
+| 20 | 755<br>1887<br>3926<br>1924 | 414045 | Private  | Smvthe, Warren 13    | 70 Ih Regt  | . ... Smythe, Mrs. W. K | Truro, Colchester Co., N.S  | U.S.A  |  | April 28, 1915. | Truro  |
+| 20 | 755<br>1917<br>3927<br>1953 | 414293 | Private  | Snider, Albert  | OGth Regt Snider, Mrs. 1 |  | Quarrel St., Dartmouth, N.S  | Canada  |  | June 21,1915. | Aldershot  |
+| 20 | 755<br>1946<br>3928<br>1981 | 415807 | Privnte  | Snow, Oscar   | Nil  | Snow, Mrs. Jennie. | Port La Tour, Shelburne Co., N.S  | Canada  |  | Aug. 14, 1915. | Aldershot   |
+| 20 | 756<br>1975<br>3928<br>2010 | 415073 | Private  | Snow, William  | Nil  | (Snow, Mrs. Emma | Glaee Bay, C.B., N.S  | Newfoundland. |  | July 14, 1915. | Aldershot  |
+| 20 | 757<br>2004<br>3928<br>2041 | 415345 | Private  | Spracklin, Wilcox  | Nil  | . Spracklin, Wilcox. | North Sydney, C.B . N.S  | Newfoundland. |  | Aug. 13, 1915. | Sydney  |
+| 20 | 757<br>2034<br>3928<br>2073 | 415504 | C.Q.M.S  | Spurr. Augustus T  | Nil  | . iSpurr, Mrs. A. T... | Round Hill, Annapolis Co., N.S  | Canada  |  | May 10, 1915. | Digby •  |
+| 20 | 757<br>2062<br>3929<br>2101 | 415620 | Private.. | Squibbs, Sylvester S.  | 11. Can. Eng. | .Hires, Mrs. Frederick | Amherst, Cumberland Co., N.S  | Ireland  |  | April 1, 1915. | Windsor  |
+| 20 | 758<br>2092<br>3929<br>2129 | 414209 | Privato iStapleton. William |  | 66th Rpgt  .. Stapleton, Frnncis |  | 44 Stair St., Halifax. N.S  | Canada  |  | June 2, 1915. | Aldershot. ... |
+| 20 | 758<br>2121<br>3929<br>2156 | 414895 | Private 'Stevpns. Harris . |  | Nil   .Williams, Mrs. Aron |  | River Hebert, Cumberland Co., N.S  | Canada |  | Aug. 10. 1915. | Aldershot  |
+| 21 | 646<br>368<br>3808<br>402 | 414390 | Privato  | Steeves, Blair  | 08th Regt.. | iSteeves. Mrs. Annie | Little River, St. John Co., N.B  | Canada  | Truro  | 28, 1915. |
+| 21 | 646<br>398<br>3808<br>431 | 41412? | I’rivale  | Stevens, Hugh  | Nil  | Stevens, Richard. | Dahlia St., Dari; i 'Utli, Halifax Co., N.S  | Canada   | Halifax  | 9, 1915. |
+| 21 | 646<br>428<br>3808<br>461 | 415492 | Private  | Stevenson, John    | 78th Regt.. | Stevenson, Mrs. John | Stellarton. Pictou < " . N'.S  | Newfoundnlnd.. | New Glasgow.. | 30.1915. |
+| 21 | 650<br>457<br>3809<br>490 | 115230 | Private  | Stevenson, Thomas T  | Nil  | (Stevenson. William J | Big Bras d'Or, \ i lori.’t Co., C.B. N.S    | Scotland  | Aldershot  | 29, 1915. |
+| 21 | 645<br>486<br>3810<br>517 | 414602 | Private  | Stewart, Arthur  | Nil  | .-Stewart, John  | Sutton in-Ashfiold. Notts., Eng '.  | England  | Sydney  | 7, 1915. |
+| 21 | 644<br>517<br>3810<br>550 | 414031 | Private.   | Stewart, ('harles D.    | Nil  | Stewart, Mrs. Mary Dale | Wostville, Pictou Co., N.S  | Canada  | New Glasgow. . | 1, 1915. |
+| 21 | 644<br>546<br>3810<br>578 | 414(133 | Private  | Stewart, Samuel R  | Nil  | Stewart, Mrs. Viola  | Westville, Pictou Co., N.S  | Canada  | New Glasgow. . | 31, 1915. |
+| 21 | 644<br>576<br>3810<br>608 | 414470 | Private  | Stewart, William  | Nil  | Stewart, Archibald.... | 8 Clyde St., Anderson, Glasgow, Scot  | Scotland  | Aidershot  | 10.1915. |
+| 21 | 644<br>605<br>3810<br>637 | 414853 | Private  | Slone, Stanley  | Nil  | none. Mrs. Lizzie  | Glace Bay, C.B., N.S   | Canada  | Sydney  | 7, 1915. |
+| 21 | 643<br>634<br>3810<br>672 | 415059 | Privato  | Stone, Thomas W  | Territorials. | Stone, Mrs. T. W  | New Tuskct, Digby Co., N.S,  | England j | Yarmouth  | 13.1915. |
+| 21 | 643<br>664<br>3810<br>697 | 415271 | Private  | Strangward. Bertram John  | Nil  | Strnngnard, Francis E. | 98 Argytc St., Halifax, N.S  |  |  | 30.1915. |
+| 21 | 643<br>693<br>3810<br>726 | 415755 | Private  | St rickland, < Jecil  | Nil  | Strickland, Emanuel  | Port aui Basque. Nfld  | Newfoundland.. | Aldershot  | 3, 1915. |
+| 21 | 644<br>723<br>3811<br>755 | 415983 | Private  | Strobridge, Thomas  | Nil  | Strobridge, Miss Emma | Fortune Bay, Nfld  | Newfoundland.. |  | 13, 1C15. |
+| 21 | 644<br>752<br>3811<br>783 | 414943 | Privato  | S t- rowbrid go, Frcderick  | Nil  | Hardy, Mrs. Emma.. | Belleoram, Fortune Bay, Nfld    | Newfoundland.. |  | 13, 1915. |
+| 21 | 644<br>781<br>3811<br>812 | 482078 | Privato  | Stymest, Percy H   | Nil  | Stymest, W  | Fairville, St.John, N.B  | Canada  | Sussex  | 18.1915. |
+| 21 | 644<br>811<br>3811<br>843 | 415748 | Privato  | Suker, Thomas < »enio  | Nil  | Suker, Mrs. Eva  | 190 Creighton St., Halifax, N.S  |  |  | 29.1915. |
+| 21 | 644<br>840<br>3812<br>871 | 414854 | Privato  | Sullivan, Frederick William  | Nil  | Sullivan, Airs. Katherine. | New Aberdeen, C.B., N.S   |  |  | 7, 1915. |
+| 21 | 643<br>870<br>3811<br>901 | 415412 | Private  | Sullivan, William  | Nil  | Sullivan, Mrs. William.. | 48 John St., Halifax, N.S  |  |  | 23, 1915. |
+| 21 | 643<br>899<br>3812<br>928 | 415231 | Private  | Sutherland, Andrew  | Nil  | Sutherland, Donald  | Now Harris. Victoria Co., C.B., N.S  |  |  | July | 29, 1915. |
+| 21 | 641<br>929<br>3812<br>958 | 414933 iPrivate  |  | Sutherland, Henry M  | Nil  | Sutherland, Mrs. Clnra. | Truro, Colchester Co., N.S  |  |  | 10.1915. |
+| 21 | 642<br>954<br>3812<br>989 | 482062jPrivate  |  | Suttie, Guy  | C.F.A  | Suttie, Alfred B  | Yarmouth North, N.S •.  |  |  | 19, 1915. |
+| 21 | 641<br>988<br>3812<br>1018 | 41 5R4D Privf, 11. | •f I (>'' 11 l 1 l \ 11 i   |  |  | Suttie, Laura  | Vancouver St., Yarmouth, N.S  |  |  | 12, 1915. |
+| 21 | 641<br>1016<br>3812<br>1048 | 416003 Private   |  |  | Nil  | Swaine, Mrs. Emma.... | Canso, Guysborough Co., N.S  |  |  | 14, 1915. |
+| 21 | 642<br>1046<br>3813<br>1076 | 414W53 Private  |  | Swaine. Roland Judson  | Nil  | Swaine, Samuel  | t’anso, Guysborough Co., N.S  | Canada  |  | 10, 1915. |
+| 21 | 641<br>1071<br>3812<br>1105 | 414195 (’orporal  |  | Swan, Edwnrd Thomas  | Nil......... | Swan. Mrs. Mary  | 64 Portabeila Rd., Kensington, West London, Eng  | England  | Halifax  | 27, 19i;. |
+| 21 | 641<br>1104<br>3814<br>1134 | 414701 Private  |  | Swanwick, Alfred  | Territorials. | Swanwick, Mrs. Gertrude | Spring Hill Mines, Cumberland Co., N.S  | England  | Aldershot  | 29. 1915. |
+| 21 | 641<br>1134<br>3814<br>1164 | 114937 | Private  | •M, Ralph  | Nil  | Sweet, Mrs. Bertha  | Gohlenville, Guysborough Co., N.S   |  |  | 12, 1915. |
+| 21 | 641<br>1160<br>3815<br>1192 | 414830 | Privote  |  | Nil  | Swindells. Maggie  | 280J4 Campbell Rd., Halifax, N.S  |  |  | 2, 1915. |
+| 21 | 641<br>1188<br>3816<br>1226 | 414449 | Private  |  | Nil  | Dobbin, Mrs. Charles.. | Sydney. C.B., N.S  | Newfoundland |  | 7.1916. |
+| 21 | 641<br>1219<br>3815<br>1249 | 416784 | Private  |  | Nil  | Taylor, William C  | Yarmouth, N.S  |  |  | 7, 1915. |
+| 21 | 640<br>1248<br>3815<br>1278 | 414040 | Privato  | Torrio, William D  |  | Terrio. Mrs .lane Burk. | Douglas Ave.. Amherst, Cumberland Co., N.S  | Cannda  |  | 8, 1915. |
+| 21 | 641<br>1276<br>3815<br>1307 | 414311 | Private  | Theriault, John  | Nil  | Theriault, Mrs. Ada.... | Weymouth, Digby Co., N.S  | Canada  |  | 10.1915. |
+| 21 | 640<br>1305<br>3816<br>1336 | 415085 | Privato  | Thomas, Charles  | Territorials. | Thomas, Mrs. Marie.... | 26 Olnev St., County RdWalton, Liverpool, Eng  | England  | Aldershot  | 24. 1915. |
+| 21 | 641<br>1334<br>3817<br>1364 | 415411 | Private  | Thomas, David John.  | Nil  | Thomas, Mira M  | 83 Albemarle St., Halifax N.S :  | Canada  | Valcartier  | 23, 1915. |
+| 21 | 641<br>1360<br>3816<br>1394 | 415702 | Private  | Thompson, Aubrey Simpson  | Nil  | Thompson, J. R  | 40 Devon St., Moncton, Westmoreland, N.B  |  |  | Aug. | 3, 1915. |
+| 21 | 640<br>1391<br>3817<br>1424 | 415812 | Private....  | Thompson, iiornce   | 93rd Regt.. | Thompson, Mrs. W. B. | Sackville, Westmoreland Co., N.B  |  |  | Aug. | 10.1915. |
+| 21 | 641<br>1420<br>3817<br>1453 | 4148721 Private   |  | rhomp m o nas Nikolai  | Nil  | Thompson, Nikolai.... | Morke, Denmark  |  |  | Aug. | 7, 1915. |
+| 21 | 641<br>1449<br>3816<br>1481 | 414522 | .Sergeant  ... | Thornton, Charles William  | Nil  | Thornton, Amelia  | P.O. Box 694, Amherst, Cumberland Co., N.S  |  |  | Mar. | 18, 1915. |
+| 21 | 641<br>1478<br>3817<br>1511 | 414457 | Private  | Timmins, Guy W   | Nil  | Timm ins. William A... | 61 Le Marchant St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 10.1915. |
+| 21 | 641<br>1507<br>3818<br>1538 | 416278 Pri vate  |  | Tindle, George *  | Nil  | Smith. Mrs. Nettie  | !27 Grafton St., Halifax, N.S  | England  | Aldershot  | Aug. | 7, 1915. |
+| 21 | 641<br>1535<br>3817<br>1568 | 414140'Corporal  |  | Toed, Guv.    | 09th Regt.. | Todd. Jnmes  | Bridgetown, Annapolis Co., N.S  |  |  | April | 27, 1915. |
+| 21 | 641<br>1565<br>3817<br>1600 | 4142871 Sergeant  |  | Todd, John McDonald  | Imp. Force* | Todd, Mrs. Eva  | 23 Dresden Row, Hnlifax, N.S   |  |  | June | 16. 1915. |
+| 21 | 641<br>1598<br>3120<br>1626 | 414498 Privato  |  | Tomkinson. Samuel  | Nil  | Tomkinson, Mrs. Mary J< | Stellarton, Tictou Co., N.S   |
+| 21 | 640<br>1622<br>3818<br>1656 | 414891 Private  |  | Tompkins. Jam^s Kenneth  | Nil  | Tompkins, Michael.. | Truro, Colchester Co., N.S  |  |  | Aug. | 10, 1915. |
+| 21 | 640<br>1651<br>3819<br>1686 | 4820911 Privato  |  | Tracey, James T  | r,ith Regt., | Tracey, Martin  | New Aberdeen, C.B., N.S  |  |  | Aug. | 24, 1915. |
+| 21 | 641<br>1685<br>3120<br>1718 | 415517 (Corporal  |  | Trask, Charles Edward  | C.F.A  | Trask, Clayton  | Yarmouth, N.S  |
+| 21 | 641<br>1714<br>3120<br>1745 | 4l4817|Privato  |  | Travers, John Janies  | Nil  | Travdrs, Mrs. Mary. . | 37BJ-4 Barrington St., Halifnx, N.S  |
+| 21 | 641<br>1743<br>3120<br>1773 | 4l58l3IPrivate  |  | Tray nor, John. ..    | R.C.R  | Jones, M ary  | 91 Cann St.. Lansdown Rd., Manchester, Eng  |
+| 21 | 3378<br>1765<br>3819<br>1794 |  |  |  |  |  |  |  | Digby  | April | 5. 1915. |
+| 21 | 641<br>1771<br>3120<br>1802 | 415025 | Private  | Turnbull, Alfred M  | Nil  | Turnbull, Henry G... | Digby, N.S  |
+| 21 | 642<br>1801<br>3120<br>1831 | 415514 Srrp’Mnt  |  | Turnbull, George Archer  | Nil  | Turnbull. Mrs. George D | Digby, N.S  |
+| 21 | 642<br>1830<br>3120<br>1859 | 415ISO Privato  |  | Turner, Gordon ii  | Nil  | Turner, John | 206 Caledonin Minos, C R., N.S  |
+| 21 | 642<br>1858<br>3120<br>1889 | 4159021 Private  ... |  |  | OOth Regt.. | Turner, Mrs. Ixjuise . | 305 Maynard St., Halifax, N.S.    |
+| 21 | 642<br>1888<br>3120<br>1918 | 416905 | Private  | Turner, Raymond Vaughan  | 00th Regt.. | Turner, Mrs. L   | 305 Maynard St., Halifax, N.S  |
+| 21 | 642<br>1917<br>3108<br>1947 | 4158K«>| Private  |  | Turpin, James  | 03rd Regt.. | Squires, Mrs. Susie.. | 1 Fawson St. Halifax N.S..  |
+| 21 | 642<br>1945<br>3108<br>1976 | 415702; Private  |  | Twist, Auston  | 94 th Regt.. | Knowles, Mrs. Alice. | Caledonia Mines, C.B., N.S  |
+| 21 | 642<br>1975<br>3110<br>2006 | 416429 Private  |  | Twist, John .   | Nil...  | Twist, Mrs. Alice | Glace Bay, C.B., N.S  |
+| 21 | 3138<br>1994<br>3821<br>2023 |  |  |  |  |  |  | Canada.  | Aldershot  | Aug. | 12, 1915. |
+| 21 | 642<br>2004<br>3111<br>2033 | 415853 Private  |  | Vanhorne, Reuben  | Nil  | . Vnnhome, Mrs. Jessie M | Yarmouth, N.S    |
+| 21 | 3142<br>2023<br>3820<br>2052 |  |  |  |  |  |  | Newfoundland | Aldershot. .*.... | July | 29. 1915. |
+| 21 | 642<br>2033<br>3110<br>2065 | 4147G2 Privato  |  | Vaters. Eli   | 9tth Regt.. | Vnt>-n<, Rebecca . | North Sydney, C.B., N.S  |
+| 21 | 643<br>2062<br>3109<br>2094 | A 1 | Privn) n |  |  | .Vaughan, Mrs. Ellen. | 144 Creighton St., Halifax. N.S  |
+| 21 | 643<br>2091<br>3111<br>2123 | 4154141 Privato  |  | Veinott, Alexander  | Nil  | .IVeinott, Mrs. Mary | Myrtle St., Dartmouth, Halifax Co., N.S  |
+| 22 | 749<br>568<br>3416<br>610 | •S.55 |  |  | Former Corps. |  |  | Country of |
+| 22 | 749<br>718<br>3914<br>750 | 415835 | Private.. | Veinott, Robert W  | Nil  | Veinott, Mrs. A   | Bridgewater, Lunenburg Co., N.S  | Canada  | Aldershot  | Aug. | 12, | 1915. |
+| 22 | 749<br>749<br>3914<br>780 | 4)5752 | Privato.. | Vincent, George Thornton  | Nil  | Vincent, Mrs. Maggie  | <13 South St., Halifax, N.S  | Canada  | Halifax  | June | 5, | 1915. |
+| 22 | 749<br>778<br>3914<br>808 | 414883 | Privato.. | Waite, Vibert L  | Nil  | Waite, Mrs. J. C  | Truro, Colchester Co., N.S  | Canada  | Aldershot  | Aug. | 10, | 1915. |
+| 22 | 749<br>807<br>3914<br>839 | 416179 | Private.. | Walker, David 11  | Nil...  | Walker, George ...   | Joirdn Mines, Cumberland Co., N.S  | Canada  | Aldershot  | July | 24, | 1915. |
+| 22 | 748<br>838<br>3915<br>868 | 41670: | Privato,. | Walker, Harry  | Imp. Forces  | Walker, Miss Jessie  | ydnejr Mines, C.B., N.S  | England  | Aldershot  | July | 29, | 1915. |
+| 22 | 749<br>867<br>3915<br>897 | 415031 | Private.. | Walker, Isaac  | Nil  | Walker, Hannah V... . | Weymouth, Digby Co., N.S  | England  | Digby  | May | 11, | 1915. |
+| 22 | 747<br>896<br>3915<br>926 | 41579X | Private.. | Walker, Lawronce  | Nil  | Walker, Arthur  | Thorn Road Lane, Nottingham, Eng  | England  | Aldershot  | Aug. | 10, | 1915. |
+| 22 | 747<br>926<br>3916<br>956 | 415716 | Privnlo.. | Wall, Patrick  | Nil  | Wall, Michael  . ... | Herring Cove, Nfld  | Newfoundland.. | Sydney  | Aug. | 9, | 1915. |
+| 22 | 747<br>955<br>3916<br>985 | 414814 | Private,. | Waller, Edward Patrick  | Nil  | Waller, Mrs. Edward... | ■S00 Pleasant St., Halifnx, N.S  | Canada  | Aldershot  | Aug. | 3, | 1915. |
+| 22 | 747<br>984<br>3916<br>1015 | 41484'! | Private.. | Walsh, John Edward  | Nil  | Walsh, John  | Sydney Mines, C.B., N.S  | Canada   | Sydney  | Aug. | 9, | 1915. |
+| 22 | 747<br>1014<br>3916<br>1043 | 415687 | Private.. | Walsh, Maurice  | Nil  | Walsh, James  | YVestern Bay, Nfld  | Newfoundland.. | Aldershot  | July | 24, | 1915. |
+| 22 | 747<br>1042<br>3915<br>1073 | 41547!' | Privnte.. | Walters, Reucl  | Nil  | Walters, Harry   | Upper Keunetcook, Hants Co., N.S  | Canada  | Aldershot.  | Aug. | H, | 1915. |
+| 22 | 746<br>1071<br>3916<br>1101 | 416839 | Privato.. | Walton, Stanley  | Nil  | Walton, Sarah   | Truro, Colchester Co., N.S  | Canada  | Aldershot  | Aug. | 12, | 1915. |
+| 22 | 745<br>1101<br>3917<br>1130 | 415B90 | Private.. | Wnmbolt, Guy Alonzo  | Nil  | Wambolt, Emma...   | Portland St., Dartmouth, Halifax Co., N.S  | Canada  | Valcartier  | Aug. | 23, | 1915. |
+| 22 | 747<br>1130<br>3916<br>1160 | 4I4S41 | Private.. | Ward, Charles Henry  | Royal Navy  | Ward, Mrs. Ada F  | 30 North Creighton St., Halifax, N.S  | England  | Halifnx  | July | 30, | 1915. |
+| 22 | 745<br>1159<br>3916<br>1189 | 415753 | Private.. | Ward, Thomas Joseph  | Nil  | Ward, Mrs. Mary Ann. ... | Wentworth St., Windsor, Hants Co., N.S  | Canada  | Halifax  | July | 31, | 1915. |
+| 22 | 745<br>1188<br>3916<br>1217 | 415693 | Private.. | Warden, Joseph Cecil  | Nil  | Warden, Mrs. A  | Kingsport, Kings Co., N.S  | Canada  | Aldershot  | July | 24, | 1915. |
+| 22 | 745<br>1216<br>3916<br>1248 | 415438 | Private.. | Warren, John    | Nil  | Warren, George   | Spring Hill, Cumberland Co., N.S  | England  | Sussex  | Aug. | 18, | 1915. |
+| 22 | 745<br>1246<br>3916<br>1277 | 414892 | Private.. | Watson, George  | Nil  | Bell, Agnes  | 23 Beckginns, Whitehaven, Cumberland Co., Eng. | England  | Aldershot  | Aug. | 10, | 1915. |
+| 22 | 745<br>1276<br>3916<br>1306 | 414476 | Private., | Watson, William George  | Nil  | Wat-son, Mrs. Agnes Jane  | Truro, Colchester Co., N.S  | Canada  | Aldershot  | Aug. | 10, | 1915. |
+| 22 | 745<br>1305<br>3917<br>1336 | 482047 | Privato.. | Way, David  | Nil  | Way, Mrs. Sarah  | Sydney Mines, C.B., N.S  | Canada  | Sydney  | Sept. | 1, | 1915. |
+| 22 | 746<br>1334<br>3916<br>1365 | 415421 | Private.. | Way, Henry  | Nil  | Way, Miss Lucy  | c/o Mrs. John McDonald, Millville, C.B., N.S  | Canada  | Aldershot  | Aug. | 14, | 1915. |
+| 22 | 745<br>1364<br>3916<br>1394 | 414851 | Private.. | Way, Robert   | Nil  | Way, Robert  | Sydney Mines, C.B., N.S    | Canada  | Sydney  | Aug. | 7, | 1915. |
+| 22 | 744<br>1393<br>3917<br>1424 | 415988 | Private.. | Way, Walter John  | Nil  | Way, Annie  | Woodland Ave., Dartmouth, Halifax, N.S  | England  | Halifax  | Aug. | 12, | 1915. |
+| 22 | 744<br>1422<br>3917<br>1452 | 415799 | Private.. | Weatherbed, James  | Nil  | Weatherbed, John  | Pynn Terr., Nottingham, Eng  | England  | Aldershot  | Aug. | 10, | 1915. |
+| 22 | 744<br>1451<br>3917<br>1483 | 414370 | Private.. | Weatherdon, Thomas Jeremiah.. | 66th Regt  | Weatherdon, Mrs. Eva May. | 32 Albemarle St., Halifax, N.S  | Canada  | Aldershot  | Aug. | 3, | 1915. |
+| 22 | 744<br>1480<br>3917<br>1510 | 482044 | Private.. | Webb, Joseph K  | Nil  | Webb, Logan K  | Birmingham, Eng  | England   | Sussex  | Aug. | 24, | 1915. |
+| 22 | 744<br>1510<br>3917<br>1538 | 414942 | Private.. | Weeks, Charles   | Nil  | Weeks, Mrs. Mary Ann  | Glace Bay, C.B., N.S  | Canada   | Sydney  | Aug. | 13, | 1915. |
+| 22 | 743<br>1537<br>3917<br>1568 | 416420 | Privato,. | Weir, Archibald   | Nil  | Weir, Mrs. Cnthcrine  | Reserve Mines, C.B., N.S..’.  | Scotland  | Sydney  | M By | 3, | 1915. |
+| 22 | 742<br>1567<br>3917<br>1597 | 414964 | Private,. | Welsh, John E  | Nil  | Welsh, Mrs. Willena  | Spring Hill, Cumberland Co., N.S  | Cnnada  | Aldershot  | Aug. | 12, | 1915. |
+| 22 | 743<br>1596<br>3917<br>1626 | 416850 | Private.. | Westcott, Leonard  | Nil  | Westcott, Mrs. May  | Midfile River, Yarmouth, N.S  | Canada  | Aldershot  | Aug. | 12, | 1915. |
+| 22 | 742<br>1626<br>3918<br>1657 | 416-163 | Private.. | Westermnn, Harry Charles   | 03rd Regt  | Westerman, Mrs. Mary  | 0 Uniacke St.. Halifax, N.S  | Canada  | Valcartier  | Aug. | 18. | 1915. |
+| 22 | 742<br>1655<br>3918<br>1684 | 414732 | Private.. | Whalen, John  | Nil  | Whalen, Mrs. Mary  | North Sydney, C.B., N.S  | Canada  | Sydney Mines. . | Mar. | 31, | 1915. |
+| 22 | 743<br>1684<br>3917<br>1712 | 415518 | Corporal. | Wharton, Cecil William   | Can. Mil | Wharton, William. . | Reach Meadows, Queens Co., N.S  | Canada  | Middleton  | April | 5, | 1915. |
+| 22 | 742<br>1713<br>3918<br>1743 | 415810 | Private.. | Wheat, John   | Nil I Wheat, Harry. |  | 14 Cathcart St., Nottingham, Eng  | England  | Aldershot  | Aug. | 10, | 1915. |
+| 22 | 743<br>1742<br>3918<br>1773 | 41539S | Private.. | Whiley, William Ernest G  | C.G.A (Whiley, Mrs. Emma. |  | 102 Lockman St., Halifax, N.S  | England  | Halifax  | Aug. | 13, | 1915. |
+| 22 | 743<br>1771<br>3918<br>1806 | 414232 | Private.., | White, Arthur Melvin  | Nil j Doucette, Mrs. E  |  | Centreville, Kings Co., N.S  | Canada  | Aldershot  | June | 16, | 1915. |
+| 22 | 742<br>1801<br>3919<br>1835 | 414437 | Private.. | White, Lnuchie  | Nil |White, Daniel A.. . |  | Big Ridge, C.B., N.S  | Canada  | Sydney  | Aug. | 7, | 1915. |
+| 22 | 743<br>1830<br>3918<br>1861 | 414231 | Private.. | White, Thomas Patrick  | Nil I White, Miss Agnes... |  | Reserve Mines, C.B., N.S  | Newfoundland. | Aldershot  | June | 9. | 1915. |
+| 22 | 742<br>1858<br>3920<br>1890 | 415519 | Sergeant. | Whitehead, Jack  | Nil (Whitehead, Mrs. |  | 74 Ave Rd., Acton, London, Eng  | England  | Middleton  | April | 5, | 1915. |
+| 22 | 742<br>1885<br>3919<br>1919 | 415759 | Private.. | Whitman, Lawrence   | 70th Regt (Whitman, Asaph. |  | Port Lome, Annapolis Co., N.S  | Canada  | Aldershot  | Aug. | 3, | 1915. |
+| 22 | 741<br>1912<br>3920<br>1948 | 482021 | Privato.., | Wicks, James | Nil jWicks, Eli.. |  | Fortune Bay, Nfld  | Newfoundland. | Sydney  | Sept. | 1. | 1915. |
+| 22 | 742<br>1947<br>3919<br>1978 | 415975 | Sergeant. | Wilcox, Abrahnm   n4th Regt Wilcox, Mrs. Henrietta W. |  |  | Glace Bay, C.B., N.S   | Canada  | Valcartier  | Sept. | 8, | 1915. |
+| 22 | 741<br>1976<br>3920<br>2006 | 415343 | Private.., | W i I nn* lntnna AmliiKnl/1 Mil ! W11 Pn* Mra lfonrinltn | Wilcox. James Archibald.. | Nil Wilcox. Mrs. Henrietta. | Glace Bay, C.B., N.S  | Cnnada   | Sydney  | Aug. | 13, | 1915. |
+| 22 | 741<br>2005<br>3919<br>2038 | 414928 | Private... | Williams, Ernest Arthur | Nil jWilliaras, Mrs. Fannio |  | Birmingham, Eng  ..   | England  | Aldershot  | Aug. | II. | 1915. |
+| 22 | 741<br>2034<br>3920<br>2064 | 414344 | Private.., | Williams, Hnrold  ... | Nil ;W illiam*, Sarah  |  | Monk’s Sherborne, Hants., Eng  | England  | Halifax  | July | 14, | 1915. |
+| 22 | 741<br>2063<br>3921<br>2094 | 414152 | Bugler.... | Williams, Henry  | Nil iWilliams, Mrs. Elma. |  | 12 Creighton St., Halifax, N.S  | Canada  | Halifax  | April | 30, | 1915. |
+| 22 | 741<br>2092<br>3921<br>2132 | 416265 | Private... | Williams, Llewellyn Robert.. | Nil j Williams, Silas M  |  | 219 Brunswick St., Halifax, N.S  | Wales.   | Halifax. .   | July | 30, | 1915. |
+| 22 | 741<br>2121<br>3921<br>2153 | 415264 | Private... | Williams, Schofield Victor.. | Nil 'Williams, Mrs. Julia. . |  | 219 Brunswick St., Halifax. N.S  | England  | Aldershot  | Aug. | 1915. |
+| 23 | 3151<br>353<br>3830<br>385 |  |  |  |  |  |  | Englnnd   | Halifax  | July | 30,1915. |
+| 23 | 675<br>375<br>3831<br>419 | 414}l2jPrivate.... |  | .. iWiimin, Alfred Edwnrd.... | Nil  | Wjlmin, Margaret |  | Canada  | Halifax  | May | 5, | 1915. |
+| 23 | 675<br>413<br>3831<br>448 | 414109 Private. .. |  | Imot, Ronald  | Nil...,...,. . . |  |  | England  | Aldershot  | May | 24,1915. |
+| 23 | 675<br>442<br>3831<br>474 | 4 if> 133! Private* .. |  | ih'’n, Charles  | Nil  |  |  | Canada  | Sydney  | Aug. | 9, | 1915. |
+| 23 | 675<br>470<br>3831<br>504 | 4 1144i 'Private.... |  | Wilson, Harold Emmerson. | Nil  |  |  | Canada  | Aldershot.  | July | 29, | 1915. |
+| 23 | 673<br>499<br>3829<br>531 | 415232 Private.... |  | .. |Wilson, John Vincent  | Nil  |  |  | Canada  | Aldershot  | July | 29, 1915. |
+| 23 | 673<br>528<br>3832<br>561 | 415233.Private.... |  | .. Wilson, John William  | Nil  |  |  | Canada  | Sydney  | Aug. | 7, | 1915. |
+| 23 | 672<br>556<br>3831<br>594 | 414438 Private  |  | . .(Wilson, Neil Francis.  | Nil  |  |  | Scotland  | Aldershot   | June | 23, 1915. |
+| 23 | 673<br>585<br>3833<br>618 | 4 l4315|Frivntc.... |  | . . Wilson, Robert Kcnnie  | Nil  |  |  | Scotland  | Sydney  | Mar. | 20,1915. |
+| 23 | 672<br>614<br>3833<br>647 |  | Private  | 41510' | iWilson, Samuel  | Nil  . |  | England  | Sussex ISept. | 3, | 1915. |
+| 23 | 672<br>643<br>3833<br>678 |  | Private  | 4S2007 | .. Wilson, William Ernest.... | Imp. Forre* |  | Englnnd  | Valcartier  | Auc- | 23, 1915. |
+| 23 | 672<br>672<br>3833<br>708 |  | Private  | 114981 | . jWomersley, Albert  | Uth Ae«i.. |  | England  | New Glasgow. . | Mar. | 31, 1915. |
+| 23 | 671<br>700<br>3833<br>740 |  | Private  | 411049 | w ood, Jo ■ ph  | Nil..*  |  | Englnnd  | Aldershot  | Aug. | 7, | 1915. |
+| 23 | 672<br>731<br>3834<br>767 |  | Private.... | 415785 | ! Woodley, Sydney C   | Nil  |  | Canada  | Aldershot  | July | 29, | 1915. |
+| 23 | 673<br>756<br>1766<br>790 | 414350 Private  |  | ,. ‘Woods, George   | K»l  |
+| 23 | 3149<br>769<br>3835<br>796 |  |  |  |  |  |  | Canada  | Halifax  | June | 11, 1915. |
+| 23 | 672<br>789<br>1753<br>819 | 4142S2 C.Q.M.S, . |  | Woods, William Cletus.,... | Nil...  |
+| 23 | 3150<br>799<br>3835<br>829 |  |  |  |  |  |  | England  | Hnlifax  | Aug. | 11. | 1915. |
+| 23 | 672<br>820<br>1691<br>847 | 414991 Private.... |  | . !Worden, Edwin Collins. | Mrd Beet. |
+| 23 | 3149<br>829<br>3835<br>857 |  |  |  |  |  |  | Canada  | Aldershot  | Aug. | 10, 1915. |
+| 23 | 672<br>848<br>1752<br>879 | 414927 Privnte  |  | .. Wright, Percy Arnold  | Nil  |
+| 23 | 3150<br>859<br>3836<br>885 |  |  |  |  |  |  | Canada  | Halifax  | Aug. | 2. | 1915. |
+| 23 | 672<br>878<br>1778<br>910 | 411922 Private.... |  | ,. jWylde, Harry Gilbert  | Nil  |
+| 23 | 3150<br>888<br>3834<br>914 |  |  |  |  |  |  | Canada  | Aldershot  | Aug. | 12,1915. |
+| 23 | 671<br>906<br>3835<br>946 | 415848 Privnte.... |  | . jWymnn, Wilfred A  | NO  |  |  | Canada  | Digby  | May | 10 | 1915. |
+| 23 | 669<br>932<br>1765<br>966 | 4150371 Pri vate.... |  | .! Vorke, Curtis M  | C?tb )tr*t  |
+| 23 | 3150<br>947<br>3835<br>975 |  |  |  |  |  |  | Canada  | Sydney  | Aug. | 13. 1915, |
+| 23 | 3150<br>976<br>3836<br>1003 |  |  |  |  |  |  | Canada  | Aldershot  | Aug. | 7, | 1915. |
+| 23 | 668<br>994<br>1778<br>1024 | 414835* j Private.... |  | . I You den, George  | Nil *  |
+| 23 | 3150<br>1004<br>3836<br>1031 |  |  |  |  |  |  | Canada  | Aldershot  | Aug. | 7, | 1915. |
+| 23 | 668<br>1022<br>1776<br>1050 | 4J4H40 Private  |  | \ ounr, Foster l/eslie  | Nil  |
+| 23 | 3150<br>1034<br>3836<br>1062 |  |  |  |  |  |  | Canada  | Sydney  | Aug. | 13, | 1915. |
+| 23 | 667<br>1052<br>1776<br>1080 | 415982. Pri1vate  |  | . Young, John  | Nil  |
+| 23 | 3151<br>1063<br>3837<br>1089 |  |  |  |  |  |  | Scotland  | Aldershot  | Aug. | 42, | 1915. |
+| 23 | 667<br>1079<br>1776<br>1116 | 414935 Private.... |  | j Young, John   | Nil   |
+| 23 | 1856<br>1092<br>3837<br>1129 |  |  |  |  | !McFadyen, John Allan... | P.O., Aberdeen, C.B., N.S  | England  | Sydney  | Aug. | 24 | 1915. |
+| 23 | 666<br>1107<br>1775<br>1144 | 482004 Private.... |  | j Young, John Henry  | #4th Ri'gt  |
+| 23 | 1856<br>1121<br>3837<br>1157 |  |  |  |  | 'Young, Mrs. Eva  | Mill Cove, Lunenburg Co., N.8  | Canada  | Aldershot  | Aug. | 7. | 1915. |
+| 23 | 666<br>1138<br>1760<br>1170 | 414847jPrivate  |  | . j Young, Moody Malcolm | Nil  |
+| 23 | 1867<br>1151<br>3837<br>1186 |  |  |  |  | Voting. Mrs. Annie.... .. | Sydney, C.B., N.S  | Canada  | Sydney  | Aug. | 13. | 1915. |
+| 23 | 666<br>1165<br>1716<br>1198 | 415341 j Pri vate  |  | i Young, William  | NU  |
+| 23 | 3150<br>1181<br>3837<br>1207 |  |  |  |  |  |  | Canada  | Halifax  | May | 6, | 1915. |
+| 23 | 665<br>1194<br>1674<br>1225 | 414173 Private .. |  | iVoung, William Harry  | 03rd Heft |
+| 23 | 1855<br>1210<br>3837<br>1245 |  |  |  |  | Uoudrey. Mrs. Sophia . . | Mahone Bay, Lunenburg Co., N.S  | Canada  | Halifax  | July | 8, | 1915. |
+| 23 | 665<br>1220<br>1703<br>1252 | 4150711 Private  |  | /wicker, Charles  | Nil  •• |
+| 23 | 755<br>1399<br>3839<br>1444 |  | I- • |  |  | Ilwyrr. Mr. Johanna Ornce | 113 Dresden Row, Halifax, N.S....  | Canada  | Aldershot  | May | 16.1915. |
+| 23 | 762<br>1421<br>1731<br>1460 |  | Captain | j Dwyer, John Patrick  | ,100th ftegt. • • • |
+| 23 | 1516<br>1440<br>3840<br>1477 |  |  |  | . Ml* licet  | IlcMton. Mr. (':ir!ierine | North Sydney, C.B., N.S    | Canada  | Aldershot  | May | 10. 1915. |
+| 23 | 3395<br>1469<br>3839<br>1498 |  |  |  |  |  |  |  | Bridgewater  | April | 19, 1915. |
+| 23 | 764<br>1481<br>1730<br>1514 |  | Lieutenant. | 1 'rsgg, Gerald I id win  | . j75th Rest... . |
+| 23 | 1858<br>1498<br>3840<br>1533 |  |  |  |  | John*urn, .Inhn W  | Sydney Mines, C.B., N.S  | Canada  | Aldershot  | May | 24, 1915. |
+| 23 | 764<br>1508<br>1758<br>1541 |  | Lieutenant. | . Johnston, Stanley  | !70th Hnrt  |
+| 23 | 1865<br>1526<br>3841<br>1560 |  |  |  |  | Msjor, Mr.. Alice Nash | P.O. B/’X 444, Truro, Colchester Co., N.S  | Canada  | Aldershot  | May | 21, 1915. |
+| 23 | 764<br>1538<br>1746<br>1571 |  | Lieutenant. | .'Major, Charles Stevens  | 70th But  |
+| 23 | 1865<br>1555<br>3840<br>1588 |  |  |  |  | Allan, Charlna O  | Kentville, Kings Co., N.S  | Canada  | Kentville  | April | 7, 1915. |
+| 23 | 662<br>1566<br>1758<br>1604 | 415111 | Private  | . | Allan, Charles Owen  | .Nil  |
+| 23 | 1865<br>1585<br>3840<br>1619 |  |  |  |  | Almond, Alexander... | George’s River, C.B., N.S  | Canada  | Sydney Mines. | May | 8. 1915. |
+| 23 | 663<br>1594<br>1758<br>1625 | 414735 | Privnte  | , I Almond, John D  | . N«  |
+| 23 | 1865<br>1614<br>3841<br>1648 |  |  |  |  | Almond. John   | George’s River, C.B., N.S  | Canada  | Sydney Mines. | May | 8, 1915. |
+| 23 | 662<br>1625<br>1758<br>1654 | 414730 | Private  | .1 \lmond, Martin  | . Nil  |
+| 23 | 1865<br>1643<br>3841<br>1676 |  |  |  |  | Amon, Mrs. Rebecca. | Parrsboro’. Cumberland Co., N.S  | Canada  | Amherst  | Mar. | 22, 1915. |
+| 23 | 662<br>1647<br>1747<br>1685 | 414330 | Private  | mon, Alexander  | .I.Nil..  |
+| 23 | 662<br>1672<br>3842<br>1712 | 4143S2 | Private  | .'Archibald, William A ... | '! ih Hr«t  | Archibald, James  | Hilden, Colchester Co., N.S  | Cnnada  | Truro  | April | 28, 1915. |
+| 23 | 662<br>1702<br>3843<br>1742 | 414402 | Private  | Utvood, Alfred Edward. .. | .Nil    | Attworwl, William... | Caledonia Mines, C.B., N.S  | England  | Truro  | May | 5,1915. |
+| 23 | 1516<br>1731<br>3843<br>1767 |  |  |  | .'Imp. l'orce*. | Bainl, Mr.. Robert.... | Snckville, Westmoreland Co., N.B  |  Seotlnnd  | Amherst  | Mar. | 18.1915. |
+| 23 | 1968<br>1760<br>3842<br>1793 |  |  |  |  |  | R.R. No.), LittleShemoque. Westmoreland Co., | .B. | Canada  | Amherst  | Mar. | 19, 1915. |
+| 23 | 662<br>1769<br>1758<br>1802 | 414328 Private  |  | ■ i, Elvy  | .Nil  |
+| 23 | 1529<br>1789<br>3842<br>1822 |  |  |  | 'M'h Reift  | Maker. Mr*. William A | t'!harlesl..n, IJnnrns Co., N.S  | ... [Canada  | Liverpool  | April | 13, 1915. |
+| 23 | 663<br>1819<br>3843<br>1866 | 4151271 Pri vate  |  | . jBnttzer, George     | 0»th R«*t  | "altior, Jonathan .... | Waterville, Kings Co., N.S  | .... Canada  | Kentville  | May | 4. 1915. |
+| 23 | 663<br>1848<br>3843<br>1886 | 415130: Private  |  | ..Barkhouse, Arthur  | Nil  | Knrkhnose, William. | Waterville, Kings Co., N.S       | .... Cnnada  | Kentville  | May | 4, 1915. |
+| 23 | 1867<br>1872<br>3843<br>1912 |  |  |  |  | Hurry, James It ... | Cape Tormentine, Westmoreland Co., N.B  | .... jCanada  | Amherst  | Mar. | 17, 1915. |
+| 23 | 663<br>1884<br>1758<br>1924 | 414235 Privnte  |  | . |Barry, John  | Nil  |
+| 23 | 664<br>1904<br>3844<br>1946 | 415251) Private  |  | . Belaney, Archibnld  | fflth Dragoon*. | IMeVane, John | Westfield Centro, Kines Co., N.B  | .... [Canada  | Digby  | May | 6, 1915. |
+| 23 | 663<br>1935<br>3844<br>1976 | 415100 Private  |  | Bennett, Harry Wilfred  | Nil  | 11,-mott, Hurt/hi . | Canning, Kings Co., N.S  | .... [Canada  | Kentville  | April | 7, 1915. |
+| 23 | 664<br>1964<br>3844<br>2004 | 414400 Private  |  | I Bentley. George Marvine.., | Nil  | [Bentley, Mm. Ida ... | Robie St., Truro, Colchester Co., N.S  |   Canada  | Truro  | May | 8, 1915. |
+| 23 | 664<br>1988<br>3844<br>2031 | 4 15137 Private  |  | . Best, Thomas  | NU  | |H«rt, Walter . | 40th Battalion C.E.E  | Canada  | Kentville. v  | May | 4. 1915. |
+| 23 | 1539<br>2020<br>3845<br>2057 |  |  |  | 7Pth n<Tft   | Kelly, Mm. r  | Dunfermline, Fife, Scot    | Scotland  | Sydney—‘  | Mar. | 20, 1915. |
+| 23 | 667<br>2048<br>3845<br>2098 | 414051! Private.... |  | . [Bond, Frank  | Nil  | Bond, Mrs. Rebecca... | Little Bras D'Or, C.B., N.S  | England  | Sydney Mines | |Mar. | 31, 1915. |
+| 23 | 1859<br>2072<br>3846<br>2110 |  |  |  |  | •Bootle, Mrs. Eliia  |  |  |  | I Mar. | 31. 1915. |
+| 23 | 668<br>2085<br>3057<br>2122 | i 14109* Sergeant... |  | . iBootle, James Albert  | Imp. I'oree*... |  | 183 High St., Pawtucket, R.I., U.S.A  |
+| 24 | 2024<br>559<br>3438<br>588 |  |  |  |  | Name of Next of Kin. |  | Country of |
+| 24 | 766<br>701<br>3938<br>734 | 414313 | Private  | Boutilier, Edward Ernest  | Can. Mil.... | Boutilier, Mrs. Ellen  | Nappna, Cumberland Co., N.S...  | Cnnada  | Spring Hill | Mar. | 17, | 1915. |
+| 24 | 767<br>728<br>3938<br>763 | 415212 | Private  | Boutilier, John  | Nil  | Boutilier, Thomas  | Point. Tupper, C.B., N.S.  | Canada  | Liverpool  | M ay | 1, | 1015. |
+| 24 | 766<br>760<br>3939<br>792 | 41138.*) | Private  | Bowers, Carl C  | Nil  | Bowers, W. D   | Shubenacadie, Hants Co., N.S  | 'anada  | Truro  | April | 28, | 1915. |
+| 24 | 766<br>790<br>3938<br>822 | 414054 | Private. | Briggs, Jnmes William  | Nil  | Briggs, Mrs. Anna Myria   | Hunslot, Leeds, Yorks., Eng  | England.  | Sydney Mines. | M ar. | 31, | 1915. |
+| 24 | 767<br>820<br>3939<br>849 | 414321' | Private. | Brine, Joseph Arthur  | Nil  | Brine. Andrew  | Jogflin Mines, Cumberland Co., N.S  | Cannda  | Amherst  | Mar. | 19, | 1915. |
+| 24 | 766<br>849<br>3939<br>880 | 414234 | Privato. | Hrodie, Archibald  | Nil  | Brodie, Clarence   | Pleasant St., Amherst. Cumberland Co., N.S  | Canada  | Amherst  | Mar. | 17, | 1915. |
+| 24 | 766<br>878<br>3940<br>910 | 414850 | Private  | Brogan, Frank....  | Nil  | Brogan, Mrs. Jane.    | Dominion No. 3, Florence, Sydney Mines, C.B., N.S.. | Englnnd  | Sydney Mines. | Mar. | 31, | 1915. |
+| 24 | 766<br>908<br>3939<br>940 | 414055 | Private  | Brogan, Henry  | Nil  | Brogan, Mrs. Henry   | Sydney Mines, C.B., N.S  | England  | Sydney Mines. | M ar. | 31, | 1915. |
+| 24 | 766<br>937<br>3940<br>970 | 4140571 | Privato  | Brogan, Patrick  | T erritorials.. | Brognn, Mrs. Elizabeth  | Sydney Mines, C.B., N.S  | England  | Sydney M ines. | Mar. | 31. | 1915. |
+| 24 | 765<br>966<br>3940<br>998 | 414239 | Private  | Brown, Carl  | Nil  | Brown, Mrs. Charles  | Westmoreland Point, Westmoreland Co., N.B..  | Canada  | Amherst  | M ar. | 17. | 1915. |
+| 24 | 765<br>997<br>3940<br>1027 | 415308 | Private.   | Brown, Herbert  | Nil  | Brown, Thomas..     | Halifax, N.S  | ('anada   | Windsor  | April | 8, | 1915. |
+| 24 | 766<br>1026<br>3941<br>1056 | 415298 | Private...,  | Burns, Robert Fowler  | Nil  | Burns, Mrs. R. F  | Hantsport, Hants Co., N.S  | Canada  | Windsor  | April | 1, | 1915. |
+| 24 | 766<br>1055<br>3941<br>1086 | 414058 | Private  | Burrows. Joseph     | Nil  | Burrows, Mrs. Annie    | Barrington St., Sydney Mines, C.B , N.S  | England  | Sydney Mines. | May | 8. | 1915. |
+| 24 | 767<br>1084<br>3940<br>1114 | 415809 | Privnte.    | Caldwell. Allred L  | Can. Mil.... | Caldwell, Mrs. Clara M  | Arlington West, Annapolis Co., N.S.   | Canada   | Aldershot  | June | 13, | 1915. |
+| 24 | 766<br>1113<br>3941<br>1143 | 414411 | Private  | Campbell, Augustus  | 8. A  | Campbell, Mrs. John  | Bass River, Kent Co., N.B  | Cnnada  | Truro  | April | 28, | 1915. |
+| 24 | 766<br>1142<br>3940<br>1173 | 414387 | Corporal   | Campbell, Robert Vernon  | Nil  | Campbell, Noil R  | Truro, Colchester Co., N.S  | Canada  | Truro  | April | 28, | 1915. |
+| 24 | 766<br>1168<br>3941<br>1202 | 414401 | Privnte. | Cann, John  | Nil  | Cann, Mrs. Elizabeth  | Sydney Mines, C.B., N.S  | f 'anada  | Sydney Mines. | Mnr. | 20, | 1915. |
+| 24 | 767<br>1201<br>3942<br>1231 | 414401 | Privnte. | Cann, William Robert  | Imp. Forces. | Hastings. Mrs. Mary  | 13 Daisy field St., Belfast, Ire  | Ireland  | Truro  | M ay | 5. | 1915. |
+| 24 | 766<br>1230<br>3942<br>1260 | 414428 | Private. | I'nrter, Edward   | Nil  | Carter, Mrs. Mary Ann  | Park St., Westville, Kings Co., N.S  | England  | New Glasgow. | Mny | 1, | 1915. |
+| 24 | 767<br>1260<br>3942<br>1290 | 414750 | Private. | Carter, llugh  | Nil  | Young, A. D  | 3 Rock Cove, Nfld  | Newfoundland | Sydney Mines. | May | 8, | 1915. |
+| 24 | 767<br>1289<br>3942<br>1318 | 414033 | Corporal. | Cnstle, Frederick  | Nil  | Castle, Robert  | 0 Fern St., Halifax, N.S  | Canada  | Halifax  | Mar. | 13, | 1915. |
+| 24 | 766<br>1318<br>3943<br>1347 | 414459 | Private.... | Cathcart, Barney  | Nil  | Cathcart, Mrs. Lena  | New Waterford, C.B., N.S  | Canada  | Sydney  | Mar | 27, | 1915. |
+| 24 | 767<br>1348<br>3943<br>1377 | 414430 | Private.... | Chatterley, Willinm A  | Nil  | Chatterley, Mrs. Christina  | Leicester, Eng  | England...... | New Glasgow. | Mnr | 31, | 1915. |
+| 24 | 767<br>1377<br>3943<br>1406 | 414379 | Private.... | Chisholm, Herbert John   | 70t.h Regt... | Chisholm, Miss Marion  | Worcester, Eng  | Englnnd  | Truro  | April | 28, | 1915. |
+| 24 | 767<br>1406<br>3943<br>1435 | 414247 | Privato  | Chisson, Joseph  | Nil  | Chisson, Annie  | Montreal, P.Q  | Canada  | Amherst  | Mar. | •17, | 1915. |
+| 24 | 767<br>1435<br>3935<br>1466 | 414314 | Private  | Coleman, Dnvid John  | 93rd Regt... | Coleman, Mrs. Annie  | Spring Hill, Cumberland Co., N.S.     | U.S.A  | Spring Hill . . | Mnr. | 17, | 1915 |
+| 24 | 767<br>1465<br>3935<br>1493 | 414335 | Private  | Coles, Arthur J  | Nil  | Coles, A. J  | Oak Hill, Somerset, Eng <   | Englnnd  | Amherst | Mnr | 30, | 1915 |
+| 24 | 767<br>1494<br>3944<br>1524 | 414222 | Privato  | Collings, Willinm  | 00th Regt. . . | Collings, Mrs. M   | 11 Brussels St., Halifax, N.S  | Canada   | Aldershot...... June 7, | 1915. |
+| 24 | 767<br>1523<br>3944<br>1553 | 415134 | Private.... | Comrs, John  | 08th Regt... | Landry, Mrs ; | Kentville, Kings Co., N.S  | Canada  | Kentville | M ay | 1915. |
+| 24 | 767<br>1552<br>3945<br>1582 | 414004 | Private.... | Cooper, William  | Nil  | Cooper, Mrs. William  | Sydney Mines, C.B., N.S  | England  | Sydney Mines | Mar. | 1915. |
+| 24 | 767<br>1581<br>3944<br>1611 | 414433 | Private.... | Cordey, Gerald Gordon  | Nil  | Cordey, John W  | South Willingham, Lincs., Eng  | England  | New Glasgow. | Mbt. | 1915. |
+| 24 | 767<br>1610<br>3945<br>1641 | 415128 | Private... t | Corkum, George Allen  | Nil  | Corkum, Joniah  , | North River, Kings Co., N.8  | Cannda  | Kentville  | May | 1915. |
+| 24 | 768<br>1640<br>3946<br>1669 | 4I4G0.3 | Private.... | Coule, Thomas  | Nil  | Coule, Mrs. Rose Ann  | Not Stated  | England.... ... | Sydney Mines | Mnr. | 1915. |
+| 24 | 768<br>1669<br>3945<br>1698 | 414001 | Private.... | Cross, William  | Nil  | Cross, Mrs. William  | Sydney Mines, C.B., N.S  | England  | Sydney Mines. | Mar. | 1915. |
+| 24 | 768<br>1698<br>3945<br>1727 | 415200 | Privnte  | Crouse, John A  | Nil  | Crouse, Mrs. Elisabet.li   | Lockeport, Shelburne Co., N.S  | ('anada  | Liverpool  | April | 1915. |
+| 24 | 768<br>1727<br>3946<br>1757 | 414370 | Private  | Crowe, Alfred Earl  | Nil  | Crowe, Alfred   | R.R. No. 1, Truro, Colchester Co., N.S  | Canada  | Truro  | April | 1915. |
+| 24 | 769<br>1757<br>3937<br>1790 | 414380 | 1'rivato.   [I 'urrie, George M. |  | Nil  | Currie, Mrs. Edith Maud ...... | River Hebert, Cumberland Co., N.S  | I 'anada  | Truro  | April | 1915 |
+| 24 | 769<br>1786<br>3947<br>1816 | 414008 | Private. | IJongnn, Edwnrd  | Territorials.. | Dongen, Joseph  | Bredn, Hollnnd  | Holland  | Sydney Mines. | Mnr. | 1915. |
+| 24 | 769<br>1816<br>3427<br>1846 | 414389 | Private  . | Donovan, Normnn S  | 70th Regt. . | Donovan, Mrs. Mabel     | Truro, Colchester Co., N.S  | Canada  |
+| 24 | 769<br>1844<br>3947<br>1875 | 414009 | Privnte  | Donovan, Thomas  | Nil   | Donovan, Mrs. Margaret  | Pitt St., Sydney Mines, C.B., N.S.-.  | Canada.   | Sydney Mines | Mny | 1915. |
+| 24 | 770<br>1873<br>3948<br>1905 | 414510 | Private  | Doucette, Thomas Leo. | Nil  | Doucette, John ij.  | New Waterford, C.B., N.S  | ( anada....... | Sydney  | Mny | 1915. |
+| 24 | 770<br>1901<br>3939<br>1934 | 414157 | Private  | Puffy, Stewart Russell. | 93rd Regt .. | Duffy, Owen   | Parrsboro!, Cumberland Co., N.S       | ('anada  | Halifnx ...... | Mnv | 1915 |
+| 24 | 770<br>1929<br>3939<br>1963 | 414772 | Private  | Dumpily. Willinm  | Nil  | Dumphy, Mrs. Catherine...... | North Sydney, C.B., N.S  | Cnnada  | Sydney Mines. | May | 1915 |
+| 24 | 770<br>1958<br>3948<br>1992 | 414410 | Private  | Dunbar, < 'harles  | Nil  | Dunbar, Mrs. Agnes  | Stellarton, Pictou Co.. N.S  | ('anada  | New Glasgow | Mar. | 1915. |
+| 24 | 771<br>1987<br>3939<br>2023 | 414000 | Private  | Duxbury. Adam  | Nil  | Duxbury, Joseph ' | 20 Fleetwood St., Preston, Lanes., Eng  | England  | Sydney M ines | Mar. | 1915 |
+| 24 | 771<br>2015<br>3939<br>2051 | 414250 | Private  | INnton. Aubrey Harris.. | Nil  | Eaton, Mrs. Frederick  | Amherst., Cumberland Co., N.S  | Cannda  | Amherst . . | Mar. | 1915 |
+| 24 | 771<br>2044<br>3940<br>2080 | 414381 | Private  | Edwards, William H... | Nil  | Edwards, Mrs. K. S  | Brynville. Talley, Llnndilo, Carmarthen, Wales  | Wales .   | Trurp  | April | ipir, |
+| 24 | 772<br>2073<br>3940<br>2109 | 414380 | Private . | IlCllis, William H  | Nil  | Ellis. W. J  | Truro, Colchester Co., N.S  | Canada  | Truro   | April | 1915 |
+| 24 | 772<br>2101<br>3949<br>2139 | 414374 | Privnte  | 'Fnge, Rlnir Albert  | Nil   | Fage, Mrs. Elsie   | Hastings, Cumberland Co., N.S  | Cannda  | Amherst | M ay | 1915. |
+| 25 | 3168<br>291<br>3847<br>321 |  |  |  |  |  |  | Newfoundland | Sydney Mines.. | Mav 8. 1915. |
+| 25 | 688<br>312<br>3847<br>359 | 414734 | Privjuc  | Farrell, Augustus  | Nil  | Farris, Lewis   | Chipman’s Corners, Kings Co., N.8    • • • | Cannda  | Kentville  | April 7, 1915. |
+| 25 | 689<br>341<br>1839<br>371 | 4151 IS | Private  | Farris, James William  | 68th Hegt  |
+| 25 | 2378<br>352<br>3847<br>383 |  |  |  |  |  | Horton Poor Farm, Greenwich, Kings Co., N.S.. | Scotland  | Kentville  | May 4, 1915. |
+| 25 | 687<br>368<br>3848<br>421 | 415138 | Private  | Fenwick, John Bannerman   | Territorials  | Flynn, Mrs. Mary  | rborbnm, Pictou Co., N.S  | Canada  | New Gln«cow. | Mnr. 31, 1915. |
+| 25 | 688<br>402<br>1838<br>431 | 414447 | Private  | Flynn, Owen Francis   . . | NU  |
+| 25 | 3165<br>412<br>3848<br>440 |  |  |  |  |  |  | Cannda  | Sydney Mines. . | May 8, 1915. |
+| 25 | 687<br>430<br>3848<br>479 | 414775 | Private  | Forrest, David  | Nil  | Forrest, Alexander  | Sydney Mines, C IV, N.S.   | Canada  | Sydney Mines.. | May |
+| 25 | 687<br>461<br>3848<br>507 | 414738 | Private  .. . . | Forrest, George     | Nil  | Gaskill, Catharine  | 14 Bog Row, Sydney Mines, C.B., N.S  | England  | Sydney Mines. . | May |
+| 25 | 686<br>490<br>1792<br>516 | 41475.1 | Private  | Gaskill. Samuel  | Nil  |
+| 25 | 3165<br>500<br>3848<br>529 |  |  |  |  |  |  | Cauad a  | New Glasgow | May |
+| 25 | 685<br>520<br>1778<br>548 | 4155(11 | Privnte  | Gilchrist, Donald Robert  | 78th Regt  |
+| 25 | 3166<br>530<br>3848<br>556 |  |  |  |  |  |  | B.W.I  | Aldershot  | June 12,1915. |
+| 25 | 685<br>549<br>1748<br>577 | 414787 | Privnte  | Gill, George     | Nil  |
+| 25 | 1879<br>559<br>3849<br>596 |  |  |  |  | Good, George  | Westville, Pictou Co.. N.S  | Canada  | Spring Hill  | Mar. 17, 1915. |
+| 25 | 685<br>577<br>1693<br>605 | 4J4H10 | Private  | flood, Allen    | 93rd Regt |
+| 25 | 3165<br>586<br>3849<br>615 |  |  |  |  |  |  | Canada  | Middleton  | April 5, 1915. |
+| 25 | 685<br>607<br>1806<br>635 | 415803 | Private... | Greenlun, Joseph   | Nil  |
+| 25 | 1879<br>617<br>3850<br>653 |  |  |  |  | Greeno, Mrs. Maud... | Cheverie. Hants Co., N.S  | Canada  | Windsor  | April 1, 1915. |
+| 25 | 685<br>636<br>1847<br>664 | 415307 | Private  | Greeno, Willinm Ilenry.    | Nil  |
+| 25 | 3165<br>647<br>3849<br>676 |  |  |  |  |  |  | Canada  | Sydney Mines. | Mar. 31,1915. |
+| 25 | 684<br>664<br>1749<br>693 | 414877 | Private..... .. | Hnpr.“rty, William Edward  | R.C.R  |
+| 25 | 3168<br>676<br>3850<br>705 |  |  |  |  |  |  | England  | New Glasgow. . | May 31, 1915. |
+| 25 | 684<br>690<br>1748<br>721 | 415503 | Private  | Ilallam, .Samuel. .   | NU  |
+| 25 | 1882<br>706<br>3851<br>739 |  |  |  |  | Hammond, Mrs. James | New Germany, Lunenburg Co., N.8   | Canada  | Liverpool | April 12, 1915. |
+| 25 | 684<br>723<br>1749<br>750 | 415198 | Private  | 1 lammond, James Angus......... | Nil   |
+| 25 | 1881<br>735<br>3851<br>771 |  |  |  |  | Harlov.-. Spurgeon  | Bridgewater, Lunenburg Co., N.S  | Canada  | Bridgewater... | April 17, 1915. |
+| 25 | 684<br>752<br>1597<br>776 | 415217 | Private |  | Nil |
+| 25 | 3170<br>765<br>3852<br>793 |  |  |  |  |  |  | Newfoundland. | Sydney Mines | May 8, 1915. |
+| 25 | 684<br>781<br>1292<br>808 | 411743 | Private  | 11 art, Charles. . . |
+| 25 | 3167<br>794<br>3852<br>823 |  |  |  |  |  |  | Canada  | Truro  | April 28. 1915. |
+| 25 | 682<br>810<br>1747<br>838 | 414418 | Private. | Hnrvie, Calvin    | Nil  |
+| 25 | 3167<br>824<br>3852<br>853 |  |  |  |  |  |  | Canada  | Middleton  | April 5. 1915. |
+| 25 | 682<br>838<br>1748<br>868 | 415807 | Private  ... . | Hayes, Clnrence  | Can. Mil  |
+| 25 | 3167<br>855<br>3853<br>883 |  |  |  |  |  |  | Canada  | Sydney Mines.. | May 8, 1915. |
+| 25 | 682<br>869<br>1862<br>898 | 414 114 | Private  | Heenie, William  | Nil  |
+| 25 | 1879<br>884<br>3853<br>918 |  |  |  |  | Henderson, Mrs. Mertie | Merigomish, Pictou Co., N.S  | Cannda,  | New Glasgow. . | May 1, 1915. |
+| 25 | 682<br>899<br>1847<br>928 | 415508 | Private  | Henderson, Kenginald Smith  | Nil  |
+| 25 | 1879<br>914<br>3854<br>947 |  |  |  |  | Heron, Mrs. James  | Shotten Colliery, Haswcll, Durham, Eng  | Scotland  | Sydney Mines. . | Mar. 31, 1915. |
+| 25 | 681<br>928<br>1861<br>958 | 414878 | Lce.-Corporal  | Heron, James  | Nil  |
+| 25 | 1880<br>943<br>3854<br>978 |  |  |  |  | Hest, Joseph  | Caledonia Mines, C.B., N.S  | England  | Sydney Mines.. | May 3, 1915. |
+| 25 | 681<br>957<br>1862<br>984 | 414548 | Private  | Ilest, Ernest  | Nil  |
+| 25 | 1880<br>973<br>3854<br>1005 |  |  |  |  | Hicken, Albert  | Trenton, Pictou Co., N.S  | Canada  | New Glasgow. | Mar. 30, 1915. |
+| 25 | 657<br>986<br>1847<br>1014 | . 415507 | Private   | Hicken, Edward Albert.    | Nil  |
+| 25 | 1880<br>1002<br>3854<br>1034 |  |  |  |  | Hicks, Nathaniel  | Middle Sackville. Westmoreland Co., N.B  | Canada  | Amherst  | Mar. 17, 1915. |
+| 25 | 681<br>1014<br>1861<br>1042 | 414287 | Private  | Hicks, Everett ..   | Nil  |
+| 25 | 1880<br>1029<br>3854<br>1063 |  |  |  |  | Hicks, Clarence  | Pointe de Bute, Westmoreland Co., N.B  | Canada  | Amherst  | Mar. 17, 1915. |
+| 25 | 681<br>1043<br>1861<br>1074 | 414288 | Privnte   | Hicks, Harley  | Nil ,  |
+| 25 | 1880<br>1061<br>3855<br>1092 |  |  |  |  | Hilder, E. S   | 8 Palmer St., Amherst., Cumberland Co., N.S.... | England  | Amherst  | Mar. 17, 1915. |
+| 25 | 681<br>1072<br>1859<br>1100 | 414205 | Private  | Hilder, Edward Richard  | Nil    |
+| 25 | 681<br>1090<br>3855<br>1128 | 414879 | Private  | 11 ill, Samuel  | Nil  | Hill, Mrs. Alice Maud.. | Sydney Mines, C.B., N.S   | Englnnd  | Sydney Mines.. | Mar. 31,1915. |
+| 25 | 680<br>1114<br>3856<br>1158 | 415508 | Private  | Horne, Colin Harry  | 78th Regt  | Horne. Mrs. Joseph C.. | New Glasgow, Pictou Co.. N.S  | Cnnada  | New Glasgow. | May 7, 1915. |
+| 25 | 1878<br>1148<br>3855<br>1180 |  |  |  |  | Horrocks, Mrs. Joseph.. | Sydney Mines. C.B., N.S  | England  | Sydney Mines . | Mar. 31, 1915. |
+| 25 | 680<br>1158<br>1859<br>1188 | 414875 | Private  | Horrocks, Joseph  | Nil  |
+| 25 | 680<br>1177<br>3847<br>1214 | 415804 | Private | Howard, I^ewis Earle |  | Howard, Mrs. Jessie.. | Middleton, Annapolis Co., N.S.....  | Canada  | Middleton  | April 5, 1915 |
+| 25 | 1879<br>1206<br>3856<br>1238 |  |  |  |  | Hughes, John  | 25 Wrexham Rd., Wrexham, Denbigh, Wales  | Wales  | Aldershot  | June II. 1915. |
+| 25 | 679<br>1215<br>1831<br>1242 | 415808 | Private  | Hughes. Riclmrd  | 91th Hegt  |
+| 25 | 679<br>1235<br>3857<br>1273 | 414876 | Private  | Hutchings, Harold  | Nil  | Hutchings, Mrs. Harold | Florence, C.B., N.S  | Englnnd  | Sydney Mines. . | Mar. 31, 1915. |
+| 25 | 680<br>1265<br>3857<br>1303 | 415207 | Privnte  | Hutt., Carl  | Nil  | Boutilier, Mrs. Daniel .. | Western Head. Queens Co.. N.S  | Canada  | Liverpool  | April 13, 1915. |
+| 25 | 680<br>1294<br>3857<br>1330 | 415205 | Private  | Hutt, Kenneth W.    | Nil  | Hutt, John  | Milton, Queens Co., N.S    | Canada  | Liverpool  | April 13. 1915. |
+| 25 | 680<br>1324<br>3858<br>1360 | 414760 | Private.   | Ives, Sylvester   | Nil  | I ves, Mr*. Jane  | Sydney Mines, C.B.. N.S  | England  | Sydney Mines | Mav 8, 1915. |
+| 25 | 679<br>1353<br>3858<br>1389 | 415288 | Private    | Jackson, Harry Allen  | Nil  | lackson, David  | Upper Woodstock, Carleton Co., N.B  | Cannda  | Digby  | May 11. 1915. |
+| 25 | 679<br>1380<br>3858<br>1418 | 414102 | C.Q.M.8  | Jackson, Miles Moore   | 07th Regt  | Jackson. D. W  | Upper Woodstock, Carleton Co., N.B.   | Cannda  | Halifax  | Mar. 27, 1915. |
+| 25 | 679<br>1412<br>3859<br>1450 | 414882 | Lee.-Corporal  | Jenkins, Lawrence  | Nil  | Jenkins, Mrs. Lawrence. | 28 Buckingham St., Newcastle, Northumberland, | Eng | Englnnd  | Sydney Mines. | Mar. 31, 1915. |
+| 25 | 679<br>1437<br>3858<br>1472 | 414883 | Private  | Jenkins. Victor  | Nil  | Jenkins Mr«. Louise.... | Harbour Grace, Nfld  | Newfoundland. | Sydney Mines. | Mar. 31. 1915. |
+| 25 | 678<br>1470<br>3859<br>1503 | 414787 | Private’.  ... | Jesso, Dames    | Nil  | Jes=>o, Jnhn   | Little Bras D'Or, C.B., N.S  | Canada  | Sydney Mines | May 8. 1915. |
+| 25 | 678<br>1499<br>3860<br>1532 | 414770 | Private  | Jes»o, James L    | 94th Regt  | Jesso, Mrs Mary  | Cantwell Ave., Little Bras D'Or, C.B., N.S | Canada  | Sydney M ines. | May 8, 1915. |
+| 25 | 679<br>1528<br>3860<br>1560 | 414478 |  | Johnson, Frederick . |  | Johnson, Joseph  | Fernie, B.C  | England  | Sydney  | Mar. 25, 1915. |
+| 25 | 678<br>1556<br>3860<br>1591 | 414391 | Privato  | Johnson. Harry S  | Nil  | Johnson, Leonard  | Truro. Colchester Co;. N.S  | Canada  | Truro  | April 28, 1915. |
+| 25 | 679<br>1586<br>3860<br>1619 | 415122 | Private  | Jones, Spurgeon  | 88th Regt  | loncs. Ilallet  | Millville, Kings Co., N.S.   | Canada  | Kentville  | May 4, 1915. |
+| 25 | 677<br>1612<br>3860<br>1646 | 415210 | Private... | KaUlback, Prescott. Jslkanah  |  | Kaulbnck, Enos.   | Bridgewater, Lunenburg Co., N.S  | Canada  | Bridgewater... | April 17, 1915. |
+| 25 | 678<br>1643<br>3861<br>1676 | 414885 | Private  | Ivawnja, Harry B. P  | Nil  | Kawnja, Mrs. Assad  | Sydney Mines, C.B., N.S  | Australia  | Sydney Mines. | Mar. 31,1915. |
+| 25 | 678<br>1672<br>3861<br>1705 | 414888 | Private  | Keeling, Ralph  | Nil    | Keeling. Mrs. Ralph... | Florence, Sydney Mines, C.B., N.S  | England  | Sydney Mines. | Mar. 31, 1915. |
+| 25 | 678<br>1700<br>3862<br>1733 | 414737 | Private  ..... | Kelly, Sydney W  | Nil  | Kelly. William II  | George’s River, C.B., N.S   | Canada  | Sydney Mines. | Mav 8, 1915. |
+| 25 | 679<br>1728<br>3863<br>1761 | 414304 | Private  | King. Flovd George  | 93rd Regt  | Kinc. George A  | Oxford, Cumberland Co., N.S  | Cannda  | Amherst   | April 21.1915. |
+| 25 | 679<br>1757<br>3862<br>1791 | 414705 | Private.. | Lnidlaw, Jackson  | 94th Regt..-, r ,    | Laidlaw, Mrs. Sadie... | Sydney Mines. C.B., N.S '.    | Englnnd  | Sydney Mines. | May 8, 1915. |
+| 25 | 679<br>1786<br>3863<br>1820 | 414481 |  | Latham, John.  | 1 mp. Forces   | Bennett, Mrs. Helen.... | 25 William St., Wigan. Lancs., Eng  | England  | Sydney  | Mar. 25. 1915. |
+| 25 | 680<br>1815<br>3862<br>1849 | 414111 | Corporal  | Lawson, John  | Territorials  | Lawson. James  | Cecil PL, Glasgow, Scot  | Scotland  | Halifax  | April 5,1915. |
+| 25 | 681<br>1844<br>3863<br>1879 | 415203 | Private  | I,eary, Walter  | Nil;....; ii;... | Leary, William  | Port Mouton, Queens Co., N.S   | Canada  | Liverpool  | April 13. 1915. |
+| 25 | 680<br>1873<br>3863<br>1908 | 414747 | Private  | LeBlnnc, Willinm  | Nil  | LeBlnnc, Mrs. May... | Florence, C.B., N.S  | Cnnnda  | Sydney Mines. | May 8. 1915. |
+| 25 | 680<br>1902<br>3863<br>1938 | 414087 | Private  | I,ee, Thomns C  |  | Lee, Mrs. Thomas C... | Sydney Mines, C.B., N.S  | Scotland  | Sydney Mines. | Mar. 31. 1915. |
+| 25 | 681<br>1930<br>3864<br>1964 | 414482 |  | Le Lievre. Charles | Nil  | Le Lievre. Dora..  | Inverness. N.S  | Cannda   | Sydney  | Mar. 2«, 1915. |
+| 25 | 681<br>1959<br>3864<br>1996 | 414397 | Private      | Leonard, Francis Parnell  | 78th Regt.. ..... .. | McGee, Mrs. Frank... | Truro, Colchester Co., N.S  | Canada  | Halifax  | April 12.1915. |
+| 25 | 680<br>1989<br>3864<br>2025 | 415802 | Private  | Lightixcr, John I-co  | Nil  | Lightiier, Harry  | Middleton, Annapolis Co., N.S  | Canada   | Middleton  | April 5. 1915. |
+| 25 | 681<br>2017<br>3865<br>2055 | 415222 | Private  | Lindh, Bertie Albert  | Nil  | Lindh, Hnlda  | Roslagsgatan, 34 IV Stockholm, Sweden  | Sweden  | Bridgewater... | April 17. 1915. |
+| 26 | 756<br>591<br>3403<br>630 | M£ |  |  | Former Corps. |  |  | Country ol |
+| 26 | 755<br>744<br>3902<br>775 | 414480 | Privnte... | T/inp. Lawrence  | NU  | Ling. Mrs. John |  | Canada. | Sydney. | Mar. 27, 1915. |
+| 26 | 755<br>774<br>3202<br>806 | 415801 | Privnte... | Llo.vd, Osman E. B... | O.T.C. Eng. | Lloyd, E. \Y. | • ?’ ■’ \ H. M. Beaueere tc Co., Lima, Peru, South |
+| 26 | 2487<br>803<br>3903<br>832 |  |  |  |  |  | Atne'iea  | South America | Middleton  | April 5,1915. |
+| 26 | 754<br>833<br>3903<br>868 | 414741 | Privnte  | Lynch, Bernard  | Nil  | Lynch, Mrs. Mary | • Mines, C.B., N.S. | Scotland  | Sydney Mines.. | May 8, 1915. |
+| 26 | 755<br>863<br>3903<br>895 | 415221) | Privnte  | Lynch, Martin  | Nil  | Lynch, James | j Ire  | Ireland  | Montreal  | Oct. 26, 1914. |
+| 26 | 754<br>892<br>3905<br>923 | 415202 | Privnte  | Manthorno, Samuel  | Nil  | Manthorne, EdwnH | " i. Queens Co., N.S | Canada  | Liverpool  | April 13,1915. |
+| 26 | 754<br>921<br>3906<br>954 | 414.177 | Privnte  | Mnttntnll, Frank L  | 76th Regt... | Mattatall, Mrs. Hell | • • n, Colchester Co., N.S  | Canada  | T ruro   | April 28,1915. |
+| 26 | 754<br>951<br>3906<br>983 | 415103 | Privnte  | McCall, Ucx Deville  | 68th Regt... | McCall, Mrs. Laurn | vjvtlle, Kings Co., N.S  | Canada  | Kentville   | April 7, 1915. |
+| 26 | 754<br>980<br>3907<br>1012 | 416123 | Privnte  | McColl, Frnnk  | 68th Regt... | McColl, Neal... | ■dviUo, Kings Co., N.S  | Cannda  | Kentville  | May 4, 1915. |
+| 26 | 754<br>1010<br>3907<br>1040 | 414115 | Privnte  | McCully, Frederick Archibald. | Nil  | McCully. Burnham | [7 ’'«rt Station, Colchester Co., N.S  | Cnnada  | Truro  | April 28, 1915. |
+| 26 | 755<br>1038<br>3907<br>1069 | 414707 | Private  | McDonald, Charles  | Nil  | McDonald, Miss M | ttrwrve Mines, C.B., N.S  | Canada  | Aldershot  | June 11,1915. |
+| 26 | 755<br>1068<br>3909<br>1097 | 414543 | Privnte  | McDonald, Dan  | Nil  | McDonald, Mrs. M | Mines, C.B., N.S  | Canada  | Sydney  | Mny 3, 1915. |
+| 26 | 755<br>1097<br>3909<br>1127 | 414281 | Privnte  | McDonald, Henry Elmer  | Nil  | McDonald, Rent ■>rl | eto, Cumberland Co., N.S.    | Cnnada  | Amherst  | Mar. 17, 1915. |
+| 26 | 754<br>1126<br>3909<br>1154 | 414700 | Privnte  | McDonald, Jnmes Donald  | Nil  | MacLean, Mrs. John | Mines, C.B., N.S  | Cnnada  | Sydney Mines. | Mar. 31,1915. |
+| 26 | 754<br>1155<br>3910<br>1185 | 414852 | Privnte  | McDonald, John J  | Nil  | McDonald, Mrs. M.in | Kydney Mines, C.B., N.S  | Canada  | Sydney Mines. | May 8, 1915. |
+| 26 | 754<br>1184<br>3910<br>1213 | 414092 | Privnte  | .MacDonald, Thomas.   | Nil  | MacDonald, Dan K   | ;'Mh Battalion, C.E.F  | Canada  | Sydney Mines. | May 8, 1915. |
+| 26 | 755<br>1208<br>3911<br>1244 | 415229 | Privnte   | MacDougnld, Dugald Stewart. | Nil  | MaeDougald, Priscilla   | ''rMgewnlor, Lunenburg Co., N.S  | Canada  | Bridgewater... | April 19, 1915. |
+| 26 | 755<br>1242<br>3912<br>1273 | 414300 | Private   | McDougali, Harry O  | Nil  | McDougnll, Satler   | Alton, Colchester Co., N.8  | Canada  | Truro  | April 28, 1915. |
+| 26 | 755<br>1271<br>4020<br>1303 | 414754 | Privnte  | McDougali, Joseph  | Nil  | McDougali, Neil   | 'rdney Mines, C.B., N.S  | Canada  | Sydney Mines. | May 8, 1915. |
+| 26 | 755<br>1301<br>3913<br>1332 | 414702 | Privnte  | MacEwan, Robert  | Nil  | MacEwan, Mrs. Eli*ah«-t!i ...... | lorenoe, Sydney Mines, C.B., N.S  | Scotland  | Sidney Mines.. | Mar. 31, 1915. |
+| 26 | 755<br>1331<br>3913<br>1363 | 414095 | Private  | McGillivray, Stephen  | Nil  | McGillivray, Mrs. Cathwin*   | East Bay, C.B., N.S  | Canada  | Sydney Mines. | May 8, 1915. |
+| 26 | 755<br>1360<br>3913<br>1391 | 41469D | Private  | McIntosh, Allen Francis  | Nil  | McIntosh, Mary  | ~j-dney Mines, C.B., N.S  | Canada  | Sydney Mines. | Mar. 31, 1915. |
+| 26 | 753<br>1389<br>3914<br>1420 | 414755 | Private  | McIntosh, Isaac  | Nil  | McIntosh, Mrs. Dora   | 'Jvdnev Mines. C.B., N.S  | Cnnada  | Sydney Mines. | May 8, 1915. |
+| 26 | 754<br>1415<br>3915<br>1451 | 414400 | Private  | McKenzie, Angus Dennis  | 94th Regt... | McKenzie, Thomas | New Waterford, C.B., N.S  | Canada  | Sydney  | Mar. 27, 1915. |
+| 26 | 755<br>1447<br>3914<br>1480 | 415524 | Private  | McKenzie, Joseph  | Nil  | McKenzie, Hugh | Pcuch Hill, Antigonish Co., N.S  | Cannda  | New Glasgow. | Mar. 31, 1915. |
+| 26 | 755<br>1474<br>3915<br>1508 | 414701 | Private  | McKinnon, Neii Angulus  | Nil  | MacKinnon, Mrs. Archie | Pont St., Sydney Mines, C.B., N.S  | Canada  | Sydney Mines. | Mar. 31,1915. |
+| 26 | 755<br>1506<br>3915<br>1541 | 41469S | Private  | McLean, Allen. | Nil  | McLean, Mrs. Allen.. | ^•dney Mines, C.B., N.S  | Canada  | Sydney Mines. | Mar. 31,1915. |
+| 26 | 755<br>1534<br>3916<br>1567 | 414392 | Private  | McLean, Thomas M  | Nil  | McLean, Mrs. P. A . | iVhycocomagh, Inverness Co., C.B., N.S  | Canada  | Truro  | April 28, 1915. |
+| 26 | 755<br>1563<br>3916<br>1596 | 415521 | Privnte  | MacLeod, Colin  | 78th Regt... | MacLeod, Mrs. May | Stellarton, Piotou Co., N.S  | Canada  | New Glasgow. | Mar. 30, 1915. |
+| 26 | 755<br>1593<br>3916<br>1625 | 414419 | Privnte  | McLeod, Daniel Frederick  | Nil  | McLeod, Mrs. D. C  | Truro, Colchester Co., N.S.   | Canada  | Aldershot  | Mar. 17,1915. |
+| 26 | 755<br>1622<br>3917<br>1659 | 414646 | Privnte  | McLeod, Neil  | NU  | McLeod, Mrs _ | Glace Bay, C.B., N.S  | Canada  | Grnce Bay | May 5, 1915. |
+| 26 | 755<br>1651<br>3918<br>1684 | 414020 | Corpornl  | MacNaught, Charles  | Imp. Forces. | MacNaught, Mn. E . | II Main St., Stevenston, Ayr, Scot  | Scotland  | Halifax  | Mar. 13, 1915. |
+| 26 | 755<br>1679<br>3918<br>1712 | 414691 | Private  | McNeil, Joseph  |  | McNeil, Donald ... .... | Sydney Mines, C.B., N.S  | Canada  | Sydney Mines. | Mar. 31,1915. |
+| 26 | 756<br>1709<br>3919<br>1741 | 414827 | Private  | McNeil, NeilJ  | 04th Regt... | McNeil, Dan  •••. | ■'lace Bay, C.B., N.S  | Canaria  | Aldershot  | June 11,1915. |
+| 26 | 756<br>1737<br>3919<br>1770 | 415201 | Private  | McRae, Farquhar   | Nil  | McRae, John  — | St. Godfroy, P.Q  | Canada  | Liverpool  | April 13, 1915. |
+| 26 | 756<br>1767<br>3920<br>1799 | 414493 | Privnte  | McVicar, Leo  | R.C.R  | McDonald, Mrs. D'in II ..... | Mira Ferry, C.B., N.S  | Canada  | Sydney  | Mar. 25, 1915. |
+| 26 | 756<br>1796<br>3921<br>1830 | 415140 | Privnte  | Miles, Frank    | Nil  | Miles, Gideon   | Wallbrook, Kings Co., N.S  | Canada  | Kentville  | May 4, 1915. |
+| 26 | 756<br>1825<br>3920<br>1859 | 4146S8 | Sergennt  | Milns, Osrar  | NU  | Miles, Mrs. Oscar .... | Main St., Sydney Minns, C.B., N.S  | Wales  | Sydney Mines | Mar. 31, 1915. |
+| 26 | 757<br>1854<br>3922<br>1889 | 414488 | Privnte  | Miller, Albert Bernard  | Nil  | Miller, Mrs. James .... | Margaree Forks, C.B., N.S  | Canada  | Sydney  | Mar. 27, 1915. |
+| 26 | 757<br>1884<br>3923<br>1916 | 414689 | Privnte  | Mitchell. John George  | Nil  | Mitchell, Mrs. 1.1" !' ■ r l ine  | Tilt Cove, Nfld  | Newfoundland. | Sydney Mines. | Mar. 31, 1915. |
+| 26 | 757<br>1914<br>3922<br>1947 | 414375 | Sergennt  | Munro, Allred E  | 781h Regt... | Munro, Alexander .... | New Annan, Colchester Co., N.S  | Cnnada  | Aldershot. ... | May 15, 1915. |
+| 26 | 757<br>1943<br>3923<br>1977 | 41476H | Privnte  | Moore, Albert....  | 78th Regt... | Moore, William ..... | North Sydney, C.B.. N.S  | Canada  | Sydney Mines | May 1,1915. |
+| 26 | 757<br>1973<br>3924<br>2003 | 415221 | Privnte  | Moorrees, John Peter G  | Nil  | Notstnted  •••• | Not Stated  | Holland  | Bridgewater.. | April 17, 1915. |
+| 26 | 757<br>2002<br>3924<br>2035 | 415270 | Private  | Morby, Arthur.  | Territorials.. | Morby, Thoma«   | Chnrwelton, Northnnts, Eng  | Englnnd  | Digby  | April 5, 1915. |
+| 26 | 758<br>2030<br>3925<br>2065 | 41474'! | Privnte  | jMorrison. Alexander  | Nil  | Morrison, Mrs. Mat' .... | Maine St., Sydney Mines, C.B., N.S  | Seotlnnd  | Sydney Mines | May 8, 1915. |
+| 26 | 759<br>2061<br>3925<br>2095 | 414690 | Privnte  | ■Morrison, Alexander Randolph. | Nil  | Morrison, Dan A   | Cottage St., Sydney Mines, C.B., N.S  | Canndn | Sydney "Mines | Mar. 31, 1915. |
+| 26 | 759<br>2090<br>3924<br>2125 | 414778 | Privnte  | IMorrison, Mellow  | 94th Regt. | Morrison, Mrs. Mar: Ar.n   | Convent St., Sydney Mines. C.B., N.S  | Cnnada | Aldershot.... | June 12, 1915. |
+| 26 | 758<br>2119<br>3926<br>2157 | 414346 | Privnte  | Mountain, Terance  | Nil  | [Mountain, Mrs. A:mir-   | Northport, Cumberland Co., N.S  | Canada i Amherst |  | Mar. 30,1915. |
+| 26 | 759<br>2144<br>3926<br>2182 | 415520 | Privnte  | 'Munford, Frederick  | 'Nil  | 'Kellet, Mrs. Eliza | Askern, Doncaster, Yorks., Eng  | England  .'New Glasgow. |  | Mnr. 31. 1915. |
+| 27 | 3144<br>319<br>3832<br>347 |  |  |  |  |  |  |  | Canada 1 | Sydney  | Mar. | 27, 1915. |
+| 27 | 662<br>343<br>3831<br>394 | 4l441!7irrivn1<'   |  | . 'Munro, Stanley  |  | Nil  | 'Murphy, David...   | Kilden, Colchester Co., N.S  | Canada I | Truro  | \pril 18, 1915. |
+| 27 | 3145<br>378<br>3831<br>407 |  |  |  |  |  |  |  | Canada  | Truro  | April 28, 1915. |
+| 27 | 663<br>381<br>3116<br>425 | 41I’rivatf  |  | .(Murphy, Frederick Abner  |  | Nil   | I Murray, Mi*w Elvira   | FLilden, Oolrhestcr < ‘o., N.S  |
+| 27 | 662<br>408<br>3831<br>453 | 4MWl'Private  |  | Murray, Newton  |  | NU   | (Murtha, Daniel... — | Liverpool, C^uern'*( N.S  | Cannda  | Liverpool.   | April 13, 1915. |
+| 27 | 3146<br>438<br>3830<br>465 |  |  |  |  |  |  |  | Canada  | Amherst  | Mar. | 30, 1915. |
+| 27 | 662<br>442<br>3116<br>486 | 415IP**ll*riv»1f |  | |Murtha, Arthur  |  | Nil  | Nicholson, James . .... | River IlebeiI, (’uniborland Co., N.S  • • • |
+| 27 | 3148<br>467<br>3831<br>498 |  |  |  |  |  |  |  | England  | Aldershot | lune | 1, 1915, |
+| 27 | 661<br>472<br>3116<br>510 | 4l4350|Privnto .. |  | N’ieholson, James . |  | Nil    | .Dickinson, G  | Wallaend-on-Tynt- Northumberland, Eng  |
+| 27 | 660<br>496<br>3829<br>540 | 414201 Privato  |  | Nixon, Robert   |  | roth R4*1  | Norse, Mrs. Mary Mizabeth. | Sydney Mines, C.Il., N-S  | Canada   | Sydney Mines.. | May | S, 1915. |
+| 27 | 660<br>528<br>3830<br>580 | 4M705|Private  |  | . j Norse, Willinm  |  | i Nil  | JO'Hatiley, Mrs, Douglas  | Sydney Mines, C R • N.S  | Canada  | Sydney Mines. . | Slar. | 31, 1915. |
+| 27 | 660<br>553<br>3830<br>601 | 414700 Private   |  | O'Hanley, Douglas  |  | I Nil •■••vi; • • • | Oldfield, Mrs. StoVa   | 09 George St . Hnlifax, N.S    | Canada .. . | | Halifax  | Nlar. | 15, 1915. |
+| 27 | 1527<br>579<br>3830<br>616 |  |  |  |  | iC.P.A.*0 C-.- |  |  | Kngiund  | Sidney Mines. | Mar. | 31, 1915. |
+| 27 | 661<br>594<br>3116<br>629 | 41402(1 Sergeant   |  | 'Idfield, Frederick Hichnrd |  |  | Osborne, Mrs. Edith Hilda.. | Florence, C.B., N.S    |
+| 27 | 1527<br>611<br>3831<br>645 |  |  |  |  | ilioval N»vy- • |  |  | England  | Sydney Mines. . | Mar. | 31, 1915. |
+| 27 | 661<br>622<br>3116<br>659 | 414707[< Corporal  |  | Uid>arae. George Stephen. . .. |  |  | lOsborno, Mrs. Jam Ann  | Plymouth, Devon, Kn*?  |
+| 27 | 661<br>640<br>3831<br>685 | 414706 Pri vale  |  | Osborne, William  |  | [R.A.M.C  | Il’arrj", Mrs. Marv   | M inf odd Terr., Llanrug, Carnarvon, Wales  | Wales  | Aldershot   | June | 11, 1915. |
+| 27 | 662<br>672<br>3832<br>716 | 414771'! Private  |  | nrry, Hash.. ^  |  | |<Htli lloict. • •• | i Peck, Ephiram..   | Kentville, Kings Co., N.S   | Canada  | Kentville  | April | 7, 1915. |
+| 27 | 661<br>705<br>3831<br>751 | 415II4|Private  |  | Peck. JYlcr Percy  |  | Nil  | Porter, Hi'nil'T"’-’"   | Cain bridge Station, Kings Co., N.S  | Canada | | Kentville  | April | 7. 1915. |
+| 27 | 663<br>733<br>3832<br>773 | 410120 Private  |  | Porter, Roy Cecil...... . |  | Nil  | Pratt, John 11..   | Beluiont. Colchester Co., N.B  | Canada | Truro  | May | S, 1915. |
+| 27 | 662<br>755<br>3832<br>803 | 414405 Privnte |  | Pmtl, Chiirlwi Edward |  | I Nil  | Pj ke, Mrs. A  | St. Lawrence, Nfld  | Newfoundland.. | Sydney Minus.. | May | S, 1915. |
+| 27 | 662<br>787<br>3833<br>837 | 41173!' | Private  | PylWjltirr)*  |  | (Nil  | Rao, Mrs. Huflh   | Itoy Bog, Blairndam, Kinross, Scot  | Scotland  | Truro    | April | 28, 1915. |
+| 27 | 663<br>820<br>3833<br>861 | 411WI | Private  | ?tae, Thtmiw  |  | Ml  | llalston, Mrs. J •••• | Brooklyn Ave., Sydney Mines, C.B., N.S  | Scotland  | Sydney Mines. . | M ay | S. 1915. |
+| 27 | 662<br>848<br>3832<br>889 | 414710 | Private  | Ralston, Henry   ... |  | NU  • | Ilalstoa, Mrs. Jane   | Brooklyn Ave.. Sydney Mines, C.B., N.S  | Scotland  | Sydney Mines. . | M ay | 8, 1915. |
+| 27 | 663<br>881<br>3834<br>928 | 414742 | Privato  | Ralston, Henry B  |  |  | j Wagner, Annie  | New Canada, Lunenburg Co., C.B., N.S  | Canada  | Brigd water  | April 19, 1915. |
+| 27 | 662<br>905<br>3834<br>948 | 41.1235 | Privato  | Ramey. William  |  |  | ltanouf, Julian  | Robiuson’s Head, NDd    |  | Sydney Mines. . | Newfoundland.. | May | 8, 1915. |
+| 27 | 662<br>934<br>3834<br>972 | 414774 | Privato  | Hawaii. Frederick   |  | Nil  |  | Green Harbouf, Trinity Bay, Nfld  | Newfoundland . | Sydney Mines . | May | 8, 1915. |
+| 27 | 663<br>968<br>3835<br>1008 | 41474V | Private  | Held* I»alt*r  |  |  | Ilifiby, Mrs. Margaret  | Sydney Minf's, C.B., N.S  | Ragland  | Sydney Mines. . | Mar. | 31, 1915. |
+| 27 | 663<br>997<br>3835<br>1033 | 414710 | Private  | Rif. by, IlnlxTt William  |  |  | Robinson. Mrs. John  | Diggins St., Sydney Mines, C.B,, N.S  | England  | Sydney Mines. . | M ar. | 31, 1915. |
+| 27 | 662<br>1026<br>3836<br>1064 | 411715 | C’.H.M  | llobiaiKM.   |  |  | Roper. Mrs. Emily  | Standish, Lancs. Eng    ;  | England  | Sydney Mines. . | May | 8, 1915. |
+| 27 | 664<br>1051<br>3836<br>1091 | 414717 | Private  | 1 toper, ^\J£rw«l  .. |  |  | P^tm. )ln. Alice   | Huron Ave., Sydney Mines, C.B., N.S  | Scotland  | Sydney Mines . | Mar. | 3i, 1915. |
+| 27 | 665<br>1083<br>3836<br>1120 | 414711 | Piivnto  | Roe*, C1»rl« l>Jrer    • |  |  | R<>««. M rs. Sarah   | 17 Hill .St., Amherst, Cumberland Co.. N.S  | Canada  | Amherst  | Mar. | 17, 1915. |
+| 27 | 665<br>1112<br>3836<br>1154 | 414200 | Pri vole  | Rom, V* ttliaro Jamas....... |  |  | Ryan. Mr*. IxraL“-  | North Sydney. C.B., N.S    | Canada  | Sydney Mines . | May | 8, 1915. |
+| 27 | 665<br>1139<br>3837<br>1184 | 414777 | Private  | Ryan, Dm U  |  |  | Ryan, Mrs. M. F   | New Waterford, C.B., N.S ;.  | Canada  | Sydney  | Mar | 20, 1915. |
+| 27 | 665<br>1170<br>3939<br>1207 | 414614 | Privato  | Rynfc. Jrtry . |  |  | Mr-* Henry.  | Kentville, Kings Co., N.S  | Canada   | Kentville  | April | 7, 1915. |
+| 27 | 665<br>1193<br>3939<br>1239 | 415IOVPrivate.. |  |  | Ralph Kdward |  | Knvl. W.ry (> ........ | North J>o*M-ing, M*», U.S.A.    | Canada   | Bridgewater.... | Mav | 5, 1915. |
+| 27 | 665<br>1218<br>1794<br>1252 | 41.'.»4t> i‘riv«i»  |  |  | Jaw** IUl»r • • | • iN*I....,;  |
+| 27 | 1869<br>1233<br>3838<br>1267 |  |  |  |  |  | ^•is"kh \ . Josoph   | New Glasgow, Pictou Co., N.S    | Englnnd  | Truro  | April 28, 1915. |
+| 27 | 1857<br>1263<br>3838<br>1295 |  |  |  |  |  | l-lifr*. Ooorco   | Sydnoy Mines, C.B., N.S...     | Scotland   | Sydney Mines . | Mnr. | 31, 1915. |
+| 27 | 1546<br>1293<br>3838<br>1326 |  |  |  |  | I rmtoruJi, .. | •nilth, 'I rs Vlbert   | 8 Friary St., Plymouth, Devon, Eng    | Kngiand    | Sydney Mints | Mar. | 31, 1915. |
+| 27 | 1543<br>1322<br>3838<br>1357 |  |  |  |  | Nil  | ^mt’.h, Mrs. Jnliu*    | Florence, C.B., N.S   | England. . | Sydney Mines . | May | 8, 1915. |
+| 27 | 1859<br>1351<br>3839<br>1392 |  |  |  |  |  | jvrnith, Stow art   | Pott Monton, Qiioons Co., N.S.   | Canada  | 1 #iverpool  | April 13, 1915. |
+| 27 | 1533<br>1378<br>3838<br>1412 |  |  |  |  | .' -rt w»W  | -.ouhi^s. Mrs. Jsne B  | 38 Dogford Rd„ Itoyton, Manch^st<*r, F>>«  . | England  | Aldershot  | May | 25, 1915. |
+| 27 | 668<br>1408<br>3839<br>1457 | 41172' ,I*riv«'r   |  |  | I*.*.  | ,;n j  | pWv*. Mr». Kdmml 15 . . | Fonrr*^t St., 8jrdw»y Mine*, C.H., N^  | Canada  | Sydney M ines | M ar. | 31. 1915. |
+| 27 | 1861<br>1438<br>3839<br>1470 |  |  |  |  |  | ‘ ; r>>i«I. Arthur   | lyiverpool, Qtieens Cx»., N.8    | Canada  | Liverpool  | April 13, 1915. |
+| 27 | 1872<br>1467<br>3840<br>1498 |  |  |  |  |  | "* * f . W illi.in T  | Liverpool, QtifMin* Co., N.H.    | Cnnad a    | Liverpool  | April 13, 1915. |
+| 27 | 1188<br>1494<br>3840<br>1532 |  |  |  | J »Hn IVrw   | . NU  | .’I'-Koutr, Xlr.. Munlock... | Millville, Bo«Urdar»#, C.B., N.8.,,.  | Cana* la . | Sydney Mines . | Mar. | 31, 1915. |
+| 27 | 2000<br>1523<br>3840<br>1554 |  |  |  |  |  | f.liroln'th   | Clarke's IJc'ieh* Conception Hay, N fid   | \«** ("midland.. | Spring Hill.. . | Mar. | 17, 1915. |
+| 27 | 1030<br>1552<br>3841<br>1597 |  |  | ;■ .«***#, <i*H? * .. |  | .|nm. ...... «%«.«,#«• | v . Mr. J. 1)  | Truro, Colnb«»tor Co.. N.H.     | Canada   | Truro  | April 28, 1915. |
+| 27 | 1861<br>1581<br>3841<br>1620 |  |  |  |  |  | j*«J«»la»cl, Mm. Vincent .. | Sheffield, York*., r.aguiiNi.,  | England  .. | Sydney Mines. . | Mar. | 31, 1915. |
+| 27 | 669<br>1587<br>1813<br>1627 | 411721 Priv.to  |  | '     |  | • IS®..»••• |
+| 27 | 1533<br>1608<br>3842<br>1644 |  |  |  |  | f*M    |  | Sydney, uJ3,» N .S  | f Vuim'Im   | Sydney Mines.. | Mar. | 31, 1915. |
+| 27 | 1017<br>1639<br>3842<br>1681 |  |  | *h #m Mm ww»*   |  | lt»*, ........ | VIr» John William  | \\f»lliro«>d, I>tmferml»ee, Fif^., Hwt..,  | Scotland  | Sydney Mines. . | Mar. | 31, 1915. |
+| 27 | 1615<br>1666<br>3842<br>1701 |  |  |  |  |    | frwl. NrJ’-M | 23 r»terroe rtt, Awlwmt, CtoibirM Co.( N.S ... | Canfwla  | Amherst  | Mar. | 17, 1915. |
+| 27 | 1877<br>1696<br>3843<br>1730 |  |  |  |  |  | ' • ■ K, Mr*. \ . ... | 1S5 Church Kd.« field. Bristol, lOn*  | Ivnglan<l   | Halifax  | Mar. | 13. 1915. |
+| 27 | 1284<br>1725<br>3843<br>1757 |  |  |  | NMwi ... |  | ' Itrr Mrs ll-ich   | Waterville, Kings Co., N.H   | Canada  | Kentville  | April | 7, 1915. |
+| 27 | 670<br>1746<br>3845<br>1785 | MSIlt ltivati*  |  |  |  |  | . t-m. Mi" llolca   | Middleton, N.S    | Syria  | Middleton  | April | 5, 1915. |
+| 27 | 670<br>1765<br>3845<br>1819 | 4 l£f>05, Privato  |  | .It   |  |  | t..s» Me Uir i'-.-'-Ii Ann. | Sydney Mines, C.B., N.S...^.    | England.... .. | Sydney M ines. | Mav | S, 1915. |
+| 27 | 670<br>1806<br>3845<br>1846 | 414773'Private  |  |  |  |  | ‘‘T I   | Barrow-ln-Foniean, L*nr«.j Kit*    | England  | Aldershot  | Mnv | 24, 1915. |
+| 27 | 1523<br>1841<br>3846<br>1873 |  |  |  |  | . SJ.. | 1 tfff, i   | Bear River, 1 >»ebjr Co^ N  | t ana<la  | M iddleton  | April 5, 1915. |
+| 27 | 670<br>1865<br>3846<br>1902 | 4 l.^SOO'Private..*  |  |  |  | N4 | T t*fi * I • f * | Admiral H^ k. Hants Co., N.S.. i     |  |  | April 28, 1915. | * 'nnada . | T ruro  |
+| 27 | 671<br>1882<br>3846<br>1928 | 41457*1 Private  |  | Twnto* /.f. |  |  | ‘ *. W | Waterville. Kint* Ck>., N.S....  | f 'nnada .. | Kentville  | May | 4, 1915. |
+| 27 | 672<br>1924<br>3846<br>1958 | 415132 Private  |  |  |  | N/ | V»* Mucki* .... | Sydney Min*e. C H.. N.S...  | < *anada | Sydney Mines | Mar. | 31, 1915. |
+| 27 | 672<br>1953<br>3847<br>1987 | 414729 i Privnte  |  |  |  | 4NM.. | \ Mr« H .   | Jam^ Pt« Ambervt. C»mberle»d N.B  | Ertr^aird  | I Amherst  | Mar. | 17. 1916. |
+| 27 | 671<br>1982<br>3847<br>2022 | 41439? I Private.i.s  |  |  |  | .•,*V J | \ . |.«« i* J . . . , | letSt., Ami ibeflnad Co., K<8  | England  | |Amherst   | Mar. | 18. 1915. |
+| 27 | 672<br>2008<br>3840<br>2050 | 414303 j Private  |  |  |  | jjt* | i >t*'«m*Wxfrw%k .   | . jUrefiv*^, N.B   | . Canada .. | J Liverpool.,.. | April 13, 1915 |
+| 27 | 673<br>2018<br>3848<br>2072 | 415199 Privato  |  |  | °   |  |  | ‘ f ^imaline. Nlli.    | . Newfoundalnd | iSydney Mines | May | 8, 1915. |
+| 28 | 928<br>676<br>2987<br>706 |  |  |  | Former Corps. |
+| 28 | 748<br>729<br>3866<br>766 | £ |  |  |  |  |  |  |  | Place. | Date. |
+| 28 | 746<br>822<br>2983<br>855 | 415117 | Privato  | Wentiell, Joseph Hughie... | 14th Hussars | Wentsell, Henry  | Berwick, Kings Co., N.S  |
+| 28 | 3233<br>836<br>3922<br>866 |  |  |  |  |  |  |  | Canada  | Kentville  | April | 7,1915. |
+| 28 | 746<br>853<br>2982<br>884 | 415135 | Privnte  | WhilnifT, Albert  | C.G.A... | WhilnifT, William  | Bathurst, Gloucester Co., N.B  |
+| 28 | 3233<br>866<br>3923<br>896 |  |  |  |  |  |  |  | Canada  | Kentville  | May | 4, 1915. |
+| 28 | 745<br>883<br>2983<br>915 | 414752 | Private  | Whito, Aubrey  | Nil  | Whito, Charles  | Victoria, Nfld  |
+| 28 | 3237<br>896<br>3922<br>926 |  |  |  |  |  |  |  | Newfoundland.. | Sydney Mines.. | May | 8, 1915. |
+| 28 | 745<br>913<br>2983<br>944 | 415549 |  | Whootcn, William Raymond | Nil  | Moorfoot, Mrs. H  | Lynn, Mass., U.S.A  |
+| 28 | 3235<br>925<br>3922<br>954 |  |  |  |  |  |  |  | Cnnada  | New Glasgow. . | May | 1, 1915. |
+| 28 | 745<br>942<br>2982<br>974 | 415210 | Loe.-Corporai   | Whynott, Charles Scott.... | Nil  | Whynott, Currie  | Bridgewater. Lunenburg Co., N.S  |
+| 28 | 3234<br>954<br>3923<br>982 |  |  |  |  |  |  |  | Canada  | Bridgewater.... | April | 17, 1915. |
+| 28 | 745<br>971<br>2983<br>1002 | 415109 | Sergeant  | Whynott, Harry Creighton | Nil  | Whynott, Mrs. Harry  | Kentville, Kings Co., N.S  |
+| 28 | 3234<br>983<br>3923<br>1011 |  |  |  |  |  |  |  | Canada  | Kentville  | April | 7, 1915. |
+| 28 | 745<br>998<br>2983<br>1031 | 415215 | Private  | Whynott, Merl Erven  | Nil  | Whynott, Currie  | Bridgewater, Lunenburg Co., N.S  |
+| 28 | 3234<br>1011<br>3923<br>1040 |  |  |  |  |  |  |  | Canada  | Bridgewater.... | April | 17, 1915. |
+| 28 | 745<br>1029<br>2983<br>1058 | 415215 | Private  | Wile, Malie  | Nil  | Wile, Gamaliel  | Brickfield, Queens Co., N.S  |
+| 28 | 3234<br>1040<br>3923<br>1068 |  |  |  |  |  |  |  | Canada  | Bridgewater .. | April | 19, 1915. |
+| 28 | 745<br>1058<br>2984<br>1087 | 415101 | Private  | Williams, James Arthur.... | Nil  | Williams, Thomas  | Upper Wellington, Hereford, Eng  |
+| 28 | 3236<br>1068<br>3924<br>1096 |  |  |  |  |  |  |  | England  | Kentville  | April | 7, 1915. |
+| 28 | 745<br>1086<br>2985<br>1116 | 4144(11 |  | Wilson, Richard Bowley... | Nil  | McWilliams, Mrs. William | New Waterford, C.B., N.S  |
+| 28 | 3235<br>1097<br>3924<br>1125 |  |  |  |  |  |  |  | Scotland  | Truro  | May | 5, 1915. |
+| 28 | 745<br>1116<br>2985<br>1146 | 415800 |  | Woodbury, Walter Roy.... | Nil  | Woodbury, Mrs. Bertha | Torbrook West, Annapolis, N.S.   |
+| 28 | 3235<br>1125<br>3924<br>1153 |  |  |  |  |  |  |  | Canada  | Middleton  | April | 5, 1915. |
+| 28 | 745<br>1144<br>2985<br>1174 | 414730 |  | Wright, Charles  | Nil  | Wright, Mrs. Harrie.... | Sydney Mines, C.B., N.S  |
+| 28 | 3238<br>1154<br>3924<br>1182 |  |  |  |  |  |  |  | England  | Sydney Mines. . | Mar. | 31. 1915. |
+| 28 | 745<br>1173<br>3924<br>1207 | 414343 | Private.   | Wynn, Zeb. Mullins..  | Nil....... | Wynn, Joseph  | Wallace, Cumberland Co., N.S  |  | Canada  | Amherst  | Mar. | 30. 1915. |
+| 28 | 843<br>1374<br>3924<br>1408 |  | Lieutenant,  | Dawson, Francis Murray... | 70th Regt... | Dawson, C. N  | Truro, Colchester Co., N.S  |  | Canada   | Valcartier  | Aug. | 31, 1915- |
+| 28 | 843<br>1404<br>3924<br>1438 |  | Lieutenant  | Douglas, Charles Irving... | 60th Regt... | Douglas. Harry  | Petitcodiac, Westmoreland Co., N.B. |  | Canada  | Valcartier  | Sept. | 14, 1915. |
+| 28 | 843<br>1433<br>3924<br>1467 |  | Lieutenant  | Farish, George Collins  | Slst Regt.... | Farish, Henry G  | Yarmouth, N.S  |  | Canada  | Yarmouth  | April | 17, 1915. |
+| 28 | 845<br>1462<br>3924<br>1495 |  | Lieutenant  | Jones, Owen B  | Gfjt.h Regt... | Jones, H. E  | Halifax, N.S  |  | Canada  | Sydney | Mar. | 27, 1915. |
+| 28 | 844<br>1491<br>3925<br>1524 |  | Lieutenant  | Stairs, Denis  | 6Gth Regt... | Stairs, Miss Helen  | 20 Kent St.. Halifax, N.S  |  | Canada    | Valcarticr  | Aug. | 31, 1915. |
+| 28 | 745<br>1520<br>3925<br>1552 | 414103 | Private  | Angevine, Frank  | 93rd Regt... | Angevine, Eli  | Middleboro, Cumberland Co., N.S... |  | ('anada  | Halifax  | May | 4, 1915. |
+| 28 | 746<br>1550<br>3925<br>1581 | 415500 | L.-Corporal  | Applegate, Harold C harles. | Territorials.. | Applegate, Charles Herbert. | Berwick, Kings Co., N.S  |  | England  | Middleton  | April | 5, 1915. |
+| 28 | 745<br>1579<br>3925<br>1610 | 415513 | Private  | Apt, William Russell  | Nil  | Apt, William H  | Colerain, Mass., U.S.A  |  | Canada  | Digby  | April | 5, 1915. |
+| 28 | 746<br>1607<br>3925<br>1639 | 414530 | Private  | Armsworthy, Albert Seward | Nil  | Armsworthy, William  | Canso, Guysborough Co., N.S  |  | Canada  | New Glasgow. . | May | 7, 1915. |
+| 28 | 746<br>1637<br>3924<br>1666 | 414531 | Private.....  | Arsneau, Gilbert  | Nil  | Arsneau, Paul  | Parrsboro, Cumberland Co., N.S  |  | Canada  | Amherst  | Mar. | 17, 1915. |
+| 28 | 746<br>1666<br>3925<br>1696 | 415017 | Private  | Attwood, Henry  | Nil  | Attwood, Mrs. Elizabeth... | Glace Bay, C.B., N.S   |  | England  | Sydney  | Mar. | 25, 1915. |
+| 28 | 747<br>1695<br>3925<br>1725 | 415538 | Private  | Balch, James  | Nil  | Robson, Mrs    | Dover, Kent, Eng    |  | England  | Aldershot  | June | 15, 1915. |
+| 28 | 747<br>1724<br>3925<br>1754 | 415018 | Private  | Hall, John  | Nil  | Ball, Mrs. Martha   | Guy St., Sydney Mines, C.B., N.S... |  | England  | Sydney Mines. . | Mar. | 31, 1915. |
+| 28 | 748<br>1753<br>3925<br>1783 | 415019 | L.-Corporal  | Barlow, John Henry  | Nil....  | BarlOW, Mrs. Matilda  | Sydney Mines, C.B., N.S  |  | England.   | Sydney Mines. . | Mar. | 31, 1915. |
+| 28 | 748<br>1783<br>3926<br>1816 | 415537 | Private  | Bartlett, Simon  | Nil  | Bartlett, Mrs. Eineline  | Tusket. Yarmouth Co., N.S  |  | Canada  | Liverpool (April | 13, 1915. |
+| 28 | 749<br>1812<br>3926<br>1842 | 415020 | I j.-Corporal  | Bathgate, John Henderson. | Nil  | Bnthgate, Mrs  | Kennerd Lodge, Alloa, Clackmannan, | Scot | Scotland  | Aldershot May | 24, 1915. |
+| 28 | 749<br>1841<br>3926<br>1872 | 415534 | Private  | Baxter, Arthur Roy  | Nil  | Baxter, George W  | Digby, N.S...  |  | Canada   | Digby J April | 5, 1915. |
+| 28 | 750<br>1870<br>3926<br>1900 | 415491 | Private  | Beed, Philip Atkinson  | Nil  | Beed, Mrs. Alary Ann  | Oxford, Cumberland Co.. N.S  |  | Australia  | Amherst...... I May | 6, 1915. |
+| 28 | 750<br>1899<br>3927<br>1929 | 414520 | Private ;  | Berridge, Frederick  | Nil  | Berridge, Mrs. Annie  | Claremont, Cumberland Co., N.S.... |  | England  | Amherst :Mar. | 17, 1915. |
+| 28 | 749<br>1927<br>3927<br>1957 | 414536 | Private  | Blenkhorn. Harold  | Nil  | Blenkhorn, Mrs. David  | Fenwick, Cumberland Co., N.S  |  | Cnnada  | Amherst  jMar. | 17, 1915. |
+| 28 | 750<br>1957<br>3927<br>1986 | 414524 | Private  | Booth, William   | Nil  | Booth, Mrs. Edith  | 112 Church St., Amherst, Cumberland Co | N.S | England  | Amherst Mar. | 17, 1915. |
+| 28 | 751<br>1981<br>3928<br>2015 | 4155-11 | Private  | Bourdreau. George William | Nil  | Bourdreau, Mrs. Catherine.. | Yarmouth, N.S  |  | Canada  | Yarmouth  (April | 12, 1915. |
+| 28 | 751<br>2014<br>3928<br>2051 | 415124 | Private  | Bourdreau. Wilfred  | Nil  | Bourdreau, Henry.   | Boston, Mass, U.S.A  |  | Canada  | Sydney  jMay | 3, 1915. |
+| 28 | 751<br>2044<br>3928<br>2076 | 415182 | Private.    | Boutilier, Edward   | Nil  | Boutilier, Charles  | Caledonia Mines, C.B., N.S  |  | Canada  | Aldershot iJuly | 24, 1915. |
+| 28 | 750<br>2073<br>3928<br>2106 | 414537 | Private  | Boyd, Eugene Morton  | Nil  | Boyd, Gilbert  | Five Islands, Colchester Co., N.S... |  | Canada  | Amherst... | Mar. | 17, 1915. |
+| 28 | 752<br>2098<br>3928<br>2134 | 415542 | Private  | Brooks, Dillon Bog  | Nil  | Brooks. Mrs. Annie  | Ashmore, Digby Co., N.S  |  | Canada  | 'Digby May | 11.1915. |
+| 28 | 751<br>2127<br>3929<br>2164 | 414507 | Sergeant  | Broughton. Thomas Whittak | Nil  | Broughton, Thomas  | Amherst, Cumberland Co., N.S  |  | England  | iAmherst  |Mar. | 17.1915. |
+| 28 | 752<br>2159<br>3929<br>2194 | 414539 | Private  | Brown, Ralph  | Nil  | Hayes, Mrs. Reuben  | 56 Spring St., Amherst, Cumberland Co., | N | .S... | Cnnada | Amherst  IMar. | 12, 1915. |
+| 28 | 753<br>2187<br>3930<br>2222 | 415023 | Private.   | Brown, Robert  | Imp. Forces. | Brown, Mn. M   | Ni w Waterford, C B., N.S    |  | (Scotland | Sydney  May | 3, 1915. |
+| 28 | 753<br>2213<br>3930<br>2253 | 4 nr, ii | Privatr  | Bryenton, William  | Nil  | Bryenton, Mrs. Annie  | *42 Clarence St., Amherst, Cumberland Co | N.S | •Canada | 'Amherst Mar. | 17, 1915. |
+| 29 | 2326<br>318<br>3801<br>347 |  |  |  |  |  | 91 Lower Water St.. Halifax, N.S  | Cnnada   | Halifnx  | Aug. | 10, | 1915. |
+| 29 | 634<br>326<br>2212<br>357 | 4 15fMJ3IPrivate.... |  | Iltryong, Clarence  | GOt.h Regt | Bryong, Patrick  |
+| 29 | 635<br>347<br>3800<br>384 | 415024 Private.... |  | iBuchntmn, John Angus  | Nil  | Buchanan, Murdock   | North Sydney, C.B., N.S  | Canada  | Sydney  | Mur. | 26, | 1915. |
+| 29 | 634<br>376<br>3800<br>414 | 414542 Private,... |  | Buck, William  | Nil  | Buck, Mrs. William  | 43 Prince Arthur St., Amherst, Cumberland Co. | Canada  | Amherst  | Mnr. | 17, | 1915. |
+| 29 | 634<br>406<br>3800<br>447 | 414061 [Private.... |  | !Burke, Felix Joseph  | Nil  | Burke, Miss Susan  | 42 Garry St., Halifax, N.S  | Newfoundland. | Halifax  | Mnr. | 12, | 1915. |
+| 29 | 633<br>436<br>3799<br>483 | 414I59jPrivate.... |  | ('artcr, Saxby  | 93rd Regt | Carter, William  — | Westmoreland Point, N.B  | Cannda  | Halifax  | Mny | 4, | 1915. |
+| 29 | 633<br>466<br>3799<br>504 | 415030il’rivnto.... |  | Cassidy, Andrew  | Nil  | Cassidy, Mrs. Catherine.. | Inverness, C.B., N.S  | Canada  | Glace Buy  | Mnv | 5, | 1915. |
+| 29 | 633<br>496<br>3800<br>533 | 4145401 Private.... |  | Cnvanagh, Vincent  | 78t.h Regt | Cnvanagh, Mrs. Florence. | New Glasgow, Pictou Co., N.S  | Cannda  | New Glasgow. . | Mar. | 31, | 1915. |
+| 29 | 633<br>526<br>3800<br>561 | 415555 Privnte ... |  | Cliailnor, Norman I'dward | Nil  | Cliailnor, Mrs. Ada  | Deerfield, Yarmouth Co., N.S  | Canada  | Digby  | Mny | 10, | 1915. |
+| 29 | 633<br>555<br>3801<br>591 |  | i Private.... | 414575 | Chapman, Frederick  | Nil  | Chnpmnn, Mrs. Joseph.... | 253 Church St., Amherst, Cumberland Co., N.S. | England  | Amherst  | Mar. | 17, | 1915. |
+| 29 | 633<br>585<br>3800<br>620 |  | r Bugler  | 414547 | Chisholm, Wilfred Lnurier. | C.F.A.... | Richardson, Mrs. J  | 48 Intercolonial St., Sydney, C.B., N.S  | Canada  | New Glasgow. . | Mnr. | 30, | 1915. |
+| 29 | 632<br>611<br>3801<br>650 |  | i Private.... | 41555(1 | Clarke, Stanley Herbert... | Nil  | Clarke, Spurgeon A  | Mosher's Corner, Annapolis, Co., N.S  | U.S.A  | Middleton  | April | 3, | 1915. |
+| 29 | 632<br>644<br>3802<br>679 |  | ! Private.... | 41555! | Clnrk, William  | Can. Mil. | Clark, W. H  | Mosher's Corner, Annapolis Co., N.S  | Canada  | Valcartier  | July | 13, | 1915. |
+| 29 | 632<br>673<br>3803<br>710 |  | Private.... | 415551 | Conienu, Joseph CVenr  | Nil  | Comeau, Mrs. Mary  | Centreville, Digby Co., N.S  | Canada  | Digby  | May | 10, | 1915. |
+| 29 | 631<br>703<br>3802<br>738 |  | Private.... | 414551 | Cook, Herbert William  | Nil  | Cook, Mrs. Ruth  | Spring Hill, Cumberland Co., N.S  | Canada  | Amherst  | Mnr. | IS, | 1915. |
+| 29 | 632<br>733<br>3804<br>768 |  | i Private | 415558 | Corkum. Millngc St. Claire | Nil  | Corkum, John S  | Bridgewater, Lunenburg Co., N.S  | Canada  | Bridgewater.... | M ay | 5, | 1915. |
+| 29 | 632<br>762<br>3804<br>797 | 4142411 | Private  | Coi, William  | Nil  | Cox, William  | Bonavista, Nfld  | Newfoundland.. | Aldershot | June | ». | 1915. |
+| 29 | 631<br>792<br>3804<br>827 | 414559 | Private  | Crawford, Andrew  | Nil  | Crawford, Mrs. Sarah  | 20 Electric St., Amherst, Cumberland Co., N.S. | Canndn  | Amherst Mar. | 29, | 1915. |
+| 29 | 632<br>822<br>3803<br>857 | 415115 | Private.... | Crawford, Charles  | Nil  | Crawford, James  | Beaver Mines, Edmonton, Alta  | Seotlnnd  | Sydney | Mar. | 26, | 1915. |
+| 29 | 631<br>852<br>3803<br>887 | 415499 | Private.... | Crawford, Stanley  | Nil  | Crawford, Celia  | Sackville, Westmoreland Co., N.B  | Canada  | Amherst  | Mar. | IS, | 1915. |
+| 29 | 631<br>881<br>3803<br>916 | 414500 | Private.... | Cream, Clyde   | Nil  | Cream, Mrs. William  | Truro, Colchester Co., N.S  | Cannda  | Amherst  | Mar. | 17, | 1915. |
+| 29 | 631<br>911<br>3804<br>944 | 414184 | Privnte.... | Croken, John P  | 82nd Regt | Donagnn, Mrs. John...... | 15 West St., Marlboro’, Mass, U.S.A  | Canada  | Valcartier  | Aug. | 6, | 1915. |
+| 29 | 632<br>939<br>3805<br>973 | 414097 | Private.... | Cross, John A  | Nil  | Cross, Mrs. Mary  | Ingersoll, Ont  | Canada  | Kentville  | July | 20, | 1915. |
+| 29 | 632<br>968<br>3804<br>1002 | 4145G2 | Private.... | Crossan, Thomas W  | Nil  | Crossan, Mrs. Elizabeth.. | 422 Ashfalt, Stellarton, Fictou Co., N.S  | Ireland  | New Glasgow.. | Mar. | 31, | 1915. |
+| 29 | 632<br>997<br>3804<br>1031 | 414501 | Privnte.... | Crossan. Jnmes  | Nil  | Crossan, Mrs. Elizabeth | Stellarton, Pictou Co., N.S  | Scotland  | New Glasgow.. | Mar. | 31, | 1915. |
+| 29 | 631<br>1025<br>3804<br>1060 | 415553 | Private.... | Crouse, Frederick Claremoi | 75 (h Regt | Crouse, D. Angus  | Lower Branch, Lunenburg Co., N.S  | Cannda  | Bridgewater.... | April | 19, | 1915. |
+| 29 | 631<br>1055<br>3805<br>1089 | 414148 | Private.,.. | Cunningham, llnrold  | Nil  | Cunningham, Rev. W  | Hopewell, Fictou Co., N.S   | Cannda  | Halifax  | April | 29, | 1915. |
+| 29 | 630<br>1084<br>3805<br>1117 | 415032 | Private.... | Currie, Archibald  | Nil  | Currie, Mrs. C. L  | 54 Marion St., Dorchester, Mass, U.S.A  | Canada  | Sydney  | Mar. | 26. | 1915. |
+| 29 | 630<br>1114<br>3805<br>1146 | 414708 | Private.,.. | Currie, Charles E  | Nil  | Currie. Mrs. Catherine ... | Glace Bay, C.B., N.S  | Cannda  | Kentville  | July | 20, | 1915. |
+| 29 | 629<br>1143<br>3804<br>1177 | 414308 | Private..,. | Dalrymple, James Whitman | 102 nd Regt | Dalrymple, Capt. A. T... | Truro, Colche ter Co., N.S   | Cnnada  | Aldershot  | June | 10, | 1915. |
+| 29 | 630<br>1171<br>3805<br>1205 | 415505 | Private.,.. | Dean, Guy St. Claire  | Nil  | Dean, Ira Gilbert  | Block House, Lunenburg Co., N.S  | Canada  | Bridgewater  | April | 17, | 1915. |
+| 29 | 630<br>1201<br>3805<br>1234 | 415034 | Private.... | Dovoc, Miclmel Ambrose.. | Nil  | Devoe, Joseph  | Glace Bay, C.B., N.S..'.  | Cannda  | Vnleartier  | July | 13, | 1915. |
+| 29 | 629<br>1231<br>3806<br>1263 | 414181 | Privnte..., | Dewolfe, l ei and B  | Nil  | Dew olfe, Mrs. M  | Canning, Kings Co., N.S  | Cannda  | Aldershot  | May | 25, | 1915. |
+| 29 | 629<br>1260<br>3806<br>1293 | 415000 | Scrgennt... | Dickson, William  | Nil  | Dickson, Mrs. Jessie  | 30 Pitt St., Edinburgh, Scot  | Scotland  | Sydney  | Mar. | 27, | 1915. |
+| 29 | 629<br>1290<br>3807<br>1323 | 414190 | Private.... | Dodd, Joseph  | Nil  | Dodd, J  | Fernie, B.C  | Englnnd  | Aldershot  | May | 29, | 1915. |
+| 29 | 629<br>1319<br>3807<br>1351 | 415035 | Private.... | Donovnn, Valentine  | Nil  | Donovan. Miss Bertha  | Sydney, C.B., N.S  | Canada  | Sydney  | Mar. | 27, | 1915. |
+| 29 | 629<br>1349<br>3807<br>1382 | 415892 | Privnte.... | Doneet, Joseph  | R.C.R... | Doucct, Kate  | 93 Hollis St., Halifax, N.S  | Canada  | Valcartier  | Aug. | 18. | 1915. |
+| 29 | 628<br>1378<br>3807<br>1410 | 415564 | Private.,,, | Doucette, Walter John  | Nil  | Doucette. Eli C  | Quinan, Yarmouth Co., N.S  | Canada  | Yarmouth  | May | 4, | 1915. |
+| 29 | 628<br>1404<br>3807<br>1440 | 414527 | Privnte.,.. | Dowell, Jnmes Robert  | Nil  | Dowell, Mrs. Pansy  | Westville, Pictou Co., N.S  | England  | New Glasgow. | Mar. | 31, | 1915. |
+| 29 | 628<br>1435<br>3808<br>1470 | 415557 | Private.... | Duffy, William Henry  | Nil  | Duffy, Jo-cph  | Gloucester, Mass, U.S.A  | Newfoundland.. | Yarmouth  | April | 10, | 1915. |
+| 29 | 628<br>1465<br>3807<br>1498 | 415559 | Private.... | Duncan, Sidney  | 76th Regt | Duncan, Mrs. Willard  | Windsor, Hants Co., N.S  | Canada.... | Windsor  | April | 1, | 1915. |
+| 29 | 628<br>1494<br>3808<br>1526 | 415191 | Private  | Knrle, Milledge Crouse  | Nil  | Earle. John C  | ricn"int Late, Yarmouth Co., N.S  | Canada.,., | Yarmouth  | May | 4, | 1915. |
+| 29 | 628<br>1522<br>3808<br>1556 | 415526 | L.-Coi pora | iKiln, Glenn ,Stephens  | Nil  | Ells, A. E   | Sheffield Mills, Kings Co., N.S  | Canada.... | Valcartier  | July | 13, | 1915. |
+| 29 | 628<br>1551<br>3808<br>1586 | 414571 | Private.... | I)',vans, William George A.. | Territorials | Evans, William Henry  | Gainsboro' Rd., Leytonstone, Sussex, Eng  | England... | Amherst  | April | •JO. | 1915. |
+| 29 | 629<br>1580<br>3808<br>1613 | 415498 | Private.... | iFnirc, Avard Nelson  | Nil  | Fnge, Thompson  | Hastings, Cumberland Co., N.S  | Canada.... | Amherst  | Mar. | 17. | 1915. |
+| 29 | 629<br>1609<br>3809<br>1651 | 415525 | 1/.-Corporal | |l'nles, Le Roy  | Nil  | Falcs, David  | Victoria Vale, Annapolis Co., N.S  | Canada.... | Middleton  | April | 5. | 1915. |
+| 29 | 629<br>1638<br>3809<br>1673 | 41511? | Private.... | iFnrquhnrson, John  | Nil  | Farquharson, Mrs  | Sydney, C.B., N.S  | Canada.... | Aldershot  | May | 21, | 1915. |
+| 29 | 630<br>1667<br>3809<br>1700 | 414740 | Private.... | Ferguson, Arthur John  | 94 th Regt | Ferguson. Mrs. Sophia  | Dominion, No. 1, C.B., N.S  | Canada.... | Kentville  | July | 20, | 1915. |
+| 29 | 629<br>1697<br>3809<br>1729 | 414093 | Private..,. | Fitrgernld, James O’Neil.. | 66th Regt | Fitrgcrald, Mrs. Margaret | 112 Queen 8t., Halifax, N.S  | Canada ... | Halifax  | Mar. | 24, | 1915. |
+| 29 | 629<br>1726<br>3809<br>1760 | 415281 | Private.... | I linn, Timothy  | Nil  | Flinn, John  | 3 Borrett Lane, Cork, Ire  | Ireland  | Hnlifax  | Aug. | 2, | 1915. |
+| 29 | 630<br>1755<br>3809<br>1794 | 415113 | Private.... | Forsyth. William  | Nil  | Forsyth, David  | Longdyke, Scot  | Scotland.. | Sydney  | Mar. | 26, | 1915. |
+| 29 | 630<br>1784<br>3809<br>1816 | 415569 | Private.... | Fortier, Vincent  | Nil  | Fortier, L. M  | Annapolis Royal, N.8  | Canada  | Middleton  | April | 8, | 1915. |
+| 29 | 631<br>1812<br>3810<br>1846 | 415528 | ■Sergeant... | Fox, James Ernest  | Nil  | Fox, Mrs. James  | Yarmouth, N.S  | Canada..., | Valcartier  | July | IS, | 1915. |
+| 29 | 631<br>1843<br>3810<br>1875 | 414572 | Private.... | Fraser, Donald Duncan.... | 28 th Regt | Fraser, Mrs. Daniel C  | Stellarton, Pictou Co., N.S  | Canada.... | New Glasgow.. | May | 8, | 1915. |
+| 29 | 631<br>1869<br>3810<br>1906 | 414519 | Corporal.. | Gay, William. | Nil  | Gay, Mrs. Margaret   | Spring Hill, Cumberland Co., N.S.  | Canada..., | Amherst  | Mar. | 17, | 1915. |
+| 29 | 631<br>1901<br>3810<br>1938 | 416511 | Sergeant... | |Gesner, Frederick  | 09th Hegt | Gesner, George R  | Belleisle, Annapolis Co., N.S  | Canada ... | Halifax  | April | 10, | 1915. |
+| 29 | 631<br>1931<br>3810<br>1964 | 414584 | Private.... | iGibhons, Peter  | Imp. Force* | Gibbons. Mrs. Sarah  | Jognin Mines, Cumberland Co., N.S  | Englnnd.., | Amherst  | Mar. | 17, | 1915. |
+| 29 | 632<br>1960<br>3810<br>1990 | 414586 | Private.... | Gould, Arcade  | Nil..,. | Gould, Mrs. Phemie  | 64 I’nrk St., Amherst, Cumberland Co., N.S— | Canada  | Valcartier  | July | 5, | 1915. |
+| 29 | 632<br>1989<br>3811<br>2021 | 415041 | Private.... | Gray, William Jones  | Territorials | Gray, Mrs. Agnes  | New Waterford, C.B., N.S  | Scotland  | Sydney  | M ay | 3, | 1915. |
+| 29 | 632<br>2018<br>3812<br>2049 | 415532 | Bugler  | Griffin, Ralph Wilkie  | Nil.... | Griffin, Mr*. Hilda  | Brit!"" ■ '■t'-r, Lunenburg Co., N.S  | Canada  | Brigdewater  | April | 17. | 1915. |
+| 29 | 633<br>2047<br>3812<br>2079 | 414034 | Private.... | Hall, John Ross   | Nil.... | Hall, Edmund  | 224 Morris St., Halifax, N.S  | Cansds | Halifax | Mar. | 13, | 1915. |
+| 30 | 765<br>652<br>3913<br>683 | 4I45V0 | I Private... | Hamilton, Johh P  | • Nil  | Hamilton, Miss Gvrlrude | Hri ’ , v. .ter."Lunenburg Co., N.S  | Canada  | Amherst  | Mar. | 22, | 1915. |
+| 30 | 766<br>679<br>3912<br>712 | 4155VI | I Private... | Hansford, Cecil Hambly | . Nil  | Stevens, Mrs. K. J | I tub'eek Mine*, Annapolis Co., N.S   | . Canada  | Middleton  | April | 5, | 1915. |
+| 30 | 761<br>712<br>3913<br>743 | '415973 |  1 Pri vote... | Harrison, Joseph  | . 06th Itegt. | Harrison, Mrs. F. | her St.. West Hartlepool, Durham, Eng  | England   | Valcartier  | Aug. | 31. | 1015. |
+| 30 | 762<br>742<br>3914<br>775 | 4 t4irc<j Private... |  | llaughn, Grover  | . 06t.h Regt. | Hnughn, W. D  | <« H •(«•»>, LunenburE 'Jo., N.S  | . Canada  | Aldershot  | June | 1, | 1915. |
+| 30 | 765<br>770<br>3914<br>801 | 415012 Private... |  | llaycox, Thomas  | . Nil  | Haycox, Mrs. Johr | * V<nm fit., Birmingham, Eng  | Englnnd  | Sydney  | Mar. | 20, | 1915. |
+| 30 | 765<br>799<br>3915<br>830 | 415067 Private... |  | Hcnnessy, John  | . 93nl Regt. | Hennessy, Mrs. Helen | Hill, Caraberlaml Co., N.S  | . Canada  | Val oartier  | July | 13, | 1015. |
+| 30 | 767<br>829<br>3916<br>858 | 41557,S Private... |  | Hill, Basil George  | . Nil  | Mfllbury, David | 1 om", Annapolis Co., N.S  | , Canada  | Middleton  | April | 5, | 1915. |
+| 30 | 767<br>857<br>3916<br>889 | 41.j37.’ Private... |  | Hodge, Archibald S  | . Nil  | Hodge, Mrs. it. J- | ■ ■■. 6th Avt). and Corn St., Gary, Ind„ U.S.A— | Canada  | Sydney  | Aug. | 9, | 1915. |
+| 30 | 766<br>888<br>3916<br>918 | 415043 Private... |  | Hollingsworth, William.. | . Imp. Forces | Hollingsworth, Georg* | '’< I'orrwgh, YoTks., Eng  | England  | Sydney  | Mar. | 20, | 1915. |
+| 30 | 765<br>916<br>3908<br>948 | 4154"f Bugler.... |  | Holt, Charles  | . Nil  | Holt, Frederick | 1 To .-mend St., Sydney, C.B., N.S  | England  | Sydney  | Mar. | 25, | 1915 |
+| 30 | 766<br>946<br>3917<br>975 | 41623* Private... |  | Hooton, Robert  | . 94th Regt. | Hooton, Mrs. Ethel | Kfii ilon No. 4, C.B., N.S  | England  | Aldershot  | July | 29, | 1915. |
+| 30 | 766<br>973<br>3916<br>1006 | 414732 Private. |  | Hopkins, Harry William. | . Territorials. | Hopkins. Mrs. Caroline | M Gilt ertSt., Coventry, Warwick, Eng  | England  | Kentville  | July | 20, | 1915. |
+| 30 | 766<br>1004<br>3917<br>1034 | 41411 | Private... | Horan, Prank    | . Imp. Forces | Horan. Mr«. I. | M E. R(r>eo<*St-, London, E C., Eng  | England  | Halifax  | April | 28, | 1915. |
+| 30 | 766<br>1027<br>3917<br>1063 | 4141'.' | Private... | Horsetail. Bernard  | . Nil  | Horsetail, Aquilla | • - nx.lioad, Oldbam, Lanes., Eng  | England  | Aldershot  | May | 31, | 1015. |
+| 30 | 766<br>1062<br>3917<br>1093 | 414171 | Private... | Hunter, Harry  | . C.A.S.C... | Hunter, John | ■ I Wardlen Ave., Rut.herglen, Glasgow, Scot  | Scotland  | Halifax  | May | 6, | 1915. |
+| 30 | 766<br>1087<br>3915<br>1120 | 415014 | Private... | Hurst, Thomas  | . *04th Regt. | Hurst, Mrs. Elizabeth | •on No. 4, C.U., N.S  | England  | Aldershot  | May | 24, | 1915. |
+| 30 | 765<br>1120<br>3918<br>1151 | 414212 | Private... | Ingle, Albert Charles.... | Nil  | Ingle, Samuel . . | St., Gravesend, Kent., Eng  | England  | Aldershot  | June | 2, | 1915. |
+| 30 | 765<br>1144<br>3919<br>1180 | 415580 | Private... | Jeffrey, Amo?  | . Nil  | Forbes, Mrs. Abner | ' Kemptville, Yarmouth Co., N.S  | Canada  | Yarmouth  | April | 12, | 1915. |
+| 30 | 765<br>1177<br>3919<br>1207 | 414588 | Private... | Johnstone, Robert  | .Nil  | Whyley, Mr«. Harry | i dbirton, Pictou Co., N.S  | . Scotland  | ew Glasgow. . | Mar. | 31, | 1915. |
+| 30 | 765<br>1207<br>3919<br>1237 | 414580 | Private... | Jones, Harold Clifford... | . NU. | Jonos, Airs. A. S . | M- '-cait Hotel, Maccaa, Cumberland Co., N.S  | . Canada  | Amherst  | Mar. | 30, | 1915. |
+| 30 | 765<br>1236<br>3920<br>1266 | 415581 | Private... | Jones, William Frederick | . Nil  | Jones, Frederick  | Lake Annis, Yarmouth Co., N.S  | . Canada   | Aldershot .... | June | 15. | 1915. |
+| 30 | 764<br>1265<br>3920<br>1296 | 415582 | Private... | KchOe, Donald  | . Nil  | Cavanagh, Lawrence | Yarmouth, N.S    | . Canada  | Yarmouth  | April | 12, | 1915. |
+| 30 | 764<br>1294<br>3920<br>1326 | 414464 | Privnte... | Killen, William Henry... | 00th Regt. | Killen, Mrs. Elizabeth | '•') Armoury St.. Halifax, N.S  | . Canaria  | Halifax.    | Aug. | 2, | 1915. |
+| 30 | 764<br>1320<br>3920<br>1354 | 415045 | Private... | Kind, Charles  | . Nil  | King, Jerry  | ’Iiitney Pier, Sydney, C.B., N.S  | . Newfoundland. | Sydney  | Mar. | 27, | 1915. |
+| 30 | 764<br>1353<br>3920<br>1384 | 415584 | Private... | Labrador, Charles  | 75th Regt. | Labrador, Mary  . | Iriii. i?Water, Lunenburg Co., N.S  | . Canada  | Bridgewater... | April | 17, | 1015. |
+| 30 | 764<br>1378<br>3920<br>1412 | 415585 | Privato... | Labrador, Lewis  | . Nil  | Labrador, Mrs. L  | 1’.ridgewator, Lunenburg Co., N.S  | . Canada  | Aldershot  | June | 14, | 1915. |
+| 30 | 763<br>1409<br>3920<br>1442 | 414210 | Private... | Lntnphier, James Joseph. | Nil  | Lamphier, Mary F  | 33 Newburn St., Knxbury, Mass., U.S.A  | . Canada  | Halifax  | June | 2, | 1915. |
+| 30 | 764<br>1439<br>3921<br>1471 | 415580 | Private... | Langford, Alexander  | Nil  | Langford, Kathleen   | Weymtfuth, Digby Co., N.S  | . Canaria  | Digby...  | May | II, | 1915. |
+| 30 | 764<br>1467<br>3921<br>1500 | 414504 | Private... | Littler, William Joseph .. | Nil  | Littler, Mrs. Mary  | Spring Hill, Cumberland Co., N.S  | . England  | Spring nill  | Mar. | 17, | 1915. |
+| 30 | 764<br>1496<br>3921<br>1530 | 414595 | Privnte... | Livingstone, George Nieoll. | , Nil  | Livingstone, Mrs. Georgina | tTellarton, Pictou Co., N.S  | . Canada  | New Glasgow. | May | 1. | 1915. |
+| 30 | 764<br>1522<br>3922<br>1558 | 415655 | Private... | Lombard, Leonelle... | . Nil  | Lombard, Deremec  | Little Brook, Digbv Co., N.S  | . Canada  | Digby  | April | 5, | 1915. |
+| 30 | 764<br>1552<br>3922<br>1588 | 414203 | Privato... | lordly, Harold  | 06th Regt. | Lordly, F. J  | !»'"J Qur -nSt., Halifax, N.S  | . Canada  | Aldershot  | June | 1, | 1015. |
+| 30 | 764<br>1585<br>3922<br>1616 | 414014 | Private.... | Loivther, Willinm.... | Nil. | Lowther, George  | i! South Albion, Amherst, Cumberland Co., N.S.. | .. Canada  | Amherst.  | Mar. | 17, | 1015. |
+| 30 | 765<br>1612<br>3922<br>1646 | 414330 | 1,.-Corpora! | Lynch, George  | . Trap. Forces | Lynch, Mrs. Mary Ann . . | V'rbournn. St. John, Basingstoke, Hants, Eng. .. | . England  | Kentville. . | July | 20. | 1915. |
+| 30 | 765<br>1639<br>3923<br>1675 | 4150*10 | Privnte... | Lynch, Thomas  | . Nil  | Lynch, Mrs. Nina. | Je.iv Aberdeen C.B., N.S  | ,. Newfoundland . | Glace Bay  | M ay | 5, | 1015. |
+| 30 | 765<br>1672<br>3924<br>1702 | 414132 | Privnte... | McKenuie, Melvin  | . Nil  | McKenxie, Mrs. Robert | 'xxverSelmah, Hants Co., N.S  ... | . Canada  | Halifax  | April | 16, | 1915. |
+| 30 | 765<br>1701<br>3923<br>1732 | 415500 | Private... | MnoKenzie, Potnnm Stanley | • Nil  | MacKenzie, Herbert W. | I’ridgi'water, Lunenburg Co.. N.S  | .. Canada  | Bridgewater... | April | 19. | 1915. |
+| 30 | 765<br>1730<br>3924<br>1761 | 415047 | Private... | Marshall, Robert Whitelaw. | Nil  | Marshall, Thomas.. | iydney, C.B., N.S  | .. Scotland  | Sydney  | Mar. | 1915. |
+| 30 | 766<br>1759<br>3924<br>1791 | 414600 | Privnte... | Marsters, Lloyd  | . 08th Regt. | Marsters, Mrs. T. A | llanta port, Hants Co., N.S  | ,. Canada  | Aldershot  | June | 1915. |
+| 30 | 766<br>1783<br>3925<br>1820 | 414120 | Private... | Martin, Raymond Vincent . | . Nil  | Martin, Charles Fran i-  | 52 South Park St., Halifax, N.S  | ,. Canada  | Halifax  | April | . 1915. |
+| 30 | 766<br>1817<br>3924<br>1848 | 414270 Private.. |  | Mntheson, Kenneth  | . Nil  | Matheson, Roderick | VArdoise Highlands, Richmond Co., N.S  | ,. Canada  | Aldershot  | June | 1915. |
+| 30 | 766<br>1844<br>3924<br>1878 | 415141 | Private... | McCabe, William  | Nil. | McCabe, Mrs  | Glace Bay, C.B., N.S  | .. England...... | Glace Bay  | Mny | . 1915. |
+| 30 | 767<br>1874<br>3925<br>1905 | 414001 | .. I Private... | McCallurn, Dougins   | Nil. | MeCaUurn, Bessie N  | 25 Willow St., Amherst, Cumberland Co., N.S.,.. | .. Canada.    | Amherst  | May | . 1015. |
+| 30 | 766<br>1904<br>3925<br>1935 | 415050 Corporal.. |  | M cCornisky, Owen  | Imp. Forces. | McCornisky, Mrs. Ellen. . . | New Watorford, C.B., N.S  | .. Scotland  | Aldershot.. | June | , 1015. |
+| 30 | 768<br>1932<br>3925<br>1964 | 414005 Private... |  | McDiarmid, Harold Williair | Nil  | McDiarmid, Mary .I | Carleton Place, Onl   | .. Canada  | New Glasgow | Mar. | . 1915. |
+| 30 | 767<br>1961<br>3926<br>1993 | 416000 Private... |  | McDonald, Alexander  | Nil  | McDonald, Mrs. Henrietta. | Glace Bay, C.B., N.S  | .. Canada.... . | Aldershot  | M ay | . 1015. |
+| 30 | 768<br>1990<br>3927<br>2023 | 414044 Private... |  | McDonald, Gen rue Stanley | Nil  | McDonald, Charles.. | 13 Cornwallis St., Halifax, N.S    | . . Canada  | IHaliFax  | Mar. | , 1915. |
+| 30 | 768<br>2019<br>3926<br>2053 | 414010 Private... |  | McDonald, Gourley  | Nil  . | McDonald, Maria.. | Joggin Mines, Cumberland Co., N.S  | .. I reland  | Amherst  | Mar | , 1915. |
+| 30 | 769<br>2042<br>3927<br>2082 | 415209 Privnte... |  | McDonnld, Joseph  | 94 th iftegt. | McDonald, Niehola . .... | McKay’s Corner, Clace Bay, C.B., N.S  | ., Canada . . | ^Aldershot  | July | 1915. |
+| 31 | 3144<br>330<br>3830<br>359 |  |  |  |  |  |  | Canada  | Sydney  | Mar. 20, 1915. |
+| 31 | 661<br>346<br>3830<br>389 | 415003 | Private  JMcDonald, Neil J  |  | Nil   | \; I Mnsld, rV**V«! | |Hf»l Cor*. |„ .rccssCo.. N.S. | Canada.   | Sydney  | Mar. 20. 1913. |
+| 31 | 666<br>382<br>3831<br>417 | fl.MXH | Pr irate   | McDonald, Robert WrrotrofT  | Nil    | McDonald, Mn. V. | Jy>tn*T, C H.. > ' ■    •    | Canada  | Halifax  | June 7. 101.). |
+| 31 | 662<br>404<br>3831<br>456 | •n.Tjr.n | Private  | 'cDtrmnlL, Arthur Patrick  | Nil    | McDouewfl, Kllrti | il St.. I’ N.S  | j Canada  | Sydney  | 3, 1915. | May |
+| 31 | 662<br>440<br>3831<br>480 | 44.ms | Pnvnr** iMeDetrgnO, John Andrew.. |  | Nil  | MeLellen, | tnrrmr-*. C.B.. ' ~ ........ ’ . .' v Vj' ' | |Canada  | Aldershot  | 29, 1915. | July |
+| 31 | 662<br>470<br>3830<br>509 | 41.-.311 | Private  | McEacbenr, Colin   | 04 th Regt  | M'dCachem. Ji/hn |  | Scotland  | Sydney.  | 3, 1913. | May |
+| 31 | 662<br>488<br>3056<br>528 | tir<ofld | Private  | McEwan, Thomas..   | NU  | McEwan, Mrw. Klir > | CiMonia Mines. N.S  |
+| 31 | 3146<br>509<br>3831<br>537 |  |  |  |  |  |  | Canada  | Glace Bay   | 5, 1913. | May |
+| 31 | 661<br>521<br>3056<br>557 | 4151)07 | Frivate  | McGillivrnr, Willium   | Nit  | McGillivrav, Mr® | Otace Mny, C.B., N V............  |
+| 31 | 3147<br>537<br>3831<br>567 |  |  |  |  |  |  | Canada  | Digby  | 5. 1913. | April |
+| 31 | 661<br>549<br>2136<br>586 | 41.wo; | L.-Corporal  | McGrath, Harry W  | Nil   | McGrath, Mrs. Ad i |
+| 31 | 3146<br>568<br>3832<br>596 |  |  |  |  |  |  | Canada  | Sydney  | Mar. 23. 1913. |
+| 31 | 661<br>585<br>1842<br>613 | 415008 | Private  | McGregor. Hector R    | !>4t.h Reet  |
+| 31 | 662<br>597<br>3831<br>641 | 4i mo | Private  | . 1! 'i"h   | N U  | Mclnnes, Mrs  | 79 Cadogan St.. Glasgow, S^ofc  | Scotland  | Halifax  | Mar. 13. 1913. |
+| 31 | 662<br>627<br>3832<br>671 | 415013 | Private  | *>T.«:vtc, Daniel Sandy  | Nil  | Mclsaac, Mrs. Ai^v.« ntler.. | New Waterford, C.B., N.S    | Newfoundland.. | Sydney  | Mar. 25. 1913. |
+| 31 | 662<br>656<br>3831<br>700 | 41.W<! | Private.   | McKay, John Grant..   | Nil...'.  | McKay, Mrs    | Glace, Day, C.B., N.S  | Canada  | Glace Bay  | May 5. 1913. |
+| 31 | 661<br>686<br>3756<br>729 | 415072 | Privnte  | McKerrow, Robert  | Nil  | McKcrrow, Mrs. Mary.... | McKay’s Corner, Glace Bay, N.S  | Scotland.    | Aldershot   | .June 9, |
+| 31 | 2356<br>715<br>3833<br>746 |  |  |  |  |  | Rear River, Digby Co., N.S...,  | Canada   | Digby  | April 3, 1913. |
+| 31 | 662<br>723<br>2225<br>758 | 415501 | Private  | McKinnon, James Edward  | Nil  | MclChmon. John  |
+| 31 | 2353<br>745<br>3834<br>775 |  |  |  |  |  | Sydnoj', C.B., N.S   | Canada  | Sydney  | Mar. 23. 1913. |
+| 31 | 662<br>753<br>2226<br>787 | 41 5073 | L -C-nrpnral   | \trt Charles J  | 91th Regt  | McLean, Mr*. Rose  |
+| 31 | 1861<br>774<br>3835<br>810 |  |  |  |  | McLean, John  | Sydney Mines, C.B.. N.S    | U.S.A  | Sydney  | Aug. 9, lit*. |
+| 31 | 662<br>786<br>1841<br>816 |  |  | McLenn, John Jnmes  | 41511>.» | Private  | Nil  |
+| 31 | 2354<br>805<br>3835<br>833 |  |  |  |  |  | St rath I orne, C.B., N.S  | Canada  | Sydney   | Mar. 23, 1913. |
+| 31 | 662<br>812<br>2224<br>847 | 415074 | Privntie  | McLean, Joseph   | Nil  | ' loLcan, Alexander  |
+| 31 | 2359<br>834<br>3835<br>862 |  |  |  |  |  | Dominion No. 1, C.B., N.S  | Canada  | Valcartier  | July 13, 1313. |
+| 31 | 663<br>841<br>2226<br>874 | 115062 | Private  | McLr:m, Neil David  | NU  | McLeanv Mrs. Neil D... . |
+| 31 | 2359<br>863<br>3836<br>891 |  |  |  |  |  | New Aberdeen, C.B., N.S  | Canada  | Aldershot   | ■ 19,1913. |
+| 31 | 661<br>871<br>2226<br>902 | 415084 | Private  | Mel,can, Thomas Callahan  | NU  | McLean. Angus  |
+| 31 | 661<br>893<br>3836<br>931 | 415085 | Private  | McLean, Wilson  |  | Mr Lean, Mrs. Mary. ... . | Glace Bay, C.B., N.S  | Canada  | Aldershot  | May 24,1913. |
+| 31 | 661<br>922<br>3836<br>960 | 415070 | Privnte  | McLrli n, Daniel J  | Nil  | M’cLellan, Mrs. Anrn*  | Reserve Mines, C.B., N.S  | Canada  | Sydney  | May 3, 1913. |
+| 31 | 662<br>950<br>3836<br>988 | 414013 | Private  | McF/eod, Donald  | C.F.A  | McLeod, Mrs. Elizabeth.. | Mrs. H. D. McLeod, Westville, Pictou Co.* N.S. | Canada  | New Glasgow. | 3, 1915. |
+| 31 | 662<br>981<br>3837<br>1017 | 415142 | Frivate  | McLeod, Malcolm  | Nil  | McLeod, f>. B  | Sydney, C.B., N.S  | Canada  | Sydney  | 3. 1913. |
+| 31 | 662<br>1009<br>3836<br>1045 | 415078 | Private  | MrTveod, Willinm Clifton   | 04th Regt  | Mcl/eod, Mrs. Marcar't... | Vorth Sydney, C.B., N.S   | Canada..   | Mil snoot  | May 24, 1913. |
+| 31 | 662<br>1038<br>3836<br>1073 | 415077 | Private    | McT eod, William Donald........ | Nil  | McLeod, John D  | Big Bras d’Or, Victoria Co.. N.S  | Canada  | Sydney  | Mar. 31. 1913. |
+| 31 | 662<br>1068<br>3837<br>1104 | If-IOT!) |  |  | Nil  | McMaster, Mrs. Angus . . | Pictou, N.S  | Canada  | Sydney  | Mar. 27, 1913. |
+| 31 | 662<br>1097<br>3837<br>1131 | 414011 | Private.... | aster. ^cl<Ion Cumniings  | 75th Regt.  | Hied, David   | Truro, Colchester Co., N.S........   | Canada  | New Glasgow. | May 7, 1913. |
+| 31 | 662<br>1125<br>3838<br>1159 | 41-1844 | Private  | MacNoil, Charles Alexander  | Nil.....’:  | Mac Neil, Alexander   | Canadian Government S.S. " Tyrian,” Halifax, | Cana/la  | Aldershot  | Awg. | 8, 1913. |
+| 31 | 662<br>1154<br>3839<br>1189 | 415080 | Privnte*  | McNeil, John Martin  | Nil  | McNeil, Mrs. John A .. | Alexander St., Sydney, C.B., N.S  | Canada  | Valcartier  | Oct. | 8, 1915. |
+| 31 | 661<br>1185<br>3841<br>1219 | 415083 | Private  | McNeil, Michitel Jamcn  | 04th Regt  | McNeil, M  | Glace Bay, C.B., N.S   | Canada  | Val car tier  | Aug. | 6, 1915. |
+| 31 | 661<br>1214<br>3840<br>1248 | 415081 | Private  | McNeil* Joseph  | C.F.A..   | McNeil, John  | Sydney, O.B., N.S  | Canada  | Sydney  | May | 3. 1913. |
+| 31 | 662<br>1244<br>3839<br>1276 | 414693 | I’rivate   | McPhee, Neil Archibald  | NU  | MePheo, Genrge.   | Sydney Mines, C.B., N.S  | U.S.A  | Sydney  | Mar. 31.1915. |
+| 31 | 662<br>1270<br>3840<br>1307 | 415080 | Private  | McRae, Colin J  | 94 th Regt  | MOlUt, M. A  | West Lake, Ainslie. Inverness Co., N.S.  | Canada  | [Sydney  | Mar. 27. ttl*. |
+| 31 | 662<br>1298<br>3839<br>1341 | 4T5049 | Privnte  | Morgan, George  | Nil  | Morgan, Mrs. Anni"  | Caledonia, C.B., N.S...     | U.S.A  | jSvdney  | May 3, 1913. |
+| 31 | 662<br>1331<br>3840<br>1364 | 414228 | Private  | Morgan, William — .    | Nil  | Morgan, Mrs-. P...   | Long Pond, Conception Bay, Nfld  | Newfoundland | l\ldorshot  | Juuo 9, 1913. |
+| 31 | 662<br>1361<br>3841<br>1394 | 415050 | Private  | Morrison, John M. William  | 94 th Regt  | Morrison, Mrs. Annie | BaddeCk,<J.B., N.S ;  | Canada  | ydnny.  | Mar. 26, 1913. |
+| 31 | 662<br>1391<br>3840<br>1421 | 414505 | Sergeant  | Morson, Ernest  | Territorials  | Morson, Mrs. Ernest .... | Stellarton, Pictou Co., N.S..    | England  | New Glasgow | Mar. 30, 1913. |
+| 31 | 662<br>1420<br>3842<br>1449 | a i rjVi1) | i > _ i„ t. | i rn are.   |  | Miroroe, James  | Sydney River, C.B., N.S  | Canada  | Sydney   | Mar. 26, 1913. |
+| 31 | 663<br>1438<br>3841<br>1479 | 414513 | Private  | Mirrrny, Donah? Robert  | kil  | Murray, Mrs. Catherine.. | New Glasgow, Pictou Co., N.S  | Canada  | New Glasgow. | Mar. 30, 1913. |
+| 31 | 663<br>1477<br>3842<br>1508 | 414521 | Corporal  |  | 78th Regt | iMurray, Mrs. DanM  | Pleasant Valley, Pictou Co., N.S  | Canada  | New Glasgow. | May 7, 1915. |
+| 31 | 663<br>1506<br>3843<br>1542 | 415503 | Private  | Murree, Hurry Stanley  | C.F.A  | Mnrree, Mrs. Henry  | Yarmouth, N.S  | Canada  | Yarmouth  | April 10, 1913. |
+| 31 | 664<br>1535<br>3844<br>1565 | 415054 | Private  | i ni ford, Wfllhim  | Nil  | ‘Mntfonl. Mrs. Anrrie  | Twillingatc, Nfld  | Newfoundland. | Glacc Bay  | Mar. 31, 1913. |
+| 31 | 663<br>1563<br>3846<br>1595 | 415055 | Private  | Mvers. Nspolron  | Nil  | Myers, Mrs. Sarah  | Sydney, C.B., N.S  | Canada  | Sydney  | Mar. 23,1911 |
+| 31 | 664<br>1593<br>3845<br>1623 | 414-105 | Private  | Nicholp, John  | 00th Regt  | Nichol*, Mrs. Helen  | Tulip St., Dartmouth, N.S  | Canada  | Halifax  | Aug. 2, 1913. |
+| 31 | 664<br>1621<br>3844<br>1651 | 415590 | Private  |  | Nil  | O’Connell, Mrs. George.. | Yarmouth, N.S  | Canada  | Yarmouth  | April 10. 1913. |
+| 31 | 664<br>1651<br>3846<br>1680 |  | Privnte  | 415508 |  | I>’Connell, Mrs. May.... | Main St., Yarmouth, N.S   | Canada  | Halifax  | June 18.1913. |
+| 31 | 664<br>1680<br>3846<br>1708 |  | ■S<Tr7*nnt  | 414.500 | Olirer, Arthur  | Imp. Forces  | Oliver, Mrs. Arthur  | 27 Havelock 8t., Amherst .Cumberland Co., N | England  | Amherst  | Mar. 17,1913. |
+| 31 | 664<br>1707<br>3847<br>1737 | 4H117 | Private  | O’Neil, Ilob<*rt Newton  | Nil  | O’Neil, Mrs. Edward... | Rivorsdale, Colchester Co., N.S  | U.S.A  | Aldershot  | May 10,1913- |
+| 31 | 761<br>1738<br>3847<br>1768 |  | i 1AtnArnI | *_orpor«i. ........ |  | Parkinson, John  | Svdney, C.B., N.S   | England  | Sydney  | Mar. 2«5, 1913. |
+| 31 | 664<br>1766<br>3847<br>1797 | 415089 | Private  |  | Nil  | Parkinson, John  | Sydney, C.B., N.S  | England  | Sydney  | Mar. 25, 1913. |
+| 31 | 664<br>1796<br>3848<br>1825 | 411021 | Privato  | 1’artncr, Cyril  | Nil  | Partner, Mrs. Annie  | Stellarton, Pictou Co., N.S  | ngland  | New Glasgow. | Mnr. 31,1915. |
+| 31 | 665<br>1824<br>3848<br>1854 | 415090 | Privnte  | .Pennington, Jnmos.   | Territorials...  | Pennington, Mrs. Ellen... | 111 Dominion No. 4, C.B., N.S  | England  | Aldershot  | Mny 24, 1915. |
+| 31 | 665<br>1853<br>3848<br>1884 | 415003 | Privnte  | I’ettitt, Albert O  | Nil  | Pettitt, Edward  | OS Croydon Rd., Plaistow, London, Eng  | England..  | Valcartier  | July 13. 1915. |
+| 31 | 665<br>1883<br>3848<br>1914 | 415002 | Privnte  | Porter, John  | Nil  | Porter, Mrs. J  | 75 Greenhill Rd., Rutherglen, Glasgow, Scot  | Scotland  | Svdney  | Mar. 26, 1915. |
+| 31 | 665<br>1911<br>3849<br>1942 | 414272 | Private  | Price, Frank O  | Nil  | Price, Isaac   | Middlefield, Quoens Co., N.S  | Cannda  | V alcartier. | Aug. 6,1915. |
+| 31 | 666<br>1941<br>3849<br>1972 | 415095 | Private  | I’roucht, Peter L  | Nil  | Prought, Mrs. Daniel.... | Sydney, C.B., N.S  | Canada  | Sydney   | Mar. 27,1915. |
+| 31 | 667<br>1970<br>3850<br>1999 |  |  | Hatchlonl, Charles F  | A14072 | Private  | Nil  | Itntrhford, C. E  | c/o Customs Dent., Amherst, Cumberland Co., N.S.. | Canada  | Amherst  | Mar. 31, 1915. |
+| 31 | 667<br>1998<br>3852<br>2030 | 414::42 | 1. -Corporal  | Heid, William  | Nil  | Watters, Mrs. Clara | Creighton St., Halifax, N.S      | Newfoundland. | Halifax , .. | July 7,19lx |
+| 31 | 667<br>2028<br>3851<br>2059 | 415000 | Private  | Koynolds, John . . ....7  | Nil  | Reynolds, Mrs. L  | Chailo’s Cove, Guysboro’ Co., N.S..  | Canada  | Valcartier ... | July 13, 1915. |
+| 31 | 668<br>2057<br>3852<br>2089 | 414075 | Private  | Rhodiaer, Roubin  | R.C.R  | Rhodiscr, Jacob ....... | .(Bridgewater, Lunenburg Co., N.S    | Canada  | Halifax  | Mar. 13, 1915. |
+| 32 | 955<br>651<br>3441<br>682 |  |  | Former Corps. |  |  | Country of |
+| 32 | 772<br>797<br>3939<br>829 | 4151.15 Private  | Richards, George Gower  | Nil  | Richards, John  | North Svdney, C.B., N.S  | Newfoundland.. | Sydney  | Mar. 31, | 1915. |
+| 32 | 772<br>828<br>3940<br>858 | 415006 Private  | Robar, Charles A  | Nil  | Robar, Leandcr.    | Torbrook, Annnpolis Co., N.S   | Canada  | Liverpool  | April 13, | 1915. |
+| 32 | 772<br>857<br>3938<br>887 | 414526 Corporal  | Roberts, Harold Allen  | Nil  | Roberts, Harry  | Albert St., New Glasgow, Pictou Co., N.S  | Canada  | Amherst  | Mar. 17, | 1915. |
+| 32 | 771<br>886<br>3940<br>917 | 414036 Private  | Robinson, Frederick James  | R.C.G.A  | Robinson, Mrs. Margaret Ann.. | Stellarton, Pictou Co., N.S  | England  | New Glasgow. | Mar. 31, | 1915. |
+| 32 | 771<br>915<br>3939<br>945 | 415530 Corporal  | Robinson, Richard Benjnman  | NU  | Robinson, Howard   | Yarmouth, N.S  | Canada  | Yarmouth  | April 10, | 1915. |
+| 32 | 770<br>944<br>3940<br>974 | 414143 Private  | Rodenhiser, Arthur Sinclair  | 75 th Regt  | Rodenhiser, Charles  | Anbumdale, Lunenburg Co., N.S  | Canada  | Halifax  | April 28, | 1915. |
+| 32 | 771<br>970<br>3940<br>1003 | 414141 L.-Corporal  | Rodenhiser, Edward James  | 75th Regt  | Rodenhiser, Charles..   | Auburndale, Lunenburg Co., N.S   | Canada  | Halifax  | April 28, | 1915. |
+| 32 | 770<br>1001<br>3940<br>1032 | 415608 Private  | Rogers, Grant William  | Nil  | Rogers, William   | Coldbrook Station, Kings Co., N.S  | Canada  | Kentville  | April 7, | 1915. |
+| 32 | 770<br>1030<br>3940<br>1061 | 415516 Corporal  | Rogers, Robert Lindsay  | Nil  | Rogers, Mrs. Joseph R   | Yarmouth, N.S  | Canada  | Yarmouth  | April 12, | 1915. |
+| 32 | 770<br>1059<br>3939<br>1089 | 414071 Private  | Riishton, Royal  | Nil  | Rushton, Mrs. Jennie  | P.O. Box 562, Truro, Colchester Co., N.S  | Canada  | Amherst  | May 6, | 1915. |
+| 32 | 770<br>1088<br>3940<br>1119 | 414670 Private  | Rutledge, Edward  | Nil  | Rutledge, Mrs Mnrv  | Westmoreland Pt., N.B  | Canada  | New Glasgow. | Mar. 30, | 1915. |
+| 32 | 770<br>1112<br>3939<br>1149 | 415001 Sergeant  | Samuel, Andrew  | Nil  | Samuel, Mrs. Emma  | New Waterford, C.B., N.S  | Scotland  | Sydney  | Mar. 20, | 1915. |
+| 32 | 769<br>1146<br>3941<br>1178 | 415014 Private  | Sankey, William  | Nil  | Sankey, William  | 100 Rotton Rd., Ashton-in-Makerfield, Lanes., Eng.... | England  | Sydney  | Mar. 25, | 1915. |
+| 32 | 770<br>1176<br>3941<br>1205 | 414229 Private    | Sexton, Henry  | Nil  | Sexton, John  | Bona vista, Nfld  | Newfoundland. | Aldershot  | June 9, | 1915. |
+| 32 | 770<br>1200<br>3941<br>1235 | 4156112 Private  | Silver, Floyd Joseph  | 78th Regt  | Silver, Willoughby  | r/o Q. 8. Campbell <k Co., Hnlifax, N.S  | Cannda  | Yarmouth  | April 23, | 1915. |
+| 32 | 769<br>1230<br>3942<br>1264 | 414635 Privato  | Simmons, Amos Edward  | Nil  | Simmons, Mrs Elizabeth   | 99 East Pleasant St., Amherst, Cumberland Co., N.S. | Canada  | Amherst  | Mar. 14, | 1915. |
+| 32 | 768<br>1259<br>3942<br>1294 | 414102 Private  | Simpson, Stanley  | 93 rd Regt  | Simpson, H. P  . . .... | 48 Spring St., Amherst, Cumberland Co., N.S  | Canada  | Halifax  | May 4, | 1915. |
+| 32 | 768<br>1287<br>3943<br>1323 | 41462!) Private  | Sinclair, Jnmes Daniel  | 78th Regt  | Sinclair, Mrs. Isabelle  | Mount 'I hom, Pictou Co., N.S  | Canada  | New Glasgow. | May 8, | 1915. |
+| 32 | 769<br>1316<br>3944<br>1353 | 415009 Sergeant  | Small, Douglas F  | Nil  | Small, David   | Loohland Cottage, Forfar, Scot  | Scotland  | Sydney  | Mar. 27, | 1915. |
+| 32 | 769<br>1346<br>3944<br>1381 | 414329 Private  | Small, Robert  | 12th Dragoons. | Small, Mrs. Catherine  | 4 George St., Whiteinch, Glasgow, Scot  | Scotland.   | Kentville.. | July 20, | 1915. |
+| 32 | 771<br>1378<br>3944<br>1410 | 414639 Private  | Smith, Cecil Lester  | Nil.:  | Smith, Mrs. Elizabeth  | 14 Davison St., Amherst, Cumberland Co., N.S  | Canada  | Amherst. . | Mar. 18, | 1915. |
+| 32 | 770<br>1408<br>3944<br>1439 | 415616 Private  | Smith, Frederick  | Nil  | Smith, Miss Florence  | Gen. Del., Halifax, N.S  | Newfoundalnd.. | Yarmouth. | April 10, | 1915. |
+| 32 | 770<br>1438<br>3945<br>1468 | 414245 Private  | Smith, John  | Nil    | Not stated   | Not Stated  | England  | Aldershot. | June 19, | 1915. |
+| 32 | 770<br>1465<br>3945<br>1498 | 415121 Private  | Smith, John  | Territorials.... | Smith, Mrs. Emma F  | Glace Bay, C.B.,‘ N.S  | England  | Sydney.... | Mar. 27, | 1915. |
+| 32 | 770<br>1495<br>3946<br>1526 | 414630 Private  | Smith, John G  | Nil  | Smith, Robert  | Thorburn, Pictou Co., N.S  | Canada  | New Glasgow. . | Mar. 3, | 1915. |
+| 32 | 771<br>1524<br>3946<br>1556 | 415015 Private  | Spencer, Clement A..   | Nil  | Spencer, Mrs. Mary  | Caledonia Mines, C.B., N.S  | England  | Sydney  | Mar. 25, | 1915. |
+| 32 | 771<br>1547<br>3947<br>1583 | 415017 Private  | Starratt, Mark Albion  | Nil  | Starratt, Charles A  | Port Lome, Annnpolis Co., N.S  | Canada  | Middleton... | April 14, | 1915. |
+| 32 | 771<br>1581<br>3947<br>1612 | 415621 Privato  | Steele, Elizer  | NU  | Mooney, Mrs. Alice  | Northern Bay, Nfld  | Newfoundland.. | Yarmouth... | April 12, | 1915. |
+| 32 | 772<br>1605<br>3948<br>1642 | 414202 Private  | Stephenson. Charles  | 66th Regt  | Jessup, Mrs  | 139 Easton Rd., London, E.C., Eng  | England  | Aldershot... | June I, | 1915. |
+| 32 | 772<br>1636<br>3948<br>1670 | 414197 Private....  | St. Peter, Thomas F  | Nil  | St. Peter, Mrs. Rosanna  | Maeean, Cumberland Co., N.S  | Canada  | Aldershot... | June 1, | 1915. |
+| 32 | 773<br>1668<br>3947<br>1699 | 414248 Private...  | Surrick, Doniel  | Nil  | Surrick, Richard  | Cupids, Nfld  | Newfoundland.. | Halifax  | June 15, | 1915. |
+| 32 | 773<br>1696<br>3948<br>1729 | 415099 Private  | Sutherland, John Leo  | Nil  | Sutherland, Michnel  | Sydney Mines, C.B., N.S  | Canada  | Valcartier. .. | July 13, | 1915. |
+| 32 | 773<br>1726<br>3949<br>1757 | 415622 Private  | Swnin, Frederick  | Nil  | Swain, Mrs. Mary Jane  | Yarmouth, N.S  | Canada  | Yarmouth ... | April 12, | 1915. |
+| 32 | 773<br>1756<br>3949<br>1788 | 414192 Private  | Tnylor, Walter  | Nil  | Taylor, James  | St.John's, Nfld  | Newfoundland. | Aldershot .. | May 29, | 1915. |
+| 32 | 773<br>1785<br>3949<br>1817 | 415522 Private  | Thimot, Melbourne  | Nil  | Thimot, Mrs. Annie.  | Snulnierville, Digby Co., N.S  | Canada  | Digby  | May 10, | 1915. |
+| 32 | 774<br>1815<br>3950<br>1846 | 415624 Private  | Thimot, Odelphn.   | Nil  | Thimot, Moses  | ?»ulnierville, Digby Co., N.S  | Canada  | Yarmouth  | April 10, | 1915. |
+| 32 | 774<br>1842<br>3950<br>1875 | 414172 Private  | Tupper, John Nathaniel  | Nil  | Tupper, Mrs. Rhoda L  | Head St. Margnret's Bay, Halifax, N.S  | Canada  | Halifax  | May 10, | 1915. |
+| 32 | 774<br>1870<br>3951<br>1905 | 414638 Private  | Turton, Robert  | Nil  | Turton, Mrs. Sarah Alice  | Stellarton, Pictou Co., N.S  | England  | New Glasgow. . | Mar. 31, | 1915. |
+| 32 | 774<br>1900<br>3952<br>1934 | 415626 Private  | VanTassel, Alexander  | Nil  | Van Tassel, Mrs. .Minnie.  | Mount Pleasant. Cumberland Co., N.S  | Canada  | Digby  | May 6, | 1915. |
+| 32 | 775<br>1932<br>3952<br>1964 | 415703 Private  | Wnlker, Harry  | Territorials  | Walker, Miss Jessie.   | Sydney Mines, C.B., N.S  | Englnnd  | Aldershot  | July 29, | 1915. |
+| 32 | 775<br>1959<br>3952<br>1992 | 411217 Private  | Wallace, Haliburton  | Nil  | Wallace, Mrs. Hattie  | Shubenacadie, Hants Co., N.S  | Cannda  | Halifax  | June 5, | 1915. |
+| 32 | 775<br>1987<br>3953<br>2022 | 415428 Privato  | Ward, Claude Wilton  | Nil  | Ward, Harry.   | Sydney, C.B., N.S  | Cnnada  | Sydney  | Mar. 26, | 1915. |
+| 32 | 776<br>2019<br>3952<br>2050 | 415830 Privnte  | Warren, Lcander Dome.nic  | C.F.A  | Warren, Mrs. II. I'    | Smiths Cove, Digby Co., N.S  | U.S.A  | Digby  | April | .1915. |
+| 32 | 776<br>2047<br>3953<br>2082 | 415635 L.-Corpornl  | Wengle, Freeman George  | Nil  | Weagle. Jncob   | Conquemll Banks, I,unenburg, N.S  | Canada  | Bridgewater  | April 17 | . 1915. |
+| 32 | 777<br>2077<br>3954<br>2108 | 414060'Privnte | Webb, George Frederick   | Nil  | iWehb, Mrs. Martha  | 24 Charles St., Halifax, N.S  | Canada  | Am herst  | Mny 10 | .1915. |
+| 32 | 778<br>2104<br>3954<br>2137 | 415631 | Welsh, John R    |  | Welsh, Mrs. Eugenie   | Saulnierville. Digby, N.S  | Canada  | Aldershot  | June 15 | , 1915. |
+| 32 | 776<br>2136<br>3955<br>2167 | 415342 | Werther, Charles Frederick  | Nil.  | Werther, Francis O   | 97 Intercolonial St., Montreal, P.Q  | U.S.A  | Sydney  | Aug. | . 1915. |
+| 32 | 777<br>2163<br>3954<br>2198 | 414659 | White, Jack  | Nil  | Whito, Annie  | 16 South Albion St., Amherst, Cumberland Co., N.S. | Canada   | Amherst  | Mar. 18 | . 1915. |
+| 32 | 778<br>2193<br>3954<br>2227 | 415105 | Whitehead, William Henry  | Nil  | 'Whitehead, Mrs. Mnrgaret  | 7 Wath Rd., Mei'iorough, Yorks., Eng  | England   | Glace Bay  | Mar. 31 | 1915. |
+| 33 | 640<br>272<br>3809<br>309 | 414341 | Private. | Whitney, Lawrence Willinm.. | S. A  | ■ Whitney, Mrs. Harriet.. | 84 Sullivan St.. Toronto, Ont. | Canada  | Kentville  | July | 20,1915. |
+| 33 | 642<br>302<br>3809<br>338 | 114280 | Private. | Widgery, Charles Edward... | Nil  | Widgery, Charles  | 108 Lawrence St., Halifax, N.S | Canada  | Halifax  | June | 12, 1915. |
+| 33 | 644<br>332<br>3810<br>370 | 116078 | Privnte. | Wile, Clyde Archibald  | Nil  | Wile. Archibald 8  | Lapland, Lunenburg Co., N.S |  | Bridgewater  | April | 19,1915. |
+| 33 | 639<br>362<br>3810<br>402 | 414040 | I Private. | Williams, Albert  | Nil  | . Williams, Mrs. Georgina | Stellarton, Pictou Co., N.S... . | Canada  | New Glasgow. . | Mar. | 31. 1915. |
+| 33 | 639<br>391<br>3811<br>428 | 4 1404 | I Private. | Williams, James Elisha  | 78th Reet | Williams, Mrs. Gcoreina | Stellarton, Pictou Co., N.S. . | Canada  | New Glasgow | May | 1, 1915. |
+| 33 | 637<br>417<br>3810<br>458 | 415030 | Private, | Williams, John Lewis  | Nil  . | W illiams, Alexander ... | Yarmouth, N.S.    .. | Canada  | Yarmouth  | April | 12, 1915. |
+| 33 | 637<br>450<br>3811<br>489 | 415032 | i Private. | Woodworth, Walter Benjamin | 08th Regt | Woodworth, George.... | Rockland, Kings Co.. N.S... . | (’anada  | Kentville  | April | 7, 1915. |
+| 33 | 639<br>479<br>3810<br>521 | 415230 | I Privatr. | Wynn, Joseph  | 04th Regt | Wynn, Mrs. Annie  | Glace Bay, C.B., N S  | England  | Aldershot  | July | 29, 1915. |
+| 33 | 639<br>508<br>3812<br>545 | 41523: | I Private. | Wynn, Thomas  | 94th Regt | Wynn, Mrs. Annie  | Dominion No. 4, C.IV, N.S . | England  | Aldershot  | July | 29, 1915. |
 {% endraw %}

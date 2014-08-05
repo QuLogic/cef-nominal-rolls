@@ -1,9 +1,10 @@
 ---
 title: 250th Battalion
+wide: wide
 ---
 
 {% raw %}
-| | | | | | |
-| --- | --- | --- | --- | --- | --- |
-| 1 |  |  |  |  | Ajo |
+| Page | Bounds | |
+| --- | --- | --- |
+| 1 | <br><br><br> | Ajo |
 {% endraw %}

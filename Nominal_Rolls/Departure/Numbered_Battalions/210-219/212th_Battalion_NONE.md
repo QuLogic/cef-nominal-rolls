@@ -1,9 +1,10 @@
 ---
 title: 212th Battalion NONE
+wide: wide
 ---
 
 {% raw %}
-| | | | | |
-| --- | --- | --- | --- | --- |
-| 1 |  |  |  |  |
+| Page | Bounds |
+| --- | --- |
+| 1 | <br><br><br> |  |
 {% endraw %}

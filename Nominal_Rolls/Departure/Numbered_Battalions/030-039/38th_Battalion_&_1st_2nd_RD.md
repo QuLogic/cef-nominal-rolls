@@ -1,1548 +1,1549 @@
 ---
 title: 38th Battalion & 1st 2nd RD
+wide: wide
 ---
 
 {% raw %}
-| | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 38th BATTALION | also | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 38th Battalion | EMBARKATION | Port: Halifax. | Ship: S.S. "Caledonian." | Date: August 8th, 1915. | 10tn-6-16. | H.Q. 593-2.29. | 1st Reinforcing Draft | 2nd Reinforcing Draft | Montreal. | 5.5. “Northland." | May 29th, 1915. | Montreal. | 5.5. " Missanabie." | June 24th, 1915. |
-| 2 | 887 | 620 | 3348 | 652 |  | Former Corps. |  | Country of |
-| 2 | 798 | 764 | 3837 | 796 |  |  |  |  | Ottawa  | Feb. | 1 | 1915. |
-| 2 | 3156 | 793 | 3837 | 818 |  |  |  | Canada  | Ottawa  | Feb. | 1 | 1915. |
-| 2 | 2369 | 822 | 3837 | 854 |  |  |  | Canada  | Ottawa  | April | 1 | 1915. |
-| 2 | 1568 | 851 | 3837 | 880 |  | G.G.F.G  |  | Canada  | Ottawa  | Feb. | 1 | 1915. |
-| 2 | 3154 | 880 | 3836 | 904 |  |  |  | Canada  | Ottawa  | Mar. | 24 | 1915. |
-| 2 | 3154 | 909 | 3836 | 934 |  |  |  | Canada  | Ottawa  | Feb. | 1 | 1915. |
-| 2 | 1863 | 938 | 3836 | 971 |  |  | Parkinson, Mrs. Carrie Beatrice... | Canada  | Ottawa  | Feb. | 1 | 1915. |
-| 2 | 3637 | 967 | 3836 | 989 |  |  |  |  |  | Mar. | 24 | 1915. |
-| 2 | 3394 | 996 | 3836 | 1020 |  |  |  |  | Ottawa  | Feb. | 1 | 1915. |
-| 2 | 3153 | 1025 | 3835 | 1050 |  |  |  | Canada  | Bermuda  | Dec. | If) | 1915. |
-| 2 | 3152 | 1054 | 3835 | 1079 |  |  |  | Canada  | Ottawa  | Feb. | 1 | 1915. |
-| 2 | 3152 | 1082 | 3835 | 1108 |  |  |  | Canada  | Cornwall  | July | 31 | 1915. |
-| 2 | 1562 | 1112 | 3834 | 1141 |  | C.A.M.C... |  | Canada  | Cornwall  | Feb. | 8 | 1915. |
-| 2 | 3152 | 1140 | 3834 | 1167 |  |  |  | Canada  | Ottawa  | May | 25 | 1915. |
-| 2 | 1563 | 1169 | 3834 | 1199 |  | R.O   |  | Canada  | Ottawa  | Feb. | 1 | 1915. |
-| 2 | 3151 | 1198 | 3833 | 1223 |  |  |  | Canada  | Ottawa  | Feb. | 1 | 1915. |
-| 2 | 3151 | 1227 | 3834 | 1252 |  |  |  | Canada  | Ottawa  | Feb. | 17 | 1915. |
-| 2 | 1561 | 1256 | 3834 | 1290 |  | G.G.F.G... | Bell, Mrs. B. T. A  | Canada  | Ottawa  | Feb. | 1 | 1915. |
-| 2 | 3151 | 1285 | 3834 | 1313 |  |  |  | Canada  | Barriefield Cmp | July | 28 | 1915. |
-| 2 | 1561 | 1314 | 3834 | 1344 |  | G.G.F.G  |  | Canada  | Bermuda  | Nov. | 26 | 1915. |
-| 2 | 3151 | 1343 | 3834 | 1368 |  |  |  | Canada  | Ottawa  | July | 31 | 1915. |
-| 2 | 3392 | 1371 | 3833 | 1396 |  |  |  |  | Ottawa  | Feb. | 1 | 1915. |
-| 2 | 1859 | 1400 | 3834 | 1432 |  |  | Hill, W. H |  | Barriefield  | July | 31 | 1915. |
-| 2 | 3393 | 1429 | 3833 | 1453 |  |  |  |  | Barriefield  | July | 31 | 1915. |
-| 2 | 3393 | 1457 | 3834 | 1483 |  |  |  |  | Ottawa  | Mar. | 24 | 1915. |
-| 2 | 3151 | 1486 | 3834 | 1516 |  |  |  | England  | Bermuda  | Nov. 27 | 1915. |
-| 2 | 3151 | 1515 | 3834 | 1542 |  |  |  | Canada  | Barriefield  | July | 31 | 1915. |
-| 2 | 3151 | 1544 | 3834 | 1571 |  |  |  | Canada  |  | Feb. | 1 | 1915. |
-| 2 | 1558 | 1573 | 3834 | 1603 |  | G.G.F.G |  | Canada  |  | July | 28 | 1915. |
-| 2 | 3151 | 1601 | 3834 | 1628 |  |  |  | Canada  | Barriefield  | July | 31 | 1915. |
-| 2 | 3635 | 1630 | 3834 | 1653 |  |  |  |  |  | Feb. | 1 | 1915. |
-| 2 | 3392 | 1659 | 3834 | 1685 |  |  |  |  | Bermuda  | Sept. | 1 | 1915. |
-| 2 | 3151 | 1688 | 3834 | 1715 |  |  |  | Canada  | Barriefield  | July | 31 | 1915. |
-| 2 | 3632 | 1716 | 3834 | 1741 |  |  |  |  |  | July | 29 | 1915. |
-| 2 | 3392 | 1745 | 3834 | 1771 |  |  |  |  | Barriefield  | July | 31 | 1915. |
-| 2 | 684 | 1774 | 3834 | 1805 |  | Nil | 410669 |  | Lindsay  | May | 8 | 1915. |
-| 2 | 3392 | 1803 | 3834 | 1829 |  |  |  |  | Barriefield  | July | 9 | 1915. |
-| 2 | 683 | 1832 | 3834 | 1863 | 410232 |  |  | England : | Barriefield Cmp | July | 23 | 1915. |
-| 2 | 682 | 1860 | 3834 | 1892 | 410004 | Nil |  |  | Ottawa  | April 14 | 1915. |
-| 2 | 682 | 1889 | 3833 | 1921 | 410233 | Nil |  |  |  | Mar. | 1 | 1915. |
-| 2 | 681 | 1918 | 3833 | 1950 | 410234 | Nil |  |  | Ottawa  | Mar. | 1 | 1915. |
-| 2 | 681 | 1947 | 3833 | 1975 | 410671 |  |  |  | Lindsay  | May | 10 | 1915. |
-| 2 | 680 | 1976 | 3833 | 2003 | 410441 |  |  |  | Ottawa  | April 28 | 1915. |
-| 2 | 680 | 2006 | 3834 | 2037 | 410005 | Nil |  |  |  | July | 9 | 1915. |
-| 2 | 679 | 2034 | 3834 | 2065 | 410442 | Nil |  |  | Dttawa  | April 28 | 1915. |
-| 2 | 679 | 2067 | 3834 | 2094 | 410672 | Nil |  |  |  | 26 | 1915. |
-| 2 | 678 | 2094 | 3834 | 2123 | 410673 | Nil |  |  |  | Mar. | 26 | 1915. |
-| 2 | 678 | 2123 | 3834 | 2151 | 410674 | Nil |  |  |  | May | 26 | 1915. |
-| 2 | 677 | 2149 | 3833 | 2187 |  |  |  |  |  | July | 410006iPrivate  | Nil  | Ashley, George  | Barriefield. . . | 9 | 1915. |
-| 3 | 1243 | 345 | 3512 | 382 |  |  | Nil  | Atkinson, John  | P.O., Billings Bridge, Ont  | England  |  |  | 1 | 1915. |
-| 3 | 1537 | 376 | 3512 | 411 |  |  |  | Attwood, Horace  | City Bldgs., Kingston, Ont  | England  | Kingston  | June | 4 | 1915. |
-| 3 | 366 | 398 | 3511 | 440 | 410443 Private  |  | Nil  | Donovan, Nellie  | 19^ Nicholas St., Ottawa, Ont  | England  |  |  | 98 | 1915. |
-| 3 | 366 | 427 | 3511 | 469 | 410444 Private  |  |  | Babcock, Miss Mary  | 12 Victoria Ave., Brockville, Ont  | Canada  | Ottawa  | April 28 | 1915. |
-| 3 | 1241 | 461 | 3510 | 497 |  |  | Nil  | Baber, Mrs. Minnie  | 3 Sussex St., Lindsay, Ont  | England  | Lindsay  | May | 25 | 1915. |
-| 3 | 1240 | 491 | 3510 | 527 |  |  | Nil  | Backs, Peter  | Leitrim, Ont  | Canada  | Ottawa  | Feb. | 26 | 1915. |
-| 3 | 734 | 516 | 3510 | 556 |  | Bailey, Ruben P  |  | Fowler, A  | R.R. No. 1, Billings Bridge, Ont  | England  |  | Feb. | 24 | 1915. |
-| 3 | 1241 | 548 | 3510 | 585 |  |  | Nil  | Bailie, Mrs. Catherine | R.R. No. 2, Billings Bridge, Ont  | Canada  | Ottawa  | Feb. | 24 | 1915. |
-| 3 | 1240 | 577 | 3509 | 613 |  |  | Nil  | Baker, George W  | 11 Hook Ave., West Toronto, Ont  | England  |  | July | 24 | 1915. |
-| 3 | 1238 | 606 | 3509 | 643 |  |  | C.F.A  | Baker, Mrs. Elizabeth  | 47 Loosa Rd., Maidstone, Kent, Eng  | England  |  | June | 9 | 1915. |
-| 3 | 1536 | 640 | 3508 | 671 |  |  |  | Ball, Mrs. Alice  | Ottawa West, Ont.  | Canada  |  | Feb. | 22 | 1915. |
-| 3 | 735 | 661 | 3508 | 700 |  | Bali, Charles G  | Nil  | Ball, Mrs. C  | 112 Lincoln St., Bristol, Eng  | England  |  |  | 25 | 1915. |
-| 3 | 734 | 690 | 3508 | 730 |  | Ball, John Stephen P.     | Nil  | Bali, Mrs. Susan A  | Alexandria, Ont    | England  | Barriefield  | July | 31 | 1915. |
-| 3 | 1535 | 727 | 3508 | 759 |  |  |  | Ball, Mrs. Hanna  | 27 Devonshire St., Brighton, Sussex, Eng. | Engiand  | Barriefield  | July | 9 | 1915. |
-| 3 | 734 | 748 | 3507 | 786 |  | Bannerman, John  | Nil  | Bannerman, Mrs. Jane  | 229 Echo Drive, Ottawa, Ont  | Canada  |  | Feb. | 24 | 1915. |
-| 3 | 1238 | 780 | 3507 | 817 |  |  | C.F.A  | Bannerman, Hugh  | 225 Sunny side Ave., Ottawa, Ont  | Scotland  |  | June | 10 | 1915. |
-| 3 | 1536 | 813 | 3507 | 846 |  |  |  | Bannister, Mrs. Ada  | Trodmore St., Welford, Northants, Eng.., | England  | Barriefield  | July | 28 | 1915. |
-| 3 | 1241 | 839 | 3507 | 875 |  |  | Nil... | Harvey, Sarah  | 22 Rotherdam Rd., Lowestoft, Eng  | England  | Barriefield  | July | 9 | 1915. |
-| 3 | 363 | 863 | 3507 | 903 | 410447 Private  | Barker, Ralph Frederick  | Nil  | O’Neil, Mrs. J. H  | 268 Bartholomew St., Brockville, Ont  | Canada  |  | April 28 | 1915. |
-| 3 | 364 | 892 | 3507 | 932 | 410015 Private  | Barnett, Frederick Charles  | S. A  | Barnett, Mrs. Esther H  | 250 Catharine St., Ottawa, Ont   | England  |  | Mar. | 5 | 1915. |
-| 3 | 363 | 920 | 3507 | 962 | 410448 Corporal  | Barnhart, Angus Edmund  |  | Barnhart, John  | 79 Wall St., Brockville, Ont   | Canada  |  | April 28 | 1915. |
-| 3 | 363 | 949 | 3507 | 989 | 410678 Private  | Barr, John  | Nil  | Barr, Mrs. Nicholl  | 17 Fern Ave., Toronto, Ont   | Scotland  |  | Mar. | 20 | 1915. |
-| 3 | 363 | 979 | 3507 | 1019 | 410679 Private  | Barrett, Thomas Alfred  | Nil  | Cusson, Miss Rose  | 71 Lyndale Ave., Ottawa, Ont   | England  |  | May | 26 | 1915. |
-| 3 | 363 | 1007 | 3506 | 1048 | 410680 Private  | Barrington, Patrick  | Nil  | Barrington, Peter  | Carhuclough, Ennistymon, Clare, Ire  | Ireland  |  | May | 7 | 1915. |
-| 3 | 362 | 1037 | 3506 | 1077 | 410237 Private  | Bartlett, Guy  | Nil  | Bartlett, Herbert  | Sherborn, Mass., U.S.A  | England  |  | May | 20 | 1915. |
-| 3 | 363 | 1065 | 3506 | 1105 | 410016 Private  |  | Nil... | Barton, Mrs. Olive G   | Cobourg, Ont  | England  | Cobourg  | May | 18 | 1915. |
-| 3 | 362 | 1094 | 3505 | 1134 | 410017 Private  |  | R.C.D... | Bateman, Mrs. Kate   | 202 Somerset St., Ottawa, Ont  | England  | Barriefield Cmp | May | 28 | 1915. |
-| 3 | 362 | 1123 | 3505 | 1163 | 410018 Private  |  | R.C.H.A  | Bates, Mrs. Jennett  | 329 Montreal St., Kingston, Ont  | Canada  | Kingston  | May | 25 | 1915. |
-| 3 | 362 | 1153 | 3506 | 1191 |  |  | Nil  | 410238 Private  | Beach, Silas Edgar  | Pembroke, Ont  | Canada  | Barriefield Cmp | July | 23 | 1915. |
-| 3 | 362 | 1181 | 3506 | 1220 | 410019 Private  |  | Nil  | Beaupre, Mrs. Josephine...., | 582 Lisgar St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 24 | 1915. |
-| 3 | 362 | 1210 | 3506 | 1249 | 410450 Private  |  | Nil  | Bedford, Joseph   | Moulinette, Ont  | England  |  | Jan. | 8 | 1915. |
-| 3 | 361 | 1239 | 3505 | 1278 | 410020 Private  |  | Nil  | Beedell, Mrs. Mary  | Mountain Rd., Hull, P.Q  | England  |  | Feb. | 24 | 1915. |
-| 3 | 360 | 1268 | 3504 | 1307 | 410021 Private  |  | Nil  | Beer, Mrs. Margaret Jane | England..  | England  | Ottawa  | Feb. | 26 | 1915. |
-| 3 | 731 | 1298 | 3505 | 1335 |  | Belair, Moses     | Can. Mil  | Belair, David   | Alexandria, Ont  | Canada  | Barriefield Cmp | July | 6 | 1915. |
-| 3 | 360 | 1326 | 3504 | 1365 | 410022 Private  |  |  | Liberty, Mrs. John   | 312 Gladstone Ave., Ottawa, Ont  | Canada  | Ottawa  | May | 17 | 1915. |
-| 3 | 359 | 1354 | 3504 | 1393 | 410682 Private  | Bell, Charles Rudolph  | Nil  | Bell, Mrs. George   | Jones Ave., Toronto, Ont   | Canada  |  | July | 29 | 1915. |
-| 3 | 359 | 1383 | 3504 | 1423 | 410683 Private  | Bell, Richard  | Nil  | Bell, James   | Shanly St., Toronto, Ont  | Ireland  |  | May | 21 | 1915. |
-| 3 | 730 | 1414 | 3504 | 1451 |  | Benjamin, Christopher Arthur  | S.A  | Benjamin, Mrs. Annie  | 455 Besserer St., Ottawa, Ont  | England  |  | Feb. | 22 | 1915. |
-| 3 | 358 | 1441 | 3504 | 1480 |  | Bennett, George Charles  | Nil  | 410239 Sergeant  | Bennett, George S  | Vankleek Hill, Ont   | Canada  | Mar | fi | 1915. |
-| 3 | 357 | 1470 | 3503 | 1508 | 410451 Private  |  | Nil  | Bennett, Charles S  | Vankleek Hill, Ont   | Canada  | Alexandria  | Feb. | 27 | 1915. |
-| 3 | 357 | 1499 | 3504 | 1538 | 410684 Private  |  | Nil  | Bernard, Emile  | Grande Baie, P.Q  | Canada  | Ottawa  | June | 10 | 1915. |
-| 3 | 355 | 1528 | 3504 | 1566 | 410685 Private  |  | Nil  | Berow, Nelson  | Cornwall, Ont  | Canada  |  | July | 6 | 1915. |
-| 3 | 355 | 1557 | 3503 | 1596 | 410453 C.S.M  | Berton, John FitzGerald  |  | Berton, Mrs. Maud Beatrice | 155 Stanley Ave., Ottawa, Ont  | U.S.A  |  | Feb. | 24 | 1915. |
-| 3 | 354 | 1586 | 3503 | 1625 | 410024 Private  |  | Nil  | Best, William  | Wellington, Ont  | Canada  |  | May | 25 | 1915. |
-| 3 | 354 | 1615 | 3503 | 1654 | 410686 Private  |  | Nil  | Bethell, Mrs. William  | Westborough, Ont  | England  |  | June | 10 | 1915. |
-| 3 | 353 | 1644 | 3503 | 1686 | 410687 Private  |  |  | Biggs, Mrs. Lilly.#  | 36 Sully Cres., Toronto, Ont  | England  |  | May | 21 | 1915. |
-| 3 | 352 | 1673 | 3502 | 1711 | 410025 Private  |  | C.F.A  | Bigras, Mrs. Minnie  | P.O., Laurentian View, Ont  | Canada  |  | Feb. | 26 | 1915. |
-| 3 | 352 | 1702 | 3502 | 1740 | 410915 Private  |  | Nil  | Binks, Mrs. Martha H  | Russell, Ont  | England  |  | Feb. | 26 | 1915. |
-| 3 | 352 | 1731 | 3503 | 1769 | 410452 Corporal  |  |  | Birnie, Mrs. Kate  | 295 Union Grove, Aberdeen, Scot  | Scotland  | Barriefield  | July | 28 | 1915. |
-| 3 | 725 | 1762 | 3503 | 1798 |  | Blackburn, George Alfred A  | Nil......  | Blackburn, Mrs. Rose  | 33 Ethel St., Eastview, Ottawa, Ont  | Canada  |  | July | 6 | 1915. |
-| 3 | 350 | 1789 | 3503 | 1828 | 410454 L.-Corporal  |  |  | Blarney, Richard James. . | New Road, Essex, Eng  | England  |  | April 28 | 1915. |
-| 3 | 1231 | 1824 | 3503 | 1856 |  |  | Nil  | Blanchard, Louis  | R.R. No. 1, Cornwall, Ont  | Canada  | Cornwall  | Mar. | 7 | 1915. |
-| 3 | 1529 | 1854 | 3502 | 1886 |  |  |  | Le Blanc, Nellie  | Braeside ,Ont  | England  |  | July | 9 | 1915. |
-| 3 | 1230 | 1881 | 3503 | 1915 |  |  | G.G.B.G  | Blowing, Mrs. Adela  | Wardell St., Toronto, Ont  | England  | Ottawa  | April | 8 | 1915. |
-| 3 | 727 | 1907 | 3503 | 1943 |  |  | C.A.M.C  | Blowing, William Joseph  | Blowing, Mrs. Ada  | 68 Cumberland St., Toronto, Ont  | England  | Barriefield  | •July | 9 | -1915. |
-| 3 | 1230 | 1940 | 3504 | 1973 |  |  | Nil  | Blyth, Thomas  | 57 New St., Brightlingsea, Essex, Eng  | England  |  | Mar. | 28 | 1915. |
-| 3 | 1528 | 1970 | 3504 | 2002 |  |  |  | Flannigan, P  | Wrexham, Denbigh, Wales  | Canada  |  | Mar. | 25 | 1915. |
-| 3 | 348 | 1993 | 3504 | 2031 | 410458 Private  | Boling, Alfred  | Nil  | Carlson, Mrs. Anna  | '27 Centre St., Port Arthur, Ont  | Finland  |  | Mar. | 1 | 1915. |
-| 3 | 348 | 2022 | 3504 | 2060 | 410028 Private  | Bondurosky, Max  | Nil  | Bondurosky, Mik  | Sikovsti, Russia  | Russia  |  | July | 24 | 1915. |
-| 4 | 839 | 686 | 3324 | 720 |  |  |  | Former Corps. |  |  | Country of |
-| 4 | 652 | 830 | 3812 | 864 | 410028 |  |  | Nil  | Booth, Mrs. Eliza  | 10 Harley St., Hanley, Staffs, Eng  | England  | Ottawa  | Feb. | 24 | 1915. |
-| 4 | 650 | 859 | 3812 | 893 | 410241 |  |  | Nil  | Bowden, Mrs. Hanna Maud. | 142 Clarence St., Ottawa, Ont  | England  | Ottawa  | Feb. | 26 | 1915. |
-| 4 | 650 | 888 | 3813 | 923 | 410689 |  | Boyce, Thomas  | Nil  | Boyce, Mrs. Nancy  | Buckingham, P.Q  | Canada  | Barriefield.. | July | 6 | 1915. |
-| 4 | 650 | 917 | 3812 | 952 | 410030 |  |  | Nil... | Dwerryhouse, Mrs  | 15 Newton St., Colne, Lancs, Eng  | England  | Barriefield. . | July | 9 | 1915. |
-| 4 | 649 | 946 | 3812 | 981 | 410948 |  | Bracken, Thomas Joseph  | C.F.A  | Bracken, Patrick  | Westmount, P.Q  | Ireland  | Ottawa  | Feb. | 23 | 1915. |
-| 4 | 648 | 975 | 3812 | 1010 | 410690 |  |  | Nil  | Bradley, Benjamin  | Westborough, Ont  | Canada  | Barriefield Cmp | July | 6 | 1915. |
-| 4 | 647 | 1004 | 3811 | 1039 | 410691 |  |  | Nil  | Bradley, S. J  | Ramsayville, Ont  | Canada  | Barriefield.. | July | 6 | 1915. |
-| 4 | 647 | 1033 | 3811 | 1067 | 410031 |  |  | Nil  | Bradshaw, Herbert  | Secretary’s Office, Y.M.C.A., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 26 | 1915. |
-| 4 | 646 | 1062 | 3811 | 1096 | 410032 |  |  | G.G.F.G  | Brady, Mrs. John  | Eardley, P.Q  | Canada  | Ottawa  | May | 17 | 1915. |
-| 4 | 645 | 1091 | 3810 | 1124 | 410033 |  |  |  | Branch, Mrs. Sarah E  | P.O., Cumming’s Bridge, Ont  | England | Ottawa  | July | 21 | 1915. |
-| 4 | 645 | 1120 | 3810 | 1154 | 410034 |  |  | Nil.... | Branney, John  | 17 Duke St., Old Trafford, Manchester, Eng  | England | Barriefield. .. | July | 24 | 1915. |
-| 4 | 644 | 1149 | 3810 | 1182 | 410035 |  |  | Nil.... | Brennan, Mrs. Alice  | P.O., Arnprior, Ont  | Canada  | Barriefield. . . | July | 0 | 1915. |
-| 4 | 644 | 1177 | 3810 | 1211 | 410036 |  |  | Nil  | Brewer, Mrs. Robert  | Chippenham, Wilts, Eng  | England | Prescott  | June | 9 | 1915. |
-| 4 | 643 | 1207 | 3810 | 1240 | 410037 |  |  |  | Bristow, Mrs. E   | 28 Hawden Rd., Tonbridge, Kent, Eng  | England | Prescott  | June | 9 | 1915. |
-| 4 | 643 | 1236 | 3810 | 1269 | 410692 |  |  | Nil  | Brokenshire, Mrs. Jennie  | 75 Gaily Ave., Toronto, Ont  | Canada  | Lindsay  | Mar. | 22 | 1915. |
-| 4 | 643 | 1265 | 3810 | 1299 | 410459 |  |  |  | Bromley, John  | 190 Marlborough Rd., High town, Manchester, Eng — | Not stated. | Brockville  | Mar. | 25 | 1915. |
-| 4 | 642 | 1294 | 3810 | 1327 | 410693 |  |  | Nil  | McDonald, Mrs. C  | Cedardale, Oshawa, Ont  | Scotland  | Lindsay  | May | 7 | 1915. |
-| 4 | 642 | 1323 | 3810 | 1356 | 410694 |  |  |  | Watson, Mrs. J   | 7 Clinton St., Toronto, Ont   | England  | Barriefield. .. | July | 28 | 1915. |
-| 4 | 641 | 1352 | 3809 | 1385 | 410695 |  |  | Nil  | Watson, Mrs. Alison  | 7 Clinton St., Toronto, Ont  | England  | Lindsay  | May | 7 | 1915. |
-| 4 | 641 | 1380 | 3810 | 1415 | 410038 |  |  | Nil. . | Brown, Harry  | 200 Hastings Ave., Toronto, Ont  | England  | Barriefield... | July | 24 | 1915. |
-| 4 | 640 | 1409 | 3809 | 1444 | 410039 |  |  |  | Brown, Miss Mary  | 324 Metcalfe St., Ottawa, Ont  | Scotland  | Ottawa  | Feb. | 24 | 1915. |
-| 4 | 640 | 1438 | 3810 | 1472 | 410696 |  |  | Nil.... | Brown, Mrs. Edna Grace.. . | 11 Langford Ave., Toronto, Ont  | Scotland  | Barriefield Cmp | July | ’ 6 | 1915. |
-| 4 | 640 | 1467 | 3809 | 1500 | 410460 |  |  | Nil  | Brown, Mrs. Catherine  | 2 Perkins St., Ottawa, Ont  | Scotland  | Barriefield Cmp | July | 25 | 1915. |
-| 4 | 639 | 1496 | 3809 | 1529 | 410461 |  |  | Nil  | Brownlee, Mrs. Sarah  | South Indian, Ont  | Canada  | Barriefield  | May | 28 | 1915. |
-| 4 | 639 | 1525 | 3809 | 1558 | 410463 | Private  |  | Nil  | Mcllroy, Mrs. P. H  | 187 James St., Ottawa, Ont  | Canada  | Barriefield... | May | 27 | 1915. |
-| 4 | 638 | 1554 | 3808 | 1588 | 410699 |  |  | Nil... | Bryan, Harry  | 124 Queen St., Lindsay, Ont  | Canada  | Lindsay  | Mar. | 19 | 1915. |
-| 4 | 638 | 1583 | 3808 | 1613 | 410040 |  |  | Nil  | Not stated  | Not stated  | Canada  | Barriefield... | July | 9 | 1915. |
-| 4 | 638 | 1612 | 3808 | 1645 | 410041 |  |  | Nil. | Buchanan, Mrs. Charlotte... | 9 Cambridge Gdns., Hastings, Sussex, Eng  | England  | Ottawa  | May | 17 | 1915. |
-| 4 | 637 | 1640 | 3808 | 1674 | 410042 |  |  | Nil  | Buck, John   | Southport, Lancs, Eng  | England  | Barriefield Cmp | July | 24 | 1915. |
-| 4 | 637 | 1669 | 3808 | 1702 | 410043 | Private  |  | Nil  | Buckland, Mrs. Grace  | 64 Quickett St., Bow, London, Eng  | England  | Ottawa  | July | 21 | 1915. |
-| 4 | 636 | 1697 | 3808 | 1732 | 410697 |  |  | Nil.. | Buckley, Lucy   | England  | Ireland  | Barriefield. .. | July | 29 | 1915. |
-| 4 | 637 | 1729 | 3110 | 1759 | 410698 | L.-Corporal  |  | Nil  | Bull, Nellie  | 11a Strathville Rd., Merton Rd., Southfields, London, |
-| 4 | 2392 | 1754 | 3808 | 1790 |  |  |  |  |  | Eng  | England  | Lindsay  | May | 11 | 1915. |
-| 4 | 636 | 1782 | 3807 | 1818 | 410242 |  |  | Nil  | Burdett, Mrs. Daisy  | 148 Stanley Ave., Ottawa, Ont  | England  | Ottawa  | Mar. | 1 | 1915. |
-| 4 | 636 | 1811 | 3807 | 1847 | 410045 |  | Burke, Allan John  | Nil  | Burke, Mrs. Mary Ann  | 58 Botelier St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 24 | 1915. |
-| 4 | 635 | 1840 | 3807 | 1875 | 410462 |  | Bums, Walter Patrick  |  | Burns, Charles...  | Welsh Fusiliers, Record Office, Shrewsbury, Salop, Eng. | England | Barriefield... | May | 28 | 1915. |
-| 4 | 635 | 1869 | 3806 | 1904 | 410044 |  | Burns, William  |  | Burns, Mrs. Annie  | 382 Cumberland St., Ottawa, Ont  | Canada  | Ottawa  | May | 17 | 1915. |
-| 4 | 634 | 1897 | 3807 | 1933 | 410243 |  | Burton, Joseph  | Nil. | Burton, Mary  | 1964 St. Lawrence Main, Montreal, P.Q  | Canada  | Ottawa  | Mar. | 1 | 1915. |
-| 4 | 634 | 1926 | 3807 | 1962 | 410046 |  | Caldwell, Thomas Bryden  |  | Caldwell, Mrs. Isabella  | 314 Riverdale Ave., Ottawa, Ont  | Scotland  | Barriefield. . . | July | 9 | 1915. |
-| 4 | 634 | 1955 | 3806 | 1992 | 410244 |  | Callaghan, John  | Nil  | Callaghan, William  | 58 King St., Ottawa, Ont  | Ireland  | Ottawa  | Mar. | 1 | 1915. |
-| 4 | 634 | 1983 | 3806 | 2019 | 410700 |  | Callahan, William Peter  | Nil  | Burton, Mrs. William  | 4 Icknielo St., Birmingham, Warwick, Eng  | England | Barriefield. . . | July | 29 | 1915. |
-| 4 | 634 | 2011 | 3807 | 2049 | 410464 |  | Campbell, John Me Divit  |  | Campbell, Annie    | 74 Victoria Ave., Brockville, Ont  | Not stated. | Brockville — | July | 1 | 1915. |
-| 4 | 634 | 2041 | 3806 | 2078 | 410245 |  | Campbell, Robert  | Nil. | Campbell, Miss Jane  | Lisnamallaid, Omagh, Co. Tyrone, Ire  | Ireland  | Ottawa  | Feb. | 26 | 1915. |
-| 4 | 633 | 2069 | 3806 | 2107 | 410047 |  |  | Nil... | Campbell, Mrs. Jane  | 2 Letham PI., Dunbar, East Lothian, Scot  | Scotland  | Barriefield. . . | July | 9 | 1915. |
-| 4 | 633 | 2099 | 3806 | 2136 | 410048 | Private  |  | Nil  | Cannons, Mrs. Ellen  | East Dean, Salisbury, Wilts, Eng  | England | Belleville  | May | 11 | 1915. |
-| 4 | 633 | 2128 | 3807 | 2164 | 410701 | Private  |  | Nil  | Carey, J. J  | Outremont Ave., Hull, P.Q  | Canada  | Barriefield.. . | July | 6 | 1915. |
-| 4 | 633 | 2157 | 3806 | 2194 | 410702 | Private  |  | Nil  | Carey, John G  | Wrightville, P.Q  | Canada  | Barriefield. .. | July | 6 | 1915. |
-| 4 | 632 | 2187 | 3807 | 2220 | 410916 | Private  |  | Nil  | Carleton, Robert  | Vankleek Hill, Ont    | Canada  | Ottawa  | April | 10 | 1915. |
-| 4 | 633 | 2216 | 3808 | 2250 | 410246 | Private  | Carroll, Bertrand.. |  | Switzer, Mrs. Alfred  | P.O. Box 115, Sydenham, Ont  | Canada  | Barriefield Cmp | Mar. | 1 | 1915. |
-| 5 | 345 | 311 | 3503 | 344 | 41000; | C.S.M  | Carroll, Timothy  | Imp. Forces  | Galvin, Mrs. M  | 1 Aldboro PI., Portland Row, Dublin, Ire  | Ireland  | Ottawa  | Feb. 20, 1915. |
-| 5 | 345 | 340 | 3503 | 373 | 41024' | Private  | Carson, John  | G.G.F.G  | Carson, Peter  |  |  |  | Mar. 2, 1915. |
-| 5 | 345 | 369 | 3503 | 401 | 41004! | Private  | Carswell, Ernest  | Imp. Forces  | Carswell, Mrs. Elizabeth,  | 631 Gerrard St. E., Toronto, Ont  | England  | Smiths Falls. .. | June 3, 1915. |
-| 5 | 345 | 398 | 3503 | 430 | 41046J | Private  | Carter, George Palmer. | Nil  | Carter, Mrs. Clare  |  |  |  | April 28, 1915. |
-| 5 | 344 | 427 | 3504 | 460 | 41046f | L.-Corporal  | Carter, George William. | Nil  | Carter, Albert  |  |  |  | Feb. 24, 1915. |
-| 5 | 343 | 456 | 3504 | 489 | 41046' | Private  | Casselman, Frederick... | C.F.A  | Casselman, Mrs. Mary  |  |  |  | Mar. 25, 1915. |
-| 5 | 343 | 485 | 3504 | 518 | 410465 | Private  | Casselman, John  | Nil  | Casselman, Mrs. Jennie  |  |  |  | Mar. 25, 1915. |
-| 5 | 343 | 514 | 3503 | 547 | 410469 | Private  | Cayen, John  | Can. Mil  | Cayen, Delima  |  |  |  | Mar. 12, 1915. |
-| 5 | 343 | 543 | 3504 | 577 | 41070; | Corporal  | Chalmers, Percy  | Territorials  | Chalmers, Mrs. Harriett..  |  |  |  | May 26, 1915. | 33 Holly hurst Rd., Darlington, Durham, Eng  | Ottawa  |
-| 5 | 342 | 571 | 3503 | 606 | 41047C | Private  | Chaplin, Charles  | Imp. Forces  | Chaplin, Mrs. Beatrice Elizabeth |  |  |  | July 28, 1915. |
-| 5 | 341 | 601 | 3504 | 634 | 41005C | Sergeant  | Charbonneau, Maxime.. | Nil  | Charbonneau, Mrs. May  |  |  |  | May 1, 1915. |
-| 5 | 341 | 630 | 3503 | 663 | 410917 | L.-Corporal  | Charbonneau, Oscar.... | 43rd Regt  | Charbonneau, A   |  |  |  | Feb. 22,1915. |
-| 5 | 341 | 659 | 3503 | 693 | 410051 | Private  | Chartrand, David  | 43rd Regt  | Chartrand, Mrs. William  |  |  |  | May 17, 1915. |
-| 5 | 340 | 688 | 3502 | 721 | 410471 | Private  | Chartrand. Hilaire  | Nil  | Plant, Mrs. Adelene  |  |  |  | May 28, 1915. | 744 Oreland St., Maisonneuve, P.Q  | Canada  |
-| 5 | 339 | 717 | 3502 | 750 | 410704 | Private  | Childs, William  | Nil  | Bell, J. L  |  |  |  | July 6, 1915. | West London School, Ashford, M’sex, Eng  | England  | Barriefield  |
-| 5 | 338 | 746 | 3501 | 779 | 410705 | Private  | Chisholm, William  | Nil  | Chisholm, Andrew  |  |  |  | May 9, 1915. |
-| 5 | 337 | 775 | 3501 | 809 | 410249 | Corporal  | Chugg, John Henry  | G.G.F.G   | Chugg. Mrs. Ada  |  |  |  | Feb. 26,1915. |
-| 5 | 336 | 804 | 3501 | 838 | 410472 | Sergeant  | Church, John Anderson.. | Nil  | Church, Elizabeth  |  |  |  | Feb. 24, 1915. |
-| 5 | 336 | 833 | 3501 | 866 | 410473 | Private  | Clark, Hyman  | Nil  | Levinson, Lizzie  |  |  |  | Jan. 22, 1915. |
-| 5 | 335 | 862 | 3501 | 896 | 410250 | Private  | Clarke, Allan  | Nil  | Gowdy, Thomas  |  |  |  | Mar. 19, 1915. | Wellington St., Hull, P.Q   |
-| 5 | 335 | 891 | 3501 | 923 | 410251 | Private  | Claxton, Henry James. .. | Nil  | Claxton, Mrs. Esther  |  |  |  | Mar. 2, 1915. | Ottawa  |
-| 5 | 334 | 920 | 3501 | 953 | 410052 | L.-Corporal  | Clay, George Edward S. | Nil  | Clay, Mrs. Catherine  |  |  |  | Feb. 24, 1915. |
-| 5 | 333 | 949 | 3501 | 982 | 410252 | Private  | Clement, James  | Nil  | Clement, Joseph Edward  |  |  |  | July 28, 1915. | Barriefield Cmp |
-| 5 | 333 | 977 | 3501 | 1011 | 410053 | Private  | Clermont, Arthur C  | Nil  | Levesque, Mrs. Matilda  |  |  |  | July 22, 1915. | Ottawa  :.. | 167 Laval St., Hull, P.Q  |
-| 5 | 333 | 1005 | 3501 | 1039 | 410054 | Private  | Clifford, Ernest  | 43rd Regt  | Clifford, Mrs. Ernest  |  |  |  | May 17, 1915. |
-| 5 | 332 | 1033 | 3500 | 1068 | 410706 | Sergeant  | Clifton, Harry Powell.... | 44th Regt  | Clifton, Mrs. Helen Wallace  |  |  |  | Mar. 15, 1915. |
-| 5 | 332 | 1065 | 3500 | 1097 | 410707 | Private  | Coe, James George W  | Nil  | Coe, James  |  |  |  | June 9, 1915. |
-| 5 | 331 | 1094 | 3501 | 1127 | 410055 | Private  | Coles, William A  | Nil  | Coles, Mrs. M  |  |  |  | May 20, 1915. | 13 Jackson’s Terr., Merton Abbey, London, S.W., Eng. | England  | Belleville  |
-| 5 | 331 | 1123 | 3501 | 1155 | 410474 | Private  | Collins, Frank  | 42nd Regt  | Collins, Mrs. Mary  |  |  |  | April 28, 1915. |
-| 5 | 330 | 1152 | 3500 | 1184 | 410056 | Private  | Collins, James Patrick... | G.G.F.G  | Godoon, Miss Bertha  |  |  |  | May 17, 1915. |
-| 5 | 330 | 1178 | 2792 | 1212 | 410248 | Sergeant  | Collins, Sydney Lionel... | Nil  | Wells, Mrs. Lucretie  | 57 Claybrooke Rd., Fulham Palace Rd., London, S.W., |
-| 5 | 329 | 1238 | 3499 | 1270 | 410057 | Private  | Collis, William Henry  | Imp. Forces. | Collis, Mrs. Florence Agnes. |  |  |  | April 14, 1915. | 143 Etheldene Rd., Wandsworth, London, Eng  | England  | Ottawa  |
-| 5 | 328 | 1266 | 3499 | 1298 | 410058 | L.-Corporal  | Colman, Charles Edward  | Nil  | Burdett, Mrs. Daisy  |  |  |  | Feb. 22, 1915. |
-| 5 | 328 | 1295 | 3498 | 1326 | 410708 | Sergeant  | Colville, Archibald McLaughlin. | 41st Regt  | Colville, Mrs. Archibald M. |  |  |  | June 9,1915. | Brockville  |
-| 5 | 327 | 1324 | 3498 | 1356 | 410253 | Private  | Conley, Irwin Maurice  | 14th Regt... | Conley, Mrs. Catherine  |  |  |  | July 28, 1915. |
-| 5 | 327 | 1353 | 3498 | 1385 | 410059 | Private  | Connolly, Clarence  | Nil  | Swanson, Mrs. Annie  |  |  |  | April 10, 1915. |
-| 5 | 327 | 1382 | 3498 | 1414 | 410476 | Sergeant  | Cook, Leonard Henry  | Nil  | Cook, Mrs. Alice  |  |  |  | April 28, 1915. | 76 Durham St., Lindsay, Ont  | Canada  | Ottawa  |
-| 5 | 326 | 1411 | 3498 | 1443 | 410475 | Private  | Cooke, Harry  | Nil  | Cooke, Mrs. E  |  |  |  | July 5, 1915. |
-| 5 | 326 | 1440 | 3498 | 1472 | 410709 | Private  | Cooke, John  | Nil  | Cooke, Mrs. Sarah Jane  |  |  |  | May 8, 1915. |
-| 5 | 326 | 1469 | 3499 | 1500 | 410710 | Private  | Cooney, Herbert  | Nil  | Cooney, Mrs. Daisy  |  |  |  | May 28, 1915. |
-| 5 | 325 | 1498 | 3499 | 1530 | 410060 | Private  | Cooper, Arthur  | Nil  | Cooper, Walter F  |  |  |  | May 1, 1915. |
-| 5 | 325 | 1526 | 3499 | 1559 | 410061 | Corporal  | Cooper, Isaac  | 106th Regt.. | Cooper, Mrs. Ruby Estella.. |  |  |  | June 9, 1915. |
-| 5 | 324 | 1555 | 3498 | 1587 | 410711 | Private  | Cooper, Robert  | Nil  | Cooper, Mrs. Catherine  |  |  |  | May 21, 1915. |
-| 5 | 324 | 1584 | 3498 | 1617 | 410062 | Private  | Cooper, William  | Nil  | Cooper, Mrs  |  |  |  | Feb. 22, 1915. | 27 Brookley St., Bamsby News, London, Eng  | Ottawa  |
-| 5 | 323 | 1613 | 3498 | 1645 | 410712 | Private  | Cornell, George  | Nil  | Minard, Mrs  |  |  |  | July 6, 1915. | Barriefield  |
-| 5 | 323 | 1642 | 3497 | 1674 | 410063 | Private  | Cornell, Suffel David  | Nil  | Jackson, Mrs. George  |  |  |  | May 20, 1915. |
-| 5 | 323 | 1671 | 3498 | 1703 | 410477 | Private  | Corr, Lawrence Francis  | 42nd Regt... | Corr, Mrs. Hannah  |  |  |  | April 28, 1915. |
-| 5 | 323 | 1700 | 3498 | 1732 | 410064 | Private  | Costin, Frederick Walter  | G.G.F.G.... | Costin, Mrs. Ethel Jane  |  |  |  | May 17, 1915. |
-| 5 | 323 | 1728 | 3498 | 1760 | 410713 | Private  | Cotter, Bertram  | Nil  | Cotter, Mrs. Delia  |  |  |  | June 10, 1915. | Ottawa  |
-| 5 | 323 | 1758 | 3498 | 1791 | 410714 | Private  | Coulby, William  | Nil  | Coulby, Thomas  |  |  |  | July 6, 1915. | Barriefield  |
-| 5 | 322 | 1787 | 3498 | 1819 | 410715 | Private  | Court, Richard Charles  | Nil  | Court, Mrs. Elizabeth  |  |  |  | Mar. 15, 1915. |
-| 5 | 321 | 1816 | 2800 | 1849 | 410065 | Private  | Court, Thomas  | Nil  | Court, Lizzie  | Children’s Hospital, Union St. and Rockdale Rd., |
-| 5 | 321 | 1874 | 3498 | 1906 | 410478 | Private  | Covey, Charles  | Nil  | Covey, Nathan  |  |  |  | May 13, 1915. | Jamestown, N.Y., U.S.A  |
-| 5 | 321 | 1903 | 3498 | 1935 | 410254 | Private  | Cowley, David  | Nil  | Seeley, Mrs. George.. |  |  |  | May 10, 1915. |
-| 5 | 321 | 1929 | 3498 | 1964 | 410066 | Private  | Cox, Alfred Charles  | G.G.F.G.. | Cox, Mrs. Mary Jane. |  |  |  | July 21, 1915. | Ottawa  |
-| 5 | 321 | 1961 | 3499 | 1994 | 410716 | Private  | Coyle, David C  | Nil  | Coyle, Mrs. D  |  |  |  | July 28, 1915. | Barriefield  |
-| 5 | 320 | 1990 | 3498 | 2022 | 410255 | Private  | Craig, David  | 43rd Regt. | Craig, Mrs. Polly  |  |  |  | May 20, 1915. |
-| 5 | 320 | 2015 | 3499 | 2052 | 410068IPrivate  |  | ICraig, William Ernest. | Can. Mil... | Craig, Mrs. Mary  |  |  |  | Feb. 24, 1915. | 179 Bay St., Ottawa, Ont  |
-| 6 | 649 | 608 | 3318 | 660 | l! |  | Former Corps. |  |  | Country of |
-| 6 | 646 | 772 | 3810 | 804 | 410070 | Private  | Cranfield, Arthur Frederick.... | Nil  | Wallace, Hessie  | 5 Valentia Rd., Brixton Rd., London, Eng  | England  | Ottawa  | April | 1915. |
-| 6 | 646 | 801 | 3809 | 834 | 410717 | Private  | Crawford, James  | Nil  | Crawford, Mrs. James  | O’Hara Ave., Toronto, Ont  | Canada  | Lindsay  | May | 1915. |
-| 6 | 645 | 830 | 3809 | 863 | 410069 | Private  | Crawford, William  | 15th Regt  | Crawford, Mrs. Jane M  | 561 Ashdale Ave. E., Toronto, Ont  | Scotland  | Barriefield  | July | 1915. |
-| 6 | 644 | 860 | 3809 | 892 | 410256 | Private  | Crisford, Hamilton  | Nil  | Crisford, George  | Kingshill House, Swindon, Wilts, Eng  | England  | Ottawa  | Mar. | 1915. |
-| 6 | 644 | 889 | 3809 | 921 | 410067 | Private  | Crooks, Davey  | Nil  | Crooks, Robert  | Capital, Sask  | Canada  | Belleville  | May | 1915. |
-| 6 | 644 | 918 | 3809 | 950 | 410718 | L.-Corporal.. | Crosbie, James Wallace  | Nil  | Crosbie, Mrs. Agnes  | Woodroffe, Ont  | Canada  | Ottawa  | June | 1915. |
-| 6 | 643 | 945 | 3809 | 979 | 410719 | Private  | Croucher, Robert  | Nil  | Croueher, Mrs. Mary.  | 21 New Rd., Sittingbourne, Kent, Eng  | England  | Lindsay  | May | , 1915. |
-| 6 | 643 | 976 | 3809 | 1008 | 410479 | C.S.M  | Cruickshank, George  | Imp. Forces  | Cruickshank, Mrs. Annie  | 164 Stanley Ave., Ottawa, Ont  | Scotland  | Ottawa  | Mar. | , 1915. |
-| 6 | 643 | 1005 | 3809 | 1037 | 410071 | Private  | Cunningham, Bartholomew  | Nil  | Cunningham, John  | Gaudette, P.Q  | Canada  | Barriefield  | July | , 1915. |
-| 6 | 643 | 1034 | 3809 | 1066 | 410480 | Private  | Cunningham, Daniel Joseph  | Nil  | Cunningham, Mrs. Rose  | 328 Rochester St., Ottawa, Ont  | Canada  | Ottawa  | April | 1915. |
-| 6 | 642 | 1063 | 3809 | 1096 | 410720 | L.-Corporal.. | Cunningham, Harold  | 45 th Regt  | Cunningham, Mrs. James  | Omemee, Ont  | Canada  | Lindsay  | May | 1915. |
-| 6 | 641 | 1093 | 3809 | 1123 | 410721 | Private  | Curren, William  | Nil  | Watson, Eli  | R.R. No. 2, Carp, Ont  | Scotland  | Barriefield  | July | 1915. |
-| 6 | 641 | 1121 | 3809 | 1154 | 410481 | Private  | Curry, William Andrew  | 41st Regt  | Curry, Mrs. Eliza M  | 28 Water St. E., Brockville, Ont  | Canada  | Ottawa  | May | , 1915. |
-| 6 | 641 | 1150 | 3809 | 1182 | 410960 | Private  | Dalton, Arthur  | U.S. Army  | Dalton, Mark David  | Anaconda Hotel, Anaconda, Mont., U.S.A  | Canada  | Ottawa  | April | ;, 1915. |
-| 6 | 640 | 1180 | 3809 | 1211 | 410257 | Corporal  | Dalton, Stephen  | G.G.F.G  | Chambers, Violet  | P.O., Kars. Ont  | England  | Ottawa  | Mar. | , 1915. |
-| 6 | 640 | 1206 | 3809 | 1240 | 410072 | Private  | Daniells, Stanley  | 43rd Regt  | Daniells, William J  | 154 Seaford Rd., South London, Eng  | England  | Ottawa  | May | , 1915. |
-| 6 | 640 | 1237 | 3809 | 1269 | 410482 | Private  | Daniels, Lawrence M  | 41st Regt  | Daniels, William  | 74 Perth St., Brockviile, Ont  | Canada  | Brockville  | Mar. | , 1915. |
-| 6 | 639 | 1267 | 3809 | 1299 | 410949 | Private  | Davely, Edward Armand  | 5 th Drag  | Davely, Philip  | 9 McDougall Ave., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 1915. |
-| 6 | 638 | 1296 | 3809 | 1328 | 410722 | Private  | Davenport, Henry  | Nil  | Davenport, William  | 23 Chapman St., Manchester, Eng  | England  | Lindsay  | April | 1915. |
-| 6 | 638 | 1320 | 3809 | 1356 | 410258 | Private  | Davies, Michael  | Nil  | Davies, Miss Bridget  | 43 Balaclava St., St. Thomas, Swansea, Glam., Wales. | Wales  | Ottawa  | Feb. | 1915. |
-| 6 | 638 | 1354 | 3810 | 1385 | 410073 | Private  | Davis, Alfred  | Nil  | Davis, Alfred John  | 15 Manning St., Toronto, Ont  | England  | Barriefield  | July | 1915. |
-| 6 | 638 | 1383 | 3811 | 1414 | 410483 | Private  | Davis, Harry Walter  | Nil  | Davis, Mrs. Mary C  | Prospect Ave., Westborough, Ont  | England  | Barriefield  | May | 1915. |
-| 6 | 638 | 1412 | 3811 | 1443 | 410074 | Private  | Davis, Hugh Charles  | Nil  | Davis, Mrs. Edna  | Syracuse, N.Y., U.S.A  | Canada  | Barriefield Cmp | July | 1915. |
-| 6 | 637 | 1437 | 3811 | 1472 | 410075 | Private  | Davis, John Bercovitch  | Nil  | Davis, Joseph  | 180 Booth St., Ottawa, Ont  | Roumania  | Ottawa  | July | 1915. |
-| 6 | 637 | 1464 | 3811 | 1500 | 410260 | Private  | Dawkins, Harry  | Nil  | Dawkins, George  | 95 George St., Belleville, Ont  | Canada  | Peterboro  | May | 1915. |
-| 6 | 636 | 1499 | 3812 | 1530 | 410259 | Sergeant  | Day, Joseph Alexander...'  | Imp. Forces  | Day, Mrs. Kate Anna L  | 32 Lawrence St., Ottawa, Ont  | England  | Ottawa  | May | 1915. |
-| 6 | 636 | 1528 | 3812 | 1558 | 410723 | Private  | Dean, Henry  | Nil  | Dean, Mrs. N....,  | Ivanhoe, Ont   | Canada  | Belleville  | May | 1915. |
-| 6 | 636 | 1556 | 3812 | 1588 | 410261 | Private  | Degan, Hubert  | Nil  | Degan, John .  | Cornwall, Ont  | Canada  | Barriefield Cmp | July | 1915. |
-| 6 | 636 | 1585 | 3812 | 1617 | 410724 | Private  | Delage, J6r6mie  | Nil  | Delage, Mrs. Leontine  | Victoriaville, P.Q  | Canada  | Ottawa  | June | 1915. |
-| 6 | 635 | 1610 | 3812 | 1646 | 410262 | Private  | Delaney, Frank  | 43rd Regt  | Delaney, Mrs. Anna  | 63 Bayview Ave., Ottawa, Ont  | South Africa  | Ottawa  | Mar. | 1915. |
-| 6 | 635 | 1643 | 3812 | 1674 | 410076 | Private  | Delaney, John Agustine  | Nil  | Delaney, Mrs. Mary Florence. | 285 Carruthers Ave. Ottawa, Ont  | Canada  | Ottawa  | Feb. | 1915. |
-| 6 | 634 | 1672 | 3812 | 1703 | 410918 | Private  | Demers, Joseph Frederick  | Nil  | Demers, Evelyn  | Sorel, P.Q. | Canada  | Cornwall  | Jan. | 1915. |
-| 6 | 635 | 1701 | 3812 | 1733 | 410077 | Private  | Derosie, Patrick William  | 42nd Regt  | Derosie, Mrs. Mary  | Pembroke, Ont  | Canada  | Smiths Falls... | June | 1915. |
-| 6 | 634 | 1730 | 3812 | 1764 | 410484 | Private  | Desjardins, Joseph Hubert  | Nil   | Desjardins, Paul.    | Ste. Scholastique, P.Q  | Canada  | Brockville..'.... | Mar. | 1915. |
-| 6 | 634 | 1754 | 3812 | 1790 | 410078 | Private  | Devoy, Walter Paul L  | Can. Mil  | Devoy, Mrs. Sophilda  | 572 Notre Dame St., Maisonneuve, P.Q  | Canada  | Ottawa  | Feb. | 1915. |
-| 6 | 634 | 1788 | 3812 | 1820 | 410485 | Private  | Dickenson, William  | 43rd Regt  | Dickenson, Mrs. Thomas  | 21 Mill Lane, Brixton Hill, London, Eng  | England  | Barriefield  | May | 1915. |
-| 6 | 634 | 1812 | 3812 | 1848 | 410725 | Private  | Dickson, David  | Nil  | Dickson, William  | Dornock Mains, Scot  | Scotland  | Lindsay  | May | 1915. |
-| 6 | 633 | 1846 | 3812 | 1877 | 410726 | Private  | Dillabough, Milton Simon  | Nil   | Dillabough, Dalton  | Cornwall, Ont  | Canada  | Barriefield  | July | 1915. |
-| 6 | 633 | 1874 | 3813 | 1906 | 410486 | Private   | Dillon, John  | Nil  | Lynch, Peter  | 10 Peter St., Drogheda, Co. Meath, Ire  | Ireland  | Barriefield  | May | 1915. |
-| 6 | 633 | 1902 | 3813 | 1934 | 410727 | Private  | Dinner, Howard Irwin  | Nil  | Dinner, Mrs. Ruby  | 72 Greoy Ave., Toronto, Ont  | Canada  | Lindsay  | Mar. | 1915. |
-| 6 | 632 | 1931 | 3813 | 1962 | 410487 | Private  | Dobson, Ernest William S  | Nil  | Dobson, Violet  | Grace Hospital, New Haven, Conn., U.S.A  | Scotland  | Ottawa  | Feb. | 1915. |
-| 6 | 632 | 1955 | 3813 | 1995 | 410728 | Private  | Dodd, William Livesy  | Nil  | Dodd, James  | 901 Baldwin Ave., Detroit, Mich., U.S.'A  | England  | Lindsay  | June | 1915. |
-| 6 | 632 | 1989 | 3813 | 2021 | 410729 | Private  | Donald, Stuart  | Nil  | Donald, Mrs. Margaret H  | 32 Gilmour St., Ottawa, Ont  | Ireland  | Ottawa  | June | 1915. |
-| 6 | 631 | 2018 | 3813 | 2050 | 410079 | Private  | Donaldson, John  | 43rd Regt  | Donaldson, Mrs. Katherine... | Second Ave., Eastview, Ottawa, Ont  | Canada  | Ottawa  | April | 1915. |
-| 6 | 631 | 2049 | 3813 | 2082 | 410263 | Private  | Dooley, William  | Nil  | Not stated  | Not stated  | England  | Ottawa  | Feb. | 1915. |
-| 6 | 631 | 2077 | 3814 | 2110 | 410080 | L.-Corporal... | Doughton, Edward John  | 42nd Regt  | Doughton, Mrs. Elizabeth  | 12 River St. E., Smiths Falls, Ont  | England  | Barriefield  | July | 1915. |
-| 6 | 631 | 2107 | 3814 | 2138 | 410264 | Private  | Duguay, Simon  | Nil  | Duguay, Narcisse -  | Gaspfe, P.Q  | Canada  | Ottawa  | Feb. | 1915. |
-| 6 | 631 | 2135 | 3814 | 2167 | 410488 | Private  | Dowey, Thomas H  | Nil  | Dowey, Mrs. Betty Maud  | 79 Scollard St., Toronto, Ont  | Ireland  | Barriefield Cmp | July | 1915. |
-| 6 | 631 | 2160 | 3815 | 2196 | 410081 | Private  | Druz, Philip  | Russian Army  | Druz, Eprem  | Wolemoskai, Hubermi, Selo, Criskowece, Russia  | Russia  | Ottawa  | Feb. | 1915. |
-| 7 | 1220 | 406 | 3502 | 432 |  |  |  |  | i, 1915 | Nil  | Scotland  |
-| 7 | 1217 | 727 | 3500 | 756 |  |  |  |  | I, 1915 | Nil  | Elliott, Mrs. Phyllis Abigail D— |
-| 7 | 1217 | 900 | 3500 | 929 |  |  |  |  | I, 1915 | Nil... | England  |
-| 7 | 1216 | 1015 | 3501 | 1045 |  |  |  |  | I, 1915 | Nil | Fetterly, A. C  |
-| 7 | 1215 | 1131 | 3500 | 1158 |  |  |  |  | !, 1915 | Nil  | Scotland  |
-| 7 | 2039 | 1160 | 3501 | 1190 |  |  |  |  | !, 1915 | Enniskillen, Fermanagh, Ire  | Ireland  |
-| 7 | 1214 | 1189 | 3500 | 1218 |  |  |  |  | 1915 | 21 Nerser Lane, Little Horton, Bradford, Yorks, Eng. | Nil  |
-| 7 | 1214 | 1218 | 3501 | 1245 |  |  |  |  | I, 1915 | Nil  | Ireland  |
-| 7 | 1214 | 1247 | 3500 | 1273 |  |  |  |  | I, 1915 | Nil  | Ireland  |
-| 7 | 1212 | 1305 | 3500 | 1333 |  |  |  |  | !, 1915 | Nil  | Flynn, H. T  |
-| 7 | 1213 | 1421 | 3500 | 1450 |  |  |  |  | i, 1915 | Nil  | St. George’s Home (Guardians) .. |
-| 7 | 1213 | 1449 | 3500 | 1479 |  |  |  |  | I, 1915 | Nil  | Italy  |
-| 7 | 1213 | 1623 | 3500 | 1650 |  |  |  |  | i, 1915 | Nil  | Wales  |
-| 7 | 1210 | 1884 | 3500 | 1914 |  |  |  |  | \ 1915 | Nil  | Bradley, Me., U.S.A  |
-| 7 | 1211 | 1913 | 3501 | 1943 |  |  |  |  | 1915 | Nil  | 333 Bell St., Ottawa, Ont  |
-| 7 | 704 | 2029 | 3501 | 2061 |  |  |  |  | 1915 | 35 Glenely St., Lindsay, Ont  | Nil  | Gaskell, Mrs. Edith  |
-| 8 | 663 | 531 | 3332 | 562 | .52 |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
-| 8 | 661 | 675 | 3826 | 708 | 410495 | Private  | Gates, Albert George  | Nil  | Gates, Mrs. Alice Florence  | Calvin, Ont  | England  | Barriefield Cmp | July | 28, 1915. |
-| 8 | 661 | 702 | 3825 | 737 | 410496 | Private  | Gee, Albert  | Nil  | Gee, David  | 29 King St. W., Kingston, Ont  | Canada  | Not stated  | May | 25, 1915. |
-| 8 | 660 | 734 | 3825 | 766 | 410100 | L.-Corporal. | Gibson, Joseph Harrison  | 43rd Regt  | Gibson, Emma F  | 97 Harvey St., Ottawa, Ont  | Canada  | Ottawa  | May | 17, 1915. |
-| 8 | 660 | 763 | 3826 | 794 | 410279 | Private  | Gibson, Thomas Vernon  | Nil  | Dale, Mrs. W. J  | 114 Lees Ave., Ottawa, Ont  | U.S.A  | Ottawa  | May | 1, 1915. |
-| 8 | 659 | 793 | 3825 | 824 | 410497 | Private  | Gibson, William Patterson  | 41st Regt  | Gibson, Mrs. Mary  | 15 Rodney St., off Possitt Rd., Glasgow, Scot  | Scotland  | Brockville  | Mar. | 25, 1915. |
-| 8 | 659 | 819 | 3825 | 854 | 410280 | Private  | Giles, Alfred Joseph  | Nil  | Giles, Thomas Walter  | H.M.S. Bonaventure, c/o Admiralty Offices, Lon., Eng. | England  | Barriefield  | July | 23, 1915. |
-| 8 | 659 | 851 | 3825 | 882 | 410747 | Private  | Gill, Joseph    | Nil  | Gill, Wilrick  | Pierreville, P.Q  | Canada  | Ottawa  | May | 31, 1915. |
-| 8 | 658 | 879 | 3825 | 911 | 410498 | Private  | Gillesper, James John  | 56th Regt  | Gillesper, Mrs. Margaret  | Ivy Deane, Cowley Ave., Ottawa West, Ont  | Scotland  | Barriefield  | May | 28, 1915. |
-| 8 | 658 | 909 | 3825 | 941 | 410283 | Sergeant | Girouard, Joseph  | G.G.F.G  | Girouard, Mrs. Mary  | 58 Pamilla St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 26, 1915. |
-| 8 | 658 | 936 | 3826 | 969 | 410101 | Private  | Giroux, Joseph Adlore  | Nil  | Giroux, Mrs. Olive  | Pembroke, Ont  | Canada  | Ottawa  | April | 14, 1915. |
-| 8 | 657 | 967 | 3826 | 998 | 410958 | Private  | Glasford, Merritt  | Nil  | Glasford, Arthur  | Westdale, N.Y., U.S.A  | U.S.A  | Bermuda  | Dec. | 10, 1915. |
-| 8 | 657 | 996 | 3827 | 1028 | 410748 | Private  | Glossop, Edward  | Nil  | Glossop, Benjamin  | 220 Dunn Ave., Toronto, Ont  | England  | Lindsay  | May | 29, 1915. |
-| 8 | 657 | 1025 | 3827 | 1057 | 410749 | Private  | Goldfinch, Leonard  | Nil  | Clift, Mrs. Louisa  | 3 Miller’s Lane, Kingston, Ont  | England  | Barriefield Cmp | July | 6, 1915. |
-| 8 | 657 | 1055 | 3826 | 1086 | 410102 | Private  | Golevatch, Adolf  | Nil  | Golevatch, Mrs. Tohny  | Warsaw, Russia  | Russia  | Ottawa  | Feb. | 22, 1915. |
-| 8 | 657 | 1083 | 3826 | 1116 | 410282 | Private  | Gordon, Angus  | Royal Navy  | Gordon, L  | Valparaiso, South America  | Canada  | Barriefield... | July | 31, 1915. |
-| 8 | 657 | 1113 | 3826 | 1144 | 410281 | L.-Corporal. | Gordon, George  | Territorials  | McLeod, Mrs. James  | Port Logan, Wigton, Scot  | Scotland  | Napanee  | May | 19, 1915. |
-| 8 | 657 | 1142 | 3826 | 1172 | 410750 | Private  | Gorman, Richard Francis  | Nil  | Gorman, Miss Delia  | 339 E. 39th St., New York, N.Y., U.S.A  | Ireland  | Lindsay  | May | 28, 1915. |
-| 8 | 656 | 1168 | 3826 | 1201 | 410103 | Private  | Goss, Samuel  | Can. Mil  | Goss, Mrs. Bertha  | 462 McLeod St., Ottawa, Ont  | Canada  | Ottawa  | May | 20, 1915. |
-| 8 | 656 | 1199 | 3827 | 1232 | 410284 | Private  | Grace, Edwin Joseph  | Nil   | Grace, John  | Arnprior, Ont  | Canada  | Barriefield Cmp | July | 23, 1915. |
-| 8 | 656 | 1228 | 3827 | 1260 | 410104 | Private  | Graham, Alfred  | Nil   | Milles, Mrs. E  | 34 Careboro Rd., Trandly Rd., Deptford, London, Eng. | England  | Ottawa  | May | 4, 1915. |
-| 8 | 656 | 1257 | 3826 | 1289 | 410285 | Private  | Graham, Archibald J  | Nil  | Graham, Mrs. Anna  | Bowesville, Ont  | Canada  | Ottawa  | May | 20, 1915. |
-| 8 | 656 | 1287 | 3826 | 1318 | 410105 | Private  | Graham, Frederick  | Nil  | Graham, John George  | West Witton, Leyburn, Yorks, Eng  | England  | Ottawa  | April | 10, 1915. |
-| 8 | 655 | 1316 | 3826 | 1347 | 410499 | Sergeant  | Grant, Donald Harwood  | Nil  | Grant, Mary Ellen  | Smith’s Falls, Ont  | Canada  | Ottawa  | Feb. | 24, 1915. |
-| 8 | 655 | 1345 | 3826 | 1376 | 410286 | Private  | Gray, George  | 42nd Regt  | Gray, Mrs. Eva Blanche  | 3 Clune St., Smiths Falls, Ont  | Scotland  | Barriefield Cmp | July | 23, 1915. |
-| 8 | 655 | 1371 | 3827 | 1405 | 410751 | Private  | Gray, Gordon  | Nil  | Gray, Mrs. Maggie Rennie  | 71 Lock St., Aberdeen, Scot  | Scotland  | Lindsay  | May | 7, 1915. |
-| 8 | 655 | 1400 | 3827 | 1434 | 410287 | Private  | Gray, William  | 10th Regt  | Gray, Mrs. Ella  | 14 Glasgow St., Toronto, Ont  | England  | Barriefield Cmp | July | 23, 1915. |
-| 8 | 654 | 1431 | 3827 | 1463 | 410288 | Private  | Green, David R  | 40th Regt  | Cumberlind, Mrs. K  | Huntley Court, Oldbury Rd., Tewkesbury, Glos, Eng. | England  | Belleville  | May | 20, 1915. |
-| 8 | 654 | 1461 | 3827 | 1492 | 410752 | Private  | Green, William  | Nil  | Green, William  | 31 Wyatt Ave., Toronto, Ont  | Canada  | Lindsay  | May | 31, 1915. |
-| 8 | 655 | 1487 | 3827 | 1521 | 410500 | Private  | Greenwood, Alfred  | Imp. Forces  | Greenwood, Mrs. Annie Louise. | Cornwall, Ont  | England  | Cornwall  | Jan. | 18, 1915. |
-| 8 | 654 | 1518 | 3827 | 1551 | 410289 | Private  | Greig, Archibald Campbell... | G.G.F.G  | Greig, Miss Belle  | 131 Bank St., Ottawa, Ont  | Canada  | Ottawa  | July | 19, 1915. |
-| 8 | 654 | 1545 | 3827 | 1578 | 410290 | Private  | Grenock, Mik  | Nil  | Grenock, Gricoruk  | Grodno, Russia  | Russia  | Barriefield Cmp | July | 23, 1915. |
-| 8 | 653 | 1574 | 3828 | 1608 | 410501 | Privarte  | Grice, George James  | Nil  | Grice, Mrs. Edith  | Gananoque, Ont  | Canada  | Ottawa  | April | 28, 1915. |
-| 8 | 653 | 1603 | 3826 | 1637 | 410291 | Private  | Griffen, James  | Nil  | Griffen, Mrs. E  | P.O., Cumming's Bridge, Ont  | England  | Ottawa  | Mar. | 2, 1915. |
-| 8 | 653 | 1632 | 3827 | 1666 | 410292 | Private  | Griffiths, Harold  | Nil  | Griffiths, Charles  | 418 Laurier Ave., Ottawa, Ont  | England  | Ottawa  | Mar. | 19, 1915. |
-| 8 | 652 | 1661 | 3828 | 1694 | 410753 | Private  | Grison, Albert E  | 43rd Regt  | Grison, Mrs. Andre  | 211 Russell Ave., Ottawa, Ont  | Canada  | Ottawa  | June | 3, 1915. |
-| 8 | 653 | 1690 | 3828 | 1725 | 410754 | Sergeant  | Gross, Herbert  | C.A.M.C  | Gross, Mrs. Bertha  | 15 Beverley St., Toronto, Ont  | Canada  | Lindsay  | Mar. | 4, 1915. |
-| 8 | 652 | 1719 | 3828 | 1752 | 410293 | Private  | Guilmet, Wilfred  | Nil  | Guilmet, Adolf  | Cornwall, Ont  | Canada  | Cornwall  | June | 9, 1915. |
-| 8 | 652 | 1749 | 3828 | 1783 | 410951 | Sergeant  | Guthrie, Donald  | Nil  | Guthrie, Rev. Dr. Donald  | 294 Somerset St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 22, 1915. |
-| 8 | 652 | 1778 | 3828 | 1812 | 410502 | Sergeant  | Gyselinck, Emeric Francis C. | Belgian Army  | Gyselinck, Mrs. Emma  | 8 West Bromwick Rd., Walsall, Staffs, Eng  | Belgium  | Ottawa  | Feb. | 22, 1915. |
-| 8 | 651 | 1807 | 3828 | 1842 | 410294 | Corporal | Hagar, Walter James  | Nil  | Hagar, Mrs. Rose  | Westborough, Ont  | England  | Ottawa  | Mar. | 1, 1915. |
-| 8 | 651 | 1836 | 3828 | 1869 | 410295 | Private  | Haggis, Ernest Charles  | Nil  | Haggis, Mrs. Emily  | 6 Caroline St., Camden Town, London N.W., Eng  | England  | Barriefield Cmp | July | 23, 1915. |
-| 8 | 652 | 1865 | 3828 | 1897 | 410503 | Private  | Hailstone, Herbert  | Nil  | Hailstone, Mrs. Emily  | 26 Albany Rd., Manor Park, London, Eng  | England  | Barriefield... | May | 28, 1915. |
-| 8 | 652 | 1894 | 3828 | 1928 | 410755 | Private  | Halliwell, Benjamin  | Nil  | Halliwell, Mrs. Hannah  | Leeds, Yorks, Eng  | England  | Ottawa  | June | 10, 1915. |
-| 8 | 652 | 1923 | 3828 | 1955 | 410297 | Private  | Hamilton, David Orval  | Nil  | Hamilton, Mrs. Margaret  | Cobden, Ont  | Canada  | Barriefield... | July | 23, 1915. |
-| 8 | 652 | 1952 | 3829 | 1984 | 41029S | Private  | Hamilton, John  | Nil  | Hamilton, Mrs. Jean  | 226 Wilton Ave., Toronto, Ont  | Scotland  | Barriefield Cmp | July | 23, 1915. |
-| 8 | 652 | 1980 | 3829 | 2013 | 410299 | Private  | Hammond, Ernest Horace  | Nil  | Hammond, Mrs. E. H  | Pembroke, Ont  | Ireland  | Barriefield Cmp | July | 23, 1915. |
-| 8 | 653 | 2010 | 3829 | 2043 | 410300 | Private  | Hands, Harry M  | G.G.F.G  | Hands, Mrs. Mary  | 253 Bell St., Ottawa, Ont  | England  | Ottawa  | May | 17, 1915. |
-| 8 | 652 | 2039 | 3829 | 2071 | 410301 | Private  | Hanley, J. William  | Nil  | Hanley. Joseph  | 461 Clarence St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 26, 1915. |
-| 8 | 653 | 2068 | 3829 | 2103 | 410756 | Sergeant  | Hanniford, Charles  | Nil  | Hanniford, Mrs. Charlotte  | 943 Queen St. W., Toronto, Ont  | England  | Lindsay  | May | 21, 1915. |
-| 9 | 355 | 370 | 3513 | 404 | 41010 | Private  | Hansen, Oscar Kermit  | Nil  | Hansen, Mrs. Rose  | P.O., Hunter’s Point, P.Q  | Canada.. | Ottawa  | Feb. | 26 | 1915. |
-| 9 | 355 | 399 | 3513 | 434 | 41075! | Private  | Harper, David Millen  | Nil  | Harper, John A  | 737 Brock Ave., Toronto, Ont  | Canada.. | Lindsay  | May | 28 | 1915. |
-| 9 | 354 | 428 | 3513 | 465 | 41075 | L.-Corporal  | Harper, Edward Douglas  | Nil  | Norwich, Mrs. Lillie  | 283 Waverley Rd., Toronto, Ont  | Canada.. | Lindsay  | May | 29 | 1915. |
-| 9 | 354 | 457 | 3513 | 492 | 41030 | Private  | Harper, Frank Elliott  | Nil  | Harper, Mrs. Mary  | Mattawa, Ont  | England.. | Barriefield Cmp | Julv | 23 | 1915. |
-| 9 | 353 | 486 | 3513 | 522 | 41030. | Private  | Harris, George  | Nil  | Tariff, Mrs. William  | Shawville, P.Q  | Canada.. | Barriefield Cmp | July | 23 | 1915. |
-| 9 | 352 | 515 | 3513 | 552 | 41030- | Private  | Harris, Percy Leonard  | Can. Eng  | Harris, Mrs. Mary E.    | 333 Bell St., Ottawa, Ont  | England. | Ottawa  | Mar. | 1 | 1915. |
-| 9 | 352 | 545 | 3513 | 581 | 41075E | Sergeant  | Harris, Thomas Edward  | Nil  | Harris, Mrs. Annie Louisa. . | 51 Fore St., Totnes, Devon, Eng  | England., | Ottawa  | Feb. | 22 | 1915. |
-| 9 | 351 | 573 | 3513 | 610 | 41030. | Private  | Harrison, Henry  | Nil  | Harrison, Nelson  | Mildmay, Ont  | Canada.. | Belleville  | May | 11 | 1915. |
-| 9 | 350 | 602 | 3513 | 640 | 41010' | Private  | Harrison, Percy  | 43rd Regt  | Harrison, Mrs. Laura  | 5 Hill St., Ottawa, Ont  | Canada.. | Ottawa  | May | 17 | 1915. |
-| 9 | 350 | 632 | 3513 | 668 | 41076C | Private  | Hart, John  | U. S. Army  | Johns, C. D  | 322 Church St., Toronto, Ont  | Canada.. | Lindsay  | May | 21 | 1915. |
-| 9 | 349 | 660 | 3513 | 698 | 41076: |  | Hartly, Frederick Murray  | Nil  | Hartly, George  | 2196 Notre Dame St. W., Montreal, P.Q. ... | Canada.. | Lindsay  | May | 29 | 1915. |
-| 9 | 349 | 690 | 3512 | 726 | 410762 |  | Harty, Thomas  | Nil  | Harty, John  | Milestone, Thurles, Co. Tipperary, Ire  | Ireland... | Brockville  | June | 9 | 1915. |
-| 9 | 348 | 719 | 3513 | 755 | 410763 |  | Harvey, Thomas  | Nil  | Pomeroy, Mrs. Thomas. . . | Port Hope, Ont  | Canada.. | Barriefield... | July | 6 | 1915. |
-| 9 | 347 | 749 | 3513 | 783 | 410764 |  | Hawes, Frederick  | Imp. Forces  | Hawes, Mrs. Annie  | 36 Collier St., Toronto, Ont  | England.. | Lindsay  | Mar. | 15 | 1916. |
-| 9 | 347 | 778 | 3512 | 812 | 410504 |  | Hawke, Arthur Frank  | 10th Regt   | Hawke, Miss Elizabeth  | 38 Dufferin Ave., Ottawa, Ont  | Canada.. | Ottawa  | April 28 | 1915. |
-| 9 | 347 | 807 | 3512 | 841 | 410306 |  | Hawkins, Gordon  | Nil    | Hawkins, John J   | 854 Somerset St., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 1 | 1915. |
-| 9 | 346 | 837 | 3512 | 870 | 410505 | Private  | Hayes, John  | Territorials  | Hayes, Harriet  | Camberwell Green, London, S.E., Eng  | England.. | Cornwall  | 20 | 1915. |
-| 9 | 345 | 866 | 3512 | 899 | 410506 | Private  | Hayes, Thomas  | Nil  | Hayes, John  | Gen. Del., Ottawa, Ont  | Ireland... | Barriefield... | 28, | 1915. |
-| 9 | 345 | 895 | 3512 | 927 | 410765 | Private  | Hayward, John  | Nil  | Hayward, John  | Duke’s Rd., Tunbridge Wells, Kent, Eng. | England.. | Barriefield... | Julv | 6 | 1915. |
-| 9 | 344 | 924 | 3512 | 956 | 410766 | Private  | Headland, Alfred James Y  | Nil  | Pyefinch, Mrs  | 10 Bay view Ave., Ottawa, Ont  | England.. | Barriefield. . . | 6 | 1915. |
-| 9 | 344 | 952 | 3513 | 985 | 410770 | Private  | Heeney, Bond Roy E  | Nil  | Heeney, Mrs. Mary  | P.O., Aylwin, P.Q  | Canada.., | Barriefield. .. | •Julv | 28 | 1915. |
-| 9 | 343 | 981 | 3513 | 1014 | 410767 | Private  | Hemmings, Alfred Henry  | Nil  | Hemmings, Lilly   | 156 Shaw St., Toronto, Ont  | England.. | Lindsay  | Mar. | 15 | 1915. |
-| 9 | 342 | 1009 | 3513 | 1042 | 410768 | Private  | Henderson, James  | Nil  | Henderson, Mrs. Catherine. | c/o H. Smith, 47 Gilbert St., Glasgow, Scot. | Scotland. | Barriefield Cmp | Julv | 6 | 1915. |
-| 9 | 342 | 1038 | 3513 | 1071 | 410769 | Private  | Henderson, Walter B  | Nil  | Henderson, Robert R. W... | Kinmount, Ont  | Canada... | Lindsay  | June | 8 | 1915. |
-| 9 | 341 | 1067 | 3512 | 1102 | 410103 | Sergeant  | Henderson, Wilbert Alexander.. | Nil  | Henderson, Mrs. Mary  | Hull, P.Q | Canada.., | Ottawa  | Feb. | 26 | 1915. |
-| 9 | 341 | 1095 | 3513 | 1130 | 410771 | Private  | Henophy, Charles N  | 1th Huss  | Henophy, Patrick  | Cardinal, Ont, | Canada.., | Barriefield  | Julv | 6 | 1915. |
-| 9 | 341 | 1124 | 3513 | 1159 | 410296 | Private  | Henson, Henry  | Nil  | Henson, Mrs. Ellen  | 347 Gloucester St., Ottawa, Ont. | England.. | Ottawa  | Mar. | 2 | ,1915. |
-| 9 | 339 | 1153 | 3513 | 1187 | 410307 | Private  | Hickson, Thomas  | Nil  | Paskell, Miss Daisy  | Highland Creek, Ont | Scotland. | Barriefield Cmp | April | 23 | 1915. |
-| 9 | 339 | 1182 | 3513 | 1217 | 410310 | Private  | Higgins, Patrick  | C.A.M.C  | Higgins, Robert  | Not stated | England.. | Ottawa  | Mar. | 5 | 1915. |
-| 9 | 339 | 1212 | 3513 | 1245 | 410772 | Private  | Hill, Bertram  | Nil  | Hill, Mrs. Thomas  | 27 Beaconsfield Ave., Toronto, Ont. | Canada.., | Lindsay  | 7 | 1915. |
-| 9 | 339 | 1240 | 3513 | 1276 | 410109 | Corporal  | Hill, John  | Nil  | Hill, Mrs. John  | 16 Loone Rd. Lochee, Dundee, Scot  | Scotland. | Ottawa  | Feb. | 24 | 1915. |
-| 9 | 339 | 1268 | 3513 | 1304 | 410.507 | Private  | Hill, John Gray  | Nil  | Hill, Mrs. John Gray  | 429 Roxton Rd., Toronto, Ont  | Scotland. | Barriefield. .. | July | 38 | 1915. |
-| 9 | 338 | 1302 | 2816 | 1332 | 410110 | Private  | Hill, Samuol.  ... .   | Nil  . | Crewe, Mrs. Catherine  | 19 Florence Rd., Upper Tollington Pk., Stroud Green, |
-| 9 | 2099 | 1327 | 3513 | 1360 |  |  |  |  |  | London N., Eng  | England.. | Ottawa  | 10 | 1915. |
-| 9 | 337 | 1356 | 3513 | 1392 | 410111 | Sergeant  | Hillas, Julius  | Imp. Forces. | Hillas, Mrs. Effie  | 199 Creighton St., Ottawa, Ont  | England.. | Ottawa  | 17 | 1915. |
-| 9 | 336 | 1385 | 3513 | 1419 | 410112 | Private  | Himes, Patrick  | Territorials.. | Himes, Mrs. Mary  | 187 McGillivray St., Ottawa East, Ont  | England.. | Ottawa  | Feb. | 22 | 1915. |
-| 9 | 337 | 1414 | 3513 | 1448 | 410308 | Private  | Hiscock, Thomas William  | Territorials.. | Andrews, Mrs. K  | 1013 Danforth Ave., Toronto, Ont  | England.. | Smiths Falls. | June | 12 | 1915. |
-| 9 | 336 | 1443 | 3513 | 1477 | 410309 | Private  | Hiscox, James  | Nil  | Hiscox, Mrs. Agnes  | 24 Bolton St., Ottawa, Ont  | England.. | Ottawa  | 2 | 1915. |
-| 9 | 335 | 1472 | 3513 | 1508 | 410773 | Private  | Hoath, Frederick Joseph  | Nil  | Hoath, Samuel  | Knowles House, Jarvis Brook, Sussex, Eng  | England.. | Lindsay  | 7 | 1915. |
-| 9 | 335 | 1501 | 3513 | 1536 | 410774 | Private  | Hockney, Arthur  | Nil  | Hockney, Mrs. Jane  | Symons St., Mimico, Ont  | England.. | Lindsay  | 7 | 1915. |
-| 9 | 334 | 1530 | 3513 | 1563 | 411775 | Private  | Hoffman, Samuel  | Nil  | Hoffman, Mrs. Sarah  | 23 Glasgow St., Toronto, Ont  | England.. | Lindsay  | 7 | 1915. |
-| 9 | 335 | 1559 | 3513 | 1594 | 410508 | Private  | Hogan, George Patrick  | Nil  | Fournier, Peter  | P.O. Box 325, Pembroke, Ont   | Canada.., | Ottawa  | 4 | 1915. |
-| 9 | 333 | 1588 | 3513 | 1623 | 410778 | L.-Corporal  | Holgate, Frederick David  | 56th Regt... | Holgate, D  | c/o Mrs. Field, Lowes Farm, Kent, Eng  | England.. | Bermuda  | Nov. | 25 | 1915. |
-| 9 | 334 | 1617 | 3513 | 1652 | 410509 | Corporal  | Hollingshead, George Herbert. | Nil  | Hollingshead, Mrs. Mary E  | 14 Scarsdale PI., Buxton, Derby, Eng  | England.. | Alexandria— | Feb. | 27 | 1915. |
-| 9 | 333 | 1646 | 3513 | 1681 | 410776 | Private  | Hollingsworth, Alfred W  | 3rd Regt  | Hollingsworth, James William. | 245 York St., Ottawa, Ont  | England.. | Ottawa  | June | 26 | 1915. |
-| 9 | 332 | 1675 | 3513 | 1710 | 410113 | Private  | Hollington, Leonard  | Nil  | Hollington, Mrs. Mary  | 708 Cooper St., Ottawa, Ont    | Canada.., | Ottawa  | Feb. | 24 | 1915. |
-| 9 | 332 | 1702 | 3513 | 1739 | 410777 | Private  | Hoskins, George  | Imp. Forces. | Hoskins, Mrs. Elizabeth  | 49 Railway Side, Barnes, Surrey, Eng  | England.. | Lindsay  | 7 | 1915. |
-| 9 | 332 | 1733 | 3513 | 1768 | 410779 | Private  | Howard, George James  | Nil  | Howard, Mrs. Edelweiss  | 11 Cherokee Ave., Centre Island, Toronto, Ont  | England.. | Lindsay  | May | 8 | 1915. |
-| 9 | 331 | 1761 | 3514 | 1796 | 410780 | Private  | Howick, Henry Richard  | Nil  | Howick, Mrs. Edith Mary  | 50 Armstrong St., Ottawa, Ont  | England.. | Barriefield. . . | 6 | 1915. |
-| 9 | 332 | 1790 | 3514 | 1826 | 410311 | Private  | Hughes, Christopher Robert... | Nil  | Hughes, Mrs. Ellen  | Liverpool, Lancs, Eng  | England.. | Ottawa  | Mar. | 2 | 1915. |
-| 9 | 332 | 1819 | 3514 | 1855 | 410312 | Private  | Hughes, John Henry  | 14th Regt... | Hughes, Mrs. J. H  | 87 Barrack St., Kingston, Ont  | England.. | Barriefield Cmp | Julv | 23 | 1915. |
-| 9 | 332 | 1848 | 3514 | 1883 | 410782 | Private  | Hughes, Thomas  | Nil  | Hughes, Mrs. Katherine  | 87 Barrack St., Kingston, Ont  | England.. | Barriefield... | Julv | 6 | 1915. |
-| 9 | 330 | 1877 | 3513 | 1913 | 410781 | Private  | Humphrey, Harry  | Nil  | Humphrey, Mrs. Emily  | 7 Bridge St., Abingdon, Berks, Eng  | England.. | Lindsay  | Mar. | 19 | 1915. |
-| 9 | 330 | 1906 | 3513 | 1941 | 410313 | Private  | Hunt, Samuel J  | Nil  | Hunt, Mrs. Annie  | 170 Arlington Ave., Ottawa, Ont  | England.. | Ottawa  | Feb. | 26 | 1915. |
-| 9 | 329 | 1935 | 3513 | 1970 | 410314 | Private  | Hunt, William E  | G.G.F.G.... | Hunt, Mrs. Margaret  | Westborough. Ont  | England.. | Ottawa  | Feb. | 26 | 1915. |
-| 9 | 330 | 1964 | 3514 | 1999 | 410114 | Private  | Hunter, Harold   | Nil  | Hunter, Mrs. David  | 6 Viewforth Terr., Edinburgh, Scot  | Scotland. | Ottawa  | April | 10 | 1915. |
-| 9 | 329 | 1994 | 3514 | 2028 | 410783 | ’rivate  | Hunter, William   | Nil  | Hunter, Samuel    | 37 Garnock Ave., Toronto, Ont  | Scotland. | Lindsay  | 28 | 1915. |
-| 9 | 329 | 2022 | 3515 | 2057 | 410510 | Mvate  | Hunter, William McLean  | Nil  | Hunter, John  | 271 Bank St., Langloan, Coatbridge, Lanark, Scot  | Scotland. | Brockville  | Mar. | 25 | 1915. |
-| 9 | 329 | 2050 | 3514 | 2087 | 410315 | ’rivate  | Hurst, Stanley Charles   | Nil  | Hurst, Mrs. Helena  | The Cot, Silverdale Ave., West Cliff-on-Sea, Eng  | England.. | Barriefield Cmp | Julv | 23 | 1915. |
-| 9 | 329 | 2080 | 3513 | 2117 | 410115 | ’rivate  | Hussick, William John   | Can. Eng.... | Hussick, Mary Alice  | 829 Carling Ave., Ottawa, Ont  | Canada.., | Ottawa  | May | 17 | 1915. |
-| 10 | 658 | 456 | 3329 | 504 | .0 |  | Former Corps. |  |  | Country of |
-| 10 | 655 | 616 | 3820 | 648 | 410784 | Private | Hutchinson, Alexander  | Nil  | Hutchinson, George  | 15 Angle St., Stonehouse, Lanark, Scot  | Scotland. | Lindsay... | Mar. | 23.1915. |
-| 10 | 655 | 645 | 3822 | 679 | 410785 | Private | Hutchinson, John C. Ash... | Nil  | Hutchinson, Mrs. Lilly   | 52 Dundas St., Toronto, Ont   | Canada.. | Lindsay... | Mar. | 26, 1915. |
-| 10 | 655 | 675 | 3822 | 707 | 410116 | Private | Hutton, Samuel Stuart  | 5 th Drag | Not stated    | Not stated    | Scotland. | Ottawa  | Feb. | 22, 1915. |
-| 10 | 654 | 704 | 3823 | 736 | 410511 | C.Q.M.S  | Hyslop, George   | U.S. Army. | Hyslop, Misses Norma and Jessie | Smith’s Falls, Ont  | Canada.., | Ottawa  | Feb. | 24, 1915. |
-| 10 | 654 | 734 | 3822 | 764 | 410512 | Sergeant | Hyslop, Orville Newton  | Nil  | Hyslop, Janet  | Smith’s Falls, Ont  | Canada.., | Ottawa  | Feb. | 24, 1915. |
-| 10 | 654 | 763 | 3823 | 794 | 410117 | Private | Igglesden, Percy  | Nil  | Igglesden, Mrs. Florence  | Westborough, Ont    | England.. | Ottawa  | Feb. | 26, 1915. |
-| 10 | 654 | 792 | 3822 | 822 | 410316 | Private  | Illes, Charles Milton  | Nil  | Illes, Edward  | Cornwall, Ont  | Canada... | Cornwall.. | June | 9, 1915. |
-| 10 | 653 | 821 | 3822 | 853 | 410317 | Private  | Ilsley, William Walter  | Nil  | Ilsley, Mrs. Ellen  | 98 Mann St., London, Eng...  | England.. | Barriefield Cmp | July | 23.1915. |
-| 10 | 653 | 850 | 3822 | 882 | 410318 | Private  | Ince, George Victor  | 42nd Regt... | Ince, George   | Smith’s Falls, Ont  | England.. | Smith’s Falls... | ■June | 3, 1915. |
-| 10 | 652 | 879 | 3822 | 911 | 410786 | Private  | Ingle, Stephen  | 45th Regt... | Ingie, Mrs. Sarah  | 20 Melbourne St., Lindsay, Ont  | Canada... | Lindsay  | Mar. | 5, 1915. |
-| 10 | 652 | 908 | 3822 | 939 | 410787 | Private  | Jack, Alexander  | Nil  | Jack, Robert  | Easter Shoretown, Cullicudden, Scot  | Scotland. | Lindsay  | Mar. | 25, 1915. |
-| 10 | 651 | 937 | 3822 | 969 | 410319 | Private  | Jackson, Albert John  | Nil  | Jackson, Mrs. Celia  | P.O., Westborough, Ont     | England.. | Ottawa  | Feb. | 26, 1915. |
-| 10 | 650 | 961 | 3822 | 999 | 410320 | Private  | James, Frederick  | Nil. | James, Mrs. Clara   | No. 3 Clifton St., London, Eng  | England.. | Smith’s Falls... | June | 9, 1915. |
-| 10 | 650 | 995 | 3822 | 1027 | 410321 | Private  | Jeffrey, Reginald Clifford.. | Nil. | Jeffrey, George A  | St. Eleanor’s, P.E.I  | U.S.A.... | Ottawa  | Feb. | 24, 1915. |
-| 10 | 649 | 1025 | 3822 | 1056 | 410322 | Private  | Jock, Francis  | Nil. | Jock, Joseph  | Cornwall, Ont  | Canada... | Cornwall  | June | 9. 1915. |
-| 10 | 649 | 1054 | 3822 | 1084 | 410513 | Private  | Jodoin, David Bernard  | Nil. | Jodoin, Frederick .  | lenroy, Ont  | Canada... | Alexandria  | Feb. | 27, 1915. |
-| 10 | 649 | 1082 | 3821 | 1112 | 410323 | Private  | Johns, Wilbur  | Nil. | Johns, Mrs. Sarah  | Pembroke, Ont  | Canada... | Barriefield Cmp | Julv | 23, 1915. |
-| 10 | 649 | 1112 | 3822 | 1144 | 41078S | Private..... | Johnson, Donald  | Nil. | Johnson, Mrs. Margaret  | 274 Bell St., Ottawa, Ont  | Canada... | Barriefield  | July | 29, 1915. |
-| 10 | 649 | 1141 | 3823 | 1173 | 410789 | Private  | Johnson, Earl Edwin  | Nil. | Johnson, John Fletcher  | 56 Glenelg St., Lindsay, Ont  | Canada... | Lindsaj  | May | 14, 1915. |
-| 10 | 648 | 1169 | 3822 | 1201 | 410790 | Private  | Johnson, George  | Nil. | Johnson, John  | Donegal, Ire  | Ireland... | Lindsay  | May | 28, 1915. |
-| 10 | 647 | 1199 | 3822 | 1230 | 410791 | Private  | Johnson, James  | Nil. | Sweny, F. W  | 1 Lincoln PI., Westland Rd., Dublin, Ire  | Ireland... | Lindsay  | Apr. | 22, 1915. |
-| 10 | 647 | 1226 | 3822 | 1259 | 410792 | Private  | Johnson, Robert James S... | Nil. | Johnson, Thomas Lawrence  | 45 Seymour Ave., Toronto, Ont  | England.. | Lindsay  | May | 21, 1915. |
-| 10 | 647 | 1257 | 3822 | 1288 | 410793 | Corporal. .., | Johnson, Samuel  | Nil. | Johnson, Mrs. Ellen  | 26 Glentill St., Belfast, Ire  | Ireland... | Ottawa  | May | 31, 1915. |
-| 10 | 646 | 1287 | 3821 | 1318 | 410324 | Private  | Johnston, William John  | Nil. | Johnston, William  | Trillick, Co. Tyrone, Ire  | Ireland... | Alexandria  | June | 9, 1915. |
-| 10 | 646 | 1316 | 3821 | 1347 | 410922 | Private  | Joly, Henry   | Nil. | Joly, Mrs. Ama  | James St., Hawkesbury, Ont  | Canada... | Ottawa  | Apr. | 10, 1915. |
-| 10 | 646 | 1345 | 3822 | 1376 | 410118 | Private  | Joly, Joseph   | G.G.F.G.... | Joly, Mrs. Rose  | 389 St. Patrick St., Ottawa, Ont  | Canada... | Ottawa  | May | 17, 1915. |
-| 10 | 646 | 1374 | 3822 | 1405 | 410119 | Private  | Jones, Arthur Stanley  | Nil  | Jones, Horace  | 119 Guiness Bldg., Page’s Walk, London, Eng. | England.. | Ottawa  | Feb. | 22, 1915. |
-| 10 | 645 | 1402 | 3822 | 1433 | 410514 | Private  | Jones, Charles Stewart  | Nil  | Jones, Mrs. M  | Marmora, Ont  | Canada... | Belleville  | July | 14, 1915. |
-| 10 | 645 | 1429 | 3822 | 1462 | 410794 | Private  | Jones, Frederick  | Nil  | Jones, William  | Cardiff, Wales  | Wales | Lindsay  | May | 7, 1915. |
-| 10 | 645 | 1460 | 3821 | 1492 | 410515 | Private  | Tones, Hubert Murray  | 49th Regt... | Jones, Mrs. Mary  | Marmora, Ont  | Canada... | Belleville  | May | 11, 1915. |
-| 10 | 644 | 1489 | 3822 | 1521 | 410327 | Private  | Keene, Clarence Edmund  | Nil  | Keene, Charles..  | 135 Soudan Ave., Toronto, Ont  | Canada... | Barriefield Cmp | Julv | 23, 1915. |
-| 10 | 644 | 1518 | 3822 | 1549 | 410328 | Private  | Keene, Gordon Finamore  | 12th Regt... | Keene, Charles  | 135 Soudan Ave., Toronto, Ont  | Canada... | Barriefield Cmp | July | 23, 1915. |
-| 10 | 643 | 1548 | 3821 | 1579 | 410325 | Private  | Keith, George  | Nil  | Keith, Mrs. Harriet  | 20 Bellview Rd., Totterdown, Bristol, Eng  | England.. | Ottawa  | Mar. | 2, 1915. |
-| 10 | 643 | 1577 | 3834 | 1607 | 410120 | L.-Corporal. | Kellar, Ross Elmer  | C.A.S.C  | Kellar, Mrs. Isabella  | 91 Holland Ave., Ottawa, Ont  | Canada... | Ottawa  | Feb. | 24, 1915.. |
-| 10 | 643 | 1606 | 3275 | 1637 | 410516 | Private  | Kelly, A. T  | Nil  | Kelly, Mrs. A. J  | 114 Wellington St., Hull, P.Q  | Canada... |
-| 10 | 642 | 1634 | 3821 | 1665 | 410517 | Private  | Kelley, Harry Alfonsus  | Nil  | O’Brien, Michael J  | Renfrew, Ont  | U.S.A. | Ottawa  | Apr. | 28, 1915. |
-| 10 | 643 | 1663 | 3821 | 1694 | 410519 | Private  | Kelley, Joseph Patrick  | Imp. Forces. | Moodie, Miss L  | 312 Laurier Ave. E., Ottawa, Ont  | Ireland... | Barriefield... | May | 28, 1915. |
-| 10 | 643 | 1692 | 3822 | 1723 | 410326 | Private  | Kelley, Samuel James  | Can. Eng.... | Kelly, Mrs. Ellen  | 19 Lome Ave., Ottawa, Ont .  | Canada... | Ottawa  | Mar. | 1, 1915. |
-| 10 | 642 | 1721 | 3825 | 1752 | 410519 | Private  | Kelton, David  | Nil  | Kelton, Mrs  | 108 McLam St., Glasgow, Scot  | Scotland. | Ottawa  | Apr. | 28, 1915. |
-| 10 | 642 | 1749 | 3820 | 1782 | 410329 | Private  | Kemp, George Austin  | Nil  | Kemp, Mrs. Elizabeth  | Wellington Terr., Clifton, Bristol, Eng  | England.. | Barriefield Cmp | July | 23.1915. |
-| 10 | 642 | 1778 | 3807 | 1810 | 410121 | Private  | Kenefick, James  | Nil  | Tallan, Edward  | Bowesville, Ont  | England.. | Ottawa  | May | 4.1915. |
-| 10 | 642 | 1808 | 3821 | 1840 | 410520 | Private  | Kennedy, Edward  | Territorials. | Kennedy, Mrs. Mary Ann  | 15 Roches St., Waterford, Ire  | Ireland... | Ottawa  | Apr. | 28.1915. |
-| 10 | 641 | 1836 | 3821 | 1868 | 410330 | Private  | Kerr, William  | Nil  | Kerr, Mrs. William  | Glebe St., Hamilton, Scot  | Scotland. | Ottawa  | May | 20.1915. |
-| 10 | 641 | 1866 | 3821 | 1895 | 410952 | Private  | Kerr, William James  | Territorials. | Not stated  | Notstated  | Scotland. | Ottawa  | Apr. | 10.1915. |
-| 10 | 642 | 1895 | 3821 | 1927 | 410521 | Sergeant  | Killarr.ey, Brandon Andrew. | Nil  | Killarney, Elizabeth  | Hants, Eng  | England.. | Ottawa  | Apr. | 28.1915. |
-| 10 | 641 | 1924 | 3821 | 1956 | 410331 | Private  | Kilsby, Timothy  | Nil  | Kilsby, Mrs. Elizabeth  | 7 CameronAve., Westborough, Ont  | England., | Ottawa  | May | 4.1915. |
-| 10 | 641 | 1953 | 3821 | 1985 | 410961 | Private...... | Kimbur, Herbert  | Nil  | Kimbur, Mrs. Lucy   | 211 Kent St., Ottawa, Ont  | England.. | Barriefield  | May | 28.1915. |
-| 10 | 641 | 1983 | 3821 | 2013 | 410332 | Private  | King, George  | Nil   | Not stated  | Not stated  | England.. | Napanee  | May | 15.1915. |
-| 10 | 640 | 2012 | 3822 | 2043 | 410795 | Private  | Kinghorn, Herbert Clayton.. | Nil   | Kinghorn, Mrs. Eva  | Cornwall, Ont  | Canada.. | Barriefield  | July | 6.1915. |
-| 11 | 361 | 368 | 3518 | 401 | 410796 | L.-Corporal  | Kinmond, Joseph MacKenzie  | Nil  | Kinmond, Mrs. J. M  |  | July 28,1915, |
-| 11 | 361 | 397 | 3520 | 431 | 410953 | Private  |  | C.F.A  | Kirby, T. Sidney  |  | Feb. 26,1915. |
-| 11 | 361 | 426 | 3520 | 460 | 4103& | Private  |  |  | Kirkey, John F  |  | June 9,1915. |
-| 11 | 361 | 455 | 3520 | 489 | 410122 | Private  |  |  | Knapp, John  |  | July 28, 1915. |
-| 11 | 360 | 485 | 3519 | 519 | 410522 | Private  | Knight, John  | Nil  | Knight, Mrs. Emily  |  | July 28,1915. |
-| 11 | 360 | 514 | 3519 | 548 | 41033^ | Private  |  |  | Knight, Mrs. Margaret.. |  | Oct. 26,1915. | Bermuda  |
-| 11 | 360 | 543 | 3517 | 577 | 410335 | Private  |  |  | Krasinski, Mrs. Veronica |  | July 23,1915. | Barriefield Cmp |
-| 11 | 360 | 572 | 3518 | 612 | 410123 | Corporal  |  | G.G.F.G  | Kuhn, Frederick... %  |  | Mar. 19,1915. |
-| 11 | 359 | 601 | 3518 | 634 | 410124 | Private  |  | Nil  | Labelle, Mme. Beatrice  |  | May 4, 1915. |
-| 11 | 359 | 631 | 3518 | 664 | 410125 | Private  | Lachance, Nelson John  | G.G.F.G  | Lachance, Mrs. Irene  |  | Feb. 22, 1915. |
-| 11 | 359 | 660 | 3519 | 693 | 410126 | Private  |  |  | Lacoste, Mrs. R. A  |  | July 21,1915. |
-| 11 | 358 | 690 | 3519 | 722 | 410336 | Private  |  | Nil  | Lafontaine, Mrs. Eva  |  | Feb. 26, 1915. |
-| 11 | 358 | 719 | 3518 | 753 | 410337 | Private  |  | Nil  | Aquin, Mrs. A  |  | Feb. 25,1915. |
-| 11 | 358 | 749 | 3519 | 780 | 410523 | Private  |  |  | Laird, Mrs. Martha Taylor |  | July 28, 1915. |
-| 11 | 357 | 778 | 3519 | 809 | 410338 | Private  |  |  | Lalonde, Abraham  |  | June 9, 1915. |
-| 11 | 357 | 807 | 3519 | 838 | 410797 | Private  |  | Nil  | Lalonde, Alphonse  |  | July 6, 1915. |
-| 11 | 356 | 836 | 3518 | 867 | 410339 | Private  | Lalonde, Alexander  |  | Lalonde, Gregor  |  | July 23,1915. | Barriefield Cmp |
-| 11 | 356 | 866 | 3519 | 896 | 410524 | Private  |  |  | Lalonde, Mrs. Ellen  |  | Jan. 18,1915. |
-| 11 | 356 | 894 | 3519 | 925 | 410340 | Private  | Lalonde, Maurice Rene  | Nil  | Lalonde, Mrs. Maria  |  | Mar. 12, 1915. |
-| 11 | 356 | 923 | 3519 | 954 | 410525 | Private  |  | Nil  | Lalonde, Mrs. P. G  |  | Feb. 27, 1915. |
-| 11 | 355 | 952 | 3519 | 983 | 410798 | Private  | Lalonde, Robert  | Nil  | Lalonde, Angus  |  | July 28, 1915. |
-| 11 | 355 | 980 | 3520 | 1010 | 410800 | Private  |  | Nil  | Lamb, Mrs. Esther  |  | Mar. 19, 1915. |
-| 11 | 355 | 1009 | 3520 | 1039 | 410799 | Private  |  | Nil  | Lambe, William  |  | May 7, 1915. |
-| 11 | 355 | 1038 | 3520 | 1068 | 410526 | Corporal  |  | Nil  | Lambie, Mrs. Elizabeth.... |  | July 28, 1915. |
-| 11 | 354 | 1067 | 3520 | 1098 | 410S01 | Private  |  | Nil  | Lane, Mrs. Margaret  |  | May 8, 1915. |
-| 11 | 354 | 1096 | 3520 | 1127 | 410S02 | Private  |  |  | Lang, Mrs. Ellen  |  | Mar. 22, 1915. |
-| 11 | 354 | 1124 | 3521 | 1156 | 410527 | Private  | Langford, Stuart Clifford  |  | Langford, Mrs. Clara P  |  | July 31, 1915. |
-| 11 | 353 | 1154 | 3521 | 1184 | 410341 | Private  |  | Nil  | Lanoux,P  |  | Mar. 1,1915. |
-| 11 | 353 | 1183 | 3521 | 1213 | 410342 | Private  |  | Nil  | Lappin, Winnifred  |  | Mar. 1,1915. |
-| 11 | 353 | 1212 | 3522 | 1243 | 410528 | Private  |  |  | Larocque, George  |  | Mar. 25, 1915. |
-| 11 | 353 | 1241 | 3522 | 1271 | 410803 | Private  |  |  | Larocque, Mrs. Rose  |  | July 29, 1915. |
-| 11 | 352 | 1270 | 3523 | 1300 | 410127 | Private  |  | Nil  | Laronde, Mrs. Celcia  |  | July 28,1915. | Barriefield Cmp |
-| 11 | 352 | 1300 | 3522 | 1328 | 410529 | Private  |  | Nil  | Lashomb, Alexander  |  | Jan. 22, 1915. | Cornwall  |
-| 11 | 352 | 1329 | 3523 | 1357 | 410S04 | Private  |  | Nil  | Latham, Mrs. Edward  |  | Mav 20, 1915. |
-| 11 | 352 | 1357 | 3520 | 1388 | 410532 | Private  |  | Nil  | Lauzon, Margaret  |  | May 6,1915. | Ottawa  |
-| 11 | 351 | 1386 | 3521 | 1416 | 410343 | Private  |  | Nil  | Laverty, Mrs. Bessie  |  | July 23,1915. | Barriefield Cmp |
-| 11 | 351 | 1416 | 3522 | 1445 | 410805 | Private  |  | Nil  | Lawes, Mrs. Emily Maude |  | June 3, 1915. |
-| 11 | 351 | 1444 | 3522 | 1474 | 410128 | Private  | Law’rence, Edmund Clifton  | R.C.R  | Lawrence, Mrs. Frances  |  | July 21, 1915. | Ottawa  |
-| 11 | 351 | 1473 | 3522 | 1502 | 410806 | Private  |  | Nil  | Lawrence, Mrs. Rachel  |  | July 28, 1915. | Barriefield Cmp |
-| 11 | 350 | 1502 | 3523 | 1532 | 410530 | Private  |  |  | Lawrie, Mrs. Margaret  |  | July 28, 1915. |
-| 11 | 350 | 1531 | 3523 | 1560 | 410344 | Private  |  | Nil  | Lazarus, Mrs. Ella  |  | July 28, 1915. |
-| 11 | 350 | 1560 | 3523 | 1590 | 410S07 | Private  |  |  | Lee, Mrs. Maggie  |  | May 7, 1915. |
-| 11 | 350 | 1589 | 3523 | 1619 | 410808 | Private  | Lee, Oswald Henry  | Nil  | Lee, Mrs. George  |  | May 14, 1915. |
-| 11 | 349 | 1618 | 3525 | 1648 | 410346 | Private  |  | G.G.F.G  | Leger, Mrs. Emma  | Ottawa  | Feb. 26,1915. |
-| 11 | 349 | 1648 | 3523 | 1677 | 410345 | Private  | Leitch, William Hayden  | Nil  | Leitch, Mrs. Elizabeth  | Barriefield Cmp | July 23,1915. |
-| 11 | 349 | 1677 | 3523 | 1705 | 410533 | Private  | Lemire, Napoleon  | Nil  | Lemire, Joseph  |  | Feb. 19,1915. |
-| 11 | 349 | 1706 | 3523 | 1735 | 410809 | Private  | Lenehan, Thomas Arthur J  | Nil  | Lenehan, Mrs. Sarah . |  | May 22,1915. | Lindsay  |
-| 11 | 349 | 1734 | 3523 | 1763 | 410347 | Private  | Leonard, Harry  | Nil  | Dr. Barnardo’s Home  |  | July 28,1915. | Barriefield Cmp |
-| 11 | 350 | 1764 | 3523 | 1792 | 410534 | Private  |  | Nil... | Leonard, Peter  |  | Julv 28,1915. | Barriefield  |
-| 11 | 349 | 1792 | 3523 | 1822 | 410348 | Corporal  | Le Pot, Henry Leonard  | G.G.F.G  | Le Pot, Louise     |  | Mar. 1,1915. |
-| 11 | 349 | 1821 | 3523 | 1851 | 410129 | L.-Corporal  | Levasseur, Jack  | Nil  | Levasseur, Mrs. Elizabeth |  | Mar. 5,1915. |
-| 11 | 349 | 1850 | 3523 | 1881 | 410535 | Private  | Leveare, James Gordon  | Nil  | Seguin, William   |  | Mar. 9,1915. |
-| 11 | 349 | 1879 | 3523 | 1908 | 410810 | Private  | Lewis, Charles Walton  |  | Lewis, Mrs. Catherine.... |  | May 31,1915. |
-| 11 | 349 | 1908 | 3525 | 1938 | 410130 | Private  | Liberty, John  |  | Liberty, Mrs. Florida  |  | May 4, 1915. |
-| 11 | 348 | 1937 | 3526 | 1967 | 410349 | Private  |  | Nil  | Little, L  |  | May, 20, 1915. |
-| 11 | 347 | 1966 | 3526 | 1994 | 410350 | Private  | Littleford. Edward Williams | G.G.B.G  | Littleford, Mrs. Florence |  | July 22, 1915. | Barriefield Cmp |
-| 11 | 348 | 1995 | 3526 | 2025 | 410351 | Private  |  | Nil... | Lizotte, Napoleon  |  | July 23,1915. | Barriefield Cmp |
-| 11 | 349 | 2024 | 3526 | 2055 | 410352 | Sergeant  | Lloyd, Arthur  |  | Lloyd, Mrs. Arthur  |  | Feb. 26, 1915. |
-| 11 | 349 | 2054 | 3526 | 2084 | 410353 | Private  |  | Nil  | Longpre, Mrs. Emma  |  | May 20, 1915. |
-| 11 | 348 | 2083 | 3526 | 2113 | 410811 | Private  | Longtin, Francis  | Nil  | Longtin, Jean   |  | July 6, 1915. |
-| 12 | 646 | 522 | 3311 | 560 | Jg |  |  | Former Corps. |  |  | Country of |
-| 12 | 654 | 566 | 3758 | 590 | QJ |  |  |  |  |  |  | Place. | Date. |
-| 12 | 3369 | 666 | 3811 | 693 |  |  |  |  |  |  |  | Ottawa  | Apr. | 1915. |
-| 12 | 646 | 675 | 3259 | 705 | 410131 | Private  | Lonie, Robert A  | Imp. Forces. | Lonie, Mrs. R. P  | 227 Bank St., Ottawa, Ont  | Scotland. |
-| 12 | 3368 | 696 | 3811 | 722 |  |  |  |  |  |  |  | Brockville  | May | 1915. |
-| 12 | 645 | 704 | 3266 | 734 | 410354 | Private  | Lope, James  | Nil  | Marino, Mrs. Jennie  | 135 Prince St., Kingston, Ont  | Canada... |
-| 12 | 3368 | 724 | 3812 | 751 |  |  |  |  |  |  |  | Ottawa  | May | 1915. |
-| 12 | 645 | 733 | 3266 | 763 | 410132 | Private  | Loppen, Louis  | 43rd Regt. .. | Martin, Matthew  | 212 St. Catherine St., Montreal, P.Q  | Canada... |
-| 12 | 3368 | 754 | 3812 | 780 |  |  |  |  |  |  |  | Ottawa  | May | 1915. |
-| 12 | 645 | 762 | 3266 | 793 | 410133 | Private  | Love, Herbert  | G.G.F.G.... | Love, Mrs. Louise  | 10 Chapleau Ave., Ottawa, Ont  | Canada... |
-| 12 | 3368 | 782 | 3812 | 809 |  |  |  |  |  |  |  | Barriefield... | July | 1916. |
-| 12 | 644 | 791 | 3266 | 821 | 410531 | Private  | Lovell, Frederick  | Nil  | Lovell, Mrs. Clen  | 442 Richmond St. W., Toronto, Ont  | Canada... |
-| 12 | 644 | 812 | 3812 | 851 | 410962 | Private  | Lowe, Oliver  | G.G.F.G.... | Lowe, Mrs. Martha  | Haley Sta., Ont  | Canada... | Barriefield. .. | May | 1915. |
-| 12 | 3368 | 841 | 3812 | 866 |  |  |  |  |  |  |  | Ottawa  | Feb. | 1915. |
-| 12 | 643 | 849 | 3265 | 880 | 410134 | Private  | Lowry, Thomas  | Nil  | Lowry, Mrs. Jessie  | 271 Bay St., Ottawa, Ont  | Ireland... |
-| 12 | 3370 | 870 | 3813 | 897 |  |  |  |  |  |  |  | Not stated. .. | July | 1915. |
-| 12 | 644 | 878 | 3265 | 909 | 410536 | Private  | Luie, Toni  | Nil  | Luie, Lazarus  | Turil, Greece  | Greece... |
-| 12 | 644 | 899 | 3812 | 937 | 410537 | Private  | Lumsden, David  | Nil  | Lumsden, Rebecca  | Merrickville, Ont  | Scotland. | Barriefield Cmp | July | 1915. |
-| 12 | 643 | 928 | 3812 | 967 | 410923 | Private  | Lunny, Joseph Frank  | Nil  | Lunny, William Patrick  | 357 Oliver Ave., Westmount, P.Q  | Canada... | Ottawa  | May | 1915. |
-| 12 | 643 | 957 | 3812 | 1002 | 410812 | Private  | Lynch, Jame3  | Nil  | Lynch, James.;  | Hagersville, Ont  | Canada... | Ottawa  | May | 1910. |
-| 12 | 642 | 986 | 3812 | 1025 | 410390 | Private  | MacDonald, Leo  | Nil  | MacDonald, Wilfred  | 326,5th Ave., Ottawa* Ont  | Canada.., | Ottawa  | May | 1915. |
-| 12 | 642 | 1015 | 3812 | 1054 | 410841 | Private  | MacDonald, William Clement. . | Nil  | MacDonald, Mrs. Jessie  | 15 Salisbury Ave., Toronto, Ont  | England.. | Lindsay  | May | 1915. |
-| 12 | 3368 | 1045 | 3813 | 1071 |  |  |  |  |  |  |  | Cornwall  | June | 1915. |
-| 12 | 642 | 1052 | 3266 | 1083 | 410929 | Private  | Macdonell, Duncan Joseph  | 59th Regt. .. | Macdonell, Peter  | Alexandria, Ont  | Canada... |
-| 12 | 642 | 1074 | 3813 | 1111 | 410156 | L.-Corporal. | MacKenzie, Frederick William.. | Nil  | MacKenzie, A. F  | 244 Frank St., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 1915. |
-| 12 | 641 | 1110 | 3266 | 1140 | 410564 | Private  | MacLennan, W  | Nil  | MacLennan, J. A  | Lancaster, Ont  | Canada... |
-| 12 | 641 | 1132 | 3813 | 1170 | 410932 | Private  | MacMillan, David Albert  | Nil  | MacMillan, Alexander A.... | Newington, Ont  | Canada... | Cornwall  | May | 1915. |
-| 12 | 641 | 1161 | 3813 | 1198 | 410842 | Private  | McNicoll, John Gavin  | Imp. Forces. | MacNicoll, Grace  | Saltmarket St., Glasgow, Scot  | Scotland. | Lindsay  | May | 1915. |
-| 12 | 640 | 1190 | 3814 | 1227 | 410355 | Private  | Mallette, Phileas  | Nil  | Mallette, Mrs. Julia  | 58 Ladouceur Ave., Ottawa, Ont  | Canada.., | Ottawa  | Mar. | 1915. |
-| 12 | 640 | 1219 | 3814 | 1257 | 410135 | L.-Corporal. | Maloney, James Christopher.... | Nil  | Maloney, Patrick  | 52 Nicholas St., Ottawa, Ont  | Canada.. | Ottawa  | Apr. | 1915. |
-| 12 | 639 | 1248 | 3814 | 1286 | 410813 | Private  | Manion, M  | Nil  | Manion, Thomas  | Prescott, Ont  | Canada.. | Barriefield  | July | 1915. |
-| 12 | 639 | 1278 | 3814 | 1315 | 410356 | Private  | Manton, Joseph Herbert  | Nil  | Manton, Mrs. Fanny  | 90 Rectory Road, Fulham, London, S.W., Eng. | England.. | Ottawa  | Mar. | 1915. |
-| 12 | 639 | 1307 | 3814 | 1344 | 410136 | L.-Corporal. | Marchand, Ernest  | Nil  | Kelly, Mrs. E. H  | 2505 Park Ave., Montreal, P.Q  | Canada.. | Brockville  | Mar. | 1915. |
-| 12 | 639 | 1336 | 3814 | 1373 | 410540 | Private  | Marlborough, Edward  | 12th Regt. .. | Marlborough, Mrs. Mary A. | Wyndham St., Toronto, Ont  | Canada.. | Smith’s Falls... | June | 1915. |
-| 12 | 638 | 1365 | 3814 | 1402 | 410358 | L.-Corporal. | Maroney, Thomas  | Can. Eng  | Maroney, Mrs. Hannah  | 4 John St., Eastview, Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 1915. |
-| 12 | 638 | 1400 | 2240 | 1430 | 410001 | R.S.M  | Marsden, W. H  | Can. Mil  | Marsden, Mrs. W. H  |
-| 12 | 638 | 1423 | 3814 | 1460 | 410357 | Private  | Marsh, Oliver  | G.G.F.G.... | Marsh, Watson  | P.O., Billings Bridge, Ottawa, Ont  | England  | Ottawra  | Feb. | 1915. |
-| 12 | 639 | 1452 | 3814 | 1489 | 410924 | Private  | Marshall, Herbert  | Nil  | Marshall, Mrs. Sarah  | 1 Camden St., Essex Rd., Islington, London, Eng. | England  | Ottawa  | Feb. | 1915. |
-| 12 | 639 | 1481 | 3814 | 1517 | 410137 | Private  | Marshall, Richard  | Nil  | Marshall, Mrs. Beatrice  | 41 Centre St., Ottawa, Ont  | Canada  | Ottawa  | July | 1915. |
-| 12 | 638 | 1510 | 3814 | 1546 | 410925 | Private  | Marshall, Samuel  | Nil  | Marshall, Mrs. Sarah Ethel. | 1 Camden St., Essex Rd., Islington, London, Eng. | England  | Ottawa  | Feb. | 1915. |
-| 12 | 638 | 1539 | 3815 | 1576 | 410138 | Private  | Martens, Johanner Wilhemis  | Nil  | Martens, Mrs. Susan  | 384 Nepean St., Ottawa, Ont  | Holland  | Ottawa  | July | 1915. |
-| 12 | 638 | 1568 | 3814 | 1604 | 410814 | Private  | Martin, William Peter  | Nil  | McMurty, Mrs. Helen  | Hale St., Lowell, Mass., U.S.A  | U.S.A  | Brockville  | June | 1915. |
-| 12 | 638 | 1597 | 3815 | 1633 | 410926 | Private   | Martin, Zephur  | Nil  | Martin, Mrs. Delina  | Cornwall, Ont  | Canada  | Cornwall  | Mar. | 1915. |
-| 12 | 638 | 1626 | 3815 | 1661 | 410538 | Private  | Mascombe, George  | Nil  | Not stated  | Not stated  | Greece  | Smith’s Falls | June | 1915. |
-| 12 | 638 | 1655 | 3815 | 1692 | 410815 | Private  | Massey, George Harold  | Nil  | Massey, Harry   | 1 Lyn Cres., Ferndale, Wales  | England  | Lindsay  | May | 1915. |
-| 12 | 638 | 1684 | 3815 | 1720 | 410359 | Private  | Masson, John  | 59th Regt. .. | Masson, Mrs. Caroline  | Cornwall, Ont  | Canada  | Alexandria  | June | 1915. |
-| 12 | 639 | 1713 | 3815 | 1749 | 410927 | Private  | Mattice, James Clarence  | 59th Regt... | Mattice, James P  | R.R. No. 1, Farran’s Point, Ont  | Canada  | Cornwall  | July | 1915. |
-| 12 | 639 | 1742 | 3815 | 1778 | 410539 | Private  | Maunder, George  | Nil  | Maunder, John.  | 4 James Terr., James St., Exeter, Devon, Eng  | England  | Barriefield... | July | 1915. |
-| 12 | 639 | 1771 | 3815 | 1808 | 410563 | Private  | May, Edward  | S. A. | Freeman, Mrs. John.  | 79 Cottage St., Poplar, London, E., Eng  | England  | Alexandria. . . | Feb. | 1915. |
-| 12 | 638 | 1800 | 3816 | 1836 | 410827 | Private  | McCabe, James  | Can. Eng.. | McCabe, Mrs. Jeannie  | 123 Harvey St., Ottawa, Ont  | Scotland.... | Ottawa  | June | 1915. |
-| 12 | 638 | 1828 | 3816 | 1865 | 410145 | Private  | McCann, Patrick  | 43rd Regt. | McCann, Mrs. Mary Ann— | 81 Main St., Eastview, Ottawa, Ont  | Canada  | Ottaw’a—... | May | 1915. |
-| 12 | 638 | 1857 | 3816 | 1893 | 410828 | Private  | McCausland, Archibald  | Nil  | McCausland, William  | Not stated  | Canada  | Barriefield Cmp | July | 1915. |
-| 12 | 638 | 1887 | 3816 | 1924 | 410549 | Private  | McClelland, Thomas P  | Nil  | McClung, Mrs. J.   | Glasgow, Scot  | Scotland.... | Barriefield Cmp | May | 1915. |
-| 12 | 639 | 1916 | 3816 | 1952 | 410146 | Private  | McCloud, John  | Nil  | McCloud, Mrs. Lily  | 91 Albert St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 1915. |
-| 12 | 639 | 1945 | 3817 | 1980 | 410551 | Private  | McCoubrey, John Alexander.... | Nil  | McCoubrey, Mrs. Annie  | Grace Hill, Ballynahinch, Co. Down, Ire  | Ireland  | Barriefield. .. | July | 1915. |
-| 12 | 639 | 1974 | 3816 | 2009 | 410550 | Private  | McCormick, Frederick  | Nil  | McCormick, Mrs. Nellie  | P.O. Box 19, Arnprior, Ont  | Canada  | Barrifield.... | July | 1915. |
-| 12 | 639 | 2003 | 3817 | 2039 | 410366 | L.-Corporal. | McCormick, John  | Nil  | McCormick, Roderick  | Alexandria, Ont  | Canada  | Barriefield Cmp | June | 1915. |
-| 12 | 640 | 2033 | 3817 | 2067 | 410829 | Private  | McCracken, Frederick  | 59th Regt. | McCracken, William  | 247 Powell Ave., Ottawa, Ont  | Canada  | Ottawa  | May | 1915. |
-| 12 | 640 | 2063 | 3817 | 2097 | 410147 | Private  | McCracken, Samuel M  | Nil  | McCracken, Mrs. T  | Barhill, Ayr, Scot  | Scotland  | Ottawa  | Apr. | 1915. |
-| 13 | 345 | 292 | 1929 | 321 | 410830 | Private. |  | Nil  | McCreadie, Mrs. Maggie.... |
-| 13 | 344 | 319 | 3502 | 351 | 410148 | Private. |  | Can. Mil  | McCullough, William  |  | Feb. 24,1915. |
-| 13 | 344 | 348 | 3503 | 379 | 410831 | Private. |  | Nil  | McDonald, Mrs. Margaret.. |  | July 6,1915. |
-| 13 | 344 | 376 | 3502 | 408 | 410367 | Private. | McDonald, Duncan  | Nil  | McDonald, Dan  |  | June 9,1915. | Barriefield Cmp |
-| 13 | 343 | 406 | 3503 | 438 | 410955 | Private. |  |  | McDonald, Mrs. Mary Jane |  | May 1, 1915. |
-| 13 | 343 | 435 | 3503 | 468 | 410832 | Private. | McGarity, Jack  | Nil  | McGarity, Mrs. Patrick... |  | May 21, 1915. |
-| 13 | 342 | 463 | 3213 | 496 | 410368 | Private. |  | Nil  | McGillis, Angus  | Barriefield |
-| 13 | 342 | 522 | 3502 | 555 | 410369 | Sergeant  | McGilllivary, John  | G.G.F.G  | McGillivary, Mrs. Francis E |  | March 5, 1915. |
-| 13 | 342 | 552 | 3503 | 583 | 410149 | Private   |  | Nil  | McGovern, Mrs. Pauline  |  | Feb. 22, 1915. |
-| 13 | 342 | 581 | 3503 | 611 | 410552 | Private  |  | Nil  | McGowan, Peter  |  | June 9, 1915. |
-| 13 | 342 | 611 | 3502 | 641 | 410553 | Private  |  | Nil  | McGowan, Mrs. Matilda  |  | May 17, 1915. |
-| 13 | 342 | 640 | 3503 | 671 | 410150 | L.-Corporal. |  |  | McGreevy, Mrs. Josephine... |  | July 23, 1915. |
-| 13 | 342 | 669 | 3503 | 700 | 410554 | Private   |  | Nil  | McGregor, Mrs. Laura  |  | Mar. 25, 1915. |
-| 13 | 342 | 699 | 3503 | 729 | 410370 | Private   |  | Nil  | McGregor, Frances Annie.... |  | Feb. 26,1915. |
-| 13 | 342 | 728 | 3504 | 756 | 410833 | Private  |  | Nil  | Woodland, Mrs. Sarah  |  | June 3,1915. |
-| 13 | 342 | 757 | 3504 | 786 | 410834 | Private  |  | Nil  | Falconer, Mrs. W  |  | May 29, 1915. |
-| 13 | 342 | 786 | 3504 | 814 | 410835 | Private  |  | Nil  | McIntosh, Mrs. Minnie  |  | July 6, 1915. |
-| 13 | 341 | 815 | 3504 | 845 | 410836 | Private  |  | Nil  | McKay, Miss Mary  |  | May 31, 1915. | Ottawa  |
-| 13 | 342 | 844 | 3503 | 874 | 410555 | Private  |  | Nil  | McKay, Mrs. May  |  | July 28, 1915. |
-| 13 | 341 | 872 | 3504 | 901 | 410931 | Private  |  | Nil  | McKenzie, John  |  | Feb. 20, 1915. | Ottawa  |
-| 13 | 342 | 902 | 3504 | 930 | 410556 | Private  |  | Nil  | McKinnon, John  |  | July 28, 1915. |
-| 13 | 342 | 930 | 3504 | 959 | 410151 | Private  |  | Nil  | McLean, Mrs. Jane  |  | May 17, 1915. |
-| 13 | 342 | 960 | 3504 | 988 | 410557 | Private  |  | Nil  | McLellan, Alexander E  |  | Jan. 11,1915. |
-| 13 | 342 | 988 | 3504 | 1017 | 410558 | Private  |  | Nil  | McManus, Mrs. Rose Anna |  | April 28, 1915. |
-| 13 | 342 | 1018 | 1948 | 1048 | 410837 | Private  |  | Nil  | McMillan, George  |
-| 13 | 342 | 1046 | 3216 | 1076 | 410559 | Private  | McNab, John Peter  | Nil  | McNab, Mrs. Sarah E  | Barriefield |
-| 13 | 342 | 1104 | 3505 | 1133 | 410152 | Private.. | McNair, William  | Nil  | McNair, Alexander  |  | July 19, 1915. | Ottawa  |
-| 13 | 342 | 1133 | 3505 | 1163 | 410838 | Private.. |  | Nil  | McNamara, Mrs. Margaret |  | May S, 1915. |
-| 13 | 342 | 1162 | 3505 | 1192 | 410153 | Corporal. | McNeil, John  | S. A  | McNeil, Mrs. Margaret.... |  | Feb. 24, 1915. |
-| 13 | 342 | 1191 | 3505 | 1221 | 410839 | Corporal. | McNeil, Robert  | Nil  | McNeil, Mrs. Mary A  |  | Mar. 15, 1915. |
-| 13 | 342 | 1220 | 3506 | 1249 | 410840 | Private.. | McNulty, ClifFort Arthur E  | Nil  | McNulty, Peter  |  | July 29, 1915. |
-| 13 | 342 | 1249 | 3506 | 1278 | 410560 | Private.. | McNulty, J. Andrew  | Nil  | McNulty, Patrick  |  | Julv 28,1915. |
-| 13 | 342 | 1278 | 3506 | 1307 | 410561 | Private.. | McOrmond, Victor Borel  | Nil  | McOrmond, Mrs. May  |  | Julv 31, 1915. |
-| 13 | 342 | 1307 | 3506 | 1335 | 410562 | Private.. | McPeak, Patrick  |  | Devine, H. B  |  | July 28, 1915. |
-| 13 | 342 | 1335 | 3506 | 1364 | 410154 | Private.. | McRae, Donald  |  | McRae, Mrs. Isabella  |  | April 10, 1915. | Ottawa  |
-| 13 | 341 | 1365 | 3507 | 1392 | 410563 | Private.. |  | Nil  | Uncle  |  | July 28, 1915. |
-| 13 | 341 | 1394 | 3507 | 1422 | 410155 | Private.. |  | Nil  | McWilliam, Mrs. Eliza Jane |  | July 19, 1915. |
-| 13 | 341 | 1422 | 3507 | 1451 | 410541 | Corporal. | Meeks, James Morrison  | Nil  | Meeks, Mrs. Susan  |  | April 28, 1915. |
-| 13 | 341 | 1451 | 3507 | 1481 | 410816 | Private.. | Megginson, John Alfred  | Nil  | Megginson, Mrs  |  | July 29, 1915. |
-| 13 | 341 | 1480 | 3507 | 1509 | 410360 | Private.. | Meldrum, Frederick D  | Nil  | Meldrum, J. A  |  | July 28, 1915. |
-| 13 | 341 | 1509 | 1935 | 1539 | 410817 | Private. . | Melrose, Arthur Albert  | Nil  | Forth, David  |
-| 13 | 340 | 1538 | 3507 | 1567 | 410928 | Sergeant. | Menzies, Andrew Forest  | Nil  | Menzies, Mrs. Robert  |  | Feb. 26,1915. |
-| 13 | 341 | 1567 | 3507 | 1596 | 410361 | Private.. | Miller, William James  | Nil  | Miller, Almeada  |  | May 11, 1915. |
-| 13 | 340 | 1596 | 3508 | 1626 | 410542 | Private.. | Miller, William Lyle  |  | Miller, Thomas  |  | April 2S, 1915. |
-| 13 | 340 | 1625 | 3508 | 1654 | 410818 | Sergeant. | Mills, Wesley Daniel     | Nil  | Mills, Mrs. Elizabeth  |  | April 28, 1915. |
-| 13 | 340 | 1654 | 3508 | 1683 | 410543 | Private.. |  | Nil  | Milne, Miss Elizabeth  |  | May 28, 1915. |
-| 13 | 339 | 1683 | 3508 | 1713 | 410544 | Private.. | Mitchell, Denzel  |  | Mitchell, Mrs. Nellie  |  | Mar. 28, 1915. |
-| 13 | 339 | 1712 | 3508 | 1742 | 410139 | Private... | Mitchell, Walter  | Nil  | Mitchell, Mary  |  | May 17, 1915. |
-| 13 | 339 | 1741 | 3508 | 1770 | 410819 | Private... |  | Nil....  | Mollison, Jessie  |  | May 7, 1915. |
-| 13 | 339 | 1770 | 3220 | 1800 | 410820 | Private.., | Moore, John Osborne  | Nil  | Moore, Mrs. H. J  | Barriefield |
-| 13 | 338 | 1827 | 3509 | 1856 | 410821 | Private. | Moreau, Frederick  |  | Not stated  |  | July 6,1915. |
-| 13 | 338 | 1856 | 3509 | 1887 | 410140 | Private. |  |  | Morin, Mrs. Stella  |  | July 28,1915. |
-| 13 | 338 | 1885 | 3509 | 1917 | 410822 | Private. | Morris, Albert William  |  | Morris, Mrs. L  |  | June 3,1915. |
-| 13 | 338 | 1915 | 3509 | 1945 | 410141 | Private. | Morris. Andrew  |  | Morris, A  |  | May 1, 1915. |
-| 13 | 338 | 1944 | 1937 | 1975 | 410545 | Private. | Morris, Leonard  | Nil  | Morris, Mrs. Ada  |
-| 14 | 650 | 509 | 3315 | 560 | §i | Former Corps. |  | Country of |
-| 14 | 648 | 552 | 3753 | 597 | If |  |  |  | Place. | Date. |
-| 14 | 640 | 673 | 3303 | 703 | 410546 | Nil  |  | British West |
-| 14 | 3607 | 700 | 3805 | 727 |  |  |  |  |  | Sept. | 1 | 1915. |
-| 14 | 640 | 730 | 3805 | 762 |  |  |  |  |  | Julv | 410547 | Nil  | Morris, Denis R  | U.S.A  | 28 | 1915. |
-| 14 | 640 | 759 | 3804 | 789 | 410823 | Nil... |  | England  | Lindsav  | Feb. | 18 | 1915. |
-| 14 | 639 | 788 | 3804 | 817 | 410362 |  |  | Canada  |  | June | 10 | 1915. |
-| 14 | 640 | 817 | 3804 | 847 | 410142 | Nil... |  |  |  | Feb. | 26 | 1915. |
-| 14 | 640 | 845 | 3804 | 877 | 410363 | Nil... |  | England  |  | Feb. | 26 | 1915. |
-| 14 | 640 | 874 | 3804 | 905 | 410824 | Nil... |  |  |  | April 28 | 1915. |
-| 14 | 640 | 903 | 3804 | 934 | 410364 | Nil... |  |  |  | Feb. | 26 | 1915. |
-| 14 | 639 | 932 | 3804 | 961 | 410365 |  |  |  | Ottawa  | May | 20 | 1915. |
-| 14 | 639 | 961 | 3805 | 992 | 410143 | Nil... |  | Canada  |  | April 14 | 1915. |
-| 14 | 639 | 991 | 3805 | 1022 | 410825 |  |  | England  | Lindsay  | May | 8 | 1915. |
-| 14 | 638 | 1020 | 3804 | 1050 | 410954 | Nil... |  |  |  | 2 | 1915. |
-| 14 | 637 | 1049 | 3804 | 1084 | 410548 | Nil  | Murray, Miss Minnie  |  | Brockville  | Mar. | 2.5 | 1915. |
-| 14 | 637 | 1078 | 3804 | 1109 |  | Nil.. | 410826 | England  | Lindsay  | June | 5 | 1915. |
-| 14 | 638 | 1107 | 3805 | 1135 | 410144 |  |  |  | Ottawa  | May | 17 | 1915. |
-| 14 | 638 | 1136 | 3805 | 1164 | 410158 |  |  | Scotland  | Ottawa  | June | 10 | 1915. |
-| 14 | 637 | 1194 | 3805 | 1224 | 410157 | Nil... |  | England  | Ottawa  | Mav | 20 | 1915. |
-| 14 | 637 | 1228 | 3109 | 1256 | 410565 | Nil. . |
-| 14 | 3609 | 1252 | 3805 | 1278 |  |  |  |  |  | May | 28 | 1915. |
-| 14 | 637 | 1258 | 2325 | 1285 | 410566 | Nil. | Newbold, Annie    |
-| 14 | 636 | 1281 | 3805 | 1313 |  |  | Newcombe, Mrs. Jessie  | 410159 | England  | Ottawa  | Feb. | 22 | 1915. |
-| 14 | 636 | 1310 | 3805 | 1339 | 410160 | Nil |  |  | Ottawa  | May | 17 | 1915. |
-| 14 | 636 | 1339 | 3805 | 1369 | 410843 | Nil... |  |  |  | May | 31 | 1915. |
-| 14 | 637 | 1368 | 3805 | 1397 | 410933 | Nil... |  | Canada  | Cornwall  | Feb. | 20 | 1915. |
-| 14 | 636 | 1397 | 3806 | 1425 | 410372 |  |  | Scotland  | Ottawa  | Mar. | 2 | 1915. |
-| 14 | 636 | 1426 | 3806 | 1456 | 410373 | Nil... |  |  |  | May | 20 | 1915. |
-| 14 | 636 | 1455 | 3806 | 1485 | 410844 | Nil... |  | England  |  | May | 7 | 1915. |
-| 14 | 635 | 1484 | 3806 | 1511 | 410845 |  |  |  | Ottawa  | May | 31 | 1915. |
-| 14 | 636 | 1513 | 3806 | 1540 | 410568 |  |  |  |  | Mar. | 25 | 1915. |
-| 14 | 635 | 1542 | 3806 | 1571 | 410934 | Nil.... |  | England  | Ottawa  | Mar. | 1 | 1915. |
-| 14 | 3608 | 1571 | 3806 | 1593 |  |  |  |  |  | Mar. | 19 | 1915. |
-| 14 | 634 | 1599 | 3806 | 1629 | 410162 | Nil  |  |  |  | April 10 | 1915. |
-| 14 | 634 | 1629 | 3806 | 1658 | 410567 | Nil  |  |  |  | Julv | 28 | 1915. |
-| 14 | 634 | 1658 | 3806 | 1687 | 410935 | Nil  |  |  | Ottawa  | May | 1 | 1915. |
-| 14 | 633 | 1687 | 3806 | 1716 | 410846 | Nil  |  |  | Lindsay  | May | 28 | 1915. |
-| 14 | 633 | 1715 | 3806 | 1743 | 410569 |  |  |  |  | May | 11 | 1915. |
-| 14 | 633 | 1744 | 3806 | 1774 | 410570 | Nil  |  |  | Ottawa  | Mar. | 1 | 1915. |
-| 14 | 632 | 1773 | 3806 | 1806 | 410571 | Can. Mil  |  |  | Barriefield  | May | 28 | 1915. |
-| 14 | 632 | 1802 | 3807 | 1836 | 410163 | Nil  |  |  |  | Feb. | 24 | 1915. |
-| 14 | 631 | 1831 | 3807 | 1861 | 410164 | C.F.A  |  |  |  | Feb. | 22 | 1915. |
-| 14 | 631 | 1860 | 3807 | 1893 | 410572 | Nil  | O’Neill, T   |  |  | May | 20 | 1915. |
-| 14 | 631 | 1889 | 3807 | 1919 | 410573 | Nil  |  |  |  | Julv | 28 | 1915. |
-| 14 | 630 | 1918 | 3807 | 1947 | 410574 | Nil... |  |  |  | July | 28 | 1915. |
-| 14 | 630 | 1947 | 3808 | 1977 | 410575 | Nil... |  |  |  | April 28 | 1915. |
-| 14 | 629 | 1977 | 3808 | 2005 | 410576 | Nil .. |  |  |  | 1915. |
-| 14 | 629 | 2005 | 3808 | 2035 | 410166 | Nil |  |  |  | Julv | 17 | 1915. |
-| 14 | 629 | 2035 | 3808 | 2062 | 410847 | Nil  |  | Canada  |  | May | 31 | 1915. |
-| 14 | 628 | 2064 | 3809 | 2097 | 410165 |  | Ousman, Mrs. E. G  | England  |  | June | 3 | 1915. |
-| 15 | 340 | 419 | 3502 | 449 | 410S4F |  |  |  |  |  | England  | Lindsay  | Mar. | 8 | 1915. |
-| 15 | 339 | 448 | 3501 | 481 | 410374 |  |  | Nil |  |  | England  | Cornwall  | May | 17 | 1915. |
-| 15 | 339 | 477 | 3501 | 510 | 410167 |  |  | Nil |  |  | England  |  | May | 1 | 1915. |
-| 15 | 339 | 507 | 3500 | 539 | 410577 |  |  | Nil |  |  | England  | Cornwall  | Jan. | 8 | 1915. |
-| 15 | 3306 | 536 | 3500 | 559 |  |  |  |  |  |  |  |  | Hfih. | 2fi | 1915. |
-| 15 | 3302 | 565 | 3500 | 592 |  |  |  |  |  |  |  |  | May | 25 | 1915. |
-| 15 | 338 | 594 | 3500 | 630 |  |  | Partridge, Christopher Samuel  | 410849 | Private  | Nil  | Partridge, Miss E  | Regent St., Oadby, Leicester, Eng  | England  | May 31 | 1915. |
-| 15 | 337 | 623 | 3500 | 658 |  |  |  |  |  |  |  |  | July 28 | 1915. | 410579 | Private  | Pascovitzs, Mrs. John  | Russia  |
-| 15 | 337 | 652 | 3500 | 687 |  |  |  |  |  |  |  |  | April 28 | 1915. | 410580 | 33 Apple St., Brockville, Ont  | Ottawa.    |
-| 15 | 337 | 682 | 3500 | 714 | 410850 |  |  | Nil |  |  |  | Lindsay  | May | 7 | 1915. |
-| 15 | 336 | 712 | 3212 | 743 | 410376 |  |  |  |  | 6 Powis Place, Aberdeen, Scot  |  | Barriefield |
-| 15 | 3299 | 740 | 3500 | 765 |  |  |  |  |  |  |  |  | Julv | m | 1915. |
-| 15 | 335 | 769 | 3499 | 800 | 410377 |  |  | Nil |  |  |  |  | May | 12 | 1915. |
-| 15 | 335 | 799 | 3499 | 830 | 410851 |  |  | Nil. . |  |  | England  |  | April 22 | 1915. |
-| 15 | 335 | 828 | 3499 | 858 | 410852 |  |  | Nil. . |  | 61 Richmond St., Brantford, Ont  |  | Lindsay  | May | 29 | 1915. |
-| 15 | 334 | 858 | 3499 | 888 | 410853 |  |  | Nil  |  | 8 Suffolk Place, Hoinew’ood Ave., Toronto, Ont  | U.S.A  |  | July | 28 | 1915. |
-| 15 | 333 | 887 | 3499 | 916 | 410378 |  |  | Nil... |  |  |  |  | May | 20 | 1915. |
-| 15 | 333 | 916 | 3499 | 944 | 410854 | C.S.M  |  |  |  |  |  |  | May | 13 | 1915. |
-| 15 | 333 | 945 | 3499 | 973 | 410168 |  |  | Nil... |  |  |  |  | Feb. | 22 | 1915. |
-| 15 | 332 | 977 | 2005 | 1007 | 410169 |  |  | S. A  | Pennington, Mrs. Sarah M. Cons- |
-| 15 | 3302 | 1002 | 3499 | 1025 |  |  |  |  |  |  |  |  | Mar. | 13 | 1915. |
-| 15 | 332 | 1031 | 3499 | 1061 | 410170 |  |  | Nil... |  |  |  |  | July | 10 | 1915. |
-| 15 | 331 | 1060 | 3500 | 1089 | 410581 |  |  | Nil... |  |  |  |  | Feb. | 24 | 1915. |
-| 15 | 331 | 1090 | 2804 | 1121 | 410856 | L.-Sergeant  |  | Nil  |  | 30 Franklin St., Winson Green, Birmingham, Warwick, |
-| 15 | 3300 | 1117 | 3498 | 1141 |  |  |  |  |  |  |  |  | Mar. | 20 | 1915. |
-| 15 | 330 | 1147 | 3499 | 1177 | 410855 |  |  | Nil .. |  | 104, 179th St., New York, N.Y., U.S.A  | U.S.A  |  | June | l | 1915. |
-| 15 | 330 | 1176 | 3499 | 1208 | 410582 |  |  |  | Baker, Mrs. J. W  | P O Wales. Ont |  |  | June | 0 | 1915. |
-| 15 | 330 | 1205 | 3499 | 1235 | 410857 |  |  | Nil |  | 24 Grafton St., Glasgow, Scot  |  | Lindsay  | May | 28 | 1915. |
-| 15 | 329 | 1234 | 3498 | 1263 | 410858 |  |  | Nil . |  |  | Canada  |  | June | 10 | 1915. |
-| 15 | 328 | 1263 | 3490 | 1296 | 410171 |  | Peterson, Oscar Oy vinn  | Nil  | Peterson, Mrs. Ida  |  |  |  | Feb | 2fi | 1915 |
-| 15 | 328 | 1293 | 3499 | 1325 |  |  | Pettit, Cecil Percy  | Nil  | Pettit, Mrs. Clara  | 410172 | L. Corporal  | 13 Grim wood Rd., Twickenham, M’sex, Eng  | England  | Ottawa  | July | 24 | 1915. |
-| 15 | 328 | 1322 | 3499 | 1354 |  |  | Phillips, Carswell Edward  | Nil  | Phillips, Mrs. Adeline Gladys... : | 410583 | Private  | 233 Bartholomew St., Brockville, Ont  | Canada  | Brockville  | Mar. | 25 | 1915. |
-| 15 | 327 | 1351 | 3498 | 1379 |  |  |  | Nil | 410859 |  |  |  | May | 22 | 1915. |
-| 15 | 327 | 1380 | 3498 | 1408 | 410584 |  |  | Can Mil |  |  |  |  | Mar. | 25 | 1915. |
-| 15 | 326 | 1409 | 3498 | 1433 | 410379 |  |  |  |  |  |  |  | Mar. | 2 | 1915. |
-| 15 | 326 | 1438 | 3498 | 1467 | 410173 | C.Q.M.S  |  |  |  |  |  |  | Feb. | 22 | 1915. |
-| 15 | 326 | 1467 | 3498 | 1494 | 410585 |  |  |  |  |  |  |  | July | 28 | 1915. |
-| 15 | 325 | 1496 | 3498 | 1522 | 410174 |  |  |  |  |  |  | Ottawa  | May | 17 | 1915. |
-| 15 | 325 | 1525 | 3498 | 1553 | 410586 |  |  | Nil |  |  | U.S.A  | Smith’s Falls... | June | 3 | 1915. |
-| 15 | 324 | 1553 | 3498 | 1581 | 410175 |  |  |  |  |  |  |  | July | 19 | 1915. |
-| 15 | 324 | 1583 | 3498 | 1610 | 410860 |  |  | Nil |  |  |  |  | May | 7 | 1915. |
-| 15 | 324 | 1612 | 3498 | 1642 | 4103S0 |  |  | G.G.F.G  |  |  |  |  | Julv | 20 | 1915. |
-| 15 | 324 | 1641 | 3498 | 1669 |  |  |  | Nil | 410381 | Corporal.....  |  |  | Mar. | 2 | 1915. |
-| 15 | 324 | 1670 | 3498 | 1695 | 410936 | Private  |  |  |  |  |  |  | Mar. | 3 | 1915. |
-| 15 | 323 | 1699 | 3498 | 1727 | 410587 | Private  |  | Nil . |  |  |  |  | Mar. | 3 | 1915. |
-| 15 | 323 | 1728 | 3498 | 1758 | 410588 | Private  |  | C.A.S.C  |  | 32 Greenwood Rd., St. James, Northampton, Eng  | England  | Ottawa  | Julv | 28 | 1915. |
-| 15 | 323 | 1758 | 3497 | 1787 | 410176 |  |  |  |  | 2684 St. Urbain St., Montreal, P.Q  |  |  | May | 4 | 1915. |
-| 15 | 323 | 1786 | 3498 | 1816 |  |  |  |  |  | 2684 St. Urbain St., Montreal, P.Q  |  |  | May | 410589 | Private  | Nil. . | England  | 28 | 1915. |
-| 15 | 323 | 1815 | 3498 | 1842 | 410861 | Private  |  | Nil |  |  |  |  | Tilly | 6 | 1915. |
-| 15 | 323 | 1843 | 3498 | 1869 | 410590 | Private  |  |  |  |  |  |  | June | 12 | 1915. |
-| 15 | 323 | 1873 | 3498 | 1901 | 410177 |  |  | Nil |  |  |  |  | Mar. | 0 | 1915. |
-| 15 | 323 | 1902 | 3498 | 1925 | 410004 |  |  |  |  |  |  |  | Feb. | 22 | 1915. |
-| 15 | 322 | 1931 | 3498 | 1961 | 410383 |  |  | C.A.M.C  |  |  |  |  |  | 12 | 1915. |
-| 15 | 322 | 1960 | 3498 | 1991 |  |  |  | Nil  | 410593 | Pringle, Jesse  |  |  | May | 11 | 1915. |
-| 15 | 322 | 1989 | 3496 | 2012 | 410592 |  |  |  |  |  |  |  |  | 11 | 1915. |
-| 15 | 321 | 2018 | 3498 | 2047 | 410862 |  |  | Nil |  |  |  |  | Julv | fi | 1915. |
-| 15 | 322 | 2047 | 3498 | 2074 | 410937 |  |  |  |  |  |  |  | May | 1 | 1915. |
-| 15 | 321 | 2077 | 3498 | 2105 | 410956 | Private  |  | Nil... |  |  |  |  | Feb. | 22 | 1915. |
-| 15 | 321 | 2106 | 3498 | 2135 | 410594 | Private  |  | Nil... |  |  |  |  | May | 18 | 1915. |
-| 15 | 321 | 2135 | 3500 | 2166 | 410591 | Private  | Proutt, Joseph  | NTil  |  | 32 Claremont St., Toronto, Ont  |  |  | July | 28 | 1915. |
-| 16 | 821 | 571 | 3301 | 600 |  |  |  |  |  |  | Country of |
-| 16 | 634 | 719 | 3802 | 755 | 410595 | Private  |  | Nil  |  | Redwood, N.Y., U.S.A  |  |  | May 11, 1915. |
-| 16 | 634 | 754 | 3802 | 784 | 410596 |  |  | Nil  |  |  |  |  | May 28, 1915. |
-| 16 | 634 | 777 | 3802 | 813 | 410597 | Private  |  | Nil  |  |  |  |  | July 28, 1915. |
-| 16 | 634 | 806 | 3802 | 843 | 410863 | Private  |  | Nil  |  |  |  |  | May 8,1915. |
-| 16 | 634 | 836 | 3802 | 872 | 410598 | Private  |  | Nil  |  |  |  |  | Mar. 25,1915. | Green Point Hotel, Syracuse, N.Y., U.S.A  |
-| 16 | 634 | 865 | 3802 | 901 | 410384 | Private  |  | Nil  |  |  |  |  | Mar. 1, 1915. |
-| 16 | 633 | 890 | 3802 | 930 | 410864 | Private  | Ravenscroft, Walter  | Nil  |  |  |  |  | July 6, 1915. | Ravenscioft, Walter  | Canada  | Barriefield  |
-| 16 | 633 | 920 | 3803 | 959 | 410865 | Private  |  | Territorials.. |  |  |  |  | Mav 21, :915. | Lindsay  | England  |
-| 16 | 633 | 958 | 3803 | 992 | 410385 |  |  | 14 th Regt... |  |  |  |  | July 28, :915. |
-| 16 | 732 | 978 | 3801 | 1014 |  | Private  |  |  |  |  |  |  | July 28,1915. | England  | Barriefield Cmp |
-| 16 | 633 | 1009 | 3802 | 1047 | 410178 | Private  |  | Nil  |  |  |  |  | Mar. 5,1915. | Ottawa  |
-| 16 | 633 | 1036 | 3803 | 1076 | 410386 | Private  |  | Nil  |  |  |  |  | July 23, :.915. | Barriefield Cmp | 68 Alma St., Hull, P.Q  | Canada  |
-| 16 | 731 | 1070 | 3802 | 1101 |  | Private  |  |  |  |  |  |  | July 19,1915. | Reynolds, F. A   |
-| 16 | 731 | 1157 | 3804 | 1189 |  | Private  | Richardson, Albert Edward P  |  |  |  |  |  | May 17,1915. |
-| 16 | 731 | 1270 | 3805 | 1306 |  | Private  |  |  |  |  |  |  | May 9, 1915. | Rick ward, Mrs. Annie | 60 Shaw St., Toronto, Ont | Lindsay |
-| 16 | 732 | 1299 | 3805 | 1337 |  | R.Q.M.S  | Ridley, George Joseph T  |  |  |  |  |  | Feb. 26,1915. | Ridley, Mrs. Emma Margaret. ... | 87 Preston St., Ottawa, Qn^ | England. | Ottawa |
-| 16 | 731 | 1329 | 3805 | 1364 |  | Private | Riley, John..    |  |  |  |  |  | May 17, 1915. | Riley, John | Nelson, Lancs., Eno- | England | Ottawa |
-| 16 | 632 | 1360 | 3806 | 1400 | 410S67 | Sergeant | Riley, Walter Henry F  | Imp. Forces. |  |  |  |  | Feb. 22, 1915. | Riley, Mrs. Ada .. | Westborough, Qnt | England | Ottawa |
-| 16 | 1003 | 1389 | 3806 | 1422 |  |  | Risch, W'alter  |  |  |  |  |  | May 31, 1915. | England | Ottawa  |
-| 16 | 632 | 1418 | 3806 | 1455 | 410602 | Private  |  | Nil  |  |  |  |  | Mar. 10,1915. | Russia | Alexandria  |
-| 16 | 632 | 1452 | 3806 | 1485 | 410603 | Private  |  | Nil  |  |  |  |  | Mar. 1, 1915. | Riy,John  |
-| 16 | 632 | 1481 | 3807 | 1514 | 410390 |  | Roberts, Edgar  | Nil  |  |  |  |  | Mar. 4,1915. | Roberts, R. W  | Cornwall  |
-| 16 | 632 | 1511 | 3807 | 1543 | 410391 | Private  | Roberts, Frederick Wood | Nil  |  |  |  |  | Mar. 12,1915. | Roberts, Robert  | Cornwall  |
-| 16 | 631 | 1540 | 3807 | 1573 | 410869 |  | Roberts, George.. | Nil  |  |  |  |  | July 6, 1915. | Roberts, Mrs. Mary  | 16 Buleer Avre., Pt. St. Charles, Montreal. P.Q  | Barriefield  |
-| 16 | 631 | 1569 | 3807 | 1604 | 410604 |  | Roberts, John F... | Nil  |  |  |  |  | May 1, 1915. | 19 Becklon Rd., Canning Town, London, Eng  |
-| 16 | 631 | 1598 | 3806 | 1632 | 410605 | Private  | Roberts, Victor Joseph  | Nil  |  |  |  |  | Apr. 28,1915. | Roberts, Mrs. Marv | Ottawa  |
-| 16 | 632 | 1627 | 3808 | 1661 | 410182 |  | Robertson, John M. | Nil  |  |  |  |  | Feb. 24,1915. | Robertson, Mrs Annie | Ottawa  |
-| 16 | 631 | 1657 | 3807 | 1690 | 410183 | Private  |  | Nil  |  |  |  |  | Feb. 22, 1915. | Robertson Rev. Adam   | Ottawa  |
-| 16 | 632 | 1688 | 1684 | 1719 | 410870 |  | Robinson, Hugh Russell S  | Nil  |
-| 16 | 632 | 1714 | 3807 | 1748 | 410606 | Private  | Robinson, William Morris  | Nil  |  |  |  |  | May 11, 1915. | Albert St., Lindsay, Ont  | Belleville  |
-| 16 | 632 | 1743 | 3807 | 1780 | 410871 |  |  | Nil  |  |  |  |  | July 6, 1915. | U.S. A  | Barriefield  |
-| 16 | 632 | 1771 | 3807 | 1806 | 410607 | Private  | Rochon, Arthur | Nil  |  |  |  |  | Apr. 28, 1915. | Ottawa  |
-| 16 | 632 | 1801 | 3807 | 1836 | 410872 | Private  | Rochon, Gusty | Can. Mil.... |  |  |  |  | Mar. 1, 1915. | Alexandria  |
-| 16 | 632 | 1829 | 3807 | 1866 | 410392 | Corporal. . . | Rogers, George Harold  | Nil  |  |  |  |  | May 5, 1915. | Ottaw'a  |
-| 16 | 632 | 1862 | 3107 | 1899 | 410393 | Private | Roll, John George   | Nil  |  | 1 Orde Ave., Willington Quay, Northumberland, Eng.. |
-| 16 | 632 | 1887 | 3808 | 1926 | 410394 |  | Romanuk, Mike  | Nil  |  |  |  |  | Mar. 2, 1915. | Canada  | Ottawa  |
-| 16 | 632 | 1980 | 1684 | 2011 | 410184 |  | Rose, William  | Nil  |
-| 16 | 632 | 2033 | 3809 | 2070 | 410186 |  |  | Nil  |  |  |  |  | Feb. 24, 1915. | Lawn House, Grosvenor Place, Margate, Kent, Eng. . . | Ottawa  |
-| 16 | 631 | 2062 | 3809 | 2099 | 410874 |  |  | Nil  |  |  |  |  | June 8, 1915. | Rockland, St. Mary’s, Norfolk, Eng  | Rudrum, Marv Ann  | England  | Kingston  |
-| 16 | 632 | 2098 | 3105 | 2129 | 410670 |  |  | R.C.R  | Wilkins, Mrs. W  | 61 Jarvis St., Toronto, Ont  |
-| 16 | 631 | 2121 | 3810 | 2160 | 410187 | Private  | Russell, David  | Nil  |  |  |  |  | Feb. 26,1915. | Russell, Robert  | 238 Gloucester St., Ottawa, Ont  | Canada  | Ottawa  |
-| 17 | 324 | 425 | 3486 | 461 | 410608 Private  | Ruston, Walter  | Nil  | Olmstead, Samuel  | . Cobden, Ont England.. | Barriefield  | Julv | 28 | 1915. |
-| 17 | 324 | 455 | 3487 | 490 | 410875 Private  | Rutherford. Frederick  |  | Rutherford, Mrs. Ruby | . 146 Jones Ave., Toronto, Ont England.. | Lindsay  | May | 8 | 1915. |
-| 17 | 323 | 484 | 3487 | 519 | 410809 Private  | Ryan, Daniel Joseph  | Nil  | Ryan, Michael M  | . 326 Church St. W., Brockville, Ont Canada... | Ottawa  | Apr. | 28 | 1915. |
-| 17 | 323 | 513 | 3487 | 549 | 410876 Private  | Ryan, James Patrick  | Nil  | Whitson, Mrs. G     | . London, Eng England.. | Barriefield  | Julv | 6 | 1915. |
-| 17 | 323 | 542 | 3488 | 578 | 410877 Private  | Ryan, Joseph Patrick  | Nil  | Whitson, Mrs. G  | . London, Eng England.. | Barriefield  | Julv | 6 | 1915. |
-| 17 | 323 | 571 | 3487 | 608 | 410396 Private  | Sage, John  | G.G.F.G  | Sage, Mrs. Delia  | . 522 Laurier Ave. W., Ottawa, Ont Canada... | Ottawa  | July | 19 | 1915. |
-| 17 | 322 | 601 | 3487 | 637 | 410610 Private  |  |  | Sager, John  | . Deseronto, Ont Canada... | Ottawa  | Apr. | 28 | 1915. |
-| 17 | 322 | 630 | 3488 | 666 | 410611 L.-Corporal. | Sager, James Robert  | Nil  | Sager, Mrs. Lena Beatrice | . P.O. Box 100, Pembroke, Ont Canada... | Ottawa  | Apr. | 28 | 1915. |
-| 17 | 322 | 659 | 3488 | 694 | 410879 Private  | Sancier, Ephraim  | Nil  | Sancier, Joseph  | . Martin town, Ont Canada... | Cornwall  | June | y | 1915. |
-| 17 | 322 | 688 | 3488 | 723 | 410612 Private  |  |  | Sandiford, William  | . P.O., Brownton, Ont England.. | Peterborough... | May | 26 | 1915. |
-| 17 | 321 | 717 | 3488 | 753 | 410397 Private  |  | Nil  | Sannady, William.    | . 556 Church St., Ottawa, Ont Canada... | Ottawa  | May | IV | 1915. |
-| 17 | 321 | 746 | 3488 | 781 | 410878 Corporal.... |  | Nil  | Sargeant, Major William | . The Grove, High Rd., S. Woodford, Essex, Eng England.. | Ottawa  | May | 31 | 1915. |
-| 17 | 321 | 776 | 3488 | 810 | 410613 Private  |  |  | Scirelli, Antonia  | . Casetta, Sepingiano, Italy Italy  | Brockville  | May | 20 | 1915. |
-| 17 | 320 | 804 | 3488 | 839 | 410614 Private  | Scobie, Russell  | Nil  | Scobie, Mrs. Lyrus  | . Kars, Ont Canada... | Barriefield  | May | 28 | 1915. |
-| 17 | 320 | 833 | 3488 | 867 | 410398 L.-Corporal. | Scott, Frederick  | Nil  | Scott, Mrs. R  | . 88 Coplow St., Birmingham, Warwick, Eng England.. | Ottawa  | May | 20 | 1915. |
-| 17 | 320 | 862 | 3488 | 897 | 410189 Private  | Scott, Stephen Bert  |  | Scott, Mrs. Margaret  | . Apt. A., 47 Duke St., Ottawa, Ont Canada... | Ottawa  | Apr. | 10 | 1915. |
-| 17 | 320 | 891 | 3489 | 925 | 410881 Private  | Scott, Thomas Wilson  | Nil  | Scott, William L  | . Winchester, Ont Canada... | Barriefield  | July | 0 | 1915. |
-| 17 | 320 | 920 | 3489 | 955 | 410399 Private  | Scott, William  | Nil  | Scott, Mrs. Margaret  | , 1036 Logan Ave., Toronto, Ont Scotland. | Barriefield  | Julv | 23 | 1915. |
-| 17 | 319 | 948 | 3489 | 983 | 410188 Private  | Scoular, William John  | Nil  | Boyle, Mrs. Elizabeth  | , 152 Bridge St., Ottawa, Ont Scotland. | Ottawa  | Julv | 19 | 1915. |
-| 17 | 320 | 977 | 3489 | 1012 | 410882 Private  | Searle, William Lywnn  | Nil  | Searle, Mrs. Kate  | . 2 Cecil Rd., Croydon, Surrey, Eng England.. | Lindsay  | May | 28 | 1915. |
-| 17 | 319 | 1006 | 3490 | 1041 | 410883 Private  | Seguin, Tancrede  | Nil  | Seguin, Peter  | . Hawkesbury, Ont Canada.. | Ottawa  | May | 31 | 1915. |
-| 17 | 319 | 1035 | 3490 | 1070 | 410190 Private  | Sepo, John Joseph  | G.G.F.G  | O’Connor, Mrs. Elizabeth | Liverpool, Eng England.. | Ottawa  | Julv | 19 | 1915. |
-| 17 | 319 | 1064 | 3490 | 1099 | 410615 Private  |  | C.A.M.C  | Shannessy, Harry  | Hughes, Mrs. Jennie  | Port Colborne, Ont Canada... | Barriefield Cmp | June | 9 | 1915. |
-| 17 | 320 | 1093 | 3490 | 1127 | 480228 Private  |  | Nil  | Shea, James Edward  | Shea, Mrs. Maria  | , 91 Kent St., Lindsay, Ont Canada... | Lindsay  | June | 1 | 1915. |
-| 17 | 319 | 1122 | 3490 | 1156 | 410616 Private  | Shemelds, Bernard  | Nil  | Woodhouse, Clara  | , 26 Wallace Rd., Sheffield, Yorks., Eng England.. | Belleville  | May | 12 | 1915. |
-| 17 | 319 | 1151 | 3490 | 1185 | 410884 Private  | Sheppard, Alexander B  |  | Sheppard, Mrs. Adelain | . 68 Regent Park Rd., London, Eng India  | Ottawa  | Mav | 31 | 1915. |
-| 17 | 319 | 1180 | 3490 | 1211 | 410617 Private  | Sherman, Harry  | Nil  | Not stated  | . Not stated Canada... | Barriefield  | July | 28 | 1915. |
-| 17 | 319 | 1209 | 3491 | 1243 | 410618 Private  | Shuttle, William Charles  | Nil  | Shuttle, James  | . 48 Rainsford Rd., Toronto, Ont Canada... | Barriefield  | Julv | 28 | 1915. |
-| 17 | 319 | 1237 | 3491 | 1272 | 410400 Private  | Siggins, James  | Nil  | Siggins, Mrs. E  | , New Rd., Ascot, Berks., Eng England.. | Ottawa  | Feb. | 26 | 1915. |
-| 17 | 319 | 1266 | 3491 | 1302 | 410401 Private  |  | Nil. .. | Meindl, Mrs. Angelina  | , 79 Maryland St., Winnipeg, Man Russia.. . | Barriefield Cmp | July | 23 | 1915. |
-| 17 | 319 | 1295 | 3491 | 1330 | 410619 Private  | Silcock, William  |  | Silcock, Mrs. Annie  | . 247 Aylmer St., Peterboro, Ont England.. | Peterboro  | Julv | 31 | 1915. |
-| 17 | 319 | 1324 | 3492 | 1360 | 410885 Private  | Simmons, Edward  | Nil  | Simmons, Evelyn  | , 241 Hackney Rd., London, Eng England.. | Lindsay  | Feb. | 20 | 1915. |
-| 17 | 319 | 1353 | 3491 | 1387 | 410620 Private  | Simmons, Herbert Wilson  | Nil  | Simmons, William  | , Simmons, P.Q Canada... | Barriefield  | May | 28 | 1915. |
-| 17 | 319 | 1383 | 3492 | 1416 | 410621 L.-Corporal.. | Simmons, Maurice  | Nil  | Simmons, Mrs. Lena  | . 23 Caer Howell St., Toronto, Ont England.. | Lindsav  | May | 21 | 1915. |
-| 17 | 319 | 1411 | 3491 | 1446 | 410622 Private  | Singh, Warvam  | Nil  | Singh, Wazer  | . Dholehae, Kaputhald, Punjab, India India  | Barriefield Cmp | July | 28 | 1915. |
-| 17 | 319 | 1440 | 3491 | 1475 | 410886 Private  | Singleton, John  | U. S. Army  | Singleton, Mrs. C  | . Watertown, N.Y., U.S.A U.S.A.... | Barriefield  | Julv | b | 1915. |
-| 17 | 318 | 1469 | 3491 | 1503 | 410887 Sergeant  | Smellie, William Alexander  |  | Smellie, Mrs. W. A  | . Hamilton,Bermuda, B.W.I Scotland. | Bermuda  | Aug. | 27 | 1915. |
-| 17 | 318 | 1498 | 3491 | 1532 | 410880 Private  | Smith, Charles  | Nil  | McKenzie, Mrs. Catherine | . c/o Mrs. Holder, R. R. No. 3, St. Catharines, Ont Scotland. | Lindsay  | Mar. | 19 | 1915. |
-| 17 | 317 | 1527 | 3492 | 1561 | 410623 Private  | Smith, Charles Frederick  |  | Smith, Mrs. Charlotte  | . 27 Ann St., Smith’s Falls, Ont U.S.A  | Ottawa  | May | 0 | 1915. |
-| 17 | 317 | 1556 | 3492 | 1590 | 410939 Private  | Smith, Edward Peter J  | Nil  | Meehan, Rev. J. A  | . Morrisburg, Ont England.. | Alexandria  | Feb. | 27 | 1915. |
-| 17 | 317 | 1585 | 3491 | 1620 | 410402 Private  | Smith, Frederick  | Nil  | Smith, Mrs. Mary Francis | . 288 Wellington St., Ottawa, Ont Canada... | Ottawa  | Mar. | 2 | 1915. |
-| 17 | 317 | 1614 | 3492 | 1648 | 410940 Private  | Smith, Guy  | Nil  | Smith, John  | , P.O. Box 402, Cornwall, Ont Canada... | Cornwall  | Julv | 29 | 1915. |
-| 17 | 317 | 1643 | 3492 | 1677 | 410191 Private  |  |  | Smith, Mrs. Sara  | 34 Cedar St., Hightown, Manchester, Eng England.. | Ottawa  | July | 24 | 1915. |
-| 17 | 317 | 1671 | 3493 | 1705 | 410888 Private  |  |  | Smith, Charles  | 310 Flora St., Ottawa, Ont Canada... | Barriefield Cmp | July | 6 | 1915. |
-| 17 | 316 | 1701 | 3493 | 1736 | 410889 Private  | Smith. James  | Nil | Armstrong, Mrs. T. G  | 222 Armstrong St., Ottawa, Ont England.. | Barriefield Cmp | Julv | 6 | 1915. |
-| 17 | 315 | 1730 | 3493 | 1765 | 410404 Private  | Smith, James McKenzie  | Nil  | Young, Miss  | 152 Marganley St., Glasgow, Scot Scotland. | Cornwall  | Jan. | 29 | 1915. |
-| 17 | 315 | 1759 | 3493 | 1792 | 410403 Private  | Smith, John Christopher  | Nil  | Smith, Mrs. Hannah  | 237 Holland Ave., Ottawa, Ont England.. |  | July | 20 | 1915. |
-| 17 | 314 | 1788 | 3493 | 1822 | 410890 Private  | Smith, John H  |  | Smith, Mrs. J. H  | 107 Avenue 1, South, Saskatoon, Sask England.. | Barriefield  | Julv | 6 | 1915. |
-| 17 | 314 | 1817 | 3493 | 1851 | 410624 L.-Corporal.. |  |  | Smith, Mrs. Jane  | Liverpool, Eng England.. | Barriefield  | Julv | 28 | 1915. |
-| 17 | 313 | 1846 | 3493 | 1880 | 410192 Private  | Smith, Vincent  | Nil. . | Smith, Mrs. Sara  | 34 Cedar St., Hightown, Manchester, Eng England.. | Ottawa  | Julv | 24 | 1915. |
-| 17 | 313 | 1875 | 3493 | 1909 | 410625 Private  | Snider, Floyd  | Nil... | Snider, Alfred  | Delta, Ont   Canada.. |  |  | ?( | 1915. |
-| 17 | 312 | 1904 | 3494 | 1939 | 410405 Private  | Soper, Willard Sherwood  | Nil  | Soper, Mrs. M. A  | Prescott, Ont U.S.A  | Prescott  | Jur.e | 9 | 1915. |
-| 17 | 312 | 1933 | 3494 | 1968 | 410193 Private  | Sowter, Edwin  | Nil | Sowter, Mrs. Toty  | , Aylmer East, P.Q Canada... | Ottawa  | Feb. | 2b | 1915. |
-| 17 | 311 | 1962 | 3494 | 1998 | 410194 Private  | Sparks, Ernest  |  | Sparks, Mrs. Annie  | , 5 Lyndhurst Grove, London, Eng England.. | Not stated  | May | 1 | 1915. |
-| 17 | 311 | 1991 | 3494 | 2027 | 410195 Private  | Spear, Robert George  |  | Spear, Mrs. Carrie  | , Hillson Ave., Ottawa West, Ont England.. | Ottawa  | Feb. | 2b | 1915. |
-| 17 | 311 | 2020 | 3494 | 2056 | 410891 Private  | Spears, Robert Harold  | Nil  | Spears, Alexander  | , Kingston Rd. & Blantair Ave., Scarborough, Ont Canada... | Lindsay  | June | 1 | 1915. |
-| 17 | 310 | 2050 | 3494 | 2085 | 410406 Private  | Spencer, Frank  |  | Spencer, Mrs. Elizabeth | , 20 Westfield Terrace, Bradford, Yorks, Eng England.. | Barriefield  | Julv | 23 | 1915. |
-| 17 | 310 | 2079 | 3494 | 2114 | 410959 Private  | Spencer, Harry Herbert:  | C.A.M.C  | Spencer, Harry Herbert | , 133 Balsam St., Ottawa, Ont Canada... | Ottawa  | May | 1 | 1915. |
-| 17 | 310 | 2108 | 3495 | 2143 | 410892 Private  | Spicer, Robert  | Nil  | Spicer, Mrs. Sarah  | , 13 Northway Rd., Camberwell, London, Eng England.. | Lindsay  | May | 28 | 1915. |
-| 17 | 310 | 2136 | 3495 | 2173 | 410626IPnvate  | Spratt, Frederick James  | Imp. Forces  | Spratt, Emma  | , 15 Tower St., Chester, Eng England.. | Barriefield  | July | 28 | 1915. |
-| 18 | 851 | 571 | 3332 | 605 |  |  | Former Corps. |  |  | Country of |
-| 18 | 669 | 616 | 3769 | 640 | o |  |  |  |  |  | Place. | Date. |
-| 18 | 658 | 716 | 3822 | 749 | 410627 Private. | Spratt, James  | Can. Mil  | Spratt, Herbert  | Maxville, Ont  | Canada.. | Alexandria... | June | , 1915. |
-| 18 | 658 | 745 | 3822 | 780 | 410941 | L.-Corporal. | Spratt, William James  | 47 th Regt  | Spratt, James   | Cumberland, Ont  | Canada.. | Ottawa  | Feb. | , 1915. |
-| 18 | 657 | 774 | 3822 | 809 | 410893 | Private  | Stanley, Walter Jasper  | Nil  | Stanley, Mrs. Leah  | 6 Robinson St., Toronto, Ont  | Canada.. | Lindsay  | May | , 1915. |
-| 18 | 656 | 803 | 3822 | 838 | 410196 | Sergeant | Steadman, William George  | Imp. Forces  | Steadman, Mis. Florence Amelia.. | P.O., Russell, Ont  | England.. | Ottawa  | Apr. | , 1915. |
-| 18 | 656 | 832 | 3822 | 866 | 410407 | Private  | Stephenson, Frederick Charles  | Nil  | Stephenson, Mrs. Elizabeth.. | South Shields, Durham, Eng  | England.. | Barriefield Cmp | May | , 1915. |
-| 18 | 656 | 861 | 3822 | 895 | 410894 | Private  | Stevens, Alfred  | Nil  | Stevens, Mrs. Elizabeth  | 84 Pickering St., Toronto, Ont   | England.. | Lindsay  | May | , 1915. |
-| 18 | 655 | 890 | 3822 | 924 | 410628 | Private  | Stewart, Alfred  | Nil  | Stewart, Frederick  | 8 Cambridge Terr., Hyde Park, London, Eng  | England.. | Barriefield  | May | , 1915. |
-| 18 | 655 | 919 | 3822 | 954 | 410197 | L.-Coiporal.. | Stewart, Finlay Alexander  | Nil  | Stewart, A. M   | P.O., Vernon, Ont  | Canada... | Ottawa  | Feb. | , 1915. |
-| 18 | 654 | 948 | 3822 | 983 | 410408 | Private  | Stewart, Harry  | Nil  | Stewart, Mrs. Thomas T.... | 38 St. David St., Toronto, Ont  | Canada.., | Bermuda  | Oct. | , 1915. |
-| 18 | 654 | 978 | 3822 | 1011 | 410409 | Private  | Stewart, Norman Turner  | Nil  | Stewart, Mrs. Elizabeth J... | Argyle Ave., Ottawa, Ont  | Canada... | Ottaw'a  | May | , 1915. |
-| 18 | 653 | 1007 | 3822 | 1041 | 410942 | Private  | Stewart, Thomas  | Nil  | Stewart, Thomas  | 163 Frank St., Ottawa, Ont    | Canada... | Ottawa  | Feb. | , 1915. |
-| 18 | 653 | 1036 | 3822 | 1071 | 410412 | Private  | St. George, Charles Ernest  | 42nd Regt  | St. George, Mrs. Charles  | Bedford, Eng  | England.. | Smith’s Falls... | June | , 1915. |
-| 18 | 653 | 1065 | 3822 | 1099 | 41019S | Sergeant  | Stock, Frank Jerome  | Nil  | Stock, Charles  | 448 Cooper St., Ottawa, Ont  | Canada.., | Ottawa  | Feb. | , 1915. |
-| 18 | 652 | 1094 | 3822 | 1128 | 410199 | Private  | Stokes, George James  | Nil  | Stokes, Mrs. Minna  | Perth, Ont  | Canada.., | Ottawa  | Apr. | , 1915. |
-| 18 | 652 | 1124 | 3822 | 1159 | 410629 | Private  | Stokes, Walter George W  | Territorials  | Stokes, Mrs. Mary Jane  | 36 Station St., Mesteg Glen, S. Wales  | England.. | Ottawa  | Apr. | , 1915. |
-| 18 | 651 | 1152 | 3822 | 1186 | 410410 | Private  | Stonier, Walter  | Nil  | Stonier, John  | Russell, Ont  | England.. | Ottawa  | Teb. | , 1915. |
-| 18 | 651 | 1181 | 3822 | 1215 | 410595 | Private  | Strachan, David  | Nil  | Hunter, Mrs. Mary  | 713 King Edward Ave., Ottawa, Ont  | Ireland... | Ottawa  | May | , 1915. |
-| 18 | 650 | 1210 | 3822 | 1244 | 410630 | Private  | Stroud, John  | Nil  | Stroud, Conrad  | New Hamburg, Ont  | Canada.., | Ottawa...  | Apr. | , 1915. |
-| 18 | 649 | 1239 | 3822 | 1273 | 410633 | Private  | St. Thomas, James P  | Nil  | St. Thomas, Peter  | Cornwall, Ont  | Canada... | Alexandria  | Feb. | , 1915. |
-| 18 | 649 | 1268 | 3822 | 1302 | 410200 | Private  | Stuart, James William A  | Nil.  | Stuart, Colin  | Osgoode Sta., Ont  | Canada... | Ottawa  | Feb. | , 1915. |
-| 18 | 650 | 1297 | 3822 | 1332 | 410411 | Private  | Stuart, William  | Imp. Forces  | Stuart, Mrs. W  | 86 Black St., Townhead, Glasgow, Scot  | Scotland. | Ottawa  | Feb. | , 1915. |
-| 18 | 649 | 1326 | 3822 | 1361 | 410596 | Private  | Sullivan, Frederick William. | Nil  | Sullivan, Rose  | 54 Massey St., Toronto, Ont  | England.. | Lindsay  | May | , 1915. |
-| 18 | 648 | 1355 | 3822 | 1391 | 410631 | Private  | Sullivan, William Munro.... | Nil  | Sullivan, Miss May  | P.O., Rankin, Ont  | Canada.., | Ottawa  | Mar. | , 1915. |
-| 18 | 649 | 1384 | 3822 | 1419 | 410943 | Private  | Swan, Douglas  | 56th Regt  | Swan, H. R  | Kemptville, Ont  | Canada... | Ottawa  | Feb. | , 1915. |
-| 18 | 648 | 1414 | 3822 | 1448 | 410632 | Private  | Sweeney, George  | Nil  | Sweeney, Mrs. Fanny  | Rankin, Ont.    | Canada... | Ottawa  | May | , 1915. |
-| 18 | 648 | 1443 | 3822 | 1477 | 410637 | Private  | Sweeney, John Francis  | Imp. Forces  | Smith, Elizabeth  | 2 ElmGrove, Smithdown, Liverpool, Eng  | England.. | Bermuda  | Aug. | , 1915. |
-| 18 | 647 | 1472 | 3822 | 1506 | 410201 | Private  | Sweeney, Patrick  | Imp. Forces  | Sweeney, William  | Erith, Kent, Eng  | England.. | Ottawa  | July | , 1915. |
-| 18 | 647 | 1501 | 3822 | 1535 | 410202 | L.-Corporal.. | Swimmings,William Stancombe P. | 59 th Regt  | Swimmings, Mrs. Elizabeth.. | 339 Flora St., Ottawa, Ont  | England.. | Ottawa  | Feb. | , 1915. |
-| 18 | 646 | 1530 | 3822 | 1565 | 410897 | Private  | Switzer, Joseph Wesley  | 47th Regt  | Switzer, Mrs. Sarah  | Camden East, Ont.  | Canada... | Napanee  | June | , 1915. |
-| 18 | 646 | 1559 | 3822 | 1591 | 410S98 | Private  | Sykes, Joseph William  | Nil  | Not stated  | Not stated    | England.. | Napanee  | May | , 1915. |
-| 18 | 646 | 1587 | 3822 | 1621 | 410413 | L.-Corporal.. | Taylor, George  | G.G.F.G  | Skemer, Mrs. A  | Riverside Park, Ottawa West, Ont  | England.. | Ottawa  | May | , 1915. |
-| 18 | 646 | 1616 | 3821 | 1651 | 410203 | Sergeant  | Taylor, Henry Clifton  | Imp. Forces  | Taylor, Mrs. Mary Jane  | 451 Yi Riverdale Ave., Ottawa, Ont  | England.. | Ottawa  | Feb. | , 1915. |
-| 18 | 645 | 1645 | 3821 | 1680 | 410634 | Private  | Taylor, John George  | G.G.F.G  | Taylor, Mrs. Flora  | 23 Upper Church Path, Landport, Portsmouth, Eng. | Canada... | Ottawa  | June | , 1915. |
-| 18 | 645 | 1673 | 3822 | 1708 | 410635 | Private  | Teck, Peter  | Nil  | Teck, Cosmow  | 1263 St. Clair Ave. W., Toronto, Ont  | Russia... | Ottawa  | Mar. | , 1915. |
-| 18 | 644 | 1703 | 3821 | 1738 | 410414 | Private  | Tedder, Ernest A  | 12nd Regt  | Mason, Mrs. John  | Simcoe, Ont    | England.. | Smith’s Falls... | June | , 1915. |
-| 18 | 644 | 1732 | 3822 | 1767 | 410899 | Private  | Teirney, Thomas Timothy... | Nil  | Teirney, Mrs. Mary  | 5 Widmer St., Toronto, Ont   | England.. | Lindsay  | May | , 1915. |
-| 18 | 643 | 1760 | 3822 | 1796 | 410415 | Private  | Telling, Charles F  | Imp. Forces  | Telling, William Frank  | 18 Alma St., Bristol, Eng  | England.. | Barriefield Cmp | July | , 1915. |
-| 18 | 643 | 1790 | 3822 | 1825 | 410636 | Private   | Temple, Richard  | Nil  | Temple, Henry  | 11 Reform St., Dundee, Scot  | Scotland. | Barriefield... | July | , 1915. |
-| 18 | 643 | 1818 | 3822 | 1854 | 410416 | Corporal | Terp, Otto William W  | Danish Army  | Johnston, Mrs. G  | 446 Gilmour St., Ottawa, Ont  | Russia... | Ottawa  | Mar. | , 1915. |
-| 18 | 643 | 1847 | 3821 | 1883 | 410204 | Private  | Terry, Harold  | Nil  | Terry, John  | 62 Central Rd., Blackpool, Lancs., Eng  | England.. | Ottawa  | May | , 1915. |
-| 18 | 642 | 1876 | 3821 | 1912 | 410900 | Private  | Terwilligar, Merton  | Nil  | Terwilligar, Clarence  | Bloomfield, Ont  | Canada... | Picton  | May | , 1915. |
-| 18 | 643 | 1904 | 3821 | 1940 | 410901 | Sergeant  | Theobald, William  | Nil  | Theobald, Mrs. Annie Ruth.. | 173 Coleman Ave., Toronto, Ont  | Canada... | Lindsay  | May | , 1915. |
-| 18 | 642 | 1933 | 3821 | 1970 | 410902 | Private  | Thirien, Edward  | Nil  | Thirien, Mrs. Cary  | 293 Rochester St., Ottawa, Ont  | Canada... | Lindsay  | May | , 1915. |
-| 18 | 642 | 1961 | 3822 | 1998 | 410903 | Private  | Thomas, Harold   | Nil  | Thomas, Mrs. Annie  | 29 Holindale Rd., London, Eng  | England.. | Barriefield... | July | , 1915. |
-| 18 | 3133 | 1991 | 3822 | 2018 |  |  |  |  |  | Canada... | Brockville  | May | ,1915. |
-| 18 | 641 | 1993 | 3090 | 2029 | 41063S | Private  | Thomas, Sidney Ernest  | Nil  | Hathaway, Mrs. Nellie  | 23 Ruskin Ave., Toronto, Ont  |
-| 18 | 641 | 2020 | 3822 | 2057 | 410205 | Private  | Thompson, Alfred  | Royal Navy  | Thompson, Mrs. Annie Mary. | Little Clacton, Essex, Eng  | England.. | Ottawa  | Mar. | , 1915. |
-| 18 | 641 | 2049 | 3822 | 2086 | 410905 | Private  | Thompson, William  | Nil  | Thompson, Mrs. Elizabeth... | Lenett Croft, Enzie, Banff, Scot   | Scotland. | Ottawa  | June | , 1915. |
-| 18 | 641 | 2078 | 3822 | 2114 | 410639 | Private  | Thornton, James Alfred  | Nil    | Thornton, Mrs. Lois  | Harvey St., Perth, Ont  | Canada... | Ottawa  | Mar. | , 1915. |
-| 18 | 640 | 2107 | 3823 | 2144 | 410417 | L.-Corporal... | Thrift, Ernest Victor  | Territorials  | Thrift, Mrs. Martha  | 148 Stanley Ave., Ottawa, Ont  | England.. | Ottawa  | May | , 1915. |
-| 19 | 350 | 320 | 3514 | 365 | 410418 | Corporal. | Tierny, Arthur Ernest   | Nil  | Tierny, Mrs. May  | 107 Vittoria St., Ottawa, Ont  | Mar | 1 | 1915. |
-| 19 | 350 | 357 | 2816 | 393 | 410645 | Private... | Tighe, Samuel   | Nil  | Tighe, Mrs. Margaret  | Leeds, Yorks, Eng  |
-| 19 | 3313 | 377 | 3511 | 405 |  |  |  |  |  |  | May | 25 | 1915. |
-| 19 | 349 | 388 | 2818 | 421 | 410906 | Private... | Tinker, Arthur  | Nil  | Tinker, Alice  | Notstated  |
-| 19 | 3312 | 406 | 3503 | 434 |  |  |  |  |  |  | May | 1 | 1915 |
-| 19 | 349 | 414 | 2816 | 451 | 410419 | Private... | Tomkinson, Leonard George. | Nil  | Tomkinson, Mrs. Doucia.... | 366 Clarence St., Ottawa, Ont  |
-| 19 | 3311 | 436 | 3512 | 463 |  |  |  |  |  |  | July | 28 | 1915. |
-| 19 | 349 | 443 | 2816 | 478 | 410640 | Private... | Tomlin, Charles Reuben  | Nil  | Tomlin, George  | 72 Weatherby Rd., Earlscourt, Toronto, Ont  |
-| 19 | 3071 | 465 | 3510 | 494 |  |  |  |  |  |  | July | 23 | 1915. |
-| 19 | 348 | 472 | 2816 | 508 | 410420 | Private... | Tomlinson, William Francis. | Nil  | Tomlinson, Samuel  | 5Dresden Ave., Toronto, Ont  |
-| 19 | 3313 | 494 | 3504 | 517 |  |  |  |  |  |  | Mar. | M | 1915 |
-| 19 | 348 | 502 | 2817 | 538 | 410904 | Private... | Tompkins, Arthur John  | Nil  | Tompkins, Mrs. Louisa  | 159 Pickering St., East Toronto, Ont  |
-| 19 | 349 | 523 | 3513 | 568 | 410206 | Private... | Tompkins, Percy  | Nil  | Tompkins, Leonard  | 19 Herridge St., Ottawa, Ont  | Julv | 22 | 1915. |
-| 19 | 348 | 553 | 3513 | 596 | 410641 | Private... | Tougas, Frank  | Nil  | Tougas, Joseph  | 289 Rubidge St., Peterboro’, Ont  | July | 28 | 1915. |
-| 19 | 3315 | 582 | 3512 | 604 |  |  |  |  |  |  | Feb. | ?,2 | 1915. |
-| 19 | 349 | 589 | 2815 | 626 | 410207 | Corporal.. | Travers, Harold Fergus  | 43rd Regt... | Travers, Mrs. Minnie Swan. | 504 Metcalfe St., Ottawa, Ont  |
-| 19 | 3313 | 611 | 3513 | 634 |  |  |  |  |  |  | Feb. | 22 | 1915. |
-| 19 | 348 | 618 | 2816 | 656 | 410907 | Sergeant.. | Travers, Hubert Richard  | 43rd Regt... | Travers, Mrs. Minnie Swan. | 504 Metcalfe St., Ottawa, Ont  |
-| 19 | 348 | 640 | 3512 | 684 | 410642 | Private... | Trevelyen, Vernon  | Nil  | Not stated    | Not stated  | July | 28 | 1915. |
-| 19 | 3312 | 670 | 3512 | 697 |  |  |  |  |  |  | May | 3 | 1916. |
-| 19 | 348 | 676 | 2815 | 712 | 410208 | Private... | Truscott, Arthur  | Imp. Forces. | Truscott, Mrs. Elizabeth.... | Laundresfuit, Pembroke, Eng  |
-| 19 | 347 | 699 | 3512 | 742 | 410646 | Private... | Tucker, Hugh  | Nil  | Tucker, John  | 3 Russell St., Chichester, Sussex, Eng  | May | 28 | 1915. |
-| 19 | 347 | 729 | 3512 | 770 | 410421 | Private... | Tucker, William  | C.A.M.C.... | Tucker, Richard  | Lakefarm, Sheepwash, N. Devon, Eng  | Mar. | 19 | 1915. |
-| 19 | 3313 | 758 | 3512 | 781 |  |  |  |  |  |  | Feb | 24 | 1915. |
-| 19 | 347 | 763 | 2815 | 799 | 410209 | Private... | Tudor, Henry  | Nil  | Lee, Mrs. Margaret  | 10 Leyden St., Liverpool, Eng  |
-| 19 | 346 | 787 | 3512 | 828 | 410210 | Private... | Tudor, Joseph  | Nil  | Lee, Mrs. Margaret  | 10 Leyden St., Liverpool, Eng  | Feb | 24 | 1915. |
-| 19 | 346 | 821 | 2803 | 857 | 410908 | Private... | Tunnicliffe, Percival  | Nil  | Tunnicliffe, S  | H.M.S. “Dartmouth,” c/o Admiralty Office, London, |
-| 19 | 3310 | 845 | 3511 | 872 |  |  |  |  |  |  | July | 6 | 1915. |
-| 19 | 3314 | 874 | 3511 | 897 |  |  |  |  |  |  | Feb | n | 1915, |
-| 19 | 346 | 879 | 2815 | 916 | 410212 | Sergeant  | Turton, Edwin Ernest  | 43rd Regt. | Turton, Mrs. Agnes  | 185 Belmont Ave., Ottawa, Ont  |
-| 19 | 3315 | 903 | 3505 | 926 |  |  |  |  |  |  | Feb | 24 | 1915 |
-| 19 | 346 | 911 | 2815 | 943 | 410647 | Private  | Turnbull, Robert William  | Nil  | Evans, Mrs. William   | Napanee, Ont  |
-| 19 | 346 | 932 | 3505 | 973 | 410909 | Private  | Turner, Albert Edward  | Nil  | Turner, William   | Tilekiln Cottage, Weston, nr. Stevenage, Herts, Eng... | July | 6 | 1915 |
-| 19 | 345 | 961 | 3505 | 1002 | 410643 | Private   | Turner, Frank  |  | Lamb, Mrs. John   | 15 Plum St., Oldham, Lancs., Eng  | July | 28 | 1915 |
-| 19 | 345 | 990 | 3505 | 1032 | 410211 | Private   | Turner, Frank  | Royal Navy  | Turner, Mrs. Parnell  | Ash St., Westborough, Ont   | May | 4 | 1915 |
-| 19 | 345 | 1019 | 3505 | 1060 | 410644 | Private  | Twiname, Thomas  | Nil  | Twiname, David  | Crocketford, Dumfries, Scot  | May | 28 | 1915 |
-| 19 | 345 | 1054 | 2786 | 1090 | 410648 | L.-Corporal.. | Tyers, Sidney A  | 43rd Regt  | Tyera* Madeline  | 147 Pretoria Ave., Ottawa, Ont  |
-| 19 | 3315 | 1077 | 3512 | 1104 |  |  |  |  |  |  | May | 20 | 1915, |
-| 19 | 345 | 1083 | 2786 | 1119 | 410422 | Private  | Tyler, George  | 49th Regt  | Pinckney, Mrs. F   | 129 Glenarm Rd., Hackney. London, Eng  |
-| 19 | 3313 | 1106 | 3513 | 1133 |  |  |  |  |  |  | July | 24 | 1915. |
-| 19 | 344 | 1112 | 2787 | 1148 | 410213 | Private  | Urquhart, Gordon Bruce  | Nil  | Urquhart, W. T  | 195 Second Ave., Ottawa, Ont  |
-| 19 | 3312 | 1135 | 3513 | 1162 |  |  |  |  |  |  | July | 29 | 1915. |
-| 19 | 344 | 1141 | 2787 | 1176 | 410910 | Private  | Utman, Ira. W  | 43rd Regt  | Utman, Mrs. B    | 138 George St., Ottawa, Ont  |
-| 19 | 3316 | 1164 | 3515 | 1186 |  |  |  |  |  |  | Feb | (’) | 1915. |
-| 19 | 344 | 1171 | 2786 | 1204 | 410649 | Private  | Vallance, James  | Nil  | Vallance, Mrs. James  | Cornwall, Ont  |
-| 19 | 343 | 1200 | 2786 | 1234 | 410650 | Private  | Valyear, Peter  | 49 th Regt  | Johnson, Mrs. A  | Trenton, Ont  |
-| 19 | 344 | 1228 | 2786 | 1264 | 410651 | Sergeant  | Vance, Harry Howard  | Nil  | Vance, John  | 64 Abbott St., Brockville, Ont  |
-| 19 | 3314 | 1250 | 3515 | 1277 |  |  |  |  |  |  | May | 5 | 1915. |
-| 19 | 343 | 1257 | 2788 | 1291 | 410214 | Private  | Van Ness, Jack Abraham  | Nil  | Van Ness, Abraham  | Stonehurst Ave., Ottawa, Ont  |
-| 19 | 3314 | 1280 | 3515 | 1307 |  |  |  |  |  |  | Apr. | 10 | 1915. |
-| 19 | 344 | 1287 | 2788 | 1321 | 410957 | Private  | Veasey, James Joseph  | 43rd Regt  | O’Sullivan, Mrs. Catherine  | Picton, Ont  |
-| 19 | 343 | 1315 | 2787 | 1349 | 410423 | Private  | Vizina, Lorenzo  | Can. Eng  | Vizina, Mrs. Alfimiex  | 356 Clarence St., Ottawa, Ont  |
-| 19 | 343 | 1338 | 3516 | 1378 | 410652 | Private  | Waines, Ernest  | Nil  | Waines, John  | 5 Westwood Ave., Middlesborough, Yorks, Eng  | July | 28 | 1915. |
-| 19 | 343 | 1366 | 3517 | 1407 | 410653 | Private  | Waite, William Gad  | Nil  | Waite, Mrs. Mary  | Caledonia Ridge, Ont  | Feb | 27 | 1915. |
-| 19 | 343 | 1396 | 3516 | 1436 | 410217 | Private  | Walker, John  | Nil  | Walker, Miss Catherine.  | 2 The Avenue, Hornsey, M’sex, Eng  | Apr. | 10 | 1915. |
-| 19 | 3316 | 1425 | 3515 | 1447 |  |  |  |  |  |  | Mar. | n | 1915. |
-| 19 | 343 | 1426 | 2787 | 1466 | 410911 | Private  | Walkey, William Albert  | Nil  | Walkey, Mrs. Emma Dalton | 231 Montrose Ave., Toronto, Ont  |
-| 19 | 343 | 1453 | 3515 | 1494 | 410912 | Private  | Wallis, Alfred  | Territorials  | Wallis, Mrs. Margaret  | 16 Morley Ave., Toronto, Ont  | May | 7 | 1915. |
-| 19 | 3317 | 1483 | 3516 | 1505 |  |  |  |  |  |  | Feb | 26 | 1915. |
-| 19 | 342 | 1490 | 2787 | 1524 | 410425 | L.-Corporal.. | Ward, Albert  | Nil  | Simpson, John  | Nottingham, Eng  |
-| 19 | 342 | 1512 | 3516 | 1553 | 410215 | Sergeant  | Ward, Charles James  | R.C.R  | Ward, Thary  | 565 Albert- St., Ottawa, Ont  | May | 1 | 1915. |
-| 19 | 341 | 1541 | 3515 | 1581 | 410426 | Private  | Ward, Frederick     | 42nd Regt  | Ward, Mrs. Ada  | 133 Lees Ave., Ottawa East, Ont  | May | 4 | 1915. |
-| 19 | 3316 | 1570 | 3516 | 1593 |  |  |  |  |  |  | Mar. | 19 | 1915. |
-| 19 | 341 | 1576 | 2788 | 1609 | 410427 | Private  | Ward, Frederick Leonard  | G.G.F.G  | Ward, Mrs. Clara  | 281 Bell St., Ottawa, Ont  |
-| 19 | 340 | 1599 | 3516 | 1640 | 410654 | Private  | Wardhaugh, Edward  | 39 th Regt  | Wardhaugh, May  | 39 Grove St., Belleville, Ont  | May | 12 | 1915. |
-| 19 | 340 | 1628 | 3516 | 1667 | 410651 | Private^  | Wardle, John L   | Nil  | Wardle, F  | 163 Bickle Ave., Toronto, Ont  | May | 22 | 1915. |
-| 19 | 3317 | 1657 | 3517 | 1680 |  |  |  |  |  |  | Mar. | 24 | 1915. |
-| 19 | 341 | 1662 | 2789 | 1696 | 410428 | Private  | Ware, William  | Nil  | Ware, Harriet  | 18 Stott St., Hintonburg, Ottawa, Ont  |
-| 19 | 340 | 1693 | 2789 | 1726 | 410656 | Private  | Warner, Wilfred   | Nil  | Warner, Emerson  | Avonmore, Ont  |
-| 19 | 340 | 1722 | 2789 | 1756 | 410429 | Sergeant  | Warren-Howe, Herbert  | G.G.F.G  | Warren-Howe, Mrs. Elizabeth | 129)4 Willow St., Ottawa, Ont  |
-| 19 | 339 | 1744 | 3518 | 1784 | 410657 | Private  | Washer, Oliver Joseph  | Nil  | Washer, Mrs. Maddie  | 4 Bay St., Kingston, Ont  |  | 4 | 1915, |
-| 19 | 3319 | 1773 | 3518 | 1796 |  |  |  |  |  |  | Feb. | 22 | 1915. |
-| 19 | 339 | 1780 | 2789 | 1812 | 410216 | Private  | Waterman, Frederick William. | Nil  | Waterman, Mrs. Clementina | 339 Flora St., Ottawa, Ont  |
-| 19 | 3319 | 1802 | 3518 | 1824 |  |  |  |  |  |  | Feb | 27 | 1915. |
-| 19 | 339 | 1809 | 2790 | 1843 | 410658 | Corporal  | Watier, Emery  | Nil  | McLellan, Mrs. A  | P.O., St. Raphael’s, Ont  |
-| 19 | 339 | 1831 | 3518 | 1872 | 410430 | Private  | Watkin, Harry Thomas  | 15th Regt  | Watkin, D  | Belleville, Ont  | May | 25 | 1915. |
-| 19 | 3319 | 1859 | 3518 | 1883 |  |  |  |  |  |  | Feb | 24 | 1915. |
-| 19 | 339 | 1867 | 2789 | 1901 | 410218 | Private  | Weatherley, Harry  | 43rd Regt  | Weatherley, Mrs. Kate  | 101 Elgin St., Ottawa, Ont  |
-| 19 | 339 | 1889 | 3509 | 1928 | 410219 | Private  | Webb. Edward  | S.A  | Webb, Mrs. Alice  | P.O., Laurentian View, via Ottawa, Ont  | July | 19 | 1915 |
-| 19 | 338 | 1919 | 3519 | 1959 | 410431 | Private  | Webber, Reginald James  | Nil  | Webber, Nicholas  | 36 Milston Rd., London, Eng  | June | 3 | 1915. |
-| 19 | 338 | 1948 | 3518 | 1988 | 410913 | Corporal  | Weddell, Ray  | Imp. Forces  | Weddell, Mrs. Ray  | 2007 Cleveland Ave., Chicago, 111., U.S.A  | July | 28 | 1915. |
-| 19 | 337 | 1977 | 3519 | 2016 | 410220 | Private  | Weeden, William      | Nil   | Weeden, Miss Kathleen  | Nazareth House, Isleworth, M’sex., Eng  | Fob | 24 | 1915. |
-| 19 | 337 | 2006 | 3519 | 2046 | 410944 | Corporal  | Weeks, Frederick  | C.F.A  | Weeks, Mrs. Mary  | 420 Arlington Ave., Ottawa, Ont. |  | ? | 1915. |
-| 19 | 338 | 2035 | 3521 | 2074 | 410221 | Private  | Welch, James Edward  | Nil  | Welch, Mrs. Emily Hannah  | Ill Pine St., Ottawa, Ont  | Feb. | 24 | 1915. |
-| 20 | 854 | 629 | 3313 | 660 |  |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
-| 20 | 669 | 774 | 3807 | 806 | 410222 | Private  | Wellack, George  | Nil  | Wellack, Frederick  | 30 Westminster Terr., York, Eng  | England. | Ottawa  | Feb. | 22,1915. |
-| 20 | 669 | 804 | 3808 | 835 | 410432 | Private  | Wells, Harle Hore  | Nil  | Wells, Rev. William  | Lyn, Ont  | Canada.. | Brockville  | May | 20, 1915. |
-| 20 | 669 | 833 | 3807 | 863 | 410660 | Private  | Wei ton, Victor  | Nil  | Wei ton, Mrs. F  | Block 96, Vine St. Bldgs., Tooley St., London, Eng ... | India ... | Barriefield  | May | 25, 1915. |
-| 20 | 669 | 862 | 3807 | 893 | 410223 | Private  | Wenland, Walter  | Nil  | Wenland, Mrs. Ethel  | 3 Richmond Rd., Ottawa West, Ont  | England. | Ottawa  | Feb. | 22, 1915. |
-| 20 | 669 | 891 | 3808 | 923 | 410224 | Private  | Westover, Leland Stanford.. | Nil  | Westover, Mrs. C  | 4821 St. Catherine St., Montreal, P.Q  | Canada.. | Barriefield  | July | 24, 1915. |
-| 20 | 669 | 920 | 3808 | 952 | 410665 | Private  | Wetherilt, George  | Nil  | Wetherilt, Anglia  | 52 Townmead Rd., Fulham, London, Eng  | England. | Barriefield  | July | 28, 1915. |
-| 20 | 669 | 950 | 3808 | 980 | 410433 | Private  | Wheeler, Hubert  | Nil  | Wheeler, Peter  | Cornwall, Ont  | Canada.. | Cornwall  | Feb. | 26, 1915. |
-| 20 | 669 | 979 | 3808 | 1010 | 410662 | Private  | White, Albert  | Nil  | White, Josephine  | Cornwall, Ont  | Canada.. | Cornwall  | Jan. | 9, 1915. |
-| 20 | 669 | 1008 | 3808 | 1039 | 410226 | Private  | White, Arthur Mills  | Nil  | White, Edward  | 366 Laurier Ave. W., Ottawa Ont  | Canada.. | Ottawra  | July | 20, 1915. |
-| 20 | 669 | 1037 | 3809 | 1068 | 410434 | Private  | White, Frederick  | Nil  | Potasso, Mrs. Louise  | Montreal, P.Q  | Canada.. | Cornwall  | Mar. | 16, 1915. |
-| 20 | 668 | 1066 | 3809 | 1095 | 410225 | Private  | White Peter.... | Nil  | White, Mrs. Elizabeth  | 115 Arthur St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 22, 1915. |
-| 20 | 669 | 1095 | 3809 | 1125 | 410945 | Private  | Whitehead, Alfred Wellham | G.G.F.G  | Whitehead, Joseph  | Avenue Rd., St. Neots, Hunts, Eng  | England. | Ottawra  | Mar. | 1, 1915. |
-| 20 | 668 | 1124 | 3809 | 1155 | 410227 | Private  | Whitney, Robert Edwin.... | 98 th Regt | Whitney, Mrs. Martha  | P.O., Hampshire, Ont  | Canada.. | Ottawa  | Mar. | 19, 1915. |
-| 20 | 668 | 1153 | 3809 | 1184 | 410659 | Private  | Whitt, Arthur  | Royal Navy.. | Whitt, Mrs. Jane  | 81 Levanham Rd., London, Eng  | England. | Cobourg  | June | 9, 1915. |
-| 20 | 668 | 1182 | 3809 | 1213 | 410435 | Private  | Whittaker, Joseph  | Nil  | Runbaken, Mrs. J. H  | Leas Farm Cottage, Mellor, nr. Derby, Eng  | England. | Bermuda  | Dec. | 13, 1915. |
-| 20 | 668 | 1210 | 3810 | 1242 | 410424 | Private  | Whitty, James Lawrence— | Nil  | Whitty, Patrick  | 129 Dalhousie St., Ottawa, Ont  | Canada.. | Barriefield Cmp | July | 28, 1915. |
-| 20 | 668 | 1240 | 3809 | 1271 | 410228 | Private  | Wight, Harold Addison  | Nil  | Wight, Edward Cameron. . | 3 Fentiman Ave., Ottawa, Ont  | Canada.. | Ottawa  | Apr. | 10, 1915. |
-| 20 | 667 | 1269 | 3810 | 1300 | 410436 | C.S.M  | Wilkinson, John James  | S.A  | Wilkinson, Mrs. Lily  | 556 Elgin St., Ottawa, Ont  | Ireland.. | Ottawa  | Feb. | 22, 1915. |
-| 20 | 667 | 1298 | 3913 | 1329 | 410663 | Private  | Williams, George  | Nil  | Williams, Mrs. William  | Dunvegan, Ont  | Canada.. | Alexandria  | Mar. | 1, 1915. |
-| 20 | 667 | 1327 | 3810 | 1358 | 410437 | Private  | Willis, John Patrick  | Nil  | Willis, Mary  | 51 Bounds Green Rd., Wood Green, London, Eng  | England. | Ottawa  | Mar. | 2, 1915. |
-| 20 | 667 | 1356 | 3810 | 1387 | 410229 | Private  | Wilson, Clarence  | Nil  | Crotty, Clifford.    | Bank St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 24, 1915. |
-| 20 | 667 | 1385 | 3811 | 1417 | 410661 | L.-Corporal | Wilson, Ernest Shepherd  | Nil  | Wilson, David  | P.O. Box, 491 Pembroke, Ont  | Canada.. | Ottawa  | Mar. | 23, 1915. |
-| 20 | 666 | 1414 | 3810 | 1445 | 410230 | Private  | Wilson, Glen  | 43rd Regt | Wilson, Mrs. Eliza  | 164 First Ave., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 22, 1915. |
-| 20 | 666 | 1443 | 3810 | 1474 | 410438 | Private  | Wilson, T. G. Rivers  | Nil  | Wilson, C  | 1 Irving Ave., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 1, 1915. |
-| 20 | 666 | 1471 | 3811 | 1503 | 410664 | L.-Corporal. | Winson, Robert  | Nil  | Winson, John.    | Tatsfield, Westerham, Kent, Eng  | England. | Peterborough... | May | 26, 1915. |
-| 20 | 666 | 1500 | 3811 | 1532 | 410666 | Private  | Wisberg, Morris  | Nil  | Wisberg, Minnie  | 239 Cadieux St., Montreal, P.Q   | Canada.. | Barriefield Cmp | May | 28, 1915. |
-| 20 | 666 | 1530 | 3811 | 1560 | 410914 | Private  | Woodward, Alfred  | Nil  | Stevenson, Mrs. H  | 187 Soudan Ave., Toronto, Ont  | England. | Barriefield | July | 28, 1915. |
-| 20 | 665 | 1557 | 3812 | 1589 | 410667 | Corporal— | Worsdale, Richard William. | Nil  | Worsdale, Mrs. Mary Alice, | 18 St. Clair St., Longton, Stoke-on-Trent, Staffs, Eng.. | England. | Ottawa  | Apr. | 28, 1915. |
-| 20 | 665 | 1588 | 3812 | 1618 | 410439 | Private  | Wright, George William | Nil  | Wright, Mrs. Ann Stewart., | 295 Princess St., Kingston, Ont  | England. | Ottawa — | May | 1, 1915. |
-| 20 | 665 | 1615 | 3812 | 1647 | 410231 | Private  | Wright, John Joseph  | Nil  | Wright, Miss Mary    | Enderly House, Hartshill,Penkhull, Stoke-on-Trent, Eng | England. | Ottawa — | May | 5, 1915. |
-| 20 | 665 | 1644 | 3803 | 1676 | 410668 | Private  | Wright, Leonard William... | 42nd Regt.... | Wright, Mrs. Catherine  | 2 South St., Marble Head, Mass, U.S.A  | U.S.A... | Ottawa — | Mar. | 29, 1915 |
-| 20 | 665 | 1675 | 3814 | 1705 | 410440 | Private  | Young, Richard W  | 49th Regt. ... | Young, J. H  | Cordova Mines, Ont  | Canada.. | Belleville.. | May | 20, 1915. |
-| 20 | 1534 | 1872 | 3811 | 1903 |  |  |  | O.T.C  | Barclay, Rev. James (D.D.)  |  |  |  | 18.1915- |
-| 20 | 1535 | 1929 | 3813 | 1958 |  |  |  | O.T.C  |  | 31 MacGregor St., Montreal, P.Q  |  | Shorncliffe J | 18, 1915. |
-| 20 | 1535 | 1986 | 3814 | 2016 |  |  |  | O.T.C  |  | 183 Mansfield St., Montreal, P.Q  |  | Shorncliffe J | 18, 1915. |
-| 20 | 1535 | 2014 | 3814 | 2047 |  |  |  | O.T.C  | Wanklyn, F. L.  | 241 Drummond St., Montreal,P.Q  | Canada  | Shorncliffe J | 18, 1915. |
-| 20 | 655 | 2049 | 1822 | 2076 |  |  |  | O.T.C  | Ashby, Patrick Terence H  | A10944 |
-| 20 | 656 | 2102 | 3816 | 2135 |  |  |  | O.T.C  | Bailey, Hugh Courtnay  | Newhaven, Hastings, Barbadoes, B.W.I  | B.W.I  | Montreal  | A10960 | 11, 1915. |
-| 20 | 656 | 2131 | 3816 | 2160 |  |  |  | Nil  |  |  | England  | Montreal  | A11020 | 29,1915. |
-| 20 | 656 | 2160 | 3816 | 2194 |  |  |  | Nil  | L.-Corporal  | Balfour, James Stevenson  | 2315 Victoria Ave., Regina, Sask  | Canada  | Saskatoon  | A11089 | 5, 1915. |
-| 21 | 375 | 416 | 3505 | 449 | 411015 | Private., | Beatty, Harold Arthur  | O.T.C  | Beatty, J. C  |  |  | Mar. | 17. 1915. |
-| 21 | 3306 | 445 | 3505 | 472 |  |  |  |  |  |  |  | May | 4 | 1915. |
-| 21 | 366 | 449 | 1910 | 478 | A11171 | Private., | Beck, Cyril Lloyd  | 101st Regt.. | Beck, Justice N. D  |
-| 21 | 365 | 474 | 3504 | 508 | A11024 | Private.. | Benett, Charles Morgan  | 38th Regt... | Wye, Miss E. M  |  |  | Mar. | 29 | 1915. |
-| 21 | 3304 | 503 | 3506 | 530 |  |  |  |  |  |  |  | Apr. | 5 | 1915. |
-| 21 | 365 | 508 | 1910 | 536 | A11066 | Private.. | Bennett, Andrew Carmichael. | Territorials. | Bennett, Elizabeth  |
-| 21 | 365 | 532 | 3505 | 566 | A10963 | Private.. | Bieler, Andre Charles  | Nil  | Bieler, Charles  | 98 Columbia Ave., Westmount, P.Q  | Montreal  | Mar. | 15 | 1915. |
-| 21 | 3305 | 561 | 3505 | 584 |  |  |  |  |  |  |  | Mar. | 29 | 1915. |
-| 21 | 364 | 565 | 1910 | 594 | A11022 | Private.. | Bieler, Etienne S  | O.T.C  | Bieler, Rev. Dr. Charles.. |
-| 21 | 364 | 590 | 3505 | 625 | A10913 | Private.. | Bignell, Hilary V  | O.T.C  | Bignell, C. A  |  | Montreal  | Feb. | 24 | 1915. |
-| 21 | 363 | 619 | 3506 | 653 | All 100 | Private.. | Blackburn, Charles David C.. | Nil  | Blackburn, David  |  | Saskatoon  | Mar. | 19 | 1915. |
-| 21 | 363 | 648 | 3506 | 683 | A11028 | Private.. | Blair, Frank Alexander  | 3rd Regt | Urquhart, Mrs. A  |  |  |  | 1 | 1915. |
-| 21 | 363 | 677 | 3506 | 710 | A10937 | Private.. | Boulden, Charles Eric  | O.T.C  | Boulden, Mrs. C. J  |  | Ste Anne de | Mar. | 8 | 1915. |
-| 21 | 362 | 736 | 3506 | 768 | A11114 | Private  | Bowness, George C  | Nil  | Bowness, Benjamin  |  |  | Apr. | 10 | 1915. |
-| 21 | 363 | 765 | 3506 | 796 | A10942 | Private  | Bradford, William Cecil R. | 17th Huss  | Bradford, William H  |  |  | Mar. | 8 | 1915. |
-| 21 | 362 | 795 | 3506 | 826 | A11004 | Private  | Bradley, Clayton A  | O.T.C  | Bradley, A  |  |  | Mar. | in | 1915. |
-| 21 | 363 | 824 | 3507 | 855 | A10906 | L.-Corporal., | Branch, John Reginald A... | Can. Mil  | Branch, Venerable Archdeacon. |  |  | Feb. | 18 | 1915. |
-| 21 | 361 | 853 | 3506 | 884 | All 147 | Private  | Brighton, Harris Weir  | O.T.C  | Brighton, John W  |  |  | May | 22 | 1915. |
-| 21 | 361 | 878 | 3507 | 912 | A10994 | Sergeant  | Brooks, George Francis  | C.A.S.C  | Brooks, Mrs. T. G  |  |  | Feb | 15 | 1915. |
-| 21 | 362 | 911 | 3508 | 941 | A10987 | L.-Corporal.. | Brown, Ewart C  | Bermuda V.R.C. | Brown, Mrs. F. M  | 3t. Georges, Bermuda, B.W.I  |  |  | 20 | 1915. |
-| 21 | 361 | 939 | 3508 | 970 | A11921 | Private  | Brown, George  | Territorials  | Brown, Mable    | 7 Melrose Ave., Notre Dame de Grace, Montreal, P.Q .. |  | Mar. | 20 | 1915. |
-| 21 | 360 | 969 | 3507 | 999 | A10950 | Private  | Brown, William P  | Nil  | Brown, Dr. G. A  |  |  | Mar. | 8 | 1915. |
-| 21 | 360 | 998 | 3508 | 1028 | A10962 | Private  | Bruneau, A. Sydney  | Can. Mil  | Bruneau, Rev. J. P  |  |  | Mar. | 13 | 1915. |
-| 21 | 360 | 1028 | 2796 | 1056 | A10939 | Private  | Brunt, John William  | O.T.C  | Brunt, Thomas Arthur  | 31 Boyer St., Montreal, P.Q  |
-| 21 | 3093 | 1055 | 3508 | 1080 |  |  |  |  |  |  | Bellevue  | Mar. | 8 | 1915. |
-| 21 | 369 | 1083 | 3508 | 1114 | 411153 | Private... | Buchanan, James Robert  | 17th Huss  | Buchanan, Mrs. J. R  |  |  |  | 27 | 1915. |
-| 21 | 360 | 1113 | 3508 | 1143 | A10984 | Private... | Buckland, William Rillas  | C. of G  | Buckland, Pardon B  |  | Montreal  | Mar. | 19 | 1915. |
-| 21 | 360 | 1142 | 3508 | 1171 | A10914 | Private... | Bull, Wilford Edward  | O.T.C  | Bull, M    |  |  | Feb | 24 | 1915. |
-| 21 | 360 | 1170 | 3508 | 1201 | All 102 | Private... | Bunn, Charles Harvey  | Nil  | Bunn, John Robinson  |  |  | Apr. | 5 | 1915. |
-| 21 | 360 | 1199 | 3508 | 1230 | A11034 | Private... | Bunn, Raymond Spence  | Nil  | Bunn, T. W  |  |  | Mar. | 5 | 1915. |
-| 21 | 360 | 1228 | 3508 | 1259 | A10907 | Private... | Burgess, Leslie C  | Can. Mil  | Burgess, Jean  | 343 Kensington Ave., Westmount, P.Q  |  | Feb. | 18 | 1915. |
-| 21 | 361 | 1257 | 3508 | 1288 | A10919 | Private... | Butler, Robert Walter  | 58th Regt  | Butler, Mrs. E  |  |  | Feb | 27 | 1915. |
-| 21 | 360 | 1286 | 3509 | 1317 | A11113 | Private... | Buxton, Charles Benjamin  | 82nd Regt  | Buxton, George  |  |  | Apr. | 10 | 1915. |
-| 21 | 360 | 1315 | 3509 | 1345 | A11031 | Private... | Calder, William McClure  | O.T.C  | Calder, G. F  |  |  | Apr. | 6 | 1915. |
-| 21 | 361 | 1344 | 3508 | 1375 | A10956 | Corporal. | Cameron, Charles Munnis  | O.T.C  | Cameron, C. S  |  |  | Mar | 9 | 1915. |
-| 21 | 360 | 1373 | 3509 | 1404 | A11071 | Private... | Cameron, Charles Neil  | 105th Regt  | Cameron, Murdo  |  |  | Mnr, | 16 | 1915. |
-| 21 | 369 | 1402 | 3509 | 1433 | 410910 | Private... | Cameron, Donald James  | Imp. Forces  | Cameron, James  |  |  | Feb. | 22 | 1915. |
-| 21 | 361 | 1431 | 3509 | 1462 | A11070 | Corporal. | Cameron, John  | Nil  | Cameron, Murdo  |  |  | Mar. | 16 | 1915. |
-| 21 | 361 | 1460 | 3509 | 1491 | A11073 | Private... | Cantelon, Harry Ray  | Nil  | Cantelon, David  |  |  | Mar. | 17 | 1915. |
-| 21 | 361 | 1489 | 3508 | 1520 | A11170 | Private... | Carey, Harry  | 44th Regt  | Carey, Jennie  |  |  | May | 25 | 1915. |
-| 21 | 360 | 1518 | 3509 | 1548 | A11025 | Private... | Carleton, Lionel Glanville  | Nil  | Carleton, Mrs. C. M  |  |  | Mar. | 29 | 1915. |
-| 21 | 360 | 1547 | 3508 | 1578 | A10970 | Private... | Carleton, Percy Wainwright  | 5th Regt  | Carleton, Mrs. Charlotte Matilda. |  |  | Mar. | in | 1915. |
-| 21 | 360 | 1576 | 3509 | 1608 | A11013 | Private... | Christie, Hugh Farquhar  | O.T.C  | Christie, Mrs. John  |  |  |  | 23 | 1915. |
-| 21 | 360 | 1602 | 3508 | 1636 | A11080 | Private... | Clark, Willis Linngair  | Nil  | Clark, Rev. W. C  |  |  |  | 17 | 1915. |
-| 21 | 359 | 1633 | 3511 | 1665 | A11151 | Private... | Coleby, Frederick  | Nil  | Coleby, Marie  |  |  | May | ?.7 | 1915. |
-| 21 | 360 | 1663 | 3510 | 1694 | A11121 | Private... | Connerty, Oscar Carlyle  | Nil  | Connerty, William  |  |  | Apr. | 12 | 1915. |
-| 21 | 359 | 1691 | 3510 | 1723 | All 152 | Private... | Costello, Patrick  | 109th Regt  | Costello, Mr3. May  |  |  | May | 27 | 1915. |
-| 21 | 358 | 1720 | 3510 | 1752 | A11039 | Private... | Coughlan, Joseph Clare  | Nil  | Coughlan, Miss G  | 23 Carlisle Apts., 580 Broadway St., Winnipeg, Man ... |  |  | 5 | 1915. |
-| 21 | 358 | 1749 | 3511 | 1781 | A11164 | Private... | Cowie, Charles McKenzie  | Royal Navy  | Cowie, Edwin D  |  |  | May | 17 | 1915. |
-| 21 | 358 | 1778 | 3512 | 1810 | All 167 | Private... | Craig, Gordon  | Nil  | Craig, R. F  |  |  | Apr. | 27 | 1915. |
-| 21 | 358 | 1807 | 3511 | 1838 | A11128 | Private... | Craig, Harold Allen  | Nil  | Craig, Richard  |  |  | Apr. | 12 | 1915. |
-| 21 | 357 | 1836 | 3509 | 1868 | A22560 | Private... | Craig, Leonard  | 71st Regt  | Kirch, Mrs. John E  |  |  | Sept. | 24 | 1914. |
-| 21 | 357 | 1865 | 3511 | 1897 | All 107 | Private... | Craighead, William King  | Territorials  | Craighead, Mrs. Agnes  |  |  | Apr. | 5 | 1915. |
-| 21 | 357 | 1894 | 3511 | 1926 | All 129 | Private... | Creighton, Stanley John  | Can. Mil...:  | Creighton, Mrs. Winnifred  |  |  | Apr. | 12 | 1915. |
-| 21 | 356 | 1923 | 3511 | 1955 | A10964 | Private... | Crotty, W. H  | Nil  | Crotty, Mrs  |  |  | Mar. | 15 | 1915. |
-| 21 | 356 | 1952 | 3512 | 1983 | A11044 | Private... | Crute, Ebenezer  | Nil  | Crute, Mrs. E  |  |  | Mar. | 5 | 1915. |
-| 21 | 356 | 1981 | 3512 | 2013 | A10920 | Bugler  | Cunningham, William Innes  | 5th Regt  | Cunningham, Mrs  | 1627 Park Ave., Montreal, P.Q  |  | Mar. | 1 | 1915. |
-| 21 | 357 | 2010 | 3512 | 2042 | A11141 | Private... | Cushing, Charles  | Nil  | Cushing, Mrs. Charles  |  |  | Apr. | 16 | 1915. |
-| 21 | 358 | 2039 | 3512 | 2070 | All 007 | Private... | Cuthbert, Alexander  | Nil  | Cuthbert, Mrs. William  |  |  | Apr. | 5 | 1915. |
-| 21 | 356 | 2069 | 3512 | 2100 | A11038 | Private... | Des Brisay, Merril  | Nil  | Des Brisay, A  | Angus Ave., Shaughnessy Heights, B.C  |  | Mar. | 5 | 1915. |
-| 21 | 356 | 2098 | 3514 | 2129 | A11132 | Private... | Detlor, Walter Perry  | O.T.C  | Detlor, Mrs. P. Z  |  |  | Apr | 1? | 1915. |
-| 22 | 883 | 569 | 3335 | 600 |  |  |  | Former Corps. |  |  | Country of |
-| 22 | 688 | 712 | 2353 | 745 | A11016 | Private  |  | Nil.... | Dickson, Mrs. J. R  |
-| 22 | 688 | 743 | 3837 | 772 | AllOll | Private  |  | O.T.C  |  |  |  |  | Mar. 20, 1915. |
-| 22 | 688 | 772 | 3837 | 800 | A11007 |  |  | O.T.C  |  |  |  |  | Mar. 17, 1915. | Private  |
-| 22 | 688 | 801 | 3837 | 829 | A11006 | Private  |  |  |  |  |  |  | Mar. 17, 1915. |
-| 22 | 688 | 830 | 3837 | 858 | A11026 | Private  |  | Nil.... |  |  | Newfoundland.. |  | Mar. 31, 1915. |
-| 22 | 688 | 860 | 3837 | 889 | All 119 |  |  |  |  |  | Canada  |  | Apr. 12, 1915. | Corporal  | O.T.C  |
-| 22 | 687 | 889 | 3838 | 918 | A1108G |  |  |  |  |  |  |  | Apr. 3, 1915. | Private  | Nil.... |
-| 22 | 687 | 917 | 3837 | 947 | All 106 |  |  |  |  |  |  |  | Apr. 3, 1915. | Private  | Nil  |
-| 22 | 688 | 947 | 3838 | 975 | A11057 |  |  |  |  |  |  |  | Mar. 24, 1915. | Private  | C.A.M.C  |
-| 22 | 687 | 977 | 3838 | 1005 | AlllOl |  |  |  |  |  |  |  | Apr. 5, 1915. | Nil  | Private  |
-| 22 | 687 | 1006 | 3838 | 1033 | A11079 | Private  |  | Nil  |  |  |  |  | Mar. 17, 1915. |
-| 22 | 687 | 1034 | 3838 | 1062 | A10980 | Private  |  | Nil  |  |  |  |  | Mar. 17, 1915. |
-| 22 | 687 | 1063 | 3838 | 1092 | A11018 | Private  |  | O.T.C  |  |  |  |  | Mar. 16, 1915. |
-| 22 | 688 | 1093 | 3838 | 1121 | A11076 |  |  | O.T.C  |  |  |  |  | Mar. 17,1915. |
-| 22 | 687 | 1123 | 3839 | 1153 | A10995 |  |  | O.T.C  |  |  |  |  | Mar. 16, 1915. | Fitzgerald, James Evert  | Fitzgerald, Mrs. E. C  |
-| 22 | 696 | 1151 | 3577 | 1178 | 410941 |  |  | O.T.C.... |  |  |  | St-e Anne de |
-| 22 | 687 | 1209 | 3839 | 1237 | A10905 |  |  |  |  |  |  |  | Feb. 19, 1915. | O.T.C  |
-| 22 | 688 | 1238 | 3839 | 1265 | A10953 |  |  |  |  |  |  |  | Mar. 9, 1915. | Nil. . |
-| 22 | 687 | 1268 | 3839 | 1295 | All 003 | Private  |  | O.T.C.... |  |  |  |  | Mar. 16, 1915. |
-| 22 | 686 | 1297 | 3839 | 1326 | A11050 |  |  | Nil.... |  | 212 Esplanade St. E., North Vancouver, B.C  |  |  | Mar. 11, 1915. |
-| 22 | 686 | 1327 | 3839 | 1355 | A1105S |  |  |  |  | Atlin, B.C  | Fraser, George Lyall  | Nil  | Mar. 24, 1915. |
-| 22 | 687 | 1356 | 3840 | 1383 | A111G6 |  |  | Nil.... |  |  |  |  | May 4, 1915. |
-| 22 | 687 | 1385 | 3840 | 1410 | A11052 |  |  | Nil. |  |  |  |  | Mar. 17, 1915. |
-| 22 | 687 | 1443 | 3839 | 1469 | A11041 |  |  | Nil. .. |  |  |  |  | Mar. 5,1915. |
-| 22 | 686 | 1472 | 3839 | 1500 | A11040 |  | Gibson, Thomas Ian  | Nil  |  |  |  |  | Mar. 5,1915. |
-| 22 | 686 | 1500 | 3841 | 1528 | A11093 |  |  | Nil. .. |  |  |  |  | Apr. 5, 1915. |
-| 22 | 686 | 1529 | 3840 | 1556 | A10946 |  |  |  |  |  |  |  | Mar. 8, 1915. | O.T.C.... |
-| 22 | 686 | 1558 | 3841 | 1586 | A11088 |  |  | Nil.... |  |  |  |  | Apr. 5, 1915. |
-| 22 | 686 | 1587 | 3841 | 1613 | A11059 |  |  | Nil. .. |  |  |  |  | Mar. 24, 1915. |
-| 22 | 686 | 1674 | 3841 | 1703 | A10973 |  | Grcgson, William Ewart  | O.T.C  |  |  |  |  | Mar. 16, 1915. |
-| 22 | 694 | 1703 | 3841 | 1731 | 411161 |  | Griffiths, Arthur Maynard J  | S.A  |  |  | Wales  |  | May 17, 1915. |
-| 22 | 686 | 1731 | 3842 | 1760 | A10969 |  | Groner, Ralph  |  |  |  |  |  | Mar. 16, 1915. | 247 Elm Ave., Westmount, P.Q  |
-| 22 | 687 | 1760 | 3841 | 1790 | A10903 |  |  | Nil  | Hamilton, Mrs. R. E  |  |  |  | Feb. 18, 1915. |
-| 22 | 687 | 1789 | 3842 | 1815 | All108 |  |  |  | Hill Mrs. F. C   |  |  |  | May 6, 1915. | O.T.C.... |
-| 22 | 686 | 1817 | 3842 | 1844 | A11078 |  |  | Nil  |  |  |  |  | Mar. 17, 1915. |
-| 22 | 686 | 1846 | 3842 | 1876 | A11049 |  | Hardie, Charles Mawer  | Nil  |  | Beaumont, P.O., Esquimalt, B.C  |  |  | Mar. 11, 1915. |
-| 22 | 687 | 1875 | 3843 | 1905 | A11098 |  |  | Nil  |  | "Kingscott,” Pentonville, Newport, Monmouth, Eng.. |  | Saskatoon  | Mar. 16, 1915. |
-| 22 | 687 | 1904 | 3843 | 1931 | All 139 |  |  | O.T.C  |  |  |  |  | Apr. 12, 1915. |
-| 22 | 687 | 1932 | 3843 | 1964 | A11122 |  |  | O.T.C  | Harvey, Oscar Robert  |  |  | Montreal  | Apr. 12, 1915. |
-| 22 | 687 | 1963 | 3143 | 1993 | All125 |  |  | O.T.C  | Hastings, Melville  | Ann Arbor University, Ann Arbor, Mich., U.S.A  |
-| 22 | 687 | 1990 | 3843 | 2020 | A23303 |  |  | Nil   |  | 5 Richmond St., Cross Lane, Salford, Manchester, Eng |  |  | Sept. 23, 1914. |
-| 22 | 687 | 2019 | 3844 | 2046 | A10915 |  |  |  |  |  |  |  | Feb. 24, 1915. | Montreal  |
-| 22 | 687 | 2048 | 3844 | 2077 | A1097G |  |  |  |  |  |  |  | Mar. 16, 1915. | O T.C  | Canada  | Montreal  |
-| 22 | 688 | 2077 | 3845 | 2106 | A11131 |  |  | Nil. |  |  |  | Montreal  | Apr. 12, 1915. |
-| 22 | 688 | 2106 | 3845 | 2139 | A10993 |  |  |  |  |  |  |  | Mar. 24, 1915. | Private  | Hodgson, Geoffrey Mitchell  | 3rd Regt  | Swanmere Vicarage, Bishop’s Waltham, Hants, Eng... | England  | Montreal  |
-| 23 | 371 | 358 | 3514 | 391 | A11091 Private  | Hooper, William John S  | Nil  | Hooper, William  | 1117 Chestnut Ave., Moose Jaw, Sask  |  |  | Apr. 5, 1915. |
-| 23 | 371 | 390 | 2822 | 421 | A10989 Private  | Howard, Henry  | C.A.M.C  |  | 2 Ebrington Gardens. Belfast, Ire  |
-| 23 | 751 | 416 | 3515 | 450 |  | Huckett, Hugh Cecil  | O.T.C  |  |  | Madagascar.... |  | Mar. 16, 1915. |
-| 23 | 1256 | 474 | 3516 | 506 |  |  |  |  |  |  |  | Mar. 16, 1915. | Nil  | 817 Wellington St., Montreal, P.Q  | Canada  |
-| 23 | 1255 | 532 | 3516 | 563 |  |  | Nil.... |  | 1250 Salisbury Drive, Vancouver, B.C  |  | Vancouver  | Mar. 5, 1915. |
-| 23 | 1253 | 561 | 3254 | 593 |  |  |  |  | 80 Somerville Ave., Westmount, P.Q  | O.T.C  | Ste. Anne de |
-| 23 | 747 | 648 | 3516 | 682 |  |  |  |  |  |  |  | Mar. 16, 1915. | Nil  | Jordan, Malcolm Dennis  | Guelph  |
-| 23 | 1253 | 765 | 3516 | 794 |  |  | Nil  |  |  |  | Saskatoon  | Mar. 18, 1915. |
-| 23 | 1252 | 795 | 3253 | 826 |  |  | O.T.C  | Kelsall, J. P  |  | England  | Ste. Anne de |
-| 23 | 747 | 852 | 3517 | 884 |  |  |  |  |  |  |  | Mar. 5, 1915. | Canada  | Montreal  | Kilgour, J. R  | O.T.C  | Kilgour, J. W  |
-| 23 | 748 | 910 | 3518 | 941 |  |  |  |  |  |  |  | Apr. 2, 1915. | Kirkland, Hal... | Kirkland, J. P  |
-| 23 | 1550 | 997 | 3518 | 1028 |  |  |  | Koyl, Mrs. R. B  |  | Canada  |  | Apr. 1, 1915. |
-| 23 | 746 | 1026 | 3518 | 1057 |  | Lake, S. W | Nil  |  |  |  |  | Aug. 25, 1914. |
-| 23 | 747 | 1055 | 3518 | 1087 |  |  |  |  |  |  |  | Mar. 16, 1915. | Leach, William Buck  | O.T.C  |
-| 23 | 1251 | 1084 | 3518 | 1115 |  |  |  |  |  |  |  | Feb. 26, 1915. | O.T.C  | 78 Bruce Ave., Westmount, P.Q  |
-| 23 | 1253 | 1142 | 3519 | 1171 |  |  | Nil  |  |  |  | Saskatoon  | Apr. 5, 1915. |
-| 23 | 746 | 1171 | 3519 | 1203 |  |  |  |  |  |  |  | Mar. 18, 1915. | Lewis, Rundall McGill  | O.T.C  | Lewis, Gordon T  | R.R. No. 2, Yarmouth, N.S  | U.S.A  |
-| 23 | 1252 | 1200 | 3519 | 1230 |  |  | Nil  |  |  | England  | Montreal  | Mar. 5, 1915. |
-| 23 | 365 | 1257 | 3519 | 1287 | A11053 Private  |  |  |  |  |  | Vancouver  | Mar. 17, 1915. |
-| 23 | 1250 | 1315 | 3519 | 1344 |  |  | C.F.A...  |  |  |  | Montreal  | Feb. 18,1915. |
-| 23 | 744 | 1373 | 3520 | 1406 |  |  |  |  |  |  |  | Apr. 12, 1915. | MacLachlan, Alexander Grant. . .. | O.T.C  | Montreal  |
-| 23 | 1249 | 1431 | 3520 | 1461 |  |  | O.T.C  |  |  |  | Montreal  | Apr. 1, 1915. |
-| 23 | 742 | 1489 | 3520 | 1522 |  |  |  |  |  |  |  | Mar. 16, 1915. | MacPherson, John Ross  | Nil . | Saskatoon  |
-| 23 | 363 | 1522 | 2824 | 1552 |  | Mahaffy, Herbert Lawrence  | All 145 Corporal  | O.T.C  | B. 6, Board of Trade, 42 St. Sacrement St., Montreal, |
-| 23 | 2090 | 1547 | 3520 | 1580 |  |  |  |  |  |  |  | Apr. 29, 1915. | P.Q  | Canada  | Montreal  |
-| 23 | 1250 | 1605 | 3521 | 1634 |  |  | Nil... |  |  |  | Montreal  | Apr. 10, 1915. |
-| 23 | 1247 | 1634 | 3520 | 1663 |  |  |  |  |  |  |  | Apr. 12, 1915. | O.T.C...  | Montreal  |
-| 23 | 2837 | 1663 | 3521 | 1694 |  |  |  |  |  |  |  | Mar. 20, 1915. | England  | Montreal  |
-| 23 | 1249 | 1721 | 3506 | 1751 |  |  |  |  |  |  |  | Apr. 5, 1915. | Nil  | Canada  | Saskatoon  |
-| 23 | 740 | 1779 | 3522 | 1812 |  | McCormick, James Hugh  | O.T.C  | McCormick, Mrs. M. D  | “Friendship,” St. Michael, Barbadoes, B.W.I  | B.W.I   | Montreal  | Mar. 11, 1915. |
-| 23 | 1248 | 1895 | 3522 | 1924 |  |  |  |  |  |  |  | Mar. 16, 1915. | Nil... | Ireland  | Saskatoon  |
-| 23 | 2049 | 1924 | 3522 | 1956 |  |  |  |  |  |  |  | Mar. 16, 1915. | 108 Villeneuve St. W., Montreal, P.Q  | Montreal  |
-| 23 | 1247 | 1953 | 3523 | 1986 |  |  |  |  |  |  |  | May 12, 1915. | 74 West 85th St., New York, N.Y., U.S.A  | Nil... | McGuire, Dr. F. A  | U.S.A  | Montreal  |
-| 23 | 1247 | 1982 | 3522 | 2012 |  |  |  |  |  |  |  | Mar. 23, 1915. | Nil... | Guelph  |
-| 23 | 357 | 2040 | 3523 | 2074 |  |  | Nil  | McLellan, Mrs. A. D  | A11036 Private  | McLellan, Willard Gilmour  | 1990, 7th Ave. W\, Vancouver, B.C  | Canada  | Mar. 5,1915. |
-| 24 | 706 | 568 | 3347 | 604 | .§* |  |  | Former Corps. |  |  | Country of |
-| 24 | 694 | 720 | 3839 | 749 | A10935 | Private. | McLeod, John M  | O.T.C  | McLeod, Neil. .. | Summerside, Prince Co., P.E.I. | Canada.. | Montreal  | Mar. 6, 1915. |
-| 24 | 694 | 749 | 3576 | 778 | A10943 | Private. | McMahon, Enoch Arthur. | O.T.C  | McMahon, B. W. | Aylesford, Kings Co., N.S  | Canada. . | Ste. Anne de |
-| 24 | 3424 | 780 | 3838 | 803 |  |  |  |  |  |  |  | Bellevue.... | Mar. | 1915. |
-| 24 | 693 | 806 | 3838 | 837 | A10992 | Private.. | McMullen, J. E  | Can. Eng  | McMullen, Mrs. M. A. | 755 Wellington St., Montreal, P.Q.... | Canada.. | Montreal   | Mar. | 1915. |
-| 24 | 694 | 836 | 3838 | 865 | A11046 | Private.. | McPherson, Ralph Stewart. | Nil  | Yelland, Mrs. J  | 1932, 6th Ave. W., Vancouver, B.C... | Canada.. | Vancouver— | Mar. | 1915. |
-| 24 | 693 | 865 | 3838 | 895 | A11169 | Private.. | Mills, Anthony Lyle  | Nil  | Mills, F. W  | 722 Hastings St. E., Vancouver, B.C. | Canada.. | Vancouver— | Apr. | 1915. |
-| 24 | 693 | 894 | 3838 | 924 | A11131 | Private.. | Mills, John Salter  | 14th Regt... | Mills, Thomas  | 120 University Ave., Kingston, Ont.. | Canada.. | Montreal  | Apr. | 1915. |
-| 24 | 693 | 923 | 3837 | 953 | A10988 | Corporal. | Millen, J. E. Lysle  | Nil  | Millen, Mrs. Leslie.... | 418 Wood Ave., Westmount, P.Q  | Canada.. | Montreal  | Mar. | 1915. |
-| 24 | 693 | 952 | 3575 | 981 | A10955 | Private... | Milne, Arthur Robb  | O.T.C  | Milne, George E. R... | Pointe Claire, P.Q  | Canada.. | Ste. Anne de |
-| 24 | 3424 | 982 | 3837 | 1007 |  |  |  |  |  |  |  | Bellevue— | Mar. | 1915. |
-| 24 | 693 | 1010 | 3837 | 1040 | A10928 | Private  | Moran, Algernon Cecil  | 3rd Regt  | Moran, Miss Muriel  | 240 Washington St., Jersey City, N.J., U.S.A  | England.. | Montreal  | Mar. | 1915. |
-| 24 | 693 | 1038 | 3836 | 1068 | A10512 | Q.-M. Sergeant. | Morris, William Hugo  | Can. Mil  | Morris, Mrs. Mary A  | 11 Somerset St., Ottawa, Ont  | Canada... | Ottawa  | Mar. | 1915. |
-| 24 | 692 | 1068 | 3836 | 1098 | A10922 | Private  | Moyse, Robert Edwin  | 5 th Regt  | Moyse, C. E  | 324 Sherbrooke St. W., Montreal, P.Q  | Canada... | Montreal  | Mar. | 1915. |
-| 24 | 696 | 1096 | 3836 | 1127 | A11062 | Private  | Munro, Alexander  | Nil  | Munro, A  | 1760 Parker St., Vancouver, B.C  | Canada... | Vancouver.... | Mar. | 1915. |
-| 24 | 694 | 1126 | 3836 | 1156 | A10999 | Private  | Murray, Robert  | O.T.C  | Murray, Mrs. Annie  | 75 Sheldrake Blvd., Toronto, Ont  | Canada... | Guelph  | Mar. | 1915. |
-| 24 | 691 | 1154 | 3836 | 1185 | A11085 | Private  | Neatby, Alan Fairlie  | 105th Regt. .. | Neatby, Andrew Mossforth.., | Renown, Sask  | England.. | Montreal  | Apr. | 1915. |
-| 24 | 688 | 1184 | 3836 | 1214 | A11084 | Private  | Nicholls, Joseph Lees  | Nil  | Nicholls, Joseph  | King St., Coatbridge, Lanark, Scot  | Scotland.. | Saskatoon.... | Mar. | 1915. |
-| 24 | 691 | 1213 | 3836 | 1242 | All118 | Private  | Nickle, William McAdam.. . | Nil  | Nickle, W. F  | 130 Earl St., Kingston, Ont  | Canada... | Montreal  | Apr. | 1915. |
-| 24 | 691 | 1242 | 3941 | 1271 | All105 | Private  | Nicoll, William  | Nil  | Nicoll, William  | “Castle Fraser,” Sanchen, Aberdeen, Scot  | Scotland.. | Saskatoon  | Apr. | 1915. |
-| 24 | 691 | 1271 | 3836 | 1301 | A11146 | Private  | Oliver, Robert  | Imp. Forces.. | Oliver, Robert Stormonth  | 167 Colonial Ave., Montreal, P.Q  | Scotland.. | Montreal  | Apr. | 1915. |
-| 24 | 690 | 1300 | 3836 | 1330 | A10911 | Private  | Parke, Charles Wilmot  | Nil  | Parke, G. H  | 210 Milton St., Montreal, P.Q  | Canada... | Montreal  | Feb. | 1915. |
-| 24 | 690 | 1329 | 3836 | 1358 | A10967 | Private  | Parker, Leslie H  | C. of G  | Parker, John  | Leeds Village, P.Q  | Canada... | Montreal  | Mar. | 1915. |
-| 24 | 690 | 1358 | 3836 | 1388 | A11087 | Private  | Parlett, Arthur Edgar L  | Imp. Forces.. | Parlett, A. S  | Sutton, Surrey, Eng  | England.. | Saskatoon  | Mar. | 1915. |
-| 24 | 690 | 1387 | 3836 | 1416 | A11109 | Private  | Parrott, Reginald Els worth.. | O.T.C  | Parrott, J. E  | Saltcoats, Sask  | Canada... | Montreal  | Apr. | 1915. |
-| 24 | 689 | 1415 | 3836 | 1445 | A11094 | Private  | Paterson, William Andrew... | Nil  | Paterson, Alexander  | Upper Kennetcook, Hants Co., N.S  | Canada... | Saskatoon  | Mar. | 1915. |
-| 24 | 689 | 1444 | 3836 | 1474 | A10965 | Private  | Paterson, William James  | O.T.C  | Paterson, John A  | 72 York St., Westmount, P.Q  | Canada... | Montreal  | Mar. | 1915. |
-| 24 | 697 | 1473 | 3835 | 1504 | 411075 | Private  | Patterson, James Dick  | Nil  | Patterson, William  | 73 Abbotsford Place, Glasgow, Scot  | Scotland.. | Saskatoon  | Mar. | 1915. |
-| 24 | 689 | 1502 | 3836 | 1533 | A11009 | Private  | Pearson, H. W  | O.T.C  | Pearson, C. J  | 128 Wellington St., Ottawa, Ont  | Canada... | Guelph  | Mar. | 1915. |
-| 24 | 688 | 1530 | 3836 | 1561 | A10961 | Private  | Peden, Ernest  | O.T.C  | Peden, Alexander  | 83 Ballantyne Ave., Montreal West, P.Q  | Canada... | Montreal  | Mar. | 1915. |
-| 24 | 688 | 1559 | 3836 | 1591 | A10931 | Private  | Penny, Alexander Haywood. . | Nil  | Penny, Mrs. R  | 6 St. Georges Terr., Canterbury, Kent, Eng  | England.. | Montreal  | Mar. | 1915. |
-| 24 | 687 | 1588 | 3836 | 1620 | A10932 | Private  | Penny, Oliver Richard  | Nil  | Penny, Mrs. R..       | 6 St. Georges Terr., Canterbury, Kent, Eng  | England.. | Montreal  | Mar. | 1915. |
-| 24 | 687 | 1617 | 3836 | 1649 | All159 | Private  | Peters, William Edwin  | Royal Navy. | Peters, Mrs. William Edwin. . | 348a Fortune St., Pt. St. Charles, Montreal, P.Q... | England.. | Montreal  | May | 1915. |
-| 24 | 687 | 1647 | 3836 | 1677 | A11148 | Private  | Piddington, William Ely  | Nil  | Piddington, Mrs. Dorothy H. | 209 Oak St., Toronto, Ont  | England.. | Niagara  | May | 1915. |
-| 24 | 695 | 1676 | 3836 | 1705 | 411158 | Private  | Plunkett, Harry  | 30th Horse. .. | Plunkett, Alma  |  | Ireland... | Montreal  | May | 1915. |
-| 24 | 686 | 1705 | 3836 | 1734 | A11051 | Private  | Plummer, Stephen Becher.... | Nil......  | Plummer, A. E  | 1995, 15th Ave. W., Vancouver, B.C  | Canada... | Vancouver.... | Mar. | 1915. |
-| 24 | 686 | 1734 | 3836 | 1764 | A11144 | Private  | Pollock, Daniel  | Territorials... | Pollock, John  | 568b Aylwin St., Montreal, P.Q  | Scotland.. | Montreal  | Apr. | 1915. |
-| 24 | 685 | 1763 | 3836 | 1792 | A11097 | Private  | Porter, Thomas Johnson  | Nil  | Porter, W. J  | Baldur, Man  | Canada... | Saskatoon.... | Mar. | 1915. |
-| 24 | 686 | 1792 | 3836 | 1822 | A11138 | C.S.M  | Pritchard, Edward  | Imp. Forces.. | Pritchard, Alice  | Caledonia, Ont  | England.. | Montreal  | Apr. | 1915. |
-| 24 | 694 | 1821 | 3836 | 1851 | 410979 | Private  | Purdy, Charles William  | Nil  | Purdy, Robert  | 52 Bowlby St., Houghton-le-Spring, Durham, Eng. | England.. | Montreal  | Mar. | 1915. |
-| 24 | 684 | 1849 | 3836 | 1880 | A10933 | Private  | Purdy, David  | Nil  | Purdy, Robert.   | 52 Bowlby St., Houghton-le-Spring, Durham, Eng. | England.. | Montreal  | Mar. | 1915. |
-| 24 | 685 | 1878 | 3836 | 1908 | A11069 | Private  | Quick, Leslie Arthur  | Nil  | Quick, Gordon Wright  | Maple Creek, Sask  | Canada... | Saskatoon  | Apr. | 1915. |
-| 24 | 685 | 1907 | 3836 | 1938 | A10998 | Private  | Read, David George  | O.T.C  | Read, Mrs. W. G.  | 561 King St., Peterboro, Ont  | Canada... | Guelph  | Mar. | 1915. |
-| 24 | 685 | 1936 | 3836 | 1967 | A10927 | Private  | Rennoldson, David Benedict. | Nil  | Rennoldson, David Henry.... | 313 Grosvenor Ave., Westmount, P.Q  | England.. | Montreal  | Mar. | 1915. |
-| 24 | 684 | 1966 | 3836 | 1995 | All 150 | Private  | Richardson, Henry F  | Nil  | Richardson, H. W  | Kingston, Ont  | Canada... | Niagara  | May | 1915. |
-| 24 | 685 | 1994 | 3837 | 2025 | A10983 | Private  | Richardson, Harry James. . . . | Nil  | Richardson, Mrs  | ‘"1 Outremont Ave., Montreal, P.Q  | England.. | Montreal  | Mar. | 1915. |
-| 24 | 684 | 2024 | 3837 | 2053 | A11142 | Private  | Riddle, James Ross  | O.T.C  | Riddle, N. M  | Carleton Place, Ont  | Canada... | Montreal  | Apr. | 1915. |
-| 24 | 684 | 2053 | 3837 | 2082 | A10929 | Private  | Ritchie, Rae George  | O.T.C...  | Ritchie, George E  | P.O. Box 105, Kelowna, B.C  | Canada... | Montreal  | Mar. | 1915. |
-| 24 | 684 | 2082 | 3837 | 2111 | A11362 | Private  | Ross, James  | Territorials... | Ross, Mrs. Margaret  | 142 Nicholas St., Ottawa, Ont  | Scotland.. | Ottawa   | May | 1915. |
-| 24 | 688 | 2100 | 3836 | 2140 | All 1571 Private |  | Ross, John  | Nil  | Ross, Mrs. Margaret  | 348a Fortune St., Pt. St. Charles. Montreal, P.Q. . . | Scotland., | Montreal  | May | 1915. |
-| 25 | 2836 | 400 | 3513 | 426 |  |  |  |  | Canada.. | Montreal  | Mar. | 31, 1915. |
-| 25 | 375 | 428 | 3513 | 463 | A10991 Private  | Nil  |  | Wareham, Dorset, Eng  | England. | Montreal  | Mar. | 23, 1915. |
-| 25 | 1256 | 458 | 3513 | 492 |  | Nil  |  | Walkerton, Ont    | Canada.. | Montreal  | Apr. | 12, 1915. |
-| 25 | 374 | 486 | 3513 | 522 | A11120 L.-Corporal  |  |  | 130 Stanley Ave., Hamilton, Ont  | Canada.. | Montreal  | Apr. | 12, 1915. |
-| 25 | 2836 | 515 | 3513 | 543 |  |  |  |  | Canada.. | Guelph  | Apr. | 6, 1915. |
-| 25 | 2050 | 543 | 3514 | 581 |  |  |  | 141 Bayle St., Montreal, P.Q  | U.S.A... | Montreal  | Mar. | 17, 1915. |
-| 25 | 2835 | 573 | 3514 | 600 |  |  |  |  | Canada.. | Montreal  | Apr. | 12, 1915. |
-| 25 | 1252 | 602 | 3514 | 640 |  | O.T.C  |  | Annapolis Royal, N.S  | Canada.. | Guelph  | Mar. | 17, 1915. |
-| 25 | 1252 | 631 | 3514 | 667 |  | O.T.C  |  | “The Farlands” Stourbridge, Worcs, | England. | Montreal  | Mar. | I, 1915. |
-| 25 | 1253 | 660 | 3515 | 698 |  | Nil  |  | Murrayville, B.C  | Canada.. | Vancouver— | Mar. | 17, 1915. |
-| 25 | 1251 | 689 | 3516 | 727 |  | O.T.C  |  | Maltby-le-Marsh, Alford, Lines, Eng. | England. | Guelph  | Mar. | 16, 1915. |
-| 25 | 1250 | 718 | 3516 | 753 |  | O.T.C  |  | 147 St. James St. W., Montreal, P.Q. | Canada.. | Montreal  | Feb. | 18.1915. |
-| 25 | 1252 | 747 | 3516 | 784 |  | Nil  | Sparling, A. J  | 716, 6th Ave. YV., Saskatoon, Sask.... | Canada.. | Saskatoon  | Mar. | 17, 1915. |
-| 25 | 748 | 777 | 3252 | 813 |  | O.T.C  |  | Ill Laporte Ave., Montreal, P.Q  | Canada.. | Ste. Anne de |
-| 25 | 3102 | 805 | 3516 | 832 |  |  |  |  |  | Bellevue.... | Mar. | 8, 1915. |
-| 25 | 1251 | 835 | 3516 | 871 |  | Nil  |  | Caughnawaga, P.Q  | Canada. | Montreal  | Mar. | 27, 1915. |
-| 25 | 1250 | 864 | 3516 | 899 |  | O.T.C  |  | Almonte, Ont  | Canada.. | Guelph  | Mar. | 16, 1915. |
-| 25 | 747 | 893 | 3517 | 927 |  | O.T.C  |  | Macdonald College, Ste. Anne de Bellevue, P.Q  | Canada.. | Montreal  | Mar. | 9, 1915. |
-| 25 | 2089 | 951 | 3517 | 987 |  |  |  | Eng  | England.. | Guelph Mar. |  | 16, 1915. |
-| 25 | 1251 | 980 | 3517 | 1014 |  | Nil  |  | P.O. Box 81, Gananoque, Ont  | Canada... | Montreal Apr. |  | 12, 1915. |
-| 25 | 1249 | 1009 | 3518 | 1042 |  | O.T.C  |  | 700 Pine Ave. W., Montreal, P.Q  | Canada... | Montreal Mar. |  | 1, 1915. |
-| 25 | 2044 | 1038 | 3518 | 1071 |  |  |  | 841 Oxenden Ave., Montreal, P.Q  | Canada... | Montreal Feb. |  | 18, 1915. |
-| 25 | 1251 | 1067 | 3518 | 1100 |  | Nil  |  | 246 John St., Belleville, Ont  | Canada... | Montreal Apr. |  | 12.1915. |
-| 25 | 2048 | 1096 | 3518 | 1130 |  |  |  | Gilbert, Minn., U.S.A  | England.. | Montreal jMay |  | 7, 1915. |
-| 25 | 1249 | 1124 | 3518 | 1159 |  | O.T.C  |  | Brooklyn, Wishaw, Lancs, Eng  | Scotland.. | Saskatoon |May |  | 4, 1915. |
-| 25 | 1251 | 1153 | 3518 | 1188 |  | Nil  |  | 734 Spadina Cres., Saskatoon, Sask  | Canada... | Saskatoon Mar. |  | 18, 1915. |
-| 25 | 367 | 1182 | 3519 | 1216 | A11072 Private  | Nil  | Turriff, J. G  | House of Commons, Ottawa, Ont  | Canada... | Saskatoon Mar. |  | 17. 1915. |
-| 25 | 2049 | 1211 | 3519 | 1245 |  |  |  | Hurst Lodge, Caterham, Surrey, Eng  | England.. | Niagara.. |  | 24, 1915. |
-| 25 | 2049 | 1240 | 3519 | 1273 |  |  |  | 127 W. Cliff St., Somerville, N.J., U.S.A  | U.S.A  | Montreal.. |  | 17, 1915. |
-| 25 | 1251 | 1269 | 3519 | 1303 |  | Nil  |  | Essex, Ont  | Canada... | Essex  |  | 29, 1915. |
-| 25 | 1251 | 1298 | 3520 | 1333 |  | Nil  |  | 474 King St., London, Ont  | Canada... | Montreal |  | 14, 1915. |
-| 25 | 1250 | 1327 | 3520 | 1361 |  | O.T.C  | Ware, Mrs. G. T  | 121 Sinclair Rd., London, Eng  | Canada... | Guelph. |  | 16, 1915. |
-| 25 | 1251 | 1356 | 3520 | 1389 |  | Nil  | Weart, J. W  | 1508 Standard Bank Bldg., Vancouver, B.C  | Canada... | Vancouver. |  | 5, 1915. |
-| 25 | 2048 | 1414 | 3520 | 1447 |  |  |  | Chinook, Mont., U.S.A  | Ireland... |  | Aug. | 24, 1914. |
-| 25 | 1250 | 1443 | 3521 | 1477 |  | Nil  |  | Edgeley, Sask  | Canada... | Montreal. | Apr. | 1, 1915. |
-| 25 | 1250 | 1472 | 3521 | 1505 |  | Nil  | Bell, Mrs. R. G  | Mor. Awelon, Aberdovey, N. Wales  | Wales.. .. | Saskatoon. | Mar. | 16, 1915. |
-| 25 | 1250 | 1501 | 3521 | 1534 |  | Nil  |  | Stave Falls, B.C  | Scotland. | Vancouver. | Mar. | II, 1915. |
-| 25 | 1250 | 1529 | 3521 | 1563 |  | Nil  |  | Kinistino, Sask    | Canada... | Saskatoon. | Mar. | 17, 1915. |
-| 25 | 1250 | 1559 | 3521 | 1592 |  | Nil  |  | 28 Sudworth Rd., Wallasey, Cheshire, Eng  | England.. | Vancouver. | Mar. | 5, 1915. |
-| 25 | 1546 | 1588 | 3521 | 1623 |  |  | Wright, T. H  | Jubilee, B.C  | Canada... | Vancouver. | Mar. | 24, 1915. |
-| 25 | 1250 | 1617 | 3521 | 1651 |  | Nil  | Yorath, Christopher James  | 313, 4th Ave. N., Saskatoon, Sask  | Wales.... | Saskatoon. | Apr. | 5, 1915. |
-| 25 | 366 | 1646 | 3521 | 1683 | A10916IPrivate  | Nil  | Yuill. Mrs. S. B  | Daily Creek, Granum, Alta  | Canada... | Montreal. . | Feb. | 24, 1915. |
-| 25 | 1252 | 1848 | 2616 | 1878 |  | G.G.F.G  | Ross, Crawford..   | 295 Metcalfe St., Ottawa, Ont  |
-| 25 | 1253 | 1873 | 3523 | 1907 |  | G.G.F.G  | Bechtel, Kathleen Boyle | 17 McDonald St., Ottawa, Ont  | U.S.A.... | Ottawa. | Feb. | 1, 1915. |
-| 25 | 1551 | 1901 | 3523 | 1936 |  |  | Fraser, W. H. A  | 74 Nepean St., Ottawa, Ont  | Canada... | Ottawa. | Feb. | 1, 1915. |
-| 25 | 1253 | 1936 | 2610 | 1965 |  | G. G. F. G  | Parker, Mrs. J. E  | 471 Somerset St., Ottawa, Ont  |
-| 25 | 1551 | 1959 | 3524 | 1995 |  |  | Sraythe, George H  | 59 West St., Kingston, Ont  | Canada... | Ottaw'a  | Feb. | 1, 1915. |
-| 25 | 392 | 1989 | 3524 | 2025 | 10547 | Nil  | McDougall, Mrs. R. D.. | Glenroy, Ont  | England.. | Alexandria.. | Jan. | 16, 1915. |
-| 25 | 392 | 2018 | 3525 | 2053 | 10525 | Nil  | Aitken, Mrs. Hugh  | 350 Gloucester St., Ottawa, Ont  | Scotland., | Ottawa  | . Mar. | 5, 1915. |
-| 25 | 392 | 2047 | 3525 | 2082 | 10471 | Nil  | Pollock, Mrs. Hiram.... | 22 Turner St., Ottawa, Ont  | Scotland., | Ottawa  | . Mar. | 1, 1915. |
-| 25 | 392 | 2077 | 3524 | 2112 | 10539 | Nil  | Alguire, Mrs. Anna  | Northfield, Ont  | Canada... | Ottawa  | . Mar. | 19, 1915. |
-| 25 | 392 | 2105 | 3525 | 2142 | 10097 | G.G.F.G  | Angel, Mrs. Jennie  | 226 Carruthers Ave., Ottawa, Ont  | Canada... | Ottawa  | . Feb. | 24, 1915. |
-| 25 | 391 | 2134 | 3525 | 2170 | 10078 | Nil  | Archer, Mrs. Eliza  | 50 Collingwood St., London, S.E., Eng. | England.. | Ottawa  | . Feb. | 22, 1915. |
-| 26 | 652 | 582 | 3324 | 617 | .§2 |  | Former Corps. |  |  | Country of |
-| 26 | 667 | 732 | 3543 | 762 | 1052S | Armstrong, Gibson  | C.F.A  | Armstrong, Mrs. H. W  | R.R. No. 2, Edwards, Ont  | Canada  | Ottawa  |
-| 26 | 667 | 762 | 3542 | 790 | 10164 | Arnison, Thomas  | Nil  | Arnison, Mrs. Jane  | 128 N. John St., Glasgow, Scot  | England  | Ottawa  |
-| 26 | 667 | 791 | 3543 | 819 | 10530 | Ash, Charles  | Nil  | Ash, Mrs. Annie May  | Eastview, Ont  | England  | Ottawa  |
-| 26 | 667 | 820 | 3543 | 848 | 10420 | Aumond, Paul  | G.G.F.G  | Aumond, Mrs. Sarah  | 585 King Edward Ave., Ottawa, Ont  | .. Canada  | Ottawa  |
-| 26 | 666 | 848 | 3546 | 879 | 10712 | Bain, James  | 47th Regt  | Bain, Louis  | Crow Lake, Ont  | Canada  | Brockville.. |
-| 26 | 667 | 878 | 3543 | 906 | 10508 | Baker, Horace S  | G.G.F.G  | Baker, Mrs. Elizabeth  | P.O., Woodroffe, Ont  | Canada  | Ottawa  |
-| 26 | 667 | 907 | 3543 | 936 | 10753 | Barkley, Walter Charles  | Nil  | Barkley, Mrs. Nellie  | Winchester, Ont  | Canada  | Ottawa  |
-| 26 | 666 | 936 | 3543 | 965 | 10771 | Barr, Archibald Carson  | Nil  | Barr, Mrs. Mary Carson  | 11 Yoth St., Glasgow, Scot  | Scotland  | Ottawa  |
-| 26 | 666 | 965 | 3543 | 994 | 10766 | Barrett, William  | Nil  | Barrett, John  | Bay Roberts, N’fld  | Newfoundland.. | Ottawa  |
-| 26 | 665 | 994 | 3544 | 1024 | 10025 | Baxter, Robert  | 43rd Regt  | Baxter, Mrs    | 150 Stewart St., Ottawa, Ont  | England  | Ottawa  |
-| 26 | 665 | 1023 | 3543 | 1053 | 10531 | Belfoy, Lawrence  | G.G.F.G  | Belfoy, Mrs. Louisa  | 273 Bell St., Ottawa, Ont  | Canada  | Ottawa  |
-| 26 | 665 | 1052 | 3544 | 1081 | 10770 | Bere, William John  | Nil  | Bere, Mrs. Elizabeth  | Bradford Abbas, Sherborne, Dorset, Eng  | England  | Ottawa  |
-| 26 | 665 | 1081 | 3544 | 1111 | 10119 | Bermingham, Henry    | Nil  | Bermingham, Arthur Wilfred. | Bryhtirion, Red Wharf Bay, Anglesey, Wales.. | England  | Ottawa  |
-| 26 | 664 | 1110 | 3543 | 1140 | 10769 | Berryman, Frank  | Nil  | Berryman, Charles  | 67 William St., Totterdown, Bristol, Eng  | England  | Ottawa..... |
-| 26 | 664 | 1138 | 3538 | 1168 | 10649 | Blair, Gordon  | Nil  | Blair, William  | Moose Creek, Ont  | Canada  | Alexandria. |
-| 26 | 664 | 1167 | 3544 | 1198 | 10464 | Boddington, Gordon William.... | Nil  | Boddington, William J  | 56 Galley Ave., Toronto, Ont  | Canada  | Ottawa  |
-| 26 | 663 | 1196 | 3544 | 1226 | 10296 | Bouford, Frank  | Can. Mil  | Flerver, Louis  | Berrin, N.H., U.S.A  | Canada  | Ottawa  |
-| 26 | 663 | 1226 | 3544 | 1255 | 10369 | Bourne, William  | Nil  | Bourne, Mrs. Joyce  | Westborough, Ont  | England  | Ottawa  |
-| 26 | 663 | 1254 | 3544 | 1286 | 10741 | Bowerman, Harold Edmond  | 49th Regt  | Bowerman, Mrs. Jennie  | 35 Borden St., Toronto, Ont  | Canada  | Ottawa  |
-| 26 | 663 | 1284 | 3545 | 1315 | 10086 | Brown, George Raymond A  | Nil  | Shorthouse, Miss Violet  | Allandale P.O., Ont  | England  | Ottawa  |
-| 26 | 662 | 1313 | 3544 | 1343 | 10756 | Brown, Thomas Gordon  | Nil  | Brown, Thomas  | R.R. No. 3, Pembroke, Ont  | Canada  | Ottawa  |
-| 26 | 662 | 1342 | 3545 | 1372 | 10755 | Bryce, Cecil Elmas  | Nil  | Bryce, Thomas  | Carleton Place, Ont  | Canada  | Ottawa  |
-| 26 | 661 | 1371 | 3545 | 1401 | 10012 | Burger, Joseph Francis  | Nil  | Burger, Mrs. Mary  | 1153 Wellington St., Ottawa, Ont  | England  | Ottawa  |
-| 26 | 661 | 1400 | 3545 | 1430 | 10751 | Burke, Thomas  | 12th Regt  | Roman, John  | 152 York St., Toronto, Ont  | England  | Ottawa  |
-| 26 | 661 | 1429 | 3546 | 1458 | 10520 | Burr, John  | Nil  | Burr, Mrs. Annie  | P.O. Box 423, Renfrew, Ont  | Scotland  | Ottawa  |
-| 26 | 660 | 1458 | 3546 | 1487 | 10242 | Burwash, John Seton   | Nil  | Burwash, Mrs. Ethel  | Arnprior, Ont  | Canada  | Ottawa  |
-| 26 | 661 | 1487 | 3546 | 1516 | 10341 | Butler, Clement Samuel  | G.G.F.G  | Butler, Mrs. Charlotte  | 463 McLeod St., Ottawa, Ont  | England  | Ottawa  |
-| 26 | 660 | 1515 | 3546 | 1544 | 10640 | Cameron, Donald Duncan  | Nil  | Cameron, Duncan  | Alexandria, Ont  | Canada  | Alexandria.. |
-| 26 | 660 | 1545 | 3546 | 1574 | 10285 | Campbell, John   | Nil  | Campbell, Alexander  | 58 Ottawa St., Ottawa, Ont  | Scotland  | Ottawa  |
-| 26 | 660 | 1574 | 3546 | 1603 | 10468 | Carriere, Arthur   | C.F.A  | Carriere, Napoleon  | 113 Nelson St., Ottawa, Ont  | Canada  | Ottawa  |
-| 26 | 659 | 1602 | 3546 | 1632 | 10174 | Chapman, Arthur William  | Nil  | Chapman, Mrs. Clara   | 159 Laurier Ave. W., Ottawa, Ont  | England  | Ottawa  |
-| 26 | 659 | 1631 | 3546 | 1661 | 10707 | Chevalley, Leon Arthur  | Nil  | Chevalley, Arthur  | Gouvernor’s, New York, N.Y., U.S.A  | U.S.A  | Brockville.. |
-| 26 | 658 | 1660 | 3546 | 1690 | 10750 | Chiswell, Frederick Walter  | 42nd Regt  | Chiswell, Mrs. Sarah Ann  | 13 Able St., Smith’s Falls, Ont  | England  | Ottawa  |
-| 26 | 658 | 1689 | 3546 | 1719 | 10412 | Clarke, George Arthur  | S. A  | Clarke, Mrs. Mary  | Shawville, P.Q  | England  | Ottawa  |
-| 26 | 657 | 1718 | 3546 | 1749 | 10332 | Coghill, John Me Adam  | Nil  | McAtee, Mrs. Mary  | Rochon, P.Q  | Scotland  | Ottawa  |
-| 26 | 658 | 1747 | 3546 | 1778 | 10472 | Coker, George Victor  | Royal Navy  | Coker, Mrs. Theresa  | 58 Stanely Ave., Ottawa, Ont  | England  | Ottawra  |
-| 26 | 658 | 1776 | 3546 | 1806 | 10275 | Collins, Frank Louis  | Nil  | Daly, Mrs. John  | Aylmer, P.Q  | France  | Ottawa  |
-| 26 | 658 | 1805 | 3546 | 1835 | 10100 | Coltman, Arthur  | Nil  | Coltman, Mrs. Lucy  | 178 Anglesey Rd., Burton-on-Trent, Staffs, Eng.. | England  | Ottawra  |
-| 26 | 658 | 1833 | 3546 | 1863 | 10417 | Cook, James  | Nil  | Cook, Mrs. Annie G  | 833 Bank St., Ottawa, Ont  | Scotland  | Ottawa  |
-| 26 | 658 | 1862 | 3546 | 1894 | 10736 | Cooke, William Henry  | 42nd Regt  | Cooke, Mrs. Mary  | 20 River St., Smith’s Falls, Ont  | England  | Ottawa  |
-| 26 | 657 | 1890 | 3546 | 1921 | 10057 | Costello, John  | Nil  | Costello, Mrs. James  | Cork, Ire  | England  | Ottawa  |
-| 26 | 657 | 1919 | 3546 | 1951 | 10368 | Courrier, John Abraham  | Nil  | Courrier, Mrs. Mabel  | 100 Spruce St., Ottawa, Ont  | Canada  | Ottaw’a  |
-| 26 | 657 | 1947 | 3546 | 1979 | 10102 | Craney, James  | Nil I | Gorman, James  | 630 Cumberland St., Ottawa, Ont  | England  | Ottawa  |
-| 26 | 658 | 1975 | 3546 | 2008 | 10767 | Crawfoid, John  | Nil  | Crawford, Mrs. Susan  | P.O. Box 485, Cobalt. Ont  | Canada  | Ottawa  |
-| 26 | 657 | 2004 | 3546 | 2037 | 10757 | Crawford, Thomas  | Nil  | Crawford, Daniel  | Elphin, Ont  | Canada  | Ottawa  |
-| 26 | 657 | 2033 | 3546 | 2066 | 10073 | Crick, William James  | Nil  | Crick, Miss Mary  | Shawville, P.Q  | Canada  | Ottawa  |
-| 26 | 657 | 2062 | 3546 | 2096 | 10475 | Croskery, James  | Nil  | Croskery, Miss Sophia  | 399 Logan Ave., Winnipeg, Man  | Ireland  | Ottawa  |
-| 26 | 657 | 2092 | 3546 | 2125 | 10608 | Cush way, Alfred John  | Nil  | Cush way, Edith Annie  | Smith’s Falls, Ont  | England  | Ottawa  |
-| 26 | 657 | 2121 | 3546 | 2154 | 10735 | Dalton, James  | Nil  | MacGregor, Mrs. Janet  | R. R. No. 1, Jasper, Ont  | Scotland  | Ottawa  |
-| 27 | 367 | 453 | 3513 | 487 | 10169 | Private. | Danis, Joseph Thomas  | Nil  | Danis, Mrs. Eliza... | Ottawa  | Feb | 24 | 1915. |
-| 27 | 3072 | 481 | 3512 | 509 |  |  |  |  |  | Ottawa  | Apr. | 28 | 1915. |
-| 27 | 367 | 488 | 1825 | 516 | 10839 | Private. | Nil  | Davidson, John  |
-| 27 | 3312 | 511 | 3513 | 538 |  |  |  |  |  |  | Apr. | 28 | 1915. |
-| 27 | 367 | 517 | 1825 | 546 | 10840 | Private. | Nil  | Deacon, Joseph  |
-| 27 | 366 | 542 | 2798 | 575 | 10455 | Private.. | Dean, Joseph  | Dean, Mrs. Mary E. | 5 Hopwood Bldgs., Heaton, Norris, Stockport, Ches- |
-| 27 | 3072 | 568 | 3512 | 591 |  |  |  |  |  | Ottawa  | Feb. | 26 | 1915. |
-| 27 | 3071 | 597 | 3512 | 620 |  |  |  |  |  | Ottawa  | Mar. | 5 | 1915. |
-| 27 | 365 | 603 | 1984 | 633 | 10526 | Private.., | Nil  | Decoteau, Mrs. Liza  |
-| 27 | 3072 | 626 | 3512 | 652 |  |  |  |  |  | Ottawa  | Apr. | 28 | 1915. |
-| 27 | 365 | 631 | 1984 | 662 | 10772 | Private... | Nil  | Dempsey, Mrs. Ida Elizabeth.. |
-| 27 | 3071 | 655 | 3513 | 682 |  |  |  |  |  | Ottawa  | Apr. | 28 | 1915. |
-| 27 | 365 | 661 | 1984 | 691 | 10754 | Private... | Nil  | Devine, William John S.  |
-| 27 | 3311 | 684 | 3512 | 710 |  |  |  |  |  |  | Apr. | 10 | 1915. |
-| 27 | 365 | 690 | 1984 | 719 | 11308 | Private... | Nil  | Donaldson, William  |
-| 27 | 3312 | 712 | 3512 | 735 |  |  |  |  |  |  | Feb. | 26 | 1915. |
-| 27 | 365 | 719 | 1984 | 749 | 10355 | Private... | Nil  | Dooley, Mrs. Mary  |
-| 27 | 3311 | 742 | 3512 | 769 |  |  |  |  |  |  | Apr. | 28 | 1915. |
-| 27 | 365 | 747 | 1983 | 778 | 10758 | Private... | Nil  | Doucet, Mrs. Cecilia  |
-| 27 | 364 | 771 | 3512 | 806 | 10284 | Private... | Nil  | Heard, William.:  |  | Ottawa  | Mar. | 19 | 1915. |
-| 27 | 3312 | 800 | 3512 | 823 |  |  |  |  |  |  | Feb. | 26 | 1915. |
-| 27 | 364 | 807 | 1982 | 836 | 10034 | Sergeant.. |  | Cregan, Mrs. Mary  |
-| 27 | 363 | 830 | 3512 | 864 | 10402 | Private... | Nil  | Brousseau, Josephine  |  |  |  | 1 | 1915. |
-| 27 | 362 | 858 | 3512 | 894 | 10461 | Private... | Nil   | Duggan, Mrs. Rebecca  |  |  | Mar. | 5 | 1915. |
-| 27 | 362 | 887 | 3513 | 922 | 10413 | Private... | Nil  | Egan, Mrs. Elizabeth    |  |  | Mar. | 1 | 1915. |
-| 27 | 362 | 917 | 3513 | 951 | 10456 | Private... | Nil  | Endicott, Mrs. Etta Mossil  |  |  | Mar. | 1 | 1915. |
-| 27 | 361 | 948 | 2819 | 980 | 10739 | Private... |  | Everard, Miss Tilly  | 14 Washington House, Basil St., Sloane St., London,W. |
-| 27 | 3312 | 974 | 3514 | 1001 |  |  |  |  |  |  | Apr. | 28 | 1915. |
-| 27 | 360 | 1003 | 3513 | 1037 | 10392 | Private.., | Nil  | Farmer, Lawrence  |  |  | Mar. | 1 | 1915. |
-| 27 | 360 | 1033 | 3512 | 1066 | 10752 | Private.., | Nil  | Fickling, Mrs. Hannah  |  |  | Apr. | 28 | 1915. |
-| 27 | 3312 | 1062 | 3512 | 1088 |  |  |  |  |  |  | Apr. | 10 | 1915. |
-| 27 | 360 | 1066 | 1970 | 1094 | 11306 | Private.., | Nil  | Finan, Mrs. Ellen  |
-| 27 | 3312 | 1090 | 3513 | 1113 |  |  |  |  |  |  | Mar. | 25 | 1915. |
-| 27 | 359 | 1096 | 1971 | 1124 | 10695 | Private... |  | Fitzgibbon, Mrs. Emma  |
-| 27 | 358 | 1120 | 3513 | 1152 | 10807 | Private... |  | Ford, Mrs. Catherine  | 24 Richmond St., Point St. Charles, Montreal, P.Q  |  |  | 28 | 1915. |
-| 27 | 358 | 1148 | 3513 | 1181 | 10017 | Private... |  | Soudie, D. B  | 127 Wellington St., Hull, P.Q  |  | Feb | 24 | 1915. |
-| 27 | 359 | 1182 | 1971 | 1209 | 10747 | Private... | Nil.... | French, Mrs. Selina Mary  |
-| 27 | 3314 | 1206 | 3513 | 1228 |  |  |  |  |  |  | Feb. | 22 | 1915. |
-| 27 | 359 | 1211 | 1970 | 1239 | 10072 | Private... | Nil  | Garvey, Mrs. Catherine  |
-| 27 | 3072 | 1234 | 3513 | 1261 |  |  |  |  |  | Ottawa  | Apr. | 10 | 1915. |
-| 27 | 358 | 1234 | 1971 | 1268 | 10299 | Private... | Nil  | Gayer, Mrs. Mary  |
-| 27 | 3314 | 1263 | 3513 | 1286 |  |  |  |  |  |  | Feb | 22 | 1915. |
-| 27 | 359 | 1269 | 1970 | 1297 | 10103 | Private... | Nil.... | Globensky, Maria-Anna  |
-| 27 | 359 | 1292 | 3513 | 1325 | 10837 | Private... |  | Gordon, Mrs. Katherine  |  | Ottawa  | Apr. | 28 | 1915. |
-| 27 | 3314 | 1322 | 3514 | 1344 |  |  |  |  |  |  | Feb | 22 | 1915. |
-| 27 | 359 | 1321 | 1969 | 1355 | 10052 | Private... | Graham, Maurice Fitzgerald  | Nil  | Miller, Mrs. Mary  |
-| 27 | 359 | 1350 | 3511 | 1384 | 10721 | Private... | Grant, George Howard  | Nil  | Grant, Harry  | Brockville  | Mar. | 25 | 1915. |
-| 27 | 359 | 1379 | 1968 | 1412 | 10726 | Private... | Nil  | Grice, William  |
-| 27 | 3312 | 1407 | 3513 | 1431 |  |  |  |  |  |  | Mar. | 19 | 1915. |
-| 27 | 359 | 1414 | 1968 | 1441 | 10497 | Private... |  | Richards, Mrs. Frank  |
-| 27 | 359 | 1443 | 1968 | 1470 | 10696 | Private... |  | Guilboard, Mrs. Mary Ann  |
-| 27 | 3312 | 1465 | 3513 | 1493 |  |  |  |  |  |  | Apr. | 28 | 1915. |
-| 27 | 359 | 1472 | 1968 | 1500 | 10759 | Private... | Nil  | Gully, Mrs. Elizabeth  |
-| 27 | 3313 | 1494 | 3513 | 1517 |  |  |  |  |  |  | Feb. | 24 | 1915. |
-| 27 | 359 | 1501 | 1968 | 1527 | 10094 | Private... |  | Hack, Charles  |
-| 27 | 3314 | 1524 | 3513 | 1546 |  |  |  |  |  |  | Feb. | 22 | 1915. |
-| 27 | 359 | 1529 | 1967 | 1557 | 10069 | Private... | Nil  | Haddleton, Mrs. Mary Jane... |
-| 27 | 3314 | 1553 | 3514 | 1575 |  |  |  |  |  |  | Feb, | 26 | 1915. |
-| 27 | 359 | 1559 | 1967 | 1586 | 10360 | Private... | Nil  | McKenzie, Mrs. Angus  |
-| 27 | 359 | 1587 | 1967 | 1615 | 10309 | Private... | Nil  | Hall, Mrs. Phyllis  |
-| 27 | 3312 | 1610 | 3513 | 1633 |  |  |  |  |  |  | Mar. | 25 | 1915. |
-| 27 | 358 | 1616 | 1967 | 1643 | 10720 | Private... |  | McCaul, Mrs. E. H  |
-| 27 | 3312 | 1639 | 3514 | 1662 |  |  |  |  |  |  | Mar. | 5 | 1915. |
-| 27 | 358 | 1645 | 1967 | 1673 | 10518 | Private... | Nil  | Hamelin, Mrs. Agnes T  |
-| 27 | 3314 | 1669 | 3514 | 1691 |  |  |  |  |  |  | Feb. | 24 | 1914. |
-| 27 | 359 | 1674 | 1967 | 1701 | 10604 | Private... | Nil  | Hamilton, Ellen  |
-| 27 | 3314 | 1697 | 3514 | 1720 |  |  |  |  |  |  | Feb. | 26 | 1915. |
-| 27 | 358 | 1703 | 1967 | 1732 | 10346 | Corporal. | Handyside, Ernest Traverse  | G.G.F.G  | Handyside, Hugh  |
-| 27 | 3313 | 1726 | 3514 | 1749 |  |  |  |  |  |  | Mar. | 1 | 1915. |
-| 27 | 358 | 1732 | 1966 | 1761 | 10347 | Corporal. | Nil  | Handyside, Hugh  |
-| 27 | 3314 | 1756 | 3514 | 1778 |  |  |  |  |  |  | Mar. | 1 | 1915. |
-| 27 | 358 | 1761 | 1967 | 1789 | 10408 | Private... | Handyside, Richard  | Nil  | Handyside, Hugh  |
-| 27 | 3313 | 1784 | 3514 | 1812 |  |  |  |  |  |  | Apr. | 28 | 1915. |
-| 27 | 358 | 1790 | 1967 | 1819 | 10742 | Private... | Nil  | Harper, William  |
-| 27 | 358 | 1813 | 3515 | 1848 | 10209 | Private... | Nil  | Harper, James  |  |  | Feb. | 26 | 1915. |
-| 27 | 3315 | 1843 | 3514 | 1866 |  |  |  |  |  |  | Nov. | 9 | 1915. |
-| 27 | 358 | 1847 | 1967 | 1875 | 10642 | Private... | C.F.A  | Harrison, Miss Grace Pauline. |
-| 27 | 3313 | 1871 | 3515 | 1899 |  |  |  |  |  |  | Apr. | 10 | 1915. |
-| 27 | 358 | 1878 | 1969 | 1904 | 10264 | Private... | Nil  | Robertson, Henry  |
-| 27 | 3315 | 1900 | 3515 | 1923 |  |  |  |  |  |  | Feb. | 24 | 1915. |
-| 27 | 357 | 1907 | 1969 | 1934 | 10162 | Private... |  | Wood, Mrs. Hyam  |
-| 27 | 3315 | 1928 | 3515 | 1952 |  |  |  |  |  |  | Feb. | 27 | 1915. |
-| 27 | 357 | 1935 | 1970 | 1964 | 10641 | Private... | Nil  | Higgins, Maggie  |
-| 27 | 3315 | 1958 | 3515 | 1981 |  |  |  |  |  |  | Mar. | 25 | 1915. |
-| 27 | 357 | 1964 | 1970 | 1993 | 10694 | Private... |  | Higgins, Harold Henry  |
-| 27 | 3315 | 1987 | 3515 | 2010 |  |  |  |  |  |  | Mar. | 24 | 1915. |
-| 27 | 357 | 1994 | 1970 | 2021 | 10451 | Private... | Nil  | Hill, Robertson  |
-| 27 | 3315 | 2016 | 3515 | 2038 |  |  |  |  |  |  | Mar. | 1 | 1915. |
-| 27 | 357 | 2022 | 1970 | 2049 | 10492 | Private... | Nil  | Hitsmon, Mrs. Annie  |
-| 27 | 3315 | 2045 | 3515 | 2068 |  |  |  |  |  |  | Feb. | 26 | 1915. |
-| 27 | 358 | 2051 | 1971 | 2079 | 10051 | Private... |  | Hoelke, Mrs. Melinda  |
-| 27 | 358 | 2074 | 3514 | 2107 | 10120 | Private... | Nil  | Howse, Mrs. Elizabeth  |  |  | Feb. | 26 | 1915. |
-| 27 | 358 | 2104 | 3515 | 2137 | 10381 | Private... |  | Glissick, Mrs. Hattie  | Hall P.O., New York, N.Y., U.S.A  |  | Mar. | 2 | 1915. |
-| 27 | 358 | 2133 | 3515 | 2167 | 10773 | Private... | Nil  | Whiting, Mrs. Geo  |  |  | Apr. | 28 | 1915. |
-| 27 | 3314 | 2162 | 3515 | 2185 |  |  |  |  |  |  | Mar. | 8 | 1915. |
-| 27 | 357 | 2168 | 1972 | 2195 | 10127 | Private... | Hutt, Neil Albert...  | Nil  | Hutt, Charles  |
-| 28 | 848 | 541 | 3335 | 570 |  |  |  | Former Corps. |  |  | Country of |
-| 28 | 675 | 686 | 3823 | 716 | 10679 | Private... | Hutt, Corn David  | Nil  | Hutt, Charles Albert  | R. R. No. 1, Cornwall, Ont  | Canada.. | Alexandria.... | Mar. | 8, 1915. |
-| 28 | 676 | 713 | 3822 | 745 | 10826 | Private... | Inwood, Wilbert John  | 42nd Regt.. | Inwood, Mrs. Elizabeth.. | R. M. D., No. 6, Perth, Ont  | Canada.. | Ottawa  | Apr. | 28', 1915. |
-| 28 | 676 | 745 | 3822 | 774 | 10283 | Private... | Jackson, Alfred Barnwall. | 43rd Regt... | Jackson, Mrs. Aline  | 109 Primrose Ave., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 19, 1915. |
-| 28 | 676 | 774 | 3822 | 804 | 10829 | Private... | Johnson, Charles  | Nil  | Stickland, Edwin  | 9 Durdan Cottage, Southall, London, Eng. | England. | Ottawa  | Apr. | 28, 1915. |
-| 28 | 676 | 803 | 3821 | 832 | 10282 | Private... | Johnson, David Albert E. | Can. Mil  | Johnson, Mrs. Elizabeth. | 737 Gladstone Ave., Ottawa, Ont  | England. | Ottawa  | Apr. | 10, 1915. |
-| 28 | 676 | 832 | 3821 | 862 | 10387 | Private... | Johnson, Edward  | Nil  | Johnson, Mrs. Margaret.. | 274 Bell St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 26, 1915. |
-| 28 | 676 | 861 | 3821 | 891 | 10481 | Private... | Jones, Alexander  | 5th Drag  | Jones, Mrs. Kathleen  | Ill Grove St., Battersea, London, Eng  | England. | Ottawa  | Feb. | 26, 1915. |
-| 28 | 676 | 890 | 3821 | 920 | 10792 | Private... | Kanellakos, James  | Nil  | Kanellakos, Peter  | Smith’s Falls, Ont  | Greece.. | Ottawa  | Apr. | 28, 1915. |
-| 28 | 676 | 919 | 3821 | 949 | 10459 | Private... | Keeler, Samuel Westley... | R.C.R  | Keeler, Mrs. Eliza  | 137 Hopewell Ave., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 1, 1915. |
-| 28 | 676 | 947 | 3822 | 979 | 10388 | Private... | Kelly, Michael  | Nil  | Not stated  |  | England. | Ottawa  | Feb. | 26, 1915. |
-| 28 | 676 | 976 | 3822 | 1007 | 10263 | Private. | Kerr, David  | Territorials. | Kerr, Mrs. Isabella  | 43 Bell St., Ottawa, Ont  | England. | Ottawa  | Apr. | 10, 1915. |
-| 28 | 675 | 1005 | 3822 | 1036 | 10134 | Private... | Kerr, Henry  | Nil  | Kerr, David  | 43 Bell St., Ottawa, Ont  | Canada.. | Ottawra  | Feb. | 22, 1915. |
-| 28 | 675 | 1035 | 3080 | 1066 | 10344 | Sergeant.. | Key, Walter Joseph  | S.A  | Boutell, Mary Ann  | 35 Lampmead Rd., Lee Green, Lewisham, London, |
-| 28 | 2412 | 1063 | 3822 | 1092 |  |  |  |  |  | S.E., Eng  | England. | Ottawa  | Feb. | 26, 1915. |
-| 28 | 675 | 1092 | 3821 | 1123 | 10554 | Private.. | Kinghorn, William Arthur  | Nil  | Kinghorn, James  | Cornwall, Ont  | Canada.. | Cornawll... | Feb. | 25.1915. |
-| 28 | 675 | 1117 | 3822 | 1152 | 10289 | Private.. | Kirkey, William  | Nil  | Kirkey, Miss Eva  | Pitt St., Cornwall, Ont  | Canada.. | Ottawa  | Mar. | 19.1915. |
-| 28 | 675 | 1146 | 3822 | 1180 | 10257 | Private.. | Kish, Bert  | 4th Huss... | Kish, Mrs. Edith Parry  | 165 Florence St., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 5.1915. |
-| 28 | 675 | 1179 | 3822 | 1210 | 10321 | Private.. | Knight, Frederick Saunders.... | Nil  | Knight, F. R  | P.O., Box 106, Bridgetown, Barbadoes, B.W.I  | B.W.I... | Ottawa  | Mar. | 1.1915. |
-| 28 | 675 | 1208 | 3926 | 1239 | 10359 | Private.. | Lachapelle, Omer  | Nil  | Lachapelle, Eugene  | 463 Division St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 26.1915. |
-| 28 | 675 | 1237 | 3823 | 1268 | 11323 | Private.. | Lamping, Stanislaus John M. J. | Nil  | Lamping, Mrs. Mary Elizabeth. | 102 Queen St., Smith’sFalls, Ont  | Canada.. | Ottawa  | Apr. | 14.1915. |
-| 28 | 675 | 1266 | 3823 | 1296 | 10107 | Private.. | Lawson, Arthur Thomas W  | Nil  | Lawson, Mrs. Emily.  | Hillson Ave., Laurentian View, Ont  | England. | Ottawa  | Feb. | 22.1915. |
-| 28 | 675 | 1295 | 3824 | 1325 | 10093 | Private.. | Lee, John Anthony O  | Nil  | Lee, Alfred  | 32 Royal Ave., Westborough, Ont  | Canada.. | Ottawa  | Feb. | 22.1915. |
-| 28 | 674 | 1324 | 3823 | 1355 | 10820 | Private.. | Lefurgey, Harvey James  | Nil  | Lefurgey, Mrs. Margaret  | Forrester’s Falls, Ont  | Canada.. | Ottawa  | Mar. | 29.1915. |
-| 28 | 674 | 1353 | 3824 | 1383 | 10280 | Private... | Leslie, Wallace Taylor  | C.A.M.C... | Leslie, Mrs. Annie  | 373 Gladstone Ave., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 19.1915. |
-| 28 | 674 | 1381 | 3824 | 1412 | 10201 | Private... | Letellier, Leo  | Nil  | Routhier, Rev. Father  | ‘Basilica,” Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 22.1915. |
-| 28 | 674 | 1410 | 3824 | 1440 | 10064 | Private... | Levasseur, Claud  | Can. Mil.... | Levasseur, Mrs. Elizabeth  | 18 Elgin St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 22.1915. |
-| 28 | 674 | 1439 | 3824 | 1470 | 10158 | Private... | Levesque, Joseph Giollum  | Nil  | Levesque, Mdme. Therese  | 281 Cumberland St., Ottawa, Ont  | Canada., | Ottaw'a  | Apr. | 10.1915. |
-| 28 | 673 | 1466 | 3824 | 1498 | 10808 | Private... | Lisle, William Walter  | Nil  | Lisle, Walter  | Pagecroft, Haydon Bridge, Northumberland, Eng... | England. | Ottawa  | Apr. | 28.1915. |
-| 28 | 673 | 1497 | 3824 | 1527 | 10294 | Private... | Long, Agustus Gladstone  | 43rd Regt.. | Long, John  | 59 Stewart St., Ottawa, Ont  | Canada.. | OttawTa  | Apr. | 10.1915. |
-| 28 | 672 | 1523 | 3825 | 1556 | 10551 | Private... | MacDonald, George  | Territorials. | Rowe, George  | Thompson Ave., North Sydney, C.B.,N.S  | Scotland | Cornawall.. | Jan. | 29.1915. |
-| 28 | 672 | 1549 | 3825 | 1585 | 10670 | Private... | Macdonald, George Duncan  | Nil  | Macdonald, Angus  | Alexandria, Ont  | Canada.. | Alexandria. | Mar. | 1.1915. |
-| 28 | 672 | 1583 | 3826 | 1615 | 10306 | Sergeant.. | Macdonaldj Ian  | S.A  | Gollan, Mrs. Agnes  | Morewood, Ont  | India  | Ottawa  | Mar. | 2, 1915. |
-| 28 | 672 | 1611 | 3826 | 1643 | 10790 | Private... | MacIntyre, Reginald  | Nil. | MacIntyre, Gregor  | Renfrew, Ont  | Canada.. | Ottawa  | Apr. | 28. 1915. |
-| 28 | 672 | 1638 | 3826 | 1672 | 10793 | Private... | Maguire, John Arthur  | Nil. | Maguire, Mrs. Mary    | Carleton Place, Ont  | Canada.. | Ottawa  | Apr. | 28.1915. |
-| 28 | 672 | 1669 | 3826 | 1701 | 10048 | Private... | Mangane, Henry Patrick  | Nil  | Mangane, Mrs. Mabel Elsie  | 393 Booth St., Ottawa, Ont  | England. | Ottawa  | Feb. | 22, 1915. |
-| 28 | 672 | 1698 | 3826 | 1730 | 10028 | Private... | Mason, Robert  | Nil  | Mason, Jean  | Pencarrow Ave., Mount Eden, Auckland, N.Z  | Scotland | Ottawa  | Feb. | 26, 1915. |
-| 28 | 672 | 1726 | 3826 | 1760 | 10101 | Private... | Matthews, William  | G.G.F.G.... | Matthews, Mrs. Annie  | 792y2 Somerset St., Ottawa, Ont  | England. | Ottawa  | Feb. | 22, 1915. |
-| 28 | 672 | 1753 | 3826 | 1789 | 10021 | Corporal.. | May, Francis Lome  | Nil  | May, Mrs. W. C  | 155 Gilmour St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 22, 1915. |
-| 28 | 672 | 1783 | 3826 | 1818 | 10801 | Private... | McBrien, David Fraser  | Nil  | McBrien, Mrs. Margaret  | Belleek, Fermanagh, Ire  | Ireland.. | Ottawra  | Apr. | 28, 1915. |
-| 28 | 672 | 1812 | 3826 | 1847 | 10535 | Private... | McBurnie, Edward  | Nil  | McBurnie, Mrs. Annie  | 92 Front St., Hull, P.Q  | Scotland | Ottawa  | Mar. | 19, 1915. |
-| 28 | 672 | 1841 | 3827 | 1876 | 10091 | Private... | McCartney, Lachlan  | Nil  | McCartney, Miss Elizabeth  | C/o John Kerr, Denyholm, Kilbirnie, Ayr., Scot... | Scotland | Ottawa  | Feb. | 22, 1915. |
-| 28 | 672 | 1869 | 3827 | 1905 | 10385 | Corporal. | McGoll, Edmund Neil  | C.A.M.C.... | McColl, Mrs. Fanny...;  | 675 Gilmour St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 26, 1915. |
-| 28 | 672 | 1898 | 3826 | 1933 | 10431 | Private... | McDonald, Edward Allan  | Nil  | McDonald, Allan  | Carleton Place, Ont.   | Canada.. | Ottawa  | Feb. | 26, 1915. |
-| 28 | 672 | 1928 | 3827 | 1963 | 10834 | Private... | McGill, John  | Territorials.. | McGill, Mrs. Annie B  | Palnackie, Kircudbright, Scot  | Scotland | Ottawa  | Apr. | 28, 1915. |
-| 28 | 672 | 1957 | 3827 | 1991 | 10327 | Private... | McKee, John Ewart  | G.G.F.G.... | McKee, Mrs. C  | 75 Spadina Ave., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 26, 1915. |
-| 28 | 672 | 1986 | 3827 | 2020 | 10799 | Private... | McKinnon, Lorne  | Nil  | McKinnon, Mrs. Olive  | R. R. No. 2, Pembroke, Ont  | Canada.. | Ottawa  | Apr. | 28.1915. |
-| 28 | 672 | 2014 | 3827 | 2049 | 10005 | Private... | McNally, Hugh  | Nil  | Cosgrove, James  | Thurso, P.Q  | Ireland.. | Ottawa  | Apr. | 10.1915. |
-| 28 | 672 | 2044 | 3827 | 2078 | 10337 | Private... | McNaughton, Thomas  | 23rd Regt.... | Not stated  | Not stated '  | Scotland | Ottawa  | Feb. | 26, 1915. |
-| 28 | 671 | 2073 | 3828 | 2106 | 10781 | Private... | McNicol, James  | 42nd Regt... | McNicol, Mrs. Janet  | Renfrew, Ont  | Canada. | Ottawa  | Apr. | 28.1915. |
-| 29 | 369 | 425 | 3506 | 461 | 10802 | Private.. | Mercier, Sylvester Savinus.... | Nil  | O’Connell, Mrs. Susan.. | Jasper, Ont  | Canada  | Ottawa  | Mar. | 28 | 1915. |
-| 29 | 369 | 454 | 3506 | 490 | 10775 | Private.. | Metcalfe, Frederick  | Nil  | Metcalfe, Mrs. Rebecca | 10 Weiman St., Putney, London, Eng  | England  | Ottawa  | Apr. | 23 | 1915. |
-| 29 | 368 | 483 | 3505 | 519 | 10191 | Private.. | Miller, Alexander  | Territorials  | Miller, Mrs. Jean  | . 388 O’Connor St., Ottawa, Ont  | Scotland  | Ottawa  | Feb. | 26 | 1915. |
-| 29 | 368 | 511 | 3505 | 549 | 10399 | Private.. | Millerwood, James  | Nil  | Millerwood, Mrs. James | 136 Overton St., East View, Ont  | England  | Ottawa  | Feb. | 26 | 1915. |
-| 29 | 368 | 540 | 3506 | 578 | 10572 | Private.. | Mison, Charles William  | G.G.F.G  | Mison, Mrs. Daisy  | Laurentian View, Ont  | Canada  | Ottawa  | May | 1 | 1915. |
-| 29 | 366 | 569 | 3506 | 607 | 10213 | Private.. | Monfet, Denis  | Nil  | Monfet , Mrs. Adelaide  | Lake Megantic, P.Q  | Canada  | Ottawa  | Feb. | 24 | 1915. |
-| 29 | 366 | 598 | 3505 | 637 | 10527 | Private.. | Mongour, Alfred Walter  | Nil  | Mongour, Mrs. Emma.... | James St., Westboro’, Ont  | England  | Ottawa  | Mar. | 5 | 1915. |
-| 29 | 366 | 627 | 3506 | 665 | 10819 | Private.. | Morrissey, Andrew  | Nil  | Morrissey, Mrs. Katherine | Mattawa, Ont    | Newfoundland. | Ottawa  | Apr. | 28 | 1915. |
-| 29 | 366 | 656 | 3506 | 695 | 10831 | Private.. | Mosley, John  | Nil  | Mosley, Mrs. Abegel  | Braeside, Ont  | Canada  | Ottawa  | Apr. | 28 | 1915. |
-| 29 | 365 | 685 | 3504 | 724 | 10524 | Private.. | Moancey, Edward  | Nil   | Mouncey, Mrs. Margaret | Kirkcudbright, Scot  | Scotland  | Ottawa  | Mar. | 5 | 1915. |
-| 29 | 365 | 714 | 3505 | 752 | 10681 | Private.. | Murch, Clarence Henry  | 59th Regt  | Murch, Mrs. Christina  | Cornwall, Ont  | Canada  | Alexandria  | Feb. | 25 | 1915. |
-| 29 | 363 | 743 | 3506 | 782 | 10503 | Private.. | Murphy, Charles Harry  | Can. Mil  | Murphy, Aline  | Main St., Middletown, Conn.. U.S.A  | U.S.A  | Ottawa  | Mar. | 2 | 1915. |
-| 29 | 363 | 772 | 3506 | 809 | 10123 | Private.. | Murphy, George  | Nil  | Cadieux, Rev. Father  | Burbidge, P.Q  | England  | Feb. | 22 | 1915. |
-| 29 | 363 | 801 | 3505 | 838 | 10420 | Private.. | Neale, Frederick William  | G.G.F.G  | Neale, Mrs. M  | 236 Wilbrod St., Ottawa, Ont  | England  | Feb. | 26 | 1915. |
-| 29 | 362 | 830 | 3506 | 868 | 10222 | Private.. | Newman, Lester C  | Nil  | Newman, Mrs. Lena  | 262 Armstrong Ave., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 26 | 1915. |
-| 29 | 362 | 860 | 3506 | 896 | 10246 | Private.. | Newman, Arthur William  | Nil  | Newman, Mrs. Lena  | 262 Armstrong Ave., Ottawa, Ont    | Canada  | Feb. | 24 | 1915. |
-| 29 | 361 | 889 | 3506 | 925 | 10026 | Private.. | Nicolaiff, Michael  | Nil  | Nicolaiff, Hrirorig  | Podolsc Proos P.O., Isocaose, Kamenee, Russia  | Canada  | Feb. | 22 | 1915. |
-| 29 | 361 | 918 | 3506 | 953 | 10646 | Private.. | O’Brien, William  | Nil   | Walker, Clare  | London, Eng  | Ireland  | Alexandria  | Feb. | 5 | 1915. |
-| 29 | 361 | 948 | 3506 | 983 | 10466 | Private.. | O’Reilly, Frank  | Nil  | O’Reilly, Michael  | 363 Arlington Ave., Ottawa, Ont  | Canada ;. | Feb. | 26 | 1915. |
-| 29 | 359 | 977 | 3506 | 1012 | 10465 | Private.. | O’Rourke, Thomas John  | Nil  | O’Rourke, Mrs. E  | 92 Lorne Ave., Ottawa, Ont  | Canada  | Feb. | 26 | 1915. |
-| 29 | 359 | 1005 | 3506 | 1040 | 10358 | Private.. | Parkinson, Albert  | Territorials  | Westwell, Mrs. Emily  | Westborough, Ont  | England  | Ottawa  | Mar. | 2 | 1915. |
-| 29 | 359 | 1035 | 3506 | 1070 | 10783 | Private.. | Pettigrew, John  | S.A  | Pettigrew, Mrs. Jane  | 32 Marlow St., Kenning Park, Glasgow, Scot  | Scotland  | Ottawa  | Apr. | 28 | 1915. |
-| 29 | 358 | 1063 | 3506 | 1099 | 10173 | Private.. | Phillips, Albert  | Nil  | Phillips, Mr   | 1st Contingent, C.E.F  | England  | Feb. | 27 | 1915. |
-| 29 | 358 | 1092 | 3506 | 1127 | 10015 | Private.. | Pitcher, Bertie Charles  | Nil  | Pitcher, Mrs. Eliza  | 440 Clarence St., Ottawa, Ont  | England  | Ottawa  | Feb. | 24 | 1915. |
-| 29 | 358 | 1121 | 3506 | 1156 | 10805 | Private.. | Plant, William  | 12th Regt  | Plant, Mrs. Sarah  | 236 Lee Ave., Toronto, Ont  | England  | Ottawa  | Apr. | 28 | 1915. |
-| 29 | 357 | 1150 | 3506 | 1184 | 10319 | Private... | Prindiville, Edward P  | Nil  | Prindiville, John  | 180 Murray St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 26 | 1915. |
-| 29 | 357 | 1179 | 3506 | 1213 | 10651 | Private... | Quenneville, Stephen Frank X. | Nil  | Quenneville, Dosithe  | North Lancaster, Ont  | Canada  | Alexandria  | Feb. | 27 | 1915. |
-| 29 | 356 | 1207 | 3506 | 1242 | 10514 | Private... | Quilty, Thomas  | Nil  | McLaren, James  | 33 Grant St., Ottawa, Ont  | England  | \Hr | 5 | 1915. |
-| 29 | 356 | 1237 | 3506 | 1272 | 10486 | Sergeant. | Quinlan, Thomas F  | 43rd Regt  | Quinlan, Michael  | 446 Parkdale Ave., Ottawa, Ont  | England  |  | 1 | 1915. |
-| 29 | 356 | 1265 | 3612 | 1302 | 10139 | Private... | Quinney, William Timothy. ... | 43rd Regt  | Quinney, Henry A  | 19, 3rd Ave., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 22 | 1915. |
-| 29 | 356 | 1295 | 3506 | 1329 | 10534 | Private... | Randle, William J  | Nil  | Parsons, Mrs. F  | 225 Monk’s Rd., Heavitree, Exeter, Devon, Eng  | England  | Ottawa  | Mar. | 18 | 1915. |
-| 29 | 355 | 1324 | 3506 | 1359 | 10317 | Private... | Ranger, Jean Evangeliste  | Nil  | Ranger, Alfred  | 14 Boteiier St., Ottawa, Ont....:  | Canada  | Feb. | 26 | 1915. |
-| 29 | 354 | 1352 | 3506 | 1387 | 10313 | Private... | Ray, Robert William  | Nil  | Ray, Mrs. Emma  | Gatineau Point, P.Q  | Canada  | Feb. | 26 | 1915. |
-| 29 | 354 | 1381 | 3506 | 1417 | 10669 | Private... | Redfern, Arnold  | Nil  | Redfern, William Arnold | Greenhill Lane, Derby, Eng  | England  | Alexandria   | Mar. | 1 | 1915. |
-| 29 | 354 | 1411 | 3506 | 1445 | 10342 | Private... | Reid, Henry  | Nil  | Reid, Mrs. Mary  | Bamber St., Liverpool, Lane., Eng  | England  | Feb. | 26 | 1915. |
-| 29 | 354 | 1440 | 3507 | 1475 | 10832 | Private... | Ring, Eward  | 42nd Regt  | Ring, Mrs. Mary  | White Lake, Ont  | Canada  | Apr. | 28 | 1915. |
-| 29 | 354 | 1469 | 3507 | 1502 | 10815 | Private... | Ritchie, Hugh  | Nil  | Ritchie, Robert  | R. R. No. 1, Cobden, Ont  | U.S.A  | Apr. | 28 | 1915. |
-| 29 | 353 | 1498 | 3507 | 1531 | 10363 | Private... | Rowland, Ernest Beresford | Nil  | Rowland, Mrs. Dora  | 296 Reginald Rd., Portsmouth, Eng  | England  | Mar. | 1 | 1915. |
-| 29 | 353 | 1530 | 2804 | 1560 | 10827 | Private.. | Rowlands, Robert  | Nil  | Rowlands, Mrs. Jane  | Quarry House, Alonbury Hill, Kingsthorne, Hereford, |
-| 29 | 2061 | 1556 | 3506 | 1588 |  |  |  |  | Eng  | England.. |  | Apr. | 28 | 1915. |
-| 29 | 352 | 1585 | 3506 | 1619 | 10311 | Private.. | Rutherford, George A  | 42nd Regt  | Rutherford, J. A  | 77 Albert St., Ottawa, Ont  | Canada.., | Feb. | 26 | 1915. |
-| 29 | 351 | 1614 | 3507 | 1646 | 10270 | Private.. | Rutter, Edward  | Territorials  | Rutter, Mrs. Frank  | Aldermoon, Southampton, Hants., Eng  | England.. | Apr. | 10 | 1915. |
-| 29 | 351 | 1643 | 3507 | 1677 | 10058 | Private.. | Scott, Donald  | Nil  | Scott, John  | Greenock, Renfrew, Scot  | Scotland. | Feb. | 22 | 1915. |
-| 29 | 351 | 1672 | 3507 | 1706 | 10300 | Private.. | Selby, Frederick  | Royal Navy  | McTavish, Mrs. Daisy  | R. R. No. 2, Jasper and Smith’s Falls, Ont  | England.. | Apr. | 10 | 1915. |
-| 29 | 350 | 1701 | 3507 | 1735 | 10193 | Private.. | Simpson, Frederick Charles... | Imp. Forces  | Simpson, Mrs. Ida  | 293 Powell Ave., Ottawa, Ont  | Scotland. | Feb. | 26 | 1915. |
-| 29 | 350 | 1730 | 3498 | 1764 | 10794 | Private... | Simpson, Ralph Patterson.... | Nil  | Simpson, Mrs. Minnie  | Carleton Place, Ont  | Canada.., |  | 1W | 1915 |
-| 29 | 350 | 1759 | 3507 | 1793 | 10491 | Private... | Smalldridge, William John  | 43rd Regt  | Pilgrim, Mrs  | 1172J^ Wellington St., Ottawa, Ont  | England.. | Mar. | 1 | 1915. |
-| 29 | 349 | 1789 | 3507 | 1821 | 10816 | Private... | Smith, Nelson Short  | Nil  | Smith, Joseph  | Renfrew, Ont '.  | Canada... | Ottawa  | Apr. | 28 | 1915. |
-| 29 | 349 | 1818 | 3498 | 1850 | 10228 | Private... | Smith, Patrick Cross  | Nil  | Smith, Mr3. Mary  | General Hospital, Regina, Sask '.  | Canada.. |  | Ml | 1915 |
-| 29 | 349 | 1846 | 3507 | 1879 | 10498 | Private... | Smith, Richard Henry  | S.A  | Shaw, Mrs. Susan  | Navan, Ont  | England.. | Ottawa  | Mar. | 1915. |
-| 29 | 348 | 1876 | 3508 | 1908 | 10624 | Corporal.. | Smith, Thomas  | Nil  | Smith, Thomas  | Spencer Cottages, Judlow, Nr. Buxton, Derby, Eng.. | England.. | Alexandria  | Feb. | 27 | 1915. |
-| 29 | 348 | 1904 | 3507 | 1937 | 10655 | Private... | Smith, Wilfred  | Nil  | Smith, Thomas  | Spencer Cottages, Judlow, Nr. Buxton, Derby, Eng .. | England.. | Alexandria  | Feb. | 27 | 1915. |
-| 29 | 346 | 1934 | 3507 | 1967 | 10316 | Private... | Smith, Wilfred  | Nil  | Smith, Miss I  | 402}^ Bank St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 26 | 1915. |
-| 29 | 346 | 1962 | 3507 | 1996 | 10562 | Private... | Sorell, Andrew  | Nil  | Sorell, Joseph  | Cornwall, Ont  | Canada.. | Cornwall  | Feb. | 20 | 1915. |
-| 29 | 346 | 1991 | 3507 | 2025 | 10267 | Corporal. | Sparks, Frederick Carruthers. | G.G.F.G  | Sparks, Mrs. Deborah Jane | 343 Bell St., Ottawa, Ont  | Canada.. | Ottawa  | April | 10 | 1915. |
-| 29 | 345 | 2021 | 3507 | 2055 | 10687 | Private... | Spence, Charles  | Nil  | Urquhart, Donald  | R. R. No. 2, Greenfield, Ont  | Canada.. | Ottawa  | April | 28 | 1915. |
-| 29 | 345 | 2050 | 3507 | 2083 | 10135 | Private... | Spirritt, Joseph  | Nil  | Rice, John A  | R. R. No. 4, Osgoode Stn., Ont  | England.. | Feb. | 26 | 1915. |
-| 29 | 344 | 2079 | 3498 | 2113 | 10405 | Private... | St. Armand, Telespore  | Nil  | St. Armand, Mrs. E  | Hawkesbury, Ont  | Canada.. | Mar. | 1 | 1915 |
-| 29 | 344 | 2108 | 3507 | 2141 | 10375 | Private... | Streeter, Sidney  | S.A  | Streeter, Mrs. Annie  | 15 Orrisa Rd., Plumstead, London, Eng  | England.. | Feb. | 26 | 1915. |
-| 29 | 344 | 2138 | 3508 | 2171 | 10703 | Private... | Stilwell, Frederick  | Can. Navy  | Stilwell, Charles  | Salmon Arm, B.C  | Canada.. | Brockville  | Mar. | 25 | 1915. |
-| 30 | 643 | 564 | 3321 | 615 | Ii | Former Corps. |  |  | Country of |
-| 30 | 655 | 730 | 3268 | 759 | 10702 |  | Stilwell, Charles  | Salmon Arm, B.C  | Canada... |
-| 30 | 655 | 758 | 3268 | 788 | 10411 | G.G.F.G  | Suffron, Mrs. Louisa  | Muriel St., Ottawa, Ont  | Canada... |
-| 30 | 654 | 788 | 3268 | 818 | 1082; | Nil  | Tapp, Mrs. A. Preston  | Fox River, P.Q  | Canada... |
-| 30 | 654 | 817 | 3268 | 847 | 1039( | Nil  | Taylor, Miss Nellie  | Cambuslang, Glasgow, Scot  | Scotland.. |
-| 30 | 653 | 846 | 3266 | 876 | 1025f | Nil  | Tester, Mrs. Mary    | Kidlington, Oxon, Eng  | England.. |
-| 30 | 653 | 875 | 3266 | 905 | 10307 | Nil  | Thomas, Mrs. E  | ~ Bluff Lane, Westborough, Ont  | England.. |
-| 30 | 652 | 904 | 3259 | 934 | 1006C | Nil  | Thompson, Mrs. Esther  | 435 Cumberland St., Ottawa, Ont  | Scotland. |
-| 30 | 652 | 934 | 3266 | 963 | 1029S | Nil  | Thompson, Gay  | 49 Gordon Rd., Kingston-on-Thames, Surrey, Eng  | England.. |
-| 30 | 651 | 962 | 3268 | 992 | 10373 |  | Thompson, Mrs. Jessie  | 245 Bolton St., Ottawa, Ont  | Canada... |
-| 30 | 651 | 991 | 3257 | 1020 | 10434 | G.G.F.G  | Thomson, Mrs. Elizabeth  | Hollcroft, Enzie, Buckie, Banff, Scot  | Scotland. |
-| 30 | 651 | 1021 | 3265 | 1050 | 10730 | Nil  | Tremblay, Mrs. Mary Louise. | 118 Tucker St., Lowell, Mass., U.S.A  | U.S.A.... |
-| 30 | 650 | 1050 | 3265 | 1079 | 10184 |  | Openshaw, Mrs. Jessie  | 913Bank St., Ottawa, Ont  | England.. |
-| 30 | 650 | 1079 | 3264 | 1108 | 10791 |  | Vandusen, Edward Walter.... | Chesterville, Ont  | U.S.A.... |
-| 30 | 650 | 1108 | 3264 | 1138 | 10031 |  | Verrall, Mrs. Mary  | 17 Lennox Rd., Hove, Sussex, Eng  | England.. |
-| 30 | 650 | 1137 | 3266 | 1166 | 10083 | Nil  | Waller, Mrs. Annie Florence... | 46 Gilmour St., Ottawa, Ont  | Canada... |
-| 30 | 649 | 1166 | 3266 | 1195 | 10096 | Nil  | Cousineau, Mrs. Evelyn  | 215 Church St., Ottawa, Ont  | Canada... |
-| 30 | 648 | 1195 | 3268 | 1224 | 1000S |  | Weir, Mrs. Bunthron  | Strathlaan Cottage, Dollar, Clackmannan, Scot  | Scotland.. |
-| 30 | 648 | 1224 | 3264 | 1253 | 10638 | Nil  | Beddoe, James  | Pleasant Rd., Guilford, Surrey, Eng  | England.. |
-| 30 | 647 | 1253 | 3266 | 1282 | 10027 | Nil  | Welsford, Mrs. Emma  | Buckingham, P.Q  | Canada... |
-| 30 | 647 | 1282 | 3265 | 1311 | 10615 | Nil   | West, Mrs. Martha  | 17 Queen St., Emsworth, Hants, Eng  | Canada... |
-| 30 | 646 | 1310 | 3265 | 1340 | 10609 |  | Wilkins, Julia Jene  | 78 Wellesley St., Toronto, Ont  | Canada... |
-| 30 | 646 | 1339 | 3263 | 1369 | 10195 | C.A.M.C  | Williams, Mrs. Ada  | 350^ Somerset St., Ottawa, Ont  | England.. |
-| 30 | 645 | 1369 | 3263 | 1398 | 10092 | Nil  | Avery, Mrs. Martha  | 75 Lowther St., Liverpool, Lane, Eng  | England.. |
-| 30 | 644 | 1397 | 3265 | 1426 | 10496 | Nil  | Wilson, Mrs. Essie  | 73 Vittoria St., Ottawa, Ont  | Canada... |
-| 30 | 644 | 1426 | 3265 | 1455 | 10538 | Nil  | Wilson, Mrs. Marie  | 176 Argyle St., Toronto, Ont  | Canada... |
-| 30 | 643 | 1455 | 3263 | 1484 | 10200 | C.F.A  | Coker, Mrs. Therese  | 58 Stanley St., New Edinburgh, Ottawa, Ont  | England.. |
-| 30 | 642 | 1484 | 3265 | 1513 | 10350 | G.G.F.G  | Wood, Mrs. May  | 145 Queen St. W., Ottawa, Ont  | Canada... |
-| 30 | 641 | 1513 | 3265 | 1542 | 10255 | Nil  | Wright, Mrs. Maria Eliza  | Riverside Park, Ottawa West, Ont  | Canada... |
-| 30 | 641 | 1541 | 3268 | 1571 | 10S23 | Nil  | Yeates, Thomas  | Walberwick St., So. Lambeth Rd., London S.W., Eng. | Scotland.. |
-| 30 | 640 | 1570 | 3263 | 1600 | 10030 |  | Young, Mrs. Martha  | St. Onge, Ont  | England.. |
+| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 38th BATTALION | also | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 38th Battalion | EMBARKATION | Port: Halifax. | Ship: S.S. "Caledonian." | Date: August 8th, 1915. | 10tn-6-16. | H.Q. 593-2.29. | 1st Reinforcing Draft | 2nd Reinforcing Draft | Montreal. | 5.5. “Northland." | May 29th, 1915. | Montreal. | 5.5. " Missanabie." | June 24th, 1915. |
+| 2 | 887<br>620<br>3348<br>652 |  | Former Corps. |  | Country of |
+| 2 | 798<br>764<br>3837<br>796 |  |  |  |  | Ottawa  | Feb. | 1 | 1915. |
+| 2 | 3156<br>793<br>3837<br>818 |  |  |  | Canada  | Ottawa  | Feb. | 1 | 1915. |
+| 2 | 2369<br>822<br>3837<br>854 |  |  |  | Canada  | Ottawa  | April | 1 | 1915. |
+| 2 | 1568<br>851<br>3837<br>880 |  | G.G.F.G  |  | Canada  | Ottawa  | Feb. | 1 | 1915. |
+| 2 | 3154<br>880<br>3836<br>904 |  |  |  | Canada  | Ottawa  | Mar. | 24 | 1915. |
+| 2 | 3154<br>909<br>3836<br>934 |  |  |  | Canada  | Ottawa  | Feb. | 1 | 1915. |
+| 2 | 1863<br>938<br>3836<br>971 |  |  | Parkinson, Mrs. Carrie Beatrice... | Canada  | Ottawa  | Feb. | 1 | 1915. |
+| 2 | 3637<br>967<br>3836<br>989 |  |  |  |  |  | Mar. | 24 | 1915. |
+| 2 | 3394<br>996<br>3836<br>1020 |  |  |  |  | Ottawa  | Feb. | 1 | 1915. |
+| 2 | 3153<br>1025<br>3835<br>1050 |  |  |  | Canada  | Bermuda  | Dec. | If) | 1915. |
+| 2 | 3152<br>1054<br>3835<br>1079 |  |  |  | Canada  | Ottawa  | Feb. | 1 | 1915. |
+| 2 | 3152<br>1082<br>3835<br>1108 |  |  |  | Canada  | Cornwall  | July | 31 | 1915. |
+| 2 | 1562<br>1112<br>3834<br>1141 |  | C.A.M.C... |  | Canada  | Cornwall  | Feb. | 8 | 1915. |
+| 2 | 3152<br>1140<br>3834<br>1167 |  |  |  | Canada  | Ottawa  | May | 25 | 1915. |
+| 2 | 1563<br>1169<br>3834<br>1199 |  | R.O   |  | Canada  | Ottawa  | Feb. | 1 | 1915. |
+| 2 | 3151<br>1198<br>3833<br>1223 |  |  |  | Canada  | Ottawa  | Feb. | 1 | 1915. |
+| 2 | 3151<br>1227<br>3834<br>1252 |  |  |  | Canada  | Ottawa  | Feb. | 17 | 1915. |
+| 2 | 1561<br>1256<br>3834<br>1290 |  | G.G.F.G... | Bell, Mrs. B. T. A  | Canada  | Ottawa  | Feb. | 1 | 1915. |
+| 2 | 3151<br>1285<br>3834<br>1313 |  |  |  | Canada  | Barriefield Cmp | July | 28 | 1915. |
+| 2 | 1561<br>1314<br>3834<br>1344 |  | G.G.F.G  |  | Canada  | Bermuda  | Nov. | 26 | 1915. |
+| 2 | 3151<br>1343<br>3834<br>1368 |  |  |  | Canada  | Ottawa  | July | 31 | 1915. |
+| 2 | 3392<br>1371<br>3833<br>1396 |  |  |  |  | Ottawa  | Feb. | 1 | 1915. |
+| 2 | 1859<br>1400<br>3834<br>1432 |  |  | Hill, W. H |  | Barriefield  | July | 31 | 1915. |
+| 2 | 3393<br>1429<br>3833<br>1453 |  |  |  |  | Barriefield  | July | 31 | 1915. |
+| 2 | 3393<br>1457<br>3834<br>1483 |  |  |  |  | Ottawa  | Mar. | 24 | 1915. |
+| 2 | 3151<br>1486<br>3834<br>1516 |  |  |  | England  | Bermuda  | Nov. 27 | 1915. |
+| 2 | 3151<br>1515<br>3834<br>1542 |  |  |  | Canada  | Barriefield  | July | 31 | 1915. |
+| 2 | 3151<br>1544<br>3834<br>1571 |  |  |  | Canada  |  | Feb. | 1 | 1915. |
+| 2 | 1558<br>1573<br>3834<br>1603 |  | G.G.F.G |  | Canada  |  | July | 28 | 1915. |
+| 2 | 3151<br>1601<br>3834<br>1628 |  |  |  | Canada  | Barriefield  | July | 31 | 1915. |
+| 2 | 3635<br>1630<br>3834<br>1653 |  |  |  |  |  | Feb. | 1 | 1915. |
+| 2 | 3392<br>1659<br>3834<br>1685 |  |  |  |  | Bermuda  | Sept. | 1 | 1915. |
+| 2 | 3151<br>1688<br>3834<br>1715 |  |  |  | Canada  | Barriefield  | July | 31 | 1915. |
+| 2 | 3632<br>1716<br>3834<br>1741 |  |  |  |  |  | July | 29 | 1915. |
+| 2 | 3392<br>1745<br>3834<br>1771 |  |  |  |  | Barriefield  | July | 31 | 1915. |
+| 2 | 684<br>1774<br>3834<br>1805 |  | Nil | 410669 |  | Lindsay  | May | 8 | 1915. |
+| 2 | 3392<br>1803<br>3834<br>1829 |  |  |  |  | Barriefield  | July | 9 | 1915. |
+| 2 | 683<br>1832<br>3834<br>1863 | 410232 |  |  | England : | Barriefield Cmp | July | 23 | 1915. |
+| 2 | 682<br>1860<br>3834<br>1892 | 410004 | Nil |  |  | Ottawa  | April 14 | 1915. |
+| 2 | 682<br>1889<br>3833<br>1921 | 410233 | Nil |  |  |  | Mar. | 1 | 1915. |
+| 2 | 681<br>1918<br>3833<br>1950 | 410234 | Nil |  |  | Ottawa  | Mar. | 1 | 1915. |
+| 2 | 681<br>1947<br>3833<br>1975 | 410671 |  |  |  | Lindsay  | May | 10 | 1915. |
+| 2 | 680<br>1976<br>3833<br>2003 | 410441 |  |  |  | Ottawa  | April 28 | 1915. |
+| 2 | 680<br>2006<br>3834<br>2037 | 410005 | Nil |  |  |  | July | 9 | 1915. |
+| 2 | 679<br>2034<br>3834<br>2065 | 410442 | Nil |  |  | Dttawa  | April 28 | 1915. |
+| 2 | 679<br>2067<br>3834<br>2094 | 410672 | Nil |  |  |  | 26 | 1915. |
+| 2 | 678<br>2094<br>3834<br>2123 | 410673 | Nil |  |  |  | Mar. | 26 | 1915. |
+| 2 | 678<br>2123<br>3834<br>2151 | 410674 | Nil |  |  |  | May | 26 | 1915. |
+| 2 | 677<br>2149<br>3833<br>2187 |  |  |  |  |  | July | 410006iPrivate  | Nil  | Ashley, George  | Barriefield. . . | 9 | 1915. |
+| 3 | 1243<br>345<br>3512<br>382 |  |  | Nil  | Atkinson, John  | P.O., Billings Bridge, Ont  | England  |  |  | 1 | 1915. |
+| 3 | 1537<br>376<br>3512<br>411 |  |  |  | Attwood, Horace  | City Bldgs., Kingston, Ont  | England  | Kingston  | June | 4 | 1915. |
+| 3 | 366<br>398<br>3511<br>440 | 410443 Private  |  | Nil  | Donovan, Nellie  | 19^ Nicholas St., Ottawa, Ont  | England  |  |  | 98 | 1915. |
+| 3 | 366<br>427<br>3511<br>469 | 410444 Private  |  |  | Babcock, Miss Mary  | 12 Victoria Ave., Brockville, Ont  | Canada  | Ottawa  | April 28 | 1915. |
+| 3 | 1241<br>461<br>3510<br>497 |  |  | Nil  | Baber, Mrs. Minnie  | 3 Sussex St., Lindsay, Ont  | England  | Lindsay  | May | 25 | 1915. |
+| 3 | 1240<br>491<br>3510<br>527 |  |  | Nil  | Backs, Peter  | Leitrim, Ont  | Canada  | Ottawa  | Feb. | 26 | 1915. |
+| 3 | 734<br>516<br>3510<br>556 |  | Bailey, Ruben P  |  | Fowler, A  | R.R. No. 1, Billings Bridge, Ont  | England  |  | Feb. | 24 | 1915. |
+| 3 | 1241<br>548<br>3510<br>585 |  |  | Nil  | Bailie, Mrs. Catherine | R.R. No. 2, Billings Bridge, Ont  | Canada  | Ottawa  | Feb. | 24 | 1915. |
+| 3 | 1240<br>577<br>3509<br>613 |  |  | Nil  | Baker, George W  | 11 Hook Ave., West Toronto, Ont  | England  |  | July | 24 | 1915. |
+| 3 | 1238<br>606<br>3509<br>643 |  |  | C.F.A  | Baker, Mrs. Elizabeth  | 47 Loosa Rd., Maidstone, Kent, Eng  | England  |  | June | 9 | 1915. |
+| 3 | 1536<br>640<br>3508<br>671 |  |  |  | Ball, Mrs. Alice  | Ottawa West, Ont.  | Canada  |  | Feb. | 22 | 1915. |
+| 3 | 735<br>661<br>3508<br>700 |  | Bali, Charles G  | Nil  | Ball, Mrs. C  | 112 Lincoln St., Bristol, Eng  | England  |  |  | 25 | 1915. |
+| 3 | 734<br>690<br>3508<br>730 |  | Ball, John Stephen P.     | Nil  | Bali, Mrs. Susan A  | Alexandria, Ont    | England  | Barriefield  | July | 31 | 1915. |
+| 3 | 1535<br>727<br>3508<br>759 |  |  |  | Ball, Mrs. Hanna  | 27 Devonshire St., Brighton, Sussex, Eng. | Engiand  | Barriefield  | July | 9 | 1915. |
+| 3 | 734<br>748<br>3507<br>786 |  | Bannerman, John  | Nil  | Bannerman, Mrs. Jane  | 229 Echo Drive, Ottawa, Ont  | Canada  |  | Feb. | 24 | 1915. |
+| 3 | 1238<br>780<br>3507<br>817 |  |  | C.F.A  | Bannerman, Hugh  | 225 Sunny side Ave., Ottawa, Ont  | Scotland  |  | June | 10 | 1915. |
+| 3 | 1536<br>813<br>3507<br>846 |  |  |  | Bannister, Mrs. Ada  | Trodmore St., Welford, Northants, Eng.., | England  | Barriefield  | July | 28 | 1915. |
+| 3 | 1241<br>839<br>3507<br>875 |  |  | Nil... | Harvey, Sarah  | 22 Rotherdam Rd., Lowestoft, Eng  | England  | Barriefield  | July | 9 | 1915. |
+| 3 | 363<br>863<br>3507<br>903 | 410447 Private  | Barker, Ralph Frederick  | Nil  | O’Neil, Mrs. J. H  | 268 Bartholomew St., Brockville, Ont  | Canada  |  | April 28 | 1915. |
+| 3 | 364<br>892<br>3507<br>932 | 410015 Private  | Barnett, Frederick Charles  | S. A  | Barnett, Mrs. Esther H  | 250 Catharine St., Ottawa, Ont   | England  |  | Mar. | 5 | 1915. |
+| 3 | 363<br>920<br>3507<br>962 | 410448 Corporal  | Barnhart, Angus Edmund  |  | Barnhart, John  | 79 Wall St., Brockville, Ont   | Canada  |  | April 28 | 1915. |
+| 3 | 363<br>949<br>3507<br>989 | 410678 Private  | Barr, John  | Nil  | Barr, Mrs. Nicholl  | 17 Fern Ave., Toronto, Ont   | Scotland  |  | Mar. | 20 | 1915. |
+| 3 | 363<br>979<br>3507<br>1019 | 410679 Private  | Barrett, Thomas Alfred  | Nil  | Cusson, Miss Rose  | 71 Lyndale Ave., Ottawa, Ont   | England  |  | May | 26 | 1915. |
+| 3 | 363<br>1007<br>3506<br>1048 | 410680 Private  | Barrington, Patrick  | Nil  | Barrington, Peter  | Carhuclough, Ennistymon, Clare, Ire  | Ireland  |  | May | 7 | 1915. |
+| 3 | 362<br>1037<br>3506<br>1077 | 410237 Private  | Bartlett, Guy  | Nil  | Bartlett, Herbert  | Sherborn, Mass., U.S.A  | England  |  | May | 20 | 1915. |
+| 3 | 363<br>1065<br>3506<br>1105 | 410016 Private  |  | Nil... | Barton, Mrs. Olive G   | Cobourg, Ont  | England  | Cobourg  | May | 18 | 1915. |
+| 3 | 362<br>1094<br>3505<br>1134 | 410017 Private  |  | R.C.D... | Bateman, Mrs. Kate   | 202 Somerset St., Ottawa, Ont  | England  | Barriefield Cmp | May | 28 | 1915. |
+| 3 | 362<br>1123<br>3505<br>1163 | 410018 Private  |  | R.C.H.A  | Bates, Mrs. Jennett  | 329 Montreal St., Kingston, Ont  | Canada  | Kingston  | May | 25 | 1915. |
+| 3 | 362<br>1153<br>3506<br>1191 |  |  | Nil  | 410238 Private  | Beach, Silas Edgar  | Pembroke, Ont  | Canada  | Barriefield Cmp | July | 23 | 1915. |
+| 3 | 362<br>1181<br>3506<br>1220 | 410019 Private  |  | Nil  | Beaupre, Mrs. Josephine...., | 582 Lisgar St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 24 | 1915. |
+| 3 | 362<br>1210<br>3506<br>1249 | 410450 Private  |  | Nil  | Bedford, Joseph   | Moulinette, Ont  | England  |  | Jan. | 8 | 1915. |
+| 3 | 361<br>1239<br>3505<br>1278 | 410020 Private  |  | Nil  | Beedell, Mrs. Mary  | Mountain Rd., Hull, P.Q  | England  |  | Feb. | 24 | 1915. |
+| 3 | 360<br>1268<br>3504<br>1307 | 410021 Private  |  | Nil  | Beer, Mrs. Margaret Jane | England..  | England  | Ottawa  | Feb. | 26 | 1915. |
+| 3 | 731<br>1298<br>3505<br>1335 |  | Belair, Moses     | Can. Mil  | Belair, David   | Alexandria, Ont  | Canada  | Barriefield Cmp | July | 6 | 1915. |
+| 3 | 360<br>1326<br>3504<br>1365 | 410022 Private  |  |  | Liberty, Mrs. John   | 312 Gladstone Ave., Ottawa, Ont  | Canada  | Ottawa  | May | 17 | 1915. |
+| 3 | 359<br>1354<br>3504<br>1393 | 410682 Private  | Bell, Charles Rudolph  | Nil  | Bell, Mrs. George   | Jones Ave., Toronto, Ont   | Canada  |  | July | 29 | 1915. |
+| 3 | 359<br>1383<br>3504<br>1423 | 410683 Private  | Bell, Richard  | Nil  | Bell, James   | Shanly St., Toronto, Ont  | Ireland  |  | May | 21 | 1915. |
+| 3 | 730<br>1414<br>3504<br>1451 |  | Benjamin, Christopher Arthur  | S.A  | Benjamin, Mrs. Annie  | 455 Besserer St., Ottawa, Ont  | England  |  | Feb. | 22 | 1915. |
+| 3 | 358<br>1441<br>3504<br>1480 |  | Bennett, George Charles  | Nil  | 410239 Sergeant  | Bennett, George S  | Vankleek Hill, Ont   | Canada  | Mar | fi | 1915. |
+| 3 | 357<br>1470<br>3503<br>1508 | 410451 Private  |  | Nil  | Bennett, Charles S  | Vankleek Hill, Ont   | Canada  | Alexandria  | Feb. | 27 | 1915. |
+| 3 | 357<br>1499<br>3504<br>1538 | 410684 Private  |  | Nil  | Bernard, Emile  | Grande Baie, P.Q  | Canada  | Ottawa  | June | 10 | 1915. |
+| 3 | 355<br>1528<br>3504<br>1566 | 410685 Private  |  | Nil  | Berow, Nelson  | Cornwall, Ont  | Canada  |  | July | 6 | 1915. |
+| 3 | 355<br>1557<br>3503<br>1596 | 410453 C.S.M  | Berton, John FitzGerald  |  | Berton, Mrs. Maud Beatrice | 155 Stanley Ave., Ottawa, Ont  | U.S.A  |  | Feb. | 24 | 1915. |
+| 3 | 354<br>1586<br>3503<br>1625 | 410024 Private  |  | Nil  | Best, William  | Wellington, Ont  | Canada  |  | May | 25 | 1915. |
+| 3 | 354<br>1615<br>3503<br>1654 | 410686 Private  |  | Nil  | Bethell, Mrs. William  | Westborough, Ont  | England  |  | June | 10 | 1915. |
+| 3 | 353<br>1644<br>3503<br>1686 | 410687 Private  |  |  | Biggs, Mrs. Lilly.#  | 36 Sully Cres., Toronto, Ont  | England  |  | May | 21 | 1915. |
+| 3 | 352<br>1673<br>3502<br>1711 | 410025 Private  |  | C.F.A  | Bigras, Mrs. Minnie  | P.O., Laurentian View, Ont  | Canada  |  | Feb. | 26 | 1915. |
+| 3 | 352<br>1702<br>3502<br>1740 | 410915 Private  |  | Nil  | Binks, Mrs. Martha H  | Russell, Ont  | England  |  | Feb. | 26 | 1915. |
+| 3 | 352<br>1731<br>3503<br>1769 | 410452 Corporal  |  |  | Birnie, Mrs. Kate  | 295 Union Grove, Aberdeen, Scot  | Scotland  | Barriefield  | July | 28 | 1915. |
+| 3 | 725<br>1762<br>3503<br>1798 |  | Blackburn, George Alfred A  | Nil......  | Blackburn, Mrs. Rose  | 33 Ethel St., Eastview, Ottawa, Ont  | Canada  |  | July | 6 | 1915. |
+| 3 | 350<br>1789<br>3503<br>1828 | 410454 L.-Corporal  |  |  | Blarney, Richard James. . | New Road, Essex, Eng  | England  |  | April 28 | 1915. |
+| 3 | 1231<br>1824<br>3503<br>1856 |  |  | Nil  | Blanchard, Louis  | R.R. No. 1, Cornwall, Ont  | Canada  | Cornwall  | Mar. | 7 | 1915. |
+| 3 | 1529<br>1854<br>3502<br>1886 |  |  |  | Le Blanc, Nellie  | Braeside ,Ont  | England  |  | July | 9 | 1915. |
+| 3 | 1230<br>1881<br>3503<br>1915 |  |  | G.G.B.G  | Blowing, Mrs. Adela  | Wardell St., Toronto, Ont  | England  | Ottawa  | April | 8 | 1915. |
+| 3 | 727<br>1907<br>3503<br>1943 |  |  | C.A.M.C  | Blowing, William Joseph  | Blowing, Mrs. Ada  | 68 Cumberland St., Toronto, Ont  | England  | Barriefield  | •July | 9 | -1915. |
+| 3 | 1230<br>1940<br>3504<br>1973 |  |  | Nil  | Blyth, Thomas  | 57 New St., Brightlingsea, Essex, Eng  | England  |  | Mar. | 28 | 1915. |
+| 3 | 1528<br>1970<br>3504<br>2002 |  |  |  | Flannigan, P  | Wrexham, Denbigh, Wales  | Canada  |  | Mar. | 25 | 1915. |
+| 3 | 348<br>1993<br>3504<br>2031 | 410458 Private  | Boling, Alfred  | Nil  | Carlson, Mrs. Anna  | '27 Centre St., Port Arthur, Ont  | Finland  |  | Mar. | 1 | 1915. |
+| 3 | 348<br>2022<br>3504<br>2060 | 410028 Private  | Bondurosky, Max  | Nil  | Bondurosky, Mik  | Sikovsti, Russia  | Russia  |  | July | 24 | 1915. |
+| 4 | 839<br>686<br>3324<br>720 |  |  |  | Former Corps. |  |  | Country of |
+| 4 | 652<br>830<br>3812<br>864 | 410028 |  |  | Nil  | Booth, Mrs. Eliza  | 10 Harley St., Hanley, Staffs, Eng  | England  | Ottawa  | Feb. | 24 | 1915. |
+| 4 | 650<br>859<br>3812<br>893 | 410241 |  |  | Nil  | Bowden, Mrs. Hanna Maud. | 142 Clarence St., Ottawa, Ont  | England  | Ottawa  | Feb. | 26 | 1915. |
+| 4 | 650<br>888<br>3813<br>923 | 410689 |  | Boyce, Thomas  | Nil  | Boyce, Mrs. Nancy  | Buckingham, P.Q  | Canada  | Barriefield.. | July | 6 | 1915. |
+| 4 | 650<br>917<br>3812<br>952 | 410030 |  |  | Nil... | Dwerryhouse, Mrs  | 15 Newton St., Colne, Lancs, Eng  | England  | Barriefield. . | July | 9 | 1915. |
+| 4 | 649<br>946<br>3812<br>981 | 410948 |  | Bracken, Thomas Joseph  | C.F.A  | Bracken, Patrick  | Westmount, P.Q  | Ireland  | Ottawa  | Feb. | 23 | 1915. |
+| 4 | 648<br>975<br>3812<br>1010 | 410690 |  |  | Nil  | Bradley, Benjamin  | Westborough, Ont  | Canada  | Barriefield Cmp | July | 6 | 1915. |
+| 4 | 647<br>1004<br>3811<br>1039 | 410691 |  |  | Nil  | Bradley, S. J  | Ramsayville, Ont  | Canada  | Barriefield.. | July | 6 | 1915. |
+| 4 | 647<br>1033<br>3811<br>1067 | 410031 |  |  | Nil  | Bradshaw, Herbert  | Secretary’s Office, Y.M.C.A., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 26 | 1915. |
+| 4 | 646<br>1062<br>3811<br>1096 | 410032 |  |  | G.G.F.G  | Brady, Mrs. John  | Eardley, P.Q  | Canada  | Ottawa  | May | 17 | 1915. |
+| 4 | 645<br>1091<br>3810<br>1124 | 410033 |  |  |  | Branch, Mrs. Sarah E  | P.O., Cumming’s Bridge, Ont  | England | Ottawa  | July | 21 | 1915. |
+| 4 | 645<br>1120<br>3810<br>1154 | 410034 |  |  | Nil.... | Branney, John  | 17 Duke St., Old Trafford, Manchester, Eng  | England | Barriefield. .. | July | 24 | 1915. |
+| 4 | 644<br>1149<br>3810<br>1182 | 410035 |  |  | Nil.... | Brennan, Mrs. Alice  | P.O., Arnprior, Ont  | Canada  | Barriefield. . . | July | 0 | 1915. |
+| 4 | 644<br>1177<br>3810<br>1211 | 410036 |  |  | Nil  | Brewer, Mrs. Robert  | Chippenham, Wilts, Eng  | England | Prescott  | June | 9 | 1915. |
+| 4 | 643<br>1207<br>3810<br>1240 | 410037 |  |  |  | Bristow, Mrs. E   | 28 Hawden Rd., Tonbridge, Kent, Eng  | England | Prescott  | June | 9 | 1915. |
+| 4 | 643<br>1236<br>3810<br>1269 | 410692 |  |  | Nil  | Brokenshire, Mrs. Jennie  | 75 Gaily Ave., Toronto, Ont  | Canada  | Lindsay  | Mar. | 22 | 1915. |
+| 4 | 643<br>1265<br>3810<br>1299 | 410459 |  |  |  | Bromley, John  | 190 Marlborough Rd., High town, Manchester, Eng — | Not stated. | Brockville  | Mar. | 25 | 1915. |
+| 4 | 642<br>1294<br>3810<br>1327 | 410693 |  |  | Nil  | McDonald, Mrs. C  | Cedardale, Oshawa, Ont  | Scotland  | Lindsay  | May | 7 | 1915. |
+| 4 | 642<br>1323<br>3810<br>1356 | 410694 |  |  |  | Watson, Mrs. J   | 7 Clinton St., Toronto, Ont   | England  | Barriefield. .. | July | 28 | 1915. |
+| 4 | 641<br>1352<br>3809<br>1385 | 410695 |  |  | Nil  | Watson, Mrs. Alison  | 7 Clinton St., Toronto, Ont  | England  | Lindsay  | May | 7 | 1915. |
+| 4 | 641<br>1380<br>3810<br>1415 | 410038 |  |  | Nil. . | Brown, Harry  | 200 Hastings Ave., Toronto, Ont  | England  | Barriefield... | July | 24 | 1915. |
+| 4 | 640<br>1409<br>3809<br>1444 | 410039 |  |  |  | Brown, Miss Mary  | 324 Metcalfe St., Ottawa, Ont  | Scotland  | Ottawa  | Feb. | 24 | 1915. |
+| 4 | 640<br>1438<br>3810<br>1472 | 410696 |  |  | Nil.... | Brown, Mrs. Edna Grace.. . | 11 Langford Ave., Toronto, Ont  | Scotland  | Barriefield Cmp | July | ’ 6 | 1915. |
+| 4 | 640<br>1467<br>3809<br>1500 | 410460 |  |  | Nil  | Brown, Mrs. Catherine  | 2 Perkins St., Ottawa, Ont  | Scotland  | Barriefield Cmp | July | 25 | 1915. |
+| 4 | 639<br>1496<br>3809<br>1529 | 410461 |  |  | Nil  | Brownlee, Mrs. Sarah  | South Indian, Ont  | Canada  | Barriefield  | May | 28 | 1915. |
+| 4 | 639<br>1525<br>3809<br>1558 | 410463 | Private  |  | Nil  | Mcllroy, Mrs. P. H  | 187 James St., Ottawa, Ont  | Canada  | Barriefield... | May | 27 | 1915. |
+| 4 | 638<br>1554<br>3808<br>1588 | 410699 |  |  | Nil... | Bryan, Harry  | 124 Queen St., Lindsay, Ont  | Canada  | Lindsay  | Mar. | 19 | 1915. |
+| 4 | 638<br>1583<br>3808<br>1613 | 410040 |  |  | Nil  | Not stated  | Not stated  | Canada  | Barriefield... | July | 9 | 1915. |
+| 4 | 638<br>1612<br>3808<br>1645 | 410041 |  |  | Nil. | Buchanan, Mrs. Charlotte... | 9 Cambridge Gdns., Hastings, Sussex, Eng  | England  | Ottawa  | May | 17 | 1915. |
+| 4 | 637<br>1640<br>3808<br>1674 | 410042 |  |  | Nil  | Buck, John   | Southport, Lancs, Eng  | England  | Barriefield Cmp | July | 24 | 1915. |
+| 4 | 637<br>1669<br>3808<br>1702 | 410043 | Private  |  | Nil  | Buckland, Mrs. Grace  | 64 Quickett St., Bow, London, Eng  | England  | Ottawa  | July | 21 | 1915. |
+| 4 | 636<br>1697<br>3808<br>1732 | 410697 |  |  | Nil.. | Buckley, Lucy   | England  | Ireland  | Barriefield. .. | July | 29 | 1915. |
+| 4 | 637<br>1729<br>3110<br>1759 | 410698 | L.-Corporal  |  | Nil  | Bull, Nellie  | 11a Strathville Rd., Merton Rd., Southfields, London, |
+| 4 | 2392<br>1754<br>3808<br>1790 |  |  |  |  |  | Eng  | England  | Lindsay  | May | 11 | 1915. |
+| 4 | 636<br>1782<br>3807<br>1818 | 410242 |  |  | Nil  | Burdett, Mrs. Daisy  | 148 Stanley Ave., Ottawa, Ont  | England  | Ottawa  | Mar. | 1 | 1915. |
+| 4 | 636<br>1811<br>3807<br>1847 | 410045 |  | Burke, Allan John  | Nil  | Burke, Mrs. Mary Ann  | 58 Botelier St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 24 | 1915. |
+| 4 | 635<br>1840<br>3807<br>1875 | 410462 |  | Bums, Walter Patrick  |  | Burns, Charles...  | Welsh Fusiliers, Record Office, Shrewsbury, Salop, Eng. | England | Barriefield... | May | 28 | 1915. |
+| 4 | 635<br>1869<br>3806<br>1904 | 410044 |  | Burns, William  |  | Burns, Mrs. Annie  | 382 Cumberland St., Ottawa, Ont  | Canada  | Ottawa  | May | 17 | 1915. |
+| 4 | 634<br>1897<br>3807<br>1933 | 410243 |  | Burton, Joseph  | Nil. | Burton, Mary  | 1964 St. Lawrence Main, Montreal, P.Q  | Canada  | Ottawa  | Mar. | 1 | 1915. |
+| 4 | 634<br>1926<br>3807<br>1962 | 410046 |  | Caldwell, Thomas Bryden  |  | Caldwell, Mrs. Isabella  | 314 Riverdale Ave., Ottawa, Ont  | Scotland  | Barriefield. . . | July | 9 | 1915. |
+| 4 | 634<br>1955<br>3806<br>1992 | 410244 |  | Callaghan, John  | Nil  | Callaghan, William  | 58 King St., Ottawa, Ont  | Ireland  | Ottawa  | Mar. | 1 | 1915. |
+| 4 | 634<br>1983<br>3806<br>2019 | 410700 |  | Callahan, William Peter  | Nil  | Burton, Mrs. William  | 4 Icknielo St., Birmingham, Warwick, Eng  | England | Barriefield. . . | July | 29 | 1915. |
+| 4 | 634<br>2011<br>3807<br>2049 | 410464 |  | Campbell, John Me Divit  |  | Campbell, Annie    | 74 Victoria Ave., Brockville, Ont  | Not stated. | Brockville — | July | 1 | 1915. |
+| 4 | 634<br>2041<br>3806<br>2078 | 410245 |  | Campbell, Robert  | Nil. | Campbell, Miss Jane  | Lisnamallaid, Omagh, Co. Tyrone, Ire  | Ireland  | Ottawa  | Feb. | 26 | 1915. |
+| 4 | 633<br>2069<br>3806<br>2107 | 410047 |  |  | Nil... | Campbell, Mrs. Jane  | 2 Letham PI., Dunbar, East Lothian, Scot  | Scotland  | Barriefield. . . | July | 9 | 1915. |
+| 4 | 633<br>2099<br>3806<br>2136 | 410048 | Private  |  | Nil  | Cannons, Mrs. Ellen  | East Dean, Salisbury, Wilts, Eng  | England | Belleville  | May | 11 | 1915. |
+| 4 | 633<br>2128<br>3807<br>2164 | 410701 | Private  |  | Nil  | Carey, J. J  | Outremont Ave., Hull, P.Q  | Canada  | Barriefield.. . | July | 6 | 1915. |
+| 4 | 633<br>2157<br>3806<br>2194 | 410702 | Private  |  | Nil  | Carey, John G  | Wrightville, P.Q  | Canada  | Barriefield. .. | July | 6 | 1915. |
+| 4 | 632<br>2187<br>3807<br>2220 | 410916 | Private  |  | Nil  | Carleton, Robert  | Vankleek Hill, Ont    | Canada  | Ottawa  | April | 10 | 1915. |
+| 4 | 633<br>2216<br>3808<br>2250 | 410246 | Private  | Carroll, Bertrand.. |  | Switzer, Mrs. Alfred  | P.O. Box 115, Sydenham, Ont  | Canada  | Barriefield Cmp | Mar. | 1 | 1915. |
+| 5 | 345<br>311<br>3503<br>344 | 41000; | C.S.M  | Carroll, Timothy  | Imp. Forces  | Galvin, Mrs. M  | 1 Aldboro PI., Portland Row, Dublin, Ire  | Ireland  | Ottawa  | Feb. 20, 1915. |
+| 5 | 345<br>340<br>3503<br>373 | 41024' | Private  | Carson, John  | G.G.F.G  | Carson, Peter  |  |  |  | Mar. 2, 1915. |
+| 5 | 345<br>369<br>3503<br>401 | 41004! | Private  | Carswell, Ernest  | Imp. Forces  | Carswell, Mrs. Elizabeth,  | 631 Gerrard St. E., Toronto, Ont  | England  | Smiths Falls. .. | June 3, 1915. |
+| 5 | 345<br>398<br>3503<br>430 | 41046J | Private  | Carter, George Palmer. | Nil  | Carter, Mrs. Clare  |  |  |  | April 28, 1915. |
+| 5 | 344<br>427<br>3504<br>460 | 41046f | L.-Corporal  | Carter, George William. | Nil  | Carter, Albert  |  |  |  | Feb. 24, 1915. |
+| 5 | 343<br>456<br>3504<br>489 | 41046' | Private  | Casselman, Frederick... | C.F.A  | Casselman, Mrs. Mary  |  |  |  | Mar. 25, 1915. |
+| 5 | 343<br>485<br>3504<br>518 | 410465 | Private  | Casselman, John  | Nil  | Casselman, Mrs. Jennie  |  |  |  | Mar. 25, 1915. |
+| 5 | 343<br>514<br>3503<br>547 | 410469 | Private  | Cayen, John  | Can. Mil  | Cayen, Delima  |  |  |  | Mar. 12, 1915. |
+| 5 | 343<br>543<br>3504<br>577 | 41070; | Corporal  | Chalmers, Percy  | Territorials  | Chalmers, Mrs. Harriett..  |  |  |  | May 26, 1915. | 33 Holly hurst Rd., Darlington, Durham, Eng  | Ottawa  |
+| 5 | 342<br>571<br>3503<br>606 | 41047C | Private  | Chaplin, Charles  | Imp. Forces  | Chaplin, Mrs. Beatrice Elizabeth |  |  |  | July 28, 1915. |
+| 5 | 341<br>601<br>3504<br>634 | 41005C | Sergeant  | Charbonneau, Maxime.. | Nil  | Charbonneau, Mrs. May  |  |  |  | May 1, 1915. |
+| 5 | 341<br>630<br>3503<br>663 | 410917 | L.-Corporal  | Charbonneau, Oscar.... | 43rd Regt  | Charbonneau, A   |  |  |  | Feb. 22,1915. |
+| 5 | 341<br>659<br>3503<br>693 | 410051 | Private  | Chartrand, David  | 43rd Regt  | Chartrand, Mrs. William  |  |  |  | May 17, 1915. |
+| 5 | 340<br>688<br>3502<br>721 | 410471 | Private  | Chartrand. Hilaire  | Nil  | Plant, Mrs. Adelene  |  |  |  | May 28, 1915. | 744 Oreland St., Maisonneuve, P.Q  | Canada  |
+| 5 | 339<br>717<br>3502<br>750 | 410704 | Private  | Childs, William  | Nil  | Bell, J. L  |  |  |  | July 6, 1915. | West London School, Ashford, M’sex, Eng  | England  | Barriefield  |
+| 5 | 338<br>746<br>3501<br>779 | 410705 | Private  | Chisholm, William  | Nil  | Chisholm, Andrew  |  |  |  | May 9, 1915. |
+| 5 | 337<br>775<br>3501<br>809 | 410249 | Corporal  | Chugg, John Henry  | G.G.F.G   | Chugg. Mrs. Ada  |  |  |  | Feb. 26,1915. |
+| 5 | 336<br>804<br>3501<br>838 | 410472 | Sergeant  | Church, John Anderson.. | Nil  | Church, Elizabeth  |  |  |  | Feb. 24, 1915. |
+| 5 | 336<br>833<br>3501<br>866 | 410473 | Private  | Clark, Hyman  | Nil  | Levinson, Lizzie  |  |  |  | Jan. 22, 1915. |
+| 5 | 335<br>862<br>3501<br>896 | 410250 | Private  | Clarke, Allan  | Nil  | Gowdy, Thomas  |  |  |  | Mar. 19, 1915. | Wellington St., Hull, P.Q   |
+| 5 | 335<br>891<br>3501<br>923 | 410251 | Private  | Claxton, Henry James. .. | Nil  | Claxton, Mrs. Esther  |  |  |  | Mar. 2, 1915. | Ottawa  |
+| 5 | 334<br>920<br>3501<br>953 | 410052 | L.-Corporal  | Clay, George Edward S. | Nil  | Clay, Mrs. Catherine  |  |  |  | Feb. 24, 1915. |
+| 5 | 333<br>949<br>3501<br>982 | 410252 | Private  | Clement, James  | Nil  | Clement, Joseph Edward  |  |  |  | July 28, 1915. | Barriefield Cmp |
+| 5 | 333<br>977<br>3501<br>1011 | 410053 | Private  | Clermont, Arthur C  | Nil  | Levesque, Mrs. Matilda  |  |  |  | July 22, 1915. | Ottawa  :.. | 167 Laval St., Hull, P.Q  |
+| 5 | 333<br>1005<br>3501<br>1039 | 410054 | Private  | Clifford, Ernest  | 43rd Regt  | Clifford, Mrs. Ernest  |  |  |  | May 17, 1915. |
+| 5 | 332<br>1033<br>3500<br>1068 | 410706 | Sergeant  | Clifton, Harry Powell.... | 44th Regt  | Clifton, Mrs. Helen Wallace  |  |  |  | Mar. 15, 1915. |
+| 5 | 332<br>1065<br>3500<br>1097 | 410707 | Private  | Coe, James George W  | Nil  | Coe, James  |  |  |  | June 9, 1915. |
+| 5 | 331<br>1094<br>3501<br>1127 | 410055 | Private  | Coles, William A  | Nil  | Coles, Mrs. M  |  |  |  | May 20, 1915. | 13 Jackson’s Terr., Merton Abbey, London, S.W., Eng. | England  | Belleville  |
+| 5 | 331<br>1123<br>3501<br>1155 | 410474 | Private  | Collins, Frank  | 42nd Regt  | Collins, Mrs. Mary  |  |  |  | April 28, 1915. |
+| 5 | 330<br>1152<br>3500<br>1184 | 410056 | Private  | Collins, James Patrick... | G.G.F.G  | Godoon, Miss Bertha  |  |  |  | May 17, 1915. |
+| 5 | 330<br>1178<br>2792<br>1212 | 410248 | Sergeant  | Collins, Sydney Lionel... | Nil  | Wells, Mrs. Lucretie  | 57 Claybrooke Rd., Fulham Palace Rd., London, S.W., |
+| 5 | 329<br>1238<br>3499<br>1270 | 410057 | Private  | Collis, William Henry  | Imp. Forces. | Collis, Mrs. Florence Agnes. |  |  |  | April 14, 1915. | 143 Etheldene Rd., Wandsworth, London, Eng  | England  | Ottawa  |
+| 5 | 328<br>1266<br>3499<br>1298 | 410058 | L.-Corporal  | Colman, Charles Edward  | Nil  | Burdett, Mrs. Daisy  |  |  |  | Feb. 22, 1915. |
+| 5 | 328<br>1295<br>3498<br>1326 | 410708 | Sergeant  | Colville, Archibald McLaughlin. | 41st Regt  | Colville, Mrs. Archibald M. |  |  |  | June 9,1915. | Brockville  |
+| 5 | 327<br>1324<br>3498<br>1356 | 410253 | Private  | Conley, Irwin Maurice  | 14th Regt... | Conley, Mrs. Catherine  |  |  |  | July 28, 1915. |
+| 5 | 327<br>1353<br>3498<br>1385 | 410059 | Private  | Connolly, Clarence  | Nil  | Swanson, Mrs. Annie  |  |  |  | April 10, 1915. |
+| 5 | 327<br>1382<br>3498<br>1414 | 410476 | Sergeant  | Cook, Leonard Henry  | Nil  | Cook, Mrs. Alice  |  |  |  | April 28, 1915. | 76 Durham St., Lindsay, Ont  | Canada  | Ottawa  |
+| 5 | 326<br>1411<br>3498<br>1443 | 410475 | Private  | Cooke, Harry  | Nil  | Cooke, Mrs. E  |  |  |  | July 5, 1915. |
+| 5 | 326<br>1440<br>3498<br>1472 | 410709 | Private  | Cooke, John  | Nil  | Cooke, Mrs. Sarah Jane  |  |  |  | May 8, 1915. |
+| 5 | 326<br>1469<br>3499<br>1500 | 410710 | Private  | Cooney, Herbert  | Nil  | Cooney, Mrs. Daisy  |  |  |  | May 28, 1915. |
+| 5 | 325<br>1498<br>3499<br>1530 | 410060 | Private  | Cooper, Arthur  | Nil  | Cooper, Walter F  |  |  |  | May 1, 1915. |
+| 5 | 325<br>1526<br>3499<br>1559 | 410061 | Corporal  | Cooper, Isaac  | 106th Regt.. | Cooper, Mrs. Ruby Estella.. |  |  |  | June 9, 1915. |
+| 5 | 324<br>1555<br>3498<br>1587 | 410711 | Private  | Cooper, Robert  | Nil  | Cooper, Mrs. Catherine  |  |  |  | May 21, 1915. |
+| 5 | 324<br>1584<br>3498<br>1617 | 410062 | Private  | Cooper, William  | Nil  | Cooper, Mrs  |  |  |  | Feb. 22, 1915. | 27 Brookley St., Bamsby News, London, Eng  | Ottawa  |
+| 5 | 323<br>1613<br>3498<br>1645 | 410712 | Private  | Cornell, George  | Nil  | Minard, Mrs  |  |  |  | July 6, 1915. | Barriefield  |
+| 5 | 323<br>1642<br>3497<br>1674 | 410063 | Private  | Cornell, Suffel David  | Nil  | Jackson, Mrs. George  |  |  |  | May 20, 1915. |
+| 5 | 323<br>1671<br>3498<br>1703 | 410477 | Private  | Corr, Lawrence Francis  | 42nd Regt... | Corr, Mrs. Hannah  |  |  |  | April 28, 1915. |
+| 5 | 323<br>1700<br>3498<br>1732 | 410064 | Private  | Costin, Frederick Walter  | G.G.F.G.... | Costin, Mrs. Ethel Jane  |  |  |  | May 17, 1915. |
+| 5 | 323<br>1728<br>3498<br>1760 | 410713 | Private  | Cotter, Bertram  | Nil  | Cotter, Mrs. Delia  |  |  |  | June 10, 1915. | Ottawa  |
+| 5 | 323<br>1758<br>3498<br>1791 | 410714 | Private  | Coulby, William  | Nil  | Coulby, Thomas  |  |  |  | July 6, 1915. | Barriefield  |
+| 5 | 322<br>1787<br>3498<br>1819 | 410715 | Private  | Court, Richard Charles  | Nil  | Court, Mrs. Elizabeth  |  |  |  | Mar. 15, 1915. |
+| 5 | 321<br>1816<br>2800<br>1849 | 410065 | Private  | Court, Thomas  | Nil  | Court, Lizzie  | Children’s Hospital, Union St. and Rockdale Rd., |
+| 5 | 321<br>1874<br>3498<br>1906 | 410478 | Private  | Covey, Charles  | Nil  | Covey, Nathan  |  |  |  | May 13, 1915. | Jamestown, N.Y., U.S.A  |
+| 5 | 321<br>1903<br>3498<br>1935 | 410254 | Private  | Cowley, David  | Nil  | Seeley, Mrs. George.. |  |  |  | May 10, 1915. |
+| 5 | 321<br>1929<br>3498<br>1964 | 410066 | Private  | Cox, Alfred Charles  | G.G.F.G.. | Cox, Mrs. Mary Jane. |  |  |  | July 21, 1915. | Ottawa  |
+| 5 | 321<br>1961<br>3499<br>1994 | 410716 | Private  | Coyle, David C  | Nil  | Coyle, Mrs. D  |  |  |  | July 28, 1915. | Barriefield  |
+| 5 | 320<br>1990<br>3498<br>2022 | 410255 | Private  | Craig, David  | 43rd Regt. | Craig, Mrs. Polly  |  |  |  | May 20, 1915. |
+| 5 | 320<br>2015<br>3499<br>2052 | 410068IPrivate  |  | ICraig, William Ernest. | Can. Mil... | Craig, Mrs. Mary  |  |  |  | Feb. 24, 1915. | 179 Bay St., Ottawa, Ont  |
+| 6 | 649<br>608<br>3318<br>660 | l! |  | Former Corps. |  |  | Country of |
+| 6 | 646<br>772<br>3810<br>804 | 410070 | Private  | Cranfield, Arthur Frederick.... | Nil  | Wallace, Hessie  | 5 Valentia Rd., Brixton Rd., London, Eng  | England  | Ottawa  | April | 1915. |
+| 6 | 646<br>801<br>3809<br>834 | 410717 | Private  | Crawford, James  | Nil  | Crawford, Mrs. James  | O’Hara Ave., Toronto, Ont  | Canada  | Lindsay  | May | 1915. |
+| 6 | 645<br>830<br>3809<br>863 | 410069 | Private  | Crawford, William  | 15th Regt  | Crawford, Mrs. Jane M  | 561 Ashdale Ave. E., Toronto, Ont  | Scotland  | Barriefield  | July | 1915. |
+| 6 | 644<br>860<br>3809<br>892 | 410256 | Private  | Crisford, Hamilton  | Nil  | Crisford, George  | Kingshill House, Swindon, Wilts, Eng  | England  | Ottawa  | Mar. | 1915. |
+| 6 | 644<br>889<br>3809<br>921 | 410067 | Private  | Crooks, Davey  | Nil  | Crooks, Robert  | Capital, Sask  | Canada  | Belleville  | May | 1915. |
+| 6 | 644<br>918<br>3809<br>950 | 410718 | L.-Corporal.. | Crosbie, James Wallace  | Nil  | Crosbie, Mrs. Agnes  | Woodroffe, Ont  | Canada  | Ottawa  | June | 1915. |
+| 6 | 643<br>945<br>3809<br>979 | 410719 | Private  | Croucher, Robert  | Nil  | Croueher, Mrs. Mary.  | 21 New Rd., Sittingbourne, Kent, Eng  | England  | Lindsay  | May | , 1915. |
+| 6 | 643<br>976<br>3809<br>1008 | 410479 | C.S.M  | Cruickshank, George  | Imp. Forces  | Cruickshank, Mrs. Annie  | 164 Stanley Ave., Ottawa, Ont  | Scotland  | Ottawa  | Mar. | , 1915. |
+| 6 | 643<br>1005<br>3809<br>1037 | 410071 | Private  | Cunningham, Bartholomew  | Nil  | Cunningham, John  | Gaudette, P.Q  | Canada  | Barriefield  | July | , 1915. |
+| 6 | 643<br>1034<br>3809<br>1066 | 410480 | Private  | Cunningham, Daniel Joseph  | Nil  | Cunningham, Mrs. Rose  | 328 Rochester St., Ottawa, Ont  | Canada  | Ottawa  | April | 1915. |
+| 6 | 642<br>1063<br>3809<br>1096 | 410720 | L.-Corporal.. | Cunningham, Harold  | 45 th Regt  | Cunningham, Mrs. James  | Omemee, Ont  | Canada  | Lindsay  | May | 1915. |
+| 6 | 641<br>1093<br>3809<br>1123 | 410721 | Private  | Curren, William  | Nil  | Watson, Eli  | R.R. No. 2, Carp, Ont  | Scotland  | Barriefield  | July | 1915. |
+| 6 | 641<br>1121<br>3809<br>1154 | 410481 | Private  | Curry, William Andrew  | 41st Regt  | Curry, Mrs. Eliza M  | 28 Water St. E., Brockville, Ont  | Canada  | Ottawa  | May | , 1915. |
+| 6 | 641<br>1150<br>3809<br>1182 | 410960 | Private  | Dalton, Arthur  | U.S. Army  | Dalton, Mark David  | Anaconda Hotel, Anaconda, Mont., U.S.A  | Canada  | Ottawa  | April | ;, 1915. |
+| 6 | 640<br>1180<br>3809<br>1211 | 410257 | Corporal  | Dalton, Stephen  | G.G.F.G  | Chambers, Violet  | P.O., Kars. Ont  | England  | Ottawa  | Mar. | , 1915. |
+| 6 | 640<br>1206<br>3809<br>1240 | 410072 | Private  | Daniells, Stanley  | 43rd Regt  | Daniells, William J  | 154 Seaford Rd., South London, Eng  | England  | Ottawa  | May | , 1915. |
+| 6 | 640<br>1237<br>3809<br>1269 | 410482 | Private  | Daniels, Lawrence M  | 41st Regt  | Daniels, William  | 74 Perth St., Brockviile, Ont  | Canada  | Brockville  | Mar. | , 1915. |
+| 6 | 639<br>1267<br>3809<br>1299 | 410949 | Private  | Davely, Edward Armand  | 5 th Drag  | Davely, Philip  | 9 McDougall Ave., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 1915. |
+| 6 | 638<br>1296<br>3809<br>1328 | 410722 | Private  | Davenport, Henry  | Nil  | Davenport, William  | 23 Chapman St., Manchester, Eng  | England  | Lindsay  | April | 1915. |
+| 6 | 638<br>1320<br>3809<br>1356 | 410258 | Private  | Davies, Michael  | Nil  | Davies, Miss Bridget  | 43 Balaclava St., St. Thomas, Swansea, Glam., Wales. | Wales  | Ottawa  | Feb. | 1915. |
+| 6 | 638<br>1354<br>3810<br>1385 | 410073 | Private  | Davis, Alfred  | Nil  | Davis, Alfred John  | 15 Manning St., Toronto, Ont  | England  | Barriefield  | July | 1915. |
+| 6 | 638<br>1383<br>3811<br>1414 | 410483 | Private  | Davis, Harry Walter  | Nil  | Davis, Mrs. Mary C  | Prospect Ave., Westborough, Ont  | England  | Barriefield  | May | 1915. |
+| 6 | 638<br>1412<br>3811<br>1443 | 410074 | Private  | Davis, Hugh Charles  | Nil  | Davis, Mrs. Edna  | Syracuse, N.Y., U.S.A  | Canada  | Barriefield Cmp | July | 1915. |
+| 6 | 637<br>1437<br>3811<br>1472 | 410075 | Private  | Davis, John Bercovitch  | Nil  | Davis, Joseph  | 180 Booth St., Ottawa, Ont  | Roumania  | Ottawa  | July | 1915. |
+| 6 | 637<br>1464<br>3811<br>1500 | 410260 | Private  | Dawkins, Harry  | Nil  | Dawkins, George  | 95 George St., Belleville, Ont  | Canada  | Peterboro  | May | 1915. |
+| 6 | 636<br>1499<br>3812<br>1530 | 410259 | Sergeant  | Day, Joseph Alexander...'  | Imp. Forces  | Day, Mrs. Kate Anna L  | 32 Lawrence St., Ottawa, Ont  | England  | Ottawa  | May | 1915. |
+| 6 | 636<br>1528<br>3812<br>1558 | 410723 | Private  | Dean, Henry  | Nil  | Dean, Mrs. N....,  | Ivanhoe, Ont   | Canada  | Belleville  | May | 1915. |
+| 6 | 636<br>1556<br>3812<br>1588 | 410261 | Private  | Degan, Hubert  | Nil  | Degan, John .  | Cornwall, Ont  | Canada  | Barriefield Cmp | July | 1915. |
+| 6 | 636<br>1585<br>3812<br>1617 | 410724 | Private  | Delage, J6r6mie  | Nil  | Delage, Mrs. Leontine  | Victoriaville, P.Q  | Canada  | Ottawa  | June | 1915. |
+| 6 | 635<br>1610<br>3812<br>1646 | 410262 | Private  | Delaney, Frank  | 43rd Regt  | Delaney, Mrs. Anna  | 63 Bayview Ave., Ottawa, Ont  | South Africa  | Ottawa  | Mar. | 1915. |
+| 6 | 635<br>1643<br>3812<br>1674 | 410076 | Private  | Delaney, John Agustine  | Nil  | Delaney, Mrs. Mary Florence. | 285 Carruthers Ave. Ottawa, Ont  | Canada  | Ottawa  | Feb. | 1915. |
+| 6 | 634<br>1672<br>3812<br>1703 | 410918 | Private  | Demers, Joseph Frederick  | Nil  | Demers, Evelyn  | Sorel, P.Q. | Canada  | Cornwall  | Jan. | 1915. |
+| 6 | 635<br>1701<br>3812<br>1733 | 410077 | Private  | Derosie, Patrick William  | 42nd Regt  | Derosie, Mrs. Mary  | Pembroke, Ont  | Canada  | Smiths Falls... | June | 1915. |
+| 6 | 634<br>1730<br>3812<br>1764 | 410484 | Private  | Desjardins, Joseph Hubert  | Nil   | Desjardins, Paul.    | Ste. Scholastique, P.Q  | Canada  | Brockville..'.... | Mar. | 1915. |
+| 6 | 634<br>1754<br>3812<br>1790 | 410078 | Private  | Devoy, Walter Paul L  | Can. Mil  | Devoy, Mrs. Sophilda  | 572 Notre Dame St., Maisonneuve, P.Q  | Canada  | Ottawa  | Feb. | 1915. |
+| 6 | 634<br>1788<br>3812<br>1820 | 410485 | Private  | Dickenson, William  | 43rd Regt  | Dickenson, Mrs. Thomas  | 21 Mill Lane, Brixton Hill, London, Eng  | England  | Barriefield  | May | 1915. |
+| 6 | 634<br>1812<br>3812<br>1848 | 410725 | Private  | Dickson, David  | Nil  | Dickson, William  | Dornock Mains, Scot  | Scotland  | Lindsay  | May | 1915. |
+| 6 | 633<br>1846<br>3812<br>1877 | 410726 | Private  | Dillabough, Milton Simon  | Nil   | Dillabough, Dalton  | Cornwall, Ont  | Canada  | Barriefield  | July | 1915. |
+| 6 | 633<br>1874<br>3813<br>1906 | 410486 | Private   | Dillon, John  | Nil  | Lynch, Peter  | 10 Peter St., Drogheda, Co. Meath, Ire  | Ireland  | Barriefield  | May | 1915. |
+| 6 | 633<br>1902<br>3813<br>1934 | 410727 | Private  | Dinner, Howard Irwin  | Nil  | Dinner, Mrs. Ruby  | 72 Greoy Ave., Toronto, Ont  | Canada  | Lindsay  | Mar. | 1915. |
+| 6 | 632<br>1931<br>3813<br>1962 | 410487 | Private  | Dobson, Ernest William S  | Nil  | Dobson, Violet  | Grace Hospital, New Haven, Conn., U.S.A  | Scotland  | Ottawa  | Feb. | 1915. |
+| 6 | 632<br>1955<br>3813<br>1995 | 410728 | Private  | Dodd, William Livesy  | Nil  | Dodd, James  | 901 Baldwin Ave., Detroit, Mich., U.S.'A  | England  | Lindsay  | June | 1915. |
+| 6 | 632<br>1989<br>3813<br>2021 | 410729 | Private  | Donald, Stuart  | Nil  | Donald, Mrs. Margaret H  | 32 Gilmour St., Ottawa, Ont  | Ireland  | Ottawa  | June | 1915. |
+| 6 | 631<br>2018<br>3813<br>2050 | 410079 | Private  | Donaldson, John  | 43rd Regt  | Donaldson, Mrs. Katherine... | Second Ave., Eastview, Ottawa, Ont  | Canada  | Ottawa  | April | 1915. |
+| 6 | 631<br>2049<br>3813<br>2082 | 410263 | Private  | Dooley, William  | Nil  | Not stated  | Not stated  | England  | Ottawa  | Feb. | 1915. |
+| 6 | 631<br>2077<br>3814<br>2110 | 410080 | L.-Corporal... | Doughton, Edward John  | 42nd Regt  | Doughton, Mrs. Elizabeth  | 12 River St. E., Smiths Falls, Ont  | England  | Barriefield  | July | 1915. |
+| 6 | 631<br>2107<br>3814<br>2138 | 410264 | Private  | Duguay, Simon  | Nil  | Duguay, Narcisse -  | Gaspfe, P.Q  | Canada  | Ottawa  | Feb. | 1915. |
+| 6 | 631<br>2135<br>3814<br>2167 | 410488 | Private  | Dowey, Thomas H  | Nil  | Dowey, Mrs. Betty Maud  | 79 Scollard St., Toronto, Ont  | Ireland  | Barriefield Cmp | July | 1915. |
+| 6 | 631<br>2160<br>3815<br>2196 | 410081 | Private  | Druz, Philip  | Russian Army  | Druz, Eprem  | Wolemoskai, Hubermi, Selo, Criskowece, Russia  | Russia  | Ottawa  | Feb. | 1915. |
+| 7 | 1220<br>406<br>3502<br>432 |  |  |  |  | i, 1915 | Nil  | Scotland  |
+| 7 | 1217<br>727<br>3500<br>756 |  |  |  |  | I, 1915 | Nil  | Elliott, Mrs. Phyllis Abigail D— |
+| 7 | 1217<br>900<br>3500<br>929 |  |  |  |  | I, 1915 | Nil... | England  |
+| 7 | 1216<br>1015<br>3501<br>1045 |  |  |  |  | I, 1915 | Nil | Fetterly, A. C  |
+| 7 | 1215<br>1131<br>3500<br>1158 |  |  |  |  | !, 1915 | Nil  | Scotland  |
+| 7 | 2039<br>1160<br>3501<br>1190 |  |  |  |  | !, 1915 | Enniskillen, Fermanagh, Ire  | Ireland  |
+| 7 | 1214<br>1189<br>3500<br>1218 |  |  |  |  | 1915 | 21 Nerser Lane, Little Horton, Bradford, Yorks, Eng. | Nil  |
+| 7 | 1214<br>1218<br>3501<br>1245 |  |  |  |  | I, 1915 | Nil  | Ireland  |
+| 7 | 1214<br>1247<br>3500<br>1273 |  |  |  |  | I, 1915 | Nil  | Ireland  |
+| 7 | 1212<br>1305<br>3500<br>1333 |  |  |  |  | !, 1915 | Nil  | Flynn, H. T  |
+| 7 | 1213<br>1421<br>3500<br>1450 |  |  |  |  | i, 1915 | Nil  | St. George’s Home (Guardians) .. |
+| 7 | 1213<br>1449<br>3500<br>1479 |  |  |  |  | I, 1915 | Nil  | Italy  |
+| 7 | 1213<br>1623<br>3500<br>1650 |  |  |  |  | i, 1915 | Nil  | Wales  |
+| 7 | 1210<br>1884<br>3500<br>1914 |  |  |  |  | \ 1915 | Nil  | Bradley, Me., U.S.A  |
+| 7 | 1211<br>1913<br>3501<br>1943 |  |  |  |  | 1915 | Nil  | 333 Bell St., Ottawa, Ont  |
+| 7 | 704<br>2029<br>3501<br>2061 |  |  |  |  | 1915 | 35 Glenely St., Lindsay, Ont  | Nil  | Gaskell, Mrs. Edith  |
+| 8 | 663<br>531<br>3332<br>562 | .52 |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
+| 8 | 661<br>675<br>3826<br>708 | 410495 | Private  | Gates, Albert George  | Nil  | Gates, Mrs. Alice Florence  | Calvin, Ont  | England  | Barriefield Cmp | July | 28, 1915. |
+| 8 | 661<br>702<br>3825<br>737 | 410496 | Private  | Gee, Albert  | Nil  | Gee, David  | 29 King St. W., Kingston, Ont  | Canada  | Not stated  | May | 25, 1915. |
+| 8 | 660<br>734<br>3825<br>766 | 410100 | L.-Corporal. | Gibson, Joseph Harrison  | 43rd Regt  | Gibson, Emma F  | 97 Harvey St., Ottawa, Ont  | Canada  | Ottawa  | May | 17, 1915. |
+| 8 | 660<br>763<br>3826<br>794 | 410279 | Private  | Gibson, Thomas Vernon  | Nil  | Dale, Mrs. W. J  | 114 Lees Ave., Ottawa, Ont  | U.S.A  | Ottawa  | May | 1, 1915. |
+| 8 | 659<br>793<br>3825<br>824 | 410497 | Private  | Gibson, William Patterson  | 41st Regt  | Gibson, Mrs. Mary  | 15 Rodney St., off Possitt Rd., Glasgow, Scot  | Scotland  | Brockville  | Mar. | 25, 1915. |
+| 8 | 659<br>819<br>3825<br>854 | 410280 | Private  | Giles, Alfred Joseph  | Nil  | Giles, Thomas Walter  | H.M.S. Bonaventure, c/o Admiralty Offices, Lon., Eng. | England  | Barriefield  | July | 23, 1915. |
+| 8 | 659<br>851<br>3825<br>882 | 410747 | Private  | Gill, Joseph    | Nil  | Gill, Wilrick  | Pierreville, P.Q  | Canada  | Ottawa  | May | 31, 1915. |
+| 8 | 658<br>879<br>3825<br>911 | 410498 | Private  | Gillesper, James John  | 56th Regt  | Gillesper, Mrs. Margaret  | Ivy Deane, Cowley Ave., Ottawa West, Ont  | Scotland  | Barriefield  | May | 28, 1915. |
+| 8 | 658<br>909<br>3825<br>941 | 410283 | Sergeant | Girouard, Joseph  | G.G.F.G  | Girouard, Mrs. Mary  | 58 Pamilla St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 26, 1915. |
+| 8 | 658<br>936<br>3826<br>969 | 410101 | Private  | Giroux, Joseph Adlore  | Nil  | Giroux, Mrs. Olive  | Pembroke, Ont  | Canada  | Ottawa  | April | 14, 1915. |
+| 8 | 657<br>967<br>3826<br>998 | 410958 | Private  | Glasford, Merritt  | Nil  | Glasford, Arthur  | Westdale, N.Y., U.S.A  | U.S.A  | Bermuda  | Dec. | 10, 1915. |
+| 8 | 657<br>996<br>3827<br>1028 | 410748 | Private  | Glossop, Edward  | Nil  | Glossop, Benjamin  | 220 Dunn Ave., Toronto, Ont  | England  | Lindsay  | May | 29, 1915. |
+| 8 | 657<br>1025<br>3827<br>1057 | 410749 | Private  | Goldfinch, Leonard  | Nil  | Clift, Mrs. Louisa  | 3 Miller’s Lane, Kingston, Ont  | England  | Barriefield Cmp | July | 6, 1915. |
+| 8 | 657<br>1055<br>3826<br>1086 | 410102 | Private  | Golevatch, Adolf  | Nil  | Golevatch, Mrs. Tohny  | Warsaw, Russia  | Russia  | Ottawa  | Feb. | 22, 1915. |
+| 8 | 657<br>1083<br>3826<br>1116 | 410282 | Private  | Gordon, Angus  | Royal Navy  | Gordon, L  | Valparaiso, South America  | Canada  | Barriefield... | July | 31, 1915. |
+| 8 | 657<br>1113<br>3826<br>1144 | 410281 | L.-Corporal. | Gordon, George  | Territorials  | McLeod, Mrs. James  | Port Logan, Wigton, Scot  | Scotland  | Napanee  | May | 19, 1915. |
+| 8 | 657<br>1142<br>3826<br>1172 | 410750 | Private  | Gorman, Richard Francis  | Nil  | Gorman, Miss Delia  | 339 E. 39th St., New York, N.Y., U.S.A  | Ireland  | Lindsay  | May | 28, 1915. |
+| 8 | 656<br>1168<br>3826<br>1201 | 410103 | Private  | Goss, Samuel  | Can. Mil  | Goss, Mrs. Bertha  | 462 McLeod St., Ottawa, Ont  | Canada  | Ottawa  | May | 20, 1915. |
+| 8 | 656<br>1199<br>3827<br>1232 | 410284 | Private  | Grace, Edwin Joseph  | Nil   | Grace, John  | Arnprior, Ont  | Canada  | Barriefield Cmp | July | 23, 1915. |
+| 8 | 656<br>1228<br>3827<br>1260 | 410104 | Private  | Graham, Alfred  | Nil   | Milles, Mrs. E  | 34 Careboro Rd., Trandly Rd., Deptford, London, Eng. | England  | Ottawa  | May | 4, 1915. |
+| 8 | 656<br>1257<br>3826<br>1289 | 410285 | Private  | Graham, Archibald J  | Nil  | Graham, Mrs. Anna  | Bowesville, Ont  | Canada  | Ottawa  | May | 20, 1915. |
+| 8 | 656<br>1287<br>3826<br>1318 | 410105 | Private  | Graham, Frederick  | Nil  | Graham, John George  | West Witton, Leyburn, Yorks, Eng  | England  | Ottawa  | April | 10, 1915. |
+| 8 | 655<br>1316<br>3826<br>1347 | 410499 | Sergeant  | Grant, Donald Harwood  | Nil  | Grant, Mary Ellen  | Smith’s Falls, Ont  | Canada  | Ottawa  | Feb. | 24, 1915. |
+| 8 | 655<br>1345<br>3826<br>1376 | 410286 | Private  | Gray, George  | 42nd Regt  | Gray, Mrs. Eva Blanche  | 3 Clune St., Smiths Falls, Ont  | Scotland  | Barriefield Cmp | July | 23, 1915. |
+| 8 | 655<br>1371<br>3827<br>1405 | 410751 | Private  | Gray, Gordon  | Nil  | Gray, Mrs. Maggie Rennie  | 71 Lock St., Aberdeen, Scot  | Scotland  | Lindsay  | May | 7, 1915. |
+| 8 | 655<br>1400<br>3827<br>1434 | 410287 | Private  | Gray, William  | 10th Regt  | Gray, Mrs. Ella  | 14 Glasgow St., Toronto, Ont  | England  | Barriefield Cmp | July | 23, 1915. |
+| 8 | 654<br>1431<br>3827<br>1463 | 410288 | Private  | Green, David R  | 40th Regt  | Cumberlind, Mrs. K  | Huntley Court, Oldbury Rd., Tewkesbury, Glos, Eng. | England  | Belleville  | May | 20, 1915. |
+| 8 | 654<br>1461<br>3827<br>1492 | 410752 | Private  | Green, William  | Nil  | Green, William  | 31 Wyatt Ave., Toronto, Ont  | Canada  | Lindsay  | May | 31, 1915. |
+| 8 | 655<br>1487<br>3827<br>1521 | 410500 | Private  | Greenwood, Alfred  | Imp. Forces  | Greenwood, Mrs. Annie Louise. | Cornwall, Ont  | England  | Cornwall  | Jan. | 18, 1915. |
+| 8 | 654<br>1518<br>3827<br>1551 | 410289 | Private  | Greig, Archibald Campbell... | G.G.F.G  | Greig, Miss Belle  | 131 Bank St., Ottawa, Ont  | Canada  | Ottawa  | July | 19, 1915. |
+| 8 | 654<br>1545<br>3827<br>1578 | 410290 | Private  | Grenock, Mik  | Nil  | Grenock, Gricoruk  | Grodno, Russia  | Russia  | Barriefield Cmp | July | 23, 1915. |
+| 8 | 653<br>1574<br>3828<br>1608 | 410501 | Privarte  | Grice, George James  | Nil  | Grice, Mrs. Edith  | Gananoque, Ont  | Canada  | Ottawa  | April | 28, 1915. |
+| 8 | 653<br>1603<br>3826<br>1637 | 410291 | Private  | Griffen, James  | Nil  | Griffen, Mrs. E  | P.O., Cumming's Bridge, Ont  | England  | Ottawa  | Mar. | 2, 1915. |
+| 8 | 653<br>1632<br>3827<br>1666 | 410292 | Private  | Griffiths, Harold  | Nil  | Griffiths, Charles  | 418 Laurier Ave., Ottawa, Ont  | England  | Ottawa  | Mar. | 19, 1915. |
+| 8 | 652<br>1661<br>3828<br>1694 | 410753 | Private  | Grison, Albert E  | 43rd Regt  | Grison, Mrs. Andre  | 211 Russell Ave., Ottawa, Ont  | Canada  | Ottawa  | June | 3, 1915. |
+| 8 | 653<br>1690<br>3828<br>1725 | 410754 | Sergeant  | Gross, Herbert  | C.A.M.C  | Gross, Mrs. Bertha  | 15 Beverley St., Toronto, Ont  | Canada  | Lindsay  | Mar. | 4, 1915. |
+| 8 | 652<br>1719<br>3828<br>1752 | 410293 | Private  | Guilmet, Wilfred  | Nil  | Guilmet, Adolf  | Cornwall, Ont  | Canada  | Cornwall  | June | 9, 1915. |
+| 8 | 652<br>1749<br>3828<br>1783 | 410951 | Sergeant  | Guthrie, Donald  | Nil  | Guthrie, Rev. Dr. Donald  | 294 Somerset St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 22, 1915. |
+| 8 | 652<br>1778<br>3828<br>1812 | 410502 | Sergeant  | Gyselinck, Emeric Francis C. | Belgian Army  | Gyselinck, Mrs. Emma  | 8 West Bromwick Rd., Walsall, Staffs, Eng  | Belgium  | Ottawa  | Feb. | 22, 1915. |
+| 8 | 651<br>1807<br>3828<br>1842 | 410294 | Corporal | Hagar, Walter James  | Nil  | Hagar, Mrs. Rose  | Westborough, Ont  | England  | Ottawa  | Mar. | 1, 1915. |
+| 8 | 651<br>1836<br>3828<br>1869 | 410295 | Private  | Haggis, Ernest Charles  | Nil  | Haggis, Mrs. Emily  | 6 Caroline St., Camden Town, London N.W., Eng  | England  | Barriefield Cmp | July | 23, 1915. |
+| 8 | 652<br>1865<br>3828<br>1897 | 410503 | Private  | Hailstone, Herbert  | Nil  | Hailstone, Mrs. Emily  | 26 Albany Rd., Manor Park, London, Eng  | England  | Barriefield... | May | 28, 1915. |
+| 8 | 652<br>1894<br>3828<br>1928 | 410755 | Private  | Halliwell, Benjamin  | Nil  | Halliwell, Mrs. Hannah  | Leeds, Yorks, Eng  | England  | Ottawa  | June | 10, 1915. |
+| 8 | 652<br>1923<br>3828<br>1955 | 410297 | Private  | Hamilton, David Orval  | Nil  | Hamilton, Mrs. Margaret  | Cobden, Ont  | Canada  | Barriefield... | July | 23, 1915. |
+| 8 | 652<br>1952<br>3829<br>1984 | 41029S | Private  | Hamilton, John  | Nil  | Hamilton, Mrs. Jean  | 226 Wilton Ave., Toronto, Ont  | Scotland  | Barriefield Cmp | July | 23, 1915. |
+| 8 | 652<br>1980<br>3829<br>2013 | 410299 | Private  | Hammond, Ernest Horace  | Nil  | Hammond, Mrs. E. H  | Pembroke, Ont  | Ireland  | Barriefield Cmp | July | 23, 1915. |
+| 8 | 653<br>2010<br>3829<br>2043 | 410300 | Private  | Hands, Harry M  | G.G.F.G  | Hands, Mrs. Mary  | 253 Bell St., Ottawa, Ont  | England  | Ottawa  | May | 17, 1915. |
+| 8 | 652<br>2039<br>3829<br>2071 | 410301 | Private  | Hanley, J. William  | Nil  | Hanley. Joseph  | 461 Clarence St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 26, 1915. |
+| 8 | 653<br>2068<br>3829<br>2103 | 410756 | Sergeant  | Hanniford, Charles  | Nil  | Hanniford, Mrs. Charlotte  | 943 Queen St. W., Toronto, Ont  | England  | Lindsay  | May | 21, 1915. |
+| 9 | 355<br>370<br>3513<br>404 | 41010 | Private  | Hansen, Oscar Kermit  | Nil  | Hansen, Mrs. Rose  | P.O., Hunter’s Point, P.Q  | Canada.. | Ottawa  | Feb. | 26 | 1915. |
+| 9 | 355<br>399<br>3513<br>434 | 41075! | Private  | Harper, David Millen  | Nil  | Harper, John A  | 737 Brock Ave., Toronto, Ont  | Canada.. | Lindsay  | May | 28 | 1915. |
+| 9 | 354<br>428<br>3513<br>465 | 41075 | L.-Corporal  | Harper, Edward Douglas  | Nil  | Norwich, Mrs. Lillie  | 283 Waverley Rd., Toronto, Ont  | Canada.. | Lindsay  | May | 29 | 1915. |
+| 9 | 354<br>457<br>3513<br>492 | 41030 | Private  | Harper, Frank Elliott  | Nil  | Harper, Mrs. Mary  | Mattawa, Ont  | England.. | Barriefield Cmp | Julv | 23 | 1915. |
+| 9 | 353<br>486<br>3513<br>522 | 41030. | Private  | Harris, George  | Nil  | Tariff, Mrs. William  | Shawville, P.Q  | Canada.. | Barriefield Cmp | July | 23 | 1915. |
+| 9 | 352<br>515<br>3513<br>552 | 41030- | Private  | Harris, Percy Leonard  | Can. Eng  | Harris, Mrs. Mary E.    | 333 Bell St., Ottawa, Ont  | England. | Ottawa  | Mar. | 1 | 1915. |
+| 9 | 352<br>545<br>3513<br>581 | 41075E | Sergeant  | Harris, Thomas Edward  | Nil  | Harris, Mrs. Annie Louisa. . | 51 Fore St., Totnes, Devon, Eng  | England., | Ottawa  | Feb. | 22 | 1915. |
+| 9 | 351<br>573<br>3513<br>610 | 41030. | Private  | Harrison, Henry  | Nil  | Harrison, Nelson  | Mildmay, Ont  | Canada.. | Belleville  | May | 11 | 1915. |
+| 9 | 350<br>602<br>3513<br>640 | 41010' | Private  | Harrison, Percy  | 43rd Regt  | Harrison, Mrs. Laura  | 5 Hill St., Ottawa, Ont  | Canada.. | Ottawa  | May | 17 | 1915. |
+| 9 | 350<br>632<br>3513<br>668 | 41076C | Private  | Hart, John  | U. S. Army  | Johns, C. D  | 322 Church St., Toronto, Ont  | Canada.. | Lindsay  | May | 21 | 1915. |
+| 9 | 349<br>660<br>3513<br>698 | 41076: |  | Hartly, Frederick Murray  | Nil  | Hartly, George  | 2196 Notre Dame St. W., Montreal, P.Q. ... | Canada.. | Lindsay  | May | 29 | 1915. |
+| 9 | 349<br>690<br>3512<br>726 | 410762 |  | Harty, Thomas  | Nil  | Harty, John  | Milestone, Thurles, Co. Tipperary, Ire  | Ireland... | Brockville  | June | 9 | 1915. |
+| 9 | 348<br>719<br>3513<br>755 | 410763 |  | Harvey, Thomas  | Nil  | Pomeroy, Mrs. Thomas. . . | Port Hope, Ont  | Canada.. | Barriefield... | July | 6 | 1915. |
+| 9 | 347<br>749<br>3513<br>783 | 410764 |  | Hawes, Frederick  | Imp. Forces  | Hawes, Mrs. Annie  | 36 Collier St., Toronto, Ont  | England.. | Lindsay  | Mar. | 15 | 1916. |
+| 9 | 347<br>778<br>3512<br>812 | 410504 |  | Hawke, Arthur Frank  | 10th Regt   | Hawke, Miss Elizabeth  | 38 Dufferin Ave., Ottawa, Ont  | Canada.. | Ottawa  | April 28 | 1915. |
+| 9 | 347<br>807<br>3512<br>841 | 410306 |  | Hawkins, Gordon  | Nil    | Hawkins, John J   | 854 Somerset St., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 1 | 1915. |
+| 9 | 346<br>837<br>3512<br>870 | 410505 | Private  | Hayes, John  | Territorials  | Hayes, Harriet  | Camberwell Green, London, S.E., Eng  | England.. | Cornwall  | 20 | 1915. |
+| 9 | 345<br>866<br>3512<br>899 | 410506 | Private  | Hayes, Thomas  | Nil  | Hayes, John  | Gen. Del., Ottawa, Ont  | Ireland... | Barriefield... | 28, | 1915. |
+| 9 | 345<br>895<br>3512<br>927 | 410765 | Private  | Hayward, John  | Nil  | Hayward, John  | Duke’s Rd., Tunbridge Wells, Kent, Eng. | England.. | Barriefield... | Julv | 6 | 1915. |
+| 9 | 344<br>924<br>3512<br>956 | 410766 | Private  | Headland, Alfred James Y  | Nil  | Pyefinch, Mrs  | 10 Bay view Ave., Ottawa, Ont  | England.. | Barriefield. . . | 6 | 1915. |
+| 9 | 344<br>952<br>3513<br>985 | 410770 | Private  | Heeney, Bond Roy E  | Nil  | Heeney, Mrs. Mary  | P.O., Aylwin, P.Q  | Canada.., | Barriefield. .. | •Julv | 28 | 1915. |
+| 9 | 343<br>981<br>3513<br>1014 | 410767 | Private  | Hemmings, Alfred Henry  | Nil  | Hemmings, Lilly   | 156 Shaw St., Toronto, Ont  | England.. | Lindsay  | Mar. | 15 | 1915. |
+| 9 | 342<br>1009<br>3513<br>1042 | 410768 | Private  | Henderson, James  | Nil  | Henderson, Mrs. Catherine. | c/o H. Smith, 47 Gilbert St., Glasgow, Scot. | Scotland. | Barriefield Cmp | Julv | 6 | 1915. |
+| 9 | 342<br>1038<br>3513<br>1071 | 410769 | Private  | Henderson, Walter B  | Nil  | Henderson, Robert R. W... | Kinmount, Ont  | Canada... | Lindsay  | June | 8 | 1915. |
+| 9 | 341<br>1067<br>3512<br>1102 | 410103 | Sergeant  | Henderson, Wilbert Alexander.. | Nil  | Henderson, Mrs. Mary  | Hull, P.Q | Canada.., | Ottawa  | Feb. | 26 | 1915. |
+| 9 | 341<br>1095<br>3513<br>1130 | 410771 | Private  | Henophy, Charles N  | 1th Huss  | Henophy, Patrick  | Cardinal, Ont, | Canada.., | Barriefield  | Julv | 6 | 1915. |
+| 9 | 341<br>1124<br>3513<br>1159 | 410296 | Private  | Henson, Henry  | Nil  | Henson, Mrs. Ellen  | 347 Gloucester St., Ottawa, Ont. | England.. | Ottawa  | Mar. | 2 | ,1915. |
+| 9 | 339<br>1153<br>3513<br>1187 | 410307 | Private  | Hickson, Thomas  | Nil  | Paskell, Miss Daisy  | Highland Creek, Ont | Scotland. | Barriefield Cmp | April | 23 | 1915. |
+| 9 | 339<br>1182<br>3513<br>1217 | 410310 | Private  | Higgins, Patrick  | C.A.M.C  | Higgins, Robert  | Not stated | England.. | Ottawa  | Mar. | 5 | 1915. |
+| 9 | 339<br>1212<br>3513<br>1245 | 410772 | Private  | Hill, Bertram  | Nil  | Hill, Mrs. Thomas  | 27 Beaconsfield Ave., Toronto, Ont. | Canada.., | Lindsay  | 7 | 1915. |
+| 9 | 339<br>1240<br>3513<br>1276 | 410109 | Corporal  | Hill, John  | Nil  | Hill, Mrs. John  | 16 Loone Rd. Lochee, Dundee, Scot  | Scotland. | Ottawa  | Feb. | 24 | 1915. |
+| 9 | 339<br>1268<br>3513<br>1304 | 410.507 | Private  | Hill, John Gray  | Nil  | Hill, Mrs. John Gray  | 429 Roxton Rd., Toronto, Ont  | Scotland. | Barriefield. .. | July | 38 | 1915. |
+| 9 | 338<br>1302<br>2816<br>1332 | 410110 | Private  | Hill, Samuol.  ... .   | Nil  . | Crewe, Mrs. Catherine  | 19 Florence Rd., Upper Tollington Pk., Stroud Green, |
+| 9 | 2099<br>1327<br>3513<br>1360 |  |  |  |  |  | London N., Eng  | England.. | Ottawa  | 10 | 1915. |
+| 9 | 337<br>1356<br>3513<br>1392 | 410111 | Sergeant  | Hillas, Julius  | Imp. Forces. | Hillas, Mrs. Effie  | 199 Creighton St., Ottawa, Ont  | England.. | Ottawa  | 17 | 1915. |
+| 9 | 336<br>1385<br>3513<br>1419 | 410112 | Private  | Himes, Patrick  | Territorials.. | Himes, Mrs. Mary  | 187 McGillivray St., Ottawa East, Ont  | England.. | Ottawa  | Feb. | 22 | 1915. |
+| 9 | 337<br>1414<br>3513<br>1448 | 410308 | Private  | Hiscock, Thomas William  | Territorials.. | Andrews, Mrs. K  | 1013 Danforth Ave., Toronto, Ont  | England.. | Smiths Falls. | June | 12 | 1915. |
+| 9 | 336<br>1443<br>3513<br>1477 | 410309 | Private  | Hiscox, James  | Nil  | Hiscox, Mrs. Agnes  | 24 Bolton St., Ottawa, Ont  | England.. | Ottawa  | 2 | 1915. |
+| 9 | 335<br>1472<br>3513<br>1508 | 410773 | Private  | Hoath, Frederick Joseph  | Nil  | Hoath, Samuel  | Knowles House, Jarvis Brook, Sussex, Eng  | England.. | Lindsay  | 7 | 1915. |
+| 9 | 335<br>1501<br>3513<br>1536 | 410774 | Private  | Hockney, Arthur  | Nil  | Hockney, Mrs. Jane  | Symons St., Mimico, Ont  | England.. | Lindsay  | 7 | 1915. |
+| 9 | 334<br>1530<br>3513<br>1563 | 411775 | Private  | Hoffman, Samuel  | Nil  | Hoffman, Mrs. Sarah  | 23 Glasgow St., Toronto, Ont  | England.. | Lindsay  | 7 | 1915. |
+| 9 | 335<br>1559<br>3513<br>1594 | 410508 | Private  | Hogan, George Patrick  | Nil  | Fournier, Peter  | P.O. Box 325, Pembroke, Ont   | Canada.., | Ottawa  | 4 | 1915. |
+| 9 | 333<br>1588<br>3513<br>1623 | 410778 | L.-Corporal  | Holgate, Frederick David  | 56th Regt... | Holgate, D  | c/o Mrs. Field, Lowes Farm, Kent, Eng  | England.. | Bermuda  | Nov. | 25 | 1915. |
+| 9 | 334<br>1617<br>3513<br>1652 | 410509 | Corporal  | Hollingshead, George Herbert. | Nil  | Hollingshead, Mrs. Mary E  | 14 Scarsdale PI., Buxton, Derby, Eng  | England.. | Alexandria— | Feb. | 27 | 1915. |
+| 9 | 333<br>1646<br>3513<br>1681 | 410776 | Private  | Hollingsworth, Alfred W  | 3rd Regt  | Hollingsworth, James William. | 245 York St., Ottawa, Ont  | England.. | Ottawa  | June | 26 | 1915. |
+| 9 | 332<br>1675<br>3513<br>1710 | 410113 | Private  | Hollington, Leonard  | Nil  | Hollington, Mrs. Mary  | 708 Cooper St., Ottawa, Ont    | Canada.., | Ottawa  | Feb. | 24 | 1915. |
+| 9 | 332<br>1702<br>3513<br>1739 | 410777 | Private  | Hoskins, George  | Imp. Forces. | Hoskins, Mrs. Elizabeth  | 49 Railway Side, Barnes, Surrey, Eng  | England.. | Lindsay  | 7 | 1915. |
+| 9 | 332<br>1733<br>3513<br>1768 | 410779 | Private  | Howard, George James  | Nil  | Howard, Mrs. Edelweiss  | 11 Cherokee Ave., Centre Island, Toronto, Ont  | England.. | Lindsay  | May | 8 | 1915. |
+| 9 | 331<br>1761<br>3514<br>1796 | 410780 | Private  | Howick, Henry Richard  | Nil  | Howick, Mrs. Edith Mary  | 50 Armstrong St., Ottawa, Ont  | England.. | Barriefield. . . | 6 | 1915. |
+| 9 | 332<br>1790<br>3514<br>1826 | 410311 | Private  | Hughes, Christopher Robert... | Nil  | Hughes, Mrs. Ellen  | Liverpool, Lancs, Eng  | England.. | Ottawa  | Mar. | 2 | 1915. |
+| 9 | 332<br>1819<br>3514<br>1855 | 410312 | Private  | Hughes, John Henry  | 14th Regt... | Hughes, Mrs. J. H  | 87 Barrack St., Kingston, Ont  | England.. | Barriefield Cmp | Julv | 23 | 1915. |
+| 9 | 332<br>1848<br>3514<br>1883 | 410782 | Private  | Hughes, Thomas  | Nil  | Hughes, Mrs. Katherine  | 87 Barrack St., Kingston, Ont  | England.. | Barriefield... | Julv | 6 | 1915. |
+| 9 | 330<br>1877<br>3513<br>1913 | 410781 | Private  | Humphrey, Harry  | Nil  | Humphrey, Mrs. Emily  | 7 Bridge St., Abingdon, Berks, Eng  | England.. | Lindsay  | Mar. | 19 | 1915. |
+| 9 | 330<br>1906<br>3513<br>1941 | 410313 | Private  | Hunt, Samuel J  | Nil  | Hunt, Mrs. Annie  | 170 Arlington Ave., Ottawa, Ont  | England.. | Ottawa  | Feb. | 26 | 1915. |
+| 9 | 329<br>1935<br>3513<br>1970 | 410314 | Private  | Hunt, William E  | G.G.F.G.... | Hunt, Mrs. Margaret  | Westborough. Ont  | England.. | Ottawa  | Feb. | 26 | 1915. |
+| 9 | 330<br>1964<br>3514<br>1999 | 410114 | Private  | Hunter, Harold   | Nil  | Hunter, Mrs. David  | 6 Viewforth Terr., Edinburgh, Scot  | Scotland. | Ottawa  | April | 10 | 1915. |
+| 9 | 329<br>1994<br>3514<br>2028 | 410783 | ’rivate  | Hunter, William   | Nil  | Hunter, Samuel    | 37 Garnock Ave., Toronto, Ont  | Scotland. | Lindsay  | 28 | 1915. |
+| 9 | 329<br>2022<br>3515<br>2057 | 410510 | Mvate  | Hunter, William McLean  | Nil  | Hunter, John  | 271 Bank St., Langloan, Coatbridge, Lanark, Scot  | Scotland. | Brockville  | Mar. | 25 | 1915. |
+| 9 | 329<br>2050<br>3514<br>2087 | 410315 | ’rivate  | Hurst, Stanley Charles   | Nil  | Hurst, Mrs. Helena  | The Cot, Silverdale Ave., West Cliff-on-Sea, Eng  | England.. | Barriefield Cmp | Julv | 23 | 1915. |
+| 9 | 329<br>2080<br>3513<br>2117 | 410115 | ’rivate  | Hussick, William John   | Can. Eng.... | Hussick, Mary Alice  | 829 Carling Ave., Ottawa, Ont  | Canada.., | Ottawa  | May | 17 | 1915. |
+| 10 | 658<br>456<br>3329<br>504 | .0 |  | Former Corps. |  |  | Country of |
+| 10 | 655<br>616<br>3820<br>648 | 410784 | Private | Hutchinson, Alexander  | Nil  | Hutchinson, George  | 15 Angle St., Stonehouse, Lanark, Scot  | Scotland. | Lindsay... | Mar. | 23.1915. |
+| 10 | 655<br>645<br>3822<br>679 | 410785 | Private | Hutchinson, John C. Ash... | Nil  | Hutchinson, Mrs. Lilly   | 52 Dundas St., Toronto, Ont   | Canada.. | Lindsay... | Mar. | 26, 1915. |
+| 10 | 655<br>675<br>3822<br>707 | 410116 | Private | Hutton, Samuel Stuart  | 5 th Drag | Not stated    | Not stated    | Scotland. | Ottawa  | Feb. | 22, 1915. |
+| 10 | 654<br>704<br>3823<br>736 | 410511 | C.Q.M.S  | Hyslop, George   | U.S. Army. | Hyslop, Misses Norma and Jessie | Smith’s Falls, Ont  | Canada.., | Ottawa  | Feb. | 24, 1915. |
+| 10 | 654<br>734<br>3822<br>764 | 410512 | Sergeant | Hyslop, Orville Newton  | Nil  | Hyslop, Janet  | Smith’s Falls, Ont  | Canada.., | Ottawa  | Feb. | 24, 1915. |
+| 10 | 654<br>763<br>3823<br>794 | 410117 | Private | Igglesden, Percy  | Nil  | Igglesden, Mrs. Florence  | Westborough, Ont    | England.. | Ottawa  | Feb. | 26, 1915. |
+| 10 | 654<br>792<br>3822<br>822 | 410316 | Private  | Illes, Charles Milton  | Nil  | Illes, Edward  | Cornwall, Ont  | Canada... | Cornwall.. | June | 9, 1915. |
+| 10 | 653<br>821<br>3822<br>853 | 410317 | Private  | Ilsley, William Walter  | Nil  | Ilsley, Mrs. Ellen  | 98 Mann St., London, Eng...  | England.. | Barriefield Cmp | July | 23.1915. |
+| 10 | 653<br>850<br>3822<br>882 | 410318 | Private  | Ince, George Victor  | 42nd Regt... | Ince, George   | Smith’s Falls, Ont  | England.. | Smith’s Falls... | ■June | 3, 1915. |
+| 10 | 652<br>879<br>3822<br>911 | 410786 | Private  | Ingle, Stephen  | 45th Regt... | Ingie, Mrs. Sarah  | 20 Melbourne St., Lindsay, Ont  | Canada... | Lindsay  | Mar. | 5, 1915. |
+| 10 | 652<br>908<br>3822<br>939 | 410787 | Private  | Jack, Alexander  | Nil  | Jack, Robert  | Easter Shoretown, Cullicudden, Scot  | Scotland. | Lindsay  | Mar. | 25, 1915. |
+| 10 | 651<br>937<br>3822<br>969 | 410319 | Private  | Jackson, Albert John  | Nil  | Jackson, Mrs. Celia  | P.O., Westborough, Ont     | England.. | Ottawa  | Feb. | 26, 1915. |
+| 10 | 650<br>961<br>3822<br>999 | 410320 | Private  | James, Frederick  | Nil. | James, Mrs. Clara   | No. 3 Clifton St., London, Eng  | England.. | Smith’s Falls... | June | 9, 1915. |
+| 10 | 650<br>995<br>3822<br>1027 | 410321 | Private  | Jeffrey, Reginald Clifford.. | Nil. | Jeffrey, George A  | St. Eleanor’s, P.E.I  | U.S.A.... | Ottawa  | Feb. | 24, 1915. |
+| 10 | 649<br>1025<br>3822<br>1056 | 410322 | Private  | Jock, Francis  | Nil. | Jock, Joseph  | Cornwall, Ont  | Canada... | Cornwall  | June | 9. 1915. |
+| 10 | 649<br>1054<br>3822<br>1084 | 410513 | Private  | Jodoin, David Bernard  | Nil. | Jodoin, Frederick .  | lenroy, Ont  | Canada... | Alexandria  | Feb. | 27, 1915. |
+| 10 | 649<br>1082<br>3821<br>1112 | 410323 | Private  | Johns, Wilbur  | Nil. | Johns, Mrs. Sarah  | Pembroke, Ont  | Canada... | Barriefield Cmp | Julv | 23, 1915. |
+| 10 | 649<br>1112<br>3822<br>1144 | 41078S | Private..... | Johnson, Donald  | Nil. | Johnson, Mrs. Margaret  | 274 Bell St., Ottawa, Ont  | Canada... | Barriefield  | July | 29, 1915. |
+| 10 | 649<br>1141<br>3823<br>1173 | 410789 | Private  | Johnson, Earl Edwin  | Nil. | Johnson, John Fletcher  | 56 Glenelg St., Lindsay, Ont  | Canada... | Lindsaj  | May | 14, 1915. |
+| 10 | 648<br>1169<br>3822<br>1201 | 410790 | Private  | Johnson, George  | Nil. | Johnson, John  | Donegal, Ire  | Ireland... | Lindsay  | May | 28, 1915. |
+| 10 | 647<br>1199<br>3822<br>1230 | 410791 | Private  | Johnson, James  | Nil. | Sweny, F. W  | 1 Lincoln PI., Westland Rd., Dublin, Ire  | Ireland... | Lindsay  | Apr. | 22, 1915. |
+| 10 | 647<br>1226<br>3822<br>1259 | 410792 | Private  | Johnson, Robert James S... | Nil. | Johnson, Thomas Lawrence  | 45 Seymour Ave., Toronto, Ont  | England.. | Lindsay  | May | 21, 1915. |
+| 10 | 647<br>1257<br>3822<br>1288 | 410793 | Corporal. .., | Johnson, Samuel  | Nil. | Johnson, Mrs. Ellen  | 26 Glentill St., Belfast, Ire  | Ireland... | Ottawa  | May | 31, 1915. |
+| 10 | 646<br>1287<br>3821<br>1318 | 410324 | Private  | Johnston, William John  | Nil. | Johnston, William  | Trillick, Co. Tyrone, Ire  | Ireland... | Alexandria  | June | 9, 1915. |
+| 10 | 646<br>1316<br>3821<br>1347 | 410922 | Private  | Joly, Henry   | Nil. | Joly, Mrs. Ama  | James St., Hawkesbury, Ont  | Canada... | Ottawa  | Apr. | 10, 1915. |
+| 10 | 646<br>1345<br>3822<br>1376 | 410118 | Private  | Joly, Joseph   | G.G.F.G.... | Joly, Mrs. Rose  | 389 St. Patrick St., Ottawa, Ont  | Canada... | Ottawa  | May | 17, 1915. |
+| 10 | 646<br>1374<br>3822<br>1405 | 410119 | Private  | Jones, Arthur Stanley  | Nil  | Jones, Horace  | 119 Guiness Bldg., Page’s Walk, London, Eng. | England.. | Ottawa  | Feb. | 22, 1915. |
+| 10 | 645<br>1402<br>3822<br>1433 | 410514 | Private  | Jones, Charles Stewart  | Nil  | Jones, Mrs. M  | Marmora, Ont  | Canada... | Belleville  | July | 14, 1915. |
+| 10 | 645<br>1429<br>3822<br>1462 | 410794 | Private  | Jones, Frederick  | Nil  | Jones, William  | Cardiff, Wales  | Wales | Lindsay  | May | 7, 1915. |
+| 10 | 645<br>1460<br>3821<br>1492 | 410515 | Private  | Tones, Hubert Murray  | 49th Regt... | Jones, Mrs. Mary  | Marmora, Ont  | Canada... | Belleville  | May | 11, 1915. |
+| 10 | 644<br>1489<br>3822<br>1521 | 410327 | Private  | Keene, Clarence Edmund  | Nil  | Keene, Charles..  | 135 Soudan Ave., Toronto, Ont  | Canada... | Barriefield Cmp | Julv | 23, 1915. |
+| 10 | 644<br>1518<br>3822<br>1549 | 410328 | Private  | Keene, Gordon Finamore  | 12th Regt... | Keene, Charles  | 135 Soudan Ave., Toronto, Ont  | Canada... | Barriefield Cmp | July | 23, 1915. |
+| 10 | 643<br>1548<br>3821<br>1579 | 410325 | Private  | Keith, George  | Nil  | Keith, Mrs. Harriet  | 20 Bellview Rd., Totterdown, Bristol, Eng  | England.. | Ottawa  | Mar. | 2, 1915. |
+| 10 | 643<br>1577<br>3834<br>1607 | 410120 | L.-Corporal. | Kellar, Ross Elmer  | C.A.S.C  | Kellar, Mrs. Isabella  | 91 Holland Ave., Ottawa, Ont  | Canada... | Ottawa  | Feb. | 24, 1915.. |
+| 10 | 643<br>1606<br>3275<br>1637 | 410516 | Private  | Kelly, A. T  | Nil  | Kelly, Mrs. A. J  | 114 Wellington St., Hull, P.Q  | Canada... |
+| 10 | 642<br>1634<br>3821<br>1665 | 410517 | Private  | Kelley, Harry Alfonsus  | Nil  | O’Brien, Michael J  | Renfrew, Ont  | U.S.A. | Ottawa  | Apr. | 28, 1915. |
+| 10 | 643<br>1663<br>3821<br>1694 | 410519 | Private  | Kelley, Joseph Patrick  | Imp. Forces. | Moodie, Miss L  | 312 Laurier Ave. E., Ottawa, Ont  | Ireland... | Barriefield... | May | 28, 1915. |
+| 10 | 643<br>1692<br>3822<br>1723 | 410326 | Private  | Kelley, Samuel James  | Can. Eng.... | Kelly, Mrs. Ellen  | 19 Lome Ave., Ottawa, Ont .  | Canada... | Ottawa  | Mar. | 1, 1915. |
+| 10 | 642<br>1721<br>3825<br>1752 | 410519 | Private  | Kelton, David  | Nil  | Kelton, Mrs  | 108 McLam St., Glasgow, Scot  | Scotland. | Ottawa  | Apr. | 28, 1915. |
+| 10 | 642<br>1749<br>3820<br>1782 | 410329 | Private  | Kemp, George Austin  | Nil  | Kemp, Mrs. Elizabeth  | Wellington Terr., Clifton, Bristol, Eng  | England.. | Barriefield Cmp | July | 23.1915. |
+| 10 | 642<br>1778<br>3807<br>1810 | 410121 | Private  | Kenefick, James  | Nil  | Tallan, Edward  | Bowesville, Ont  | England.. | Ottawa  | May | 4.1915. |
+| 10 | 642<br>1808<br>3821<br>1840 | 410520 | Private  | Kennedy, Edward  | Territorials. | Kennedy, Mrs. Mary Ann  | 15 Roches St., Waterford, Ire  | Ireland... | Ottawa  | Apr. | 28.1915. |
+| 10 | 641<br>1836<br>3821<br>1868 | 410330 | Private  | Kerr, William  | Nil  | Kerr, Mrs. William  | Glebe St., Hamilton, Scot  | Scotland. | Ottawa  | May | 20.1915. |
+| 10 | 641<br>1866<br>3821<br>1895 | 410952 | Private  | Kerr, William James  | Territorials. | Not stated  | Notstated  | Scotland. | Ottawa  | Apr. | 10.1915. |
+| 10 | 642<br>1895<br>3821<br>1927 | 410521 | Sergeant  | Killarr.ey, Brandon Andrew. | Nil  | Killarney, Elizabeth  | Hants, Eng  | England.. | Ottawa  | Apr. | 28.1915. |
+| 10 | 641<br>1924<br>3821<br>1956 | 410331 | Private  | Kilsby, Timothy  | Nil  | Kilsby, Mrs. Elizabeth  | 7 CameronAve., Westborough, Ont  | England., | Ottawa  | May | 4.1915. |
+| 10 | 641<br>1953<br>3821<br>1985 | 410961 | Private...... | Kimbur, Herbert  | Nil  | Kimbur, Mrs. Lucy   | 211 Kent St., Ottawa, Ont  | England.. | Barriefield  | May | 28.1915. |
+| 10 | 641<br>1983<br>3821<br>2013 | 410332 | Private  | King, George  | Nil   | Not stated  | Not stated  | England.. | Napanee  | May | 15.1915. |
+| 10 | 640<br>2012<br>3822<br>2043 | 410795 | Private  | Kinghorn, Herbert Clayton.. | Nil   | Kinghorn, Mrs. Eva  | Cornwall, Ont  | Canada.. | Barriefield  | July | 6.1915. |
+| 11 | 361<br>368<br>3518<br>401 | 410796 | L.-Corporal  | Kinmond, Joseph MacKenzie  | Nil  | Kinmond, Mrs. J. M  |  | July 28,1915, |
+| 11 | 361<br>397<br>3520<br>431 | 410953 | Private  |  | C.F.A  | Kirby, T. Sidney  |  | Feb. 26,1915. |
+| 11 | 361<br>426<br>3520<br>460 | 4103& | Private  |  |  | Kirkey, John F  |  | June 9,1915. |
+| 11 | 361<br>455<br>3520<br>489 | 410122 | Private  |  |  | Knapp, John  |  | July 28, 1915. |
+| 11 | 360<br>485<br>3519<br>519 | 410522 | Private  | Knight, John  | Nil  | Knight, Mrs. Emily  |  | July 28,1915. |
+| 11 | 360<br>514<br>3519<br>548 | 41033^ | Private  |  |  | Knight, Mrs. Margaret.. |  | Oct. 26,1915. | Bermuda  |
+| 11 | 360<br>543<br>3517<br>577 | 410335 | Private  |  |  | Krasinski, Mrs. Veronica |  | July 23,1915. | Barriefield Cmp |
+| 11 | 360<br>572<br>3518<br>612 | 410123 | Corporal  |  | G.G.F.G  | Kuhn, Frederick... %  |  | Mar. 19,1915. |
+| 11 | 359<br>601<br>3518<br>634 | 410124 | Private  |  | Nil  | Labelle, Mme. Beatrice  |  | May 4, 1915. |
+| 11 | 359<br>631<br>3518<br>664 | 410125 | Private  | Lachance, Nelson John  | G.G.F.G  | Lachance, Mrs. Irene  |  | Feb. 22, 1915. |
+| 11 | 359<br>660<br>3519<br>693 | 410126 | Private  |  |  | Lacoste, Mrs. R. A  |  | July 21,1915. |
+| 11 | 358<br>690<br>3519<br>722 | 410336 | Private  |  | Nil  | Lafontaine, Mrs. Eva  |  | Feb. 26, 1915. |
+| 11 | 358<br>719<br>3518<br>753 | 410337 | Private  |  | Nil  | Aquin, Mrs. A  |  | Feb. 25,1915. |
+| 11 | 358<br>749<br>3519<br>780 | 410523 | Private  |  |  | Laird, Mrs. Martha Taylor |  | July 28, 1915. |
+| 11 | 357<br>778<br>3519<br>809 | 410338 | Private  |  |  | Lalonde, Abraham  |  | June 9, 1915. |
+| 11 | 357<br>807<br>3519<br>838 | 410797 | Private  |  | Nil  | Lalonde, Alphonse  |  | July 6, 1915. |
+| 11 | 356<br>836<br>3518<br>867 | 410339 | Private  | Lalonde, Alexander  |  | Lalonde, Gregor  |  | July 23,1915. | Barriefield Cmp |
+| 11 | 356<br>866<br>3519<br>896 | 410524 | Private  |  |  | Lalonde, Mrs. Ellen  |  | Jan. 18,1915. |
+| 11 | 356<br>894<br>3519<br>925 | 410340 | Private  | Lalonde, Maurice Rene  | Nil  | Lalonde, Mrs. Maria  |  | Mar. 12, 1915. |
+| 11 | 356<br>923<br>3519<br>954 | 410525 | Private  |  | Nil  | Lalonde, Mrs. P. G  |  | Feb. 27, 1915. |
+| 11 | 355<br>952<br>3519<br>983 | 410798 | Private  | Lalonde, Robert  | Nil  | Lalonde, Angus  |  | July 28, 1915. |
+| 11 | 355<br>980<br>3520<br>1010 | 410800 | Private  |  | Nil  | Lamb, Mrs. Esther  |  | Mar. 19, 1915. |
+| 11 | 355<br>1009<br>3520<br>1039 | 410799 | Private  |  | Nil  | Lambe, William  |  | May 7, 1915. |
+| 11 | 355<br>1038<br>3520<br>1068 | 410526 | Corporal  |  | Nil  | Lambie, Mrs. Elizabeth.... |  | July 28, 1915. |
+| 11 | 354<br>1067<br>3520<br>1098 | 410S01 | Private  |  | Nil  | Lane, Mrs. Margaret  |  | May 8, 1915. |
+| 11 | 354<br>1096<br>3520<br>1127 | 410S02 | Private  |  |  | Lang, Mrs. Ellen  |  | Mar. 22, 1915. |
+| 11 | 354<br>1124<br>3521<br>1156 | 410527 | Private  | Langford, Stuart Clifford  |  | Langford, Mrs. Clara P  |  | July 31, 1915. |
+| 11 | 353<br>1154<br>3521<br>1184 | 410341 | Private  |  | Nil  | Lanoux,P  |  | Mar. 1,1915. |
+| 11 | 353<br>1183<br>3521<br>1213 | 410342 | Private  |  | Nil  | Lappin, Winnifred  |  | Mar. 1,1915. |
+| 11 | 353<br>1212<br>3522<br>1243 | 410528 | Private  |  |  | Larocque, George  |  | Mar. 25, 1915. |
+| 11 | 353<br>1241<br>3522<br>1271 | 410803 | Private  |  |  | Larocque, Mrs. Rose  |  | July 29, 1915. |
+| 11 | 352<br>1270<br>3523<br>1300 | 410127 | Private  |  | Nil  | Laronde, Mrs. Celcia  |  | July 28,1915. | Barriefield Cmp |
+| 11 | 352<br>1300<br>3522<br>1328 | 410529 | Private  |  | Nil  | Lashomb, Alexander  |  | Jan. 22, 1915. | Cornwall  |
+| 11 | 352<br>1329<br>3523<br>1357 | 410S04 | Private  |  | Nil  | Latham, Mrs. Edward  |  | Mav 20, 1915. |
+| 11 | 352<br>1357<br>3520<br>1388 | 410532 | Private  |  | Nil  | Lauzon, Margaret  |  | May 6,1915. | Ottawa  |
+| 11 | 351<br>1386<br>3521<br>1416 | 410343 | Private  |  | Nil  | Laverty, Mrs. Bessie  |  | July 23,1915. | Barriefield Cmp |
+| 11 | 351<br>1416<br>3522<br>1445 | 410805 | Private  |  | Nil  | Lawes, Mrs. Emily Maude |  | June 3, 1915. |
+| 11 | 351<br>1444<br>3522<br>1474 | 410128 | Private  | Law’rence, Edmund Clifton  | R.C.R  | Lawrence, Mrs. Frances  |  | July 21, 1915. | Ottawa  |
+| 11 | 351<br>1473<br>3522<br>1502 | 410806 | Private  |  | Nil  | Lawrence, Mrs. Rachel  |  | July 28, 1915. | Barriefield Cmp |
+| 11 | 350<br>1502<br>3523<br>1532 | 410530 | Private  |  |  | Lawrie, Mrs. Margaret  |  | July 28, 1915. |
+| 11 | 350<br>1531<br>3523<br>1560 | 410344 | Private  |  | Nil  | Lazarus, Mrs. Ella  |  | July 28, 1915. |
+| 11 | 350<br>1560<br>3523<br>1590 | 410S07 | Private  |  |  | Lee, Mrs. Maggie  |  | May 7, 1915. |
+| 11 | 350<br>1589<br>3523<br>1619 | 410808 | Private  | Lee, Oswald Henry  | Nil  | Lee, Mrs. George  |  | May 14, 1915. |
+| 11 | 349<br>1618<br>3525<br>1648 | 410346 | Private  |  | G.G.F.G  | Leger, Mrs. Emma  | Ottawa  | Feb. 26,1915. |
+| 11 | 349<br>1648<br>3523<br>1677 | 410345 | Private  | Leitch, William Hayden  | Nil  | Leitch, Mrs. Elizabeth  | Barriefield Cmp | July 23,1915. |
+| 11 | 349<br>1677<br>3523<br>1705 | 410533 | Private  | Lemire, Napoleon  | Nil  | Lemire, Joseph  |  | Feb. 19,1915. |
+| 11 | 349<br>1706<br>3523<br>1735 | 410809 | Private  | Lenehan, Thomas Arthur J  | Nil  | Lenehan, Mrs. Sarah . |  | May 22,1915. | Lindsay  |
+| 11 | 349<br>1734<br>3523<br>1763 | 410347 | Private  | Leonard, Harry  | Nil  | Dr. Barnardo’s Home  |  | July 28,1915. | Barriefield Cmp |
+| 11 | 350<br>1764<br>3523<br>1792 | 410534 | Private  |  | Nil... | Leonard, Peter  |  | Julv 28,1915. | Barriefield  |
+| 11 | 349<br>1792<br>3523<br>1822 | 410348 | Corporal  | Le Pot, Henry Leonard  | G.G.F.G  | Le Pot, Louise     |  | Mar. 1,1915. |
+| 11 | 349<br>1821<br>3523<br>1851 | 410129 | L.-Corporal  | Levasseur, Jack  | Nil  | Levasseur, Mrs. Elizabeth |  | Mar. 5,1915. |
+| 11 | 349<br>1850<br>3523<br>1881 | 410535 | Private  | Leveare, James Gordon  | Nil  | Seguin, William   |  | Mar. 9,1915. |
+| 11 | 349<br>1879<br>3523<br>1908 | 410810 | Private  | Lewis, Charles Walton  |  | Lewis, Mrs. Catherine.... |  | May 31,1915. |
+| 11 | 349<br>1908<br>3525<br>1938 | 410130 | Private  | Liberty, John  |  | Liberty, Mrs. Florida  |  | May 4, 1915. |
+| 11 | 348<br>1937<br>3526<br>1967 | 410349 | Private  |  | Nil  | Little, L  |  | May, 20, 1915. |
+| 11 | 347<br>1966<br>3526<br>1994 | 410350 | Private  | Littleford. Edward Williams | G.G.B.G  | Littleford, Mrs. Florence |  | July 22, 1915. | Barriefield Cmp |
+| 11 | 348<br>1995<br>3526<br>2025 | 410351 | Private  |  | Nil... | Lizotte, Napoleon  |  | July 23,1915. | Barriefield Cmp |
+| 11 | 349<br>2024<br>3526<br>2055 | 410352 | Sergeant  | Lloyd, Arthur  |  | Lloyd, Mrs. Arthur  |  | Feb. 26, 1915. |
+| 11 | 349<br>2054<br>3526<br>2084 | 410353 | Private  |  | Nil  | Longpre, Mrs. Emma  |  | May 20, 1915. |
+| 11 | 348<br>2083<br>3526<br>2113 | 410811 | Private  | Longtin, Francis  | Nil  | Longtin, Jean   |  | July 6, 1915. |
+| 12 | 646<br>522<br>3311<br>560 | Jg |  |  | Former Corps. |  |  | Country of |
+| 12 | 654<br>566<br>3758<br>590 | QJ |  |  |  |  |  |  | Place. | Date. |
+| 12 | 3369<br>666<br>3811<br>693 |  |  |  |  |  |  |  | Ottawa  | Apr. | 1915. |
+| 12 | 646<br>675<br>3259<br>705 | 410131 | Private  | Lonie, Robert A  | Imp. Forces. | Lonie, Mrs. R. P  | 227 Bank St., Ottawa, Ont  | Scotland. |
+| 12 | 3368<br>696<br>3811<br>722 |  |  |  |  |  |  |  | Brockville  | May | 1915. |
+| 12 | 645<br>704<br>3266<br>734 | 410354 | Private  | Lope, James  | Nil  | Marino, Mrs. Jennie  | 135 Prince St., Kingston, Ont  | Canada... |
+| 12 | 3368<br>724<br>3812<br>751 |  |  |  |  |  |  |  | Ottawa  | May | 1915. |
+| 12 | 645<br>733<br>3266<br>763 | 410132 | Private  | Loppen, Louis  | 43rd Regt. .. | Martin, Matthew  | 212 St. Catherine St., Montreal, P.Q  | Canada... |
+| 12 | 3368<br>754<br>3812<br>780 |  |  |  |  |  |  |  | Ottawa  | May | 1915. |
+| 12 | 645<br>762<br>3266<br>793 | 410133 | Private  | Love, Herbert  | G.G.F.G.... | Love, Mrs. Louise  | 10 Chapleau Ave., Ottawa, Ont  | Canada... |
+| 12 | 3368<br>782<br>3812<br>809 |  |  |  |  |  |  |  | Barriefield... | July | 1916. |
+| 12 | 644<br>791<br>3266<br>821 | 410531 | Private  | Lovell, Frederick  | Nil  | Lovell, Mrs. Clen  | 442 Richmond St. W., Toronto, Ont  | Canada... |
+| 12 | 644<br>812<br>3812<br>851 | 410962 | Private  | Lowe, Oliver  | G.G.F.G.... | Lowe, Mrs. Martha  | Haley Sta., Ont  | Canada... | Barriefield. .. | May | 1915. |
+| 12 | 3368<br>841<br>3812<br>866 |  |  |  |  |  |  |  | Ottawa  | Feb. | 1915. |
+| 12 | 643<br>849<br>3265<br>880 | 410134 | Private  | Lowry, Thomas  | Nil  | Lowry, Mrs. Jessie  | 271 Bay St., Ottawa, Ont  | Ireland... |
+| 12 | 3370<br>870<br>3813<br>897 |  |  |  |  |  |  |  | Not stated. .. | July | 1915. |
+| 12 | 644<br>878<br>3265<br>909 | 410536 | Private  | Luie, Toni  | Nil  | Luie, Lazarus  | Turil, Greece  | Greece... |
+| 12 | 644<br>899<br>3812<br>937 | 410537 | Private  | Lumsden, David  | Nil  | Lumsden, Rebecca  | Merrickville, Ont  | Scotland. | Barriefield Cmp | July | 1915. |
+| 12 | 643<br>928<br>3812<br>967 | 410923 | Private  | Lunny, Joseph Frank  | Nil  | Lunny, William Patrick  | 357 Oliver Ave., Westmount, P.Q  | Canada... | Ottawa  | May | 1915. |
+| 12 | 643<br>957<br>3812<br>1002 | 410812 | Private  | Lynch, Jame3  | Nil  | Lynch, James.;  | Hagersville, Ont  | Canada... | Ottawa  | May | 1910. |
+| 12 | 642<br>986<br>3812<br>1025 | 410390 | Private  | MacDonald, Leo  | Nil  | MacDonald, Wilfred  | 326,5th Ave., Ottawa* Ont  | Canada.., | Ottawa  | May | 1915. |
+| 12 | 642<br>1015<br>3812<br>1054 | 410841 | Private  | MacDonald, William Clement. . | Nil  | MacDonald, Mrs. Jessie  | 15 Salisbury Ave., Toronto, Ont  | England.. | Lindsay  | May | 1915. |
+| 12 | 3368<br>1045<br>3813<br>1071 |  |  |  |  |  |  |  | Cornwall  | June | 1915. |
+| 12 | 642<br>1052<br>3266<br>1083 | 410929 | Private  | Macdonell, Duncan Joseph  | 59th Regt. .. | Macdonell, Peter  | Alexandria, Ont  | Canada... |
+| 12 | 642<br>1074<br>3813<br>1111 | 410156 | L.-Corporal. | MacKenzie, Frederick William.. | Nil  | MacKenzie, A. F  | 244 Frank St., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 1915. |
+| 12 | 641<br>1110<br>3266<br>1140 | 410564 | Private  | MacLennan, W  | Nil  | MacLennan, J. A  | Lancaster, Ont  | Canada... |
+| 12 | 641<br>1132<br>3813<br>1170 | 410932 | Private  | MacMillan, David Albert  | Nil  | MacMillan, Alexander A.... | Newington, Ont  | Canada... | Cornwall  | May | 1915. |
+| 12 | 641<br>1161<br>3813<br>1198 | 410842 | Private  | McNicoll, John Gavin  | Imp. Forces. | MacNicoll, Grace  | Saltmarket St., Glasgow, Scot  | Scotland. | Lindsay  | May | 1915. |
+| 12 | 640<br>1190<br>3814<br>1227 | 410355 | Private  | Mallette, Phileas  | Nil  | Mallette, Mrs. Julia  | 58 Ladouceur Ave., Ottawa, Ont  | Canada.., | Ottawa  | Mar. | 1915. |
+| 12 | 640<br>1219<br>3814<br>1257 | 410135 | L.-Corporal. | Maloney, James Christopher.... | Nil  | Maloney, Patrick  | 52 Nicholas St., Ottawa, Ont  | Canada.. | Ottawa  | Apr. | 1915. |
+| 12 | 639<br>1248<br>3814<br>1286 | 410813 | Private  | Manion, M  | Nil  | Manion, Thomas  | Prescott, Ont  | Canada.. | Barriefield  | July | 1915. |
+| 12 | 639<br>1278<br>3814<br>1315 | 410356 | Private  | Manton, Joseph Herbert  | Nil  | Manton, Mrs. Fanny  | 90 Rectory Road, Fulham, London, S.W., Eng. | England.. | Ottawa  | Mar. | 1915. |
+| 12 | 639<br>1307<br>3814<br>1344 | 410136 | L.-Corporal. | Marchand, Ernest  | Nil  | Kelly, Mrs. E. H  | 2505 Park Ave., Montreal, P.Q  | Canada.. | Brockville  | Mar. | 1915. |
+| 12 | 639<br>1336<br>3814<br>1373 | 410540 | Private  | Marlborough, Edward  | 12th Regt. .. | Marlborough, Mrs. Mary A. | Wyndham St., Toronto, Ont  | Canada.. | Smith’s Falls... | June | 1915. |
+| 12 | 638<br>1365<br>3814<br>1402 | 410358 | L.-Corporal. | Maroney, Thomas  | Can. Eng  | Maroney, Mrs. Hannah  | 4 John St., Eastview, Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 1915. |
+| 12 | 638<br>1400<br>2240<br>1430 | 410001 | R.S.M  | Marsden, W. H  | Can. Mil  | Marsden, Mrs. W. H  |
+| 12 | 638<br>1423<br>3814<br>1460 | 410357 | Private  | Marsh, Oliver  | G.G.F.G.... | Marsh, Watson  | P.O., Billings Bridge, Ottawa, Ont  | England  | Ottawra  | Feb. | 1915. |
+| 12 | 639<br>1452<br>3814<br>1489 | 410924 | Private  | Marshall, Herbert  | Nil  | Marshall, Mrs. Sarah  | 1 Camden St., Essex Rd., Islington, London, Eng. | England  | Ottawa  | Feb. | 1915. |
+| 12 | 639<br>1481<br>3814<br>1517 | 410137 | Private  | Marshall, Richard  | Nil  | Marshall, Mrs. Beatrice  | 41 Centre St., Ottawa, Ont  | Canada  | Ottawa  | July | 1915. |
+| 12 | 638<br>1510<br>3814<br>1546 | 410925 | Private  | Marshall, Samuel  | Nil  | Marshall, Mrs. Sarah Ethel. | 1 Camden St., Essex Rd., Islington, London, Eng. | England  | Ottawa  | Feb. | 1915. |
+| 12 | 638<br>1539<br>3815<br>1576 | 410138 | Private  | Martens, Johanner Wilhemis  | Nil  | Martens, Mrs. Susan  | 384 Nepean St., Ottawa, Ont  | Holland  | Ottawa  | July | 1915. |
+| 12 | 638<br>1568<br>3814<br>1604 | 410814 | Private  | Martin, William Peter  | Nil  | McMurty, Mrs. Helen  | Hale St., Lowell, Mass., U.S.A  | U.S.A  | Brockville  | June | 1915. |
+| 12 | 638<br>1597<br>3815<br>1633 | 410926 | Private   | Martin, Zephur  | Nil  | Martin, Mrs. Delina  | Cornwall, Ont  | Canada  | Cornwall  | Mar. | 1915. |
+| 12 | 638<br>1626<br>3815<br>1661 | 410538 | Private  | Mascombe, George  | Nil  | Not stated  | Not stated  | Greece  | Smith’s Falls | June | 1915. |
+| 12 | 638<br>1655<br>3815<br>1692 | 410815 | Private  | Massey, George Harold  | Nil  | Massey, Harry   | 1 Lyn Cres., Ferndale, Wales  | England  | Lindsay  | May | 1915. |
+| 12 | 638<br>1684<br>3815<br>1720 | 410359 | Private  | Masson, John  | 59th Regt. .. | Masson, Mrs. Caroline  | Cornwall, Ont  | Canada  | Alexandria  | June | 1915. |
+| 12 | 639<br>1713<br>3815<br>1749 | 410927 | Private  | Mattice, James Clarence  | 59th Regt... | Mattice, James P  | R.R. No. 1, Farran’s Point, Ont  | Canada  | Cornwall  | July | 1915. |
+| 12 | 639<br>1742<br>3815<br>1778 | 410539 | Private  | Maunder, George  | Nil  | Maunder, John.  | 4 James Terr., James St., Exeter, Devon, Eng  | England  | Barriefield... | July | 1915. |
+| 12 | 639<br>1771<br>3815<br>1808 | 410563 | Private  | May, Edward  | S. A. | Freeman, Mrs. John.  | 79 Cottage St., Poplar, London, E., Eng  | England  | Alexandria. . . | Feb. | 1915. |
+| 12 | 638<br>1800<br>3816<br>1836 | 410827 | Private  | McCabe, James  | Can. Eng.. | McCabe, Mrs. Jeannie  | 123 Harvey St., Ottawa, Ont  | Scotland.... | Ottawa  | June | 1915. |
+| 12 | 638<br>1828<br>3816<br>1865 | 410145 | Private  | McCann, Patrick  | 43rd Regt. | McCann, Mrs. Mary Ann— | 81 Main St., Eastview, Ottawa, Ont  | Canada  | Ottaw’a—... | May | 1915. |
+| 12 | 638<br>1857<br>3816<br>1893 | 410828 | Private  | McCausland, Archibald  | Nil  | McCausland, William  | Not stated  | Canada  | Barriefield Cmp | July | 1915. |
+| 12 | 638<br>1887<br>3816<br>1924 | 410549 | Private  | McClelland, Thomas P  | Nil  | McClung, Mrs. J.   | Glasgow, Scot  | Scotland.... | Barriefield Cmp | May | 1915. |
+| 12 | 639<br>1916<br>3816<br>1952 | 410146 | Private  | McCloud, John  | Nil  | McCloud, Mrs. Lily  | 91 Albert St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 1915. |
+| 12 | 639<br>1945<br>3817<br>1980 | 410551 | Private  | McCoubrey, John Alexander.... | Nil  | McCoubrey, Mrs. Annie  | Grace Hill, Ballynahinch, Co. Down, Ire  | Ireland  | Barriefield. .. | July | 1915. |
+| 12 | 639<br>1974<br>3816<br>2009 | 410550 | Private  | McCormick, Frederick  | Nil  | McCormick, Mrs. Nellie  | P.O. Box 19, Arnprior, Ont  | Canada  | Barrifield.... | July | 1915. |
+| 12 | 639<br>2003<br>3817<br>2039 | 410366 | L.-Corporal. | McCormick, John  | Nil  | McCormick, Roderick  | Alexandria, Ont  | Canada  | Barriefield Cmp | June | 1915. |
+| 12 | 640<br>2033<br>3817<br>2067 | 410829 | Private  | McCracken, Frederick  | 59th Regt. | McCracken, William  | 247 Powell Ave., Ottawa, Ont  | Canada  | Ottawa  | May | 1915. |
+| 12 | 640<br>2063<br>3817<br>2097 | 410147 | Private  | McCracken, Samuel M  | Nil  | McCracken, Mrs. T  | Barhill, Ayr, Scot  | Scotland  | Ottawa  | Apr. | 1915. |
+| 13 | 345<br>292<br>1929<br>321 | 410830 | Private. |  | Nil  | McCreadie, Mrs. Maggie.... |
+| 13 | 344<br>319<br>3502<br>351 | 410148 | Private. |  | Can. Mil  | McCullough, William  |  | Feb. 24,1915. |
+| 13 | 344<br>348<br>3503<br>379 | 410831 | Private. |  | Nil  | McDonald, Mrs. Margaret.. |  | July 6,1915. |
+| 13 | 344<br>376<br>3502<br>408 | 410367 | Private. | McDonald, Duncan  | Nil  | McDonald, Dan  |  | June 9,1915. | Barriefield Cmp |
+| 13 | 343<br>406<br>3503<br>438 | 410955 | Private. |  |  | McDonald, Mrs. Mary Jane |  | May 1, 1915. |
+| 13 | 343<br>435<br>3503<br>468 | 410832 | Private. | McGarity, Jack  | Nil  | McGarity, Mrs. Patrick... |  | May 21, 1915. |
+| 13 | 342<br>463<br>3213<br>496 | 410368 | Private. |  | Nil  | McGillis, Angus  | Barriefield |
+| 13 | 342<br>522<br>3502<br>555 | 410369 | Sergeant  | McGilllivary, John  | G.G.F.G  | McGillivary, Mrs. Francis E |  | March 5, 1915. |
+| 13 | 342<br>552<br>3503<br>583 | 410149 | Private   |  | Nil  | McGovern, Mrs. Pauline  |  | Feb. 22, 1915. |
+| 13 | 342<br>581<br>3503<br>611 | 410552 | Private  |  | Nil  | McGowan, Peter  |  | June 9, 1915. |
+| 13 | 342<br>611<br>3502<br>641 | 410553 | Private  |  | Nil  | McGowan, Mrs. Matilda  |  | May 17, 1915. |
+| 13 | 342<br>640<br>3503<br>671 | 410150 | L.-Corporal. |  |  | McGreevy, Mrs. Josephine... |  | July 23, 1915. |
+| 13 | 342<br>669<br>3503<br>700 | 410554 | Private   |  | Nil  | McGregor, Mrs. Laura  |  | Mar. 25, 1915. |
+| 13 | 342<br>699<br>3503<br>729 | 410370 | Private   |  | Nil  | McGregor, Frances Annie.... |  | Feb. 26,1915. |
+| 13 | 342<br>728<br>3504<br>756 | 410833 | Private  |  | Nil  | Woodland, Mrs. Sarah  |  | June 3,1915. |
+| 13 | 342<br>757<br>3504<br>786 | 410834 | Private  |  | Nil  | Falconer, Mrs. W  |  | May 29, 1915. |
+| 13 | 342<br>786<br>3504<br>814 | 410835 | Private  |  | Nil  | McIntosh, Mrs. Minnie  |  | July 6, 1915. |
+| 13 | 341<br>815<br>3504<br>845 | 410836 | Private  |  | Nil  | McKay, Miss Mary  |  | May 31, 1915. | Ottawa  |
+| 13 | 342<br>844<br>3503<br>874 | 410555 | Private  |  | Nil  | McKay, Mrs. May  |  | July 28, 1915. |
+| 13 | 341<br>872<br>3504<br>901 | 410931 | Private  |  | Nil  | McKenzie, John  |  | Feb. 20, 1915. | Ottawa  |
+| 13 | 342<br>902<br>3504<br>930 | 410556 | Private  |  | Nil  | McKinnon, John  |  | July 28, 1915. |
+| 13 | 342<br>930<br>3504<br>959 | 410151 | Private  |  | Nil  | McLean, Mrs. Jane  |  | May 17, 1915. |
+| 13 | 342<br>960<br>3504<br>988 | 410557 | Private  |  | Nil  | McLellan, Alexander E  |  | Jan. 11,1915. |
+| 13 | 342<br>988<br>3504<br>1017 | 410558 | Private  |  | Nil  | McManus, Mrs. Rose Anna |  | April 28, 1915. |
+| 13 | 342<br>1018<br>1948<br>1048 | 410837 | Private  |  | Nil  | McMillan, George  |
+| 13 | 342<br>1046<br>3216<br>1076 | 410559 | Private  | McNab, John Peter  | Nil  | McNab, Mrs. Sarah E  | Barriefield |
+| 13 | 342<br>1104<br>3505<br>1133 | 410152 | Private.. | McNair, William  | Nil  | McNair, Alexander  |  | July 19, 1915. | Ottawa  |
+| 13 | 342<br>1133<br>3505<br>1163 | 410838 | Private.. |  | Nil  | McNamara, Mrs. Margaret |  | May S, 1915. |
+| 13 | 342<br>1162<br>3505<br>1192 | 410153 | Corporal. | McNeil, John  | S. A  | McNeil, Mrs. Margaret.... |  | Feb. 24, 1915. |
+| 13 | 342<br>1191<br>3505<br>1221 | 410839 | Corporal. | McNeil, Robert  | Nil  | McNeil, Mrs. Mary A  |  | Mar. 15, 1915. |
+| 13 | 342<br>1220<br>3506<br>1249 | 410840 | Private.. | McNulty, ClifFort Arthur E  | Nil  | McNulty, Peter  |  | July 29, 1915. |
+| 13 | 342<br>1249<br>3506<br>1278 | 410560 | Private.. | McNulty, J. Andrew  | Nil  | McNulty, Patrick  |  | Julv 28,1915. |
+| 13 | 342<br>1278<br>3506<br>1307 | 410561 | Private.. | McOrmond, Victor Borel  | Nil  | McOrmond, Mrs. May  |  | Julv 31, 1915. |
+| 13 | 342<br>1307<br>3506<br>1335 | 410562 | Private.. | McPeak, Patrick  |  | Devine, H. B  |  | July 28, 1915. |
+| 13 | 342<br>1335<br>3506<br>1364 | 410154 | Private.. | McRae, Donald  |  | McRae, Mrs. Isabella  |  | April 10, 1915. | Ottawa  |
+| 13 | 341<br>1365<br>3507<br>1392 | 410563 | Private.. |  | Nil  | Uncle  |  | July 28, 1915. |
+| 13 | 341<br>1394<br>3507<br>1422 | 410155 | Private.. |  | Nil  | McWilliam, Mrs. Eliza Jane |  | July 19, 1915. |
+| 13 | 341<br>1422<br>3507<br>1451 | 410541 | Corporal. | Meeks, James Morrison  | Nil  | Meeks, Mrs. Susan  |  | April 28, 1915. |
+| 13 | 341<br>1451<br>3507<br>1481 | 410816 | Private.. | Megginson, John Alfred  | Nil  | Megginson, Mrs  |  | July 29, 1915. |
+| 13 | 341<br>1480<br>3507<br>1509 | 410360 | Private.. | Meldrum, Frederick D  | Nil  | Meldrum, J. A  |  | July 28, 1915. |
+| 13 | 341<br>1509<br>1935<br>1539 | 410817 | Private. . | Melrose, Arthur Albert  | Nil  | Forth, David  |
+| 13 | 340<br>1538<br>3507<br>1567 | 410928 | Sergeant. | Menzies, Andrew Forest  | Nil  | Menzies, Mrs. Robert  |  | Feb. 26,1915. |
+| 13 | 341<br>1567<br>3507<br>1596 | 410361 | Private.. | Miller, William James  | Nil  | Miller, Almeada  |  | May 11, 1915. |
+| 13 | 340<br>1596<br>3508<br>1626 | 410542 | Private.. | Miller, William Lyle  |  | Miller, Thomas  |  | April 2S, 1915. |
+| 13 | 340<br>1625<br>3508<br>1654 | 410818 | Sergeant. | Mills, Wesley Daniel     | Nil  | Mills, Mrs. Elizabeth  |  | April 28, 1915. |
+| 13 | 340<br>1654<br>3508<br>1683 | 410543 | Private.. |  | Nil  | Milne, Miss Elizabeth  |  | May 28, 1915. |
+| 13 | 339<br>1683<br>3508<br>1713 | 410544 | Private.. | Mitchell, Denzel  |  | Mitchell, Mrs. Nellie  |  | Mar. 28, 1915. |
+| 13 | 339<br>1712<br>3508<br>1742 | 410139 | Private... | Mitchell, Walter  | Nil  | Mitchell, Mary  |  | May 17, 1915. |
+| 13 | 339<br>1741<br>3508<br>1770 | 410819 | Private... |  | Nil....  | Mollison, Jessie  |  | May 7, 1915. |
+| 13 | 339<br>1770<br>3220<br>1800 | 410820 | Private.., | Moore, John Osborne  | Nil  | Moore, Mrs. H. J  | Barriefield |
+| 13 | 338<br>1827<br>3509<br>1856 | 410821 | Private. | Moreau, Frederick  |  | Not stated  |  | July 6,1915. |
+| 13 | 338<br>1856<br>3509<br>1887 | 410140 | Private. |  |  | Morin, Mrs. Stella  |  | July 28,1915. |
+| 13 | 338<br>1885<br>3509<br>1917 | 410822 | Private. | Morris, Albert William  |  | Morris, Mrs. L  |  | June 3,1915. |
+| 13 | 338<br>1915<br>3509<br>1945 | 410141 | Private. | Morris. Andrew  |  | Morris, A  |  | May 1, 1915. |
+| 13 | 338<br>1944<br>1937<br>1975 | 410545 | Private. | Morris, Leonard  | Nil  | Morris, Mrs. Ada  |
+| 14 | 650<br>509<br>3315<br>560 | §i | Former Corps. |  | Country of |
+| 14 | 648<br>552<br>3753<br>597 | If |  |  |  | Place. | Date. |
+| 14 | 640<br>673<br>3303<br>703 | 410546 | Nil  |  | British West |
+| 14 | 3607<br>700<br>3805<br>727 |  |  |  |  |  | Sept. | 1 | 1915. |
+| 14 | 640<br>730<br>3805<br>762 |  |  |  |  |  | Julv | 410547 | Nil  | Morris, Denis R  | U.S.A  | 28 | 1915. |
+| 14 | 640<br>759<br>3804<br>789 | 410823 | Nil... |  | England  | Lindsav  | Feb. | 18 | 1915. |
+| 14 | 639<br>788<br>3804<br>817 | 410362 |  |  | Canada  |  | June | 10 | 1915. |
+| 14 | 640<br>817<br>3804<br>847 | 410142 | Nil... |  |  |  | Feb. | 26 | 1915. |
+| 14 | 640<br>845<br>3804<br>877 | 410363 | Nil... |  | England  |  | Feb. | 26 | 1915. |
+| 14 | 640<br>874<br>3804<br>905 | 410824 | Nil... |  |  |  | April 28 | 1915. |
+| 14 | 640<br>903<br>3804<br>934 | 410364 | Nil... |  |  |  | Feb. | 26 | 1915. |
+| 14 | 639<br>932<br>3804<br>961 | 410365 |  |  |  | Ottawa  | May | 20 | 1915. |
+| 14 | 639<br>961<br>3805<br>992 | 410143 | Nil... |  | Canada  |  | April 14 | 1915. |
+| 14 | 639<br>991<br>3805<br>1022 | 410825 |  |  | England  | Lindsay  | May | 8 | 1915. |
+| 14 | 638<br>1020<br>3804<br>1050 | 410954 | Nil... |  |  |  | 2 | 1915. |
+| 14 | 637<br>1049<br>3804<br>1084 | 410548 | Nil  | Murray, Miss Minnie  |  | Brockville  | Mar. | 2.5 | 1915. |
+| 14 | 637<br>1078<br>3804<br>1109 |  | Nil.. | 410826 | England  | Lindsay  | June | 5 | 1915. |
+| 14 | 638<br>1107<br>3805<br>1135 | 410144 |  |  |  | Ottawa  | May | 17 | 1915. |
+| 14 | 638<br>1136<br>3805<br>1164 | 410158 |  |  | Scotland  | Ottawa  | June | 10 | 1915. |
+| 14 | 637<br>1194<br>3805<br>1224 | 410157 | Nil... |  | England  | Ottawa  | Mav | 20 | 1915. |
+| 14 | 637<br>1228<br>3109<br>1256 | 410565 | Nil. . |
+| 14 | 3609<br>1252<br>3805<br>1278 |  |  |  |  |  | May | 28 | 1915. |
+| 14 | 637<br>1258<br>2325<br>1285 | 410566 | Nil. | Newbold, Annie    |
+| 14 | 636<br>1281<br>3805<br>1313 |  |  | Newcombe, Mrs. Jessie  | 410159 | England  | Ottawa  | Feb. | 22 | 1915. |
+| 14 | 636<br>1310<br>3805<br>1339 | 410160 | Nil |  |  | Ottawa  | May | 17 | 1915. |
+| 14 | 636<br>1339<br>3805<br>1369 | 410843 | Nil... |  |  |  | May | 31 | 1915. |
+| 14 | 637<br>1368<br>3805<br>1397 | 410933 | Nil... |  | Canada  | Cornwall  | Feb. | 20 | 1915. |
+| 14 | 636<br>1397<br>3806<br>1425 | 410372 |  |  | Scotland  | Ottawa  | Mar. | 2 | 1915. |
+| 14 | 636<br>1426<br>3806<br>1456 | 410373 | Nil... |  |  |  | May | 20 | 1915. |
+| 14 | 636<br>1455<br>3806<br>1485 | 410844 | Nil... |  | England  |  | May | 7 | 1915. |
+| 14 | 635<br>1484<br>3806<br>1511 | 410845 |  |  |  | Ottawa  | May | 31 | 1915. |
+| 14 | 636<br>1513<br>3806<br>1540 | 410568 |  |  |  |  | Mar. | 25 | 1915. |
+| 14 | 635<br>1542<br>3806<br>1571 | 410934 | Nil.... |  | England  | Ottawa  | Mar. | 1 | 1915. |
+| 14 | 3608<br>1571<br>3806<br>1593 |  |  |  |  |  | Mar. | 19 | 1915. |
+| 14 | 634<br>1599<br>3806<br>1629 | 410162 | Nil  |  |  |  | April 10 | 1915. |
+| 14 | 634<br>1629<br>3806<br>1658 | 410567 | Nil  |  |  |  | Julv | 28 | 1915. |
+| 14 | 634<br>1658<br>3806<br>1687 | 410935 | Nil  |  |  | Ottawa  | May | 1 | 1915. |
+| 14 | 633<br>1687<br>3806<br>1716 | 410846 | Nil  |  |  | Lindsay  | May | 28 | 1915. |
+| 14 | 633<br>1715<br>3806<br>1743 | 410569 |  |  |  |  | May | 11 | 1915. |
+| 14 | 633<br>1744<br>3806<br>1774 | 410570 | Nil  |  |  | Ottawa  | Mar. | 1 | 1915. |
+| 14 | 632<br>1773<br>3806<br>1806 | 410571 | Can. Mil  |  |  | Barriefield  | May | 28 | 1915. |
+| 14 | 632<br>1802<br>3807<br>1836 | 410163 | Nil  |  |  |  | Feb. | 24 | 1915. |
+| 14 | 631<br>1831<br>3807<br>1861 | 410164 | C.F.A  |  |  |  | Feb. | 22 | 1915. |
+| 14 | 631<br>1860<br>3807<br>1893 | 410572 | Nil  | O’Neill, T   |  |  | May | 20 | 1915. |
+| 14 | 631<br>1889<br>3807<br>1919 | 410573 | Nil  |  |  |  | Julv | 28 | 1915. |
+| 14 | 630<br>1918<br>3807<br>1947 | 410574 | Nil... |  |  |  | July | 28 | 1915. |
+| 14 | 630<br>1947<br>3808<br>1977 | 410575 | Nil... |  |  |  | April 28 | 1915. |
+| 14 | 629<br>1977<br>3808<br>2005 | 410576 | Nil .. |  |  |  | 1915. |
+| 14 | 629<br>2005<br>3808<br>2035 | 410166 | Nil |  |  |  | Julv | 17 | 1915. |
+| 14 | 629<br>2035<br>3808<br>2062 | 410847 | Nil  |  | Canada  |  | May | 31 | 1915. |
+| 14 | 628<br>2064<br>3809<br>2097 | 410165 |  | Ousman, Mrs. E. G  | England  |  | June | 3 | 1915. |
+| 15 | 340<br>419<br>3502<br>449 | 410S4F |  |  |  |  |  | England  | Lindsay  | Mar. | 8 | 1915. |
+| 15 | 339<br>448<br>3501<br>481 | 410374 |  |  | Nil |  |  | England  | Cornwall  | May | 17 | 1915. |
+| 15 | 339<br>477<br>3501<br>510 | 410167 |  |  | Nil |  |  | England  |  | May | 1 | 1915. |
+| 15 | 339<br>507<br>3500<br>539 | 410577 |  |  | Nil |  |  | England  | Cornwall  | Jan. | 8 | 1915. |
+| 15 | 3306<br>536<br>3500<br>559 |  |  |  |  |  |  |  |  | Hfih. | 2fi | 1915. |
+| 15 | 3302<br>565<br>3500<br>592 |  |  |  |  |  |  |  |  | May | 25 | 1915. |
+| 15 | 338<br>594<br>3500<br>630 |  |  | Partridge, Christopher Samuel  | 410849 | Private  | Nil  | Partridge, Miss E  | Regent St., Oadby, Leicester, Eng  | England  | May 31 | 1915. |
+| 15 | 337<br>623<br>3500<br>658 |  |  |  |  |  |  |  |  | July 28 | 1915. | 410579 | Private  | Pascovitzs, Mrs. John  | Russia  |
+| 15 | 337<br>652<br>3500<br>687 |  |  |  |  |  |  |  |  | April 28 | 1915. | 410580 | 33 Apple St., Brockville, Ont  | Ottawa.    |
+| 15 | 337<br>682<br>3500<br>714 | 410850 |  |  | Nil |  |  |  | Lindsay  | May | 7 | 1915. |
+| 15 | 336<br>712<br>3212<br>743 | 410376 |  |  |  |  | 6 Powis Place, Aberdeen, Scot  |  | Barriefield |
+| 15 | 3299<br>740<br>3500<br>765 |  |  |  |  |  |  |  |  | Julv | m | 1915. |
+| 15 | 335<br>769<br>3499<br>800 | 410377 |  |  | Nil |  |  |  |  | May | 12 | 1915. |
+| 15 | 335<br>799<br>3499<br>830 | 410851 |  |  | Nil. . |  |  | England  |  | April 22 | 1915. |
+| 15 | 335<br>828<br>3499<br>858 | 410852 |  |  | Nil. . |  | 61 Richmond St., Brantford, Ont  |  | Lindsay  | May | 29 | 1915. |
+| 15 | 334<br>858<br>3499<br>888 | 410853 |  |  | Nil  |  | 8 Suffolk Place, Hoinew’ood Ave., Toronto, Ont  | U.S.A  |  | July | 28 | 1915. |
+| 15 | 333<br>887<br>3499<br>916 | 410378 |  |  | Nil... |  |  |  |  | May | 20 | 1915. |
+| 15 | 333<br>916<br>3499<br>944 | 410854 | C.S.M  |  |  |  |  |  |  | May | 13 | 1915. |
+| 15 | 333<br>945<br>3499<br>973 | 410168 |  |  | Nil... |  |  |  |  | Feb. | 22 | 1915. |
+| 15 | 332<br>977<br>2005<br>1007 | 410169 |  |  | S. A  | Pennington, Mrs. Sarah M. Cons- |
+| 15 | 3302<br>1002<br>3499<br>1025 |  |  |  |  |  |  |  |  | Mar. | 13 | 1915. |
+| 15 | 332<br>1031<br>3499<br>1061 | 410170 |  |  | Nil... |  |  |  |  | July | 10 | 1915. |
+| 15 | 331<br>1060<br>3500<br>1089 | 410581 |  |  | Nil... |  |  |  |  | Feb. | 24 | 1915. |
+| 15 | 331<br>1090<br>2804<br>1121 | 410856 | L.-Sergeant  |  | Nil  |  | 30 Franklin St., Winson Green, Birmingham, Warwick, |
+| 15 | 3300<br>1117<br>3498<br>1141 |  |  |  |  |  |  |  |  | Mar. | 20 | 1915. |
+| 15 | 330<br>1147<br>3499<br>1177 | 410855 |  |  | Nil .. |  | 104, 179th St., New York, N.Y., U.S.A  | U.S.A  |  | June | l | 1915. |
+| 15 | 330<br>1176<br>3499<br>1208 | 410582 |  |  |  | Baker, Mrs. J. W  | P O Wales. Ont |  |  | June | 0 | 1915. |
+| 15 | 330<br>1205<br>3499<br>1235 | 410857 |  |  | Nil |  | 24 Grafton St., Glasgow, Scot  |  | Lindsay  | May | 28 | 1915. |
+| 15 | 329<br>1234<br>3498<br>1263 | 410858 |  |  | Nil . |  |  | Canada  |  | June | 10 | 1915. |
+| 15 | 328<br>1263<br>3490<br>1296 | 410171 |  | Peterson, Oscar Oy vinn  | Nil  | Peterson, Mrs. Ida  |  |  |  | Feb | 2fi | 1915 |
+| 15 | 328<br>1293<br>3499<br>1325 |  |  | Pettit, Cecil Percy  | Nil  | Pettit, Mrs. Clara  | 410172 | L. Corporal  | 13 Grim wood Rd., Twickenham, M’sex, Eng  | England  | Ottawa  | July | 24 | 1915. |
+| 15 | 328<br>1322<br>3499<br>1354 |  |  | Phillips, Carswell Edward  | Nil  | Phillips, Mrs. Adeline Gladys... : | 410583 | Private  | 233 Bartholomew St., Brockville, Ont  | Canada  | Brockville  | Mar. | 25 | 1915. |
+| 15 | 327<br>1351<br>3498<br>1379 |  |  |  | Nil | 410859 |  |  |  | May | 22 | 1915. |
+| 15 | 327<br>1380<br>3498<br>1408 | 410584 |  |  | Can Mil |  |  |  |  | Mar. | 25 | 1915. |
+| 15 | 326<br>1409<br>3498<br>1433 | 410379 |  |  |  |  |  |  |  | Mar. | 2 | 1915. |
+| 15 | 326<br>1438<br>3498<br>1467 | 410173 | C.Q.M.S  |  |  |  |  |  |  | Feb. | 22 | 1915. |
+| 15 | 326<br>1467<br>3498<br>1494 | 410585 |  |  |  |  |  |  |  | July | 28 | 1915. |
+| 15 | 325<br>1496<br>3498<br>1522 | 410174 |  |  |  |  |  |  | Ottawa  | May | 17 | 1915. |
+| 15 | 325<br>1525<br>3498<br>1553 | 410586 |  |  | Nil |  |  | U.S.A  | Smith’s Falls... | June | 3 | 1915. |
+| 15 | 324<br>1553<br>3498<br>1581 | 410175 |  |  |  |  |  |  |  | July | 19 | 1915. |
+| 15 | 324<br>1583<br>3498<br>1610 | 410860 |  |  | Nil |  |  |  |  | May | 7 | 1915. |
+| 15 | 324<br>1612<br>3498<br>1642 | 4103S0 |  |  | G.G.F.G  |  |  |  |  | Julv | 20 | 1915. |
+| 15 | 324<br>1641<br>3498<br>1669 |  |  |  | Nil | 410381 | Corporal.....  |  |  | Mar. | 2 | 1915. |
+| 15 | 324<br>1670<br>3498<br>1695 | 410936 | Private  |  |  |  |  |  |  | Mar. | 3 | 1915. |
+| 15 | 323<br>1699<br>3498<br>1727 | 410587 | Private  |  | Nil . |  |  |  |  | Mar. | 3 | 1915. |
+| 15 | 323<br>1728<br>3498<br>1758 | 410588 | Private  |  | C.A.S.C  |  | 32 Greenwood Rd., St. James, Northampton, Eng  | England  | Ottawa  | Julv | 28 | 1915. |
+| 15 | 323<br>1758<br>3497<br>1787 | 410176 |  |  |  |  | 2684 St. Urbain St., Montreal, P.Q  |  |  | May | 4 | 1915. |
+| 15 | 323<br>1786<br>3498<br>1816 |  |  |  |  |  | 2684 St. Urbain St., Montreal, P.Q  |  |  | May | 410589 | Private  | Nil. . | England  | 28 | 1915. |
+| 15 | 323<br>1815<br>3498<br>1842 | 410861 | Private  |  | Nil |  |  |  |  | Tilly | 6 | 1915. |
+| 15 | 323<br>1843<br>3498<br>1869 | 410590 | Private  |  |  |  |  |  |  | June | 12 | 1915. |
+| 15 | 323<br>1873<br>3498<br>1901 | 410177 |  |  | Nil |  |  |  |  | Mar. | 0 | 1915. |
+| 15 | 323<br>1902<br>3498<br>1925 | 410004 |  |  |  |  |  |  |  | Feb. | 22 | 1915. |
+| 15 | 322<br>1931<br>3498<br>1961 | 410383 |  |  | C.A.M.C  |  |  |  |  |  | 12 | 1915. |
+| 15 | 322<br>1960<br>3498<br>1991 |  |  |  | Nil  | 410593 | Pringle, Jesse  |  |  | May | 11 | 1915. |
+| 15 | 322<br>1989<br>3496<br>2012 | 410592 |  |  |  |  |  |  |  |  | 11 | 1915. |
+| 15 | 321<br>2018<br>3498<br>2047 | 410862 |  |  | Nil |  |  |  |  | Julv | fi | 1915. |
+| 15 | 322<br>2047<br>3498<br>2074 | 410937 |  |  |  |  |  |  |  | May | 1 | 1915. |
+| 15 | 321<br>2077<br>3498<br>2105 | 410956 | Private  |  | Nil... |  |  |  |  | Feb. | 22 | 1915. |
+| 15 | 321<br>2106<br>3498<br>2135 | 410594 | Private  |  | Nil... |  |  |  |  | May | 18 | 1915. |
+| 15 | 321<br>2135<br>3500<br>2166 | 410591 | Private  | Proutt, Joseph  | NTil  |  | 32 Claremont St., Toronto, Ont  |  |  | July | 28 | 1915. |
+| 16 | 821<br>571<br>3301<br>600 |  |  |  |  |  |  | Country of |
+| 16 | 634<br>719<br>3802<br>755 | 410595 | Private  |  | Nil  |  | Redwood, N.Y., U.S.A  |  |  | May 11, 1915. |
+| 16 | 634<br>754<br>3802<br>784 | 410596 |  |  | Nil  |  |  |  |  | May 28, 1915. |
+| 16 | 634<br>777<br>3802<br>813 | 410597 | Private  |  | Nil  |  |  |  |  | July 28, 1915. |
+| 16 | 634<br>806<br>3802<br>843 | 410863 | Private  |  | Nil  |  |  |  |  | May 8,1915. |
+| 16 | 634<br>836<br>3802<br>872 | 410598 | Private  |  | Nil  |  |  |  |  | Mar. 25,1915. | Green Point Hotel, Syracuse, N.Y., U.S.A  |
+| 16 | 634<br>865<br>3802<br>901 | 410384 | Private  |  | Nil  |  |  |  |  | Mar. 1, 1915. |
+| 16 | 633<br>890<br>3802<br>930 | 410864 | Private  | Ravenscroft, Walter  | Nil  |  |  |  |  | July 6, 1915. | Ravenscioft, Walter  | Canada  | Barriefield  |
+| 16 | 633<br>920<br>3803<br>959 | 410865 | Private  |  | Territorials.. |  |  |  |  | Mav 21, :915. | Lindsay  | England  |
+| 16 | 633<br>958<br>3803<br>992 | 410385 |  |  | 14 th Regt... |  |  |  |  | July 28, :915. |
+| 16 | 732<br>978<br>3801<br>1014 |  | Private  |  |  |  |  |  |  | July 28,1915. | England  | Barriefield Cmp |
+| 16 | 633<br>1009<br>3802<br>1047 | 410178 | Private  |  | Nil  |  |  |  |  | Mar. 5,1915. | Ottawa  |
+| 16 | 633<br>1036<br>3803<br>1076 | 410386 | Private  |  | Nil  |  |  |  |  | July 23, :.915. | Barriefield Cmp | 68 Alma St., Hull, P.Q  | Canada  |
+| 16 | 731<br>1070<br>3802<br>1101 |  | Private  |  |  |  |  |  |  | July 19,1915. | Reynolds, F. A   |
+| 16 | 731<br>1157<br>3804<br>1189 |  | Private  | Richardson, Albert Edward P  |  |  |  |  |  | May 17,1915. |
+| 16 | 731<br>1270<br>3805<br>1306 |  | Private  |  |  |  |  |  |  | May 9, 1915. | Rick ward, Mrs. Annie | 60 Shaw St., Toronto, Ont | Lindsay |
+| 16 | 732<br>1299<br>3805<br>1337 |  | R.Q.M.S  | Ridley, George Joseph T  |  |  |  |  |  | Feb. 26,1915. | Ridley, Mrs. Emma Margaret. ... | 87 Preston St., Ottawa, Qn^ | England. | Ottawa |
+| 16 | 731<br>1329<br>3805<br>1364 |  | Private | Riley, John..    |  |  |  |  |  | May 17, 1915. | Riley, John | Nelson, Lancs., Eno- | England | Ottawa |
+| 16 | 632<br>1360<br>3806<br>1400 | 410S67 | Sergeant | Riley, Walter Henry F  | Imp. Forces. |  |  |  |  | Feb. 22, 1915. | Riley, Mrs. Ada .. | Westborough, Qnt | England | Ottawa |
+| 16 | 1003<br>1389<br>3806<br>1422 |  |  | Risch, W'alter  |  |  |  |  |  | May 31, 1915. | England | Ottawa  |
+| 16 | 632<br>1418<br>3806<br>1455 | 410602 | Private  |  | Nil  |  |  |  |  | Mar. 10,1915. | Russia | Alexandria  |
+| 16 | 632<br>1452<br>3806<br>1485 | 410603 | Private  |  | Nil  |  |  |  |  | Mar. 1, 1915. | Riy,John  |
+| 16 | 632<br>1481<br>3807<br>1514 | 410390 |  | Roberts, Edgar  | Nil  |  |  |  |  | Mar. 4,1915. | Roberts, R. W  | Cornwall  |
+| 16 | 632<br>1511<br>3807<br>1543 | 410391 | Private  | Roberts, Frederick Wood | Nil  |  |  |  |  | Mar. 12,1915. | Roberts, Robert  | Cornwall  |
+| 16 | 631<br>1540<br>3807<br>1573 | 410869 |  | Roberts, George.. | Nil  |  |  |  |  | July 6, 1915. | Roberts, Mrs. Mary  | 16 Buleer Avre., Pt. St. Charles, Montreal. P.Q  | Barriefield  |
+| 16 | 631<br>1569<br>3807<br>1604 | 410604 |  | Roberts, John F... | Nil  |  |  |  |  | May 1, 1915. | 19 Becklon Rd., Canning Town, London, Eng  |
+| 16 | 631<br>1598<br>3806<br>1632 | 410605 | Private  | Roberts, Victor Joseph  | Nil  |  |  |  |  | Apr. 28,1915. | Roberts, Mrs. Marv | Ottawa  |
+| 16 | 632<br>1627<br>3808<br>1661 | 410182 |  | Robertson, John M. | Nil  |  |  |  |  | Feb. 24,1915. | Robertson, Mrs Annie | Ottawa  |
+| 16 | 631<br>1657<br>3807<br>1690 | 410183 | Private  |  | Nil  |  |  |  |  | Feb. 22, 1915. | Robertson Rev. Adam   | Ottawa  |
+| 16 | 632<br>1688<br>1684<br>1719 | 410870 |  | Robinson, Hugh Russell S  | Nil  |
+| 16 | 632<br>1714<br>3807<br>1748 | 410606 | Private  | Robinson, William Morris  | Nil  |  |  |  |  | May 11, 1915. | Albert St., Lindsay, Ont  | Belleville  |
+| 16 | 632<br>1743<br>3807<br>1780 | 410871 |  |  | Nil  |  |  |  |  | July 6, 1915. | U.S. A  | Barriefield  |
+| 16 | 632<br>1771<br>3807<br>1806 | 410607 | Private  | Rochon, Arthur | Nil  |  |  |  |  | Apr. 28, 1915. | Ottawa  |
+| 16 | 632<br>1801<br>3807<br>1836 | 410872 | Private  | Rochon, Gusty | Can. Mil.... |  |  |  |  | Mar. 1, 1915. | Alexandria  |
+| 16 | 632<br>1829<br>3807<br>1866 | 410392 | Corporal. . . | Rogers, George Harold  | Nil  |  |  |  |  | May 5, 1915. | Ottaw'a  |
+| 16 | 632<br>1862<br>3107<br>1899 | 410393 | Private | Roll, John George   | Nil  |  | 1 Orde Ave., Willington Quay, Northumberland, Eng.. |
+| 16 | 632<br>1887<br>3808<br>1926 | 410394 |  | Romanuk, Mike  | Nil  |  |  |  |  | Mar. 2, 1915. | Canada  | Ottawa  |
+| 16 | 632<br>1980<br>1684<br>2011 | 410184 |  | Rose, William  | Nil  |
+| 16 | 632<br>2033<br>3809<br>2070 | 410186 |  |  | Nil  |  |  |  |  | Feb. 24, 1915. | Lawn House, Grosvenor Place, Margate, Kent, Eng. . . | Ottawa  |
+| 16 | 631<br>2062<br>3809<br>2099 | 410874 |  |  | Nil  |  |  |  |  | June 8, 1915. | Rockland, St. Mary’s, Norfolk, Eng  | Rudrum, Marv Ann  | England  | Kingston  |
+| 16 | 632<br>2098<br>3105<br>2129 | 410670 |  |  | R.C.R  | Wilkins, Mrs. W  | 61 Jarvis St., Toronto, Ont  |
+| 16 | 631<br>2121<br>3810<br>2160 | 410187 | Private  | Russell, David  | Nil  |  |  |  |  | Feb. 26,1915. | Russell, Robert  | 238 Gloucester St., Ottawa, Ont  | Canada  | Ottawa  |
+| 17 | 324<br>425<br>3486<br>461 | 410608 Private  | Ruston, Walter  | Nil  | Olmstead, Samuel  | . Cobden, Ont England.. | Barriefield  | Julv | 28 | 1915. |
+| 17 | 324<br>455<br>3487<br>490 | 410875 Private  | Rutherford. Frederick  |  | Rutherford, Mrs. Ruby | . 146 Jones Ave., Toronto, Ont England.. | Lindsay  | May | 8 | 1915. |
+| 17 | 323<br>484<br>3487<br>519 | 410809 Private  | Ryan, Daniel Joseph  | Nil  | Ryan, Michael M  | . 326 Church St. W., Brockville, Ont Canada... | Ottawa  | Apr. | 28 | 1915. |
+| 17 | 323<br>513<br>3487<br>549 | 410876 Private  | Ryan, James Patrick  | Nil  | Whitson, Mrs. G     | . London, Eng England.. | Barriefield  | Julv | 6 | 1915. |
+| 17 | 323<br>542<br>3488<br>578 | 410877 Private  | Ryan, Joseph Patrick  | Nil  | Whitson, Mrs. G  | . London, Eng England.. | Barriefield  | Julv | 6 | 1915. |
+| 17 | 323<br>571<br>3487<br>608 | 410396 Private  | Sage, John  | G.G.F.G  | Sage, Mrs. Delia  | . 522 Laurier Ave. W., Ottawa, Ont Canada... | Ottawa  | July | 19 | 1915. |
+| 17 | 322<br>601<br>3487<br>637 | 410610 Private  |  |  | Sager, John  | . Deseronto, Ont Canada... | Ottawa  | Apr. | 28 | 1915. |
+| 17 | 322<br>630<br>3488<br>666 | 410611 L.-Corporal. | Sager, James Robert  | Nil  | Sager, Mrs. Lena Beatrice | . P.O. Box 100, Pembroke, Ont Canada... | Ottawa  | Apr. | 28 | 1915. |
+| 17 | 322<br>659<br>3488<br>694 | 410879 Private  | Sancier, Ephraim  | Nil  | Sancier, Joseph  | . Martin town, Ont Canada... | Cornwall  | June | y | 1915. |
+| 17 | 322<br>688<br>3488<br>723 | 410612 Private  |  |  | Sandiford, William  | . P.O., Brownton, Ont England.. | Peterborough... | May | 26 | 1915. |
+| 17 | 321<br>717<br>3488<br>753 | 410397 Private  |  | Nil  | Sannady, William.    | . 556 Church St., Ottawa, Ont Canada... | Ottawa  | May | IV | 1915. |
+| 17 | 321<br>746<br>3488<br>781 | 410878 Corporal.... |  | Nil  | Sargeant, Major William | . The Grove, High Rd., S. Woodford, Essex, Eng England.. | Ottawa  | May | 31 | 1915. |
+| 17 | 321<br>776<br>3488<br>810 | 410613 Private  |  |  | Scirelli, Antonia  | . Casetta, Sepingiano, Italy Italy  | Brockville  | May | 20 | 1915. |
+| 17 | 320<br>804<br>3488<br>839 | 410614 Private  | Scobie, Russell  | Nil  | Scobie, Mrs. Lyrus  | . Kars, Ont Canada... | Barriefield  | May | 28 | 1915. |
+| 17 | 320<br>833<br>3488<br>867 | 410398 L.-Corporal. | Scott, Frederick  | Nil  | Scott, Mrs. R  | . 88 Coplow St., Birmingham, Warwick, Eng England.. | Ottawa  | May | 20 | 1915. |
+| 17 | 320<br>862<br>3488<br>897 | 410189 Private  | Scott, Stephen Bert  |  | Scott, Mrs. Margaret  | . Apt. A., 47 Duke St., Ottawa, Ont Canada... | Ottawa  | Apr. | 10 | 1915. |
+| 17 | 320<br>891<br>3489<br>925 | 410881 Private  | Scott, Thomas Wilson  | Nil  | Scott, William L  | . Winchester, Ont Canada... | Barriefield  | July | 0 | 1915. |
+| 17 | 320<br>920<br>3489<br>955 | 410399 Private  | Scott, William  | Nil  | Scott, Mrs. Margaret  | , 1036 Logan Ave., Toronto, Ont Scotland. | Barriefield  | Julv | 23 | 1915. |
+| 17 | 319<br>948<br>3489<br>983 | 410188 Private  | Scoular, William John  | Nil  | Boyle, Mrs. Elizabeth  | , 152 Bridge St., Ottawa, Ont Scotland. | Ottawa  | Julv | 19 | 1915. |
+| 17 | 320<br>977<br>3489<br>1012 | 410882 Private  | Searle, William Lywnn  | Nil  | Searle, Mrs. Kate  | . 2 Cecil Rd., Croydon, Surrey, Eng England.. | Lindsay  | May | 28 | 1915. |
+| 17 | 319<br>1006<br>3490<br>1041 | 410883 Private  | Seguin, Tancrede  | Nil  | Seguin, Peter  | . Hawkesbury, Ont Canada.. | Ottawa  | May | 31 | 1915. |
+| 17 | 319<br>1035<br>3490<br>1070 | 410190 Private  | Sepo, John Joseph  | G.G.F.G  | O’Connor, Mrs. Elizabeth | Liverpool, Eng England.. | Ottawa  | Julv | 19 | 1915. |
+| 17 | 319<br>1064<br>3490<br>1099 | 410615 Private  |  | C.A.M.C  | Shannessy, Harry  | Hughes, Mrs. Jennie  | Port Colborne, Ont Canada... | Barriefield Cmp | June | 9 | 1915. |
+| 17 | 320<br>1093<br>3490<br>1127 | 480228 Private  |  | Nil  | Shea, James Edward  | Shea, Mrs. Maria  | , 91 Kent St., Lindsay, Ont Canada... | Lindsay  | June | 1 | 1915. |
+| 17 | 319<br>1122<br>3490<br>1156 | 410616 Private  | Shemelds, Bernard  | Nil  | Woodhouse, Clara  | , 26 Wallace Rd., Sheffield, Yorks., Eng England.. | Belleville  | May | 12 | 1915. |
+| 17 | 319<br>1151<br>3490<br>1185 | 410884 Private  | Sheppard, Alexander B  |  | Sheppard, Mrs. Adelain | . 68 Regent Park Rd., London, Eng India  | Ottawa  | Mav | 31 | 1915. |
+| 17 | 319<br>1180<br>3490<br>1211 | 410617 Private  | Sherman, Harry  | Nil  | Not stated  | . Not stated Canada... | Barriefield  | July | 28 | 1915. |
+| 17 | 319<br>1209<br>3491<br>1243 | 410618 Private  | Shuttle, William Charles  | Nil  | Shuttle, James  | . 48 Rainsford Rd., Toronto, Ont Canada... | Barriefield  | Julv | 28 | 1915. |
+| 17 | 319<br>1237<br>3491<br>1272 | 410400 Private  | Siggins, James  | Nil  | Siggins, Mrs. E  | , New Rd., Ascot, Berks., Eng England.. | Ottawa  | Feb. | 26 | 1915. |
+| 17 | 319<br>1266<br>3491<br>1302 | 410401 Private  |  | Nil. .. | Meindl, Mrs. Angelina  | , 79 Maryland St., Winnipeg, Man Russia.. . | Barriefield Cmp | July | 23 | 1915. |
+| 17 | 319<br>1295<br>3491<br>1330 | 410619 Private  | Silcock, William  |  | Silcock, Mrs. Annie  | . 247 Aylmer St., Peterboro, Ont England.. | Peterboro  | Julv | 31 | 1915. |
+| 17 | 319<br>1324<br>3492<br>1360 | 410885 Private  | Simmons, Edward  | Nil  | Simmons, Evelyn  | , 241 Hackney Rd., London, Eng England.. | Lindsay  | Feb. | 20 | 1915. |
+| 17 | 319<br>1353<br>3491<br>1387 | 410620 Private  | Simmons, Herbert Wilson  | Nil  | Simmons, William  | , Simmons, P.Q Canada... | Barriefield  | May | 28 | 1915. |
+| 17 | 319<br>1383<br>3492<br>1416 | 410621 L.-Corporal.. | Simmons, Maurice  | Nil  | Simmons, Mrs. Lena  | . 23 Caer Howell St., Toronto, Ont England.. | Lindsav  | May | 21 | 1915. |
+| 17 | 319<br>1411<br>3491<br>1446 | 410622 Private  | Singh, Warvam  | Nil  | Singh, Wazer  | . Dholehae, Kaputhald, Punjab, India India  | Barriefield Cmp | July | 28 | 1915. |
+| 17 | 319<br>1440<br>3491<br>1475 | 410886 Private  | Singleton, John  | U. S. Army  | Singleton, Mrs. C  | . Watertown, N.Y., U.S.A U.S.A.... | Barriefield  | Julv | b | 1915. |
+| 17 | 318<br>1469<br>3491<br>1503 | 410887 Sergeant  | Smellie, William Alexander  |  | Smellie, Mrs. W. A  | . Hamilton,Bermuda, B.W.I Scotland. | Bermuda  | Aug. | 27 | 1915. |
+| 17 | 318<br>1498<br>3491<br>1532 | 410880 Private  | Smith, Charles  | Nil  | McKenzie, Mrs. Catherine | . c/o Mrs. Holder, R. R. No. 3, St. Catharines, Ont Scotland. | Lindsay  | Mar. | 19 | 1915. |
+| 17 | 317<br>1527<br>3492<br>1561 | 410623 Private  | Smith, Charles Frederick  |  | Smith, Mrs. Charlotte  | . 27 Ann St., Smith’s Falls, Ont U.S.A  | Ottawa  | May | 0 | 1915. |
+| 17 | 317<br>1556<br>3492<br>1590 | 410939 Private  | Smith, Edward Peter J  | Nil  | Meehan, Rev. J. A  | . Morrisburg, Ont England.. | Alexandria  | Feb. | 27 | 1915. |
+| 17 | 317<br>1585<br>3491<br>1620 | 410402 Private  | Smith, Frederick  | Nil  | Smith, Mrs. Mary Francis | . 288 Wellington St., Ottawa, Ont Canada... | Ottawa  | Mar. | 2 | 1915. |
+| 17 | 317<br>1614<br>3492<br>1648 | 410940 Private  | Smith, Guy  | Nil  | Smith, John  | , P.O. Box 402, Cornwall, Ont Canada... | Cornwall  | Julv | 29 | 1915. |
+| 17 | 317<br>1643<br>3492<br>1677 | 410191 Private  |  |  | Smith, Mrs. Sara  | 34 Cedar St., Hightown, Manchester, Eng England.. | Ottawa  | July | 24 | 1915. |
+| 17 | 317<br>1671<br>3493<br>1705 | 410888 Private  |  |  | Smith, Charles  | 310 Flora St., Ottawa, Ont Canada... | Barriefield Cmp | July | 6 | 1915. |
+| 17 | 316<br>1701<br>3493<br>1736 | 410889 Private  | Smith. James  | Nil | Armstrong, Mrs. T. G  | 222 Armstrong St., Ottawa, Ont England.. | Barriefield Cmp | Julv | 6 | 1915. |
+| 17 | 315<br>1730<br>3493<br>1765 | 410404 Private  | Smith, James McKenzie  | Nil  | Young, Miss  | 152 Marganley St., Glasgow, Scot Scotland. | Cornwall  | Jan. | 29 | 1915. |
+| 17 | 315<br>1759<br>3493<br>1792 | 410403 Private  | Smith, John Christopher  | Nil  | Smith, Mrs. Hannah  | 237 Holland Ave., Ottawa, Ont England.. |  | July | 20 | 1915. |
+| 17 | 314<br>1788<br>3493<br>1822 | 410890 Private  | Smith, John H  |  | Smith, Mrs. J. H  | 107 Avenue 1, South, Saskatoon, Sask England.. | Barriefield  | Julv | 6 | 1915. |
+| 17 | 314<br>1817<br>3493<br>1851 | 410624 L.-Corporal.. |  |  | Smith, Mrs. Jane  | Liverpool, Eng England.. | Barriefield  | Julv | 28 | 1915. |
+| 17 | 313<br>1846<br>3493<br>1880 | 410192 Private  | Smith, Vincent  | Nil. . | Smith, Mrs. Sara  | 34 Cedar St., Hightown, Manchester, Eng England.. | Ottawa  | Julv | 24 | 1915. |
+| 17 | 313<br>1875<br>3493<br>1909 | 410625 Private  | Snider, Floyd  | Nil... | Snider, Alfred  | Delta, Ont   Canada.. |  |  | ?( | 1915. |
+| 17 | 312<br>1904<br>3494<br>1939 | 410405 Private  | Soper, Willard Sherwood  | Nil  | Soper, Mrs. M. A  | Prescott, Ont U.S.A  | Prescott  | Jur.e | 9 | 1915. |
+| 17 | 312<br>1933<br>3494<br>1968 | 410193 Private  | Sowter, Edwin  | Nil | Sowter, Mrs. Toty  | , Aylmer East, P.Q Canada... | Ottawa  | Feb. | 2b | 1915. |
+| 17 | 311<br>1962<br>3494<br>1998 | 410194 Private  | Sparks, Ernest  |  | Sparks, Mrs. Annie  | , 5 Lyndhurst Grove, London, Eng England.. | Not stated  | May | 1 | 1915. |
+| 17 | 311<br>1991<br>3494<br>2027 | 410195 Private  | Spear, Robert George  |  | Spear, Mrs. Carrie  | , Hillson Ave., Ottawa West, Ont England.. | Ottawa  | Feb. | 2b | 1915. |
+| 17 | 311<br>2020<br>3494<br>2056 | 410891 Private  | Spears, Robert Harold  | Nil  | Spears, Alexander  | , Kingston Rd. & Blantair Ave., Scarborough, Ont Canada... | Lindsay  | June | 1 | 1915. |
+| 17 | 310<br>2050<br>3494<br>2085 | 410406 Private  | Spencer, Frank  |  | Spencer, Mrs. Elizabeth | , 20 Westfield Terrace, Bradford, Yorks, Eng England.. | Barriefield  | Julv | 23 | 1915. |
+| 17 | 310<br>2079<br>3494<br>2114 | 410959 Private  | Spencer, Harry Herbert:  | C.A.M.C  | Spencer, Harry Herbert | , 133 Balsam St., Ottawa, Ont Canada... | Ottawa  | May | 1 | 1915. |
+| 17 | 310<br>2108<br>3495<br>2143 | 410892 Private  | Spicer, Robert  | Nil  | Spicer, Mrs. Sarah  | , 13 Northway Rd., Camberwell, London, Eng England.. | Lindsay  | May | 28 | 1915. |
+| 17 | 310<br>2136<br>3495<br>2173 | 410626IPnvate  | Spratt, Frederick James  | Imp. Forces  | Spratt, Emma  | , 15 Tower St., Chester, Eng England.. | Barriefield  | July | 28 | 1915. |
+| 18 | 851<br>571<br>3332<br>605 |  |  | Former Corps. |  |  | Country of |
+| 18 | 669<br>616<br>3769<br>640 | o |  |  |  |  |  | Place. | Date. |
+| 18 | 658<br>716<br>3822<br>749 | 410627 Private. | Spratt, James  | Can. Mil  | Spratt, Herbert  | Maxville, Ont  | Canada.. | Alexandria... | June | , 1915. |
+| 18 | 658<br>745<br>3822<br>780 | 410941 | L.-Corporal. | Spratt, William James  | 47 th Regt  | Spratt, James   | Cumberland, Ont  | Canada.. | Ottawa  | Feb. | , 1915. |
+| 18 | 657<br>774<br>3822<br>809 | 410893 | Private  | Stanley, Walter Jasper  | Nil  | Stanley, Mrs. Leah  | 6 Robinson St., Toronto, Ont  | Canada.. | Lindsay  | May | , 1915. |
+| 18 | 656<br>803<br>3822<br>838 | 410196 | Sergeant | Steadman, William George  | Imp. Forces  | Steadman, Mis. Florence Amelia.. | P.O., Russell, Ont  | England.. | Ottawa  | Apr. | , 1915. |
+| 18 | 656<br>832<br>3822<br>866 | 410407 | Private  | Stephenson, Frederick Charles  | Nil  | Stephenson, Mrs. Elizabeth.. | South Shields, Durham, Eng  | England.. | Barriefield Cmp | May | , 1915. |
+| 18 | 656<br>861<br>3822<br>895 | 410894 | Private  | Stevens, Alfred  | Nil  | Stevens, Mrs. Elizabeth  | 84 Pickering St., Toronto, Ont   | England.. | Lindsay  | May | , 1915. |
+| 18 | 655<br>890<br>3822<br>924 | 410628 | Private  | Stewart, Alfred  | Nil  | Stewart, Frederick  | 8 Cambridge Terr., Hyde Park, London, Eng  | England.. | Barriefield  | May | , 1915. |
+| 18 | 655<br>919<br>3822<br>954 | 410197 | L.-Coiporal.. | Stewart, Finlay Alexander  | Nil  | Stewart, A. M   | P.O., Vernon, Ont  | Canada... | Ottawa  | Feb. | , 1915. |
+| 18 | 654<br>948<br>3822<br>983 | 410408 | Private  | Stewart, Harry  | Nil  | Stewart, Mrs. Thomas T.... | 38 St. David St., Toronto, Ont  | Canada.., | Bermuda  | Oct. | , 1915. |
+| 18 | 654<br>978<br>3822<br>1011 | 410409 | Private  | Stewart, Norman Turner  | Nil  | Stewart, Mrs. Elizabeth J... | Argyle Ave., Ottawa, Ont  | Canada... | Ottaw'a  | May | , 1915. |
+| 18 | 653<br>1007<br>3822<br>1041 | 410942 | Private  | Stewart, Thomas  | Nil  | Stewart, Thomas  | 163 Frank St., Ottawa, Ont    | Canada... | Ottawa  | Feb. | , 1915. |
+| 18 | 653<br>1036<br>3822<br>1071 | 410412 | Private  | St. George, Charles Ernest  | 42nd Regt  | St. George, Mrs. Charles  | Bedford, Eng  | England.. | Smith’s Falls... | June | , 1915. |
+| 18 | 653<br>1065<br>3822<br>1099 | 41019S | Sergeant  | Stock, Frank Jerome  | Nil  | Stock, Charles  | 448 Cooper St., Ottawa, Ont  | Canada.., | Ottawa  | Feb. | , 1915. |
+| 18 | 652<br>1094<br>3822<br>1128 | 410199 | Private  | Stokes, George James  | Nil  | Stokes, Mrs. Minna  | Perth, Ont  | Canada.., | Ottawa  | Apr. | , 1915. |
+| 18 | 652<br>1124<br>3822<br>1159 | 410629 | Private  | Stokes, Walter George W  | Territorials  | Stokes, Mrs. Mary Jane  | 36 Station St., Mesteg Glen, S. Wales  | England.. | Ottawa  | Apr. | , 1915. |
+| 18 | 651<br>1152<br>3822<br>1186 | 410410 | Private  | Stonier, Walter  | Nil  | Stonier, John  | Russell, Ont  | England.. | Ottawa  | Teb. | , 1915. |
+| 18 | 651<br>1181<br>3822<br>1215 | 410595 | Private  | Strachan, David  | Nil  | Hunter, Mrs. Mary  | 713 King Edward Ave., Ottawa, Ont  | Ireland... | Ottawa  | May | , 1915. |
+| 18 | 650<br>1210<br>3822<br>1244 | 410630 | Private  | Stroud, John  | Nil  | Stroud, Conrad  | New Hamburg, Ont  | Canada.., | Ottawa...  | Apr. | , 1915. |
+| 18 | 649<br>1239<br>3822<br>1273 | 410633 | Private  | St. Thomas, James P  | Nil  | St. Thomas, Peter  | Cornwall, Ont  | Canada... | Alexandria  | Feb. | , 1915. |
+| 18 | 649<br>1268<br>3822<br>1302 | 410200 | Private  | Stuart, James William A  | Nil.  | Stuart, Colin  | Osgoode Sta., Ont  | Canada... | Ottawa  | Feb. | , 1915. |
+| 18 | 650<br>1297<br>3822<br>1332 | 410411 | Private  | Stuart, William  | Imp. Forces  | Stuart, Mrs. W  | 86 Black St., Townhead, Glasgow, Scot  | Scotland. | Ottawa  | Feb. | , 1915. |
+| 18 | 649<br>1326<br>3822<br>1361 | 410596 | Private  | Sullivan, Frederick William. | Nil  | Sullivan, Rose  | 54 Massey St., Toronto, Ont  | England.. | Lindsay  | May | , 1915. |
+| 18 | 648<br>1355<br>3822<br>1391 | 410631 | Private  | Sullivan, William Munro.... | Nil  | Sullivan, Miss May  | P.O., Rankin, Ont  | Canada.., | Ottawa  | Mar. | , 1915. |
+| 18 | 649<br>1384<br>3822<br>1419 | 410943 | Private  | Swan, Douglas  | 56th Regt  | Swan, H. R  | Kemptville, Ont  | Canada... | Ottawa  | Feb. | , 1915. |
+| 18 | 648<br>1414<br>3822<br>1448 | 410632 | Private  | Sweeney, George  | Nil  | Sweeney, Mrs. Fanny  | Rankin, Ont.    | Canada... | Ottawa  | May | , 1915. |
+| 18 | 648<br>1443<br>3822<br>1477 | 410637 | Private  | Sweeney, John Francis  | Imp. Forces  | Smith, Elizabeth  | 2 ElmGrove, Smithdown, Liverpool, Eng  | England.. | Bermuda  | Aug. | , 1915. |
+| 18 | 647<br>1472<br>3822<br>1506 | 410201 | Private  | Sweeney, Patrick  | Imp. Forces  | Sweeney, William  | Erith, Kent, Eng  | England.. | Ottawa  | July | , 1915. |
+| 18 | 647<br>1501<br>3822<br>1535 | 410202 | L.-Corporal.. | Swimmings,William Stancombe P. | 59 th Regt  | Swimmings, Mrs. Elizabeth.. | 339 Flora St., Ottawa, Ont  | England.. | Ottawa  | Feb. | , 1915. |
+| 18 | 646<br>1530<br>3822<br>1565 | 410897 | Private  | Switzer, Joseph Wesley  | 47th Regt  | Switzer, Mrs. Sarah  | Camden East, Ont.  | Canada... | Napanee  | June | , 1915. |
+| 18 | 646<br>1559<br>3822<br>1591 | 410S98 | Private  | Sykes, Joseph William  | Nil  | Not stated  | Not stated    | England.. | Napanee  | May | , 1915. |
+| 18 | 646<br>1587<br>3822<br>1621 | 410413 | L.-Corporal.. | Taylor, George  | G.G.F.G  | Skemer, Mrs. A  | Riverside Park, Ottawa West, Ont  | England.. | Ottawa  | May | , 1915. |
+| 18 | 646<br>1616<br>3821<br>1651 | 410203 | Sergeant  | Taylor, Henry Clifton  | Imp. Forces  | Taylor, Mrs. Mary Jane  | 451 Yi Riverdale Ave., Ottawa, Ont  | England.. | Ottawa  | Feb. | , 1915. |
+| 18 | 645<br>1645<br>3821<br>1680 | 410634 | Private  | Taylor, John George  | G.G.F.G  | Taylor, Mrs. Flora  | 23 Upper Church Path, Landport, Portsmouth, Eng. | Canada... | Ottawa  | June | , 1915. |
+| 18 | 645<br>1673<br>3822<br>1708 | 410635 | Private  | Teck, Peter  | Nil  | Teck, Cosmow  | 1263 St. Clair Ave. W., Toronto, Ont  | Russia... | Ottawa  | Mar. | , 1915. |
+| 18 | 644<br>1703<br>3821<br>1738 | 410414 | Private  | Tedder, Ernest A  | 12nd Regt  | Mason, Mrs. John  | Simcoe, Ont    | England.. | Smith’s Falls... | June | , 1915. |
+| 18 | 644<br>1732<br>3822<br>1767 | 410899 | Private  | Teirney, Thomas Timothy... | Nil  | Teirney, Mrs. Mary  | 5 Widmer St., Toronto, Ont   | England.. | Lindsay  | May | , 1915. |
+| 18 | 643<br>1760<br>3822<br>1796 | 410415 | Private  | Telling, Charles F  | Imp. Forces  | Telling, William Frank  | 18 Alma St., Bristol, Eng  | England.. | Barriefield Cmp | July | , 1915. |
+| 18 | 643<br>1790<br>3822<br>1825 | 410636 | Private   | Temple, Richard  | Nil  | Temple, Henry  | 11 Reform St., Dundee, Scot  | Scotland. | Barriefield... | July | , 1915. |
+| 18 | 643<br>1818<br>3822<br>1854 | 410416 | Corporal | Terp, Otto William W  | Danish Army  | Johnston, Mrs. G  | 446 Gilmour St., Ottawa, Ont  | Russia... | Ottawa  | Mar. | , 1915. |
+| 18 | 643<br>1847<br>3821<br>1883 | 410204 | Private  | Terry, Harold  | Nil  | Terry, John  | 62 Central Rd., Blackpool, Lancs., Eng  | England.. | Ottawa  | May | , 1915. |
+| 18 | 642<br>1876<br>3821<br>1912 | 410900 | Private  | Terwilligar, Merton  | Nil  | Terwilligar, Clarence  | Bloomfield, Ont  | Canada... | Picton  | May | , 1915. |
+| 18 | 643<br>1904<br>3821<br>1940 | 410901 | Sergeant  | Theobald, William  | Nil  | Theobald, Mrs. Annie Ruth.. | 173 Coleman Ave., Toronto, Ont  | Canada... | Lindsay  | May | , 1915. |
+| 18 | 642<br>1933<br>3821<br>1970 | 410902 | Private  | Thirien, Edward  | Nil  | Thirien, Mrs. Cary  | 293 Rochester St., Ottawa, Ont  | Canada... | Lindsay  | May | , 1915. |
+| 18 | 642<br>1961<br>3822<br>1998 | 410903 | Private  | Thomas, Harold   | Nil  | Thomas, Mrs. Annie  | 29 Holindale Rd., London, Eng  | England.. | Barriefield... | July | , 1915. |
+| 18 | 3133<br>1991<br>3822<br>2018 |  |  |  |  |  | Canada... | Brockville  | May | ,1915. |
+| 18 | 641<br>1993<br>3090<br>2029 | 41063S | Private  | Thomas, Sidney Ernest  | Nil  | Hathaway, Mrs. Nellie  | 23 Ruskin Ave., Toronto, Ont  |
+| 18 | 641<br>2020<br>3822<br>2057 | 410205 | Private  | Thompson, Alfred  | Royal Navy  | Thompson, Mrs. Annie Mary. | Little Clacton, Essex, Eng  | England.. | Ottawa  | Mar. | , 1915. |
+| 18 | 641<br>2049<br>3822<br>2086 | 410905 | Private  | Thompson, William  | Nil  | Thompson, Mrs. Elizabeth... | Lenett Croft, Enzie, Banff, Scot   | Scotland. | Ottawa  | June | , 1915. |
+| 18 | 641<br>2078<br>3822<br>2114 | 410639 | Private  | Thornton, James Alfred  | Nil    | Thornton, Mrs. Lois  | Harvey St., Perth, Ont  | Canada... | Ottawa  | Mar. | , 1915. |
+| 18 | 640<br>2107<br>3823<br>2144 | 410417 | L.-Corporal... | Thrift, Ernest Victor  | Territorials  | Thrift, Mrs. Martha  | 148 Stanley Ave., Ottawa, Ont  | England.. | Ottawa  | May | , 1915. |
+| 19 | 350<br>320<br>3514<br>365 | 410418 | Corporal. | Tierny, Arthur Ernest   | Nil  | Tierny, Mrs. May  | 107 Vittoria St., Ottawa, Ont  | Mar | 1 | 1915. |
+| 19 | 350<br>357<br>2816<br>393 | 410645 | Private... | Tighe, Samuel   | Nil  | Tighe, Mrs. Margaret  | Leeds, Yorks, Eng  |
+| 19 | 3313<br>377<br>3511<br>405 |  |  |  |  |  |  | May | 25 | 1915. |
+| 19 | 349<br>388<br>2818<br>421 | 410906 | Private... | Tinker, Arthur  | Nil  | Tinker, Alice  | Notstated  |
+| 19 | 3312<br>406<br>3503<br>434 |  |  |  |  |  |  | May | 1 | 1915 |
+| 19 | 349<br>414<br>2816<br>451 | 410419 | Private... | Tomkinson, Leonard George. | Nil  | Tomkinson, Mrs. Doucia.... | 366 Clarence St., Ottawa, Ont  |
+| 19 | 3311<br>436<br>3512<br>463 |  |  |  |  |  |  | July | 28 | 1915. |
+| 19 | 349<br>443<br>2816<br>478 | 410640 | Private... | Tomlin, Charles Reuben  | Nil  | Tomlin, George  | 72 Weatherby Rd., Earlscourt, Toronto, Ont  |
+| 19 | 3071<br>465<br>3510<br>494 |  |  |  |  |  |  | July | 23 | 1915. |
+| 19 | 348<br>472<br>2816<br>508 | 410420 | Private... | Tomlinson, William Francis. | Nil  | Tomlinson, Samuel  | 5Dresden Ave., Toronto, Ont  |
+| 19 | 3313<br>494<br>3504<br>517 |  |  |  |  |  |  | Mar. | M | 1915 |
+| 19 | 348<br>502<br>2817<br>538 | 410904 | Private... | Tompkins, Arthur John  | Nil  | Tompkins, Mrs. Louisa  | 159 Pickering St., East Toronto, Ont  |
+| 19 | 349<br>523<br>3513<br>568 | 410206 | Private... | Tompkins, Percy  | Nil  | Tompkins, Leonard  | 19 Herridge St., Ottawa, Ont  | Julv | 22 | 1915. |
+| 19 | 348<br>553<br>3513<br>596 | 410641 | Private... | Tougas, Frank  | Nil  | Tougas, Joseph  | 289 Rubidge St., Peterboro’, Ont  | July | 28 | 1915. |
+| 19 | 3315<br>582<br>3512<br>604 |  |  |  |  |  |  | Feb. | ?,2 | 1915. |
+| 19 | 349<br>589<br>2815<br>626 | 410207 | Corporal.. | Travers, Harold Fergus  | 43rd Regt... | Travers, Mrs. Minnie Swan. | 504 Metcalfe St., Ottawa, Ont  |
+| 19 | 3313<br>611<br>3513<br>634 |  |  |  |  |  |  | Feb. | 22 | 1915. |
+| 19 | 348<br>618<br>2816<br>656 | 410907 | Sergeant.. | Travers, Hubert Richard  | 43rd Regt... | Travers, Mrs. Minnie Swan. | 504 Metcalfe St., Ottawa, Ont  |
+| 19 | 348<br>640<br>3512<br>684 | 410642 | Private... | Trevelyen, Vernon  | Nil  | Not stated    | Not stated  | July | 28 | 1915. |
+| 19 | 3312<br>670<br>3512<br>697 |  |  |  |  |  |  | May | 3 | 1916. |
+| 19 | 348<br>676<br>2815<br>712 | 410208 | Private... | Truscott, Arthur  | Imp. Forces. | Truscott, Mrs. Elizabeth.... | Laundresfuit, Pembroke, Eng  |
+| 19 | 347<br>699<br>3512<br>742 | 410646 | Private... | Tucker, Hugh  | Nil  | Tucker, John  | 3 Russell St., Chichester, Sussex, Eng  | May | 28 | 1915. |
+| 19 | 347<br>729<br>3512<br>770 | 410421 | Private... | Tucker, William  | C.A.M.C.... | Tucker, Richard  | Lakefarm, Sheepwash, N. Devon, Eng  | Mar. | 19 | 1915. |
+| 19 | 3313<br>758<br>3512<br>781 |  |  |  |  |  |  | Feb | 24 | 1915. |
+| 19 | 347<br>763<br>2815<br>799 | 410209 | Private... | Tudor, Henry  | Nil  | Lee, Mrs. Margaret  | 10 Leyden St., Liverpool, Eng  |
+| 19 | 346<br>787<br>3512<br>828 | 410210 | Private... | Tudor, Joseph  | Nil  | Lee, Mrs. Margaret  | 10 Leyden St., Liverpool, Eng  | Feb | 24 | 1915. |
+| 19 | 346<br>821<br>2803<br>857 | 410908 | Private... | Tunnicliffe, Percival  | Nil  | Tunnicliffe, S  | H.M.S. “Dartmouth,” c/o Admiralty Office, London, |
+| 19 | 3310<br>845<br>3511<br>872 |  |  |  |  |  |  | July | 6 | 1915. |
+| 19 | 3314<br>874<br>3511<br>897 |  |  |  |  |  |  | Feb | n | 1915, |
+| 19 | 346<br>879<br>2815<br>916 | 410212 | Sergeant  | Turton, Edwin Ernest  | 43rd Regt. | Turton, Mrs. Agnes  | 185 Belmont Ave., Ottawa, Ont  |
+| 19 | 3315<br>903<br>3505<br>926 |  |  |  |  |  |  | Feb | 24 | 1915 |
+| 19 | 346<br>911<br>2815<br>943 | 410647 | Private  | Turnbull, Robert William  | Nil  | Evans, Mrs. William   | Napanee, Ont  |
+| 19 | 346<br>932<br>3505<br>973 | 410909 | Private  | Turner, Albert Edward  | Nil  | Turner, William   | Tilekiln Cottage, Weston, nr. Stevenage, Herts, Eng... | July | 6 | 1915 |
+| 19 | 345<br>961<br>3505<br>1002 | 410643 | Private   | Turner, Frank  |  | Lamb, Mrs. John   | 15 Plum St., Oldham, Lancs., Eng  | July | 28 | 1915 |
+| 19 | 345<br>990<br>3505<br>1032 | 410211 | Private   | Turner, Frank  | Royal Navy  | Turner, Mrs. Parnell  | Ash St., Westborough, Ont   | May | 4 | 1915 |
+| 19 | 345<br>1019<br>3505<br>1060 | 410644 | Private  | Twiname, Thomas  | Nil  | Twiname, David  | Crocketford, Dumfries, Scot  | May | 28 | 1915 |
+| 19 | 345<br>1054<br>2786<br>1090 | 410648 | L.-Corporal.. | Tyers, Sidney A  | 43rd Regt  | Tyera* Madeline  | 147 Pretoria Ave., Ottawa, Ont  |
+| 19 | 3315<br>1077<br>3512<br>1104 |  |  |  |  |  |  | May | 20 | 1915, |
+| 19 | 345<br>1083<br>2786<br>1119 | 410422 | Private  | Tyler, George  | 49th Regt  | Pinckney, Mrs. F   | 129 Glenarm Rd., Hackney. London, Eng  |
+| 19 | 3313<br>1106<br>3513<br>1133 |  |  |  |  |  |  | July | 24 | 1915. |
+| 19 | 344<br>1112<br>2787<br>1148 | 410213 | Private  | Urquhart, Gordon Bruce  | Nil  | Urquhart, W. T  | 195 Second Ave., Ottawa, Ont  |
+| 19 | 3312<br>1135<br>3513<br>1162 |  |  |  |  |  |  | July | 29 | 1915. |
+| 19 | 344<br>1141<br>2787<br>1176 | 410910 | Private  | Utman, Ira. W  | 43rd Regt  | Utman, Mrs. B    | 138 George St., Ottawa, Ont  |
+| 19 | 3316<br>1164<br>3515<br>1186 |  |  |  |  |  |  | Feb | (’) | 1915. |
+| 19 | 344<br>1171<br>2786<br>1204 | 410649 | Private  | Vallance, James  | Nil  | Vallance, Mrs. James  | Cornwall, Ont  |
+| 19 | 343<br>1200<br>2786<br>1234 | 410650 | Private  | Valyear, Peter  | 49 th Regt  | Johnson, Mrs. A  | Trenton, Ont  |
+| 19 | 344<br>1228<br>2786<br>1264 | 410651 | Sergeant  | Vance, Harry Howard  | Nil  | Vance, John  | 64 Abbott St., Brockville, Ont  |
+| 19 | 3314<br>1250<br>3515<br>1277 |  |  |  |  |  |  | May | 5 | 1915. |
+| 19 | 343<br>1257<br>2788<br>1291 | 410214 | Private  | Van Ness, Jack Abraham  | Nil  | Van Ness, Abraham  | Stonehurst Ave., Ottawa, Ont  |
+| 19 | 3314<br>1280<br>3515<br>1307 |  |  |  |  |  |  | Apr. | 10 | 1915. |
+| 19 | 344<br>1287<br>2788<br>1321 | 410957 | Private  | Veasey, James Joseph  | 43rd Regt  | O’Sullivan, Mrs. Catherine  | Picton, Ont  |
+| 19 | 343<br>1315<br>2787<br>1349 | 410423 | Private  | Vizina, Lorenzo  | Can. Eng  | Vizina, Mrs. Alfimiex  | 356 Clarence St., Ottawa, Ont  |
+| 19 | 343<br>1338<br>3516<br>1378 | 410652 | Private  | Waines, Ernest  | Nil  | Waines, John  | 5 Westwood Ave., Middlesborough, Yorks, Eng  | July | 28 | 1915. |
+| 19 | 343<br>1366<br>3517<br>1407 | 410653 | Private  | Waite, William Gad  | Nil  | Waite, Mrs. Mary  | Caledonia Ridge, Ont  | Feb | 27 | 1915. |
+| 19 | 343<br>1396<br>3516<br>1436 | 410217 | Private  | Walker, John  | Nil  | Walker, Miss Catherine.  | 2 The Avenue, Hornsey, M’sex, Eng  | Apr. | 10 | 1915. |
+| 19 | 3316<br>1425<br>3515<br>1447 |  |  |  |  |  |  | Mar. | n | 1915. |
+| 19 | 343<br>1426<br>2787<br>1466 | 410911 | Private  | Walkey, William Albert  | Nil  | Walkey, Mrs. Emma Dalton | 231 Montrose Ave., Toronto, Ont  |
+| 19 | 343<br>1453<br>3515<br>1494 | 410912 | Private  | Wallis, Alfred  | Territorials  | Wallis, Mrs. Margaret  | 16 Morley Ave., Toronto, Ont  | May | 7 | 1915. |
+| 19 | 3317<br>1483<br>3516<br>1505 |  |  |  |  |  |  | Feb | 26 | 1915. |
+| 19 | 342<br>1490<br>2787<br>1524 | 410425 | L.-Corporal.. | Ward, Albert  | Nil  | Simpson, John  | Nottingham, Eng  |
+| 19 | 342<br>1512<br>3516<br>1553 | 410215 | Sergeant  | Ward, Charles James  | R.C.R  | Ward, Thary  | 565 Albert- St., Ottawa, Ont  | May | 1 | 1915. |
+| 19 | 341<br>1541<br>3515<br>1581 | 410426 | Private  | Ward, Frederick     | 42nd Regt  | Ward, Mrs. Ada  | 133 Lees Ave., Ottawa East, Ont  | May | 4 | 1915. |
+| 19 | 3316<br>1570<br>3516<br>1593 |  |  |  |  |  |  | Mar. | 19 | 1915. |
+| 19 | 341<br>1576<br>2788<br>1609 | 410427 | Private  | Ward, Frederick Leonard  | G.G.F.G  | Ward, Mrs. Clara  | 281 Bell St., Ottawa, Ont  |
+| 19 | 340<br>1599<br>3516<br>1640 | 410654 | Private  | Wardhaugh, Edward  | 39 th Regt  | Wardhaugh, May  | 39 Grove St., Belleville, Ont  | May | 12 | 1915. |
+| 19 | 340<br>1628<br>3516<br>1667 | 410651 | Private^  | Wardle, John L   | Nil  | Wardle, F  | 163 Bickle Ave., Toronto, Ont  | May | 22 | 1915. |
+| 19 | 3317<br>1657<br>3517<br>1680 |  |  |  |  |  |  | Mar. | 24 | 1915. |
+| 19 | 341<br>1662<br>2789<br>1696 | 410428 | Private  | Ware, William  | Nil  | Ware, Harriet  | 18 Stott St., Hintonburg, Ottawa, Ont  |
+| 19 | 340<br>1693<br>2789<br>1726 | 410656 | Private  | Warner, Wilfred   | Nil  | Warner, Emerson  | Avonmore, Ont  |
+| 19 | 340<br>1722<br>2789<br>1756 | 410429 | Sergeant  | Warren-Howe, Herbert  | G.G.F.G  | Warren-Howe, Mrs. Elizabeth | 129)4 Willow St., Ottawa, Ont  |
+| 19 | 339<br>1744<br>3518<br>1784 | 410657 | Private  | Washer, Oliver Joseph  | Nil  | Washer, Mrs. Maddie  | 4 Bay St., Kingston, Ont  |  | 4 | 1915, |
+| 19 | 3319<br>1773<br>3518<br>1796 |  |  |  |  |  |  | Feb. | 22 | 1915. |
+| 19 | 339<br>1780<br>2789<br>1812 | 410216 | Private  | Waterman, Frederick William. | Nil  | Waterman, Mrs. Clementina | 339 Flora St., Ottawa, Ont  |
+| 19 | 3319<br>1802<br>3518<br>1824 |  |  |  |  |  |  | Feb | 27 | 1915. |
+| 19 | 339<br>1809<br>2790<br>1843 | 410658 | Corporal  | Watier, Emery  | Nil  | McLellan, Mrs. A  | P.O., St. Raphael’s, Ont  |
+| 19 | 339<br>1831<br>3518<br>1872 | 410430 | Private  | Watkin, Harry Thomas  | 15th Regt  | Watkin, D  | Belleville, Ont  | May | 25 | 1915. |
+| 19 | 3319<br>1859<br>3518<br>1883 |  |  |  |  |  |  | Feb | 24 | 1915. |
+| 19 | 339<br>1867<br>2789<br>1901 | 410218 | Private  | Weatherley, Harry  | 43rd Regt  | Weatherley, Mrs. Kate  | 101 Elgin St., Ottawa, Ont  |
+| 19 | 339<br>1889<br>3509<br>1928 | 410219 | Private  | Webb. Edward  | S.A  | Webb, Mrs. Alice  | P.O., Laurentian View, via Ottawa, Ont  | July | 19 | 1915 |
+| 19 | 338<br>1919<br>3519<br>1959 | 410431 | Private  | Webber, Reginald James  | Nil  | Webber, Nicholas  | 36 Milston Rd., London, Eng  | June | 3 | 1915. |
+| 19 | 338<br>1948<br>3518<br>1988 | 410913 | Corporal  | Weddell, Ray  | Imp. Forces  | Weddell, Mrs. Ray  | 2007 Cleveland Ave., Chicago, 111., U.S.A  | July | 28 | 1915. |
+| 19 | 337<br>1977<br>3519<br>2016 | 410220 | Private  | Weeden, William      | Nil   | Weeden, Miss Kathleen  | Nazareth House, Isleworth, M’sex., Eng  | Fob | 24 | 1915. |
+| 19 | 337<br>2006<br>3519<br>2046 | 410944 | Corporal  | Weeks, Frederick  | C.F.A  | Weeks, Mrs. Mary  | 420 Arlington Ave., Ottawa, Ont. |  | ? | 1915. |
+| 19 | 338<br>2035<br>3521<br>2074 | 410221 | Private  | Welch, James Edward  | Nil  | Welch, Mrs. Emily Hannah  | Ill Pine St., Ottawa, Ont  | Feb. | 24 | 1915. |
+| 20 | 854<br>629<br>3313<br>660 |  |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
+| 20 | 669<br>774<br>3807<br>806 | 410222 | Private  | Wellack, George  | Nil  | Wellack, Frederick  | 30 Westminster Terr., York, Eng  | England. | Ottawa  | Feb. | 22,1915. |
+| 20 | 669<br>804<br>3808<br>835 | 410432 | Private  | Wells, Harle Hore  | Nil  | Wells, Rev. William  | Lyn, Ont  | Canada.. | Brockville  | May | 20, 1915. |
+| 20 | 669<br>833<br>3807<br>863 | 410660 | Private  | Wei ton, Victor  | Nil  | Wei ton, Mrs. F  | Block 96, Vine St. Bldgs., Tooley St., London, Eng ... | India ... | Barriefield  | May | 25, 1915. |
+| 20 | 669<br>862<br>3807<br>893 | 410223 | Private  | Wenland, Walter  | Nil  | Wenland, Mrs. Ethel  | 3 Richmond Rd., Ottawa West, Ont  | England. | Ottawa  | Feb. | 22, 1915. |
+| 20 | 669<br>891<br>3808<br>923 | 410224 | Private  | Westover, Leland Stanford.. | Nil  | Westover, Mrs. C  | 4821 St. Catherine St., Montreal, P.Q  | Canada.. | Barriefield  | July | 24, 1915. |
+| 20 | 669<br>920<br>3808<br>952 | 410665 | Private  | Wetherilt, George  | Nil  | Wetherilt, Anglia  | 52 Townmead Rd., Fulham, London, Eng  | England. | Barriefield  | July | 28, 1915. |
+| 20 | 669<br>950<br>3808<br>980 | 410433 | Private  | Wheeler, Hubert  | Nil  | Wheeler, Peter  | Cornwall, Ont  | Canada.. | Cornwall  | Feb. | 26, 1915. |
+| 20 | 669<br>979<br>3808<br>1010 | 410662 | Private  | White, Albert  | Nil  | White, Josephine  | Cornwall, Ont  | Canada.. | Cornwall  | Jan. | 9, 1915. |
+| 20 | 669<br>1008<br>3808<br>1039 | 410226 | Private  | White, Arthur Mills  | Nil  | White, Edward  | 366 Laurier Ave. W., Ottawa Ont  | Canada.. | Ottawra  | July | 20, 1915. |
+| 20 | 669<br>1037<br>3809<br>1068 | 410434 | Private  | White, Frederick  | Nil  | Potasso, Mrs. Louise  | Montreal, P.Q  | Canada.. | Cornwall  | Mar. | 16, 1915. |
+| 20 | 668<br>1066<br>3809<br>1095 | 410225 | Private  | White Peter.... | Nil  | White, Mrs. Elizabeth  | 115 Arthur St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 22, 1915. |
+| 20 | 669<br>1095<br>3809<br>1125 | 410945 | Private  | Whitehead, Alfred Wellham | G.G.F.G  | Whitehead, Joseph  | Avenue Rd., St. Neots, Hunts, Eng  | England. | Ottawra  | Mar. | 1, 1915. |
+| 20 | 668<br>1124<br>3809<br>1155 | 410227 | Private  | Whitney, Robert Edwin.... | 98 th Regt | Whitney, Mrs. Martha  | P.O., Hampshire, Ont  | Canada.. | Ottawa  | Mar. | 19, 1915. |
+| 20 | 668<br>1153<br>3809<br>1184 | 410659 | Private  | Whitt, Arthur  | Royal Navy.. | Whitt, Mrs. Jane  | 81 Levanham Rd., London, Eng  | England. | Cobourg  | June | 9, 1915. |
+| 20 | 668<br>1182<br>3809<br>1213 | 410435 | Private  | Whittaker, Joseph  | Nil  | Runbaken, Mrs. J. H  | Leas Farm Cottage, Mellor, nr. Derby, Eng  | England. | Bermuda  | Dec. | 13, 1915. |
+| 20 | 668<br>1210<br>3810<br>1242 | 410424 | Private  | Whitty, James Lawrence— | Nil  | Whitty, Patrick  | 129 Dalhousie St., Ottawa, Ont  | Canada.. | Barriefield Cmp | July | 28, 1915. |
+| 20 | 668<br>1240<br>3809<br>1271 | 410228 | Private  | Wight, Harold Addison  | Nil  | Wight, Edward Cameron. . | 3 Fentiman Ave., Ottawa, Ont  | Canada.. | Ottawa  | Apr. | 10, 1915. |
+| 20 | 667<br>1269<br>3810<br>1300 | 410436 | C.S.M  | Wilkinson, John James  | S.A  | Wilkinson, Mrs. Lily  | 556 Elgin St., Ottawa, Ont  | Ireland.. | Ottawa  | Feb. | 22, 1915. |
+| 20 | 667<br>1298<br>3913<br>1329 | 410663 | Private  | Williams, George  | Nil  | Williams, Mrs. William  | Dunvegan, Ont  | Canada.. | Alexandria  | Mar. | 1, 1915. |
+| 20 | 667<br>1327<br>3810<br>1358 | 410437 | Private  | Willis, John Patrick  | Nil  | Willis, Mary  | 51 Bounds Green Rd., Wood Green, London, Eng  | England. | Ottawa  | Mar. | 2, 1915. |
+| 20 | 667<br>1356<br>3810<br>1387 | 410229 | Private  | Wilson, Clarence  | Nil  | Crotty, Clifford.    | Bank St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 24, 1915. |
+| 20 | 667<br>1385<br>3811<br>1417 | 410661 | L.-Corporal | Wilson, Ernest Shepherd  | Nil  | Wilson, David  | P.O. Box, 491 Pembroke, Ont  | Canada.. | Ottawa  | Mar. | 23, 1915. |
+| 20 | 666<br>1414<br>3810<br>1445 | 410230 | Private  | Wilson, Glen  | 43rd Regt | Wilson, Mrs. Eliza  | 164 First Ave., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 22, 1915. |
+| 20 | 666<br>1443<br>3810<br>1474 | 410438 | Private  | Wilson, T. G. Rivers  | Nil  | Wilson, C  | 1 Irving Ave., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 1, 1915. |
+| 20 | 666<br>1471<br>3811<br>1503 | 410664 | L.-Corporal. | Winson, Robert  | Nil  | Winson, John.    | Tatsfield, Westerham, Kent, Eng  | England. | Peterborough... | May | 26, 1915. |
+| 20 | 666<br>1500<br>3811<br>1532 | 410666 | Private  | Wisberg, Morris  | Nil  | Wisberg, Minnie  | 239 Cadieux St., Montreal, P.Q   | Canada.. | Barriefield Cmp | May | 28, 1915. |
+| 20 | 666<br>1530<br>3811<br>1560 | 410914 | Private  | Woodward, Alfred  | Nil  | Stevenson, Mrs. H  | 187 Soudan Ave., Toronto, Ont  | England. | Barriefield | July | 28, 1915. |
+| 20 | 665<br>1557<br>3812<br>1589 | 410667 | Corporal— | Worsdale, Richard William. | Nil  | Worsdale, Mrs. Mary Alice, | 18 St. Clair St., Longton, Stoke-on-Trent, Staffs, Eng.. | England. | Ottawa  | Apr. | 28, 1915. |
+| 20 | 665<br>1588<br>3812<br>1618 | 410439 | Private  | Wright, George William | Nil  | Wright, Mrs. Ann Stewart., | 295 Princess St., Kingston, Ont  | England. | Ottawa — | May | 1, 1915. |
+| 20 | 665<br>1615<br>3812<br>1647 | 410231 | Private  | Wright, John Joseph  | Nil  | Wright, Miss Mary    | Enderly House, Hartshill,Penkhull, Stoke-on-Trent, Eng | England. | Ottawa — | May | 5, 1915. |
+| 20 | 665<br>1644<br>3803<br>1676 | 410668 | Private  | Wright, Leonard William... | 42nd Regt.... | Wright, Mrs. Catherine  | 2 South St., Marble Head, Mass, U.S.A  | U.S.A... | Ottawa — | Mar. | 29, 1915 |
+| 20 | 665<br>1675<br>3814<br>1705 | 410440 | Private  | Young, Richard W  | 49th Regt. ... | Young, J. H  | Cordova Mines, Ont  | Canada.. | Belleville.. | May | 20, 1915. |
+| 20 | 1534<br>1872<br>3811<br>1903 |  |  |  | O.T.C  | Barclay, Rev. James (D.D.)  |  |  |  | 18.1915- |
+| 20 | 1535<br>1929<br>3813<br>1958 |  |  |  | O.T.C  |  | 31 MacGregor St., Montreal, P.Q  |  | Shorncliffe J | 18, 1915. |
+| 20 | 1535<br>1986<br>3814<br>2016 |  |  |  | O.T.C  |  | 183 Mansfield St., Montreal, P.Q  |  | Shorncliffe J | 18, 1915. |
+| 20 | 1535<br>2014<br>3814<br>2047 |  |  |  | O.T.C  | Wanklyn, F. L.  | 241 Drummond St., Montreal,P.Q  | Canada  | Shorncliffe J | 18, 1915. |
+| 20 | 655<br>2049<br>1822<br>2076 |  |  |  | O.T.C  | Ashby, Patrick Terence H  | A10944 |
+| 20 | 656<br>2102<br>3816<br>2135 |  |  |  | O.T.C  | Bailey, Hugh Courtnay  | Newhaven, Hastings, Barbadoes, B.W.I  | B.W.I  | Montreal  | A10960 | 11, 1915. |
+| 20 | 656<br>2131<br>3816<br>2160 |  |  |  | Nil  |  |  | England  | Montreal  | A11020 | 29,1915. |
+| 20 | 656<br>2160<br>3816<br>2194 |  |  |  | Nil  | L.-Corporal  | Balfour, James Stevenson  | 2315 Victoria Ave., Regina, Sask  | Canada  | Saskatoon  | A11089 | 5, 1915. |
+| 21 | 375<br>416<br>3505<br>449 | 411015 | Private., | Beatty, Harold Arthur  | O.T.C  | Beatty, J. C  |  |  | Mar. | 17. 1915. |
+| 21 | 3306<br>445<br>3505<br>472 |  |  |  |  |  |  |  | May | 4 | 1915. |
+| 21 | 366<br>449<br>1910<br>478 | A11171 | Private., | Beck, Cyril Lloyd  | 101st Regt.. | Beck, Justice N. D  |
+| 21 | 365<br>474<br>3504<br>508 | A11024 | Private.. | Benett, Charles Morgan  | 38th Regt... | Wye, Miss E. M  |  |  | Mar. | 29 | 1915. |
+| 21 | 3304<br>503<br>3506<br>530 |  |  |  |  |  |  |  | Apr. | 5 | 1915. |
+| 21 | 365<br>508<br>1910<br>536 | A11066 | Private.. | Bennett, Andrew Carmichael. | Territorials. | Bennett, Elizabeth  |
+| 21 | 365<br>532<br>3505<br>566 | A10963 | Private.. | Bieler, Andre Charles  | Nil  | Bieler, Charles  | 98 Columbia Ave., Westmount, P.Q  | Montreal  | Mar. | 15 | 1915. |
+| 21 | 3305<br>561<br>3505<br>584 |  |  |  |  |  |  |  | Mar. | 29 | 1915. |
+| 21 | 364<br>565<br>1910<br>594 | A11022 | Private.. | Bieler, Etienne S  | O.T.C  | Bieler, Rev. Dr. Charles.. |
+| 21 | 364<br>590<br>3505<br>625 | A10913 | Private.. | Bignell, Hilary V  | O.T.C  | Bignell, C. A  |  | Montreal  | Feb. | 24 | 1915. |
+| 21 | 363<br>619<br>3506<br>653 | All 100 | Private.. | Blackburn, Charles David C.. | Nil  | Blackburn, David  |  | Saskatoon  | Mar. | 19 | 1915. |
+| 21 | 363<br>648<br>3506<br>683 | A11028 | Private.. | Blair, Frank Alexander  | 3rd Regt | Urquhart, Mrs. A  |  |  |  | 1 | 1915. |
+| 21 | 363<br>677<br>3506<br>710 | A10937 | Private.. | Boulden, Charles Eric  | O.T.C  | Boulden, Mrs. C. J  |  | Ste Anne de | Mar. | 8 | 1915. |
+| 21 | 362<br>736<br>3506<br>768 | A11114 | Private  | Bowness, George C  | Nil  | Bowness, Benjamin  |  |  | Apr. | 10 | 1915. |
+| 21 | 363<br>765<br>3506<br>796 | A10942 | Private  | Bradford, William Cecil R. | 17th Huss  | Bradford, William H  |  |  | Mar. | 8 | 1915. |
+| 21 | 362<br>795<br>3506<br>826 | A11004 | Private  | Bradley, Clayton A  | O.T.C  | Bradley, A  |  |  | Mar. | in | 1915. |
+| 21 | 363<br>824<br>3507<br>855 | A10906 | L.-Corporal., | Branch, John Reginald A... | Can. Mil  | Branch, Venerable Archdeacon. |  |  | Feb. | 18 | 1915. |
+| 21 | 361<br>853<br>3506<br>884 | All 147 | Private  | Brighton, Harris Weir  | O.T.C  | Brighton, John W  |  |  | May | 22 | 1915. |
+| 21 | 361<br>878<br>3507<br>912 | A10994 | Sergeant  | Brooks, George Francis  | C.A.S.C  | Brooks, Mrs. T. G  |  |  | Feb | 15 | 1915. |
+| 21 | 362<br>911<br>3508<br>941 | A10987 | L.-Corporal.. | Brown, Ewart C  | Bermuda V.R.C. | Brown, Mrs. F. M  | 3t. Georges, Bermuda, B.W.I  |  |  | 20 | 1915. |
+| 21 | 361<br>939<br>3508<br>970 | A11921 | Private  | Brown, George  | Territorials  | Brown, Mable    | 7 Melrose Ave., Notre Dame de Grace, Montreal, P.Q .. |  | Mar. | 20 | 1915. |
+| 21 | 360<br>969<br>3507<br>999 | A10950 | Private  | Brown, William P  | Nil  | Brown, Dr. G. A  |  |  | Mar. | 8 | 1915. |
+| 21 | 360<br>998<br>3508<br>1028 | A10962 | Private  | Bruneau, A. Sydney  | Can. Mil  | Bruneau, Rev. J. P  |  |  | Mar. | 13 | 1915. |
+| 21 | 360<br>1028<br>2796<br>1056 | A10939 | Private  | Brunt, John William  | O.T.C  | Brunt, Thomas Arthur  | 31 Boyer St., Montreal, P.Q  |
+| 21 | 3093<br>1055<br>3508<br>1080 |  |  |  |  |  |  | Bellevue  | Mar. | 8 | 1915. |
+| 21 | 369<br>1083<br>3508<br>1114 | 411153 | Private... | Buchanan, James Robert  | 17th Huss  | Buchanan, Mrs. J. R  |  |  |  | 27 | 1915. |
+| 21 | 360<br>1113<br>3508<br>1143 | A10984 | Private... | Buckland, William Rillas  | C. of G  | Buckland, Pardon B  |  | Montreal  | Mar. | 19 | 1915. |
+| 21 | 360<br>1142<br>3508<br>1171 | A10914 | Private... | Bull, Wilford Edward  | O.T.C  | Bull, M    |  |  | Feb | 24 | 1915. |
+| 21 | 360<br>1170<br>3508<br>1201 | All 102 | Private... | Bunn, Charles Harvey  | Nil  | Bunn, John Robinson  |  |  | Apr. | 5 | 1915. |
+| 21 | 360<br>1199<br>3508<br>1230 | A11034 | Private... | Bunn, Raymond Spence  | Nil  | Bunn, T. W  |  |  | Mar. | 5 | 1915. |
+| 21 | 360<br>1228<br>3508<br>1259 | A10907 | Private... | Burgess, Leslie C  | Can. Mil  | Burgess, Jean  | 343 Kensington Ave., Westmount, P.Q  |  | Feb. | 18 | 1915. |
+| 21 | 361<br>1257<br>3508<br>1288 | A10919 | Private... | Butler, Robert Walter  | 58th Regt  | Butler, Mrs. E  |  |  | Feb | 27 | 1915. |
+| 21 | 360<br>1286<br>3509<br>1317 | A11113 | Private... | Buxton, Charles Benjamin  | 82nd Regt  | Buxton, George  |  |  | Apr. | 10 | 1915. |
+| 21 | 360<br>1315<br>3509<br>1345 | A11031 | Private... | Calder, William McClure  | O.T.C  | Calder, G. F  |  |  | Apr. | 6 | 1915. |
+| 21 | 361<br>1344<br>3508<br>1375 | A10956 | Corporal. | Cameron, Charles Munnis  | O.T.C  | Cameron, C. S  |  |  | Mar | 9 | 1915. |
+| 21 | 360<br>1373<br>3509<br>1404 | A11071 | Private... | Cameron, Charles Neil  | 105th Regt  | Cameron, Murdo  |  |  | Mnr, | 16 | 1915. |
+| 21 | 369<br>1402<br>3509<br>1433 | 410910 | Private... | Cameron, Donald James  | Imp. Forces  | Cameron, James  |  |  | Feb. | 22 | 1915. |
+| 21 | 361<br>1431<br>3509<br>1462 | A11070 | Corporal. | Cameron, John  | Nil  | Cameron, Murdo  |  |  | Mar. | 16 | 1915. |
+| 21 | 361<br>1460<br>3509<br>1491 | A11073 | Private... | Cantelon, Harry Ray  | Nil  | Cantelon, David  |  |  | Mar. | 17 | 1915. |
+| 21 | 361<br>1489<br>3508<br>1520 | A11170 | Private... | Carey, Harry  | 44th Regt  | Carey, Jennie  |  |  | May | 25 | 1915. |
+| 21 | 360<br>1518<br>3509<br>1548 | A11025 | Private... | Carleton, Lionel Glanville  | Nil  | Carleton, Mrs. C. M  |  |  | Mar. | 29 | 1915. |
+| 21 | 360<br>1547<br>3508<br>1578 | A10970 | Private... | Carleton, Percy Wainwright  | 5th Regt  | Carleton, Mrs. Charlotte Matilda. |  |  | Mar. | in | 1915. |
+| 21 | 360<br>1576<br>3509<br>1608 | A11013 | Private... | Christie, Hugh Farquhar  | O.T.C  | Christie, Mrs. John  |  |  |  | 23 | 1915. |
+| 21 | 360<br>1602<br>3508<br>1636 | A11080 | Private... | Clark, Willis Linngair  | Nil  | Clark, Rev. W. C  |  |  |  | 17 | 1915. |
+| 21 | 359<br>1633<br>3511<br>1665 | A11151 | Private... | Coleby, Frederick  | Nil  | Coleby, Marie  |  |  | May | ?.7 | 1915. |
+| 21 | 360<br>1663<br>3510<br>1694 | A11121 | Private... | Connerty, Oscar Carlyle  | Nil  | Connerty, William  |  |  | Apr. | 12 | 1915. |
+| 21 | 359<br>1691<br>3510<br>1723 | All 152 | Private... | Costello, Patrick  | 109th Regt  | Costello, Mr3. May  |  |  | May | 27 | 1915. |
+| 21 | 358<br>1720<br>3510<br>1752 | A11039 | Private... | Coughlan, Joseph Clare  | Nil  | Coughlan, Miss G  | 23 Carlisle Apts., 580 Broadway St., Winnipeg, Man ... |  |  | 5 | 1915. |
+| 21 | 358<br>1749<br>3511<br>1781 | A11164 | Private... | Cowie, Charles McKenzie  | Royal Navy  | Cowie, Edwin D  |  |  | May | 17 | 1915. |
+| 21 | 358<br>1778<br>3512<br>1810 | All 167 | Private... | Craig, Gordon  | Nil  | Craig, R. F  |  |  | Apr. | 27 | 1915. |
+| 21 | 358<br>1807<br>3511<br>1838 | A11128 | Private... | Craig, Harold Allen  | Nil  | Craig, Richard  |  |  | Apr. | 12 | 1915. |
+| 21 | 357<br>1836<br>3509<br>1868 | A22560 | Private... | Craig, Leonard  | 71st Regt  | Kirch, Mrs. John E  |  |  | Sept. | 24 | 1914. |
+| 21 | 357<br>1865<br>3511<br>1897 | All 107 | Private... | Craighead, William King  | Territorials  | Craighead, Mrs. Agnes  |  |  | Apr. | 5 | 1915. |
+| 21 | 357<br>1894<br>3511<br>1926 | All 129 | Private... | Creighton, Stanley John  | Can. Mil...:  | Creighton, Mrs. Winnifred  |  |  | Apr. | 12 | 1915. |
+| 21 | 356<br>1923<br>3511<br>1955 | A10964 | Private... | Crotty, W. H  | Nil  | Crotty, Mrs  |  |  | Mar. | 15 | 1915. |
+| 21 | 356<br>1952<br>3512<br>1983 | A11044 | Private... | Crute, Ebenezer  | Nil  | Crute, Mrs. E  |  |  | Mar. | 5 | 1915. |
+| 21 | 356<br>1981<br>3512<br>2013 | A10920 | Bugler  | Cunningham, William Innes  | 5th Regt  | Cunningham, Mrs  | 1627 Park Ave., Montreal, P.Q  |  | Mar. | 1 | 1915. |
+| 21 | 357<br>2010<br>3512<br>2042 | A11141 | Private... | Cushing, Charles  | Nil  | Cushing, Mrs. Charles  |  |  | Apr. | 16 | 1915. |
+| 21 | 358<br>2039<br>3512<br>2070 | All 007 | Private... | Cuthbert, Alexander  | Nil  | Cuthbert, Mrs. William  |  |  | Apr. | 5 | 1915. |
+| 21 | 356<br>2069<br>3512<br>2100 | A11038 | Private... | Des Brisay, Merril  | Nil  | Des Brisay, A  | Angus Ave., Shaughnessy Heights, B.C  |  | Mar. | 5 | 1915. |
+| 21 | 356<br>2098<br>3514<br>2129 | A11132 | Private... | Detlor, Walter Perry  | O.T.C  | Detlor, Mrs. P. Z  |  |  | Apr | 1? | 1915. |
+| 22 | 883<br>569<br>3335<br>600 |  |  |  | Former Corps. |  |  | Country of |
+| 22 | 688<br>712<br>2353<br>745 | A11016 | Private  |  | Nil.... | Dickson, Mrs. J. R  |
+| 22 | 688<br>743<br>3837<br>772 | AllOll | Private  |  | O.T.C  |  |  |  |  | Mar. 20, 1915. |
+| 22 | 688<br>772<br>3837<br>800 | A11007 |  |  | O.T.C  |  |  |  |  | Mar. 17, 1915. | Private  |
+| 22 | 688<br>801<br>3837<br>829 | A11006 | Private  |  |  |  |  |  |  | Mar. 17, 1915. |
+| 22 | 688<br>830<br>3837<br>858 | A11026 | Private  |  | Nil.... |  |  | Newfoundland.. |  | Mar. 31, 1915. |
+| 22 | 688<br>860<br>3837<br>889 | All 119 |  |  |  |  |  | Canada  |  | Apr. 12, 1915. | Corporal  | O.T.C  |
+| 22 | 687<br>889<br>3838<br>918 | A1108G |  |  |  |  |  |  |  | Apr. 3, 1915. | Private  | Nil.... |
+| 22 | 687<br>917<br>3837<br>947 | All 106 |  |  |  |  |  |  |  | Apr. 3, 1915. | Private  | Nil  |
+| 22 | 688<br>947<br>3838<br>975 | A11057 |  |  |  |  |  |  |  | Mar. 24, 1915. | Private  | C.A.M.C  |
+| 22 | 687<br>977<br>3838<br>1005 | AlllOl |  |  |  |  |  |  |  | Apr. 5, 1915. | Nil  | Private  |
+| 22 | 687<br>1006<br>3838<br>1033 | A11079 | Private  |  | Nil  |  |  |  |  | Mar. 17, 1915. |
+| 22 | 687<br>1034<br>3838<br>1062 | A10980 | Private  |  | Nil  |  |  |  |  | Mar. 17, 1915. |
+| 22 | 687<br>1063<br>3838<br>1092 | A11018 | Private  |  | O.T.C  |  |  |  |  | Mar. 16, 1915. |
+| 22 | 688<br>1093<br>3838<br>1121 | A11076 |  |  | O.T.C  |  |  |  |  | Mar. 17,1915. |
+| 22 | 687<br>1123<br>3839<br>1153 | A10995 |  |  | O.T.C  |  |  |  |  | Mar. 16, 1915. | Fitzgerald, James Evert  | Fitzgerald, Mrs. E. C  |
+| 22 | 696<br>1151<br>3577<br>1178 | 410941 |  |  | O.T.C.... |  |  |  | St-e Anne de |
+| 22 | 687<br>1209<br>3839<br>1237 | A10905 |  |  |  |  |  |  |  | Feb. 19, 1915. | O.T.C  |
+| 22 | 688<br>1238<br>3839<br>1265 | A10953 |  |  |  |  |  |  |  | Mar. 9, 1915. | Nil. . |
+| 22 | 687<br>1268<br>3839<br>1295 | All 003 | Private  |  | O.T.C.... |  |  |  |  | Mar. 16, 1915. |
+| 22 | 686<br>1297<br>3839<br>1326 | A11050 |  |  | Nil.... |  | 212 Esplanade St. E., North Vancouver, B.C  |  |  | Mar. 11, 1915. |
+| 22 | 686<br>1327<br>3839<br>1355 | A1105S |  |  |  |  | Atlin, B.C  | Fraser, George Lyall  | Nil  | Mar. 24, 1915. |
+| 22 | 687<br>1356<br>3840<br>1383 | A111G6 |  |  | Nil.... |  |  |  |  | May 4, 1915. |
+| 22 | 687<br>1385<br>3840<br>1410 | A11052 |  |  | Nil. |  |  |  |  | Mar. 17, 1915. |
+| 22 | 687<br>1443<br>3839<br>1469 | A11041 |  |  | Nil. .. |  |  |  |  | Mar. 5,1915. |
+| 22 | 686<br>1472<br>3839<br>1500 | A11040 |  | Gibson, Thomas Ian  | Nil  |  |  |  |  | Mar. 5,1915. |
+| 22 | 686<br>1500<br>3841<br>1528 | A11093 |  |  | Nil. .. |  |  |  |  | Apr. 5, 1915. |
+| 22 | 686<br>1529<br>3840<br>1556 | A10946 |  |  |  |  |  |  |  | Mar. 8, 1915. | O.T.C.... |
+| 22 | 686<br>1558<br>3841<br>1586 | A11088 |  |  | Nil.... |  |  |  |  | Apr. 5, 1915. |
+| 22 | 686<br>1587<br>3841<br>1613 | A11059 |  |  | Nil. .. |  |  |  |  | Mar. 24, 1915. |
+| 22 | 686<br>1674<br>3841<br>1703 | A10973 |  | Grcgson, William Ewart  | O.T.C  |  |  |  |  | Mar. 16, 1915. |
+| 22 | 694<br>1703<br>3841<br>1731 | 411161 |  | Griffiths, Arthur Maynard J  | S.A  |  |  | Wales  |  | May 17, 1915. |
+| 22 | 686<br>1731<br>3842<br>1760 | A10969 |  | Groner, Ralph  |  |  |  |  |  | Mar. 16, 1915. | 247 Elm Ave., Westmount, P.Q  |
+| 22 | 687<br>1760<br>3841<br>1790 | A10903 |  |  | Nil  | Hamilton, Mrs. R. E  |  |  |  | Feb. 18, 1915. |
+| 22 | 687<br>1789<br>3842<br>1815 | All108 |  |  |  | Hill Mrs. F. C   |  |  |  | May 6, 1915. | O.T.C.... |
+| 22 | 686<br>1817<br>3842<br>1844 | A11078 |  |  | Nil  |  |  |  |  | Mar. 17, 1915. |
+| 22 | 686<br>1846<br>3842<br>1876 | A11049 |  | Hardie, Charles Mawer  | Nil  |  | Beaumont, P.O., Esquimalt, B.C  |  |  | Mar. 11, 1915. |
+| 22 | 687<br>1875<br>3843<br>1905 | A11098 |  |  | Nil  |  | "Kingscott,” Pentonville, Newport, Monmouth, Eng.. |  | Saskatoon  | Mar. 16, 1915. |
+| 22 | 687<br>1904<br>3843<br>1931 | All 139 |  |  | O.T.C  |  |  |  |  | Apr. 12, 1915. |
+| 22 | 687<br>1932<br>3843<br>1964 | A11122 |  |  | O.T.C  | Harvey, Oscar Robert  |  |  | Montreal  | Apr. 12, 1915. |
+| 22 | 687<br>1963<br>3143<br>1993 | All125 |  |  | O.T.C  | Hastings, Melville  | Ann Arbor University, Ann Arbor, Mich., U.S.A  |
+| 22 | 687<br>1990<br>3843<br>2020 | A23303 |  |  | Nil   |  | 5 Richmond St., Cross Lane, Salford, Manchester, Eng |  |  | Sept. 23, 1914. |
+| 22 | 687<br>2019<br>3844<br>2046 | A10915 |  |  |  |  |  |  |  | Feb. 24, 1915. | Montreal  |
+| 22 | 687<br>2048<br>3844<br>2077 | A1097G |  |  |  |  |  |  |  | Mar. 16, 1915. | O T.C  | Canada  | Montreal  |
+| 22 | 688<br>2077<br>3845<br>2106 | A11131 |  |  | Nil. |  |  |  | Montreal  | Apr. 12, 1915. |
+| 22 | 688<br>2106<br>3845<br>2139 | A10993 |  |  |  |  |  |  |  | Mar. 24, 1915. | Private  | Hodgson, Geoffrey Mitchell  | 3rd Regt  | Swanmere Vicarage, Bishop’s Waltham, Hants, Eng... | England  | Montreal  |
+| 23 | 371<br>358<br>3514<br>391 | A11091 Private  | Hooper, William John S  | Nil  | Hooper, William  | 1117 Chestnut Ave., Moose Jaw, Sask  |  |  | Apr. 5, 1915. |
+| 23 | 371<br>390<br>2822<br>421 | A10989 Private  | Howard, Henry  | C.A.M.C  |  | 2 Ebrington Gardens. Belfast, Ire  |
+| 23 | 751<br>416<br>3515<br>450 |  | Huckett, Hugh Cecil  | O.T.C  |  |  | Madagascar.... |  | Mar. 16, 1915. |
+| 23 | 1256<br>474<br>3516<br>506 |  |  |  |  |  |  |  | Mar. 16, 1915. | Nil  | 817 Wellington St., Montreal, P.Q  | Canada  |
+| 23 | 1255<br>532<br>3516<br>563 |  |  | Nil.... |  | 1250 Salisbury Drive, Vancouver, B.C  |  | Vancouver  | Mar. 5, 1915. |
+| 23 | 1253<br>561<br>3254<br>593 |  |  |  |  | 80 Somerville Ave., Westmount, P.Q  | O.T.C  | Ste. Anne de |
+| 23 | 747<br>648<br>3516<br>682 |  |  |  |  |  |  |  | Mar. 16, 1915. | Nil  | Jordan, Malcolm Dennis  | Guelph  |
+| 23 | 1253<br>765<br>3516<br>794 |  |  | Nil  |  |  |  | Saskatoon  | Mar. 18, 1915. |
+| 23 | 1252<br>795<br>3253<br>826 |  |  | O.T.C  | Kelsall, J. P  |  | England  | Ste. Anne de |
+| 23 | 747<br>852<br>3517<br>884 |  |  |  |  |  |  |  | Mar. 5, 1915. | Canada  | Montreal  | Kilgour, J. R  | O.T.C  | Kilgour, J. W  |
+| 23 | 748<br>910<br>3518<br>941 |  |  |  |  |  |  |  | Apr. 2, 1915. | Kirkland, Hal... | Kirkland, J. P  |
+| 23 | 1550<br>997<br>3518<br>1028 |  |  |  | Koyl, Mrs. R. B  |  | Canada  |  | Apr. 1, 1915. |
+| 23 | 746<br>1026<br>3518<br>1057 |  | Lake, S. W | Nil  |  |  |  |  | Aug. 25, 1914. |
+| 23 | 747<br>1055<br>3518<br>1087 |  |  |  |  |  |  |  | Mar. 16, 1915. | Leach, William Buck  | O.T.C  |
+| 23 | 1251<br>1084<br>3518<br>1115 |  |  |  |  |  |  |  | Feb. 26, 1915. | O.T.C  | 78 Bruce Ave., Westmount, P.Q  |
+| 23 | 1253<br>1142<br>3519<br>1171 |  |  | Nil  |  |  |  | Saskatoon  | Apr. 5, 1915. |
+| 23 | 746<br>1171<br>3519<br>1203 |  |  |  |  |  |  |  | Mar. 18, 1915. | Lewis, Rundall McGill  | O.T.C  | Lewis, Gordon T  | R.R. No. 2, Yarmouth, N.S  | U.S.A  |
+| 23 | 1252<br>1200<br>3519<br>1230 |  |  | Nil  |  |  | England  | Montreal  | Mar. 5, 1915. |
+| 23 | 365<br>1257<br>3519<br>1287 | A11053 Private  |  |  |  |  |  | Vancouver  | Mar. 17, 1915. |
+| 23 | 1250<br>1315<br>3519<br>1344 |  |  | C.F.A...  |  |  |  | Montreal  | Feb. 18,1915. |
+| 23 | 744<br>1373<br>3520<br>1406 |  |  |  |  |  |  |  | Apr. 12, 1915. | MacLachlan, Alexander Grant. . .. | O.T.C  | Montreal  |
+| 23 | 1249<br>1431<br>3520<br>1461 |  |  | O.T.C  |  |  |  | Montreal  | Apr. 1, 1915. |
+| 23 | 742<br>1489<br>3520<br>1522 |  |  |  |  |  |  |  | Mar. 16, 1915. | MacPherson, John Ross  | Nil . | Saskatoon  |
+| 23 | 363<br>1522<br>2824<br>1552 |  | Mahaffy, Herbert Lawrence  | All 145 Corporal  | O.T.C  | B. 6, Board of Trade, 42 St. Sacrement St., Montreal, |
+| 23 | 2090<br>1547<br>3520<br>1580 |  |  |  |  |  |  |  | Apr. 29, 1915. | P.Q  | Canada  | Montreal  |
+| 23 | 1250<br>1605<br>3521<br>1634 |  |  | Nil... |  |  |  | Montreal  | Apr. 10, 1915. |
+| 23 | 1247<br>1634<br>3520<br>1663 |  |  |  |  |  |  |  | Apr. 12, 1915. | O.T.C...  | Montreal  |
+| 23 | 2837<br>1663<br>3521<br>1694 |  |  |  |  |  |  |  | Mar. 20, 1915. | England  | Montreal  |
+| 23 | 1249<br>1721<br>3506<br>1751 |  |  |  |  |  |  |  | Apr. 5, 1915. | Nil  | Canada  | Saskatoon  |
+| 23 | 740<br>1779<br>3522<br>1812 |  | McCormick, James Hugh  | O.T.C  | McCormick, Mrs. M. D  | “Friendship,” St. Michael, Barbadoes, B.W.I  | B.W.I   | Montreal  | Mar. 11, 1915. |
+| 23 | 1248<br>1895<br>3522<br>1924 |  |  |  |  |  |  |  | Mar. 16, 1915. | Nil... | Ireland  | Saskatoon  |
+| 23 | 2049<br>1924<br>3522<br>1956 |  |  |  |  |  |  |  | Mar. 16, 1915. | 108 Villeneuve St. W., Montreal, P.Q  | Montreal  |
+| 23 | 1247<br>1953<br>3523<br>1986 |  |  |  |  |  |  |  | May 12, 1915. | 74 West 85th St., New York, N.Y., U.S.A  | Nil... | McGuire, Dr. F. A  | U.S.A  | Montreal  |
+| 23 | 1247<br>1982<br>3522<br>2012 |  |  |  |  |  |  |  | Mar. 23, 1915. | Nil... | Guelph  |
+| 23 | 357<br>2040<br>3523<br>2074 |  |  | Nil  | McLellan, Mrs. A. D  | A11036 Private  | McLellan, Willard Gilmour  | 1990, 7th Ave. W\, Vancouver, B.C  | Canada  | Mar. 5,1915. |
+| 24 | 706<br>568<br>3347<br>604 | .§* |  |  | Former Corps. |  |  | Country of |
+| 24 | 694<br>720<br>3839<br>749 | A10935 | Private. | McLeod, John M  | O.T.C  | McLeod, Neil. .. | Summerside, Prince Co., P.E.I. | Canada.. | Montreal  | Mar. 6, 1915. |
+| 24 | 694<br>749<br>3576<br>778 | A10943 | Private. | McMahon, Enoch Arthur. | O.T.C  | McMahon, B. W. | Aylesford, Kings Co., N.S  | Canada. . | Ste. Anne de |
+| 24 | 3424<br>780<br>3838<br>803 |  |  |  |  |  |  |  | Bellevue.... | Mar. | 1915. |
+| 24 | 693<br>806<br>3838<br>837 | A10992 | Private.. | McMullen, J. E  | Can. Eng  | McMullen, Mrs. M. A. | 755 Wellington St., Montreal, P.Q.... | Canada.. | Montreal   | Mar. | 1915. |
+| 24 | 694<br>836<br>3838<br>865 | A11046 | Private.. | McPherson, Ralph Stewart. | Nil  | Yelland, Mrs. J  | 1932, 6th Ave. W., Vancouver, B.C... | Canada.. | Vancouver— | Mar. | 1915. |
+| 24 | 693<br>865<br>3838<br>895 | A11169 | Private.. | Mills, Anthony Lyle  | Nil  | Mills, F. W  | 722 Hastings St. E., Vancouver, B.C. | Canada.. | Vancouver— | Apr. | 1915. |
+| 24 | 693<br>894<br>3838<br>924 | A11131 | Private.. | Mills, John Salter  | 14th Regt... | Mills, Thomas  | 120 University Ave., Kingston, Ont.. | Canada.. | Montreal  | Apr. | 1915. |
+| 24 | 693<br>923<br>3837<br>953 | A10988 | Corporal. | Millen, J. E. Lysle  | Nil  | Millen, Mrs. Leslie.... | 418 Wood Ave., Westmount, P.Q  | Canada.. | Montreal  | Mar. | 1915. |
+| 24 | 693<br>952<br>3575<br>981 | A10955 | Private... | Milne, Arthur Robb  | O.T.C  | Milne, George E. R... | Pointe Claire, P.Q  | Canada.. | Ste. Anne de |
+| 24 | 3424<br>982<br>3837<br>1007 |  |  |  |  |  |  |  | Bellevue— | Mar. | 1915. |
+| 24 | 693<br>1010<br>3837<br>1040 | A10928 | Private  | Moran, Algernon Cecil  | 3rd Regt  | Moran, Miss Muriel  | 240 Washington St., Jersey City, N.J., U.S.A  | England.. | Montreal  | Mar. | 1915. |
+| 24 | 693<br>1038<br>3836<br>1068 | A10512 | Q.-M. Sergeant. | Morris, William Hugo  | Can. Mil  | Morris, Mrs. Mary A  | 11 Somerset St., Ottawa, Ont  | Canada... | Ottawa  | Mar. | 1915. |
+| 24 | 692<br>1068<br>3836<br>1098 | A10922 | Private  | Moyse, Robert Edwin  | 5 th Regt  | Moyse, C. E  | 324 Sherbrooke St. W., Montreal, P.Q  | Canada... | Montreal  | Mar. | 1915. |
+| 24 | 696<br>1096<br>3836<br>1127 | A11062 | Private  | Munro, Alexander  | Nil  | Munro, A  | 1760 Parker St., Vancouver, B.C  | Canada... | Vancouver.... | Mar. | 1915. |
+| 24 | 694<br>1126<br>3836<br>1156 | A10999 | Private  | Murray, Robert  | O.T.C  | Murray, Mrs. Annie  | 75 Sheldrake Blvd., Toronto, Ont  | Canada... | Guelph  | Mar. | 1915. |
+| 24 | 691<br>1154<br>3836<br>1185 | A11085 | Private  | Neatby, Alan Fairlie  | 105th Regt. .. | Neatby, Andrew Mossforth.., | Renown, Sask  | England.. | Montreal  | Apr. | 1915. |
+| 24 | 688<br>1184<br>3836<br>1214 | A11084 | Private  | Nicholls, Joseph Lees  | Nil  | Nicholls, Joseph  | King St., Coatbridge, Lanark, Scot  | Scotland.. | Saskatoon.... | Mar. | 1915. |
+| 24 | 691<br>1213<br>3836<br>1242 | All118 | Private  | Nickle, William McAdam.. . | Nil  | Nickle, W. F  | 130 Earl St., Kingston, Ont  | Canada... | Montreal  | Apr. | 1915. |
+| 24 | 691<br>1242<br>3941<br>1271 | All105 | Private  | Nicoll, William  | Nil  | Nicoll, William  | “Castle Fraser,” Sanchen, Aberdeen, Scot  | Scotland.. | Saskatoon  | Apr. | 1915. |
+| 24 | 691<br>1271<br>3836<br>1301 | A11146 | Private  | Oliver, Robert  | Imp. Forces.. | Oliver, Robert Stormonth  | 167 Colonial Ave., Montreal, P.Q  | Scotland.. | Montreal  | Apr. | 1915. |
+| 24 | 690<br>1300<br>3836<br>1330 | A10911 | Private  | Parke, Charles Wilmot  | Nil  | Parke, G. H  | 210 Milton St., Montreal, P.Q  | Canada... | Montreal  | Feb. | 1915. |
+| 24 | 690<br>1329<br>3836<br>1358 | A10967 | Private  | Parker, Leslie H  | C. of G  | Parker, John  | Leeds Village, P.Q  | Canada... | Montreal  | Mar. | 1915. |
+| 24 | 690<br>1358<br>3836<br>1388 | A11087 | Private  | Parlett, Arthur Edgar L  | Imp. Forces.. | Parlett, A. S  | Sutton, Surrey, Eng  | England.. | Saskatoon  | Mar. | 1915. |
+| 24 | 690<br>1387<br>3836<br>1416 | A11109 | Private  | Parrott, Reginald Els worth.. | O.T.C  | Parrott, J. E  | Saltcoats, Sask  | Canada... | Montreal  | Apr. | 1915. |
+| 24 | 689<br>1415<br>3836<br>1445 | A11094 | Private  | Paterson, William Andrew... | Nil  | Paterson, Alexander  | Upper Kennetcook, Hants Co., N.S  | Canada... | Saskatoon  | Mar. | 1915. |
+| 24 | 689<br>1444<br>3836<br>1474 | A10965 | Private  | Paterson, William James  | O.T.C  | Paterson, John A  | 72 York St., Westmount, P.Q  | Canada... | Montreal  | Mar. | 1915. |
+| 24 | 697<br>1473<br>3835<br>1504 | 411075 | Private  | Patterson, James Dick  | Nil  | Patterson, William  | 73 Abbotsford Place, Glasgow, Scot  | Scotland.. | Saskatoon  | Mar. | 1915. |
+| 24 | 689<br>1502<br>3836<br>1533 | A11009 | Private  | Pearson, H. W  | O.T.C  | Pearson, C. J  | 128 Wellington St., Ottawa, Ont  | Canada... | Guelph  | Mar. | 1915. |
+| 24 | 688<br>1530<br>3836<br>1561 | A10961 | Private  | Peden, Ernest  | O.T.C  | Peden, Alexander  | 83 Ballantyne Ave., Montreal West, P.Q  | Canada... | Montreal  | Mar. | 1915. |
+| 24 | 688<br>1559<br>3836<br>1591 | A10931 | Private  | Penny, Alexander Haywood. . | Nil  | Penny, Mrs. R  | 6 St. Georges Terr., Canterbury, Kent, Eng  | England.. | Montreal  | Mar. | 1915. |
+| 24 | 687<br>1588<br>3836<br>1620 | A10932 | Private  | Penny, Oliver Richard  | Nil  | Penny, Mrs. R..       | 6 St. Georges Terr., Canterbury, Kent, Eng  | England.. | Montreal  | Mar. | 1915. |
+| 24 | 687<br>1617<br>3836<br>1649 | All159 | Private  | Peters, William Edwin  | Royal Navy. | Peters, Mrs. William Edwin. . | 348a Fortune St., Pt. St. Charles, Montreal, P.Q... | England.. | Montreal  | May | 1915. |
+| 24 | 687<br>1647<br>3836<br>1677 | A11148 | Private  | Piddington, William Ely  | Nil  | Piddington, Mrs. Dorothy H. | 209 Oak St., Toronto, Ont  | England.. | Niagara  | May | 1915. |
+| 24 | 695<br>1676<br>3836<br>1705 | 411158 | Private  | Plunkett, Harry  | 30th Horse. .. | Plunkett, Alma  |  | Ireland... | Montreal  | May | 1915. |
+| 24 | 686<br>1705<br>3836<br>1734 | A11051 | Private  | Plummer, Stephen Becher.... | Nil......  | Plummer, A. E  | 1995, 15th Ave. W., Vancouver, B.C  | Canada... | Vancouver.... | Mar. | 1915. |
+| 24 | 686<br>1734<br>3836<br>1764 | A11144 | Private  | Pollock, Daniel  | Territorials... | Pollock, John  | 568b Aylwin St., Montreal, P.Q  | Scotland.. | Montreal  | Apr. | 1915. |
+| 24 | 685<br>1763<br>3836<br>1792 | A11097 | Private  | Porter, Thomas Johnson  | Nil  | Porter, W. J  | Baldur, Man  | Canada... | Saskatoon.... | Mar. | 1915. |
+| 24 | 686<br>1792<br>3836<br>1822 | A11138 | C.S.M  | Pritchard, Edward  | Imp. Forces.. | Pritchard, Alice  | Caledonia, Ont  | England.. | Montreal  | Apr. | 1915. |
+| 24 | 694<br>1821<br>3836<br>1851 | 410979 | Private  | Purdy, Charles William  | Nil  | Purdy, Robert  | 52 Bowlby St., Houghton-le-Spring, Durham, Eng. | England.. | Montreal  | Mar. | 1915. |
+| 24 | 684<br>1849<br>3836<br>1880 | A10933 | Private  | Purdy, David  | Nil  | Purdy, Robert.   | 52 Bowlby St., Houghton-le-Spring, Durham, Eng. | England.. | Montreal  | Mar. | 1915. |
+| 24 | 685<br>1878<br>3836<br>1908 | A11069 | Private  | Quick, Leslie Arthur  | Nil  | Quick, Gordon Wright  | Maple Creek, Sask  | Canada... | Saskatoon  | Apr. | 1915. |
+| 24 | 685<br>1907<br>3836<br>1938 | A10998 | Private  | Read, David George  | O.T.C  | Read, Mrs. W. G.  | 561 King St., Peterboro, Ont  | Canada... | Guelph  | Mar. | 1915. |
+| 24 | 685<br>1936<br>3836<br>1967 | A10927 | Private  | Rennoldson, David Benedict. | Nil  | Rennoldson, David Henry.... | 313 Grosvenor Ave., Westmount, P.Q  | England.. | Montreal  | Mar. | 1915. |
+| 24 | 684<br>1966<br>3836<br>1995 | All 150 | Private  | Richardson, Henry F  | Nil  | Richardson, H. W  | Kingston, Ont  | Canada... | Niagara  | May | 1915. |
+| 24 | 685<br>1994<br>3837<br>2025 | A10983 | Private  | Richardson, Harry James. . . . | Nil  | Richardson, Mrs  | ‘"1 Outremont Ave., Montreal, P.Q  | England.. | Montreal  | Mar. | 1915. |
+| 24 | 684<br>2024<br>3837<br>2053 | A11142 | Private  | Riddle, James Ross  | O.T.C  | Riddle, N. M  | Carleton Place, Ont  | Canada... | Montreal  | Apr. | 1915. |
+| 24 | 684<br>2053<br>3837<br>2082 | A10929 | Private  | Ritchie, Rae George  | O.T.C...  | Ritchie, George E  | P.O. Box 105, Kelowna, B.C  | Canada... | Montreal  | Mar. | 1915. |
+| 24 | 684<br>2082<br>3837<br>2111 | A11362 | Private  | Ross, James  | Territorials... | Ross, Mrs. Margaret  | 142 Nicholas St., Ottawa, Ont  | Scotland.. | Ottawa   | May | 1915. |
+| 24 | 688<br>2100<br>3836<br>2140 | All 1571 Private |  | Ross, John  | Nil  | Ross, Mrs. Margaret  | 348a Fortune St., Pt. St. Charles. Montreal, P.Q. . . | Scotland., | Montreal  | May | 1915. |
+| 25 | 2836<br>400<br>3513<br>426 |  |  |  |  | Canada.. | Montreal  | Mar. | 31, 1915. |
+| 25 | 375<br>428<br>3513<br>463 | A10991 Private  | Nil  |  | Wareham, Dorset, Eng  | England. | Montreal  | Mar. | 23, 1915. |
+| 25 | 1256<br>458<br>3513<br>492 |  | Nil  |  | Walkerton, Ont    | Canada.. | Montreal  | Apr. | 12, 1915. |
+| 25 | 374<br>486<br>3513<br>522 | A11120 L.-Corporal  |  |  | 130 Stanley Ave., Hamilton, Ont  | Canada.. | Montreal  | Apr. | 12, 1915. |
+| 25 | 2836<br>515<br>3513<br>543 |  |  |  |  | Canada.. | Guelph  | Apr. | 6, 1915. |
+| 25 | 2050<br>543<br>3514<br>581 |  |  |  | 141 Bayle St., Montreal, P.Q  | U.S.A... | Montreal  | Mar. | 17, 1915. |
+| 25 | 2835<br>573<br>3514<br>600 |  |  |  |  | Canada.. | Montreal  | Apr. | 12, 1915. |
+| 25 | 1252<br>602<br>3514<br>640 |  | O.T.C  |  | Annapolis Royal, N.S  | Canada.. | Guelph  | Mar. | 17, 1915. |
+| 25 | 1252<br>631<br>3514<br>667 |  | O.T.C  |  | “The Farlands” Stourbridge, Worcs, | England. | Montreal  | Mar. | I, 1915. |
+| 25 | 1253<br>660<br>3515<br>698 |  | Nil  |  | Murrayville, B.C  | Canada.. | Vancouver— | Mar. | 17, 1915. |
+| 25 | 1251<br>689<br>3516<br>727 |  | O.T.C  |  | Maltby-le-Marsh, Alford, Lines, Eng. | England. | Guelph  | Mar. | 16, 1915. |
+| 25 | 1250<br>718<br>3516<br>753 |  | O.T.C  |  | 147 St. James St. W., Montreal, P.Q. | Canada.. | Montreal  | Feb. | 18.1915. |
+| 25 | 1252<br>747<br>3516<br>784 |  | Nil  | Sparling, A. J  | 716, 6th Ave. YV., Saskatoon, Sask.... | Canada.. | Saskatoon  | Mar. | 17, 1915. |
+| 25 | 748<br>777<br>3252<br>813 |  | O.T.C  |  | Ill Laporte Ave., Montreal, P.Q  | Canada.. | Ste. Anne de |
+| 25 | 3102<br>805<br>3516<br>832 |  |  |  |  |  | Bellevue.... | Mar. | 8, 1915. |
+| 25 | 1251<br>835<br>3516<br>871 |  | Nil  |  | Caughnawaga, P.Q  | Canada. | Montreal  | Mar. | 27, 1915. |
+| 25 | 1250<br>864<br>3516<br>899 |  | O.T.C  |  | Almonte, Ont  | Canada.. | Guelph  | Mar. | 16, 1915. |
+| 25 | 747<br>893<br>3517<br>927 |  | O.T.C  |  | Macdonald College, Ste. Anne de Bellevue, P.Q  | Canada.. | Montreal  | Mar. | 9, 1915. |
+| 25 | 2089<br>951<br>3517<br>987 |  |  |  | Eng  | England.. | Guelph Mar. |  | 16, 1915. |
+| 25 | 1251<br>980<br>3517<br>1014 |  | Nil  |  | P.O. Box 81, Gananoque, Ont  | Canada... | Montreal Apr. |  | 12, 1915. |
+| 25 | 1249<br>1009<br>3518<br>1042 |  | O.T.C  |  | 700 Pine Ave. W., Montreal, P.Q  | Canada... | Montreal Mar. |  | 1, 1915. |
+| 25 | 2044<br>1038<br>3518<br>1071 |  |  |  | 841 Oxenden Ave., Montreal, P.Q  | Canada... | Montreal Feb. |  | 18, 1915. |
+| 25 | 1251<br>1067<br>3518<br>1100 |  | Nil  |  | 246 John St., Belleville, Ont  | Canada... | Montreal Apr. |  | 12.1915. |
+| 25 | 2048<br>1096<br>3518<br>1130 |  |  |  | Gilbert, Minn., U.S.A  | England.. | Montreal jMay |  | 7, 1915. |
+| 25 | 1249<br>1124<br>3518<br>1159 |  | O.T.C  |  | Brooklyn, Wishaw, Lancs, Eng  | Scotland.. | Saskatoon |May |  | 4, 1915. |
+| 25 | 1251<br>1153<br>3518<br>1188 |  | Nil  |  | 734 Spadina Cres., Saskatoon, Sask  | Canada... | Saskatoon Mar. |  | 18, 1915. |
+| 25 | 367<br>1182<br>3519<br>1216 | A11072 Private  | Nil  | Turriff, J. G  | House of Commons, Ottawa, Ont  | Canada... | Saskatoon Mar. |  | 17. 1915. |
+| 25 | 2049<br>1211<br>3519<br>1245 |  |  |  | Hurst Lodge, Caterham, Surrey, Eng  | England.. | Niagara.. |  | 24, 1915. |
+| 25 | 2049<br>1240<br>3519<br>1273 |  |  |  | 127 W. Cliff St., Somerville, N.J., U.S.A  | U.S.A  | Montreal.. |  | 17, 1915. |
+| 25 | 1251<br>1269<br>3519<br>1303 |  | Nil  |  | Essex, Ont  | Canada... | Essex  |  | 29, 1915. |
+| 25 | 1251<br>1298<br>3520<br>1333 |  | Nil  |  | 474 King St., London, Ont  | Canada... | Montreal |  | 14, 1915. |
+| 25 | 1250<br>1327<br>3520<br>1361 |  | O.T.C  | Ware, Mrs. G. T  | 121 Sinclair Rd., London, Eng  | Canada... | Guelph. |  | 16, 1915. |
+| 25 | 1251<br>1356<br>3520<br>1389 |  | Nil  | Weart, J. W  | 1508 Standard Bank Bldg., Vancouver, B.C  | Canada... | Vancouver. |  | 5, 1915. |
+| 25 | 2048<br>1414<br>3520<br>1447 |  |  |  | Chinook, Mont., U.S.A  | Ireland... |  | Aug. | 24, 1914. |
+| 25 | 1250<br>1443<br>3521<br>1477 |  | Nil  |  | Edgeley, Sask  | Canada... | Montreal. | Apr. | 1, 1915. |
+| 25 | 1250<br>1472<br>3521<br>1505 |  | Nil  | Bell, Mrs. R. G  | Mor. Awelon, Aberdovey, N. Wales  | Wales.. .. | Saskatoon. | Mar. | 16, 1915. |
+| 25 | 1250<br>1501<br>3521<br>1534 |  | Nil  |  | Stave Falls, B.C  | Scotland. | Vancouver. | Mar. | II, 1915. |
+| 25 | 1250<br>1529<br>3521<br>1563 |  | Nil  |  | Kinistino, Sask    | Canada... | Saskatoon. | Mar. | 17, 1915. |
+| 25 | 1250<br>1559<br>3521<br>1592 |  | Nil  |  | 28 Sudworth Rd., Wallasey, Cheshire, Eng  | England.. | Vancouver. | Mar. | 5, 1915. |
+| 25 | 1546<br>1588<br>3521<br>1623 |  |  | Wright, T. H  | Jubilee, B.C  | Canada... | Vancouver. | Mar. | 24, 1915. |
+| 25 | 1250<br>1617<br>3521<br>1651 |  | Nil  | Yorath, Christopher James  | 313, 4th Ave. N., Saskatoon, Sask  | Wales.... | Saskatoon. | Apr. | 5, 1915. |
+| 25 | 366<br>1646<br>3521<br>1683 | A10916IPrivate  | Nil  | Yuill. Mrs. S. B  | Daily Creek, Granum, Alta  | Canada... | Montreal. . | Feb. | 24, 1915. |
+| 25 | 1252<br>1848<br>2616<br>1878 |  | G.G.F.G  | Ross, Crawford..   | 295 Metcalfe St., Ottawa, Ont  |
+| 25 | 1253<br>1873<br>3523<br>1907 |  | G.G.F.G  | Bechtel, Kathleen Boyle | 17 McDonald St., Ottawa, Ont  | U.S.A.... | Ottawa. | Feb. | 1, 1915. |
+| 25 | 1551<br>1901<br>3523<br>1936 |  |  | Fraser, W. H. A  | 74 Nepean St., Ottawa, Ont  | Canada... | Ottawa. | Feb. | 1, 1915. |
+| 25 | 1253<br>1936<br>2610<br>1965 |  | G. G. F. G  | Parker, Mrs. J. E  | 471 Somerset St., Ottawa, Ont  |
+| 25 | 1551<br>1959<br>3524<br>1995 |  |  | Sraythe, George H  | 59 West St., Kingston, Ont  | Canada... | Ottaw'a  | Feb. | 1, 1915. |
+| 25 | 392<br>1989<br>3524<br>2025 | 10547 | Nil  | McDougall, Mrs. R. D.. | Glenroy, Ont  | England.. | Alexandria.. | Jan. | 16, 1915. |
+| 25 | 392<br>2018<br>3525<br>2053 | 10525 | Nil  | Aitken, Mrs. Hugh  | 350 Gloucester St., Ottawa, Ont  | Scotland., | Ottawa  | . Mar. | 5, 1915. |
+| 25 | 392<br>2047<br>3525<br>2082 | 10471 | Nil  | Pollock, Mrs. Hiram.... | 22 Turner St., Ottawa, Ont  | Scotland., | Ottawa  | . Mar. | 1, 1915. |
+| 25 | 392<br>2077<br>3524<br>2112 | 10539 | Nil  | Alguire, Mrs. Anna  | Northfield, Ont  | Canada... | Ottawa  | . Mar. | 19, 1915. |
+| 25 | 392<br>2105<br>3525<br>2142 | 10097 | G.G.F.G  | Angel, Mrs. Jennie  | 226 Carruthers Ave., Ottawa, Ont  | Canada... | Ottawa  | . Feb. | 24, 1915. |
+| 25 | 391<br>2134<br>3525<br>2170 | 10078 | Nil  | Archer, Mrs. Eliza  | 50 Collingwood St., London, S.E., Eng. | England.. | Ottawa  | . Feb. | 22, 1915. |
+| 26 | 652<br>582<br>3324<br>617 | .§2 |  | Former Corps. |  |  | Country of |
+| 26 | 667<br>732<br>3543<br>762 | 1052S | Armstrong, Gibson  | C.F.A  | Armstrong, Mrs. H. W  | R.R. No. 2, Edwards, Ont  | Canada  | Ottawa  |
+| 26 | 667<br>762<br>3542<br>790 | 10164 | Arnison, Thomas  | Nil  | Arnison, Mrs. Jane  | 128 N. John St., Glasgow, Scot  | England  | Ottawa  |
+| 26 | 667<br>791<br>3543<br>819 | 10530 | Ash, Charles  | Nil  | Ash, Mrs. Annie May  | Eastview, Ont  | England  | Ottawa  |
+| 26 | 667<br>820<br>3543<br>848 | 10420 | Aumond, Paul  | G.G.F.G  | Aumond, Mrs. Sarah  | 585 King Edward Ave., Ottawa, Ont  | .. Canada  | Ottawa  |
+| 26 | 666<br>848<br>3546<br>879 | 10712 | Bain, James  | 47th Regt  | Bain, Louis  | Crow Lake, Ont  | Canada  | Brockville.. |
+| 26 | 667<br>878<br>3543<br>906 | 10508 | Baker, Horace S  | G.G.F.G  | Baker, Mrs. Elizabeth  | P.O., Woodroffe, Ont  | Canada  | Ottawa  |
+| 26 | 667<br>907<br>3543<br>936 | 10753 | Barkley, Walter Charles  | Nil  | Barkley, Mrs. Nellie  | Winchester, Ont  | Canada  | Ottawa  |
+| 26 | 666<br>936<br>3543<br>965 | 10771 | Barr, Archibald Carson  | Nil  | Barr, Mrs. Mary Carson  | 11 Yoth St., Glasgow, Scot  | Scotland  | Ottawa  |
+| 26 | 666<br>965<br>3543<br>994 | 10766 | Barrett, William  | Nil  | Barrett, John  | Bay Roberts, N’fld  | Newfoundland.. | Ottawa  |
+| 26 | 665<br>994<br>3544<br>1024 | 10025 | Baxter, Robert  | 43rd Regt  | Baxter, Mrs    | 150 Stewart St., Ottawa, Ont  | England  | Ottawa  |
+| 26 | 665<br>1023<br>3543<br>1053 | 10531 | Belfoy, Lawrence  | G.G.F.G  | Belfoy, Mrs. Louisa  | 273 Bell St., Ottawa, Ont  | Canada  | Ottawa  |
+| 26 | 665<br>1052<br>3544<br>1081 | 10770 | Bere, William John  | Nil  | Bere, Mrs. Elizabeth  | Bradford Abbas, Sherborne, Dorset, Eng  | England  | Ottawa  |
+| 26 | 665<br>1081<br>3544<br>1111 | 10119 | Bermingham, Henry    | Nil  | Bermingham, Arthur Wilfred. | Bryhtirion, Red Wharf Bay, Anglesey, Wales.. | England  | Ottawa  |
+| 26 | 664<br>1110<br>3543<br>1140 | 10769 | Berryman, Frank  | Nil  | Berryman, Charles  | 67 William St., Totterdown, Bristol, Eng  | England  | Ottawa..... |
+| 26 | 664<br>1138<br>3538<br>1168 | 10649 | Blair, Gordon  | Nil  | Blair, William  | Moose Creek, Ont  | Canada  | Alexandria. |
+| 26 | 664<br>1167<br>3544<br>1198 | 10464 | Boddington, Gordon William.... | Nil  | Boddington, William J  | 56 Galley Ave., Toronto, Ont  | Canada  | Ottawa  |
+| 26 | 663<br>1196<br>3544<br>1226 | 10296 | Bouford, Frank  | Can. Mil  | Flerver, Louis  | Berrin, N.H., U.S.A  | Canada  | Ottawa  |
+| 26 | 663<br>1226<br>3544<br>1255 | 10369 | Bourne, William  | Nil  | Bourne, Mrs. Joyce  | Westborough, Ont  | England  | Ottawa  |
+| 26 | 663<br>1254<br>3544<br>1286 | 10741 | Bowerman, Harold Edmond  | 49th Regt  | Bowerman, Mrs. Jennie  | 35 Borden St., Toronto, Ont  | Canada  | Ottawa  |
+| 26 | 663<br>1284<br>3545<br>1315 | 10086 | Brown, George Raymond A  | Nil  | Shorthouse, Miss Violet  | Allandale P.O., Ont  | England  | Ottawa  |
+| 26 | 662<br>1313<br>3544<br>1343 | 10756 | Brown, Thomas Gordon  | Nil  | Brown, Thomas  | R.R. No. 3, Pembroke, Ont  | Canada  | Ottawa  |
+| 26 | 662<br>1342<br>3545<br>1372 | 10755 | Bryce, Cecil Elmas  | Nil  | Bryce, Thomas  | Carleton Place, Ont  | Canada  | Ottawa  |
+| 26 | 661<br>1371<br>3545<br>1401 | 10012 | Burger, Joseph Francis  | Nil  | Burger, Mrs. Mary  | 1153 Wellington St., Ottawa, Ont  | England  | Ottawa  |
+| 26 | 661<br>1400<br>3545<br>1430 | 10751 | Burke, Thomas  | 12th Regt  | Roman, John  | 152 York St., Toronto, Ont  | England  | Ottawa  |
+| 26 | 661<br>1429<br>3546<br>1458 | 10520 | Burr, John  | Nil  | Burr, Mrs. Annie  | P.O. Box 423, Renfrew, Ont  | Scotland  | Ottawa  |
+| 26 | 660<br>1458<br>3546<br>1487 | 10242 | Burwash, John Seton   | Nil  | Burwash, Mrs. Ethel  | Arnprior, Ont  | Canada  | Ottawa  |
+| 26 | 661<br>1487<br>3546<br>1516 | 10341 | Butler, Clement Samuel  | G.G.F.G  | Butler, Mrs. Charlotte  | 463 McLeod St., Ottawa, Ont  | England  | Ottawa  |
+| 26 | 660<br>1515<br>3546<br>1544 | 10640 | Cameron, Donald Duncan  | Nil  | Cameron, Duncan  | Alexandria, Ont  | Canada  | Alexandria.. |
+| 26 | 660<br>1545<br>3546<br>1574 | 10285 | Campbell, John   | Nil  | Campbell, Alexander  | 58 Ottawa St., Ottawa, Ont  | Scotland  | Ottawa  |
+| 26 | 660<br>1574<br>3546<br>1603 | 10468 | Carriere, Arthur   | C.F.A  | Carriere, Napoleon  | 113 Nelson St., Ottawa, Ont  | Canada  | Ottawa  |
+| 26 | 659<br>1602<br>3546<br>1632 | 10174 | Chapman, Arthur William  | Nil  | Chapman, Mrs. Clara   | 159 Laurier Ave. W., Ottawa, Ont  | England  | Ottawa  |
+| 26 | 659<br>1631<br>3546<br>1661 | 10707 | Chevalley, Leon Arthur  | Nil  | Chevalley, Arthur  | Gouvernor’s, New York, N.Y., U.S.A  | U.S.A  | Brockville.. |
+| 26 | 658<br>1660<br>3546<br>1690 | 10750 | Chiswell, Frederick Walter  | 42nd Regt  | Chiswell, Mrs. Sarah Ann  | 13 Able St., Smith’s Falls, Ont  | England  | Ottawa  |
+| 26 | 658<br>1689<br>3546<br>1719 | 10412 | Clarke, George Arthur  | S. A  | Clarke, Mrs. Mary  | Shawville, P.Q  | England  | Ottawa  |
+| 26 | 657<br>1718<br>3546<br>1749 | 10332 | Coghill, John Me Adam  | Nil  | McAtee, Mrs. Mary  | Rochon, P.Q  | Scotland  | Ottawa  |
+| 26 | 658<br>1747<br>3546<br>1778 | 10472 | Coker, George Victor  | Royal Navy  | Coker, Mrs. Theresa  | 58 Stanely Ave., Ottawa, Ont  | England  | Ottawra  |
+| 26 | 658<br>1776<br>3546<br>1806 | 10275 | Collins, Frank Louis  | Nil  | Daly, Mrs. John  | Aylmer, P.Q  | France  | Ottawa  |
+| 26 | 658<br>1805<br>3546<br>1835 | 10100 | Coltman, Arthur  | Nil  | Coltman, Mrs. Lucy  | 178 Anglesey Rd., Burton-on-Trent, Staffs, Eng.. | England  | Ottawra  |
+| 26 | 658<br>1833<br>3546<br>1863 | 10417 | Cook, James  | Nil  | Cook, Mrs. Annie G  | 833 Bank St., Ottawa, Ont  | Scotland  | Ottawa  |
+| 26 | 658<br>1862<br>3546<br>1894 | 10736 | Cooke, William Henry  | 42nd Regt  | Cooke, Mrs. Mary  | 20 River St., Smith’s Falls, Ont  | England  | Ottawa  |
+| 26 | 657<br>1890<br>3546<br>1921 | 10057 | Costello, John  | Nil  | Costello, Mrs. James  | Cork, Ire  | England  | Ottawa  |
+| 26 | 657<br>1919<br>3546<br>1951 | 10368 | Courrier, John Abraham  | Nil  | Courrier, Mrs. Mabel  | 100 Spruce St., Ottawa, Ont  | Canada  | Ottaw’a  |
+| 26 | 657<br>1947<br>3546<br>1979 | 10102 | Craney, James  | Nil I | Gorman, James  | 630 Cumberland St., Ottawa, Ont  | England  | Ottawa  |
+| 26 | 658<br>1975<br>3546<br>2008 | 10767 | Crawfoid, John  | Nil  | Crawford, Mrs. Susan  | P.O. Box 485, Cobalt. Ont  | Canada  | Ottawa  |
+| 26 | 657<br>2004<br>3546<br>2037 | 10757 | Crawford, Thomas  | Nil  | Crawford, Daniel  | Elphin, Ont  | Canada  | Ottawa  |
+| 26 | 657<br>2033<br>3546<br>2066 | 10073 | Crick, William James  | Nil  | Crick, Miss Mary  | Shawville, P.Q  | Canada  | Ottawa  |
+| 26 | 657<br>2062<br>3546<br>2096 | 10475 | Croskery, James  | Nil  | Croskery, Miss Sophia  | 399 Logan Ave., Winnipeg, Man  | Ireland  | Ottawa  |
+| 26 | 657<br>2092<br>3546<br>2125 | 10608 | Cush way, Alfred John  | Nil  | Cush way, Edith Annie  | Smith’s Falls, Ont  | England  | Ottawa  |
+| 26 | 657<br>2121<br>3546<br>2154 | 10735 | Dalton, James  | Nil  | MacGregor, Mrs. Janet  | R. R. No. 1, Jasper, Ont  | Scotland  | Ottawa  |
+| 27 | 367<br>453<br>3513<br>487 | 10169 | Private. | Danis, Joseph Thomas  | Nil  | Danis, Mrs. Eliza... | Ottawa  | Feb | 24 | 1915. |
+| 27 | 3072<br>481<br>3512<br>509 |  |  |  |  |  | Ottawa  | Apr. | 28 | 1915. |
+| 27 | 367<br>488<br>1825<br>516 | 10839 | Private. | Nil  | Davidson, John  |
+| 27 | 3312<br>511<br>3513<br>538 |  |  |  |  |  |  | Apr. | 28 | 1915. |
+| 27 | 367<br>517<br>1825<br>546 | 10840 | Private. | Nil  | Deacon, Joseph  |
+| 27 | 366<br>542<br>2798<br>575 | 10455 | Private.. | Dean, Joseph  | Dean, Mrs. Mary E. | 5 Hopwood Bldgs., Heaton, Norris, Stockport, Ches- |
+| 27 | 3072<br>568<br>3512<br>591 |  |  |  |  |  | Ottawa  | Feb. | 26 | 1915. |
+| 27 | 3071<br>597<br>3512<br>620 |  |  |  |  |  | Ottawa  | Mar. | 5 | 1915. |
+| 27 | 365<br>603<br>1984<br>633 | 10526 | Private.., | Nil  | Decoteau, Mrs. Liza  |
+| 27 | 3072<br>626<br>3512<br>652 |  |  |  |  |  | Ottawa  | Apr. | 28 | 1915. |
+| 27 | 365<br>631<br>1984<br>662 | 10772 | Private... | Nil  | Dempsey, Mrs. Ida Elizabeth.. |
+| 27 | 3071<br>655<br>3513<br>682 |  |  |  |  |  | Ottawa  | Apr. | 28 | 1915. |
+| 27 | 365<br>661<br>1984<br>691 | 10754 | Private... | Nil  | Devine, William John S.  |
+| 27 | 3311<br>684<br>3512<br>710 |  |  |  |  |  |  | Apr. | 10 | 1915. |
+| 27 | 365<br>690<br>1984<br>719 | 11308 | Private... | Nil  | Donaldson, William  |
+| 27 | 3312<br>712<br>3512<br>735 |  |  |  |  |  |  | Feb. | 26 | 1915. |
+| 27 | 365<br>719<br>1984<br>749 | 10355 | Private... | Nil  | Dooley, Mrs. Mary  |
+| 27 | 3311<br>742<br>3512<br>769 |  |  |  |  |  |  | Apr. | 28 | 1915. |
+| 27 | 365<br>747<br>1983<br>778 | 10758 | Private... | Nil  | Doucet, Mrs. Cecilia  |
+| 27 | 364<br>771<br>3512<br>806 | 10284 | Private... | Nil  | Heard, William.:  |  | Ottawa  | Mar. | 19 | 1915. |
+| 27 | 3312<br>800<br>3512<br>823 |  |  |  |  |  |  | Feb. | 26 | 1915. |
+| 27 | 364<br>807<br>1982<br>836 | 10034 | Sergeant.. |  | Cregan, Mrs. Mary  |
+| 27 | 363<br>830<br>3512<br>864 | 10402 | Private... | Nil  | Brousseau, Josephine  |  |  |  | 1 | 1915. |
+| 27 | 362<br>858<br>3512<br>894 | 10461 | Private... | Nil   | Duggan, Mrs. Rebecca  |  |  | Mar. | 5 | 1915. |
+| 27 | 362<br>887<br>3513<br>922 | 10413 | Private... | Nil  | Egan, Mrs. Elizabeth    |  |  | Mar. | 1 | 1915. |
+| 27 | 362<br>917<br>3513<br>951 | 10456 | Private... | Nil  | Endicott, Mrs. Etta Mossil  |  |  | Mar. | 1 | 1915. |
+| 27 | 361<br>948<br>2819<br>980 | 10739 | Private... |  | Everard, Miss Tilly  | 14 Washington House, Basil St., Sloane St., London,W. |
+| 27 | 3312<br>974<br>3514<br>1001 |  |  |  |  |  |  | Apr. | 28 | 1915. |
+| 27 | 360<br>1003<br>3513<br>1037 | 10392 | Private.., | Nil  | Farmer, Lawrence  |  |  | Mar. | 1 | 1915. |
+| 27 | 360<br>1033<br>3512<br>1066 | 10752 | Private.., | Nil  | Fickling, Mrs. Hannah  |  |  | Apr. | 28 | 1915. |
+| 27 | 3312<br>1062<br>3512<br>1088 |  |  |  |  |  |  | Apr. | 10 | 1915. |
+| 27 | 360<br>1066<br>1970<br>1094 | 11306 | Private.., | Nil  | Finan, Mrs. Ellen  |
+| 27 | 3312<br>1090<br>3513<br>1113 |  |  |  |  |  |  | Mar. | 25 | 1915. |
+| 27 | 359<br>1096<br>1971<br>1124 | 10695 | Private... |  | Fitzgibbon, Mrs. Emma  |
+| 27 | 358<br>1120<br>3513<br>1152 | 10807 | Private... |  | Ford, Mrs. Catherine  | 24 Richmond St., Point St. Charles, Montreal, P.Q  |  |  | 28 | 1915. |
+| 27 | 358<br>1148<br>3513<br>1181 | 10017 | Private... |  | Soudie, D. B  | 127 Wellington St., Hull, P.Q  |  | Feb | 24 | 1915. |
+| 27 | 359<br>1182<br>1971<br>1209 | 10747 | Private... | Nil.... | French, Mrs. Selina Mary  |
+| 27 | 3314<br>1206<br>3513<br>1228 |  |  |  |  |  |  | Feb. | 22 | 1915. |
+| 27 | 359<br>1211<br>1970<br>1239 | 10072 | Private... | Nil  | Garvey, Mrs. Catherine  |
+| 27 | 3072<br>1234<br>3513<br>1261 |  |  |  |  |  | Ottawa  | Apr. | 10 | 1915. |
+| 27 | 358<br>1234<br>1971<br>1268 | 10299 | Private... | Nil  | Gayer, Mrs. Mary  |
+| 27 | 3314<br>1263<br>3513<br>1286 |  |  |  |  |  |  | Feb | 22 | 1915. |
+| 27 | 359<br>1269<br>1970<br>1297 | 10103 | Private... | Nil.... | Globensky, Maria-Anna  |
+| 27 | 359<br>1292<br>3513<br>1325 | 10837 | Private... |  | Gordon, Mrs. Katherine  |  | Ottawa  | Apr. | 28 | 1915. |
+| 27 | 3314<br>1322<br>3514<br>1344 |  |  |  |  |  |  | Feb | 22 | 1915. |
+| 27 | 359<br>1321<br>1969<br>1355 | 10052 | Private... | Graham, Maurice Fitzgerald  | Nil  | Miller, Mrs. Mary  |
+| 27 | 359<br>1350<br>3511<br>1384 | 10721 | Private... | Grant, George Howard  | Nil  | Grant, Harry  | Brockville  | Mar. | 25 | 1915. |
+| 27 | 359<br>1379<br>1968<br>1412 | 10726 | Private... | Nil  | Grice, William  |
+| 27 | 3312<br>1407<br>3513<br>1431 |  |  |  |  |  |  | Mar. | 19 | 1915. |
+| 27 | 359<br>1414<br>1968<br>1441 | 10497 | Private... |  | Richards, Mrs. Frank  |
+| 27 | 359<br>1443<br>1968<br>1470 | 10696 | Private... |  | Guilboard, Mrs. Mary Ann  |
+| 27 | 3312<br>1465<br>3513<br>1493 |  |  |  |  |  |  | Apr. | 28 | 1915. |
+| 27 | 359<br>1472<br>1968<br>1500 | 10759 | Private... | Nil  | Gully, Mrs. Elizabeth  |
+| 27 | 3313<br>1494<br>3513<br>1517 |  |  |  |  |  |  | Feb. | 24 | 1915. |
+| 27 | 359<br>1501<br>1968<br>1527 | 10094 | Private... |  | Hack, Charles  |
+| 27 | 3314<br>1524<br>3513<br>1546 |  |  |  |  |  |  | Feb. | 22 | 1915. |
+| 27 | 359<br>1529<br>1967<br>1557 | 10069 | Private... | Nil  | Haddleton, Mrs. Mary Jane... |
+| 27 | 3314<br>1553<br>3514<br>1575 |  |  |  |  |  |  | Feb, | 26 | 1915. |
+| 27 | 359<br>1559<br>1967<br>1586 | 10360 | Private... | Nil  | McKenzie, Mrs. Angus  |
+| 27 | 359<br>1587<br>1967<br>1615 | 10309 | Private... | Nil  | Hall, Mrs. Phyllis  |
+| 27 | 3312<br>1610<br>3513<br>1633 |  |  |  |  |  |  | Mar. | 25 | 1915. |
+| 27 | 358<br>1616<br>1967<br>1643 | 10720 | Private... |  | McCaul, Mrs. E. H  |
+| 27 | 3312<br>1639<br>3514<br>1662 |  |  |  |  |  |  | Mar. | 5 | 1915. |
+| 27 | 358<br>1645<br>1967<br>1673 | 10518 | Private... | Nil  | Hamelin, Mrs. Agnes T  |
+| 27 | 3314<br>1669<br>3514<br>1691 |  |  |  |  |  |  | Feb. | 24 | 1914. |
+| 27 | 359<br>1674<br>1967<br>1701 | 10604 | Private... | Nil  | Hamilton, Ellen  |
+| 27 | 3314<br>1697<br>3514<br>1720 |  |  |  |  |  |  | Feb. | 26 | 1915. |
+| 27 | 358<br>1703<br>1967<br>1732 | 10346 | Corporal. | Handyside, Ernest Traverse  | G.G.F.G  | Handyside, Hugh  |
+| 27 | 3313<br>1726<br>3514<br>1749 |  |  |  |  |  |  | Mar. | 1 | 1915. |
+| 27 | 358<br>1732<br>1966<br>1761 | 10347 | Corporal. | Nil  | Handyside, Hugh  |
+| 27 | 3314<br>1756<br>3514<br>1778 |  |  |  |  |  |  | Mar. | 1 | 1915. |
+| 27 | 358<br>1761<br>1967<br>1789 | 10408 | Private... | Handyside, Richard  | Nil  | Handyside, Hugh  |
+| 27 | 3313<br>1784<br>3514<br>1812 |  |  |  |  |  |  | Apr. | 28 | 1915. |
+| 27 | 358<br>1790<br>1967<br>1819 | 10742 | Private... | Nil  | Harper, William  |
+| 27 | 358<br>1813<br>3515<br>1848 | 10209 | Private... | Nil  | Harper, James  |  |  | Feb. | 26 | 1915. |
+| 27 | 3315<br>1843<br>3514<br>1866 |  |  |  |  |  |  | Nov. | 9 | 1915. |
+| 27 | 358<br>1847<br>1967<br>1875 | 10642 | Private... | C.F.A  | Harrison, Miss Grace Pauline. |
+| 27 | 3313<br>1871<br>3515<br>1899 |  |  |  |  |  |  | Apr. | 10 | 1915. |
+| 27 | 358<br>1878<br>1969<br>1904 | 10264 | Private... | Nil  | Robertson, Henry  |
+| 27 | 3315<br>1900<br>3515<br>1923 |  |  |  |  |  |  | Feb. | 24 | 1915. |
+| 27 | 357<br>1907<br>1969<br>1934 | 10162 | Private... |  | Wood, Mrs. Hyam  |
+| 27 | 3315<br>1928<br>3515<br>1952 |  |  |  |  |  |  | Feb. | 27 | 1915. |
+| 27 | 357<br>1935<br>1970<br>1964 | 10641 | Private... | Nil  | Higgins, Maggie  |
+| 27 | 3315<br>1958<br>3515<br>1981 |  |  |  |  |  |  | Mar. | 25 | 1915. |
+| 27 | 357<br>1964<br>1970<br>1993 | 10694 | Private... |  | Higgins, Harold Henry  |
+| 27 | 3315<br>1987<br>3515<br>2010 |  |  |  |  |  |  | Mar. | 24 | 1915. |
+| 27 | 357<br>1994<br>1970<br>2021 | 10451 | Private... | Nil  | Hill, Robertson  |
+| 27 | 3315<br>2016<br>3515<br>2038 |  |  |  |  |  |  | Mar. | 1 | 1915. |
+| 27 | 357<br>2022<br>1970<br>2049 | 10492 | Private... | Nil  | Hitsmon, Mrs. Annie  |
+| 27 | 3315<br>2045<br>3515<br>2068 |  |  |  |  |  |  | Feb. | 26 | 1915. |
+| 27 | 358<br>2051<br>1971<br>2079 | 10051 | Private... |  | Hoelke, Mrs. Melinda  |
+| 27 | 358<br>2074<br>3514<br>2107 | 10120 | Private... | Nil  | Howse, Mrs. Elizabeth  |  |  | Feb. | 26 | 1915. |
+| 27 | 358<br>2104<br>3515<br>2137 | 10381 | Private... |  | Glissick, Mrs. Hattie  | Hall P.O., New York, N.Y., U.S.A  |  | Mar. | 2 | 1915. |
+| 27 | 358<br>2133<br>3515<br>2167 | 10773 | Private... | Nil  | Whiting, Mrs. Geo  |  |  | Apr. | 28 | 1915. |
+| 27 | 3314<br>2162<br>3515<br>2185 |  |  |  |  |  |  | Mar. | 8 | 1915. |
+| 27 | 357<br>2168<br>1972<br>2195 | 10127 | Private... | Hutt, Neil Albert...  | Nil  | Hutt, Charles  |
+| 28 | 848<br>541<br>3335<br>570 |  |  |  | Former Corps. |  |  | Country of |
+| 28 | 675<br>686<br>3823<br>716 | 10679 | Private... | Hutt, Corn David  | Nil  | Hutt, Charles Albert  | R. R. No. 1, Cornwall, Ont  | Canada.. | Alexandria.... | Mar. | 8, 1915. |
+| 28 | 676<br>713<br>3822<br>745 | 10826 | Private... | Inwood, Wilbert John  | 42nd Regt.. | Inwood, Mrs. Elizabeth.. | R. M. D., No. 6, Perth, Ont  | Canada.. | Ottawa  | Apr. | 28', 1915. |
+| 28 | 676<br>745<br>3822<br>774 | 10283 | Private... | Jackson, Alfred Barnwall. | 43rd Regt... | Jackson, Mrs. Aline  | 109 Primrose Ave., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 19, 1915. |
+| 28 | 676<br>774<br>3822<br>804 | 10829 | Private... | Johnson, Charles  | Nil  | Stickland, Edwin  | 9 Durdan Cottage, Southall, London, Eng. | England. | Ottawa  | Apr. | 28, 1915. |
+| 28 | 676<br>803<br>3821<br>832 | 10282 | Private... | Johnson, David Albert E. | Can. Mil  | Johnson, Mrs. Elizabeth. | 737 Gladstone Ave., Ottawa, Ont  | England. | Ottawa  | Apr. | 10, 1915. |
+| 28 | 676<br>832<br>3821<br>862 | 10387 | Private... | Johnson, Edward  | Nil  | Johnson, Mrs. Margaret.. | 274 Bell St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 26, 1915. |
+| 28 | 676<br>861<br>3821<br>891 | 10481 | Private... | Jones, Alexander  | 5th Drag  | Jones, Mrs. Kathleen  | Ill Grove St., Battersea, London, Eng  | England. | Ottawa  | Feb. | 26, 1915. |
+| 28 | 676<br>890<br>3821<br>920 | 10792 | Private... | Kanellakos, James  | Nil  | Kanellakos, Peter  | Smith’s Falls, Ont  | Greece.. | Ottawa  | Apr. | 28, 1915. |
+| 28 | 676<br>919<br>3821<br>949 | 10459 | Private... | Keeler, Samuel Westley... | R.C.R  | Keeler, Mrs. Eliza  | 137 Hopewell Ave., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 1, 1915. |
+| 28 | 676<br>947<br>3822<br>979 | 10388 | Private... | Kelly, Michael  | Nil  | Not stated  |  | England. | Ottawa  | Feb. | 26, 1915. |
+| 28 | 676<br>976<br>3822<br>1007 | 10263 | Private. | Kerr, David  | Territorials. | Kerr, Mrs. Isabella  | 43 Bell St., Ottawa, Ont  | England. | Ottawa  | Apr. | 10, 1915. |
+| 28 | 675<br>1005<br>3822<br>1036 | 10134 | Private... | Kerr, Henry  | Nil  | Kerr, David  | 43 Bell St., Ottawa, Ont  | Canada.. | Ottawra  | Feb. | 22, 1915. |
+| 28 | 675<br>1035<br>3080<br>1066 | 10344 | Sergeant.. | Key, Walter Joseph  | S.A  | Boutell, Mary Ann  | 35 Lampmead Rd., Lee Green, Lewisham, London, |
+| 28 | 2412<br>1063<br>3822<br>1092 |  |  |  |  |  | S.E., Eng  | England. | Ottawa  | Feb. | 26, 1915. |
+| 28 | 675<br>1092<br>3821<br>1123 | 10554 | Private.. | Kinghorn, William Arthur  | Nil  | Kinghorn, James  | Cornwall, Ont  | Canada.. | Cornawll... | Feb. | 25.1915. |
+| 28 | 675<br>1117<br>3822<br>1152 | 10289 | Private.. | Kirkey, William  | Nil  | Kirkey, Miss Eva  | Pitt St., Cornwall, Ont  | Canada.. | Ottawa  | Mar. | 19.1915. |
+| 28 | 675<br>1146<br>3822<br>1180 | 10257 | Private.. | Kish, Bert  | 4th Huss... | Kish, Mrs. Edith Parry  | 165 Florence St., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 5.1915. |
+| 28 | 675<br>1179<br>3822<br>1210 | 10321 | Private.. | Knight, Frederick Saunders.... | Nil  | Knight, F. R  | P.O., Box 106, Bridgetown, Barbadoes, B.W.I  | B.W.I... | Ottawa  | Mar. | 1.1915. |
+| 28 | 675<br>1208<br>3926<br>1239 | 10359 | Private.. | Lachapelle, Omer  | Nil  | Lachapelle, Eugene  | 463 Division St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 26.1915. |
+| 28 | 675<br>1237<br>3823<br>1268 | 11323 | Private.. | Lamping, Stanislaus John M. J. | Nil  | Lamping, Mrs. Mary Elizabeth. | 102 Queen St., Smith’sFalls, Ont  | Canada.. | Ottawa  | Apr. | 14.1915. |
+| 28 | 675<br>1266<br>3823<br>1296 | 10107 | Private.. | Lawson, Arthur Thomas W  | Nil  | Lawson, Mrs. Emily.  | Hillson Ave., Laurentian View, Ont  | England. | Ottawa  | Feb. | 22.1915. |
+| 28 | 675<br>1295<br>3824<br>1325 | 10093 | Private.. | Lee, John Anthony O  | Nil  | Lee, Alfred  | 32 Royal Ave., Westborough, Ont  | Canada.. | Ottawa  | Feb. | 22.1915. |
+| 28 | 674<br>1324<br>3823<br>1355 | 10820 | Private.. | Lefurgey, Harvey James  | Nil  | Lefurgey, Mrs. Margaret  | Forrester’s Falls, Ont  | Canada.. | Ottawa  | Mar. | 29.1915. |
+| 28 | 674<br>1353<br>3824<br>1383 | 10280 | Private... | Leslie, Wallace Taylor  | C.A.M.C... | Leslie, Mrs. Annie  | 373 Gladstone Ave., Ottawa, Ont  | Canada.. | Ottawa  | Mar. | 19.1915. |
+| 28 | 674<br>1381<br>3824<br>1412 | 10201 | Private... | Letellier, Leo  | Nil  | Routhier, Rev. Father  | ‘Basilica,” Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 22.1915. |
+| 28 | 674<br>1410<br>3824<br>1440 | 10064 | Private... | Levasseur, Claud  | Can. Mil.... | Levasseur, Mrs. Elizabeth  | 18 Elgin St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 22.1915. |
+| 28 | 674<br>1439<br>3824<br>1470 | 10158 | Private... | Levesque, Joseph Giollum  | Nil  | Levesque, Mdme. Therese  | 281 Cumberland St., Ottawa, Ont  | Canada., | Ottaw'a  | Apr. | 10.1915. |
+| 28 | 673<br>1466<br>3824<br>1498 | 10808 | Private... | Lisle, William Walter  | Nil  | Lisle, Walter  | Pagecroft, Haydon Bridge, Northumberland, Eng... | England. | Ottawa  | Apr. | 28.1915. |
+| 28 | 673<br>1497<br>3824<br>1527 | 10294 | Private... | Long, Agustus Gladstone  | 43rd Regt.. | Long, John  | 59 Stewart St., Ottawa, Ont  | Canada.. | OttawTa  | Apr. | 10.1915. |
+| 28 | 672<br>1523<br>3825<br>1556 | 10551 | Private... | MacDonald, George  | Territorials. | Rowe, George  | Thompson Ave., North Sydney, C.B.,N.S  | Scotland | Cornawall.. | Jan. | 29.1915. |
+| 28 | 672<br>1549<br>3825<br>1585 | 10670 | Private... | Macdonald, George Duncan  | Nil  | Macdonald, Angus  | Alexandria, Ont  | Canada.. | Alexandria. | Mar. | 1.1915. |
+| 28 | 672<br>1583<br>3826<br>1615 | 10306 | Sergeant.. | Macdonaldj Ian  | S.A  | Gollan, Mrs. Agnes  | Morewood, Ont  | India  | Ottawa  | Mar. | 2, 1915. |
+| 28 | 672<br>1611<br>3826<br>1643 | 10790 | Private... | MacIntyre, Reginald  | Nil. | MacIntyre, Gregor  | Renfrew, Ont  | Canada.. | Ottawa  | Apr. | 28. 1915. |
+| 28 | 672<br>1638<br>3826<br>1672 | 10793 | Private... | Maguire, John Arthur  | Nil. | Maguire, Mrs. Mary    | Carleton Place, Ont  | Canada.. | Ottawa  | Apr. | 28.1915. |
+| 28 | 672<br>1669<br>3826<br>1701 | 10048 | Private... | Mangane, Henry Patrick  | Nil  | Mangane, Mrs. Mabel Elsie  | 393 Booth St., Ottawa, Ont  | England. | Ottawa  | Feb. | 22, 1915. |
+| 28 | 672<br>1698<br>3826<br>1730 | 10028 | Private... | Mason, Robert  | Nil  | Mason, Jean  | Pencarrow Ave., Mount Eden, Auckland, N.Z  | Scotland | Ottawa  | Feb. | 26, 1915. |
+| 28 | 672<br>1726<br>3826<br>1760 | 10101 | Private... | Matthews, William  | G.G.F.G.... | Matthews, Mrs. Annie  | 792y2 Somerset St., Ottawa, Ont  | England. | Ottawa  | Feb. | 22, 1915. |
+| 28 | 672<br>1753<br>3826<br>1789 | 10021 | Corporal.. | May, Francis Lome  | Nil  | May, Mrs. W. C  | 155 Gilmour St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 22, 1915. |
+| 28 | 672<br>1783<br>3826<br>1818 | 10801 | Private... | McBrien, David Fraser  | Nil  | McBrien, Mrs. Margaret  | Belleek, Fermanagh, Ire  | Ireland.. | Ottawra  | Apr. | 28, 1915. |
+| 28 | 672<br>1812<br>3826<br>1847 | 10535 | Private... | McBurnie, Edward  | Nil  | McBurnie, Mrs. Annie  | 92 Front St., Hull, P.Q  | Scotland | Ottawa  | Mar. | 19, 1915. |
+| 28 | 672<br>1841<br>3827<br>1876 | 10091 | Private... | McCartney, Lachlan  | Nil  | McCartney, Miss Elizabeth  | C/o John Kerr, Denyholm, Kilbirnie, Ayr., Scot... | Scotland | Ottawa  | Feb. | 22, 1915. |
+| 28 | 672<br>1869<br>3827<br>1905 | 10385 | Corporal. | McGoll, Edmund Neil  | C.A.M.C.... | McColl, Mrs. Fanny...;  | 675 Gilmour St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 26, 1915. |
+| 28 | 672<br>1898<br>3826<br>1933 | 10431 | Private... | McDonald, Edward Allan  | Nil  | McDonald, Allan  | Carleton Place, Ont.   | Canada.. | Ottawa  | Feb. | 26, 1915. |
+| 28 | 672<br>1928<br>3827<br>1963 | 10834 | Private... | McGill, John  | Territorials.. | McGill, Mrs. Annie B  | Palnackie, Kircudbright, Scot  | Scotland | Ottawa  | Apr. | 28, 1915. |
+| 28 | 672<br>1957<br>3827<br>1991 | 10327 | Private... | McKee, John Ewart  | G.G.F.G.... | McKee, Mrs. C  | 75 Spadina Ave., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 26, 1915. |
+| 28 | 672<br>1986<br>3827<br>2020 | 10799 | Private... | McKinnon, Lorne  | Nil  | McKinnon, Mrs. Olive  | R. R. No. 2, Pembroke, Ont  | Canada.. | Ottawa  | Apr. | 28.1915. |
+| 28 | 672<br>2014<br>3827<br>2049 | 10005 | Private... | McNally, Hugh  | Nil  | Cosgrove, James  | Thurso, P.Q  | Ireland.. | Ottawa  | Apr. | 10.1915. |
+| 28 | 672<br>2044<br>3827<br>2078 | 10337 | Private... | McNaughton, Thomas  | 23rd Regt.... | Not stated  | Not stated '  | Scotland | Ottawa  | Feb. | 26, 1915. |
+| 28 | 671<br>2073<br>3828<br>2106 | 10781 | Private... | McNicol, James  | 42nd Regt... | McNicol, Mrs. Janet  | Renfrew, Ont  | Canada. | Ottawa  | Apr. | 28.1915. |
+| 29 | 369<br>425<br>3506<br>461 | 10802 | Private.. | Mercier, Sylvester Savinus.... | Nil  | O’Connell, Mrs. Susan.. | Jasper, Ont  | Canada  | Ottawa  | Mar. | 28 | 1915. |
+| 29 | 369<br>454<br>3506<br>490 | 10775 | Private.. | Metcalfe, Frederick  | Nil  | Metcalfe, Mrs. Rebecca | 10 Weiman St., Putney, London, Eng  | England  | Ottawa  | Apr. | 23 | 1915. |
+| 29 | 368<br>483<br>3505<br>519 | 10191 | Private.. | Miller, Alexander  | Territorials  | Miller, Mrs. Jean  | . 388 O’Connor St., Ottawa, Ont  | Scotland  | Ottawa  | Feb. | 26 | 1915. |
+| 29 | 368<br>511<br>3505<br>549 | 10399 | Private.. | Millerwood, James  | Nil  | Millerwood, Mrs. James | 136 Overton St., East View, Ont  | England  | Ottawa  | Feb. | 26 | 1915. |
+| 29 | 368<br>540<br>3506<br>578 | 10572 | Private.. | Mison, Charles William  | G.G.F.G  | Mison, Mrs. Daisy  | Laurentian View, Ont  | Canada  | Ottawa  | May | 1 | 1915. |
+| 29 | 366<br>569<br>3506<br>607 | 10213 | Private.. | Monfet, Denis  | Nil  | Monfet , Mrs. Adelaide  | Lake Megantic, P.Q  | Canada  | Ottawa  | Feb. | 24 | 1915. |
+| 29 | 366<br>598<br>3505<br>637 | 10527 | Private.. | Mongour, Alfred Walter  | Nil  | Mongour, Mrs. Emma.... | James St., Westboro’, Ont  | England  | Ottawa  | Mar. | 5 | 1915. |
+| 29 | 366<br>627<br>3506<br>665 | 10819 | Private.. | Morrissey, Andrew  | Nil  | Morrissey, Mrs. Katherine | Mattawa, Ont    | Newfoundland. | Ottawa  | Apr. | 28 | 1915. |
+| 29 | 366<br>656<br>3506<br>695 | 10831 | Private.. | Mosley, John  | Nil  | Mosley, Mrs. Abegel  | Braeside, Ont  | Canada  | Ottawa  | Apr. | 28 | 1915. |
+| 29 | 365<br>685<br>3504<br>724 | 10524 | Private.. | Moancey, Edward  | Nil   | Mouncey, Mrs. Margaret | Kirkcudbright, Scot  | Scotland  | Ottawa  | Mar. | 5 | 1915. |
+| 29 | 365<br>714<br>3505<br>752 | 10681 | Private.. | Murch, Clarence Henry  | 59th Regt  | Murch, Mrs. Christina  | Cornwall, Ont  | Canada  | Alexandria  | Feb. | 25 | 1915. |
+| 29 | 363<br>743<br>3506<br>782 | 10503 | Private.. | Murphy, Charles Harry  | Can. Mil  | Murphy, Aline  | Main St., Middletown, Conn.. U.S.A  | U.S.A  | Ottawa  | Mar. | 2 | 1915. |
+| 29 | 363<br>772<br>3506<br>809 | 10123 | Private.. | Murphy, George  | Nil  | Cadieux, Rev. Father  | Burbidge, P.Q  | England  | Feb. | 22 | 1915. |
+| 29 | 363<br>801<br>3505<br>838 | 10420 | Private.. | Neale, Frederick William  | G.G.F.G  | Neale, Mrs. M  | 236 Wilbrod St., Ottawa, Ont  | England  | Feb. | 26 | 1915. |
+| 29 | 362<br>830<br>3506<br>868 | 10222 | Private.. | Newman, Lester C  | Nil  | Newman, Mrs. Lena  | 262 Armstrong Ave., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 26 | 1915. |
+| 29 | 362<br>860<br>3506<br>896 | 10246 | Private.. | Newman, Arthur William  | Nil  | Newman, Mrs. Lena  | 262 Armstrong Ave., Ottawa, Ont    | Canada  | Feb. | 24 | 1915. |
+| 29 | 361<br>889<br>3506<br>925 | 10026 | Private.. | Nicolaiff, Michael  | Nil  | Nicolaiff, Hrirorig  | Podolsc Proos P.O., Isocaose, Kamenee, Russia  | Canada  | Feb. | 22 | 1915. |
+| 29 | 361<br>918<br>3506<br>953 | 10646 | Private.. | O’Brien, William  | Nil   | Walker, Clare  | London, Eng  | Ireland  | Alexandria  | Feb. | 5 | 1915. |
+| 29 | 361<br>948<br>3506<br>983 | 10466 | Private.. | O’Reilly, Frank  | Nil  | O’Reilly, Michael  | 363 Arlington Ave., Ottawa, Ont  | Canada ;. | Feb. | 26 | 1915. |
+| 29 | 359<br>977<br>3506<br>1012 | 10465 | Private.. | O’Rourke, Thomas John  | Nil  | O’Rourke, Mrs. E  | 92 Lorne Ave., Ottawa, Ont  | Canada  | Feb. | 26 | 1915. |
+| 29 | 359<br>1005<br>3506<br>1040 | 10358 | Private.. | Parkinson, Albert  | Territorials  | Westwell, Mrs. Emily  | Westborough, Ont  | England  | Ottawa  | Mar. | 2 | 1915. |
+| 29 | 359<br>1035<br>3506<br>1070 | 10783 | Private.. | Pettigrew, John  | S.A  | Pettigrew, Mrs. Jane  | 32 Marlow St., Kenning Park, Glasgow, Scot  | Scotland  | Ottawa  | Apr. | 28 | 1915. |
+| 29 | 358<br>1063<br>3506<br>1099 | 10173 | Private.. | Phillips, Albert  | Nil  | Phillips, Mr   | 1st Contingent, C.E.F  | England  | Feb. | 27 | 1915. |
+| 29 | 358<br>1092<br>3506<br>1127 | 10015 | Private.. | Pitcher, Bertie Charles  | Nil  | Pitcher, Mrs. Eliza  | 440 Clarence St., Ottawa, Ont  | England  | Ottawa  | Feb. | 24 | 1915. |
+| 29 | 358<br>1121<br>3506<br>1156 | 10805 | Private.. | Plant, William  | 12th Regt  | Plant, Mrs. Sarah  | 236 Lee Ave., Toronto, Ont  | England  | Ottawa  | Apr. | 28 | 1915. |
+| 29 | 357<br>1150<br>3506<br>1184 | 10319 | Private... | Prindiville, Edward P  | Nil  | Prindiville, John  | 180 Murray St., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 26 | 1915. |
+| 29 | 357<br>1179<br>3506<br>1213 | 10651 | Private... | Quenneville, Stephen Frank X. | Nil  | Quenneville, Dosithe  | North Lancaster, Ont  | Canada  | Alexandria  | Feb. | 27 | 1915. |
+| 29 | 356<br>1207<br>3506<br>1242 | 10514 | Private... | Quilty, Thomas  | Nil  | McLaren, James  | 33 Grant St., Ottawa, Ont  | England  | \Hr | 5 | 1915. |
+| 29 | 356<br>1237<br>3506<br>1272 | 10486 | Sergeant. | Quinlan, Thomas F  | 43rd Regt  | Quinlan, Michael  | 446 Parkdale Ave., Ottawa, Ont  | England  |  | 1 | 1915. |
+| 29 | 356<br>1265<br>3612<br>1302 | 10139 | Private... | Quinney, William Timothy. ... | 43rd Regt  | Quinney, Henry A  | 19, 3rd Ave., Ottawa, Ont  | Canada  | Ottawa  | Feb. | 22 | 1915. |
+| 29 | 356<br>1295<br>3506<br>1329 | 10534 | Private... | Randle, William J  | Nil  | Parsons, Mrs. F  | 225 Monk’s Rd., Heavitree, Exeter, Devon, Eng  | England  | Ottawa  | Mar. | 18 | 1915. |
+| 29 | 355<br>1324<br>3506<br>1359 | 10317 | Private... | Ranger, Jean Evangeliste  | Nil  | Ranger, Alfred  | 14 Boteiier St., Ottawa, Ont....:  | Canada  | Feb. | 26 | 1915. |
+| 29 | 354<br>1352<br>3506<br>1387 | 10313 | Private... | Ray, Robert William  | Nil  | Ray, Mrs. Emma  | Gatineau Point, P.Q  | Canada  | Feb. | 26 | 1915. |
+| 29 | 354<br>1381<br>3506<br>1417 | 10669 | Private... | Redfern, Arnold  | Nil  | Redfern, William Arnold | Greenhill Lane, Derby, Eng  | England  | Alexandria   | Mar. | 1 | 1915. |
+| 29 | 354<br>1411<br>3506<br>1445 | 10342 | Private... | Reid, Henry  | Nil  | Reid, Mrs. Mary  | Bamber St., Liverpool, Lane., Eng  | England  | Feb. | 26 | 1915. |
+| 29 | 354<br>1440<br>3507<br>1475 | 10832 | Private... | Ring, Eward  | 42nd Regt  | Ring, Mrs. Mary  | White Lake, Ont  | Canada  | Apr. | 28 | 1915. |
+| 29 | 354<br>1469<br>3507<br>1502 | 10815 | Private... | Ritchie, Hugh  | Nil  | Ritchie, Robert  | R. R. No. 1, Cobden, Ont  | U.S.A  | Apr. | 28 | 1915. |
+| 29 | 353<br>1498<br>3507<br>1531 | 10363 | Private... | Rowland, Ernest Beresford | Nil  | Rowland, Mrs. Dora  | 296 Reginald Rd., Portsmouth, Eng  | England  | Mar. | 1 | 1915. |
+| 29 | 353<br>1530<br>2804<br>1560 | 10827 | Private.. | Rowlands, Robert  | Nil  | Rowlands, Mrs. Jane  | Quarry House, Alonbury Hill, Kingsthorne, Hereford, |
+| 29 | 2061<br>1556<br>3506<br>1588 |  |  |  |  | Eng  | England.. |  | Apr. | 28 | 1915. |
+| 29 | 352<br>1585<br>3506<br>1619 | 10311 | Private.. | Rutherford, George A  | 42nd Regt  | Rutherford, J. A  | 77 Albert St., Ottawa, Ont  | Canada.., | Feb. | 26 | 1915. |
+| 29 | 351<br>1614<br>3507<br>1646 | 10270 | Private.. | Rutter, Edward  | Territorials  | Rutter, Mrs. Frank  | Aldermoon, Southampton, Hants., Eng  | England.. | Apr. | 10 | 1915. |
+| 29 | 351<br>1643<br>3507<br>1677 | 10058 | Private.. | Scott, Donald  | Nil  | Scott, John  | Greenock, Renfrew, Scot  | Scotland. | Feb. | 22 | 1915. |
+| 29 | 351<br>1672<br>3507<br>1706 | 10300 | Private.. | Selby, Frederick  | Royal Navy  | McTavish, Mrs. Daisy  | R. R. No. 2, Jasper and Smith’s Falls, Ont  | England.. | Apr. | 10 | 1915. |
+| 29 | 350<br>1701<br>3507<br>1735 | 10193 | Private.. | Simpson, Frederick Charles... | Imp. Forces  | Simpson, Mrs. Ida  | 293 Powell Ave., Ottawa, Ont  | Scotland. | Feb. | 26 | 1915. |
+| 29 | 350<br>1730<br>3498<br>1764 | 10794 | Private... | Simpson, Ralph Patterson.... | Nil  | Simpson, Mrs. Minnie  | Carleton Place, Ont  | Canada.., |  | 1W | 1915 |
+| 29 | 350<br>1759<br>3507<br>1793 | 10491 | Private... | Smalldridge, William John  | 43rd Regt  | Pilgrim, Mrs  | 1172J^ Wellington St., Ottawa, Ont  | England.. | Mar. | 1 | 1915. |
+| 29 | 349<br>1789<br>3507<br>1821 | 10816 | Private... | Smith, Nelson Short  | Nil  | Smith, Joseph  | Renfrew, Ont '.  | Canada... | Ottawa  | Apr. | 28 | 1915. |
+| 29 | 349<br>1818<br>3498<br>1850 | 10228 | Private... | Smith, Patrick Cross  | Nil  | Smith, Mr3. Mary  | General Hospital, Regina, Sask '.  | Canada.. |  | Ml | 1915 |
+| 29 | 349<br>1846<br>3507<br>1879 | 10498 | Private... | Smith, Richard Henry  | S.A  | Shaw, Mrs. Susan  | Navan, Ont  | England.. | Ottawa  | Mar. | 1915. |
+| 29 | 348<br>1876<br>3508<br>1908 | 10624 | Corporal.. | Smith, Thomas  | Nil  | Smith, Thomas  | Spencer Cottages, Judlow, Nr. Buxton, Derby, Eng.. | England.. | Alexandria  | Feb. | 27 | 1915. |
+| 29 | 348<br>1904<br>3507<br>1937 | 10655 | Private... | Smith, Wilfred  | Nil  | Smith, Thomas  | Spencer Cottages, Judlow, Nr. Buxton, Derby, Eng .. | England.. | Alexandria  | Feb. | 27 | 1915. |
+| 29 | 346<br>1934<br>3507<br>1967 | 10316 | Private... | Smith, Wilfred  | Nil  | Smith, Miss I  | 402}^ Bank St., Ottawa, Ont  | Canada.. | Ottawa  | Feb. | 26 | 1915. |
+| 29 | 346<br>1962<br>3507<br>1996 | 10562 | Private... | Sorell, Andrew  | Nil  | Sorell, Joseph  | Cornwall, Ont  | Canada.. | Cornwall  | Feb. | 20 | 1915. |
+| 29 | 346<br>1991<br>3507<br>2025 | 10267 | Corporal. | Sparks, Frederick Carruthers. | G.G.F.G  | Sparks, Mrs. Deborah Jane | 343 Bell St., Ottawa, Ont  | Canada.. | Ottawa  | April | 10 | 1915. |
+| 29 | 345<br>2021<br>3507<br>2055 | 10687 | Private... | Spence, Charles  | Nil  | Urquhart, Donald  | R. R. No. 2, Greenfield, Ont  | Canada.. | Ottawa  | April | 28 | 1915. |
+| 29 | 345<br>2050<br>3507<br>2083 | 10135 | Private... | Spirritt, Joseph  | Nil  | Rice, John A  | R. R. No. 4, Osgoode Stn., Ont  | England.. | Feb. | 26 | 1915. |
+| 29 | 344<br>2079<br>3498<br>2113 | 10405 | Private... | St. Armand, Telespore  | Nil  | St. Armand, Mrs. E  | Hawkesbury, Ont  | Canada.. | Mar. | 1 | 1915 |
+| 29 | 344<br>2108<br>3507<br>2141 | 10375 | Private... | Streeter, Sidney  | S.A  | Streeter, Mrs. Annie  | 15 Orrisa Rd., Plumstead, London, Eng  | England.. | Feb. | 26 | 1915. |
+| 29 | 344<br>2138<br>3508<br>2171 | 10703 | Private... | Stilwell, Frederick  | Can. Navy  | Stilwell, Charles  | Salmon Arm, B.C  | Canada.. | Brockville  | Mar. | 25 | 1915. |
+| 30 | 643<br>564<br>3321<br>615 | Ii | Former Corps. |  |  | Country of |
+| 30 | 655<br>730<br>3268<br>759 | 10702 |  | Stilwell, Charles  | Salmon Arm, B.C  | Canada... |
+| 30 | 655<br>758<br>3268<br>788 | 10411 | G.G.F.G  | Suffron, Mrs. Louisa  | Muriel St., Ottawa, Ont  | Canada... |
+| 30 | 654<br>788<br>3268<br>818 | 1082; | Nil  | Tapp, Mrs. A. Preston  | Fox River, P.Q  | Canada... |
+| 30 | 654<br>817<br>3268<br>847 | 1039( | Nil  | Taylor, Miss Nellie  | Cambuslang, Glasgow, Scot  | Scotland.. |
+| 30 | 653<br>846<br>3266<br>876 | 1025f | Nil  | Tester, Mrs. Mary    | Kidlington, Oxon, Eng  | England.. |
+| 30 | 653<br>875<br>3266<br>905 | 10307 | Nil  | Thomas, Mrs. E  | ~ Bluff Lane, Westborough, Ont  | England.. |
+| 30 | 652<br>904<br>3259<br>934 | 1006C | Nil  | Thompson, Mrs. Esther  | 435 Cumberland St., Ottawa, Ont  | Scotland. |
+| 30 | 652<br>934<br>3266<br>963 | 1029S | Nil  | Thompson, Gay  | 49 Gordon Rd., Kingston-on-Thames, Surrey, Eng  | England.. |
+| 30 | 651<br>962<br>3268<br>992 | 10373 |  | Thompson, Mrs. Jessie  | 245 Bolton St., Ottawa, Ont  | Canada... |
+| 30 | 651<br>991<br>3257<br>1020 | 10434 | G.G.F.G  | Thomson, Mrs. Elizabeth  | Hollcroft, Enzie, Buckie, Banff, Scot  | Scotland. |
+| 30 | 651<br>1021<br>3265<br>1050 | 10730 | Nil  | Tremblay, Mrs. Mary Louise. | 118 Tucker St., Lowell, Mass., U.S.A  | U.S.A.... |
+| 30 | 650<br>1050<br>3265<br>1079 | 10184 |  | Openshaw, Mrs. Jessie  | 913Bank St., Ottawa, Ont  | England.. |
+| 30 | 650<br>1079<br>3264<br>1108 | 10791 |  | Vandusen, Edward Walter.... | Chesterville, Ont  | U.S.A.... |
+| 30 | 650<br>1108<br>3264<br>1138 | 10031 |  | Verrall, Mrs. Mary  | 17 Lennox Rd., Hove, Sussex, Eng  | England.. |
+| 30 | 650<br>1137<br>3266<br>1166 | 10083 | Nil  | Waller, Mrs. Annie Florence... | 46 Gilmour St., Ottawa, Ont  | Canada... |
+| 30 | 649<br>1166<br>3266<br>1195 | 10096 | Nil  | Cousineau, Mrs. Evelyn  | 215 Church St., Ottawa, Ont  | Canada... |
+| 30 | 648<br>1195<br>3268<br>1224 | 1000S |  | Weir, Mrs. Bunthron  | Strathlaan Cottage, Dollar, Clackmannan, Scot  | Scotland.. |
+| 30 | 648<br>1224<br>3264<br>1253 | 10638 | Nil  | Beddoe, James  | Pleasant Rd., Guilford, Surrey, Eng  | England.. |
+| 30 | 647<br>1253<br>3266<br>1282 | 10027 | Nil  | Welsford, Mrs. Emma  | Buckingham, P.Q  | Canada... |
+| 30 | 647<br>1282<br>3265<br>1311 | 10615 | Nil   | West, Mrs. Martha  | 17 Queen St., Emsworth, Hants, Eng  | Canada... |
+| 30 | 646<br>1310<br>3265<br>1340 | 10609 |  | Wilkins, Julia Jene  | 78 Wellesley St., Toronto, Ont  | Canada... |
+| 30 | 646<br>1339<br>3263<br>1369 | 10195 | C.A.M.C  | Williams, Mrs. Ada  | 350^ Somerset St., Ottawa, Ont  | England.. |
+| 30 | 645<br>1369<br>3263<br>1398 | 10092 | Nil  | Avery, Mrs. Martha  | 75 Lowther St., Liverpool, Lane, Eng  | England.. |
+| 30 | 644<br>1397<br>3265<br>1426 | 10496 | Nil  | Wilson, Mrs. Essie  | 73 Vittoria St., Ottawa, Ont  | Canada... |
+| 30 | 644<br>1426<br>3265<br>1455 | 10538 | Nil  | Wilson, Mrs. Marie  | 176 Argyle St., Toronto, Ont  | Canada... |
+| 30 | 643<br>1455<br>3263<br>1484 | 10200 | C.F.A  | Coker, Mrs. Therese  | 58 Stanley St., New Edinburgh, Ottawa, Ont  | England.. |
+| 30 | 642<br>1484<br>3265<br>1513 | 10350 | G.G.F.G  | Wood, Mrs. May  | 145 Queen St. W., Ottawa, Ont  | Canada... |
+| 30 | 641<br>1513<br>3265<br>1542 | 10255 | Nil  | Wright, Mrs. Maria Eliza  | Riverside Park, Ottawa West, Ont  | Canada... |
+| 30 | 641<br>1541<br>3268<br>1571 | 10S23 | Nil  | Yeates, Thomas  | Walberwick St., So. Lambeth Rd., London S.W., Eng. | Scotland.. |
+| 30 | 640<br>1570<br>3263<br>1600 | 10030 |  | Young, Mrs. Martha  | St. Onge, Ont  | England.. |
 {% endraw %}
