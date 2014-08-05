@@ -1,0 +1,321 @@
+---
+title: 234th Battalion
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 234th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. "Scandinavian." | Date: April 18th, 1917-33 | 3m-9-17. | 593-2-29. |
+| 2 | 612 | 542 | 3260 | 586 | s| |  | Former Corps. |  |  | Country of |
+| 2 | 688 | 701 | 2231 | 732 | Lieut. Colonel... | Morris, William Otter.   |  | No paper   |
+| 2 | 689 | 724 | 3753 | 761 | Hon. Captain  | Armitage, William Robert  | Nil  | Armitage, William James  | 90 Spring Gdns. Rd., Halifax, N.S  | Canada. | West Toronto., | June 30,1916. |
+| 2 | 687 | 753 | 3753 | 790 | Captain..,, | Burroughes, Cecil Roy..  | 36th Regt.. | Burroughes, Mrs. Lucy Eleanor. | 140 Spadina Rd., Toronto; Ont  | Canada. | West Toronto. | April 17.1917. |
+| 2 | 687 | 782 | 3753 | 819 | Captain  | Pearson, Arthur Stephen  | 36th Regt.. | Pearson, Mrs. Harriet J  | 219 Fulton Ave., Toronto, Ont  | Canada. | Toronto  | April 17.1917. |
+| 2 | 687 | 809 | 3753 | 847 | Captain.... | Petman, Harold Franklyn  | 36th Regt.. | Petman, Mrs. Caroline Jule  | 58 Marchmont Rd., Toronto, Ont  | Canada. | Toronto  | April 17,1917. |
+| 2 | 686 | 839 | 3753 | 876 | Captain  | Trees, Christopher Frank  | 36th Regt.. | Trees, Mrs. Samuel  | 399 Sherbourne St., Toronto, Ont  | Canada. | West Toronto. | April 17,1917. |
+| 2 | 686 | 869 | 3753 | 905 | Lieutenant. | Dods, Andrew Ward   | 36th Regt.. | Dods, J. M  | Alton, Ont    | Canada. | West Toronto. | May 31,1916. |
+| 2 | 686 | 898 | 3753 | 935 | Lieutenant. | Gilley, James Royden......... | O.T.C  | Gilley, Mrs. Adelina  | 115,8th St., New Westminster, B.C  | Canada. | West Toronto. | May 23,1916. |
+| 2 | 685 | 932 | 2231 | 964 | Lieutenant. | Lister, Kenneth Ivan  |  | No paper  |
+| 2 | 685 | 956 | 3754 | 991 | Lieutenant. | Price, Frederick Glyn    | 109th Regt. | Price, Mrs. Edith  | c/o R. C. MacDonnell, Brandon, Man  | Wales... | West Toronto. | May 22,1916. |
+| 2 | 685 | 985 | 3754 | 1021 | Lieutenant. | Smith, John Leonard  | 36th Regt.. | Smith, J. C    | 307 Pacifio Ave., Toronto, Ont  | Canada. | Toronto  | April 17,1917. |
+| 2 | 684 | 1013 | 3753 | 1049 | Lieutenant. | Stalker, Colin Holmes  | O.T.C  | Stalker, C. J  | 11 Albany Ave., Toronto, Ont   | Canada. | West Toronto. | April 17,1917. |
+| 2 | 683 | 1042 | 3754 | 1079 | Lieutenant. | Taylor, Fred  | 36th Regt.. | Taylor, Mrs. Mary P. Q  | 55 Welldboro' Apts., Jarvis St., Toronto, Ont. | Canada. | Toronto  | April 20,1917. |
+| 2 | 587 | 1096 | 3753 | 1136 | 766106 | Private  | Adams, George Batoche  | Nil  | Adams, Mrs. Eva....... .  | 4i Gerrard St. W., Toronto, Ont'  | Canada... | Toronto  | Dec. | 17.1915. |
+| 2 | 570 | 1131 | 3754 | 1165 | 1024302 | Private  | Adams, Joseph Oscar.,  | Nil  | Adams, Mrs. Margaret  | Brampton, Ont  | Canada... | Brampton  | Aug. | 24.1916. |
+| 2 | 570 | 1158 | 3754 | 1194 | 1024501 | Private  | Akiwenze, John    | 32nd Regt   | Akinwenze, Mrs. Anne  | Capo Croker, Ont .'.... | Canada... | West Toronto.. | Dec. | 12.1916. |
+| 2 | 570 | 1189 | 3754 | 1222 | 1024293 | Private  | Allen, James,   | Territorials  | Allen, Mrs. Mabel  | 1114 Queen St., West, Toronto, Ont  | England.. | Toronto  | Aug. | 29.1916. |
+| 2 | 570 | 1218 | 3753 | 1252 | 1024401 | L.-Corporal  | Am bury, Allan.    | Nil  | Ambury, Edith      | 102 Hillyard St., Hamilton, Ont  | Canada... | Toronto  | Oct. | 28.1916. |
+| 2 | 570 | 1247 | 3779 | 1280 | 1024420 | Private  | Andrews, Edward William | 220th Batt., C.E.F... | Andrews, Mrs. Rosina    | Box 745, Newmarket, Ont  | England.. | Toronto....... | Oct. | 12,1910.— |
+| 2 | 570 | 1276 | 3754 | 1310 | 1024137 | Private  | Antonelli, Lawrence  | Nil.....  | Antonelli, Lewis.■ | 25 Teignmont Ave., Earlscourt, Ont  | Scotland. | Toronto....... | May | 11.1916. |
+| 2 | 570 | 1301 | 3772 | 1338 | 1024150 | Private  | Arch, William Charles:;.  | Nil....'.  | Arch, Charles.     | Streetsville^Ont      | Canada... | West Toronto.. | .•une | 17.1916. ; |
+| 2 | 569 | 1335 | 3752 | 1368 | 1024142 | Private    | Armstrong, Stanley McFariane  | Can. Mil   | McArter, Edna.......,,......... | Creemore, Ont.   | Canada... | West Toronto.. | June | 14.1916. |
+| 2 | 568 | 1363 | 3754 | 1397 | 1024449 | Private  | Atkins, Ernest Henry;..'A..;  | Nil  | Atkins, Albert Edward.i • | R.R. No. 4, Stratford, Ont  | England.. | Brampton  | Nov. | 23.1916. |
+| 2 | 567 | 1390 | 3754 | 1427 | 1024007 | Sergeant.....;... | Bage, Arthur.... .     | Nil   | Badge, Mrs. Lillie.,.. | 49 McGregor Ave., Toronto, Ont    | England.. | West Toronto.. | May | 10.1916. |
+| 2 | 566 | 1420 | 3755 | 1455 | 1024559 | Private  | Baker, Robert George...,  | Nil...  | Baker, Alfred George  | 171,10th Ave., Lachine, P.Q  | England.. | West Toronto.. | Feb. | 19.1917. |
+| 2 | 566 | 1452 | 3754 | 1484 | 1024368 | Private  | Banas, John... .w.t. ..V.    | Nil..,,.'   | Banas, Victoria..     | Kobyhuiici, Russia    | Russia... | Toronto  | Oct. | 10.1916. |
+| 2 | 566 | 1480 | 3754 | 1514 | 1024116 | Corporal  | Banks, Robert Henry;..*.......... | Nil   | Banks, Mrs. Anne.'.,......  | 1136 Dufferin St., Toronto, Ont  | England.. | West Toronto.. | May | 25.1916. |
+| 2 | 566 | 1509 | 3754 | 1544 | 1024005 | Private  | Barber, John Alexander........... | 10th Regt  | Barber, Mrs. Flora;,............ | 101 Cooper Ave., Toronto, Ont    | Canada... | West Toronto.. | May | 3.1916. |
+| 2 | 565 | 1537 | 3753 | 1571 | 1024078 | Private  | Barren, Arthur Reginald ."..s'. | Nil...,   | Barran, Milner.......    | West St., Brampton, Ont.   | England.. | West Toronto.. | May | 4.1916. |
+| 2 | 565 | 1566 | 3754 | 1599 | 1024170 | Private  | Beaumont, Albert Ernest......... | Nil...  | Beaumont, Mrs. Sarah.      | 1918 Davenport Rd., Toronto, Ont  | England.. | West Toronto.. | June | 28.1916. |
+| 2 | 565 | 1595 | 3754 | 1629 | 1024180 | Private  | Beaumont, Harold Sykes.. .. | Territorials ;. | Beaumont, Mrs. Miriam.   | 36 Stubbins Ave., Toronto, Ont  | England.. | West Toronto.. | July | 8.1916. |
+| 2 | 578 | 1624 | 3754 | 1658 | 775604 | Private  | Bell, Albert Edward..^'......... | 9th Horse   | Bell, Mrs. Christina   | 144 Argyle St., Toronto, Ont  | Canada... | Toronto  | Jan. | 29.1916. |
+| 2 | 578 | 1652 | 3754 | 1686 | 201317 | Private   | Bell, James Alexander. .... „... | Can. Mil     | Bell, Frederick Cromwell..  | 183 Euclid Ave., Toronto, Ont..    | Canada... | Toronto  | Aug. | 14.1916. |
+| 2 | 564 | 1681 | 3754 | 1716 | 1024465 | Private  | Bessell, Ernest Alfred.      | Nil......  | Bessell, William Charles..,.,;  | 18 Archer St., Toronto, Ont  | England.. | West Toronto.. | Dec. | 2.1916. |
+| 2 | 609 | 1710 | 2238 | 1751 | 1263 | Private  | Bigley, Walter :......... | No paper  .« |
+| 2 | 563 | 1736 | 3754 | 1773 | 1024008 | Corporal  | Bignell, Charles Albert:   | Nil   | Bignell, Mrs. Gertrude Maude..... | Brampton, Ont  | England.. | West Toronto.. | May 1, | 1916. |
+| 2 | 564 | 1767 | 3755 | 1802 | 1024458 | Private.  .-. | Blake, William James,........... | Nil......   | Blake, William Edward......... ... | 93 Pembroke St., Toronto, Ont  | Canada... | Toronto  | Nov, 23, | 1916. |
+| 2 | 563 | 1796 | 3755 | 1832 | 1024347 | Private....  | Bond, Frederick James'£.-■>.-....... | Nil..  | Bond, Mazie......    | 286 Salem Ave., Toronto, Ont  | Canada... | Toronto  | Sept. 21, | 1916. |
+| 2 | 563 | 1825 | 3755 | 1861 | 1024230 | Private  | Bonnell, Percival Edgar',.......... | Nil    | Bonnell, Mrs. Jean E....... ^   | 1281 Du£ferin St., Toronto, Ont  | Canada... | Toronto  | July 31, | 19x6. |
+| 2 | 578 | 1854 | 3776 | 1888 | 172047 | Private   | Bonthron, John    | No paper  |  |  |  |  ; |
+| 2 | 563 | 1876 | 3756 | 1918 | 1024177 | Private   | Bowyer, Archibald Herbert  | Nil..  | Bowyer, Henry.     | New Toronto, Ont...  | England.. | West Toronto. | iuiy 3, | 1916. |
+| 2 | 563 | 1911 | 3756 | 1949 | 1024215 | Private  | Bramble, Percy George.  | Nil....  | Bramble, Mrs. Harriet  | Edmonton, London, N., Eng  | England.. | West Toronto. | July 27, | 1916. |
+| 2 | 576 | 1940 | 3792 | 1976 | 679001 | Private  | Breen, Fred John.... .v..y  | Nil.......... | Breen, Mrs. Ida Lucile....... | 87 Fern Ave., Toronto, Ont    | U.S.A.... | Toronto   | Mar. 14, | 1916.n |
+| 2 | 563 | 1969 | 3756 | 2005 | 1024193 | Private  | Bremner, William Lawrence.. .v.. | Nil...   | Bremner, Freeman. .............. | 214 Campbell Ave., Toronto, Ont  | Canada.., | West Toronto. | July 17, | 1916. |
+| 2 | 563 | 1998 | 3756 | 2034 | 1024006 | Private  | Bristow, Alfred.   | Nil   | Bristow, Mrs. Annie......  | 48 Uxbridge St., Toronto, Ont  | England.. | West Toronto. | Mav 10, | 1016. |
+| 2 | 563 | 2027 | 3757 | 2063 | 1024557 | Private  | Britton, Arthur.        | 18th Horse.. | Britton, Mrs. Milbum   | Ashton U/L., Lancs, Eng  | England.. | West Toronto. | Feb. 16, | 1917. |
+| 2 | 563 | 2056 | 3757 | 2093 | 1024529 | Private  | Brodie, Charles Joseph  | Nil.  | Brodie, James         | 85 Portland St., Toronto, Ont  | Canada... | West Toronto. | Jan. 8, | 1917. |
+| 2 | 563 | 2085 | 3756 | 2122 | 1024114 | Private  | Brandish, James   | Territorials. | Brandish, Mrs. Elizabeth........ | 132 Cooper Ave., Toronto, Ont  | England.. | Toronto   | 'June 5, | 1016. |
+| 3 | 699 | 384 | 1708 | 413 | 102445C | Private  | Buckingham, John William | Nil  |
+| 3 | 700 | 414 | 1707 | 441 | 102400S | Private  | Bunker, Fred  | NU  |
+| 3 | 699 | 435 | 3879 | 472 | 1024014 | L.-Corporal  | Cable, Frank Warner  | 48th Regt |  |  |  |  | May 10,1916. | West Toronto... |
+| 3 | 699 | 472 | 1733 | 501 | 1024231 | Private  | Cameron, Arthur James  | Nil  |
+| 3 | 699 | 493 | 3879 | 529 | 1024405 | Private  | Carroll, Frank William  | Can. Mil |  |  |  |  | Sept. 29,1916. | Rocky Mountains, North Carolina, U.S.A  |
+| 3 | 698 | 523 | 3879 | 559 | 102445c | Private  | Carter, Thomas Harvey  | Nil...  |  |  |  |  | Dec. 15,1916. | Rngland  |
+| 3 | 698 | 552 | 3879 | 588 | 1024345 | Private  | Churchward, Sydney  | Nil ;... |  |  |  |  | Sept. 20,1916. | England  |
+| 3 | 698 | 589 | 1688 | 616 | 10242M | Private  | Clark, Alfred Edwin  | Can. Mil |
+| 3 | 698 | 611 | 3880 | 645 | 1024305 | Private  | Clark, Charles  | Nil  |  |  |  |  | July 26, 1916. | Brampton  |
+| 3 | 696 | 640 | 3880 | 674 | 1024272 | Private  | Clark, Harold Leslie  | Nil  |  |  |  |  | Aug. 16, 1916. |
+| 3 | 696 | 669 | 3879 | 705 | 1024364 | Private  | Clark, Stephen Henry  | Can. Mil |  |  |  |  | Oct. 6, 1916. |
+| 3 | 710 | 698 | 3879 | 733 | 228334 | Sergeant  | Clarke, William George  | Territorials |  |  |  |  | April 20,1916. | Toronto  |
+| 3 | 696 | 728 | 3879 | 763 | 1024198 | Corporal  | Clyde, George Sutherland  | NU  |  |  |  |  | July 19,1916. | West Toronto. . |
+| 3 | 696 | 757 | 3879 | 792 | 1024160 | Private  | Cohen, George  | Nil  |  |  |  |  | June 2i, 1916. | West Toronto... |
+| 3 | 696 | 786 | 3879 | 820 | 1024545 | Private  | Conner, Charles Luther  | NU  |  |  |  |  | Jan. 25,1917. | West Toronto... | U.S.A  |
+| 3 | 696 | 815 | 3879 | 850 | 1024474 | Private  | Cook, Frank Templeton  | U.S. Army |  |  |  |  | Dec. 7,1916. | West Toronto... | U.S.A  | Richmond, Indiana, U.S.A    |
+| 3 | 695 | 844 | 3879 | 878 | 1024313 | Private  | Cooper, Frank  | O.T.C  |  |  |  |  | Sept. 6,1916. | West Toronto... |
+| 3 | 695 | 874 | 3878 | 907 | 1024219 | Private  | Cope, Fedorin  | Nil  |  |  |  |  | July 29,1916. | West Toronto... |
+| 3 | 709 | 903 | 3879 | 936 | 681321 | Private  | Corin, Charles Reginald  | NU  |  |  |  |  | Feb. 28,1916. |
+| 3 | 694 | 931 | 3879 | 966 | 1024414 | Co. Sergt.-Major | Crowley, James  | R.C.D  |  |  |  |  | Sept. 27,1916. |
+| 3 | 695 | 961 | 3879 | 994 | 1024200 | Private  | Culver, James Howard  | NU  |  |  |  |  | July 22,1916. | West Toronto... |
+| 3 | 694 | 990 | 3879 | 1023 | 1024154 | Private  | Cuthbert, Frank  | Nil  |  |  |  |  | June 26,1916. | West Toronto... |
+| 3 | 695 | 1019 | 3880 | 1052 | 1024275 | Private  | Dailey, William George  | NU  |  |  |  |  | Aug. 16,1916. | Toronto  |
+| 3 | 693 | 1048 | 3880 | 1081 | 1024339 | Private  | Dailly, Edward  | Nil  |  |  |  |  | Sept. 16,1916. | Toronto  |
+| 3 | 694 | 1076 | 3880 | 1110 | 1024178 | Private  | Dare, George Frederick  | NU  |  |  |  |  | June £9,1916. | West Toronto... | England   |
+| 3 | 694 | 1105 | 3880 | 1139 | 1024396 | Private  | Davey, Arnold Roy  | NU  |  |  |  |  | Oct. 26,191c. |
+| 3 | 693 | 1134 | 3880 | 1168 | 1024564 | Private  | Dean, Harry  | Imp. Forces |  |  |  |  | Mar. 21,1917. |
+| 3 | 693 | 1164 | 3880 | 1196 | 1024112 | Private  | Deas, John  | Imp. Forces |  |  |  |  | May 19,1916. | West Toronto... |
+| 3 | 694 | 1192 | 3880 | 1225 | 1024410 | Private  | Degenhart, George Frederick.. | Can. MU |  |  |  |  | Oct. 9,1916. | 4105 St. John St., Pittsburgh, Pa., U.S.A  | U.S.A  |
+| 3 | 707 | 1222 | 3880 | 1254 | 775270 | Private  | Dickey, Hugh  | Can. MU |  |  |  |  | Dec. 4,1915. |
+| 3 | 706 | 1251 | 3879 | 1285 | 228476 | L.-Corporal  | Diion, Maurice  | 110th Regt |  |  |  |  | May 31,191o. |
+| 3 | 693 | 1280 | 3880 | 1311 | 1024371 | Private  | Dobson, Louis  | NU   |  |  |  |  | Oct. 12,1916. |
+| 3 | 692 | 1310 | 3879 | 1340 | 1024511 | Private  | Donahue, William David  | NU  |  |  |  |  | Dec. 20,1916. | West Toronto... |
+| 3 | 692 | 1339 | 3880 | 1371 | 1024155 | Corporal  | Doole,' Joseph  | NU  |  |  |  |  | June 19,1916. | West Toronto... |
+| 3 | 692 | 1368 | 3879 | 1401 | 1024287 | Co. Sergt.-Major | Drugan, William Stuart  | Imp. Forces |  |  |  |  | Aug. 23, 1916. |
+| 3 | 692 | 1397 | 3879 | 1427 | 1024400 | Private  | Duffin, Albert Leslie  | NU  |  |  |  |  | Oct. 27,1916. |
+| 3 | 691 | 1426 | 3879 | 1457 | 1024547 | Private  | Dunn, David George  | Nil  |  |  |  |  | Jan. 26,1917. | Dunn, Mrs. Sarah Jane  | West Toronto... |
+| 3 | 691 | 1455 | 3879 | 1487 | 1024018 | Sergeant  | Eldred, Thomas Bertie  | NU  |  |  |  |  | Mav 12,1916. | Eldred, Mrs. Christina Charlotte. | West Toronto... | England  |
+| 3 | 691 | 1484 | 3879 | 1514 | 1024090 | Private  | Elliott, Walter George  | NU  |  |  |  |  | May 17,1916. | We3t Toronto... |
+| 3 | 690 | 1514 | 3879 | 1545 | 1024439 | L.-Corporal  | Fall, .Arthur Charles  | NU  |  |  |  |  | Nov. 11,1916. | Toronto  |
+| 3 | 704 | 1543 | 3879 | 1575 | 663131 | Co. Q.-M. Sergt.. | Fawcett, Roswell Herridge  | NU  |  |  |  |  | Jan. 24,1916. | MUton  |
+| 3 | 690 | 1572 | 3878 | 1601 | 1024461 | Private  | Feurtado, Earl Lyle W  | NU  |  |  |  |  | Nov. 27,1916. | West Toronto... |
+| 3 | 689 | 1601 | 3879 | 1632 | 1024425 | Private  | Foley, William Peter  | Can. MU  |  |  |  |  | Nov. 2,1916. | Toronto  | Foley, Mrs. Mary Helen  | 68 East Lennox St., Boston, Mass., U.S.A  | U.S.A  |
+| 3 | 689 | 1631 | 3878 | 1660 | 1024195 | Private  | Foxall, Charles William  | NU  |  |  |  |  | July 15,1916. | West Toronto... |
+| 3 | 689 | 1660 | 3877 | 1689 | 1024442 | Private  | Fraser, McKinley Malcolm  | Can. MU  |  |  |  |  | Oct. 31, i916. | Fraser, Simon  |
+| 3 | 689 | 1688 | 3878 | 1717 | 1024342 | Private  | Fraser, Thomas Albert  | NU   |  |  |  |  | Sept. 18, 1916. | Whithorn, Florence  |
+| 3 | 689 | 1718 | 3877 | 1747 | 1024362 | Private  | Freeman, David   | NU  |  |  |  |  | Oct. 6, 1916. | Freeman, Lewis  | West Toronto... |
+| 3 | 688 | 1747 | 3879 | 1776 | 1024532 | Private  | Fuller, Edgar Bramwell  | NU  |  |  |  |  | Jan. 6,1»17. | Toronto  | Fuller, Mrs. Annie  |
+| 3 | 689 | 1775 | 3878 | 1806 | 1024019 | Private  | Gallagher, George Francis  | 12th Regt |  |  |  |  | April 25,1916. | West Toronto... | Gallagher, William  |
+| 3 | 688 | 1805 | 3879 | 1833 | 1024267 | Private  | Garriock, John Edward  | NU  |  |  |  |  | Aug. 19,1916. | Toronto  | Garriock, Mrs. Mabel Churchill... |
+| 3 | 688 | 1829 | 3878 | 1863 | 1024551 | Private  | George, Charles  | NU  |  |  |  |  | Feb. 15.1917. | West Toronto... |
+| 3 | 688 | 1862 | 3879 | 1893 | 1024136 | Corporal  | Gettes, Alexander  | NU  |  |  |  |  | June 13,1916. | West Toronto... |
+| 3 | 688 | 1891 | 3879 | 1922 | 1024095 | Dorporal  | Gilbert, Harvey John P  | Territorials |  |  |  |  | May 18,1916. | Gilbert, Mrs. Elizabeth  | Brampton, Ont  |
+| 3 | 687 | 1921 | 3878 | 1951 | 1024103 | Sergeant  | Gill, Carleton Thorrington  | Nil......... |  |  |  |  | May 30,1916. |
+| 3 | 700 | 1949 | 3878 | 1980 | 681186 | L.-Corporal  | Gilverson, Russell Lloyd  | Nil  |  |  |  |  | Feb. 14,1916. |
+| 3 | 685 | 1979 | 3877 | 2007 | 1024277 | Private  | Goheen, William Angus  | Nil....:.... |  |  |  |  | Aug. 17,1916. |
+| 3 | 685 | 2008 | 3878 | 2038 | 1024024 | Sergeant  | Goodboum, William Arthur  | Nil  |  |  |  |  | April 19,1916. | Good bo urn, Mrs. Clara Alyx. M... | West Toronto... |
+| 3 | 685 | 2032 | 3878 | 2067 | 1024131 | L.-Corporal  | Gooding, Walter John  | Nil  |  |  |  |  | May 27,1V16. |
+| 3 | 697 | 2067 | 1510 | 2095 | 642860 | Private  | Gosley, Ernest Melvin  |
+| 3 | 682 | 2095 | 3879 | 2124 | 1024527 | ?rivate  | Graham, Leroy  | Nil. | Graham, George  |  |  | West Toronto... | Jan. 8,1917. |
+| 4 | 611 | 577 | 3273 | 621 | eg |  | Former Corps. |  |  | Country of |
+| 4 | 574 | 735 | 3056 | 765 | 1024310 | Priyate. | Green, John     | Nil. | Mother, Demitri  | Sunnyside Orphanage, cor. Queen & Roncesvalles Ave |
+| 4 | 2334 | 759 | 3766 | 793 |  |  |  |  | Toronto, Ont  | Canada.. | Toronto  | Sept. 5,1916. |
+| 4 | 574 | 788 | 3767 | 824 | 1024026 | Private  | Green, Leonard Rcdvers-.  | Nil. | Green, Christopher., | 149 Bathurst St., Toronto, Ont  | England. | West Toronto. | April 17,1916. |
+| 4 | 574 | 817 | 3767 | 853 | 1024394 | Private  | Grignon, Jean Paul  | Nil. | Grignon, Joseph H.., | St. Vincent St., Ste. Agathe, Montreal, P.Q  | Canada.. | Toronto  | Oct. 24,1916. |
+| 4 | 574 | 846 | 3767 | 882 | 1024031 | Private  | Hackshaw, Arthur  | Nil. | Hackshaw, Charles. | 179 Vine Ave., Toronto, Ont  | England. | West Toronto. | May 2,1916. |
+| 4 | 588 | 883 | 1912 | 910 | 776018 | Private  | Hammond, John Samuel  | No paper. |
+| 4 | 573 | 903 | 3768 | 939 | 1024553 | Private  | Handley, John  | NU  | Handley, Mrs. J  | 73 St. Claire Ave., Niagara Falls, Ont  | Canada  | West Toronto.. | Feb. 8,1917. |
+| 4 | 574 | 932 | 3768 | 968 | 1024145 | L.-Corporal  | Hare, Leslie  | NU  | Hare, Mrs. William J  | Port Credit, Ont  | Canada...... | West Toronto.. | June 15,1916. |
+| 4 | 574 | 961 | 3768 | 996 | 1024166 | Private  | Harrington, Fredrick  | Nil  | Harrington, Mrs. Rebecca  | 174 St. Clarens Ave.. Toronto, Ont  | England  | West Toronto.. | June 24,1916. |
+| 4 | 574 | 990 | 3768 | 1025 | 1024281 | Private   | Hastings, Peter Augustine  | Nil  | Hastings, Mrs. Eleanor  | 23i St. Helen Ave., Toronto, Ont  | Scotland.... | Toronto  | Aug. 14,1916. |
+| 4 | 589 | 1019 | 3768 | 1053 | 907527 | Sergeant     | Heath, Roy  | NU  | Heath, Farmar Edward  | Orton, Ont  | Canada  | Regina  | Mar. 27,1916. |
+| 4 | 589 | 1048 | 3768 | 1083 | 775632 | Private  | Herman, Arthur  | NU  | Herman, Benjamin  | 731 N. 26th St., PhUadelphia, Pa., U.S.A  | Russia  | Toronto  | Jan. 21,1916. |
+| 4 | 575 | 1077 | 3768 | 1111 | 1024470 | Private   | Hildreth, Henry Charles  | NU  | HUdreth, James WUliam  | 2948 Yonge St. N., Toronto, Ont  | England  | Toronto  | Dec. 4,1916. |
+| 4 | 589 | 1105 | 3769 | 1140 | 669522 | Private  | Holland, Albert  | Nil  | Holland, Mrs. Ellen Elizabeth  | liO Kennedy Rd., Toronto, Ont  | England  | Toronto  | Feb. 1,1916. |
+| 4 | 575 | 1135 | 3769 | 1169 | 1024346 | Private  | Horton, William Henry.  | NU  | Horton, WUliam  | 38 Mitchell St., Sheffield, Eng  | England  | Toronto  | Sept. 20, 1916. |
+| 4 | 590 | 1164 | 3768 | 1199 | 135035 | Private  | Howe, Frank  | Nil  | Howe, Mrs. Martha Ellen  | 700 Pape Ave., Toronto, Ont  | England  | Toronto,  | July 28,1915. |
+| 4 | 574 | 1193 | 3768 | 1228 | 1024370 | Private  | Howitt, John    | Nil  | Howitt, William  | Danville, P.Q  | Canada  | West Toronto.. | Oct. 12,1916. |
+| 4 | 574 | 1223 | 3786 | 1255 | 1024240 | Private  | Htadusienrich, Toni  | Nil  | None..        | None  | Russia...... | West Toronto.. | Aug. 4, 1916. , |
+| 4 | 572 | 1251 | 3767 | 1285 | 1024452 | Private  | Hudson, Alfred  | Nil  | Hudson, John  | c/o Fred Bond, Sheffield, Eng  | England  | Brampton   | Nov. 25,1916. |
+| 4 | 586 | 1280 | 3766 | 1314 | 853757 | Private..— - | Hughes, Frederick Franklin  | NU  | Hughes, Mrs. Pearl I    | 1st St., Collingwood, Ont  | Canada  | Collingwood... | Jan. 20,1917. |
+| 4 | 571 | 1309 | 3765 | 1345 | 1024218 | Private..   | Hughes, Thomas Edward  | NU  | Hughes, Thomas Edward....  | Not stated.      | England...   | West Toronto.. | July 29,1916. |
+| 4 | 570 | 1336 | 3763 | 1373 | 1024220 | Private....  | Hutchison, Alexander.    | Nil...;...... | Hutchison, David......... | 21 Kennedy Ave., Swansea, Wales   | Scotland  | West Toronto.. | July 10,1916. |
+| 4 | 568 | 1365 | 3763 | 1405 | 1006031 | Private    | Hutson, Donald...,  ,.   | Nil...;...... | Hutson, Mrs. Belle...;..... | Trout Mills, Ont....   ..      ........ | Canada......... | North Bay..... | Mar. 27,1016. |
+| 4 | 568 | 1393 | 3761 | 1430 | 1024033 | Q.-M. Sergeant.. | Jackson, David Scott.......;...... | Nil  | Jackson, Mrs. Janet..,.. ... | 8 Minto St., Toronto, Ont...   | Scotland  | West Toronto,.. | May 8,1916. |
+| 4 | 568 | 1419 | 3763 | 1460 | 1024113 | Private....  | Jamioson, Percy Andrew  | NU...  | TmriinMjm A nH. . | Jamieson, Andrew:. ,   | Streetsville, Ont;.'.  ...  | Canada  | West Toronto;., | 7 1018; | June |
+| 4 | 567 | 1448 | 3760 | 1486 | 1024508 | Private  | Jamieson, Reginald Henry  | Nil    | Jamieson, Mrs. Jano;..   | Cooksville, Ont.      | Canada  | Toronto    | 1,1917. | Jan. |
+| 4 | 566 | 1476 | 3760 | 1514 | 1024662 | Private.;...— | Jodoin, Paul.,......      | NU  | Jodin, Mrs. Philomfine  | 34 NeUada St., Montmi, P.Q  | Canada   | West Toronto... | S3,1917. | Feb. |
+| 4 | 566 | 1504 | 3759 | 1544 | 1024122 | Private.’...-...... | Johnston, Harry Ernest..  | Can. MU  | Johnston, Mrs. Floroneo....    | 28 Priscilla Ave., Toronto, Ont    | Canada......... | West Toronto... | 8.1910. | June |
+| 4 | 567 | 1533 | 3760 | 1571 | 1024228 | Private....,.,... | Johnston, Isaac,   ...   | NU  | Mumhorson. Mrs. J...    | Brampton, Ont.         | Scotland....... | Brampton..... | 59.1910. | July |
+| 4 | 567 | 1554 | 3759 | 1601 | 1024206 | Private:^.;....! | Jonos, David...     | NU  | Jones, Mrs. ManrS $0}   | 33 Humbert St., Toronto, Ont    | England  | Wert Toronto,.. | Duly 31,1918. |
+| 4 | 565 | 1590 | 3759 | 1633 | 1024181 | Corporal..   | Kearns, George Matthew G....... | 30th Regt.... | Kearns, John Bfodoa.....  | Mono Rd., Pool, Ont      | Canada  | Brampton...... | July 8,1918. |
+| 4 | 567 | 1619 | 3760 | 1662 | 1024035 | Corporal...  | Keo, Harold Ernest     | 48th Rogt.... | Kee, James B.  | 70 Brooklyn Ave., Toronto. Ont  | England  | West Toronto.,. | April 17.1919. |
+| 4 | 568 | 1647 | 3761 | 1690 | 1024391 | Private.... ... | Koolor, Norman Percy   | Nll  | Keeler, Mrs. Elisabeth..   | 0i Cooper Ave., Toronto, Ont  | England  | Toronto...  | Oct. 20,1918. |
+| 4 | 568 | 1676 | 3761 | 1713 | 1024079 | Private....:  | Kennedy, Charles Milne   | NU.,...1 | Kennedy, Mrs. Kate .    | 419 Annette St., Toronto, Ont  | Canada  | Wert Toronto... | May 17,1918. |
+| 4 | 570 | 1704 | 3763 | 1741 | 1024076 | Private..*..  | Kerr, Albert Joseph..      | S.A.  | Kerr, Mrs. Sarah....  | 2087 Davenport Rd., Toronto, Ont  | England.  | West Toronto... | May 13,1918. |
+| 4 | 571 | 1732 | 3764 | 1769 | 1024441 | Private......  | Kidney, William Henry   | Nfl  | Kidney. Robert ;   | 7» Sheridan Ave., Toronto, Ont  | Canada  | Toronto....... | Nov. 13,1918. |
+| 4 | 573 | 1761 | 3764 | 1796 | 1024560 | Private.!   | Kitching, Allan George.  | NU.......... | Kitching, Bruce E     | New Flos, Ont....    | Canada.;...,/.. | RavinaBar’ks. | Feb. 30.1W17. |
+| 4 | 574 | 1789 | 3765 | 1825 | 1024367 | Private.1... .*  | Kowalsky, Mike       | Can. MU  | Katixt, Matruma....".    | Red Bank, New Jersey, TJ.S.A  | Russia.;   | Toronto   | Oct. 7,1918. |
+| 4 | 575 | 1818 | 3766 | 1852 | 1024459 | Private.  | Land, George Joseph......... | Nil  | Land, Mrs. Thomas,T........ | 14 Runnemyde Rd., Swansea, Ont.    | Ireland  | West Toronto.. | Nov- 28,1916. |
+| 4 | 589 | 1847 | 3767 | 1883 | 775330 | Private     | Langdon, John   | Nil   | Langdon, Mrs. Edna Green   | 39 Collahie St., Toronto, Ont  | Toronto  | Toronto..  | Jan. 7,1916. |
+| 4 | 576 | 1875 | 3769 | 1908 | 1024440 | Private   | Leavens, Byron Redvers  | NU  | Leavens, Frank.   | Bolton, Ont ....    | Canada  | Toronto.   | Nov. 13,1916. |
+| 4 | 577 | 1903 | 3770 | 1936 | 1024075 | Private  | Lilly, Leonard.   | NU  | LiUy, Mrs. Ellen  | Brampton, Ont   | England  | West Toronto.. | May 16,1916. |
+| 4 | 576 | 1931 | 3771 | 1965 | 1024039 | Sergeant  | Linton, Robert    | Territorials.. | Linton, Mrs. Elizabeth.'  | 187 Indian Grove, Toronto, Ont  | Ireland  | West Toronto.. | May 4,1916. |
+| 4 | 589 | 1960 | 3772 | 1995 | 642830 | Private  | Lippett, Harold Edward  | 36th Regt... | Lippet, George   | Alliston, Ont  | Canada  | Alliston    | Feb. li, 1916. |
+| 4 | 576 | 1989 | 3773 | 2023 | 1024037 | Corporal  | Lister, Herbert William  | Territorials.. | Lister, Herbert.!.      | 295 Jarvis St., Toronto, Ont  | England  | West Toronto.. | May 3,1916. |
+| 4 | 577 | 2017 | 3774 | 2052 | 1024269 | Private  | Little, Thomas  | Can. MU  | Little, Thomas  | Sittingboume, Kent, Eng  | England  | Toronto     | Aug. 14,1916. |
+| 4 | 576 | 2047 | 3774 | 2082 | 1024393 | Private..'.  | Loxley, Gordon  | NU  | Loxley, Mrs. Elizabeth  | 3u6 Manning Ave., Toronto, Ont .’  | England  | Toronto  | Oct. 24,1916. |
+| 4 | 576 | 2076 | 3775 | 2111 | 1024239 | Private  | Lubka, Fredrick  | NU  | Lubka, L.-Corporal George  | c/o Army P.O London, Eng  | England  | West Toronto.. | 4.1916. | Aug. |
+| 4 | 576 | 2105 | 3777 | 2139 | 1024038 | Private  | Lynn, Ronald Alexander  | NU  | Lynn, Joseph '..;V  | 254 Roxton Rd., Toronto, Ont  | Canada  | West Toronto., | 5.1916. | May |
+| 5 | 648 | 349 | 3834 | 384 | 1024421 Private  | Lyon, William Campbell A  |  |  | 14 Camden St., Toronto, Ont    | Canada  | Toronto  | Oct. | 21.1916. |
+| 5 | 648 | 379 | 3835 | 410 | 1024042 Private  |  | Nil  |  | 929 Dufferin Ave., Toronto, Ont  | Canada  | West Toronto... | April | 27.1916. |
+| 5 | 648 | 408 | 3834 | 442 | 1024115 Private  |  | Nil  | Maddock, Mrs. Florence Mary... | West End, Bradninch, Devon, Eng  | England  | Toronto  | June | 5.1916. |
+| 5 | 648 | 438 | 3834 | 472 | 1024073 Corporal  |  | Nil  |  | Campbellford, Ont  | England....... | West Toronto... | May | 12.1916. |
+| 5 | 663 | 467 | 3835 | 500 | 135038 Private  | Magill, John   | Nil  |  | i*>7 Ivy Terrace, Braddway, Belfast, Ire  | Ireland........ | Toronto  | July | Z.7,1915. |
+| 5 | 647 | 496 | 3834 | 530 | 1024096 L.-Corporal  | Maltby, Reginald Arthur  |  |  | Brampton, Ont ;    | England  | Brampton  | May | 21.1916. |
+| 5 | 647 | 526 | 3836 | 559 | 1024174 Private  | Mann, George Albert  |  |  | 2 Rear, • Portland St., Toronto, Ont   ; | England  | West Toronto... | June | 28.1916. |
+| 5 | 648 | 555 | 3836 | 588 | 1024522 Private  | Mark, Robert  | Nil  |  | Islington, Ont          | Scotland  | West Toronto... | Jan. | 6,1917. |
+| 5 | 648 | 584 | 3836 | 615 | 1024428 Private  |  | Nil  |  | 342 Concord Ave., Toronto, Ont    | Scotland  | Toronto  | Nov. | 6.1916. |
+| 5 | 648 | 610 | 3836 | 647 | 1024045 Corporal  |  |  |  | 166 MacPherson Ave., Toronto, Ont   | Canada.  | West Toronto... | May | 1.1916. |
+| 5 | 649 | 643 | 3836 | 674 | 1024479 Private  |  |  | Martin, Mrs. Lydia  | P.O. Box 195, Elmira, Ont  | Canada   | Brampton  | Dec. | 23.1916. |
+| 5 | 649 | 667 | 3836 | 704 | 1024540 Private  |  | Nil  |  | 64 South Woodbine St., South Shields, Durham, Eng... | England....... | Toronto   | Jan. | 18.1917. |
+| 5 | 649 | 701 | 3836 | 734 | 1024168 L.-Corporal  | Mason, Robert Wilton  | Nil......  |  | 2108 Dundas St., W. Toronto, Ont  | Canada  | West Toronto... | June | 26.1916. |
+| 5 | 661 | 730 | 3836 | 763 | 681571 Corporal  |  |  |  | 102 Margueretta St., Toronto, Ont  | N.S. Wales  | Toronto....  | Mar. | 27.1916. |
+| 5 | 649 | 759 | 3836 | 791 | 1024352 Private  |  | Nil  |  | Uffington, Ont  | England  | Toronto. | Sept. | 25.1916. |
+| 5 | 649 | 789 | 3836 | 821 | 1024524 Private  |  | Nil   |  | Mount Dennis, Ont .. | Canada   | West Toronto... | Jan. | 6.1917. |
+| 5 | 649 | 818 | 3836 | 849 | 1024072 Private   . |  | Nil  |  | 28 Kennedy Ave., Swansea, Ont    | England  | West Toronto... | May | 19.1916. |
+| 5 | 2350 | 847 | 3836 | 878 |  |  |  |  | Lloydtown, Ont  | Scotland  | Toronto   | Oct. | 25.1916. |
+| 5 | 649 | 876 | 3837 | 912 | 1024549 Private  | McCarroll, George Walls  | NU  |  | 471 Gunns Rd., West Toronto, Ont  | Canada  | Toronto.   | Jan. | 29.1917. |
+| 5 | 649 | 905 | 3837 | 936 |  |  | Nil  | 1024229 Private  | Dane City, U.S.A  | Ireland  | Brampton  | July | 29.1916. |
+| 5 | 1522 | 934 | 3837 | 965 |  |  | Nil  |  | 2733 Yonge St., N. Toronto, Ont  | Canada  | Toronto  | Dec. | 4.1916. |
+| 5 | 648 | 963 | 3838 | 995 | 1024546 Private  |  | Nil  | McDermod, Michael......  | 21 Clinton St., W. Malden, Mass., U.S.A  | U.S.A  | West Toronto... | Jan. | 25.1917. |
+| 5 | 648 | 992 | 3837 | 1027 | 1024126 Co. Sergt-Major. |  | Nil  |  | Limehouse, Ont       | Canada  | West Toronto... | June | 8.1916. |
+| 5 | 649 | 1021 | 3839 | 1054 | 1024531 Private  |  | U.S. Navy  |  | Caiman; Man      .y..  | Canada    | West Toronto... | Jan. | 9, 1917. |
+| 5 | 649 | 1050 | 3839 | 1085 | 1024147 Private  |  | Nil  |  | 53 McGregor Ave., Toronto, Ont  | Scotland  | West Toronto... | June | 16.1916. |
+| 5 | 649 | 1079 | 3839 | 1110 | 1024183 Private  |  | Nil  |  | Limehouse, Ont   '   | Canada  | Brampton.  | June | 24.1916. |
+| 5 | 650 | 1107 | 3839 | 1140 | 1024430 Private  |  | Nil   |  | 1251 Dufferin Ave., Toronto, Ont  | Scotland  | West Toronto... | Nov. | »,1916. |
+| 5 | 650 | 1137 | 3839 | 1169 | 1024327 Private  |  | Nil  |  | 7Edwin Ave., Toronto, Ont  | Canada  | Toronto  | Sept. | 12,191b. |
+| 5 | 650 | 1167 | 3839 | 1199 | 1024539 Private    | McKenzie, Stanley James  | Nil  |  | 319 Perth Ave., Toronto, Ont  | Canada  | West Toronto... | Jan. | 18.1917. |
+| 5 | 651 | 1191 | 3839 | 1227 | 1024040 Private  |  | Nil   |  | 441 St. John’s Rd., Toronto, Ont  | England  | West Toronto... | April | 27.1916. |
+| 5 | 651 | 1223 | 3943 | 1257 | 1024273 Private  |  | Nil   |  | 6 Cook Cottages, Guildford, Eng  | England  | Toronto  | Aug. | 16.1916. |
+| 5 | 651 | 1254 | 3839 | 1286 | 1024225 Corporal  |  |  |  | 247 Windermere Ave., Toronto, Ont  | England  | Toronto  | July | 31.1916. |
+| 5 | 651 | 1282 | 3839 | 1314 | 1024413 Corporal  |  | U.S. Navy & Can. M. |  | 244 Spadina Ave., Toronto, Ont  | U.S.A  | Toronto  | Oct. | 5.1916. |
+| 5 | 651 | 1312 | 3839 | 1344 |  |  | Nil  | 1024473 Private  | Morsion, Dora Elizabeth  | Owen Sound, Ont.   | Canada  | West Toronto... | Dec. | 6.1916. |
+| 5 | 665 | 1341 | 3839 | 1373 | 657567 Corporal  |  |  |  | Sundridge, Ont    | Canada  | Burks Falls  | Feb. | 18.1916. |
+| 5 | 651 | 1370 | 3839 | 1401 | 1024041 Private  |  | Nil  |  | 39 French Ave., Toronto, Ont  | Canada  | West Toronto... | May | 5.1916. |
+| 5 | 652 | 1399 | 3839 | 1430 | 1024307 Private  | Milnes, Cecil  | Nil  |  | 210 Riverdale Ave., Toronto, Ont  | England  | Toronto .... | Mar. | 17.1916. |
+| 5 | 651 | 1429 | 3839 | 1460 |  |  | Nil  | 1024081 Private  | 485, 16th St. W., Owen Sound, Ont  | Canada....,... | West Toronto... | May | 15.1916. |
+| 5 | 2353 | 1458 | 3839 | 1490 |  |  |  |  | c/o Cecil Gebanth, R.R. No. 2, Blenheim, Ont  | England  | Toronto    | Dec. | 15.1915. |
+| 5 | 651 | 1487 | 3840 | 1518 | 1024448 Private  |  | Nil  |  | Brampton, Ont  | Scotland  | Brampton  | Nov. | 20.1916. |
+| 5 | 652 | 1515 | 3840 | 1548 | 1024542 Private  |  | Nil  | Mugford, John  | 15 Humber Boulevard, Humber Bay, Ont  | Newfoundland. | Toronto  | Jan. | 19.1917. |
+| 5 | 653 | 1545 | 3840 | 1576 |  |  |  | Mumberson, Mrs. Julia Elizabeth | 1024092 Private.    | Nil  | Centre St., Brampton, Ont  | England  | Brampton  | May | 22.1916. |
+| 5 | 652 | 1573 | 3840 | 1606 |  |  |  | Murray, John   | 1024329 Corporal  | 43 South Shawbost, Stornoway, Scot  | Scotland  | Toronto  | Sept. | 12.1916. |
+| 5 | 652 | 1603 | 3840 | 1633 | 1024119 Private  |  |  |  | 130 Dunn Ave., Toronto, Ont  | Canada  | West Toronto... | May | 24.1916. |
+| 5 | 653 | 1632 | 3841 | 1663 | 1024128 Private  |  | Nil  |  | R.R. No. 1, Brampton,Ont  | England  | West Toronto... | June | 10, 1916. |
+| 5 | 652 | 1661 | 3841 | 1694 | 1024548 Private  | Murray, Henry Lawrence  |  |  | c/o James Clark Smith, Anaconda, Minn., U.S.A  | Canada  | West Toronto... | Jan. | 29.1917. |
+| 5 | 652 | 1686 | 3841 | 1721 | 1024399 Private  |  | Nil  |  | Hornsey, London, Eng    | England  | Toronto  | Oct. | 27.1916. |
+| 5 | 652 | 1719 | 3841 | 1750 | 1024455 Private  |  | Nil  |  | James St., Brampton, Ont  | Ireland  | Brampton  | Dec. | 2.1916. |
+| 5 | 653 | 1748 | 3842 | 1779 | 1024374 Private  |  | Nil  |  | 749 Cannon St., Hamilton, Ont  | Canada  | Toronto    | Oct. | 13.1916. |
+| 5 | 653 | 1777 | 3841 | 1809 | 1024046 Private  | Newman, James George  | S.A  |  | 505 Parliament St., Toronto, Ont  | England  | West Toronto... | May | 2.1916. |
+| 5 | 652 | 1806 | 3842 | 1837 |  |  | Nil  | 1024237 Private  | Bolton, Ont  | England  | West Toronto... | Aug. | 3.1916. |
+| 5 | 653 | 1835 | 3842 | 1867 | 1024335 Private  | Newton, George Henry  |  |  | 1155 Pine Ave., Chicago, 111., U.S.A  | U.S.A  | Toronto  | Sept. | 13.1916. |
+| 5 | 652 | 1864 | 3842 | 1897 | 1024047 L.-Corporal  |  | Nil  | Nicholls, Mrs. Martha  | 211 Symington Ave., Toronto, Ont  | Canada  | West Toronto... | April | 27.1916. |
+| 5 | 652 | 1889 | 3843 | 1925 | 1024209 Private  |  | Nil  |  | 218 Mavety St., West Toronto, Ont  | Canada  | West Toronto... | July | 27.1916. |
+| 5 | 652 | 1922 | 3842 | 1955 | 1024552 Private  |  | Nil  |  | 207 Hibson Rd., Nelson, Lancs, Eng  | England  | West Toronto.. | Feb. | 7.1916. |
+| 5 | 652 | 1951 | 3844 | 1983 | 1024541 Private  |  | Nil  |  | Mount Dennis, Ont  | England  | Toronto  | Jan. | 19.1917. |
+| 5 | 652 | 1980 | 3844 | 2012 | 1024276 Private  |  | Nil  |  | 539 Dundas St., Toronto, Ont  | Canada  | Toronto  | Aug. | 22.1916. |
+| 5 | 651 | 2009 | 3844 | 2040 | 1024457 Private  |  | Nil  |  | Limehouse, Ont  | Canada  | Brampton  | Dec. | 6.1916. |
+| 5 | 666 | 2033 | 3845 | 2071 | 928238 Private  |  | Nil  |  | 154 Margueretta St., Toronto, Ont !!!!!! | Canada  | Mt. Forest.... | Dec. | 8,1915. |
+| 5 | 651 | 2066 | 3846 | 2099 | 1024050 Corporal  | Parker, Henry Benjamin  | Imp. Forces  | Parker, Miss Dorothy  | 57 Charles St., Galt, Ont  | England....... | West Toronto... | April | 26.1916. |
+| 6 | 603 | 596 | 3260 | 633 | az |  | Former Corps. |  |  | Country of |
+| 6 | 563 | 745 | 3753 | 779 | 1024217 | Private  | Parker, Isaac James  | Nil  | Parker, Mrs. Edna Lyle  | 115 Perth Ave., Toronto, Ont  | Canada  | Toronto  | Aug. 1,1916. |
+| 6 | 577 | 775 | 3753 | 807 | 228286 | Sergeant... | Barrott, Francis Sydney  | Nil  | Parrott, Mrs. Annie  | 171 Borden St., Toronto, Ont  | Wales  | Toronto  | April 6,1916. |
+| 6 | 562 | 804 | 3753 | 838 | 1024320 | Private  | Pennock, Arthur  | Nil  | Pennock, Perry  | 1167 Dundas St., Toronto, Ont  | Canada  | Toronto  | Sept. 9,1916. |
+| 6 | 561 | 833 | 3753 | 866 | 1024211 | Private  | Perkins, Sydney John  | Territorials  | Perkins, Mrs. Edith Emeline | 204 Eileen Ave., Lambton Park  | England  | West Toronto. | July 27,1916. |
+| 6 | 561 | 861 | 3753 | 896 | 1024127 | Private  | Pinkney, Redgal Ernest...  | Can. Mil  | Pinkney, John  | Brampton, Ont  | England....... | West Toronto. | June 15,1916. |
+| 6 | 560 | 890 | 3753 | 925 | 1024053 | Sergeant... | Pinnell, Thomas William  | 2nd Regt  | Pinnell, Mrs. Susan  | 567 Concord Ave., Toronto, Ont  | England  | West Toronto. | April 27,1916. |
+| 6 | 576 | 919 | 3753 | 953 | 136633 | Private  | Platt, Sidney,  | Nil  | Platt, Mrs. Catharine  | 56 Essex Ave., Toronto, Ont  | England  | Toronto  | ieb. 18,1916. |
+| 6 | 558 | 948 | 3753 | 982 | 1024054 | Private  | Powers, Thomas Harvey  | Nil  | Powers, Thomas  | Brampton, Ont.  | England  | West Toronto. | May 1,1916. |
+| 6 | 557 | 977 | 3752 | 1011 | 1024308 | Private  | Pratt, John Alexander  | Nil  | Pratt, Mrs. Eliza Jane  | 55 Blair Ave., Toronto, Ont  | South Wales... | Toronto  | Mar. 27,1916. |
+| 6 | 556 | 1006 | 3752 | 1041 | 1024514 | Private  | Price, Leon     | Nil  | Price, Angus  | Lambton MUls, Ont  | Canada  | West Toronto. | Jan. 3,1917. |
+| 6 | 555 | 1035 | 3752 | 1070 | 1024504 | Private... 1. | Priestman, Henry Arthur  | NU  | Priestman, George  | 437 Montrose Ave., Toronto, Ont  | Canada  | Toronto  | Dec. 26,1916. |
+| 6 | 555 | 1062 | 3752 | 1098 | 10241& | Private  | Pross, George David  | NU  | Pross, Mrs. Ellen  | MUdmay, Ont  | Canada  | West Toronto. | May 16,1916. |
+| 6 | 568 | 1093 | 3752 | 1126 | 663483 | Private  | Puffer, Kipling.   | Nil  | Puffer, P. H  | Savona, B.C   | Canada  | Acton    | Feb. 16,1916. |
+| 6 | 568 | 1122 | 3752 | 1160 | 658066 | Private  | Ramesbottom, Earl  | Nil  | Ramesbottom, Mrs. Jane  | Byng Inlet, Ont  | Canada  | Parry Sound... | July 27,1916. |
+| 6 | 555 | 1151 | 3752 | 1182 | 1024232 | Private  | Randall, John Moss  | NU  | Randall, Mrs. Louise  | 48'Heintzman Ave., West Toronto, Ont  | England  | West Toronto., | Aug. 1,1916. |
+| 6 | 555 | 1180 | 3751 | 1211 | 1024432 | Private  | Rasmusson, John Alexander  | Nil  | Rasmusson, Loren  | Wroxeter, Ont  | U.S.A  | Toronto.  | Nov. 8,1916. |
+| 6 | 555 | 1209 | 3750 | 1240 | 1024309 | Private.  | Redding, Russell William  | Nil   | Redding, Mrs. Mary  | 208 Gerrard St. E., Toronto, Ont  | Canada  | Toronto  | AprU 10,1916. |
+| 6 | 555 | 1238 | 3748 | 1270 | 1024358 | Private  | Richards, William Thomas  | Nil  | Richards, William  | Wembly, Middlesex, Eng  | England  | West Toronto.. | Oct. 5,1916. |
+| 6 | 568 | 1266 | 3746 | 1299 | 853735 | Private  | Richardson, Robert JamSs  | NU  | Richardson, Mrs. Robert.... | Savant, Ont  | Canada   | Collingwood... | Dec. i4,1916. |
+| 6 | 555 | 1295 | 3744 | 1329 | 1024173 | Private   | Riddle, William John  | 48 th Regt  | Riddle, Mrs. Daisy  | 42 Rutland Ave. .Toronto, Ont  | England   | West Toronto.. | June- 22,1616. |
+| 6 | 556 | 1322 | 3740 | 1356 | 1024444 | Private  | Robertson, William Robert  | Nil   | Ross, Ernest  | Brownsville, Texas, U.S.A    | U.S.A.......... | Toronto.    | Nov. 14, leio. |
+| 6 | 556 | 1350 | 3742 | 1387 | 1024515 | Private   | Robinson, Ernest Maxwell  | NU  | Robinson, Joseph John  | Darlington, Durham, Eng.    | England.  | Toronto..'..... | Uany 8,1917. |
+| 6 | 555 | 1378 | 3740 | 1416 | 1024056 | Corporal   | Robinson, William Thomas....... | NU  | Robinson, Mrs. Mary E   | 110 St.1 John’s Rd., Toronto, Ont.,    | Canada......... | West Toronto.. | May 5,1910. |
+| 6 | 555 | 1407 | 3740 | 1445 | 1024291 | Private....  | Rodbard, Ernest John.   | NU  | Rodbard, Mrs. Maud Emily.....'. | 16 Amherst Ave., Toronto, Ont.      | England.......’. | West Toronto.. | Aug. 26,1916. |
+| 6 | 554 | 1435 | 3740 | 1475 | 1024055 | Private.......... | Rogers, Jesse. .............. | Nil...y...,  | Rogers, Stephen.. ....     ;.. | 24 Uxbridge.Ave'., Toronto, Ont;.   | England   | West Toronto.. | May '1,1916. |
+| 6 | 554 | 1464 | 3740 | 1503 | 1024057 | Private..  | Rogers', Stepheii...<(> ....,>  | NU...  | Rogers, Stephen.,..   | 24'Uxbridge'Ave., Toronto, Ont   | England  | West Toronto.. | AprU 25,1916. |
+| 6 | 552 | 1492 | 3740 | 1529 | 1024533 | Private  .{. | Rollings^Ernest.,,    | NU  | Rollings, Thomas WUliam  | Walton, Dnt; I ..........     | Canada  | West Toronto.. | Jan. 9,1917. |
+| 6 | 551 | 1521 | 3741 | 1557 | 1024471 | Private  | Sacharchun, Sem.W. -. »„  | Nil.  | Sacharchun, Machin.    | Erupdua, Russia,.;;.,.. .,....... .   | Russia..  | West Toronto.. | Deo. 8,1916. |
+| 6 | 549 | 1548 | 3742 | 1585 | 1024353 | Private..... | Sanford, Stephen James    | Nil.  | Sanford, Mrs. Georgina  | 5 Wood St., Chatham, Kent. Eng  | England  | Toronto....... | Sept. 30,1916. |
+| 6 | 545 | 1581 | 3512 | 1614 | 1124381 | Private..  | Schofield, Christopher John. .... | Nil  | Schofield, Mrs. Emily.   | 22 Highbury Gdna, Seven King's, Eisox, Eng  | England  | Toronto  |
+| 6 | 546 | 1607 | 3515 | 1642 | 1024464 | Private.   | Scott, William Henry, i  | Nil......  | Scott, Thomas Ethelbert   | rnglewood.Ont..    | Canada  | West Toronto.. |
+| 6 | 546 | 1638 | 3283 | 1672 | 1024058 | Private    | Seager, Norman.         | Nil.......  | Seager, Charles   | 89 Grace Av#., Toronto, Ont  | Canada  |
+| 6 | 546 | 1655 | 3747 | 1701 | 1024325 | Private...  | Sheppard, Melbourne Coates  | Nil..  | Sheppard, Mrs. Annie  | 156 Margueretta St., Toronto, Ont    | Canada  | Toronto  | Sept. 11,1916. |
+| 6 | 3054 | 1683 | 3747 | 1716 |  |  |  |  |  | Macedonia  | West Toronto.. | Jan. 3,1917. |
+| 6 | 546 | 1698 | 3038 | 1730 | 1024512 | Private    | Simmons. Peter.    | Nil   | Simmons, Stancho..,.,  | Bitolia,‘Macedonia  |
+| 6 | 3054 | 1712 | 3747 | 1747 |  |  |  |  |  | England  | West Toronto.. | June 20,1916. |
+| 6 | 546 | 1724 | 3039 | 1762 | 1024171 | Private  | Simons, Alfred George  | Nil,.,.,.   | Simons, William.......  | 9 Durio St.', Swansea, Ont  |
+| 6 | 3055 | 1741 | 3748 | 1771 |  |  |  |  |  | Canada  | West Toronto.. | Sept. 13,1916. |
+| 6 | 541 | 1747 | 3039 | 1787 | 1024334 | Private  | Simpkin, Bert George    | Nii’.h:;..  | Simpkin, Mrs. Lucy.      | 38 Jeremiah Ave., Toronto, Ont  |
+| 6 | 3055 | 1771 | 3747 | 1804 |  |  |  |  |  | England  | Brampton  | Dec. 19,1916. |
+| 6 | 546 | 1783 | 3040 | 1814 | 1024478 | Private..   | Simpkins, Victor, i  | Nil...  | Noble, Mrs, Jennie  | 237 John St., Brampton, Ont  |
+| 6 | 3056 | 1800 | 3747 | 1829 |  |  |  |  |  | Canada  | Toronto  | Dec. 27,1916. |
+| 6 | 545 | 1811 | 3040 | 1844 | 1024505 | Private  | Slaven, John Joseph B  | NU  | Hayden, Mrs   | 516 Bathurst St., Toronto, Ont  |
+| 6 | 3056 | 1829 | 3748 | 1862 |  |  |  |  |  | England  | Brampton  | Dec. 1,1916. |
+| 6 | 545 | 1841 | 3040 | 1871 | 1024454 | Private      | Smith, Albert William  | NU.  | Wilson, Mrs. Jennie  | Inglewood, Ont  |
+| 6 | 546 | 1858 | 3748 | 1900 | 1024403 | Private  | Smith, Edward Sydney  | NU   | Smith, Mrs. Lillian  | 902a Dundas St., Toronto, Ont  | England  | Toronto  | Oct. 28,1916. |
+| 6 | 546 | 1887 | 3749 | 1932 | 1024354 | Private  | Smith, Frederick Stanley  | Nil..,..  | Smith, Mrs. Ada  | Isolation Hospital, Toronto, Ont  | England   | Toronto.    | Oct. 2,1916. |
+| 6 | 546 | 1916 | 3747 | 1957 | 1024437 | Private  | Smith, Leslie Anderson  | Smith, David  | 979 Dovercourt Rd., Toronto, Ont  | Canada  | Toronto.   | Nov. 10,1916. |
+| 6 | 546 | 1929 | 3747 | 1985 | 1024214 | Private.....  | Smith, Leslie Clifton.i...   | £r}"V*"  | Smith, Mrs. Lucy Moyle  | Goderich, Ont    | England  | West Toronto.. | July 27,1916. |
+| 6 | 561 | 1974 | 3747 | 2014 | 775575 | Private.....  | Soal, Philip Edgar.. 1.'. .7 .. | nu?:::: :::::::::::::: | Soal, Mrs. Sarah  | 4 Victoria Rd., Woodford, Essex, Eng  | England  | Brampton  | Jan. 18,1916. |
+| 6 | 560 | 2003 | 3748 | 2042 | 228324 | Private  | Stevenson,. Ernest    | Territorials  | Stevenson, Mrs. Annie  | 102 Garnet Ave., Toronto, Ont  | Wales   | Toronto  | AprU 17,1916. |
+| 6 | 546 | 2033 | 3748 | 2071 | 1024235 | Private.   | Stewart, Francis Elliott  | Nil   | Stewart, Bessie.   | Hawick, Roxburghs, Scot  | Scotland  | West Toronto.. | Aug. 1,1916. |
+| 6 | 547 | 2062 | 3747 | 2101 | 1024286 | Private  | Stit, Herbert...,;..  | Nil  | Stit, Mrs. Isabel  | 54 Exeter St., Toronto, Ont  | Ireland  | Toronto  | Aug. 23,1916. |
+| 6 | 561 | 2091 | 3748 | 2130 | 681735 | Private  | Stockwell, John Richardson  | Nil   | Stockwell, Mrs. Mary  | 1036 Dovercourt Rd., Toronto, Ont  | England  | Toronto  | April 18,1916. |
+| 6 | 546 | 2120 | 3748 | 2159 | 1024060 | Corporal  | Stone, Charles MepKam  | Can. Mil  | Seal, Annie  | Hebstone Ave., Brampton, Ont  | England  | Toronto  | May 6,1916. |
+| 7 | 667 | 333 | 3859 | 364 | 1024208 | L.-Corporal  | Stoner, Walter Gordon  | Nil....  | Stoner, Mrs. Jane  | 113 Edwin Ave., Toronto, Ont England.... | Toronto  | July | 27.1916. |
+| 7 | 667 | 362 | 3860 | 393 | 1024106 | Private  | Thomas, Walter Archibald | NU  | Thomas, Mrs. Anna.... | 1156 Bloor St. W., Toronto, Ont   Canada  | West Toronto. | June | 2.1916. |
+| 7 | 668 | 392 | 3860 | 423 | 1024061 | Private  | Thompson, Samuel  | NU  | Thompson, Mrs. Mary.. | 23 Hook Ave., Toronto, Ont      Ireland  | West Toronto. | May | 5.1916. |
+| 7 | 681 | 421 | 3860 | 451 | 727707 | Sergeant  | Todd, Frederick James | 27th Regt.. | Todd, Mrs. Sarah Jane. | 27 Norman St., Stratford, Ont    Canada  | Stratford  | Mar. | 24.1916. |
+| 7 | 668 | 446 | 3865 | 481 | 1024184 | Private  | Tottle, Frank  | NU  | Bu3by, W  | Hen St., Bradninch, Devon, Eng England.... | West Toronto., | July | 6, 1916. |
+| 7 | 668 | 479 | 3861 | 511 | 1024280 | Private  | Tremblay, Alfred  | NU..  | Tremblay, Henry  | WrightvUle, P.Q ;  . Canada..... | Toronto  | Aug. | 17.1916. |
+| 7 | 667 | 508 | 3860 | 538 | 1024313 | Private  | Tricker, William Edward | Nil  | Tricker, Mrs.  | Brantford Lane, 2 Clox Cottages, Ipswich, Suffolk, Eng. England.... | Toronto  | Sept. | 8.1916. |
+| 7 | 668 | 537 | 3860 | 568 | 1024063 | Private  | Tripp, Ralph  | Nil  | Tripp, William  | HuttonvUle, Ont   England.... | West Toronto. | May | 10.1916. |
+| 7 | 667 | 566 | 3860 | 597 | 1024420 | Private  | Turnbull, Thomas  | NU   | Turnbull, Janet.  | 77 Castlegate, Jedburgh, Scot ..; Scotland  | Toronto  | Nov. | 6.1916. |
+| 7 | 667 | 593 | 3859 | 626 | 1024194 | Private  | Turner, Albert  | NU  | Heliwell, Mrs. Maria  | No. 7 Sear Rd., Norland, Sowerby Bridge, Yorks, Eng. England  | West Toronto.. | July | 13.1916. |
+| 7 | 667 | 624 | 3858 | 655 | 1024264 | Private.   | Turp, Norman  | Nil  | Turp, Mrs. Harriet  | 421 Symington Ave., Toronto, Ont   Canada  | West Toronto.. | Aug. | 12.1916. |
+| 7 | 666 | 653 | 3858 | 686 | 1024556 | Private  | Veal, Ernest  | Nil  | Veal, Thomas  | 36 Berryman St., Toronto, Ont.,     Canada  | West Toronto.. | Feb. | 13.1917. |
+| 7 | 666 | 682 | 3859 | 714 | 1024066 | Private ...... | Walker, Elmer Preston.. | NU  | Walker, Fred H  | New Liskeard, Ont      Canada..... | West Toronto., | May | 1.1916. |
+| 7 | 666 | 711 | 3857 | 743 | 1024261 | Corporal  | Waller, John  | Nil  | Waller, Kathleen  | 34 Cheltenham, Mt. Harrogate, Yorks, Eng S-V Scotland.... | Toronto  | Aug. | 21.1916. |
+| 7 | 666 | 740 | 3859 | 771 | 1024518 | Private  | Warren, Roy Stanley H.. | NU......... | Warren, George  | 32 Westmoreland Ave., Toronto, Ont   Canada  | Toronto  | Jan. | 3.1917. |
+| 7 | 665 | 768 | 3858 | 801 | 1024356 | Corporal  | Watson, George  | 7th Regt... | Watson, Mr3. Nellie.... | 395 Markham St., Toronto, Ont.........i..   England..., | Toronto  | Oct. | 3, 1916. |
+| 7 | 666 | 793 | 3858 | 830 | 1024089 | L.-Corporal  | Watson, Irwin Victor  | Territorials. | Watson, Irwin  | 38 Beechwood Ave., Mount Dennis, Ont..    England.. | West Toronto.. | May | 17, 1916. |
+| 7 | 665 | 827 | 3858 | 859 | 1024361 | Private  | Watt, John  | Nil  | Watt, Mrs. Isabella  | 40 Mariposa Ave., Toronto, Ont .   Scotland.... | Toronto  | Oct. | 5.1916. |
+| 7 | 678 | 858 | 3858 | 889 | 681636 | L.-Corporal  | Westbrook, Vincent Willia | NU  | Westbrook, Mrs. Margaret | 107 Kenwood Ave., Toronto, Ont.       England.... | Toronto  | AprU | 6, 1916. |
+| 7 | 664 | 888 | 3859 | 918 | 1024111 | Private...  | Whiffin, Albert  | NU  | Whiffin, Henry  | 117 Lappin Ave., Toronto, Ont     England.,,. | West Toronto.. | May | 29, 1916. |
+| 7 | 677 | 916 | 3858 | 946 | 678951 | Private  | Whiffin, Jack John  | NU  | Whiffin, Mrs. Maria  | 117 Lappin Ave., Toronto, Ont   England.... | Toronto  | Feb. | 11, 1916. |
+| 7 | 663 | 942 | 3858 | 977 | 1024456 | Private..,, , | White, Harry  | NU  | White, George  | BarnardoBoy’s Home, London, Eng....  ...e,. England.;./ | Brampton..... | Deo. | 2, 1916. |
+| 7 | 662 | 972 | 3858 | 1006 | 1024408 | Private..  | White, Walter   | Can. MU... | White, Mrs. Lena  | •J38H King St. E., Toronto, Ont...... England-...v | Toronto....... | Oct. | 3.1916. |
+| 7 | 662 | 1003 | 3858 | 1034 | 1024129 | Corporal....   | Whittaker, Tom  | NU......... | Whittaker, Mrs. Isabella.. | 24 Woodside Ave., Toronto, Ont.. I.... .... England,:,. | West Toronto.. | May | 26, 1916. |
+| 7 | 662 | 1031 | 3859 | 1063 | 1024102 | Private.  | Wilber, Victor Joseph P.. | NU   | Wilber, Mrs. Sarah  | 3 Pritchard Ave., Toronto, Ont...i. England;.., | West Toronto.. | June | 1.1916. |
+| 7 | 662 | 1060 | 3859 | 1097 | 1024108 | Private.....'  | Williams, Frederick  | C.A.9.C.... | Williams, Mrs. Lillie  | 97 Lindsay Ave., Toronto, Ont..  .,......v. England.. | West Toronto., | May | 27, 1916. |
+| 7 | 661 | 1089 | 3859 | 1121 | 1024407 | Private    | Williamson, George  | Can. MU.... | WilUamson, Henry..... | Bridge St., Southampton, Eng.:-   England  | Toronto....... | Sept. | 26.1916. |
+| 7 | 661 | 1118 | 3859 | 1149 | 1024357 | Private  | Wilson, Hugh, Harold... | Nil  | Wilson, Mr3. Francis Isabe | 187 Roxton Rd., Toronto, Ont   ..'Canada  | Toronto  | Oct. | 3, 1916. |
+| 7 | 662 | 1147 | 3860 | 1178 | 1024312 | Private  | Wilson, John  | Nil   | Wilson, John  | 19 Halebrook Court, Melrose, Mass., U.S.A    !U.S.A   | U.S.A  | Sept. | 6.1916. |
+| 7 | 661 | 1175 | 3860 | 1207 | 1024191 | Private  | Wilson, Thomas  | Nil......... | Wilson, Martha  | Barrie, Ont   Canada  | Brampton  | July | 14, 1916. |
+| 7 | 661 | 1204 | 3860 | 1236 | 1024484 | Private  | Wilton, George Ernest... | Nil ,.. | Easter, Mrs. Miria  | 57 Carlton Rd., Pakefield, Lowestoft, Eng   England | Brampton  | Jan. | 3, 1917. |
+| 7 | 661 | 1233 | 3861 | 1266 | 1024348 | Private  | Woodard, Russell Karl.. | NU  | Woodard, Mrs. Olive  | 72 Midland Cres., Toronto, Ont   U.S.A   | Toronto  | Sept. | 21.1916. |
+| 7 | 661 | 1261 | 3860 | 1295 | 1024123 | Private  | Woodhead, Harold  | NU  | Woodhead, Mrs. Anne... | 35 Mona St., Toronto, Ont    England.... | West Toronto. | June | 8, 1916. |
+| 7 | 703 | 1291 | 1389 | 1320 | 2427 | Bn. Sergt.-Major. | Woollard, William John.. |
+| 7 | 660 | 1311 | 3860 | 1353 | 1024507 | Private  | Woollins, George Alfred.. | Nil'.’."!”” | Woollins, Mrs. May  | Branstone Ave., Fairbank, Ont  | West Toronto. | Dec. 30,1916. |
+| 7 | 661 | 1348 | 3861 | 1382 | 1024536 | Private...  | Woollins, George William | Nil  | Woollins, George Alfred. | 108 Branstone Rd., Fairbank, Ont  | West Toronto. | Jan. 13,1917. |
+| 7 | 661 | 1376 | 3861 | 1411 | 1024528 | Private  | Woor, Leonard Walter... | NU... : | Woor, Mrs. Louisa   | 31 Ainsmouth St., Cambridge, Eng.      | Toronto  | Jan. 6,1917. |
+{% endraw %}

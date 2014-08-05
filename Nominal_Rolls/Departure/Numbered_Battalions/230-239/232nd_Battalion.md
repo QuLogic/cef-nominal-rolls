@@ -1,0 +1,493 @@
+---
+title: 232nd Battalion
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 232nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 3m-9-17. | 595-2-29. | 232nd Battalion | 3 Officers, 164 Other Ranks (Detail) | EMBARKATION | Port: Halifax, N.S. | Ship: S. S. “Northland.” | Date: April 18th, 1917. | f Port: | Ship: | Date: | Halifax, N.S. | S.S. “ Olympic." | June 2nd, 1917. |
+| 2 | 719 | 578 | 3218 | 610 |  |  |  | Former Corps. |  |  | Country of |
+| 2 | 634 | 722 | 3711 | 754 |  | Lieut-Colonel... | Laurie, Reginald Peter  | 52nd Regt   | Laurie, Mrs. Maud Georgina  | 124 East 19th St., Prince Albert, Sask  | Canada.. | Prince Albert... | Feb. | 1, 1915. |
+| 2 | 634 | 751 | 3711 | 785 |  | Major.   | Haffner, Edward Brian  | 100th Regt..;  | Haffner, Alberta T. G   | 900 Grosvenor Ave., Winnipeg, Man  | Canada.. | N. Battleford... | Mar. | 28, 1916. |
+| 2 | 633 | 778 | 3711 | 814 |  | Major.   | Herbert, Harold  | 22nd Horse  | Herbert, Mrs. Della  | North Battleford, Sask  | England. | N. Battleford... | Mar. | 20, 1916. |
+| 2 | 634 | 809 | 3710 | 845 |  | Major  | Leslie, Walter  | 52nd Regt  | Leslie, Mrs. Annie Louise  | North Battleford, Sask   | England. | N. Battleford... | Mar. | 25, 1916. |
+| 2 | 634 | 839 | 3711 | 871 |  | Major  | MaoKenzie, William McDonald.. | 22nd Horse  | MaoKenzie, Mrs. Christina  | Westhazel, Sask   | Canada.. | N. Battleford... | April | 1, 1916. |
+| 2 | 633 | 867 | 3711 | 899 |  | Captain  | Jackson, James Henry H  | C.A.M.C  | Jackson, Mrs. Ida Hamlyn  | North Battleford, Sask  | Canada.. | N. Battleford... | July | 19, 1916. |
+| 2 | 633 | 896 | 3711 | 928 |  | Captain  | Manville, Alfred James  | 52nd Regt  | Manville, Mrs. A  | c/o Mr. E. Manville, Coventry, Warwick, Eng  | England. | N. Battleford... | Mar. | 18, 1916. |
+| 2 | 633 | 926 | 3711 | 957 |  | Captain  | Shearer, William Charles  | 22nd Horse  | Shearer, W. T  | Neepawa, Man   | Canada.. | N. Battleford... | May | 10, 1916. |
+| 2 | 634 | 951 | 3711 | 985 |  | Lieutenant  | Baker, William Lloys    | 52nd Regt  | Baker, George W  | Prince Albert, Sask ,  | Canada.. | N. Battleford... | Mar. | 18, 1916. |
+| 2 | 633 | 982 | 3710 | 1013 |  | Lieutenant  | Hunter, Arthur Thomas  | 16th Horse  | Hunter, Mrs. Jennie.  | 2320 Smith St., Regina, Sask  | England. | N. Battleford... | May | 9, 1916. |
+| 2 | 633 | 1011 | 3710 | 1043 |  | Lieutenant  | Johnston, Oliver    | 90th Regt  | Johnston, Mrs. Miriam  | North Battleford, Sask  | Canada.. | N. Battleford... | June | 14, 1916. |
+| 2 | 633 | 1039 | 3710 | 1072 |  | Lieutenant  | Leech, Beverley Charles  | 95 th Regt  | Leech, Mrs. R. E. A  | 2253 Cornwall St., Regina, Sask  | Canada.. | Camp Hughes.. | Oct. | 4, 1916. |
+| 2 | 633 | 1069 | 3711 | 1099 |  | Lieutenant.  | Plum, Wilfred Ernest  | 22nd Horse  | Plum, Mrs. Amy Joyce  | North Battleford, Sask      | England. | N. Battleford... | April | 1, 1916. |
+| 2 | 633 | 1098 | 3711 | 1129 |  | Lieutenant  | Sargent, David Roy   | 20 th Horse  | Sargent, Mrs. Mary Jane  | Blaine Lake, Sask   | Canada.. | N. Battleford... | July | 4, 1916. |
+| 2 | 633 | 1127 | 3711 | 1158 |  | Lieutenant  | Skelton, Horden Reginald  | 95th Regt  | Skelton, Mrs. Katherine Capstick | Battleford, Sask  | Canada.. | Saskatoon  | July | 13. 1916. |
+| 2 | 633 | 1156 | 3711 | 1185 |  | Lieutenant  | Wilson, Andrew  | 29th Horse  | Wilson, Mrs. Monica Burnice  | Rosetown, Sask  | Canada.. | Rosetown  | April | 15, 1916. |
+| 2 | 521 | 1184 | 3711 | 1214 | 1018662 | Private  | Aley, Francis Leonard  | Nil  | Aley, George  | North Weald, Epping, Essex, Eng  | England.. | Blaine Lane.... | Sept. | 10, 1916. |
+| 2 | 521 | 1213 | 3710 | 1243 | 1018568 | Private  | Aley, Herbert James  | Nil  | Aley, Mrs. Kate  | North Weald, Epping, Essex, Eng  | England.. | N. Battleford. . | June | 30. 1916. |
+| 2 | 521 | 1236 | 3711 | 1272 | 1018406 | Private  | Allchurch, Wilson  | Nil  | Allchurch, Mrs. Sarah Jane  | Basingstoke, Hants, Eng  | England.. | N. Battleford... | June | 7. 1916. |
+| 2 | 520 | 1271 | 3711 | 1301 | 1018203 | Private  | Allen, Charles  | Nil  | Allen, Mrs, Mabel Evelyn  | North Battleford, Sask  | England. | N. Battleford... | April | 27, 1916. |
+| 2 | 520 | 1299 | 3711 | 1330 | 1018189 | L.-Corporal... | Allen, John Charles  | Nil  | Allen, Alfred William  | 9 Clarence Lorne, Dover, Kent, Eng  | England. | N. Battleford... | April | 19, 1916. |
+| 2 | 520 | 1328 | 3703 | 1358 | 1018125 | Private  | Anderson, Duncan  | Nil  | Anderson, Mrs. Maggie May  | Shell Brook, Sask  | Canada.. | N. Battleford.._ | April | 3, 1916 |
+| 2 | 519 | 1356 | 3711 | 1388 | 1018516 | Corporal  | Anderson, Gerald Douglas   | NU   | Anderson, James  | Brayswake, 50 Hertford, Eng  | Scotland. | Battleford  | June | 22, 1916. |
+| 2 | 519 | 1385 | 3712 | 1417 | 1018413 | Act.-Corporal... | Ankcom, Alfred John B,  | Nil  | Ankcom, Mrs. Elizaberh  | Whitkow, Sask  | Canada.. | N. Battleford... | June | 1. 1916. |
+| 2 | 518 | 1411 | 3711 | 1444 | 1018389 | Private  | Annett, James    | Nil  | Annett, James  | Ballymartin, Greengate, Co. Down, Ire  | Ireland... | Kerrobert  | May | 26, 1916. |
+| 2 | 519 | 1443 | 2942 | 1473 | 1018625 | Private  | Antonuk, John  | Nil  | Antonuk, Ewan  | Hoebarne, Hoshea, Province Wolinska, Kuruzwin, |
+| 2 | 2286 | 1470 | 3712 | 1497 |  |  |  |  |  | Russia  | Russia.... | Saskatoon  | July | 18, 1916. |
+| 2 | 518 | 1499 | 3712 | 1531 | 1018502 | Private.. | Arcand, Louis  | NU  | Arcand, Madeline  | Muskeg Lake, Sask  | Canada  | N. Battleford.. | June | 1, 1916. |
+| 2 | 517 | 1527 | 3714 | 1559 | 1018061 | Private.. | Arnold, Arthur Edwin  | 22nd Horse  | Arnold, Olga  | Meota, Sask  | Canada  | N. Battleford... | April | 1, 1916. |
+| 2 | 517 | 1556 | 3714 | 1589 | 1018166 | Private.. | Arnold, John Benjamin  | Nil  | Laycock, Mrs. E. R  | Meaford, Ont  | Canada  | N. Battleford... | April | 14, 1916. |
+| 2 | 517 | 1585 | 3714 | 1618 | 1018333 | Private.. | Arnold, Ralph Rudolph  | Nil  | Arnold, Y. A  | Spruce Bluff, Sask  | U.S.A  | N. Battleford... | May | 29, 1916. |
+| 2 | 529 | 1613 | 3714 | 1646 | 910154 | Sergeant. | Amott, Roy Allan  | C.O.T.C  | Amott, Alexander McKenzie. | Hyder, Man  | Canada  | St. Vital  | Mar. | 31, 1916. |
+| 2 | 517 | 1642 | 3714 | 1675 | 1018715 | Private.. | Arstall, Harry  | Imp. Forces  | Arstall, Mrs. Ann  | 196 Slater St., Latchford, Warrington, Lancs., Eng.. | England... | Saskatoon  | Mar. | 14, 1917. |
+| 2 | 517 | 1670 | 3715 | 1703 | 1018688 | Private.. | Badger, Jacob  | Nil  | Badger, Mrs. Alice  | Carlton Agency, Leask, Sask  | Canada  | Leask  | Feb. | 12, 1917. |
+| 2 | 516 | 1699 | 3714 | 1733 | 1018583 | Private.. | Badgley, James Henry  | Can. Mil  | Badgley, Mrs. J. H   | St. Walburg, Sask  | Canada  | N. Battleford... | July | 11, 1916. |
+| 2 | 516 | 1728 | 3715 | 1761 | 1018361 | Private.. | Bagg, William Herbert  | Nil  | Bagg, William  | 1355 Clarke St., Montreal, P.Q  | Canada  | N. Battleford... | May | 23, 1916. |
+| 2 | 516 | 1757 | 3715 | 1790 | 1018475 | Private.. | Bailey, William Garrett  | 29 th Horse  | BaUey, James H  | Beadle, Sask  | England... | Kindersley  | June | 19. 1916. |
+| 2 | 516 | 1786 | 3715 | 1819 | 1018555 | Private... | Baker, Harold Charles  | NU  | Baker, Charles  | Wigginton, Tring, Herts., Eng  | England... | Fielding  | Juue | 16, 1916. |
+| 2 | 528 | 1815 | 3716 | 1847 | 887848 | Private... | Ballendine, Donald  | NU  | BaUendine, Adam  | Battleford, Sask  | Canada  | Battleford  | Mar. | 6, 1916. |
+| 2 | 527 | 1843 | 3716 | 1877 | 887003 | Private... | Ballendine, Henry  | 22nd Horse  | Ballendine, Adam  | Battleford, Sask  | Canada  | Battleford  | Dec. | 6, 1915. |
+| 2 | 526 | 1872 | 3716 | 1905 | 887801 | Private... | Ballendine, James  | 22nd Horae  | Ballendine, Adam  | Battleford, Sask  | Canada  | Battleford  | Dec. | 6, 1915. |
+| 2 | 515 | 1901 | 3716 | 1934 | 1018412 | Private... | Bamford, John James  | Territorials  | Bamford, Henry  | Maidstone, Sask  | England... | N. Battleford... | May | 22, 1916. |
+| 2 | 515 | 1930 | 3716 | 1962 | 1018637 | Private... | Bannuk, Nicholas  | Nil  | Barbenuk, John  | Moose Jaw, Sask  | Roumania. | Regina  | July | 31, 1916. |
+| 2 | 526 | 1959 | 3717 | 1992 | 887804 | Private... | Baptiste, Edward Jean  | NU  | Baptiste, Louise Jean  | Delmas, Sask  | Canada  | Battleford  | Jan. | 12, 1916. |
+| 2 | 514 | 1988 | 3717 | 2022 | 1018456 | Corporal. | Barrowclough, William Henry. | 42nd Regt  | Barrowclough, Mrs, B  | Langham, Sask  | Canada  | N. Battleford... | May | 27, 1916. |
+| 2 | 514 | 2016 | 3717 | 2050 | 1018318 | Private... | Battensby, John  | Nil  | Battensby, Robert  | North Battleford, Sask  | England... | N. Battleford... | May | 26, 1916. |
+| 2 | 514 | 2047 | 3717 | 2079 | 1018569 | Private... | Beaton, Reuben  | NU  | Beaton, John  | Herschel, Sask  | U.S.A  | Rosetown  | June | 24, 1916. |
+| 2 | 513 | 2075 | 3717 | 2108 | 1018663 | Private... | Beatty, Walter Abraham  | NU  | Beatty, Edward  | Green Lake, Sask  | Canada  | Camp Hughes.. | Sept. | 14, 1916. |
+| 2 | 525 | 2104 | 3717 | 2137 | 887805 | Private... | Belanger, Joseph  | NU  | Belanger, Bernard  | Lac la Biche, Sask  | Canada  | Battleford  | Jan. | 19, 1916. |
+| 3 | 1539 | 388 | 3783 | 423 |  | Nil  | Anderson, John  | Cornshire, Fredericksal, Norway  | Norway  | N. Battleford. | . [June 23, |
+| 3 | 666 | 417 | 3783 | 447 | 1018681 Private  | Nil  | Bergeron, Charles  | St. Paul-de-Metis, Alta  | Canada  | Saskatoon  | Jan. 19, |
+| 3 | 1540 | 445 | 3783 | 476 |  | Nil  | Besdudeny, Nicholas  | Rabbit Lake, Sask  | Russia  | Battleford  | . April 4, |
+| 3 | 1538 | 476 | 3783 | 505 |  | Nil  | Bickerdike, Harold  | 3 Ashfield Grove, Beeston Rd., Leeds, Eng  | England  | Artland  | June 29, |
+| 3 | 1539 | 505 | 3783 | 534 |  | Nil  | Birdsall, Richard  | Walton Gatehouse, Boston, Spa., Eng  | England  | Kerrobert.... | . May 19, |
+| 3 | 1868 | 534 | 3783 | 563 |  |  | Bladworth, Richard  | 17 Rillbank Terr., Edinburgh, Scot  | Scotland  | Yorkton  | Aug. 8, |
+| 3 | 659 | 562 | 3783 | 593 | 1018003 Co. Q.-M. Sgt... | Nil  | Bloomfield, Mrs. Edith Bond. | North Battleford, Sask  | England  | N. Battleford. | Mar. 22, |
+| 3 | 1538 | 592 | 3783 | 621 |  | Nil  | Bogart, James  | Van Etten, N. Y., U.S.A  | U.S.A  | N. Battleford. | , June 8, |
+| 3 | 1538 | 621 | 3783 | 651 |  | Nil  | Bohn, Mrs. Sarah  | Maymont, Sask  | Canada  | N. Battleford.. | May 27, |
+| 3 | 662 | 649 | 3782 | 680 | 1018111 Private  | Nil  | Booth, Mrs. Susana  | Alkborough, Lincs., Eng  | England  | N. Battleford.. | April 8, |
+| 3 | 1539 | 679 | 3783 | 707 |  | Nil  | Carr, Miss Mabel  | Turtleford, Sask  | Russia  | N. Battleford.. | April 1, |
+| 3 | 1538 | 708 | 3782 | 736 |  | Nil  | Bourassa, Louis  | Albertown, Sask    | Canada  | Saskatoon  | Mar. 27, |
+| 3 | 1538 | 737 | 3785 | 765 |  | Nil  | Bourgeault, Mrs. V  | Saskatoon, Sask  | U.S.A  | N. Battleford. | May 25, |
+| 3 | 1539 | 766 | 3783 | 794 |  | Nil  | Bowers, William  | Rabbit Lake, Sask  | U.S. A  | N. Battleford.. | Mar. 27, |
+| 3 | 1538 | 795 | 3782 | 824 |  | Nil  | Bowley, Edward  | 2 Swan Ave., High St., Hastings, Sussex, Eng  | England  | Yorkton  | July 7, |
+| 3 | 1538 | 824 | 3782 | 852 |  | Nil  | Boya, John  | Bear Lake, Sask  | Canada  | N. Battleford.. | Feb.- 26, |
+| 3 | 1537 | 853 | 3782 | 880 |  | Nil  | Boyd, James  | La Riviere, Man  | Canada  | Saskatoon  | Mar. 13, |
+| 3 | 1537 | 881 | 3782 | 910 |  | Nil  | Boyer, John  | Battleford, Sask  | Canada  | Battleford  | April 4, |
+| 3 | 1536 | 910 | 3783 | 939 |  | Nil  | Boyer, Mrs. Virginie  | Battleford, Sask  | Canada  | Battleford  | Dec. 15, |
+| 3 | 1536 | 939 | 3781 | 967 |  | Nil  | Boyer, John B,  | Battleford,. Sask  | Canada  | Battleford  | Feb. 10, |
+| 3 | 1536 | 968 | 3782 | 996 |  | Nil  | Brass, John  | Cochin, Sask  | Canada  | N. Battleford. | Mar. 9, |
+| 3 | 1536 | 996 | 3782 | 1025 |  | Nil :  | Brethour, Miss Ida  | Kirk ton, Ont  | Canada  | N. Battleford. | June 3, |
+| 3 | 660 | 1021 | 3782 | 1054 | 1018257 Private  | Nil  | Kxens, Joseph  | do Mr. A. E. Abbs, Rosetown, Sask  | Holland  | Rosetown  | May 10, |
+| 3 | 660 | 1052 | 3782 | 1084 | 1018495 Private  | Nil  | Bristow, Mrs. Maggie  | Harris, Sask  | England  | Saskatoon  | June 16, |
+| 3 | 660 | 1081 | 3782 | 1112 | 1018543 Private  | Nil  | Brown, Frederick William  | Manor Farm, Tiberham, Long Stratton, Norfolk, Eng. | England  | Lashbum  | . June 13, |
+| 3 | 659 | 1110 | 3782 | 1141 | 1018078 Private  | Nil  | Brown, William  | Stony Lake, Sask  | Scotland  | N. Battleford. | . April 4, |
+| 3 | 1534 | 1140 | 3783 | 1170 |  | Nil  | Brownhill, Mrs. Annie  | 112 Chapeltown Rd., Leeds, Eng  | England  | N. Battleford. | . April 3, |
+| 3 | 660 | 1168 | 3782 | 1199 | 1018596 Private  | Nil  | Browning, J. T  | Meota, Sask  | England  | Regina  | luly 3, |
+| 3 | 1533 | 1198 | 3783 | 1230 |  | Nil  | Bryson, Miss Emma  | 22 Telephone Rd., Southsea, Hants., Eng  | England  | Battleford  | . Mar. 30, |
+| 3 | 1532 | 1227 | 3783 | 1259 |  | Nil  | Buckley, Mrs. Eleanor  | Maidstone, Sask  | England  | Maidstone.... | . June 9, |
+| 3 | 657 | 1256 | 3783 | 1287 | 1018115 Regt. Segt.-Maj.. |  | Burgess, Mrs. Frances Ellen... | Rabbit Lake, Sask  | Scotland  | N. Battleford. | . April 10, |
+| 3 | 1531 | 1285 | 3783 | 1316 |  | Nil  | Buskoy, Mrs. La Rose  | Battleford, Sask  | Canada  | Battleford  | . April 3, |
+| 3 | 1532 | 1314 | 3783 | 1344 |  | Nil  | Callbeck, J. D  | Stowlea, Sask  | Canada  | N. Batt.eford. | . Dec. 20, |
+| 3 | 1531 | 1343 | 3782 | 1373 |  | Nil  | Calvert, Thomas  | Carnaugliss, Co. Antrim, Ire  | Ireland  | Lashburn  | May 26, |
+| 3 | 1531 | 1371 | 3782 | 1402 |  | Nil  | Cameron, John  | 724 Stella Ave., Winnipeg, Man  | Scotland  | Kerrobert  | May 29, |
+| 3 | 1531 | 1399 | 3782 | 1431 |  | Nil  | Cameron, Mrs. Mary  | Battleford, Sask ."  | Scotland  | Battleford  | . Mar. 30, |
+| 3 | 1530 | 1428 | 3782 | 1460 |  | Nil  | Cameron, Elspeth  | Balloulan, Pitlochry, Perth, Scot  | Scotland  | Kerrobert  | June 2, |
+| 3 | 1530 | 1457 | 3782 | 1488 |  | Nil  | Carr, Walter  | Turtleford, Sask  | England  | N. Battleford. | April 1, |
+| 3 | 1530 | 1486 | 3780 | 1516 |  | Nil  | Carriss, Edward  | Turtleford, Sask  | Canada  | N. Battleford. | Mar. 22, |
+| 3 | 1860 | 1515 | 3780 | 1546 |  |  | Castle, Thomas  | Woodburn Green, Bucks., Eng  | England  | Rosetown  | April 24, |
+| 3 | 1529 | 1544 | 3781 | 1574 |  | Nil  | Cathro, Mrs. William  | Gen. Del., Moose Jaw, Sask  | Scotland  | Battleford  | Mar. 30, |
+| 3 | 1529 | 1573 | 3781 | 1603 |  | Nil  | Challoner, Mrs. Elizabeth  | Grand View, Man  | Canada  | N. Battleford. | . April 4, |
+| 3 | 1020 | 1601 | 3783 | 1632 |  | Nil  | Charlton, Edward  | Holmfield, Man  | England  | Wilkie  | June 14, |
+| 3 | 1527 | 1630 | 3782 | 1661 |  | Nil  | Cheetham, Mrs..Bessie  | Mullingar, Sask  | England  | N. Battleford. | . July 18, |
+| 3 | 1528 | 1659 | 3780 | 1689 |  | Nil.  | Cheyne, John  | Patchgrove, Sask  | Scotland  | N. Battleford. | . April 26, |
+| 3 | 1527 | 1688 | 3781 | 1718 |  | Nil  | Cheyne, John  | Patchgrove, Sask  | Scotland  | N. Battleford. | . July 1, |
+| 3 | 1858 | 1716 | 3781 | 1747 |  |  | Thompson. Mrs  | 35 St. Michael's Hill, Bristol, Eng  | England  | Rosetown  | May 6, |
+| 3 | 1527 | 1745 | 3780 | 1776 |  | Nil  | Clark, Charles  | North Battleford, Sask    | England  | N. Battleford. | . May 1, |
+| 3 | 1526 | 1775 | 3781 | 1804 |  | Nil  | Norrie, Mrs. Maggie  | Erin, Ont   | Canada  | Kindersley  | . May 13, |
+| 3 | 1859 | 1803 | 3781 | 1834 |  |  | Clarke, Mrs..Louisa  | Battleford, Sask  | England  | Battleford  | . Mar. 29, |
+| 3 | 1527 | 1831 | 3782 | 1862 |  | Nil  | Clifford, Mrs. Adda Myrtle.... | Tramping Lake, Sask  | U.S.A  | Kerrobert.... | . May 17, |
+| 3 | 1527 | 1861 | 3782 | 1891 |  | Nil  | Cochet, Marin  | St. Veronique-de-Turgeon, P.Q  | North Africa.. | Saskatoon  | . Mar. 26, |
+| 3 | 650 | 1888 | 3782 | 1919 | 1018118 Co. Sgt.-Major... |  | Cockburn, Mrs. Edith  | Patchgrove, Sask  | Scotland  | N. Battleford. | . April 10, |
+| 3 | 1527 | 1915 | 3782 | 1950 |  | Nil  | Willows, Elizabeth  | South Rd., Huddersfield, Yorks, .Eng  | England  | N. Battleford. | . July 8, |
+| 3 | 1859 | 1948 | 3787 | 1979 |  |  | Broad, Mrs. S. S  | 25 Craven Terr., Lancaster Gate, London, Eng  | England  | Battleford  | . April 10, |
+| 3 | 1528 | 1976 | 3782 | 2004 |  | Nil  | Atkinson, Mrs. James  | Shamrock Valley, Alta  | Canada  | Battleford.... | Mar. 31, |
+| 3 | 1528 | 2004 | 3783 | 2033 |  | Nil  | Conan, Mrs. A  | Blaine Lake, Sask   | France  | N. Battleford. | . July 13, |
+| 3 | 1528 | 2034 | 3782 | 2065 |  | Nil  | Constable, Henry George  | 29 Theodore, Rd., Lewisham, London, Eng  | England  | Rosetown.... | . May 11, |
+| 3 | 650 | 2058 | 3782 | 2091 | 1018656 Private  | Nil  | Cook, Andrew   | Borszcow, Prov. Pobole, Russia  | Russia  | Melville  | . Aug. 25, |
+| 3 | 649 | 2088 | 3783 | 2123 | 1018178 Private  | Nil  | Coombs, Mrs. Eliza.  | Battleford, Sask  | England  | Battleford  | . April 20, |
+| 4 | 753 | 593 | 3251 | 626 |  |  |  | Former Corps. |  |  | Country of |
+| 4 | 556 | 735 | 3748 | 770 | 1018488 | Private. | Cootes, Edward   | NU  | Cootes, Mrs. E  | 27 Chichester Rd., Paddington, London, Eng  | England. | N Battleford... | June | 10.1916. |
+| 4 | 556 | 764 | 3748 | 800 | 101S101 | Private. | Cramer, Isaac  | NU  | Jacobs, A. E  | Paynton, Sask  | U.S.A... | N. Battleford.*. | April | 6, 1916. |
+| 4 | 556 | 793 | 3748 | 828 | 1018607 | Private. | Crawford, James Aimer. | 23rd Regt. | Glass, Mrs. James  | Melford Bay, Ont  | Canada.. | Kindersley  | June | 26, 1916. |
+| 4 | 555 | 822 | 3748 | 858 | 1018020 | Private.. | Crawford, John Irving... | NU  | Crawford, WUliam  | Rosetown, Sask  | U.S.A... | N. Battleford.. | Mar. | 27, 1916. |
+| 4 | 555 | 851 | 3748 | 888 | 1018195 | Private.. | Crethers, Dewey  | NU  | Crethers, Joseph H  | Meota, Sask  | U.S.A... | N. Battleford.. | April | 26, 1916. |
+| 4 | 555 | 880 | 3749 | 915 | 1018659 | Private.. | Crick, John  | NU  | Crick, Mrs. E. C  | 8 Avington, Ave. Northampton, Eng  | England. | Kerrobert  | July | 28, 1916. |
+| 4 | 555 | 909 | 3749 | 944 | 1018440 | Private.. | Crocker, William Fred... | 23rd Regt. | Minorgan, Mrs. Robert. | Sunridge, Ont  | Canada.. | Kindersley  | June | 8, 1916. |
+| 4 | 554 | 937 | 3749 | 974 | 1018552 | Private.. | Crossley, Harold  | NU  | Crossley, Harry  | 5 Coronation Rd., Elland, Yorks., Eng  | England. | N. Battleford.. | June | 29, 1916. |
+| 4 | 553 | 966 | 3749 | 1002 | 1018230 | Private.. | Crowter, George  | NU  | Crowter, WUliam J  | 38 Harpenden Rd., Tulse HU1, London, Eng  | England. | N. Battleford.. | May | 2, 1916. |
+| 4 | 553 | 994 | 3749 | 1031 | 1018018 | Private.. | Curry, Cyril Reginald... | NU  | Curry, John WUliam  | North Battleford, Sask  | Canada.. | N. Battleford.. | Mar. | 27, 1917. |
+| 4 | 553 | 1024 | 3749 | 1059 | 1018503 | Private.. | Curry, John Howard.... | Nil  | Curry, Mrs. J. F.  | BainsvUle, Ont     | Canada.. | N. Battleford.. | June | 22, 1916. |
+| 4 | 553 | 1056 | 2983 | 1088 | 1018172 | Private.. | Dakin, Alfred Edward... | NU  | Dakin, Mrs. Ellen  | Peabody Cottage, 110 Rosendale, Rd. Herne Hill, |
+| 4 | 2316 | 1081 | 3750 | 1116 |  |  |  |  |  | London, Eng  | England. | N. Battleford... | April | 18, 1916. |
+| 4 | 553 | 1110 | 3750 | 1145 | 1018466 | L.-Corporal. | Dalzell, Reginald Howard.. | Nil  | Dalzell, Mrs. Isabelle Grace. | Grand View, Man  | Canada.. | N. Battleford... | June | 2, 1916. |
+| 4 | 553 | 1139 | 3750 | 1174 | 1018514 | Private  | Daniel, Norbert  | Nil  | Daniel, Mrs. Elone  | Snake Plain Reserve, Sask  | Canada.. | N. Battleford... | June | 22, 1916. |
+| 4 | 552 | 1167 | 3751 | 1204 | 1018307 | Private  | Daniels, Frederick Charles. | NU  | Daniels, Mrs. Mary  | Ruddell, Sask  | England. | N. Battleford... | May | 22, 1916. |
+| 4 | 564 | 1196 | 3751 | 1231 | 887810 | Private  | Dare, Leonard George  | Nil  | Dare, Robert  | Lizard Lake, Sask  | England. | Battleford  | Jan. | 13, 1916. |
+| 4 | 552 | 1225 | 3751 | 1260 | 1016312 | Private  | Davies, Charles  | NU  | Davies, Mrs. T  | St. Paul’s Rd., Islington, London, Eng  | Wales  | Maidstone  | May | 1, 1916. |
+| 4 | 552 | 1254 | 3750 | 1289 | 1018566 | Private  | Davies, Edward Clement... | Imp. Forces. | Davies, Mrs. Susana  | 173 Hither Green, Lewisham, London, Eng  | England. | Wilkie  | July | 1, 1916. |
+| 4 | 551 | 1283 | 3748 | 1317 | 1018163 | Corporal.... | Davies, George Thomas.... | NU  | Davies, Mrs. M  | 54 Thorn Hill Rd., Leyton, Essex, Eng  | England. | Battleford  | April | 15. 1916. |
+| 4 | 550 | 1311 | 3750 | 1346 | 1018313 | Private  | Davies, Thomas Emlyn   | Territorials.. | Davies, David  | Morriston, Glam., Wales  | Wales... | Rosetown  | May | 18, 1916. |
+| 4 | 550 | 1340 | 3749 | 1376 | 1018708 | Private  | Davies, Viet- Augustus G... | U.S. Navy.. | Davies, Mrs. NeUie  | Uxbridge, M’sex., Eng  | Wales... | Saskatoon.  | Feb. | 27, 1917. |
+| 4 | 550 | 1369 | 3748 | 1403 | 1018570 | Private  | Davis, George Herbert  | NU  | Davis, C. E  | Rosetown, Sask  | England. | Rosetown  | June | 28, 1916. |
+| 4 | 549 | 1397 | 3748 | 1432 | 1018395 | Private  | Davis, Harry N. C  | 29th Horse.. | Davis, Henry  | Rosetown, Sask  | England. | Rosetown  | June | 2, 1916. |
+| 4 | 549 | 1426 | 3748 | 1461 | 1018056 | Corporal.... | Dean, William  | S. A  | Dean, Mrs. Alice  | North Battleford, Sask  | England. | N. Battleford... | April | 1, 1916. |
+| 4 | 549 | 1454 | 3749 | 1490 | 1018043 | Private  | De Gear, Andy  | NU  | De Gear, Mrs. Eno  | Battleford, Sask  | Canada.. | Battleford  | Mar. | 30, 1916. |
+| 4 | 562 | 1484 | 3748 | 1519 | 887812 | Private  | Deguerre, John  | NU  | Eno, Mrs. Margaret  | Battleford, Sask  -  | Canada.. | Battleford  | Feb. | 19, 1916. |
+| 4 | 562 | 1512 | 3748 | 1547 | 887852 | Private  | Deguire, Joseph Damase  | 22nd Horse.. | Eno, Mrs. J  | Battleford, Sask  | Canada.. | Battleford  | Mar. | 11, 1916. |
+| 4 | 561 | 1541 | 3747 | 1576 | 887829 | Private  | de la Ronde, Louis  | 22nd Horse.. | Arcand, Margaret Mary  | Mistawasis, Sask  | Canada.. | Battleford  | Dec. | 11, 1915. |
+| 4 | 549 | 1569 | 3751 | 1605 | 1018222 | Private  | Desbiens, Charles  | NU  | Labalge, Mrs. Mina  | Chicoutimi, P.Q  | Canada.. | N. Battleford... | April | 17, 1916. |
+| 4 | 561 | 1597 | 3751 | 1634 | 887811 | Private  | Deschamps, Edward  | NU  | Deschamps, Campbell  | Edmonton, Alta  | U.S.A... | Battleford  | Dec. | 14, 1915. |
+| 4 | 549 | 1625 | 3752 | 1662 | 1018004 | Private  | Desmarais, Sydney  | NU  | Desmarais, Charles Thomas. | Paynton, Sask  | Canada.. | N. Battleford... | Mar. | 22, 1916. |
+| 4 | 549 | 1653 | 3753 | 1691 | 1018045 | Corporal.... | Dickson, Eugene Frank  | NU  | Colvin, Mrs. Jack  | Nelson, B. C   | Canada.. | Battleford  | Mar. | 30, 1916. |
+| 4 | 549 | 1681 | 3753 | 1719 | 1018039 | Corporal. . .. | Dobie, Miller  | NU  | Dobie, Mrs. Jane A  | Paynton, Sask  | U.S.A... | N. Battleford... | .Mar. | 30, 1916. |
+| 4 | 561 | 1710 | 3753 | 1748 | 887813 | Private  | Doby, William  | NU  | Braddock, Mrs. Annie  | Lamont, Alta    | Canada.. | Battleford  | Dec. | 9, 1915. |
+| 4 | 549 | 1739 | 3753 | 1778 | 1018231 | Private  | Doherty, James  | 22nd Horse.. | McLean, Sarah C  | North Battleford, Sask  | Canada.. | N. Battleford.. | May | 2, 1916. |
+| 4 | 549 | 1767 | 3752 | 1806 | 1018091 | Private  | Douglas, John  | NU  | Douglas, James  | Nettlingflatt, Heriot, Midlothian, Scot  | Scotland | N. Battleford... | April | 4, 1916. |
+| 4 | 548 | 1796 | 3753 | 1842 | 1018358 | Private  | Douville, Charles George  | NU  | Douville, Stephen..;  | Melville, Sask  | Canada.. | Rosetown. .. | May | 27, 1916. |
+| 4 | 548 | 1825 | 3753 | 1864 | 1018709 | Private  | Dreaver, Harry  | Nil  | Dreaver, Mrs. Maggie  | Big River, Sask  | Canada. | Leask  | Mar. | 6, 1917. |
+| 4 | 548 | 1853 | 3754 | 1892 | 1018689 | Private  | Dreaver, Thomas  | NU  | Dreaver, Mrs. Eliza  | Mistawasis, Sask  | Canada.. | Leask  | Feb. | 1, 1917. |
+| 4 | 549 | 1882 | 3754 | 1921 | 1018677 | Private  | Dreaver, William Frederick. | NU  | Dreaver, Mrs. W. F  | Carlton Agency, Leask, Sask  | Canada.. | N. Battleford... | Jan. | 4, 1917. |
+| 4 | 549 | 1911 | 3754 | 1949 | 1018374 | Private  | Ducharme, Douglas  | NU  | Ducharme, WUliam  | Meadow Lake, Sask  | Canada.. | N. Battleford. | June | 3, 1916. |
+| 4 | 549 | 1940 | 3754 | 1979 | 1018525 | Private  | Dunbar, George  | NU  | Dunbar, Joseph  | Drumgreen, Forfar, Scot  | Scotland | N. Battleford... | June | 24, 1916. |
+| 4 | 549 | 1969 | 3754 | 2008 | 1018642 | Private  | Dunlop, Harry  | NU  | Dunlop, Alexander  | Harris, Sask  | U.S.A... | Rosetown... | Aug. | 1.1916. |
+| 4 | 548 | 1997 | 3754 | 2036 | 1019527 | Private  | Durance, George Henry  | Nil  | Durance, Arthur  | Forest Hall, Sask  | England. | N. Battleford... | June | 27, 1916. |
+| 4 | 548 | 2026 | 3754 | 2064 | 1018332 | Private  | Durance, Sydney  | NU  | Durance, J. A  | Forest Hall, Sask  | England. | N. Battleford... | May | 27, 1916. |
+| 4 | 548 | 2055 | 3756 | 2093 | 1018375 | Private  | Dutton, Frank  | Nil  | Dutton, Mrs. Ada .  | 102 Wright St., Small Heath, Birmingham, Eng... | England. | N. Battleford.. | June | 4, 1916. |
+| 4 | 548 | 2084 | 3755 | 2122 | 1018105 | Private  | Dyson, John William  | NU  | Dyson, Mrs. Florence  | Battleford, Sask  | England. | Battleford  | April | 6, 1916. |
+| 4 | 547 | 2113 | 3757 | 2152 | 1018070 | Private  | Elliott, James Harvey  | Nil  | Elliott, Stephen  | Two Rivers, Wis., U.S.A  | U.S.A... | N. Battleford... | April | 3, 1916. |
+| 5 | 654 | 377 | 3826 | 414 | 887814 | Private  | Nil  | Ellis, Mrs. Sarah Ann  | Newelsford, Bovey Tracey, Devon, Eng  | England.. | Battleford  | Feb. 4, 1916. |
+| 5 | 642 | 406 | 3827 | 443 | 1018015 | Private  | Nil  | Ellis, William  | High worth, Sask  | Canada  | N. Battleford.. | Mar. 25, 1916. |
+| 5 | 641 | 435 | 3827 | 473 | 1018394 | Private  | Nil  | Emslie, John  | Brooks Stn., Alta  | Scotland.. | Kindersley  | June 1, 1916. |
+| 5 | 641 | 464 | 3827 | 503 | 1018606 | L.-Corporal  | Nil  | Fenner, Henry.   | Tring, Herts., Eng  | England... | N. Battleford.. | July 18, 1916. |
+| 5 | 641 | 493 | 3827 | 532 | 1018029 | Sergeant  | S.A  | Fisher, Mrs. Nellita  | Prince George, B.C  | England... | Battleford  | Mar. 28, 1916. |
+| 5 | 641 | 523 | 3828 | 561 | 1018005 | Sergeant  | Nil  | Fisher, Eleanor  | 74 Rathcoole Gdns., Crouch End, London, Engl... | England... | N.Battleford.. | Mar. 23, 1916. |
+| 5 | 654 | 551 | 3829 | 590 | 887816 | Private  |  | Flamand, Peter  | Battleford, Sask  | Canada  | Battleford  | Feb. 2, 1916. |
+| 5 | 654 | 580 | 3829 | 617 | 887815 | Private  | Nil  | Flamand, Mrs. Adeline  | Battlefore, Sask  | Canada  | Battleford  | Dec. 24, 1915. |
+| 5 | 3136 | 609 | 3829 | 638 |  |  |  |  |  | Canada  | Wilkie  | May 26, 1916. |
+| 5 | 640 | 618 | 3076 | 647 | 1018338 | Private  | Nil  | Foster, James  | Lanark, Ont  |
+| 5 | 640 | 638 | 3830 | 675 | 1018368 | Private  |  | Fraser, Donald  | Macklin, Sask  | Canada  | Kerrobert  | May 19, 1916. |
+| 5 | 3138 | 668 | 3830 | 699 |  |  |  |  |  | Germany.. | N. Battleford.. | April 5, 1916. |
+| 5 | 641 | 675 | 3076 | 704 | 1018077 | Private  | Nil  | Frericks, Mrs. Meta  | North Battleford, Sask  |
+| 5 | 641 | 697 | 3830 | 733 | 1018424 | Prviate  | Nil  | Furness, Alfred  | Harrow, M'Sex., Eng  | England... | Wilkie  | June 5, 1916. |
+| 5 | 641 | 726 | 3830 | 762 | 1018215 | Private  | Nil  | Gall, Mrs. Helen   | Longside, Aberdeen, Scotland  | Scotland.. | Maidstone  | May 11, 1916. |
+| 5 | 654 | 755 | 3831 | 791 | 887817 | Private  |  | Gardiner, Mrs. Mary  | Battleford, Sask  | Canada.... | Battleford  | Dec. 11, 1915. |
+| 5 | 654 | 783 | 3831 | 819 | 887818 | Private  |  | Gardiner, Mrs. Eliza  | Battleford, Sask  | Canada.... | Battleford  | Dee. 6, 1915. |
+| 5 | 641 | 813 | 3831 | 849 | 1018727 | Private  |  | Garrett, Mrs. Agnes  | Traynor, Sask  | England... | Saskatoon  | Mar. 19, 1917. |
+| 5 | 641 | 842 | 3831 | 878 | 1018478 | Private  | Nil  | Gatward, Mrs. Elizabeth  | Hallgarth, Sask  | England... | N. Battleford.. | June 6, 1916. |
+| 5 | 640 | 871 | 3831 | 907 | 1018595 | Private  | Nil  | Gibbs, Edward  | 46 Layard Rd„ Bermondsey, London, S.E., Eng... | England... | Rosetown  | June 26, 1916. |
+| 5 | 640 | 900 | 3831 | 935 | 1018241 | Private  |  | Gibeault, Easube  | Cut Knife, Sask  | Canada.... | Battleford  | May 6, 1910. |
+| 5 | 640 | 930 | 3831 | 965 | 1018185 | Private  |  | Gibson, Mrs. Mary  | Battleford, Sask  | U.S.A  | Battleford  | April 22, 1916. |
+| 5 | 640 | 958 | 3831 | 994 | 1018574 | Private  | Nil  | Gibson, May  | Douglas, Man  | Canada— | Melville  | July 1, 1916. |
+| 5 | 640 | 988 | 3831 | 1022 | 1018463 | Private  | Nil  | Giles, Mrs. Ruth  | Macdowall, Sask  | Canada  | N. Battleford.. | June 4, 1916. |
+| 5 | 640 | 1017 | 3829 | 1051 | 1018674 | Private  | Nil  | Gilhooly, Mrs. Lizzie Paisley  | Waldron, Sask  | Ireland  | Waldron  | Dec. 19, 1916. |
+| 5 | 640 | 1045 | 3832 | 1080 | 1018683 | Private  | Nil  | Gleave, Josiah  | O’Malley, Sask  | England... | Saskatoon  | Jan. 24, 1917. |
+| 5 | 639 | 1075 | 3832 | 1110 | 1018474 | Private  | Nil  | Godkin, J. A   | Kindersley, Sask  | Canada  | Kindersley  | June 19, 1916. |
+| 5 | 640 | 1104 | 3833 | 1138 | 1018720 | Private  |  | Gonyea, Mrs. Marcella  | Mullingar, Sask  | Canada  | Saskatoon  | Mar. 14, 1917. |
+| 5 | 640 | 1133 | 3833 | 1166 | 1018253 | Co. Q.-M. Sergt.. | Nil  | Goodall, Mrs. Jennie Mabel  | Zealandia, Sask  | Canada  | Rosetown  | May 8, 1916. |
+| 5 | 640 | 1162 | 3833 | 1195 | 1018236 | Co. Sergt.-Major |  | Gordon, Mrs. Margaret  | Mervin, Sask  | Scotland... | N. Battleford.. | . May 4, 1916. |
+| 5 | 640 | 1191 | 3834 | 1223 | 1018728 | Private  | Nil  | Grant, James William  | Dinsmore. Sask  | Canada  | Saskatoon  | Mar. 20, 1917. |
+| 5 | 640 | 1220 | 3834 | 1252 | 1018441 | Private  | Nil  | Gray, Alfred  | Denzil, Sask. | England... | Kerrobert  | . June 6, 1916. |
+| 5 | 640 | 1249 | 3835 | 1283 | 1018321 | Private  | Nil  | Green, Joshua  | Fielding, Sask  | Canada  | N. Battleford.. | . May 29, 1916. |
+| 5 | 640 | 1279 | 3836 | 1312 | 1018048 | Private  | Nil  | Green, Joseph James  | Hatherleigh, Sask  | England... | N. Battleford.. | . Mar. 31, 1916. |
+| 5 | 640 | 1308 | 3836 | 1340 | 1018348 | Private  | Nil  | Greening. Mrs. Denis  | Edam, Sask  | England... | N. Battleford.. | . June 2, 1916. |
+| 5 | 640 | 1336 | 3837 | 1370 | 1018651 | Private  |  | Greenwood, H  | 22 Trilby Rd., London, Eng  | England... | Saskatoon  | July 10, 1916. |
+| 5 | 639 | 1365 | 3836 | 1399 | 1018204 | Private  | Nil  | Grosett, John  | Christiana, Norway „  | Norway... | N. Battleford.. | . April 29, 1916. |
+| 5 | 639 | 1394 | 3837 | 1427 | 1018317 | Private  |  | Guichon, Agnes  | St. Boniface, Man  | Canada  | Battleford  | . May 24, 1916. |
+| 5 | 651 | 1423 | 3838 | 1456 | 887819 | Private  | Nil  | Hale, Mrs. Margaret Alexina.... | Battleford, Sask  | England.. | Battleford  | . Jan. 24, 1916. |
+| 5 | 639 | 1452 | 3838 | 1484 | 1018202 | Private  | Nil  | Hampson, James Henry  | Meadow Lake, Sask  | England.. | N. Battlfford. | April 27, 1916. |
+| 5 | 638 | 1481 | 3839 | 1512 | 1018237 | Private  | Nil  | Hare, A. E  | Rosetown, Sask  | Canada... | Rosetown  | . May 3, 1916. |
+| 5 | 639 | 1510 | 3839 | 1543 | 1018225 | Sergeant  | Nil  | Harrison. R.N.R., Com. James. | H.M.S., G.18. c/o G.P.O., London, Eng. | Scotland.. | N. Battleford. | . April 20, 1916. |
+| 5 | 639 | 1539 | 3839 | 1572 | 1018007 | Sergeant  | Nil  | Hayward, Mrs. Ruby Frances.. | North Battleford, Sask  | Canada... | Battleford  | . Mar. 23, 1916. |
+| 5 | 638 | 1568 | 3839 | 1599 | 1018062 | Private  |  | Hearn, Mrs. Annie  | Meota, Sask  | England.. | N. Battleford.. | . April 1, 1916. |
+| 5 | 638 | 1597 | 3840 | 1628 | 1018560 | Private  |  | Henderson, John  | Walkerton, Ont  | Canada... | Battleford  | . July 5, 1916. |
+| 5 | 638 | 1626 | 3840 | 1659 | 1018134 | Private  | Nil  | Hickman, Charles  | Grendon, Northants, Eng  | England. | N. Battleford. | . April 11, 1916. |
+| 5 | 637 | 1656 | 3840 | 1687 | 1018010 | L.-Corporal  | Nil  | Hicks, C. E  | North Battleford, Sask  | England.. | N. Battleford.. | . Mar. 24, 1916. |
+| 5 | 650 | 1685 | 3841 | 1714 | 887849 | Private  | Nil  | Hickson, Mrs. C. J   | Battleford, Sask  | Canada... | Battleford  | . MaT. 8, 1916. |
+| 5 | 637 | 1714 | 3841 | 1745 | 1018069 | Corporal  | Nil  | Hickson, Mrs. Catherine  | Battleford, Sask  | Canada... | Battleford  | . April 1, 1916. |
+| 5 | 637 | 1743 | 3841 | 1773 | 1018032 | Private  | Nil  | Hodge, Grace  | Peterboro’, Ont  | England.. | Battleford  | . Mar. 28, 1916. |
+| 5 | 637 | 1771 | 3841 | 1804 | 1018694 | Private  | Nil  | Hodson, Mrs. Lucy Hanna  | P.O. Box 442, Portage-la-Prairie, Man... | Canada... | N. Battleford. | . Feb. 24, 1917. |
+| 5 | 637 | 1801 | 3841 | 1831 | 1018472 | Corporal  |  | Holt, Mrs. Elizabeth Jane  | Alingly. Sask  | Canada... | N. Battleford. | . June 5, 1916. |
+| 5 | 637 | 1830 | 3842 | 1860 | 1018399 | Private  | Nil  | Holtby, J. W. H  | Zealandia, Sask  | Canada... | Rosetown  | . June 3, 1916. |
+| 5 | 636 | 1859 | 3842 | 1888 | 1018027 | Private  | Nil  | Homer, Mrs. Helen  | North Battleford, Sask  | Canada... | N. Battleford. | . Mar. 28, 1916. |
+| 5 | 635 | 1887 | 3842 | 1918 | 1018103 | Private  | Nil  | Hoobyar, Mrs. Anna  | North Battleford, Sask  | Persia.... | N. Battleford. | . April 7, 1916. |
+| 5 | 635 | 1917 | 3842 | 1946 | 1018093 | Private  | Nil  | Hoskins, Mrs. Frances  | North Battleford, Sask  | Wales  | N. Battleford. | . April 4, 1916. |
+| 5 | 634 | 1946 | 3843 | 1976 | 1018433 | Private  | Nil  | Hudson, George  | Melrose, Minn., U.S.A  | U.S.A.... | N. Battleford. | .. June 12, 1916. |
+| 5 | 635 | 1975 | 3843 | 2005 | 1018532 | Private  | Nil  | Humphrey. George  | Cambray, Ont  | Canada... | Kerrobert.  | . June 24, 1916. |
+| 5 | 635 | 2004 | 3843 | 2033 | 1018434 | Private  | Nil  | Hunter, William  | Tessier, Sask  | Scotland.. | Rosetown | . June 3,1916. |
+| 5 | 634 | 2032 | 3843 | 2063 | 1818057 | L.-Corporal  | Nil  | Hunter, Mrs. Bessie  | Gladstone, Ont  | Canada... | N. Battleford. | .. April 1,1916. |
+| 5 | 633 | 2062 | 3843 | 2093 | 1018199 | Private  | Nil  | Husselby, Mrs. Hannah  | 611 Rochdale Rd., Manchester, Eng  | England. . | Rosetown.... | . April 22, 1916. |
+| 5 | 633 | 2091 | 3843 | 2122 | 1018544 | Private  | Nil  | Isbister, Mrs. Mary Jane  | Mont Nebo, Sask  | Canada... | N. Battleford | . June 28, 1916. |
+| 6 | 742 | 558 | 3249 | 591 |  |  | Former Corps. |  |  | Country of |
+| 6 | 562 | 701 | 3748 | 735 | 887823 | Private  | Jackson, George Jabei  | Nil  | Jackson, Mrs. Sarah  | 80 Dodds St., Darlington, Durham, Eng  | England. | Battleford. | Jan. | 15,1916. |
+| 6 | 562 | 730 | 3748 | 764 | 887822 | Private  | Jackson, Thomas  | Nil  | Jackson, Mrs. Sarah  | 80 Dodds St., Darlington, Durham, Eng  | Battleford. | Jan. | 15,1818. |
+| 6 | 549 | 758 | 3748 | 793 | 1018581 | Private  | Jackson. William Robert  | Nil  | Jackson, James  | Orion, Alta ,...   | U.S.A. | Rosetown. | June | 17,1316. |
+| 6 | 562 | 788 | 3747 | 821 | 887824 | Private  | Jefferson, Robert Chambers.. | 22nd Horse.. | Jefferson, Mrs. Isabel  | Battleford, Sask      | Canada  | Battleford. | Dec. | 15.1915. |
+| 6 | 549 | 816 | 3748 | 852 | 1018700 | Private  | Jimmy, David  | Nil  | Jimmy, Mrs. Marion  | ThunderchUd Reserve, Mervin, Sask  | Canada  | N. Battleford... | Mar. | 3, 1917. |
+| 6 | 549 | 845 | 3747 | 880 | 1018385 | Private  | Johnson, Austin Alexander.... | Nil  | Johnson, Swan  | 1319 F. Ave., Saskatoon, Sask  | Canada  | N. Battleford... | June | 1, 1916. |
+| 6 | 548 | 874 | 3748 | 909 | 1018354 | Private  | Johnson, Chrsitopher William. | Nil  | Johnson, Mrs. Isaball Madclens.. | Glenbusk, Sask    | England  | N. Battleford... | June | 1, 1916. |
+| 6 | 548 | 903 | 3748 | 937 | 1018423 | L.-Corporal... | Johnson, Eric Peter  | R.N.W.M.P. | Johnson, Elmie  | Mellon, Wis:, U.S.A  | Sweden  | Wilkie  | June | 5, 1916. |
+| 6 | 548 | 932 | 3748 | 966 | 1018300 | Private  | Johnson, Oscar Morris  | Nil  | Johnson, Mrs. Rosa Alberta P— | Zealandia, Sask    | U.S. A  | Rosetown  | May | 18, 1916. |
+| 6 | 548 | 961 | 3748 | 995 | 1018476 | Sergeant  | Johnston, William Wallace.... | Territorials.. | Johnston, Miss A. E  | 1 Palace Houses, Hyde Pk., London, Eng  | Philippine Is. | N. Battleford... | June | 21.1916. |
+| 6 | 548 | 990 | 3749 | 1023 | 1018143 | Private  | Johnstone, Thomas  | Territorials.. | Stewart, Mrs. Elizabeth  | Letham, Ladybank, Fife, Scot  | Scotland  | N. Battleford... | April | 11, 1916. |
+| 6 | 547 | 1019 | 3748 | 1053 | 1018483 | Private  | Jones, Clarence Wilfred  | 105th Regt.. | Jones, Thomas Seaton  | Dominion Land Office, Saskatoon, Sask  | Canada  | Yorkton  | June | 12, 1916, |
+| 6 | 547 | 1048 | 3748 | 1083 | 1018500 | Private  | Jones, Ernest Robinson  | Nil  | Jones, George  | Midland, Ont   | Canada  | Kindersley  | June | 17, 1916. |
+| 6 | 547 | 1077 | 3748 | 1111 | 1018040 | Private  | Jones, Harry  | NU  | Jones, William  | North Battleford, Sask   | Wales  | N. Battleford... | Mar. | 30, 1916. |
+| 6 | 546 | 1106 | 3748 | 1139 | 1018364 | Private  | Jones, Hilliard Kenneth  | Nil  | Jones, Hilliard  | Zelandia, Sask   | Canada  | ZeMandia  | May | 29, 1916. |
+| 6 | 546 | 1135 | 3749 | 1168 | 1018629 | Private  | Jones, John David  | NU  | Jones, Thomas Alban  | London House, Tregaron, Cardigan, Wales  | Wales  | Kerrobert  | July | 17, 1916. |
+| 6 | 546 | 1164 | 3749 | 1199 | 1018239 | Private  | Judd, Herbert  | Nil  | Judd, Stephen  | Manor Farm, Pitton, Salisbury, Wilts, Eng  | England  | Lloydminster... | April | 29, 1916. |
+| 6 | 545 | 1193 | 3748 | 1226 | 1018711 | Private  | Junkin, Robert  | Nil  | Junkin, Robert  | 19 Gladstone Ave., Ottawa, Ont  | Canada  | Saskatoon  | Feb. | 28, 1917. |
+| 6 | 545 | 1222 | 3748 | 1255 | 1018079 | Private  | Kaytonas, Taloikow  | NU  | Talozkow, Mattiaz  | Jubgsebekar, Russia  | Russia  | N. Battleford... | April | 4, 1916. |
+| 6 | 545 | 1251 | 3748 | 1284 | 1018439 | Private  | Keirstead, Ervine Don  | 8th Huss.... | Keirstead, L H  | Snider Mountain, King’s Co., N.B  | Canada.  | Kinderlsey. | June | 12, 1916. |
+| 6 | 545 | 1280 | 3748 | 1314 | 1018054 | Sergeant  | Kendall, Arthur  | Imp. Forces. | Kendall, Mrs. Mary Elizabeth... | North Battleford, Sask  | England  | N. Battleford... | Mar. | 25, 1916. |
+| 6 | 545 | 1309 | 3748 | 1342 | 1018392 | Pion.-Sergeant... | Kerr, Samuel Ernest  | NU  | Kerr, Mrs  | Maymont, Sask  | Canada  | N. Battleford... | June | 2, 1916. |
+| 6 | 544 | 1338 | 3748 | 1370 | 1018066 | Private  | Kerr, William Reuben  | NU  | Kerr. Mr. | Turtleford, Sask   | Canada  | N. Battleford... | April | 1, 1916. |
+| 6 | 545 | 1367 | 3748 | 1400 | 1018636 | Corporal  | Kierman, William Thomas  | NU  | Kierman, Henry  | Rathieven, Oldcastle, Co. Meath, Ire  | Ireland  | N. Battleford... | July | 25.1916. |
+| 6 | 544 | 1396 | 3748 | 1429 | 1018320 | Private  | Kinkade, John .  | NU  | Kinkade, Mrs. Sarah   | Kenmore, Ont   | Canada  | N. Battleford... | May | 29.1916. |
+| 6 | 544 | 1425 | 3748 | 1459 | 1018249 | Private  | Kostiuk, George  | NU  | Skrypa, Anna  | Sematiwka, Galicia    | Galicia  | N. Battleford... | May | 1.1916. |
+| 6 | 544 | 1454 | 3748 | 1486 | 1018428 | Private  | Krsno. Mike  | NU  | Krsno, Frank  | Lamont, Alta   | Canada  | N. Battleford... | June | 2.1916. |
+| 6 | 543 | 1483 | 3749 | 1517 | 1018142 | Sergeant  | Krug, Herbert  | NU  | Krag, Henry S  | Tavistock, Ont   | Canada  | N. Battleford... | April | 11.1916. |
+| 6 | 555 | 1512 | 3748 | 1544 | 887828 | Private  | Lahaie, Lionel  | Nil  | Lahaie. Mrs. MatUda  | Angers, P.Q  | Canada  | Battleford  | Feb. | 10.1916. |
+| 6 | 543 | 1540 | 3749 | 1574 | 1018410 | Private  | Lake, Edwin Aubrey  | Nil  | Lake, Thomas B ..  | North Battleford, Sask   | England  | N. Battleford... | June | 7.1916. |
+| 6 | 542 | 1569 | 3749 | 1602 | 1018813 | Private  | Lamb, William  | NU  | Lamb, John  | 8 Tuphall Rd.. Hamilton, Lanark, Scot  | Scotland  | N. Battleford... | June | 24.1916, |
+| 6 | 541 | 1598 | 3748 | 1630 | 1018707 | Private  | London. Malcolm Howard  | NU  | Landon, Mrs. M  | Athens, Ont.   | Canada  | Saskatoon  | Feb. | 28.1917. |
+| 6 | 540 | 1627 | 3749 | 1661 | 1018511 | Private  | Langsford, John  | NU  | Langsford. Thomas  | assiz, B.C...   | Canada  | N. Battleford... | June | 21,1916. |
+| 6 | 552 | 1656 | 3748 | 1689 | 887825 | Private  | Lavallie, Gabriel  | Nil  | Lavallie, Louis  | Billings, Mont., U.S.A  | Canada  | Battleford  | Dec. | 13.1915. |
+| 6 | 540 | 1685 | 3749 | 1719 | 1018196 | Private  | Lawrence, Charles Henry  | NU  | Lawrence, Mrs. Margaret Eliza R. | Turtleford. Sask  | Canada  | N. Battleford... | AprU | 26.1916. |
+| 6 | 539 | 1714 | 3749 | 1746 | 1018381 | Private  | Lawton, James Ernest  | NU  | Lawton, Harris  | Rabbit Lake, Sask  | England. ..... | N. Battleford... | June | 1.1916. |
+| 6 | 539 | 1743 | 3748 | 1776 | 1018373 | Private  | Layoock, John  | NU  | Laycock, Henry  | BattJeford, Sask   | Canada  | Battleford  | June | 2.1916. |
+| 6 | 550 | 1772 | 3748 | 1805 | 887826 | Private  | Layton, Matthew  | NU  | Layton, Robert William  | Battleford, Sask..........  | England  | Battleford  | Jan. | 4.1916. |
+| 6 | 538 | 1800 | 3750 | 1834 | 1018725 | Private  | Lea, Morington Otto  | NU  | Lea, Miss Winnie  | 136 Cooch St., Birmingham, Eng  | England  | N. Battleford... | Mar. | 31.1917. |
+| 6 | 537 | 1829 | 3750 | 1863 | 1018023 | Private  | Lecky, Thomas James  | NU  | Lecky, Thomas  | Hatherieigh, Sask      | England  | N. Battleford... | Mar. | 27.1916. |
+| 6 | 537 | 1859 | 3750 | 1892 | 1018452 | Private  | Leclaire, Samuel  | Nil  | Duffy. Mrs- Joseph  | 286 Front St., New Bedford, Mass., U.S.A  | Canada  | N. Battleford... | May | 27, 1916. |
+| 6 | 538 | 1887 | 3750 | 1920 | 1018704 | Private  | Ledoux, Isidore Richard  | NU  | Ledoux, Madeline  | Aldina, Sask     | Canada  | N. Battleford... | Mar. | 2.1917. |
+| 6 | 537 | 1916 | 3750 | 1950 | 1018722 | Private  | Lee, Martin  | 29 th Horse... | Lee, Henning  | Weldon, Sask    | Norway  | Saskatoon  | Mar. | 25.1917. |
+| 6 | 536 | 1946 | 3751 | 1978 | 1018409 | Private.   | Le Feuvre, Francis Pike  | Can. Mil  | Le Feuvre, Mrs. Ada  | Maidstone, Sask.    | England  | Maidstone  | May | 27.1916. |
+| 6 | 537 | 1975 | 3751 | 2009 | 1018872 | Private  | Leibel. Alix    | Nil  | Pulear. Mrs    | Maple Creek. Sask  | Russia  | Regina  | Dec. | 23.1918. |
+| 6 | 537 | 2003 | 3751 | 2037 | 1018678 | Private  | Lien, Engebret..  | Nil  | Lies, Hilda  | Olga, Minn., U.S.A....  | Norway  | N. Battleford... | Jan. | 1.1917. |
+| 6 | 537 | 2033 | 3751 | 2065 | 1018047 | Private  | Lins, Leo .  | Nil  | Harris, Mrs. Clara  | Denholm, Sask    | U.S.A.  | N. BattleCord... | April | 13, 1916. |
+| 6 | 537 | 2062 | 3751 | 2095 | 1018038 | Private  | Lonsdale. Walter  | Nil  | Lonsdale, Thomas  | Pointer’s Grove, Pilling, Lancs, Eng  | England  | N, Battleford... | Mfr | 29, 1916. |
+| 6 | 537 | 2092 | 3751 | 2125 | 101S688 | Private  | Loveday, Russell  | Nil  | Loveday, Mrs. Mildred  | AsMll, Norfolk, Eng  | England  | N. Battleford... | Nov. | 24.1916. |
+| 7 | 614 | 377 | 3811 | 406 | 1018388 | Private  | LuckweU, Allred  | NU  | LuckweU, Mrs. S  |  |  | Kerrobert  | 26, 1916. |
+| 7 | 613 | 406 | 3811 | 437 | 101808S | Private  |  | Nil  | Ludwig, Mis. Isabella  | Galt, Ont   |  | N. Battleford, .. | I 4, 1016. |
+| 7 | 613 | 436 | 3811 | 466 | 101821C | Private  |  | Nfl  | MacCuaig, M. D  |  |  |  | I 29, 1316. |
+| 7 | 613 | 465 | 3812 | 494 | 1018067 | Pay.-Sergeant... |  | Nfl  | Mac Donald, James  |  |  |  | I U 1916. |
+| 7 | 613 | 493 | 3812 | 523 | 101851S | Private  |  | Nil  | Machaa, James -  |  | (amaaa |  | 17, 1916. |
+| 7 | 612 | 522 | 3812 | 552 | 1018233 | Private.  |  | Nfl  | Mair, Andrew.    |  | Canada  | N. Battleford... | 1, 1916. |
+| 7 | 612 | 551 | 3812 | 582 | 1018279 | Private  |  |  | Mans, William  |  |  | N. Battleford... | Cashel. N.D., U.S.A  | Canada  | 16, 1916. |
+| 7 | 613 | 581 | 3813 | 610 | 1018685 | Private,  |  | Nil  | Marsh. William  |  |  | Bangor  | England  | 22, 1917. |
+| 7 | 612 | 609 | 3813 | 641 | 1018162 | L.-Sergeant  |  |  | Marshall, Mrs. Gladys E. ... |  |  | Battleford  | EagUu*i  | I 15. 1916. |
+| 7 | 611 | 638 | 3813 | 668 | 1018087 | Private.  |  | Nfl  | Marshall, Isaac  |  |  | N. Battleford... | L 4, 1916. |
+| 7 | 611 | 667 | 3812 | 698 | 1018831 | Private  |  | Nfl  | Martell, Mrs. Esuna  |  |  | Battlelord  | 1, 1916. |
+| 7 | 611 | 696 | 3812 | 727 | 101S025 | Private  | Martell, William John  | Nfl  | Martell, Mar&hal  |  |  | N. Battleford... | 27, 1916. |
+| 7 | 610 | 725 | 3812 | 757 | 101800S | Corporal  |  | Nil  | Reid, May  |  |  | N. Battleford... | “The Laurels,” Mawnap Rd-, Romford, Essex, Eng... | 24, 1316. |
+| 7 | 610 | 754 | 3811 | 786 | 1018001 | Regt. Q.-M. Srgt. |  | Nfl  | Matthews, Mrs. Bertha  |  |  | N. Battleford... | 22, 1916. |
+| 7 | 622 | 783 | 3811 | 813 | 887830 | Private  |  | Nfl  | Matthews, Mrs. Alice Maud.. |  |  | Battleford  | England | 15, 1916. |
+| 7 | 610 | 813 | 3811 | 842 | 1018341 | Private  |  |  | Maxwell, Edward  |  |  | Rosetown  | 23, 1916. |
+| 7 | 609 | 841 | 3811 | 873 | 1018649 | Private  |  | NU  | May*. William  |  | England  | Saskatoon  | 1, 1916. |
+| 7 | 609 | 870 | 3811 | 901 | 1018425 | Private  |  | Nil  | Mcaleer, Leo Bradford  |  |  | Wilkie   | 7, 1916. |
+| 7 | 609 | 899 | 3810 | 931 | 1018533 | Private  |  | Nil  | M caleer, Joseph  |  |  | Wilkie  | Canada | 24, 1918. |
+| 7 | 609 | 928 | 3810 | 960 | 1018664 | Bandmaster  |  |  | McAllister, Mrs. Margaret E. |  |  | Camp Hughes.. £ | 1, 1916. |
+| 7 | 609 | 957 | 3810 | 988 | 1018612 | Private  | McAninch, Matthew Hilliard  | C.F.A  | McAninch, John  |  |  | Kindersley  | Canada  | 7. 1916. |
+| 7 | 609 | 986 | 3810 | 1017 | 1618699 | Private  | McCallum, Charles  | Nfl  | Laflear, Mrs. Eunias  |  | Canada  |  | 27. 1917. |
+| 7 | 609 | 1015 | 3810 | 1048 | 1018120 | Sergeant  | McCutcheon, George Frederick W | Nfl  | MoCuteheon, John  |  | Canada | N. Battleford... | [ 10, 1916. |
+| 7 | 608 | 1044 | 3810 | 1076 | 1018492 | Private  | McDonald, Edward  | Nfl  | McDonald, Cassie  | 45 Cleveland St., Springfield, Mass., U.S.A  | Canada |  | 17, 1916. |
+| 7 | 608 | 1073 | 3810 | 1104 | 1018443 | Private  | McDonald, Howard Lawrcncc.... | Nil  | McDonald, Mrs. Jane  |  | U.5LA  | N. Battleford... . | 16, 1916. |
+| 7 | 607 | 1102 | 3810 | 1133 | 1018314 | Private  |  | Nfl  | McDowell, Samuel  |  | Canada |  | 18, 1916. |
+| 7 | 606 | 1131 | 3810 | 1161 | 1018097 | Private  |  | Nil  | McEaehern, A  |  | Canada  | Battleford  | 5, 1916. |
+| 7 | 607 | 1160 | 3810 | 1192 | 1018305 | Private  |  | Nfl  | Me Henry. Mrs. Jessie  |  |  | N. Battleford... 1 | 22. 1916. |
+| 7 | 606 | 1189 | 3810 | 1218 | 1018648 | Private  |  | NU  | McLaren, Pets'  |  |  |  | 28, 1916. |
+| 7 | 606 | 1218 | 3810 | 1249 | 1018420 | Private  |  | Nfl  | McLaren, Mrs. Mary  |  | Pjuuui& |  | 2. 1916. |
+| 7 | 605 | 1247 | 3810 | 1276 | 1018293 | Private  |  | Nil  | McLeod, Mrs. Alveaa  | Kerr Robert, Sask  | Canada  | Kerrobert  | 18, 1916. |
+| 7 | 606 | 1276 | 3809 | 1305 | 1018362 | Private  |  | Nil  | McMillan, John R  |  | TJ.SLA.  | N. Battleford... | 31, 1916. |
+| 7 | 606 | 1305 | 3810 | 1337 | 1018258 | L.-Sergeant  |  | C.F.A  | McNaughton, Daniel  |  |  | N. Battleford... | 8, 1916. |
+| 7 | 607 | 1334 | 3809 | 1363 | 1018159 | Private  |  | Nil  | McNefll, H. C  |  |  | N. Battleford... . | 15, 1916. |
+| 7 | 606 | 1363 | 3809 | 1395 | 1018517 | L.-Corporal  |  | Nil  | Mellor, Thomas  |  |  | Kindersley   | Brassington, Wirkworth, N’humberland, Eng  | England  | 24, 1916. |
+| 7 | 607 | 1392 | 3810 | 1424 | 101S377 | Corporal  |  | Nil  | Mesney, Mrs. Caroline Ellen. |  |  | N. Battleford... | 30, 1916. |
+| 7 | 607 | 1421 | 3810 | 1449 | 1018152 | Private  |  | Nil  | Michalowski. Mrs. Tekla.... |  |  | N. Battleford... | 14, 1916. |
+| 7 | 606 | 1450 | 3810 | 1480 | 101855S | Private  |  |  | Miller, Mrs. Rebecca  | 4B04 Washburn Ave., Minneapolis, Minn., U.S.A  | ils.a  |  | 4, 1916. |
+| 7 | 606 | 1479 | 3811 | 1507 | 1018028 | Private  |  | Nil  | Milo*, Mrs. Albina Panneton. |  | Canada  | N. Battlelord... | 28, 1916. |
+| 7 | 607 | 1508 | 3810 | 1537 | 1018187 | Private  |  |  | Mitchell, Mrs. Harriett Ann.. |  |  | N. Battleford... | England | . 14, 1916. |
+| 7 | 607 | 1536 | 3811 | 1566 | 101S315 | Private  |  |  | Mitchelnaore, Mrs. Virtue.... |  |  | N. Battleford... ] | En^and | 24, 1916. |
+| 7 | 607 | 1565 | 3811 | 1594 | 1018514 | Private  |  | Can. Mil  | Moffat, John  |  |  | N. Battleford... , | Scotland  | 27, 1916. |
+| 7 | 607 | 1593 | 3811 | 1625 | 1018691 | Private  |  | NU  | Montgrand, Mrs. Margaret... |  |  | Leask  | North Battleford, Sask | 17, 1917. |
+| 7 | 607 | 1623 | 3811 | 1655 | 1018287 | L.-Corporal  |  | Nil  | Moore, Thomas J  |  | Ireland, | Maidstone  | 2, 1916. |
+| 7 | 607 | 1652 | 3811 | 1681 | 1018094 | Private  |  | Nil  | Moore, Richard  |  |  | N. Battleford... | I 4, 1916. |
+| 7 | 620 | 1680 | 3811 | 1710 | 204664. | Private  |  | Can. Mil  | Moore, Mrs. Elizabeth  |  |  | Camp Hughes.. | 4, 1916. |
+| 7 | 607 | 1710 | 3811 | 1740 | 1018207 | Private  |  | Nil  | Moran, Mrs. Maggie  |  |  | Battleford  | Canada | I 29, 1916. |
+| 7 | 607 | 1739 | 3812 | 1769 | 1018323 | Private  |  |  | Morgan, Joseph   -  |  | Newfoundland.. |  | 17, 1916. |
+| 7 | 607 | 1767 | 3812 | 1797 | 1018102 | Private  |  | Nil  | Morick. Edward Edgar. |  |  | N. Battleford... | 1 7. 1916. |
+| 7 | 607 | 1796 | 3812 | 1826 | 1018698 | Private  |  | Nil  | Morin, Mrs. Ellen  |  |  |  | 27, 1917. |
+| 7 | 607 | 1825 | 3812 | 1858 | 1018121 | L.-Corporal  |  | Nil  | Mortimer. George Chester... |  | F.nglATid  | N. Battleford... | I 10. 1916. |
+| 7 | 607 | 1854 | 3812 | 1884 | 1018183 | Private  |  | Nil  | Muirhead, W. A  |  |  | N. Battleford... | [ 24, 1916. |
+| 7 | 606 | 1883 | 3812 | 1913 | 1018160 | Private  |  |  | Muirhead. William  |  |  | N. Battleford... | I 15, 1916. |
+| 7 | 606 | 1908 | 3106 | 1945 | 1018308 | L.-Corporal  | Murray, John  | A.M.C  | Murray, Alexander  | 47 Lucas St., St. John’s Rd., Deptford, London, S.E., |
+| 7 | 606 | 1969 | 3813 | 2000 | 1018493 | Private  |  | Nil  | Myall, Mrs. Aletha.. |  |  |  | 16, 1916. |
+| 7 | 606 | 1998 | 3813 | 2029 | 1018692 | Private  |  | Nil  | Myles, Mrs. W  |  |  | Saskatoon  | 2, 1917. |
+| 7 | 606 | 2027 | 3810 | 2057 | 1018298 | Private  |  | Nil  | Nault, Elchi  |  |  | N. Battleford... | 19. 1916. |
+| 7 | 606 | 2056 | 3813 | 2086 | 1018085 | Private  |  | Nil  | Neale, William  |  |  | Battleford  | I 4, 1916. |
+| 7 | 605 | 2085 | 3813 | 2118 | 1018170 | Private  | Negus, Georgo Noel  | Royal Navy  | Harris, Mrs. Walter. | Riddell, Sask  | England  | N. Battleford... | I 17, 1916. |
+| 8 | 734 | 553 | 3233 | 582 |  |  | Former Corps. |  |  | Country of |
+| 8 | 539 | 696 | 3730 | 728 | 10185X8 | Private  | Nevacghonoff, J  | Nil. | Nevacghonoff, Mrs. Hester  | Thrums, B.C     | Russia  | Saskatoon  | June 24, | 1916. |
+| 8 | 539 | 725 | 3730 | 758 | 1018360 | Private  | Newman, George Philip  | Nil. | Newman, Mrs. Kate  | Glenbush, Sask   | England  | N. Battleford... | June 1, | 1916. |
+| 8 | 539 | 755 | 3730 | 786 | 1018535 | Private  | Newton, Meryven Thomas V.... | Nil. | Newton, Thomas  | Rosetown, Sask   | Canada  | Rosetown  | June 26, | 1916. |
+| 8 | 538 | 784 | 3730 | 817 | 1018128 | Private  | Nolan, Frederick  | Nil. | Nolan, Henry WUliam  | Speers, Sask  | U.S.A  | N. Battleford... | April 11, | 1916. |
+| 8 | 538 | 813 | 3730 | 845 | 1018110 | Private  | Nolan, John  | Nil. | Nolan, Henry  | Wanganui, Sask  | U.S.A  | N. Battleford... | AprU 8, | 1916. |
+| 8 | 537 | 842 | 3730 | 873 | 1018684 | Private  | Nolin, John  | Nil. | Nolin, Mrs. Elmea  | Lea Park, Alta  | Canada  | Lloydminster... | Feb. 17, | 1917. |
+| 8 | 538 | 871 | 3730 | 904 | 1018542 | Private  | Nutter, William Henry  | Nil. | Nutter, Mrs. Alice Oakes  | Skipton, Sask  | England  | N. Battleford... | June 29, | 1916. |
+| 8 | 537 | 900 | 3730 | 932 | 1018582 | Private  | O’Connor, James Edward  | Nil. | White, Walter  | Zealandia, Sask  | Newfoundland. | Rosetown  | June 20, | 1916. |
+| 8 | 537 | 929 | 3731 | 960 | 1018534 | Private  | Oliver, Alfred Grant  | Nil. | Cook, Alec Campbell  | Dunnville, Ont  | England  | Wilkie  | June 24, | 1916. |
+| 8 | 537 | 958 | 3731 | 989 | 1018355 | Private  | Oosterink, Jan William  | Nil. | Oosterink, Mrs. Hendrinka A.... | Hummols and Keppol, Holland  | Holland  | N. Battleford... | June 1, | 1916. |
+| 8 | 536 | 987 | 3730 | 1018 | 1018075 | Private  | O’Sullivan, Christopher  | Nil. | O’Sullivan, Mrs. Carrie  | Battleford, Sask  | Ireland  | Battleford  | AprU 3, | 1916. |
+| 8 | 536 | 1013 | 3731 | 1046 | 1018026 | Private  | Oushani, Avishi  | Nil. | Oushani, Rapka  | North Battleford, Sask  | Persia  | N. Battleford... | Mar. 27, | 1916. |
+| 8 | 535 | 1045 | 3731 | 1076 | 1018208 | Private  | Pambrun, Frank  | Nil. | Chatelain, Mrs. Elis  | Meadow Lake, Sask  | Canada  | Battleford  | April 29, | 1916. |
+| 8 | 535 | 1074 | 3731 | 1105 | 1018144 | Private  | Pambrun, Henry Alfred  | Nil.. | Pambrun, Fred  | Battleford, Sask  | Canada  | Battleford  | April 12, | 1916. |
+| 8 | 534 | 1103 | 3730 | 1134 | 1018436 | L.-Sergeant. | Pankhurst. Alfred James  | Forces. | Imp. | Pankhurst, Harry  | Folkestone, Kent, Eng  | England....... | Kindersley  | lune 10, | 1916. |
+| 8 | 533 | 1131 | 3731 | 1164 | 1018705 | Private  | Parlec. Ernest James  | Nil  | Parlee, Ernest Edmund  | Grayson, Sask  | Canada  | MelvUle  | Feb. 20, | 1917. |
+| 8 | 533 | 1160 | 3731 | 1191 | 1018336 | Corporal  | Parr, Claude Palmer  | Nil  | Parr, Edwin  | WUkie, Sask  | England  | Wilkie  | May 6, | 1916. |
+| 8 | 533 | 1183 | 3731 | 1221 | 1018417 | Private  | Parron, Napoleon  | Nil  | Parron, Clephonse  | Marcclin, Sask  | Canada  | Battleford  | June 2, | 1916. |
+| 8 | 533 | 1218 | 3730 | 1249 | 1018343 | Private  | Parsons, Charles  | Nil  | Parsons. Mrs. Minnie  | Kerr Robert, Sask  | England  | Kerrobert  | May 27, | 1916. |
+| 8 | 532 | 1246 | 3730 | 1278 | 1018155 | Private  | Penberthy, Thomas Robert  | Nil  | Penberthy, Mrs. Catherine  | Maidstone, Sask  | England  | N. Battleford... | April 15, | 1916. |
+| 8 | 533 | 1276 | 3731 | 1308 | 1018732 | Private  | Perry, Samuel Edward  | Nil  | Perry, Sylvester  | Medstead, Sask  | U.S.A  | Medstead  | Mar. 21, | 1917. |
+| 8 | 532 | 1305 | 3731 | 1336 | 1018188 | Private  | Peterson, Peter Waldemnr  | NU  | Petersen, Frederick  | Korsor, Denmark  | Denmark  | Lloydminster... | AprU 15, | 1916. |
+| 8 | 531 | 1333 | 3731 | 1367 | 1018350 | Private  | Phillips, Albert Horton  | NU  | Phillips, William  | Oldbury, Sask  | England  | \. Battleford... | May 30, | 1916. |
+| 8 | 531 | 1363 | 3730 | 1394 | 1018608 | Private  | Phillips, James Henry  | NU  | Phillips, Curtis  | Rosetown, Sask  | Canada  | Rosetown  | July 1, | 1916. |
+| 8 | 531 | 1391 | 3730 | 1423 | 1018719 | Private  | Pichfc, Alexandre  | Nil  | Pich6, Mrs. Emma  | Chellwood, Sask  | Canada  | Marcclin  | Mar. 19, | 1917. |
+| 8 | 543 | 1421 | 3730 | 1452 | 887835 | Private  | Plante, Charles  | 22nd Horse. | Nolin, Madeleine  | Battleford, Sask  | Canada  | Battleford  | Dec. 9, | 1915. |
+| 8 | 531 | 1445 | 3730 | 1480 | 1018457 | Private  | Plaxton, George Arthur  | Nil  | Plaxton, Mrs. Elizabeth  | 65 Chelsea Rd., Hull, P.Q  | Canada  | N. Battleford... | Tune 15, | 1916. |
+| 8 | 531 | 1478 | 3730 | 1510 | 1018326 | Private  | Pollard, Louis Albert  | Nil  | Pollard, Mrs. Mary .Jane  | Blaine Lake, Sask  | Canada  | N. Battleford... | May 25, | 1916. |
+| 8 | 530 | 1507 | 3731 | 1539 | 1018006 | Corporal  | Poppleton, Harold   | Nil  | Poppleton, Edward  | 268 Edward Rd., Birmingham, Eng  | England  | N. Battleford... | Mar. 23, | 1916. |
+| 8 | 530 | 1532 | 3730 | 1568 | 1018654 | Private  | Prew, Walter Albert  | Nil  | Prew, Mrs. Selina  | Bright Sand, Sask  | England  | N. Battleford... | Aug. 10, | 1916. |
+| 8 | 530 | 1564 | 3730 | 1596 | 1018096 | Private  | Price, James Henry  | Nil  | Price, Mrs. Mary Hutchison  | North Battleford, Sask  | Canada  | N. Battleford... | April 5, | 1916. |
+| 8 | 530 | 1593 | 3730 | 1625 | 1018165 | Private  | Pringle, Charles Cowan  | Can. Mil  | Summerby, Mrs. R  | Whitewood, Sask  | Canada  | N. Battleford... | April 17, | 1916. |
+| 8 | 542 | 1621 | 3730 | 1653 | 204662 | Private  | Prior, Nelson Thomas  | NU  | Prior, Mrs. Ellen  | 92 Newcommon Rd., Portsmouth, Eng  | England  | Saskatoon  | AprU 5, | 1916. |
+| 8 | 541 | 1651 | 3730 | 1683 | 887838 | Private  | Pritchard, Ralph  | 22nd Horse. | Pritchard, Mrs. Mary  | Battleford, Sask  | Canada  | Battleford  | Dec. 6, | 1916. |
+| 8 | 529 | 1680 | 3731 | 1712 | 1018008 | Sergeant  | Provencher, Joseph Desire  | Nil  | Provencher, Theodore  | North Timiskaming, P.Q  | Canada  | N. Battleford... | Mar. 24, | 1916. |
+| 8 | 529 | 1708 | 3731 | 1741 | 1018133 | Private  | Pugh, Thomas  | Nil  | Pugh, Joseph  | Ordnance Survey Office, Clifton, Bristol, Eng  | England  | N. Battleford. . | AprU 11, | 1916. |
+| 8 | 529 | 1737 | 3731 | 1770 | 1018680 | Private  | Rabson, Walter Francis  | NU...:  | Rabson, Mrs. Susan  | 55 High St., Tooting, London, Eng  | England  | Lloydminster... | Ian. 17, | 1917. |
+| 8 | 529 | 1766 | 3732 | 1798 | 1018184 | Private  | Ralston, Melvin George  | Nil  | Ralston, James  | Battleford, Sask  | U.S.A  | Battleford  | April 24, | 1916. |
+| 8 | 528 | 1795 | 3732 | 1828 | 1018303 | Private  | Ramsey, Joseph Harold  | NU  | Ramsey, Charles  | Herschel, Sask  | Canada  | Rosetown  | May 20, | 1916. |
+| 8 | 528 | 1824 | 3733 | 1857 | 1018710 | Private  | Randall, Ernest  | Nil  | Randall, Charles  | 1235 Ave. B.N., Saskatoon, Sask  | England  | Saskatoon  | Mar. 8, | 1917. |
+| 8 | 528 | 1853 | 3733 | 1885 | 1018531 | Private  | Ratcliffe, John Melbourne  | NU  | Ratcliffe, Edward  | Waseca, Sask  | England  | Lashburn  | June 10, | 1916. |
+| 8 | 528 | 1881 | 3733 | 1915 | 1018135 | Sergeant  | Ratcliffe-Smith, James Charles,.. | Nil  | Ratcliffe-Smith, Mrs. Elizabeth. | Battleford, Sask  | Scotland  | Battleford  | April 11, | 1916. |
+| 8 | 527 | 1911 | 3733 | 1944 | 1018638 | Private  | Richards, Arthur  | U.S. Navy. | King, Mrs. W  | 118V6 East Washington St., Springfield, 111., U.S.A  | U.S.A  | N. Battleford... | July 22, | 1916. |
+| 8 | 527 | 1939 | 3733 | 1972 | 1018154 | Private  | Richerson, Allen  | Nil  | Smith, Mrs. Tom  | Battleford, Sask  | Canada  | Battleford  | AprU 14, | 1916. |
+| 8 | 528 | 1969 | 3733 | 2002 | 1018706 | Private  | Ridgway. Thomas Atkinson  | Nil  | Ridgway, Richard G  | Waterford City, Ire  | Ireland  | Melville  | Feb. 27, | 1916. |
+| 8 | 528 | 1997 | 3734 | 2031 | 1474164 | Sergeant  | Risdale, Percy Robert  | 22nd Horse. | Risdale, Mrs. R  | Battleford, Sask  | England  | Saskatoon  | Mar. 15, | 1916. |
+| 8 | 528 | 2027 | 3734 | 2060 | 1018557 | Sergeant  | Roach, Leslie Palmer  | Nil  | Roach, Mrs. Grace Caroline  | “The Pines,” Newport, I. of W., Eng  | England  | N. Battleford... | July 3, | 1916. |
+| 8 | 528 | 2056 | 3734 | 2089 | 1018453 | Corporal  | Roberts, Clifford  | Nil  | Roberts, Joseph  | Blaine Lake, Sask  | Canada  | N. Battleford... | June 30, | 1916. |
+| 8 | 528 | 2084 | 3735 | 2116 | 1018646 | Private  | Roberts, William David  | Nil  | Roberts, William John  | Glenbush, Sask  | Wales  | N. Battleford.. | July 24, | 1916. |
+| 9 | 2359 | 380 | 3764 | 408 |  |  | Mervin, Sask  | Canada.. | N. Battleford.. | Mar. | 16, |
+| 9 | 1522 | 408 | 3763 | 437 |  | Nil  | Walran Farm, Saskatoon, Sask  | Wales.... | Saskatoon  | Feb. | 17, |
+| 9 | 1522 | 437 | 3764 | 466 |  | Nil  | Green Lake, Sask  | Canada.. | Saskatoon  | Mar. | 19. |
+| 9 | 649 | 466 | 3764 | 497 | 1018553 Private  | Nil  | 186 Barlow St., Preston, Eng  | England.. | Lashburn  | June | 13, |
+| 9 | 1521 | 496 | 3766 | 525 |  | Nil  | Riceville, Ont    | Canada.. | N. Battleford. | May | 23. |
+| 9 | 1520 | 525 | 3764 | 554 |  | Nil  | North Battleford, Sask  | Canada.. | N. Battleford.. | April | 4, |
+| 9 | 1850 | 554 | 3764 | 583 |  |  | North Battleford, Sask  | Canada.. | N. Battleford.. | May | 15. |
+| 9 | 1520 | 583 | 3765 | 613 |  | Nil  | Henry St., Halifax, N.S  | Canada.. | N. Battleford.. | June | 7, |
+| 9 | 1519 | 612 | 3764 | 642 |  | Nil  | Carlton Agency, Leask, Sask  | Canada.. | N. Battleford.. | Feb. | 5, |
+| 9 | 646 | 641 | 3765 | 671 | 1018268 Private  | Nil  | Spruce Bluff, Sask    | U.S.A  | N. Battleford.. | May | 13, |
+| 9 | 1519 | 671 | 3764 | 700 |  | Nil  | Muskeg Lake, Sask   | Canada.. | N. Battleford.. | Feb. | 23, |
+| 9 | 1519 | 700 | 3764 | 728 |  | Nil  | Dundum, Sask  | U.S.A.... | Battleford  | June | 5, |
+| 9 | 1519 | 729 | 3763 | 757 |  | Nil  | Blaine Lake, Sask  | Canada.. | N. Battleford.. | May | 23, |
+| 9 | 645 | 757 | 3764 | 786 | 1018539 Private  | Nil  | Glenbush, Sask  | U.S.A.... | N. Battleford.. | June | 21, |
+| 9 | 1519 | 786 | 3764 | 815 |  | Nil  | Wilishine, Prusesua, Podolski, Russia  | Russia... | N. Battleford.. | June | 3, |
+| 9 | 645 | 815 | 3764 | 845 | 1018546 Corporal  | Nil  | Suite 22, Arcadia Flats, Victor St., Winnipeg, Man. | U.S.A.... | N. Battleford.. | July | ' 3, |
+| 9 | 644 | 844 | 3765 | 874 | 1018673 Private  | Nil  | Monheim, Odessa, Russia  | Russia... | Regina  | Dec. | 23, |
+| 9 | 1518 | 873 | 3764 | 903 |  | Nil  | Stazburg, Odessa, Russia  | Russia... | Regina  | Dec. | 23, |
+| 9 | 1518 | 902 | 3764 | 931 |  | Nil  | Leask, Sask  | Canada.. | N. Battleford.. | April | 3, |
+| 9 | 1518 | 931 | 3764 | 960 |  | Nil  | Meota, Sask. | Canada.. | N. Battleford.. | April | 1, |
+| 9 | 1519 | 960 | 3764 | 989 |  | Nil  | Sandwith, Sask. | England.. | N. Battleford.. | July | 24, |
+| 9 | 643 | 988 | 3763 | 1018 | 1018617 Private  | Nil  | Blaime Lake, Sask. | Russia... | N. Battleford.. | July | 2, |
+| 9 | 1518 | 1017 | 3765 | 1047 |  | Nil  | Coulesboume, Cheltenham, Glos, Eng. | England.. | N. Battleford. | July | 17, |
+| 9 | 644 | 1043 | 3763 | 1076 | 1018359 Private  | Nil  | Ingramport, Halifax, N.S. | Finland.. | Rosetown  | May | 29, |
+| 9 | 644 | 1075 | 3762 | 1104 | 1018372 Private  | Nil  | Delmas, Sask. | Canada... | Battleford  | June | 2. |
+| 9 | 1518 | 1104 | 3763 | 1134 |  | Nil  | Paynton, Sask. | Candaa... | N. Battleford.. | April | 6, |
+| 9 | 657 | 1132 | 3763 | 1163 | 887854 Private  | Nil  | Battleford, Sask. | Canada.. | Battleford  | April | 1, |
+| 9 | 1519 | 1162 | 3763 | 1191 |  | Nil  | Fiske, Sask. | Canada.. | Kindersley | June | 26, |
+| 9 | 644 | 1191 | 3765 | 1221 | 1018158 Private  |  | Delaware, Ont. | Canada.. | N. Battleford.. | April | 15, |
+| 9 | 1519 | 1219 | 3765 | 1250 |  | R.N.W.M.P  | Kilwinning, Sask. | England.. | N. Battleford. | AprU | 3, |
+| 9 | 1519 | 1248 | 3763 | 1277 |  | Nil  | Battleford, Sask. | Canada.. | Battleford  | Feb. | 4, |
+| 9 | 1518 | 1277 | 3765 | 1308 |  | Nil  | Ruddell, Sask. | Canada.. | N. Battleford. | April | 14, |
+| 9 | 1519 | 1306 | 3764 | 1337 |  | Nil  | Weston, Yorks, Eng. | England.. | N. Battleford.. | April | 10, |
+| 9 | 2357 | 1337 | 3764 | 1365 |  |  | Virginstowe, Devon, Eng. | England.. | Ricetown  | Oct. | 1, |
+| 9 | 657 | 1364 | 3764 | 1393 | 887842 Private  | Nil  | Battleford, Sask. | Canada.. | Battleford  | Dec. | 6, |
+| 9 | 1519 | 1393 | 3763 | 1423 |  | Nil  | Battleford, Sask. | England.. | Battleford  | Mar. | 29, |
+| 9 | 1518 | 1421 | 3764 | 1453 |  | Nil... | 26 Dundee St., Longton North, Staffs, Eng.. | England.. | N. Battleford.. | AprU | 7, |
+| 9 | 644 | 1451 | 3765 | 1480 | 1018485 Private  | Nil... | Barrow, Surrey, Eng. | England.. | N. Battleford.. | June | 8, |
+| 9 | 1518 | 1480 | 3765 | 1510 |  | Nil... | 33 Octavia St., Kirkcaldy, Fife, Scot. | Scotland. | Wilkie  | June | 29, |
+| 9 | 2357 | 1510 | 3766 | 1537 |  |  | Orillia, Ont. | Canada.. | Kerrobert  | June | 12, |
+| 9 | 1517 | 1537 | 3765 | 1567 |  | Nil  | Brooks. Rutland, Eng  | England.. | N. Battleford.. | April | 13, |
+| 9 | 2359 | 1568 | 3765 | 1594 |  |  | North Battleford, Sask  | Canada.. | N. Battleford.. | June | 1, |
+| 9 | 1517 | 1595 | 3765 | 1625 |  | Nil  | Battleford, Sask  | Canada.. | Battleford  | April | 5, |
+| 9 | 645 | 1623 | 3765 | 1654 | 1018267 Private  | S.A . | Blackpool, Lancs, Eng  | England. | Marshall  | May | 8, |
+| 9 | 1517 | 1653 | 3765 | 1683 |  | Nil... | Marshall, Sask  | England. | Marshall  | May | 8, |
+| 9 | 644 | 1681 | 3765 | 1710 | 1018695 Private  | Nil  | Keatley, Sask  | Canada.. | N. Battleford.. | Feb. | 27, |
+| 9 | 644 | 1709 | 3765 | 1740 | 1018675 Private  | Nil  | Fielding, Sask  | Canada.. | Fielding  | Dec. | 2, |
+| 9 | 644 | 1738 | 3766 | 1769 | 1018490 Private  | Nil  | Fern Glen, Ont  | Canada.. | Kindersley  | June | 14, |
+| 9 | 657 | 1767 | 3765 | 1796 | 887844 Private  | Nil  | Battleford, Sask  | Canada.. | Battleford  | Dec. | 10, |
+| 9 | 645 | 1795 | 3766 | 1828 | 1018634 Private  |  | Stroud, Glos, Eng   | England. | Lloydminster.. | July | 17, |
+| 9 | 646 | 1825 | 3766 | 1856 | 1018416 Private  | Nil  | Muskeg Lake, Sask  | Canada. | N. Battleford.. | May | 15, |
+| 9 | 2357 | 1856 | 3766 | 1885 |  |  | Richard, Sask  | Canada.. | N. Battleford. | April | 11, |
+| 9 | 645 | 1882 | 3766 | 1914 | 1018276 O.R. Sergeant... | Nil  | North Battleford, Sask  | England. | N. Battleford. | May | 16, |
+| 9 | 1517 | 1913 | 3766 | 1943 |  | R.C.D  | Wilkie, Sask  | Ireland.. | Battleford  | May | 6, |
+| 9 | 645 | 1940 | 3767 | 1972 |  | Nil  | 1018051 Private  | Battleford, Sask  | England. | Battleford  | Mar. | 31, |
+| 9 | 2358 | 1972 | 3767 | 2001 |  |  | No. 13 Rock St., Finsbury Pk., London, Eng. | England. | N. Battleford. | April | 11, |
+| 9 | 645 | 1998 | 3766 | 2029 | 1018092 Private  | Nil  | Daysville, Sask  | Canada.. | N. Battleford. | April | 4, |
+| 9 | 1517 | 2029 | 3767 | 2056 |  | Nil  | Tliamesville, Ont  | Canada.. | N. Battleford. | June | 1, |
+| 9 | 645 | 2056 | 3767 | 2085 | 1018383 Private  | Nil  | Richard, Sask  | U.S.A... | N. Battleford. | June | 5, |
+| 9 | 646 | 2085 | 3768 | 2116 | 1018146 Private  | Nil  | R.R. No. 1, Smithville, Ont  | England | N. Battleford. | April | 13, |
+| 10 | 753 | 565 | 3264 | 596 |  | Former Corps. |  |  | Country of |
+| 10 | 571 | 709 | 3763 | 740 | 887202 |  | Tobey, Olive Muriel  | Meota, Sask  | Canada. | N. Battleford. | Mar. 17, 1916. |
+| 10 | 558 | 738 | 3762 | 769 | 1018302 | Nil  | Todd, J. Donald  | Herschel, Sask  | Canada. | Rosetown  | May 20, 1916. |
+| 10 | 558 | 767 | 3763 | 798 | 1018138 | Nil   | Tompkins, Mrs. Maud Mary. | Meota, Sask   | Canada. | N. Battleford.. | April 12, 1916. |
+| 10 | 558 | 793 | 3763 | 827 | 1018311 | Nil  | Tiottier, Charles   | Onion Lake, Sask  | Canada. | N. Battleford.. | May 23, 1916. |
+| 10 | 558 | 825 | 3763 | 856 | 1018572 |  | Troy, Mrs. M. L  | Perth, Ont  | Canada. | Kerrobert  | June 24, 1916. |
+| 10 | 558 | 854 | 3762 | 887 | 1018471 | Nil  | Tuchin, Andry  | Square Hill, Sask    | Russia.. | N. Battleford.. | July 3, 1916. |
+| 10 | 557 | 884 | 3058 | 914 | 1018357 | Nil  | Twine, Mrs. Nellie  | c/o Mrs. Harrison, 9 Baptie St., New Oxford St., London. |
+| 10 | 2329 | 910 | 3763 | 943 |  |  |  | Eng  | England  | Rosetown  | May 25, | 1916. |
+| 10 | 557 | 939 | 3763 | 971 | 1018151 |  | Seely, Mrs. Nellie  | Hillside, Sask  | Canada  | N. Battleford.. | April 14, | 1916. |
+| 10 | 557 | 968 | 3763 | 1001 | 1018270 | Nil  | Waite, Thomas  | 8 Camals Terr., Sheep St., Devizes, Wilts, Eng  | England  | N. Battleford.. | May 15, | 1916. |
+| 10 | 556 | 997 | 3763 | 1028 | 1018284 | Nil... | Walker, John  | Meota, Sask  | Canada  | N. Battleford.. | May 17, | 1916. |
+| 10 | 556 | 1026 | 3763 | 1057 | 1018508 | Nil  | Walker, George S  | Scott, Sask  | Canada  | Wilkie  | June 14, | 1916. |
+| 10 | 556 | 1054 | 3763 | 1087 | 1018150 |  | Wallis, Levis  | Balgonie, Sask  | England  | Battleford  | April 13, | 1916. |
+| 10 | 556 | 1084 | 3763 | 1116 | 1018226 | Nil  | Warrington, Mrs. Annie.. | Kilwinning Siding, Sask  | England  | N. Battleford. | April 20, | 1916. |
+| 10 | 556 | 1113 | 3764 | 1145 | 1018031 | Nil  | Way man, Art hur  | 134 Selkirk Rd., Tooting, London, Eng  | England  | Battleford  | Mar. 28, | 1916. |
+| 10 | 556 | 1141 | 3764 | 1172 | 1018289 | Private  | Nil  | Webb, C. R  | North Battleford, Sask  | England  | N. Battleford.. | May 18, | 1916. |
+| 10 | 556 | 1170 | 3764 | 1202 | 1018232 | Private  | Nil  | Webster, Walter  | 49 Larker St., Lexington, Mass., U.S.A  | Canada  | Kerrobert  | May 1, | 1916. |
+| 10 | 556 | 1199 | 3763 | 1230 | 1018308 | Nil  | Welbourn, Mrs. C  | Battleford, Sask  | U.S.A  | Battleford  | May 19, | 1916. |
+| 10 | 556 | 1228 | 3755 | 1259 | 1018459 | Nil  | Welsh, Edward  | Blaine Lake, Sask  | Canada  | N. Battleford. | June 26, | 1916 |
+| 10 | 556 | 1256 | 3764 | 1287 | 1018086 | Nil  | Wheeler, James  | Battleford, Sask  | England  | Battleford  | April 4, | 1916. |
+| 10 | 554 | 1286 | 3764 | 1317 | 1018655 | Nil  | White, John James  | Ridpath, Sask  | Canada   | Rosetown  | July 16, | 1916. |
+| 10 | 553 | 1313 | 3764 | 1345 | 1018731 | Nil  | Weeseecat, Mrs  | Sweet Grass Reserve, Sask  | Canada  | N. Battleford.. | April 2, | 1917. |
+| 10 | 553 | 1343 | 3764 | 1374 | 1018073 | Nil  | White, Thomas  | Vermilion, Alta  | Canada  | Battleford  | April 3, | 1916. |
+| 10 | 553 | 1372 | 3764 | 1405 | 1018141 | Co. Sergt.-Major. | Nil  | Whiting, Mrs. Louise  | Leask, Sask  | England  | N. Battleford.. | April 3, | 1916. |
+| 10 | 553 | 1401 | 3763 | 1434 | 1018370 | Nil  | Whitney, W. M  | Denzil, Sask  | U.S.A  | Kerrobert  | May 22, | 1916. |
+| 10 | 564 | 1429 | 3764 | 1462 | 887855 | Nil  | Whyte, Robert George.. | Battleford, Sask  | U.S.A  | Battleford  | Mar. 10, | 1916. |
+| 10 | 552 | 1458 | 3764 | 1491 | 1018653 | Nil  | Whyte, Alexander  | 2 Esslement Ave., Aberdeen, Scot.   | Scotland  | N. Battleford.. | July 25, | 1916. |
+| 10 | 552 | 1487 | 3763 | 1519 | 1018378 | Private  | Nil  | Wilkins, Mrs. Emma.... | Rabbit Lake, Sask  | England  | N. Battleford.. | June 2, | 1916. |
+| 10 | 552 | 1516 | 3763 | 1547 | 1018713 | Nil  | Williamson, Mrs. Lenora. | East Kilbride, Lanark, Scotland  | Scotland  | Lloydminster.. | Mar. 14, | 1917. |
+| 10 | 551 | 1545 | 3763 | 1576 | 1018458 | Nil  | Wilson, John Dewar  | Dundalk, Ont  | Canada  | Wilkie  | June 14, | 1916. |
+| 10 | 552 | 1573 | 3763 | 1605 | 1018176 | Nil  | Wilson, Mrs. Viola  | North Battleford, Sask  | Ireland  | N. Battleford.. | April 19, | 1916. |
+| 10 | 552 | 1603 | 3762 | 1633 | 1018665 | Private  | Nil  | Wilson, W. A  | 506, 4th Ave., Saskatoon, Sask  | Canada  | Camp Hughes. | Sept. 18, | 1916. |
+| 10 | 551 | 1631 | 3762 | 1662 | 1018496 | Nil  | Windsor, Mrs. H  | Sausalito, Cal., U.S.A  | England  | N. Battleford.. | June 2, | 1916. |
+| 10 | 551 | 1660 | 3762 | 1692 | 1018671 | Nil  | Wishart, Archie  | Portage-la-Prairie, Man  | Canada  | Wilkie   | Dec. 18, | 1916. |
+| 10 | 551 | 1688 | 3763 | 1721 | 1018164 | Nil  | Withams, Walter  | Hockley, Essex, Eng  | England  | N. Battleford. . | April 17, | 1916. |
+| 10 | 551 | 1717 | 3761 | 1750 | 1018190 | Nil  | WorboyB, Fred John  | Rabbit Lake, Sask  | England  | N. Battleford.. | April 25, | 1916. |
+| 10 | 550 | 1746 | 3762 | 1779 | 1018147 | Nil  | Wright, John Caverton... | 292 Ballborn Rd., Birmingham, Eng  | England  | N. Battleford.. | April 13, | 1916. |
+| 10 | 551 | 1775 | 3763 | 1808 | 1018367 | Private  | Nil  | Wright, Abel  | Englewood, Sask  | Canada  | Kerrobert  | May 19, | 1916. |
+| 10 | 552 | 1804 | 3764 | 1837 | 1018376 | Private  | Nil  | Young, George  | Mont Nebo, Sask  | Canada  | N. Battleford.. | May 22, | 19)6. |
+| 10 | 552 | 1833 | 3764 | 1865 | 1018461 | Private  | Nil  | Young, Mrs. Margaret... | 9 Binnie St., Gourock, Renfrew, Scot  | Scotland  | N. Battleford.. | June 6, | 1916. |
+| 10 | 552 | 1862 | 3764 | 1893 | 1018658 | Nil  | Ziebiaobek, Mrs. Snsan.. | Teschen, Seplesoy, Russia  | Russia  | Melville  | Aug. 26, | 1916. |
+| 10 | 550 | 1891 | 3764 | 1923 | 1018256 | Private  | Nil  | Zubick, Mrs. Mary  | Englewood, Sask  | Siberia  | Kerrobert  | May 9, | 1916. |
+{% endraw %}

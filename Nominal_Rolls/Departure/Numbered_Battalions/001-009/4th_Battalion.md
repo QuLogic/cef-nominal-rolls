@@ -1,0 +1,1243 @@
+---
+title: 4th Battalion
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | 8 • ! ■ >■ >■ ' ■ | m .:,5j'' "■': ••• •k | (ISSUED WITH MILITIA ORDERS, 1915.) | a | ■ H4-v *** | - • ’ * C i>J | ‘f'j?» r jj | 4-3K: | * -. ■ ■ ,-. ♦■>,■ . • • . . | - • <• - • • V •*•■•.■} ' V •• • -'•, ; 1l | ".({%■ J;-V; ;>?: ( ) * V ■ M' > 1 < . | • - ?.*'sV *' ,! »■; *vA r? - 1 ? < f • * • *■ •, | ' «■'! *.v* ?- '»'■ vv 14. ••'.•:'• • •: >, •?. | ' V >" • {, •'<; »? BS V ! A < . • '. ,*> . -r • ■ - | •■ < •« | * V* | . - * . • f. * .A 1 '-ity-.X P*. ■- ■[ i '■■ « | CANADIAN EXPEDITIONARY FORCE. | <i*: , * ‘ - V- ' : "I" •« ^ V • | < r .;» V: ; ■- • ' . | 9 v' | F-;:•* =' <^'>4**4^ | i* ' -' ‘kr - / :, ’• | : ■. 1 '■.{ ■ ^ , • .■;• i' -; - ft* ’ '. | •. r» | * .* | , ' H -: ■ | b< ‘ | }.ii, ;4 | h; | T | •' •, ^ j | * *.•?* | ■ , y,' i | rA \ ’ !■ | t* ' .-!•'• Pi | .4- | i/i | :hv; | If: | : S | ’I, *•>.. | #► ,• r . • | *'V '* ' ; •••/• | <• | a | . ;v . > • - :• | t | > t ■ •■' *. | 1 V •' / ’ :v | ■ «5> '.«»t | kv«-'.' | . S- I ' | 4th battalion. | j ■, ■<' I-Jj £•? ■* > ‘f1! V--'iv.fi>>,• .■'■>' r | . | . ■. '■ - t | ■ 4 " \ ■■■ > ■, V - I # i A'1' r 11 ' ^ ^ \ v ' . ’• * M’ | a . v^ :>?•• H ^ 1 ' '■ | ./ ' ' f *•.-■< >v' i ff * ' V''^..' t'O- » • .. *• | ■ • ■ , : 1 ■ r r<: • *! | i -■■■. •■ . • :■ ■: -V M | % | I | ,n . J . | ;' 'Wj& :f*iV*ASn | ■-,1 v, •' * P" ■ kv •' | i \ ;■ i ^»,-n * .»,;■«> ,v ■ ,r *' f':, v | » • f-: / .• tJjfa, i *v •<, . > ;■ ?• *.#» i* i. {• •'* ' *'!*-•’ • ' ' »' • ’ ,v\ - * | » r • . . ■ | ■ «' - if • :, v *£ ■ r ^ /*•-. ■ "■ 11 r <• v*.,. ; | o-. * -/.\3 ./v,. . V, V -• 4"? 1 •• C ‘ ->"••'■ •«< ..:' 1 : » - ■■» •••• | > t V .>•• j l ■>4 , >r» •» :■ l.T * -•■*.- .; ' ••.• 'i- ,N- • | * • :.• -.- . . V , S ,* .'.. .• *■ V! t* aff L . >v' ^ ... r« .O' \ - . • • i.. - . • v •■> ■ | ' .J ■ Mr -'-i ■ ».:'•* < '•'.. L -'• •' r « * .. k>’ * .. * . V :T»- . .i J. *► • ^ *? ' 'y * •.*•# .•* « | F*V | NOMINAL ROLL OP OFFICERS, NON-COMMISSIONED | OFFICERS AND MEN. | mn-4.15 .. SPICERS AND | H.Q.tS93-2-29. * “ : < o V< " r | i - » »i *-» < v • • • . *. . • '. ;• | 77823-1 - ■ | «t -%• . ■'■ ..-vt ■, It.r | r , * • *• * • , «e * • v ' * 1 ' | . ' ' ■ | ■ i ' ' * -M ' * 4 | . • v, •• •: \ 1 , *•. >-v» - J s | f; jr | . '< :TsM* . | ■ r"- * - | . ..«, My »/'-v A | , ’ •/ a | i t *’ 1 . * V | k,,r ^V-^>v,F > | t 'i j ;r‘ r- | i , •' !?<. j. • | <v’ : . ’{• | ‘4-J*■• %' •' J ■&& | ,r f’V' • • •• | •••" i'- &*.&*.■ * •’ 'V ' ' |
+| 2 | 769 | 645 | 3196 | 684 | Bank. | Name (Surname fint). |  | Name of Next of Kin. |  | of |
+| 2 | 697 | 815 | 3593 | 854 | Lt.-Col...   | Labatt, Robert Hodgetts  | 13th Regt    | Labatt, Mrs. Isabel  | James St., Hamilton, Ont......    |  | Valcartier. | Sept. 22 |
+| 2 | 697 | 846 | 3595 | 881 | Major   | Buell, William Senkler. ....... | 41st Regt...,. :  | Buell, Mrs. Sophia E  | 35 Buell St., BrockviUe, Ont.  |  | Valcartier. | Sept. 23 |
+| 2 | 696 | 879 | 2516 | 911 | Major  | Clarke, F. F  | 12th Regt  | Particulars will be famished | when available. |
+| 2 | 695 | 905 | 3592 | 939 | Captain  | Glover, John Donald  | #7th Regt:....  | Glover, William  | Orillia, Ont    |  | Valcartier. | 8ept. 22 |
+| 2 | 696 | 935 | 3594 | 968 | Lieutenant  | Bastedo, Alfred C  | 23th Regt  | Bastedo, John M  | 4 Jean St., Toronto, Ont  |  | Valcartier. | Sept. 23 |
+| 2 | 696 | 964 | 3592 | 996 | Gon. Major..... | Gillies. Alexander  | 12th Regt   | Gillies, Mrs. Sara E    | II "Ulster Apts, Grange Ave., Toronto, Ont. |  | Valcartier. | Sept. 21 |
+| 2 | 696 | 994 | 3592 | 1025 | Lieutenant  | Allen, Jess  | 35th Regt      | Allen, Mrs. Elizabeth  | Midland, Ont     |  | Valcartier. | Sept. 21 |
+| 2 | 697 | 1022 | 3593 | 1055 | Lieutenant  | Dyas, Victor Warren  | 26th Regt.,...  | Dyas, W. J    | III Howland Ave., Toronto, Ont  |  | Valcartier. | Sept. 21 |
+| 2 | 697 | 1053 | 2268 | 1082 | Hon. Captain.., | Scott, W    | Particulars will be furnished | when available   |
+| 2 | 697 | 1080 | 3595 | 1112 | Hon. Captain.. | Piper, Frederick Charles  | 37 th Regt  | Piper, Charlotte E   | Thcrold, Ont. | Canada.. | Valcartier. | Sept. 23 |
+| 2 | 696 | 1110 | 3593 | 1141 | Major   | Raikes, Richard  | 35th Regt   | Raikes, Mrs. Hilda  | Midland, Ont. | Canada.. | Valcartier. | Sept. 21 |
+| 2 | 612 | 1140 | 2269 | 1170 | 10526 | Ser^t.-Major... | Galloway, George W  | Particulars wiii be furnished | when available.   |
+| 2 | 611 | 1161 | 3594 | 1199 | 10527 | Q. &. 8  | Kerry, W   | Kerry, Mrs. A. A.   | 236 Movega Rd., Manor Park, Essex, Eng. |  | Valcarticr. | Sept. 21 |
+| 2 | 611 | 1194 | 3594 | 1227 | 1052S | Drum-Sgt   | Sommerville, H. S  | Zarfaes, Mre. Goldie  | 483 Broadview Ave., Toronto, Ont  |  | Valcartier. | Sept. 21 |
+| 2 | 610 | 1220 | 3596 | 1258 | 11264 | O. R. Sergeant. | McGregor, John..:    | 1st Lanark Regt.......  | McGregor, Jeannie S....'.  | Park Garden?, S. Glasgow, Scot..  | Scotland. | Valcartier. | Sept. 23 |
+| 2 | 611 | 1255 | 3597 | 1287 | 10530 | Cook Sergeant., | Weir, James W   | H. L. I  | Fordzce, Mrs. C.   | 20 India Place, Edinburgh, Soot  | Scotland. | Valcartier. | Sept. 23 |
+| 2 | 610 | 1285 | 2224 | 1315 | 10532 | Sig.-Sergeant..., | Basnett, H....  | Particulars will be furnished | when available.  ..   |
+| 2 | 610 | 1303 | 3594 | 1345 | 10578 | Shoe.-Sergeant. | Robb. William S V.  | Robb, Mrs. Margaret  | 74 Ptel St., Barrie, Ont   |  | Valcartier. | Sepitl 2i |
+| 2 | 609 | 1341 | 3594 | 1374 | 10576 | Pay Sergeant... | Hollister, S. A..      | Hollister, Mrs. Sarah  | 30 High St., Brantford, Ont. |  | Valcartier. | Sept. 21 |
+| 2 | 609 | 1373 | 2267 | 1406 | 10577 | [Arm.-Sergeant.. | Grasaby, G   | Particulars will be furnished | when available  |
+| 2 | 607 | 1589 | 3596 | 1623 |  |  |  | Robins, Mrs. E.......  | 10533 L.-Corporal..... | Rcbins, Henry   | Northanta F^egt    | 18 Althorpe St., Northampton, Eng    | England...... | Valcartier.. | Sept. 22 |
+| 2 | 606 | 1618 | 3595 | 1655 |  |  |  | Armitage, Hilda      | 10536j Private   | Armitage J    | Nil   | 139 Osier Ave. W., Toronto, Ont...    . | Valcartier.. | Sept. 21 |
+| 2 | 607 | 1639 | 3699 | 1682 |  |  |  | Donoghue, James.   | 13535'Private  | Donoghue, James  | 5th Batt. Roy. Scots   | 9 Buccleuch St., Edinburgh, Scot  | Scotland.....'. | Valcartier.. | Sept. 22 *. |
+| 2 | 421 | 1667 | 3597 | 1710 |  |  |  | Hart, T. C.........   | 10538 Private   | Hurt, William Errol   | R. C. R  | Hepu Club, Rangoon, India   | India........... | Valcartier.. | Sept. 22 |
+| 2 | 607 | 1708 | 2269 | 1739 |  |  |  | when available  | 105';7) Private  | Martin, G   | Particulars will be furnished |
+| 2 | 606 | 1723 | 3598 | 1779 |  |  |  | Payne, Geo. E. S...   | 10534|Private......... | Payne, Harold Edward  | Nil  | Niagaru Fails, Ont      | Canada.   | Valcarticr.. | Sept. "26 |
+| 2 | 606 | 1923 | 3597 | 1965 | 1054! L.-Corporal IDibbea. W. E   |  |  | .jDibben. Mrs. Elisabeth A 11110 Dufferia St., Toronto, Ont. |  | [Canada Valcarticr. ; Sept. 21 |
+| 2 | 606 | 1951 | 3597 | 1987 | 10542'Private 'Richardson, Daniel. |  |  | .‘Richardson, Mrs. Violet- .'Ware worth, Oat    |  | 'Canada 'Valcartier..'Sept. 21 |
+| 3 | 768 | 622 | 3186 | 655 |  | Rank. - | Name (Surname first). |  | Name of Next of Kin. | of |
+| 3 | 614 | 798 | 3586 | 827 |  |  |  |  |  |  |  | Sept. 21 | 10555 | Bell. W. W  | Nil....  | Bell, Mrs. Ethel G    | Valcartier,. |
+| 3 | 615 | 857 | 1806 | 886 | 10558 |  |  | Particulars will be furnished | Private  | Bowman, J. S  |
+| 3 | 615 | 884 | 3584 | 915 | 10550 | Private  | Cara, Stephen  |  | Cara, Mrs. Margaret  |  |  | Sept. 21 |
+| 3 | 615 | 913 | 3586 | 943 | 10766 |  |  | Nil  |  |  | Valcartier.. | Sept. 21 |
+| 3 | 614 | 975 | 1805 | 1002 | 10552 |  |  | Particulars will be furnished | Private  | Garrow, H. A  |
+| 3 | 614 | 999 | 3586 | 1030 | 10545 | Private  |  |  | Horan, Mrs. Mary   |  |  | Sept. 21 |
+| 3 | 614 | 1027 | 3587 | 1059 | 10549 |  |  | Nil. |  |  |  | Sept. 21 |
+| 3 | 614 | 1085 | 3587 | 1117 | 10547 |  |  | Nil  |  |  |  | Sept. 21 |
+| 3 | 613 | 1171 | 3588 | 1206 | 10543 |  |  | Nil. .. | Solomon, J. J  |  | Valcartier.. | Sept. 21 |
+| 3 | 613 | 1201 | 3589 | 1235 | 10554 |  | Whelar, R. T  | Nil. . |  |  | Valcartier.. | Sept. 21 |
+| 3 | 614 | 1499 | 1818 | 1529 | 10567 |  | Morris, Ferdinand Adolphus... | Nil  |
+| 3 | 614 | 1546 | 3064 | 1586 | 10560 |  |  | Nil  |
+| 3 | 614 | 1580 | 3590 | 1617 | 10561 | Private  | Roberta, A .'  | Nil  | Roberts, Mrs. Ketty  | Canada.  | Valcartier.. | Sept. 21 |
+| 3 | 614 | 1614 | 3588 | 1646 | 10561 | Private  | WaVeling, A  |  | when available   | Particulars will bo furnished |    |   |
+| 3 | 3080 | 1928 | 3593 | 1956 |  |  |  |  |  | Canada  | Valcartier.. | Sept. 22 |
+| 3 | 611 | 1936 | 3066 | 1966 | 33619 | Private  | Moffatt, Wilfred Brace  |  | Moffatt, Miss Josephine  |
+| 3 | 610 | 1964 | 2266 | 1996 | 33617 | Private  | O’Day, U. M  |  | when available  | Particulars will be furnished |
+| 4 | 677 | 269 | 3425 | 304 | Lieutenant | Washington, Herbert Howell3. | 13th Regt...... | Washington, S. F.....  | 112 Aberdeen Ave., Hamilton, Ont  | Canada  | Valcartier. |
+| 4 | 596 | 290 | 3570 | 333 | 10579 | Sergeant... | Crook, John Thomas  | Roy. Arty  | Crook, Mrs. J    | 370 Merton, Rd, Toronto, Ont  | Gibraltar.. | Valcartier. | Sept.'22 |
+| 4 | 597 | 327 | 3570 | 363 | 10595 | Batman.... | Brooks. John.   | 8th & 11th Hus. | Brooks, Mrs. J   | Farringdon P.O., W. Brantford, Ont  | England... | Valcartier. | Sept. 22 |
+| 4 | 597 | 357 | 3571 | 394 | 10592 | Private  | Cross, John Benjamin  | BuSs Yols  | Cross, Sarah  | 19 OrviUe Ave., Mt. Dennis P.O., Ont  | England... | Valcarticr. | Sept. 22 |
+| 4 | 597 | 387 | 3571 | 424 | 10585 | Private  | Charlton, Claude Fraser  | TJ. S. Navy  | Charlton, Ralph  | Walsh, Ont     | Canada.... | Valcartier. | Sept. 22 |
+| 4 | 598 | 415 | 3571 | 454 | 10587 | Private  | Doy, John  | Imp. Yeo  | Doy, Elizabeth...  | Brantford, Ont    | England... | Valcarticr. | Sept. 22 |
+| 4 | 597 | 445 | 3571 | 482 | 1059-1 | Driver  | Hunter, John  | A. & S. High... | Hunter, Mrs. John  | 77 Merrick St., Hamilton, Ont  | Scotland... | Valcartier. | Sept. 22 |
+| 4 | 598 | 474 | 3572 | 512 | 10584 | Private  | Kemp, William Jam&j  | Norfolk Regt... | Collier, Mrs. Bessie  | 188 Coteford St., Tooting, London, Eng  | England... | Valcartier. | Sept. 22 |
+| 4 | 598 | 503 | 3572 | 541 | 10586 | Private  | Kirby, Tom  | Yorks I. Y  | Kirby, Mis. M  | 55 St. Pauls Ave., Brantford, Ont   | England... | Valcartier. | Sept. 22 |
+| 4 | 599 | 533 | 3572 | 569 | 10591 | Private  | Kift, Arthur Joseph  | E. Kent BuiTs,.. | Kift. Mrs. J. H  | 122 Church St., Mussford, Kent, Eng    | England... | Valcartier. | Sept. 22 |
+| 4 | 599 | 562 | 3573 | 599 | 105S2 | Private  | Murray, John  | R. N  | Wright , Mrs  | 54 Morgan St., Buffalo, N.Y., U.S.A.  | England... | Valcartier. | Sept. 22 |
+| 4 | 599 | 591 | 3573 | 629 | 10581 | Private.... | Nesbit, James :  | R. N  | Rutherford, Mrs. Ellen  | 39 Cumberland Street     | Ireland  | Valcartier. | Sept. 22 |
+| 4 | 599 | 621 | 3572 | 660 | 10583 | Private  | Nolan, William  | R. N   | Hollamby, Mrs. A  | 5 Bertha St., Oldham, Lanes., Eng  | England... | Valcartier. | Sept. 22 |
+| 4 | 598 | 651 | 3572 | 688 | 10590 | Private.... | Phillips, William  | Dorset Regt  | Phillips, G  | G Great Queen St., Dartford, Kent, Eng.   | England... | Valcartier. | Sept. 22 |
+| 4 | 598 | 680 | 3573 | 717 | 11518 | Private  | Russell, James  | Roy. Scots. Regt | Russell, James  | 35 Buccleugh Place, Edinboro, Scot  | Scotland... | Valcartier. | Sept. 22 |
+| 4 | 597 | 716 | 2249 | 745 | 10580 | Private.... | Sage, S. C  | Particulars wiil be furnished w | hen available  |
+| 4 | 597 | 739 | 3573 | 776 | 105S8 | Corporal... | Walker, Arthur Edward  | R. N  | Walker, Agnes Sarah  | IIS Fishpool St., St. Albans, Herts, Eng. | England. | Valcartier.. | Sept. 22 |
+| 4 | 678 | 969 | 3575 | 1006 | Captain I Hunter, Alfred Taylor  |  | 12th Regt  | Hunter, Olive May, Mrs  | 869 Indian Rd., Toronto, Ont    |  | Valcartier.. | Sept. 24 |
+| 4 | 680 | 999 | 3575 | 1044 | Lieutenant jFletcher, A. G. A  |  | 12th Regt  | Fletcher, Annie  | 2C9, West 97th St., New York, N.Y., U. S. A— |  | Valcartier-.. | Sept. 24 |
+| 4 | 680 | 1029 | 3575 | 1063 | Lieutenant  Megaffin, David Watson.  |  | 12th Regt  | Megaffin, Nellie, Mrs  | 165 Close Ave., Toronto, Ont  |  | Valcarticr.. | Sept. 24 |
+| 4 | 680 | 1057 | 3575 | 1094 | Lieutenant |Sprinks, William Disraeli  |  | 12th Regt  | Sprinks, William, Mrs  | 207 Montrose Ave., Toronto, Ont   |  | Valcartier., | Sept. 24 |
+| 4 | 598 | 1087 | 3576 | 1123 | 10597 | Mitchell, Charles  | Sergeant  | R. M. A  | Mitchell, Ethel. Mrs   | 162 Davenport Rd., Toronto, Ont  | England  | Valcartier.. | Sept. 24 |
+| 4 | 598 | 1116 | 3576 | 1152 | 1059S | Moore, Albert Edward  | Sergeant  | Can. Militia  | Moore, Alice, Mrs  | 58 Manning Ave., Toronto, Ont  | England  | Valcartier.. | Sept. 24 |
+| 4 | 598 | 1144 | 3577 | 1182 | 10599 | Hay, Robert  | Sergeant  | 1st Dumbarton Regt.. | Hay, Janet, Mrs  | 51 Belleville St., Greenock, Scot      | Scotland  | Valcartier. | Sept. 22 |
+| 4 | 598 | 1175 | 3577 | 1211 | 10600 | Coulter, John James  | Sergeant  | 2nd Regt  | Coulter, Margaret, Mrs  | 127 High Park Ave, Toronto, Ont  | Canada  | Valcartier., | Sept. 23 |
+| 4 | 598 | 1204 | 3577 | 1240 | 10602 | Thomson, George   | Corporal  | Can. Miiitia  | Thomson, G., Mrs  | 15 Given St., Toronto, Ont.,  | Scotland  | Valcatrier. | Sept. 22 |
+| 4 | 598 | 1231 | 3578 | 1269 | 10603 | Kennedy, Alex  | Corporal  | Nil  | Kennedy, Ellen  | 259 Symington Ave., Toronto, Ont  | Cai&da  | Valcartier. | Sept. 22 |
+| 4 | 598 | 1260 | 3578 | 1299 | 10604 | Flynn, George  | Corporal  | N. Lancers Regt  | Flynn, Annie, Mrs  | 64 Beaumares St., Seaforth, Liverpool  | England  | Valcartier. | Sept. 22 |
+| 4 | 598 | 1292 | 3578 | 1328 | 10605 | Clarke, George Walker  | Corporal  | C. M. R. & S. A  | Clarke John  | Box G, Brampton, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 4 | 599 | 1321 | 3579 | 1356 | 10619 | Attwell, Frank  | Private  | Nil. | Attwell, C., Mrs  | 3 Beverley St., Toronto, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 4 | 599 | 1348 | 3579 | 1385 | 10620 | Annes, Fred  | Private  | Nil  | Armes, E., Mrs  | 48 Ennerdale Rd., Toronto, Ont  | England  | Valcartier | Sept. 22 |
+| 4 | 599 | 1379 | 3580 | 1414 | 10621 | Adams, Arthur E  | Private  | Nii  | Adams, E., Mrs..  | 2 t irst Ave., Toronto, Ont    | England  | Valcartier. | Sept. 23 |
+| 4 | 599 | 1408 | 3579 | 1444 | 10622 | fVmory, Ernest   | Private  | Nil  | Amory, P., Mrs  | 602 Bathurst St., Toronto, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 4 | 599 | 1437 | 3579 | 1472 | 10712 | Benson, Albert  | Private  | Nil  | Benson, George.  | 71 Burley Rd., Leeds, Yorks, Eng  | England  | Valcartier. | Sept. 22 |
+| 4 | 599 | 1467 | 3579 | 1502 | 10607 | Beatty, James Edward  | Private  | Nil  | Rhoden, Elizabf th.   | 102 Portland St., Toronto, Ont    | Canada  | Valcartier. | Sept. 23 |
+| 4 | 924 | 1495 | 3580 | 1529 |  | Bloxham, Chas. H  | Nil  | Bloxham, Jlre. J  | 27 Sheridan St., Brantford, Ont  | Canada  | Valcartier. | Sept. 25 |
+| 4 | 599 | 1525 | 3579 | 1559 | 1060S | Private. | Bohme, Harry Oswald  | 101st Regt  | Mayer, Chas  | Bon Accord, Alta  | England  | Valcartier. | Sept. I |
+| 4 | 600 | 1554 | 3580 | 1589 | 10618 | Private. | Bennett, Charles Fred  | Nil    | Bennett, E., Mru  | 17 Cecil Ave., Plymouth, Eng  | England  | Valcartier. | Sept. 22 |
+| 4 | 599 | 1583 | 3581 | 1620 | 10623 | Private.. | Berridge, Edgar  | 2nd Leicester Regt... | Berridge, Jane  | 40 Poacher St., Toronto, Ont.   | England  | Valcartier. | Sept. 22 |
+| 4 | 923 | 1612 | 3581 | 1647 |  | Binns, John.  | Nil  | Binns, Hannah   | 103 Marion St., Norwood, Winnipeg, Man   | England  | Valcartier. | Sept. 25 |
+| 4 | 600 | 1642 | 3581 | 1680 | 10624 | Biggs, Edwin R.  | I Private  | 17th Regt  | Burton, Miss  | 12 Woodgate Road, Leicester, Eng  | England...... | Valcartier. | Sept. 22 |
+| 4 | 599 | 1671 | 3581 | 1707 | 10625 | Bryant, H  | i Private  | Rifle Brigade  | Thomson, Mrs   | 3 Brandreth Rd., Balham, London, S. W., Eng. | England  | Valcartier. | Sept. 22 |
+| 4 | 682 | 1699 | 3581 | 1735 |  | Booker, Gordon  | Private  | Nil  | Garrity, Mrs. II  | Cayuga, Ont  | Canada.   | Valcartier. | Sept. 5 |
+| 4 | 599 | 1727 | 3581 | 1763 | 10626 | Baker, Alexander  | i Private  | Middlesex Regt  | Draper, A  | 16 Cambridge Cottages, Kew, London, Eng   | Australia  | Valcartier. | Sept. 22 |
+| 4 | 681 | 1757 | 3581 | 1793 |  | Collins, C. Victor  | Private  | Nil  | Collins, Mrs. J. H  | Ancaster P.O., Oct   | Canada  | Valcartier. | Sept. 22 |
+| 4 | 682 | 1785 | 3581 | 1821 |  | Cannon, H    | Private  | Nii  | Cole, Mni. J  | Southampton, Ont  | Valcartier. | Sept. 2z |
+| 4 | 599 | 1815 | 3582 | 1851 | 10629 | Case, Norman    | I Private.  | Nil  | Clendenen, A. C ,.. | 140 Victor Ave., Toronto, Out  | U.S.A  | Valcartier. | Sept. 22 |
+| 4 | 599 | 1844 | 3582 | 1882 | 10630 | Copley, James  | I Private.  | Coldstream Guards.. | Copley, Joseph  | Birmingham, Fng.     | England... | Valcartier. | Sept. 22 |
+| 4 | 599 | 1873 | 3583 | 1911 | 10031 | Conder, John  | I Private  | Nil  | Conder. Miss E  | 31 Elvendon Road, Bowes Parks, London, Eng.. | England... | Valcartier. | Sept. 22 |
+| 4 | 599 | 1902 | 3583 | 1943 |  | Calvert, William  | 10632jPrivate........ | R. N  | Calvert, Mary Jane  | 52 Oxiord St., Preston, Eng   | England... | Valcartier. | Sept. 22 |
+| 4 | 598 | 1931 | 3582 | 1969 |  | Cooper, Charles.  | 10634i Private  | 0th Middlesex Regt.. | Cooper, Mrs. Emelia  | 7 Holme St., Hackney Rd., London, Eng  | England... | Valcartier. | Sept. 22 |
+| 5 | 958 | 602 | 3153 | 636 | Name (Surname' first). |  | Name of Next of Kin. |  | of |
+| 5 | 908 | 774 | 3551 | 810 |  |  |  |  |  |  | . 22 | Uaims, Alee  | Nil  | Caims, Mrs. Dora -■ | 2 Ava St., Lisburn, Ire  | Ireland... | Valcartier.. | S |
+| 5 | 908 | 803 | 3551 | 839 |  |  |  |  |  |  | . 22 | Cook, L. G  | Nil    | Cook. Mre. M  | Box 474, Paris, Ont  | Canada... | Valcartier.. | S |
+| 5 | 908 | 833 | 3551 | 869 |  |  |  |  |  |  | . 23 | Clarke, Thomas Wallace  | Nil  | Clark, Mrs. Annie  | Rose HUl Ave., Toronto, Ont  | Canada... | Valcartier.. | s |
+| 5 | 908 | 861 | 3551 | 897 |  |  |  |  |  |  | . 22 | Driver. Frederick  | Nil  | Wood, Emma  | Big Heck, nr. Snaith, York’s, Eng  | England.. | Valcartier.. | s |
+| 5 | 908 | 890 | 3552 | 928 |  |  |  |  |  |  | . 22 | Done, Charles  | Duke of Wellington Regt.... | Done, Mrs. Mary   | Cooper St., Clayton, Manchester, Eng  | England.. | Valcartier.. | S |
+| 5 | 908 | 920 | 3552 | 957 |  |  |  |  |  |  | . 23 | Delaney, Thomas  | Nil  | Broxup, Mre. G. N  | 52 College St., Buffalo, N.Y., TJ.S.A    | Canada... | Valcartier.. | s |
+| 5 | 908 | 945 | 3552 | 986 |  |  |  |  |  |  | . 25 | Damphouse, Joseph  | NU  | Damphouse, Mrs.... | 502$ Common St., Lawrence, Mass., U.S.A..  | Canada... | Valcartier.. | s |
+| 5 | 908 | 977 | 3553 | 1014 |  |  |  |  |  |  | . 22 | Drabble, Frederick  | 3rd Gren. Guards  | Drabble, Clara.... | 11 Elm Grove, Toronto, Ont   | England.. | Valcartier.. |
+| 5 | 908 | 1007 | 3553 | 1044 |  |  |  |  |  |  | . 22 | Davidson, William  | Royal Scots Fus  | Davidson, Mrs. M. | 235 Niagara St., Toronto, Ont  | Ireland... | Valcartier.. |
+| 5 | 908 | 1035 | 3553 | 1073 |  |  |  |  |  |  | . 23 | Dutton, Thomas  | Leics. Regt  | Foster, Mr  | 22 Sultan St., Toronto, Ont  | England.. | Valcartier. | s |
+| 5 | 908 | 1064 | 3553 | 1100 |  |  |  |  |  |  | 23 | Davies, John H  | NU  | Davies, W. A  | 845th Regt. A. S. C., Aldershot, Eng  | England.. | Valcartier.. | s |
+| 5 | 908 | 1094 | 3554 | 1130 |  |  |  |  |  |  | 22 | Dew, William  | NU  | Dew, Mrs. M  | West Rd., Amfield Plain, Co. Durham, Eng.  | England.. | Valcartier.. | s |
+| 5 | 908 | 1123 | 3554 | 1159 |  |  |  |  |  |  | 22 | Dunlop, William  | Terr  | Dunlop, Mrs. Mary. | Strathmore Rd., HamUton, Scot  | Scotland.. | Valcarticr.. | £ |
+| 5 | 908 | 1152 | 3554 | 1188 |  |  |  |  |  |  | .. 22 | Dolan, Frank  | P.. E  | Mooney, Mrs. A  | SO Chester Rd., Hulme, Manchester, Eng.  | England... | Valcartier.. | E |
+| 5 | 908 | 1180 | 3554 | 1216 |  |  |  |  |  |  | . 23 | Don, Stewart  | 42ud Regt  | Don, Mrs. Jean | General Prison, Perth, Scot  | Scotland.. | Valcartier.. | S |
+| 5 | 908 | 1210 | 3555 | 1248 |  |  |  |  |  |  | 22 | Dalrymple, John  | Rifle Brigade..   | Cunningham, Mrs. E. | 194 John St., Toronto, Ont  | England.. | Valcartier.. | s |
+| 5 | 908 | 1239 | 3555 | 1276 |  |  |  |  |  |  | 22 | Earl, James William  | W. Kent Regt  | Earl, Mis. S  | Ware St., Thurnham, Kent  | England.. | Valcartier | £ |
+| 5 | 908 | 1268 | 3555 | 1308 |  |  |  |  |  |  | 22 | Emsley, Albert....  | NU. | ey, | 92 Hill top Mt., Leeds, Eng  | England.. | Valcartier | £ |
+| 5 | 908 | 1297 | 3555 | 1334 |  |  |  |  |  |  | 23 | Farrell, John. | 12th Regt, | Farrell, Bridget. | 70 Charles St. W., Toronto, Ont  | Canada... | Valcartier.. | £ |
+| 5 | 908 | 1326 | 3556 | 1363 |  |  |  |  |  |  | 23 | Foley, Richard  | 8th Regt  | Foley, M. A  | 18 Wellington St., Liverpool, England  | England.. | Valcartier.. | £ |
+| 5 | 908 | 1355 | 3556 | 1393 |  |  |  |  |  |  | .. 23 | Freeman, Henry Edgar  | S. Africa  | Freeman, Mrs, J. E...  | 29 Quick Rd., Chiswick, Eng    | England.. | Valcartier. | S |
+| 5 | 909 | 1383 | 3555 | 1421 |  |  |  |  |  |  | 23 | Fuller, H. | NU  | Fuller, Annie  | 24 Grey Ave., Mt. Dennis, Ont  | England.. | Valcartier.. | s |
+| 5 | 908 | 1413 | 3554 | 1450 |  |  |  |  |  |  | .. 21 | Goldstein, Hyman.. | 12th Regt  | Goldstein, Isaac.   | 205 Major St., Toronto, Ont  | England.. | Valcartier | £ |
+| 5 | 908 | 1442 | 3556 | 1479 |  |  |  |  |  |  | 22 | GoUogby, John  | 4th Roy. Art  | GoUogby, Frank  | 154 Cedar Vale Ave., Toronto, Ont  | Scotland.. | Valcartier.. | £ |
+| 5 | 909 | 1471 | 3371 | 1507 | Grant, James   | NU  | Vine, Mrs. Horace    | 20 Colmer Rd., High Rd., Streatham, London, Eng.. | England.. | Bustard |
+| 5 | 3287 | 1500 | 3557 | 1527 |  |  |  |  |  |  | . 13 | Camp.... | I |
+| 5 | 910 | 1528 | 3556 | 1565 |  |  |  |  |  |  | 23 | Granger, Carl  | NU  | Granger. Mrs. S. N   | Box 819 Newarket, Ont  | Canada... | Valcartier. |
+| 5 | 910 | 1557 | 3557 | 1594 |  |  |  |  |  |  | 23 | Grubb, Walter  | Gordon Hi, | Grubb, Jane Minnie.....  | Rose Cottage, Forbes St., Aberdeen. Scot  | Scotland.. | Valcartier.. | £ |
+| 5 | 911 | 1587 | 3557 | 1624 |  |  |  |  |  |  | 22 | Hunt, Edwin Charles.... | 3rd Dorset | Hunt, Fanny  | 20 Orchard St., Blandford, Doreet, Eng    | England.. | Valcartier.. |
+| 5 | 911 | 1616 | 3557 | 1653 |  |  |  |  |  |  | ;. 23 | Huff, Gordon E  | 25th Drag | Huff, Mrs. Mary   | Grand View, Brant Co., Ont.   .*. | Canada... | Valcartier.. |
+| 5 | 911 | 1644 | 3556 | 1682 |  |  |  |  |  |  | 22 | Hall, William  | 38th Regt  | Hali, Thomas.  .'.    | 20 Winniet St., Brantford, Ont  | England.. | Valcartier.. | s |
+| 5 | 912 | 1672 | 3556 | 1711 |  |  |  |  |  |  | 22 | Harrison, Archie  | NU  | Harrison, Arthur.  | 184 Brock St., Peter boro, Ont  | England.. | Valcartier.. | £ |
+| 5 | 912 | 1702 | 3556 | 1740 |  |  |  |  |  |  | ;. 22 | Haslam, Joseph  | 5th L. N. Lancs. Regt. | Lowe, Mrs. P.   | 2 Hewitt St., Bolton. Eng    | England.. | Valcartier.. |
+| 5 | 911 | 1729 | 3556 | 1769 |  |  |  |  |  |  | 23 | Hogan, F  | NU  | Wrinch, Mrs    | 288 Indian Rd., Toronto, Ont  | Ireland... | Valcartier. | S |
+| 5 | 912 | 1759 | 3557 | 1797 |  |  |  |  |  |  | 22 | Houghton, Joseph H  | 10th Regt  | Houghton, Mrs. E  | Niagara-on-the-Lake, Ont  | Canada... | Valcartier.. | S |
+| 5 | 913 | 1787 | 3557 | 1826 |  |  |  |  |  |  | 23 | Holland, W. S  | 7th Begt  | Gravneet, Mrs. J   | 17 West Lane, Bermondsey, London, S. E.t Eng  | England.. | Valcartier.. | £ |
+| 5 | 913 | 1819 | 3558 | 1856 |  |  |  |  |  |  | 22 | Humbert, Robert  | Oxford L. I.,  | Herbert, Mra. C.       | 761 Crawford St., Toronto, Ont  | Wales  | Valcartier. |
+| 5 | 912 | 1846 | 3558 | 1885 |  |  |  |  |  |  | 1. 22 | Harrison, William  | Nil  | Harrison, James  | Ernestville, St. James Park, Belfast, Ire  | Ireland... | Valcartier. | 5 |
+| 5 | 912 | 1878 | 3557 | 1915 |  |  |  |  |  |  | t. 23 | Hart, John  | NU    | Perkin, Mrs. M  | Cheadle, Stoke-on-Trent, Staffs, Eng  | England.. | Valcartier.. |
+| 5 | 913 | 1907 | 3558 | 1944 |  |  |  |  |  |  | t. 23 | HUl, John William  | NU  | fiiii, Beatrice Lillian.  | 185 Hyman St., London, Eng  | England.. | Valcartier.. |
+| 5 | 913 | 1936 | 3559 | 1974 |  |  |  |  |  |  | t. 22 | Hogan, Charles. ....— | Nil  | Hogan, Miss Nora  | £9 Ecdell St., London, Eng   | Ireland... | Valcarticr.. |
+| 5 | 913 | 1949 | 3558 | 2001 |  |  |  |  |  |  | fc. 24 | Hembrolf, Thomas Mjtckenzie | NU. | Kembroff, D. B  | Gladstone, Man  •• | Canada... | Valcartier.. | i |
+| 5 | 913 | 1993 | 3557 | 2030 |  |  |  |  |  |  | t. 21 | Harrison, A   | NU, | Harrison, George  | 45 Rosamond St. E., C. on M., Manchester, Eng  | Valcartier.. |
+| 5 | 913 | 2022 | 3559 | 2060 |  |  |  |  |  |  | t. 22 | Hubling, Charles    | R. A. M. C | Veates, Mrs  | 663 Richmond St. W., Toronto, Ont  | England. | Valcartier. | i |
+| 5 | 911 | 2051 | 3559 | 2089 |  |  |  |  |  |  | t. 22 | Jackson, Alfred  | NU  | Jackson, Mrs. F  | 67 Torriano Ave., London, N. W., Eng  | England. | Valcartier.. |
+| 5 | 910 | 2084 | 2029 | 2118 | Johnston, W  | Particulars will be furnished | jwhen available. |
+| 5 | 912 | 2110 | 3560 | 2148 |  |  |  |  |  |  | t. 23 | Kent, Edwin Edward   | Nil.... | Kent, Edwin  | 33 West Bank. Seamer ltd.. Scarboroiigh, Eng  | England. | Valear |
+| 5 | 912 | 2144 | 2221 | 2179 | Kirkpatrick  | (Particulars wfll furnished be | Swhen available.   |
+| 6 | 648 | 297 | 3536 | 337 | Private. | Kerr, John  | Nil  | Ken, A  | 1 Alexander St., Renton, Scot  | Scotland. | Valcartier. | Sept. 22 |
+| 6 | 566 | 328 | 3536 | 367 | 10610 | Private. | Lockyer, Wilfred M. | Can. Militia. | GrenviUe, Mrs. Mary  | Niagara Falls South, Ont  | England.. | Valcartier. | Sept. 22 |
+| 6 | 567 | 358 | 3535 | 398 | 10665 | Private.. | Kelly, Thomas. E... | 12th Regt.... | KeUy. Mrs. M  | 17 Otter Ave., Toronto, Ont  | Canada... | Valcartier. | , Sept. 23 |
+| 6 | 496 | 393 | 2459 | 428 | “3 10664 | Private.. | Kerr, G  | Particulars wUl be furnished | when available. |
+| 6 | 496 | 417 | 3536 | 457 | So 10666 | Private.. | Knight, John E  | Sherwood Foresters. | Semper, Mrs  | Grimsby, P. 0., Ont  | England. | Valcartier. | . Sept. 22 |
+| 6 | 497 | 446 | 3535 | 484 | to 11590 | Private. | Kinghorn, Joe  | 45th Regt  | McCarthy, M  | Grasshill, Ont  | Canada.. | Valcartier. | Sept. 23 |
+| 6 | 496 | 475 | 3536 | 543 | «p 10667 | Private. | Linfoct, W. Joseph... | Imp. Inf  | Linfoot, Mrs. Annie   | 553 Lansdowne Ave., Toronto, Ont  | England. | Valcartier. | . Sept. 22 |
+| 6 | 649 | 504 | 3536 | 542 | Private. | Lindridge, Norris  | Terr  | Lindridge, Elsie  | 3 Spears Ave. W., Toronto, Ont  | England. | Valcartier. | . Sept. 22 |
+| 6 | 496 | 540 | 3014 | 573 | 09 10668 | Private. | Lyach, Joseph  | 14th King’s Own. | Lynch, Maggie  | cjo. J. DelaUunt, Br. V. Consul for Venezuela, Liver¬ |
+| 6 | 2284 | 561 | 3535 | 603 |  |  |  |  | pool, Eng •   | Ireland  | Valcartier. | Sept. | 22 |
+| 6 | 566 | 591 | 3535 | 631 | 10669 | ! Private  | Lawrence, Clifford. | Nil  | Lawrence, Mrs. E. M  | 105 Clare St., Toronto, Ont  | Jamaica  | Valcartier. | Sept. | 22 |
+| 6 | 648 | 620 | 3535 | 661 | Private  | Lamothe, Oscar  | NU  | Coran, Hermaline  | St. Maurice, P.Q  | Canada  | Valcartier. | Sept. | 22 |
+| 6 | 567 | 650 | 3534 | 690 | 10606 | > Private  | McDaniel, Edward  | NU  | McDaniel, Mrs. K  | Dungannon. Co. Tyrone, Ire  | Ireland  | Valcartier. | Sept. | 22 |
+| 6 | 567 | 679 | 3535 | 719 | 10611 | ; Private  | Mercer, James  | NU  | Mercer, Mrs. E  | 46 Tates Ave., Belfast Ire    | Ireland  | Valcartier. | Sept. | 22 |
+| 6 | 567 | 708 | 3534 | 749 | 10616 | I Private  | Mountain, William J  | Imp. A. S. C.. | Mountain, Mrs. M    | Mount Pleasant, Marden, Kent, Eng  | England  | Valcartier. | Sept. | 22 |
+| 6 | 649 | 737 | 3535 | 778 | Private  | Mills, John  | Nil  | Jar.WRon, Mrs. M....   | 112 Logan Ave. Toronto Ont    | England  | Valcartier. | Sept.. | 22 |
+| 6 | 568 | 766 | 3534 | 807 | 10670'iPrivate  | Maffey, Harry  | K. R. R  | McGill, Frank..  | 155 Woolfrey Ave., Toronto, Ont  | England  | Valcartier. | Sept. | 22 |
+| 6 | 567 | 796 | 3535 | 837 | 1067l|Private  | Meyer, Harry  | 12th Regt  | Meyer, Mrs. E    | 53 JubUee Bldgs., Wapping, London, Eng    | England  | Valcarticr. | Sept. | 22 |
+| 6 | 650 | 825 | 3534 | 866 | Private  | Milligan, J  | NU  | Callow Arthur  | 54 Scollard St., Toronto, Ont  | England  | Valcartier. | Sept. | 22 |
+| 6 | 568 | 854 | 3534 | 895 | 10673 | I Private  | Mills, Thomas  | NU  | Harman, Mrs. J  | Bradford, Ont    | England  | Valcartier. | Sept. | 22 |
+| 6 | 568 | 885 | 3535 | 924 | 10673 | ! Private  | Multen, William E  | Nil  | Muten, Mrs. B   | 184 Berkeley St., Toronto, Ont  | England  | Valcartier. | Sept. | 22 |
+| 6 | 568 | 913 | 3534 | 954 | 10674 Private  | Morris, Walter  | Staffs. Regt  | Morris, Mrs. J   | 167 Summerfield Crescent, Birmingham, Eng.... | England  | Valcartier. | Sept. | 23 |
+| 6 | 568 | 942 | 3534 | 987 | 10675j Private  | Martin, Stephen J  | Devon Regt  | Brown, Mrs. E. M   | 7 Blackfriar St., Canterbury, Kent, Eng  | England  | Valcartier. | Sept. | 22 |
+| 6 | 643 | 971 | 3534 | 1010 | i Private  | Manticr, Wm  | Can. Mil  | Mantier, Francis  | New Credit, Ont  | Canada  | Valcartier. | Sept. | 22 |
+| 6 | 568 | 1000 | 3535 | 1040 | 106761 Private  | Muir, James  | Nil  | Muir, Mrs. I  | Anchencairn Castle, Douglas, Scot  | Scotland  | Valcartier. | Sept. | 22 |
+| 6 | 568 | 1030 | 3535 | 1070 | 10677] Private  | Miles, John  | 19th Regt  | Miles, Mrs. S. J  | 363 Yonge St., Toronto, Ont  | England  | Valcartier. | Sept. | 23 |
+| 6 | 568 | 1059 | 3535 | 1098 | 10678: Private  | Morris, Fred  | NU  | Morris, Mrs. E  | 260a Earlscourt Ave., Toronto, Ont  | England. | Valcartier. | Sept. | 22 |
+| 6 | 569 | 1087 | 3536 | 1127 | 10679 | I Private | McDonald, James  | NU  | WaUis, Miss Eve...'  | Poplar Farm. Woodbridge, Ont  | Scotland. | Valcartier. | Sept. | 22 |
+| 6 | 568 | 1116 | 3536 | 1158 | 10650 | 1 Private  | Moody, Stanley  | Nil  | Moody, Mrs. W. J  | 83 Weber St., East Berlin, Ont  | Canada.. | Valcartier. | Sept. | 22 |
+| 6 | 568 | 1145 | 3536 | 1185 | 10651 | Private  | Mathewson, John   | R. G. A  | Mathewson, Miss H  | 17 Lyon St., Dundee, Scot  | England. | Valcartier. | Sept. | 22 |
+| 6 | 569 | 1174 | 3536 | 1215 | 10682 | ! Private  | Morris, Edgar   | NU  | Morris, Mrs. Emma  | 481 Church St., Toronto, Ont  | England. | Valcartier. | Sept. | 22 |
+| 6 | 651 | 1203 | 3536 | 1244 | Private  | McFarland, John  | 37th Regt  | McFarland, Mary  | EnniskiUen, Fermanagh, Ire  | Ireland.. | Valcartier. | Sept. | 22 |
+| 6 | 569 | 1233 | 3536 | 1274 | 10683 | ! Private  | McQuay, Robert  | Nil  | Friendship, Mrs  | 9 Scollard St., Toronto, Ont   | England. | Valcartier. | Sept. | 22 |
+| 6 | 569 | 1262 | 3537 | 1303 | 106S4 | I Private  | Nutt, Ernest  | NU  | Nutt, Louise  | 106 Mill St., Leek, Staffs., Eng  | England. | Valcartier. | Sept. | 22 |
+| 6 | 651 | 1291 | 3537 | 1331 | Private  | Osborne, Ernest Edward. | Nil  | Osborne, G  | Midland, Ont  | Canada.. | Valcartier. | . Sept. | 22 |
+| 6 | 568 | 1321 | 3537 | 1360 | 10685 | i Private  | Pope, William  | R. E  | Pope, Charles  | 1 Rosebauk Terrace, Aberdeen, Scot  | Scotland | Valcartier. | . Sept. | 22 |
+| 6 | 568 | 1350 | 3538 | 1388 | 10686 Private  | Parker, Albert  | NU  | Parker, Mrs. M  —  | 32 Niagara St., Toronto, Ont  | Canada.. | Valcarticr. | . Sept. | 22 |
+| 6 | 568 | 1379 | 3538 | 1419 | 10609| Private  | Pepperell. William Charles | 4th Regt  | PeppereU, Mrs. Harriet Violet. | 123 Goldwell Rd., Norwich, Eng  | England  | Valcartier. | . Sept. | 23 |
+| 6 | 643 | 1407 | 3538 | 1446 | I Private  | Paxton, Walter  | 12 th Lancers  | Paxton, Mrs. Elizabeth  | 234 Britain St., St. John, N.B  | England. | Valcartier. | . Sept. | 23 |
+| 6 | 568 | 1437 | 3539 | 1478 | 10615jPrivate  | Peacey, Charles H  | Nil  | Peacey, Mrs. C. H  | 3 North St., Toronto, Ont  | Canada.. | Valcartier. | . Sept. | 22 |
+| 6 | 567 | 1466 | 3539 | 1507 | 10617[Private  | Rouse, Thomas  | Nil  | Rouse, Mrs. S  | Beaconsfield Rd., Ipswich, Eng  | England. | Valcartier. | . Sept. | 22 |
+| 6 | 568 | 1495 | 3539 | 1538 | 10687jPrivate  | Rider, Joseph  | West Surrey Regt | Rider, Mrs. Mary E    | 4 Rowland Place, King St. E., Toronto, Ont  | England. | Valcartier. | . Sept. | 22 |
+| 6 | 567 | 1524 | 3539 | 1566 | 1068S | Private  | Rooney, John..    | Nil  | Fletcher, Mrs. M  | Heman St., Mimico, Ont  | Canada  | Valcartier. | . Sept. | 22 |
+| 6 | 567 | 1553 | 3539 | 1593 | 106S91 Private  | Raymond, Charles  | Nil   | Raymond, Montague  | 26 Gibson Ave., Hamilton, Ont  | Canada  | Valcartier. | . Sept. | 22 |
+| 6 | 567 | 1583 | 3540 | 1623 | 106S9 Private  | Reynolds, Harry  | Leicester Regt... | Reynolds, Mrs. J. H  | 9 Mansfield St., Leicester, Eng  | England  | Valcartier. | . Sept. | 23 |
+| 6 | 568 | 1612 | 3540 | 1654 | 10690]Private  | Rayner, George  | East Kent Regt. | Rayner, Mrs. Louisa  | 49 Devonshire Rd., Palmer Green, London N., Eng... | England  | Valcartier. | . Sept. | 22 |
+| 6 | 567 | 1641 | 3540 | 1681 | 10691 iCorporal  | Sahrond, Henry James.. | R. M. A  | Searth, Mrs. Isobel  | 107 Marchmont Rd., Edinburgh, Scot  | India  | Valcartier. | . Sept. | 22 |
+| 6 | 567 | 1670 | 3540 | 1709 | 10692'Private  | Smit h, James A  | Nil  | Smith, A  | 72 Aiton Ave., Toronto, Ont  | Canada  | Valcartier. | . Sept. | 22 |
+| 6 | 567 | 1698 | 3540 | 1738 | 10693 Private  | Shaw, Wi'.liam Fred  | R. G. A  | Clark, Mrs. Maria  | 12 Ulster St., Phibsborough, Dublin, Ire  | Ireland  | Valcartier. | . Sept. | 22 |
+| 6 | 567 | 1727 | 3540 | 1767 | 10694 Private  | Sinan, Edward  | R.C.R. & L.R.C | Sinan, Mre. Clara  | 78 Beverley St., Toronto, Ont  | Canada  | Valcartier. | . Sept. | 22 |
+| 6 | 567 | 1756 | 3541 | 1796 | 10695 Private  | Stovell, Charles George.. | NU .-. | Stovell, C. G   | 64 Leverton St., London, Eng  | England  | Valcartier. | . Sept. | 22 |
+| 6 | 567 | 1785 | 3541 | 1824 | 10096: Private  | Skilfingtcn, Patrick  | 8th K. R  | Skiffington, Mrs. B  | 30 Ben Johnson St., Liverpool, Eng  | England  | Valcartier. | . Sept. | 22 |
+| 6 | 567 | 1814 | 3541 | 1854 | 10697 Private  | Terrell, Charles W  | R. A. M. C  | TerreU, James C 1 | 40 Claremont St., Plymouth, Eng  | England  | Valcartier. | . Sept. | 23 |
+| 6 | 3243 | 1844 | 3536 | 1872 |  |  |  |  |  |  | Valcartier. | . Sept. | 21 |
+| 6 | 566 | 1852 | 3228 | 1884 | 10559'Private  | Tierney, J. J  |  | Tierney, Charlotte A  | 237 King WUliam St., HamUton, Ont  | Canada  |
+| 6 | 566 | 1873 | 3541 | 1912 | 10698 Private  | Verrell, Herbert   | Nil  | VerreU, Mre. E. M  | 18 Alexandra Rd., Hornsey, London, Eng  | England  | Valcartier. | . Sept. | 22 |
+| 6 | 3243 | 1902 | 3541 | 1930 |  |  |  |  |  |  | Valcarticr. | . I Sept. | 22 |
+| 6 | 567 | 1910 | 3230 | 1942 | 10707‘Private  | Verral, Edgar R  | R. C. R. | Verral, Mrs. R    | 225 Dundas St., Toronto, Ont    | Canada  |
+| 7 | 543 | 577 | 3132 | 610 | Reg. | Rank. | Name (Surname first). | Corps (if any). | Nome of Next cf Kin. | of |
+| 7 | 553 | 752 | 3534 | 783 | in«u | Private | Williams, Andre's? H  | 25th L. Horse  | Williams, Mrs. George.... | 2Suj Darling St., Brautfoiu, Gut......... | Cauaua  | Valcartier. | Sept. 23 |
+| 7 | 554 | 776 | 3534 | 814 | 10609 | Private | Woods, William   | Can. Militia  | Honeywell, Catherine  | 156 Baldwin St., Toronto, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 7 | 554 | 806 | 3534 | 842 | 10700 | Private | Walton, Leonard  | Duke Wellington Regt. | Walton, Mrs. A  | 25 Croyn Ave., Toronto, Ont   | England  | Valcartier. | Sept. 22 |
+| 7 | 555 | 839 | 3534 | 871 | 10701 | Private | Wilson, James H  | Connaught Rangers  | Nil  | NU  | Ireland  | Valcartier. | Sept. 22 |
+| 7 | 555 | 868 | 3535 | 901 | 10702 | Private | Whitley, Thomas  | York & Lancs. Regt... | Clarke, Mrs. M. J  | 15 Dean St., Toronto, Ont. .;  | England  | Valcartier. | Sept. 22 |
+| 7 | 555 | 897 | 3535 | 930 | 10703 | Private | Wilkinson, Walter  | .Manchester Regt  | Wilkinson, Mrs. M. E  | Haliburton, Ont    | England  | Valcartier. | Sept. 22 |
+| 7 | 556 | 926 | 3535 | 959 | 10704 | Private | Williamson, Alexander  | 10th Roy. Gren  | Williamson, Fred  | 115 Isabel St., Winnipeg, Man  | Ireland  | Valcartier. | Sept. 23 |
+| 7 | 555 | 955 | 3535 | 988 | 10705 | Private | Wilson, William A  | Nil  | Wilson, Mrs. C  | 114 Shaftsbury Ave., Toronto, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 7 | 556 | 984 | 3536 | 1018 | 11131 | Private | Winter, Gay Thurston  | 30th Regt  | Austin, Mrs. J. E   | Simcoe, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 7 | 556 | 1013 | 3537 | 1047 | 10706 | Private | Young, David  | Royal Scots  | Young, Mrs   | No. 1 Cottage, Westbarns, Dunbar, Scot. | Scotland  | Valcartier. | Sept. 22 |
+| 7 | 639 | 1225 | 3536 | 1257 | Captain  | Rodgers, George R  | 35th Regt, | Rodgers, Mrs. Etta... | Barrie, Ont    |  | Valcartier. | Sept. 21 |
+| 7 | 641 | 1253 | 3537 | 1287 | Lieutenant  | Young, Newton Manley  | 35th Regt. | Young, T. T  | Barrie, Ont  |  | Valcartier. | Sept. 21 |
+| 7 | 641 | 1283 | 3536 | 1316 | Lieutenant  | Bennett, John Hyde  | 12th Regt | Bennett, Mrs. Annie.. | 132 Beech Ave., Balmy Beach, Toronto, Ont  |  | Valcartier. | Sept. 21 |
+| 7 | 641 | 1312 | 3537 | 1343 | Lieutenant  | Wallace, J. Clark  | 9th Horse. | Wallace, Angus  | Box 70, Orillia, Ont  |  | Valcartier. | Sept. 21 |
+| 7 | 560 | 1336 | 3538 | 1377 | 10714 | Col.-Sergeant. | Groom, Charles  | Groom, Mrs. C.^  | Ill Peter St., South Orillia, Ont  | England. | Valcartier. | Sept. 22 |
+| 7 | 560 | 1370 | 3539 | 1404 | 1085! | Col.-Sergeant. | Easterby, Thomas Arthur... | 19th Wilts Regt  | Easterby, Mrs. T. A.. | 52 Aikman Ave., Hamilton, Ont  | England. | Valcartier. | Sept. 22 |
+| 7 | 560 | 1399 | 3538 | 1432 | 10715 | Sergeant  | Saunders, Ed. Charles  | R. C. R  | Saunders, Mrs. E. C.. | c/o Mrs. Thompson, Midland, Ont  | England. | Valcartier. | Sept. 23 |
+| 7 | 560 | 1424 | 3538 | 1461 | 10716 | Sergeant  | Smith, Robert Ernest  . | S. A., M. P  | Smith, John  | Barrie, Ont  | Canada.. | Valcartier. | Sept. 22 |
+| 7 | 561 | 1457 | 3539 | 1490 | 10717 | Sergeant  | Weeks, Harold..  | R. C. R  | Weeks, Mrs. M  | Box 277, Midland, Ont  | Canada.. | Valcartier. | Sept. 23 |
+| 7 | 560 | 1481 | 3539 | 1519 | 10719 | Corporal  | Lake, Walter Norman  | Nil | Dawson, Isabella  | 138 Magdalen St., Norwich, Eng    | England. | Valcartier. | Sept. 22 |
+| 7 | 560 | 1516 | 2094 | 1547 | 10721 | Corporal  | MacGuire, R  | Particulars will be iumished w | hen available  |
+| 7 | 561 | 1543 | 3539 | 1576 | 10720 | Corporal  | Pearce, Samnel Henry  | Nil  | Pearce, C. C  | Owen Sound, Ont  | Canada. | Valcartier. | Sept. 22 |
+| 7 | 561 | 1571 | 3540 | 1606 | 10722 | Corporal  | Westlake, Edward.   | 12 th Regt  | Westlake, Mrs. if..... | 909 Palmerston Ave., Toronto, Ont. | Canada. | Valcartier. | Sept. 23 |
+| 7 | 561 | 1602 | 3540 | 1634 | 11426 | Armourer  | Hurst, Ernest  | Roy. Irish Rifles  | Hurst, Samuel H  | 854 Dundas St., Toronto, Ont  | Canada. | Valcartier. | Sept. 22 |
+| 7 | 561 | 1632 | 3395 | 1663 | 10728 | Private  | Alger, Thomas  | NU  | Alger, Mrs. E...   | Glen Williams, Out   | Canada.. | Valcartier. |
+| 7 | 562 | 1663 | 1318 | 1692 | 10851 | Private  | Bennett, R. (Act. Provost Ser¬ |
+| 7 | 945 | 1690 | 2113 | 1720 |  | geant)   | Particulars will be furnished w | hen available  |
+| 7 | 563 | 1717 | 3542 | 1748 | 1072-1 | Private....... | Belcher, Andrew   | Cameron High  | Belcher, Mrs. E  | Penetang, Ont  | Scotland. | Valcartier. | Sept. 22 |
+| 7 | 563 | 1743 | 2114 | 1776 | 10737 | Private  | Betts, R  | Particulars will be furnished w | hen available  |
+| 7 | 564 | 1774 | 3527 | 1806 | 11511 | Private....... | Brooks, Reginald Walter  | Nii  | Langridge, Mrs. E  | 36 Porthcaire Rd., Lower Sydenham, London, Eng... | England.. | Valcartier. | Sept. 2 |
+| 7 | 564 | 1804 | 2998 | 1836 | 1073S | Private  | Baxter, A  | Baxter, Mre. A  | 37 Greenwich St., Brantford, Ont  |
+| 7 | 564 | 1832 | 3541 | 1865 | 10739 | Private  | Benton, Arthur.   | Roy. West Kent Regt   | Benton, Miss Susan  | Melbome Port, Eng    | England.. | Valcartier. | Sept. 23 |
+| 7 | 564 | 1863 | 3540 | 1895 | 10740 | Private  | Bradbury, George    | Nil  | Beaver, Miss Nellie.... | Box 606, Orillia, Ont  | England.. | Valcartier. | Sept. 21 |
+| 7 | 566 | 1892 | 3541 | 1924 | 10741 | Private..  | Blake, John Edward  | Nil....  | Blake, Mrs. J  | 113 University St., Montreal, P.Q  | Canada... | Valcartier. | Sept. 23 |
+| 7 | 648 | 1921 | 3541 | 1953 | Private  | Burritt, Royal  | Nil  | Burritt, Elsie Gordon.. | S50 Dorchester Ave., Winnipeg, Man  | Canada... | Valcartier. | Sept. 23 |
+| 7 | 567 | 1944 | 3541 | 1982 | 10742iPrivatc  | Bayley, Joseph Hodgson  | Nil  | Bayley, Mrs. A  | 157 Halliwell Lane, Chatham Hill, Manchester, Eng. | England.. | Valcartier. | Sept. 22 |
+| 7 | 567 | 1978 | 3540 | 2014 | 10728jPrivate  | Curtis, J  | Nil  | Curtis, W. L   | 487 Parliament St., Toronto, Ont  | England.. | Valcartier. | Sept. 21 |
+| 7 | 567 | 2005 | 3541 | 2040 | 107331 Private  | Cronie, Archibald  | Roy. Scotch Fus  | Cronie, John    | 478 Gairbraid St., Mary hill, Glaegow, Scot   | Scotland.. | Valcartier. | Sept. 22 |
+| 7 | 567 | 2037 | 3542 | 2070 | 10743|Private  | Craven, Ernest H  | 2nd York Regt  | Craven Mrs. Emily.... | 42 Cowper Grove, Leed s Eng  | England.. | Valcartier. | Sept. 23 |
+| 7 | 567 | 2063 | 3542 | 2098 | 10744 Private  | Carbury, Arthur  | Nil  | Carbury, William  | 195 Humberside Ave., Toronto, Ont  | Canada... | Valcartier. | Sept. 23 |
+| 8 | 565 | 372 | 1987 | 406 | 1074.jnivatc | Cook, J  | Particulars will be furnished w | hen available. |
+| 8 | 566 | 403 | 3180 | 436 | 10746 | Private  | Crouch, Jack  | Crouch, Dudley  | S.O.E. Lodge, Owen Sound. Ont  | England.., |
+| 8 | 566 | 432 | 3170 | 465 | 10628 | Private  | Collins, Charles   | Royal Scots  | Robinson, Kate  | 25 Grove Rd., Bow, London, Eng  | England.. |
+| 8 | 566 | 451 | 3543 | 494 | 10747 | Private  | Cohen, Arthur Henry  | Nil...:  | Cohen, Mrs. A    | Box 16, Midland, Ont  | England.. | Valcartier. | Sept. 22 |
+| 8 | 650 | 480 | 3542 | 521 | Private  | Cummins, J  | NU  | Williams, Mrs. N  | 77 Cemetery Rd., Preston, Lancs., Eng  | England.. | Valcartier. | Sept. 22 |
+| 8 | 650 | 509 | 3543 | 550 | Private  | Curtis, John Henry  | NU  | Curtis, Miss Carrie  | 45 Elmer Ave., Toronto, Ont  | Canada... | Valcartier. | Sept. 22 |
+| 8 | 568 | 538 | 3543 | 582 | 107-iS Private  | Cummins, Peter  | Loyal Lanes. Regt  | WiUiams.'Mre. Nora | Preston, Lancs., Eng  | England.. | Valcartier. | Sept. 22 |
+| 8 | 568 | 568 | 3543 | 612 | 10749 Private  | Carmichael, R    | Nil.   | Carmichael, Wm  | Collingwood, Ont       | Canada... | Valcartier. | Sept. 22 |
+| 8 | 567 | 597 | 3543 | 641 | 10750 Private  | Clark, Charles  | R. E  | Clark, George  | 16 Church Lane, Lexton, Eng  | England.. | Valcartier. | Sept. 22 |
+| 8 | 568 | 627 | 3543 | 671 | 10751 Private  | Case, Thomas John Bowman. | NU  | Bowman, Thomas  | Shanty Bay, Ont  | Canada... | Valcartier. | Sept. 22 |
+| 8 | 567 | 656 | 3543 | 701 | 10752 Private  | Dorricott, Thomas Albert... | R. A. M. C  | Dorricott, Hetty  | Mount Dennis, Toronto, Ont  | England.. | Valcartier. | Sept. 23 |
+| 8 | 650 | 694 | 3174 | 727 | Private  | Davis, Eric .  | NU  | Davis, R. E   | 433 Clinton St., Toronto, Ont  | England.. |
+| 8 | 567 | 714 | 3544 | 759 | 10753 Private  | Drinkwater, William  | NU  | Drinkwater, John...... | 110 Middlewick Road, Northwick, Eng  | England.. | Valcarticr. | Sept. 22 |
+| 8 | 650 | 743 | 3544 | 791 | Private..   | Dodd, N ..  | NU  | Jones, Mrs. T.......... | Cheuoke P.O., Hamuton, Oni  | England.. | Valcartier. | Sept. 22 |
+| 8 | 568 | 772 | 3544 | 816 | 10833 Private  | Evans, Ernest Reginald  | NU  | Evans, Mrs. E  | 38 Derwent Road, Stony croft, Eng  | England.. | Valcartier. | Sept. 23 |
+| 8 | 568 | 801 | 3544 | 844 | 108471 Private  | Fraser, John  | 3rd Lincoln Regt  | Fraser, Mrs. Agnes  | 9 Perry St., Barrie, Ont, | England.. | Valcartier. | Sept. 23 |
+| 8 | 568 | 839 | 3178 | 874 | 10754 Private  | Falconer, R  | NU.  | Falconer, Mrs. A  | 22 Harbour Quay, Caithness, Scot.  | Scotland.. |
+| 8 | 569 | 860 | 3545 | 904 | 10755‘Private  | Ferrier, Hugh  | R. G. A  | McKenzie, Mrs. C  | Braemar VUla, Harrowden Rd., Inverness, Scot  | Scotland.. | Valcarticr. | . Sept. 22 |
+| 8 | 569 | 898 | 3176 | 934 | 10756 Private  | Griffiths, Harold  | NU  | Griffiths, Frank  | 155 Victoria Park Road, S. Hackney, London, Eng.... | England.. |
+| 8 | 569 | 918 | 3544 | 963 | 107271 Private  | Gillin, Thomas James  | Imp. Army  | Gillin, MatUda, Mrs.... | 73 Hampton Terrace, Portadown, Ire  | Ireland... | Valcartier. | , Sept. 22 |
+| 8 | 569 | 947 | 3543 | 993 | 1075/1 Private  | Garland, A .  | Nil  | McFadden, Mrs. A  | Lakcfield, Ont   | Canada... | Valcartier. | . Sept. 21 |
+| 8 | 570 | 977 | 3545 | 1021 | 1075S!Private  | Goddard, Frederick Sydney. | R. N  | Goddard, Mrs. E  | Elm St., CoUingwood, Ont   | England.. | Valcarticr. | , Sept. 23 |
+| 8 | 570 | 1005 | 3544 | 1050 | 10759'Private  | Gazley, Ray  | Nil    | Gazley, Mrs. Charlotte | Barrie, Ont   • | Canada... | Valcartier. | . Sept. 23 |
+| 8 | 570 | 1034 | 3546 | 1083 | 10760; Private  | Gliddon, Alfred Charles  | 35th Regt   | Gliddon, James  | Allandale, Ont  | Canada... | Valcartier. | . Sept. 23 |
+| 8 | 570 | 1064 | 3546 | 1109 | 10725:Private  | Herrell, Clifford E  | 35th Regt    | Herrell, Mrs. J  | AUandale, Ont   | Canada... | Valcartier. | . Sept. 23 |
+| 8 | 570 | 1093 | 3546 | 1146 | 10761|Private  | Hartill, Ernest  | NU  | Hartill, Richard  | 13 Baxter St., Sheffield, Eng  | England.. | Valcartier. | . Sept. 22 |
+| 8 | 570 | 1121 | 3546 | 1172 | 10762| Private  | Henrv, William  | Manchester Regt  | Henry, Rose  | 156 Higher Road, Urmston, Manchester, Eng  | England.. | Valcartier. | . Sept. 22 |
+| 8 | 571 | 1151 | 3546 | 1197 | 10763! Private  | Hall, Bud  | Nil  | Hall, Matthew  | Hawkestone, Ont  | Canada... | Valcartier. | . Sept. 23 |
+| 8 | 571 | 1180 | 3545 | 1230 | 10764 Private  | Hanna, William...._  | Antrim ArtUlery  | Hanna, Sarah  | 44 Cumbermere St., BeUast, Ire  | Ireland... | Valcartier. | , Sept. 21 |
+| 8 | 571 | 1209 | 3546 | 1255 | 10785 Private  | Henniston, Frederick  | NU  | Hermiston, Mrs. P  | Box 110, Orillia, Oct    | Canada... | Valcartier. | . Sept. 22 |
+| 8 | 570 | 1239 | 3546 | 1285 | 10786 Private | Hunter, William Roy  |  | Hunter, Mrs. Sarah— | SwalweU, Alta  | Canada. | Valcartier. | . Sept. 23 |
+| 8 | 653 | 1268 | 3547 | 1312 | Private | Hutchinson, W'm. Norman... | 36th Regt  | Hutchinson, Miss I  | Caledon East, Ont  | Canada. | Valcartier. | . Sept. 23 |
+| 8 | 571 | 1298 | 3547 | 1342 | 10787 Private  | Henderson, Robert  | 42nd Black Watch  | Nil  | NU  | Scotland. | Valcartier. | . Sept. 22 |
+| 8 | 572 | 1327 | 3548 | 1372 | 10755 Private  | Harrison, George  | 1st Northants. Regt  | Harrison, Thomas— | Back of 50 Albert St., Alfred, Kettering, England  | England. | Valcartier. | . Sept. 22 |
+| 8 | 572 | 1368 | 2116 | 1401 | 10789 Private  | Holmes, John William  | 69th Manchester Regt  | Holmes, Mrs. Aiiue, e |
+| 8 | 1821 | 1384 | 3547 | 1424 |  |  |  | T Wood  | Oldham Road, Rochdale, Eng    | England | Valcartier. | . Sept. 23 |
+| 8 | 572 | 1415 | 3548 | 1459 | 10790 | Private  | Hearn, William  | Nil  | Hearn, Elizabeth. | Brackley, Eng  | England | Valcartier. | . Sept. 22 |
+| 8 | 572 | 1443 | 3548 | 1488 | 10791 | Private  | Henderson. John  | Terr  | Henderson, Mrs. A— | Shoreside, Dunbeath, Caithness, Scot  | Scotland. | Valcarticr. | . Sept. 23 |
+| 8 | 572 | 1472 | 3547 | 1517 | 10838 | Private  | Iddenden, Arthur  | Nil  | Iddenden, T  | 9 Union Row, Ivy Lane, Canterbury, Eng  | England  | Valcartier. | . Sept. 22 |
+| 8 | 572 | 1502 | 3549 | 1545 | 10792 | Private  | Johnston, James Thomas  | 44th Essex Regt.. | Ferring, Mrs  | 15 Eastney St., Greenwich, London, Eng  | England  | Valcartier. | . Sept. 23 |
+| 8 | 572 | 1531 | 3549 | 1575 | 11442 | Private  | Jacobs, Harry  | 5th Buffs   | Jacobs, Edith, Mrs  | Collingwood, Ont  | England | Valcartier. | . Sept. 22 |
+| 8 | 572 | 1560 | 3550 | 1604 | 10793 | Private  | Jones, Anthony Liddon  | O. T. C  | Jones, 0atlierine_Mary | Compton, nr. Winchester, Eng  | England | Valcartier. | . Sept. 22 |
+| 8 | 573 | 1590 | 3549 | 1633 | 10794 | Private  | Kelly, Thomas E  | Merrick. Mrs.  | 38 William St. N., Hamilton, Ont , | Canada. | Valcartier. | . Sept. 32 |
+| 8 | 657 | 1619 | 3549 | 1660 | Private  | Kinch, Irvin T. R  | NU  | Kinch, William H  | Sturgeon Bay, Ont  | Canada. | Valcartier. | . Sept. 22 |
+| 8 | 573 | 1648 | 3549 | 1691 | 10795 | Private  | Klepper, Julius  | West Riding Art.. | Klepper, John B  | Woodview, Bradford, Yorks., Eng  | England | Valcartier. | . Sept. 22 |
+| 8 | 655 | 1677 | 3547 | 1717 | Private".  | Kinch, J  |  | Kinch, Mrs. E. S  | Midland, Ont  | Canada. | Valcartier. | . Sept. 21 |
+| 8 | 574 | 1705 | 3548 | 1747 | 10835 | Private  | Leigh, Horace Cooper  | Nil  | Leigh, Mrs. A   | Bluecap Hotel, 6C Market St., Crewe, Eng  | England | Valcartier. | . Sept. 22 |
+| 8 | 574 | 1734 | 3548 | 1776 | 10796 | Private  | Lawton, Claude.  | Nil  | Lawton, Mrs. C. W— | Paris, Ont  | Canada  | Valcartier. | . Sept. 23 |
+| 8 | 574 | 1763 | 3549 | 1805 | 10797 | Private  | Leslie, John Alexander  | 7th Illinois Regt. | Leslie, Mrs. R. P..... | HuntsvUle, Ont  | Canada  | Valcartier. | . Sept. 22 |
+| 8 | 574 | 1793 | 3547 | 1833 | 10798 | Private  | Lynch, Edward  | Roy. Fus  | Lynch, Mrs. M  | 26 Stadiburn St., Kings Road, Chelsea, London, Eng.. | Scotland | Valcartier | . Sept. 21 |
+| 8 | 575 | 1823 | 3550 | 1862 | 10729 | Private  | Murray, Thos. Haniugton  | NU  | Murray, J. Albert  | Shediac, N.B    | Canada.. | Valcartier. | . Sept. 22 |
+| 8 | 576 | 1853 | 3549 | 1891 | 10799 | Private  | Mackness, Frank  | NU  | Mackness, Mrs. C   | 31 Cloutham St., Northampton, Eng  | England  | Valcartier. | . Sept. 22 |
+| 8 | 576 | 1888 | 3166 | 1921 | 108(H) | Private  | Maines, James  | NU...  | Mair.es, Frances  | Midland, Ont   | Canada.. |
+| 8 | 576 | 1910 | 3550 | 1950 | iosoi; | Private  | Melody, Albert Jas  | Nil  | Melody, Mrs. M. J  | 77 Muiliner St., Smithdown Rd., Liverpool, Eng  | England. | Valcarticr. | . Sept. 22 |
+| 8 | 576 | 1939 | 3549 | 1977 | 10802 | Private  | Meilis. Alexander  | Mcllis, Mrs  | 27 Nelefield Place, Aberdeen, Scot  | Scotland | Valcarticr. | . Sept. 22 |
+| 8 | 576 | 1968 | 3550 | 2007 | IO8O01 | Private  | McCready, Daniel  | 3rd Regt.  | McCready, Mrs. D  | 133 Crossarthurton St., Barrhead, Scot  | Scotland | Valcartier. | . Sept. 23 |
+| 8 | 576 | 2001 | 3162 | 2036 | 10834! | Private  | Muir, William  | Imp. Army. | Muir, Mrs. H  | 3 Gladstone Terrace, Edinburgh, Scot  | Scotland |
+| 9 | 568 | 572 | 2806 | 605 | rajj. | Name (Surname first). |  | Name of Next of Kin. |
+| 9 | 575 | 744 | 3549 | 781 | 10843 |  |  |  |  |  | . 23 | Murphy. James Michael*. | Roy, M. L I... | Murphy, Mrs. Margaret... | 21 Bacon St., Li verpool, Elio...... | Ireland  |
+| 9 | 576 | 774 | 3549 | 809 | 10844 |  |  |  |  |  | . 22 | Milton, Gilbert  | Royal Artillery | Milton, Mrs. Florence  | Penetang, Ont  | England  |
+| 9 | 575 | 803 | 3550 | 839 | 10804 |  |  |  |  |  | . 22 | Newbury, William Charles | Nil  | Newbury, Mrs. Caroline.. | Front St., OriUia, Ont  | England  |
+| 9 | 576 | 832 | 3550 | 868 | 10805 |  |  |  |  |  | . 22 | Norton, Arthur Leighton. | Nil  | Norton, Annie  | Penetang, Ont  | Canada  |
+| 9 | 576 | 861 | 3550 | 898 | 10800 |  |  |  |  |  | . 22 | Othen, Harry  | NU  | Othen, Ada Elizabeth  | 50 Paddock St., Norwich. Eng  | England  |
+| 9 | 576 | 890 | 3550 | 927 | 10S07 |  |  |  |  |  | . 23 | Price, Homer  | 57th Regt | Price, Mrs. A  | Town Hall, Kingsclere, Hants, Eng | England  |
+| 9 | 576 | 920 | 3550 | 956 | 10808 |  |  |  |  |  | , 22 | Paprosky, George  | Nil  | Paprosky, Peter  | 05, Niagara St., Toronto, Ont | Russia  |
+| 9 | 575 | 948 | 3550 | 985 | 10332 |  |  |  |  |  | 22 | Rowe, Henry Thomas  | Middlesex Regt | Nil   | Nil | England ... |
+| 9 | 575 | 976 | 3551 | 1013 | 10724 |  |  |  |  |  | i. 23 | Roberts, Herbert  | Essex Itegt | Roberts, Mrs. L. A   | 15 Bellair St., Toronto, Ont. | England  |
+| 9 | 905 | 1006 | 3551 | 1043 |  |  |  |  |  |  | . 22 | Robothan, Ernest John.. | Nil  | Robothan, Mrs. Laura  | 108 La Fleur Road, Bow, London, E | England  |
+| 9 | 576 | 1035 | 3551 | 1072 | 10809 |  |  |  |  |  | 22 | Robinson, Charles  | Nil  | Robinson, Ethel  | P. O. Vancouver, B.C  | Canada  |
+| 9 | 576 | 1064 | 3551 | 1101 | 10810 |  |  |  |  |  | 22 | Reynolds, Fred  | Nil  | Reynolds, John, sr  | Waverley, Ont  | Canada  |
+| 9 | 576 | 1093 | 3552 | 1130 | 10S11 |  |  |  |  |  | 22 | Ralston, Earl  | Ralston, Samuel A  | Midland, Ont  | Canada  |
+| 9 | 576 | 1125 | 3227 | 1159 | 10812 | Roberts, Fred Claude— | Nil  | Roberts, Miss Mary  | Los Angeles, California, U.S.A. | England  |
+| 9 | 576 | 1155 | 3227 | 1188 | 10839 | Richardson, George  | Nil  | Story, Mrs. Emily  | Torrington Square, Bloomsbury, London, Eng | Engiar.d  |
+| 9 | 575 | 1180 | 3552 | 1218 | 10840 |  |  |  |  |  | 22 | Reason, Felix George  | Royal Fus. | Reason, Mrs. S  | Cor. Eldon and Albert Sts., Oshawa, Ont ... | England  |
+| 9 | 576 | 1212 | 3226 | 1247 | 10723 | Smith, John William  | Middlesex Regt  | Smith, William     | Repton Club, Victoria Park Sq., London, Eng | England  |
+| 9 | 576 | 1238 | 3552 | 1276 | 10730 |  |  |  |  |  | 22 | Stratheam, Walter  | Nil | Strathearn, G  | Midland, Ont  | Canada  |
+| 9 | 576 | 1273 | 2677 | 1306 | 10836 | Stork, Lester Eugene  | Nil | Stork, Mrs. Harry  | Batteau, Ont    |
+| 9 | 576 | 1300 | 3227 | 1334 | 10735 | Smith, Edward  | Nil  | Smith, F. C  | 15 Cross St., Manchester, Eng. | England  |
+| 9 | 901 | 1326 | 3552 | 1363 |  |  |  |  |  |  | 21 | Stork, L  | Nil  | Stork,E. J  | Box 493, CoUingwood, Ont  | England  |
+| 9 | 576 | 1354 | 3553 | 1392 | 10813 |  |  |  |  |  | 23 | Sharpe, Thomas... | Nil  | Sharpe, George  | Vars, Ont  | England  |
+| 9 | 577 | 1384 | 3553 | 1421 | 10814 |  |  |  |  |  | ,. 23 | Smith, Marshall... | Nil  | Smith, Mrs. L. J  | Midland. Ont   | Canada  |
+| 9 | 576 | 1413 | 3553 | 1450 | 10815 |  |  |  |  |  | 23 | Smith, Ernest J  | 35th Regt | Smith, Clifford  | W’hitford, Devon, Eng  | England  |
+| 9 | 576 | 1446 | 3227 | 1479 | 10S1G1 | Smith, Archibald.. | Australian Irish Rif! | Brady, Mrs. J.  | 61 Highfield St., Liverpool, Eng.. | Australia. .. |
+| 9 | 576 | 1475 | 3228 | 1507 | 10817 | Shedden, William James. | N. W. P. Rifles | Shedden, Sirs. Mary  | 24 Carmichael St., Govan, Scot.. | Scotland  |
+| 9 | 576 | 1499 | 3554 | 1537 | 10818 |  |  |  |  |  | 23 | Small, William Henry.. | Nil  | Small, Mrs. M  | 129 Exeter St., Plymouth  | England  |
+| 9 | 576 | 1532 | 3228 | 1566 | 10819 | Stevens, Arthur  | Nil  | Sister  | 49 Bunyan Road, Ecmpton, Eng. | England  |
+| 9 | 575 | 1562 | 3227 | 1596 | 10820 | Smith, Thomas Douglas. | Nil  | Smith, Ernest  | 135 Niagara St., Toronto, Ont.... | England  |
+| 9 | 576 | 1587 | 3232 | 1626 | 10821 | Seward, John  | Nil  | Seward, Israel  | New Pelican, Trinity, Newfoundland | Newfoundl’d, |
+| 9 | 576 | 1620 | 3228 | 1655 | 10837 | Shepherd, Thomas  | NU  | Shepherd, Mrs. S. A  | First St., CoUingwood, Ont  | England..... |
+| 9 | 576 | 1645 | 3555 | 1684 | 10822 |  |  |  |  |  | ;. 22 | Tooke. Arthur Reginald. | R. G. A | Tooke, Mrs. Minnie  | 110 Wherstead Rord, Ipswich, Eng... | England  |
+| 9 | 575 | 1679 | 2234 | 1713 | 10845 | Tollemaciie, Horace Murray.. | NU  | Tollemache, Hon. Mrs. | Mur- |
+| 9 | 1825 | 1701 | 3556 | 1736 |  |  |  |  |  |  | S. 23 | ray  | Bournemouth. Eng  | England  |
+| 9 | 575 | 1736 | 3227 | 1769 | 10823 | Vickers, John  | 35th Sun-ey Regt.. | Vickers, N  | 25 Southcote Roac , Walthamstow, Eng | England  |
+| 9 | 900 | 1764 | 3017 | 1801 |  | Varley, Thos  | D. L. O. I. Y  | Varley, Mrs. Ellen  | c|o Mrs. Taylor, 91 Jedburgh Road, | ad |
+| 9 | 2301 | 1789 | 3555 | 1824 |  |  |  |  |  |  | ;. 25 | London, Eng  | England  |
+| 9 | 575 | 1820 | 3555 | 1857 | 10S24 |  |  |  |  |  | i. 23 | Wiles, Leonard  | NU  | Wiles, Mrs. A. M  | Box 268, Midland, Ont  | Canada  |
+| 9 | 576 | 1849 | 3556 | 1888 | 10825 |  |  |  |  |  | >. 22 | Whiting, George  | NU  | Whiting, E. C  | A, Oxford St., Bletchley, Buqks, Eng. | England  |
+| 9 | 575 | 1879 | 3555 | 1917 | 10826 |  |  |  |  |  | 22 | Wallace, James  | Scots Guards. | Wallace, Andrew  | Hawick, Roxborough, Scot  | Scotland  |
+| 9 | 576 | 1907 | 3554 | 1945 | 10R27, |  |  |  |  |  | i. 22 | Walton, Edward  | Imp. Army... | Walton, Mrs. Mary  | Barrie, Ont  | England  |
+| 9 | 575 | 1937 | 3556 | 1973 | 10828! |  |  |  |  |  | ; 23 | Watson, William D... | Nil  | Watson, W. D., Sr  | Bradford, Ont.   | Canada  |
+| 9 | 575 | 1966 | 3556 | 2002 | 10826 |  |  |  |  |  | t. 22 | Wynne, Arthur John.. | NU  | Wynne, EUen  | 62 Nelson St., Crewe, Eng  | England  |
+| 9 | 576 | 1994 | 3556 | 2029 | 10830 |  |  |  |  |  | i. 23 | Wheeler, William.... | U. S. Army... | Wheeler, Mary Emma  | East Douglas, Mass., U.S.A  | U. S. A  |
+| 9 | 575 | 2023 | 3555 | 2059 | 10831 |  |  |  |  |  | t. 22 | Walmsley, Matthew.. | Northumberland Fus | W’almsley, Thomas  | 2 De Gray, Newcastle, Eng  | England  |
+| 9 | 899 | 2053 | 3556 | 2089 |  |  |  |  |  |  | t. 23 | Wozny, Mike  | NU  | Wozny, Autozza  | Rocell, Poland, Russia  | Russia  |
+| 10 | 703 | 348 | 3673 | 384 | 10341 | Private. | Wallace, Charles Boyd  | 2nd V. B. Manchester Regt.... | Wallace, Mra. Nora.. |  | Valcartier.. | Sept. 23 |
+| 10 | 703 | 379 | 3673 | 414 | 10846 | Private. | Wood, James  | 40th Lancs. Regt  | Boyd, Mrs. G  |  | Valcartier.. | Sept. 22 |
+| 10 | 703 | 409 | 3672 | 444 | 10SSG | Private. | Westley, William Cuthbert.... | NU  | Westley, Mrs. E  |  | Valcartier.. | Sept. 23 |
+| 10 | 703 | 439 | 3673 | 471 | 10842 | Private. | NU  | Wiseman, Mrs. Kate. |  |  | Valcartier.. | Sept. 22 |
+| 10 | 703 | 468 | 3673 | 501 | 10832 | Private. | Swedish Regt  | Zitterman, Erie  |  |  | Valcartier.. | Sept. 22 |
+| 10 | 786 | 684 | 3673 | 720 | Captain  | I’.elson, Berkeley Henry...., | 19th Regt  | Belson, Mrs. Henrica.. | Port Dalhousie, Ont  | England  | Valcartier. | Sept. 22 |
+| 10 | 788 | 714 | 3673 | 749 | Lieutenant  | McLaren, Frederick Yates.. | 13th Regt...  | McLaren, W. F  | Ravenscliffe Ave., Hamilton, Ont  | Canada  | Valcartier. | Sept. 23 |
+| 10 | 788 | 744 | 3674 | 778 | Lieutenant  | Wright, George Craig  | 13th Regt ,    | Wright, Mrs. H. G  | 103 Emerald St, S., Hamilton, Ont   | Canada  | Valcartier. | Sept. 23 |
+| 10 | 1055 | 802 | 3673 | 836 |  | Mercier   | . 13rd Regt  | Ballard, William Henry .. | 196 George St.. Hamilton, Ont  | Canada  | Valcartier. | Sept. 24 |
+| 10 | 704 | 832 | 3674 | 865 | 10852 | CoL-Sergeant. | Hunt, Richard W   | . 13 th Regt  | Hunt, Mrs. F. W  | 121 Emerald St. S., Hamilton, Ont  | England  | Valcartier. | Sept. 24 |
+| 10 | 705 | 859 | 3674 | 895 | 10853 | Sergeant  | Letten, James Edward   | . 13th Regt., S.A  | Letten, Mrs. J  | 177J Wood St. E., Hamilton. Ont  | Ireland  | Valcarticr. | Sept. 22 |
+| 10 | 704 | 891 | 3675 | 923 | 10855 | Sergeant  | Hoss, Duncan     | . 18th V. B. Seafortha  | Ross, William  | Alness, Ross-shire, Scot  | Scotland  | Valcartier. | . Sept. 23 |
+| 10 | 704 | 920 | 3675 | 953 | 10856 | Sergeant  | Towlson, Thomas William.. | K.O.Y. L. I  | Towlson, Mrs. Isobol  | 60 Emerald St. N., Hamilton, Ont  | England  | Valcarticr | iSept. 23 |
+| 10 | 704 | 945 | 3675 | 983 | 10857 | Corpora!  | Kaye. Albert William  | 13th Regt  | Kaye, A. W  | 80 Sherman Ave. N., Hamilton, Ont  | England. | Valcart ier. | . I Sept. 23 |
+| 10 | 705 | 978 | 3675 | 1012 | 10858 | Corpora!  | Withun, Herbert Charles... | . 13th Regt  | Withun, Mrs. E  | 309 Jackson St. W., Hamilton, Ont  | Canada  | Valcartier. | . I Sent,. 23 |
+| 10 | 705 | 1006 | 3675 | 1041 | 10859 | Corpora!  | Fraser, James Abner S   | 13th Regt  | Fraser, Mrs. A  | 31G Victoria Ave. N., Hamilton, Ont  | Canada.. | Valcartier. | iSept. 22 |
+| 10 | 705 | 1038 | 3677 | 1070 | 1CS6G | Corporal  | Rabbit, Alfred Frederick... | , Coldstream Guards    | Rabbit, Mrs. G....  | 52S Burlington St., Hamilton, Ont  | England. | Valcartier. | Sept. 23 |
+| 10 | 704 | 1070 | 2144 | 1100 | 10S61 | Corporal  | Trenwith, F. D  | , Particulars will be furnished | when available |
+| 10 | 705 | 1095 | 3678 | 1128 | 10874 | Private  | Anderson, Jame3   | , 2nd Lon. R.E  | Anderson, Mr3. James— | 103 Shaw St., Hamilton, Ont  | Scotland  | Valcartier.. | Sept. 23 |
+| 10 | 705 | 1125 | 3678 | 1158 | 10875 | Private  | Arnold, Thomas   | L. R. B  | Arnold, John C  | Battle, Sussex, Eng  | England...'.. | Valcartier.. | Sept. 23 |
+| 10 | 704 | 1155 | 3679 | 1188 | 108 (U | Private  | Barrett, Waiter E  | , 13th Regt  | Barrett, Mrs. Jane  | 310 Emerald St. N., Hamilton, Ont  | Canada  | Valcartier.. | Sept. 23 |
+| 10 | 704 | 1183 | 3679 | 1216 | lOSf-S | Private  | Brown, William  | . Nil  | Brown, Mra. W  | 62 Belmont Ave., Hamilton, Ont  | England  | Valcartier.. | Sept. 23 |
+| 10 | 704 | 1216 | 2156 | 1247 | 10870 | Private  | Batson, G  | , Particulars will be furnished | when available. |
+| 10 | 705 | 1242 | 3679 | 1276 | 10876 | Private  | Bennie, Andrew   | . Cameron High  | Benn/e, Mrs. A  | 94 John St. N., Hamilton, Ont  | Scotland  | Valcartier.. | Sept. 22 |
+| 10 | 705 | 1271 | 3680 | 1306 | 10877 | Private  | Blunt, Adam  | Nil  | Marshall, Mrs. Christy... | 78 Clinton St., Hamilton, Ont  | England  | Valcartier.. | Sept. 23 |
+| 10 | 705 | 1300 | 3681 | 1335 | 10S78 | Private  | Blunt, Harry   | . 13th Regt  | Blunt, Edward F  | 2 Wragby Row, Mexborough, Yorks, Eng  | England  | Valcartier.. | Sept. 23 |
+| 10 | 705 | 1328 | 3681 | 1363 | 10879 | Private  | Bland, Frank  | Nil  | Bland, Mrs. Rosa  | 2 West View, Potton, Beds, Eng  | England  | Valcartier.. | Sept. 23 |
+| 10 | 706 | 1359 | 3682 | 1393 | 108?0 | .Private  | Brown, William Charles.... | . 18th Somerset Regt  | Bro-rn, Charles  | Old School, Keynshara, Bristol, Eug  | England  | Valcarticr. | Sept. 23 |
+| 10 | 706 | 1386 | 3681 | 1423 | 108811 Private  | Baillie, Nathaniel  | . 13th Regt  | Baillie, William  | 73 Chesnut Ave., Hamilton, Ont  | Scotland  | Valcartier.. | Sept. 23 |
+| 10 | 706 | 1417 | 3681 | 1452 | 108821 Private  | Brogan, Thomas  | . B. R. R  | Brogan, James  | 32 Avon St., Manchester, Eng  | England  | Valcartier.. | Sept. 23 |
+| 10 | 706 | 1446 | 3682 | 1482 | 10883| Private  | Browett, William   | . 13th Regt  | Brc wett, Mra. Alice  | 84 Burton St., Hamilton, Ont  | England  | Valcartier. | Sept. 23 |
+| 10 | 706 | 1476 | 3682 | 1509 | 10S84i Private  | Bolton, Joseph  | . C. M. R  | Bolton, Mrs. W  | 159 Wood St. E., Hamilton, Ont  | Canada  | Valcartier. | Sept. 23 |
+| 10 | 707 | 1504 | 3681 | 1539 | 10885] Private  | Butler, Thomas Arthur  | . 13th Regt  | Butler, Mrs. E  | Britannia St., Leicester, Eng  | England  | Valcartier. | Sept. 23 |
+| 10 | 707 | 1534 | 3682 | 1570 | 108861 Private  | Clay, Daniel  | . Roy. N. Lancs  | Clay, Mrs. D  | 131 Hughson St. N., Hamilton, Ont  | England  | Valcartier. | Sept. 22 |
+| 10 | 707 | 1563 | 3682 | 1598 | 108S7! Private  | Crossan, Robert  | . 3rd Regt  | Crossan, Mrs. R  | 1014 Barton St. East, Hamilton, Ont  | England  | Valcartier. | Sept. 22 |
+| 10 | 707 | 1592 | 3682 | 1628 | 1088Sj Private  | Capell, Frederick  | . 13th Regt  | Cc.pell, Mrs. E  | 11 Sydney St., Hamilton, Ont  | Canada  | Valcartier. | Sept. 23 |
+| 10 | 708 | 1620 | 3682 | 1659 | 10889; Private  | Gomeau, Linus  | .Nil  | Comeau, Larry  | 32 Lawyer St., Malden, Mass  | U. S. A  | Valcartier. | Sept. 23 |
+| 10 | 708 | 1650 | 3682 | 1683 | 10890; Private  | Clarkson, William John  | . R. W. K  | Clarkson. Mrs. C  | 115 Argue St., Hamilton, Ont  | England  | Valcartier. | Sept. 23 |
+| 10 | 709 | 1679 | 3683 | 1715 | 10891 Private  | Curtis, Frederick  | . 1st Scots. Guards  | Campbell, Mrs. Rose— | Burlington, Ont  | England  | Valcartier. | Sept. 22 |
+| 10 | 708 | 1707 | 3682 | 1743 | 10892! Private  | Davies, William  | . 13th Regt  | Davies, John  | 13 Outcast, IJlverton, Lancs, Eng  | England... | Valcartier. | Sept. 23 |
+| 10 | 708 | 1735 | 3682 | 1773 | 108931 Private....... | Dukeman, Harry  | .Nil  | Eukeman, James  | Guernsey, Channel Isles, Eng . _.  | England  | Valcartier. | Sept. 23 |
+| 10 | 709 | 1768 | 3140 | 1802 | 108W| Private  | Dodd, Norman  | . 13 th Regt  | Dodd, Mrs. J  | 157 Chatsworth Ave., Moss Lane, Aintree, Liverpool, |
+| 10 | 2432 | 1792 | 3683 | 1829 |  |  |  |  | Eng   | England... | Valcartier. | Sept. 22 |
+| 10 | 710 | 1822 | 3682 | 1861 | 10895 Private  | De Bues, Percy Charles... | . Roy. Fus  | De Bues. Mrs. E. F... | 3 Florence St., Hamilton, Ont    | England... | Valcartier. | Sept. 23 |
+| 10 | 710 | 1851 | 3683 | 1891 | lOSStij Private  | Edwards. Joseph Vincent. | . 13 th Regt  | Edwards, Mrs. J  | 28 Manchester St., Hamilton, Ont  | Canada  | Valcartier. | Sept. 23 |
+| 10 | 3175 | 1879 | 3683 | 1910 |  |  |  |  |  | England  | Valcartier. | Sept. 23 |
+| 10 | 711 | 1888 | 3146 | 1919 | 108971 Private  | Espley, Edward  | . 13th Regt   | Espley, Mrs. Edward. | 58 Stirton St., Hamilton, Ont  |
+| 10 | 710 | 1909 | 3684 | 1947 | 10S69| Private  | Ettey, Alfred Claude  | . 13 th Regt  | Ettey, Mrs    | 28 Fraser Ave., Hamilton, Ont  | England... | Valcartier. | Sept. 23 |
+| 10 | 3176 | 1937 | 3684 | 1967 |  |  |  |  |  | England... | Valcartier. | Sept. 23 |
+| 10 | 709 | 1945 | 3147 | 1977 | 10898 i Private  | Edgerley, Gordon  | . North Lanes Regt  | Kirkman. Louisa  | 50 Stump Lane. Chorley, Eng  |
+| 10 | 3177 | 1967 | 3684 | 1995 |  |  |  |  |  | England  | Valcartier. | Sept. 22 |
+| 10 | 710 | 1973 | 3146 | 2005 | 10899jPrivate  | Fairclough, Walter  | . |5th Loyal Lanca  | l'airclough, Mrs. M... | 17 Fairview Ave., Hamilton, Ont : |
+| 10 | 3176 | 1996 | 3684 | 2025 |  |  |  |  |  | England  | Valcartier. | Sept. 23 |
+| 10 | 710 | 1997 | 3147 | 2034 | 109001 Private  | .. i Flynn, John J  | .Inu  | Flynn, Mrs. H  | 44 Ellis Ave. East, Hamilton, Ont -  |
+| 11 | 572 | 528 | 3156 | 562 | Reg. | Rank. | Name (Surname first). |  | Name of Next of Kin. |  | of |
+| 11 | 583 | 698 | 3554 | 737 |  | Private  | 10901 | Galpin, Ralph  | 13th Regt   | Galpin, F. W  | R. R. 5, Ingersoll, Ont  | Canada.. | Valcartier.. | Sept. 23 |
+| 11 | 583 | 728 | 3553 | 765 |  | Private  | 10909 | Glass, William  | A. M. G  | Glass, Mrs. E :    | Cloghet. Co. Tyrone, Ire  | Ireland.. | Valcartier. | ScDt. 23 |
+| 11 | 583 | 757 | 3554 | 794 |  | rrivate  | 10902 | Gins, Aiian  | NU, | Ginn, Alfred  | Potton, Beds, Eng.     | England. | Valcartier.. | Sept. 23 |
+| 11 | 584 | 786 | 3553 | 825 |  | Private  | 10903 | Glazier, Leslie Mitchell  | 13 th Regt  | Glazier, N  | 6 Webber Ave., Hamilton, Ont    | Canada.. | Valcartier. | Sept. 23 |
+| 11 | 584 | 815 | 3554 | 854 |  | Private  | 10904 | Graves, Ernest  | 8th Middlesex. | Graves, Mrs. Mary  | 22 Robins’ Ave., Hamilton, Ont  | England. | Valcartier. | Sept. 23 |
+| 11 | 584 | 844 | 3555 | 884 |  | Private  | 10905 | Griffiths, Horace  | 13th Regt  | Griffiths, George  | 27 Ladysmith St., Swinton, Notts, Eng  | England. | Valcartier. | Sept. 23 |
+| 11 | 584 | 874 | 3554 | 914 | 10906 Private  |  | Gratton, William J  | 20th Regt  | Morrallee, Mrs    | 57 Mayfair St., West Hartlepool, Eng  | England. | Valcartier. | Sept. 23 |
+| 11 | 584 | 903 | 3555 | 942 | 10907 Private  |  | Goodyear, William Edward. | Nil. | Goodyear, Edward William... | 13 Hargreave Sq., London, Eng  | England. | Valcartier. | Sept. 23 |
+| 11 | 583 | 933 | 3555 | 972 | 10908 Private  |  | Gilks, Joseph  | 18th V. B. S. Lancs.., | Gilks, Thomas  | 48 Slater St., Latchford, Eng  | England. | Valcartier. | Sept. 23 |
+| 11 | 582 | 961 | 3556 | 1002 | 10909 Private  |  | Gale, Geoge  | 5th Border Regt   | Gale, Mrs. Ellen  | 32 Ashton St., Workington, Eng  | England. | Valcartier. | Sept. 23 |
+| 11 | 583 | 990 | 3556 | 1029 | 116G2 Private  |  | Gregson, George W  | Nil  | Gregson, Mrs. C  | 3 Somerset Ave., Hamilton, Ont  | England  | Valcartier. | Sept. 23 |
+| 11 | 583 | 1020 | 3555 | 1058 |  | Private  | 11663 | Griffin, Thoma».  | 10th Manchester, etc. | Griffin, William  | 27 Wood St. East, Hamilton, Ont  | England  | Valcartier. | S^pt. 23 |
+| 11 | 583 | 1048 | 3556 | 1089 |  | Private  | 10S72 | Graham, Thomas, J. J  | 13th Regt  | Graham, Mrs. T  | 284 John St. N., Hamilton, Ont  | Ireland  | Valcartier. | Sept. 23 |
+| 11 | 583 | 1078 | 3556 | 1117 |  | Private  | 10S66 | Hollands, Arthur G  | 13 th Regt  | Hollands, Mrs. G. J  | Stony Creek, Ont  | England  | Valcartier. | Sept. 22 |
+| 11 | 582 | 1107 | 3557 | 1146 |  | Private  | 10910 | Hanford, Bob  | 1st V. B. Kent Regt.. | Handford, R. G  | 16 Foley St., Maidstone, Kent, Eng  | England  | Valcartier. | Sept. 23 |
+| 11 | 583 | 1137 | 3556 | 1176 |  | Private  | 10911 | Huckstep, Richard O  | 3rd Kent Regt  | Huckstep, Mrs. C  | Cor. Barton & Victoria Ave., Hamilton, Ont  | England  | Valcartier. | Sept. 23 |
+| 11 | 582 | 1165 | 3557 | 1203 |  | Private  | 10912 | Hendrie, James  | 2nd L. R. V  | Hendrie, William  | 97 Alexander St., Airdrie, Scot  | Scotland  | Valcartier. | Sept. 22 |
+| 11 | 3048 | 1195 | 3648 | 1227 |  |  |  |  |  |  | England  | Valcartier. | Sept. 23 |
+| 11 | 582 | 1203 | 2988 | 1235 |  | Private  | 10913 | Haygarth, John E. S  | K. O. R. Lancs  | Haygarth, Mrs. M. L  | 83 Picton St., Hamilton, Ont  |
+| 11 | 3047 | 1223 | 3557 | 1256 |  |  |  |  |  |  | England  | Valcartier. | Sept. 23 |
+| 11 | 582 | 1232 | 3032 | 1263 |  | Private  | 10914 | Humphreys, William  | 26 th Regt  | Humphreys, Thomas  | Aldershot, Ont  |
+| 11 | 582 | 1252 | 3557 | 1291 |  | Private  | 10915 | Hall, William  | Lincoln Vols  | Hall, Ted  | 33 Stirton St., Hamilton, Ont .    | England  | Valcartier. | Sept. 22 |
+| 11 | 582 | 1283 | 3558 | 1321 |  | Private  | 10916 | Hcarle, Eric  | O. T. C  | Hearle, Mrs. A  | 71 Forbes Ave., Guciph, Ont  | India  | Valcartier. | Sept. 23 |
+| 11 | 583 | 1312 | 3556 | 1351 |  | Private  | 10917 | Hilton, Charles  | Nil. | Hilton, Mrs. Charles  | 194 Rosslyn Ave., Hamilton, Ont  | England  | Valcartier. | Sept. 23 |
+| 11 | 582 | 1341 | 3558 | 1381 |  | Private  | 10918 | Holtinsed, Richard.  | 5th Regt  | Hollinsed, E. L...   | Ashcmft, 1st- Ave., Belleville, Barbadoes, B.W.I  | B, W I  | Valcartier. | Sept. 22 |
+| 11 | 3049 | 1370 | 3558 | 1402 |  |  |  |  |  |  | England  | Valcartier. | Sept. 23 |
+| 11 | 582 | 1379 | 3035 | 1410 | 10962'Private  |  | Hollands, Albert Victor  | 13th Regt  | Hollands, G. J  | Stony Creek, Ont  - • • |
+| 11 | 582 | 1400 | 3558 | 1439 | 10963iPrivate  |  | Holt, Frederick  | 2nd Batt. Manchester  | Holt, Mrs. Mary  | 52 Melbourne St., Hamilton, Ont  | England  | Valcartier. | Sept. 23 |
+| 11 | 581 | 1428 | 3558 | 1469 | 10596;Corporal. |  | Howard, Charles  | 10th R. G. & 12th Regt  | Howard, Mra. Amelia  | Rear 37 Munro St., Toronto, Ont  | Canada  | Valcartier. | Sept. 23 |
+| 11 | 581 | 1458 | 3558 | 1497 | 10919 ~ ' | Private | Ireland, Alfred H—   . | 13th Regt  | Bryant, Mrs. C  | 19 Theresa St., Briston Rd, Gloucester, Eng  | England  | Valcartier. | Sept. 23 |
+| 11 | 3050 | 1487 | 3559 | 1515 |  |  |  |  |  |  | Scotland  | Valcartier. | Sept. 23 |
+| 11 | 581 | 1495 | 3035 | 1525 | 10920 | Private  | Jarvie, Alexander Muir  | Nil  | Jarvie. Mrs. J  | 61 Bell St., Airdrie, Scot  |
+| 11 | 3050 | 1516 | 3559 | 1548 |  |  |  |  |  |  | England  | Valcartier. | Sept. 23 |
+| 11 | 582 | 1524 | 3035 | 1555 | 10921 | Private  | Jones, William Charles  | Nil  | Jones, Mrs. R    | 16 Crooks St., Hamilton, Ont  |
+| 11 | 581 | 1545 | 3559 | 1585 | 10922 | Private  | Jones, James Hastings  | Nil  | Jones, T. H  | Cranbome, Dorset, Eng  | England  | Valcartier. | Sept, 22 |
+| 11 | 581 | 1575 | 3559 | 1614 | 10923 | Private  | Jennings, Stanley  | Nil. | Jennings, Mrs. John  | 69 Fullerton Ave., Hamilton, Ont  | England  | Valcartier. | Sept. 23 |
+| 11 | 582 | 1604 | 3559 | 1644 | 10873 | Private  | Kelly, John. White  | 4th Regt. and 13th Regt. | Kelly, John   | 32 Primrose Ave., Hamilton, Ont  | Scotland  | Valcartier. | Sept. 22 |
+| 11 | 3051 | 1632 | 3559 | 1661 |  |  |  |  |  |  | Scotland  | Valcartier. | Sept. 23 |
+| 11 | 581 | 1641 | 3036 | 1673 | 10924 | Private  | Kelly, James  | Cameron High  | Kelly, Mra. James   | 257 Rosslyn Ave, Hamilton, Ont  |
+| 11 | 3052 | 1661 | 3560 | 1693 |  |  |  |  |  |  | England  | Valcartier. | Sept. 23 |
+| 11 | 581 | 1670 | 3037 | 1702 | 10925 | Private  | Leslie, James Joseph  | S. Staffs Regt  | Leslie, Mrs. T  | 41 Rosemount Ave., Hamilton, Ont  |
+| 11 | 3052 | 1690 | 3559 | 1722 |  |  |  |  |  |  | England  | Valcartier. | Sept. 23 |
+| 11 | 582 | 1699 | 3036 | 1730 | 10926 | Private  | Lewis, Robert  | 13th Regt  | Packham, C. W   | R. R. No. 1, Glaniord Station, Ont  |
+| 11 | 3051 | 1719 | 3559 | 1750 |  |  |  |  |  |  | England  | Valcartier | Sept. 23 |
+| 11 | 581 | 1727 | 3037 | 1759 | 10960 | Private  | Lawrence, Richard  | Nil. | Lawrence, Ellen  | 985 Blackburn St., Bolton, Lanca, Eng  |
+| 11 | 3052 | 1748 | 3560 | 1780 |  |  |  |  |  |  | England  | Valcartier. | Sept. 22 |
+| 11 | 581 | 1757 | 3037 | 1788 | 10927 | Private  | Mercer, John Edward  | 13th Regt., etc  | Mercer. Mrs. G. H  | 90 Sherman Ave., Hamilton, Ont   |
+| 11 | 581 | 1778 | 3560 | 1817 | 10928 | Private  | Morrell, James  | 13th Regt., etc  | Morrell, Mrs. J  | 14 Elgin St., Hamilton, Ont  | England  | Valcartier. | Sept. 23 |
+| 11 | 581 | 1807 | 3561 | 1847 | 10920 | Private  | Mountain, Stewart  | 13th Regt., etc    | Mountain, Mrs. A. E  | Chedoke P.O., Hamilton, Ont  | Canada  | Valcartier, | Sept. 23 |
+| 11 | 3052 | 1837 | 3561 | 1869 |  |  |  |  |  |  | England  | Valcartier. | Sept. 23 |
+| 11 | 581 | 1845 | 3037 | 1876 | 10930 | Private  | Marshall, Frank  | 13th Regt., etc  | Marsha!!, A. E    | 78 Clinton St., Hamilton, Ont  |
+| 11 | 581 | 1866 | 3561 | 1905 | 10931 | Private  | Marr, Alexander  | Nil  | Semmena, Mra. J. M  | 144 Florence St., Hamilton, Ont  | Scotland  | Valcartier. | Sept. 23 |
+| 11 | 581 | 1904 | 2224 | 1935 | 10872 | Private  | Miller, H  | Particulars will bo furnished | when available  |
+| 11 | 581 | 1925 | 3561 | 1964 | 10932 | Private  | McGregor, Hugh  | H. L. I  | McGregor, Mrs. H  | 51 Fullerton Ave., Hamilton, Ont  | Scotland. | Valcartier. | Sept. 23 |
+| 11 | 581 | 1954 | 3561 | 1993 | 10933! Private  |  | McGinn, Joseph  | 13th Regt  | McGinn, Mrs. M  | 17 Cambridge Ave., Hamilton. Ont  | England.. | Valcarticr. | Sept. 23 |
+| 11 | 581 | 1982 | 3561 | 2021 | 10934‘Private  |  | McHarg, David  | 13th Regt  | McHarg, John  | Drombowi, Kirkmichael M. Scot.    | Scotland. | Valcartier. | Sept. 23 |
+| 11 | 582 | 2011 | 3562 | 2052 | 10863! Private  |  | Nixon, John  | 13th Regt  | Nixon, Mrs. W. H  | 253 Young St., Hamilton, Ont ;  | Canada.. | Valcartier. | Sept. 23 |
+| 11 | 582 | 2040 | 3562 | 2084 | 10935! Private  |  | Pickup, Robert.^.  | R. S. F  | jPickup, Mra. E  | 10 Brisbane St., Clayton-lo-Moors, Accrington, Eng.... | England.. | Valcartier. | Sept. 23 |
+| 11 | 581 | 2070 | 3563 | 2108 | 10936i Private  |  | Priest, Charles.?  | East Surrey Regt  | I Priest. Mra. C  | 8H N. Rebecca St., Hamilton, Ont   | England.. | Valcartier. | Sept. 23 |
+| 12 | 599 | 292 | 3560 | 331 | 10037 | r Private.... | Robinson, Arthur.      | 32nd Regt  | Robinson, G. W...  | Southampton, Ont     | Canada Valcartier. | . Sept. 23 |
+| 12 | 599 | 322 | 3561 | 360 | 10S62 | ! Private ... | Smith, George Harris  | Durham L. I   | Smith, Mrs. Annie  | 84 Niagara St., Hamilton, Ont  | England Valcartier. | . Sept. IS |
+| 12 | 599 | 352 | 3560 | 391 | 108(55 | > Private  | Sheppard, Arthur  | 1st Warwicks  | Sheppard, Ellen Mary      | 67 Broomfield Rd., Coventry, Eng    | England Valcartier. | . Sept. 23 |
+| 12 | 599 | 382 | 3561 | 421 | 10S67 | J Private— | South, John  | 13th Regt  | South, Mrs. K   | 21 Walpole St., Blackburn, Lancs., Eng   | U. S. A Valcartier. | . Sept. 23 |
+| 12 | 599 | 414 | 3038 | 450 | 1093S | 3 Private— | Stinson, John  | 13th Regt   | Stinson, T. H  | 6 King WUliam St., Hamilton, Ont  |
+| 12 | 599 | 441 | 3561 | 479 | 10039 | ) Private  | Swan, Gordon Leonard  | 13th Regt  | Swan, E    | 40 First Ave., HamUton, Ont   | England Valcartier. | . Sept. 22 |
+| 12 | 599 | 471 | 3561 | 509 | 10SK0 | ) Private  | Shipman, Ernest  | 13 th Regt  | Shipman, H  | 72 Norman Ave., HamUton, Ont   | Canada Valcartier. | . Sept. 22 |
+| 12 | 600 | 500 | 3562 | 535 | 10941 | } Private  | Sloane, Frank James  | Nil..  | Sloane, W. J  | MUton, Ont    | Canada Valcartier. | . Sept. 23 |
+| 12 | 600 | 529 | 3562 | 565 | 10842 | 2 Private  | Sinclair, William John  | Nil  | Sinclair; M  | Glcncraig, Scot.     | Scotland Vlacartisr. | . Sept. 23 |
+| 12 | 599 | 558 | 3562 | 595 | 10943 | 1 Private  | Sprowson, Albert..    | NU  | Sprowson, Mrs. C.   | 48 Hazel St., Manchester, Eng   | England Valcarticr. | . Sept. 23 |
+| 12 | 600 | 588 | 3562 | 626 | 10944 | 1 Private— | Sadler, George  | Royal Sussex Regt... | Sadler, Mrs. J    | 38 Land St., Hamilton, Ont  | England Valcartier. | . Sept. 23 |
+| 12 | 599 | 618 | 3562 | 655 | 10961 | 1 Private  | Stone, Archibald Walter  | R. W. S. Regt  | Stone, Miss Edith  | 155 Marsland St., HamUton, Ont  | England Valcartier. | . Sept. 23 |
+| 12 | 599 | 648 | 3562 | 685 | 11661 | 1 Private  | Stone, Harry  | Nil  | Stone, Sydney  | 206 Holloway Rd., London N., Eng   | England Valcartier. | . Sept. 23 |
+| 12 | 598 | 676 | 3562 | 713 | 11665 | > Private  | Saywell, Samuel..  | 16th Chichester Regt | Saywell, S '.  | 365 Catherine St., HamUton, Ont.    | England Valcartier. | . Sept. 25 |
+| 12 | 598 | 706 | 3562 | 743 | 11G66 | > Private  | Swan, Gordon   | 13th Regt  | Swan, E   | 40 First Ave., HamUton, Ont  | England Valcartier. | . Sept. 22 |
+| 12 | 597 | 735 | 3563 | 771 | 11023 | I | Taylor, John................ | NU    | Taylor, Rachel Aimin..   | 20 Gidlow Lane. Wigan, Lancs.. Eng  | England Valcartier. | . Sept. 22 |
+| 12 | 597 | 759 | 3562 | 801 | iooiGiPrivau:::: | Todd, Joseph George  | 13th Regt  | Todd, Mrs. George <... | 134 Young St., HamUton, Ont  | Canada Valcartier. |  | . Sept. 22 |
+| 12 | 597 | 794 | 3563 | 831 | 10947|Private  | Telford, Alexander  | H. L. I  | Telford, Mrs. Mary   | 69 Wilson St., HamUton, Ont   | Scotland Valcartier |  | . Sept. 23 |
+| 12 | 597 | 823 | 3563 | 861 | 1091S|Private  | Thomas, William Edward  | Devons Reserve  | Thomas, Mrs. Emma  | 20 Friar’s Walk, Exeter, Devon, Eng  | England Valcartier. |  | . Sept. 22 |
+| 12 | 597 | 852 | 3562 | 891 | 10949|Private  | Todd, John James Roy  | 13th Regt  | Todd, Mrs. George  | 34 Young St., Hamilton, Ont  | Canada Valcartier. |  | . Sept. 23 |
+| 12 | 597 | 881 | 3563 | 918 | 10950 Private  | Thompson, Joseph  | Dorsets Regt  | Thompson, Mrs. Mary  | 247 Catherine St. N., Hamilton, Ont  | England Valcartier. |  | . Sept. 23 |
+| 12 | 597 | 911 | 3563 | 946 | 10951 Private— | Vincent, Edward  | Nil  | Vincent, Mrs. E..   | 130 Kenwin St., Truro, Cornwall, Eng  | England (Valcartier. |  | . Sept. 23 |
+| 12 | 596 | 940 | 3564 | 976 | 10952'Private— | Venn, Ernest  | 13th Regt  | Venn, Edward  | Bedminster, Bristol, Eng    | England |Valeartier. |  | . Sept. 22 |
+| 12 | 596 | 969 | 3563 | 1006 | 10S53j Private  | Wilkinson, George Edward.... | .NU  | WUkinson, Mrs. Henry | Debriers, Barmby«Sloor, Yorks., Eng | England ; Valcartier. |  | Sept. 23 |
+| 12 | 596 | 998 | 3564 | 1035 | 10951 Private  | Wood, Ernest    | Roy. Scots & H. L. I | Wood, Mrs. W 1243 Charlton Ave. E-, Hamilton, Ont... |  | Scotland iValcartier. |  | Sept. 23 |
+| 12 | 596 | 1027 | 3565 | 1063 | 10955 Private  | Wilson, Joseph Arnold  | 1st V. B. S. Lancs  | Wilson, Mrs. E.. |  | England Valcartier. | 12 Edward St., Hamilton, Ont  . _ | Sept. 23 |
+| 12 | 595 | 1056 | 3565 | 1093 | 1005S Private— | Wyndham, S  | 2nd Roy. Gloucester | Wyndham, Mrs. F  | Box 27, R. R. 5, Beach Rd., Hamilton, Ont England  |  | Valcartier, | Sept. 23 |
+| 12 | 595 | 1084 | 3566 | 1121 | 10057} Private  | Wright, Peter Clarkson  | Nil  | Wright, Mra. E  | IS Peart St., Burnley, Eng ‘England  |  | Valcartier | Sept. 23 |
+| 12 | 594 | 1114 | 3566 | 1152 | 10958'Private.... | Wilson, Wilfred  | 13th Regt  | Wilson, John  | 12 RaUway W’alk, Southport, Eng | England  |  | Valcartier | Sept. 23 |
+| 12 | 676 | 1351 | 3567 | 1387 | Captain  | Huggins, Samuel John  | Nil  | Huggins, Mrs. Helen L  | 370 Gihnour St., Ottawa, Out  |  | Valcartier. | . Sept. 21 |
+| 12 | 676 | 1380 | 3567 | 1415 | Lieutenant  | Begy, Geo. Edward Blake  | 19th Regt  | Begy, Geo. Edward  | St. Catharines, Ont  |  | Valcartier. | . Sept. 21 |
+| 12 | 677 | 1408 | 3568 | 1444 | Lieutenant  | Brant, Cameron D  | 37th Regt ......... | Brant, Mrs. Florence  | 31 Spring St., HamUton, Ont  |  | Valcartier. | . Sept. 22 |
+| 12 | 677 | 1437 | 3568 | 1473 | Lieutenant  | Hoshal, Archibald John  | 37 th Regt  | Hoshal, George C  | Cayuga, Ont    |  | Valcartier. | . Sept. 22 |
+| 12 | 594 | 1466 | 3569 | 1502 | 10964 Col.-Sergeant... | White, Arthur Augus t  | R. C. R  | Lawrie, Mra. R. W  | 42 Thomas St., St. Catharines, Ont  | England  | Valcartier. | . Sept. 22 |
+| 12 | 594 | 1495 | 3569 | 1531 | 10965 Sergeant  | Michelin, Henry Albert  | NU  | Michelin, Ann Mary  | 141 Lake St., St. Catharines, Ont  | England  | Valcartier. | . Sept. 22 |
+| 12 | 593 | 1524 | 3570 | 1560 | 10966! Sergeant  | WUliama, John  | 19th Regt  | Williams, Agnes  | 145 Lake St., St. Catharines, Ont  | Scotland  | Valcartier. | . Sept. 22 |
+| 12 | 593 | 1554 | 3569 | 1589 | 10967 Sergeant  | Dealtry, Peron R  | Can. Militia  | Dealtry, Miss Marjorie  | 68 Madison St., Buffalo, N.Y., U.S.A  | Canada  | Valcartier, | . Sept. 22 |
+| 12 | 593 | 1582 | 3570 | 1622 | 10968;.Sergeant  | GUlingwater, Percy Robert... | 2nd Norfolk Regt  | Gillingwater, E. F  | 317 Marlboro St., Brantford, Ont  | England  | Valcartier. | . Sept. 22 |
+| 12 | 593 | 1613 | 3569 | 1648 | 10969 Corporal  | Sloan, WUliam John  | 19th Regt  | Sloan, Mrs. Emma Jane  | 95 Russell Ave., St. Catharines, Ont   | Ireland  | Valcartier, | . Sept. 22 |
+| 12 | 592 | 1642 | 3570 | 1676 | 10970;Corporal  | Crain, Albert W. L  | Can. Militia  | Crain, Mrs. Margaret   | Hageraville, Ont  | Canada  | Valcartier. | . Sept. 22 |
+| 12 | 593 | 1670 | 3570 | 1705 | 10971 [Corporal  | Stacey, John  | 4th Batt. Beds. Regt... | Stacey, Louise  | Leicester P.O., Eng  | England  | Valcartier | . Sept. 22 |
+| 12 | 592 | 1698 | 3570 | 1735 | 10972,Corporal  | Styrcs, Allred  | Can. Militia  | Porter, Charies  | Ohsweken, Ont  | Canada  | Valcartier. | . Sept. 22 |
+| 12 | 592 | 1726 | 3570 | 1763 | 10973 Corporal  | Clark, John    | A. & S. High  | Clark, Mre. John  | 635 Carron Road, Falkirk, Scot  | Scotland  | Valcartier, | . Sept. 22 |
+| 12 | 592 | 1755 | 3571 | 1791 | 10991 Private  | Adams, John    | West. Yorks. Regt  | Adams, Alice  | 3 Westchester Ave., St. Catharines, Ont  | England  | Valcartier, | . Sept. 22 |
+| 12 | 592 | 1784 | 3572 | 1820 | 10992 Private  | Allison, Israel  | West Yorks. Regt  | Allison, Elizabeth  | 11 Sloe St., Keighley, Yorks., Eng  | England.... | Valcartier, | . Sept. 22 |
+| 12 | 592 | 1814 | 3571 | 1849 | 11076 Private  | Anchor, Frank  | 3rd Somerset Regt  | Anchor, Mrs. 8   | 8 Palmerston Rd., FreezehiU, Taunton, Somerset, Eng. | England  | Valcartier | . Sept. 22 |
+| 12 | 592 | 1842 | 3572 | 1879 | 11066 Private  | Atkins, Herbert  | Sherwood Foresters— | Atkins, Mra. H  | Paris, Ont  | England.... | Valcartier | . Sept. 22 |
+| 12 | 593 | 1872 | 3572 | 1915 | 10993|Private  | Berry, Frank Arthur  | West Riding Regt  | R.'rry, Mrs. Sarah M  | 13 McDonald St., St. Catharines, Ont  | England  | Valcartier | . Sept. 22 |
+| 12 | 593 | 1901 | 3572 | 1937 | 10994 Private  | Bowley, George Henry  | 19th Regt  | Nil  | NU  | England  | Valcartier | ,. Sept. 22 |
+| 12 | 592 | 1930 | 3572 | 1964 | 10995; Private  | Barton, Thomas Kings worth . | Nil  | iBarton, Thomas  | Woodchurch, Ashford, Kent, Eng  | England  | Valcartier | . Sept. 22 |
+| 12 | 593 | 1959 | 3573 | 1996 | 1099fi| Private  | Bayliss, John  | 36th Regt  | Bayliss, Benjamin  | 118 Breithoupt St., Berlin, Ont  | England  | Valcartier | . Sept. 22 |
+| 12 | 592 | 1987 | 3572 | 2026 | 108871 Private  | Bradshaw, Percy A  | Nil  | Bradshaw, Mrs. H  | Heath Farm, Glympton, Woodstock, Oxford, Eng  | England... | Valcartier | . Sept. 22 |
+| 12 | 593 | 2016 | 3573 | 2050 | 11039lPrivate  | Bennett, Wm. B  | Nil  | Bennett, C. E  | DunnviUe, Ont  | Canada...., | Valcartier | . Sept. 22 |
+| 13 | 779 | 535 | 3194 | 567 | Rank. | Name (Sueuame first). |  | Name of Next o! Kin. |
+| 13 | 623 | 711 | 2274 | 742 | 11040 | Private. | Baker, Charles. | Nil. | Baker, Walter, c/o. Norman |
+| 13 | 1865 | 740 | 3589 | 770 |  |  |  | Swayze '  | Winger, Ont. | Valcartier. | Sept. 22 |
+| 13 | 623 | 771 | 2270 | 799 | 11041 Private  | Brookor, P  | Particulars will bo furnished | when available   |
+| 13 | 624 | 795 | 3589 | 830 | 11042lPrivate | Brown, George  | 37th Regt. | Hewitt, Mrs. John R  | Sinelairville, Ont   England... | Valvartier.. | Sept. | 22 |
+| 13 | 624 | 824 | 3589 | 859 | 11060 | Private  | Birch, Frederick  | Nii  | Birch, Mrs. L  | Box 192 Farnham, P.Q   England... | Valcartier.. | Sept. | 22 |
+| 13 | 623 | 856 | 3590 | 887 | 11067 | Private  | Binch, Arthur  | Nil  | Reid, Mrs. Charles  | Paris, Ont : England... | Valcartier.. | Sept. | 22 |
+| 13 | 623 | 886 | 3590 | 919 | 10908 | Private  | Challis, George F  | 19th Regt  | Challis, Mrs. W  | Ill Queenston St., St. Catharines, Ont England... | Valcartier.. | Sept. | 22 |
+| 13 | 623 | 914 | 3590 | 946 | 10999 | Private  | Coulthart, James  | Nil  | Haisell, Mrs. C  | First Ave., Riverview Pk., Galt, Ont Scotland.. | Valcartier.. | Sept. | 22 |
+| 13 | 623 | 941 | 3591 | 975 | 11065 | Private  | Cullurn, Arthur Edward  | 2nd Scots Gds  | Cullum, Mrs. V. E  | Box 534, Paris, Ont  England... | Valcartier.. | Sept. | 22 |
+| 13 | 622 | 973 | 3591 | 1005 | 11000 | Private  | Crawford, William  | 19th Regt  | Crawford, Mrs. Janet  | 10 South George St., Dundee, Scot Scotland.. | Valcartier.. | Sept. | 22 |
+| 13 | 623 | 1001 | 3591 | 1035 | 11001 | Private  | Donaldson, Alexander  | Territorials  | Donaldson, Marguerite  | 34 High St., Campbeltown, Scot Scotland.. | Valcartier.. | Sept. | 22 |
+| 13 | 622 | 1029 | 3591 | 1063 | 11032 | Private  | Dunn, William  | A. S. C  | Thomson, Miss E. J  | Dunnville, Ont   England... | Valcartier.. | Sept. | 22 |
+| 13 | 624 | 1059 | 3592 | 1094 | 11043 | Private  | Doan, Percy  | 77th Regt  | Doan, John R  | Cayuga, Ont Canada..., | Valcartier., | Sept. | 22 |
+| 13 | 622 | 1089 | 3592 | 1122 | 11002 | Private  | Edge, Samuel | NU. | Edge, Mrs. Helena  | 307 Clayton Lane, Manchester, Lancs., Eng England.. | Valcartier., | Sept. | 22 |
+| 13 | 622 | 1118 | 3592 | 1151 | 11003 | Private  | Edge, William  | Nil  | Edge, Mrs. Helena  | 307 Clayton Lane, Manchester, Lancs., Eng England.., | Valcartier., | Sept. | 22 |
+| 13 | 622 | 1147 | 3593 | 1180 | 10979 | Private  | Fuller, Edwin Harold  | Nil  | Fuller, Annie  | 24 Grey Ave., Mt. Dennis, Ont England.. | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1176 | 3594 | 1211 | 11005 | Private  | Farebrother, Sydney  | 19th Regt  | Farebrother, Mrs. A  | Lock 2, HUl City, St. Catharines, Ont Canada... | Valcartier.. | Sept. | 22 |
+| 13 | 622 | 1205 | 3593 | 1238 | 11044 | Private  | Fralick, Walter Thomas  | Nil. | Fralick, Walter  | Welland Port, Ont Canada... | Valcartier. | Sept. | 22 |
+| 13 | 621 | 1233 | 3594 | 1267 | 110-15 | Private  | Fralick, Gilbert.  | Nil  | Fralick, Mrs. E  | DunnvUle, Ont       Canada... | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1263 | 3595 | 1297 | 11062 | Private  | Fisher, C  | Nil. | Fisher, Mrs  | Shenstone, Staffs., Eng England.. | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1293 | 3595 | 1328 | 11064 | Private  | Fox, David James  | 37th Regt  | Fox, Mrs. Lewis  | DunnvUle, Ont Canada... | Valcartier. | Sept | 22 |
+| 13 | 621 | 1322 | 3595 | 1357 | 10989 | Private  | Goldsmith, Francis  | Northampton Regt. | Goldsmith, Mary A  | 30 Hatfield St., St. Luke's, London, Eng England.. | Valcartier. | Sept, | 22 |
+| 13 | 622 | 1350 | 3596 | 1384 | 11073 | Private  | Gillies, William  | A. M. C  | Blagden, Mrs. Edward  | Flamboro’ Centre, Ont England.. | Valcartier. | Sept. | 23 |
+| 13 | 622 | 1378 | 3595 | 1414 | 10D77 | Private  | Howard, Thomas  | NU  | Howard, Mrs. T. B  | CoUingwood, Ont England.. | Valcartier. | Sept. | 23 |
+| 13 | 623 | 1410 | 3595 | 1444 | I09S4 | Private  | Harvey, Charles Stuart  | 4th Batt. Buffs  | Harvey, Mrs. Eliza  | 4 Union Rd., St. Paul’s Cray, Kent, Eng England.. | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1438 | 3596 | 1473 | 10985 | Private  | Hargrave, James Alexander... | Leed’s Regt  | Hargrave, Robert  | 9 Dargai St., Mean wood Rd., Leeds, Eng England.. | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1466 | 3596 | 1501 | 10990 | Private  | Huggins, James  | NU  | Huggins, Mrs. E. M  | 15 Elliott’s Ave., Brantford, Ont   England.. | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1497 | 3596 | 1530 | 11004 | Private  | Hatten, William James  | Scotch Guards  | Hatten, Mary    | 86 Westfield Rd., Shepherd’s Bash, London, Eng England.. | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1526 | 3596 | 1561 | 11059 | Private  | Hall, Percy N  | Can. Militia  | Hall, Mre. M. E  | HagersvUle, Ont Canada... | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1552 | 3597 | 1589 | 11006 | Private  | Healy, James.  | R. F. A  | Healy, Mrs. John  | 46 York St., Marylebone, London, Eng England.. | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1582 | 3597 | 1618 | 11007 | Private  | Hill, James  | 13th Regt  | Burke, Mrs  | 198 Homewood Ave., Hamilton, Ont      Canada... | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1614 | 3597 | 1648 | 11033 | Private  | Hacijan, Norman  | 37th Regt  | Hanigan, Mra. Albert  | Welland Port, Ont. Canada... | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1640 | 3598 | 1678 | 11052 | Private  | Heasiey, George  | NU  | Heasiey, Sarah  | Carnegie, Penn., U.S.A U.S.A  | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1672 | 3597 | 1706 | 11069 | Private  | Hawkins. Richard R  | 13th Regt  | Hawkins, Mrs. R  | 174 Catherine St. S., HamUton, Ont Canada... | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1700 | 3598 | 1734 | 11070 | Private  | Hoskins, Albert  | NU  | Hoskins, Mra. H  | Credit Forks, Ont Canada... | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1726 | 3598 | 1763 | 11065 | Private.....  | Innes, John  | Nil  | Hay, John  | 218 Austin St., Winnipeg, Man Scotland.. | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1759 | 3599 | 1793 | 11008 | Private  | Kempling, Harold H  | 19th Regt  | Kempling, Mrs. J. W ... | 745 Gerrard St., Toronto, Ont   Canada... | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1788 | 3599 | 1822 | 11016 | Private  | King, George Edward  | Can. Militia  | King, Martha  | Gorleston-on-Sea, Eng England.. | Valcartier. | Sept. | 22 |
+| 13 | 621 | 1818 | 3599 | 1851 | 11072 | Private  | Keates, Arthur  | NU   | Keates, Mrs. E. J :... | 663 Richmond St., Toronto, Ont England.. | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1848 | 3600 | 1886 | HOGS | Private  | Large, Alfred  | Roy. Lancs. Regt... | Large, EUen  | 24 Bangor St., Bolton, Lancs., Eng England.. | Valcartier. | Sept. | 22 |
+| 13 | 621 | 1877 | 3600 | 1908 | 11045 | Private  | Lambouren. Frank  | Militia  | Long, Mrs. M  | 1 Westvicw Terrace, Reading, Eng England.. | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1906 | 3600 | 1941 | S165S | Private  | Lay, John Thomas George. | Nil  | Lay, Mre. A  | 20 Blandford Rd., Beckenham, Kent, Eng England.. | Valcartier. | Sept. | 22 |
+| 13 | 622 | 1935 | 3600 | 1969 | 10932 | Private  | McQuinn, Frank  | Nil. | McQuinn. James  | 38 Bruce St., Brantford, Ont     Canada... | Valcartier. | Sept. | 23 |
+| 13 | 622 | 1964 | 3601 | 1997 | 11010 | Private  | MacDonald, Frank  | Nil  | MacDonald, Mrs  | 543 Great Northern Rd., Aberdeen, Scot Scotland.. | Valcartier. | Sept. | 22 |
+| 13 | 621 | 1987 | 3600 | 2027 | 11011 | Private  | McKnight, Edgar  | Nil  | McKnight, Mre. A. R  | Amherst, N.9  Canada... | Valcartier. | Sept. | 22 |
+| 13 | 621 | 2017 | 3602 | 2055 | 11034 | Private  | Montour, Frank  | NU  | Montour, Mrs. C. W  | Hageraville, Ont Canada... | Valcartier. | Sept. | 22 |
+| 13 | 621 | 2051 | 3602 | 2084 | 11035 | Private  | Montour, Nathan F  | Can. MUitia  | Montcur, Elijah  | New Credit, Ont Canada... | Valcartier. | Sept. | 22 |
+| 13 | 621 | 2076 | 3603 | 2113 | 1103S | Private  | Montour. William B  | Can. Militia  | j Montour, Francis  | New Credit, Ont Canada... | Valcarticr. | Se.pt. | 22 |
+| 14 | 592 | 252 | 3556 | 289 | 11033 | Private. | Mackenzie, Alex  | NU  | Mackenzie, Mrs. M. D  | 134 Lake St., St. Catharines, Ont  | England. | Valcartier. | Sept. 22 |
+| 14 | 592 | 282 | 3557 | 320 | 11031 | Private. | Myke, John A  | Can. Militia. | Hyko, Mrs. Joha.  | 363 Avondale Ave., Hamuton, Ont    | Canada.. | Valcartier. | Sept. 22 |
+| 14 | 591 | 312 | 3558 | 350 | 11012 | Private. | Nortcliff, Charles  | 19th Regt... | Hart, Miss Harriet  | Merriton, Ont    | England. | Valcartier. | Sept. 22 |
+| 14 | 591 | 343 | 3557 | 381 | 11507 | Private. | Norman, Charles Thomas... | NU  | Mills, Mrs. Nellie  | 60 Winchester Rd., Bucklsnd, Portsmouth, Eng  | England. | Valcarticr.. | Sept. 22 |
+| 14 | 591 | 372 | 3557 | 409 | 11053 | Private. | Osborne, Alfred  | Can. Militia. | Osborne, Mrs. E  | High Cliff Park, Hardwood Laundry .Winchester, Eng. | England. | Valcartier. | Sept. 22 |
+| 14 | 591 | 409 | 2000 | 439 | 11078 | Private. | O'Higgins, F. M  | Particulars wiU be furnished w | hen available. |
+| 14 | 591 | 431 | 3558 | 467 | 10987 | Private. | Palmer, Albert  | Nil | Palmer, Lewis  | 87 Essex Ave., Toronto, Ont  | Canada  | Valcarticr. | Sept. 22 |
+| 14 | 591 | 460 | 3558 | 497 | 11056 | Private. | PanneU, Harry Edwin  | Nil.  | Nelson, Mrs. P. C  | Foyle St., Bluff, New Zealand  | England  | Valcartier. | Sept. 22 |
+| 14 | 591 | 489 | 3558 | 526 | 11013 | Private. | Patterson, Everton  | 45 th Regt  | Patterson, Miss Ella  | Orangeville, Ont  | Canada..  | Valcartier. | Sept. 22 |
+| 14 | 591 | 519 | 3559 | 554 | 11014 | Private. | Patterson, Gerald Stewart.. | O. T. C  | Patterson, Rev. R. Stewart.. | Heathside, Heathurst Rd., Sar.derstead, Surrey, Eng.. | Wales  | Valcartier. | Sept. 22 |
+| 14 | 593 | 548 | 3558 | 585 | 11077 | Private. | Perrett, Myles   | 39th & 37th Regt. | Perrett, Charles...  | Jarvis, Ont      | Canada  | Valcartier. | Sept. 23 |
+| 14 | 674 | 578 | 3559 | 614 | Private.. | Pennell, H    |  | Bilger, Charles  | Dunnville, Ont     | Canada  | Valcartier. | Sept. 22 |
+| 14 | 592 | 607 | 3558 | 644 | 10978 | Private. | Rowling, Robert  | L. Middlesex Regt  | Bowling, Mrs M    | Simcoe P.O.. Ont  | England  | Valcartier. | Sept. 22 |
+| 14 | 593 | 637 | 3559 | 673 | 11015 | Private. | Ranee, Frederick  | O. T. C  | Ranee, Mrs. G  | Ill Oxford Rd., Middlesborough, Eng  | India  | Valcartier. | Sept. 22 |
+| 14 | 592 | 666 | 3559 | 703 | I101G | Private. | Rendall, Fred Yorston  | 19th Regt  | Rendall, Mrs. John  | Roadside P:\-Pa-Wcstray, Kirkwall, Orkney Is., Scot. | Scotland  | Valcartier. | Sept. 22 |
+| 14 | 591 | 696 | 3559 | 733 | 11017 | Private. | Reynolds, William  | 22nd Regt  | Reynolds, Mrs. A  | Norwood, Ont   | Canada  | Valcartier. | Sept. 22 |
+| 14 | 591 | 725 | 3560 | 762 | 1103S | Private. | Rodgers, Malcolm  | Can. Militia  | Rodgeia, Nelson..  | Nelles Corners. Ont   | Ireland   | Valcartier. | Kept. 22 |
+| 14 | 591 | 744 | 3559 | 796 | 111074 | Private. | Sellars, Robert  | Chester Regt  | Sellars, Margcurite. v  | Milton West, Ont  | England  | Valcartier. | Sept.’ 22 |
+| 14 | 591 | 779 | 3559 | 820 | i0986 | Private. | Sheridan, Herbert  | 60th Regt  | Sheridan, Annie *.  | MUton West, Ont  | England  | Valcartier. | Sept. 22 |
+| 14 | 591 | 814 | 3560 | 850 | 1098S | Private. | Slack, William  | N. Staffs. Regt  | Slack, Mrs. Emily  | 31 Bland St., Moss Side, Manchester, Eng  | England  | Valcartier. | Sept. 22 |
+| 14 | 590 | 843 | 3560 | 878 | 10976 | Private. | Smith, Lawrence  | Nil  | Smith, Mrs. N  | 19 Ontario St., St. Catharines, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 14 | 590 | 872 | 3561 | 907 | 11015 | Private. | Scott, Walter D  | Nil  | Scott, William  | EUdon, Melrose Ave., Rutherglen, Scot    | Scotland  | Valcartier. | Sept. 22 |
+| 14 | 590 | 904 | 3040 | 938 | 11019 | Private. | Shephard, Henry Thomas... | NU  | Shephard, John  | “The Glade,” Holmbury, St. Mary, nr. Dorking, Sur¬ |
+| 14 | 2311 | 931 | 3562 | 965 |  |  |  |  | rey, Eng  | England.. | Valcartier. | Sept. 22 |
+| 14 | 589 | 960 | 3562 | 994 | 11020 | Private.. | Sloan, George Andrew  | Territorials. | Sloan, John T  | 4 Brunswick St., Edinburgh, Scot  | Scotland. | Valcarticr. | Sept. 22 |
+| 14 | 589 | 989 | 2993 | 1025 | 11021 | Private.. | Somerville, William David. | Ceylon Vol. | Somerville, Mrs. E. J... | 9 Frankston Rd., West Southboume, Bournemouth, |
+| 14 | 2313 | 1018 | 3562 | 1051 |  |  |  |  | Hants., Eng    | Ceylon  | Valcartier. | Sept. 22 |
+| 14 | 589 | 1047 | 3562 | 1082 | 1102: | Private.. | Spence, Robert  | 14th Regt   | Spence, Alexander  | c/o Mrs. Rachel Churchill, Petrolia, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 14 | 590 | 1077 | 3562 | 1110 | 11030 | Private.. | Stewart, Ernest William  | Nil  | Stewart, Miss G  | Milton West, Ont  | England  | Valcartier. | Sept. 22 |
+| 14 | 589 | 1106 | 3563 | 1139 | 11049 | Private.. | Sims, John Robert  | NU    | Sims. Wm  | Saxiiby Village, Lincolnshire, Eng    | England  | Valcartier. | Sept. 22 |
+| 14 | 589 | 1134 | 3643 | 1171 | 11050 | Private.. | Smith, James  | Can. Militia  | Smith, James  | Matebella, Queen’s Mine, N. Bulawayo, South Africa.. | Scotland  | Valcartier. | Sept. 22 |
+| 14 | 590 | 1164 | 3562 | 1197 | 11051 | Private.. | Smith, Blake B  | Can. Militia  | Smith, Mrs. Cicero  | Dunnville, Ont    | Canada  | Valcartier. | Sept. 22 |
+| 14 | 588 | 1193 | 3563 | 1227 | 11054 | Private.. | Secord, Thomas  | Nil  | Secord, Margaret  | HagcrsvUle, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 14 | 588 | 1222 | 3563 | 1256 | 110G1 | Private.. | Stephenson, Roy  | NU  | Stephenson, Mrs. W. H. | Burlington, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 14 | 588 | 1250 | 3563 | 1285 | 11074 | Private.. | Simpson, George  | Imp. Army  | Simpson, George  | Burnside, Keith Rd., Lochabar, Morayshire, Scot  | Scotland  | Valcartier. | Sept. 22 |
+| 14 | 589 | 1281 | 3564 | 1315 | 11659 | Private.. | Sartain, .Tames SUvester  | 7th Roy. Fus  | Sartain, Mrs. Matilda... | 99 Brooks Green, Hammersmith, London, Eng  | England  | Valcartier. | Sept. 22 |
+| 14 | 588 | 1310 | 3563 | 1344 | 10945 | Private.. | Taylor, John  | Nil  | Taylor, Mrs. Harry  | Talbot St., Rochdale, Eng ;... | England  | Valcartier. | Sept. 23 |
+| 14 | 570 | 1339 | 3564 | 1373 | -11024 | Private.. | Tobin, Kenneth E  | U. S. A. Navy  | Tobin, Mrs. F. M  | 179 Huron St., Woodstock, Ont.   | U. S.A  | Valcartier. | Sept. 22 |
+| 14 | 587 | 1368 | 3564 | 1401 | 1103" | Private.. | Turnbull, William  | Can. Militia  | Turubull, Mrs. A  | Paris, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 14 | 588 | 1398 | 2031 | 1431 | 11025! Private.. | Turnbull, A  | Particulars will be furnished | when available. |
+| 14 | 586 | 1426 | 3564 | 1458 | 11075 Private.. | Trowles, Victor  | NU  | Trowles, A. E  | 951 Dovercourt Rd., Toronto, Ont  | England  | Valcartier. | Sept. 23 |
+| 14 | 586 | 1453 | 3565 | 1488 | 10975! Private.. | Vallins, George  | Dorset Regt  | VaUins, Charlotte  | 32 Rodman St., St. Catharines, Ont   | England  | Valcartier. | Sept. 22 |
+| 14 | 586 | 1485 | 3565 | 1521 | 10980] Private.. | Wells, Douglas Her.ry  | Nil  | Wells, Mrs. G. H  | 237 Oxford Rd., Reading, Eng  | England   | Valcartier. | Sept. 22 |
+| 14 | 586 | 1514 | 3561 | 1546 | 10983 Private.. | Windle, Mathew W  | Nil  | Windle, Richard  | 105J Wellington St., Brantford, Ont  | Canada  | Valcarticr. | Sept. 3. |
+| 14 | 585 | 1544 | 3565 | 1575 | 11026: Private.. | Watson, James  | 12th Regt.  | Watson, C  | 85 Gladstone St., Glasgow, Scot    | Scotland  | Valcartier. | Sept. 23 |
+| 14 | 585 | 1572 | 3564 | 1604 | 11027'Private.. | White, B. C  | Can. MUitia  | White, Charles  | 36 Park Ave., Chelmsford, Essex, Eng  | England  | Valcartier. | Sept. 22 |
+| 14 | 585 | 1603 | 3565 | 1634 | 11029 Private.. | Wolhaupter, Harold  | 19th Regt  | Wolhaupter, Mrs. G. D. | 74 James St., St. Catharines, Ont  | U. S. A  | Valcartier. | Sept. 22 |
+| 14 | 585 | 1632 | 3564 | 1663 | 1102S | Private.. | Worrall, William PhUip  | Nil..  | Worrall, Squire Edwin.. | 70 Lome St., Moses Gate, Bolton, Lancs., Eng  | England  | Valcartier. | Sept. 22 |
+| 14 | 586 | 1660 | 3565 | 1691 | 11055 | Private.. | Wheeler, Charles  | NU  | Wheeler, Ella  | GUIs Cliff House, Ventnor, I. O. W., Eng  | England  | Valcartier. | Sept. 22 |
+| 14 | 585 | 1689 | 3564 | 1720 | 11059 | Private.. | Ward, Thomas Edgar  | Can. Militia  | Ward. Thomas  | 173 King St., Hoyland. near Barnsley. Eng  | England  | Valcartier. | Sept. 22 |
+| 14 | 584 | 1715 | 3564 | 1749 | 11071 | Private.. | Wood, Thos. Louis  | Terr. Force  | Wood, WUliam  | Capt. Hali Green, Waltham Abbey, Essex, Eng  | England  | Valcartier. | Sept. 23 |
+| 14 | 584 | 1747 | 3565 | 1778 | 11057 | Private.. | York, William F  | Nil  | York, F  | Holdenby, Northampton, Eng  | England  | Valcartier. | Sept. 23 |
+| 14 | 659 | 1937 | 3566 | 1979 | |Captain...., | Ballantine. James  | 20th Regt  | Bailantine, Minnie E  |  |  | Valcartier.. | Sept. 23 |
+| 14 | 658 | 1966 | 3565 | 2008 | | Lieutenant. | Dent, Fred. Stephenson  | 36th Regt  | TUley, Mrs. E. J  | 2S5 Augusta Ave., Toronto, Ont  | Canada  | Valcartier.. | Sept. 22 |
+| 14 | 657 | 1995 | 3435 | 2026 | I Lieutenant.. | McKinley, James Murray... | 20th Regt  | McKinley, Mrs. Margaret.. | 16 Brunswick Ave., Toronto, Oat  | Canada  | Valcartier.. |
+| 15 | 717 | 572 | 3144 | 605 | Rank. | Name (Surname first). |  | Name of Next of Kin. |
+| 15 | 655 | 746 | 3543 | 780 | Lieutenant | Conover, Reginald Van Evan. | 20th     | Conover, J. U.      | Box 12, Brampton, Ont Canada Valcartier.. Sept. 23 |
+| 15 | 591 | 775 | 3543 | 808 | 1079 | Col.-Sergeant... | Jaminson, Samuel J  | R. M. & N. Staffs. Regt.. | Jaminson, Mrs. S. J  | 199 Hamilton St., Toronto, Ont Ireland Valcartier.. Sept. 22 |
+| 15 | 591 | 804 | 3543 | 837 | 1050 | Sergeant  | Hucklebridge, George  | Rifle Bde   | Hucklebridge, Mrs. George.... | Simcoe, Ont  England Valcartier.. Sept. 22 |
+| 15 | 591 | 833 | 3544 | 867 | 1051 | Sergeant  | Duffy, Thomas Patrick  | Manchester Regt  | Duffy, Mrs  | 21 Boardman St., Harpurkey, Manchester, Eng England Valcartier.. Sept. 22 |
+| 15 | 591 | 862 | 3544 | 894 | 1082 | Sergeant  | Outhwaite, William Frederick. | 5th Lincolns  | Outhwaite, Mrs. Emma  | 650 St. Clarens Ave., Toronto, Out England Valcartier.. Sept. 22 |
+| 15 | 591 | 891 | 3545 | 926 | 1033 | Sergeant  | Bradley, William Lome  | 20th Regt  | Bradley, John   | Milton West, Ont   Canada Valcartier.. Sept. 22 |
+| 15 | 590 | 921 | 3545 | 953 | 1084 | Corporal  | Burrows, Walter  | 2nd Batt. Norfolk Regt— | Burrows, Miss Ruby G  | 69 Derby St., Ham St., Norwich, Norfolk, Eng England Valcartier.. Sept. 22 |
+| 15 | 591 | 949 | 3545 | 983 | 1086 | Corporal  | Harwood. Harry Scott  | Can. Militia  | Moore, Miss E. M  | BoxS4, Acton W., Ont  England Valcartier.. Sept. 23 |
+| 15 | 591 | 978 | 3545 | 1011 | 10S7 | Corporal  | Wray, John Lorenzo  | 13th & 20th Regt.  | Wray, Mrs. Geo  | 221 John St. South, HamUton, Ont - . • Canada Valcartier.. Sept. 22 |
+| 15 | 591 | 1007 | 3546 | 1040 | 1085 | Corporal  | McMaster, Malcolm  | Imp. Yeo  | McMaster, Robert..  | Sedmouth, Devon, Eng Ireland Valcartier.. Sept. 22 |
+| 15 | 590 | 1036 | 3546 | 1071 | 1105 | Corporal  | Andrew, George  | NU  | Andrew, Mrs   | 3 Church St., Banff, Scot  Scotland Valcartier.. Sept. 22 |
+| 15 | 591 | 1064 | 3547 | 1099 | 1101 | Private  | Alder, Albert  | Nil  | Alder, Mrs. C  | Tubney, Abingdon, Berks, Eng England...... Valcartier.. Sept. 22 |
+| 15 | 591 | 1093 | 3547 | 1128 | 1102 | Private  | Algeo, Adam  | Nil  | Algeo, Elizabeth  | 14 Frankish Ave., Toronto, Ont  Ireland Valcartier.. Sept. 22 |
+| 15 | 591 | 1124 | 3547 | 1157 | 1103 | Private  | Anderson, William   | Nil  | Anderson, Mrs. WUliam  | CampbelivUie, Ont Canada   Valcartier.. Sept. 22 |
+| 15 | 590 | 1152 | 3547 | 1186 | 1104 | Private  | Armstrong, Thomas Miller.... | NU  | Armstrong, Mrs. Jane  | 62 Lady Lawson St., Edinburgh, Soot Scotland Valcartier.. Sept. 22 |
+| 15 | 589 | 1182 | 3547 | 1215 | 1106 | Private  | Best, William  | 20th Regt . | Best, Robert  | 208 Templemore St., Belfast, Ire Irelapd Valcartier.. Sept. 23 |
+| 15 | 590 | 1211 | 3548 | 1244 | 1107 | Private  | Burtenshaw, Fred. G  | Can. MUitia  | Burtenshaw, Catherine  | Georgetown, Ont England Valcartier.. Sept. 22 |
+| 15 | 589 | 1240 | 3548 | 1273 | 1103 | Private  | Baylis, George W  | Nil  | Baylis, Mrs. Louise  | Milton West, Ont England Valcartier.. Sept. 22 |
+| 15 | 590 | 1269 | 3548 | 1303 | 1109 | Private  | Bradley, Leslie.    | NU...  | Bradley, John  | Hornby, Ont Canada Valcartier.. Sept. 22 |
+| 15 | 589 | 1299 | 3549 | 1332 | 1110 | Private  | Barnes, John William  | Nil  | Barnes, Mrs. John  | North St., Langham, Norfolk, Eng England Valcartier.. Sept. 22 |
+| 15 | 590 | 1328 | 3549 | 1361 | 1111 | Private  | Busby, George  | Can. MUitia  | Busby, Mrs. William  | Box 96, Oakville, Ont  Canada Valcartier.. Sept. 22 |
+| 15 | 589 | 1357 | 3549 | 1389 | 1112 | Private   | Butler, John  | NU  | Butler, William  | 122 Victoria St., Pre3ton, Lancs., Eng England Valcartier.. Sept. 22 |
+| 15 | 589 | 1384 | 3549 | 1418 | 1113 | Private | Bird, George Ditfield  | Nil  | Bird, J. L..  | Chatham, Canterbury, Kent, Eng England Valcartier.. Sept. 22 |
+| 15 | 590 | 1415 | 3549 | 1446 | 1114 | Private  | Bunker, Alfred Mark Crombs. | Nil   | Bunker, WUliam  | Burlington, Ont England Valcartier.. Sept. 22 |
+| 15 | 588 | 1444 | 3550 | 1478 | 1085 | Private  | Cummings, Alfred Cuyter  | NU  | Cummings, Mrs. A. E  | Georgetown, Ont Canada Valcartier.. Sept. 22 |
+| 15 | 588 | 1470 | 3550 | 1504 | 1091 | Private  | Clarke, Harold Julius  | Nil. | Clarke, Mrs. L  | Paton Rd., Berkhampstead, Herts., Eng England Valcartier.. Sept. 23 |
+| 15 | 587 | 1503 | 3550 | 1535 | 1115 | Private  | Carr, Wilfred  | Nil  | Carr, Mrs. B. J  | 21 Erie St., East Lynn, Mass., U.S.A U. S. A Valcartier.. Sept. 22 |
+| 15 | 587 | 1532 | 3551 | 1567 | 1116jPrivate  | Cole, John Henry  | Roy. Field Art. | Cole, Mrs. J  | Southampton, Ont - England Valcartier.. Sept. 22 |
+| 15 | 588 | 1561 | 3552 | 1593 | 1117 Private   | “ ird  | Cannon, Howari | Nil  | Cannon, Arthur  | MUton West, Ont England Valcartier.. Sept. 22 |
+| 15 | 588 | 1589 | 3551 | 1624 | 1118|Private   | Goekington, John | Nil  | Townshend, Mrs. R.*C  | G9 Prospect St., Hamilton, Ont   England...... Valcartier.. Sept. 22 |
+| 15 | 587 | 1619 | 3552 | 1653 | 1119:Private  | Church, John Gundy  | WUts. Yeo  | Church, Mrs. L. E  | Freeman P. O., Ont England Valcartier.. Sept. 22 |
+| 15 | 587 | 1648 | 3552 | 1680 | 1120| Private   | Cormack, David  | R. C. E  | Cormack, Mrs. George .... | Simcoe, Ont Scotland Valcartier.. Sept. 22 |
+| 15 | 588 | 1676 | 3551 | 1710 | 11211 Private  | Cooper, Charles H  | NU  | Cooper, George W  | 1 London Terrace, Brighton, Eng England Valcartier.. Sept. 23 |
+| 15 | 588 | 1706 | 3552 | 1739 | 1122| Private  | Cook,John  | Northumberland Fus. | Robson, Mary  | 191 MU1 St., Liverpool, Eng England Valcartier.. Sept. 22 |
+| 15 | 588 | 1736 | 3552 | 1770 | 1190|Private  | Dickson, James  | Royal Art  | Dickson, Mrs. E  | 5237 Camcjne Ave., Pittsburgh, Pa., U.S.A Ireland Valcartier.. Sept. 22 |
+| 15 | 588 | 1765 | 3553 | 1797 | 1094 Private  | Doudney, John Edward  | Nil  | Doudney, J. A  | 222 Outer Temple, Strand, London, Eng  England Valcartier.. Sept. 22 |
+| 15 | 588 | 1794 | 3553 | 1829 | 11231 Private. | Debenham, Robert Frank.... | 8th Middlesex  | Debenham, F. J ., | 52 Haliburton Rd., St. Margarets, Twickenham, Eng.- England Valcarticr.. Sept. 22 |
+| 15 | 588 | 1822 | 3554 | 1855 | 1124 Private. | Dunbar, Alex. Ritchie  | 3rd V. B., etc  | Dunbar, Mrs. A '. | 135 High St., Forres, Moray, Scot Scotland Valcartier . Sept. 22 |
+| 15 | 588 | 1850 | 3553 | 1885 | 1125 Private. | Dymott, W'Uiiam    | Imp Army  | Dymott, William  | 2 Stone St., Queens Rd., Hastings, Sussex, Eng England Valcartier.. Sept. 22 |
+| 15 | 589 | 1879 | 3554 | 1916 | 1126|Pri;ate  | Davis, Alfred Ernest  | Nil. | Davi3, Mrs. Joseph J  | Aurora, Ont Canada Valcartier.. Sept. 22 |
+| 15 | 589 | 1912 | 3554 | 1943 | 11271 Private  | Douglas. David  | R. E.. | Douglas, Mrs. A   | 17 Gaerbraid St., MaryhUl, Glasgow, Scot Scotland Valcarticr.. Sept. 23 |
+| 15 | 589 | 1937 | 3554 | 1970 | 1095 Private  | Eden, Alfred  | S. R. T. | Eden, Mrs. E  | 143 Bexlfield St., Denniston, Glasgow, Scot   Scotland Valcartier.. Sept. 22 |
+| 15 | 588 | 1969 | 3554 | 1999 | 1128 Private     | Edwards, Albert  | Nil.....  | Edwards, Mrs. T  | Cenydd Rd., Senghenvdd, Wales Wales Valcartier.. Sept. 22 |
+| 15 | 589 | 1995 | 3554 | 2030 | 1193[Private   | French, Alexander J  | Can. Militia  | French, John  | 74 Murano St., Maryhill, Glasgow, Scot   Scotland Valcartier.. Sept. 22 |
+| 15 | 588 | 2026 | 3555 | 2058 | 1089 Private  | Fincher, Thomas  | Can. MUitia  | Hay, John  | Pontypridd, S. Wales Wales Valcartier.. Sept. 23 |
+| 15 | 588 | 2056 | 3555 | 2088 | 1133 Private  | Francis, Henry WiUiam  | NU  | Francis, Mrs. Barbara  | Georgetown, Oat   'England Valcartier.. Sept. 22 |
+| 16 | 589 | 305 | 3549 | 348 | 11140j Private |  | Farrie3, Thomas.... | Imp. Yeo  | Fames, John ...... | Kelso, Roxburgh, Scot     Scotland. |  | Valcartier.. | Sept. 22 |
+| 16 | 588 | 335 | 3549 | 372 | 11183 | Private. | Forbes, Alexander... | NU  | Forbes, George  | 17 Castle St., Peterhead, Aberdeenshire, Scot Scotland. |  | Valcartier.. | Sept. 22 |
+| 16 | 589 | 365 | 3549 | 402 | 11155 | Private. | Green, George  | NU  | Green, David  | 49 BirchiU St., Walsall, Staffs., Eng England.. |  | Valcarticr.. | Sept. 22 |
+| 16 | 589 | 395 | 3549 | 432 | 11163 | Private. | Gibb, James  | A. S. C  | Gibb, Mrs. J      | 54 King’s Crescent, Aberdeen, Scot Scotland. |  | Valcartier.. | Sept. 22 |
+| 16 | 589 | 424 | 3549 | 461 | 11177 | Private., | Grainge, Harold.... | NU  | Grainge, Mrs. H  | 181 Glencairn Ave. N., Toronto, Ont England.. |  | , Valcartier.. | Sept. 22 |
+| 16 | 589 | 453 | 3551 | 492 | 11184 | Private. | Grieve, Charles  | 20th Regt  | Grieve, Margaret  | 248 Durocher St., Outremont, Montreal, P.Q Canada... |  | Valcartier.. | Sept. 22 |
+| 16 | 589 | 482 | 3550 | 521 | 11092 | Private. | Harrison, Septimus. | Roy. Artillery.. | Harrison, Mrs. Mary... | Moffatt, Halton, Ont  England.. |  | Valcartier.. | Sept. 23 |
+| 16 | 589 | 512 | 3549 | 547 | 11093 | Private. | Hall, Thomas  | NU  | Hall, Elizabeth  | 38 Stockport Rd., Ashton-under-Lyne, Eng England.. |  | . Valcartier.. | Sept. 22 |
+| 16 | 589 | 541 | 3550 | 576 | 11137 | Private. | Herbert, Arthur C.. | NU  | Herbert, Mrs. Emily.. | Crick, Northants, Eng. . England.. |  | Valcartier.. | Sept. 22 |
+| 16 | 589 | 570 | 3550 | 606 | 11138 | Private. | Hart, Andrew ... | NU  | Murdock, Mrs. M  | 72 Brock Ave., Toronto, Ont   Scotland. |  | Valcartier.. | Sept. 22 |
+| 16 | 589 | 602 | 2951 | 638 | 11140 | Private. | Harper, Herbert.... | 29th Horse  | Harper, Miss Florence. | 5 Wilkinson's Bldg., Bradford Rd., Huddersfield, |
+| 16 | 2304 | 629 | 3550 | 664 |  |  |  |  |  | Yorks., Eng England.. |  | Valcartier.. | Sept. 22 |
+| 16 | 589 | 660 | 3551 | 696 | 11142 | Private. | Holahan, Dennis.. | West Yorks. Regt. | Holahan, Helen  | 3 Ada View, Richmond HUl, Yorks., Eng England.. |  | Valcartier.. | Sept. 22 |
+| 16 | 589 | 689 | 3551 | 722 | 11144 | Private. | Henderson. H. D. | Nil  | Henderson, J. W  | Burlington, Ont Canada... |  | Valcartier.. | Sept. 22 |
+| 16 | 589 | 718 | 3551 | 758 | 11147 | Private. | Healey, Martin... | Dublin Fus  | Healey, Ann  | 1 Malpass^St., Dublin, Ire Ireland... |  | Valcartier.. | Sept. 22 |
+| 16 | 590 | 748 | 3551 | 782 | 11643 | Private. | Johnson, Fred  | Nil., | Johnson, Mrs. .......... | 20 Irwin St., Beriin, Ont   Canada.. |  | Valcartier.. | Sept. 22 |
+| 16 | 590 | 776 | 3551 | 812 | 11642 | Private. | by, | NU  | KUby, Hanna  | Ampney Crucis, Gloucester, Eng England., |  | Valcartier.. | Sept. 22 |
+| 16 | 590 | 805 | 3552 | 839 | 110S0 | Private. | Lee, William. | 87th Hants F. A  | Lee, Miss E...,  | 11 Avenue Rd., Gosport, Hants, Eng England., |  | Valcartier.. | Sept. 22 |
+| 16 | 590 | 835 | 3551 | 869 | 11145 | Private. | Lamb, Robert  | Royal Scotch Fus  | Sidney, John  | 144 George St., Toronto, Ont Scotland. |  | Valcartier.. | Sept. 22 |
+| 16 | 590 | 864 | 3552 | 898 | 11160 | Private. | Lees, William  | NU  | Lees, Mrs. A..  | MUton Heights, Ont   Scotland. |  | Valcartier.. | Sept. 22 |
+| 16 | 589 | 894 | 3552 | 927 | 11135 | Private. | Mills, Samuel  | NU  | MUls, Mrs. K  | 21 Arkwright St., Belfast, Ire U. S. A  |  | Valcartier.. | Sept. 22 |
+| 16 | 589 | 922 | 3552 | 958 | 11136 | Private. | Matherson, William  | 2nd Seaforth High  | Davidson. Mrs. A  | 134 Woolfray Ave., Toronto, Ont Scotland  |  | Valcartier.. | Sept. 22 |
+| 16 | 589 | 951 | 3552 | 987 | 11143 | Private. | Madden, John   | Imp. Army  | Madden, Mrs. M  | 59 King St., North Dublin,'Ire Ireland.. |  | Valcarticr.. | Sept. 23 |
+| 16 | 590 | 980 | 3552 | 1015 | 11164 | Private. | Mander, Bertie Cecil  | Nil  | Mander, Thomas  | The Stop, Braunston, nr. Rugby, Eng  England. |  | Valcartier., | Sept. 22 |
+| 16 | 590 | 1011 | 3552 | 1044 | 11175 | Private. | Marsden, William  | NU  | Marsden, Ben  | 63 King St., Simcoe, Ont England. |  | Valcartier. | Sept. 22 |
+| 16 | 589 | 1039 | 3553 | 1075 | 11182 | Private. | Main, Archibald  | Argyle & Sutherland High. | Main, Alexander. | 6 Chapel St., Gourock, Renfrewshire, Scot Scotland. |  | Valcartier., | Sept. 14 |
+| 16 | 588 | 1068 | 3554 | 1103 | 11185 | Private. | McCauley, John  | U. S. A. Army  | McCauley, Mrs. Jane... | 35 Mordaunt St., Glasgow, Scot Scotland. |  | Valcartier. | Sept. 14 |
+| 16 | 588 | 1098 | 3554 | 1130 | 11191 | Private. | McLeod, Alexander  | Nil  | Gates, Mrs. Joseph  | 248 King St., Chatham, Ont   Scotland. |  | Valcartier. | Sept. 14 |
+| 16 | 589 | 1125 | 3554 | 1160 | 11132 | Private. | Neile, Thomas Theodore  | NU...  | Nelle, Mrs. E  | 277 Crystal Palace Road, East Dulwich, London, Eng. England. |  | Valcartier. | Sept. 14 |
+| 16 | 588 | 1157 | 3554 | 1188 | 11154 | Private. | Norman, David  | Nil  | Norman, Sarah  | 7 Rea Brighton Ave., Toronto, Ont England. |  | Valcartier. | Sept. 14 |
+| 16 | 588 | 1184 | 3554 | 1218 | 11150 | Private. | Oakes, Albert  | 7th Cheshire Regt  | Oakes, Mrs. J  | Box 306, Burlington, Ont... — England. |  | Valcartier. | . Sflpt. 14 |
+| 16 | 588 | 1215 | 3555 | 1248 | 11099 | Private. | Oliver. George  | Can. MUitia   | Oliver, Charlotte  | Globe Road, MUeEnd, London, Eng England. |  | Valcartier. | . Sept. 14 |
+| 16 | 587 | 1244 | 3556 | 1276 | 11096 | Private. | Pike, Herbert  | Can. MiUtia  | Pike. Alfred  | Not stated England. |  | Valcartier. | . Sept. 23 |
+| 16 | 588 | 1273 | 3555 | 1306 | 11139 | Private. | Peace, John  | NU  | Peace, Charles  | Limehouse, Ont England. |  | Valcartier. | Sept. 22 |
+| 16 | 587 | 1303 | 3556 | 1336 | 11141 | Private., | Platt, Edward  | Nil  | Platt, Emma :  | 56 Parsonage St., jStockport, Lancs., Eng England. |  | Valcartier. | . Sept. 22 |
+| 16 | 587 | 1333 | 3556 | 1365 | 1114S | Private., | Peaks, William Henry  | NU  | Peaks, Mrs. W. H  | MUton West, Ont England. |  | Valcartier. | . Sept. 22 |
+| 16 | 588 | 1362 | 3556 | 1393 | 11157 | Private., | Paterson, Duncan  | NU  | Paterson, John  | Milton West, Ont Scotland. |  | Valcartier. | . Sept. 22 |
+| 16 | 587 | 1392 | 3557 | 1424 | 11171 | Private., | Plant, George  | Nil  | Plant, William  | 170 Keppock Hill Road., Glasgow, Scot Scotland, |  | Valcartier. | . Sept. 22 |
+| 16 | 587 | 1420 | 3557 | 1453 | 11181 | Private., | Pickup, Randolph  | Can. MUitia... | Pickup, John  | 38 Havelock St., Preston, Lancs., Eng England. |  | Valcartier. | . Sept. 22 |
+| 16 | 587 | 1447 | 3557 | 1481 | 11174 | Private., | Pratt, George Arthur  | NU  | Pratt, Mrs. Elizabeth.. | Brighton, Sussex, Eng England. |  | Valcartier. | . Sept. 22 |
+| 16 | 587 | 1479 | 3557 | 1510 | 11100 | Private.. | Roult, Frederick  | Territorials  | Roult, J  | 37 WUIow Grove, Plaistow, London, Eng England. |  | Valcartier. | . Sept. 23 |
+| 16 | 587 | 1508 | 3557 | 1545 | 11149 | Private.. | Reid, Charles  | 20th Regt  | Reid, Ernest  | 94 Marrs Ave., HamUton, Ont Canada.. |  | Valcartier. | . Sept. 22 |
+| 16 | 587 | 1537 | 3558 | 1568 | 11162 | Private.. | Robertson, James  | Territorials  | McKenzie, Alec  | Acton West, Ont Scotland |  | Vaicartier. | . Sept. 22 |
+| 16 | 587 | 1567 | 3557 | 1599 | 11179 | Private.. | Rodgers, Andrew  | Nil  | Rodgers, Robert  | Bridgton, Glasgow, Soot Scotland |  | Valcartier. | . Sept. 22 |
+| 16 | 587 | 1593 | 3558 | 1629 | 11189 | Private.. | Riding, Harry  | Territorials — | Riding, Mrs. D. E  | 33 HamUton Road, Chorley, Lancs., Eng   England. |  | Valcartier. | . Sept. 22 |
+| 16 | 587 | 1626 | 3558 | 1658 | 11192 | Private.. | Stanley, Joseph Thomas | Rifle Brigade. | Stanley, Mrs. J. T  | OakviUe, Ont England. |  | Valcartier. | . Sept. 22 |
+| 16 | 587 | 1654 | 3558 | 1685 | 11097 | Private. | Stuart, John  | 25th Hone  | Stuart, Thomas  | 17 Arthur St., Brantford, Ont Canada |  | Valcartier. | . Sept. 23 |
+| 16 | 586 | 1683 | 3558 | 1715 | 11130 | Private., | Sloane, John  | NU   | Sloane, Mrs. Sarah  | 103* Borden St., Toronto, Ont Canada |  | Valcartier. | . Sept. 22 |
+| 16 | 587 | 1710 | 3558 | 1744 | 11134 | Private.. | Sanderson, James Alexander.. | NU  | Sanderson, Mrs. L  | 454 j Ontario St., Toronto, Ont Canada |  | Valcartier. | . Sept. 22 |
+| 16 | 586 | 1736 | 3558 | 1773 | 11153 | Private.. | Saunders, Robert  | Territorials  | Oaks, Mrs. J  | Box 306, Burlington. Ont England |  | Vaicartier. | . Sept. 22 |
+| 16 | 586 | 1769 | 3558 | 1803 | 11161 | Private., | Singleton, Richard  | NU  | Singleton, Mrs  | 2 Flemming St., Kingsland Roid, London, Eng England |  | Valcartier. | . Sept. 22 |
+| 16 | 586 | 1795 | 3558 | 1831 | 11159 | Private., | Sahli, John  | NU  | Sahli, Sadie  | 909 WU3on Ave., Youngstown, Ohio, U.S.A Canada |  | Valcartier. | . Sept. 22 |
+| 16 | 586 | 1825 | 3559 | 1861 | 11172 | Private., | Swindale, John Walton  | NU  | Swindale, Thomas  | 113 Warton Terrace, Heaton, Newcartle-on-Tyne, Eng. England |  | Valcartier. | . Sept. 22 |
+| 16 | 586 | 1856 | 3026 | 1891 | 110SS | Private.. | Toone, Alfred  | 20th Regt... | Walters, Mrs. J  | 11 Elmore Green Rd., Bloxwi 'h |
+| 16 | 2306 | 1887 | 3558 | 1919 |  |  |  |  |  | Eng  | England.. | Valcartier. | . Sept. 22 |
+| 16 | 585 | 1915 | 3557 | 1950 | 1115l| Private  |  | arry, | NU  | Tarry, A. T  | Steventon, Berks., Eng  | England.. | Valcartier. | . Sept. 22 |
+| 16 | 586 | 1945 | 3558 | 1978 | 11173| Private  |  | Towland, Robert. | R. N. V. R. | Towland, E  | 5 Aitkenhead Road, Uovan HUl, Glasgow, Scot | Scotland. | Valcartier. | . Sept. 22 |
+| 16 | 584 | 1973 | 3558 | 2010 | 11152jPrivate  |  | Tuxford, Victor Edward., | NU  | Not stated  | Barnado’s Home, London, Eng    | England.. | Valcartier. | . Sept. 22 |
+| 16 | 585 | 2002 | 3558 | 2036 | 11180|Private  |  | Vernon, William  | NU  | Vernon, Mrs. Mary Jane. | 40 Lichfield St., Reddish, nr. Stockport, Cheshire,Eng | England.. | Valcartier. | . Sept. 22 |
+| 16 | 584 | 2027 | 3558 | 2065 | 111291Private  |  | Wilderspia, Jack  | Nil  | Allen, Mrs. A  | King St., Overcomb, Eng. | England.. | Valcartier. | . Stpt. 22 |
+| 17 | 750 | 584 | 3166 | 616 |  | Rank. | .. Name (Surname first). |  | Name of Next of Kin. |  | of |
+| 17 | 677 | 756 | 3564 | 790 |  | Private  | Winters, Joseph  | Cambridge Yeomanry  | Winters, Caroline  |  |  | Valcartier.. | Sept. 24 |
+| 17 | 594 | 784 | 3564 | 820 | 11156 |  |  |  |  |  |  | Valcartier.. | Sept. 22 | Private  | Whatmough, John  | 39th Regt  | Whatmough, Mrs. A  |
+| 17 | 595 | 813 | 3565 | 844 | 11158 |  |  |  |  |  |  | Valcartier.. | Sept. 22 | Ward J. H   |
+| 17 | 595 | 843 | 3564 | 876 | 11165 |  |  |  |  |  |  | Valcartier.. | Sept. 22 | Nil. | Williams, Mrs. W. H  | 294 St. George St., Toronto, Ont  |
+| 17 | 595 | 872 | 3565 | 907 | 11160 |  |  |  |  |  |  | Valcartier.. | Sept. 22 | Wade, Mrs. D    | Private  | Wade, Daniel Walter  |
+| 17 | 594 | 930 | 3565 | 965 | 11168 |  |  |  |  |  |  | Valcartier.. | Sept. 22 | Private  | Winterbum, Alfred  | NU  | Winterbum, Mrs. E  | Acton West, Ont      | England  |
+| 17 | 595 | 959 | 3565 | 994 | 11169 |  |  |  |  |  |  | Valcarticr.. | Sept. 22 | Private  | Wisson, George  | Nil  | Wisson, Melinda  | Simcoe, Ont      | Canada  |
+| 17 | 595 | 988 | 3566 | 1023 | 11170 |  |  |  |  |  |  | Valcartier.. | Sept. 22 | Private  | Wales, Aberdeen Ivan  | Nil  |
+| 17 | 595 | 1023 | 2245 | 1052 | 11525 | Private  | Wilson, Alexander  | Nil  | Wilson, William, sr  |
+| 17 | 595 | 1105 | 3567 | 1138 | 11157 |  |  |  |  |  |  | Valcartier.. | Sept. 22 | Private  | Wright, Frederick Lowden  | Nil  | Bames, Mrs. W. E  | Isle of Man.... |
+| 17 | 1367 | 1134 | 3568 | 1162 |  |  |  |  |  |  |  | Vaicartier.. | Sept. 22 | \’;i   |
+| 17 | 679 | 1341 | 3571 | 1377 |  | Captain  | Collins, George Roht. Nixon | 36th Resrt    | Collins. Mrs. Edith L  | 36 Bloomsbury St., London. W.C.. Eng  | England...... | Valcartier | Sept. 23 |
+| 17 | 679 | 1370 | 3570 | 1406 |  | Lieutenant  | McGuire, Harry Bolton  | 36th Regt  |  |  | Canada  | Valcartier. | Sept. 23 |
+| 17 | 678 | 1399 | 3570 | 1435 |  | Lieutenant  | Bleakley, Williams Tiers  | 36th Regt  | Bleakley, Mrs. Clara  | 45 Palmerston Gardens, Toronto, Ont  | Canada  | Valcartier. | Sept. 23 |
+| 17 | 677 | 1428 | 3570 | 1463 |  | Lieutenant  | Cozzcns, H. A  | 19th Regt  | Cozzens, Mrs. L. S  | 25 Macpherson Ave., Toronto, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 17 | 595 | 1458 | 3571 | 1493 | 11194 | Col.-Sergeant... | Mclnemey, T. J    | Roy. Muns. Fus  | Mclnerney, A. Mrs   | 114|Eaat Blk., Iveagh Bldg, New Brude St., Dublin, Ire. | Ireland  | Valcartier. | Sept. 22 |
+| 17 | 596 | 1487 | 3571 | 1521 | 11196 | Sergeant  | Mills, j  | Nil  | Sedgeley, Charles Mrs  | 624 E. 99th St., Cleveland,‘U.S.A  | U.S.A  | Valcartier. | 'Sept. 22 |
+| 17 | 595 | 1515 | 3571 | 1551 | 11197 | Sergeant  | Lilly, Augustas Henry  | B. K. R. R  | Lilly, A. II. Mra  |  | England  | Valcartier. | Sept. 22 |
+| 17 | 595 | 1545 | 3572 | 1580 | 11195 | Sergeant  | Marsh, William  | Imp. Army  |  |  | England  | Valcartier. | Sept. 22 |
+| 17 | 595 | 1574 | 3572 | 1609 | 11198 | Sergeant  | Twigg, George William  | R. G. A  |  |  | England  | Valcartier. | Sept. 22 |
+| 17 | 595 | 1605 | 3572 | 1638 | 11199 | L.-Sergeant  | Austin, Horace David  | 36th Regt  |  |  | England  | Va.critier. | Sppt. 22 |
+| 17 | 594 | 1633 | 3572 | 1668 | 11200 | Corporal  | Ryan, Edward....  | Cape M. R  | Ryan, A. Mra.  | 115 Marguerctta St., Toronto, Ont..   | Canada  | Valcartier. | Sept. 22 |
+| 17 | 142 | 1645 | 3571 | 1697 | . 11202 | Corporal  | Hickey, Henry   | 36th Regt......... | Hickey, Walter   | Honey wood, Ont  | England  | Valcartier. | Sept. 22 |
+| 17 | 594 | 1691 | 3574 | 1725 | 11203 | Corporal  | Andrews, Thos. Percival  | 36th Regt   |  |  | Canada  | Valcartier. | Sept. 22 |
+| 17 | 594 | 1719 | 3573 | 1753 | 11201 | Corporal  | Scott, Arthur George  | 36th Regt  |  |  | Ireland  | Valcartier. | Sept. 22 |
+| 17 | 594 | 1749 | 3573 | 1783 | 11201 | Private  | Anderson, Horaco Avery  | E. Surrey and 36th Regt.. |  | 187 Weston St., Bermondsey, London, S. E., Eng  | England  | Valcartier. | Sept. 22 |
+| 17 | 594 | 1780 | 2995 | 1811 | 11205 | Private  | Bent, Samuel  | 1st Vol. Batt  | Bent, John Cloughton  | c|o Mre. Hartland, 2 Angel St., Dudley, Worcester, |
+| 17 | 3061 | 1807 | 3574 | 1837 |  |  |  |  |  |  | England  | Valcartier. | Sept. 22 |
+| 17 | 594 | 1838 | 3574 | 1871 | 11206 | Private  | Bailey, John Henry  | Nil  | Bailey, A. Mre  | 249 Euclid Ave., Toronto, Ont  | England  | Valcartier. | Sept. 22 |
+| 17 | 595 | 1867 | 3575 | 1900 | 11207 | Private  | Bracey, Ernest George....... | Nil.  | Bracey, Thomas  | St. Michaels Mount, Woolsworth, Hitchin, Eng.  | Ireland  | Valcartier. | Sept. 22 |
+| 17 | 595 | 1897 | 3574 | 1928 | 11208 | Private  | Barr, Samuel    | 2nd Irish Regt    |  |  | Ireland  | Valcartier. | Sept. 22 |
+| 17 | 595 | 1925 | 3575 | 1956 | 11209 | Private  | Britcher, William  | Territorials  |  |  | Scotland  | Valcartier. | Sept. 23 |
+| 17 | 595 | 1953 | 3575 | 1986 | 116-16! Private  |  | Bridgeman, Ernest John  | Nil  |  |  | England  | Valcartier. | Sept. 22 |
+| 17 | 595 | 1982 | 3575 | 2019 | 11649|Private  |  | Bevan, Charles John  | 2nd Batt. Worcester Regt, |  |  | Wales  | Valcartier. | Sept. 22 |
+| 17 | 595 | 2011 | 3576 | 2045 | 11210 Private  |  | Ceely, Henry   | Nil  |  |  | England  | Valcartier. | Sept. 22 |
+| 17 | 595 | 2040 | 3575 | 2074 | 112Uj Private  |  | Gavers, John Leonard   | Nil  |  |  | Canada  | Valcartier. | Sept. 22 |
+| 17 | 595 | 2071 | 3576 | 2103 | 11212‘Private  |  | Carlton, Joseph  | 20th and 36th Regt  | Carlton, Martin  | 377 Carlton St., Toronto, Ont  | England  | Valcartier. | Sept. 22 |
+| 18 | 604 | 261 | 3557 | 296 | 1213 | Private. | Campbell, Thomas James.. | Nil  | Campbell, Daisy  | 12 Portland Terrace, Rcdcar, Yorks, Eng  | England. | Vale artier.. | Sept. 22 |
+| 18 | 605 | 291 | 3557 | 326 | 1214 | Private.. | Chambers, Percy Wiixnot.. | Nil  | Chambers, A. J. Mra.. | Pontypooi, Ont ;  | Canada.. | Valcartier.. | Sept. 22 |
+| 18 | 604 | 321 | 3557 | 356 | 1215 | Private.. | Chappell, Charles  | NU.....  | ChappeU, E. Mrs  | 11 Frejama Ave., Mt Dennis, Ont    | England. | Valcartier., | Sept. 22 |
+| 18 | 605 | 351 | 3557 | 385 | 1218 | Private. | Cardoza, George  | NU  | Cardoza, N  | Aux Cayes, Hayti  | Jamaica. | Valcartier.. | Sept. 22 |
+| 18 | 605 | 380 | 3557 | 414 | 1217 | Private.. | Cane, William E  | Territorials  | Cane, W. E. Mrs  | 3-5 Blackworth St., London, S. E., Eng  | England. | Valcartier.. | Sept. 22 |
+| 18 | 605 | 409 | 3558 | 444 | 1652 | Private.. | Coleman, Reginald  | 1st Roy Berks Regt  | Coleman, S. Mra  | cjo Mrs. Gray, Bernice Crescent, Lambton MUls, Ont.. | England. | Valcartier.. | Sept. 22 |
+| 18 | 605 | 438 | 3558 | 473 | 1218 | Private.. | Downs, William  | 7th Regt  | Downs Maria Mrs  | 6 Day Place, Pall St., St George E., London, Eng..... | England. | Valcartier.. | Sept. 22 |
+| 18 | 606 | 469 | 3558 | 503 | 1219 | Private.. | Doyley, Joseph  | NU  | Doyley Mr  | 456 Durie St., Toronto, Ont.,  | England. | Valcartier. | Sept. 22 |
+| 18 | 606 | 500 | 3003 | 531 | 1220 | I Private ■ | Davis, E. R. N  | NU  | Davis, Airs. C   | 2 Victoria Villa, Barnbury Rd., London, Kilburn, |
+| 18 | 2280 | 526 | 3559 | 558 |  |  |  |  | N.W., Eng  | England  | Valcarticr. | Sept. 22 |
+| 18 | 605 | 556 | 3558 | 589 | 1221 | Private  | Everett, William  | Nil  | Curl, Elizabeth  | Sedgeford, Norfolk, Eng....   | England  | Valcartier. | Sept. 22 |
+| 18 | 605 | 583 | 3558 | 619 | 1222 | Private  | Edwards, Charles..’.  | 36th Regt.. | Edwards, Mrs. E  | 10 Daisy Ave. W., Toronto, Ont  | England  | Valcartier. | Sept. 22 |
+| 18 | 605 | 615 | 3558 | 648 | 1223 | Private  | Foy, Edmond Anthony  | NU. | Foy, Hon. J. J ; | 90 IsabcUa St., Toronto, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 18 | 606 | 644 | 3557 | 676 | 1224 | Private  | Frost, Harold  | W. Kent Yeo  | Frost, A. G   | RoySton, Herts, Eng  | England  | Valcartier.. | Sept. 22 |
+| 18 | 606 | 673 | 3557 | 707 | 1225 | Private  | Frazer, George  | 2nd Middlesex Vol  | Fraser, James G   | 594 Indian Rd., Toronto, Ont    | England  | Valcartier. | Sept. 22 |
+| 18 | 605 | 701 | 3557 | 735 | 122C | Private  | Farr, Wm. nenry  | NU  | FarT, W. G   | OakviUe, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 18 | 606 | 729 | 3557 | 767 | 1227 | .Private  | Giffen, Wilmer Hunter  | NU   | Uiffen, R. M     | Inglewood. Ont  | Canada  | Valcartier | Sept., 22 |
+| 18 | 606 | 760 | 3558 | 796 | 1228j Private  | lireen, William  | NU    | Green, Henry Thos  | 95 King St., Norwich, Norfolk, Eng  | England  | Valcarticr, | Sept. 22 |
+| 18 | 606 | 790 | 3557 | 822 | 1229iPrivate, | Grieve, Thomas  | Q. R. V. B  | Grieve, Mrs. C. S  | 51 Balgreen Rd., Edinburgh, Scot  | Scotland  | Valcartier. | Sept. 22 |
+| 18 | 606 | 817 | 3558 | 851 | 1230; Private. | Gunn, Livingstone  | Scots Guards  | Gunn, Mrs. Louisa  | c/o Mrs. Hewer, The Surgery, Church St., Wantage,Eng | England  | Valcartier. | Sept. 22 |
+| 18 | 605 | 846 | 3557 | 881 | 123 lj Private. | Glenn, WUliam George  | Coldstream Guards  | Glenn, Mrs. V. U  | P.O. Box 233, Newmarket, Ont  | England  | Valcartier., | Sept. 22 |
+| 18 | 605 | 879 | 3557 | 910 | 1232! Private. | Gordon, Charles  | NU  | Gordon, Mrs. Martha... | Ballymarlow, Co. Antrim, Ire    | Ireland  | Valcartier. | Sept. 22 |
+| 18 | 605 | 906 | 3557 | 940 | 1233 | Private*  | Grice, John Thomas  | Shropshire L. I  | Grice, Mrs. Sarah ... | Bulls Head Hotel, Lawley Bank, Shropshire, Eng  | England  | Valcartier. | Sept. 22 |
+| 18 | 605 | 938 | 3557 | 968 | 1234 | Private  | Gandy, G. T  | Nil. | Gandy, Mrs. A  | . .19 Bayliss Ave., Mt. Dennis, Ont  | Canada.  | Valcartier. | Sept. 22 |
+| 18 | 605 | 967 | 3558 | 998 | 1235 | Private  | Golding, Alfred  | Nil  | Golding. Janies  | 22 Cubits Cottages, London, S.W., Eng  | England  | Valcartier. | Sept. 22 |
+| 18 | 605 | 996 | 3558 | 1026 | 1236 | Private  | Gardiner, Wilfred  | Nii  | Woods, Mre. William  | Port Credit, Ont   | Canada  | Valcartier. | Sept. 22 |
+| 18 | 605 | 1025 | 3558 | 1056 | 1648 | Private   | Gaiger, Eric Alexander  | NU. | Gaiger, Mrs. L. E  | 46 Scarboro Rd., Toronto, Ont  | England  | Valcarticr. | Sept. 22 |
+| 18 | 605 | 1054 | 3559 | 1085 | 1653 | Private  | Hare, Frederick  | R. M. L. I  | Hare, Albert  | Unknown  | England  | Valcartier. | Sept. 22 |
+| 18 | 604 | 1083 | 3559 | 1115 | 123' | Private  | Hailey, Charles  | Nil  | Hailey, Charles  | 9 Waterline, Hillside, Watford, Herts., Eng  | England  | Valcartier. | Sept. 22 |
+| 18 | 604 | 1112 | 3559 | 1144 | !?38 | Private   | Harvey, Benjamin Gladstone. | NU    | Harvey, Mrs. J. F  | 18 Wright Ave., Toronto, Ont  | Canada   | Valcartier. | Sept. 22 |
+| 18 | 605 | 1142 | 3559 | 1173 | 1239 | Private  | Heeley, Albert Edward  | II. L. I  | Heeley, Mary  | 46 Bathurst St., Toronto, Ont  | England  | Valcartier. | Sept. 22 |
+| 18 | 604 | 1171 | 3559 | 1203 | 1240 | Private  | Hihbert, Thomas.,  | 17th Lancers   | Hibbert, Mrs. M. E  | 267 Wellington St. W., Toronto, Ont  | England  | Valcartier. | Sept. 22 |
+| 18 | 604 | 1200 | 2014 | 1228 | 1241 | Private  | Hutchison, N. E  | Particulars wUl be furnished | when available |
+| 18 | 604 | 1228 | 3560 | 1261 | 1212 | Private  | Hart, William Cecil  | E. Yorks  | Mclverncy, Thos  | St. Andrews College, Toronto, Ont  | India  | Valcartier. | Sept. 22 |
+| 18 | 604 | 1258 | 3560 | 1288 | 1243 | Private  | Holmes, R  | Nil. | Holmes, W  | Alliston, Ont  | Canada... | Valcartier. | Sept. 22 |
+| 18 | 605 | 1284 | 3561 | 1320 | 1244 | Private  | Howell, George William  | Nil  | Howell, Mrs. Charlotte | 63 Esdclle St., Norwich, Eng  | England.. | Valcartier. | Sept. 22 |
+| 18 | 605 | 1317 | 3561 | 1348 | 1245 | Private  | Hanna, Milo  | 20th Regt    | Hanna, Henry  | Oakville, Ont  | Canada.. | Valcartier. | Sept. 22 |
+| 18 | 605 | 1342 | 3561 | 1377 | 1246 | Private   | Hamilton, Robert Douglas... | Nil  | Hills, Mrs. Grace  | 42 Ritchie Ave., Toronto, Ont  | Scotland. | Valcarticr. | Sept. 22 |
+| 18 | 603 | 1374 | 3561 | 1408 | 1247j Private  | Harbord, Joseph   | Nil  | Harbord, Mrs. Eva  | 474 Durie Ave., Toronto, Ont  | England.. | Valcartier. | Sept. 22 |
+| 18 | 604 | 1401 | 3561 | 1435 | 124S| Private  | Harbord, Lionel  | NU  | Harbord, Mrs. Eva  | 474 Durie Ave., Toronto, Ont  | England.. | Valcartier. | Sept. 22 |
+| 18 | 603 | 1434 | 3562 | 1464 | 1249iPrivate  | Ironside, John  | Nil  | Ironside, Finlay  | 2143 St. Clair Ave., Toronto, Ont.  | Scotland. | Valcartier. | Sept. 22 |
+| 18 | 603 | 1457 | 3562 | 1493 | 1250) Private  | Jackson. Frederick Sydney... | NU  | Jackson, Mrs. Alice  | 15 Glendale Crescent, Mt. Dennis, Ont  | England.. | Valcartier. | Sept. 22 |
+| 18 | 604 | 1493 | 1764 | 1523 | 1251! Private  | Jensen, Harold Erie   | 4th King’s Own Roy. Lancs. |
+| 18 | 1388 | 1521 | 3562 | 1553 |  |  | Regt  | Jensen, Ove  | Onitsha, West Coast Africa  | Denmark  | Valcartier. | Sept. 22 |
+| 18 | 603 | 1551 | 3032 | 1581 | 1650jPrivate. | Jackson, Arnold. | Nil  | Jackson, Mrs. Anna. | 2” 2h Cleveland Place, Infirmary Rd., Sheffield, |
+| 18 | 2281 | 1580 | 3561 | 1610 |  |  |  |  | Eng. | England  | Valcartier. | Sept. 22 |
+| 18 | 603 | 1607 | 3562 | 1640 | 1252! Private  | Kearney, Michael  | R. F. A  | Sexton, Miss M  | 9 W'arrington Place, Dublin, Ire V | Ireland  | Valcartier. | Sept. 22 |
+| 18 | 604 | 1638 | 3562 | 1669 | 1253jPrivate  | Leviston, John  | 1st K. O. R. L  | Leviston, Mrs. Elizabeth | Beach Cottage, Greenwood, Lancs., Eng  | England  | Valcartier. | Sept. 22 |
+| 18 | 605 | 1668 | 3563 | 1700 | 1254; Private  | Lockyer, Arthur Fred  | Nil  | Lockycr, Mrs. Susan  | Ill Orchard View, N. Petherston, Somerset, Eng  | England  | Valcartier. | Sept. 22 |
+| 18 | 603 | 1691 | 3562 | 1726 | 12551 Private  | Lindridge, G  | Nil  | Lindridge, Mrs. A  | 14 Epp’s Rd., Kent, Eng  | England  | Valcartier. | Sept. 22 |
+| 18 | 604 | 1720 | 3562 | 1756 | 1256; Private  | Latimer, Walter  | 3rd N. Staffs Regt  | Latimer, Mrs. E  | 2 Port St.. Burslem, Stoke-on-Trent, Eng ... | England  | Valcartier. | Sept. 22 |
+| 18 | 605 | 1748 | 3562 | 1784 | 1257 Private  | Mallen, Henry  | Nil  | Mallen, Mrs. Elizabeth.. | 52 Church St., Clowne, Derby, Eng  | England  | Valcartier. | Sept. 22 |
+| 18 | 603 | 1781 | 3562 | 1814 | 1258 Private  | Ma?lin, Walter Harold  | Territorials  | Maslin, Mre. Mary  | 17 Albany Rd., Montpelier, Bristol, Eng  | England  | Valcartier. | Sept. 22 |
+| 18 | 604 | 1810 | 3562 | 1844 | 1259;Private  | Milligan, John  | Nil  | Milligan, Thomas  | Midland, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 18 | 605 | 1840 | 3563 | 1872 | 1260i Private  | Makepeace, Arthur  | Nil   | Makepeace, A. S  | Brampton, Ont  | England  | Valcartier. | Sept. 22 |
+| 18 | 605 | 1869 | 3563 | 1901 | 1261; Private  | Mason, William Stuart Harold | NU  | Mason, Charles  | Shelburne, Ont  | Canada  | Valcartier. | Sept. 22 |
+| 18 | 605 | 1899 | 3561 | 1930 | 1262|Private  | McCauley, Michael George— | Nil  | McCauley, James  | Dundalk, Ont    | Canada  | Valcartier. | Sept. 22 |
+| 18 | 603 | 1922 | 3564 | 1958 | 1263! Private  | Mclennan, Alex. Roderick... | NU  | McLennan, Mrs. Adeline. | 447 Clendenning Ave., Toronto, Ont  | S. America.. | !Valcartier. | Sept. 22 |
+| 18 | 603 | 1956 | 3564 | 1990 | 1265! Private  | McKinley, George  | 71st H. L. I  | McKinley, Mrs. Isabella | 21 Glen St., Paisley, Scot  | -Scotland  | (Valcartier.. IStpt | ~ . 22 |
+| 18 | 603 | 1984 | 3565 | 2015 | 1266'Private..  | Milieu, Wilfred  | East Kent Regt  | MUlen, Alfred .  | 87 High St., Sittingboume, Kent, Eng  | England  | ‘Valcartier. .Sept | Sept. 22 |
+| 19 | 569 | 597 | 3155 | 629 | Reg. | Rank. | Name (Surname first). | Name of Next of Kin. |
+| 19 | 581 | 768 | 3552 | 803 | 11267 | Private  | Mills, George Edward  | Essex Vol  | Mills, Harold   | 35 Bedford Pk. Ave., Toronto, Ont Englanc | Valcartier.. | Sept. 22 |
+| 19 | 582 | 797 | 3552 | 833 | 11268 | Private  | Morris, Robert A  | 30th Regt  | Morris, Mrs. Margaret  | Newmarket, Ont U.S.A. | Valcartier.. | Sept. 22 |
+| 19 | 582 | 827 | 3552 | 862 | 11269 | Private.... | Morrison, Murdo  | Nil  | Morrison, Mrs. M  | 5 Bristol Place, Edinburgh, Scot Scotlanc | Valcartier.. | Sept. 22 |
+| 19 | 581 | 856 | 3552 | 892 | 11270 | Private.... | Middleton, Herbert McDonald | 30th Regt  | Middleton, Mrs. Mary J  | Fergus, Ont   Canada | Valcartier.. | Sept. 22 |
+| 19 | 581 | 885 | 3552 | 922 | 11271 | Private  | Murray, Edward Henry  | Nil  | Murray, Daniel    | 70 W'addell St., S.S., Glasgow, Scot Scotlanc | Valcartier.. | Sept. 22 |
+| 19 | 581 | 914 | 3552 | 949 | 11272 | Private.... | Nichol, Charles Chester  | Nil  | Nichol, Mrs. S. E    | 744 Adelaide St., London, Ont Canada | Valcartier.. | Sept. 22 |
+| 19 | 582 | 944 | 3552 | 978 | 11273 | Private  | Norris, Frederick  | Nil  | Norris, Mrs. E. H  | 9 Marlin Rd., Walworth, London, S.E., Eng Englanc | Valcartier.. | Sept. 22 |
+| 19 | 582 | 972 | 3552 | 1008 | 11274 | Private  | Ugilvie, A  | Nil  | OgUvie, Mrs. G  | 566 George St., Aberdeen, Scot Scotlanc | Valcartier.. | Sept. 22 |
+| 19 | 582 | 1001 | 3553 | 1037 | 11275 | Private.... | Pearson, George Arthur  | A. S. C  | Pearson, Mrs. Ellen  | 85 Lower Brook St., Winchester, Hants, Eng Englanc | Valcartier.. | Sept. 22 |
+| 19 | 582 | 1031 | 3552 | 1066 | 11276 | Private  | Pagan, Jack Leslie.   | Nil  | Morgan, Mrs. L. E  | 31 Winchester St., Salisbury, Eng   Englanc | Valcartier.. | Sept. 22 |
+| 19 | 582 | 1059 | 3553 | 1095 | 10566 | Private  | Patterson, Louis..... i  | 36th Regt  | Patterson, Miss Aggie  | 89 Leith St., Edinburgh, Scot Scotlanc | Valcartier.. | Sept. 22 |
+| 19 | 582 | 1089 | 3554 | 1125 | 11278 | Private... | Parbery, Sidney John  | NU  | Parbery, Mrs. J  | Brampton, Ont   Scotlanc | Valcartier.. | Sept. 22 |
+| 19 | 582 | 1117 | 3554 | 1152 | 11279 | Private... | Perdue. James Michael  | Nil  | Perdue, Mrs. Prudence  | Caledon East, Ont   Canada | Valcartier.. | Sept. 22 |
+| 19 | 581 | 1147 | 3553 | 1182 | 11645iPrivate... | Palmer, William Thomas  | East Surrey Regt | Bright well, Miss H  | Davis St., Brampton, Ont Englanc | Valcarticr.. | Sept. 23 |
+| 19 | 581 | 1176 | 3554 | 1210 | 11280 | ) Private  | Robinson, Frederick E  | Nil  | Unknown  | Unknown   Englanc | Valcartier.. | Sept. 22 |
+| 19 | 581 | 1205 | 3554 | 1239 | 112S1 | 1 Private  | Robotham, E    | Nil | Robotham, Mrs. E  | Inglewood, Ont  Canada | Valcartier.. | Sept. 22 |
+| 19 | 582 | 1234 | 3635 | 1269 | 11282 | ! Private  | Roe, Bertram.    | loth Middlesex Ret, | Roe, H. Chas  | 5 Donald Rd., Upton Manor, Essex, Eng Englanc | Valcartier.. | Sept. 22 |
+| 19 | 582 | 1263 | 3554 | 1298 | 11283 | ! Private  | Richards, Archibald Charles.. | P. A. S. L. I  | Richards, Mrs. M. A  | Station Rd., MUverton, Somerset, Eng Englanc | Valcartier. | Sept. 22 |
+| 19 | 582 | 1293 | 3554 | 1327 | 112S4 | ! Private  | Reid, Walter Temple William. | Nil  | Bean, Miss L. M  | 26 Heintzman Ave., Toronto, Ont   Canada | Valcartier.. | Sept. 22 |
+| 19 | 581 | 1321 | 3554 | 1361 | 11651|Private  | Robinson, Robert  | R. H. A  | Robinson, W'iUiam  | 30 Royal St., Hardwick. Manchester, Eng Englanc | Valcartier.. | Sept. 22 |
+| 19 | 581 | 1352 | 3554 | 1387 | 11285!Private  | Sheffield, Henry William  | Nil  | Sheffield. Edwin H  | Nestleton Station, Out Englanc | Vaicartier.. | Sept. 22 |
+| 19 | 581 | 1379 | 3555 | 1414 | 11286! Private  | Swain, John  | NU  | Davis. Mrs. M. J   | 1 Clun Rd., Aston-on-Clun, Shropshire, Eng Englanc | Valcartier.. | Sept. 22 |
+| 19 | 581 | 1408 | 3555 | 1444 | 112S7j Private  | Stiekland, Samuel John  | P. A. S. L. I  | Burston, George  | Milverton, Somerset, Eng Englanc | Valcartier.. | Sept. 22 |
+| 19 | 580 | 1437 | 3555 | 1476 | 112881 Private  | Smith, Frank...  | Nil  | Roberts, Martin  | 101 Winstanley Rd., Battersea, London, Eng Englanc | Valcartier.. | Sept. 22 |
+| 19 | 580 | 1466 | 3556 | 1503 | 11289iPrivate.... | Short, James  | 12th Regt  | Short, Mrs. Emma   | 157 Cobden St., Bradford Rd., Manchester, Eng Englanc | Valcartier.. | Sept. 22 |
+| 19 | 578 | 1494 | 3556 | 1532 | 11290|Private  | Schrier, David John  | NU  | Schrier, Mrs. Emma  | 162 Booth Ave., Toronto, Ont Englanc | Valcartier.. | Sept. 22 |
+| 19 | 579 | 1525 | 3556 | 1562 | 11644 Private.... | Seddon, W'iiliam  | Royal Engineers. | Simm, Mrs. Edith   | Edgerton, Bolton, Lancs., Eng Englanc | Valcartier.. | Sept. 22 |
+| 19 | 579 | 1554 | 3557 | 1591 | 11647 Private  | Spademan, Edwin  | Can. Militia  | Spademan, Geo   | 591 Concord Ave., Toronto, Ont Englanc | Valcartier.. | Sept. 22 |
+| 19 | 579 | 1583 | 3557 | 1622 | 11514| Private... | Smith, William Russell  | Nil  | Smith, John D  | 113 South Van Buren St., Bay City, Michigan, U.S.A... Canada | Valcartier.. | Sept. 22 |
+| 19 | 579 | 1615 | 3153 | 1650 | 112911 Private  | Tweddle, James Austin  | K. M  | Tweddle, Mrs. Lucy  | 32 SUverfir St., 8.S., Glasgow, Scot '. Englanc |
+| 19 | 579 | 1643 | 3151 | 1679 | 11292 (Private  | Tapp, C. A  | Nil  | Tapp, Mrs. T..   | Port Credit, Ont Canada |
+| 19 | 579 | 1672 | 3152 | 1708 | 11293;Private.... | Vintiner. Arthur  | R. F. A  | Vintiner, Mrs. Mary A  | 86 Spring ltd., Kempston, Bedford, Beds., Eng Englanc |
+| 19 | 578 | 1704 | 3151 | 1737 | 11294 Private  | Waters, Bertie  | NU  | Waters, Mrs. Mary   | 8 Ashley Rd., Lo srestoft, SuSolk, Eng Englanc |
+| 19 | 579 | 1733 | 3154 | 1765 | 11295iPrivate  | Woodhouse, John  | Seaforth High... | Woodhouse, Mrs. John   | P.O., Brampton, Ont Canada |
+| 19 | 578 | 1763 | 3152 | 1795 | 11296 Private  | Weeks, Edward John  | 3rd Yeomanry... | Ellis, Mrs. Lucy   | 60 Cecil Rd., Exeter, Eng Englanc |
+| 19 | 578 | 1791 | 3153 | 1824 | 11297! Private  | Walker, William Edward  | Nil  | Walker, W. E  | 140 Hatherley Rd,, Earlscourt, Toronto, Ont Englanc |
+| 19 | 578 | 1821 | 3146 | 1854 | 11298’Private.... | Woods, Joseph  | NU  | Woods, Jack..  *. | Glenmorris P.O., Ont Ireland |
+| 19 | 578 | 1851 | 3160 | 1883 | 11209'Private  | Watson, Arthur  | 5th Lincoln Regt | Watson, Miss Lizzie  | 12 Albert Place, Mill St., Old Basford, Notts., Eng Scotlanc |
+| 19 | 578 | 1880 | 3160 | 1913 | 11654'Private  | Watson, James  | Seaforth High... | Watson, Mrs. Jessie  | 24 Roxton Rd., Toronto, Ont Scotlanc |
+| 20 | 793 | 291 | 3673 | 326 | Lieutenant  | Jones, Terence P  | 3Sth Regt  | Jones, Mrs. Jemima... | 148 Brant Ave., Brantford, Ont  |  | Valcartier.. | Sept. 21 |
+| 20 | 793 | 321 | 3673 | 356 | Lieutenant  | Miller, Frederick W  | 38th Regt...  | MUlcr, Mrs. Margaret. | 217 Brant Ave., Brantford, Ont  |  | Valcartics.. | Sept. 21 |
+| 20 | 793 | 351 | 3672 | 385 | Lieutenant  | Towers, Walter Carruther  | 38th Regt  | Towers, Mary M  | Midland, Ont  |  | Valcartier.. | Sept. 21 |
+| 20 | 711 | 378 | 3674 | 416 | 11300 | Col.-Sergeant... | Mott, Alfred John  | 2nd Surrey Regt  | Mott, Mrs. E  | 29 Sea View Rd., Shocburyness, Essex, Eng. | England. | Valcarticr.. | Sept. 22 |
+| 20 | 711 | 409 | 3673 | 445 | 11301 | Sergeant  | Prior, E. A   | NU  | Prior, Mrs. G  | 9 Elgin St., Brantford, Ont  | Canada.. | Valcartier.. | Sept. 21 |
+| 20 | 712 | 438 | 3674 | 473 | 11302 | Sergeant  | Dockray, John   | Nil  | Dockray, Mrs. M  | Grandview P.O., Brantford, Ont  | Canada.. | Valcartier.. | Sept. 21 |
+| 20 | 712 | 467 | 3673 | 502 | 11303 | Sergeant  | Crouch, George  | Nil  | Crouch, Mrs. A   | 12 Balfour St., Brantford, Out   ;  | Canada.. | Valcartier.. | Sept. 21 |
+| 20 | 712 | 497 | 3673 | 531 | 11304 | Sergeant  | Davis, A. H  | NU  | Davis, Mrs. A  | 80 Spring St., Brantford, Ont  | Canada.. | Valcartier.. | Sept. 21 |
+| 20 | 712 | 526 | 3673 | 560 | 11305 | Corporal  | Pffley, G  | NU  | Pilley, Mrs. L  | 124 Spring St., Brantford, Ont   | Canada.. | Valcartier.. | Sept. 21 |
+| 20 | 712 | 555 | 3675 | 589 | 11306 | Corporal...  | Simpson, Thomas  | A. S. C  | Simpson, Mrs. Edith.. | 44 Curtis St., Brantford, Ont.   | England. | Valcartier.. | Sept. 23 |
+| 20 | 712 | 585 | 3673 | 619 | 11307 | Corporal  | Lofty, W   | NU  | Lofty, Mrs. E  | 74 Balfour St., Brantford, Ont  | Canada.. | Valcartier.. | Sept. 21 |
+| 20 | 712 | 615 | 3675 | 650 | 1130? | Corporal  | Orr, Herbert   | 38 th Regt  | Orr, Joseph  | 117 Colboume St., Brantford, Ont  | Canada.. | Valcartier.. | Sept. 22 |
+| 20 | 712 | 647 | 2153 | 677 | 11309 | Corporal  | McKay, D. (Armourer)  | Particulars wUl be furnished | when avaUable. |
+| 20 | 711 | 672 | 3675 | 705 | 11322 | Private    | Atkinson, W  | Atkinson, Mrs. Nellie. | 267 Nelson St., Brantford, Ont  | Canada  | Valcarticr.. | Sept. | 22 |
+| 20 | 712 | 700 | 3675 | 736 | 11323 | Private  | Adams, Albert Henry  | NU  | Adams, H. B  | 77 Murray St. Brantford, Ont  | Canada.  | Valcartier.. | Sept. | 22 |
+| 20 | 712 | 730 | 3675 | 765 | 11324 | Private  | Atkins, Robert Anson  | 3Sth Regt  | Glancy, Mrs. I  | 101 Victoria St., Brantford. Ont.      | Canada  | Valcartier.. | Sept. | 21 |
+| 20 | 713 | 759 | 3676 | 795 | 11325 | Private  | Anthony, R ;.... | 4th Argyle & Suth  | Anthony, Mrs. R  | 54 Brant St., Brantford, Ont  | Scotland  | Valcartier.. | Sept. | 22 |
+| 20 | 713 | 788 | 3676 | 824 | 11320 | Private  | Anderson, Thomas J  | 38th Regt  | Anderson, Archie  | 165 Dalhousie St., Brantford, Ont  | Ireland  | Valcartier.. | Sept. | 22 |
+| 20 | 713 | 818 | 3676 | 853 | 11327 | Private   | Baker, Patrick  | A. & S. High  | Baker, Margaret  | 19 Blackness Rd., Dundee, Scot  | Scotland  | Valcartier.. | Sept. | 22 |
+| 20 | 713 | 847 | 3675 | 879 | 1132S | Private  | Braund, G  | NU  | Braund, Mrs. E. S  | P.O., Brantford, Ont   | Canada  | Valcartier.. | Sept. | 21 |
+| 20 | 714 | 876 | 3677 | 912 | 11329 | Private  | Bull, John Edward  | 38th Regt  | Bull, Miss Ida  | 22 Walnut St., Brantford, Ont  | England  | Valcartier.. | Sept. | 22 |
+| 20 | 714 | 904 | 3677 | 938 | 11330 | Private   | Bell, Joseph '.  | R. G. A  | Bell, Wilfred Alan  | Tutela P.O., Brantford, Ont  | England  | Valcarticr.. | Sept. | 22 |
+| 20 | 714 | 935 | 3677 | 967 | 11331 | Private  | Brimmer, C  | NU  | Brimmer, Mrs. A  | 85 Port St., Brantford, Ont  | Canada  | Valcartier.. | Sept. | 21 |
+| 20 | 714 | 964 | 3677 | 998 | 11332 | Private  | Burnham, Gordon  | Roy. Berk. Regt  | Burnham, PhUlip  | 142 Albion St., Brantford, Ont  | England  | Valcartier.. | Sept. | 22 |
+| 20 | 714 | 991 | 3678 | 1027 | 11333 | Private.   | Babcock, W  | 38 th Regt  | Mant, Frederick  | 301 ChuterSt., Buffalo, N.Y    | Canada  | Valcartier | Sept. | 23 |
+| 20 | 713 | 1022 | 3677 | 1055 | 11331 | Private  | Blacker, William  | 2nd Somerset, L. I  | Blacker, Roland  | 20 Dundas St., Brantford, Ont  | England  | Valcartier.. | Sept. | 21 |
+| 20 | 714 | 1050 | 3676 | 1086 | 11335|Private  | Barnes, A. J  | NU  | Bames, Miss Jane  | Tutela P.O., Baldwin Ave., Brantford, Ont  | Canada  | Valcartier.. | Sept. | 21 |
+| 20 | 714 | 1078 | 3678 | 1113 | 113361 Private  | Bingham, W  | Nil  | Bingham, R  | 87 Ontario St., Brantford, Ont  | Canada  | ValcartieT.. | ept. | 21 |
+| 20 | 714 | 1110 | 3680 | 1142 | 11337 Private | Bater, A  | 3&th Regt   | Bater, Mrs. A  | 37 Greenwich St., Brantford, Ont  | England  | Valcartier.. | Sept. | 23 |
+| 20 | 714 | 1139 | 3680 | 1172 | 1133S Private | Burkhard, Frank  | 6th Cheshire Regt   | Burkhard, Mary  | 6 George St., Glossop, Eng....  | England  | Valcartier.. | Sept. | 22 |
+| 20 | 714 | 1163 | 3681 | 1200 | 11315jPrivate | Baulcombe, E    | NU  | Baulcombe, Mrs. E... | 67 C'olborne St., Brantford, Ont  | Canada  | Valcartier.. | Sept. | 22 |
+| 20 | 714 | 1197 | 3681 | 1230 | 11339 | Private  | Cross, Robert  | 38 th Regt    | Cross, George  | 102 Eagle Ave., Brantford, Ont  | England  | Valcartier.. | Sept. | 22 |
+| 20 | 714 | 1226 | 3680 | 1259 | 11340 | Private  | Coppin, H  | NU  | Coppin, Mrs. N  | Brantford, Ont  | Canada  | Valcartier.. | Sept. | 21 |
+| 20 | 715 | 1254 | 3682 | 1288 | 11341 | Private  | Daddswell, Cecil Henry  | West Kent Regt — | DaddsweU, Thomas.. | 29 Millcrescent, Tunbridge, Kent, Eng  | England  | Valcartier. | Sept. | 22 |
+| 20 | 715 | 1284 | 3682 | 1318 | 11342 | Private  | Davis, Harry Bullard  | NU  | Davis, Mrs. Alice  | 80 Spring St., Brantford, Ont  | England  | Valcartier. | Sept. | 22 |
+| 20 | 715 | 1313 | 3682 | 1347 | 31343 | Private  | Dumble, G  | Northumberland Fus  | Dumble, Miss J  | 3 Wellclose Square, Berwick-on-Tweed, Eng  | England  | Valcartier. | Sept. | 21 |
+| 20 | 715 | 1342 | 3682 | 1376 | 11344 | Private  | Dockray, James  | NU  | Dockray. Mrs. Mary. | Milton Heights P.O., Or.t  | Canada.  | Valcartier. | Sept. | 21 |
+| 20 | 715 | 1371 | 3682 | 1403 | 11345 | Private  | Duff, Alexander C  | Gordon High  | Duff, Mrs. NeUie Y.. | 1 Usher St., Brantford. Ont  | Scotland  | Valcartier. | Sept. | 21 |
+| 20 | 715 | 1400 | 3684 | 1434 | 11314 | Private  | Duddin, Christopher Geo  | 38 th Regt  | Dudden, William  | Swansea, Glamorganshire, Wales  | Wales  | Valcartier. | Sept. | 22 |
+| 20 | 715 | 1427 | 3684 | 1463 | 11317 | Private  | Elliott, Thomas  | A. & S. High  | EUiott, W. J  | 112 Sydenham St., Brantford, Ont  | Scotland  | Valcartier. | Sept. | 22 |
+| 20 | 716 | 1455 | 3684 | 1491 | 11346 | Pri;ate  | EUis, Frank Alfred...,  | 30th Regt  | Skett, Mrs. George... | 8 Huron St., Brantford, Ont  | England  | Valcartier. | Sept. | 22 |
+| 20 | 716 | 1488 | 3684 | 1520 | 11347 | Private  | Edwards, Ernest  | 38th Regt  | Edwards, Mrs. F  | 9 Gilkinson St., Brantford, Ont  | England  | Valcartier. | Sept. | 22 |
+| 20 | 716 | 1516 | 3685 | 1550 | 11348 | Private  | Forsyth, Cicero Beaton  | 38th Regt  | Forsyth, Mrs. E  | 156 Eagle Ave., Brantford. Ont  | Canada  | Valcartier. | Sept. | 22 |
+| 20 | 716 | 1546 | 3685 | 1579 | 11349 | Private  | Fitzpatrick, Alexander  | L. Lancers  | Fitzpatrick, Mrs. M.. | 1 Henry St., Blackburn, Eng  | England  | Valcartier. | Sept. | 23 |
+| 20 | 716 | 1574 | 3686 | 1607 | 11350 | Private  | Freeman, Frederick   | Nil  | Prescott, Mrs. M  | 15 Oswald St., Redditch, Eng  | England  | Valcarticr. | Sept. | 22 |
+| 20 | 717 | 1600 | 3685 | 1635 | 11351 | Private  | Fraser, A. D  | Nil  | Fraser, Mrs. M  | Paris, Ont  | Canada.  | Valcartier. | Sept. | 21 |
+| 20 | 717 | 1633 | 3687 | 1664 | 11315 | Private  | Grand, Albert Henry  | NU... .i  | Grand, Mrs. H  | 127 Armcs St., Norwich, Eng  | England  | Valcartier. | Sept. | 22 |
+| 20 | 717 | 1660 | 3687 | 1692 | 11352 | Private  | Gage, Roes Bertram  | 38th Regt  | Gage, Mrs. W. A  | Goble’s, Ont  | Canada  | Valcartier. | Sept. | 22 |
+| 20 | 700 | 1685 | 3685 | 1720 | "11353 | Private.....? | Greenwood, F | ■Kir- | Greenwood, Mrs. R.. | 77 Harleborough St., Brantford, Ont  | Canada  | Valcartier. | Sept. | 21 |
+| 20 | 717 | 1719 | 3111 | 1749 | 11441 | Private  | Godfrey, Stanley. | NU. | Godfrey, Mrs. Mary. | 34 Rathbury Terrace, Heaton, Newcastle-on-Tyne, |
+| 20 | 2438 | 1746 | 3686 | 1778 |  |  |  |  | Eng  | England... | Valcartier. | Sept. 23 |
+| 20 | 717 | 1775 | 3687 | 1806 | 11355 Private  | Gaydon, John Henry  | Devonshire Regt  | Gaydon, James  | c/o. D. R. McKay, R.R. No. I, Paris, Ont  | England... | Valcartier. | Sept. 22 |
+| 20 | 717 | 1799 | 3688 | 1835 | 11356 Private  | Grant, William James  | K.R.R. and 20th Regt  | Grant, Mrs. Julia  | 27 Cayuga St., Brantford, Ont...-  | England  | Valcartier. | Sept. 23 |
+| 20 | 717 | 1831 | 3688 | 1864 | 11357 Private..  | Graham, II   | R. F. A  | Graham, James  | 43 Adam St., Middlcsboro, Er.g  | England... | Valcartier. | Sept. 23 |
+| 20 | 716 | 1857 | 3688 | 1893 | 11358 Private  | Gallagher, J  | W elsh Fus  | Gallagher, A  | Lower Gardens. High St., Holywell, N. Wales  | Wales  | Valcartier. | Sept. 23 |
+| 20 | 717 | 1886 | 3688 | 1923 | 11359 Private  | Guy, Percy  | Light Horse  | Guy, Mrs. Annie  | 148 Dalhousie St., Brantford, Ont  | England  | Valcartier. | Sept. 22 |
+| 20 | 719 | 1917 | 3688 | 1951 | 11313lPrivate  | Hayward. Lloyd S  | 39th Regt., etc  | Hayward, Mrs. F. W | 94 Queen Street, Brantford, Ont  | U.S.A  | Valcartier. | Sept. 22 |
+| 20 | 717 | 1945 | 3688 | 1980 | 11360|Private  | Holway, Alfred George  | 38th and 30th Regt  | Holway, Ida.   | 25 George St., Brantford, Ont  | England... | Valcartier. | Sept. 23 |
+| 20 | 718 | 1972 | 3689 | 2008 | 114141 Private  | Harris, H  | 38th Regt  | Harris, Mrs. Stares... | Eagle Place P. O., Brantford, Ont  | England... | Valcartier. | Sept. 22 |
+| 20 | 717 | 2002 | 3689 | 2037 | 11361iPrivate  | Harrington, Ernest  | R. N  | Harrington, Mrs. J... | Farrington Church, Mt. Pleasant, Ont  | England... | Valcartier. | Sept. 22 |
+| 21 | 752 | 604 | 3168 | 638 |  | Name (Suenarae first). |  | Name of Next of Kin. |  | of |
+| 21 | 597 | 781 | 3564 | 813 | 11362 Private | HUbcrn, E  | Nii  | Hilborn, E   | 49 Emily St., Brantford, Ont    | Canada... | Valcarticr. | Sept. 22 |
+| 21 | 597 | 810 | 3565 | 842 | 11363 Private. | Houliston, W. J  | 38th Regt . | Houliston, Martha. | 6 Gordon Terrace, Bridgewater, Eng  | England.. | Valcartier. | Sept. 22 |
+| 21 | 597 | 840 | 3564 | 871 | 10653iPrivatc. | Hall, William  | NU  | Hall, Ann   | 430 Hawthorne Rd., Bootle, Lancs., Eng  | England.. | Valcartier. | Sept. 22 |
+| 21 | 596 | 863 | 3564 | 901 | 1136ojPrivate. | Hamilton, Robert  | 38th Regt. | HamUton, Mrs. R.. | 171 Terrace HiU St., Brantford, Ont  | Scotland. | Valcartier. | Sept. 23 |
+| 21 | 596 | 898 | 3565 | 930 | 11366, Private. | Hamilton, A  | 30th Regt. | Wilkinson, Ethel  | 13 Janet St., Liverpool, Eng  | England.. | Vaicartier. | Sept. 22 |
+| 21 | 595 | 925 | 3565 | 959 | 113671 Private. | Hawke, John  | 9th Horse. | Hawke, Mrs. E  | 348 Sumach St., Toronto, Ont    | Canada.. | Valcartier. | Sept. 22 |
+| 21 | 594 | 957 | 3016 | 989 | 1136S|Private. | Hooper, Edward Easton. | 30th Regt. | Mason, Mrs. Lily. . | 6 Hale St., Islington Sq., New North Rd., Islington, |
+| 21 | 2313 | 984 | 3566 | 1017 |  |  |  |  | London, Eng  | England  | Valcartier. | Sept. 22 |
+| 21 | 594 | 1013 | 3566 | 1046 | 11369 Private  | Huggins, George.. | 30th Regt  | Huggins, Laura  | 17 Elliott Ave., Brantford, Ont  | England  | Valcartier. | Sept. 22 |
+| 21 | 594 | 1042 | 3566 | 1075 | 11370iPrivate  | Ifoulding, Henry Albert  | 30th Regt  | Leeiaing, Mrs. Frank  | 70 Dufferin Ave., Brantford, Ont  | Canada  | Valcartier. | Sept. 21 |
+| 21 | 593 | 1071 | 3565 | 1105 | 11316 Private  | Jarvis, W. R  | NU  | Jarvis, Mrs. Emily  | 40 Curtis St., Brantford, Ont  | Canada  | Valcartier. | Sept. 21 |
+| 21 | 594 | 1100 | 3567 | 1139 | 11371! Private  | Johnson, F. L  | Nil.. _  | Johnson, Ward H  | 17 Waterloo St., Brantford, Ont  | U.S.A  | Vaicartier. | Sept. 22 |
+| 21 | 593 | 1132 | 2039 | 1160 | 11372;Private  | Jubber, G  | Particulars will be furnished | when available. |
+| 21 | 593 | 1157 | 3566 | 1192 | 11373iPrivate  | Johnson, Arthur John.. | West Yorks. Regt  | Johnson, Mrs    | 3 Ovcrington Terrace, Mount York, Yorks., Eng  | England. | Valcartier. | Sept. | 22 |
+| 21 | 593 | 1187 | 3567 | 1223 | 11374iPrivate  | Keighley, W  | 30th Regt  | Keighley, Mrs. Alice  | 52 Grey St., Brantford, Ont  | England. | Valcartier. | Sept. | 23 |
+| 21 | 593 | 1211 | 3565 | 1251 | 11375iPrivate  | Keighley, J  | NU  | Keighley, Mrs. M  | 87 Grey St., Brantford, Ont  | Canada  | Valcartier. | Sept. | 21 |
+| 21 | 592 | 1245 | 3647 | 1279 | 11376! Private  | Kinsella, C  | Nil  | Kinsella, Mabel  | Oakland Parks. St. Albans, Herts, Eng  | England  | Valcartier. | Sept. | 22 |
+| 21 | 591 | 1273 | 3648 | 1309 | 11377 Private  | Kenyon, Carlton  | Nil  | Kenyon, Susanna, Mrs  | Middicport P.O., Ont  | England  | Valcartier. | Sept. | 22 |
+| 21 | 591 | 1305 | 3564 | 1338 | 11378|Private  | KneiU, S  | Nil  | KneiU, M. Mrs   | Box 223, Paris, Ont.,  | Canada  | Valcarticr. | Sept. | 21 |
+| 21 | 591 | 1332 | 3566 | 1368 | 11379jPrivate  | Kerr, William  | 2nd Dragoons.. | Kerr, Mrs. Nellie  | 50 Eagle Ave., Brantford. Ont  | Canada  | Valcartier. | Sept. | 23 |
+| 21 | 591 | 1362 | 3565 | 1397 | 113801 Private  | Lahque, W  | Nil  | Lahque, G., Mrs   | Salt-Ash St., Plymouth, Eng  | England  | Valcartier. | Sept. | 21 |
+| 21 | 591 | 1392 | 3564 | 1425 | 1138! Private  | Lockyer, T  | 38th Regt  | Lockyer, Alice, Mrs  | 283 Brock St., Brantford, Ont  | Canada  | Valcartier. | Sept. | 21 |
+| 21 | 592 | 1420 | 3566 | 1455 | 11382iPrivate  | Lee, John  | Naine Tol. Vol... | Lee, Eliz. Mrs  | St. Michaels, Kingston Lane, Southwick, Sussex | India  | Valcartier. | Sept. | 22 |
+| 21 | 591 | 1450 | 3566 | 1484 | 11601 Private  | Lee, Thomas  | Naine Tol. Vol... | Lee, Mrs. Elizabeth  | St. Michaels, Kingston Lane, Southwick, Sussex | India  | Valcartier. | Sept. | 22 |
+| 21 | 590 | 1477 | 3566 | 1513 | 11383 Private | Lacey, Ebcn H  | D. R. C  | Lacey, H. A., Mrs  | Grandview P.O., Brantford, Ont  | Canada  | Valcartier. | Sept. | 22 |
+| 21 | 589 | 1508 | 3566 | 1541 | 11384 Private | Larin, Napoleon  | Nil  | Larin, R., Mrs  | Paris P.O., Ont  | Canada  | Valcartier. | Sept. | 22 |
+| 21 | 588 | 1537 | 3566 | 1570 | 11385 Private  | Mockford, George   | Roy. Sussex  | Mockford, G., Mrs  | 115 Eagle Ave., Brantford, Ont  | England  | Valcartier. | Sept. | 22 |
+| 21 | 588 | 1567 | 3565 | 1601 | 11386 Private  | Massengale, Fred  | U. S. Army  | Massengale, Mrs. H. W  | 168 Dalhousie St., Brantford, Ont  | U. S. A  | Valcartier. | Sept. | 22 |
+| 21 | 588 | 1596 | 3567 | 1628 | 11387’Private  | McLaren, J  | NU.  | McLaren W., Mrs  | 185 Marlborough St., Brantford, Ont  | Canada.  | Valcartier. | Sept. | 22 |
+| 21 | 588 | 1625 | 3566 | 1659 | 113S8jPrivate  | Nuttycombe, Albert E< | 38th Regt  | Nuttycombe, Charlotte, Mrs. | 26 Ashford Rd., Notley, Devon  | England... | Valcartier. | Sept. | 22 |
+| 21 | 587 | 1654 | 3564 | 1687 | 1138&; Private  | Pratt, J  | Nil  | Pratt, M., Mrs  | 64 Dundas St., Brantford, Ont  | Canada  | Valcartier. | Sept. | 21 |
+| 21 | 588 | 1680 | 3566 | 1716 | 13390'Private  | Prosser, W. H  | K. O. Y. L. I.... | Prosser, J. B  | Northolme, Gainsborough, Eng  | England  | Valcartier. | Sept. | 23 |
+| 21 | 587 | 1712 | 3565 | 1745 | 1139ljPrivate  | Phillips, S  | NU  | Phillips Ada, Mrs  | 56 Brighton Row, Brantford, Ont  | Canada.. | Valcartier. | Sept. | 23 |
+| 21 | 586 | 1739 | 3566 | 1774 | 11392 j Private  | Phipps, Ernest  | 3rd Leicester Regt. | Phipps, Mrs. A  | Poplars, Ayleston, Leicester, Eng  | England  | Valcartier. | Sept. | 23 |
+| 21 | 586 | 1767 | 3566 | 1801 | 11393‘Private  | Powell, J  | Nil  | PoweU, E., Mrs   | 373 St. Paul Ave., Grandview P.O., Brantford, | Canada.  | Valcarticr. | Stfpt. | 23 |
+| 21 | 585 | 1799 | 3566 | 1831 | 11394 Private  | Pattison, Thomas  | Cameron High... | Pattison, Thomas  | MiU St., Dunfermline Fife, Scot  | Scotland | Valcartier. | Sept. | 23 |
+| 21 | 586 | 1829 | 3565 | 1861 | 11395 Private  | Price, Joseph...  | 38th Regt  | Price, Mr   | 6 Queen St., Halesowen, Nr. Birmingham, Eng | England. | Valcartier. | Sept. | 23 |
+| 21 | 586 | 1855 | 3565 | 1890 | 11396 Private  | Podd, T  | NU  | Podd, J., Mrs  | 8 Oak St., Brantford, Ont  | Canada.. | Valcartier. | Sept. | 21 |
+| 21 | 585 | 1887 | 3565 | 1919 | 11397 Private  | Rose, T  | Nil  | Rose, Emma, Mra  | 87 Port St., Brantford, Ont  | Canada  | Valcartier. | Sept. | 21 |
+| 21 | 585 | 1915 | 3564 | 1946 | 11398! Private  | Ross, David James  | NU  | Ro3s. Miss E  | Clinton P.O., Ont  | Canada  | Valcarticr. | Sept. | 21 |
+| 21 | 585 | 1944 | 3567 | 1977 | 1131111’rivate  | Smith, H  | 5th Devon Regt. | Smith, Mary, Mrs  | 13 Aberdeeu Ave., Brantford, Ont  | England.. | Valcartier. | Sept. | 23 |
+| 21 | 584 | 1972 | 3566 | 2007 | 11312 Private  | Stanley, Joseph  | R. W. Regt  | Stanley, E., Mrs  | 148 Dalhousie St., Brantford, Ont  | England.. | Valcartier. | Sept. | 22 |
+| 21 | 583 | 1999 | 3564 | 2035 | 11320 Private. | Stodden, C  | 3Sth Regt  | Stodden, Mary E., Mrs  | 112 Aberdeen Ave., Brantford, Ont  | Canada... | Valcartier. | Sept. | 21 |
+| 21 | 584 | 2031 | 3567 | 2064 | 11399 | Private. | Scanlon, Joseph  | 38th Regt  | Scanlon, Mrs. C  | 53 Shoubland Rd., Walthamstow, London, Eng | England.. | Valcartier. | Sept. | 23 |
+| 21 | 584 | 2057 | 3567 | 2093 | 11400 | Private.. | Scott, J. F  | 39th Regt  | Scott, A., Mra  | 15 Nile How, Poole, Dorset, Ei | England.. | Valcartier. | Sept. | 23 |
+| 21 | 583 | 2090 | 3523 | 2123 | 11401 | Private.. | Shaw, Harry  | 3Sth Regt  | Shaw, Alice, Mrs  | 35 Etrathcor.r. Ave., Brantford; | England . | Valcartier. | Sept. |
+| 22 | 573 | 248 | 3534 | 284 | 11402 | Private, | Small, William Percy..  | 38th Regt  | Johnston, Jennie Miss  | 74 Mary St., Brantford, Ont  | Ireland  | Valcartier. | Sept. 22 |
+| 22 | 573 | 278 | 3534 | 313 | 11403 | Private. | Symington, Wm. Harris  | R. C. D  | Symington, Mrs. A  | 135 Drummond St., Brantford, Ont .:  | Canada.... | Valcartier. | Sept. 22 |
+| 22 | 573 | 307 | 3534 | 343 | 11404 | Private. | Taylor, Walter  | Roy. Buss. Regt  | Taylor, Emilia     | PUmer Rd., Crowborough, Eng   :  | England... | Valcartier. | Sept. 23 |
+| 22 | 573 | 337 | 3533 | 372 | 11405 | Private. | Taylor, S  | Nil  | Taylor, H., Mrs  | 313 West HUl St., Brantford, Ont  | Canada.... | Valcartier. | Sept. 21 |
+| 22 | 573 | 367 | 3534 | 402 | 11406 | Private. | Thompson, Jack   | Nil  | Lacey, K., Mrs  | 20 New St., Lymington, Hcnt3  | England... | Veil cartier. | Sept. 23 |
+| 22 | 572 | 392 | 3535 | 431 | 11310 | Private. | West, Bertram  | Northumberland Fus... | West, E. M., Mrs  | C/o Wm. Pase, 60 Baliour St., Brantford, Ont  | Wale3...... | Valcartier. | Sept. 22 |
+| 22 | 571 | 425 | 3533 | 460 | 11319 | Private. | Westlake, Harry K  | 5th Devon Regt  | Westlake, Harry  | 3 Roseberry Ave., Plymouth, Eng   | England... | Valcartier. | Sept. 21 |
+| 22 | 572 | 455 | 3533 | 489 | 11321 | Private. | Wakeling, Allred Augustus... | R. W. Kent Regt  | Wakeling, Margaret, Mrs.. | 23 Balfour St., Brantford, Ont  | England... | Valcartier. | Sept. 21 |
+| 22 | 572 | 483 | 3534 | 517 | 11407 | Private. | Webb, Thomas David  | 5th R. W. Surrey Regt.. | Webb, Mrs. C  | 17 Hothfield Place, Lower Rd., Rotherhithe, London. | England... | Valcartier. | Sept. 21 |
+| 22 | 572 | 512 | 3534 | 546 | 1140S | Private. | Wcsicott, F  | Wcstcott, Mary A  | 30 Lyons Ave., Brantford, Ont  | Canada,... | Valcartier. | Sept. 21 |
+| 22 | 571 | 542 | 3535 | 575 | 11409 | Private. | Williams, C  | NU   | Williams, C., Mrs.... | Stonebridge, Birmingham, Eng  | England... | Valcartier. | Sept. 21 |
+| 22 | 571 | 570 | 3535 | 605 | 11410 | Private. | Walters, C :  | NU.  | Walters, L., Mrs  | 33 Palace St., Brantford, Ont    | Canada.... | Valcartier. | Sept. 21 |
+| 22 | 571 | 601 | 3535 | 634 | 11411 | Private. | Wood, W. J    | Nil  | Wood, Annie, Mrs  | 87 Erie Ave., Brantford, Ont  | Canada— | Valcartier. | Sept. 21 |
+| 22 | 571 | 630 | 3536 | 664 | 11412 | Private. | Watson, H     | NU  | Watson, R    | 116 Stevens Rd., West Bowling, Bradford, Eng  | England... | Valcartier. | Sept. 22 |
+| 22 | 571 | 660 | 3537 | 693 | 11413 | Private. | Wright, Brooke  | Suffolk Regt.. | Wright, Mrs. Laura  | Needham Rd., Stowmarket, Suffolk, Eng  | England... | Valcartier. | Sept. 22 |
+| 22 | 571 | 689 | 3537 | 722 | 11415 | Private. | Wood. M. M  | SSth Regt  | Wood, J. C., Mrs  | 777 Water St., Peterboro, Ont    | England... | Valcartier. | Sept. 23 |
+| 22 | 650 | 887 | 3539 | 920 | Captain  | Keiiey, Edward Thomas  | 37th Regt   | Kelley, Diana, Mrs  | DunnvUle, Ont Canada.. |  | Valcartier.. | Sept. 24 |
+| 22 | 650 | 915 | 3538 | 950 | Lieutenant.. | Reilly, J. Reginald  | 44th Regt  | Reilly, C. H  | Welland, Ont  Canada.. |  | Valcartier.. | Sept. 24 |
+| 22 | 649 | 945 | 3536 | 978 | Lieutenant.. | Brown, George O  | 20th Regt  | Brown, Jame3, Mre  | Norval, Ont   Canada.. |  | Valcartier.. | Sept. 21 |
+| 22 | 649 | 975 | 3537 | 1015 | Lieutenant.. | Sterling, Walter CecU  | 36th Regt  | [Sterling, Thomas  | Stanton, Ont Canada.. |  | Valcartier.. | Sept. 22 |
+| 22 | 569 | 1003 | 3537 | 1036 | 11417 | Col^-Scrgt.. | Arnold, Joseph W  | Imp. Army  | ICrothiers, Alvin  | 77 Sprucehill Rd., Toronto, Ont Canada.. | Valcartier.. | Sept. 23 |
+| 22 | 569 | 1031 | 3538 | 1066 | 11418 | Sergeant— | Watkins, Geo  | It. M. L. I  | Watkins, Harriett, Mrs... | Box 411, Grimsby P.O., Ont Scotland. | Valcartier.. | Sept. 22 |
+| 22 | 568 | 1060 | 3539 | 1094 | 114191 | Sergeant  | McDonald, John  | Can. MUitia  | McDonald, David  | 31 Hill St., Anderson, Glasgow, Scot Scotland. | Valcartier.. | Sept. 22 |
+| 22 | 569 | 1089 | 3539 | 1124 | 11420 | Sergeant  | Hurley, John  | Roy. M. Fus  | Hurley, Patrick.  | 21 Cork Rd, Yonghal, Cork, Ireland Ireland.. | Valcartier., | , Sept. 22 |
+| 22 | 568 | 1118 | 3539 | 1153 | 11421 | Sergeant  | Neville, Thomas G  | Can. MUitia  | Neville, M., Mrs  | 34 Old Church Rd., Stepney, London, Eng England. | Valcartier.. | Sept. 22 |
+| 22 | 568 | 1147 | 3539 | 1182 | 14422 | Corporal  | Young, George C  | R. C. H. A  | Young, Rose A., Mrs  | Port Robinson, Ont  Canada.. | Valcartier,. | Sept. 22 |
+| 22 | 567 | 1176 | 3540 | 1211 | 11423 | Corporal— | Moir, Alex  | Imp. Army  | Catnech, G  | 25th Ave., New York, U.S.A Scotland. | Valcartier.. | . Sept. 22 |
+| 22 | 568 | 1205 | 3539 | 1240 | 11424 | Corporal— | Eruce, Alexander  | Imp. Army  | Bruce, James  | 6th Ave. Terrace, Sunderland, Eng.   England. | Valcartier,. | . Sept. 22 |
+| 22 | 568 | 1234 | 3539 | 1269 | 11428 | Corporal  | Rothery, Frank   | R. F. A.  | Rothery, J. R  | 3 Thorneville St., Burley, Leeds, Eng   England. | Valcartier.. | . Sept. 22 |
+| 22 | 568 | 1263 | 3540 | 1298 | 10849 | Corporal  | Cunningham, James  | NU. | Cunningham, M., Mrs  | 176 Bank St., Alexandria, Scot    Scotland. | Valcartier.. | . Sept. 22 |
+| 22 | 568 | 1292 | 3540 | 1327 | 11443 | Private  | Aslin, Thomas  | Nil  | Aslin, Mrs. Alice  | Stanmore, Herts, Eng England. | Valcartier. | . Sept. 22 |
+| 22 | 569 | 1320 | 3540 | 1356 | 11444 | Private  | Alexander, Thomas  | Royal Scots. | Alexander John  | 766 Dalmarnock Rd., Glasgow, Scot Scotland. | Valcartier. | . Sept. 22 |
+| 22 | 568 | 1350 | 3541 | 1385 | 11445 | Private  | Arbcr, Harry  | NU  | Manor House, Whittlesea, Cambs, Eng England. |  | Valcartier. | . Sept. 22 |
+| 22 | 568 | 1374 | 3159 | 1415 | 11448 | Private  | Anderson, Finley  | Nil  | Stewart? W^N.,' Mrs'.!!’.! | Douglastown, N.B Canada.. |
+| 22 | 568 | 1408 | 3541 | 1444 | 11447 | Private  | Armstrong, Bernard CaraUe.. | Nil  | Armstrong. Wm., Mrs— | Stobie Mines, Sudbury, Ont Canada.. | Valcartier. | . Sept. 23 |
+| 22 | 568 | 1437 | 3541 | 1472 | 11448 | Private  | Burt, Geo  | 44th Regt.... | Burt, F., Mrs  | South Down, Chale, I. O. W-, Eng England. | Valcartier. | . Sept. 23 |
+| 22 | 568 | 1465 | 3542 | 1501 | 11449 | Private  | Bergs fraud, John  | Swedish Inf.. | Anderson, W. A  | Gagnef, Sweden  Sweden.. | Valcartier. | . Sept. 22 |
+| 22 | 569 | 1495 | 3542 | 1530 | 11434 | Private  | Brock, Harry WUliam  | Imp. Army.. | Brock, C    | 42 Wansey Rd., Walworth Rd., London, Eng England. | Valcartier. | . Sept. 22 |
+| 22 | 568 | 1523 | 3542 | 1559 | 11450 | Private  | Barclay, Charles  | NU  | Barclay, George, Mrs.... | Winnipeg, Man     Canada.. | Valcartier. | . Sept. 22 |
+| 22 | 568 | 1552 | 3543 | 1588 | 11451 | Private  | Boles, John Edward  | NU. | Nanslack, James, Mrs.... | Dunnville, Ont   Canada.. | Valcartier. | . Sept. 22 |
+| 22 | 568 | 1581 | 3543 | 1619 | 11452 | Private  | Bromley, Harry Owen  | U. S. Navy  | Bromley, Ida L., Mrs.... | No. 9 W. 13th St., Erie, Penn., U. S. A. U. S. A  | Valcartier. | . Sept. 23 |
+| 22 | 569 | 1610 | 3544 | 1646 | 11453 | Private..... | Barker, William James  | NU  | Barker, WUliam, Mrs.... | Southend, Ont Canada.. | Valcartier. | . Sept. 22 |
+| 22 | 569 | 1641 | 3233 | 1676 | 11454 | Private  | Baker, Frederick  | Royal Fusiliers  | Baker, WiUiam   | 7 Winchester Rd., Edmonton, London, Eng England  |
+| 22 | 568 | 1670 | 3234 | 1704 | 11455 | Private  | Blake, Joseph  | Royal Navy  | Blake, Mary, Mre  | 22 Central St., Belfast Ireland Ireland  |
+| 22 | 567 | 1699 | 3233 | 1733 | 11156 | Private  | Bentley, William J  | Nat. Guard  | Bentley, W. J....,   | 17 Flagg Ave., Jamestown. N.Y., U. S. A U. S. A.  |
+| 22 | 567 | 1727 | 3233 | 1762 | 11457 | Private  | Bryan, John  | West Kent Regt  | Bryan, Rose.   | 47 Vicarage Pk. Plumstead, Eng England  |
+| 22 | 566 | 1753 | 3543 | 1791 | 11458 | Private  | Broome, Andrew  | NU...    | Broome Kate, Miss  | C|o Mrs. Robt. Paterson, 5 Bryson St., Falkirk, Scot.. Scotland  | Valcartier. | . Sept. 22 |
+| 22 | 569 | 1782 | 3543 | 1820 | 11459 | Private  | Bail, George R  | 38th Regt.   | Bull, NeUie, Miss...;.:.. | 22 Walnut St., Brantford, Ont   England.... | Valcartier. | . Sept. 22 |
+| 22 | 569 | 1811 | 3545 | 1850 | 114GC | Private  | Brookes, WUliam  | NU i  | Brookes, T  | Warner Place, Stevenston, Ayrshire, Soot Scotland.... | Valcartier. | . Sept. 22 |
+| 22 | 568 | 1842 | 3233 | 1881 | 11481 | Private  | Clarke, George Leonard  | NU     | Clarke, Mrs. Louisa.  | Clare St., Northampton, Eng England  |
+| 22 | 570 | 1876 | 2105 | 1907 | 11438 | Private  | Chambers, J  | Particulars wiU be furnished | when available.   |
+| 22 | 569 | 1898 | 3546 | 1938 | 11462lPrivate  | Connors, Christy  | NU  | Connors, Mrs. Laura  |  | Ireland.. | 8 Upper Castle St., Tralee, Ire  | Vaicartier. | . Sept. 22 |
+| 22 | 568 | 1927 | 3546 | 1969 | U4&3jPrivate  | Coryn, Allan Herbert  | Nit  | Coryn, E. A..  |  | England. | Point Loma. California, U.S.A  | Valcartier. | . Sept. 22 |
+| 22 | 568 | 1955 | 3547 | 1994 | 114841 Private  | Carter, Charles  |  | Carter, George  |  w   . __ England. | Plumstead Rd., Woolwich, Kent, Eng | . Valcartier. | . Sept. 22 |
+| 22 | 569 | 1982 | 3546 | 2023 | 11465'Private  | Crew, John Edward  | Coldstream Guards. | Crew, Mrs. Ann   | 193 Hamburg St., Buffalo, N.Y., U.S”.A England. |  | Valcartier. | . Sept. 22 |
+| 23 | 3072 | 559 | 3541 | 588 |  |  |  |  |  | xa | Country | Taezn on Ste |
+| 23 | 1458 | 588 | 3145 | 618 |  | Name ol Next of Kin. |  | of |
+| 23 | 1350 | 761 | 3541 | 793 |  |  |  |  |  | 22 | U. S. Army  | Miller, Mrs. Ethel  | 623 East Mound St., Columbus, Ohio, U.S.A  | U.S.A...  | Valcarticr.. | Si |
+| 23 | 1350 | 790 | 3541 | 823 |  |  |  |  |  | 22 | Connaught Rangers  | McDonald, D....J  | 10 Austin St., Norwood, Mass., U.S.A  | Ireland  | Valcartier.. | Si |
+| 23 | 1350 | 818 | 3541 | 853 |  |  |  |  |  | 22 | Gordon High.   | Christie, Mrs. A  | 28 New St., Stovchaven, Scot  | Scotland  | Valcartier.. | S. |
+| 23 | 1351 | 849 | 3541 | 882 |  |  |  |  |  | 22 | Nil  | Devereaux, Mrs. Hugh.. | 56 Denistown St., Welland, Ont  | England  | Valcartier.. | Si |
+| 23 | 1352 | 878 | 3541 | 912 |  |  |  |  |  | 23 | Roy. Dublin Fus  | Bloomfield, Mrs. May.. | 23 Denmark St., Dublin, Ire  | Ireland  | Valcartier.. | S. |
+| 23 | 1350 | 908 | 3542 | 940 |  |  |  |  |  | 22 | 44th Regt  | Dod, Frederick  | Lime Grove, New Malden, Surrey, Eng  | England  | Valcartier.. | Si |
+| 23 | 1350 | 937 | 3541 | 969 |  |  |  |  |  | 22 | 73rd Seaforth High  | Derrick, Ellen  | 56 Prince Albert Rd., Eastin, Portsmouth, Eng  | Scotland  | Valcartier.. | Si |
+| 23 | 1352 | 966 | 3542 | 998 |  |  |  |  |  | 22 | R. C. R  | Desmond, Michael  | 82 George St., Toronto, Ont  | Canada  | Valcartier.. | Si |
+| 23 | 1352 | 995 | 3543 | 1027 |  |  |  |  |  | 22 | Nil  | Drew, Mrs. E  | 15 St. John’s St., Reading, Berks., Eng  | England  | Valcartier.. | Si |
+| 23 | 1352 | 1023 | 2977 | 1057 | NU  | Diver, Miss M. A  | Riverside Hospital, 132 East St., New York, N.Y., |
+| 23 | 2298 | 1053 | 3544 | 1083 |  |  |  |  |  | 22 | U.S.A  | Ireland  | Valcartier.. | S |
+| 23 | 1352 | 1083 | 3544 | 1114 |  |  |  |  |  | 23 | NU  | Dunbar, Mrs. John  | 14 Murdock Terrace, Edinburgh, Scot  | Scotland  | Valcartier.. | S |
+| 23 | 1350 | 1112 | 3545 | 1145 |  |  |  |  |  | 22 | WUts. Regt. | Reid. Michael  | 126 VauxhaU Rd., or 93 LimekUn Lane, Liverpool, Eng | England  | Valcartier.. | s |
+| 23 | 1352 | 1142 | 3545 | 1173 |  |  |  |  |  | 22 | NU  | Dobie, Mre. J. B   | Thessalon, Ont  | Canada  | Valcartier.. | s |
+| 23 | 1352 | 1171 | 3546 | 1203 |  |  |  |  |  | 22 | NU  | Kirke, Mrs. Addie  | Fort Erie, Ont  | Canada  | Valcartier.. | 3 |
+| 23 | 1351 | 1229 | 3547 | 1261 |  |  |  |  |  | 22 | NU. | Fulcher, Martha....... | 81 Rupert St., Norwich, Eng  | England... | Valcartier.. | s |
+| 23 | 1350 | 1258 | 3547 | 1291 |  |  |  |  |  | 22 | 77th Regt  | Flaherty, James John.. | Not stated  | Ireland  | Valcartier.. | s |
+| 23 | 1353 | 1288 | 3547 | 1320 |  |  |  |  |  | 22 | NU  | Orr, Mrs. R. D  | Southend P.O., Ont  | England... | Vaicartier.. | s |
+| 23 | 1352 | 1317 | 3548 | 1349 |  |  |  |  |  | 22 | Swedish Inf  | Nilson, Margareta   | Backen, Froson, Sweden  | Sweden.... | Valcartier.. | s |
+| 23 | 1353 | 1346 | 3548 | 1380 |  |  |  |  |  | 22 | R. N  | Godfrey, Mary Ann  | Bovey, Tracey, Devon., Eng  | England...... | Valcartier.. | s |
+| 23 | 1352 | 1375 | 3549 | 1409 |  |  |  |  |  | 22 | fmp. Forces  | Datnko, Miss P  | 1756 Q. St., N.W., Washington, D.C., U.S.A  | Russia  | Valcartier.. |
+| 23 | 1353 | 1404 | 3549 | 1438 |  |  |  |  |  | 22 | NU. | Gregory, Mre. Mary... | Grimsby, Ont  | Canada— | Valcartier.. | s |
+| 23 | 1351 | 1433 | 3548 | 1467 |  |  |  |  |  | 22 | Imp. Army  | Green, George  | Green Oak, Totley, Sheffield, Eng  | England... | Valcartier. | s |
+| 23 | 1353 | 1462 | 3550 | 1494 |  |  |  |  |  | 23 | NU  | Grant, Oscar  | New Liskeard, Ont  | Canada  | Valcarticr.. | f |
+| 23 | 1353 | 1491 | 3549 | 1525 |  |  |  |  |  | 22 | Nil   | Henry, Miss Mary  | 11 Sumner St., Glossop, Derby, Eng  | England  | Valcartier.. | s |
+| 23 | 1353 | 1521 | 3550 | 1554 |  |  |  |  |  | 22 | NU  | Hanlin, Samuel J. L... | 88 MacGraU Ave., Niagara Falls, Ont  | England  | Valcartier.. |
+| 23 | 1351 | 1549 | 3551 | 1583 |  |  |  |  |  | 23 | 2nd Dragoons  | Hatt, Mrs. James  | St. David’s, Ont  | England  | Valcartier |
+| 23 | 1351 | 1578 | 3551 | 1613 |  |  |  |  |  | 23 | Can. MUitia  | Harding, Mre. Edith.. | 736 Spruce St., Niagara Falls, N.Y., U.S.A  | Canada  | Valcartier.. | g |
+| 23 | 1354 | 1609 | 3551 | 1643 |  |  |  |  |  | 22 | Roy. Munster Fus  | Hartnett, Mrs. Mary.. | Newlawn, Kerry, Ire ' | Ireland  | Valcartier.. | t |
+| 23 | 1353 | 1638 | 3551 | 1671 |  |  |  |  |  | 22 | Nil   | HaTshaw, John  | BeamsvUle, Ont  | Canada  | Valcartier.. | s |
+| 23 | 1351 | 1666 | 3551 | 1701 |  |  |  |  |  | 22 | A. and S. High  | Hester, Mre. Andrew . | 115 Queen St., Govan, Scot  | Scotland  | Valcartier.. | g |
+| 23 | 1353 | 1695 | 3552 | 1729 |  |  |  |  |  | 22 | NU  | Hubbard, Mra. E. B... | Bridgeburg, Ont  | England  | Valcarticr.. | £ |
+| 23 | 1351 | 1723 | 3552 | 1757 |  |  |  |  |  | 22 | A. S. C  | Martin, J. C  | Box 775, Thorold, Ont.....  | England  | Valcartier.. | 5 |
+| 23 | 1352 | 1753 | 3552 | 1786 |  |  |  |  |  | 23 | NU. | Disher, E. O  | BeamsvUle, Ont    | England  | Valcartier.. | £ |
+| 23 | 1351 | 1783 | 3553 | 1816 |  |  |  |  |  | 21 | Cameron High    | Johnston, Mre. James.. | Box 792, Cobalt P.O., Ont  | Scotland  | Valcartier.. | E |
+| 23 | 1352 | 1842 | 3027 | 1874 | 4th K. R. Lancs. Regt  | Kelly, W. C  | 32 Nashville St., Trafford Rd., Salford, Manchester, |
+| 23 | 2302 | 1871 | 3553 | 1903 |  |  |  |  |  | 21 | Eng  | England.. | Valcarticr. |
+| 23 | 1352 | 1900 | 3553 | 1931 |  |  |  |  |  | , 22 | C. F. A  | KeUy, Patrick  | 1442 Bloor St. W., Toronto, Ont  | Canada... | Valcartier. | f |
+| 23 | 1355 | 1929 | 3553 | 1961 |  |  |  |  |  | . 22 | NU  | Kerr, Mrs. John  | Main St., Ballyclare, Antrim, Ire  | Ireland... | Valcartier. |
+| 23 | 1355 | 1958 | 3554 | 1987 |  |  |  |  |  | . 22 | NU  | Kinsley, Mra. M. E  | Thessalon, Ont  | Canada... | Valcartier. |
+| 23 | 1352 | 1982 | 3555 | 2016 |  |  |  |  |  | . 22 | Imp. Army.. | Imp. | Leahy, Mre. Louisa  | 27 Eden St., Kingston-on-Thames, London, Eng  | Englsjid.. | Valcartier. |
+| 23 | 1355 | 2014 | 3556 | 2047 |  |  |  |  |  | . 22 | NiT. | LongstafI, Mrs. Elizabeth. | 31 Dock St., Middlesborough, Eng  | England.. | Valcartier. |
+| 23 | 1353 | 2043 | 3556 | 2074 |  |  |  |  |  | . 22 | A and S. High. | Meek, David. | 31 WUbor Ave., GardenvUle. N.Y., U.S.A  | Scotland. | Valcartier. | £ |
+| 23 | 1354 | 2070 | 3557 | 2105 |  |  |  |  |  | . 22 | Nil 'Ogle, Mrs. WUliam. | 27 Withrow Ave., Toronto, Ont  | Canada.. | Valcartier. |
+| 24 | 613 | 255 | 3584 | 289 | 11436 | Private. | Mack, James  | Roxburgh & Selkirk Vol  | Mack, Mrs. Lydia    | P.O. Box 113, Pt. Colborne, Oat Scotland. | Valcartier.. | Sept. 22 |
+| 24 | 613 | 285 | 3584 | 319 | 1149S | Private.. | Morgan, Charles  | Nil  | Templemore, Tipperary, Ire   Ireland. |  | Valciarticr.. | Sept. 22 |
+| 24 | 613 | 314 | 3584 | 348 | 11499 | Private. | Marchant, Andrew  | Sussex Regt  | 19 Dewy Rd., Brighton, Sussex, Eng England. |  | Valcartier.. | Sept. 22 |
+| 24 | 613 | 343 | 3584 | 378 | 11500 | Private. | Mallen, William C  | Nil  | 53 Boyds Rd. S., Willsborough, Ashford, Kent, Eng... England. |  | Vaioertier.. | Sept. 22 |
+| 24 | 613 | 373 | 3585 | 407 | 11501 | Private. | Matheson, Charles  | 3rd Mtd. Rifles  | Borgue Berridale, Caithness, Scot Scotland. |  | Vaicartier.. | Sept. 22 |
+| 24 | 613 | 403 | 3585 | 436 | 11502 | Private. | Miner, George  | NU  | Park Upper, Parkestone, Dorset, Eng England. |  | Valcarticr.. | Sept. 22 |
+| 24 | 613 | 431 | 3585 | 465 | 11503 | Private. | Middlemore, Peter............ |  | C|o Mrs. Parker, 50 Oxford St., Liverpool, Eag England. |  | Valcartier.. | Sept. 22 |
+| 24 | 613 | 461 | 3585 | 494 | 11504 | Private. | Morrison, George  |  | 56 Dover St., Sandy fall, Glasgow, Scot   Scotland. |  | Valcartier.. | Sept. 22 |
+| 24 | 613 | 489 | 3585 | 523 | 11506 | Private. | Miller, John  | Nii  | 22 Raglan St., Glasgow, Scot  Scotland. |  | Valcartier.. | Sept. 22 |
+| 24 | 613 | 519 | 3586 | 552 | 11559 | Private. | Milner, Alfred    | 1st Drag. Gds  | 415 Kingsland Rd., London N., Eng  England. |  | Valcartier.. | Sept. 23 |
+| 24 | 613 | 548 | 3586 | 581 | 11534 | Private. | Morgan, Thomas  | Nil  | Station Rd., Doan Cott., Derby, Eng England. |  | Val Cartier.. | Sept. 23 |
+| 24 | 613 | 577 | 3585 | 612 | 11533 | Private. | McGinnis, William   |  | 30 Shayhill St., Pollock Shores, Scot   Scotland. |  | Valcartier.. | Sept. 23 |
+| 24 | 613 | 607 | 3585 | 641 | 11508 | Private. | Nelson, Thomas    | Nil  | Voldris, N.A., Norway....   Norway. |  | Valcartier.. | Sept. 22 |
+| 24 | 611 | 636 | 3585 | 671 | 11509 | Private. | Newman, Thomas  | Nil  | Sudbury, Ont England. |  | Valcartier.. | Sept. 22 |
+| 24 | 612 | 666 | 3586 | 699 | 11439 | Private. | O’Brien, John  |  | 43 Devonshire St., St. Paul's, London, Eng England. |  | Valcartier : | Sept. 22 |
+| 24 | 613 | 695 | 3586 | 729 | 11425 | Private. | Offord, Robert Stanley  | Nil  | 170 Regent's St., London, Eng England. |  | Valcartier.. | Sept. 22 |
+| 24 | 613 | 724 | 3586 | 764 | 11433 | Private. | Payne, A. Frederick  | Br. Army  | Payne, Mrs. C^,  | 44 IfQey Rd., Hammersmith, London, Eng England... | Valcartier.. | Sept. 22 |
+| 24 | 612 | 753 | 3586 | 786 | 11510 | Private. | Price, George W  | Nii  | rrice, George N  | Thoroid, Ont  | Valcarticr.. | Sept. 22 |
+| 24 | 613 | 784 | 3065 | 815 | 11530 | Private. | Perry, C  | NU   | The Ave., Homelands, Kilm Rd., Thundersly, Essex, |
+| 24 | 2329 | 811 | 3585 | 846 |  |  |  |  | Eng    | England.. | Valcartier.. | Sept. 21 |
+| 24 | 612 | 842 | 2049 | 873 | 11511 | Private  | Perry, A  | Particulars will be furnished | when avaUable. |
+| 24 | 611 | 869 | 3587 | 903 | 10589 | Private  | Russell, James  |  | 21 Fairview Ave., E., Hamilton, Ont  | England.. | Valcartier.. | Sept. 23 |
+| 24 | 611 | 897 | 3587 | 932 | 11519 | Private  | Ryan, William Leslie. |  | Midland, Ont   | Canada... | Valcartier.. | Sept. 24 |
+| 24 | 611 | 929 | 3587 | 961 | 11520 | Private  | Reeves, Albert E  | R. N  | Reeves, Rev. John  | Talbot St., Earlscourt, Toronto, Ont   | England.. | Valcartier.. | Sept. 22 |
+| 24 | 612 | 958 | 3588 | 989 | 11528 | Private  | Russell, William  |  | Minto P.O., N.B  | England.. | Valcartier.. | Sept. 24 |
+| 24 | 611 | 987 | 3588 | 1021 | 11512 | Private  | Stirling, Alexander.... |  | 1947 La Salle Ave., Niagara Falls, N.Y., U.S.A  | Scotland. | Valcartier.. | Sept. 22 |
+| 24 | 611 | 1018 | 2051 | 1046 | 105li9 | Private  | Smith, W. G  | Particulars will be furnished | when available, |
+| 24 | 610 | 1047 | 2049 | 1075 | 11532 | Private  | Saunders, W  | Particulars will be furnished | when available. |
+| 24 | 610 | 1071 | 3589 | 1106 | 11427 | Private  | Taylor, Arthur  | Vols  | 3 Morris St., Swindon, Wilts., Eng  | England.. | Valcartier. | Sept. 22 |
+| 24 | 609 | 1103 | 3589 | 1135 | 11513 | Private  | Trigg, Charles  |  | 15 Wilson St., Naira, Scot  | Scotland. | Valcartier. | Sept. 23 |
+| 24 | 609 | 1132 | 3671 | 1163 | 11515 Private  | Thompson, J  | NU   |  | Hamilton, Scot    | Scotland. | Valcartier. | Sept. 22 |
+| 24 | 608 | 1161 | 3670 | 1193 | 11516 Private  | Thompson, Andrew... | H. L. I  | Robertson, Mrs. Eliza  | 1945 Broadway West, Vancouver, B.C  | Scotland. | Valcartier. | Sept. 22 |
+| 24 | 608 | 1190 | 3589 | 1223 | Private  | 11517 | Vass, David   | Nil  | 54 Brown St., Bridgeton, Glasgow, Scot  | Scotland. | Valcartier. | Sept. 22 |
+| 24 | 608 | 1218 | 3589 | 1251 | Private  | 11521 | Wyss, Anthony  | Nil  | 1105 Amsterdam Ave., New York, N.Y., U.S.A.. | Belgium.. | Valcartier. | Sept. 22 |
+| 24 | 607 | 1246 | 3590 | 1281 | Private  | 11522 | Whybra, Harold  | Whybra, Mrs. Minnie.   | Niagara Falls South, Ont  | U.S.A.... | Valcarticr. | Sept. 22 |
+| 24 | 607 | 1278 | 3590 | 1310 | Private  | 11523 | Wilson, Samuel  | East Lancs. Regt  | 6 Gilbert St., Belfast, Ire  | Ireland... | Valcartier. | Sept. 22 |
+| 24 | 607 | 1307 | 3590 | 1339 | Private  | 11524 | Weavers, Charles   |  | 23 John St., Rose Lane, Norwich, Norfolk, Eng... | England.. | Valcartier. | Sept. 22 |
+| 24 | 607 | 1334 | 3589 | 1367 | Private  | 11176 | Wilson, Alexander  |  | 39 Menzies Rd., Aberdeen, Scot    | Scotland.. | Valcartier. | Sept. 22 |
+| 24 | 606 | 1364 | 3590 | 1397 | Private  | 11526 | White, Albert  |  | 11 itunton St., Hoiloway, London, Eng  | England.. | Valcartier. | Sept. 23 |
+| 24 | 685 | 1553 | 3591 | 1592 | Major  | Graham, Hartley  | 36th Regt   | Graham, Mrs. Jane   | Alliston, Ont    | Canada. | Valcartier. | Sept. 22 |
+| 24 | 603 | 1578 | 3591 | 1617 | Col.-Sergeant... | 11.536 | Wade, Harold  | 2nd Mntd Rifles  | Wade, Frank  | American Trust Bldg., Cleveland, Ohio, U.S.A. | Ganada. | Valcartier. | Sept. 23 |
+| 24 | 604 | 1611 | 2257 | 1644 | Sergeant, | 11537 | Murrow, L. H  | Particulars will be furnished | when available    |
+| 24 | 604 | 1640 | 3591 | 1674 | Sergeant, | 11538 | Carey, Harry  | NU  | Carey, Mary     | 13 Wallace St., Brantford, Ont  | Canada . | Valcartier. | Sept. 23 |
+| 24 | 603 | 1669 | 3591 | 1702 | 11539!Sergeant. | Dean, George William. | Essex, Regt   | Dean, Rebecca   | 5 George Ave., Brantford, Ont    | England. | Valcartier. | Sept. 23 |
+| 24 | 603 | 1698 | 3591 | 1731 | 11540 Sergeant. | Denton, Herbert  | Nil  | Denton, Emma.   | 16 Duke St., Brantford, Ont  | Canada.. | Valcartier. | Sept. 23 |
+| 24 | 602 | 1726 | 3592 | 1759 | 11541 L.-Sergeant, | Woods, John  | Northampton Regt  | Woods, Kate.... ,>  | 12 Balfour St., Brantford, Ont  | England. | Valcarticr. | Sept. 22 |
+| 24 | 602 | 1755 | 3591 | 1788 | 11542 L.-Sergeant | MeGarvey, Patrick  | NU  | Fleming, Blay Jane  | Arthur, Ont  | Canada.. | Valcartier. | Sept. 22 |
+| 24 | 602 | 1784 | 3590 | 1818 | 11543 Corporal.... | Baker, William   | Royal Navy.    | Baker, Catherine............. | Ruth 8t., Brantford, Ont    | England. | Valcartier. | Sept. 23 |
+| 24 | 602 | 1812 | 3590 | 1847 | 11544 Corporal  | Evans, E. H  | Nil   | Lacy/Miss E   | 378 Victoria St., Toronto. Ont  | Canada.. | Valcartier. | Sept. 21 |
+| 24 | 602 | 1843 | 3591 | 1876 | 11545 Corporal | Gibbard, Caleb  | 12th Regt    | White, Mrs. Maria..’..  | 2330 Queen St., Toronto East, Ont  | England. | Valcartier. | Sept. 23 |
+| 24 | 601 | 1870 | 3592 | 1904 | 1154fi: Corpora! | Jones, Charles  | Roy. Welsh Fus  | Jones, Mrs. Sarah E  | 83 Balfour St., Brantford. Ont  | Wales  | Valcartier. | Sept. 22 |
+| 24 | 601 | 1898 | 3592 | 1933 | 115471 Private  | Amos, James  | Nil  | Dew, Mrs. Florence........... | 132 South Birbeck Rd., Leytonstone, Eng  | England. | Valcartier. | Sept. 22 |
+| 24 | 600 | 1929 | 3591 | 1961 | 1154S'Private  | Aitkin, Morris  | S. A. Mtd. Inf •: | Case, Mrs. Ida  | 100 Bay St., Hamilton, Ont  | Canada.. | Valcartier. | Sept. 22 |
+| 24 | 598 | 1960 | 3592 | 1990 | 11549jPrivate  | Anderson, George  | Nil   | Smith, Mrs. F  | 142 Denison Ave., Toronto, Ont  | Canada.. | Valcartier. | Sept. 22 |
+| 24 | 597 | 1989 | 3593 | 2018 | 11550 Private  | Baskin, Frank  | NU  | Baskin, Dora    | 29 BeUevue Ave., Toronto, Ont  | U.S.A... | Valcartier. | Sept. 23 |
+| 25 | 755 | 553 | 3171 | 599 |  | Rank. | Name (Surname first). |  | frame of Neit of Kin. |  | of |
+| 25 | 602 | 772 | 1795 | 801 |  | Private  | 11552 | Beals, W. T  | Particulars will be furnished |
+| 25 | 602 | 800 | 3459 | 829 |  |  |  |  | Bancroft, Mary E  | 27 EUcsmere St., Runcorn, Eng  |  | Valrac-jer.. | Private  | 11553 | Bancroft, Matthew  | NU  |
+| 25 | 602 | 820 | 3588 | 858 |  |  |  |  | Blake, Elizabeth  | 63 Alexander Rd., St. John's Wood, London, Eng  | England  | Valcsrixi’. • | Sept. 23 | Private  | 11554 | Blake, Herbert  | Nii   |
+| 25 | 602 | 858 | 3458 | 889 |  |  |  |  |  |  |  | Valcas-a«*'- ■ | Private  | 11555 | Bradford, Samuel  | 38th Regt   |
+| 25 | 601 | 886 | 3460 | 917 |  |  |  |  |  |  |  | Valcai-^ei.. | Private  | 11556 | Betts, William   | Nil  |
+| 25 | 601 | 918 | 1795 | 946 |  | Private  | 11557 | Butts, W. A  | Particulars wUl be furnished |
+| 25 | 601 | 944 | 3459 | 976 |  |  |  |  | Barnard, Annie   | 7 Pembroke St., Toronto, Ont  | Canada  | Valcsriias. • | Private  | 11558 | Barnard, Cyril  | Nil  |
+| 25 | 601 | 967 | 3588 | 1004 |  |  |  |  | Bayliss, Florence -.  | 95 Niagara St., Hamilton, Ont  | England  | VeicaKBSS •. | Sept. 23 | Private  | 11559 | Bayliss, Frederick J  | NU.  |
+| 25 | 601 | 996 | 3588 | 1032 |  |  |  |  | Brinkworth, Mrs. L  | 17 Herbert St., Rowbarton, Taunton, Somerset, Eng... | England  | Vaie£T’i«\. | Sept. 22 | Private  | 11560 | Brinkworth, F. G  | Som. L. Inf  |
+| 25 | 601 | 1031 | 3461 | 1062 |  |  |  |  | Betts, Margaret  | 41 Ontario St., Brantford, Ont  | Canada.  | VaieaeSsC - ■. | Private  | 11655 | Betts, Frank  | NU  |
+| 25 | 601 | 1062 | 1797 | 1091 |  | Private  | 11656 | Brough, W  | Particulars will be furnished |
+| 25 | 601 | 1091 | 1792 | 1120 |  | Private  | 11657 | Blanchard, Henry  | Buffs, E.K.R  |
+| 25 | 601 | 1109 | 3590 | 1149 |  |  |  |  |  |  |  | VafcsT'-«r- • | Sept.* 22 | Barker, Mrs. C  | 44 Market St., Northampton, Eng  | England  | Private.    | 10627 | Barker, Herbert  | Nil  |
+| 25 | 601 | 1141 | 3589 | 1178 |  |  |  |  |  |  |  | ValiarSasr. ■ | Sept,\23 | Cuthbertson, Catherine....... | 176 Plantation St., Glasgow, Scot .  | Scotland  | Private  | 11561 | Cuthbertson, William  | Br. Army  |
+| 25 | 601 | 1170 | 3589 | 1207 |  |  |  |  |  |  |  | Vainxr—. | Sept. 22 | Conlin, Mrs. Mary   | Cobourg, Ont  | Canada  | Private   | 11563 | Conlin, Henry J  | Nil  |
+| 25 | 601 | 1199 | 3672 | 1235 |  |  |  |  |  |  |  | Vaie&r^s. • | Sept. 22 | Private...  | 11564 | Dewar, B  | Nil  |
+| 25 | 601 | 1233 | 3460 | 1264 |  |  |  |  |  |  |  | Valcartier. ■ | Canada  | Private  | 11565 | Dixon, Harry  | NU  |
+| 25 | 601 | 1259 | 3590 | 1294 |  |  |  |  |  |  |  | Vaicac’StffcT.. | Sept.’24 | EUiott, Ellen  | Canada.  | Private  | 11566 | Elliott, Joseph  | 12th Regt  |
+| 25 | 601 | 1293 | 1795 | 1323 |  | Private  | 11567 | Elmsley, A. H  | Particulars will be furnished |
+| 25 | 601 | 1319 | 3593 | 1352 |  |  |  |  | Farndon, Phoebe  | 400 Gerard St., E., Toronto, Ont  | Canada  |  | Sept. 22 | Private  | 11568 | Farndon, Henry   | NU  |
+| 25 | 601 | 1346 | 3592 | 1381 |  |  |  |  | Foster, Mrs. C, N  | 34 O’Connell Ave., Toronto, Ont........    | England  |  | Sept. 22 | Private  | 11500 | Foster, Christopher NiiwZ. •.. | Territorials   |
+| 25 | 601 | 1375 | 3593 | 1410 |  |  |  |  | Free, LUlie  | 412 Symington Ave. W., Toronto, Ont   | Canada.  |  | Sept. 22 | Private  | 11570 | Free, John T  | Nil    |
+| 25 | 600 | 1407 | 3592 | 1440 |  |  |  |  | Fregan, J. W. C  | 62 Horse Ferry, Westminster, lxradon, Eng  | England  |  | Sept. 23 | Private  | 11571 | Freemantle, Henry    | NU  |
+| 25 | 601 | 1436 | 3592 | 1465 |  |  |  |  |  |  | Canada  |  | Sept. 22 | Private  | 11572 | Fecteau. Adelard  | NU  |
+| 25 | 600 | 1465 | 3592 | 1497 |  |  |  |  |  |  |  |  | Sept. 23 | Private  | 11573 | Fisher, Harry  | NU  |
+| 25 | 600 | 1494 | 3593 | 1525 |  |  |  |  |  |  |  |  | Sept. 22 | Foord, Richard  | Private  | 10001 | Foord, R. J  | NU  |
+| 25 | 601 | 1523 | 2255 | 1554 |  |  |  |  | when available  | Private  | 11574 | Ferguson, J. W  | Particulars will be |
+| 25 | 601 | 1550 | 3592 | 1582 |  |  |  |  | Gibson, Mrs. Susan  |  |  | VeirxrtZ&r.. | Sept. 23 | Private  | 11575 | Gibson, William  | R.I.R  |
+| 25 | 600 | 1582 | 3592 | 1611 |  |  |  |  |  |  |  | Valcar. | Sept. 23 | Private . | 11576 | Goodwin, Leonard T  | Nil  |
+| 25 | 601 | 1611 | 3593 | 1640 |  |  |  |  |  |  |  | Valczs~lez.. | Sept. 23 | Gauntlett, Mrs.J  | Private...,  | 11577 | Gauntlett, Herbert  | NU  |
+| 25 | 601 | 1638 | 3593 | 1672 |  |  |  |  |  |  |  | Valearr^r.. | Sept. 23 | Ganetty, Bessie.....  | Cayuga P.O., Ont    | Canada   | 1157SI Private  | Garretty, Henry  | Imp. Army  |
+| 25 | 601 | 1669 | 3594 | 1701 |  |  |  |  |  |  |  | Valcartier.. | Sept. 22 | Gray, Josephine ;  | 131 Ivy dale Rd., London, Eng    | England  | 11570 Private  | Gray, Philip  | NU  |
+| 25 | 601 | 1697 | 2255 | 1727 |  |  |  |  | when avaUable  | 11580 Private  | Hall, J. R    | Particulars will be |
+| 25 | 601 | 1726 | 2256 | 1755 |  |  |  |  | when available  | Private  | 10768 | Howe, E  | Particulars wUl bo |
+| 25 | 600 | 1748 | 3594 | 1786 |  |  |  |  |  |  |  |  | Sept. 22 | Hare, Mrs. EmUy  | 354 Wellesley St., Toronto, Ont i  | Canada  | Valcaiti^T.. | Private  | 11581 | Hare, Walter James  | NU  |
+| 25 | 601 | 1783 | 3593 | 1815 |  |  |  |  |  |  |  |  | 3ept. 23 | McAlusc, Robert  | Vatcarser.. | Private  | 11582 | Houston, George  | Imp. Army  |
+| 25 | 602 | 1812 | 2253 | 1842 |  |  |  |  | when avaUable  | Private   | 11583 | Humphries, C  | Particulars will be furnished |
+| 25 | 602 | 1841 | 3595 | 1874 |  |  |  |  |  |  |  |  | Sept. 23 | Summerscocks, Rev..  | Edenbridge, Kent, Eng    | Valisrt^r. • | Private ..  | 11584 | Hatch, Alfred    | NU  |
+| 25 | 603 | 1870 | 3595 | 1904 |  |  |  |  |  |  |  |  | Sept. 23 | Vair*rti«r.. | 18 Strachan St., HamUton, Ont  | Private  | 11585 | Inglis, John    | Nil    |
+| 25 | 603 | 1899 | 3595 | 1933 |  |  |  |  |  |  |  |  | Sept. 23 | Valeaur'-fcr. • | Jones, Lavaine  | Private  | 11586 | Jone3, Thomas J  | King’s Regt      |
+| 25 | 603 | 1928 | 3595 | 1962 |  |  |  |  |  |  |  |  | Sept. 23 | Jeflries, Mrs. Emma  | 21 Lancaster St., BartonhUl, Bristol, Frig  | England  | Private  | 11587 | Jeffries, Frederick  | NU  |
+| 25 | 603 | 1956 | 3596 | 1991 |  |  |  |  |  |  |  |  | Sept. 23 | Knowles, Rose  | 30 Brant St., Brantford, Ont    | Canada  | Private  | 11588 | Knowles, Thomas  | Nil  |
+| 25 | 602 | 1985 | 3595 | 2018 |  |  |  |  |  |  |  |  | Sept. 23 | Vaic3jr~..^r.. | Knowles, Sarah A  | 30 Brant St., Brantford, Ont     | England  | 11589 Private  | Knowles, George    | Northampton Rest  |
+| 25 | 603 | 2014 | 3596 | 2049 |  |  |  |  |  |  |  |  | Sept. 23 | Valcs^-sr.. | 2 in rear of 7 Portland St., Toronto, Ont  | England  | Mann, Mrs. Alice  | 11591 Private  | Lofting, Charles  | Nil  |
+| 26 | 796 | 303 | 2435 | 335 |  | 11692 | Private ... | Lawton. W  | Particulars wUl be furnished | when available ...  |
+| 26 | 796 | 335 | 3750 | 372 |  | 11593 | Private  | Lowe, Stanley.    | Essex Regt     | Lowe, David  | _ Ennerdale Rd., Fairbank, Toronto, Ont.... | England  | Valcartier.. | Sept. 23 |
+| 26 | 796 | 365 | 3750 | 400 |  | 11594 | Private  | Lewis, Victor G  | Nil  | Lewis, Mre. Jane W...  | 94 Ennerdale Rd., Fairbank, Toronto, Ont.... |  | Sept.. 23 |
+| 26 | 796 | 392 | 3751 | 429 |  | 11595 | Private V | Lane, Frank  | Nil  | ('ox, WU'iam    | Alberta  | Valcartier.. | Sept. 22 |
+| 26 | 796 | 423 | 3751 | 458 |  | 11596 | Private  | Lankey, Charles  | Nil  | Lankey, Annie  | FortmeU Magna, Dorset, Eng  | Valcartier.. | Sept. 22 |
+| 26 | 797 | 452 | 2363 | 481 |  | 11597 | Private..,.,  | Lin wood, J  | Particulars will be furnished | when avaUable  |
+| 26 | 797 | 481 | 3751 | 515 |  | 1159S | Private  | McCoy, George   | Roy. 1-lines. Regt  | McCoy, John  | 23 Bedford St., Brantford, Out  |  | Sept. 23 |
+| 26 | 783 | 510 | 3752 | 544 |  | -11599 | Private  | McDonald, J. B  | Nil  | McDonald. Mrs. J. J  | Newmarket, Ont  |  | Sept. 22 |
+| 26 | 797 | 540 | 3753 | 573 |  | 11000 | Private  | McAshiil, Albert  | Nil  | Gordon, Mrs  | 32 Sumach St., Toronto, Ont  |  | Sept. 22 |
+| 26 | 798 | 570 | 3754 | 603 |  | 110C1 | Private  | McFarlane, Wm. Walter  | Scots. Terr  | McFarlane, Walter  | Thornliebank, Renfrewshire, Scot. | Valcartier.. | Sept. 23 |
+| 26 | 797 | 599 | 2438 | 630 |  | 10503 | Private.....*r... | Macuhenney, G...  | Particulars will be furnished | when available    |
+| 26 | 797 | 629 | 2438 | 659 |  | 11602 | Private  | McFarlane, J.    | Particulars will be furnished | when available   |
+| 26 | 798 | 658 | 2438 | 688 |  | 11003 | Private  | McFarlane, J. J  | Particulars will be furnished | when avaUable  |
+| 26 | 798 | 688 | 3754 | 719 |  | 11604 | Private.    | Murphy, A. Vincent  | 12th Regt  | Murphy, Mrs. Rose  | 401 Indian Rd., Toronto, Ont. | Canada. | Valcartier. | Sept. 23 |
+| 26 | 798 | 717 | 2439 | 746 |  | 11605 | Private  | Milford, J    | Particulars will be furnished | when available  |
+| 26 | 798 | 746 | 3755 | 777 |  | 11667 | Private  | Murphy, P. J  | Nil  | Not stated  | Welland, Ont  | Ireland... | Valcartier.. | Sept. 23 |
+| 26 | 799 | 775 | 3755 | 806 |  | 11505 | Private  | McIntyre, Edward  | Imp. Army  | McIntyre, Mra. Edward  | Knocknagoren. Orneath, Co. Louth, Ire... | Scotland. | Valcartier. | Sept. 22 |
+| 26 | 799 | 800 | 3757 | 836 |  | 11416 | I Private  | McCartney, Robert  | 3Sth Regt  | McCartney, Mrs. R  | 18 Mount Pleasant St., Brantford, Ont— | Canada... | Vaicartier. | Sept. 22 |
+| 26 | 799 | 833 | 3757 | 866 |  | 10663 | Private  | Morgan, William  | Nil  | Stuart Margaret  | 755 Queen St. West, Toronto, Ont  | Canada.. | Valcartier. | Sept. 22 |
+| 26 | 800 | 863 | 3758 | 894 |  | 107C5 | Private  | Marment, WUliam Henry.. | Nil  | Ingrain, Olive Mrs  | Aurora, Ont “  | England | Valcartier | Sept. 22 |
+| 26 | 800 | 892 | 3758 | 924 |  | 1166S | Private  | Montgomery, F. J  | Nil  | Montgomery, A. J. Mrs  | 160 Albany Ave., Toronto, Ont  | Canada.  | Valcartier. | Sept. 22 |
+| 26 | 800 | 919 | 3758 | 953 |  | 11606 | Private  | Norman, Herbert  | Nil  | Norman, Hannah  | 7 Albany Rd, Lowestoft, Eng  | England  | Valcartier. | Sept. 23 |
+| 26 | 800 | 948 | 3758 | 981 |  | 11007 | Private | Pidd, Johr. H  | Nil   | Pidd. John E  | Church St., Heckiiigton, Lincoln, Eng ... | England  | Valcarticr. | Sept.. £3 |
+| 26 | 800 | 980 | 3758 | 1013 |  | llOOSj Private  | Phillips, Thomas  | Nil  | Phillips, Margaret Mrs... | 4 Ettick Place, Glasgow, Scot. | Scotland  | Valcarticr. | ~ :pt. 23 |
+| 26 | 801 | 1009 | 3760 | 1040 |  | 11609! Private  | Patterson, Arthur  | Territorials  | Patterson, Alice Mrs i239 Burberry St., Birmingham, Eng... |  | England  | Valcartier. | Sept. 23 |
+| 26 | 801 | 1039 | 3760 | 1069 |  | 11610 Private  | Revell, William J   | Nil  | Revell, Harriet  | 10 Faimila Rd, (Sea Bridge Rd), London, Eng | England  | Valcartier. | Sept.. 22 |
+| 26 | 801 | 1068 | 3761 | 1099 |  | 10769 Private  | Richardson, William  | 1st Leicester Regt  .... | GUliver Mrs  | 61 Sanvey Gate, Leicester, Eng  | England | Valcartier. | Sept. 22 |
+| 26 | 802 | 1097 | 2445 | 1124 |  | 11611 Private  | Read, D  | Particulars will be furnished | when available   |
+| 26 | 801 | 1125 | 3760 | 1155 |  | 11012 Private  | Reeves, Fred W  | Roy Sussex Regt  | Reeves, H  | 342 Victoria Ave., HamUton, Otit  | England  | Valcartier. | Sept. 23 |
+| 26 | 801 | 1154 | 3761 | 1186 |  | 11613 Private   | Richardson, William  | Scottish Regt  | Richardson, Sarah E  | 149 Eagle Ave., Brantford, Ont  | England  | Valcartier. | Sept. 23 |
+| 26 | 801 | 1183 | 3761 | 1215 |  | 11614 Private  | Kowcli0e, Charles H  | Nil   | Rowclifle, Sarah Mrs  | 186 West HUl St., Brantford, Ont   :,... | England  | Valcartier. | Sept. 23 |
+| 26 | 801 | 1210 | 3763 | 1245 |  | 11615 Private  | Robinson, Joseph  | 30th Regt   | Robinson, F. L  | 129 Cayuga St., Brantford, Ont   .  | England  | Valcartier. | Sept. 22 |
+| 26 | 801 | 1241 | 3763 | 1273 |  | 11616 Private  | Reid. John  | F. & K. Art  | Reid, Bella Mrs  | 35 Anne St., Hebburn-on-Iyne, Eng  | Scotland  | Valcartier. | Sept. 22 |
+| 26 | 802 | 1271 | 2446 | 1299 |  | 11617 Private  | Sullivan, J. F  | Particulars will be furnished | when available  |
+| 26 | 802 | 1299 | 3764 | 1331 |  | 11618-Private  | Seymour, WiUiam  | 12th Regt  | Wilson, Mary  | 220 Bathurst St., Toronto, Ont   | Canada...... | Valcartier. | Sept. 23 |
+| 26 | 803 | 1327 | 3763 | 1362 |  | 1-1«9| Private  | Shanley, Arthur  | 53rd Regt  | Card Mrs  | Westchester Ave., St. Catherines, Ont   | England  | Valcartier. | Sept. 23 |
+| 26 | 803 | 1357 | 3765 | 1389 |  | 11620 Private  | Sinclair, Johu  | Nil.. .  | Sinclair, Margaret  | 19 Hall St., Denny, Scot  | Scotland  | Valcartier. | Sept. 23 |
+| 26 | 803 | 1385 | 3763 | 1418 |  | 11621 | Private  | Sloot, Neil  | Nil  | Sloot, Wesley  | Simcoe P. O., Ont  | Canada  | Valcartier. | Sept. 23 |
+| 26 | 804 | 1413 | 3764 | 1445 |  | 11622 | Private  | Scott, Robert  | Nil  | Scott, Jane    | 150 MU1 St.. N. Track. Co. Down, Ire  | Ireland  | Valcartier. | Sept. 23 |
+| 26 | 803 | 1441 | 3764 | 1474 |  | 11623 | Private  | Skelton, Ernest  | Rov. Navy  | Skelton, H. Mrs  | 13 Garden Rd, Tunbridge Wells, Kent, Eng  | England  | Valcartier. | Sept. 22 |
+| 26 | 804 | 1472 | 3763 | 1506 |  | 11624 | Private  | Stanley, George  | NU  | Stanley, Annie  | 33 Richmond Terrace, Clifton, Bristol, Eng  | , England  | Valcartier. | Sept. 23 |
+| 26 | 803 | 1501 | 3765 | 1531 |  | 11625 | Private  | Teague, Albert Samson  | NU  | Teague Beatrice  | 23 Park Ave E., Brantford, Ont., Eng  | England  | Valcartier. | Sept. 23 |
+| 26 | 804 | 1531 | 3765 | 1561 |  | 11626 | Private  | Thompson, Gordon  | NU  | Thompson, Charles  | Simcoe, Ont   | Canada  | Valcartier. | Sept. 23 |
+| 26 | 804 | 1560 | 3767 | 1590 |  | 11627 | Private  | Van Fleet, Harry J     | 2nd L. Horse    | Van Fleet, J. C. Mrs  | 128 Oxford St., Brantford, Ont  | Canada  | Valcarticr. | Sept. 22 |
+| 26 | 803 | 1589 | 3767 | 1620 |  | 11628 | Private  | Weston, Harry  | R. G. A  | Weston, Mrs. Lucy   | 7 MU ward Rd., Sussex, Eng  | Eng'and  | Valcartier. | Sept. 23 |
+| 26 | 36 | 1619 | 1984 | 1649 | I mm | 11629 | Private  | Watson, Isaac  | 2nd V.B., Ring’s Roy. Lancs |
+| 26 | 36 | 1640 | 3767 | 1680 | hi. 4 |  |  | Regt  | Watson, Hannah..        | 9 Beaumont St., Lancaster, Lancs, Eng  | England... | Valcartier. | Sept. 22 |
+| 26 | 804 | 1676 | 2430 | 1712 |  | 11630 | Private  | Webb, C     | Particulars will be furnished | when available  |
+| 26 | 804 | 1704 | 3766 | 1735 |  | 11631 | Private  | Wnkeling, Robert Francis.. | 3Sth Regt ’ , | Wakeling, Winifred...... | 14 Burford St., Brantford, Ont  | England. | Valcartier. | Sept. 23 |
+| 26 | 104 | 1732 | 3768 | 1762 | * | 11632 | Private  | Wollerson, E. W  | NU ...- ;... | Wollerson. Mtb. E.......... | 9 Halliford St., Islington, London N., Eng  | Enp land. | Valcartier. | Sept. 23 |
+| 26 | 803 | 1762 | 3767 | 1797 |  | 11633 | Private  | Walton, Thomas  | 2nd Regt.  | Walton, T. Mra....,.....,..;. | 78 Richardson St., Brantford, Ont,  | England. | Valcartier. | Sept. 22 |
+| 26 | 803 | 1792 | 3767 | 1822 |  | 11634 Private. | Wilson, William Henry  | Nil / v... | Wilson, Elcyeph...! .  | 86 Spruce St., Brantford, Ont  | Canada.. | Valcartier. | Sept. 22 |
+| 26 | 803 | 1819 | 3766 | 1851 |  | 10557 | Private  | Whitehead, R  | NU    | Whitehead. Minnie Mrsl...... | 4 Charlotte St., Brantford, Ont  | Canada.. | Valcartier. | Sept. 21 |
+| 26 | 802 | 1850 | 3239 | 1881 |  | 11635 | Private  | Walker, Abraham F  | Volunteers    | Walker, Lister    | 27 Toftehaw, Moorside, Tong St., Dudley Hill, North¬ |
+| 26 | 2515 | 1881 | 3768 | 1910 |  |  |  |  |  | umberland, Eng    | England  | Valcarticr. | Sept. 22 |
+| 26 | 802 | 1901 | 3768 | 1939 |  | 11636 Private  | Wallace, E. Percy |NH........ |  | Wallace, R. W I.. | Simcoe, Ont    | Canada  | Valcartier. | Sept. 23 |
+| 26 | 802 | 1938 | 3768 | 1973 |  | 11178jPrivate  | White, James    N. R. S.... |  | White William  | 24 West St., Southampton, Eng  | England  | Valcartier. | Sept. 22 |
+| 26 | 802 | 1967 | 3768 | 2001 |  | 11638jPrivate  | Wright, Albert B .:3th Regt.. |  | Wright, Elizabeth  | 71 St. Frederick St., N. Hampton, Eng    | England v | Valcartier.. | Sept. 23 |
+| 26 | 801 | 1992 | 3768 | 2025 |  | 11639: Private  | Wathen, Thomas ! Nil     |  | Wathen, Elizabeth Mrs.. | 47 Clarence Rd., Eastbourne, Essex, Eng  | England .' | Valcartier. | Sept. 32 |
+| 26 | 801 | 2025 | 3768 | 2056 |  | U640|Private  | YaUop, Herbert 2Sth Eegt.. |  | YaUop Snsaa Rose  | 13 Park Ave. East, Brantford, Ont  | England  | Valcartier. | Sept. 23 |
+{% endraw %}

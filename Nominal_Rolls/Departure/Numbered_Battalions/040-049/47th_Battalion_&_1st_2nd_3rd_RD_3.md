@@ -1,0 +1,665 @@
+---
+title: 47th Battalion & 1st 2nd 3rd RD 3
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 932 | 529 | 3414 | 564 |  |  | Former Corps. |  |  | Country of |
+| 1 | 745 | 517 | 3382 | 585 | •p | a |  |  |  | Birth. |
+| 1 | 3707 | 674 | 3902 | 697 |  |  |  |  |  |  |  | Mar. | 25 | 1915. |
+| 1 | 2431 | 703 | 3902 | 734 |  |  |  |  | 3856 Commercial St., South Vancouver, B.C  |  | New W’minster. | Mar. | 23 | 1915. |
+| 1 | 3466 | 732 | 3903 | 757 |  |  |  |  |  |  | New W’minster. | Mar. | 12 | 1915. |
+| 1 | 3465 | 762 | 3902 | 786 |  |  |  |  |  |  | New W’minster. | Mar. | 19 | 1915. |
+| 1 | 3224 | 791 | 3902 | 817 |  |  |  |  |  | Newfoundland.. | New W’minster. | Mar. | 12 | 1915. |
+| 1 | 2432 | 820 | 3902 | 852 |  |  |  |  | Place Viger Hotel, Montreal, P.Q  | Canada  | New W’minster. | Mar. | 18 | 1915. |
+| 1 | 3464 | 878 | 3903 | 903 |  |  |  |  |  |  | New W’minster. | Mar. | 19 | 1915. |
+| 1 | 3465 | 908 | 3903 | 932 |  |  |  |  |  |  | New W’minster. | Mar. | 11 | 1915. |
+| 1 | 2431 | 937 | 3903 | 962 |  |  |  |  | St.. Hildverts. Queens Rd.. Swanaee. Dorset. Ene  |  | New W’minster. | Mar. | 23 | 1915. |
+| 1 | 3465 | 966 | 3902 | 990 |  |  |  |  |  |  | New W’minster. | Mar. | 16 | 1915. |
+| 1 | 3466 | 995 | 3902 | 1019 |  |  |  |  |  |  | New W’minster. | Mar. | 20 | 1915. |
+| 1 | 3465 | 1024 | 3903 | 1048 |  |  |  |  |  |  | New W’minster. | Mar. | 15 | 1915. |
+| 1 | 753 | 1053 | 3903 | 1086 | 29054 |  |  |  | Mission City, B.C  |  | New W’minster. | Mar. | 12 | 1915. |
+| 1 | 3466 | 1082 | 3904 | 1106 |  |  |  |  |  |  | New W'minster. | Mar. | 23 | 1915. |
+| 1 | 3465 | 1111 | 3904 | 1135 |  |  |  |  |  |  | New W’minster. | Mar. | 20 | 1915. |
+| 1 | 3466 | 1141 | 3903 | 1164 |  |  |  |  |  |  | New W’minster. | Mar. | 30 | 1915. |
+| 1 | 3466 | 1170 | 3904 | 1193 |  |  |  |  |  |  | New W’minster. | Mar. | 30 | 1915. |
+| 1 | 3466 | 1198 | 3904 | 1226 |  |  |  |  |  |  | New W’minster. | April | 6 | 1915. |
+| 1 | 3466 | 1228 | 3904 | 1252 |  |  |  |  |  |  | New W’minster. | Mar. | 20 | 1915. |
+| 1 | 3467 | 1257 | 3904 | 1281 |  |  |  |  |  |  | New W’minster. | Mar. | 12 | 1915. |
+| 1 | 753 | 1287 | 3904 | 1315 | 29741 |  |  |  |  |  | New W’minster. | Mar. | 19 | 1915. |
+| 1 | 752 | 1316 | 3905 | 1347 | 29755 |  | Nil  | McIntyre, Mrs. J. D. A  | 645, 5th St., Edmonton, Alta  | U.S.A  | New W’minster. | Mar. | 25 | 1915. |
+| 1 | 752 | 1344 | 3905 | 1373 | 28737 |  |  |  |  |  | New W’minster. | Mar. | 19 | 1915. |
+| 1 | 752 | 1373 | 3905 | 1402 | 28273 |  |  |  |  |  | New W’minster. | April | 3 | 1915. |
+| 1 | 752 | 1402 | 3905 | 1431 | 29234 |  |  |  |  |  | New W’minster. | Mar. | 17 | 1915. |
+| 1 | 3468 | 1432 | 3905 | 1455 |  |  |  |  |  |  | New W’minster. | Mar. | 11 | 1915. |
+| 1 | 3224 | 1461 | 3905 | 1486 |  |  |  |  |  | Canada  | New W’minster. | Mar. | 11 | 1915. |
+| 1 | 3225 | 1490 | 3905 | 1515 |  |  |  |  |  | Channel Islands. | New W’minster. | Mar. | 15 | 1915. |
+| 1 | 754 | 1519 | 3906 | 1551 | 11567 |  | Nil . |  | 2247, 5th Ave. E., Vancouver, B.C  | England  | Vancouver  | Mar. | 29 | 1915. |
+| 1 | 752 | 1548 | 3906 | 1578 | 28508 |  |  |  | Austin Rd.. Burauitlam. B.C  |  | New W’minster. | Mar. | 11 | 1915. |
+| 1 | 3465 | 1577 | 3906 | 1601 |  |  |  |  |  |  | Vancouver  | Mar. | 19 | 1915. |
+| 1 | 753 | 1605 | 3906 | 1638 | 28531 |  |  |  | 624,13th St., New Westminster, B.C  |  | New W’minster. | Mar. | 16 | 1915. |
+| 1 | 753 | 1634 | 3906 | 1668 |  |  |  |  | Kelley’s Library, Shaftesbury Ave., London, | 29736 | New W’minster. | Mar. | 23 | 1915. |
+| 1 | 3468 | 1663 | 3906 | 1687 |  |  |  |  |  |  | New W’minster. | Mar. | 31 | 1915. |
+| 1 | 3469 | 1692 | 3906 | 1716 |  |  |  |  |  |  | New W’minster. | Mar. | 17 | 1915. |
+| 1 | 3470 | 1721 | 3906 | 1749 |  |  |  |  |  |  | New W’minster. | April | 1 | 1915. |
+| 1 | 753 | 1729 | 1918 | 1757 | 28774 | Matthews, William Carlyle  | C.G.A  |
+| 1 | 753 | 1751 | 3907 | 1786 | 29762 |  | Nil | Murphy, Sarah.  |  |  | New W’minster. | Mar. | 26 | 1915. |
+| 1 | 3469 | 1780 | 3915 | 1804 |  |  |  |  |  |  | New W’minster. | Mar. | 13 | 1915.' |
+| 1 | 754 | 1809 | 3907 | 1844 |  |  |  | McCullough, Mrs. 8  | 11273 | Nil  | R.M.D. No. 1, Royal Oak, B.C    | Vancouver  | Mar. | 31 | 1915. |
+| 1 | 753 | 1838 | 3907 | 1871 |  |  |  |  | Suite 20, Grace Court, Vancouver, B.C  | 28660 | New W’minster. | Mar. | 15 | 1915. |
+| 1 | 3468 | 1868 | 3907 | 1891 |  |  |  |  |  |  | Vancouver  | Mar. | 31 | 1915. |
+| 1 | 754 | 1873 | 2418 | 1900 | 11316 |  | Nil. . | McDonald, J. E  |
+| 1 | 753 | 1896 | 3908 | 1925 | 28538 |  |  |  |  |  | New W’minster. | Mar. | 11 | 1915. |
+| 1 | 753 | 1925 | 3908 | 1960 | 28748 | McGowan, Anthony  |  |  | 6129 St. Catherine St., Vancouver, B.C  |  | New W’minster. | Mar. | 22 | 1915. |
+| 1 | 753 | 1954 | 3908 | 1983 | 29117 |  |  |  |  |  | New W’minster. | Mar. | 16 | 1915. |
+| 1 | 753 | 1983 | 3909 | 2016 | 29109 | McKinnon, Charles  |  |  |  |  | New W’minster. | Mar. | 25 | 1915. |
+| 1 | 753 | 2012 | 3908 | 2046 | 29679 |  |  |  | Port Hawkesbury, Inverness Co., N.S  |  | New W’minster. | Mar. | 18 | 1915. |
+| 1 | 753 | 2041 | 3909 | 2073 |  |  |  |  | 3a Pte. de Alvarado, No. 54, Mexico City, D.F | 29243 | Now W’minster. | Mar. | If | 1915. |
+| 1 | 753 | 2070 | 3909 | 2104 |  |  |  |  | 18 Archway St., Bath, Somerset, Eng  | 28252 | Millard, Albert Edward  | New W’minster. | Mar. | 23 | 1915. |
+| 2 | 420 | 505 | 3570 | 543 | 2876C | Private  | Miller, John  | 72nd Regt... | Miller, Thomas  | Qu’Appelle, Sask  | Scotland  | New W’minster. | Mar. | 30.1915. |
+| 2 | 419 | 534 | 3569 | 572 | 28529 | Private  | Mills, Thomas  | 104 th Regt.. | Mills, Joseph  | 1029 St. Andrews St., New Westminster, B.C  | Canada  | New W’minster. | Mar. | 11.1915. |
+| 2 | 419 | 564 | 3569 | 602 | 28083 | Private  | Milne, Robert Maitland M.. | 72nd Regt... | Milne, Mrs. Agnes  | 82 Polwarth Gdns., Edinburgh, Scot  | Scotland  | New W’minster. | Mar. | 12.1915. |
+| 2 | 420 | 592 | 3569 | 632 | 11684 | Private  | Milner, Reginald  | Nil  | Milner, J. P  | 246 Esplanade W., North Vancouver, B.C  | England  | Vancouver  | April | 26.1915. |
+| 2 | 2887 | 622 | 3568 | 649 |  |  |  |  |  | Scotland  | Vancouver  |  | Mar. | 23, 1915. |
+| 2 | 419 | 628 | 2873 | 660 | 11398 | Private  | Moore, Thomas  | S.A  | Moore, Mrs. Laura  | Ripley, N.Y., U.S.A  |
+| 2 | 417 | 651 | 3568 | 689 | 29107 | Private  | Mottram, William  | 6th Regt.... | Mottram, Mrs. Elizabeth | Suite 3,1828 Commercial Drive, Vancouver, B.C  | England  | New W’minster. | Mar. | 15, 1915. |
+| 2 | 416 | 681 | 3567 | 718 | 29231 | Private  | Munce, Alfred  | 72nd Regt... | Munce, James  | 2 Green St., Ibrox, Glasgow, Scot  | England  | New'W’minster. | Mar. | 23, 1915. |
+| 2 | 416 | 710 | 3568 | 747 | 29746 | Private  | Murrell, Thomas  | 72nd Regt... | Murrell, H  | 19 Bretland Rd., Tunbridge Wells, Kent, Eng  | England  | New W’minster | Mar. | 23.1915. |
+| 2 | 2885 | 739 | 3568 | 766 |  |  |  |  |  | Canada  | Vancouver  |  | Mar. | 23.1915. |
+| 2 | 417 | 744 | 2872 | 777 | 11454 | Private  | Nicholson, William Angus— | Nil  | Nicholson, N  | Mission City, B.C  |
+| 2 | 2885 | 768 | 3568 | 795 |  |  |  |  |  | Canada  | Vancouver  |  | Mar. | 23.1915. |
+| 2 | 416 | 774 | 2872 | 805 | 11312 | Private  | Nolan, Edward James  | Nil  | Nolan, Mrs. J  | Penhold, Alta  |
+| 2 | 2884 | 796 | 3568 | 825 |  |  |  |  |  | Ireland  | New W’minster. |  | April | 7.1915. |
+| 2 | 414 | 802 | 2871 | 837 | 29750 | Corporal | O’Callaghan, Maurice Alexander... | O.T.C., Eng. | O’Callaghan, Mrs. M  | 97 Eaton Sq., London, Eng  |
+| 2 | 413 | 824 | 3567 | 863 | 29692 | Private  | Oldacre, Thomas  | 11th Regt. | Oldacre, Enoch  | Longdon, Rugeley, Staffs, Eng  | England  | New W’minster. | Mar. | 18, 1915. |
+| 2 | 2883 | 855 | 3568 | 882 |  |  |  |  |  | Australia  | New W’minster. |  | Mar. | 20.1915. |
+| 2 | 412 | 855 | 2871 | 894 | 28750 | L.-Corporal. | Oliver, Andrew Gordon  | 72nd Regt  | Oliver, T. G  | Darwin, Aust  |
+| 2 | 412 | 885 | 3568 | 920 | 28547 | Private   | Oneil, James  | 104th Regt.., | MacElpinny, Mrs. Florence | 145 Hastings St. W., Vancouver, B.C  | Canada  | New W’minster. | Mar. | 15, 1915. |
+| 2 | 411 | 914 | 3567 | 949 | 29130 | Private  | O'Neill, Joseph  | 6 th Regt | Nortiss, Mrs. S  | Clonmel, Co. Tipperary, Ire  | Ireland  | New W’minster. | Mar. | 3.1915. |
+| 2 | 411 | 943 | 3567 | 978 | 28548 | Private  | O’Rourke, Michael James  | 104th Regt... | Mack, Mrs. K  | 2564 Broway St., Montreal, P.Q  | Ireland   | New W’minster. | Mar. | 23.1915. |
+| 2 | 411 | 972 | 3568 | 1007 | 28558 | Private  | Page, George  | 104 th Regt... | Page, George  | Hempnall, Norfolk, Eng  | England  | New W’minster. | Mar. | 12, 1915. |
+| 2 | 410 | 1001 | 3567 | 1036 | 29700 | Private  | Parker, Stanley  | 11th Regt.... | Parker, Mrs. E  | 137 Baxter Ave., Kidderminster, Woros, Eng  | England   | New W’minster. | Mar. | 22, 1915. |
+| 2 | 410 | 1030 | 3567 | 1064 | 28752 | Private  | Paterson, Peter John  | 104th Regt... | Paterson, J ;.. | Haney, B.C  | Canada  | New W’minster. | Mar. | 20, 1915. |
+| 2 | 410 | 1059 | 3567 | 1094 | 29134 | Private  | Phillips, Walter Stanley  | 6th Regt  | Phillips, Mrs. C  | 16 Burney St., Greenwich, London, S.E., Eng  | England  | New W’minster. | Mar. | 13, 1915. |
+| 2 | 410 | 1089 | 3567 | 1122 | 29731 | Private  | Pollock, John  | 72nd Regt  | Pollock, Robert  | Ladysmith, B.C  | Canada  | New W’minster. | Mar. | 19, 1915. |
+| 2 | 409 | 1117 | 3567 | 1153 | 29229 | Corporal  | Porter, Albert  | 72nd Regt | Galbraith, Mrs. S. A  | 20 Willow Grove, Plaistow, London, Eng  | England  | New W’minster. | Mar. | 23.1915. |
+| 2 | 409 | 1147 | 3568 | 1180 | 29137 | Private  | Porter, William  | 6th Regt  | Porter, Mrs. Edith . | 2323, 43rd Ave., Collingwood W., B.C  | England  | New W’minster. | Mar. | 13, 1915. |
+| 2 | 409 | 1176 | 3568 | 1209 | 29140 | Private  | Potter, Bernard Frederick S  | 6th Regt  | Potter, J. W  | Nelthorpe, Grange Gdns., Eastbourne, Sussex, Eng.... | England  | New W’minster. | Mar. | 23.1915. |
+| 2 | 409 | 1205 | 3567 | 1238 | 28694 | Private  | Potter, Thomas  | 11th Regt.... | Boyles, Mrs. E  | Quinton, Birmingham, Eng  | England  | New W’minster. | Mar. | 23, 1915. |
+| 2 | 408 | 1234 | 3568 | 1270 | 28551 | Private  | Prime, Herbert James  | 104th.Regt... | Prime, William  | Elora, Ont  | Canada  | New W’minster. | Mar. | 11, 1915. |
+| 2 | 408 | 1262 | 3567 | 1299 | 28063 | Private  | Pringle, Charles  | 72nd Regt  | Pringle, T. A  | Glasslough, Co. Monaghan, Ire  | Ireland   | New W’minster. | April | 30, 1915. |
+| 2 | 408 | 1292 | 3567 | 1328 | 29142 | Private  | Quinn, John Peter  | 6 th Regt  | Quinn, J. P., M.D  | 42 Sackville St., Dublin, Ire  | Ireland  | New W’minster. | Mar. | 23, 1915. |
+| 2 | 409 | 1321 | 3568 | 1357 | 28696 | Private  | Quinn, William James  | 11th.’Regt  | Quinn, Mrs. D. L  | 2 Court one House, Date St., Liverpool, Eng  | England  | New W’minster. | Mar. | 22, 1915. |
+| 2 | 408 | 1350 | 3567 | 1386 | 28700 | Private  | Randall, Alfred  | 11th Regt.... | Randall, R. E  | Fort Vermilion, Peace River Crossing, Alta  | England  | New W’minster. | Mar. | 15.1915. |
+| 2 | 408 | 1379 | 3567 | 1417 | 29152 | Sergeant  | Rhodes, Cecil Frederick H. S  | 6th Regt  | Rhodes, Mrs. Esther  | 26 Montreal St., Victoria, B.C.     | England  | New W’minster. | Mar. | 13.1915. |
+| 2 | 408 | 1408 | 3567 | 1443 | 29651 | Private  | Roach, Patrick  | 6 th Regt  | Roach, Patrick  | 72 Colborne St., Kingston, Ont  | England  | New W’minster. | Mar. | 19, 1915. |
+| 2 | 408 | 1437 | 3568 | 1472 | 29148 | Private  | Robb, Charles  | 6th Regt  | Robb, James  | John St., Stromness, Orkney Is., Scot  | Scotland  | New W’minster. | Mar. | 23.1915. |
+| 2 | 408 | 1467 | 3568 | 1504 | 28697 | L.-Corporal.. | Robertson, Robert  | 11th Regt.... | Robertson, Mrs. Jane M  | 25 Stewart Terr., Gorgie, Edinburgh, Scot  | Scotland  | New W’minster. | Mar. | 15, 1915. |
+| 2 | 410 | 1496 | 3568 | 1529 | 11441 | Private  | Robinson, Arthur William  | Territorials... | Robinson, Mrs. K  | 9 Lucerne Rd., Thornton Heath, Surrey, Eng  | England  | Vancouver  | April | 30.1915. |
+| 2 | 408 | 1525 | 3568 | 1559 | 28701 | Private  | Rogers, Harry  | 11th Regt.... | Rogers, Mrs. Anna  | Chalvey Rd., Slough, Bucks, Eng  | England  | New W’minster. | Mar. | 19.1915. |
+| 2 | 409 | 1554 | 3568 | 1587 | 29640 | Private  | Ross, Daniel Alexander  | 6th Regt  | Ross, Mrs. R  | Roberta, Richmond Co., N.S  | Canada  | New W’minster. | Mar. | 19, 1915. |
+| 2 | 408 | 1583 | 3568 | 1619 | 28699 | L.-Corporal.. | Royce, Frederick    | 11th Regt  | Royce, John F   | 24 Leeds Rd., Harrogate, Eng     | England  | New W’minster. | Mar. | 19, 1915. |
+| 2 | 408 | 1612 | 3568 | 1645 | 29653 | Private  | Royle, Ernest   | 6th Regt  | Royle, Mrs. S  | Kamloops, B.C  | England  | New W’minster. | Mar. | 19.1915. |
+| 2 | 408 | 1642 | 3568 | 1674 | 29258 | Private  | Rutledge, Peter  | 72nd Regt  | Montgomery, Mrs. M....... | 130 Brandon St., Motherwell, Scot  | Scotland   | New W’minster. | Mar. | 30.1915. |
+| 2 | 409 | 1671 | 3568 | 1703 | 11518 | Private  | Ryder, Samuel  | 102nd Regt... | Ryder, S. B  | Kelowna, B.C    | England   | Vancouver  | Mar. | 25.1915. |
+| 2 | 407 | 1699 | 3568 | 1735 | 28755 | Private  | Sabiston, John  | 11th Regt  | Sabiston, William  | Church Rd., Stromness, Orkney Is., Scot  | Scotland  | New W’minster. | Mar. | 30.1915. |
+| 2 | 409 | 1728 | 3568 | 1765 | 11394 | Private  | Sandilands, Wilfred Tracy  | Nil  | Sandilands, Rev. W  | Ashcroft. B.C  | England   | Vancouver  | April | 30.1915. |
+| 2 | 407 | 1758 | 3568 | 1793 | 28033 | Private  | Scott, John Thomas  | 104 th Regt... | Underhill, Mrs. Catherine | Wordsley, Staffs, Eng  | England  | New W’minster. | Mar. | 11.1915. |
+| 2 | 407 | 1787 | 3568 | 1822 | 28028 | Private  | Silburn, Thomas  | 104 th Regt... | Silburn, Mrs. E. L  | Newland Cottage, Hastings Townsite, B.C  | England   | New W’minster. | Mar. | 11.1915. |
+| 2 | 407 | 1816 | 3568 | 1851 | 29709 | Private  | Skehens, John  | 11th Regt.... | Skehens, Mrs  | Lake Forest, 111., U.S.A  | Newfoundland. | New W’minster. | Mar. | 19.1915. |
+| 2 | 406 | 1845 | 3568 | 1880 | 29642 | Private  | Smith, Edward Gladstone  | 6th Regt  | Smith, T. N  | 59 Poppleton Rd., Ley tons tone, Essex, Eng  | U.S.A  | New W’minster. | Mar. | 19.1915. |
+| 2 | 408 | 1875 | 3568 | 1908 | 11743 | Private  | Smith, Lawrence  | Nil  | Smith, M. A  | Bowser Ave., Capilano, B.C.    | Scotland  | Vancouver.. | May | 18.1915. |
+| 2 | 406 | 1904 | 3569 | 1941 | 29154 | Sergeant  | Smith, Paul Moody  | 6th Regt  | Smith, S. McC  | 403 Dunda3 St., Victoria, B.C  | Canada   | New W’m | nster. | Mar. | 19.1915. |
+| 2 | 405 | 1930 | 3568 | 1967 | 28739 | Private  | Sneddon, John  | 72nd Regt  | Sneddon, Mrs. J  | 59 Main St., Bridgeton, Glasgow, Scot  | U.S.A  | New W’m | nster. | Mar. | 19.1915. |
+| 2 | 405 | 1963 | 3568 | 1996 | 28728 | Private  | Stewart, Kenneth George  | 72nd Regt | Stewart, Alexander  | 1402, 5th Ave. W., Vancouver, B.C  | Scotland   | New W’m | nster. | Mar. | 22.1915. |
+| 2 | 404 | 1992 | 3568 | 2025 | 28237 | Private  | Stiles, Rupert  | 72nd Regt  | Stiles, Mrs. G  | Rock House, Riverhead, Kent, Eng  | Australia  | New W’m | nster. | Mar. | 23.1915. |
+| 2 | 404 | 2021 | 3568 | 2054 | 29082 | Private  | Stone, Arthur William  | 72nd Regt.... | Stone, Mrs. Jane  | Montrose, Forfar, Scot .  | Scotland  | New W’m | nster. | Mar. | 12.1915. |
+| 2 | 404 | 2050 | 3569 | 2083 | 29712 | Private    | Strachan, Alfred   | 11th Regt.... | Strachan, George  | Tordown, Kincardine, Scot  | Scotland  | New W’m | nster. | Mar. | 17.1915. |
+| 2 | 404 | 2078 | 3569 | 2113 | 29274 | Private  | Sullivan, Patrick Joseph    | Imp. Forces.. | Wigman, Mrs. John  | 1625, 11th Ave. E., Vancouver, B.C  | Wales  | New W’m | nster. | April | 12.1915. |
+| 2 | 403 | 2108 | 3569 | 2141 | 29609 | Private  | Thompson, Alfred Peter  | 6 th Regt  | Thompson, Mr3. W  | Hudson Heights, P.Q  | Canada  | New W’m | nster. | Mar. | 19.1915. |
+| 2 | 403 | 2138 | 3568 | 2171 | 28566 | Private  | Waite, Henry Ogden  | C.G.A  | Waite, J. R  | 244, 14th Ave. E., Vancouver, B.C  | England  | New W’m | nster. | Mar. | 15.1915. |
+| 2 | 402 | 2167 | 3569 | 2200 | 28719 | Private  | Walker, Allan Campbell  | 11th Regt  | Walker, Margaret  | 1822 Pender St. E., Vancouver, B.C.....  | Scotland  | New W’m | nster. | Mar. | 23.1915. |
+| 2 | 401 | 2196 | 3569 | 2228 | 28264 | Private  | Wallace, Charles Ryan  | 72nd Regt  | Wallace, William  | Water St., Dartmouth, N.S  | Brit. W. Indies | New W’m | nster. | Mar. | 31.1915. |
+| 2 | 401 | 2226 | 3568 | 2258 | 28049 | Private. | Ward, Frank  | 104th Regt... | Killick, E  | 32 Claude Rd., Leyton, Essex, Eng  | England  | New W’m | nster. | Mar. | 11.1915. |
+| 3 | 912 | 557 | 3393 | 593 |  |  |  | Former Corps. | Name of Next of Kin. |
+| 3 | 743 | 702 | 3883 | 735 | 29726 |  |  |  |  | 77 Severn Rd., Weston-super-Mare, Somerset, Eng... | New W’minster. | Mar. 24,1915. |
+| 3 | 743 | 736 | 3191 | 767 | 29729 |  |  |  |  | Ashcroft, B.C . ..... | Weir, J. F.. |
+| 3 | 742 | 877 | 3883 | 910 | 28267 |  |  |  |  |  | New W’minster. | Mar. 31,1915. | 26 Leven St., Lightbourne Rd., Manchester, Eng  |
+| 3 | 825 | 1192 | 3887 | 1228 |  | Lieutenant. | Brown, John Stevenson  | 72nd Regt... | Sasse, Mrs. G  | 27 Barrington Rd., Brixton, London, S.W., Eng..... |  | Mar. 24,1915. |
+| 3 | 825 | 1227 | 3151 | 1257 |  | Lieutenant. | Buchanan, Leo  | 6th Regt  | Buchanan, G. O  | Haney, B.C  |
+| 3 | 824 | 1251 | 3888 | 1286 |  | Lieutenant. | Knight, Matthew John  | 6th Regt.... | Knight, Sirs. Lucy Ann... | 37 Southfield Sq., Bradford, Yorks, Eng  |  | Mar. 24,1915. |
+| 3 | 825 | 1280 | 3887 | 1315 |  | Lieutenant. | Sclater, James Loutit  | 6th Regt.... | Sclater, James  | 1231 Barclay St., Vancouver, B.C  |  | Mar. 25,1915. | New W’minster. |
+| 3 | 727 | 1309 | 3888 | 1344 | A28110 | Private..... | Abbey, Arthur  | 6th Regt.... | Chuck, Mrs. F. N  | Bruce Villa, London Colney, St. Albans, Eng  | New W’minster. | Mar. 13,1915. |
+| 3 | 728 | 1343 | 3152 | 1374 | a28082 | Private  | Adamson, Ewart  | 72nd Regt... | Adamson, Mrs. Gertrude. | North Vancouver, B.C  ;... |
+| 3 | 727 | 1366 | 3889 | 1402 | 428277 | Private  | Allen, Vernon Bayfield  | Nil  | Allen, J. B   | Stock Exchange, London, E., Eng  |  | April 7,1915. | New W’minster. |
+| 3 | 727 | 1395 | 3887 | 1431 | A29280 | Private  | Allenby, George David S  | Nil  | Allenby, Mrs. Ellen  | 7 Princess Ave., Wheeler St., Hull, Yorks, Eng  |  | April 26,1915. |
+| 3 | 726 | 1425 | 3889 | 1460 | A29233 | Private.  | Allenby, William Thorley  | 72nd Regt... | Allenby, Mrs. Ellen  | 7 Princess Ave., Wheeler St., Hull, Yorks, Eng  |  | Mar. 18,1915. |
+| 3 | 727 | 1454 | 3888 | 1490 | A29805 | Private  | Almack, Charles Willoughby. | Can. Navy.. | Almack, Edward  | Hazelmere House, Hulton, Essex, Eng  |  | June 18,1915. |
+| 3 | 726 | 1484 | 3152 | 1518 | A28798 | Private  | Amiel, George Victor  | Territorials.. | Amiel, A. L  | 1017 McLean Drive, Vancouver, B.C  |
+| 3 | 728 | 1512 | 3888 | 1547 | 429996 | Private  | Anderson, Harry  | 104th Regt.. | Anderson, Jasper  | Spean Bridge Hotel, Spean Bridge, Inverness, Scot. |  | June 18,1915. |
+| 3 | 727 | 1540 | 3889 | 1576 | A28171 | Private  | Anderson, John  | 11th Regt... | Anderson, Margaret  | Box Line, New Westminster, B.C  |  | Mar. 16,1915. |
+| 3 | 727 | 1569 | 3889 | 1605 | 429012 | Private  | Andrew, Alfred  | 104th Regt.. | Andrew, John   | Kirkmichael, Ayr, Scot  |  | Mar. 25,1915. |
+| 3 | 728 | 1598 | 3890 | 1634 | 428U1 | Private  | Asher, Walter  | 6th Regt  | Asher, Thomas  | 1640 Albemi St., Vancouver, B.C      |  | Mar. 13,1915. |
+| 3 | 727 | 1627 | 3889 | 1663 | A28512 | Private  | Aston, Richard Wilfred  | 104th Regt.. | Aston, J    | 613, 4th St., New Westminster, B.C  |  | Mar. 11,1915. |
+| 3 | 728 | 1657 | 3889 | 1692 | 428268 | Private  | Ayers, William Blanchard.... | 72nd Regt... | Ayers, Mrs. M  | Leigh, Sherboume, Dorset, Eng  |  | June 9,1915. | New W’minster. |
+| 3 | 727 | 1685 | 3890 | 1721 | A28771 | Private  | Barker, George  | Nil  | Barker, T     | Ripon, Yorks, Eng    |  | Mar. 30,1915. |
+| 3 | 727 | 1715 | 3890 | 1750 | A28584 | Private  | Baylis, Edward Septimus  | 72nd Regt... | Baylis, Thomas  | 39 Effra Rd., Brixton, London, Eng  |  | Mar. 20,1915. |
+| 3 | 727 | 1744 | 3890 | 1779 | A28081 | Private  | Baylis, Philip Noel  | 72nd Regt... | Baylis, Thomas.    | 39 Effra Rd., Brixton, London, Eng  |  | Mar. 17,1915. |
+| 3 | 727 | 1772 | 3891 | 1808 | A28794 | Private  | Beasley, William Thomas  | Imp. Forces. | Beasley, Mrs. R. H  | R.R. No. 2, Cloverdale, B.C .  |  | May 5,1915. |
+| 3 | 727 | 1802 | 3891 | 1837 | A28501 | Sergeant  | Bell, Duncan Jay  | 104th Regt.. | Bell, Allan Jay    | King Edward Dredge, New Westminster, B.C  |  | Mar. 11,1915. |
+| 3 | 727 | 1831 | 3891 | 1866 | A29104 | Private  | Benham, Bernard Henry  | Nil  | Boyle, Mrs. H. B  | Wooton St., Lawrence, Basingstoke, Hants, Eng  | New W’minster. | June 18,1915. |
+| 3 | 727 | 1860 | 3890 | 1895 | A28181 | Private  | Bentley, George  | 11th Regt... | Bentley, William H  | 30 St. Augustine Terr., Halifax, Yorks, Eng  | New W’minster. | June 9, 1915. |
+| 3 | 727 | 1893 | 3157 | 1924 | A28085 | Private  | Benzie, William Gardner  | 72nd Regt... | Benzie, William  | Aj-dlea, Kelvinside, Glasgow, Scot  |
+| 3 | 728 | 1918 | 3892 | 1953 | A28760 | Private  | Berube, Charles Dumas  | Nil  | Berube, Ernest  | Matapedia, P.Q      |  | Mar. 24, 1915. |
+| 3 | 727 | 1947 | 3892 | 1983 | A28092 | Private  | Black, Dugald  | 72nd Regt... | Black, Alexander  | 2227, 7th Ave. E., Vancouver, B.C  |  | Mar. 12,1915. |
+| 3 | 727 | 1976 | 3892 | 2011 | A28118 | Private  | Blackman, Walter Thomas... | 6th Regt  | Blackman, Emily  | P.O., Lochdale, Burnaby, B.C  | New W'minster. | Mar. 25,1915. |
+| 3 | 726 | 2005 | 3891 | 2040 | A29271 | Private  | Blair, Robert Thomson  | 72nd Regt... | Blair, Mrs. A  | 238 North Woodside Rd., Glasgow, Scot  | New W’minster. | April 8,1915. |
+| 3 | 728 | 2034 | 3893 | 2069 | 429099 | Private  | Bland, Roland Elgie  | 72nd Regt... | Bland, William E  | 1913 Beach Ave., Vancouver, B.C .'  | New W’minster. | Mar. 12,1915. |
+| 3 | 726 | 2063 | 3894 | 2104 | A28577 | Private— | Bowie, David  | 72nd Regt... | Bowie, W ._  | Police Station, Dumfries, Scot  | New W’minster. | Mar. 23, 1915. |
+| 3 | 727 | 2092 | 3895 | 2127 | 429176 | Corporal... | Boxer, Walter Stawell  | 11th Regt... | Boxer, Mrs. Jennie  | 637 Hornby St., Vancouver, B.C  | New W’minster. | Mar. 20, 1915. |
+| 4 | 390 | 512 | 3548 | 546 | A28176 | Private   | Bradbury, William  | 11th Regt  | Bradbury, Mrs. B  |  | New W’minster. | Mar. | 20 | 1915. |
+| 4 | 390 | 541 | 3548 | 576 | A28117 | Private   | Bryenton, David Newton  | 6th Regt  | Bryenton, Albert  |  | New W’minster. | Mar. | 18 | 1915. |
+| 4 | 390 | 570 | 3549 | 605 | a29520 | Private   | Bryson, James   | 104th Regt  | Bryson, J  |  | New W’minster. | Mar. | 12 | 1915. |
+| 4 | 391 | 599 | 3549 | 634 | 428770 | Private   | Bunting, Sidney William  | 19th Regt  | Bunting, Esther  |  | New W’minster. | Mar. | 30 | 1915. |
+| 4 | 390 | 628 | 3550 | 661 | A29190 | Private  | Cameron, Donald  | 11th Regt  | Cameron, Hugh  |  | New W’minster. | Mar. | 24 | 1915. |
+| 4 | 389 | 657 | 3550 | 692 | A28266 | Private  | Campbell, James Watchman.. | 72nd Regt  | Campbell, Colin  |  | New W’minster. | Mar. 31 | 1915. |
+| 4 | 389 | 686 | 3550 | 721 | A28145 | Private  | Campbell, Thomas Chalmers. | 6 th Regt  | Campbell, John  |  | New W’minster. | Mar. | 20 | 1915. |
+| 4 | 389 | 715 | 3550 | 749 | A29999 | Private  | Chisholm, Alexander  | 104th Regt  | Chisholm, W. A  |  | New W’minster. | June | 18 | 1915. |
+| 4 | 3112 | 744 | 3549 | 768 |  |  |  |  |  |  | New W’minster. | Mar. | 16 | 1915. |
+| 4 | 389 | 749 | 1921 | 778 | A28079 | Corporal...., | Clark, William Rattray  | 72nd Regt  | Clark, Mrs. Julia  |
+| 4 | 3113 | 773 | 3549 | 797 |  |  |  |  |  |  | New W’minster. | June | 17 | 1915. |
+| 4 | 390 | 778 | 2853 | 807 | 429998 | Private  | Clement, Carleton Main  | 31st Regt  | Clement, W. H. P  | 2001,15th Ave. W., Vancouver, B.C  |
+| 4 | 390 | 802 | 3550 | 837 | A29087 | Private   | Comery, Leonard  | 72nd Regt  | Comery, Ann  |  | New W’minster. | June | 8 | 1915. |
+| 4 | 389 | 830 | 3550 | 865 | A28274 | Private   | Cook, Harold Patrick  | NU  | Cook, James  | 2916, 8th Ave. W., Vancouver, B.C  | New W’minster. | April 16 | 1915. |
+| 4 | 389 | 859 | 3550 | 894 | A29273 | Private   | Cowan, Harry  | Nil  | Roger, G  |  | New W’minster. | April 10 | 1915. |
+| 4 | 389 | 888 | 3550 | 923 | A29185 | Private  | Cowell, John Aloysius  | 11th Regt  | Gordon, Mrs  |  | New W'minster. | Mar. | 17 | 1915. |
+| 4 | 390 | 918 | 3551 | 952 | 428762 | Private  | Craig, John Dennis  | 72nd Regt  | Craig, James  | Quesnel, B.C   *  | New W’minster. | Mar. | 30 | 1915. |
+| 4 | 389 | 947 | 3550 | 981 | A28136 | Corporal  | Creery, Ronald Hulbert  | 6th Regt  | Creery, Andrew  |  | New W’minster. | Mar. | 22 | 1915. |
+| 4 | 388 | 975 | 3551 | 1010 | A29266 | Private  | Cross, George Alfred  | Nil  | Cross, George Alfred |  | New W’minster. | April | 6 | 1915. |
+| 4 | 388 | 1005 | 3551 | 1039 | A29530 | Bugler   | Cummings, William  | 104 th Regt  | Cummings, James... |  | New W’minster. | Mar. | 10 | 1915. |
+| 4 | 389 | 1034 | 3551 | 1068 | 428201 | Private  | Dalton, Frank  | 11th Regt  | Dalton, Annie  |  | New W’minster. | Mar. | 18 | 1915. |
+| 4 | 389 | 1063 | 3551 | 1096 | 428302 | Private  | Darley, William Ponsonby B.. | NU  | Darley, Mrs. M. L. R  |  | New W’minster. | May | 5 | 1915. |
+| 4 | 389 | 1092 | 3552 | 1125 | 429649 | L.-Corporal. | Davies, Hugh  | 6th Regt  | Not stated  |  | New W’minster. | Mar. | 17 | 1915. |
+| 4 | 388 | 1121 | 3551 | 1154 | A29072 | Private  | Davies, Thomas Francis  | C.G.A  | Davies, Mrs. A  |  | New W’minster. | Mar. | 23 | 1915. |
+| 4 | 388 | 1149 | 3552 | 1183 | A28278 | Private  | Davies, Thomas Owen  | NU  | Davies, Owen  |  | New W’minster. | 55 Bridge St., Aberystwyth, S. Wales  | April | 7 | 1915. |
+| 4 | 388 | 1178 | 3552 | 1212 | A28203 | Private  | Davies, William  | 11th Regt  | Davies, Charles  |  | New W’minster. | Mar. | 20 | 1915. |
+| 4 | 389 | 1207 | 3552 | 1241 | 429711 | Corporal  | Dawe, Harry Edward  | 11th Regt  | Jago, Miss Maud  |  | New W’minster. | Mar. | 25 | 1915. |
+| 4 | 388 | 1236 | 3552 | 1270 | A28206 | Private  | Domaille, John Henry  | 11th Regt  | Domaille, Mrs. Mary |  | New W’minster. | Mar. | 10 | 1915. |
+| 4 | 388 | 1265 | 3552 | 1299 | A29232 | Private  | Donaldson, Robert  | 72nd Regt  | Donaldson, James  |  | New W’minster. | Mar. | 23 | 1915. |
+| 4 | 389 | 1294 | 3552 | 1328 | 428160 | Private  | Dorland, John Edgar  | 6th Regt  | Dorland, Mrs. Margaret |  | New W’minster. | Mar. | 13 | 1915. |
+| 4 | 387 | 1323 | 3552 | 1356 | A28260 | Private  | Dostie, Am6d4e  | NU  | Dostie, Marie  |  | New W’minster. | Mar. | 24 | 1915. |
+| 4 | 388 | 1352 | 3552 | 1385 | A28796 | Private  | Duncombe, Joseph  | NU  | Amial, A. L  |  | New W’minster. | May | 5 | 1915. |
+| 4 | 387 | 1381 | 3552 | 1415 | A28204 | Bugler  | Dunk, Thomas Henry  | 11th Regt  | Dunk, George  |  | New W’minster. | Mar. | 15 | 1915. |
+| 4 | 387 | 1410 | 3552 | 1443 | A28606 | Private  | Edwards, George Thomas  | 6th Regt  | Edwards, Mrs. A  |  | New W’minster. | Mar. | 16 | 1915. |
+| 4 | 387 | 1439 | 3553 | 1472 | A28165 | Private  | Elener, William  | 6th Regt  | Elener, Mrs. W  |  | New W’minster. | Mar. | 20 | 1915. |
+| 4 | 3114 | 1468 | 3553 | 1493 |  |  |  |  |  |  | New W’minster. | Mar. | 20 | 1915. |
+| 4 | 387 | 1475 | 1936 | 1504 | A28754 | Private  | Ewing, George  | 11th Regt  | Ewing, George  |
+| 4 | 387 | 1495 | 3553 | 1533 | A28599 | Private  | Eyles, William Thomas  | 72nd Regt  | Eyles, Mrs. S  | Gen. Del., CoUingwood West, South Vancouver, B.C.. | New W’minster. | Mar. | II | 1915. |
+| 4 | 3114 | 1525 | 3553 | 1553 |  |  |  |  |  |  | New W’minster. | April | 1 | 1915. |
+| 4 | 388 | 1533 | 1886 | 1562 | 428775 | Private  | Finnerty, William Leonard  | C.G.A  | Finnerty, Mrs. Eva L |
+| 4 | 3114 | 1555 | 3553 | 1579 |  |  |  |  |  |  | New W’minster. | Mar. | 18 | 1915. |
+| 4 | 387 | 1562 | 1922 | 1591 | A28210 | Private  | Foley, Edward  | 11th Regt  | McKinnon, Mrs. Donald |
+| 4 | 387 | 1584 | 3553 | 1619 | A28068 | Private  | Forrest, Herbert Constantine. | C.G.A  | Forrest, Mrs. Emma | 3112 Reid St., Victoria, B.C  | New W’minster. | Mar. | 12 | 1915. |
+| 4 | 3113 | 1612 | 3553 | 1637 |  |  |  |  |  |  | New W’minster. | Mar. | 22 | 1915. |
+| 4 | 387 | 1620 | 1935 | 1649 | A28611 | Private  | Foster, Frederick  | 6 th Regt  | Foster, T  |
+| 4 | 3114 | 1641 | 3553 | 1666 |  |  |  |  |  |  | New W’minster. | Mar. | 16 | 1915. |
+| 4 | 387 | 1649 | 1935 | 1677 | A28610 | Private  | Foster, William  | 6th Regt  | Foster, Mrs. Rose  |
+| 4 | 3114 | 1670 | 3553 | 1695 |  |  |  |  |  |  | New W’minster. | Mar. | 13 | 1915. |
+| 4 | 387 | 1678 | 1935 | 1707 | A28609 | Private  | Fowler, Arthur  | 6th Regt  | McKinnon, D  |
+| 4 | 3114 | 1699 | 3553 | 1724 |  |  |  |  |  |  | New W’minster. | Mar. | 22 | 1915. |
+| 4 | 387 | 1707 | 1935 | 1736 | A28607 | Private  | Francis, James  | 6 th Regt  | Francis, James  |
+| 4 | 3115 | 1728 | 3553 | 1753 |  |  |  |  |  |  | New W’minster. | Mar. | le | 1915. |
+| 4 | 386 | 1735 | 1935 | 1765 | A28589 | Private  | Gagnon, Joseph  | 72nd Regt  | Gagnon, Archibald  |
+| 4 | 3115 | 1757 | 3554 | 1782 |  |  |  |  |  |  | New W’minster. | Mar. | 15 | 1915. |
+| 4 | 386 | 1765 | 1936 | 1792 | A28075 | Private  | Garrard, Noel William  | C.G.A  | Garrard, Mrs. M. S  |
+| 4 | 3115 | 1785 | 3554 | 1811 |  |  |  |  |  |  | New W’minster. | Mar. | 2C | 1915. |
+| 4 | 386 | 1794 | 1934 | 1823 | A28626 | Private  | Gauthier, Eugene  | 6th Regt  | Gauthier, Joseph  |
+| 4 | 3115 | 1814 | 3554 | 1840 |  |  |  |  |  |  | New W’minster. | Mar. | 11 | 1915. |
+| 4 | 386 | 1822 | 1935 | 1852 | A29023 | Private  | Gill, Arthur John  | 104th Regt  | GUI, Mrs. Nellie  |
+| 4 | 3115 | 1843 | 3554 | 1868 |  |  |  |  |  |  | New W’minster. | Mar. | 13 | 1915. |
+| 4 | 385 | 1851 | 1935 | 1881 | A28624 | Private  | Glover, Joseph  | 6th Regt  | Glover, Joseph  |
+| 4 | 3115 | 1873 | 3554 | 1898 |  |  |  |  |  |  | New W’minster. | Mar. | 16 | 1915. |
+| 4 | 385 | 1880 | 1934 | 1910 | A28618 | L.-Corporal., | Goddard, William Leslie  | 6th Regt  | Goddard, W. S  |
+| 4 | 3114 | 1902 | 3554 | 1927 |  |  |  |  |  |  | New W’minster. | Mar. | 16 | 1915. |
+| 4 | 385 | 1910 | 1935 | 1939 | 428621 | Private  | Grant, Harry  | 6th Regt  | Grant, James  |
+| 4 | 3115 | 1931 | 3554 | 1956 |  |  |  |  |  |  | New W’minster. | Mar. | IS | 1915. |
+| 4 | 385 | 1933 | 1935 | 1968 | 429650 | Private  | Grant, James Home  | 6th Regt  | Grant, Dr. P. N  |
+| 4 | 3115 | 1960 | 3555 | 1985 |  |  |  |  |  |  | New W’minster. | Mar. | 15 | 1915. |
+| 4 | 384 | 1968 | 1934 | 1997 | a28617 | Private  | Grant, Kenneth Hiram  | 6th Regt  | Grant, Alexander  |
+| 4 | 3114 | 1989 | 3555 | 2014 |  |  |  |  |  |  | New W’minster. | Mar. | IS | 1915. |
+| 4 | 384 | 1997 | 1934 | 2026 | a28623 | Private  | Grant, Leonard  | 6th Regt  | Grant, Arthur E  |
+| 4 | 3114 | 2018 | 3555 | 2043 |  |  |  |  |  |  | New W’minster. | Mar. | 17 | 1915. |
+| 4 | 384 | 2026 | 1934 | 2055 | a28620 | Private  | Grant, William  | 6th Regt  | Grant, John  |
+| 4 | 3114 | 2047 | 3555 | 2072 |  |  |  |  |  |  | New W’minster. | Mar. | 15 | 1915. |
+| 4 | 383 | 2055 | 1919 | 2084 | a28616 | Private  | Grant, William Alexander   | 6th Regt  | Grant, Alexander  |
+| 4 | 3114 | 2076 | 3555 | 2101 |  |  |  |  |  |  | New W’minster. | Mar. | 30 | 1915. |
+| 4 | 383 | 2084 | 1918 | 2113 | a28764 | Private  | Gregson, Arthur  | 72nd Regt  | Gregson, Robert  |
+| 4 | 3114 | 2105 | 3555 | 2130 |  |  |  |  |  |  | New W’minster. | Mar. | 22 | 1915. |
+| 4 | 383 | 2112 | 2853 | 2143 | a28631 | Private  | Hall, Allan   | 6 th Regt  | Hall, Joseph H  | Maxwell, York Co., N.B   |
+| 4 | 3114 | 2134 | 3556 | 2161 |  |  |  |  |  |  | New W’minster. | April | 8 | 1915. |
+| 4 | 383 | 2142 | 1918 | 2171 | A28779 | Sergeant  | Hamm, Charles Bovyer  | 6th Regt  | Hamm, WUliam   |
+| 4 | 3114 | 2163 | 3555 | 2188 |  |  |  |  |  |  | New W’minster. | Mar. | 15 | 1915. |
+| 4 | 382 | 2170 | 1923 | 2201 | A28664 | Private  | Harris, Hohn William.....  | 11th Regt.    '... | Burford, J. B .T |
+| 4 | 3114 | 2192 | 3556 | 2218 |  |  |  |  |  |  | New W’minster. | Mar. | 23 | 1915. |
+| 4 | 382 | 2201 | 1917 | 2229 | a28636 | Private  | Hartin, Robert  | 6 th Regt  | Hartin, Mrs. M  |
+| 4 | 3114 | 2221 | 3556 | 2247 |  |  |  |  |  |  | New W’minster. | Mar. | 18 | 1915. |
+| 4 | 381 | 2229 | 1932 | 2259 | a28641 | Private  | Heapley, James  | 6 th Regt  | Not stated      |
+| 5 | 911 | 473 | 3384 | 510 |  | Former Corps. |  |  | Country of |
+| 5 | 799 | 618 | 3873 | 656 | 0 Private  | 72nd Regt.. | Hellier, J. D  | 1160 Thurlow St., Vancouver, B.C  | England.. | New W’minster. | April 13, 1915. |
+| 5 | 1585 | 653 | 3874 | 685 |  | 72nd Regt.. | Henderson, B   | Gen. Del., Calgary, Alta  | Scotland. | New W’minster. | Mar. 19,1915. |
+| 5 | 820 | 676 | 3873 | 715 | Private  | Nil  | Herne, Edmund  | 1220 MelvUle St., Vancouver, B.C  | Wales  | New W’minster. | May 14,1915. |
+| 5 | 1586 | 711 | 3873 | 743 |  | 104th Regt. | Hinchcliffe, Samuel  | Ebume Station, B.C  | Canada... | New W’minster. | Mar. 11,1915. |
+| 5 | 820 | 734 | 3873 | 772 | Private  | 6th Regt  | Hockin, Mrs. J. M  | Kelowna, B.C  | Canada... | New W'minster. | Mar. 19,1915. |
+| 5 | 1584 | 769 | 3874 | 802 |  | 6th Regt... | Hollingdale, T. J  | P.O., Collingwood E., South Vancouver, B.C  | England.. | New W’minster. | Mar. 23,1915. |
+| 5 | 1585 | 798 | 3874 | 831 |  | 104th Regt. | Howell, John H  | Wadena, Minn., U.S.A    | Canada... | New W’minster. | Mar. 12,1915. |
+| 5 | 819 | 821 | 3873 | 860 | Private  | 6th Regt... | Howick, Edwin  | 22 St. John, Redhill, Surrey, Eng  | England.. | New W’minster. | Mar. 15,1915. |
+| 5 | 1584 | 856 | 3874 | 890 |  | 63rd Regt.. | Hughes, Mrs. Samuel  | Truro, Colchester Co., N.S  | Canada... | New W’minster. | April 26,1915. |
+| 5 | 818 | 879 | 3874 | 918 | Private  | 104th Regt. | Hunter, Frederick  | Mission City, B.C  | Scotland. | New W’minster. | Mar. 20,1915. |
+| 5 | 816 | 908 | 3873 | 947 | L.-Corporal  | 11th Regt.. | Husband, Mrs. Jane  | 47 Hanfield Rd., Dundee, Scot  | Scotland. | New W’minster. | Mar. 18,1915. |
+| 5 | 816 | 937 | 3873 | 976 | Private  | 72nd Regt.. | Hutchinson, Charles  | 18 Pembroke St., Middlesbrough, Yorks, Eng  | England.. | New W’minster. | Mar. 26,1915. |
+| 5 | 816 | 966 | 3873 | 1005 | Private  | 11th Regt.. | Hutton, W. H  | 1 Hamber St., Belfast Ire      | Ireland... | New W’minster. | Mar. 20,1915. |
+| 5 | 815 | 994 | 3873 | 1034 | Private  | 104th Regt. | Ironsides, Alexander  | Station Cottage, Peterhead, Aberdeen, Scot  | Scotland. | New W’minster. | Mar. 13,1915. |
+| 5 | 815 | 1024 | 3873 | 1063 | Private  | 104th Regt. | Irvin, Mrs. Ruth  | 355 Alberta St., Sapperton, B.C  | England.. | New W’minster. | Mar. 11,1915. |
+| 5 | 815 | 1053 | 3873 | 1092 | Private  | NU  | Irwin, Mrs. J  | Suite 1, 1526, 4th Ave. W., Vancouver, B.C  | Ireland... | New W’minster. | Mar. 26,1915. |
+| 5 | 814 | 1081 | 3873 | 1121 | L.-Corporal  | C.G.A  | Jackson,Isaac  | Cottam, Ont   | Canada... | New W'minster. | Mar. 15,1915. |
+| 5 | 1580 | 1117 | 3873 | 1151 |  | 72nd Regt.. | Jamieson, Mrs. Agnes  | 216 Rosemount Place, Aberdeen, Scot     | Scotland. | New W’minster. | Mar. 15,1915. |
+| 5 | 1580 | 1146 | 3873 | 1179 |  | C.G.A  | Jarvis, H. A  | P.O., Doddington, Kent, Eng  | England.. | New W’minster. | Mar. 15,1915. |
+| 5 | 1580 | 1175 | 3873 | 1209 |  | 6 th Regt... | Jenkins, Jacob  | 51 Watts Lane, Eastbourne, Eng  | England.. | New Wininstiy. | Mar. 18,1915. |
+| 5 | 1906 | 1205 | 3874 | 1237 |  |  | Johnston, James  | R.I.C., Antrim Rd., Belfast, Ire  | Ireland... | New W’minster. | Mar. 23,1915. |
+| 5 | 1906 | 1232 | 3873 | 1267 |  |  | Jones, Mrs. Maude Raisher. | 2837 Waterloo Rd., Vancouver, B.C  | England.. | New W’minster. | Mar. 16,1915. |
+| 5 | 811 | 1254 | 3874 | 1296 | Private  | 11th Regt. | Jones, Mrs. Jane  | 190 Oliver St., Birkenhead, Cheshire, Eng  | England.. | New W’minster. | Mar. 17,1915. |
+| 5 | 811 | 1283 | 3873 | 1324 | Private  |  | Jones, Mrs. L  | 404 Hastings St. E., Vancouver, B.C  | England.. | New W’minster. | Mar. 16,1915. |
+| 5 | 810 | 1311 | 3873 | 1353 | Private  |  | Joslin, Mrs. H  | 55 Federation Rd., Laira, Plymouth, Eng  | England.. | New W’minster. | Mar. 25,1915. |
+| 5 | 810 | 1341 | 3873 | 1382 | Private  | 104th Regt. | Keeves, James    | Mission City, B.C  | Canada... | New W'minster. | Mar. 23,1915. |
+| 5 | 809 | 1369 | 3873 | 1411 | Private  | 104th Regt. | Kerr, W. O  | 15th Ave. E., Burnaby, B.C  | Canada... | New W’minster. | Mar. 16,1915. |
+| 5 | 809 | 1398 | 3874 | 1440 | Private  | 104th Regt. | Kidwell, Mrs. Mary Jane  | MUford, Stafford, Eng  | England.. | New W’minster. | Mar. 11,1915. |
+| 5 | 809 | 1427 | 3873 | 1469 | Corporal  |  | King, W. E  | 19 Foxley Gdns., Purley, Surrey, Eng  | England.. | New W’minster. | Mar. 11,1915. |
+| 5 | 809 | 1456 | 3874 | 1498 | Private  |  | Emptage, Mrs  | 783 Pender St. E., Vancouver, B.C  | Canada... | New W’minster. | Mar. 23,1915. |
+| 5 | 1905 | 1494 | 3873 | 1527 |  |  | Lagac6, A  | Durieu, B.C  | Canada... | New W’minster. | Mar. 11,1915. |
+| 5 | 1905 | 1521 | 3874 | 1555 |  |  | Lambert, Mrs. Edith  | 25 Woodview, Manningham, Bradford, Yorks, Eng  | France... | New W’minster. | Mar. 15,1915. |
+| 5 | 808 | 1543 | 3874 | 1584 | Private  |  | Lamont, Herbert Charles... | R.C.R., Halifax, N.S  | England.. | New W’minster. | June 18,1915. |
+| 5 | 708 | 1571 | 3874 | 1613 | Private !  | A28675 | Lawton, Miss E  | 141 Manchester Rd., Rochdale, Lancs, Eng  | England.. | New W’minster. | Mar. 19,1915. |
+| 5 | 709 | 1600 | 3874 | 1642 | Private  | A28517 | Laxton, John H  | Mission City, B.C...  | England.. | New W’minster. | Mar. 13,1915. |
+| 5 | 707 | 1629 | 3873 | 1671 | a28518 |  | Laxton, John Henry  | Mission City, B.C  | Austria... | New W’minster. | Mar. 12,1915. |
+| 5 | 1904 | 1666 | 3874 | 1700 |  |  | Leathley, Thomas  | 49 Paisley St., Hull, Yorks, Eng  | England.. | New W’minster. | Mar. 18,1915. |
+| 5 | 707 | 1687 | 3873 | 1729 | Private  | A21676 | Legg, W. H  | 1638, 3rd Ave. E., Vancouver, B.C  | England.. | New W’minster. | Mar. 15,1915. |
+| 5 | 706 | 1715 | 3874 | 1758 | Private  | A28674 | Leitch, Robert I  | Femdrae, Newport, Fife, Scot  | Scotland. | New W’minster. | Mar. 18,1915. |
+| 5 | 706 | 1745 | 3874 | 1787 | Private  | A28102 | Levasseur, Mrs. A  | 123 St. Andrew St., Montreal, P.Q  | Canada.., | New W’minster. | Mar. 19,1915. |
+| 5 | 1904 | 1782 | 3874 | 1816 |  |  | Lewtas, Mrs. Emma  | R.F.D. No. 1, Kennewick, Wash., U.S.A  | Canada.., | New W’minster. | Mar. 17,1915. |
+| 5 | 1904 | 1811 | 3874 | 1845 |  |  | Lindsay, James  | 1020 Robson St., Vancouver, B.C  | Scotland. | New W’minster. | Mar. 10, 1915. |
+| 5 | 706 | 1830 | 3874 | 1874 | Sergeant  | A29565 | Lupton, Hugh    | 143 Portsdown Rd., Maida Vale, London W., Eng  | England.. | New W’minster. | Mar. 25,1915. |
+| 5 | 1904 | 1867 | 3874 | 1903 |  |  | McAdam, Mrs. Elsie  | 10 Burnside St., Rothes, Scot  | Scotland. | New W’minster. | Mar. 16,1915. |
+| 5 | 1904 | 1898 | 3874 | 1932 |  |  | McAskill, Hector  | 9 Fire St., Inverness, Scot.   | Scotland. | New W’minster. | Mar. 17,1915. |
+| 5 | 1904 | 1925 | 3874 | 1961 |  |  | McClelland, Mrs. Sarah  | 410 Pender St. W., Vancouver, B.C  | Canada.. | New W’minster. | Mar. 13,1915. |
+| 5 | 1904 | 1952 | 3875 | 1990 |  |  | McClelland, Mrs. N. F  | P.O.r Ardley, B.C  | Canada.. | New W’minster. | Mar. 13,1915. |
+| 5 | 1903 | 1984 | 3875 | 2019 |  |  | McCord, Joseph  | 49 Downing St., Belfast, Ire  | Ireland... | New W’minster. | Mar. 15,1915. |
+| 5 | 705 | 2004 | 3874 | 2048 | Private  | a29272 | McCulloch, James  | Steveston, B.C  | Canada.. | New W’minster, | April 8,1915. |
+| 6 | 464 | 381 | 3657 | 416 | A28095/Private (McDermott, William |72nd Regt. |  |  | McDermott, Clement.. | 1037,16th Ave. E., Vancouver, B.C  | England  | New W'minster. | Mar. 13,1915. |
+| 6 | 462 | 408 | 3658 | 446 | A28685jPrivate (McDonald, John Duncan 11th Regt. |  |  | McDonald, Mrs. G  | Porter’s HU1, Ont  | Canada  | New W’minster. | Mar. 23,1915. |
+| 6 | 461 | 438 | 3659 | 476 | 428795(Private (McDonald, Malcolm Ronald |  | NU. | McDonald, Alexander.. | 40 Garrabost, Stornoway, Scot  | Scotland  | New W’minster. | May 5,1915. |
+| 6 | 458 | 465 | 3659 | 504 | a28080 Private (Mackay, Alexander Sinclair W |  | 72nd Regt. | Mackay, John Mitchell. | P.W.W., Poona, India  | England  | New W’minster. | Mar. 12,1915. |
+| 6 | 455 | 494 | 3659 | 533 | a28734(Private iMcKenzie, Donald |  | 72nd Regt. | McDonald, Mrs. A. K.. | Colman Dock, Seattle, Wash., U.S.A  | Scotland  | New W’minster. | Mar. 19,1915. |
+| 6 | 454 | 523 | 3660 | 562 | A28688(Private MacLean, Archie |  | 11th Regt. | MacLean, John  | Loch Eport, Inverness, Scot   | Scotland  | New W’minster. | Mar. 19,1915. |
+| 6 | 450 | 553 | 3661 | 594 | A28689(Private McLaren, John |  | 11th Regt.. | McLaren, Mrs. J  | 3272 Prince Edward St., Vancouver, B.C   | Scotland  | New W’minster. | Mar. 23,1915. |
+| 6 | 449 | 582 | 3662 | 621 | A28536|Private [McLaughlin, Joseph |  | 104th Regt. | [McLaughlin, John. | Mission City, B.C  | England  | New W’minster. | Mar. 11,1915. |
+| 6 | 447 | 608 | 3662 | 643 | a28579 Private iMacLellan, Edwin Raymond |  | 72nd Regt MacLellan, Mrs. D. R  |  | Shelburne, N.S  | Canada  | New W’minster. | Mar. 16,1915. |
+| 6 | 445 | 638 | 3663 | 679 | A28231 [Private (McLellan, Thomas Forbes |  | 72nd Regt (McLellan, Daniel  |  | Parkside Villa, Mt. Vernon, Glasgow, Scot  | Scotland  | New W’minster. | Mar. 22,1915. |
+| 6 | 445 | 668 | 3664 | 708 | *28099 Private iMacleod, Angus |  | 72nd Regt (MacLeod, Goerge  |  | 21 Aird, Tongue, Stornoway, Scot  | Scotland  | New W’minster. | Mar. 12,1915. |
+| 6 | 440 | 697 | 3664 | 736 | A28732|Private (McLeod, James |  | 72nd Regt (McLeod, Mrs. Agnes  |  | 5 Grove St., Edinburgh, Scot  | Scotland  | New W’minster. | June 9,1915. |
+| 6 | 437 | 728 | 3665 | 760 | a28686/Private IMcRae, George, |  | 11th Regt McRae, Mrs. M  |  | 1137, 10th Ave. E., Vancouver, B.C  | Canada  | New W’minster. | Mar. 19,1915. |
+| 6 | 436 | 756 | 3665 | 789 | a29685 I Private IMcVeigh, Thomas |  | 11th Regt McVeigh, Mrs '. |  | 3 Strand Rd., Londonderry, Ire  | Ireland  | New W’minster. | Mar. 17,1915. |
+| 6 | 433 | 784 | 3666 | 826 | A28690(Private IMcWilliam, James |  | 11th Regt (Gordon, Mrs  |  | Aberlour, Banff, Scot  | Scotland  | New W’minster. | Mar. 19,1915. |
+| 6 | 431 | 814 | 3667 | 847 | a29238 Private iManson, Peter |  | 72nd Regt IManson, Andrew  |  | Tongue, Sutherland, Scot i    | Scotland  | New W’minster. | Mar. 18,1915. |
+| 6 | 429 | 843 | 3667 | 880 | a28677 Private (Mason, Roy |  | 11th Regt [Mason, Mrs. J  |  | 46, 26th Ave. W., South Vancouver, B.C  | Canada...'  | New W'minster. | Mar. 19,1915. |
+| 6 | 428 | 874 | 3668 | 914 | 428681 r ‘ | I Private [Matthews, Thomas  | 11th Regt IMatthews, Mrs. Z  |  | 12 Wingfield Rd., Stratford, London E., Eng  | England  | New W’minster. | Mar. 20,1915. |
+| 6 | 424 | 901 | 3668 | 943 | A28525 1 | i Private May, Frederick Arthur  | 104th Regt |May, Mrs. Sarah Hannah. |  | 406 First St., New Westminster, B.C  | England  | New W’minster. | Mar. 11,1915. |
+| 6 | 422 | 930 | 3669 | 973 | A29672 ] | ! Private (Meade, John  | 11th Regt (Meade, James  |  | Pontypridd, S. Wales  | Ireland  | New W’minster. | Mar. 16,1915. |
+| 6 | 421 | 960 | 3670 | 1001 | A28291 | I Private |Mee, John James  | Imp. Forces (Elliot, Mrs. Sarah  |  | 815 Hamilton St., Vancouver, B.C  | Ireland  | New W’minster. | April 12,1915. |
+| 6 | 417 | 992 | 3670 | 1031 | A28528 | I Private (Milburn, Ernest Edward   | 104th Regt IMilburn, E  |  | Mission City, B.C  | U.S.A  | New W’minster. | Mar. 11,1915. |
+| 6 | 415 | 1019 | 3671 | 1061 | a28601 | [ Private [Millar, David  | 72nd Regt (Millar, Mrs. David  |  | 5 Glebe St., Dundee, Scot  | Scotland  | New W'minster. | Mar. 18,1915. |
+| 6 | 414 | 1046 | 3671 | 1090 | *28522 : | ! Private (Millar, Frederick Gavin  | 104th Regt (Millar, A  |  | 246 George St., Toronto, Ont  | Canada  | New W’minster. | Mar. 11,1915. |
+| 6 | 412 | 1077 | 3671 | 1117 | A28523 ; | ’ Private (Mills, Robert George  | 104th Regt Mills, J  |  | 1029 Andrew St., New Westminster, B.C  | Canada  | New W’minster. | Mar. 11,1915. |
+| 6 | 409 | 1108 | 3672 | 1148 | A28078(Private (Mitchell, Charles Frederick C.. |  | 72nd Regt (Mitchell, Victor WUliam.. |  | 810 Park Rd., Vancouver, B.C  | Canada  | New W’minster. | Mar. 12,1915. |
+| 6 | 407 | 1137 | 3673 | 1177 | A28682(Private (Monger, James  |  | 11th Regt (Puhraty, Mrs. Mary  |  | G.P.O., Point Grey, Vancouver, B.C  | England  | New W’minster. | Mar. 15,1915. |
+| 6 | 405 | 1167 | 3673 | 1206 | A29067|Private Mooney, Hugh.. |  | C.G.A Roy, Mrs. E  |  | Cadboro Bay, B.C.  | Scotland  | New W’minster. | Mar. 15,1915. |
+| 6 | 402 | 1197 | 3674 | 1235 | A28534|Private.. | Moore, Cyril Leslie  | 104th Regt iMoore, Mrs. Elizabeth  |  | The Hall, Marshchapel, Lines, Eng  | England  | New W’minster. | Mar. 12,1915. |
+| 6 | 400 | 1227 | 3674 | 1266 | A28521 (Private.. | Morrison, Donald  | Nil Morrison, Mrs. A  |  | Bishopbriggs, Lanark, Scot  | Scotland  | New W’minster. | Mar. 10,1915. |
+| 6 | 398 | 1256 | 3675 | 1295 | A28603|Private.. | Morrison, Murdock   | 72nd Regt Morrison, Kenneth  |  | 37 Fifth St., Stornoway, Scot  | Scotland  | New W’minster. | Mar. 17,1915. |
+| 6 | 396 | 1286 | 3675 | 1325 | A28678(Private.. | Morrison, Peter  | 11th Regt Morrison, Angus  |  | Port Charlotte, Islay, Scot  | Scotland  | New W’minster. | Mar. 20,1915. |
+| 6 | 394 | 1318 | 3676 | 1360 | A28087 Private. . | Moyls, William Henry  | 72nd Regt [Moyls, F.:  |  | 4,13th Ave., Vancouver, B.C  | Canada  | New W’minster. | Mar. 17,1915. |
+| 6 | 393 | 1346 | 3677 | 1389 | 428001 (Sergeant., | Munn, Harry Archibald D. | 104th Regt |Munn, Angus  |  | New Westminster, B.C  | Canada  | New W’minster. | Mar. 10,1915. |
+| 6 | 390 | 1377 | 3677 | 1419 | A28765(Private... | Murray, Angus Allan H  | 72nd Regt (Murray, Mrs. E. E  |  | Fairoak Lodge, Bishopstoke, Hants, Eng  | England  | New W’minster. | Mar. 30, 1915. |
+| 6 | 387 | 1407 | 3678 | 1442 | a28287 Private... | Musham, Sidney Donald... | 72nd Regt iMusham, H  |  | Suite 23, Beaconsfield Apts., Vancouver, B.C  | England  | New W’minster. | April 8,1915. |
+| 6 | 387 | 1437 | 3679 | 1475 | 428544(Corporal.. | Neilson, Frank John  | S.A iNeUson, Mrs. Isabella  |  | 17th Ave. E., Burnaby, B.C  | England  | New W’minster. | Mar. 16, 1915. |
+| 6 | 383 | 1468 | 3679 | 1510 | A28542 Private... | Newsome, Ernest  | 104th Regt [Newsome, John..   |  | 214, 6th Ave., New Westminster, B.C  | England  | New W’minster. | Mar. 16,1915. |
+| 6 | 381 | 1497 | 3680 | 1539 | A29128 Private... | Norquay, Gordon  | 6th Regt I Norquay, S  |  | 408 McGregor St., Winnipeg, Man  | Canada  | New W’minster. | Mar. 23,1915. |
+| 6 | 378 | 1528 | 3680 | 1562 | a29248 Sergeant.. | Norris, Thomas Grantham. | C.G.A iNorris, Mrs. Marianne  |  | 2122 Cook St., Victoria, B.C  | Canada  | New W’minster. | Mar. 31,1915. |
+| 6 | 376 | 1558 | 3681 | 1599 | A28543 | Private.. | Northcott, John Andrew  | 104th Regt (.Northcott, Mrs. Elizabeth. | Cattedown, Plymouth, Eng  | England  | New W’minster. | Mar. 16,1915. |
+| 6 | 375 | 1588 | 3681 | 1624 | a28783 | Private.. | Oliver, Walter Miller  | 104th Regt lOliver, Mrs. K  | 524 Columbia St., New Westminster, B.C  | Scotland  | New W’minster. | April 12,1915. |
+| 6 | 372 | 1619 | 3683 | 1663 | a28592 | Private.. | Oman, John  | 72nd Regt (Oman, Mrs. W  | High St., Wick, Scot  | Scotland  | New W'minster. | Mar. 16,1915. |
+| 6 | 370 | 1649 | 3683 | 1690 | a28585 | Private.. | ’Neil, Henry  | 72nd Regt [Wiseman, Mrs. Josephine  | 728 Champion St., Quebec, P.Q  | Canada  | New W’minster. | Mar. 16,1915. |
+| 6 | 366 | 1680 | 3684 | 1717 | A28692 | Private.. | O’Neil, James Joseph  | 11th Regt iRobertson, Mrs. S  | Marquette, Mich., U.S.A  | Ireland  | New W’minster. | Mar. 19,1915. |
+| 6 | 367 | 1710 | 3684 | 1752 | 428781 | Private.. | Owen, Charles  | 72nd Regt |Owen, Abdulla  | 512 Main St., Vancouver, B.C  |  | New W’minster. | April 8,1915. |
+| 6 | 363 | 1715 | 3684 | 1778 | a28546 Private.. | Oxenham, John Charles  | 104th Regt IWalker, Mrs. Susan  |  | R.M.D No. 2, Cloverdale, B.C.  | SSS:::::::::: | New W’minster. | Mar. 11,1915. |
+| 6 | 362 | 1772 | 3685 | 1809 | A28695 Private.. | Patterson, Alexander John... | 11th Regt IPatterson, Frederick  |  | Gaspe South, P.Q  | Canada  | New W’minster, | Mar. 20,1915. |
+| 6 | 360 | 1803 | 2960 | 1840 | a28075 Private.. | Patterson, David Boyd A  | 72nd Regt IPatterson, Evan  |  | c/o 3rd Mounted Rifles, “A” Squad., No. 165, Medicine |
+| 6 | 2206 | 1833 | 3686 | 1867 |  |  |  |  | Hat, Alta  | Scotland  | New W’minster. | Mar. | 12, 1915. |
+| 6 | 353 | 1864 | 3687 | 1904 | A28552 Private.. | Pearson, Thomas Roy.  | 104th Regt IPearson, T. R  |  | New Westminster, B.C  | Canada  | New W’minster. | Mar. | 10.1915. |
+| 6 | 353 | 1895 | 3688 | 1935 | A29696 Private.. | Peebles, Robert  | 11th Regt (Peebles, John  |  | Friarton Hospital, Edinburgh Rd., Perth, Scot  | Scotland  | New W’minster. | Mar. | 17.1915. |
+| 6 | 350 | 1927 | 3688 | 1969 | a29765 Private  | Phillips, Edward  | 72nd Regt [Phillips, Mrs. Margaret. |  | 7 Ethel Terr., Castletown, Sunderland, Eng  | England  | New W’minster, | Mar. | 31.1915. |
+| 6 | 348 | 1958 | 3688 | 2004 | a28693 Private  | Phillips, Percy James  | 11th Regt [Phillips, H. R  |  | 37 Rodney Rd., Gt. Yarmouth, Eng  | England  | New W’minster, | Juno | 9.1915. |
+| 6 | 345 | 1988 | 3689 | 2029 | a28553 Private  | Poel, Harold Ernest L  | 104th Regt iPoel, Arthur  |  | 303 Durham St., New Westminster, B.C  | England  | New W’minster. | Mar. | 15.1915. |
+| 6 | 343 | 2020 | 3690 | 2067 | A2976l(Private  | Pollock, Robert  | 72nd Regt (Pollock, Robert  |  | R.M.D No. 1, Ladysmith, B.C  | Canada  | New W’minster. | Mar. | 31.1915. |
+| 6 | 342 | 2051 | 3691 | 2097 | 428230(L.-Corporal. | Porter, Arthur Frederick G. | 72nd Regt Porter, Mrs. Annie A  |  | 1817 Commercial Drive, Vancouver, B.C  | England  | New W’minster. | Mar. | 18.1915. |
+| 6 | 339 | 2082 | 3691 | 2122 | a28776 Private.. | Pow, Thomas.    | Nil.  I^ow, William  |  | Newton St., Edinburgh, Scot  | Scotland  | New W’minster, | April | 7.1915. |
+| 6 | 336 | 2113 | 3692 | 2154 | 428771 Private.. | Powell, Thomas Gerald. | Nil Powell  |  | Ripon, Yorks, Eng  | England  | New W’minster, | Mar. | 30.1915. |
+| 6 | 335 | 2145 | 3693 | 2186 | 428793lPrivate iRadley, Ralph Raymond |  | Nil IRadley, Mrs. Edith  |  | P.O., Castledale, B.C  | U.S.A  | New W’minster | May | 5.1915. |
+| 7 | 900 | 531 | 3376 | 562 |  |  | Former Corps. |  |  | Country of |
+| 7 | 713 | 676 | 3870 | 706 | a28756 | Rankin, David  | Nil  | Rankin, John  | 151, 39th Ave. E., South Vancouver, B.C  | Scotland. | New W’minster. | Mar. | 1915. |
+| 7 | 713 | 706 | 3870 | 736 | 428505 | Rashleigh, Donald Sadlier  | R.N.W.M.P. | Rashleigh, Frances Mary.. | New Westminster, B.C  | England.. | New W’minster. | Mar. | 1915. |
+| 7 | 713 | 734 | 3870 | 765 | 428560 | Rawlings, Harry George  | 104th Regt.. | Rawlings, Mrs. H. G  | Edmonds, B.C  | England.. | New W’minster. | Mar. | 1915. |
+| 7 | 712 | 763 | 3870 | 795 | A28704 | Reagar, Albert William  | 11th Regt... | Rutherford, Mrs. G  | 551 Hornby St., Vancouver, B.C  | Canada... | New W’minster. | Mar. | 1915. |
+| 7 | 712 | 793 | 3870 | 823 | A29567 | Reid, David Reginald  | C.G.A  | Reid, Samuel  | 123 Simcoe St., Victoria, B.C  | Canada... | New W’minster. | Mar. | 1915. |
+| 7 | 713 | 822 | 3870 | 853 | *28073 | Reid, John Deighton  | C.G.A  | Reid, Samuel N  | Butler Hotel, Seattle, Wash., U.S.A  | Canada... | New W’minster. | Mar. | 1915. |
+| 7 | 711 | 848 | 3870 | 881 | a28506 | Rennie, Charles Hilliman  | 104th Regt.. | Rennie, Mrs. .G. H  | 365 Keary St., New Westminster, B.C  | Canada... | New W'minster. | Mar. | 1914. |
+| 7 | 710 | 880 | 3870 | 911 | a29097 | Richardson, Herbert Arderne. | 72nd Regt... | Richardson, George McG.. | 14 Seabank Rd., Egremont, Cheshire, Eng  | England.. | New W’minster. | Mar. | 1915. |
+| 7 | 710 | 908 | 3870 | 940 | a28759 | Robertson, Alexander  | Territorials.. | Robertson, Miss E  | 49 Ramparts, Quebec, P.Q  | Scotland. | New W’minster. | Mar. | 1915. |
+| 7 | 710 | 938 | 3870 | 969 | a28705 | Robertson, George Henry  | 11th Regt... | Robertson, Andrew  | R.R. No. 2, Breadalbane, P.E.I   | Canada... | New W’minster. | Mar. | 1915. |
+| 7 | 710 | 968 | 3870 | 998 | a28562 | Robertson, Hugh  | 104 th Regt.. | Robertson, James  | 366 Simpson St., Sapperton, B.C  | Scotland. | New W'minster. | Mar. | 1915. |
+| 7 | 710 | 996 | 3870 | 1027 | 428258 | Rogers, James  | Nil  | Hailwood, Mrs  | 39 Draycott St., Liverpool, Eng  | England.. | New W’minster. | Mar. | 1915. |
+| 7 | 709 | 1025 | 3870 | 1057 | a28561 | Rose, Ernest James  | 104 th Regt.. | Rose, Arthur  | 31 Suffolk Rd., Ipswich, Eng  | England.. | New W’minster. | Mar. | 1915. |
+| 7 | 710 | 1055 | 3870 | 1086 | 429506 | Rose, Joseph Harold  | 104th Regt.. | Rose, Abraham  | Sycamore St., Manchester, Eng  | England.. | New W’minster. | Mar. | 1915. |
+| 7 | 708 | 1083 | 3870 | 1114 | a28077 | Ross, Douglas Nicol  | 72nd Regt... | Ross, WUliam  | 2036, 1st Ave. E., Vancouver, B.C  | Scotland. | New W'minster. | Mar. | 1915. |
+| 7 | 708 | 1112 | 3870 | 1143 | a28090 | Satterfield, Harold  | 72nd Regt... | Satterfield, Mrs. Florence.. | 2603 McKenzie St., Vancouver, B.C  | Uruguay. | New W’minster. | Mar. | 1915. |
+| 7 | 708 | 1141 | 3870 | 1173 | A29806 | Sauve, Angus  | 104th Regt.. | Sauve, Mrs. Olida  | 1219 St. James St., Montreal, P.Q  | Canada... | New W’minster. | June | 1915. |
+| 7 | 709 | 1171 | 3870 | 1201 | a28254 | Scatterty, Alexander  | Can. Mil  | Scatterty, Mrs. M. J  | 52 Murano St., Glasgow, Scot  | Scotland. | New W’minster. | Mar. | 1915. |
+| 7 | 708 | 1196 | 3977 | 1231 | a28708 | Seamer, Henry  | 11th Regt... | Seamer, Mrs. S  | 709 Strathcona St., Winnipeg, Man  | England.. | New W’minster. | Mar. | 1915. |
+| 7 | 709 | 1228 | 3870 | 1260 | 428278 | Seymour, Dudley Guilford  | Nil  | Seymour, Edward John G. | 2162 Empress St., Victoria, B.C  | Canada... | New W’minster. | April | 1915. |
+| 7 | 707 | 1257 | 3870 | 1290 | A29236 | Simpson, William  | 72nd Regt  | Lyon, Mrs  | 7 Patriot Hall, Edinburgh, Scot  | Scotland. | New W’minster. | Mar. | 1915. |
+| 7 | 705 | 1287 | 3870 | 1317 | A29240 | Sims, James  | 72nd Regt  | Sims, Alec  | Blairmore, Alta  | Scotland. | New W’minster. | Mar. | 1915. |
+| 7 | 706 | 1316 | 3870 | 1348 | a28587 | Smith, Alexander  | 72nd Regt  | Smith, Mrs. Marion  | 141 Dumbiedykes Rd., Edinburgh, Scot  | India  | New W’minster. | Mar. | 1915. |
+| 7 | 706 | 1344 | 3870 | 1376 | a28663 | Smith, Robert  | 6 th Regt  | Smith, W  | Logy-farm, Banff, Scot  | Scotland. | New W’minster. | Mar. | 1915. |
+| 7 | 705 | 1373 | 3870 | 1405 | a28020 | Smith, Thomas Edward  | 104th Regt... | Smith, J. B  | 256 High St., Great Hartford, Bradford, Yorks, Eng.. | England.. | New W'minster. | Mar. | 1915. |
+| 7 | 705 | 1401 | 3870 | 1434 | a28707 | Snowden, Charles   | 11th Regt.... | Kitchen, Mrs. W. L  | 2415 White St., Port Huron, Mich., U.S.A  | Canada... | New W'minster. | Mar. | 1915. |
+| 7 | 705 | 1431 | 3870 | 1462 | a28787 | Stanley, John Robert  | Nil  | Stanley, Robert  | Newport, B.C  | Canada... | New W’minster. | April | 1915. |
+| 7 | 704 | 1460 | 3870 | 1491 | a2859S | Stevenson, George Henry  | 72nd Regt  | Covell, Mrs. S  | Not stated    | England.. | New W’minster. | Mar. | 1915. |
+| 7 | 704 | 1488 | 3870 | 1522 | a28706 | Stewart, John  | 11th Regt.... | Stewart, Andrew  | Broomhill Drive, Partick, Glasgow, Scot  | Scotland. | New W’minster. | Mar. | 1915. |
+| 7 | 704 | 1517 | 3870 | 1550 | a28712 | Swadden, Henry  | 11th Regt  | Swadden, Mrs. H  | 659 Hastings St. E., Vancouver, B.C  | England.. | New W’minster. | June | 1915. |
+| 7 | 703 | 1547 | 3172 | 1580 | a29290 | Sweatman, Eric Andrews  | NU  | Sweatman, H. C  | Repton, Bulstrode Way, Gerrard’s Cross, South Bucks, |
+| 7 | 2451 | 1577 | 3870 | 1608 |  |  |  |  | Eng  | England.. | New W’minster. | June 9 | 1915. |
+| 7 | 703 | 1608 | 3172 | 1638 | a29100 | Sweatman, Percy Emanuel. | 72nd Regt. | Sweatman, H. C  | Repton, Bulstrode Way, Gerrard’s Cross, South Bucks, |
+| 7 | 2451 | 1634 | 3870 | 1666 |  |  |  |  | Eng  | England  | New W'minster. | Mar. | 1915. |
+| 7 | 702 | 1663 | 3870 | 1696 | a29719 | Thompson, Robert Dougald  | 11th Regt  | Thompson, WUliam  | Bellshill, Lanark, Scot  | Scotland  | New W'minster. | Mar. | 1915. |
+| 7 | 701 | 1692 | 3870 | 1725 | a28761 | Thomson, Charles Scrymgeour.... | 72nd Regt  | Thomson, Mrs. Jemima.. | Hawthorn Bank, Albert St., Tayport, Scot  | Scotland  | New W'minster. | Mar. | 1915. |
+| 7 | 701 | 1721 | 3869 | 1754 | a29088 | TUley, Arthur  | 72nd Regt  | TUley, George  | Stonehouse, Glos, Eng  | England  | New W’minster. | Mar. | 1915. |
+| 7 | 701 | 1750 | 3870 | 1784 | a29091 | Turner, William George  | 72nd Regt  | Turner, WiUiam  | 210 Tinmouth Rd., St. Mary’s Church, Torquay, Eng. | England  | New W’minster. | Mar. | 1915. |
+| 7 | 700 | 1779 | 3869 | 1812 | a29610 | Waddell, James  | 6th Regt  | Waddell, Mrs. Elizabeth. | 58 Westmoreland St., Glasgow, Scot  | Scotland  | New W’minster. | Mar. | 1915. |
+| 7 | 700 | 1808 | 3870 | 1841 | A28723 | Walden, Charles  | 11th Regt  | Walden, Mrs. S  | 76 Amity Grove, Cottenham Pk., Wimbledon, Eng  | England  | New W’minster. | Mar. | 1915. |
+| 7 | 699 | 1837 | 3870 | 1870 | a28758 | Walker, John Malcolm  | NU  | Walker, Robert  | 570 Richards St., Vancouver, B.C  | England  | New W’minster. | Mar. | 1915. |
+| 7 | 699 | 1866 | 3869 | 1898 | a29237 | Walker, Robert Cumming  | 72nd Regt  | Walker, Alexander  | P.O., Central Park, B.C  | Scotland  | New W’minster. | Mar. | 1915. |
+| 7 | 700 | 1896 | 3869 | 1927 | 428721 | Wallace, Alexander F  | 11th Regt  | Wallace, George - | 2124 Graveley St., Vancouver, B.C  | Scotland  | New W’minster. | Mar. | 1915. |
+| 7 | 698 | 1923 | 3870 | 1956 | a29098 | Wardrop, Robert  | 72nd Regt  | Wardrop, John   | 28 Stratford St., Glasgow, Scot  | Scotland  | New W’minster. | Mar. | 1915. |
+| 7 | 697 | 1954 | 3870 | 1985 | A28802 | Warman, Ernest George  | NU  | Gilham, Mrs. John   | Derby Cottage, 27 Strind St., Sandwich, Kent, Eng... | England  | New W’minster. | May | 1915. |
+| 7 | 697 | 1983 | 3870 | 2014 | a28949 | Warman, William Henry  | Nil  | Gilham, Mrs. John   | Sandwich, Kent, Eng    | England  | New W’minster. | June | 1915. |
+| 7 | 697 | 2011 | 3870 | 2043 | a28745 |  | C.G.A  | Waterson, H. G  | 929 Empress Ave., Victoria, B.C  | Canada  | New W'minster. | April | 1915. |
+| 7 | 696 | 2041 | 3870 | 2074 | a28042 |  | 104 th Regt  | Watt, Mrs. Margaret  | Scalloway, Shetland Isles, Scot  | Scotland  | New W’minster. | Mar. | 1915. |
+| 7 | 695 | 2069 | 3870 | 2102 | a28574 |  | 72nd Regt  | Weissman, S  | 38 Hillside PL, Newark, N.J., U.S.A  | U.S.A  | New W'minster. | Mar. | 1915. |
+| 8 | 413 | 471 | 3567 | 507 | A28801 | Private, | Wheatley, Robert John | Nil  | Wheatley, Mrs. I  | 25, 5th Ave. W., Vancouver, B.C  | Canada. | New W’minster. | May | 14.1915. |
+| 8 | 412 | 501 | 3567 | 535 | A28722 | Private. | Whicher, Frederick.... | 11th Regt.. | , Whicher, Mrs. L  | 10 Clarence Rd., Croydon, Surrey, Eng  | England | New W’minster. | Mar. | 19.1915. |
+| 8 | 411 | 526 | 3567 | 564 | A28288 | Private. | Whitlam, Frederick... | Territorials. | . Whitlam, Mrs. M  | 2 Celia Rd., Tottenham Pk., London E., Eng  | England | New W’minster. | April | 9,1915. |
+| 8 | 411 | 560 | 3566 | 593 | A28718 | Private. | Wibberley, Edward  | 11th Regt.. | . Wibberley, Mrs. Ada. | Mason's Arms, High St., Finedon, Northants, Eng  | England | New W’minster. | Mar. | 18.1915. |
+| 8 | 411 | 589 | 3566 | 623 | A28050 | Private. | Wilson, James Wilkie.. | 104th Regt.. | . Wilson, Thomas  | R.M.D No. 1, New Westminster, B.C  | Canada. | New W’minster. | Mar. | 11.1915. |
+| 8 | 411 | 618 | 3567 | 652 | A28236 | Private. | Wilson, Richard  | 72nd Regt.. | . Barnard, Mrs  | 74 Harleyford Rd., Vauxhall, London, Eng  | England | New W’minster. | Mar. | 19.1915. |
+| 8 | 411 | 647 | 3567 | 681 | 429081 | Private. | Winter, Wallace James. | 72nd Regt.. | . Roe, Miss G  | Coppice Rd., Birmingham, Eng  | England | New W’minster. | Mar. | 17.1915. |
+| 8 | 410 | 677 | 3566 | 708 | A28725 | Private. | Yeomans, Harry  | 11th Regt.. | . Yeomans, Mrs. H. ■ ■ ■ | 49 Flaxton Rd., Plumstead, Eng  | England | New W’minster. | Mar. | 19.1915. |
+| 8 | 1596 | 906 | 3564 | 936 |  |  |  |  | Jackson, Mrs. Thomas. .H  |  |  | New W’minster. | Mar. 25,1915. |
+| 8 | 1598 | 935 | 3564 | 963 |  |  |  |  | McLelan G. W  |  |  | New W’minster. | April 25,1915. |
+| 8 | 1273 | 964 | 3564 | 992 |  |  |  |  |  |  |  | New W’minster. | S. A.... | Mar. 24,1915. |
+| 8 | 1272 | 1107 | 3564 | 1137 |  |  |  |  |  |  |  | New W’minster. | Nil.... | Voe, Shetland Islands, Scot  | April 14,1915. |
+| 8 | 2098 | 1136 | 3564 | 1165 |  |  |  |  |  |  |  | New W’minster. | Garston Manor, Watford, Eng  | Mar. 22,1915. |
+| 8 | 2886 | 1165 | 3563 | 1194 |  |  |  |  |  |  |  | New W’minster. | U.S.A  | Mar. 12,1915. |
+| 8 | 2096 | 1252 | 3563 | 1282 |  |  |  |  |  |  |  | New W’minster. | Burquitlam, B.C    | Mar. 13,1915. |
+| 8 | 2098 | 1310 | 3667 | 1342 |  |  |  |  |  |  |  | New W’minster. | 13A Shaws Brow, Kendal, Westmorland, Eng  | Mar. 18,1915. |
+| 8 | 2095 | 1339 | 3668 | 1368 |  |  |  |  |  |  |  | New W’minster. | 920 Rogers Bldg., Vancouver, B.C  | Mar. 12,1915. |
+| 8 | 2095 | 1368 | 3563 | 1397 |  |  |  |  |  |  |  | New W'minster. | 747 Hastings St. E., Vancouver, B.C  | Mar. 23,1915. |
+| 8 | 1268 | 1398 | 3563 | 1427 |  |  |  |  |  |  |  | New W’minster. | C.G.A  | Mar. 26,1915. |
+| 8 | 1592 | 1427 | 3563 | 1457 |  |  |  |  |  |  |  | New W’minster. | Bacon, A. A  | Mar. 20,1915. |
+| 8 | 1268 | 1544 | 3562 | 1572 |  |  |  |  |  |  |  | New W’minster. | Nil.... | Mar. 10,1915. |
+| 8 | 399 | 1600 | 3562 | 1630 |  |  |  |  |  |  |  | New W’minster. | Thetis, Hunstantan, Norfolk, Eng  | 428121 | Mar. 20,1915. |
+| 8 | 2096 | 1629 | 3562 | 1659 |  |  |  |  |  |  |  | New W’minster. | Glentonvale, Morland, Westmorland, Eng  | Mar. 23,1915. |
+| 8 | 2097 | 1687 | 3562 | 1717 |  |  |  |  |  |  |  | New W’minster. | Dramrossie Cottage, Insch, Aberdeen, Scot  | Mar. 18,1915. |
+| 8 | 498 | 1716 | 3562 | 1745 |  |  |  |  |  |  |  | New W’minster. | Private  | 290 Hammersby Rd., Subiaco, W. Australia  | Mar. 19,1915. |
+| 8 | 398 | 1746 | 3562 | 1775 |  |  |  |  |  |  |  | New W’minster. | 429284 | May 6,1915. |
+| 8 | 399 | 1775 | 3562 | 1804 |  |  |  |  |  |  |  | New W’ninster. | 428182 | Mar. 20,1915. |
+| 8 | 398 | 1804 | 3562 | 1833 |  |  |  |  |  |  |  | New W’minster. | 429171 | Mar. 17,1915. |
+| 8 | 397 | 1833 | 3562 | 1862 |  |  |  |  |  |  |  | New W’minster. | Nil.... | 429774 | April 10,1915. |
+| 8 | 398 | 1861 | 3562 | 1891 |  |  |  |  |  |  |  | New W’minster. | 12 Tyllwyd PL, Newbridge, Wales  | 429175 | Mar. 20,1915. |
+| 8 | 398 | 1890 | 3562 | 1920 |  |  |  |  |  |  |  | New W’minster. | Brill, Mrs. D  | 1526 Victoria Drive, Vancouver, B.C  | 428187 | Mar. 16,1915. |
+| 8 | 397 | 1921 | 3562 | 1949 |  |  |  |  |  |  |  | New W’minster. | 429170 | Mar. 18,1915. |
+| 8 | 396 | 1949 | 3561 | 1978 |  |  |  |  |  |  |  | New W’minster. | 71 Paragon Rd., Mare St., Hackney, London N.E., Eng. | 429172 | Mar. 24,1915. |
+| 8 | 397 | 1978 | 3562 | 2008 |  |  |  |  |  |  |  | New W’minster. | Westmoreclaw, Pa., U.S.A  | 428175 | Mar. 20,1915. |
+| 8 | 396 | 2007 | 3561 | 2037 |  |  |  |  |  |  |  | New W’minster. | Ingersoll, Ont  | 428186 | Mar. 18,1915. |
+| 8 | 396 | 2038 | 3561 | 2066 |  |  |  |  |  |  |  | New W’minster. | 429521 | Mar. 23,1915. |
+| 8 | 395 | 2067 | 3561 | 2095 |  |  |  |  |  |  |  | New W’minster. | 429534 | Mar. 11,1915. |
+| 8 | 396 | 2096 | 3561 | 2124 |  |  |  |  |  |  |  | New W’minster. | 428134 | Mar. 15,1915. |
+| 8 | 395 | 2124 | 3561 | 2153 |  |  |  |  |  |  |  | New W’minster. | Pictou, N.S  | 429183 | Mar. 16,1915. |
+| 8 | 396 | 2155 | 3561 | 2182 |  |  |  |  |  |  |  | New W’minster. | Cameron, E. H...........    | 429191 | Mar. 18,1915. |
+| 8 | 395 | 2183 | 3353 | 2214 |  |  |  |  |  |  |  | New W’minster | Smith, Mrs. Annie  | Private  | Campbell, John Stuart  | 104 th Regt  | 429535 |
+| 9 | 727 | 554 | 3389 | 607 | II |
+| 9 | 1916 | 716 | 3879 | 751 |  | Campbell, Mrs. W  | 29 Argo wan Place, Glasgow, Scot Scotland— | New | W’minster | Mar. 16, | 915. |
+| 9 | 1916 | 746 | 3879 | 780 |  | Campbell, Mrs. A. T  | Price Rd., Burnaby, B.C Scotland... | New | W’minster | Mar. 20, | 915. |
+| 9 | 1915 | 775 | 3879 | 809 |  | Carmichael, M  | Bernard, Sask   England.... | New | W’minster | Mar. 23, | 915. |
+| 9 | 1916 | 804 | 3879 | 838 |  | Carpmael, Ernest  | Stevenage, Herts, Eng England.... | New | W’minster | Mar. 30, | 915. |
+| 9 | 1916 | 833 | 3879 | 867 |  | Rodier, Mrs  | 3132 Quebec St., Vancouver, B.C England— | New | W’minster | Mar. 15, | 915. |
+| 9 | 1915 | 862 | 3880 | 896 |  | Casey, L  | 1043 St. Patrick St., Victoria, B.C Canada  | New | W’minster | April 7, | 915. |
+| 9 | 1915 | 891 | 3880 | 925 |  | Chamberlain, Mrs. M. J  | 480, 24th Ave., Vancouver, B.C Canada  | New | W’minster | Mar. 16, | 915. |
+| 9 | 1915 | 921 | 3880 | 954 |  | Chartlon, Harry  | 450,10th Ave. E., Vancouver, B.C England  | New | W’minster | Mar. 23, | 915. |
+| 9 | 1915 | 950 | 3880 | 989 |  | Chester, Howard Albert  | Silverdale, B.C ...._.   England.... | New | W’minster | Mar. 13, | 915. |
+| 9 | 1916 | 979 | 3880 | 1013 |  | Christie, A. B  | Hillside, Castle Rd., Warley, Birmingham, Eng England — | New | W’minster | Mar. 19, | 915. |
+| 9 | 1915 | 1008 | 3880 | 1042 |  | Clague, Mrs. Eleanor  | Wynton Villa, Laureston Rd., Douglas, I.O.M Isle of Man. | New | W’minster | Mar. 23, | 915. |
+| 9 | 1915 | 1037 | 3880 | 1071 |  | Clark, Mrs. G  | 49th Ave., Carleton St., South Vancouver, B.C England  | New | W’minster | Mar. 20, | 915. |
+| 9 | 1915 | 1066 | 3880 | 1100 |  | Close, Mrs. Jane  | 307 Georgia St., Vancouver, B.C England  | New | W’minster | Mar. 13, | 915. |
+| 9 | 1915 | 1096 | 3881 | 1129 |  | Collin, Gilbert T  | 47 Ave., Collingwood E., South Vancouver, B.C England.... | New | W’minster | Mar. 15, | 915. |
+| 9 | 1915 | 1124 | 3881 | 1158 |  | McKenzie, D  | R. R. No. 1, Sardis, B.C Canada  | New | W’minster | Mar. 12, | 915. |
+| 9 | 1915 | 1154 | 3881 | 1187 |  | Conway, Mrs. Annie  | Windsor Hotel, New Westminster, B.C England.... | New | W’minster | Mar. 12, | 915. |
+| 9 | 1915 | 1183 | 3881 | 1216 |  | Copping, G. I  | 4573, 13th Ave. W., Point Grey, Vancouver, B.C Australia.... | New | W'minster | Mar. 18, | 915. |
+| 9 | 1914 | 1212 | 3881 | 1245 |  | Cox, T. J  | Mission City, B.C Canada  | New | W’minster | Mar. 12, | 915. |
+| 9 | 719 | 1241 | 3986 | 1274 | 429531 | Atchison, Mrs. E  | McDonald St., Sapperton, B.C Scotland... | New | W’minster | Mar. 12, | 915. |
+| 9 | 718 | 1270 | 3881 | 1304 | 428155 | Craney, Bartholomew Joseph. | 67 Bute St., Liverpool, Eng England  | New | W’minster | Mar. 15, | 915. |
+| 9 | 718 | 1299 | 3882 | 1333 | 429189 | Crompton, Mrs. Margaret  | 1033 Richard St., Vancouver, B.C England  | New | W’minster | Mar. 23, | 915. |
+| 9 | 718 | 1328 | 3882 | 1362 | 428198 | Cross, Mrs. Kate  | 2, 5th Ave. W., Vancouver, B.C England  | New | W’minster | Mar. 16, | 915. |
+| 9 | 717 | 1357 | 3882 | 1390 | 429177 | Cross, Thomas K  | 2043 Keefer St., Vancouver, B.C England  | New | W’minster | Mar. 23, | 915. |
+| 9 | 717 | 1386 | 3882 | 1419 | 428391 | Cross, Mrs. Jane  | 2043 Keefer St., Vancouver, B.C England  | New | W’minster | July 8, | 915. |
+| 9 | 717 | 1415 | 3883 | 1449 | 429194 | Dewar, Mrs. J. H  | Venice, Cal., U.S.A Canada  | New | W’minster | Mar. 17, | 915. |
+| 9 | 717 | 1444 | 3883 | 1477 | 428156 | Diddams, E. C  | 21 Lawrence St., Stoke-on-Trent, Eng England.... | New | W’minster | Mar. 20, | 915. |
+| 9 | 716 | 1473 | 3883 | 1507 | 429249 | Douglas, Mrs. W. A  | 4 Park Rd., Douglas, I.O.M Isle of Man. | New | W’minster | Mar. 23, | 915. |
+| 9 | 716 | 1502 | 3883 | 1535 | 429275 | Doutaz, J  | Milner, B.C  Canada  | New | W’minster | April 13, | 915. |
+| 9 | 716 | 1531 | 3883 | 1564 | 429549 | Doutaz, Joseph Frank  | South Sumas, B.C Canada  | New | W’minster | Mar. 12, | 915. |
+| 9 | 715 | 1560 | 3884 | 1593 | 429551 | Drinkwater, Mrs. H  | Cloverdale, B.C Canada  | New | W’minster | April 7, | 915. |
+| 9 | 715 | 1589 | 3884 | 1623 | 429797 | Griffin, Mrs. W  | High St., Watlington, Oxford, Eng England.... | New | W’minster | May 12, | 915. |
+| 9 | 715 | 1618 | 3884 | 1652 | 428157 | Duthie, Alexander  | 177 Dalkeith Rd., Edinburgh, Scot Scotland... | New | W’minster | Mar. 16, | 915. |
+| 9 | 715 | 1647 | 3884 | 1681 | 428158 | Duthie, Alexander  | 177 Dalkeith Rd., Edinburgh, Scot Scotland... | New | W’minster | Mar. 16, | 915. |
+| 9 | 715 | 1676 | 3885 | 1709 | 429741 | Edmonstone, Mrs. A  | 69 Lord St., Keith, Aberdeen, Scot Scotland... | New | W’minster | Mar. 23, | 915. |
+| 9 | 715 | 1705 | 3885 | 1739 | 429579 | Epps, W. T  | P.O., North Lonsdale, B.C Canada  | New | W’minster | Mar. 12, | 915. |
+| 9 | 714 | 1734 | 3885 | 1768 | 429197 | Faid, Mrs  | 126 Helmsley Rd., Newcastle-on-Tyne, Eng England.... | New | W’minster | Mar. 17, | 915. |
+| 9 | 714 | 1763 | 3885 | 1797 | 429020 | Farr, Mrs. A .  | Matsqui, B.C   England.... | New | W’minster | Mar. 13, | 915. |
+| 9 | 714 | 1792 | 3885 | 1825 | 429563 | Farrow, Mrs. Francis  | 2997 Bond St., Central Park, B.C England  | New | W’minster | Mar. 12, | 915. |
+| 9 | 714 | 1821 | 3886 | 1855 | 429561 | Finlay, William  | 3 Baltic St., Dundee, Scot  Scotland... | New | W’minster | Mar. 12, | 915. |
+| 9 | 714 | 1849 | 3886 | 1884 | 429200 | Flint, George  | South Wellington, B.C  Canada..... | New | W’minster | Mar. 17, | 915. |
+| 9 | 714 | 1879 | 3886 | 1912 | 428215 | Forsyth, John  | P.O., Hampton, New South Wales, Australia Australia... | New | W'minster | Mar. 16, | 915. |
+| 9 | 714 | 1908 | 3887 | 1942 | 428213 | Pelletie, Mrs. F  | Mount Royal, Montreal, P.Q Canada  | New | W’minster | Mar. 23, | 915. |
+| 9 | 714 | 1937 | 3887 | 1971 | 429562 | Foster, George  | 329 Hoult St., New Westminster, B.C England  | New | W'minster | Mar. 12, | 915. |
+| 9 | 714 | 1966 | 3886 | 2000 | 429560 | Fraser, Mrs. T  | 227 Regina St., New Westminster, B.C Scotland... | New | W'minster | Mar. 13, | 915. |
+| 9 | 714 | 1995 | 3887 | 2029 | 429559 | Fraser, Isabel  | 227 Kegina St., New Westminster, B.C Scotland... | New | W'minster | Mar. 12, | 915. |
+| 9 | 714 | 2024 | 3887 | 2058 | 429607 | Frost, F. H  | 4 Vanguard St., New Cross, London, Eng England  | New | W’minster | Mar. 19, | 915. |
+| 9 | 714 | 2053 | 3887 | 2087 | 429014 | Frost, Mrs. Florence  | Albion, B.C Canada  | New | W’minster | Mar. 12, | 915. |
+| 9 | 714 | 2082 | 3887 | 2116 | 428292 | Fyffe, John  | Willows, Victoria, B.C Scotland... | New | W'minster | April 13, | 915. |
+| 9 | 714 | 2111 | 3888 | 2145 | 429024 | Giles, Mrs. E  | Chilliwack, B.C 'Canada  | New | W'minster | Mar. 11, | 915. |
+| 10 | 418 | 348 | 3568 | 383 | 428220 | Private. | . Gilson, Charles Henry  | 11th Regt  | Gilson, R  | 699 Bolton Rd., Bradford, Yorks, Eng  | England  | New | W’minster | Mar. | 1915. |
+| 10 | 419 | 376 | 3567 | 413 | 428265 | Private. |  |  | Glen, James  | 4th Ave., Ladysmith, B.C.    | Canada  | New | W'minster | Mar. | 1915. |
+| 10 | 418 | 407 | 3567 | 442 | 429027 | Private. |  |  | Godson, John  | 43 Albert Cres., New Westminster, B.C  | Canada  | New | W’minster | Mar. | 1915. |
+| 10 | 418 | 436 | 3567 | 471 | 428269 | Private. |  |  | Gourlay, Arthur  | East Calgary, Alta  | Scotland  | New | W’minster | Mar. | 1915. |
+| 10 | 417 | 465 | 3567 | 500 | 428101 | Private. |  |  | Grant, Mrs. E  | 203 High St., Elgin, Scot  | Scotland  | New | W’minster | Mar. | 1915. |
+| 10 | 416 | 494 | 3566 | 529 | 429773 | Private. |  | Nil  | Green, R. H  | Bowen Island, B.C  | U.S.A  | New | W’minster | April | 1915. |
+| 10 | 416 | 524 | 3566 | 557 | 429203 | Private. |  |  | Griffin, Mrs. Harriett  | Edgehill, Banbury, Oxon, Eng  | England  | New | W’minster | Mar. | 1915. |
+| 10 | 416 | 553 | 3566 | 586 | 429021 | Private. |  |  | Griffiths, George  | 115 Carroll St., Sapperton, B.C  | England  | New | W’minster | Mar. | 1915. |
+| 10 | 415 | 583 | 3566 | 616 | 428225 | Private.. |  |  | Hamilton, Mrs. J.   | 1625, 36th Ave. E., Vancouver, B.C  | England  | New | W’minster | Mar. | 1915. |
+| 10 | 415 | 612 | 3566 | 645 | 429036 | Private.. |  |  | Haywood, Mrs. Elizabeth. | Suisun, Cal., U.S.A  | England  | New | W’minster | Mar. | 1915. |
+| 10 | 414 | 641 | 3566 | 674 | 429034 | Private.. |  |  | Heath, William A  | P.O. Box 202, Agassiz, B.C  | Wales  | New | W’minster | Mar. | 1915. |
+| 10 | 413 | 671 | 3566 | 703 | 429209 | Private.. |  |  | Herbert, Mrs. J  | Hopstone, Bridgnorth, Salop, Eng  | England  | New | W’minster | Mar. | 1915. |
+| 10 | 413 | 700 | 3565 | 731 | 429253 | Private.. |  |  | Herd, Mrs. R  | Cumberland, B.C  | Scotland  | New | W’minster | Mar. | 1915. |
+| 10 | 412 | 729 | 2876 | 759 | 429599 | Private.. |  |  |  | 3 St. Aubyns Mansions, Church Rd., Upper Norwood, |
+| 10 | 2158 | 757 | 3566 | 786 |  |  |  |  |  | London, Eng  | Scotland. | New W’minster |  | Mar. | 1915. |
+| 10 | 411 | 782 | 3566 | 816 | 429793 | Private... |  |  |  | Lytton, B.C  | England.. | New W’minster |  | May | 1915. |
+| 10 | 411 | 815 | 3566 | 850 | 429207 | Private... |  |  |  | Kirby Muxloe, Leicester, Eng  | England.. | New W’minster |  | Mar. | 1915. |
+| 10 | 411 | 843 | 3565 | 877 | 429213 | Corporal. |  |  |  | 8 Union St., Camborne, Cornwall, Eng  | England.. | New W’minster |  | Mar. | 1915. |
+| 10 | 410 | 868 | 3565 | 903 | 429666 | Private... |  |  |  | High St., Horningsea, Cambridge, Eng  | England.. | New W’minster |  | Mar. | 1915. |
+| 10 | 410 | 901 | 3565 | 931 | 428223 | Private... | Horne, John  |  |  | Not stated    | England.. | New W’minster |  | Mar. | 1915. |
+| 10 | 409 | 930 | 3565 | 960 | 429031 | Private... | Houston, Charles  |  |  | 518, 9th Ave. W., Vancouver, B.C  | Canada... | New W’minster |  | Mar. | 1915. |
+| 10 | 409 | 959 | 3565 | 989 | 429212 | Private... |  |  |  | 35 Jenkinson St., Manchester, Eng  | England.. | New W’minster |  | Mar. | 1915. |
+| 10 | 409 | 988 | 3565 | 1018 | 428091 | Private... | Hunter, Allan Brown  |  |  | 1440 Comox St., Vancouver, B.C  | Canada... | New W’minster |  | Mar. | 1915. |
+| 10 | 408 | 1016 | 3564 | 1047 | 438074 | Private... |  | C.G.A  |  | 702 Vancouver St., Victoria, B.C  | Canada... | New W’minster |  | Mar. | 1915. |
+| 10 | 408 | 1045 | 3564 | 1075 | 429588 | Private... | Jefferd, Cecil Wilson  |  |  | 1141 Davie St., Vancouver, B.C  | Canada... | New W’minster |  | Mar. | 1915. |
+| 10 | 408 | 1074 | 3564 | 1110 | 429056 | Private... | Johnson, Robert John  |  |  | 340, 2nd St., New Westminster, B.C.._  | Canada... | New W’minster |  | Mar. | 1915. |
+| 10 | 408 | 1103 | 3564 | 1133 | 429218 | Private... |  |  |  | Cor. Rupert St, and Vanness Ave., Collingwood W., B.C. | Canada... | New W’minster |  | Mar. | 1915. |
+| 10 | 407 | 1132 | 3564 | 1163 | 429219 | Private... |  |  |  | Tillybernie, Lethnot, Forfar, Scot  | Scotland.. | New W’minster |  | Mar. | 1915. |
+| 10 | 407 | 1161 | 3564 | 1192 | 428279 | Private... |  | Nil  |  | Easter, Brightmony, Naim, Scot  | Scotland., | New W’minster |  | April | 1915. |
+| 10 | 406 | 1190 | 3668 | 1221 | 429008 | Private... |  |  |  | Sanday, Orkney, Scot  | Scotland.. | New W’minster |  | Mar. | 1915. |
+| 10 | 406 | 1218 | 3667 | 1250 | 429215 | Private... | Kitchen, Charles  |  |  | Lucia Place, Passage West, Co. Cork, Ire  | India  | New W’minster |  | Mar. | 1915. |
+| 10 | 2094 | 1248 | 3563 | 1278 |  |  |  |  |  | 42 Wratham Rd., Camden Town, London, Eng  | England.. | New W’minster |  | Mar. | 1915. |
+| 10 | 405 | 1277 | 3564 | 1310 | 429791 | Private... |  |  |  | Keswick St., Bolton, Lancs, Eng  | England.. | New W’minster |  | May | 1915. |
+| 10 | 405 | 1306 | 3564 | 1339 | 429282 | Private... |  | Nil  |  | 2158,1st Ave. W., Vancouver, B.C  | Canada... | New W’minster |  | May | 1915. |
+| 10 | 405 | 1335 | 3562 | 1368 | 429783 | Private... |  | Nil  |  | West End, Leuchars, Fife, Scot  | Scotland.. | New W’minster |  | April | 1915. |
+| 10 | 2096 | 1364 | 3562 | 1393 |  |  |  |  |  | Glam mis, Ont  | Canada... | New W’minster |  | Mar. | 1915. |
+| 10 | 404 | 1393 | 3563 | 1426 | 429687 | Private... |  |  |  | 643, 41st Ave. E., South Vancouver, B.C  | Scotland.. | New W’minster |  | Mar. | 1915. |
+| 10 | 404 | 1422 | 3563 | 1455 | 428662 | Private... |  |  |  | The Park, Nottingham, Eng  | England.. | New W’minster |  | Mar. | 1915. |
+| 10 | 404 | 1451 | 3563 | 1487 | 429776 | Corporal.. |  | Nil  |  | Beech St., Sydney Mines, C.B., N.S  | Canada... | New W’minster |  | April | 1915. |
+| 10 | 403 | 1480 | 3563 | 1513 | 429298 | Private... |  |  |  | Oakridge, Ore., U.S.A    | England.. | New W’minster |  | June | 1915. |
+| 10 | 403 | 1509 | 3563 | 1542 | 429683 | Private... |  |  |  | 16 Aird, Sleat, Skye, Scot .  | Scotland.. | New W’minster |  | Mar. | 1915. |
+| 10 | 2094 | 1538 | 3563 | 1566 |  |  |  |  |  | Oxbo^r Sask | Scotland.. | New W’minster |  | April | 1915. |
+| 10 | 403 | 1545 | 1577 | 1571 | 428280 | Private... |  | NU  |
+| 10 | 403 | 1559 | 3563 | 1600 | 429759 | Private... |  | Nil   I |  | 624, E. 21st St., Los Angeies, Cal., U.S.A  | Canada... | New W’minster |  | Mar. | 1915. |
+| 10 | 403 | 1595 | 3563 | 1629 | 429279 | Private... |  |  |  | Strathmore House, Ullapool, Scot  | Scotland.. | New W’minster |  | April | 1915. |
+| 10 | 403 | 1624 | 3563 | 1658 | 429680 | Private... |  |  |  | 1215 Richard St., Vancouver, B.C  | Scotland.. | New W’minster |  | Mar. | 1915. |
+| 10 | 2094 | 1653 | 3563 | 1684 |  |  |  |  |  | 976 Howe St., Vancouver, B.C  | Canada... | New W’minster |  | Mar. | 1915. |
+| 10 | 402 | 1682 | 3563 | 1716 | 428096 | Private... | McLeod, Roderick  |  |  | 24 Ranish, Stornoway, Scot   | Scotland.. | New W’minster |  | Mar. | 1915. |
+| 10 | 402 | 1711 | 3563 | 1745 | 428240 | Private... | MacMillan, John  |  |  | Temple Hill, Troon, Ayr, Scot  | Scotland.. | New W'minster |  | Mar. | 1915. |
+| 10 | 402 | 1739 | 3563 | 1777 | 429770 | Private... | McNeil, Samuel Giles  |  |  | 1912, 3rd Ave. W., Vancouver, B.C  | Australia. | New W’minster |  | April | 1915. |
+| 10 | 402 | 1769 | 3563 | 1803 | 429661 | Private... | Mack, Peter  |  |  | 14 High St., Jedburgh, Roxburgh, Scot   | Scotland.. | New W’minster |  | Mar. | 1915. |
+| 10 | 401 | 1798 | 3563 | 1833 | 429122 | Private... | Madill, John  |  |  | Bukekohe, Auckland, New Zealand  | England.. | New W’minster |  | Mar. | 1915. |
+| 10 | 402 | 1827 | 3563 | 1862 | 428281 | Private... |  | Nil J |  | 1817 River Drive, New Westminster, B.C  | U.S.A.... | New W’minster |  | April | 1915. |
+| 10 | 2095 | 1857 | 3563 | 1887 |  |  |  |  |  | Lynn Valley, North Vancouver, B.C  | Australia. | New W’minster |  | Mar. | 1915. |
+| 10 | 401 | 1885 | 3562 | 1920 | 429674 | Private... | Marshall, Alfred.    |  |  | 100 Sheffield Rd., Rotherham, Yorks, Eng  | England.. | New W’minster |  | Mar. | 1915. |
+| 10 | 401 | 1915 | 3563 | 1952 | 428359 | Corporal.. |  |  |  | Not stated   | England.. | Vernon  |  | June | 1915. |
+| 10 | 401 | 1943 | 3563 | 1977 | 429120 | Private... |  |  |  | Orangeville, Ont  | Canada... | New W’minster |  | Mar. | 1915. |
+| 10 | 2093 | 1973 | 3563 | 2005 |  |  |  |  |  | Tuttington, Norfolk, Eng  | England.. | Vernon  |  | June | 1915. |
+| 10 | 2093 | 2001 | 3562 | 2032 |  |  |  |  |  | Allison St., Cathcart Rd., Govanhill, Glasgow, Scot.. | Scotland.. | New W’minster |  | Mar. | 1915. |
+| 10 | 2092 | 2031 | 3563 | 2062 |  |  |  |  |  | 52, 38th Ave. W., Vancouver, B.C  | England.. | New W’minster |  | Mar. | 1915. |
+| 10 | 399 | 2060 | 3562 | 2096 | 429581 IPrivate |  | Meech, Henry Austin  |  |  | 60, 27th Ave. W., South Vancouver, B.C  | England.. | New W'minster |  | Mar. | 1915. |
+| 11 | 927 | 547 | 3407 | 584 |  |  |  | Former Corps. |  |  | Country of |
+| 11 | 749 | 591 | 3845 | 616 | <a |  |  |  |  |  |  | Place. | Date. |
+| 11 | 739 | 691 | 3896 | 729 | 429222 | Private.. | Menmuir, David Gibson  | 11th Regt  | Menmuir, D. R  | 27 Seymour St., Dundee, Scot  | Russia.... | New W’minster | Mar. | 1915. |
+| 11 | 739 | 721 | 3895 | 758 | 429732 | Private.. | Mills, Cecil River  | 72nd Regt  | PhUlips, Mrs. C  | Little Qualicum, Vancouver, B.C  | Canada— | New W’minster | Mar. | , 1915. |
+| 11 | 738 | 750 | 3895 | 787 | 429223 | Private.. | Mitton, Ralph  | 11th Regt  | Mitton, Mrs. P  | 44 Colebrook Ave., West Ealing, London, Eng  | England... | New W’minster | Mar. | , 1915. |
+| 11 | 739 | 779 | 3896 | 815 | 429673 | Private.. | Moore, Russell Alexander  | 11th Regt  | Moore, Mrs. Mary  | 21 Salisbury Drive, Vancouver, B.C  | Canada— | New W’minster | Mar. | , 1915. |
+| 11 | 738 | 808 | 3896 | 845 | 429112 | Private.. | Morris, Benjamin  | 6th Regt  | Morris, Miss Carry  | Halifax, N.S  | Canada  | New W’minster | Mar. | 1915. |
+| 11 | 739 | 837 | 3896 | 875 | 429760 | Private.. | Mossman, George   | 72nd Regt  | Mossman, WUliam  | 25 James St., Blytheswood Sq., Glasgow, Scot  | Scotland.. | New W'minster | Mar. | 1915. |
+| 11 | 738 | 866 | 3896 | 903 | 429671 | Private.. | Muir, Andrew  | 11th Regt  | Muir, Mrs. Nellie  | 442 Bridge St., Collingwood W., Vancouver, B.C  | Scotland.. | New W’minster | Mar. | 1915. |
+| 11 | 738 | 896 | 3896 | 933 | 429220 | Private.. | Mulraney, Michael  | 11th Regt  | Hendrie, Mrs. B  | Thompson PI., Milton N., Campie, Scot  | Canada... | New W’minster | Mar. | 1915. |
+| 11 | 738 | 925 | 3896 | 962 | 429226 | Private.. | Munro, George McLean  | 11th Regt  | Munro, Mrs. G. D  | P.O., Alta Vista, B.C  | Canada  | New W’minster | Mar. | 1915. |
+| 11 | 738 | 954 | 3896 | 991 | 429108 | Private.. | Munro, John  | 6 th Regt  | Munro, Donald  | 5 Church St., Dornoch, Sutherland, Scot  | Scotland.. | New W’minster | Mar. | 1915. |
+| 11 | 737 | 983 | 3897 | 1020 | 429129 | Private.. | Nairn, George  | 6th Regt  | Nairn, Mrs. J  | 244 George St., Aberdeen, Scot  | Scotland.. | New W’minster | Mar. | 1915. |
+| 11 | 737 | 1012 | 3896 | 1048 | 429801 | Private.. | Nelson, Swan  | Can. Mil  | Nelson, B  | 29th Battalion, C.E.F  | Denmark. | Vernon  | Aug. | 1915. |
+| 11 | 736 | 1041 | 3896 | 1078 | 429689 | Private.. | Nettleton, Alfred William  | 11th Regt  | Nettleton, Mrs. Annie  | 2615 Quebec St., Vancouver, B.C  | England... | New W’minster | Mar. | 1915. |
+| 11 | 736 | 1070 | 3896 | 1107 | 429127 | Private.. | Nish, James  | 6th Regt   | Nish, James  | Larrie3town, Balnaghie Parish, Kirkcudbright, Scot.. | Scotland.. | New W'minster | Mar. | 1915. |
+| 11 | 735 | 1099 | 3896 | 1137 | 429247 | Sergeant. | O’Keefe, John Hilary  | C.G.A  | O’Keefe, Mrs. Agnes  | 516 Harbinger Ave., Victoria, B.C  | Canada  | New W’minster | Mar. | 1915. |
+| 11 | 735 | 1128 | 3897 | 1165 | 429693 | Private.. | Owen, James Arthur  | 11th Regt  | Owen, Harold  | Perth, West Australia  | England... | New W’minster | Mar. | 1915. |
+| 11 | 734 | 1157 | 3897 | 1195 | 429139 | Sergeant. | Palmer, George  | 6th Regt  | Palmer, Solomon  | Overstowey, Bridgwater, Somerset, Eng  | England... | New W’minster | Mar. | 1915. |
+| 11 | 734 | 1185 | 3897 | 1223 | 429135 | Private... | Pank, Thomas Clifford.  | 6th Regt  | Pank, T  | West Runton, Norfolk, Eng   | England... | New W’minster | Mar. | 1915. |
+| 11 | 733 | 1214 | 4003 | 1253 | 429796 | Private .. | Parker, George Frederick  | 6th Regt  | Parker, George...  | 37 Victoria St., Cwmbran, Monmouth, Eng  | England... | New W’minster | May | 1915. |
+| 11 | 733 | 1243 | 3897 | 1282 | 429131 | Private... | Parker, Henry  | 6th Regt  | Parker, Mrs. Marie  | 2044, 41st Ave., South Vancouver, B.C  | England.., | New W’minster | Mar. | 1915. |
+| 11 | 733 | 1272 | 3897 | 1310 | 429699 | Private... | Parsons, William  | NU  | Parsons, Charles  | 8 Markham St., Toxteth Pk., Liverpool, Eng  | England... | New W'minster | Mar. | 1915. |
+| 11 | 733 | 1302 | 3897 | 1339 | 429638 | Private... | Patterson, Matthew  | 6th Regt  | Patterson, James  | 13 WindmUl St., Saltcoats, Ayr, Scot  | Scotland.. | New W’minster | Mar. | 1915. |
+| 11 | 732 | 1331 | 3898 | 1368 | 429701 | Private... | Patullo, John  | 11th Regt  | Patullo, James  | 16 Prior Rd., Forfar, Scot .  | Scotland.. | Vernon  | Aug. | 1915. |
+| 11 | 732 | 1360 | 3898 | 1397 | 429603 | Private... | Paul, George Firth  | 72nd Regt  | Paul, John  | 2038 Second Ave. W., Vancouver, B.C  | Scotland.. | New W’minster | Mar. | 1915. |
+| 11 | 732 | 1389 | 3899 | 1426 | 429133 | Private... | Pearson, John  | 6 th Regt    | Pearson, John  | 27 New Road, Forfar, Scot  | Scotland.. | New W’minster | Mar. | 1915. |
+| 11 | 731 | 1418 | 3898 | 1455 | 429138 | Private... | Peters, Alfred  | 6th Regt  | Peters, Charles  | 65 Odessa Rd., Leyton, Essex, Eng  | England... | New W'minster | Mar. | 1915. |
+| 11 | 732 | 1447 | 3899 | 1485 | 428104 | Private... | Phillips, Herbert  | 72nd Regt  | PhUlips, Mrs. L  | 1722, 2nd Ave. W., Vancouver, B.C  | England... | New W’minster | Mar. | 1915. |
+| 11 | 732 | 1476 | 3899 | 1513 | 429069 | Private... | Plommer, Arthur Victor  | 6th Regt  | Plommer, Harry  | 1843,11th Ave. E., Vancouver, B.C  | England... | New W’minster | Mar. | 1915. |
+| 11 | 731 | 1504 | 3899 | 1542 | 428557 | Private... | Plumridge, Frederick James  | 104th Regt  | Plumridge, James  | Mission City, B.C  | Canada  | New W’minster | Mar. | 1915. |
+| 11 | 730 | 1533 | 3899 | 1571 | 429695 | Private... | Pratt, Joseph John  | 11th Regt  | Not stated  | Not stated  | England.., | New W’minster | Mar. | 1915. |
+| 11 | 731 | 1561 | 3899 | 1600 | 428243 | Private... | Richards, Sidney  | Territorials  | Collingwood, K  | The Grove, Histon, Cambridge, Eng  | England.., | New W’minster | Mar. | 11915. |
+| 11 | 730 | 1590 | 3899 | 1629 | 428018 | Private... | Richardson, Andrew Thomas  | NU  | Richardson, James  | 127 Ormeau Rd., Belfast, Ire  | Ireland.... | New W’minster | Mar. | 1915. |
+| 11 | 3219 | 1619 | 3900 | 1646 |  |  |  |  |  |  | Scotland.. | New W’minster | Mar. | 1915. |
+| 11 | 730 | 1626 | 3203 | 1658 | 429590 | Corporal.. | Richardson, Robert Tavendale.. | 72nd Regt  | Richardson, Mrs. E. J  | 151, 26th Ave. W., Vancouver, B.C.   |
+| 11 | 3218 | 1648 | 3899 | 1675 |  |  |  |  |  |  | Canada..., | New W’minster | Mar. | 1915. |
+| 11 | 730 | 1657 | 3204 | 1688 | 429637 | Private... | Roach, Albert   | 6 th Regt  | Roach, Mrs. C.....  | Damley, P.E.I  |
+| 11 | 729 | 1677 | 3900 | 1716 | 428307 | Corporal.. | Roach, Charles Richard  | 6 th Regt  | Roach, Mrs. J  | 662,10th Ave. E., Vancouver, B.C  | Ireland  | Vemon | June | 1915. |
+| 11 | 729 | 1706 | 3900 | 1745 | 429702 | Sergeant.. | Robinson, George Augustus  | 11th Regt  | Not stated  | Not stated     | England... | New W'minster | Mar. | 1915. |
+| 11 | 730 | 1735 | 3900 | 1774 | 429143 | Private... | Robson, William  | 6th Regt  | Robson, David  | 61 Peebles St., Newtown, Ayr, Scot  | Scotland.. | New W’minster | Mar. | 1915. |
+| 11 | 729 | 1765 | 3900 | 1803 | 429146 | Private... | Rodger, James  | 6th Regt  | Rodger, John  | 138 Cowcaddens St., Glasgow, Scot  | Scotland.. | New W’minster | Mar. | 1915. |
+| 11 | 729 | 1794 | 3901 | 1832 | 429145 | Corporal.. | Ross, Sime  | 6th Regt  | Ross, Mrs. C. M  | 51 Norfolk Sq., Hyde Pk., London, W., Eng  | Scotland.. | New W’minster | Mar. | 1915. |
+| 11 | 730 | 1823 | 3901 | 1860 | 429792 | Private... | Rowell, Basil Iceton  | Nil  | Rowell, Mrs. J  | Burquitlam, B.C  | Canada  | New W’minster | May | 1915. |
+| 11 | 728 | 1847 | 3901 | 1889 | 428284 | Private... | Ruddock, Bertram Cecil  | 72nd Regt  | Ruddock, Frederick  | 849 Cambie St., Vancouver, B.C  | England.. | New W’minster | April | 1915. |
+| 11 | 729 | 1881 | 3901 | 1919 | 428032 | Private... | Sanders, Bertram  | 104th Regt  | Sanders, John  | Matsqui, B.C  | England.. | New W’minster | Mar. | 1915. |
+| 11 | 727 | 1911 | 3901 | 1948 | 429744 | Private... | Scott, James  | 72nd Regt  | Campbell, Mrs. A  | 10 Patterson St., Anderston, Glasgow, Scot  | Scotland.. | New W’minster | Mar. | 1915. |
+| 11 | 728 | 1939 | 3902 | 1977 | 429747 | Corporal.. | Sharpe, Lome Gray  | 104th Regt  | Sharpe, Margaret A  | New Westminster, B.C  | Canada... | New W’minster | Mar. | 1915. |
+| 11 | 728 | 1968 | 3902 | 2006 | 428019 | Private... | Shaw, David  | 104th Regt  | Shaw, Mrs. Annie  | Shawlands, Glenboig, Scot  | Scotland.. | New W’minster | Mar. | 1915. |
+| 11 | 727 | 1997 | 3902 | 2035 | 429708 | Private... | Shepherd, Richard  | 11th Regt  | Shepherd, Mrs  | Winton St., Nelson Ave., Alta Vista, Vancouver, B.C.. | England.. | New W’minster | Mar. | 1915. |
+| 11 | 727 | 2026 | 3902 | 2064 | 428021 | Private... | Short, John  | 104th Regt  | Short, John  | 59 Rolleston St., Manchester, Eng  | England.. | New W’minster | Mar. | 1915. |
+| 11 | 727 | 2055 | 3902 | 2093 | 429775 | Private... | Simpson, Robert  | Nil...  | Kenworthy, J  | Greenfield, nr. Oldham, Lancs, Eng  | England.. | New W’minster | April | 1915. |
+| 11 | 727 | 2084 | 3903 | 2122 | 428027 | Private... | Slack, Delmer Catherwood  | 104 th Regt  | Slack, Mrs. Mary  | Hatzic, B.C..:'.       | Canada... | New W'minster | Mar. | 1915. |
+| 12 | 395 | 412 | 3545 | 455 | 428024 | Private.. | Smith, Cyril Walter 104th Regt.. | .'(Smith, Walter George | 25 Bedford St., Woburn, Beds, Eng  | England  | New W’minster | Mar. | 12.1915. |
+| 12 | 394 | 441 | 3545 | 478 | 428025 | Private.. | Smith, William 104th Regt.., | . Smith, James  | Montrose, Forfar, Scot  | Scotland.... | New W’minster | Mar. | 11, 1915. |
+| 12 | 395 | 470 | 3545 | 507 | 429155 | Private.. | Snowdon, Thomas Herdman 6th Regt  | . Snowdon, Mrs. Gladys... | Gen. Del., Vancouver, B.C  | England  | New W’minster | Mar. | 16, 1915. |
+| 12 | 394 | 500 | 3544 | 536 | 428030 | Private.. | SoUoway, Vincent Harry Nil  | . Pollock, Mrs. J  | Mission City, B.C  | Canada  | New W’minster | Mar. | 11.1915. |
+| 12 | 393 | 529 | 3544 | 565 | 429652 | Private.. | Speller, Ernest 6th Regt  | . Speller, Charles  | Waltham House, Cannock Rd., Wolverhampton, Eng.. | England  | New W’minster | Mar. | 23.1915. |
+| 12 | 393 | 558 | 3545 | 593 | 429158 | Private.. | Steele, John 6th Regt.... | . Steele, WUliam Wilson | 529 Homer St., Vancouver, B.C  | Canada  | New W’minster | Mar. | 13.1915. |
+| 12 | 393 | 589 | 3545 | 623 | 428031 | Private.. | Stephens, Arthur Henry 104 th Regt.. | . Stephens, Elizabeth Ann. | Port Haney, B.C  | Canada  | New W’minster | Mar. | 10.1915. |
+| 12 | 393 | 617 | 3545 | 652 | 428105 | Private.. | Steven, Frank Riddell 72nd Regt... | . Steven, George  | “ Kenwyn,” Furze Lane, Purley, Surrey, Eng  | England  | New W’minster | Mar. | 12.1915. |
+| 12 | 393 | 648 | 3544 | 681 | 429713 | Private.. | Strang, William Charles 11th Regt. .. | . Strang, J. T  | New Waterford, N.S  | Canada  | New W’minster | Mar. | 19.1915. |
+| 12 | 392 | 673 | 3545 | 709 | 429788 | Private.. | Sullivan, Daniel Wilbert R.N.W.M.P. | . Sullivan, W. W  | Charlottetown, P.E.I  | Canada  | New W’minster | May | 3.1915. |
+| 12 | 392 | 706 | 3544 | 737 | 429592 | Private.. | Summerfield, Frank 72nd Regt... | . Summerfield, John  | 658, 20th Ave. E., Vancouver, B.C  | England  | New W’minster | Mar. | 12.1915. |
+| 12 | 392 | 735 | 3544 | 765 | 428034 | Private.. | Summerfield, John Ernest 104th Regt.. | . Summerfield, J  | 658, 20th Ave. E., Vancouver, B;C  | England..... | New W’minster | Mar. | 11.1915. |
+| 12 | 391 | 763 | 3544 | 796 | 428308 | Private.. | Taylor, David 104th Regt.. | . Taylor, Robert  | Ballypalady, Doagh, Co. Antrim, Ire  | Ireland  | New W’minster | June | 8.1915. |
+| 12 | 391 | 787 | 3544 | 824 | 429778 | Private.. | Taylor, John Albert 96th Regt... | . Taylor, Mrs. Rose  | 535, 32nd and Fraser Aves., Vancouver, B.C  | England  | New W’minster | April | 15.1915. |
+| 12 | 391 | 820 | 3544 | 853 | 429753 | Private.. | Taylor, Thomas Armstrong 72nd Regt... | . Taylor, Mrs. E    | Plessey Rd., Blyth, Northumberland, Eng  | England  | New W’minster | Mar. | 24.1915. |
+| 12 | 391 | 843 | 3544 | 881 | 428036 | Private.. | Thomas, Edwin Walker 104th Regt.. | . Thomas, Edwin WUliam | P.O. Box 123, ChUliwack, B.C  | Canada  | New W’minster | Mar. | 11.1915. |
+| 12 | 390 | 878 | 3544 | 910 | 428035 | Private.. | Thomson, Basil Edwin 104th Regt.. | . Thomson, E. J  | Barsnton Island, B.C  | Canada  | New W’minster | Mar. | 11.1915. |
+| 12 | 390 | 907 | 3544 | 939 | 429604 | Private.. | Till, John Charles 72nd Regt... | . TUI, J. N - | 1116 Butte St., Vancouver, B.C  | Ireland  | New W’minster | Mar. | 12.1915. |
+| 12 | 390 | 936 | 3543 | 968 | 428039 | Private.. | Topper, Albert 104th Regt.. | . Topper, George  | Mission City, B.C  | Canada  | New W’minster | Mar. | 11.1915. |
+| 12 | 390 | 962 | 3543 | 996 | 429608 | Private.. | Train, James   6th Regt  | . Train, Mrs. Isabella  | 1122 Semlin Drive, Vancouver, B.C  | Scotland  | New W’minster | Mar. | 18.1915. |
+| 12 | 389 | 991 | 3544 | 1025 | 428884 | Private.. | Trenholme, Frederick Maxwell 72nd Regt  | . Trenholme, F. G  | Agassiz, B.C  | Canada  | Vernon.... | June | 12.1915. |
+| 12 | 389 | 1023 | 3543 | 1053 | 429145 | Private.. | Turner, Harold 72nd Regt  | . Pratt, Mrs. G. H   | Macclesfield Lane, Rawden, nr. Leeds, Eng  | England  | New W’minster | Mar. | 23.1915. |
+| 12 | 389 | 1052 | 3543 | 1082 | 429714 | Private.. | Turner, Walter Disney L 11th Regt... | . Turner, Mrs. Ellen Mary | 19 Beaumont St., Liverpool, Eng  | Australia  | New W’minster | Mar. | 16.1915. |
+| 12 | 388 | 1077 | 3543 | 1112 | 429716 | Private.. | Turner, WUliam Daniel 11th Regt  | . Turner, J. H  | 15 Windsor PL, Cardiff, S. Wales  | Wales  | New W’minster | Mar. | 15, 1915. |
+| 12 | 389 | 1110 | 3543 | 1140 | 428038 | Private.. | Tyler, Sydney Norman Nil  | . Tyler, Ann Findlay  | 50 Newbury Rd., Highams Park, Chingford, Eng  | England  | New W’minster | Mar. | 10.1915. |
+| 12 | 388 | 1139 | 3542 | 1170 | 428040 | Private.. | Utley, Charles 104th Regt... | . Utley, Mrs. Mabel  | Clayburn, B.C  | England  | New W’minster | Mar. | 11.1915. |
+| 12 | 388 | 1168 | 3542 | 1198 | 429725 | Private.. | Walker, Alexander 11th Regt.... | . McDonald, Alexander  | Birtle, Man  | Canada  | New W’minster | Mar. | 17.1915. |
+| 12 | 388 | 1197 | 3542 | 1227 | 428055 | Private.. | Walker, James 104th Regt... | . Walker, John  | Cumbernauld, Scot  | Scotland  | New W’minster | Mar. | 11.1915. |
+| 12 | 387 | 1226 | 3542 | 1259 | 429721 | Private.. | Walter, Abraham 11th Regt.... | . Walter, Mrs. A  | Ansonia Hotel, Vancouver, B.C  | South Africa— | New W’minster | Mar. | 15.1915. |
+| 12 | 387 | 1256 | 3646 | 1288 | 429648 | Private.. | Ward, Ernest Alfred 6th Regt  | . Ward, Mrs. M. A  | 641 Windemere St., Vancouver, B.C  | Canada  | New W’minster | Mar. | 19.1915. |
+| 12 | 387 | 1285 | 3542 | 1317 | 429636 | Private.. | Ward, Frederick 6th Regt  | . Ward, Mrs. Kate  | 641 Windemere St., Vancouver, B.C  | Canada  | New W'minster | Mar. | 18.1915. |
+| 12 | 387 | 1314 | 3541 | 1346 | 429620 | Private.. | Ward, George 6th Regt  | . Ward, Mrs. K  | 641 Windemere St., Vancouver, B.C  | Canada  | New W'minster | Mar. | 19.1915. |
+| 12 | 387 | 1343 | 3541 | 1375 | 229616 | Private.. | Waterston, William Thomas 6th Regt  | . Kane, Mrs. M  | 6052 Fleming St., South Vancouver, B.C  | Canada  | New W’minster | Mar. | 13.1915. |
+| 12 | 388 | 1372 | 3541 | 1404 | 428106 | Private.. | Watret, William 72nd Regt | . Berry, Mrs  | 817 HamUton St., Vancouver, B.C  | Scotland  | New W’minster | Mar. | 18.1915. |
+| 12 | 386 | 1401 | 3541 | 1433 | 429772 | Private.. | Watson, WUliam Wallace 72nd Regt  | . Watson, J  | 2033 Triumph St., Vancouver, B.C  | Scotland  | New W’minster | April | 8.1915. |
+| 12 | 386 | 1430 | 3541 | 1462 | 428041 | Private.. | Welsh, Robert John Nil  | . Welsh, Mrs. John  | New Westminster, B.C  | Canada  | New W’minster | Mar. | 10.1915. |
+| 12 | 385 | 1454 | 3541 | 1491 | 429621 | Private.., | West, Frederick Benjamin 6th Regt  | . West, Frederick  | 1777, 42nd Ave. E., South Vancouver, B.C  | Canada  | New W’minster | Mar. | 19.1915. |
+| 12 | 385 | 1488 | 3540 | 1520 | 429615 | Private.., | West, Jphn WUliam 6th Regt  | . West, WUliam  | Chavenage, Tetbuiy, Glos, Eng  | England  | New W’minster | Mar. | 18.1915. |
+| 12 | 384 | 1514 | 3540 | 1549 | 428056 | Private... | West, Norham Eugene 104th Regt... | . West, Mrs. Gertrude  | 31 Ward St. E., London, Cape Colony, S. Africa  | South Africa  | New W'minster | Mar. | 11.1915. |
+| 12 | 384 | 1547 | 3540 | 1578 | 428060 | Private... | White, Alfred Ernest 104th Regt... | . White, F  | Farley, Salisbury, Eng  | England  | New W’minster | Mar. | 11.1915. |
+| 12 | 384 | 1576 | 3540 | 1607 | 429723 | Private... | White, Arthur 11th Regt.... | . White, B  | c./o Center & Hannah, Vancouver, B.C  | England  | New W’minster | Mar. | 20.1915. |
+| 12 | 383 | 1604 | 3539 | 1636 | 428043 | Private... | White, John Russell 104th Regt... | . White, Edward  | Mount Lehman, B.C  | Canada  | New W’minster | Mar. | 11.1915. |
+| 12 | 383 | 1633 | 3539 | 1666 | 429722 | Private... | WUkinson, John 11th Regt.... | . Wilkinson, Mrs. Mary  | 79 Porter St., Preston, Eng    | England  | New W’minster | Mar. | 15.1915. |
+| 12 | 383 | 1662 | 3539 | 1693 | 428263 | Sergeant.. | Wilkinson, Mentz 11th Regt.... | , Wilkinson, John  | Beverley Castle, Yorks, Eng    | England  | New W’minster | Mar. | 25.1915. |
+| 12 | 382 | 1691 | 3539 | 1723 | 429614 | Private... | WiUiams, George 6th Regt  | , Reddell, Alfred  | 91 Mostyn Rd., Brixton, London, Eng  | England  | New W’minster | Mar. | 17.1915. |
+| 12 | 382 | 1720 | 3538 | 1752 | 429618 | Private... | WUson, Charles WUlingham 6th Regt  | . WUson, W. J  | 7 Bonnington Terr., Edinburgh, Scot  | Scotland  | New W’minster | Mar. | 23.1915. |
+| 12 | 382 | 1749 | 3538 | 1781 | 428046 | Private... | Wilson, John Edgar 104th Regt... | Wilson, Mrs. J. C  | 1023 Auckland St., New Westminster, B.C  | Canada  | New W’minster | Mar. | 12.1915. |
+| 12 | 382 | 1778 | 3538 | 1810 | 429611 | Private... | WUson, William Edward 6th Regt  | Wilson, Mrs. W. K  | 415,10th Ave. E., Vancouver, B.C  | Canada  | New W’minster | Mar. | 20.1915. |
+| 12 | 381 | 1804 | 3538 | 1839 | 428098 | Private... | Wilson, William Robert 72nd Regt  | Wilson, Mrs. Sarah  | 690, 16th Ave. W., Vancouver, B.C  | Canada  | New W’minster | Mar. | 12.1915. |
+| 12 | 381 | 1833 | 3538 | 1868 | 428054 | Bugler  | Worrall, George Nil  | Worrall, William  | Port Coquitlam, B.C  | Scotland  | New W’minster | Mar. | 10.1915. |
+| 12 | 381 | 1865 | 3537 | 1898 | 428058 | Private... | Wright, Frank Austin 104th Regt... | Wright, Mrs. Jane  | Astwood Bank, Redditch, Worcs, Eng  | England  | New W’minster | Mar. | 15.1915. |
+| 12 | 381 | 1894 | 3537 | 1927 | 429568 | Private... | Young, James Edward C.G.A  | Young, Mrs. J. W  | 848 Pandora St., Victoria, B.C  | England  | New W’minster | Mar. | 15.1915. |
+{% endraw %}

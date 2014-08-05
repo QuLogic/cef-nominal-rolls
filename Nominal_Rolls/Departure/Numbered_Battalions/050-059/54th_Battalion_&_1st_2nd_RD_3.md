@@ -1,0 +1,660 @@
+---
+title: 54th Battalion & 1st 2nd RD 3
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 663 | 615 | 3181 | 646 |  |  |  | Former Corps. |  |  | Country of |
+| 1 | 475 | 761 | 3680 | 793 | 443GS9 | Private  | Turnley, Ernest Wharton  | Nii   | Turnley, Mrs. James  | 6 Lothair Rd., Liverpool, Loncs, Eng, | England.. | Vernon Camp. | Aug. | 28, 1915. |
+| 1 | 475 | 791 | 3682 | 823 | 442S021 L.-Corporal  |  | Turnley, Jnmes Henry  | Nil  | Turnley, Mrs. J  | 6 Lothair Rd.. Anfield, Liverpool, Lancs, } | England.. | Vernon Camp. | Aug. | 17, 1915. |
+| 1 | 474 | 823 | 3680 | 853 | 443'JSUII’rivnte  |  | Turpin. George  | Nii  | Turpin, Joseph  | 26 Uttoxeter Old Rd., Derby, Eng  | England.. | Vernon Camp. | bept. | 16, 1915. |
+| 1 | 474 | 852 | 3680 | 882 | 44250.1 | I ..-Corporal  | UhthoiT, Edward  | Nil  | Uhthoff, Miss Antonia  | Cobham, Surrey, Eng  | England.. | Vernon Camp. | Aug. | 30, 1915. |
+| 1 | 474 | 881 | 3680 | 916 | 4 13592 | Private  | Van Dam, Loon  | Nil  | Van Dam, P  | Vornon, B.C #.  | Belgium.. | Vernon Camp. | Oct. | 26, 1915. |
+| 1 | 474 | 911 | 3680 | 940 | 4 - S06 | Private  | Vandendricssche, Jules  | Nil  | Vandendries3che, Ivo  | Auseghem, Belgium  | Belgium.. | Vernon Camp. | Aug. | 17, 1915. |
+| 1 | 474 | 940 | 3680 | 969 | 443854 | Private  | Vans, Ebenczer William  | Nil  | Vans, R. G  | Vernon, B.C .  | Scotland., | .. Vernon Camp. | Aug. | 28, 1915. |
+| 1 | 474 | 969 | 3679 | 999 | 44356-1 | Private  | Veith, Wilfred  | Nil  | Veith, Mrs, W  | Radnor House, Hawkinge, Folkestone, Kent, Eng | England.. | .. Vernon Camp. | Sept. | 30, 1915. |
+| 1 | 474 | 999 | 3680 | 1028 | 443084 | Private  | Vernon, Charles Edmund E  | 102nd Regt  | Vernon, Mrs. C. E. E  | Notch Hill. B.C  | India  | Vernon Camp. | Sept. | 14, 1915. |
+| 1 | 475 | 1028 | 3679 | 1057 | 44.,.r,o5 | Private  | Vernon, John James   | Nil    | Vernon, Mrs. B. E   | P.O. Box 32, Penticton, B.C  | England.. | Vernon Camp. | Sept. | 30, 1915. |
+| 1 | 474 | 1057 | 3680 | 1088 | 443458 | Sergeant  | Vincent, John  | Imp. Forces  | Vincent, E  | 00 Brewery Rd., London, Eng  | England.. | Vancouver  | Mar. | 31, 1915. |
+| 1 | 474 | 1086 | 3680 | 1116 | 442504 | Private  | Vipond, Frederick William  | Nii......  | Vipond, E. R  | Nakusp, B.C  | U.S. A..*. | Vernon Camp.. | July | 11, 1915. |
+| 1 | 474 | 1115 | 3680 | 1143 | 443074 | Private  |  | Territorials  | Wad del, Mrs. Andrew  | Oxton, Berwick, Scot  | Scotland.. | Vernon Camp., | Aug. | 28.1915. |
+| 1 | 473 | 1144 | 3680 | 1174 | 443432 | Private  | Waddington, Alexander  | Nil  | Wadding ton, John  | Michel, B.C  | England.. | Vernon Camp. | Sept. | 30, 1915. |
+| 1 | 472 | 1173 | 3680 | 1206 | 442524 | Private  | Waddington, John  | Nil  | Waddington, Mrs. Mary J.. | New Michel, B.C  | England.. | Vernon Camp. | Aug. | 28, 1915. |
+| 1 | 473 | 1203 | 3680 | 1231 | 443945 | Private  | Waklern, Thomas  | Nil  | Waklern, Thomas  | Coleman, Alta  | U.S.A.... | Vernon Camp. | Sept. | 8, 1915. |
+| 1 | 474 | 1232 | 3681 | 1263 | 443745 | Private  | Walcroft, Norman Douglas  | Nil  | Walcroft, Charles  | Col wood, B.C  | Canada... | Vernon Camp. | Aug. | 30.1915. |
+| 1 | 475 | 1261 | 3681 | 1292 | 442502 | Private  | Waldie, James  | Nil  | Waldie, W. J  | 165 Gt. George St., Glasgow, Scot  | Scotland. | Vemon Camp. | Sept. | 30, 1915. |
+| 1 | 475 | 1291 | 3787 | 1321 | 443067 | Private  | Walkdcn, William  | Nil  | Walk den, George  | A shing ton, Northumberland, Eng  | England.. | Vernon Camp. | Sept. | 28, 1915. |
+| 1 | 475 | 1320 | 3680 | 1353 | 443933 | Private  | Walker, Thomas August  | Nil  | Walker, Mrs. Violet Elsie.. | 49 Putney Rd., Putney, London, Eng  | England.. | Vernon ('amp. | Srpt. | 8, 1915. |
+| 1 | 476 | 1350 | 3680 | 1381 | 442505 | Private  | Walker, William  | Nil  | Walker, John  | Bogenthorp, Keig, Whitehouse, Aberdeen, Scot | Scotland. | Vernon Camp. | July | 14, 1915. |
+| 1 | 476 | 1380 | 3680 | 1412 | 443045 | Private  | Walkley, George Harold  | Nil  | Walkley, Mrs. E  | Kandoops, B.C  | Canada... | Vernon Camp. | Aug. | 28, 1915. |
+| 1 | 476 | 1409 | 3680 | 1440 | 443370 | Private  | Wall, William James  | Nil  | Wall, Alfred  | 65 Benaris Rd., Plumstead, Kent, Enr*. | England.. | Vemon Camp. | Auir. | 28. 1915. |
+| 1 | 475 | 1438 | 3681 | 1469 | 443345 | Private  | Wallis, Ernest 10wart.     | Nil  | Wallis, Arthur  | The Crescent Chapel, Ellerton, Leeds, Yorks, Eng, | England.. | Vernon Camp. | Aug. | 28.1915. |
+| 1 | 475 | 1467 | 3681 | 1499 | 443366 | Private  | Walsh, Angelo Waiter  | 107th Regt  | Walsh, Charles Fred  | 9 Bloomfield Place, Witton, Blackburn, Lancs, | England.. | Vernon Camp. | Sept* | 30, 1915. |
+| 1 | 475 | 1497 | 3681 | 1530 | 442807 | Private  | Walsh, Owen. .     | Nil......  | Walsh, Mias Nellie Gertrude | Cark-in-Cartmel, Lancs., Eng  | England.. | Vemon Camp. | jAue. | 17, 1915. |
+| 1 | 475 | 1526 | 3681 | 1558 | 443340 | Sergeant  | Waterman, William John  | Territorials  | Waterman, Mrs. W. J  | Okanagan Fails, B.C  | England.. | V*»mon Camp. | i Auir. | 1915. |
+| 1 | 475 | 1555 | 3680 | 1594 | 443835 | Private  | Waters, James Frederick  | Nil  | Waters, Henry  | Nelson, B.C  | ingland.. | Vernon Camp. | | Aug. | 31, 1915. |
+| 1 | 475 | 1585 | 3680 | 1621 | 442309 | Sergeant  | Waters, William John  | Territorials  | Waters, Mrs. Annie  | Park and Observatory St., Nelson | England.. | Vernon Camp. | | July | 14, 1915. |
+| 1 | 475 | 1614 | 3680 | 1650 | 443703 | Private  | Wnlmough. Nicholas Edgar  | Territorials  | Wutiuough, L  | Prince George, B.C  | England.. | Vernon Camp. | | Aug. | 28, 1915. |
+| 1 | 476 | 1643 | 3680 | 1675 | 442500 | Private  | Watson, Alfred  | Nil  | Watson, Henry.    | 103 Gatton Rd., Tooting Broad wa] i, | England.. | Vernon Camp. | July | 14, 1915. |
+| 1 | 476 | 1672 | 3681 | 1704 | 413100 | Private  | Watson, Edward  | Nil  | Watson, Mrs. Annie  | Balfour, B.C  | England.. | Vernon Camp, | •Sept. | 28, 1915. |
+| 1 | 475 | 1703 | 3681 | 1734 | 442840 | Private..  | Watson, Kenneth Bertram  | Nil  |  | Nil    | i 'annda... | iVernon Camp. | i Aug. | 28, 1915. |
+| 1 | 475 | 1730 | 3681 | 1764 | 442507 | Private  | Watson, Leon Alexander  | Nil  | Watson, Mrs. Annie  | Namur, Belgium   | Belgium.. | Vernon ^amp. | July | 14. 101ft. |
+| 1 | 477 | 1760 | 3682 | 1794 | 442812 | Private  | Watson, Reginald  | Nil  | Watson, W. S  | Crcston, B.C  | England.. | Vemon Camp. | Aug. | 24. 1015. |
+| 1 | 476 | 1789 | 3679 | 1824 | 443335 | Corporal  | Watt, G»*orge John  | Nil  | Watt, John  | P.O., Knutaford, Kamloops, B.C. | Scotland. | Vemon Camp. | Aug. | 28, 191ft. |
+| 1 | 475 | 1819 | 3680 | 1852 | 443176 | Private  | Waugh, J.tmes.  | Nil  | Waugh, Mrs  | Itoadliead, Carlisle, Cumberland, Eng  | England.. | Vemon Cain p. | Nov. | 8, 1915. |
+| 1 | 477 | 1848 | 3679 | 1883 | 413014 | Privato  | Weaver, Hiram Percy  | Nil  | Weaver, Bessie  | Chase, B.C  | Canada... | Vernon Camp.. | [Aug. | 28, 1915. |
+| 1 | 477 | 1876 | 3678 | 1913 | 442815 | Private  | Webb, Alfred Reeves  | 107th Hcgt  | Webb, Albert H  | Cranbrook, B.O  | England.. | Vornon Camp. | [Aug. | 17, 1915. |
+| 1 | 477 | 1898 | 3678 | 1943 | 443104 | Private  | Webber, Frederick Vickery  | Nil  | Webber, Mrs. C. W  | New Denver, B.O  | England.. | Vernon Camp., | 'Aug. | 20, 1915. |
+| 1 | 476 | 1937 | 3678 | 1973 | 44280!) | Sergeant  | Webster, Willa Roy    | 30th Rpfrt  | Webster. John W  | R.R. No. 5, Ingersoll, Ont. | Canada... | Vemon Cs.mp., | Aug. | 17, 1915. |
+| 1 | 478 | 1966 | 3678 | 2001 | 413701 | Private  | Weir, James  | Nil  | Weir, George  | Kelowna, B.C  | Scotland. | Vernon Camp.. | Aug. | 31, 1915. |
+| 1 | 476 | 1996 | 3677 | 2031 | 44.3863 | Privato  | Weir, James     | Nil  | Weir, WilHnm M  | Penticton, B.C     | Canada... | Vemon Camp.. | Sf*pt. | 8, 191ft. |
+| 1 | 477 | 2025 | 3678 | 2061 | 443SC0 | Private  | Wcat, P. rnard Plater  | 102nd I’.!1 sit  | W©3t, Mrs. 13  | N'clmju, B.C.    | Canada... | Vernon Camp.. | I Sept. | 14, ivlo. |
+| 1 | 477 | 2055 | 3677 | 2094 | 44310S | Private  | Went, Charles William  | Territorials  | West, Mrs. Maria  | Wasa, B.C   | England.. | .. Vemon Camp.. | |Oct. | 5, 1915. |
+| 1 | 477 | 2085 | 3676 | 2122 | 443342 | Private  | j West nr rg, Carl  | Nil    | Wcstberg, John. .. | Longbranna, Umea, Sweden... | Sweden... | . - Vernon Camp.. | Ang. | 25. 1915. |
+| 1 | 477 | 2113 | 3677 | 2152 | 442S21 Private  |  | Went by, Ernest George  | lOi'tli Kugt   | Went by. Mm. Catriorine Heli | P.O. Box 146, Fernie, B.C.. | (England.. | Vernon I amp.. | IA»»«r. | 17. 1915. |
+| 1 | 477 | 2142 | 4087 | 2181 | 412508|Privote  |  | Weston, John Philip  | Nil   | Weston, Colonel (J. E  | .{Upland*. I*iamtngton. Warwick | (India  | IVVrnon Catnn. | I.lulv | 14. 1315. |
+| 1 | 476 | 2174 | 3669 | 2209 | 442>iilU’nvMe  |  | • Weston, icooert Edgar  | Imp. l-orces  | >veston, .jonn r  | .‘Birchlands, Golden, B.C... | ‘England.. | ‘Vemon Camp. | • Aug. | 17. 1915 |
+| 2 | 2183 | 287 | 3675 | 319 |  |  |  |  | 3? High St., Kirkcaldy, Fife, Scot.    | jScof land. | Vernon | Camp.. | Oct. | 12, 1915. |
+| 2 | 2184 | 318 | 3675 | 358 |  |  |  |  | 41 Chorlton Rd., Manchester, Lancs, iSntj  | England.. | Vernon | Cam p.. | Aug. | 28, ms. |
+| 2 | 513 | 334 | 1579 | 366 | ■'VI3 | Private.. | Wetherull* Joseph.. .. ...  | Nil  |
+| 2 | 2188 | 349 | 3674 | 380 |  |  |  |  | Nowcastle-on-Tyne, Northumberland, Eng  | England.. | Vernon | Camp.. | Sept. | 14, 11)15. |
+| 2 | 475 | 363 | 1578 | 397 | •**.>y70 | Private  | Weyman, James Wilfred  | 102nd Regt  |
+| 2 | 2185 | 378 | 3675 | 409 |  |  |  |  | 21 Eglantine Ave., Belfast, ire.  | 1 reland. .. | Vernon | Camp.. | Aug. | 28, 1015. |
+| 2 | 475 | 393 | 1578 | 426 | 44333 | Private  | Wheeler, Froderick William.... | Nil  |
+| 2 | 2184 | 407 | 3674 | 438 |  |  |  |  | 633 West 74th St., Los Angeles, Cal., U.S. A  | U.S.A.... | Vernon | Camp.. | Sept. | 30, mi5. |
+| 2 | 474 | 423 | 1578 | 455 | 443566 | i Private  | Wheeler, Jiarry N cl so a  | Nil  |
+| 2 | 2185 | 438 | 3673 | 470 |  |  |  |  | 23 Grc^inghain Grovo, Sutton, Surrey, Eng   | England.. | Vernon | Camp.. | Oct. | 28, 1915. |
+| 2 | 475 | 452 | 1578 | 484 | 443129 | Private  | Wheeler, John Edward  | Nil  |
+| 2 | 1681 | 467 | 3673 | 502 |  |  |  | Wheeler, Mrs. Beatrice... | West Fernie, B.C  | England.. | Vornon | Camp.. | Aug. | 24.1915. |
+| 2 | 474 | 481 | 1578 | 512 | 442<S1U | Private  | 1 Wheeler, William..  | Nil  |
+| 2 | 1680 | 497 | 3673 | 531 |  |  |  | Whiddcn, David  | (ilenolg, Guysboro, N.S   | Canada... | Vernon | Camp.. | Aug. | 17, 1915. |
+| 2 | 473 | 512 | 1577 | 543 | 442810 | Private  | Whiddun, llenry Fraser  | Nii  |
+| 2 | 1680 | 526 | 3673 | 561 |  |  |  | White, Mrs. J  | Wisbech, Cambridge, Eng  | England.. | Vernon | Camp.. | Sept. | 30.1915. |
+| 2 | 474 | 540 | 1577 | 571 | 413111 | Private  | (White, John   | Nil  |
+| 2 | 2183 | 556 | 3673 | 586 |  |  |  |  | 32 Andover Rd., Portsmouth, Hants, Eng   | I3.W.1 ... | Vernon | Camp.. | Sept. | 8, 1915. |
+| 2 | 472 | 564 | 2050 | 599 | 44390' | Private  | IWhitc, Maxwell Eden.....  | 102nd Regt  | White, Montague  |
+| 2 | 472 | 586 | 3672 | 636 | 44384$ | i Private  | j Whitehead, GeolTroy  | Nil  | Whitehead, Ernest  | 11 Hampton Court, Vancouver, B.C  | England.. | Vernon | Camp.. | Aug. | 28, 1915. |
+| 2 | 1657 | 615 | 3673 | 649 |  |  |  | .'Lunnnm, Mrs. R  | Kisbey, Sask    | Canada... | Vernon | Camp.. | Aug. | 2K, 1915. |
+| 2 | 471 | 625 | 1576 | 660 | 442869 | Private...'.. | jWhitehouse, Edwin  | Nil  |
+| 2 | 471 | 645 | 3673 | 688 | 443331) | Private  | Widmark, John Holiner  | Nil  | Widmark, Mrs. J. H  | Notch Hill, B.C    | Sweden... | Vemon | Camp.. | Aug. | 28, 1015. |
+| 2 | 471 | 674 | 3673 | 723 | 443508 [Private  | Wigmore, Sidney ilammond... | Nil  | Wigmore, Mrs. L....  | 15 Casinwood's Rd., London, Eng  | England.. | Vernon | Camp.. | Sept. | 30, 1915. |
+| 2 | 471 | 705 | 3674 | 746 | 44333C>! Private  | Wikstrom, Harry  | Nil  | Wilcstrora, John  | Savona, B.C  | Canada... | Vemon |  | July | 17, 1915. |
+| 2 | 470 | 734 | 3674 | 775 | 443182 Private  | I Wilkinson, Frederick  | Incl. Co. Rillos.. | Wilkinson, Mra. Thomas.. | Phoenix, B.C  | England.. | Vornon | Camp.. | Nov. | 11, 1915. |
+| 2 | 471 | 764 | 3673 | 806 | 443175 Private  | Williams Alfred Llewellyn.... | Nil  | Williams, Mrs. Jane  | Erl go wood, B.C   | U.S.A.... | Vernon | Camp.. | Nov. | 9, 1915. |
+| 2 | 470 | 793 | 3672 | 833 | 443341 Private  | Williams, Banlicld  | ...!Nil  | Williams, D  | 1054, 6th Ave. W., Vancouver, B.C  | Wales . .. | Vernon | Camp.. | Aug. | ?«. 1915. |
+| 2 | 469 | 823 | 3672 | 865 | 442S31 Private  | Williams, Joseph   | ...Nil  | Williams. Miss Celia  | 65, 12lth St., New York, N.Y., U.S.A  | England.. | Vernon | Camp.. | Aug. | 28, 1915. |
+| 2 | 469 | 853 | 3673 | 892 | 4436061 Private  | Williamson, Frederick  | ...ICan. Mil  | Not stated  | Not stated  | Canada... | Vernon | Camp.. | Aug. | 28, 1915. |
+| 2 | 468 | 882 | 3671 | 923 | 4434771 Private   | Willis, Douglas Walter  | ... 102nd Regt  | Willis, H  | Hornsey, London, Eng  | England.. | Vernon | Camp.. | Oct. | 12. 1915. |
+| 2 | 467 | 912 | 3671 | 952 | 443340! Private   | Willis, William  | ...Nil.  | Wills, James  | Preston, Lancs., Eng  | England.. | Vernon | Camp.. | Aug. | 28, 1915. |
+| 2 | 466 | 942 | 2962 | 989 | 442813 j Privato  | Willson, Francis George D  | O.T.C  | Willson, Georgo  | Castlefcon, Longton Ave., Upper Sydenham, London, |
+| 2 | 2232 | 969 | 3670 | 1002 |  |  |  |  | S.E., Eng  | Engle nd.. | Vemon | Camp.. | Aug. | 24, 1915. |
+| 2 | 465 | 992 | 3671 | 1037 | 4136731 Privato  | Wilson, D.wid  | Nil  | Wilson David, (Sr.)  | Reserve Minos, C.B., N.S  | Canada... | Vemon | Camp.. | Aug. | 28, 1915. |
+| 2 | 464 | 1027 | 3670 | 1066 | 443939 Privato  | Wilson, Ernest Arthur  | I07th Regt.. | Crowcroft, Mrs. Lily  | Fernie, B.C  | England.. | Vernon | Camp.. | •Sept. | 7, 1915. |
+| 2 | 462 | 1057 | 3670 | 1097 | 442.r»78| L.-Coiporai. | ;Wilson, Henry Philip  | Nil  | Wilson, Mrs. Dorothy  | 1758, 33rd Ave., Vancouver, B.C  | England.. | Vernon | Camp.. | Aug. | 28, 1915. |
+| 2 | 462 | 1086 | 3670 | 1134 | 443S161 Privato  | j Wilson, James Henry  | Nil  | Wilson, Mrs. Thomuini... | Coal Creek, B.C     | England.. | Vemon | Camp.. | Vug. | 28, 1915. |
+| 2 | 461 | 1115 | 3669 | 1152 | 443800 Private  | I Wilson, Jmn'M Samuel  | Nil  | Wilson, R. B  | Calgary, Alta   | Canada... | Vornon | Camp.. | fVug. | 20, 1915. |
+| 2 | 461 | 1145 | 3668 | 1182 | 443416 Private  | j Wilson, John Wilson  | N.l  | Wilson, William  | I^ort Vill% Enniskillen, Co. Fermanagh, Ire  | Ireland... | Vemon | Camp.. | 'Sept. | 20, 1915. |
+| 2 | 460 | 1174 | 3668 | 1212 | 443456 Private  | I Wilson, Joseph  | Nil  | Wilson. William   | Ladysmith, Vancouver Id., B.C  | England.. | Vernon | Camp.. | if )ct. | 1, 1915. |
+| 2 | 460 | 1198 | 3667 | 1242 | 442509 L.-Corporal.. | Wilson, Robert Giles   | 103rd Regt.. | Wilson, Mrs. Robert Henry | Steel ton, Ont  | Canada... | Vernon | Camp.. | [July | 14, 1915. |
+| 2 | 462 | 1232 | 3668 | 1270 | Privato  | 443341 | Wilson, Russell Trank  | Nil  | Wilson, John  | Revelstoke, B.C   | .Canada... | Vernon | Camp.. | •Aug. | 28, 1915. |
+| 2 | 459 | 1262 | 3668 | 1299 | Private  | 443675 | Wilson,.William Ernest  | N.l  | Downey, Mrs.'C  | Cobourg, Ont  | Canada... | Vemon | Camp.. | 'Aug. | 28, 1915. |
+| 2 | 460 | 1292 | 3668 | 1329 | Privato  | 443109 | Wilton, Ernest Roy  | Nil  | Wilton, William  | Koch Siding, B.C  | Canada... | Vernon | Camp.. | Aug. | 17. 1915. |
+| 2 | 459 | 1321 | 3667 | 1356 | Private  | 443W6 | Winslow. Aloort. James  | 102ni Regt.. | Pettman, Mrs. C. A  | Kelowna, B.C    | England.. | Vernon | Camp.. | Sept. | 8, 1915. |
+| 2 | 458 | 1351 | 3668 | 1387 | Private  | 443711 | Wissenden, Frederick Laurence R. | U.N.W.M.P. | Wissenden, Frederick  | Farnborough, Kent, Eng  | England.. | Vernon | Cam p.. | Aug. | 28, 1915. |
+| 2 | 458 | 1380 | 3669 | 1415 | Privato  | 443879 | Wood, OrMif'ln* Vornon  | 102nd Regt.. | I Wood, Rev. J. A  | Armstrong, B.C    | Canada... | Vernon | Camp.. | Sept. | 8, 1915. |
+| 2 | 458 | 1409 | 3669 | 1444 | Privato  | 443343 | Wood, Francis Joshua  | Imp. Forces. | Wood, F. J  | Ewing's Landing, Okanagan Lake, B.C  | England.. | Vernon | Camp.. | Sept. | 30, 1915. |
+| 2 | 457 | 1438 | 3669 | 1473 | Privato  | 443385 | Wood, Jam Mi Ellis  | 102nd Regt.. | Wood, Rev. T. A.   | Armstrong, B.C  | Canada... | Vernon | Camp.. | Sept. | 30, 1915. |
+| 2 | 458 | 1468 | 3669 | 1502 | Sergeant  | 443862 | Wood, r^vinard W'illiam  | N.l  | Wood. Mrs. Eugenie  | Revelstoke, B.C  | •Scotland. | Vemon | Camp.. | Sept. | 8, 1915. |
+| 2 | 458 | 1497 | 3668 | 1531 | Private  | 443591 | WoodruIt, Richard Thomas  | Nil   | Woodruff, Mrs. R. T  | c/o McKay Simons, Cable Head West, PEI  | England.. | Vemon | Camp. | Oct. | 26. 1915. |
+| 2 | 459 | 1528 | 2962 | 1562 | Privato  | 443189 | Worthington, Roy    | 102nd Regt.. | Worthington, W  | “Tho Cottage,’* Rodoliffe Rd., Barton, Manchester, |
+| 2 | 2234 | 1554 | 3669 | 1587 |  |  |  |  | Eng    | England.. | Vernon Camp.. |  | Nov. | n, 1815. |
+| 2 | 458 | 1584 | 3668 | 1619 | 442511 | Privato... | Wray, Arthur  | N.l  | Wray, John William  | Pateley Bridge, Yorks, Eng  | England.. | Vornon Cum p.. | Aug. | 25, 1915. |
+| 2 | 458 | 1613 | 3668 | 1651 | 443453 | Private.,. | Yntes, Ashton  | Nil  | Yates, Mrs. A  | 91 Chipman Ave., Fernie, B.C  | England.. | Vernon Camp.. | Oct. | 2, 1915. |
+| 2 | 458 | 1640 | 3667 | 1677 | 442522 | Private... | Vates, James  | Nil  | Yates, Mrs. Sarah  | 120 Manchester Rd., Tyld^ley, T/anes, Eng  | England.. | Vemon Camp.. | | Aug. | 28, 1915. |
+| 2 | 458 | 1672 | 3668 | 1705 | 4425*23 | Private... | Yates, William  | Nil  | Yates, Mrs. Sarah  | 120 Manchester Rd., Tyldeeley, Lancs, Eng  | England.. | Vemon Camp . | • Sept. | 2S. 1915. |
+| 2 | 458 | 1699 | 3667 | 1735 | 413347 | Private... | Young, Arthur Oscar  ... | Nii  | Young, W. H   | Makinak, Man  | Canada... | Vemon Camp.. | !Auk. | ?S. 1915. |
+| 2 | 458 | 1721 | 3668 | 1765 | 44-822 | Private... | Young, Clinton   | U. S. Army.. | Young, Mrs. Edicta  | MeMurdo, B.C   | U.S.A.... | Vernon Camp.. | ! Auk. | 17. 1915. |
+| 2 | 457 | 1761 | 3668 | 1793 | 4-135:58 | Private... | Young, Edward  | Nil  | Young. Mrs. Elinor V  | P.O. Box 445, Revolstoko, B.C  | England.. | Vemon Camp.. | Sept. | 30, 1915. |
+| 2 | 457 | 1788 | 3668 | 1823 | 443588 | Privato... | Young, John  | Nil  | Fell, Sirs. P  | 824 Third Ave. W., Calgary, Alta..   | Scotland. | Revelstoke .. | Out. | 23, 131.".. |
+| 2 | 457 | 1819 | 3667 | 1854 | 443774 | Private... | Young, Joseph Charles  | Territorials.., | Young. Miss Gladys  | Clovelly, Shakespeare Rd., Harpenden, Herts, Eng  | England.. | Vemon Camp.. | Au«. | 28, 1915. |
+| 2 | 457 | 1848 | 3667 | 1883 | 44392S | Private... | Young, Thomas Walter A  | Nil  | Seal, Mrs..   | Balfour, B C   .  | England.. | Vornon Camp.. | Sept. | 7.1915. |
+| 2 | 456 | 1877 | 3667 | 1913 | 443118 | Privato... | Young, William Joseph  | Nil  | Young, W. J   | 3 Brynglas Cres., Newport, Monmouth, Eng  | England.. | Vemon Camp.. | Auk. | 25, 1915. |
+| 2 | 457 | 1907 | 3667 | 1944 | 442513 | Corporal., | Younger. Harcua Be«tton  | S. A  | Yonngor, Mrs. H. B  | Okanagan Landing. B.C  | Scotland. | Vemon Camp.. | Aui?. | 20, 1915. |
+| 3 | 632 | 595 | 3133 | 626 |  |  |  | Former Corps. |  |  | Country of |
+| 3 | 529 | 742 | 3633 | 773 |  | If Captain  | Turner, Anthony   | 83th Regt | Turner, Mrs. Gladys G. R | Bristol Pension, The Leas, Folkestone, En |  | Shorncliffe  | Sept. 3, 1915. |
+| 3 | 539 | 773 | 3633 | 801 |  | Lieutenant... | Archer, Alfred Alexander.. | 102nd Regt | Archer, Mrs. A  .... | P.O. Box 451, Kamloops, B.C  |  |  | Sept. 3, 1915. |
+| 3 | 540 | 801 | 3632 | 831 |  | Lieutenant-... | MeLrnn. Cecil Gower  | 11 Mi Regt. | McLean. Mrs. Ida Millicent | 2216 Blenheim Rd., Vnncouver, B.C  |  | Aldershot  | Sept. 13, 1915. |
+| 3 | 539 | 831 | 3634 | 861 |  | Lieutenant... | Rand, Edward Arthur  | 104 tli Regt | Rand, Arthur  | ;w Westminster, B.C  |  |  | Sept. 5. 1915. |
+| 3 | 539 | 861 | 2779 | 889 |  | Lieutenant... | Smith, William Clegg  | C.G.A  | Smith, Mrs. W. C.... | 936 Grnville St., Vancouver, B.C  |
+| 3 | 439 | 891 | 3634 | 919 | 442001 Private  |  | Adams, Alexander  |  | Adams, John  | 362 High St., Linlithgow, Scot  |  | Vernon  | July 14, 1915. |
+| 3 | 437 | 920 | 3635 | 950 | 442010 Private  |  | Agish, Alexander. ......... | Nil  | Agish, Mike  | P.O., Petrograd, Servia  | Servia  | Vernon  | Muv 3. 1915. |
+| 3 | 438 | 948 | 3635 | 978 | 442003 Private  |  | Aitkons, Clement William. | Nil  | Ait,kens, Mrs. C. W.. | Peach land, B.C  |  | Vernon........ | June 22, 1915. |
+| 3 | 438 | 976 | 3635 | 1009 | 412004 j Private  |  | Aitkens. Ernest Cordon.... | 30th Horse | A*l kens, Mr. C. W... | Peachland, B.C    | Canada  | Vemon  | July 14, 1915. |
+| 3 | 437 | 1008 | 2905 | 1039 | 442009 Private  |  | Allen. Herbert Clarence. . . | Territorials | Allen. Herbert George.. | j Harper’s Camp, Horse Linn, 150 Mile House | 1)0 |
+| 3 | 2198 | 1037 | 3636 | 1065 |  |  |  |  |  | B.C  | England  | Vemon  | July 14, 1915. |
+| 3 | 437 | 1067 | 3636 | 1096 | 412202 | Private  | Allen, James  |  | Allen, Sherman  | Grayson Springs. Ky., U.S.A  | U.S. A  | Vemon  | Julv 14, 1915. |
+| 3 | 437 | 1096 | 3635 | 1126 | 442005 | Corporal.... | Alliston, George Robert... | Nil  | Alliston, Mrs ..... | 9 High St.. Sandy Bay, Tasmania  | England  | Vornon  | Julv 14, 1915. |
+| 3 | 436 | 1126 | 3635 | 1155 | 442007 | Private  | Anderson, John Henry  | Nil  | Anderson, August.... | Malakwa. B.C  | U.S. A  | Vemon  | July 14, 1915. |
+| 3 | 436 | 1155 | 3635 | 1184 | 442008 | Privato  | Anderspn, John Marshal... | Nil  | Miller, Mrs. Andrew. | 15 Larch Rd., Dumbreck, Glasgow, Scot... | Scotland  | Vernon. .   | July 14, 1915. |
+| 3 | 436 | 1184 | 3635 | 1214 | 442011 | Corporal | Babin, George Henry P.... | Nil  | Babin, Mrs. P. A.... | Edmundstpn, N.B  |  | Vernon  | July 14, 1915. |
+| 3 | 436 | 1213 | 3634 | 1243 | 464278 | Privato  | Baker, Charles Stanley.... | Nil  | Baker, Donald J  | Prince George, B.C  |  | Vemon  | Sept. 38, 1915. |
+| 3 | 437 | 1244 | 2780 | 1273 | 442031 | Privato  | Baker, George—  | Nil  | Baker, August.  | Quesnel, B.C  |
+| 3 | 437 | 1273 | 3635 | 1303 | 442010 | Private. | Baker, William Riley  | Nil  | Baker, Samuel... .t. | Grand Forks, B.C  | Canada  | Vernon  | July 14, 1915. |
+| 3 | 437 | 1303 | 3635 | 1333 | 442030 | Privato  | Baldwin, Charles G. B.... | Nil  | Baldwin, Mrs  | Priory Villas, Friern Barnet, J/ondon, Eng... |  | Vornon  | Julv 14, 1915. |
+| 3 | 437 | 1332 | 3636 | 1363 | 442020 | Privato  | Barnes, Albert Henry...... | 102nd Regt | Barnes, M. A   | Armstrong, B.C..   | U.S. A  | Vernon  | July 14, l'll.r>. |
+| 3 | 437 | 1361 | 3636 | 1393 | 442020 | Privato  | Bearpark, Harold Frederic! | Nil  | Bearpark, Mrs. E. B. | n,2 Gladstone St., Hull, Yorks, Eng  |  | Vernon  | Julv 14, 1915. |
+| 3 | 436 | 1386 | 3636 | 1421 | 412022 | Privato  | Beil, Adam Wightman  | 102nd Regt | Bell, William A  | Revelstoke, B.C  | Scotland  | Vernon  | July 14,1915. |
+| 3 | 436 | 1418 | 3637 | 1450 | 442020 | L.-Corporal.. | liell, James.  | Imp. Forces | Bell, William A  | Revelstoke. B.C  |  | Vemon  | July 14, 1915. |
+| 3 | 436 | 1448 | 3636 | 1481 | 442102 | Private  | Bonn* tt, Norman Whitney, | Nil  | Bennett, Robert  | Dunnville, Ont    | Canada   | Vernon  | July 14, 1915. |
+| 3 | 435 | 1478 | 3636 | 1511 | 442246 | Private  | Bex, Georgo Merry  | Nil  | Cooper, Mrs  | 125Tachbrook St., Westminster, London, Eng | England  | Vernon  | July 14, 1915. |
+| 3 | 435 | 1507 | 3637 | 1540 | 442024 | Corporal.... | Birkett, Harold Wreford... | O.T.C  | Birkett, Mrs  | Chislehurst, Kent, Eng  | Kngland  | Vernon  | July 14, 1915. |
+| 3 | 435 | 1535 | 3638 | 1569 | 412028 | Private  | Blackaby, Gerald Richard | O.T.C  | Blackabv, Joseph Alfred | Cii tdwell Heath, Essex, Eng....   | Englnud  | Verr.on  | July 14,1915. |
+| 3 | 436 | 1564 | 3637 | 1599 | 442010 | Sergeant  | Blinch, William Cliff  | Imp. Forces | Blinch, Mrs. Mary Garn< | 10 Prescott St., New Brighton, Cheshire, Eng | England  | Vernon   | Julv 14, 1915. |
+| 3 | 436 | 1594 | 3637 | 1627 | 442017 | Private  | Boothe, Reginald Lo Roy. | Nil.... | Boothe, Thomas II... | Naramata, B.C  |  | Vemon  | Julv 14, 1915. |
+| 3 | 437 | 1623 | 3637 | 1656 | 442014 | Private  | Bourdon, Ed ward  |  | Bourden, Alphouse.... | 433 St. Antoine St., Montreal, P.Q  | (’anada  | Vornon  | Julv 11, 1915. |
+| 3 | 436 | 1652 | 3637 | 1686 | 442223 | Private  | Breslin, Daniel  | Nil  | Breslin, Mr^ Mary. .. | 7 Union PI., Anderston, Glasgow, Scot  | Ireland   | Vernon  | July 14, 1915. |
+| 3 | 436 | 1682 | 3637 | 1716 | 4120IS | Private  | Brown Kgerton G  | 95th Regt. | Brown '1\ E  | Port Granby, Oat. . .   | Canada . | Vemon  | Julv 11.1915. |
+| 3 | 436 | 1712 | 3637 | 1744 | 412027 | Private  | Brow n, James Ernest  | Nil   | Brown, Mrs. Goorgina | Kamloops, B.C.    |  | Vemon  | Julv 14,1915. |
+| 3 | 437 | 1743 | 2783 | 1775 | 442025 | L.-Corporal.. | Brown, William Graham T | S.A  | Brown, Mr^ Margaret | Revelstoke. B.C    |
+| 3 | 436 | 1771 | 3638 | 1802 | 442023 | Private  | Bruce, Charles  | Nil  | Bruce, Benjamin  | Errington, Vancouver, B.C  | England    | Vornon   | Julv 14,1915. |
+| 3 | 436 | 1800 | 3637 | 1831 | 442010 | Private  | Brunei , Wilfred Oncar  |  | Brunet. Joseph H.... | Little Falls, Minn., U.S.A  | U.S. A  | Vornon   | July 14, 1915. |
+| 3 | 437 | 1829 | 3638 | 1862 | 442012 | Private  | Bryson, William Robert... | Nil  | Bryson, William  | Ormstown, P.Q  | Canada   | Vernon  | Julv 14. 1915. |
+| 3 | 442 | 1858 | 3638 | 1889 | 112010 | Pi ifate  | Cairns, Thomas   | Nil...... | Clayton. Eiwne | Harper’s Camp, Cariboo, B.C  |  | Vernon  | Julv 14. 1915. |
+| 3 | 437 | 1887 | 3638 | 1920 | 4 1203/1 Private  |  | Caldcr, Alexander Malcolm | Territorials | Caldcr, Mrs. M ,vry... | Commercial Bank Hou^o, Alness, Ross, Scot | Scotland  | Vornon  | Julv 14,1915. |
+| 3 | 437 | 1917 | 3639 | 1949 | 412041 Private  |  | Calder, William  | Nil  | Calder, William  | Revelstoke, B.C  | (’anada  | Vornon  | July 15, 1915. |
+| 3 | 438 | 1946 | 3639 | 1978 | 442081 Private  |  | Carlson, Eric  |  | Carlson, S  | i Biblibtok^gatan, Stockholm, Sweden  |  |  | July 15,1915. |
+| 3 | 437 | 1975 | 3638 | 2015 | 4420441Corporal.... |  | Carter, Frederick Ernest.. | 1 nip, Forces | Carter, Miss A  | P.O. Box 478, K.mdoops, B.C  | England   | Vernon  | [July 14, 1915. |
+| 3 | 438 | 2004 | 3637 | 2038 | 4120321 Privato  |  | Church, William Wallace. . | Nil  | Church, Mrs. Charles | ^8 Grovo Rd.. Wanstead, London, F.ng  | England  | Vernon  | 'Julv 14, 1915. |
+| 3 | 438 | 2034 | 3637 | 2074 | 44 20431 Private  |  | Collins, Anthony  | i02nd Regt | Siciusuu, Mrs. Eug... | Buwoiuan River, Man  | England  | V err"" | Ill i y J4 19)5. |
+| 3 | 437 | 2063 | 3638 | 2096 | 44203V Private  |  | Cook. Maurice James  | 23rd Regt. | Cook, Ilarry  | Arrowhead, B.C  | Canada  | Vernon  | Julv 14.1915. |
+| 3 | 439 | 2092 | 3638 | 2127 | 44 ?035! Private  |  | Cookson, Christopher Bryan | Nil  | Cookson. Mrs G. W. | Broughton Tower, Broughton-in-Furness, Lam | ng | England  | Vornon  | 'July 14, 1915. |
+| 3 | 439 | 2115 | 3638 | 2159 | 442045) Private  |  | Cooper, Hurry Josoph  | Can. Eng.. | Cooper, Mrs. C  | 62 Lulot St., lichgate, Londou, Eug  | England  | ■ Vcrnou  | 'July 15, 11)13. |
+| 3 | 802 | 2150 | 3638 | 2182 |  |  | 'fYmrlnnd Thomn«* | Nil  | Copeland. John  | North Bend. B.C  | Canada   | Vornon   | 1,1 u 1 v 14. 1915. |
+| 4 | 2130 | 309 | 3620 | 341 |  |  |  |  |  | P.O. Box 426. Winnipeg, Man........... |  | Vornon   | July | 1015. |
+| 4 | 415 | 317 | 1566 | 357 | 442038 | Private  | Corrigan. Albert  | |Ni|   |
+| 4 | 415 | 338 | 3621 | 377 | 442042 | Privato. | Corw>n, Cecil.   | 'v   | Corson, Mrs. Annie R... | Revelstoke, B.C  |  | Vernon  | July | 1015. |
+| 4 | 416 | 369 | 3620 | 407 | 442237 | Private  | Crow, John Walter*  | ..1  | Crow, Mrs. John W  | Slocan City, B.C...  | England  | Vemon *... | July | 1915. |
+| 4 | 417 | 397 | 3622 | 436 | 442U34 | Private  | Cullis, John '  | Nil  | Cullis, Mrs. Elizabeth.. | Taft, B.C  | England  | Vemon  | July | 1916. |
+| 4 | 417 | 429 | 3620 | 465 | 4420M | Private  | Cunningham, John,  | Imp. Forces  | Howard, Mrs. Mary Kal | Maryport, Cumberland, Eng  | Ireland  | Vernon  | July | 1915. |
+| 4 | 416 | 459 | 3620 | 496 | 442050 | Private........... | Dalchcr, Arnold | Nil   | Dalcher, Mrs. Sophio... | Crippsdafe, Edmonton, Alta  |  | Vemon  | July | 1915. |
+| 4 | 417 | 486 | 3620 | 524 | 442050 | Private  | Daniels, Francis W  | Nil  | Dun ids, A. G  | Revelstoke, B.C.    | Canada  | Vernon  | July | 1916. |
+| 4 | 417 | 517 | 3619 | 554 | 442052 | (’orporal  | Darling, Walter Douglas  | Territorials...,  | Darling, William  | Alexander St., Airdrie, Lanark, Scot... | Scotland  | Vernon....i.... | July | 1915. |
+| 4 | 416 | 546 | 3619 | 581 | 442051 | Privato  | Davidson, David  | Nil  | Not stated  | Not stated  |  | Vernon  | July | 1915. |
+| 4 | 417 | 576 | 3619 | 609 | 442048 | Private  | Davis, Richard  | Nil  | Davie, Richard  | Stellarton, Pictou Co., N.S  |  | Vernon  | July | 1915. |
+| 4 | 417 | 604 | 3619 | 641 | 442047 | Private  | Deioaray, Peter  | Nil  | Demaray, Phincas  | Forest, Ont  | Canada  | Vernon  | July | 1915. |
+| 4 | 418 | 633 | 3618 | 668 | 442040 | Private  | Devcreux, Richard   | Nii  | Devcreux, Marie  | 70 Boswell St., Liverpool, Eng  | England  | Vemon  | July | 1916. |
+| 4 | 417 | 662 | 3619 | 699 | 442057 | Private  | Dickie, Norman Leslie  | 7lli lvCRt  | Dickie, Maggie B  | 22 Park Dr., Hampstead, Ix>ndon N.W. | Ireland  | Vernon  | Julv | 1915. |
+| 4 | 417 | 692 | 3619 | 728 | 442059 | Private  | Dion, Amile  | Nil  | Lannill, Mr  | 1308 llowe St., Vancouver, B.C  | Canada  | Vernon  | July | 1915. |
+| 4 | 417 | 721 | 3619 | 758 | 44"053j!’rivatc  |  | Dobson, Arthur  | Nil  | Dobson, Alfred  | 29 Bridge Rd., Uxbridge, Eng  | England  | Vernon   | July | 1915. |
+| 4 | 416 | 751 | 3619 | 788 | 4420->f* | Private  | Donald, William  | 1 erritorials  | Fienderson, Mrs. W  | Meldrum House, Oldermuir, Aberdeen, Sco | Scotland  | Vemon  | Juiv | 1915. |
+| 4 | 416 | 780 | 3618 | 818 | 442055 | Private  | Dow, John Campbell  | 102nd Hogt   | Dow, John Wilson  | Creston, B.C..    | U.S. A  | Vernon  | July | 1915. |
+| 4 | 415 | 809 | 3620 | 847 | 442060 | Private  | Duckworth, Arthur  | Imp. Forces  ... | Duckworth, Mrs   | 34 Gorple St., liarle Syke, Burnley, Lancs | England....... | Vemon  | Julv | 1916. |
+| 4 | 416 | 840 | 3619 | 877 | 442054 | Private  | Durston, John  | Nil  | Durston, Mrs. Lydia.... | Rooksbridge, Somerset, Eng  | England  | Vernon  | July | 1915. |
+| 4 | 416 | 869 | 3619 | 908 | 442001 | Private  | Eaton, Judson Woodworth  | Nil  | Eaton, Burton C  | Granville Centre, Annapolis Co., N.S  | Canada  | Vernon  | July | 1915. |
+| 4 | 416 | 899 | 3618 | 938 | 442002 | Private  | Erant, Philip Francis  | 102nd Ilogt  | Erant, Mrs. Annie  | Penticton, B.C  | Canada  | Vernon  | Julv | 1915. |
+| 4 | 415 | 928 | 3618 | 966 | 44200'i | Privato  | Fawcet t, Rowland Hill    | Nil!  | Fawcett, Rowland II... | 73 Princess Ave., Alexandra Pk., London, 1 | England  | Vernon  | July | 1915. |
+| 4 | 415 | 957 | 3618 | 995 | 442005 | Corporal  | Field, James Samuel  | n.d.B.G  | Field, Mrs. Gertrude Mar | Revelstoke, B.C  | Ireland  | Vemon  | July | 1915. |
+| 4 | 414 | 986 | 3618 | 1025 | 44211011 | Private  | Findlater, John Taylor     | Nil  | Fawcett, Mrs. J.*L. A... | 142,'2nd St. E., North Vancouver, B.C.... | Canada  | Vemon  | July | 1915. |
+| 4 | 413 | 1015 | 3618 | 1054 | 442008 | Private  | Fleming, Thomas  | Nil  | Fleming, William ..... | Revelstoke, B.C   | Canada  | Vernon  | July | 1915. |
+| 4 | 414 | 1045 | 3618 | 1087 | 442004 | Private  | Francis, David Henry .   | Nil i  | 11 Joyds, Elizabeth  | Cymmer, Port Talbot, S. Wales   | Wales   | Vernon   | Juiy | 1915. |
+| 4 | 413 | 1073 | 3617 | 1112 | 442007 | Private  | Fryer, Charles Richard  | Territorials  | Fryer, Frank  | ^ Bishop Rd., Han well, London, Eng  | Englnnd  | Vemon  | July | 1915. |
+| 4 | 413 | 1102 | 3617 | 1141 | 412077 | Private  | Gay, Clarence Russell  | Nil 1 |  | Hampton, Ont  |  | Vernon  | July | 1915. |
+| 4 | 413 | 1131 | 3616 | 1172 | 442082 | Private  | Gibberd, Frederick Eustace  | Nil ! |  | *10. 15th Ave. W., Vancouver, B.C  |  | Vernon  | July | 1915. |
+| 4 | 414 | 1159 | 3723 | 1198 | 442075 | Private  | Gibson, Arthur    | Nil  |  | *1 Elgin ltd-, Seven Kings, Essex, Eng  | England  | Vemon   | July | 1915. |
+| 4 | 414 | 1189 | 3616 | 1237 | ■142070 | Private  | Gillies, Hugh ... ^  | Territorials  |  | Tayvallich, Argyll, Scot  | Scotland  | Vernon  | July | 1915. |
+| 4 | 413 | 1217 | 3615 | 1256 | 44207.) | Private  | Gordon, Harold Ford .      | Nil  |  | Revelstoke, B.C*  | Canada  | Vernon  | July | 1915. |
+| 4 | 413 | 1247 | 3615 | 1286 | 4I20SO | Private  | Graham, John Norman  | Nil  | iraham, Norman...... | Fairhall, Man  | Scotland  | Vemon  | .luly | 1915. |
+| 4 | 414 | 1275 | 3615 | 1315 | 412070 | IN ivutc  | Grant, John Marshall  | Territorials  |  | Princess Pats. (Last known address.)  | Scotland  | Vemon  | July | 1915. |
+| 4 | 412 | 1305 | 3614 | 1347 | 442074 | Private  | Gray, James  | Imp. Forces  |  | Orton, Fochabers, Banff, Scot  | Scotland  | Vernon  | July | 1915. |
+| 4 | 412 | 1333 | 3616 | 1376 | 442072 | Private.,  | Gray, William Henry  | Nil  |  | Revelstoke, B.C  ... | Canada. \ | Vemon  | July | 1915. |
+| 4 | 411 | 1363 | 3615 | 1404 | 442070 | Private..  | Gritten, Robert ( Voss field  | Nil  |  | 5 Elm Bank Mansions, The Terrace, Barnes, | ng. | England  | Veruon  | July | 1915. |
+| 4 | 411 | 1393 | 3615 | 1434 | 442102 | Private  | Hagen, James Francis  | Nil  | Hagen, William B  | Summerside, P.E.I    | (Canada  | Vernon  | .lulv | 1915. |
+| 4 | 411 | 1423 | 3616 | 1462 | 442003 | Private  | Hagen, Patrick   | Nii  | Hagen, William B  | Suminorside, P.E.I    | Canada  | Vernon  | July | 1915. |
+| 4 | 3170 | 1451 | 3616 | 1482 |  |  |  |  |  |  |  | Vemon  | July | 1915. |
+| 4 | 411 | 1461 | 2730 | 1493 | 44201*2 | Private  | Haldane, Robert   | TOt.li Kegt  | Haldane, James  | Olds, Alta  |
+| 4 | 411 | 1481 | 3616 | 1523 | 44203!) | Private  | Halverson, Allred Johannes  | Nil  | Halverson, Mrs. Karine. | R.cveistokc, B.C  | Norway  | Vernon  | July | 1915. |
+| 4 | 412 | 1511 | 3617 | 1551 | 412007 | Private  | 1 lamilton, Adam  | Nil  | Hamilton, Mrs. John— | Saltford, Ont   | Canada  | Vernon  | Juiy | 1915. |
+| 4 | 412 | 1543 | 3474 | 1581 | 41-i»0i | Private  | Hanna, George Edward  | NM  | ITanna, Mra. Marion.... | Revelstoke, B.C  | Canada  | Vemon  | July |
+| 4 | 412 | 1569 | 3619 | 1611 | 4420811 | Private  | Hanson, Charles   | Nil  | Hanson, Ethel   | 234 Birk St., Carrington, N.S.W., Australia | Australia  | Vernon  | July | 1915. |
+| 4 | 412 | 1599 | 3618 | 1640 | 442008 | Private.    |  | Nil  | Harper, Mr?. Harriet... | London, Eng  | Ireland  | Vemon  | .lulv | 1915. |
+| 4 | 413 | 1629 | 3618 | 1670 | 442170 | Private  | Harris, Jack B   | Nil  | I larris, Charles  | P.O. Box 40, Logal, Okla., U.S.A. ... | U.S.A  | Vernon  | (ulv | 1915. |
+| 4 | 412 | 1657 | 3619 | 1700 | 442000 | Private  ... | Harrison, Cedric.   | ran. Ena  | Harrison, William Gibson | Newr.astlo-on-Tyne, Eng  | England  | Vernon  | July | 1915. |
+| 4 | 412 | 1690 | 3474 | 1728 | 412000 | Privato  | Harvey, Frederick \dam  | Nil  | Harvey, Robert A  | Hilden, Colchester Co., N.S  |  | Vemon  | July |
+| 4 | 412 | 1716 | 3618 | 1758 | 442005 | Private  | Hay, James Henrv  | Nil  | flay, Mrs. ![. F  | Revelstoke, B.C   | Cnnadj*.   | Vornon   | July | 1915. |
+| 4 | 413 | 1745 | 3619 | 1788 | 442085 | Private  | 1 lendry, Alexander  | Royal Navy  | Hendry, Alexander  | Gardenstown, Banff, Scot  | Scotland  | Vemon  | July | 1916. |
+| 4 | 412 | 1774 | 3619 | 1818 | 442101 | Private  | Hendry, Francis Gunn  | Nil  | Hendry, Mrs. G  | Lawrence, Otngo, N.7*   | \Tow /^nlnnd... | Vornon.... | .lulv | 1915. |
+| 4 | 413 | 1804 | 3618 | 1847 | 442080 | Private  | Hi'onerty, M ichael  | Nil  | Hennerty. John  | Co. Armagh, Ire  | 1 reland  | Vernon  | July | 1015. |
+| 4 | 413 | 1837 | 3474 | 1874 | 44? 170 | Privato  | Hillier, Alberd Edward  | Imp. Forccs.   | Hillier, Miss E  | Commercial Hotel, Johnston, Neb., U.S.A | England  | Vernon  | July |
+| 4 | 413 | 1871 | 3353 | 1904 | 412000 | Private  | llogg, George Cooke.  | Nil  | Hourg, Mrs. D. O  | Lisowen, Tiondonderry, Ire  | Ireland   | Vernon  |
+| 4 | 413 | 1892 | 3617 | 1934 | 412004 | Privato  | Holdsworth, Charles Theodore... | Ml  | Holdsworth, Mrs  | Kamloops, B.C  | England  | Vernon  | July | 1915. |
+| 4 | 413 | 1926 | 3474 | 1963 | 4420,81 | Private  | Horsfall, Herman  • • | Nil  | 1 forflfall, Mrs, S. J  | Bromsgrovn, Wprf«i( Eng  |  | Vernon  | July |
+| 4 | 418 | 1952 | 3616 | 1992 | 112100 | Private  | Hudson, Alfred  | Nil  | Hudson, W  | 15 N. I^onsdale Rd., Ulverston, Lancs, Eng | England  | Vemon  | July | 1916. |
+| 4 | 413 | 1980 | 3616 | 2021 | 442103 | Private  | fnnin, Robert    | Nil  | Innis, Mrs. Isabella  | Keremeos, B.C.'    | Canada   | Vemon  | July | 1915. |
+| 4 | 414 | 2010 | 3616 | 2062 | » 19101 | Private  | f'iC(.*bson Crist. ... | Nii ; |  | Vive Mulle, Hadsuud, Denmark  | Dun mar k  | Vei non  | July | .3913. |
+| 4 | 414 | 2039 | 3615 | 2083 | 44210011’iivato   |  | JurUine, John  | Territorials.. * 1 |  | Ben Vclin, Kclowua, B.C  | Scotland  | Vemon  | July | 1915. |
+| 5 | 667 | 599 | 3177 | 631 |  |  |  | Former Corps. |  |  | Country of |
+| 5 | 478 | 746 | 3678 | 778 | 442105 | Privato  | Jcssop, Herbert William... | Nil  | Jcssop, George William.. | Solsqua, B.C | England... | Vernon... | uiy | 1915. |
+| 5 | 479 | 774 | 3678 | 806 | 412107 | Private...... | Judd,Jack  | Nil  | Weaver, Mrs. W. T  | 4200 Cedar 8t., Hastings Townsite, Vancouver | Canada.... | Vernon... | uly | 1915. |
+| 5 | 478 | 806 | 3678 | 836 | 44*2110 | Privato.,,,.. | Kelly, Taenia."  | K.C.U.A  | Kenny, James  | Cranbrook, B.C  | England... | Vernon... | uly | 1915. |
+| 5 | 479 | 835 | 3679 | 866 | 442111 | Private  | Kemble, Claude Gowan... | Nil  | Kemble, F. G  | 73 Westborne Gdns., Hove, Sussex, Eng... | England... | Vornon... | uly | 1915. |
+| 5 | 478 | 865 | 3678 | 895 | 442113 | Sergeant  | Kindwell, Hugh P  | Imp. Forces.. | Kingwell, Mary  | Salmo, B.C    | England... | Vernon... | uly | 1915. |
+| 5 | 479 | 894 | 3678 | 924 | 442109 | Privato  | Kirk, James Alfred  | Nil  | Kirk, Henry  | Arrowhead, B.C    | Canada.... | Vernon... | uly | 1915. |
+| 5 | 478 | 923 | 3679 | 954 | 442114 | Corporal  | Knight, A. Edward Grenfel | Nil  | Knight, Mm. A. 13. G.... | Kamloops, B.C  | Wales  | Vernon... | uly | 1915. |
+| 5 | 478 | 953 | 3679 | 982 | 442112 | Private  | Krunalook, Milan  |  | Krunalook, Fedoo  | Nish, Montenegro  | Montenegro | Vernon... | uiy | 1915. |
+| 5 | 479 | 982 | 3679 | 1013 | 442110 | Privato  | Lavcry, Louis Alexander.. | Nil. | Lavery, A. S.t  | New Westminster, B.C  | Canada | Vernon... | uly | 1915. |
+| 5 | 478 | 1011 | 3679 | 1042 | 442117 | Private  | Lawrence, James Lyle.... | Nil. | Lawrence, William MoRa | llovelstoko, B.C  | Canada | Vernon... | uly | 1915. |
+| 5 | 480 | 1040 | 3680 | 1071 | 412122 | Privato  | Lo Blanc, Joseph Alfred... | Nil. | Do Carrie, Louis  | Janeville, Ottawa, Ont  | Canada. | Vernon... | uly | 1915. |
+| 5 | 480 | 1070 | 3680 | 1100 | 442119 | Private  | Lee, William  | Nil., | I/ee, John  | 943, 21th Avo. E., Vancouver, B.C  | Scotland.. | Vernon... | uly | 1915. |
+| 5 | 479 | 1099 | 3680 | 1129 | 442121 | Privato   | Legg, Thomas  | S. A  | Legg, Alice  | 43 Ashweham, Bedford, Eng  | England... | Vernon... | uiy | 1915. |
+| 5 | 479 | 1127 | 3680 | 1159 | 442115 | Private   | Ley, Robert Walter  | 30th Horse. | Ley, George C   | Naval Barracks, Dovonport, Devon, Eng. | England... | Vernon... | uly | 1915. |
+| 5 | 479 | 1157 | 3681 | 1188 | 442113 | Private  | Lowory, William Whilton. | Nil  | Lowery, John B  | Frankford* Ont  | Canada...* | Vernon... | uly | 1915. |
+| 5 | 479 | 1185 | 3680 | 1218 | 442152 | Privato  | MacDonald. Harry Clement | Nil  | MacDonald, John William | Portage La Prairie, Man  | Canada.... | Vernon... | uly | 1915. |
+| 5 | 479 | 1216 | 3680 | 1245 | 442150 | Private  | Maclnnis, Maloolm John.. | Nil  | MaclnniH, Neil  | JIumo Rear, Victoria Co., N.S  | Canada,... | Vernon... | uiy | 1915. |
+| 5 | 479 | 1245 | 3680 | 1279 | 44213S | Privato  | Maloney, Jaraos William.. | Nil  | Butler, Mrs. Maggie  | Lowiswyn, Sask  | England... | Vernon... | uly | 1915. |
+| 5 | 480 | 1274 | 3787 | 1316 | 442125 | (Privato  | Martin, Arthur  | Nii  | Martin, Mrs. Maria  | 109 lx)wer Clapton Rd., London, Eng  | England... | Vernon... | uly | 1915. |
+| 5 | 481 | 1304 | 3680 | 1338 | 442130 | Private  | Martin, John Byron  | Nil  | Martin, William  | Allandso, Los wait, Wigtown, Scot  | Seotlaud.. | Vernon... | uly | 1915. |
+| 5 | 480 | 1334 | 3680 | 1365 | 442127 | Private  | Mathison, Albert  | Nil  | Neil son. Mrs. Christina.. | Bodo, Norway   | Norway... | Vemon... | uly | 1915. |
+| 5 | 481 | 1363 | 3681 | 1398 | 442139 | Privato  | Matthewson, George Alexanc | Nil  | Matthewson, William.... | 19 So ton PL, Edinburgh, Scot  | Scotland.. | Vernon... | uiy | 1915. |
+| 5 | 481 | 1392 | 3680 | 1426 | 442123 | Private  | Mnwdsley, Herbert.. ...... | Nil  | Mnwdsley, Mrs. G  | 18 Ashgrovo, Wavertreo, Liverpool, En"... | ICngland... | Vernon... | uiy | 1915. |
+| 5 | 480 | 1421 | 3681 | 1454 | 412040 | Privato  | Mia well, Wiulield  | 78th Regt.... | Maxwell, William  | Salt Springs, Pictou Co., N.S  | Canada.... | Vernon... | uly | 1915. |
+| 5 | 481 | 1451 | 3681 | 1485 | 442132 | Private  | May ant, Arthur  | 101th llegt... | Roy, Mrs. A  | Quesnel, B.C. | Canada.... | , Vernon... | uly | 1915. |
+| 5 | 481 | 1480 | 3681 | 1512 | 4421(12 | Privato  | McAdam, John P  | Nil  | McAdam. Mrs. Peter.... | 13 Winter St., Dorchester, Mass., U.S.A.. | Canada.... | Vemon... | uly | 1915. |
+| 5 | 482 | 1509 | 3682 | 1543 | 442021 | Private  | McAulav, VS iliiam  | Royal Navy. | McLeod, Mrs, Kenneth.. | 2tl Carloway, Stornoway, Lewis, Scot  | Scotland.. | Vernon | uly | 1915. |
+| 5 | 482 | 1539 | 3681 | 1572 | 442154 | Private  | Mclicth, Malcolm  | Nil  | McBeth, Mrs. Hanna...* | Roger’s Pass, B.C    | Canada.... | ,femon | uly | 1915. |
+| 5 | 484 | 1567 | 3682 | 1603 | 442157 | Private  | Mc< Jallum, William  | Nil  | McCallum, Catharine.... | Ilasol Cottage, Oban, Scot  | Scotland.. | [crnon | uly | 1915. |
+| 5 | 484 | 1596 | 3682 | 1629 | 442148 | Private  | McDonald, John  | Nil  | McDonald, James  | St. John, N.B  | England... | v ernon | uly | 1915. |
+| 5 | 485 | 1625 | 3682 | 1657 | 442158 | Privnto  | McDonald. Malcolm  | Territorials.. | McDonald, John  | Grenetolo, Lochmaddy, Soot  | Scotland.. | Vernon | uly | 1915. |
+| 5 | 485 | 1653 | 3682 | 1687 | 442150 Private |  | Mclnnis, Mitchel  | Nil  | Mclnnia, Hughio C  | AntigoniHhe, N.S  | Canada.... | Vernon | i’ly | 1915. |
+| 5 | 485 | 1682 | 3682 | 1717 | 442153 | i Privato  | McIntosh, Andrew Perry.. | 35th Regt... | McIntosh, W. J   | Barrie, Ont  | U.S. A  | Vernon | uly | 1915. |
+| 5 | 486 | 1714 | 3681 | 1749 | i12009 | I Privato  | MeKcneir, Dun cun  | Imp. Forces. | McKenzie, Malcolm  | Lochcarron, Ross, Scot  | Scotland.. | Vemon | uly | 1915. |
+| 5 | 1691 | 1744 | 3682 | 1772 |  |  |  |  | Kerr, C  | Coiiingwood East, South Vancouver, B.C. | Scotland.. | Vernon | uly | iyi5. |
+| 5 | 484 | 1748 | 1539 | 1785 | 442155 | » Private  | McLean, John Stuart  | |Nil..t  |
+| 5 | 1689 | 1772 | 3682 | 1801 |  |  |  |  | McLean, Malcolm  | Hue Alva Cottage, Barvan, Stornoway, Seo | Scotland.. | Vernon | uly | 1915. |
+| 5 | 484 | 1779 | 1539 | 1809 | 442153 | I Private  | McLean, John  | Territorials.. |
+| 5 | 484 | 1801 | 3681 | 1836 | 442100 | ) Privato  | McLeod, Alexander  | Nil  | McLeod, John.    | Locuinver, Sutherland, Soot  | Scotland.. | Vernon | uly | 1915. |
+| 5 | 1688 | 1830 | 3682 | 1859 |  |  |  |  | McLeod, Mrs. Norman.. | riochinver, S.tth*rland, Scot  | Scotland. . | Vemon | uly | 1915. |
+| 5 | 484 | 1838 | 1550 | 1868 | 4-12149 | ) Private  | McLood, Aniens  | Nil  |
+| 5 | 1688 | 1859 | 3681 | 1889 |  |  |  |  | McMahon, Samuel  | Rovelstoke, B.C   | Canad .a.... | Vernon | uly | 1915. |
+| 5 | 484 | 1867 | 1550 | 1897 | 412249 | I Private  | McMahon, Frederick  | Nil  |
+| 5 | 1688 | 1888 | 3681 | 1917 |  |  |  |  | McMahon, Mrs. Elizabeth | Revelstoke, B.C  | Canada.... | Vemon | uly | 1915. |
+| 5 | 484 | 1897 | 1550 | 1925 | 442151 | Privato  | McMahon, Thomas  | Nil   |
+| 5 | 1690 | 1917 | 3681 | 1947 |  |  |  |  | Not stated  | Not stated  | lV.ol.iand. . | Vernon | uly | 1815. |
+| 5 | 485 | 1926 | 1550 | 1955 | 112150 | I Private  | McPhcr3on, Hugh  | Nil  |
+| 5 | 1689 | 1943 | 3681 | 1975 |  |  |  |  | McRae. Alexander  | Revelstoke, B.C    | {Canada.... | Vemon | ulv | 1915. |
+| 5 | 483 | 1955 | 1541 | 1985 | 442101 |  Private  | Mcliao, Hubert Charles... | Nil  |
+| 5 | 1690 | 1976 | 3681 | 2005 |  |  |  |  | Meek, David    | Eyemouth, Berwick, Soot  | Scotland.. | Vernon | uly | 1915. |
+| 5 | 484 | 1985 | 1541 | 2015 | 442137 Private  |  | Meek, David  | Imp. Forces. |
+| 5 | 1688 | 2006 | 3680 | 2035 |  |  |  |  | Chapman, Mia. Clara., | 10 Sydenham Rd., Croydon, London, Eng, | England... | Vernon, | uiy | 1915. |
+| 5 | 484 | 2015 | 1542 | 2045 | 414J Piivato  |  | Merrett. vSuiiam Henry... | .Nii  |
+| 5 | 1688 | 2029 | 3680 | 2064 |  |  |  |  | SchatT, Mrs  | 1814 BlSsSker St., Brooklyn* N.Y., U.S.A. | U.S.A  | Vernon, | uly | 1915. |
+| 5 | 484 | 2045 | 1542 | 2073 | 442141 Privato  |  | Michel. Louis  | Nil  |
+| 5 | 1691 | 2063 | 3680 | 2093 |  |  |  |  | Mich oil, G \r. TT  | 45 Trnwshury Rd., Sydenham, T/ondon, Eng | England... | Vernon, | ulv | 1918. |
+| 5 | 485 | 2074 | 1542 | 2102 | 4121431 Private  |  | Michell. Reginald Charles. | Nil  |
+| 5 | 1690 | 2093 | 3680 | 2123 |  |  |  |  | Mitchell, William Charles | South Vancouver, B.C  | England... | Vemon, | uly | 1915. |
+| 5 | 484 | 2105 | 1485 | 2132 | 4421291 Private  |  | Mitchell. Walter.   | Nil   |
+| 5 | 1691 | 2123 | 3670 | 2152 |  |  |  |  | Mooran. \. K . | fT*linitnn T«ndtr,*. Hlnclr Dublin, fr» | T rolnn-l | V*»rwr»n | 101 n |
+| 5 | 484 | 2132 | 1531 | 2160 | 44214r»IPrivato  |  | Mooran. Itolmrt Warner. .. | I’ Pei ritorifils. |
+| 5 | 1680 | 2149 | 3680 | 2184 |  |  |  |  | ] McIntyre, Mrs. W. E.... | !St. J^*hn, N.B.   | (Canada.... | , * Vernon. | July | 1915. |
+| 5 | 484 | 2164 | 1543 | 2191 | 4 421281 Private  |  | I Moore. Frank  | I Can. Mil  |
+| 6 | 479 | 284 | 3674 | 314 |  | \ Private.. | 442144 | Morgan, Alfred  | Territorials | Houston, L. C  |  | (Scotland  | 52 Stirling Rd., Trinity, Edinburgh, Scot  | [Vernon.. | i July | 14, 1915. |
+| 6 | 478 | 309 | 3675 | 348 |  | Private.. | 442i;n | Morgan, Clement Game.... | Nil  | AI organ, Mrs. E  |  | England  | 517 Thurlow St., Vaucouver, B.C   | Vernon.. | [July | 14, 11*15. |
+| 6 | 477 | 339 | 3675 | 373 |  | Private., | 442140 | Morgan, Harry Vanault.... | Nil  | Morgan, Harry V  |  | England  | Revelstoke, B.C        | I Vemon.. | July | 14, 1915. |
+| 6 | 477 | 372 | 3674 | 405 |  | i Privato.. | 442130 | Morgan, John  | 102nd Regt | Morgan, H. V  |  | England  | Revelstoke, B.C .  | Vernon.. | [July | 14, 1915. |
+| 6 | 476 | 401 | 3675 | 435 |  | Private.. | 442013 | Moiton, George  | Nil  | Morton, Mra. Sarah Jan |  | England  | Bradford Ave., Cleethorpes, Grimsby, Eng  | Vernon.. | [Aug. | 2.1915. |
+| 6 | 476 | 430 | 3675 | 459 |  | Piivato.. | 442133 | Muir, James.   | Nil   | Muir, Robert  |  | Scotland.  | fioch Arthur Terr., Kirkcudbright, Scot  | Vernon.. | 'July | 14, 1915. |
+| 6 | 475 | 460 | 3674 | 489 |  | Private.. | 442120 | Mull in, John Joseph  | Nil  | Not stated  |  | Ireland   | Not stated  | Vernon.. | Julv | 14, 1915. |
+| 6 | 475 | 483 | 3675 | 517 |  | Private.. | 442135 | Murdock, David...   | Nil  | Murdock, Robert  |  | Scotland   | 101 Harbour St., Ayr, Scot    | Vernon.. | IJuly | 14. 1915. |
+| 6 | 474 | 519 | 3674 | 549 |  | Privato.., | 442071 | Murphy, Micheal  | Imp. Force | Murphy, Mrs. Maggie. |  | Ireland  | Inchi core, Co. Dublin, Ire  | Vernon.. | Ijulv | 14, IVI15. |
+| 6 | 474 | 547 | 3675 | 578 |  | Private.., | 442134 | Murray, John  | Nil  | Murray, Mrs. Kcllo... |  | Scotland. | Juniper, Gen. P.O., Edinburgh, Scot  | Vemon.. | July | 14, 1915. |
+| 6 | 474 | 575 | 3675 | 611 |  | * Private... | 442124 | jMutch, Norman  | Nil  | Mutch, George  | London, Ont  | Canada t Vernon |  | (July | 14, 1915. |
+| 6 | 474 | 606 | 3675 | 637 | 4421071 Private... |  | Ncilsen, Peter Olesen  | 7th Hubs | jNeilson, Basil T  |  |  | Canada | Dudswell, P.Q  | Vemoa.. | July | 14, 1915. |
+| 6 | 474 | 632 | 3676 | 667 | •14 2108* Private... |  | Nelson, Arthur William.... | Nil  | . (Nelson, Mrs. Marie... |  |  | Canada | Cclist-a, via Notch Hill, B.C .  | Vernoa.. | July | 14, 1915. |
+| 6 | 474 | 666 | 3676 | 696 | 4421051 Private... |  | Nelson, Bernard  |  | Nelson, Mr« Anna  |  |  | U.S. A  | New Jersey, N.J., U.S.A  | Vernon.. | Julv | 14, 1915. |
+| 6 | 473 | 696 | 3676 | 725 | 4421091 Private... |  | Nnveu, Alexander  | Nil.. | Laviolette, Paul. |  |  | Canada | 191 Water St., Ottawa, Ont  | Vernon.. | July | 14, 1915. |
+| 6 | 473 | 724 | 3675 | 757 | 442106lPrivate... |  | Newsome, Charles  | 'Nil. | Newsome, William .. | Edmonton, Alta  |  | England 'Vernon.. |  | Julv | 14. 1915. |
+| 6 | 472 | 755 | 3675 | 785 | 442(1021 Private... |  | Nicholson, Ernest E  | S.A., | Nicholson, Mrs. Donalc | Dundas, P.E.I   |  | Canada I Vemon. |  | IJuly | 15, 1915. |
+| 6 | 473 | 783 | 3676 | 816 | 4421 Ml Private... |  | 'Northey, Arthur. | Nil  | Northey, Washington. | Fcnelon Falls, Ont   |  | Canada j Vemon.. |  | IJuly | 11, 1915. |
+| 6 | 473 | 809 | 3676 | 847 | 442171 | Private.., | K diver, James  | Nil  | Oliver, Thomas  | Walkington, Yorks, Eng   |  | England  | Vernon.. | |julv | 14, 1915. |
+| 6 | 473 | 843 | 3676 | 876 | 442244 | Private.. | (Palmer, Kdwnrd Armstrong | Can. Eng.. | Palmer, A  | Rathfriland, Co. Down, Ire  |  | Ireland  | Vemon.. | !July | 14, 1915. |
+| 6 | 473 | 874 | 3676 | 902 | 442241 | Private... | Park, Roswell  ... | Nil  | Park, P. P  | 809 Main St. JR., Hamilton, Ont      |  | Canada  | Vemon.. | July | 14, 1915. |
+| 6 | 472 | 903 | 3677 | 932 | 404279 | Private... | Patterson, \\ illiam John C. | Nil  | Patterson, Mrs. J. F. C | Broadlands Gate, Broekenhurst, Hants, Eng  |  | England  | Vernon.. | Kept. | 28, 1915. |
+| 6 | 473 | 933 | 3676 | 962 | 442242 | Private... | Perry, Alfred Edward  |  | Perry, James  | Well wood, Ont . *  |  | Canad a  | Vernon.. | July | 18.1915. |
+| 6 | 473 | 958 | 3676 | 991 | 442240 | Private... | Petti piece, Earl  | •Nil. | Pettipiece, Mrs. Glad} | Revelstoke, B.C  |  | Canada  | Vernon.. | July | 14, 1915. |
+| 6 | 472 | 991 | 3677 | 1020 | 442245 | Private... | Pope, Bert   | Nil. | Popp, John. .   | Pensaukee, Wia., U.S.A  |  | Canada  | Vernon.. | July | 14, 1915. |
+| 6 | 472 | 1021 | 3678 | 1049 | 442239 | Private.., | Pope, Norman Allan  | Nil. | Pope, Arthur N  | Peachland, B.C    .*  |  | Canada  | Vemon.. | IJuly | 14, 1916. |
+| 6 | 473 | 1050 | 3677 | 1077 | 442243 | Private. , | (Price, (’barirs James. ..... | Nil  | Price, James  | Nanaimo, B.C    |  | Canada  | Vemon.. | iJuiv | 14, 1915. |
+| 6 | 473 | 1079 | 3678 | 1108 | 442247 | Private... | iProcunier, Charles Ault.... | Nil | Procunier, Rev. Charles | Revelstoke, B.C  |  | Canada  | Vernon.. | [July | 14, 1915. |
+| 6 | 472 | 1106 | 3677 | 1138 | 442087 | Private.. | Provis, Reginald Horace... | iNil  | Provis, Robert  | Short lanes End, Truro, Cornwall, Eng. .   |  | England  | Vernon.. | 'Julv | 15, 1915. |
+| 6 | 474 | 1137 | 3784 | 1168 | 442140 | Private.., | Poulton, Percy F  | Nil  | Poulton, Miss E  | 18 Cottage Grove, Luton, Beds, Eng  |  | England  | Vernon.. | July | 15, 1915. |
+| 6 | 473 | 1167 | 3676 | 1196 | 442260 | Private... | Rand nil, Alfred Frank  | 27th Horse | Randall, R  | Baring, Sask  |  | England  | Vemon.. | July | 15, 1915. |
+| 6 | 474 | 1187 | 3678 | 1229 | 442180 | Private.. | Ray, John Ernest  | Nil  | Ray, John  | Station House, Arlecdon, Cumberland, Eng  |  | England | Vernon.. | i.Iuly | 14, 19i5. |
+| 6 | 474 | 1225 | 3678 | 1262 | 442181 | Private.. | Hcid, Donald  | Nil  | Reid, David  | Inverness, Scot [Scotland |  |  | Vernon.. | IJuly | 14, 1915. |
+| 6 | 474 | 1255 | 3677 | 1287 | 442108 | Private.. | Retehas. Tclemnkos.  | Nil  | Retehas, Temstokles. | Parga, Greece Greece |  |  | Vemon.. | IJuly | I, 1915. |
+| 6 | 474 | 1285 | 3677 | 1318 | 442120 | Private.. | Richardson, Hertford  | S.A  | Richardson, II. ()  | Belleville, Ont  |  | Cana* | Vornon.. | July | 11, 1915. |
+| 6 | 475 | 1315 | 3678 | 1350 | 442182 | Private.. | Richmond, James Henry. . | Nil  | Cooper, Mrs. E. D.... | Dover Centre, Ont  |  | Canada.. | . . Vemon.. | July | 14. 1915. |
+| 6 | 474 | 1343 | 3679 | 1378 | 442184 | Sergeant. | Ringer, John Alfred.. . . | ('an. Mil... | Ringer, Margery  | Revelstoke, B.C .   |  | England.. | ... 'Vernon.. | July | 14, 1915. |
+| 6 | 475 | 1369 | 3678 | 1407 | 442147 | Private.. | Roberts, Frederick Albert. | U.S.Army. | Clark, Mrs. Emma F. | E. 1303 Rowan Ave., Spokane, Wash., U.S.A |  | England.. | ...! Vemon.. | July | 15, 1915. |
+| 6 | 476 | 1402 | 3679 | 1436 | 412177 | Private.. | Robertson. David  | Nil  | Robertson, D. L  | Langley Prairie, B.C.     |  | Scotland. | Vernon.. | jjuly | 14, iit 15. |
+| 6 | 476 | 1431 | 3679 | 1473 | 412180 | Private.. | i Robertson, Harold Robert. | j .Vil........ | Robertson, George.... | Penticton, B.C  |  | Canada  | Vernon.. | IJuly | 14, 1915. |
+| 6 | 476 | 1459 | 3680 | 1497 | 442170 | Private.. | ; Robertson, James  | I Territorials | Robertson, Millis  | Revelstoke, B.C  |  | Scotland.... | Vernon.. | July | I i, 1915. |
+| 6 | 477 | 1484 | 3680 | 1525 | 442173 | Priva to.. | i Robinson. Beverley. ..... | I Nil... | Cot son, Mrs. E  | Salmon Arm, B.C   |  | Canada  | Vernon.. | 'July | M, 1915. |
+| 6 | 477 | 1518 | 3680 | 1557 | 442175 | Private.. | Rosa, Stanley Leroy  | j Nil  | Ross, John Henry.... | 134 Mile, Caril»oo Rd., B.C....   |  | Canada..;... | Vernon.. | July | 14, 1910. |
+| 6 | 477 | 1547 | 3681 | 1585 | 442178 | Corporal. | Rowan, Oswald Alban  | ; Tci ritorials | . . Rowan, Charles L.... | Tan Bryn, Pickering lid., New Brighton, Cheshire, Eng |  | ; England  | Vernon.. | July | 14, 1915. |
+| 6 | 477 | 1577 | 3681 | 1611 | 442185 | Private.. | Russell, Alexander  | I Nil  | Not stated  | Not stilted  |  | Canada  | Vemon.. | July | 14, 1915. |
+| 6 | 477 | 1606 | 3681 | 1640 | 442172 | Private.. | Russell, John William  | Nil...... | Russell, James  | Lodi, CaL, U.S. A    |  U.S.A  |  | Vemon. . | Julv | 14, 1915. |
+| 6 | 477 | 1635 | 3681 | 1672 | 442IS3 | Corporal. | Ryall, Sydney George  | Territorials | Ryall, Alfred George. | 158 Holdenhurst Rd., Bournemouth, Eng  |  England... . |  | . j Vemon.. | July | II. 1915. |
+| 6 | 477 | 1665 | 3682 | 1701 | 442)74 | Private.. | Ryan, Joseph   | Imp. Force | Ryan, Robert  | Kildare, Ire  |  Ireland  |  | Vernon.. | July | 14, 1915. |
+| 6 | 477 | 1691 | 3681 | 1730 | 442190 | Corporal. | Safkin, August William.... | Nil  | Safkin, Charles  | Ccutralia, Wash , U.S.A     |  U.S.A  |  | . 'Vernon.. | [July | 14, 1915. |
+| 6 | 477 | 1724 | 3682 | 1758 | 4421SO | Private.. | Scanlon, Charles  | Nil  | Scanlon, Charles.  | 3 Newport St., Middlesbrough, Yorks, Eng.... |    England  |  | . (Vernon.. | IJuly | 14, 1915. |
+| 6 | 478 | 1752 | 3682 | 1787 | 442204 | Private.. | Seaton, Donald Alexander. | Nil  | Seaton, Mrs. J  | Peachland, B.C  |   Canada  |  | . I Vernon.. | July | 14, 1915. |
+| 6 | 477 | 1782 | 3681 | 1817 | 412191 | Private.. | ver, E. Clifford. .    | Nil........ | Sever, John  ... | Armstrong, B.C  |   Canada  |  | . Vernon.. | IJuly | 14, 1915. |
+| 6 | 477 | 1808 | 3682 | 1855 | 442205 | Sergeant. | Sharp, John Lamont  | 102nd Regt | Sharp, Mrs. A  | Kamloops, B.C  |  England  |  | . Vernon.. | Julv | 14, 1915. |
+| 6 | 477 | 1839 | 3681 | 1876 | 442109 | Private.. | Sheehan, Edward  | Royal Nav | Sheehan, Ellen  | St. John’s St., Devonport, Devon, Eng  |     {Ireland  |  | . I Vernon.. | Julv | 14, 1915. |
+| 6 | 478 | 1868 | 3681 | 1906 | 442200 | Sergeant.. | Sinclair, Gtorgo  | Nil  | Sinclair, John  | 138 Victoria lid., Aberdeen, Scot  |  (Scotland.... |  | | Vernon.. | Julv | 14, 1915. |
+| 6 | 477 | 1898 | 3681 | 1934 | 442187 | Private.. | Slater, Waller Herbert  | Nil  | Baker, Louisa   | Westward Ho, WestclilT on-Sea, Essex, Eng  |  [England  |  | |Vernon.. | ,|July | 14, 1915. |
+| 6 | 477 | 1927 | 3680 | 1964 | 442 m | Sergeant. | Smith, ITarold  | N'il  | Smith, F  | Pritchard, B.C  |  | England Vernon |  | . IJuly | 11, 1915. |
+| 6 | 477 | 1959 | 2977 | 1994 | 442193 Privi |  | Soulsby, John......   | Nil  | Soulsby, Mathew  | 7 Dene St., Hetton Downs, Hetton-le-flole, Durham, |
+| 6 | 2249 | 1957 | 3672 | 2019 |  |  |  |  |  | Eng   .... 'England. . . 'Vemon |  |  |  | ! Inly | 14, 1915 |
+| 6 | 477 | 2010 | 3680 | 2052 | 4422011 Private. |  | •Southworth, William Esta  | iNil.. *.... | .. [Southworth, C. W.... | Revelstoke, B.C   iCanada iVernon |  |  |  | .IJuly | ■14, 1915. |
+| 7 | 472 | 544 | 3156 | 585 | cP |  |  | Former Corps. |  |  | Country of |
+| 7 | 470 | 582 | 3602 | 629 | f |  |  |  |  |  |  | Place. | Date. |
+| 7 | 464 | 695 | 3657 | 734 | 442195 |  | Speirs. Archibald  | Nil  | Spcirs, John  | R.R. No. 1, Brampton, Ont  | Canada  | Vernon  | Julv 14,1915. |
+| 7 | 464 | 725 | 3657 | 761 | 442205 | Private  | Stanburv, Mathew  | 25th Regt  | Grant, Mrs. Elizabeth  | Southampton, Eng  | England  | Vemon  | July 14, 1915. |
+| 7 | 465 | 756 | 3657 | 791 | 442197 | Private  | Stevin, John   | Imp. Forces  | Stevin, A. II  | West Summerland, B.C  | Scotland  | \ ernon  | Julv 14,1915. |
+| 7 | 464 | 785 | 3658 | 822 | 442188 | Private  | Stocking, Percy.   | Nil  | Stocking, Thomas  | rhipstead, Kent. Eng  | England  | \ crnon  | Ju, 11,1915. |
+| 7 | 465 | 822 | 1648 | 851 | 442191 |  | Stuart, Edward Charles  | Nil  |
+| 7 | 467 | 844 | 3658 | 879 | 142203 |  | Sullivan, Edward  | Nil  | Sullivan, William  | Walworth, London, Eng  | England  | Vemon   | July 14, 1915. |
+| 7 | 466 | 873 | 3659 | 911 | 44200G | Co. Scrgt.-Mnjor.. | Summers, Roland George  | 88 th Regt  | Summers, Miss Florence  | 1120 Mackenzie St., Victoria, B.C  | England  | Vemon   | July 15, 1915. |
+| 7 | 467 | 903 | 3659 | 937 | 142207 |  | Swan, John Elliot  | Territorial  | Swan, Mrs. Marv  | Wvlam-on-Tvne, Northumberland, Eng  | Scotland  | \ ernon  | Julv 14,1915. |
+| 7 | 466 | 932 | 3659 | 967 | 442200 |  | Swift, Waiter William  | Nil  | Swift, Miss Hannah  | Shelton, Stoke-on-Trent, Eng  | England........ | \ ernon  | July 14, 1915. |
+| 7 | 463 | 961 | 3660 | 997 | 442209 |  | Taggart, Herbert George  | Territorial  | Taggart, George  | 1511, 3rd Ave. E., Vancouver, B.C  | Scotland  | Vernon  | July 14, 1915. |
+| 7 | 463 | 991 | 3658 | 1027 | 442210 | Private  | Tapping, Frank  | Nil  | Tapping, Robert  | Revelstoke, B.C  | Canada  | Vernon  | July 14, 1915. |
+| 7 | 462 | 1020 | 3659 | 1055 |  |  |  |  | Taylor, Mrs. K  | 442190 | Tavlor, Richard  | Territorial  | lifl Cumberland St.. Edinburgh, Scot  | Scotland  | Vernon  | July 14, 19)5. |
+| 7 | 462 | 1049 | 3660 | 1085 | 442219 |  | Tcbbutt, John Langley. ^  | Territorial  | Tebbutt, John B  | Peterborough, Northants, Eng  | England  | Vernon  | July 15, 1915. |
+| 7 | 462 | 1078 | 3660 | 1113 | 442212 |  | Theobald, Arthur Joseph  | Nil  | Brown, Mrs. John  | Peachland, B.C  |  | Vernon  | July 15, 1915. |
+| 7 | 462 | 1108 | 3660 | 1145 |  |  |  |  | Thompson, Mrs. J. J  | 412217 | Private  | Thompson, James Jamieson  | Royal Navy  | Quesnel, B.C  | Scotland  | Vernon  | July 14, 1915. |
+| 7 | 462 | 1137 | 3661 | 1174 | 442221 | Private  | Thompson, John. ...  | Territorials  | Thompson. Mrs. Mary  | 18 A ini Tong, Stornoway, Scot  | Scotland  | Vernon  | July 14, 1915. |
+| 7 | 462 | 1174 | 1648 | 1203 | 442210 | Private  | Tit ford, Percy.  | Nil  |
+| 7 | 463 | 1195 | 3661 | 1232 | 4422lh |  | Tonpe, Trevoi Barton  | Nil  |  |  |  |  | July 14, 1915. | Tonge, Mrs. A. W  | Ruby Lodge, S. Norwood, London, Eng  | England  | Vemon  |
+| 7 | 462 | 1225 | 3660 | 1259 | 442213 |  |  | S. A  | Topham, Mrs. Frederick  | Peachland, B.C    | England  | Vemon  | Julv 14, 1915. |
+| 7 | 463 | 1254 | 3661 | 1291 | 442248 | Private  | Tralford, Fdwanl Key  | Imp. Forces  | TrafTord, Arthur Edwin  | c/’o Bell’s Iron Works, Middlesbrough, Yorks, Eng  | England  | Vernon  | July 15, 1915. |
+| 7 | 462 | 1284 | 3660 | 1321 | 442214 |  | TrefTrv, Joseph Richard  | Nil  | Treffrv, John  | Summerland, B.C    | U.S. A  | Vernon  | Julv 14, 1915. |
+| 7 | 463 | 1313 | 3660 | 1347 | 4420K8 |  |  | Nil  | Tronchnrd, Mrs. E. E  | 188 North St., South Bank, Yorks, Eng  | England  | Vemon  | Julv 15, 1915. |
+| 7 | 464 | 1342 | 3660 | 1379 | 442215 |  | Trueman, Thomas  | Nii  | Trueman, Mrs. James  | 19 Grimshaw I.ruie, Bnllington, Cheshire, Eng  | England  | Vemon  | Julv 14, 1915. |
+| 7 | 465 | 1403 | 3198 | 1436 |  |  |  | Royal Navy  | 442222 | Private  | Venus. Samuel  | Kamloops, B.C  | England  |
+| 7 | 464 | 1430 | 3660 | 1463 | 441221 |  |  | S. A  | Verge, G. A   | Pritchard, B.C    | ('anada  | Vernon  | July 14, 1915. |
+| 7 | 464 | 1460 | 3661 | 1495 | 442234 |  | Warlow, Frederick Morton a | Territorials  | Warlow, William  | 30 Queen St. E., Pembroke Dock, S. Wales  | Wales  | Vernon  | Julv 14, 1915. |
+| 7 | 465 | 1489 | 3660 | 1525 | 442220 |  | Wectman, Edv.nrd Francis  | Nil  | Weetman, F  | 150 Mile ITou^e, Ori,'r*o Rd., B.C     | England  | Vemon  | Julv 14, 1915. |
+| 7 | 466 | 1520 | 3661 | 1554 |  |  |  |  |  | 150 Mile House, Cariboo Rd., B.C  | 442227 | Private  | Wcetmnn, Wilfred Henry  | Nil  | Weetman, Francis  | England  | Vernon  | July 14, 1915. |
+| 7 | 465 | 1549 | 3662 | 1585 | 442235 |  | Wheeler, Thomas A  | Nil  | Wheeler, F. W  | Barriere, nr. Thompson, B.C  | Ireland  | Vemon  | ■lr.lv 14, 1915. |
+| 7 | 466 | 1579 | 3662 | 1615 |  |  |  |  | Whiting, George 1)   | 442225 | Private  | Whiting, Samuel Urban  | C.F.A  | Sherbrooke, P.Q    | Canada  | Vemon  | July 14, Ml 15. |
+| 7 | 466 | 1605 | 3662 | 1645 |  |  |  |  |  | 1431, 2lo St., N.W. Calgary, Alta  | 442228 | \\ igley, Arthur Joseph  | 33rd Regt  | MeCrossen, Mrs. W  | England.   | Vemon  | •July 14, 1015. |
+| 7 | 467 | 1638 | 3662 | 1673 | 442238 |  | Wilev, Ralph   | Nil  | Wilev, Edward   | The Divide, N.B    | (’anada  | Vemon  | Julv 14. 1915. |
+| 7 | 467 | 1664 | 3663 | 1700 | 442229 |  |  | Nil  | Wilson, Mrs. R. J    | 88 Quebec St., Kingston, Ont  | Canada  | Vornon  | [J'lly 14,1915. |
+| 7 | 467 | 1697 | 3663 | 1732 | 442224 | Private  | Wilson, John. .. . . | Nil  | Carson, Mrs. Jane  | 5 Bow Lane, Birkenhead, Cheshire, Eng  | England  | Vemon  | July 14, 1915. |
+| 7 | 467 | 1726 | 3663 | 1759 | 442230 |  | Wilson, William Jonathan.. . .. . | 19th Regt  |  | Dunnville, Ont,  | Canada  | \ crnon   | Juiv 14, 1915. |
+| 7 | 467 | 1755 | 3662 | 1791 | 442231 | Private  | Withrow, Benjamin  | Nil  | Withrow, Benjamin  | Stanley, Hants Co., N.S  | Canada  | Vernon  | July 14, 1915. |
+| 7 | 467 | 1785 | 3661 | 1818 | 442233 |  | Wood, John Samuel.   | Nil  | vVood, M ims Klsift  | 2 Back of 24 Duddeston Mill Rd., Birmingham, Eng... | England.  | Vemon  | July 14, 1915. |
+| 7 | 467 | 1814 | 3662 | 1850 | 442232 | Private  | Wood fall, I.'dayettc  | Nil  | Wood fall, Richard  | Star City. Sask  | U.S. A  | Vemon  | July 14, 1915. |
+| 7 | 468 | 1843 | 3662 | 1880 | 44223ft | Privato | Wyllie. Robert Kennedy  | Nil  | Wyllie. William  | 149 St. John’s Rd., Toronto* Ont  | Canaila  | Vei non  | July 14, 1915. |
+| 7 | 560 | 2020 | 3661 | 2083 |  | i Lieutenant   lAudy, Prosper John T...' jllth Regt.  |  |  | Andy, J. T. | Belvedere. East Dulwich Grove, London S.E., Eng. | . England  | Vemon....... | ..(Oct. | 2, 1915. |
+| 7 | 561 | 2067 | 3660 | 2117 |  | 'Lieutenant  McQunrrir, Donald Archibald jind. Co. of R  |  |  | 'McQuarrie | P.O. Box 1074, Nelson, B.C..   | . Canada.   | Vernon | .. jOct. | ?., 1015. |
+| 7 | 560 | 2100 | 3660 | 2140 |  | I Lieutenant  I Raphael, Frank Mackay !72nd Regt  |  |  |  | 43 St. Sacrament St., Montreal, P.Q  | .iCanadn  | Vemon  | .. lOct. | 7, 1915. |
+| 8 | 524 | 323 | 3628 | 356 |  | Lieutenant  |  | R.M.C   | Tooker, Wm. (Capt. R. Nr- | Cowichan, Vancouver I., B.C  | Australia  | Vernon.. | Oct.. | 2, 1915. |
+| 8 | 525 | 353 | 3627 | 388 |  | Lieutenant  |  | 6th Regt. | Woodward, J. A  | 1324 Cypress St., Vancouver, B.C  | New Zealand... | Vernon.. | Oct. | 2, 1015. |
+| 8 | 429 | 383 | 3627 | 415 | 442930 | Private  |  | Territorials.. | Agnew, Mrs. Jeanie  | Ayr, Scot  | ■cot land  | Vernon.. | All!?. | 17, 1915. |
+| 8 | 429 | 413 | 3627 | 447 | 442004 | L.-C orporal  |  | Imp. Forces. | Ainsworth, Enoch  | P.O. Box 702, Fernie, B.C   | England........ | Vernon.. | Aug. | 17, 1915. |
+| 8 | 428 | 442 | 3627 | 475 | 443203 | Private  |  | tOfith Regt.. | Zimminmon, Mra. C. F. 1 | 2002 Olympia Way, Seattle, Wash., U.S. A  | Malta  | Vemon.. | Aug. | 10, 1915. |
+| 8 | 429 | 472 | 3628 | 502 | 442931 | Private  |  | Nil  | Andrews, Robert  | Exeter, Devon, Eng     | England  | Vernon. . | Aug. | 17, 1915. |
+| 8 | 429 | 502 | 3628 | 535 | 442919 | L.-Corporal  |  | Nil  | Ashby, Mrs. G  | Rossland, B.C *    | England  | Vernon. . | Aug. | 17, 1915. |
+| 8 | 428 | 531 | 3628 | 563 | 443300 | Privato  | Bniley, Frnnk  | 31st Horse... | Bailey, Hilda R. W  | Sewell Farm, Galley wood, Essex, Eng  | India  | Vernon. . | Aug. | 28, 1915. |
+| 8 | 429 | 557 | 3628 | 589 | 442932 | Private  |  | Nil  | Ranks, William  | Hurlforcf, Ayr, Scot  | Scotland  | Vemon.. | Aug. | 17, 1915. |
+| 8 | 430 | 587 | 3629 | 620 | 442933 | L.-Corporal  |  | Nil  | Chrisp, Mrs. II   |  |  | Vernon. . | Aue. | 17, 1915. |
+| 8 | 429 | 619 | 3629 | 647 | 442329 | Private  | Bnrnum. James Bernard M. | Nil  | Barnum, J. L  |  |  | Vernon.. | Au«. | 17, 1915. |
+| 8 | 430 | 647 | 3629 | 679 | 442935 | Private   | Mutes, William James  | Nil  | Bates, Hannah  | 14 Yorke St., Hucknall Torkard, Notts, Eng  | England  | Vernon.. | Auk. | 17. 1915. |
+| 8 | 430 | 677 | 3630 | 706 | 443209 | Private  |  | Nil  | Beaton, Daniel  |  |  | Vernon.. | Aug. | 17, 1915. |
+| 8 | 429 | 706 | 3631 | 738 | 44293(1 | Private  | , Albert. . |  | Beer, Miss K..   |  |  | Vernon.. | 02 Leinster Sq., Bayswater, Lond<>. M .. Eng  | iAug. | 17, 1915. |
+| 8 | 430 | 736 | 3630 | 767 | 442007 | Private.   | 0\V, Willi: |  | Benbow, Mrs. M. A  |  |  | Vernon.. | 25 Pier St., Aberystwyth, Cardigan, 'Aales.,..  | Wales  | Au«. | 17, 1915. |
+| 8 | 429 | 766 | 3631 | 799 | 442939 | Private j | , Robert. | Nil  | Mere, Elisa   |  |  | Vernon. . | 10 Penzance St., West Hartlepool, Durham, Eng  | Engl avid  | .Auk. | 17, 1915. |
+| 8 | 429 | 791 | 3632 | 828 | 442937 | Private j |  | INil...:  | |McLean, Mrs. Albert  | Trail, B.C   |  |  | 'Aug. | 17. 1915. |
+| 8 | 429 | 825 | 3630 | 856 | 442938 | Private  ... i |  |  | Bergeron, John  |  |  | \ ernon.. | [Aug. | 17, 1915. |
+| 8 | 429 | 855 | 3630 | 890 | 4421140 | Private  | Pcrcival Charles. | Nil  | Bland, Mrs. M. H  | 7‘J Hyland Rd., Edgbaston, Birmingham, Eng  | England  | Vemon.. | |Aug. | 17, 1915. |
+| 8 | 429 | 884 | 3630 | 916 | 442941 | Private   |  | Nil  | Blomfield, C. J  | Victoria, B.C     | Canada  | Vernon.. | [Auk- | 17, 1915. |
+| 8 | 429 | 913 | 3630 | 942 | 412020 | Private...; 1 | , William.... |  | Boisay, Peter  |  | < 'anada  | Vemon.. | Auk. | 17, 1915. |
+| 8 | 429 | 939 | 3630 | 972 | 412943 | Private ! | Fredexick G( | INil  | Bond, G. G  |  |  | Vernon.. | !Aug. | 17. 1915. |
+| 8 | 429 | 971 | 3629 | 1002 | 442944 | Private     • | ck, M ichael, | INil  | Bostwick, Joseph  |  |  |  | .Aug. | 17, 1915. |
+| 8 | 429 | 1000 | 3629 | 1033 | 442945 | Private ! |  | Nil  | Bowcott, A. J.     | Rossland, B.C .  | England  | Vemon.. | iAug. | 17, 1915. |
+| 8 | 429 | 1030 | 3630 | 1061 | 442013ll,rivate  .. i |  |  | I Nil  | Brennan, Mrs Janet  | Northampton, Eng  | England  | Vernon.. | Aug. | 17.1915. |
+| 8 | 430 | 1060 | 3631 | 1097 | 4421'tl5|S('rgeant ■ |  |  | Nil  | Brewer, H     | Alderbury, Salisbury, Wilts, Eng k.. | England  | Vemon.. | ‘Aug. | 17, 1915. |
+| 8 | 429 | 1090 | 3632 | 1131 | 442925 Corporal  |  |  | jNH  | Brown, Mrs. j  | P.O. Box 37, Nelson, B.C  | England  | Vernon.. | ■ Aug. | 17, 1915. |
+| 8 | 430 | 1119 | 3632 | 1150 | 443527 | Private....   |  | Nil..,.  | Brown, Mrs. it. A  | 214 Wood Ave., Westmount, P.Q  | Canada  | Vemon.. | Aug. | 17.1915. |
+| 8 | 431 | 1148 | 3632 | 1182 | 442940: Private   |  | Bussell, Stanley John  | jimp. Forces. | Bussell, Miss R. G  | 13 Gower St., London, Eng  | England  | Vemon.. | .Aug. | 17, 1915. |
+| 8 | 430 | 1176 | 3738 | 1208 | 44 234BI Private    |  | Butler, Alfred ijharles  | Nil   | Butler, Mrs. A. C  | P.O. Box 832, Nelson, B.C    | England  | Vemon.. | IAug. | 17, 1915. |
+| 8 | 430 | 1207 | 3632 | 1245 | 443759 Private  |  |  | Nil  | Cahill. Mrs. Margaret.... | C ran brook, B.C  | England  | Vernon.. | {Aug. | 24. 1915. |
+| 8 | 430 | 1237 | 3632 | 1269 | 442951 |Privote  |  |  | 'Imp. Forces. | Campbell, Elizabeth  |  |  |  | ;Aug. | 17, 1915. |
+| 8 | 430 | 1266 | 3632 | 1297 | 442952 Private  |  |  | Territorials. | Campbell, Mrs. N  |  |  |  | ;Auc. | 17, 1915. |
+| 8 | 430 | 1296 | 3633 | 1329 | 442953 | Private  |  | Nil  | Campbell, A. E  | Trail, B.C   | (.'anada   | Vemon.. | ;Aug. | 17, 1915. |
+| 8 | 431 | 1326 | 3633 | 1355 | 442347 | Private  |  |  | Cor fra, John  |  | Scotland  |  | A u !T,. | 25, 1915. |
+| 8 | 430 | 1355 | 3633 | 1386 | 412954 | Private  | Carman, Jumrs Christopher.. | Nil  | Carman, Mrs. George.... |  |  |  | Aug. | 17, 1915. |
+| 8 | 430 | 1385 | 3633 | 1414 | 442351 | Private  | Carr, Alfred Bertram  | Nil  | Carr, W. J.   |  | Canada  |  | July | 14, 1915. |
+| 8 | 430 | 1414 | 3633 | 1445 | 442033 | Private  | Carruthera, James   | S. A  | Carruthera, Miss Maggie. |  | Scot land.    | Saltcoats, Ayr, Scot    | Vernon.. | IAug. | 17.1915. |
+| 8 | 431 | 1443 | 3633 | 1474 | 442029 Private....  |  | Carver, Elinor  | Nil  | Carver, Mrs. Altelda  |  |  |  | ;Aug. | 17..1915. |
+| 8 | 431 | 1469 | 3634 | 1504 | 442955! Private  |  | Chapman, Arthur James  | Nil  | Chapman, Mrs. A   | Trail. B.C      | U.S. A  | Vernon.. | iAug. | 17.1915. |
+| 8 | 431 | 1502 | 3634 | 1535 | 4432421 Private  |  | Clark, Charley  | 103rd Regt. . | Clark, Mary Girling..... | 1710 Holley Wood. Victoria, B.C .'  | England  | Vernon.. | |Aug. | 17.1915. |
+| 8 | 431 | 1531 | 3634 | 1564 | 44295.5 | Private  | Clarke, John  | imp. Forces. | Clarke, Sophie  | North St., Bratton, N. Devon, Eng.  | England  | Vernon.. | |Aug. | 17, ;915. |
+| 8 | 432 | 1560 | 3634 | 1597 | 442959 | Private    | Clay, Charles Henry  | Nil  | Clay, Mrs. Edward  | Black Horse, Gosberton Risegate, Eng  | England  | \ ei non.. | [Aug- | 17, 1915. |
+| 8 | 432 | 1589 | 3634 | 1622 | 442350 | Private  | Cook, Walter    | Nil  | Cook, George  | 11110 Athol St., Regina, Sask    | England  | Vernon.. | 'Aug. | 17, 1915. |
+| 8 | 433 | 1615 | 3635 | 1655 | 442900 | Private.  | Cook, William Tasker  | Nil.......... | . iCook, W. J   | Grand Forks, B.C  | Canada  | Vernon. . | IAi.k- | 17, 1915. |
+| 8 | 433 | 1645 | 3635 | 1681 | 443530 | Private  | Corrigan, \N iliiam  | Territorials. | Corrigan, Miss Ellen  | P.O., Fernie, B.C  | Scotland  | Vemon.. | iAug. | 17.1915. |
+| 8 | 434 | 1670 | 3635 | 1712 | 41203) | Corporal  | Corsan, Kenneth Craig  | 107th Regt. . | Corsan, Dr. Douglas  | Fernie, B.C  | ('anada  | Vernon.. | | Aug. | 17.1915. |
+| 8 | 433 | 1707 | 3635 | 1741 | 442902 | Private  | Costello, Thomas  | iNil   | Costello, Elizabeth  | Nelson, Lancs, Eng  | England  | Vernon.. | j Aug. | 17, 1915. |
+| 8 | 433 | 1735 | 3636 | 1768 | 442903 | Private  |  | Nil   | Cowan. George T  | Xaviarian College, Broughton, Lancs, Eng  | England  | , Vemon. . | . Aug. | 17. 19J5. |
+| 8 | 433 | 1764 | 3634 | 1797 | 443715 | Private  |  | iNil  | Crawford, Mrs. E  | 11 Mauritius Rd., Greenwich, London, Eng  | England  | Vernon.. | . iAug. | 28, 1915. |
+| 8 | 433 | 1794 | 3635 | 1828 | 443225 | Private  | ('tors, Thomas  | R8l.h Regt. . | Cross, Alexander Thomas | 2750. 2nd Ave. E., Vancouver, B.C  | England  | j Vernon.. | . j Aug. | 17.1915. |
+| 8 | 434 | 1823 | 3636 | 1856 | 442332 | Private  | Crosslny, William    | Nil   | (’rossley, Herbert  | 105 Hollings Rd., Bradford, Yorks, Eng  |  |  | ■ Aug. | 28, 1915. |
+| 8 | 434 | 1851 | 3636 | 1898 | ■112904 | Private   | Crown, Harry Walker  | Nil  | .Crowe* Mrs. Olive  | Belmont, Colchester Co., N.S  | Canada  | | Vemon.. | . .Aug. | 17, 1915. |
+| 8 | 434 | 1882 | 3635 | 1914 | 442303 | IVivate  | Cummins, Frederick Douglas | Nil  | (Cummins, Norie  |  |  |  | . Aug. | 17, 1915. |
+| 8 | 434 | 1907 | 3635 | 1944 | 442965 | Private...  | Cunningham, William  |  | .(Cunningham, Mrs. C. G. | Sand Point, Idaho, U.S.A  | U.S. A  | 1 Vernon . | Aug. | 17, 1915. |
+| 8 | 435 | 1940 | 3634 | 1975 | 442900 | Private  | Curran, William Alexander... | Nil  | . (Curran. J A  |  |  |  | IAug. | 17, 1915. |
+| 8 | 435 | 1969 | 3634 | 2011 | <42907 | Sergeant  | Dallen, Ernest J liomas  | Nil  | . j Dallen, Mrs. C..     |  | Wales  | |Vernon.. | . 'Aug. | 17.1915. |
+| 8 | 435 | 1994 | 3633 | 2039 | 442908 | Private   | Daniels, Daniel   | Nil  | . j Reid, Mrs. Andy  |  |  | ! Vemon.. | Erskine. Alts  | Canada  | . |Aug. | 17, 1915. |
+| 8 | 436 | 2029 | 3633 | 2068 | 442017 | Privato  | Davidovich, Nikolia  | Nil  | .|Davidovich, Daueiu.,... |  |  | j Vernon.. | Choinek. Piuv. of Grodno, Russia     | Russia  | 17, 1915. |
+| 8 | 436 | 2055 | 3633 | 2091 | 442969 | Private  |  | Nil  | .’Davies, John ;  |  |  | •Vemon.. | .'Aug. | 17, 1915. |
+| 9 | 449 | 609 | 3142 | 640 | Sr. |  |  | Former Cor pa. | Nnme of Next of Kin. |  | Country of |
+| 9 | 449 | 755 | 3639 | 791 | 442539 | Private  | Ur vie*. Albert William  | Nil  | Hoar, Ida Mary... •  | iDawlish, S. Devon, Eng  | England.. | Vemon. .. | I Aug. | 17, 1915. |
+| 9 | 449 | 785 | 3640 | 819 | 443121 | L.-Corporal.. | Dawson, Dougin* Purvis  | Nil  | Dawson, Mrs. Amelia  | • Brigden, Ont  | Canada... | Vemon... | Auk. | 17, 1915. |
+| 9 | 449 | 812 | 3641 | 846 | 443741 | Private  | De Gognc. Jules Raoul  | Nil  | De Gogne, George H  | jOswego, Mont., U.S.A  | Canada... | Vemon. .. | lAue- | 30, 1915. |
+| 9 | 449 | 845 | 3640 | 880 | 442971 | Private...... | Dengau. Frederick Lewis... . | C.A.M.C  | Dengau, Hiram William. . | (Coleman, Alta   | ’anada... | Vernon .. | rVllK. | 17, 1915. |
+| 9 | 449 | 857 | 3640 | 904 | 442370 | Private  | Dennis. Pierre James  | Nil  | Dennis, P. J    | Hanwell, London, Eng  | England.. | Vemon. .. | :1a | UR. | 17, 1915. |
+| 9 | 449 | 904 | 3639 | 936 | 442970 | Privato  | Denny, Dougins Graham  | Nil  | Denny. Mrs. E. M  | I Willow Point, B.C    | Ingland.. | Vernon. .. | Aug. | 17, 1915. |
+| 9 | 449 | 934 | 3641 | 965 | 442045 | Private  | Denusik, Nieliolaa  | Nil  | Dcnusik, Wasil  | Karluz, Beroza, Prov. of Grodno, Russia  | Russia . . | Vernon... | Auk. | 17, 1915. |
+| 9 | 449 | 963 | 3641 | 995 | 412043 | Private  | Derby, Hugh   | Territorials... | Derby, Thomas  | Rothesay, Bute, Scot  | Scotland. | Vemon. .. | Aur. | 17, 1915. |
+| 9 | 450 | 990 | 3640 | 1023 | 443233 | Private  | Dickinson, Guy Richard W.. | Nil  | Dickinson, J. H  | If* Morton St., Oxford, Eng  | England.. | Vernon... | Auk- | 28, 1915. |
+| 9 | 449 | 1013 | 3641 | 1053 | 442975 | Private  | :::: | Donnelly, Mark  | Nil  | Donnelly, Mrs..  | Kensington, P.Q  | Canada... | Vemon. .. | Aue. | 17, 1915. |
+| 9 | 450 | 1048 | 3640 | 1090 | 442974 | Pm’nte  | Donohue, Philip Joseph  | Nil  | Donohue, Katherine  | |Rossland, B.C   | Canada... | Vemon... | Aur. | 17. 1915. |
+| 9 | 449 | 1077 | 3641 | 1110 | 442970 |  | Drullett.e, William Joseph... | Nil  | Drullette, William R  | ! Keystown, Sask '  | 'anada... | Vemon... | Aur. | 17, 1915. |
+| 9 | 449 | 1108 | 3641 | 1140 | 412977 | Private  | Duke, Ernest  | .iNil  | Duke, Mrs. E  | Grand Forks. B.C  | England.. | Vernon... | Aug. | 17, 1915. |
+| 9 | 450 | 1137 | 3642 | 1169 | 442373 | Private  | Dunn, Hnrry  . | .Nil  | Duun, Isabella  | 234 Brown St., Glasgow, Scot  | Scotland . | Vemon... | Auk- | 17, 1915. |
+| 9 | 450 | 1166 | 3642 | 1197 | 442979 | I’rivato  | Ea»t, Henry, Reginald  | •Nil  | East, H. E  | K Battersea Rd., Brixton, London, Eng  | England.. | Vernon. .. | Aur. | 17, 1915. |
+| 9 | 450 | 1194 | 3643 | 1227 | 412980 | Privato.  | Eddie, George Pratt  | .Nil  | Eddie, Charles  | 4f?9 Gt. Northern Rd., Woodside, Aberdeen, Scot. | Scotland. | Vemon.. . | Aur. | 17, 1915. |
+| 9 | 449 | 1226 | 3642 | 1259 | 442375 | Private  | Elford, William  ... | .Nil  | Elford, William. .%  | 116 Grosvenor Rd., London, S.W., Eng  | England.. | Vemon... | Aur. | 17, 1915. |
+| 9 | 450 | 1256 | 3643 | 1287 | 442370 | Privato  | Endacott, William  | .Nil  | Endaoott, William  | South Zeal, Okchampton, Devon, Eng  | England.. | Vemon. . . | Aug. | 17. 1915. |
+| 9 | 450 | 1285 | 3643 | 1320 | 442921 | Corporal  | England, John Herbert  | .Nil  | England, J. M  | 31 Kensington Rd., Barnsley, Eng  | England.. | Vernon. .. | Aur. | 17, 1915. |
+| 9 | 449 | 1313 | 3745 | 1352 | 442982 | Private  | Etherington, Alfred  | 'Nil  | Etherington, S.  | Gen. Del., Vancouver, B.C  | England.. | Vemon... | [Aur. | 17, 1915. |
+| 9 | 450 | 1343 | 3643 | 1377 | 442983 | Private  | Eyre, James Henry  | ■ iNil.. | Eyre, Arthur George  | Clapton, London, Eng   | England. | | Vemon... | !Aur. | 17, 1915. |
+| 9 | 451 | 1373 | 3643 | 1414 | 442984 | Private  | Ferguson, Daniel  | ■ INil.... | Ferguson, L. A  | Earl town, Colchcrster Co., N.S  | I 'anada . | 'Vemon .. | IAur. | 17, 1915. |
+| 9 | 450 | 1402 | 3644 | 1434 | 442923 |  | Fisher, Alvin Light  |  | isher, George  | Sault Ste. Marie, Ont  | U.S.A.... | : Vemon ... | iAug. | 17, 1915. |
+| 9 | 451 | 1428 | 3644 | 1462 | 442377 | Privato  | Forb*».s, Normnn...   | Nil  | Forbes. John  | 39 Ardgowan St., Greenock, Scot.  | Scotland . | I Vemon. .. | ! Aur. | 17, 1915. |
+| 9 | 451 | 1462 | 3644 | 1496 | 442985 | Private  | .... | Forsythe, William lnglis.... | 107th Regt. .. | Forsythe, Mrs. John  | Cedar Hill, Ont  | anada... | j Vemon... | IAur. | 17, 1W15. |
+| 9 | 452 | 1486 | 3643 | 1520 | 442980 | I’rivate  | Forteat.h, Wesley Gordon B. | Nil  | For tenth, S  | Rossland, B.C  | Canada... | I Vemon . .. | |Aur. | 17, 1915. |
+| 9 | 451 | 1520 | 3643 | 1553 | 443395 | Private  | Gnllamore, CCharles  | 11th Regt.... | Gallainore, W. C  | Nort h St., Bridgetown, Stalls, Eng  | England.. | j Vemon... | {J une | 28, 1915. |
+| 9 | 451 | 1549 | 3644 | 1582 | 442071 | Private  | .... | Gallumore, John Henry  | (Nil  | Gallamorc, Mrs. Florence — | Fernie, B.C  | England.. | j Vernon... | Auk. | 17, 1915. |
+| 9 | 452 | 1578 | 3644 | 1616 | 443250 | Private.  | Garland, Charles David.... | 1102nd Regt... | Garland, J. W  | Revelstoke, B.C  | Canada... | Vemon... | | Aug. | 28, 1915. |
+| 9 | 453 | 1603 | 3643 | 1636 | 442990 | Private — | Gibson. John Willard  | Nil  | Gibson, Mrs. Sarah  | Arrowhead, R C  | U.S.A.... | j Vemon . .. | June | 10. 1915. |
+| 9 | 454 | 1631 | 3644 | 1669 | 442909 | ■Sergeant  | Gillespie, David Bryce  | Nil  | Gillespie, Mrs. J  | Fruit vale, B.C  | England.. | j Vemon... | Aug. | 17, 1915. |
+| 9 | 454 | 1666 | 3644 | 1699 | 442078 | Private  | Glenn, William Ernest  | INil  | Glenn, J   | Spalding, Lines, Eng  | England.. | i Vemon. .. | Aue. | 17, 1915. |
+| 9 | 455 | 1691 | 3644 | 1727 | 442384 | Private  | Gold. Artiiur 1C  | O.T.C., Eng. | Gold, Mrs. M E  | Mayborne. Parkhill Rd., Croydon, Surrey, Eng. | England.. | I V^mon... | Aug. | 17, 1915. |
+| 9 | 455 | 1724 | 3644 | 1760 | 442008 | Private  | Gooch, John  | O.T.C., Eng. | Gooch, James King  | Holt, Norfolk, Eng  | England.. | | Vernon. . . | Aur. | 17, 1915. |
+| 9 | 455 | 1753 | 3644 | 1788 | 442001 | Private  | Goss, Albert, Edward  | Nil  | Goss, Mrs Florence. | Crediton, Devon. Eng  | England.. | 'Vernon. .. | Aug. | 17, 1915. |
+| 9 | 456 | 1783 | 3645 | 1819 | 442912 | L.-Corpornl.. | Graham, Arthur Errol  | 102nd Regt.. | Graham. Mrs. Frank <*  | Coleman. Alta  | Canada... | ; Vernon. . . | Aug. | 17, 1915. |
+| 9 | 456 | 1811 | 3645 | 1848 | 442300 | Corporal  | Graham, William Henry..,. | S. A  | Graham, Mrs. Elizabeth — | Slocan City, B.C     | England.. | Vemon... | Aur. | 17, 1915. |
+| 9 | 456 | 1840 | 3645 | 1874 | 442380 | Private  | Grant, George Peter  | Nil  | Grant. E  | Enst Burnaby, New Westminster, B.C  | t ’anada... | Vemon. .. | July | 14, 1915. |
+| 9 | 457 | 1870 | 3645 | 1904 | 412077 | Private  | Gregory, John Price  | 93rd Regt. .. | Lounsberrv. Mrs. Jerry  | Coleman, Alta  | U.S.A.... | Vemon... | Aug. | 17, 1915. |
+| 9 | 457 | 1896 | 3645 | 1936 | 442081 | iCorporal  | Grenou, Peter Auguste  | Can. Mil  | Grenon, Alexander | Ottawa, Ont  | • ‘anada... | Vernon... | iAug. | 17. 1915. |
+| 9 | 456 | 1928 | 3644 | 1962 | 4 42995 Private  |  | Grillin, Reginald David.... | Nil  | Grifhn, Wdliam Henry   | Crescent Hotel, Tunbridge Wells, Kent, Eng  | England.. | Vemon... | Aug. | 28, 1915. |
+| 9 | 457 | 1957 | 3645 | 1991 | 442387! Private  |  | Guilic, Harold   | Nil  | Guille, Mn*. May.   | Granite Siding, B.C   | England.. | Vemon... | Auk. | 17, 1915. |
+| 9 | 458 | 1984 | 3644 | 2028 | 442990) Private  |  | Gwinn, Percy Norman  | Nil  | Whitcombe, Mrs. E  | Foster, Ore., U.S. A  | Canada... | i Vemon... | Aur. | 17, 1915. |
+| 9 | 458 | 2017 | 3644 | 2049 | 443001 Private  |  | Unins, Ronald Cary  | Nil  | Barker. Mrs it. H  | Salmon Arm, B.C  | England.. | Vernon. . . | Auk. | 1.7, 1915. |
+| 9 | 458 | 2045 | 3645 | 2079 | 442998 | Private  | Ham, Cnaries »ieraid  | In Li  | I lam, Miu D  | r\jtV«*y, Cornwall, Eng    | England.. | ! Vernon... | Aug. | 17, 1915. |
+| 9 | 459 | 2075 | 3644 | 2109 | 442999 | Private  | llanna, Thomas  | Nil  | Hanna, Mary Chapman | 07 Sharp St., Askam-in-Fumess, Eng  | England.. | Vemon. .. | Aug. | 17, 1915. |
+| 9 | 459 | 2104 | 3644 | 2138 | 443000 | Private  | Hannah.. Patrick  | Nil  | Me Anile, Mrs. John. | Port. Glasgow. Soot.  | Ireland... | j v ernon... | Aug. | 17. 1915. |
+| 9 | 459 | 2130 | 3645 | 2170 | 443251 | Private.... . | Hannell, Frank  | Nil  | tianneu, Au«n   | Cookliam, Berks, Eng    | I England.. | j Vernon... | Sept. | .scpi. | r.o, 1915. |
+| 9 | 460 | 2158 | 3644 | 2196 | 442392 | T ,.-CV>rnora! | Hark ness. Cown  | Nil   | Sutherland. Mrs. Ida  | Oxford, Cumberland Co., N.S.... | 'Canada. | Vernon. .. | (Aug. 17 | 17, 1915. |
+| 10 | 505 | 310 | 3707 | 347 | 443002'Private  |  | .fHarkness, Edwin J)  | Nil  | I Hark ness, Eric  | Trail, B.C   | Canada   (Vemon |  |  | Aug. | 17,1915. |
+| 10 | 504 | 341 | 3696 | 375 | 440021 Private  |  | . i Harrison, William Softley  | Nil  | Harrison, John   | Percy Main, Newcastle-on-Tyne, Eng.   |  | Vemon. | England  | Aug. | 28,191' |
+| 10 | 503 | 371 | 3695 | 404 | 443005 Private   |  | . Harwood, Edward Gilbert  | Royal Navv | Harwood, Mrs. Annie  | Hertford, Eng    |  | Vernon. | England  | Aug. | 17,191 ’ |
+| 10 | 504 | 401 | 3706 | 434 | 443393 Private   |  | tHaydon, Rupert Turner  | Nil  | Haydon, Mrs. Florence....... | Ravensbury Lodge, Mitcham, Surrey, Eng  |  | Vernon. | England  | Aug. | 17, 1915. |
+| 10 | 503 | 430 | 3706 | 464 | 411?0V * Privato  |  | i ■ enley. Lionel Frank  | Nil  | Henley, Henry  | Amesbury, Marlborough P.O., Wilts, Eng  |  | Vernon. | England  | Aug. | 17,1915. |
+| 10 | 518 | 459 | 3706 | 491 |  | Private   | 4268 | I feu7,o, Ernest    | Chan. Is. N | Heuzo, John      | Loungevelle, Grouville, Jersey, Chan. Is  | Channel Islands Vernon.. |  | Aug. | 17, 1915. |
+| 10 | 502 | 489 | 3706 | 521 |  | Private  | 4330Q0 | II iekson, William  .. | Nil  | Hickson, Margaret  | 16 James St., Ballsbridge, Dublin, Ire  | Ireland | Vernon. | Aug. | 17,1915. |
+| 10 | 502 | 518 | 3706 | 550 |  | Private  | 442527 | Higson, Poter    | Nil. | Hitrson, Richard  | Little Hulton, Lanes, Eng  | Vernon. |  |  | 30, 1915. |
+| 10 | 502 | 547 | 3706 | 580 |  | Buglar   | 443007 | II ill yard. Stephen James  | Nil  | Hillyard, Mrs. S.  | Nelson, B.C  | Vernon. | England... T  |  | 17,1915. | Aug. |
+| 10 | 502 | 576 | 3707 | 607 |  | Private  | 413008 | Hooper, Edward  | Territorials | Hooper, Mrs. Elsie  | Fernie, B.C  | Vernon. | England  | Aug. | 17, 1915. |
+| 10 | 502 | 606 | 3707 | 637 |  | L.-Corporal  | 442101 | Humphrey, Levi William  | Nil  | Hoseock, Mrs. R. M  | Monson, Me., U.S.A  | Vernon. | U.S.A  | Aug. | 17. 1915. |
+| 10 | 502 | 635 | 3708 | 673 | 442689j Private  |  | iHunnablo, Charles lladdon.... | 107th Regt | Hunnable, Walter  | Penticton, B.C  |  | Vemon. | England  | Aug. | 17, 1915. |
+| 10 | 502 | 662 | 3708 | 704 | 443203 Private  |  | | Hunt, Ernest Edward  | Nil  | Hunt, H  | 86 High Rd., Balham, London, Eng  |  | Vernon. | England  | Aug. | 17,1915. |
+| 10 | 502 | 692 | 3709 | 733 | 443013: Private  |  | [Jackson, All red  | Nil  | Jackson, Otto  | Columbia, Grand Forks, B.C  |  | Vernon. | Sweden  | .... . | Aug. | 17, 1915. |
+| 10 | 502 | 724 | 3708 | 756 | 443015! Private  |  | Jackson. Nelson    | Nil  | Rothery, Mrs. J  | Nelson, B.C  |  | Vemon. | Canada  | Aug. | 17. 1915. |
+| 10 | 501 | 751 | 3708 | 789 | 4424071 Private  |  | James, Reginald Arthur  | 1102nd Regt | James, H. R  | 20 Ave. Rd., Hammersmith, London W., Eng  |  | Vemon. | England  | Out. | 0, 1915. |
+| 10 | 502 | 784 | 3708 | 816 | 443389! Private  |  | Jasper, William Edward  | Nil. | Jasper, Andy  | Neppelum, Wash., U.S.A   |  | Vemon. | U.S. A  | Aug. | 28, 1915. |
+| 10 | 502 | 815 | 3709 | 846 | 442696 Private  |  | Jeffrey, George Joseph  | Nil........ | Jeffrey, Mrs. Jessie  | Paxton, Borwick-on-Tweed, Scot  |  | Vernon. | Scotland  | Aug. | 17, 1915. |
+| 10 | 502 | 844 | 3708 | 874 | 442111 Private  |  | Jenkins, James  | Nil  | Not stated  | Not stated  |  | Vernon. | England  | July | 14, 1915. |
+| 10 | 501 | 874 | 3709 | 905 | 443018 Private  |  | Johnson, Alexander Heliner.... | Nil  | Johnson, Charles H  | Eagle Bend, Minn., U.S.A.      |  | Vernon. | U.S. A  | Aug. | 17, 1915. |
+| 10 | 501 | 903 | 3708 | 934 | 443017 Private   |  | Johnston, Andrew  | Nil  | Johnston, Thomas  | Rocarson, Omagh, Co. Tyrone, Ire  |  | Vemon. | Ireland........ | Aug. | 17, 1915. |
+| 10 | 502 | 932 | 3709 | 963 | 443021 Private  |  | Jones, David Ernlyn  | Nil  | Jones, Rev. T. Lloyd  | Pencader, Carmarthen, S. Wales  |  | Vemon. | Wales  |  | 17. 1915. |
+| 10 | 501 | 961 | 3709 | 992 | 443020 Private   |  | Jones, Henry William.......... | INil  | Jones, P. R  | 1116 Threadneedle St. F»., Vancouver, B.C  |  | Vornon. | England   | Aug. | 17, 1915. |
+| 10 | 501 | 991 | 3710 | 1022 | 413022 Private  |  | Joyce, Pat rick Joseph.. ...... | Nil  | Joyce, Mrs. Mary  | Russell Town, Milltown, Tuain, Co. Galway, Ire.. |  | Vemon. | Ireland  |  | 17, 1915. |
+| 10 | 501 | 1020 | 3709 | 1051 | 442701 Private   |  | Keeling, JSdwin  | INil  | Keeling, Edwin  | White Line Hotel. Stockport, Cheshire, Eng  |  | Vemon. | England     | Aug. | 17, 1915. |
+| 10 | 500 | 1048 | 3709 | 1080 | 442706 Private  |  | Kollock, John  | (Nil  | Kcllock, Mrs. Mary  | Kirkwyne St., Kirkcaldy, Fife, Scot  | !Scotland iVernon.. |  |  | Aug. | 17, 1915. |
+| 10 | 501 | 1078 | 3710 | 1108 | 443034 Private.    |  | Kennedy, Martin Nicholas  | Nil  | Tavison, M rs  | New Denver, B.C  | Canada  | Vemon. |  | Aug. | 17, 1910. |
+| 10 | 501 | 1097 | 3710 | 1138 | 442705 Private  |  | Konnody, Peter Norman  | Nil   | Kennedy, Mra. Mary  | Glace Bay, C.B., N.S .  | Canada  | Vernon. |   | Aug. | 17, 1915. |
+| 10 | 501 | 1125 | 3710 | 1167 | 442703 Private   |  | JClcmuk, Osip  | Nil  | IClemuk, Jakov  | Karluz, Beroza, Prov. Grudno, Russia  | Russia  | Vernon. | ::::::::: | Aug. | 17, 1915. |
+| 10 | 501 | 1165 | 3710 | 1196 | 443270 Private  |  | Knox, Frederick Vivian.... ... | Nil  | Knox, Mrs. P. E  | 1517 Ifcink St., Victoria, B.C  | Ireland  | Vemon. |  |  | 28, 1915. |
+| 10 | 502 | 1194 | 3711 | 1226 | 443025 Private  |  | Lamont, Alexander Norman M. | Nil  | Lamont, John  | Beith, Avr, Scot  | Scotland  | Vernon. |  | June | IS.1915. |
+| 10 | 502 | 1223 | 3712 | 1256 | 442701* Private  |  | Lawlor, Samuel   | Nil  | Lawlor, Mrs. John  | 4 Wolfhill View, Lagoniel, Belfast, Ire  | Ireland  | Vernon. |  | Aug. | 17, 1915. |
+| 10 | 502 | 1252 | 3711 | 1286 | 442902 Sergeant  |  | Lee, Edward Joseph  | Imp. Force | Lee, Mrs. E. J   | Rossland, B.O  | England  | Vernon. |  | Aug. | 17, 1915. |
+| 10 | 503 | 1282 | 3712 | 1318 | 442922 Private  |  | Lee, John    | Territorials | Ridgeway, Mrs. C  | Manchester, Eng  | England  | Vernon. |  |  | 17. 1915. |
+| 10 | 504 | 1312 | 3711 | 1345 | 443027 Private  |  | Lewis, Hugh Gwilyna  | Nil  | liowis, O. M   | San Francisco, Cal., U.S.A  | Wales  | Vernon. |  | Aug. | 17. 1915. |
+| 10 | 506 | 1342 | 3711 | 1377 | 4438991 Privato  |  | MaoAshlan, James.  | 102nd Regt | MacAshlan, Archibald  | Revelstoke, B.C  | Scotland   | Vernon. |  | P»;pt. | 8, 1915. |
+| 10 | 507 | 1371 | 3711 | 1405 | 4429281 Privato  |  | .iMacivenrio, Donald  |  | MacKonzio, Mrs. R  | Nairn. Scot  | Scotland  | Vernon. |  |  | 17, 1915. |
+| 10 | 508 | 1401 | 3711 | 1435 | 442439) Private  |  | .IMncLennnn, Alexander Sinclair. | 5th Regt.. | MacLennan, Mrs. Jessie  | 82 St. John Hill, Clapham June., Battersea, London, | Eng | England  | Vernon. | Aug. | 17, 1915. |
+| 10 | 509 | 1430 | 3712 | 1464 | 442927 Private  |  | . Mahood, Hubert John  | Nil........ | Mahood, ltov. J. S  | Queens J3av, B.C    | Canada... | Vernon. |  | Aug. | 17, 1915. |
+| 10 | 509 | 1459 | 3712 | 1494 | 443537 Privato  |  | . |Mario, (ienrgo   | Nil  | Knights of Pythias  | Greenwood, B.C     | Italy I Vernon |  |  | Aug. | 17. 1915. |
+| 10 | 509 | 1488 | 3713 | 1522 | 442426 Private  |  | ..Marshall, Hugh   | Nil  | Marshall, Mrs. Elizabeth Ann | Ashton Rd., Oldham, Lancs, Eng  | England | Vernon |  |  | Aug. | 17. 1915. |
+| 10 | 510 | 1517 | 3713 | 1554 | 413045; Privato  |  | .; Marshall, John Ra.volh  | Nil  | Marshall, Mrs. Peter  | Kilsyth, Stilling, Scot  | Scotland Vernon |  |  | Aug. | 17, 1915. |
+| 10 | 510 | 1546 | 3713 | 1580 | 413047 Privato  |  | . Martin, Frank Norman  | Nil........ | Martin, George   | 9 East field ltd., Walthamstow, London, Eng  | England (Vernon |  |  | Aug. | 17, 1915. |
+| 10 | 509 | 1574 | 3714 | 1611 | 443200 Co. Porgt.-Major. |  | Matthews, Oliver Ralph.   | Imp. Forces | Matthews, Nellie   | 11 Railway Rd., Bath, Somerset, Eng  | England  | Vernon. |  | Aug. | 17. 1915. |
+| 10 | 510 | 1608 | 3376 | 1638 | 443030 Private   |  | McAvinn, Francis Jerome  | Nil  | McAvinn, Peter  | Clarktown, P.E.I  | Canada  | Vernon. |
+| 10 | 510 | 1633 | 3713 | 1669 | 443031 Privato  |  | McBcan, Norm an Jennings  | Nil  | Me Be an, Albert Arthur  | Fernie, B.C  | Canada  | Vernon. |  | Aug. | 17, 1915. |
+| 10 | 510 | 1661 | 3713 | 1698 | 4133611 Private  |  | . McDonald, Peter  | Nil  | Not stated   | Not stated  | Canada  | Vernon. |  | Aug. | L’S, 1915. |
+| 10 | 509 | 1690 | 3713 | 1727 | 442735 Private  |  | McGougnn, Robert  | Nii  | McGougan, Alexander  | Irish Town, P.E.T  | Canada.  | Vernon |  | Aug. | 17, 1915. |
+| 10 | 510 | 1720 | 3713 | 1756 | 442440! Private   |  | McIntosh. Charles  | Nil  | McIntosh. C  | 1296 Trinity Rd., Wandsworth, London S.W., Eng., | England  | Vernon. |  | Aug. | 30, 1915. |
+| 10 | 511 | 1748 | 3714 | 1795 | 44274?) Pr vat©   |  | McKay, Murdoch  | Nil  | McKay, Mrs. Margaret  | j Inverness, Scot  | Scotland  | Vernon. |  | A us. | 17. 1915. |
+| 10 | 511 | 1777 | 3713 | 1816 | 442743} Privato  |  | McLennan, Robert. Mason  | Nil  | McLennan, Mrs. Margaret.... | Lancaster. Ont  | Canada  | Vernon |  | Aug. | 17. 1915. |
+| 10 | 511 | 1806 | 3713 | 1845 | 4430371 Privato   |  | McLeod, Henry Ernest S  | Nil........ | McLeod. Mrs. H. E. S  | Trail, B.C  | Scotland  | Vernon. |    | Aug. | 17, 1015. |
+| 10 | 510 | 1835 | 3713 | 1876 | 4430361 Private   |  | Mel-eod, Jaek  | Imp. Forces | McLeod, Marion  | (Trail, B.C    | Scotland  | Vernon. |      | Aug. | 17, 1915. |
+| 10 | 511 | 1868 | 3577 | 1904 | 44!tfiio| Private  |  | McMillan, Duncan Daniel  | Nil  | Taylor, Mrs. .1. A  | 113 Selby St., Montreal, P.Q  | Canada  | Vernon. |   | Aug. |
+| 10 | 511 | 1895 | 3713 | 1938 | 44W07|Sergeant   |  | McMillan, Leonard Alexander.. | Oth Regt.. | McMillan, Mrs. D  | Kelowna, B.C  | Canada... | Vernon. |    | Aug. | 17, 1015. |
+| 10 | 510 | 1923 | 3713 | 1963 | 4430411 Private  |  | Mo Naught on, Potor Drum mom | Nil  | McNaughton, A. M  | Straws burg, Sask  | Canada... |   Vernon. |   | Aug. | 17. 1915. |
+| 10 | 510 | 1953 | 3713 | 1997 | 4430421 Private.    |  | McNeil, Thomas Murray.... | Nii  | J Rea, James F  | Slovely, Alba    | Canada... | i Vernon. |   | Aug. | 17, 1915. |
+| 10 | 510 | 1981 | 3712 | 2022 | 44304 3 j Private  |  | McPheo, Daniel Joseph  | Nil  | MePhee, Mrs. R  | 116 Prince Arthur St , Montreal, P.Q  | Canada... | Vernon. |   | Aug. | 17, 1915. |
+| 10 | 511 | 2017 | 3544 | 2056 | 41301* Private  |  | Miller, Wr.f .on Mooro.   | |72nd iiegt. | Miller, Rev'. A. N  | «3,', 14th A vo. L., \ aiicouvtr, B.C. | Canada. | Vcrr.on. |   | r . |
+| 10 | 511 | 2041 | 3378 | 2080 | 4430521 Private  |  | Morel, Frits    | INil  | I Morel, Mrs. E. V   | Marblehead, Lardo, B.C  | . I Belgium 1 Vernon. |
+| 11 | 459 | 605 | 2727 | 633 | .r. A |  | Former Corj>s. | Name of Next of Kin. |
+| 11 | 460 | 743 | 3651 | 782 | 4CC5 | IViv&to  | Morrison, John Donald. . | .Nil   | Morrison, A. J  | Greenwood, B.C  | Canada.,. | , V- mo n. | ! Aug. | 17, | 1915. |
+| 11 | 460 | 776 | 3652 | 817 | 4127251 | Private  | Mundny, Ilenry  | .|Nil  | Not stated  | Not stated  | Canada... | Verno.i. | (Aug. | 17, | 1915. |
+| 11 | 459 | 807 | 3512 | 843 | 44303"! | rvivate  | Napie*\ Frank  | .'Nil  | Napier, Mrs  | 5 Woatherby Mansions, S. Kensington, L | Ion | Eng | Eng! ana.. | ■ Vernon. | I Aug. |
+| 11 | 460 | 825 | 3652 | 871 | /mw! | Privato  | Noil, Robert Stewart.... | .jNU  | Neil, Mrs. D. L   | 10 Orwell PI., Edinburgh, Scot  | Scotland.. | Vornon. | ; Aug. | 17,’ | IE 15. |
+| 11 | 459 | 865 | 3651 | 907 | •',424571 | Privato  | Oates, Arthur.. .   | • iNil  | Mat hews, Mrs. A... . | Bockermefc, Cumberland, Eng.    | Engla id.. | j Vernon. | July | i4. | 1915. |
+| 11 | 464 | 891 | 3651 | 929 | ■ 430C0! | Privato  | Ody, George  | .|Nil  | Ody, Thomas  | Fruitvale, B.C  | England.. | I Vernon, | I Aug. | 1915. |
+| 11 | 459 | 924 | 3651 | 961 | 443001! | Private  | Oliver, Frank Stanley. . . | .|Nii  | Oliver, ltobert.  | Shoreacres, B.C     | Canada... | j Vernon. | 1 Aug. | 17, | 1915. |
+| 11 | 459 | 951 | 3651 | 988 | 443300! | Priv.-Jo  | Uison, Cnrl  | • INil ........ | Donel, Mrs. Masha. . . | Revelstoke, B.C    ... | Canau 1... | j Vernon. | Uuiy | '1, | 1915. |
+| 11 | 459 | 981 | 3651 | 1019 | 4-'200!, | Sergeant.. . | Orford, Malcolm Alexander | . I Territorials.. | ' >rford, U ra. M J  | Woodstock, N.B   | F.nglanr„.. | . Vernon. | I Aug. | 17, | 1915. |
+| 11 | 460 | 1011 | 3651 | 1051 | <4 SOU4! | Private . .. | Oh borne, David  | . Territorials., | ()flborn»\ Mrs. Sophia. | 7 Sidney Rd., Newquay, Cornwall, Eng. | Engla..»*.. | I Vernon. | j Aug. | 17, | 1915. |
+| 11 | 478 | 1039 | 3651 | 1082 | 1292'.M | Private ..., | Painting' AMrcd  | .limp. Forces. | Painting, Mrj. K  | Poorbridge, Euston, Eng  | I England.. | I Vernon. | 1 Aug. | 1815. |
+| 11 | 459 | 1070 | 3651 | 1105 | •rfoOGii | L.-Corporal | Paul, Charles  | . I Territorials.. | Paul, Mrs. Laura  | Davenport, Cheshire, Eng   | England.. | 1 Vernon. | IAug. | t9l5. |
+| 11 | 516 | 1103 | 3510 | 1133 | oo' | Pryne. Robert Alexander. | . |N.&. Defence | Payne, Mrs. Mary Tud | 1837 Morson Ave.. Vancouver, B.C  |  | England.. | i Vernon, | i Auk- |
+| 11 | 458 | 1129 | 3650 | 1167 | 443007 j | Private  | Pearson, William John.... | . Nil  | Pearson. Mrs. U  | ;jssex, | 11 St< 1 >y R<1., High St., Walthamstow | En | England . | i Vernon. | ;Auk. | 1915. |
+| 11 | 458 | 1157 | 3510 | 1195 | 44.'103| | Private  | Pike, John  | . I Nil  | Pike, il«»nry James. . | 211Silica St., Nelson, B.C  | Newfoundia] | J Vernon. | IAug- |
+| 11 | 458 | 1188 | 3651 | 1225 | 4430t*.^i | Private  | Poole, Joseph  | Poole, Walter  | Kairview, Nelson, B.C   |  | U.S.A.. | | Vernon. | Aug. | ... | 1915. |
+| 11 | 458 | 1216 | 3650 | 1255 | 442754) | Private  | Porter, George  | Nii  | Porter, William  | El ra bale, Ont  | Canada. | Vernon. | Aug. | 2S, | 1915. |
+| 11 | 457 | 1246 | 3651 | 1280 | 4427.r»9l | Private  | Price, John Albert  | 93rd Regt. .. | Price, Mrs. E. M  | Coleman, Alta  | Ireland. | Vernon. | Sept. | Ui. | 1915. |
+| 11 | 457 | 1276 | 3736 | 1313 | 4 4 3009 (Private  | Prior, Andrew  | Nil  | Prior, T. J  | St. Marys, Kan*, I .8iA   |  | Ireland.. | Vernon. | Aug. | 17, | 1915. |
+| 11 | 457 | 1305 | 3650 | 1341 | 4 i 3070j Private  | Proctor, John Thomas.... | Nil  | Proctor, John  | Chipping, nr. Preston, Lancs, Eng  |  |  | Vernon. | Aug. | 17, | 1915. |
+| 11 | 456 | 1334 | 3650 | 1368 | 4 Y.mv, Private  | Prosser, Thomas  | Nil  | Jones, Mrs. Margaret. | Tydfill Terr., Troedyrhiw, Glamorgan, | Wale | Wales. | Vernon. | Aug. | 17. | 1915. |
+| 11 | 456 | 1362 | 3651 | 1402 | 4429lOjCorponil. .. | Quinn. John  | Nil  | Quinn. James  | 049 Jay St., Rochester, N.Y., U.S.A  |  |  | Vernon. | Aug. | 17, | 1915. |
+| 11 | 456 | 1393 | 3650 | 1426 | 443073 Private  | Radakovich, Lazo  | Nil  | Radakovich, Milana.. | Bioyd, Servia  |  | Servia.. | Vernon. | Aug. | 17, | 1915. |
+| 11 | 457 | 1421 | 3651 | 1455 | 44’?‘;35 Private  | Regan, Thomas  | Nil  | Regan, John  | Bovle, Ire  |  | Ireland. | Vernon. | Sept. | 7 | 1915. |
+| 11 | 458 | 1441 | 3652 | 1484 | 413075 Private  | Reid, George Rudolph K. | Nil.......... | Rentnor, Mrs. John... | Oollingwood, Ont  |  |  | Vernon. | Aug. | n', | 1915. |
+| 11 | 457 | 1479 | 3651 | 1513 | 442700 | Private. | Rendell, Herbert  | Territorials. | Rendell, Mrs. Florence | West Coker, Somerset, Eng  | England. | Vernon. | Aug. | 17. | 1915. |
+| 11 | 458 | 1508 | 3650 | 1542 | 443077 | Privnto. | Rogers, Ernest  | Nil  | Rogers, Eli  | New Basford, Notts, Eng  | England. | Vernon | Aug. | 17, | 1915. |
+| 11 | 459 | 1537 | 3651 | 1572 | 44290* | Sergeant,..,. | Konmark, Alexander E... | Nil  | Ronniark, Charles.... | Nelson, B.C  | U.S.A... | Vernon. | Aug. | 17, | 1915. |
+| 11 | 459 | 1566 | 3651 | 1608 | 433910 | Private  | Rosebnck, John.. %    | 107th Regt.. | Roscback, Christian.. | Chehalis, Wash., U.S.A  | U.S.A... | Vernon. | Sept. | 7, | 1915. |
+| 11 | 459 | 1595 | 3651 | 1630 | 443310 | Privato  | Rosling, Thomas Frederick | Terri torinJs.. | Rosling, Thomas  | Enfield, nr. London, Eng  | England. | Vernon. | Aug. | 23, | 1915. |
+| 11 | 460 | 1625 | 3651 | 1660 | 443078 | Privute  | llyde, Arthur P>nest .. | Nil  | Ryde, Mrs. U  | 77 Berlin St., Guelph, Ont  | Canada.. | Vernon. | Aug. | 17. | 1915. |
+| 11 | 460 | 1654 | 3651 | 1696 | 443079 | Private  | Sallis, Timothy  | Nil... ^  | Sallis, Mrs. Frank. . .. | Dumbleton, Evesham, W'orcs, Eng  | England. | Vernon. | Aug. | 17. | 1915. |
+| 11 | 461 | 1684 | 3651 | 1718 | 443080 | Private  | Sandison, Charles  | Imp. Forces. | Sandison. Mrs  | Aboyne, Aberdeen, Scot.  | Sontland | Vernon. | Aug. | 17, | 1915. |
+| 11 | 461 | 1712 | 3651 | 1746 | 443298 | Privato  | Scott, Robert Watson... | ’I’erritorials. | Scott, Mrs. R. W  | 00 Langdon Park Rd., Highgate. London | N., | England. | Vornon. | Aug. | 17. | 1915. |
+| 11 | 461 | 1742 | 3652 | 1775 | 4130*1 | Private  | Socman, Leonard  | Nil  | Angell, Mrs. Laura  | 300 Georgia St., Vancouver, B.C  | U.S.A | Vrimm. | Aug. | 11, | [915. |
+| 11 | 462 | 1770 | 3652 | 1806 | 442783 | Private   | Sellers, Harry Mai Ion... | Nil  | Sellers, Mrs. Ellen ... | Burke, N.Y., U.S.A  | U.S.A.. | Vernon | .iAug. | IV, | 1915. |
+| 11 | 462 | 1800 | 3651 | 1836 | 4 1LM781, Private  | Potter, Alexander Rodcrici | Nil  | Setter, Colin  | Port ago la Prairie, Man  |  | Canada.. | Vernon. | • Auk. | 17, | 1915. |
+| 11 | 462 | 1830 | 3651 | 1874 | 443324] Private  | Sharpe, John  | |90th Rogt .. | harpe, Frank  | Gloucester, Mass., U.S.A  |  |  | Vernon. | ■ I Aug. | 2H, | 1915. |
+| 11 | 463 | 1846 | 3651 | 1898 | 443714) Privato  | Sharpie:*, John  | . i Terri tori a Is. | Sharpies, Mrs. El lie... | Shore, B.C  |  | England. | Vornon. | ,| Aug. | 21, | 1915. |
+| 11 | 464 | 1889 | 3651 | 1928 | 443082j Private. | Shaw, Juhn  | (U. S. Army. | Shaw, John  | Port Arthur, Ont....  |  | ( -anada.. | Vernon. | . j Aug. | 17, | 1915. |
+| 11 | 465 | 1918 | 3650 | 1958 | 44308*1 Private  | Shepherd, Georgo  | .'Nil   | Shepherd, Joseph  | Bookham, Surrey, Eng...;  |  | England. | Vernon. | ..Aug. | 17. | 1915. |
+| 11 | 466 | 1941 | 3650 | 1980 | 443085|Private  | Silvcrton. Frank  | .Nil  | Silvcrton, Mrs. M. A.. | 34 Victoria Terr.. Barrow-in-Furness, Eng |  | England | Vernon | . i Aug. | 13, | 1015. |
+| 11 | 466 | 1972 | 3650 | 2012 | 44o.>25i Private  | . ii>luler, ’1 homas Henry.... | . • 107th Regt. . | Slater, Mrs. Helen. | Paradise, Cal., U.S.A.   |  | Canada.. | I Vernon. | • I Aug. | 28, | 1915. |
+| 11 | 467 | 2004 | 2830 | 2044 | 44"OXO| Privato  | .{Smith, Arthur Peter  | . j Nil  | Smith, Miss Mar> .... | Poplar and Stepney Sick Asylum, Devo | R< |
+| 11 | 2227 | 2035 | 3650 | 2068 |  |  |  |  | London, E., Eng  |  | England. | Vornon. | JAug. | 17, | 1915. |
+| 11 | 467 | 2063 | 3649 | 2101 | 4 *.3087 Privato  | .. Smith, Hugh Bernard.... | .INil  | Smith, Edgar F  | Gray Creek, B.C    |  | England. | Vornon. | .[July | 10, | 1915. |
+| 11 | 473 | 2090 | 3649 | 2129 | 1130S,S'Private  | .. Stacy, Cnrl Vornon  | . 1 Ind. Co. of R | Stacy, Mr* E. K... . | Grand Forks, B.C   |  | TT.S. A. | I Vernon | 1 Aug. | !7. | !9I5. |
+| 11 | 468 | 2117 | 3649 | 2157 | 4422M( Private  | .. Stiunton, John Puller  | . iNil  | Stainton, Alexander. . | Trail, 13. O  |  | Knglnnd | I Wrnnn | 1 Aug. | 17, | 1915. |
+| 11 | 468 | 2145 | 3641 | 2183 | 4424851 Private  | .. ‘Steel. Sunlov Gordon IT | '.Nil  | Steel. Thomas ''iinli*v | 27 Ch«rli»villn Rd.. W. ICeniinirtnn Tendon | 1 .?«n- | Fn.rUn.l | I V«»rn<in | I n„.* | IT | 101 =. |
+| 12 | 433 | 312 | 3484 | 376 | 4424S7j Private. | • Stephenson, Harry    | .'S. A...  | Stephenson, Mra. Mary A. | 2 Regent St., Stockton-on-Tees, Eng.... . | {England,. | Vernon. | . Am;. |
+| 12 | 433 | 343 | 3485 | 400 | 443089! Corporal.. .. . | ‘Stevens, Reginald Stuart . . |  | .;Stevens, Robert... | Harwood, Timberscombe, Somerset, Eng | • ingland.. | Vernon. | Auk. |
+| 12 | 433 | 372 | 3486 | 426 | 443000: Private  | Stoddard, Arehio Raymond | .INil  | .:Stoddard, C. O  | Pritchard, B.C  | U.S.A.... | Vernon. | Aug. |
+| 12 | 433 | 403 | 3486 | 455 | 4424S!»i JVivutc  | Stuart. Andrew Lor no  | I'.'fi .... | Stuart, James  | 1711 Dunbar St., Vancouver, B.C. .... | Canada... | Vernon. | • Aug. |
+| 12 | 432 | 432 | 3486 | 487 | 443093) Privnto.♦  | S.jmmoi , iii, Herbert Henry | ,;Nil  | .jSummersgill, W. S... | B ram ham, Boston Spa, Yorks, Eng.... | England.. | Vernon. | Auk- |
+| 12 | 431 | 461 | 3486 | 515 | 442-10.') Privato  | Sutherland, William  | . X11  | .{Sutherland, Mrs. B.. | 30 KJnnaird St., Wick, Scot  | Scotland. | Vernon. | Aug. |
+| 12 | 431 | 491 | 3488 | 552 | 4430941 Privato  | Swann, Ainert  | . iNii  | . Swann, Mrs. J. E.... | 119 Now Bldgs., Rawnsley, Staffs, Eng | England.. | Vernon. | Aug. |
+| 12 | 431 | 520 | 3488 | 580 | 44 3095 j Private  | Swanson, Charles   | .'Nil  | . Swanson, O  | Jeffe, Sweden  | Sweden... | Vernon. | Aug. |
+| 12 | 430 | 550 | 3486 | 603 | 443090“ Privato  | Syinea, William Keith  | .1 Nil  | . jSynaes, T  | Grand Forks, B.C  | Canada... | Vernon. | Aug. |
+| 12 | 430 | 579 | 3487 | 636 | 443101 [ Privato  | .Taylor,'John,   | .iNil  | Taylor, Francis Joseph, | Springvale, Go. Antrim, Ire  | Ireland... | Vernon. | i Aug. |
+| 12 | 429 | 609 | 3487 | 673 | 442S0< i1 Privato  | ,jTaylor, John Thomas  | .i.Nii  | j Taylor, Mrs. Mary. | Gamp bell ton, N.B  | Canada... | Vernon. | Aug. |
+| 12 | 430 | 639 | 3488 | 702 | 443tVU)i Private  | j Taylor, William  |  | . | Taylor, Adam  | jAbington. Lanark, Scot  | Scotland. | Vernon. | Aug. |
+| 12 | 430 | 668 | 3483 | 721 | 41!?i97 Private  | Thomas, Albert  | . 102nd Regt. | Thomas. Mrs. Sarah Annie | *3 Heath Hurst lid., Hampstead, | England.. | Vornon. | July |
+| 12 | 428 | 697 | 3487 | 751 | 4430971 Privato  | Thompson, George Purvis., | .INil  | . (Thompson, Georgo Albert | I Not stated    | Canada... | Vernon. | Aug. |
+| 12 | 428 | 727 | 3487 | 785 | 441'Slo! Private....... | (Thompson, Jamrs Herbert.. | ,|Nil | j Thompson, Mrs. K.... | Friday Bridge, Cambridge, Eng | Kngland.. | Vernon. | ! Aug. |
+| 12 | 428 | 757 | 3488 | 814 | 443099) 1 Yivate  | ;Thompson, Joseph Francis.. | Mil. . | . i< 'an | . Thompson, Mary Pauline. | Willow Point., B.C  | Canada... | . j Vernon. | Aug. |
+| 12 | 429 | 786 | 3488 | 840 | 411? 1 Priv.i*o  | Thompson, .Jo'-fj h Francis.. | .[Nil | . Thompson, '1 rs. J. F... | Will >w Ppint. B.G  | !.Can:vla,.. | .Vernon. | .V.!g. |
+| 12 | 428 | 816 | 3489 | 870 | 4i;i;uo! Piivate  | I'hompson, Samuel Arnold.. | NU   | Thompson, C harles  | i illihbofco, Sask   .'  | Canada... | . | Vernon. | Vug. |
+| 12 | 427 | 845 | 3494 | 903 | 4 rj.'iiiol Private  | jTidy, Thonin: .    | . 1 nip. I1 orrcs | . Tidy, Mrs. Hester  | Granite Rd., Nelson, B.C  | England.. | .! Vernon. | S..pt, |
+| 12 | 426 | 874 | 3489 | 933 | 4-1J0'Jr^ I Yivate  | I'l'ruHwel! William Frederick | Nil  | . iTrusweli. Mrs. R  | Trail, B.C     | U.S.A.... | Vernon. | Aug. |
+| 12 | 425 | 904 | 3489 | 956 | 4 13103 Pi 1VHv  | Ward, No than Alexander. .. |  | . Ward, John D  | Hareourt, N.B    | Canada... | Vernon. | Aug. |
+| 12 | 425 | 934 | 3490 | 989 | 413/331 Private   | j Warren. Alexander Stewart,. , | i IN iI  | j Warren, William J  | Sanquhar, Dumfries, Scot. ... | Scotland. | Vernon. | Aug. |
+| 12 | 425 | 963 | 3490 | 1015 | 443105'Private..... . | 1 Wn: soli, i >.a\ id ' . . | j Territorials. | j Watson, Magsrio Wilson. | Trail. B.C  •... | Scotland. | Vernon. | \ug. |
+| 12 | 425 | 991 | 3490 | 1045 | 442&17 Privato    | Webb, Ernest William.. | . Territorials. | i Webb, John il..  | 323 Edgware Rd., London, W., . | , England.. | Vornon. | ; Aug. |
+| 12 | 2929 | 1021 | 3491 | 1051 |  |  |  |  |  | ■ Canada... | Vornon. | Aug. |
+| 12 | 425 | 1032 | 2568 | 1079 | 4131071 Private...  | |Weir', Frederick Alexander | ..Nil.. | ! Weir, Mrs. G. F.   | {Trail. B.C   |
+| 12 | 425 | 1050 | 3492 | 1108 | 4433311 Private  | jWhalley, Joseph   | . \ii.. | Moss, Septimus  | Kamloops, B.C  | I England.. | Vernon. | Aug. |
+| 12 | 424 | 1080 | 3290 | 1132 | 442820 Privato  | White, John  | Nil.. | . i White, Robert  .... | 121 High St., Pitsligo. Aberd* , Scot. | Scotland. | Vernon. |
+| 12 | 424 | 1107 | 3493 | 1169 | 4431J2|Privato  | j White. Norman  | Nil.. | .iWhite, Mrs. Bertha  | P.O. Box 4, Molson, Wash., U.S.A. | ! England.. | Vernon. | • | Aug. |
+| 12 | 424 | 1137 | 3493 | 1190 | 443113 Private  | ; Whitenuad. Richard  | Nil.. | .! Whitehead, Mrs. A  | Nelson, B.C  | i U.S.A.... | Vernon. | . ’ Aug. |
+| 12 | 423 | 1166 | 3494 | 1219 | 4437711 Privato  | iWillinrns, Robert  | Nil.. | .! Williams, Thomas  | 8th General Hospital, Rouen, France | ! England.. | Vernon. | .' Aug. |
+| 12 | 424 | 1193 | 3496 | 1258 | 442510! Private  | [Wood, John Ernest  | Nil.. | . I Wood, John Walton  | Erickson, B.C  | Canada... | Vornon. | • IAug. |
+| 12 | 424 | 1223 | 3496 | 1284 | 443114 j f Yivato  | Woodland, George Stuart... | •Nil.. | .Woodland. Mrs. J. A.... | Revelstoke, B.C  | Canada... | Vernon. | .i.Vug. |
+| 12 | 423 | 1253 | 3495 | 1306 | 443115 Private  | iWvldes. William Victor  | INil.. | . Wyldes, Mrs. F. A."  | Rose Cottage, Warwick, Eng... | Erigland.. | Vernon. | .; Aug. |
+| 12 | 423 | 1283 | 3494 | 1344 | 443117; Privato  | j Yah nor Amandous  | 'Nil.. | .i.MeBeth, Mrs. Malcolm. | Roger’s Pass, B.C    | U.S.A.... | Vernon. | .! Aug. |
+| 12 | 423 | 1313 | 3293 | 1366 | 443734 Privato  | Young, Samuel  | Imp. Forces | . Young, Anna  | Revelstoke, B.C   | England.. | Vernon. |
+{% endraw %}

@@ -1,0 +1,210 @@
+---
+title: 118th Battalion
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Kxpeditionary | Force | 118th BATTALION | * | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Jm-4-17. Ship: S.S. "Scandinavian.1 | 59J-2-29, Date: January 23rd, 1917. |
+| 2 | 571 | 532 | 3244 | 572 | •Sz |  | Former Corps. |  | Country of |
+| 2 | 671 | 684 | 3734 | 716 | Lieut.-Colonel... | Lochead, William Merton O  |  |  |  |  | May | 11, 1916. |
+| 2 | 672 | 714 | 3731 | 744 | Major  | Gregory, Walter Herbert  |  |  |  |  | Feb. | 7, 1916. |
+| 2 | 670 | 743 | 3733 | 772 | Captain  | Fraser, Hector Alexander  | ll.C.R  |  |  |  | Mar. | 11, 1916. |
+| 2 | 669 | 772 | 3732 | 801 | Captain  | Routley, Francis Silverwood  |  |  |  |  | Feb. | 7, 1916. |
+| 2 | 670 | 801 | 3732 | 831 | Captain  | Seagram, Thomas William  |  |  |  |  | May | 4, 1916. |
+| 2 | 668 | 830 | 3733 | 859 | Captain  | Snyder, Frederick Carl H  |  |  |  |  | Feb. | 7, 1916. |
+| 2 | 669 | 859 | 3733 | 889 | Lieutenant  | Barkley, John Henry  |  |  |  |  | Mar. | 9, 1916. |
+| 2 | 669 | 888 | 3731 | 917 | Lieutenant  | Barrie, Ernest George  |  |  |  |  | May | 18, 1916. |
+| 2 | 669 | 917 | 3733 | 945 | Lieutenant  | Charlton, Norman Garfield  |  |  |  |  | Oct. | 26, 1916. |
+| 2 | 669 | 945 | 3733 | 974 | Lieutenant  |  |  |  |  |  | Mar. | 8, 1916. |
+| 2 | 669 | 975 | 3733 | 1003 | Lieutenant  |  |  |  |  | Kitchener  | Feb. | 23, 1916. |
+| 2 | 668 | 1004 | 3734 | 1033 |  |  |  |  |  | Camp Borden... | Lieutenant  | U.S.A  | July | 12, 1916. |
+| 2 | 667 | 1032 | 3734 | 1061 | Lieutenant  |  |  |  |  |  | May | 3, 1916. |
+| 2 | 666 | 1061 | 3734 | 1089 | Lieutenant  |  |  |  |  |  | Mar. | 6, 1916. |
+| 2 | 665 | 1091 | 3734 | 1119 | Lieutenant  |  |  |  |  |  | May | 16, 1916. |
+| 2 | 666 | 1120 | 3734 | 1147 | Drummer  |  | Nil  |  |  |  | Jan. | 26, 1916. |
+| 2 | 664 | 1149 | 3733 | 1178 | Private  | Allemang, Harvey Musselman.... | Nil  | R.R. No. 1, Canfield, Ont  |  |  | Mar. | 25, 1916. |
+| 2 | 662 | 1235 | 3734 | 1264 | Private  |  | Nil  | 9 Albion St. W.t Croydon, Surrey, Eng  |  |  | Jan. | 3, 1916. |
+| 2 | 662 | 1265 | 3733 | 1293 | Private  | Babington, Albert Edward W  |  | 43 Lee Ave., Toronto, Ont  |  |  | Dec. | 29, 1915. |
+| 2 | 662 | 1294 | 3734 | 1322 | L.-Sergeant  |  | Nil  | 85 Elgin St., Kitchener, Ont  |  |  | May | 1, 1916. |
+| 2 | 662 | 1323 | 3734 | 1351 | Pay .-Sergeant... |  | Nil  |  |  |  | Nov. | 26, 1915. |
+| 2 | 1421 | 1352 | 3734 | 1381 |  |  | Nil  | 4306 North Keeler Ave., Irving Pk., Chicago,IIi.;U.S.A |  |  | Dec. | 30, 1915. |
+| 2 | 1421 | 1379 | 3735 | 1406 |  |  | Nil  |  |  |  | Jan. | 3, 1916. |
+| 2 | 1422 | 1408 | 3735 | 1436 |  |  | Nil  |  |  |  | April | 19, 1916. |
+| 2 | 1422 | 1437 | 3734 | 1465 |  |  | Nil  |  |  |  | April | 1, 1916. |
+| 2 | 1422 | 1466 | 3735 | 1493 |  |  | Nil... |  |  |  | Dec. | 8, 1915. |
+| 2 | 1421 | 1495 | 3735 | 1522 |  |  | Nil... |  |  |  | Nov. | 21, 1915. |
+| 2 | 1421 | 1552 | 3735 | 1579 |  |  | Nil... |  |  |  | Nov. | 11, 1915. |
+| 2 | 558 | 1582 | 3735 | 1609 | 751743 |  | Nil  |  |  |  | May | 13, 1916. |
+| 2 | 558 | 1610 | 3735 | 1637 | 751505 |  | Nil... . |  |  |  | Mar. | 21, 1916. |
+| 2 | 558 | 1639 | 3735 | 1666 | 751309 |  | Nil  |  |  | Kitchener  | Jan. | 10, 1916. |
+| 2 | 558 | 1668 | 3735 | 1695 | 751269 |  |  |  |  | Kitchener  | Dec. | 31, 1915. |
+| 2 | 558 | 1697 | 3736 | 1725 | 751461 | Bish, Albert Ernest  |  |  |  | Kitchener  | Mar. | 6, 1916. |
+| 2 | 557 | 1726 | 3735 | 1755 | 751372 | Bish, James Wright  | Nil  |  |  |  | Jan. | 25, 1916. |
+| 2 | 556 | 1755 | 3736 | 1785 | 751061 | Co. Sergt.-Major. |  |  |  |  | Nov. | 2, 1915. |
+| 2 | 556 | 1784 | 3736 | 1813 | 751515 | Bloom, Renigale Robert S  | Nil  |  |  | Kitchener  | Mar. | 22, 1916. |
+| 2 | 557 | 1813 | 3736 | 1839 | 751611 |  | Nil... |  |  |  | Mar. | 29, 1916. |
+| 2 | 556 | 1842 | 3736 | 1869 | 751689 | Bortz, Allen  | Nil  |  | Canada  | Kitchener  | Mar. | 23, 1916. |
+| 2 | 556 | 1871 | 3737 | 1901 | 751220 | Sergt.-Bugler  |  |  |  |  | Dec. | 17, 1915. |
+| 2 | 555 | 1900 | 3737 | 1927 | 751259 |  | Nil. |  |  |  | Dec. | 27, 1915. |
+| 2 | 555 | 1929 | 3737 | 1956 | 751396 |  | Nil... . |  |  |  | Jan. | 26, 1916. |
+| 2 | 555 | 1958 | 3737 | 1988 | 751272 | Bristow, Frank Sydney E  | Nil  |  |  | Kitchener  | Dec. | 23, 1915. |
+| 2 | 554 | 1987 | 3738 | 2014 | 751377 |  |  |  |  |  | Jan. | 3, 1916. |
+| 2 | 553 | 2016 | 3738 | 2045 | 751120 | Brown, Frank Ralph  |  |  | U.S.A  |  | Nov. | 26, 1915. |
+| 2 | 553 | 2046 | 3011 | 2075 | 751467 |  | Nil  | Newton Rd., Wollaston, Wellingborough, Northants, |
+| 3 | 740 | 400 | 3914 | 430 | 751702 Private  | Nil  | Brubacher, Israel  |  |  | April 24, 1916. |
+| 3 | 739 | 429 | 3915 | 459 | 751679 Private  |  | Bullick, Charles  |  |  | A}>ril 17, 1916. |
+| 3 | 1596 | 458 | 3915 | 488 |  | Nil  | Burns, Mrs. Eleanor  |  |  | Feb. 8, 1916. | 138 Woodbine Ave., Toronto, Ont  |
+| 3 | 1597 | 487 | 3915 | 518 |  | Nil  | Buss, Mrs. Olga  |  |  | Sept. 4, 1915. | Hanover, Ont   |
+| 3 | 1596 | 516 | 3916 | 547 |  | Nil  | Busson, Mrs. Alice Mary  |  |  | Feb. 19, 1916. | 389 Spadina Ave., Toronto, Ont  |
+| 3 | 1596 | 545 | 3915 | 576 |  | Nil  | Capling, Henry  |  |  | April 18, 1916. |
+| 3 | 1596 | 574 | 3916 | 605 |  | Nil  | Cardoza, Mrs. Emma Dora  |  |  | Sept. 30, 1915. |
+| 3 | 1597 | 604 | 3915 | 635 |  | Nil  | Carnahan, Feter  |  |  | May 11, 1916. | 1112 West Jackson St., Bloomington, 111., U.S.A  | U.S.A  |
+| 3 | 1091 | 633 | 3915 | 663 |  | Nil  | Carse, Mrs. Elizabeth  |  |  | Mar. 6, 1916. | 131 St. George St., Kitchener, Ont  |
+| 3 | 1596 | 662 | 3915 | 692 |  | Nil  | Chandler, Edward >  |  |  | Jan. 10, 1916. |
+| 3 | 1596 | 691 | 3916 | 721 |  | Nil  | Chapman, Mrs. Ella  |  |  | Dec. 5, 1915. |
+| 3 | 1596 | 720 | 3915 | 750 |  | Nil  | Christman, Philip  |  |  | Mar. 29, 1916. | Elmira, Ont  |
+| 3 | 1596 | 749 | 3916 | 779 |  | Nil  | Lydon, Mrs. Thomas  |  |  | Oct. 11, 1915. |
+| 3 | 1597 | 778 | 3916 | 808 |  | Nil  | Cochrane, John  |  |  | Mar. 13, 1916. |
+| 3 | 1924 | 807 | 3916 | 837 |  |  | Cuthbertson, Mrs. Olive Elizabeth |  |  | Feb. 1, 1916. | 131 Courtland Ave., Kitchener, Ont  |
+| 3 | 1597 | 836 | 3916 | 867 |  | Nil  | Dahmer, Andrew   |  |  | April 4, 1916. | 75 Simeon St., Kitchener, Ont  |
+| 3 | 1596 | 865 | 3916 | 895 |  | Nil  | Darlow, Mrs. Amy  |  |  | Dec. 3, 1915. |
+| 3 | 1597 | 894 | 3916 | 924 |  | Nil  | Daum, Adam    |  |  | Dec. 27, 1915. | Elmira, Ont  |
+| 3 | 1926 | 953 | 3916 | 986 |  |  | Davis, George.  |  |  | Nov. 2, 1915. | 43 Pequegnat Ave., Kitchener, Ont ,  |
+| 3 | 743 | 981 | 3916 | 1011 | 127078 Private  |  | Deal, Mrs. Ada  |  |  | Oct. 11, 1915. | 102 Ahrens St. W., Kitchener, Ont  |
+| 3 | 1597 | 1038 | 3916 | 1068 |  | Nil    | Delion, Harry  |  |  | Mar. 24, 1916. | 122 Chestnut St., Kitchener, Ont  |
+| 3 | 1597 | 1067 | 3916 | 1098 |  | Nil  | Desmond, Thomas  |  |  | April 10, 1916. |
+| 3 | 743 | 1096 | 3916 | 1127 | 126531 Co. Q.-M. Sergt.. | Nil  | Diefenbacher, C  |  |  | Sept. 18, 1915. |
+| 3 | 741 | 1125 | 3916 | 1155 | 751757 Private  | Nil  | Dingley, Mrs. Florence  |  |  | June 16, 1916. |
+| 3 | 1926 | 1155 | 3916 | 1183 |  |  | Donoghue, Mrs. Matilda  |  |  | Dec. 29, 1915. | Channel Islands |
+| 3 | 1597 | 1183 | 3917 | 1213 |  | Nil  | Dorsch, Mrs. Catherine  |  |  | April 8, 1916. |
+| 3 | 1597 | 1240 | 3918 | 1270 |  | Nil  | Dunn, Mrs. Renetta  |  |  | Dec. 27, 1915. | 108 Mill St., Kitchener, Ont  |
+| 3 | 1597 | 1298 | 3918 | 1326 |  | Nil  | Eccles, James  |  |  | Mar. 1, 1916. |
+| 3 | 740 | 1355 | 3918 | 1384 | 751327 Private  | Nil  | Edwards, Mrs. Christina  |  |  | Dec. 30, 1915. |
+| 3 | 740 | 1384 | 3919 | 1413 | 751219 Corporal  | Nil  | Ellis, Mrs. Annie  |  |  | Dec. 17, 1915. |
+| 3 | 1092 | 1413 | 3918 | 1442 |  | Nil  | Ellis, Mrs. Annie  |  |  | Mar. 18, 1916. |
+| 3 | 740 | 1442 | 3918 | 1470 | 751700 L.-Corporal  |  | Ellsworth, Mrs. Marie  |  |  | April 24, 1916. | U.S.A  |
+| 3 | 1596 | 1557 | 3919 | 1586 |  | Nil  | Erwin, Henry  |  |  | Jan. 3, 1916. |
+| 3 | 741 | 1585 | 3916 | 1614 | 751649 L.-Corporal  |  | Fischer, Mrs. Julia  |  |  | April 10, 1916. | 43 Weber St. W., Kitchener, Ont. .. |
+| 3 | 1597 | 1614 | 3915 | 1642 |  | Nil  | Fortner, Mrs. Florence  |  |  | Feb. 7, 1916. |
+| 3 | 1597 | 1643 | 3916 | 1670 |  | Nil  | Froehlich, Mrs. Laura  |  |  | Dec. 27, 1915. | U.S.A  |
+| 3 | 1598 | 1671 | 3915 | 1699 |  | Nil  | Garner, James  |  |  | Nov. 22, 1915. |
+| 3 | 1927 | 1701 | 3915 | 1729 |  |  | Garner, Mrs. Mary  |  |  | Feb. 2, 1916. | Young St., Waterloo, Ont  |
+| 3 | 1927 | 1729 | 3914 | 1757 |  |  | Gehl, Mrs. Katherine  |  |  | Mar. 19, 1916. | Waterloo, Ont   |
+| 3 | 742 | 1756 | 3915 | 1786 | 751102 Q.-M. Sergeant. . |  | Gellatly, Mrs. Lillian  |  |  | Nov. 17, 1915. |
+| 3 | 1928 | 1786 | 3916 | 1816 |  |  | Gill, Mrs. Ida Matilda  |  |  | April 17, 1916. | 38 Charon St., Kitchener, Ont  |
+| 3 | 745 | 1813 | 3916 | 1844 | 126083 Co. Sergt.-Major. |  | Gillespie, Mrs. Grace  |  |  | Sept. 1, 1915. | 126 Charon St., Kitchener, Ont  | U.S.A  |
+| 3 | 1599 | 1872 | 3915 | 1903 |  | Nil  | Glebe, Adam  |  |  | April 5, 1916. | 55 Mary St., Kitchener, Ont  |
+| 3 | 1599 | 1930 | 3916 | 1959 |  | Nil... | Gordon, Mrs. Emma  |  |  | Dec. 15, 1915. | 31 Water St., Kitchener, Ont  |
+| 3 | 1599 | 1960 | 3916 | 1989 |  | Nil... . | Goudie, Isaac  |  |  | April 3, 1916. | 25 Brubacher St., Kitchener, Ont  |
+| 3 | 1599 | 1989 | 3915 | 2018 |  | Nil... . | Green, Anson  |  |  | April 8, 1916. |
+| 3 | 1599 | 2018 | 3914 | 2046 |  | Nil... . | Hahn, John S  |  |  | Nov. 2, 1915. |
+| 3 | 741 | 2045 | 3914 | 2074 | 751249 Private  | Nil... . | Hall, Mrs. Helena  |  |  | Dec. 28, 1915. |
+| 3 | 1100 | 2075 | 2411 | 2103 |  | Nil  | Hamel, Mrs. Ella  |
+| 3 | 742 | 2103 | 3914 | 2135 |  | O.T.C  | 751491 Corporal  | Harper, J. A  | Younge St., Waterloo, Ont  | Canada  | Mar. 20, 1916. |
+| 4 | 566 | 545 | 3253 | 580 | .§2 |  |  | Former Corps. |  |  | Country of |
+| 4 | 566 | 695 | 3741 | 725 | 751277 | Sergeant  |  |  | Hawke, Mrs. Martha  | Waterloo, Ont  | Canada  | Waterloo  | Jan. | 1916. |
+| 4 | 566 | 723 | 3741 | 753 | 751244 |  | Hawkins, Frederick Robert  |  | Hawkins, Mrs. Rose  | 54 Walker St., Kitchener, Ont  | England.. | Kitchener  | Dec. | 1915. |
+| 4 | 565 | 753 | 3741 | 782 | 751473 |  | Held, Leander Joseph  | Nil  | Schneider, Mrs. Anthony  | 14 Grove St., Kitchener, Ont  | Canada  | Kitchener  | Mar. | 1916. |
+| 4 | 566 | 781 | 3742 | 811 | 751531 |  | Heller, Rudolph  |  | Heller, Mrs. Martha  | King St. , Waterloo, Ont  | Germany. | Waterloo  | Mar. | 1916. |
+| 4 | 568 | 810 | 3742 | 840 | 12G72C |  |  | Nil... | Helm, Mrs. Florence  | 27 Hopp St., Kitchener, Ont  | England.. | Kitchener  | Sept. | 1915. |
+| 4 | 566 | 840 | 3742 | 870 | 651583 | Sergeant  | Henry, Alexander Bruce  | Nil  | Henry, Frank  | R.R. No. 5, Lucknow, Ont  | Canada... | Lucknow  | Feb. | 1916. |
+| 4 | 566 | 869 | 3743 | 899 | 751293 | Private  | Henry, William John  | Nil  | Henry, David  | R.R. No. I, Britton, Ont  | Canada... | Lin wood  | Dec. | 1915. |
+| 4 | 566 | 898 | 3743 | 927 | 751449 | Private  |  |  | Hepburn, Mrs. Margaret  | Gen. Del., Toronto, Ont  | England.. | Kitchener  | Mar. | 1916. |
+| 4 | 566 | 926 | 3744 | 955 | 751759 | Private  | Hertling, William  | Nil  | Lauer, Peter  | 295 Maybury Grand, Detroit, Mich., U.S.A  | U.S.A  | Camp Borden... | Aug. | 1916. |
+| 4 | 567 | 955 | 3745 | 985 | 751600 | Private  | Hickson, George Henry  |  | Hickson, Mrs. Theresa  | 15 May PI., Kitchener, Ont  | Canada  | Kitchener  | April | 1916. |
+| 4 | 566 | 984 | 3745 | 1013 | 751346 | L.-Corporal  | Hilliard, Wilfrid Laurier  |  | Hilliard, Dr. W. L  | Waterloo, Ont  | Canada  | Waterloo  | Jan. | 1916. |
+| 4 | 566 | 1012 | 3745 | 1043 | 751107 | Private  |  | Nil  | Himburg, Frederick  | Bridgeport, Ont  | Canada... | Kitchener  | Nov. | 1915. |
+| 4 | 566 | 1041 | 3744 | 1072 | 751754 | Co. Sergt.-Major.. | Hogg, John Scott  |  | Hogg, Mrs. Kate Norma  | Martello Apts., 625 Broadway Ave., Winnipeg, Man. | Canada... | London  | June | 1916. |
+| 4 | 566 | 1070 | 3744 | 1100 |  | Private  | 751414 |  | Howitt, J. F  | 335 Dovercourt Rd., Toronto, Ont  | England... | Toronto  | Feb. | 1916. |
+| 4 | 566 | 1099 | 3743 | 1130 | 751400 | Private  |  |  | Hughes. Mrs. Ethel Jane  | 100 Waterloo St., Kitchener, Ont  | Scotland.. | Kitchener  | Feb. | 1916. |
+| 4 | 566 | 1128 | 3744 | 1159 | 751299 | Private  |  | Nil  | lies, George  | 1529, 9th Ave. E., Owen Sound, Ont  | England... | Kitchener  | Jan. | 1916. |
+| 4 | 566 | 1157 | 3744 | 1188 | 751726 | Private  |  | Nil  | Jeffrey, Frederick  | Fergus, Ont  | Canada... | Kitchener  | May | 1916. |
+| 4 | 567 | 1186 | 3744 | 1215 | 751353 | Private  |  | Nil  | Jones, Adelaide  | 40 Patrick St., Market Harborough, Leicester, Eng. | England.. | Waterloo  | Dec. | 1915. |
+| 4 | 567 | 1214 | 3744 | 1244 | 75164G | Private  |  | Nil... | Keast, Robert  | Grand Valley, Ont   | Canada... | Kitchener  | April | 1916. |
+| 4 | 567 | 1243 | 3744 | 1274 | 126094 |  |  |  | Kienapple, Joseph  | Kitchener, Ont  | Canada... | Kitchener  | Sept. | 1915. |
+| 4 | 565 | 1271 | 3744 | 1303 | 751466 | Private  |  | Nil  | Kipper, Mrs. J  | 169 Weber St. E., Kitchener, Ont  | Canada  | Kitchener  | Mar. | 1916. |
+| 4 | 564 | 1301 | 3744 | 1331 | 751721 | Private  |  | Nil  | Johnson, Mrs. Lena  | 21 Mill St., Kitchener, Ont  | Canada  | Kitchener  | May | 1916. |
+| 4 | 564 | 1330 | 3744 | 1360 | 751663 | L.-Corporal  |  | Nil  | Koehler, Louis  | Waterloo, Ont  | Canada  | Kitchener  | April | 1916. |
+| 4 | 564 | 1359 | 3744 | 1389 | 751359 |  |  | Nil  | Krist, Michael  | 42 Linden Ave., Kitchener, Ont  | Serbia  | Kitchener.:  | Jan. | 1916. |
+| 4 | 563 | 1388 | 3744 | 1418 | 751077 | Arm.-Sergeant  |  |  | Kuhl, Theobald  | Willow St., Kitchener, Ont  | Canada  | Kitchener  | Nov. | 1915. |
+| 4 | 563 | 1416 | 3744 | 1447 |  | Private  | 751087 |  | Kuhl, George S  | R.R. No. 2, Waterloo, Ont  | Canada  | Kitchener  | Nov. | 1915. |
+| 4 | 563 | 1445 | 3744 | 1476 | 751654 | Private  | Lantz, Edner  | Nil  | Lantz, Mrs. Charles  | 601 King St. W., Kitchener, Ont  | Canada  | Kitchener  | April | 1916. |
+| 4 | 562 | 1474 | 3744 | 1505 | 751300 | Private  |  | Nil  | Latimer, Orlando  | Gananoque, Ont  | Canada  | Kitchener  | Jan. | 1916. |
+| 4 | 562 | 1503 | 3744 | 1534 | 751450 | Private  |  | Nil  | Lavery, Meredith  | Dorking, Ont  | Canada.... | Elmira  | Mar. | 1916. |
+| 4 | 562 | 1532 | 3744 | 1563 | 751538 | Private  | Lavery, James Stanley  | Nil  | Lavery, Med  | R.R. No. 1, Wallenstein, Ont  | Canada  | Elmira  | Mar. | 1916. |
+| 4 | 563 | 1561 | 3745 | 1592 | 751173 |  |  |  | Lilley, Mrs. Sarah  | King St., Waterloo, Ont  | England... | Waterloo  | Dec. | 1915. |
+| 4 | 563 | 1590 | 3745 | 1621 | 751418 | Private  | Livingstone, James Patrick  | Nil  | Livingstone, William Patrick. | Ringaskiddy, Co. Cork, Ire  | Ireland  | Kitchener  | Feb. | 1916. |
+| 4 | 563 | 1619 | 3745 | 1648 | 751185 |  |  | Nil  | Livock, Mrs. Emma  | 120 Cedar St. S., Kitchener, Ont  | England... | Kitchener  | Dec. | 1915. |
+| 4 | 565 | 1648 | 3745 | 1678 | 126909 | Private  |  | Nil  | Looker, Mrs. Marie  | 65 Chapel St., Kitchener, Ont  | England... | Kitchener  | Sept. | 1915. |
+| 4 | 563 | 1675 | 3744 | 1707 | 751677 |  |  | Nil  | Luft, Julius  | 28 Spring St., Kitchener, Ont  | Canada  | Kitchener  | April | 1916. |
+| 4 | 563 | 1706 | 3744 | 1735 | 751744 | Private  |  | Nil  | Macdonald, Bryan..  | 5 Lion Terr., Carlton Rd., Nottingham, Eng  | England... | Kitchener  | May | 1916. |
+| 4 | 565 | 1734 | 3744 | 1765 | 126568 |  |  |  | Maguire, Mrs. Harriet  | 7 Providence, Luddenden, Yorks, Eng  | England... | Kitchener  | Sept. | 1915. |
+| 4 | 563 | 1763 | 3744 | 1793 | 751632 | Private  | Main, Herman Ernst  | Nil  | Main, J. G  | R.R. No. 3. Kitchener, Ont  | Canada  | Kitchener  | April | 1916. |
+| 4 | 562 | 1792 | 3744 | 1822 | 751140 | Sergeant  | Mansfield, William Casey  | Nil  | Mansfield, James E  | Kinmount, Ont  | Canada  | Waterloo  | Dec. | 1915. |
+| 4 | 562 | 1821 | 3744 | 1851 | 751653 |  |  |  | Martin, Wellington  | 70 Lancaster St. E., Kitchener, Ont  | Canada  | Kitchener  | April | 1916. |
+| 4 | 562 | 1850 | 3744 | 1880 | 751258 |  |  | Nil  | Master, Irvin  | 15 Realand St., Kitchener, Ont  | Canada  | Kitchener  | Dec. | 1915. |
+| 4 | 562 | 1879 | 3744 | 1909 | 751375 |  |  | Nil  | Mathers, Rev. F. M  | William St., Waterloo, Ont  | Canada  | Waterloo  | Jan. | 1910. |
+| 4 | 562 | 1907 | 3744 | 1938 | 751314 |  |  | Nil  | Millard, John Wesley  | Winterbourne, Ont  | Canada  | Kitchener  | Jan. | , 1916. |
+| 4 | 562 | 1936 | 3744 | 1967 | 751398 |  |  |  | Miller, Conrad  | Clifford, Ont  | Canada  | Kitchener  | Feb. | , 1916. |
+| 4 | 562 | 1965 | 3745 | 1996 | 751188 |  |  |  | Mitchell, George  | 764 King St., Kitchener, Ont  | Canada  | Kitchener  | Dec. | , 1915. |
+| 4 | 563 | 1995 | 3744 | 2025 | 127083 |  |  |  | Mizen, Mrs. Amy Ruth  | 949 King St. W., Kitchener, Ont  | England... | Kitchener  | Oct. | 1915. |
+| 4 | 561 | 2023 | 3744 | 2054 | 751419 |  |  |  | Mohlman, Mrs. Mary  | Brunner, Ont  | Canada  | Kitchener  | Feb. | 1916. |
+| 4 | 561 | 2052 | 3745 | 2083 | 751625 |  |  | Nil  | Moody, Mrs. Mary  | 74 Lancaster, Kitchener, Ont  | Canada  | Kitchener  | April | 1916. |
+| 4 | 561 | 2079 | 3744 | 2113 | 751440 | Private  | Moody, Thomas  | Nil  | Moody, Susan  | 297 Berkely St., Toronto, Ont  | England... | Toronto  | Feb. | 1916. |
+| 5 | 769 | 385 | 3935 | 420 | 751232 Private  |  |  | Musclow, Mrs. Mary  |  | Dec. 24, 1915. | Kitchener  |
+| 5 | 769 | 414 | 3936 | 449 | 751562 Private  |  |  | Myers, Mrs. Mary  |  | Mar. 27, 1916. | Kitchener  |
+| 5 | 1958 | 472 | 3937 | 507 |  |  |  | Norris, Mrs. Mary Ann  |  | Jan. 19, 1915. | Kitchener  |
+| 5 | 1632 | 502 | 3936 | 535 |  |  | Nil  | O’Neill, William H  |  | Feb. 5, 1916. | Elmira  |
+| 5 | 1632 | 531 | 3937 | 564 |  |  | Nil  | Ostoll, John James  |  | Mar. 21, 1916. | Kitchener  |
+| 5 | 1632 | 565 | 3239 | 595 |  |  | Nil... . | Pardon, William Francis  |
+| 5 | 769 | 590 | 3937 | 624 | 126123 Scrgeant-Cook.... |  | Nil  | Pawson, Mrs. Lillie  |  | Sept. 3, 1915. | Kitchener  |
+| 5 | 1632 | 677 | 3938 | 710 |  |  | Nil  | Petherick, Thomas I  |  | Oct. 30,1916. |
+| 5 | 1632 | 765 | 3938 | 798 |  |  | Nil  | Puiford, Mrs. Martha Hannah  |  | Dec. 30, 1915. | Kitchener  |
+| 5 | 1631 | 794 | 3938 | 827 |  |  | Nil  | Purdon, James   |  | Dec. 5, 1915. | Kitchener  |
+| 5 | 767 | 828 | 2429 | 856 | 751126 Private  |  | Nil  | Pym, William  |
+| 5 | 1129 | 1119 | 2441 | 1147 |  | Roese, Norman  | Nil  | Ruppert, Mrs. Simon  |
+| 5 | 1129 | 1176 | 2441 | 1205 |  | Rook, John Otto .  | Nil  | Rook, Mrs. Nelda Melinda  |
+| 5 | 764 | 1226 | 3942 | 1262 | 751709 Private  |  |  | Rowe, Mrs. Isabel  |  | April 26, 1916. | Kitchener  |
+| 5 | 1630 | 1255 | 3942 | 1292 |  |  | Nil  | Rudow, Frank  |  | Mar. 25, 1916. | Elmira  |
+| 5 | 1630 | 1290 | 3485 | 1318 |  |  | Nil  | Not stated  |
+| 5 | 763 | 1321 | 2834 | 1350 | 751054 Private  |  |  | Saunders, Oscar B  |
+| 5 | 762 | 1494 | 2429 | 1522 | 751699 Private  |  | Nil  | Schultz, Frederick  |
+| 5 | 1127 | 1637 | 2430 | 1665 |  | Smith, William Ewart  | Can. Mil  | Smith, Joseph Thomas  |
+| 5 | 762 | 1664 | 2430 | 1694 | 751437 L.-Corporal  |  | Nil  | Somerville, Mrs. Emily  |
+| 5 | 761 | 1694 | 2430 | 1721 | 751342 Private  |  | Nil  | Sosnoski, Martin  |
+| 5 | 1127 | 1723 | 2430 | 1752 |  | Starkey, Charles Frederick  | C.F.A  | Starkey, Mrs. Jane  |
+| 5 | 1630 | 1747 | 3945 | 1779 |  |  | Nil...4  | Starr, Frederick  |  | Mar. 11,1916. |
+| 5 | 1629 | 1892 | 3946 | 1925 |  |  | Nil.... | Stericker, Mrs. Ethel Mary E.... |  | Jan. 3, 1916. |
+| 5 | 761 | 1984 | 2441 | 2012 | 751124 Co. Q.-M. Sergt.. |  | Nil  | Stroh, Emanuel  |
+| 5 | 760 | 2065 | 3947 | 2100 | 751181 Private  | Sutherland, William Alexander  | 30th Regt  | Sutherland, Mrs. Anna  |  | Dec. 7, 1915. | Kitchener  |
+| 6 | 721 | 635 | 3232 | 668 |  |  | Former Corps. | Country of |
+| 6 | 534 | 776 | 3727 | 809 | 75120G |  | Nil... | Wales  | Kitchener  | Dec. 15, 1915. |
+| 6 | 534 | 805 | 3727 | 837 | 751057 |  |  |  |  | Sept. 20, 1915. | Nil... | England  | Kitchener  |
+| 6 | 533 | 834 | 3728 | 868 | 751320 |  |  |  |  | Dec. 23, 1915. | Private  | Nil  | Canada  | Toronto  |
+| 6 | 533 | 863 | 3728 | 896 | 751628 |  |  |  |  | April 3, 1916. | Nil... . | Canada  | Kitchener  |
+| 6 | 533 | 892 | 3728 | 925 | 751055 |  |  |  |  | Sept. 19, 1915. | Corporal  | Nil  | Canada  | Kitchener  |
+| 6 | 532 | 922 | 3728 | 953 | 751056 |  |  |  |  | Oct. 16, 1915. | Private  | Nil... | Kitchener  |
+| 6 | 528 | 951 | 3729 | 982 | 751260 |  |  |  |  | Dec. 27, 1915. | Private  | Nil... | Canada  | Kitchener  |
+| 6 | 528 | 980 | 3728 | 1011 | 751361 |  |  |  |  | Jan. 10, 1916. | Private  | Canada  | Waterloo  |
+| 6 | 527 | 1009 | 3727 | 1041 | 751439 |  |  |  |  | Feb. 27, 1916. | L.-Sergeant  | Canada  | Waterloo  |
+| 6 | 527 | 1037 | 3729 | 1068 | 7512S2 |  |  |  |  | Jan. 3, 1916. | Private  | Canada  | Kitchener  |
+| 6 | 527 | 1067 | 3729 | 1100 | 751416 |  |  |  |  | Feb. 21, 1916. | Private  | Nil  | England  | Kitchener  |
+| 6 | 527 | 1096 | 3730 | 1127 | 751267 |  |  |  |  | Jan. 3, 1916. | Private  | Nil  | Kitchener  |
+| 6 | 527 | 1125 | 3730 | 1156 | 751714 |  |  |  |  | May 1, 1916. | L.-Corporal  | Nil  | Kitchener  |
+| 6 | 526 | 1154 | 3730 | 1185 | 751486 |  |  |  |  | Mar. 16, 1916. | Private  | Nil  |
+| 6 | 526 | 1183 | 3730 | 1215 | 751657 | Private  |  |  | Kitchener  | April 10, 1916. |
+| 6 | 525 | 1212 | 3730 | 1244 | 751060 | Trans. Sergeant... |  |  |  | Sept. 22, 1915. | Kitchener  |
+| 6 | 525 | 1241 | 3730 | 1271 | 751443 | Private  |  |  |  | Mar. 4, 1916. | Nil  | Canada  |
+| 6 | 525 | 1270 | 3730 | 1300 | 751335 | Private  | Nil... |  | Toronto  | Jan. 5, 1916. |
+| 6 | 525 | 1300 | 3731 | 1329 | 751147 |  |  |  | Waterloo  | Dec. 1, 1915. | Corporal  |
+| 6 | 525 | 1329 | 3731 | 1361 | 751187 |  |  |  |  | Dec. 9, 1915. | L.-Corporal  | Nil... . | England  | Kitchener  |
+| 6 | 524 | 1387 | 3731 | 1414 | 751558 | Private  |  |  | Kitchener  | Mar. 25, 1916. |
+| 6 | 524 | 1416 | 3731 | 1448 | 751524 |  |  |  |  | Mar. 23, 1916. | Private  | Nil  | Kitchener  |
+| 6 | 524 | 1445 | 3730 | 1472 | 751750 |  |  |  |  | May 20, 1916. | Private  | Nil... |
+| 6 | 524 | 1473 | 3733 | 1503 | 751693 |  |  |  |  | April 20, 1916. | L.-Corporal  | Nil  | Kitchener  |
+| 6 | 523 | 1503 | 3733 | 1531 | 751448 |  |  |  |  | Mar. 2, 1916. | Private  | Nil  |
+| 6 | 524 | 1531 | 3733 | 1559 | 751697 |  |  |  |  | April 24, 1916. | Private  | Kitchener  |
+| 6 | 523 | 1561 | 3734 | 1589 | 751725 |  |  |  |  | May 2, 1916. | Corporal  |
+| 6 | 522 | 1590 | 3734 | 1620 | 751457 | Private   | Nil  |  |  | Mar. 4, 1916. |
+{% endraw %}

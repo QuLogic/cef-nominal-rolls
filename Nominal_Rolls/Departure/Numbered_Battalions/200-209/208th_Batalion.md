@@ -1,0 +1,771 @@
+---
+title: 208th Batalion
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 208th Battalion | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION. | Port: Halifax, N.S. | Ship: S.S. “ Justicia.’’ | Date: May 3rd, 1917. | 3m 9->7. | 593t 29. | 27087—1 |
+| 2 | 723 | 593 | 3240 | 629 |  |  | Former Corps. |  | Country of |
+| 2 | 556 | 648 | 3667 | 685 | « |  |  |  |  | Place. | Date. |
+| 2 | 641 | 788 | 3737 | 820 | tlt •   |  |  |  |  |  | Mar. | 17, 1916 |
+| 2 | 3291 | 879 | 3737 | 906 |  |  |  |  |  | Toronto  | April | 5, 1916 |
+| 2 | 3291 | 908 | 3737 | 938 |  |  |  |  |  | Camp Borden... | Oct. | 21, 1916 |
+| 2 | 3291 | 936 | 3737 | 963 |  |  |  |  |  | Toronto  | Feb. | 15, 1917 |
+| 2 | 3291 | 965 | 3737 | 995 |  |  |  |  |  | Camp Borden... | Oct. | 2, 1916 |
+| 2 | 642 | 994 | 3737 | 1030 | Hon.-Cap tain  |  |  |  |  | Camp Borden... | Oct. | 2, 1916 |
+| 2 | 3292 | 1023 | 3737 | 1050 |  |  |  |  |  | Toronto  | Mar. | 25. 1916 |
+| 2 | 903 | 1051 | 3737 | 1088 |  | Skinner, Jesse    | R.C.R  |  |  | Parry Sound  | Mar. | 9, 1916 |
+| 2 | 903 | 1223 | 3737 | 1262 |  | Devine, Michael Kenny  |  |  |  | Toronto  | Mar. | 16, 1917 |
+| 2 | 3291 | 1253 | 3738 | 1284 |  |  |  |  |  | Camp Borden... | Oct. | 11,1916 |
+| 2 | 3291 | 1282 | 3738 | 1313 |  |  |  |  |  | Camp Borden... | Oct. | 11, 1916 |
+| 2 | 3291 | 1309 | 3738 | 1338 |  |  |  |  |  | Toronto  | Mar. | 10, 1917 |
+| 2 | 3291 | 1396 | 3733 | 1425 |  |  |  |  |  | Toronto  | April | 5, 1916 |
+| 2 | 3292 | 1425 | 3739 | 1457 |  |  |  |  |  | Camp Borden... | Sept. | 4, 1916 |
+| 2 | 3292 | 1454 | 3739 | 1485 |  |  |  |  |  | Camp Borden... | Oct. | 12, 1916 |
+| 2 | 3292 | 1482 | 3740 | 1511 |  |  |  |  |  | Toronto  | April | 6, 1916 |
+| 2 | 539 | 1753 | 2221 | 1783 | 249879 |  | Nil | Armstrong, Mrs. Millie Louise  |
+| 2 | 539 | 1864 | 3279 | 1894 | 249274 |  | Nil.. |  | U.S.A....  |
+| 2 | 539 | 1944 | 3743 | 1985 | 249195 | Private  | Atkina, Joseph    | Nil  | Atkins, Mrs. Sarah  | Russia...   | Toronto  | Feb. | 8, 1916 |
+| 2 | 539 | 1979 | 3280 | 2015 | 249793 | Private  | Atkinson, William George/.  | Territorials  | Atkinson, Mrs. Dorcas  | Ireland  |
+| 2 | 539 | 2069 | 3035 | 2102 | 249419 | Private  | Bagley, Walter Arthur H...  | Bagley, Mrs. Florence  |
+| 2 | 540 | 2098 | 3034 | 2131 | 775013 | Sergeant  |  | Bailey, Mrs. Catherine  |
+| 2 | 538 | 2130 | 2227 | 2159 | 249407 |  | Nil | Baillie, Mrs. Gertrude ElUabethM. |
+| 2 | 537 | 2155 | 3034 | 2189 | 249814 | Private  | Imp. Forces  |
+| 3 | 634 | 351 | 3813 | 392 | 249166 | Private.. | Baker, Richard Ernest G... | C.F.A  | Baker, Mrs. Alice  | England.. | Toronto  | Mar. | 23 | 1916 |
+| 3 | 3129 | 380 | 3813 | 410 |  |  |  |  |  | Canada... | Camp Borden.. | Aug. | 5 | 1916 |
+| 3 | 634 | 392 | 1396 | 421 | 273729 | Private.. | Baker, Robert Boyd  |
+| 3 | 3129 | 409 | 3812 | 438 |  |  |  |  |  | Canada... | Toronto  | June | 2 | 1916 |
+| 3 | 596 | 421 | 1542 | 454 | S3 249707 | Private.. | Barnes, Frederick Albert.... | Nil |
+| 3 | 3129 | 438 | 3813 | 467 |  |  |  |  |  | Scotland. | Toronto  | Nov. | 18 | 1916 |
+| 3 | 597 | 451 | 1395 | 486 | g 249980 | Private.. | Barr, James  |
+| 3 | 3128 | 467 | 3813 | 500 |  |  |  |  |  | England.. | Toronto  | April | 5 | 1916 |
+| 3 | 596 | 476 | 1576 | 508 | 7s 249265 | Private.. | Barrett, George William  | Nil... |
+| 3 | 3128 | 496 | 3813 | 525 |  |  |  |  |  | Canada.. | Toronto  | May | 10 | 1916 |
+| 3 | 597 | 503 | 1576 | 539 | 1 249579 | Private.. | Barton, Clarence Aikman... | Nil... |
+| 3 | 3127 | 525 | 3813 | 554 |  |  |  |  |  | Ireland... | Toronto  | May | 6 | 1916 |
+| 3 | 592 | 537 | 1575 | 569 | *»- 249554 | Private.. | Bell, Christopher John  | Nil. . |
+| 3 | 3128 | 554 | 3813 | 587 |  |  |  |  |  | England.. | Toronto  | Mar. | 24 | 1916 |
+| 3 | 634 | 564 | 1575 | 595 | 249181 | Private.. | Bell, Richard  | Nil... |
+| 3 | 3127 | 583 | 3813 | 612 |  |  |  |  |  | Canada.. | Toronto  | April | 4 | 1916 |
+| 3 | 634 | 595 | 1549 | 624 | 249264 | Private.. | Bell, Rowland Frederick.... | Nil. |
+| 3 | 3128 | 612 | 3813 | 642 |  |  |  |  |  | England. | Toronto  | Feb. | 28 | 1916 |
+| 3 | 634 | 624 | 1549 | 655 | 249016 | Corporal. | Bellamy, Alfred Vincent.... | Nil. |
+| 3 | 3127 | 641 | 3813 | 670 |  |  |  |  |  | Ireland.. | Toronto  | June | 30 | 1916 |
+| 3 | 634 | 654 | 1393 | 684 | 249803 | Sergeant. | Bennett, William  |
+| 3 | 3127 | 670 | 3813 | 704 |  |  |  |  |  | England  | Toronto  | Sept. | 27 | 1916 |
+| 3 | 634 | 682 | 1548 | 712 | 249917 | Private... | Benning, Leonard  | Nil. |
+| 3 | 3127 | 699 | 3813 | 729 |  |  |  |  |  | Canada  | Toronto  | April | 5 | 1916 |
+| 3 | 633 | 712 | 1392 | 741 | 249268 | Private.., | Benville, David  |
+| 3 | 3126 | 728 | 3813 | 758 |  |  |  |  |  | Canada  | Cobalt  | June | 21 | 1916 |
+| 3 | 621 | 739 | 1646 | 769 | 1006727 | Private.., | Bergeron, Royal  | Nil. . . |
+| 3 | 633 | 757 | 3813 | 799 | 249466 | Private.., | Bergin, William James  | Nil  |  | Canada  | Toronto  | April | 26 | 1916 |
+| 3 | 633 | 786 | 3813 | 827 | 250031 | Private.., | Be van, Frederick  | Nil  |  | England  | Toronto  | Jan. | 9 | 1917 |
+| 3 | 3128 | 815 | 3814 | 845 |  |  |  |  |  | Russia  | Toronto  | April | 12 | 1917 |
+| 3 | 633 | 826 | 1586 | 856 | 250106 | Private.. | Biduke, Fred  | Nil.. . |
+| 3 | 3127 | 844 | 3813 | 878 |  |  |  |  |  | England  | Toronto  | Aug. | 8 | 1916 |
+| 3 | 633 | 857 | 1390 | 887 | 249857 | Corporal- | Bigley, George Olivant  |
+| 3 | 633 | 873 | 3813 | 914 | 249789 | Private. ., | Bird, Harry Frederick  | Nil  |  | England  | Toronto  | June | 26 | 1916 |
+| 3 | 3129 | 898 | 3814 | 932 |  |  |  |  |  | uTs.a  | Toronto  | Feb. | 2 | 1916 |
+| 3 | 635 | 912 | 1803 | 942 | 678274 | Private.. | Black, Charles Henry  | C.G.A  |
+| 3 | 635 | 931 | 3813 | 971 | 799603 | Private.., | Black, Neil William  | Nil  |  | Canada  | Toronto  | Jan. | 24 | 1916 |
+| 3 | 3128 | 960 | 3814 | 989 |  |  |  |  |  | Canada  | Toronto  | Mar. | 4 | 1916 |
+| 3 | 632 | 973 | 1390 | 1000 | 249050 | Private.., | Black, Samuel  |
+| 3 | 633 | 989 | 3814 | 1028 | 249196 | Private... | Blackball, Victor  | Nil  |  | Canada  | Toronto  | Mar. | 2 | 1916 |
+| 3 | 632 | 1017 | 3814 | 1058 | 249024 | Private.., | Blackie, Joshua George  | Nil  |  | Canada  | Toronto  | Mar. | 2 | 1916 |
+| 3 | 632 | 1046 | 3814 | 1088 | 250026 | Private.., | Blakely, Fred Thomas  | Nil  |  | Canada  | Toronto  | Jan. | 8 | 1917 |
+| 3 | 632 | 1075 | 3815 | 1116 | 249664 | Private... | Blanch, Thomas Patrick  | Mil  |  | Canada  | Toronto  | May | 25 | 1916 |
+| 3 | 632 | 1104 | 3815 | 1145 | 249650 | Private... | Blizniuk, Efim  | Nil  |  | Russia  | Toronto  | May | 20 | 1916 |
+| 3 | 632 | 1133 | 3814 | 1174 | 249424 | Private... | Boag, Archie Emerson  | Nil  |  | Canada  | Toronto  | April | 19 | 1916 |
+| 3 | 631 | 1162 | 3814 | 1202 | 249396 | Private... | Boland, James Patrick  | Nil  |  | Canada  | Toronto  | April | 15 | 1916 |
+| 3 | 631 | 1191 | 3814 | 1231 | 249388 | Private... | Bond, Herbert Raymond... | Nil  |  | Canada  | Toronto  | April | 14 | 1916 |
+| 3 | 631 | 1220 | 3897 | 1260 | 249349 | Private... | Both well, James Hamilton.. | Nil  |  | Canada  | Toronto  | April | 11 | 1916 |
+| 3 | 631 | 1249 | 3814 | 1290 | 249537 | Private... | Boucher, Patrick Lawrence.. | Nil  |  | Canada  | Toronto  | May | 4 | 1916 |
+| 3 | 632 | 1278 | 3814 | 1319 | 249045 | Private... | Boughton, William John  | Nil  |  | Candaa  | Toronto  | Mar. | 6 | 1916 |
+| 3 | 631 | 1307 | 3814 | 1348 | 249399 | Private... | Bowen, Nenry James  | Nil  |  | England  | Toronto  | April | 14 | 1916 |
+| 3 | 631 | 1336 | 3814 | 1376 | 248911 | Private... | Bowins, Arthur Charles  | Nil  |  | Canada  | Toronto  | July | 3 | 1916 |
+| 3 | 631 | 1365 | 3814 | 1406 | 249402 | Private... | Boyd, Samuel  | 110th Regt  |  | Ireland  | Toronto  | April | 17 | 1916 |
+| 3 | 595 | 1394 | 3814 | 1438 | , 249309 | Private... | Boyl, George James S  | Nil  |  | Canada  | Toronto  | April | 8 | 1916 |
+| 3 | 631 | 1422 | 3814 | 1463 | 249109 | Private... | Boys, Percy Edgar  | Nil  |  | England  | Toronto  | Mar. | 17 | 1916 |
+| 3 | 631 | 1451 | 3815 | 1492 | 249370 | Private... | Bradshaw, Joseph  | Nil  |  | England  | Toronto  | April | 12 | 1916 |
+| 3 | 630 | 1480 | 3814 | 1520 | 249627 | Private... | Bran ter, Robert  | Nil  |  | Canada  | Toronto  | May | 18 | 1916 |
+| 3 | 631 | 1508 | 3815 | 1549 | 249895 | Private... | Bratt, Frederick James  |  |  | England  | Toronto  | Sept. | 5 | 1916 |
+| 3 | 3126 | 1538 | 3813 | 1573 |  |  |  |  |  | England  | Toronto  | Mar. | 28 | 1916 |
+| 3 | 631 | 1551 | 1398 | 1578 | 249215 | Private... | Brick, Daniel   |
+| 3 | 630 | 1566 | 3815 | 1607 | 249660 | Private... | Briscoe, James  | Nil  |  | England  | Toronto  | May | 25 | 1916 |
+| 3 | 631 | 1596 | 3814 | 1636 | 249996 | Private... | Bristow, Thomas James  |  |  | Canada  | Toronto  | Dec. | 4 | 1916 |
+| 3 | 630 | 1624 | 3815 | 1665 | 249390 | Private... | Broadbridge, George James., | Nil  |  | England  | Toronto  | April | 15 | 1916 |
+| 3 | 630 | 1653 | 3814 | 1693 | 249098 | Private... | Brodie, Frederick Adolphis.. |  | Brodie, Mrs. Minnie  | Canada  | Toronto  | Mar. | 15 | 1916 |
+| 3 | 628 | 1682 | 3815 | 1723 | 249584 | Sergeant.. | Broome, Enoch Harold  |  | Broome, Mrs. Henrietta Catherine. | England  | Toronto  | May | 11 | 1916 |
+| 3 | 627 | 1711 | 3815 | 1751 | 250101 | Private... | Broughton, Leonard  |  |  | England  | Toronto  | April | 9 | 1917 |
+| 3 | 627 | 1739 | 3815 | 1780 | 249113 | Private... | Brown, Andrew George  |  |  | Canada  | Toronto  | Mar. | 18 | 1916 |
+| 3 | 628 | 1769 | 3815 | 1808 | 249225 | Private... | Brown, Elmer Flete  |  |  | Canada  | Toronto  | Mar. | 31 | 1916 |
+| 3 | 628 | 1798 | 3815 | 1837 | 249162 | Private... | Brown, John Hughes  | Nil  |  | Ireland  | Toronto  | Mar. | 22 | 1916 |
+| 3 | 629 | 1826 | 3815 | 1866 | 249883 | Private... | Brown, Kenneth   | Nil  |  | Canada  | Toronto  | Aug. | 21 | 1916 |
+| 3 | 630 | 1855 | 3815 | 1895 | 249454 | Corporal.. | Brown, William Alfred  | R.C.D  | Brown, Mrs. Dora Kathleen  | Canada  | Toronto  | April | 24 | 1916 |
+| 3 | 629 | 1893 | 3109 | 1924 | 249768 | Private... | Brown, William Taylor  | Nil  |
+| 3 | 3129 | 1912 | 3815 | 1944 |  |  |  |  |  | Scotland. | Toronto. | June | 19 | 1916 |
+| 3 | 629 | 1942 | 3815 | 1982 | 249177 | Private.. | Browning, Lloyd  | Nil  | Browning, Mrs. Emma  | Canada... | Toronto. | Mar. | 24 | 1916 |
+| 3 | 3615 | 1970 | 3815 | 1998 |  |  |  |  |  |  |  | April | 8 | 1916 |
+| 3 | 630 | 1976 | 3495 | 2012 | 249312 | Sergeant. | Bull, Frank Lees  | C.O.T.C  |  | Canada... | Toronto. |
+| 3 | 630 | 1999 | 3815 | 2040 | 249071 | Private.. | Bunce, Frank Reginald  |  |  | England.. | Toronto.. | Mar. | 10 | 1916 |
+| 3 | 629 | 2028 | 3815 | 2069 | 249364 | Private.. | Burch, James Leonard  | Nil  |  | Canada... | Toronto.. | April | 12 | 1916 |
+| 3 | 630 | 2056 | 3815 | 2098 | 249023 | Private.. | Burnham, Robert Charles.. | Nil  |  | Canada... | Toronto. | Mar. | 2 | 1916 |
+| 3 | 631 | 2084 | 3817 | 2128 | 249056 | Private.. | Burns, William John  |  |  | England.. | Toronto. | Mar. | 7 | 1916 |
+| 3 | 630 | 2114 | 3816 | 2155 | 249523 | Private.. | Bustard, John  | Nil  |  | Ireland... | Toronto.. | May | 3 | 1916 |
+| 4 | 712 | 578 | 3233 | 614 |  | Former Corps. |  |  | Country of |
+| 4 | 530 | 719 | 3727 | 756 | 249244 |  | Butchart, David  | 70 Eastmount Ave., Toronto, Ont Scotland. |  | Toronto. | April | 3, 1916 |
+| 4 | 531 | 748 | 3728 | 785 | 249226 | Nil  | Butler, Mrs. Elizabeth  | 6 Blong Ave., Toronto, Ont  England. |  | Toronto. | Mar. | 31, 1916 |
+| 4 | 530 | 777 | 3728 | 814 | 249417 | Nil  | Byers, Harry Josiah  | Port Hope, Ont Canada. |  | Toronto. | Apr. | 18, 1916 |
+| 4 | 530 | 806 | 3729 | 844 | 249710 | Nil  | Byrne, Mrs. Margaret Mary A  | 96 Sherbourne St., Toronto, Ont Canada. |  | Toronto. | June | 5, 1916 |
+| 4 | 530 | 835 | 3728 | 871 | 249391 | Nil  | Calladine, Mrs. Florence  | 377 Carlton St., Toronto, Ont England. |  | Toronto. | Apr. | 15, 1916 |
+| 4 | 530 | 863 | 3729 | 901 | 249931 | Nil  | Callaghan, Mrs. Charlotte  | 55 Wardell St., Toront -, Ont Scotl nd. |  | Toronto. | Oct. | 13.1916 |
+| 4 | 531 | 892 | 3729 | 928 | 249703 | Nil  | Cameron, Mrs. Lillian  | Bala, Ont Canada. |  | Toronto. | June | 2, 1916 |
+| 4 | 530 | 921 | 3729 | 958 | 249283 | Nil  | Campbell, Neal  | Tiverton, Ont Canada. |  | Toronto. | Apr. | 7, 1916 |
+| 4 | 530 | 950 | 3729 | 987 | 249012 | Nil  | Campbell, Mrs. Catherine Phillips | 1147 Dovercourt ltd., Toronto, Ont Scotland. |  | Toronto. | Feb. | 26, 1916 |
+| 4 | 530 | 979 | 3729 | 1015 | 249503 | Nil  | Campbell, Mrs. Annie  | 70 Alcina Ave., Toronto, Ont  Scotland. |  | Toronto. | May | I, 1916 |
+| 4 | 529 | 1008 | 3729 | 1044 | 249036 | Nil  | Campbell, Mrs. Kathleen  | 1147 Dovercourt Rd., Toronto, Ont Scotland. |  | Toronto. | Mar. | 4, 1916 |
+| 4 | 528 | 1037 | 3729 | 1073 | 249313 |  | Cannon, Mrs. Agnes  | 810 Gladstone Ave., Toronto, Ont Canada. |  | Toronto.. | Apr. | 8, 1916 |
+| 4 | 527 | 1066 | 3729 | 1102 | 249963 |  | Douglas, Mary  | Injersoll, Ont Ireland. |  | Toronto. | Oct. | 31, 1916 |
+| 4 | 528 | 1095 | 3729 | 1129 | 250072 | Nil  | Carter, Herbert  | 58 O'Hara Ave., Toronto, Ont Canada. |  | Toronto.. | Mar. | 3, 1917 |
+| 4 | 529 | 1124 | 3729 | 1159 | 250000 | Nil   | Caruso, Mrs. Anna  | 168 Montreal St., Hamilton, Ont Canada. |  | Toronto.. | Dec. | 11, 1916 |
+| 4 | 529 | 1152 | 3729 | 1187 | 249675 |  | Casselman, Mrs. Annie  | 115 Bleecker St., Toronto, Ont England. |  | Toronto. | May | 27, 1916 |
+| 4 | 530 | 1181 | 3729 | 1216 | 249148 | Nil  | Causton, Mrs. Nellie  | 42 Greenwood Ave., Toronto, Ont Canada. |  | Toronto. | Mar. | 21, 1916 |
+| 4 | 529 | 1210 | 3729 | 1244 | 249685 | Nil  | Chaha, Mrs. Ann  | Grovna, Russia .*.  Russia. |  | Toronto. | May | 29, 1916 |
+| 4 | 529 | 1239 | 3729 | 1275 | 249168 | Nil  | Chambers, Mrs. Annie Mary. | Brighton, Ont ". Canada. |  | Toronto. | Mar. | 23, 1916 |
+| 4 | 529 | 1267 | 3729 | 1304 | 250145 |  | Chambers. Mrs. Mary Ellen. | 25 Victoria Ave., Lindsay, Ont Canada. |  | Toronto. | Apr. | 25, 1917 |
+| 4 | 529 | 1297 | 3730 | 1332 | 249403 | Nil  | Chapman, Mrs. Elizabeth  | 22 Giliit St., New England, Peterborough, Eng England. |  | Toronto. | Apr. | 17, 1916 |
+| 4 | 529 | 1326 | 3730 | 1361 | 249873 | Nil  | Chapman, Mrs. Alice  | Eccles, Lancs., Eng .   England. |  | Toronto.. | Aug. | 14, 1916 |
+| 4 | 530 | 1358 | 3021 | 1390 | 250002 | Nil  | Charkow, Mrs. Maria  | Prarkuradrkous, Post Stanaw Pedoriski, Gorbenia, |
+| 4 | 2256 | 1384 | 3731 | 1413 |  |  |  | Russia  | Russia  | Toronto.. | Dec. | 11, 19-6 |
+| 4 | 530 | 1412 | 3731 | 1446 | 249577 | Nil  | Charpmtier, Mrs. Minnie  | Sutton We3t, Ont  | Canad ... | Toronto.. | May | 10, 1916 |
+| 4 | 530 | 1441 | 3731 | 1474 | 249421 | Nil  | Chessan, Mrs. Elizabeth  | 13 Armstrong Ave., Toronto, Ont  | En Hand.. | Toronto.. | Apr. | 19, 1916 |
+| 4 | 530 | 1470 | 3731 | 1504 | 249267 |  | Chisholm, Mrs. Mary Eva... | 17 Bloomfield Ave., Toronto, Ont  | Scotland. | Toront >.. | Apr. | 5, 1916 |
+| 4 | 530 | 1498 | 3732 | 1533 | 249416 | Nil  | Clarke, Mrs. Margaret  | 33 Defoe St., Toronto, Ont  | Canada.., | Toronto.. | Apr. | 18, 1916 |
+| 4 | 527 | 1527 | 3732 | 1561 | 249459 |  | Cline, Mrs. Rosie  | 112 Palmerston Ave., Toronto, Ont  | Canada... | Toronto.. | Apr. | 25, 1916 |
+| 4 | 527 | 1555 | 3732 | 1589 | 249070 |  | Close, Mrs. Elizabeth  | 2 Moss St., Tilery Rd., Stockton-on-Tees, Durham, Eng. | England.. | Toronto.. | Mar. | 10, 1916 |
+| 4 | 527 | 1584 | 3732 | 1617 | 249760 | Nil  | Coates, Alfred  | 48 Rhodes Ave., Toronto, Ont  | Canada.. | Toronto.. | June | 14, 1916 |
+| 4 | 530 | 1613 | 3733 | 1646 | 171602 |  | Coates, Mrs. Harriett  | Victoria Park Ave., Toronto, Ont  | England.. | Toronto.. | Feb. | 26, 1917 |
+| 4 | 527 | 1642 | 3732 | 1676 | 249591 |  | Coghill, Mrs. Alice  | 333 Symington Ave., Toronto, Ont  | Canada.. | Toronto.. | May | 13.1916 |
+| 4 | 527 | 1671 | 3733 | 1705 | 249611 | Nil  | Coles, Mrs. Maria  | 182 De Grassi St., Toronto, Ont  | England.. | Toronto.. | May | 17.1916 |
+| 4 | 527 | 1699 | 3733 | 1733 | 249111 | Nil  | Colhoun, Mrs. Annie  | Hillsdale, Ont  | Canada... | Toronto.. | Mar. | 17, 1916 |
+| 4 | 527 | 1728 | 3733 | 1763 | 249897 | Nil  | Collins, Kathleen  | 20 Mayfair St., Belfast, Ire  | Ireland... | Toronto.. | Sept. | 5, 1916 |
+| 4 | 528 | 1757 | 3734 | 1793 | 249856 |  | Colquhoun, Mrs. Jean  | 66 Brock Ave., Toronto, Ont.    | Scotland. | Toronto.. | Aug. | 8, 1916 |
+| 4 | 527 | 1786 | 3734 | 1820 | 238155 | Nil  | Colwill, Mrs. Ann Jane  | Blackwater, Ont  | Canada.. | Toronto.. | Oct. | II, 1916 |
+| 4 | 528 | 1815 | 3735 | 1849 | 249192 |  | Conlin, Mrs. Cecila  | 168 Major St., Toront , Ont  | Canada... | Toronto.. | Mar. | 27, 1916 |
+| 4 | 528 | 1844 | 3735 | 1878 | 250078 | Nil  | Connelly, Mrs. Annie  | 213 Booth Ave., Toront , Ont  | Canada.. | Toronto.. | Mar. | 13, 1917 |
+| 4 | 528 | 1873 | 3735 | 1908 | 249437 | Nil  | Connolly, Rose  | 2a Dingwall Ave., Toronto, Ont  | England.. | Toronto.. | Apr. | 24, 1916 |
+| 4 | 528 | 1902 | 3736 | 1937 | 249297 |  | Conroy, Mrs. Annie  | 30 Bertmount Ave., Toronto, Ont  | Ireland... | Toronto., | Apr. | 7, 1916 |
+| 4 | 529 | 1931 | 3736 | 1966 | 250138 | Nil  | Conroy, Mrs. Ellen  | Claremorris, Co. Mayo, Ire  | Ireland... | Toronto.. | Apr. | 24, 1917 |
+| 4 | 530 | 1960 | 3736 | 1994 | 249644 | Nil  | Conway, Mrs. Elizabeth. | Drimcoggy, Ballinrobe, Co. Mayo, Ire. | Ireland... | Toronto., | May | 22, 1916 |
+| 4 | 529 | 1989 | 3737 | 2024 | 249845 | Nil  | Cook, Mrs. Mary Elizabeth. | Collingham, Leeds, Yorks, Eng  | England.. | Toronto. | July | 26, 1916 |
+| 4 | 529 | 2018 | 3737 | 2053 | 249726 | Nil  | Coombs, Mrs. Mary  | 116 Gillard Ave., Toronto, Ont  | England., | Toronto. | June | 7, 1916 |
+| 4 | 529 | 2051 | 3026 | 2081 | 249270 |  | Tacon, Frieda  | 214 Edgley Rd., Cheadle Heate, Stockport, Cheshire, |
+| 4 | 2262 | 2075 | 3737 | 2110 |  |  |  | Eng  | England Toronto Apr. |  | 5, 1916 |
+| 4 | 529 | 2105 | 3740 | 2138 | '49886 |  | Coote, Mrs. Edna Ruth. | 300 Dufferin St., Toronto, Ont | Ireland Toronto ..... Aug. |  | 23.1916 |
+| 5 | 782 | 387 | 3171 | 426 |  | Corporal  | Coot, Steve  | Nil  | Coott, Mrs. Mary  | Gu'i Siedletz, Pow Wlo .'awa Sosuowitza Village, Skoro- |
+| 5 | 3666 | 408 | 3869 | 432 |  |  |  |  |  |  |  |  | June | 21 | 1916 |
+| 5 | 3667 | 437 | 3869 | 466 |  |  |  |  |  |  |  |  | Apr. | 17 | 1916 |
+| 5 | 685 | 443 | 3653 | 482 | 249401 | Private  | Corless, Francis  | Nil  | Corless, Mrs. Elizabeth Adelaide, | 110 Greenlaw Ave., Toronto, Ont  | England  | Toronto  |
+| 5 | 685 | 466 | 3869 | 514 | 249301 | Sergeant  | Corrigan, Robert  | Nil  | Corrigan, Mrs. Melissa  | 11 Atkin Ave., Toronto, Ont  | Ireland  | Toronto  | Apr. | 7 | 1916 |
+| 5 | 3666 | 496 | 3869 | 520 |  |  |  |  |  |  |  |  | June | 5 | 1916 |
+| 5 | 685 | 506 | 3167 | 538 | 249711 |  |  | Nil  | Cowan, Mrs. Minnie  | 43 Dupont St, Toronto, Ont  |
+| 5 | 3667 | 525 | 3869 | 553 |  |  |  |  |  |  |  |  | Aug. | 15 | 1915 |
+| 5 | 687 | 535 | 3166 | 569 | 192122 |  |  | 48th Regt | Cowan, Mrs. Eliza  | 773 Manning A- e., Toronto, Ont  |
+| 5 | 3668 | 554 | 3869 | 583 |  |  |  |  |  |  |  |  | May | 2 | 1916 |
+| 5 | 685 | 564 | 3167 | 596 | 249519 |  |  | Nil  | Cox, Mrs. Bridget  | 148 Peter St., Toronto, Ont  |
+| 5 | 3668 | 582 | 3869 | 607 |  |  |  |  |  |  |  |  | Mar. | 19 | 1917 |
+| 5 | 685 | 593 | 3167 | 629 | 250083 |  |  | 12th Regt | Crackncll, Emma  | 75 Merrill Ave., Toronto, Ont  |
+| 5 | 685 | 613 | 3869 | 656 | 249686 | Private  | Cracknell, Norman Richard  | G.G.B.G... | McCarty, Mrs. R  | 4 Draper St., Toronto, Ont  | Canada  | Toronto  | May | 29 | 1916 |
+| 5 | 685 | 641 | 3869 | 686 | 250020 | Private  | Craigie, Lewis....  | Nil  | Craigic, Mrs. Charlotte  | Oak Ridges, Ont  | Canada  | Toronto  | Jan. | 3 | 1917 |
+| 5 | 3668 | 672 | 3868 | 699 |  |  |  |  |  |  |  |  | May | 10 | 1916 |
+| 5 | 685 | 677 | 3410 | 713 | 249576 |  |  | Nil  | Craik, Mrs. Isabella  | 220 Shaw St., Toronto, Ont  | Scotland  |
+| 5 | 3667 | 701 | 3868 | 728 |  |  |  |  |  |  |  |  | Apr. | 24 | 1916 |
+| 5 | 685 | 709 | 3166 | 742 | 249450 |  |  | Nil  | Crocker, Mrs. Alice Maud  | 26 Audley Ave., Toronto, Ont  |
+| 5 | 3667 | 730 | 3868 | 754 |  |  |  |  |  |  |  |  | Oct. | 4 | 1916 |
+| 5 | 685 | 739 | 3167 | 771 | 249923 |  |  | Nil  | Cross, Mrs. Mary Emma  | Quimper, Sask  |
+| 5 | 686 | 759 | 3868 | 802 | 249918 | Private  | Crossley, Richard George  | Nil  | Crossley, Mrs. Ellen  | 23 Back Burlington St., Keighley, Yorks, Eng  | England  | Toronto  | Sept. | 28 | 1916 |
+| 5 | 686 | 788 | 3868 | 830 | 249251 | Private  | Crosthwait, William Henry  | Can. Mil  | Crosthwait, Thomas Philip S  | 16 Mount Eden Rd., Dublin, Ire  | India.   | Toronto  | Apr. | 3 | 1916 |
+| 5 | 3667 | 817 | 3868 | 845 |  |  |  |  |  |  |  |  | May | 8 | 1916 |
+| 5 | 685 | 825 | 3167 | 857 | 249560 |  |  | Nil  | Crothers, Mrs. Rose  | 12 McGee St., Toronto, Ont  |
+| 5 | 3668 | 846 | 3868 | 874 |  |  |  |  |  |  |  |  | May | 22 | 1916 |
+| 5 | 685 | 854 | 3167 | 886 | 249643 |  |  | Nil  | Crowne, Mrs. Nellie  | 48 R odes Ave., Toronto, Ont  |
+| 5 | 3666 | 876 | 3868 | 903 |  |  |  |  |  |  |  |  | Apr. | 4 | 1916 |
+| 5 | 685 | 883 | 3166 | 915 | 249263 |  |  | Nil  | Carter, Mrs. Sarah Ann  | 181 Sackville St., Toronto, Ont  |
+| 5 | 3668 | 905 | 3868 | 932 |  |  |  |  |  |  |  |  | May | 26 | 1916 |
+| 5 | 685 | 912 | 3166 | 944 | 249670 |  |  | Nil  | Drake, Isabella  | 465 Metcalfe St., Ottawa, Ont  |
+| 5 | 3668 | 934 | 3868 | 957 |  |  |  |  |  |  |  |  | Mar. | 24 | 1916 |
+| 5 | 685 | 941 | 3167 | 972 | 249178 |  |  | Nil  | Morrow, Mrs. Frances Amelia.,.. | 157 Borden St., Toronto, Ont  |
+| 5 | 3668 | 963 | 3868 | 987 |  |  |  |  |  |  |  |  | Mar. | 20 | 1916 |
+| 5 | 685 | 969 | 3166 | 1002 | 249142 |  |  | C.A.M.C... | Curry, Mrs. Ruby G  | 955 Gerrard St. E., Toronto, Ont  |
+| 5 | 3668 | 992 | 3868 | 1019 |  |  |  |  |  |  |  |  | May | 2 | 1916 |
+| 5 | 685 | 998 | 3166 | 1030 | 249516 |  |  | Nil  | Curtin, Mrs. Hannah  | 70 Hamilton St., Toronto, Ont  |
+| 5 | 3668 | 1021 | 3868 | 1044 |  |  |  |  |  |  |  |  | Mar. | 24 | 1916 |
+| 5 | 685 | 1028 | 3165 | 1060 | 249182 |  |  | Imp. Forces | Cutler, Mrs. Annie  | 503 Dupont St., Toronto, Ont  |
+| 5 | 3668 | 1050 | 3868 | 1077 |  |  |  |  |  |  |  |  | May | 23 | 1916 |
+| 5 | 685 | 1056 | 3165 | 1088 | 249654 |  |  | G.G.B.G... | Daly, Mrs. Margaret  | 276a Queen St. E., Toronto, Ont  |
+| 5 | 684 | 1079 | 3868 | 1117 | 249896 |  |  | Nil  | Danvers, Mrs. Anna  | I Grand Canal St., Dublin, Ire  |  |  | Sept. | 5 | 1916 |
+| 5 | 3667 | 1108 | 3868 | 1135 |  |  |  |  |  |  |  |  | Apr. | 14 | 1917 |
+| 5 | 684 | 1109 | 3164 | 1145 | 250115 |  |  | Nil  | DaVey, Nonnan  | 1303 King St. W., Toronto, Ont  |
+| 5 | 3666 | 1137 | 3868 | 1164 |  |  |  |  |  |  |  |  | Apr. | 17 | 1916 |
+| 5 | 683 | 1141 | 3165 | 1175 | 249404 |  |  | Territorials | Davidson, Mrs. Helen  | 666 Pape Ave., Toronto, Ont  |
+| 5 | 3666 | 1166 | 3868 | 1194 |  |  |  |  |  |  |  |  | Aug. | 8 | 1916 |
+| 5 | 684 | 1172 | 3164 | 1203 | 249858 |  |  | Nil  | Davidson, Mrs. Ellen  | East Drive, Weston, Ont  |
+| 5 | 684 | 1195 | 3867 | 1232 | 249720 |  |  | Nil  | Davis, Mrs. Elizabeth  | 1183 Dovercourt Rd., Toronto, Ont  |  |  | June | 6 | 1916 |
+| 5 | 685 | 1225 | 3867 | 1262 | 228287 |  | Davison, Harry Church  | C.A.M.C... | Davison, Mrs. Mary  | 17 Harrington Gdns., South Kensington, London, Eng.. |  |  | Apr. | 6 | 1916 |
+| 5 | 3667 | 1253 | 3867 | 1281 |  |  |  |  |  |  |  |  | May | 25 | 1916 |
+| 5 | 685 | 1258 | 3165 | 1290 | 249662 |  |  | Nil  | Day, Mrs. May  | 903 Bloor St. W., Toronto, Ont  |
+| 5 | 685 | 1283 | 3867 | 1318 | 249298 |  |  | Nil  | Deane, Mrs. Margaret  | 85 Springhurst Ave., Toronto, Ont  |  |  | Apr. | 7 | 1916 |
+| 5 | 685 | 1312 | 3867 | 1348 | 249991 |  | De Dosser, Percy Edward  | Nil  | De Dosser, Mrs. Annie  | 506 Cedar Ave., North Side, Pittsburg, Pa., U.S.A  |  |  | Nov. | 1916 |
+| 5 | 684 | 1341 | 3867 | 1376 | 2493G0 |  |  | Nil  | De Garis, Mrs. Elizabeth  | 28 Hastings Ave., Toronto, Ont  |  |  | Apr. | 1? | 1916 |
+| 5 | 684 | 1370 | 3867 | 1404 | 249806 |  |  | Nil  | Dudley, James  | 239 W. 58th St., New York, U.S.A  |  |  | July | 3 | 1916 |
+| 5 | 673 | 1399 | 3867 | 1433 | 1096204 |  |  | Nil  | Deremo, George  | Bloomfield, Ont  |  |  | Feb | m | 1917 |
+| 5 | 685 | 1428 | 3867 | 1462 | 237173 |  |  | 2nd Regt | Dexter, Mrs. Mary E  | 15 Femwood Park Ave., Toronto, Ont  |  |  | Mar. | 20 | 1916 |
+| 5 | 685 | 1458 | 3790 | 1491 | 250044 |  |  | Nil  | Dian, Mrs. Anna  | Kiev, Russia  |  |  |  | 17 |
+| 5 | 684 | 1486 | 3867 | 1519 | 250130 |  |  | Nil  | Lynch, Winnifred Elizabeth  | 1148 Brinckerhoff Ave., Utica, N.Y., U.S.A  | U.S. A  |  | Apr. | 23 | 1917 |
+| 5 | 684 | 1515 | 3867 | 1548 | 250086 |  |  | Nil  | Dobson, Mrs. Elizabeth  | R.R. No. 1, Kleinburg, Ont  |  |  | Mar. | 21 | 1917 |
+| 5 | 684 | 1544 | 3867 | 1578 | 249067 |  |  | Nil  | Douglas, Mrs. Mary Jane  | 332 Duflerin St., Toronto, Ont  |  |  | Mar. | 10 | 1916 |
+| 5 | 684 | 1573 | 3866 | 1607 | 2493S0 |  |  | Nil  | Douglass, Mrs. Mary  | 87 Emmerson Ave., Toronto, Ont  |  |  | Apr. | 11 | 1916 |
+| 5 | 684 | 1602 | 3866 | 1635 | 250110 |  |  | Nil  | Donville, Mrs. Selean  | St. AJban P.Q  |  |  | Apr. | 13 | 1917 |
+| 5 | 673 | 1630 | 3866 | 1664 | 1099173 |  |  | Nil  | Downey, Mrs. George  | Lindsay, Ont  |  |  | Jan. | ?5 | 1917 |
+| 5 | 685 | 1660 | 3867 | 1692 | 228176 |  |  | Imp. Forces | Draper, Mrs. Emily  | 361 Gilbert Ave., Toronto, Ont  |  |  | Mar. | Ifi | 1916 |
+| 5 | 684 | 1689 | 3866 | 1721 | 249272 |  |  | 2nd Regt | Duffie, Mrs. Eliza Ann  | 579 King St. E., Toronto, Ont  |  |  | Apr. | fi | 1916 |
+| 5 | 685 | 1718 | 3867 | 1750 | 249165 |  |  | Nil  | Duffie, Mrs. Eliza A  | 579 King St. E., Toronto, Ont  |  |  | Mar. | ?3 | 1916 |
+| 5 | 684 | 1743 | 3866 | 1779 | 249394 |  |  | Nil  | Duncan, Mrs. Fanny  | 963 Dovercourt Rd., Toronto, Ont  |  |  | Apr. | 15 | 1916 |
+| 5 | 685 | 1776 | 3866 | 1808 | 249328 |  |  | Nil  | Dunlop, Mrs. Bella  | 220 Brock Ave., Toronto, Ont  |  |  | Apr. | in | 1916 |
+| 5 | 684 | 1805 | 3867 | 1836 | 249183 |  |  | 110th Regt | Dunmall, Mrs. Isabella  | 162 Bellefair Ave., Toronto, Ont  |  |  | Mar. | ?5 | 1916 |
+| 5 | 685 | 1834 | 3866 | 1866 | 862633 |  |  | Nil  | Dunn, Mrs. Agnes  | Cobalt, Ont   |  |  | Feb | ?4 | 1916 |
+| 5 | 685 | 1863 | 3866 | 1894 | 249319 |  |  | Nil  | Dunning, Mrs. Mary  | 96 Shinkill Rd.. Belfast, Ire  |  |  | Apr. | 8 | 1916 |
+| 5 | 684 | 1892 | 3866 | 1922 | 249422 |  |  | Nil  | Eakins, Arthur Albert  | 42 Clianning St., Wallaston, Mass., U.S.A  |  |  | Apr. | U.S.A  | 18 | 1916 |
+| 5 | 684 | 1921 | 3866 | 1951 | 249727 |  |  | Nil  | Early, Mrs. Fanny  | 25 Regent St., Toronto, Ont  |  |  | June | 7 | 1916 |
+| 5 | 685 | 1950 | 3866 | 1980 | 249614 |  |  | Nil  | Elsworth, Mrs. Catherine  | 77 Ashdale Ave., Toronto, Ont  |  |  | May | 17 | 1916 |
+| 5 | 685 | 1979 | 3866 | 2009 | 249296 |  |  | Nil  | Emerson, Mrs. Teresa  | 10 Turner Ave., Toronto, Ont  |  |  | Apr. | 7 | 1916 |
+| 5 | 685 | 2008 | 3867 | 2038 | 249008 |  |  | Nil  | Emo, Mrs. Lillian  | 446 Manning Ave., Toronto',Ont  |  |  | Feb | 26 | 1916 |
+| 5 | 685 | 2037 | 3867 | 2067 | 249993 |  |  | 109th Regt | Entwistle, Mrs. Muriel  | II Cornwall St., Toronto, Ont  |  |  | Dec. | ? | 1916 |
+| 5 | 685 | 2066 | 3867 | 2095 | 249570 |  |  | Nil  | Ryan, Ona  | 84 Pembroke St., Toronto, Ont  |  |  | May | 9 | 1916 |
+| 5 | 685 | 2095 | 3866 | 2124 | 249721 |  |  | Nil  | Everingham, Mrs. Henrietta  | Thornhill Gdns., Yonge St., Toronto Ont  |  |  | June | 6 | 1916 |
+| 5 | 685 | 2124 | 3867 | 2153 | 249316 |  |  | Nil  | Evoy, Mrs. Ivy Beatrice  | 34 Saulter St., Toronto, Ont  |  |  |  | 8 | 1916 |
+| 5 | 685 | 2153 | 3867 | 2184 | 249483 | Private  | Fenney, Alfred  | Nil  | Fenney, Mrs. Martha  | 95 Carlaw Ave., Toronto, Ont  |  |  |  | 28 | 1916 |
+| 6 | 762 | 550 | 3279 | 579 |  |  |  | Former Corps. |  |  | Country of |
+| 6 | 582 | 694 | 3774 | 728 | 250034 | Private. | Fielding, Cecil Charles  | Nil  | Fielding, Mrs. Ella  | Bracebridge, Ont  | Canada.. | Toronto. | Jan. | 10, 1917 |
+| 6 | 567 | 724 | 3774 | 755 | 2002524 | Private. | Finnie, Frank  | Nil  | Finnie, Mabel  | 13 Washington St., New Haven, Conn., U.S.A. | Canada.. | Toronto. | Oct. | 26, 1916 |
+| 6 | 583 | 752 | 3774 | 784 | 249254 | B.S.M.. | Finnigan, William  | Imp. Forces. | Finnigan, Mrs. Lucy.... | 88 Beaconsfield Ave., Toronto, Ont  | Ireland.. | Toronto. | Apr. | 3, 1916 |
+| 6 | 583 | 781 | 3774 | 813 | 249190 | Private. | Fisher, Floyd Roy  | 2nd Regt  | Fisher, Mrs. Alice   | Bringwood, Ont  | Canada.. | Toronto. | Mar. | 25, 1916 |
+| 6 | 583 | 810 | 3774 | 842 | 249674 | Private. | Fisher, Henry Thomas  | Nil  | Fisher, Mrs. Elizabeth. | 1385 Dufferin St., Toronto, Ont  | England. | Toronto. | May | 27, 1916 |
+| 6 | 583 | 840 | 1355 | 870 | 249579 | Private. | Fisher, John  |
+| 6 | 583 | 867 | 3786 | 899 | 249354 | Private. | Fit* Gerald, Edward Blake. | C.F.A  | Fitz Gerald, Mrs. Catherine.. | 100 South Drive, Toronto, Ont  | Canada.., | Toronto.. | Apr. | 11, 1916. |
+| 6 | 583 | 897 | 3775 | 928 | 249121 | Private. | Fitzpatrick, William Brown. | 110th Regt  | Fitzpatrick, Mrs. Annie  | 491 Sackville St., Toronto, Ont  | Canada... | Toronto.. | Mar. | 18,1916 |
+| 6 | 582 | 925 | 3775 | 957 | 249261 | Private. | Foley, Frederick George  | 3rd Regt  | Foley, Mrs. Julia  | 128 Russett Ave., Toronto, Ont  | Canada... | Toronto.. | Apr. | 4, 1916 |
+| 6 | 582 | 954 | 3775 | 986 | 249041 | Private. | Foley, William  | Nil  | Foley, Mrs. Albina  | 688 Bloor St. W., Toronto, Ont  | Canada... | Toronto.. | Mar. | 6, 1916 |
+| 6 | 582 | 983 | 3776 | 1014 | 250118 | Private. | Ford, Francis Vernon  | Nil  | Halfday, Adam  | Muncey, Ont  | Canada... | Toronto.. | Apr. | 16, 1917 |
+| 6 | 582 | 1012 | 3776 | 1044 | 249314 | Private. | Foster, Frederick Leonard... | Nil   | Forster, Mrs. Margaret  | 118 Clifford St., Chorlye, Lancs., Eng  | Ireland... | Toronto.. | Apr. | 8, 1916 |
+| 6 | 582 | 1035 | 3777 | 1072 | 250069 | Private- | Fortescue, Ronald  | Nil  | Fortescue, Lewis Henry F... | 44 Courtney Gdns., Upminster, Essex, Eng. | England.. | Toronto.. | Mar. | 1, 1917 |
+| 6 | 582 | 1069 | 3777 | 1101 | 249252 | Private. | Foster, Joseph Percy  | Nil  | Foster, Kate. | 128 Concord Ave., Toronto, Ont  | Canada... | Toronto.. | Apr. | 3, 1916 |
+| 6 | 582 | 1094 | 3777 | 1130 | 249723 | Private. | Foster, William Andrew  | Nil  | Johnston, Ethel 29 Boswell Ave., Toronto, Ont |  | Canada... | Toronto.. | June | 6, 1916 |
+| 6 | 582 | 1127 | 3777 | 1158 | 249338 | Private. | Fraser, James Flemming  | Nil  | Fraser, Mrs. Rosetta | 372 Brock Ave., Toronto, Ont  | Canada... | Toronto.. | Apr. | 10, 1916 |
+| 6 | 569 | 1155 | 3777 | 1187 | 1024422 | Private. | Fraser, McKinley Malcolm.. | Can. Mil  | Fraser, Simon  | 48 Elm St., Toronto, Ont  | Canada... | Toronto.. | Oct. | 31, 1916 |
+| 6 | 582 | 1180 | 3777 | 1216 | 249924 | Private. | Friers, Albert Edward  | Nil  | Friers, Mrs. Sarah  | 173 Margueretta St., Toronto, Ont  | Canada... | Toronto.. | Oct. | 7, 1916 |
+| 6 | 582 | 1213 | 3777 | 1245 | 249941 | Private.- | Froggatt, William  | Nil  | Froggatt, Mrs. Janet A  | 70 Wheeler St., Hockley, Birmingham, Eng. | England.. | Toronto.. | Oct. | 20, 1916 |
+| 6 | 581 | 1237 | 3777 | 1274 | 249033 | C. S. M. | Fry, Ernest Charles  | 2nd Regt  | Fry, Reta  | clo Emily Fry, 12 Gifford St., Toronto, Ont. | England.. | Toronto.. | Mar. | 4, 1916 |
+| 6 | 581 | 1270 | 3777 | 1303 | 249119 | Private. | Fullerton, Robert Lundy  | Nil  | Fullerton, Mrs. Esther  | Keele St., Toronto, Ont  | Canada... | Toronto.. | Mar. | 18, 1916 |
+| 6 | 581 | 1299 | 3777 | 1333 | 249732 | Sergeant | Fulton, Joseph  | Imp. Forces  | Fulton, Mrs. Elizabeth  | 73 Ulster St., Toronto, Ont  | Scotland.. | Toronto.. | June | 7, 1916 |
+| 6 | 581 | 1328 | 3777 | 1361 | 250136 | Private. | Furlong, John Matthew  | C. A. S. C  | Furlong, Mrs. Karenhappuch  | Otterville, Ont  | Canada... | Toronto.. | Apr. | 24, 1917 |
+| 6 | 581 | 1357 | 3778 | 1390 | 249341 | Private.. | Gable, John England  | Nil  | Gable, Mrs. Fanny  | Duke St., Toronto, Ont  | England.. | Toronto.. | Apr. | 19, 1916 |
+| 6 | 581 | 1385 | 3777 | 1418 | 250131 | Private., | Gale, Arthur  | C. A. S. C  | Gale, Mrs. Rose  | 359 Carlton St., Toronto, Ont  | England.. | Toronto.. | Apr. | 23, 1917 |
+| 6 | 580 | 1414 | 3778 | 1447 | 249641 | Private.. | Gallagher, James Richard... | Nil  | Gallagher, John George  | 50 Beaconsfield Ave., Toronto, Ont  | Canada... | Toronto.. | May | 22, 1916 |
+| 6 | 581 | 1439 | 3778 | 1476 | 249256 | Private., | Gallier, Joseph  | Nil  | Hunter, Mrs. Sarah  | 124 Geary Ave., Toronto, Ont  | England.. | Toronto.. | Apr. | 3, 1916 |
+| 6 | 580 | 1471 | 3779 | 1505 | 249700 | Private.. | Garde, John Edward  | Nil  | Garde, Mrs. Laura  | 46 Bellevue Ave., Toronto, Ont  | Canada... | Toronto.. | June | 1, 1916 |
+| 6 | 581 | 1500 | 3779 | 1533 | 249818 | Private.. | Gardner, Daniel  | 15th Regt  | Gardner, Mrs. Mary  | 141 Murray St., Norsham, Surrey, Eng  | England.. | Toronto.. | July | 6, 1916 |
+| 6 | 581 | 1528 | 3779 | 1562 | 250108 | Private.. | Garend, Joseph  | Nil  | Garend, Mrs. Mary  |  | Canada... | Toronto.. | Apr. | 13, 1917 |
+| 6 | 580 | 1553 | 3778 | 1591 | 250134 | Private.. | Garrett, Robert Elmore  | NU  | Garrett, Mrs. Mary  | 334 Gladstone Ave., Toronto, Ont  | Canada... | Toronto.. | Apr. | 23, 1917 |
+| 6 | 580 | 1586 | 3779 | 1620 | 250087 | Private.. | Gaw, Thomas   | Nil  | Gaw, Mrs. Edith  | 57 Welland Ave., Toronto, Ont  | England.. | Toronto.. | Mar. | 21, 1917 |
+| 6 | 581 | 1614 | 3779 | 1649 | 249667 | Private.. | Gentle, John Joseph  | Nil  | Gentle, Mrs. Bridget  | 16 Crown St., Barbourne, Worcs., Eng  | England.. | Toronto.. | May | 26, 1916 |
+| 6 | 582 | 1643 | 3779 | 1677 | 916255 | Private.. | George, Albert Edward  | Nil  | George, Mrs. Lucy  | 711 St. Clarence Ave., Toronto, Ont  | England.. | Toronto.. | Mar. | 10, 1916 |
+| 6 | 581 | 1672 | 3780 | 1706 | 249153 | Private.. | Gibbons, William Patrick  | NU  | Gibbons, Mrs. Francis  | 123 Lippincott St., Toronto, Ont  | Canada... | Toronto.. | Mar. | 22, 1916 |
+| 6 | 580 | 1696 | 3780 | 1735 | 249379 | Private.. | Gibson, Robert James  | Nil  | Dowling, Mabel  | 207 Oak St., Toronto, Ont  | Canada... | Toronto.. | Apr. | 14, 1916 |
+| 6 | 582 | 1729 | 3780 | 1764 | 249956 | Private.. | Gilbert, Joseph  | Can. Mil  | Gilbert, Mrs. RebecCa  | 515 Erie Terr., Toronto, Ont  | England.. | Toronto.. | Oct. | 30, 1916 |
+| 6 | 582 | 1757 | 3780 | 1793 | 250092 | Private.. | Giles, Alexander  | Nil  | Giles, Mrs. Mary Ann  | Gransha, Castlemaine, Co. Kerry, Ire  | Ireland... | Toronto.. | Mar. | 26, 1917 |
+| 6 | 582 | 1786 | 3781 | 1822 | 249282 | Private.. | Gillespie, Maurice  | 10 th Regt  | Gillespie, Mrs. Kathleen  | 36 Garville Ave., Dublin, Ire  | Ireland... | Toronto.. | Apr. | 6, 1916 |
+| 6 | 581 | 1815 | 3781 | 1850 | 250006 | Private.. | Gilliard, Joseph Stringer  | Imp. Forces  | Gilliard, Fanny  | 11 Dorset Sq., Baker St., London, Eng  | Ireland... | Toronto.. | Dec. | 14, 1916 |
+| 6 | 581 | 1844 | 3781 | 1880 | 249951 | Private.. | Gillmore, Charles James  | Can. Mil  | GUlmore, Mrs. Sarah Ellen  | 107 Carlan Ave., Toronto, Ont  | England.. | Roronto. | Oct. | 25, 1916 |
+| 6 | 582 | 1871 | 3781 | 1908 | 249451 | Private.. | Glass, Charles  | Nil  | Glass, Mrs. Ruth  | 398 Westmoreland Ave., Toronto, Ont  | Canada... | Toronto.. | Apr. | 24, 1916 |
+| 6 | 583 | 1901 | 3782 | 1937 | 249704 | Private.. | Glass, Charles William  | Nil  | Glass, Mrs. Jennie  | 57 High Park Ave., Toronto, Ont  | Canada... | Toronto.. | June | 2, 1916 |
+| 6 | 582 | 1930 | 3782 | 1966 | 249455 | Private.. | Glazier, Charles  | Nil  | Glazier, Mrs. Margaret  | 825 Queen St. W., Toronto, Ont  | Canada... | Toronto.. | Apr. | 24, 1916 |
+| 6 | 581 | 1958 | 3783 | 1996 | 202078 | Private.. | Goldsmith, William  | 48th Regt  | Goldsmith, Mrs. Constance  | 25 Coleridge Ave., Cedarvale, Ont  | England., | Toronto.. | Nov. | 27, 1915 |
+| 6 | 582 | 1987 | 3783 | 2025 | 249145 | Private., | Gonshaw, Victor Charles  | Nil  | Gonshaw, Mrs. Louisa Frances  | 683 Manning Ave., Toronto, Ont  | Canada... | Toronto.. | Mar. | 21, 1916 |
+| 6 | 582 | 2015 | 3784 | 2053 | 249899 | Private., | Good, Charles Wesley  | Nil  | Good, Mrs. Annie Mable  | 389 Dundas St., Toronto, Ont  | Canada... | Toronto.. | Sept. | 5, 1916 |
+| 6 | 582 | 2045 | 3784 | 2083 | 249513 | Private., | Goode, Albert Edward  | NU  | Goode, Mrs. Hannah  | 207 High Rd., Kilburn, London, N. W., Eng. | England. | Toronto.. | May | 2, 1916 |
+| 6 | 582 | 2073 | 3785 | 2111 | 249765 | Private., | Goodyear, Clarence Le Roy., | 110th Regt  | Goodyear, Charles Frederick | 456 Euclid Ave., Toronto, Ont. | U. S. A.. | Toronto.. | June | 17, 1916 |
+| 6 | 3088 | 2102 | 3786 | 2128 |  |  |  |  |  |  | Ireland.. | Toronto. | Mar. | 25, 1916 |
+| 6 | 583 | 2106 | 2844 | 2141 | 249185 | Private., | Gordon, Thomas Stewart  | Nil  | Gordon, Mrs. Amy  228 Fairview Ave., West, Toronto, Ont. |
+| 7 | 661 | 348 | 2328 | 381 | 249174 | Private.... | Goulding, Thomas  | Nil  | Goulding, Mrs. Margaret  |
+| 7 | 662 | 378 | 2328 | 409 | 249915 | Private  | Graham, Frank James  | Nil  | Graham, Mrs. Minnie  |
+| 7 | 661 | 407 | 2328 | 438 | 249496 | Private  | Graham, William George  | Nil  | Graham, Mrs. Annie  |
+| 7 | 662 | 436 | 2327 | 471 | 249073 | Corporal... | Grant, Arthur George  | 48th Regt.... | Grant, Mrs. Jane  |
+| 7 | 660 | 465 | 2328 | 498 | 249278 | Private.... | Graydon, William  | Nil  | Graydon, William  |
+| 7 | 3163 | 486 | 3855 | 517 |  |  |  |  |  |  | England  |  | Nov. | 20, 1916 |
+| 7 | 661 | 494 | 2328 | 527 | 249984 | Private.... | Graysmark, Ernest Joseph  | Nil   | Graysmark, Florence  |
+| 7 | 660 | 523 | 2327 | 555 | 249740 | Private.... | Green, Charles  | Territorials.. | Green, Mrs. Rhoda  |
+| 7 | 660 | 553 | 2327 | 585 | 249443 | Private.... | Green, Frederick John  | Nil  | Green, Mrs. Minnie  |
+| 7 | 649 | 583 | 2326 | 614 | \024310 | Private.... | Green, John  | NU  | Benville, Lawrence  |
+| 7 | 662 | 611 | 2327 | 643 | 249990 | Private.... | Green, Ross.   | NU  | Green, Mrs. Minerva  |
+| 7 | 660 | 631 | 3855 | 674 | 249925 | Corporal... | Green, Walter  | Nil  | Green, Mrs. Margaret .  | R. R. No. 3, Everett, Ont  | England  | Toronto  | Oct. | 9, 1916 |
+| 7 | 660 | 661 | 3854 | 700 | 249149 | Private.... | Greenwood, Alexander    | Nil  | Greenwood, Mrs. Annie Alice  | 81 Hamilton St., Toronto, Ont  | Canada  | Toronto  | Mar. | 21.1916 |
+| 7 | 660 | 698 | 2326 | 732 | 249453 | Sergeant... | Greenwood, Leonard Francis... | NU  | Greenwood, Mrs. Lora L  |
+| 7 | 660 | 726 | 3147 | 760 | 249656 | Private.... | Gropp, Gordon Stewart  | NU  | Gropp, Mrs. Jennie  | Webb Sask   |
+| 7 | 659 | 748 | 3854 | 788 | 249977 | Private.... | Gullans, Allan  | 93rd Regt.... | Gullans, Mrs. Nellie  | 23 Market St., Cambridge, Mass., U.S.A  | Canada  | Toronto  | Nov. | 14, 1916 |
+| 7 | 659 | 777 | 3853 | 817 | 225421 | Private  | Gullins, John  | Nil  | Gullins, Mrs. Nellie  | 14 Highfield Rd., Toronto, Ont  | Canada  | Toronto  | Apr. | 2, 1917 |
+| 7 | 659 | 815 | 2327 | 846 | 249531 | Private.... | Hackett, William  | Nil  | Hackett, Mrs. Mary  |
+| 7 | 3163 | 835 | 3853 | 866 |  |  |  |  |  |  | England  |  | May | 9, 1916 |
+| 7 | 659 | 844 | 2327 | 874 | 249569 | Private  | Hackshaw, Charles William.... | Imp. Forces., | Hackshaw, Mrs. Florence  |
+| 7 | 659 | 873 | 2327 | 904 | 249462 | Private.... | Haley, James  | Nil...  | Haley, Mrs. Margaret...  |
+| 7 | 659 | 902 | 2326 | 932 | 249497 | Private.... | Hall, Samuel Edward  | Nil  | Hall, Mrs. Mabel  |
+| 7 | 659 | 931 | 2326 | 962 | 249542 | Private  | Halstead, David  | Nil  | Halstead, Mrs. Ellen  |
+| 7 | 658 | 959 | 2327 | 990 | 250007 | Private  | Hamilton, Frederick Charles  | Nil  | Hamilton, Mrs. May  |
+| 7 | 658 | 988 | 2326 | 1022 | 249365 | Sergeant... | Hamilton, James  | NU  | Hamilton, Samuel  |
+| 7 | 658 | 1017 | 2326 | 1048 | 249775 | Private  | Hancza, John  | Nil  | Hancza, Mrs. Irene  |
+| 7 | 658 | 1046 | 2326 | 1077 | 249468 | Private.... | Hansen, Albert  | Nil  | Hansen, Margaret  |
+| 7 | 658 | 1075 | 2326 | 1106 | 249473 | Private  | Harding, Albert Henry  | Nil  | Harding, Mrs. Matilda  |
+| 7 | 658 | 1103 | 2326 | 1137 | 249530 | Corporal... | Hardman, Edward    | Nil  | Hardman, Mrs. Margaret Elenor. |
+| 7 | 657 | 1123 | 3852 | 1164 | 250010 | Private  | Hardy, James Mark  | Nil  | Williams, Mary  |  | Wales  |  | Dec. | 26, 1916 |
+| 7 | 657 | 1161 | 2325 | 1193 | 249139 | Private  | Harford, Ernest  | Nil  | Harford, Mrs. Kate  |
+| 7 | 657 | 1188 | 2325 | 1221 | 249633 | Private  | Harper, William John  | 2nd Regt.... | Harper, Mrs. Sarah  |
+| 7 | 657 | 1219 | 2324 | 1250 | 249197 | Private  | Harrington, William Arthur  | Nil  | Harrington, Mrs. Rebecca  |
+| 7 | 658 | 1247 | 2335 | 1278 | 249787 | Private  | Harris, Edwin     | Nil  | Harris, Alfred  |
+| 7 | 657 | 1276 | 2335 | 1307 | 249467 | Private  | Harrison, Peter Philip  | Nil  | Harrison, Mrs. Florence  |
+| 7 | 657 | 1305 | 2324 | 1335 | 249718 | Private.... | Hart, Frederick Charles  | Nil  | Hart, Cecil Arthur  |
+| 7 | 657 | 1334 | 2335 | 1365 | 249929 | Private  | Hartley, John William  | 10th Regt  | Hartley, Mrs. Nora  |
+| 7 | 656 | 1363 | 2335 | 1392 | 249492 | Private  | Hassan, William John  | NU  | Hassan, Mrs. Helen  |
+| 7 | 656 | 1382 | 3850 | 1422 | 249048 | Private  | Hassard, Jason Wilfrid  | 10th Regt.... | Hassard, Mrs. Sarah  |  |  |  |  | ?, 1916 |
+| 7 | 656 | 1421 | 2335 | 1451 | 249292 | C. S. M  | Hassett, Henry Jerome  | S. A  | Hassett, Mrs. Margaret  |
+| 7 | 656 | 1449 | 2335 | 1482 | 249481 | Corporal... | Hathaway, Albert Ernest  | Nil  | Hathaway, Mrs. Florence  |
+| 7 | 656 | 1474 | 3849 | 1510 | 249184 | C. Q. M. S. | Havercroft, George William  | Imp. Forces.. | Havercroft, Mrs. Kate Elizabeth. |  |  |  |  | 25, 1916 |
+| 7 | 656 | 1503 | 3848 | 1537 | 250040 | Private  | Hawke, Dawson Bernard  | Nil  | Hawke, Mrs. Wellhemina  |  |  |  |  | 15, 1917 |
+| 7 | 656 | 1531 | 3849 | 1569 | 249042 | Sergeant  | Haworth, Owen  | Nil  | Haworth, Thomas  |  |  |  |  | 6, 1916 |
+| 7 | 655 | 1562 | 3848 | 1595 | 249706 | Private  | Hay, William  | Nil  | Hay, Mrs. Mary  |  |  |  |  | 2, 1916 |
+| 7 | 656 | 1591 | 3848 | 1624 | 249921 | Private  | Hayden, Henry  | 2nd Regt.... | Hayden, Mrs. Florence  |  |  |  |  | 2, 1916 |
+| 7 | 656 | 1617 | 3848 | 1653 | 249764 | Private  | Hayes, John James  | Nil  | Hayes, Mrs. Eva Joe  |  |  |  |  | 16, 1916 |
+| 7 | 656 | 1649 | 3848 | 1682 | 249861 | Private  | Hayward, John Joseph  | Nil  | Hayward, Mrs. Nellie    |  |  |  |  | 9, 1916 |
+| 7 | 656 | 1677 | 3848 | 1710 | 249208 | Private  | Head, Ernest  | Nil  | Head, Mrs. Emily  |  |  |  |  | 27, 1916 |
+| 7 | 655 | 1706 | 3848 | 1739 | 249605 | Private  | Healey, James Joseph  | Nil  | Healey, Mrs. Catherine  |  |  |  |  | 16, 1916 |
+| 7 | 655 | 1736 | 3848 | 1768 | 249436 | Private  | Hearst, William Ash  | Nil  | Hearst, George  |  |  |  |  | 24, 1916 |
+| 7 | 655 | 1765 | 3848 | 1796 | 249132 | Private  | Heath, Thomas  | 10th Regt  | Heath, Mrs. Mary Ellen  |  |  |  |  | 20, 1916 |
+| 7 | 655 | 1794 | 3848 | 1825 | 249128 | Private  | Heimrich, Harvey  | Nil  | Heimrich, Charles  |  |  |  |  | 20, 1916 |
+| 7 | 655 | 1823 | 3848 | 1854 | 249872 | Private  | Henn, William  | Nil  | Henn, Mrs. Florence  |  |  |  |  | 14, 1916 |
+| 7 | 655 | 1851 | 3847 | 1883 | 249729 | Private  | Henry, Bernard  | Nil  | Henry, Mrs. Jane  |  |  |  |  | 7, 1916 |
+| 7 | 654 | 1881 | 3848 | 1913 | 249017 | Sergeant  | Henry, William Robert  | NU  | Henry, William  |  |  |  |  | 26, 1916 |
+| 7 | 654 | 1910 | 3847 | 1940 | 250144 | Private  | Herod, Samuel  | Nil  | Herod, Mrs. Susie  |  |  |  |  | 25, 1917 |
+| 7 | 654 | 1939 | 3847 | 1969 | 249213 | Private  | Hewer, Andrew  | Nil  | Hewer, Mrs. Sophia  |  |  |  |  | 27, 1916 |
+| 7 | 655 | 1968 | 3847 | 1999 | 249471 | Private  | Heyd, William Curtis  | Nil  | Heyd, Mrs. Mary Elizabeth  |  |  |  |  | 26, 1916 |
+| 7 | 654 | 1997 | 3847 | 2028 | 250015 | Private  | Hickey, Charles Joseph  | Nil  | Hickey, Mrs. Agnes  |  |  |  |  | 2, 1917 |
+| 7 | 654 | 2021 | 3848 | 2056 | 237657 | Private  | Hicks, Noah  | Nil  | Hicks, Mrs. Mary Jane  |  | Newfoundland.. |  |  | 26, 1916 |
+| 7 | 654 | 2055 | 3848 | 2085 | 249382 | Private  | Higgins, John Lewis  | Nil  | Higgins, John  |  |  |  |  | 14, 1916 |
+| 7 | 653 | 2084 | 3848 | 2113 | 250004 | Private  | Hill, Lorne Allen  | Nil  | Hill, Mrs. Emily  |  |  |  |  | 13, 1916 |
+| 7 | 653 | 2112 | 3846 | 2142 | 250135 | Private  | Hillmer, Arthur Edward  | Nil  | Hillmer, Mrs. Pauline  | P. O. Box 70, Oackville, Ont  |  | Toronto  |  | 24, 1917 |
+| 8 | 730 | 596 | 3248 | 627 |  |  |  | Former Corps. |  |  | Country of |
+| 8 | 550 | 738 | 3744 | 771 | 249648 | Private  | Hindlc, Arthur  | Territorials  | Hindlc, Mrs. Beatrice Maud. | 98 Strathcona Ave., Toronto, Ont  | England. |  | May | 23 | 1916 |
+| 8 | 550 | 768 | 3744 | 800 | 249258 | Private  | Hodnett, Harold Copeland. | 12th Regt  | Hodnett, Mrs. Louisa  | 347 Conduit St., Toronto, Ont  | England. | Toronto  | Apr. | 3 | 1916 |
+| 8 | 550 | 796 | 3744 | 829 | 249912 | Private  | Holland, Alfred James  | 24th Regt  | Holland, Mrs. Minnie  | 36 Alexander St., Toronto, Ont  | England. |  | Sept. | 11 | 1916 |
+| 8 | 549 | 826 | 3744 | 857 | 249556 | Private  | Holland, Edward  | Nil  | Holland, Mrs. Elizabeth  | 116 Hope St., Toronto, Ont  | England. | Toronto  | May | 6 | 1916 |
+| 8 | 550 | 854 | 3744 | 887 | 249494 | Corporal  | Holland, George Frederick. | Nil  | Holland, George  | 49 Bright St., Crewe, Cheshire, Eng. | England. |  | Apr. | 30 | 1916 |
+| 8 | 550 | 883 | 3744 | 915 | 249475 | Private  | Holohan, Joseph Archie  | C. A. M. C  | Holohan, Mrs. Phoebe  | 154 Brock Ave., Toronto, Ont  | Canada.. |  | Apr. | 27 | 1916 |
+| 8 | 548 | 912 | 3744 | 944 | 250085 | Private  | Honsinger, Elmer John  | Nil  | Honsinger, Mrs. Isabella  | R. R. No. 3, Moorefield, Ont  | Canada.. |  | Mar. | 20 | 1917 |
+| 8 | 549 | 941 | 3744 | 973 | 250055 | Private  | Hopcroft, Edward William. | Nil  | Hopcroft, Mrs. Mary  | 1 Ashdale Ave., Toronto, Ont  | Canada.. |  | Feb. | 2 | 1917 |
+| 8 | 550 | 970 | 3745 | 1001 | 763064 | Private  | Hopkins, William  | Nil :  | Keller, John  | Bracebridge, Ont  | England. |  | Dec. | 14 | 1915 |
+| 8 | 548 | 999 | 3745 | 1030 | 249733 | Private  | Hopwood, Thomas  | Nil  | Hopwood, Mrs. Beatrice  | 42 Norwood Rd., East Toronto, Ont. | England. |  | June | 7 | 1916 |
+| 8 | 549 | 1028 | 3745 | 1059 | 24978C | Private  | Hough, Michael  | Nil  | Cunerty, Catherine  | 55 Carr St., Toronto, Ont  | U. S. A.. |  | June | 23 | 1916 |
+| 8 | 551 | 1059 | 1673 | 1087 | 13605S | Private  | Howarth, Arthur  | Paper in 77th Bat. |
+| 8 | 548 | 1085 | 3745 | 1117 | 249224 | Private  | Howchin, Henry Richard... | 2nd Regt  | Howchin, Mrs. Pricillia  | 105 Kingston Rd., Toronto, Ont  | Ireland. |  | Mar. | 31 | 1916 |
+| 8 | 548 | 1114 | 3745 | 1145 | 249888 | Private  | Hoy, Arthur  | Nil  | Hoy, Mrs. Elizabeth Sarah.... | 167 Arhern St., Kitchener, Ont  | England. |  | Aug. | 24 | 1916 |
+| 8 | 548 | 1143 | 3745 | 1174 | 249769 | Private  | Hozack, Luke  | Nil  | Hozack, Mrs. Amelia  | 159 Wallace Ave., Toronto, Ont  | Canada.. |  | June | 19 | 1916 |
+| 8 | 547 | 1172 | 3745 | 1202 | 250011 | Private  | Hubbell, Lawrence Ross  | Can. Mil  | Hubbell, Mrs. Mary Georgina. | 227 St. Clair Ave., West Toronto, Ont  | Canada.. |  | Dec. | 26 | 1916 |
+| 8 | 547 | 1201 | 3745 | 1232 | 259115 | Private  | Hubbert, Harold Anthony.. | Nil  | Hubbert, Mrs. Barbara  | 195 Jarvis St., Toronto, Ont  | Canada.. |  | Mar. | 18 | 1916 |
+| 8 | 547 | 1229 | 3745 | 1260 | 249995 | Private  | Hudson, Edward  | Nil  | Hudson, Mrs. Anna  | 77 Sherwood St., Derby, Eng  | England. |  | Dec. | 4 | 1916 |
+| 8 | 547 | 1259 | 3745 | 1290 | 249156 | Sergeant  | Huestis, Gervace Smith  | U. S. Army  | Huestis, Mrs. Katherine  | 2244 Yonge St., Toronto, Ont  | Canada.. |  | Mar. | 22 | 1916 |
+| 8 | 547 | 1288 | 3825 | 1319 | 249565 | Private  | Hughes, Edwin Robert  | Nil  | Hughes, Robert  | 81 Concord Ave., Toronto, Ont  | Canada.. |  | May | 9 | 1916 |
+| 8 | 546 | 1318 | 3036 | 1348 | 249487 | Private  | Hughes, Frederick George.. | Nil  | Hughes, Mrs. Nellie  | 258 Donald Ave., Silverthorne Grove, Sub. 72, Toronto, |
+| 8 | 2299 | 1346 | 3744 | 1376 |  |  |  |  |  | Ont  | England. |  | Apr. | 28 | 1916 |
+| 8 | 545 | 1375 | 3745 | 1406 | 249159 | Private  | Hughes, John  | Nil  | Hughes, Mrs. Sarah E  | 22 Bridge St., Toronto, Ont  | Ireland.. |  | Mar. | 22 | 1916 |
+| 8 | 546 | 1404 | 3745 | 1435 | 249540 | Private  | Hunter, Horace James  | 48th Regt... | Huhter, Mra. Sarah  | 124 Gealry Ave., Toronto, Ont  | England. |  | May | 5 | 1916 |
+| 8 | 545 | 1433 | 3745 | 1464 | 249572 | Private  | Hutnik, Sidor  | NU  | Hutnik, Mrs. Odutka  | Masevich, Minsk, Russia  | Russia... |  | May | 9 | 1916 |
+| 8 | 544 | 1461 | 3745 | 1490 | 249472 | Private  | Hurst, Chades Emmett  | Nil  | Hurst, Mrs. Ann  | 160 Brunswick Ave.. Toronto, Ont  | Canada.. |  | April | 26 | 1916 |
+| 8 | 544 | 1487 | 3745 | 1520 | 249212 | Private  | Hurst, Willram Karl  | Nil  | Clark, Mrs. Gertrude  | 12 Pelissier Ave., Windsor, Ont  | Canada.. |  | Mar. | 27 | 1916 |
+| 8 | 545 | 1516 | 3745 | 1549 | 249377 | Private  | Hutton, George  | C.F.A  | Hutton, Mrs. Margaret  | 213 Concord Ave., Toronto, Ont  | Canada.. |  | Apr. | 13 | 1916 |
+| 8 | 545 | 1545 | 3743 | 1578 | 250119 | Private  | Hymers, Russell James  | Nil  | Hymers, Mrs. Jean  | 1519 West Fraser St., Philadelphia, Pa., U.S.A  | U.S.A... |  | Apr. | 17 | 1917 |
+| 8 | 544 | 1573 | 3743 | 1607 | 250139 | Private  | Hynes, Edmund Joseph.  | Can. Mil  | Hynes, Eugene  | clo Mrs. Reardon, Arthur St., Toronto, Ont  | Canada.. | Toronto  | Apr. | 24 | 1917 |
+| 8 | 544 | 1602 | 3745 | 1637 | 249524 | Private  | Ibbotaon, Frederick...'.  | Nil  | Ibbotson, Mrs. Annie  | 178} Sackville St., Toronto, ont  | Canada.. |  | May | 3 | 1916 |
+| 8 | 543 | 1635 | 3745 | 1664 | 250042 | Private  | Jacks, Arthur Brooke  | NU  | Jacks, John W  | Stroud, Ont  | Canada.. |  | Jan. | 16 | 1916 |
+| 8 | 543 | 1664 | 3745 | 1694 | 249874 | Pijvate  | Jackson, Arthur Philip  | Territorials. | Jackson, Mrs. Elizabeth  | 103 Hunter St., Hamilton, Ont  | England. |  | Aug. | 15 | 1916 |
+| 8 | 544 | 1692 | 3746 | 1722 | 249754 | Private  | Jackson, Narry Norman  | Nil  | Jackson, Mrs. Emma  | P.O. Box 652, Cobalt, Ont  | Canada.. |  | June | 14 | 1916 |
+| 8 | 543 | 1720 | 3746 | 1752 | 249615 | Private  | Jackson, William Clifford... | Nil  | Jackson, Mrs. Annie  | 213 Wellington St., Stratford, Ont  | Canada.. |  | May | 17 | 1916 |
+| 8 | 543 | 1750 | 3746 | 1779 | 249914 | Private  | James, John Leslie  | 2nd Drags... | James, Mrs. Beatrice Francis., | Milton, Ont  | Canada.. |  | Sept. | 25 | 1916 |
+| 8 | 543 | 1779 | 3746 | 1809 | 249047 | Sergeant  | Jaquiss, Leonard  | 2nd Regt  | Jaquiss, Mrs. Selina  | 39 Neville Park Rd., Liverpool, Eng  | England. |  | Mar. | 7 | 1916 |
+| 8 | 543 | 1807 | 3748 | 1838 | 249052 | Private  | Jarvis, Fred    | Nil  | Jarvis, Mrs. Annie  | 11 Northcote Ave., Toronto, Ont  | England. |  | Mar. | 8 | 1916 |
+| 8 | 544 | 1836 | 3747 | 1868 | 724017 | Private  | Jarvis, John Lewis  | NU  | Jarvis, Fred  | 11 Northcote St., Toronto, Ont  | England. |  | Feb. | 18 | 1916 |
+| 8 | 543 | 1862 | 3748 | 1896 | 669228 | Private  | Jenkins, James  | 2nd Regt  | Jenkins, Mrs. Christina Jane.. | 41 Wineva Ave., Toronto, Ont  | England. |  | Jan. | 21 | 1916 |
+| 8 | 543 | 1894 | 3747 | 1925 | 249649 | Private  | Jennings, Merritt Franklin.. | Nil  | Jennings, Mrs. Wilhelmina  | Gore Bay, Ont  | Canada.. |  | May | 23 | 1916 |
+| 8 | 527 | 1923 | 3747 | 1958 | 2002570 | Private  | Johnson, Henry Herbert  | Can. Mil  | Johnson, Mrs. Elizabeth  | 71 Davidson St., Galt, Ont  | England. |  | Jan. | 2 | 1917 |
+| 8 | 542 | 1952 | 3748 | 1983 | 249348 | Private  | Johnson, Martin  | Nil  | Kelly, Mrs. Elizabeth  | R. R. No. 3, Fenelon Falls, Ont  | Canada.. |  | Apr. | 11 | 1916 |
+| 8 | 542 | 1980 | 3748 | 2011 | 249043 | Private  | Jones, Grank Evan  | Nil  | Jones, Mrs. Annie  | 10 Columbus St., Toronto, Ont  | England. |  | Mar. | 6 | 1916 |
+| 8 | 542 | 2010 | 3748 | 2041 | 249590 | Private  | Jones, William Edward  | Nil  | Jones, Mrs. Jane  | 281 Clinton St., Toronto, Ont  | Wales.... |  | May | 12 | 1916 |
+| 8 | 541 | 2038 | 3747 | 2068 | 250054 | Private  | Jory, Walter James  | Nil  | Jory, Mrs. Mary Ann  | 460 Palmerston Ave., Toronto, Ont  | Canada.. |  | Jan. | 30 | 1917 |
+| 8 | 542 | 2067 | 3749 | 2099 | 249276 | Private  | Kaiser Harry Huxley  | NU  | Cook, Mrs. Martha  | Sutton, Ont      | Canada.. |  | Apr. | 6 | 1916 |
+| 8 | 541 | 2092 | 3748 | 2127 | 250037 | Private  | Kaneosky, Wasyl  | Nil  | Kaneosky, Mrs. Eva  | Padonpsia, Volinski, Russia  | Russia... |  | Jan. | 12 | 1917 |
+| 8 | 541 | 2125 | 3748 | 2155 | 250048 | Private  | Kavanagh, Ernest William. | Nil  | Strong, Mrs. Catheleen  | 42 Munro St., Toronto, Ont  | Canada.. |  | Jan. | 22 | 1917 |
+| 8 | 541 | 2154 | 3749 | 2187 | 250142 | Private  | Keenan, William  | Nil  | Keenan, Mrs. Annie  | 54 Sparkhall Ave., Toronto, Ont  | Ireland.. |  | Apr. | 24 | 1916 |
+| 9 | 687 | 375 | 3875 | 410 | 249595 | Private  | Nil  | Keiller, Mrs. Barbara. | 2 Dawson Ave., Toronto, Ont  | May | 15 | 191ft |
+| 9 | 687 | 405 | 3874 | 439 | 250055 | Private  |  | Kelcey, Mrs. Jane  | 48 Mitchell Ave., Toronto, Ont  |  | 31 | 1917 |
+| 9 | 687 | 438 | 3137 | 473 | 250083 | Private  |  | Kelly, Mrs. Mary  | 154 Defoe St., Toronto, Ont...v  |
+| 9 | 3670 | 462 | 3875 | 489 |  |  |  |  |  | Apr. | 13 | 1917 |
+| 9 | 686 | 468 | 3136 | 496 | 250112 | Private  | Nil  | Kelman, Mrs. Rosa  | Ospanki St., Oman Kiev, Russia  |
+| 9 | 687 | 492 | 3876 | 526 | 249526 | Private  | Nil  | Criss, Mrs. Mary  | 10 Draper St., Toronto, Ont  | May | 3 | 191fi |
+| 9 | 687 | 526 | 3137 | 555 | 249712 | Private  | Nil :  | Kerr, Mrs. Mary  | 25 Rathdrum St., Belfast, Ire  |
+| 9 | 3670 | 550 | 3875 | 577 |  |  |  |  |  | Apr. | ?4 | 1916 |
+| 9 | 687 | 554 | 3136 | 583 | 249444 | Private  | Nil  | Kidd, Catherine  | R.R. No. 3, St. Catharines, Ont  |
+| 9 | 687 | 584 | 3137 | 612 | 249975 | Private  |  | Kimbell, Mrs. Lillian.. | 35 Gledhill Ave., Toronto, Ont    |
+| 9 | 686 | 610 | 3170 | 642 | 249755 | Private  | Nil  | King, Fanny  | 59 High St., Kingston, Georgetown, Demerara, British |
+| 9 | 2434 | 636 | 3875 | 669 |  |  |  |  | Guiana, S. America  | June | 14 | 1916 |
+| 9 | 686 | 666 | 3875 | 700 | 249509 | Private  | Nil  | King, Mrs. Alice  | Rossport, Ont  | May | 1 | 1917 |
+| 9 | 3671 | 695 | 3875 | 722 |  |  |  |  |  | Apr. | 1 | 1916 |
+| 9 | 686 | 700 | 3165 | 729 | 249233 | Corporal  | Nil    | Knight, Mrs. Elizabeth. | 17 Charles St., Brockville, Ont  |
+| 9 | 686 | 727 | 3161 | 759 | 249541 | Private  | Nil  | Knight, Julia Irene  | c|o Mrs. Annie Woolgar, 2 Castle Terr., New Rd. |
+| 9 | 2435 | 753 | 3875 | 786 |  |  |  |  | Lewes, Sussex, Eng  | May | 5 | 1916 |
+| 9 | 3671 | 782 | 3875 | 809 |  |  |  |  |  | Apr. | ?A | 191ft |
+| 9 | 687 | 786 | 3166 | 816 | 249439 | Private  |  | Knott, Mrs. Mary Ann. | 19 Maitland St., Toronto.. .Ont  |
+| 9 | 686 | 811 | 3875 | 844 | 249003 | Sergeant  |  | Knox, Mrs. Letitia  | 114 Bernice, Cres. Lambton Mills, Ont  | Feb. | W | 191ft |
+| 9 | 686 | 870 | 3875 | 902 | 249804 | Private  | Nil  | Koran, Mrs. Ann  | Boloche Human, Prov. of Minsk, Russia  |  | 30 | 1916 |
+| 9 | 3671 | 898 | 3875 | 925 |  |  |  |  |  | Apr. | 3 | 1917 |
+| 9 | 686 | 902 | 3037 | 931 | 250098 | Private  | Nil  | Krawtchuck, Mrs. Martha... | Waronoe, Kief, Russia...  |
+| 9 | 687 | 927 | 3875 | 960 | 299776 | Private  | Nil  | Kroszcwsky, Jennie  | Cholidren’s Home, London, Ont  |  | f,f, | 1916 |
+| 9 | 688 | 956 | 3875 | 989 | 775329 | Private  | Nil  | Langdon, Mrs. May  | 59 Perth Ave., Toronto, Ont  |  | 11 | 1915 |
+| 9 | 687 | 985 | 3875 | 1018 | 249501 | Corporal  | Nil  | Large, Mrs. Miriam  | 40 Prospect St., Toronto, Ont  | Apr. | 30 | 1916 |
+| 9 | 686 | 1014 | 3876 | 1046 | 249275 | Private  | Nil  | Lawlor, Mrs. Catharine  | 19 Allen Ave., Toronto, Ont  | Apr. | 7 | 191B |
+| 9 | 687 | 1043 | 3876 | 1075 | 249522 | Private  | Nil  | Lazof, Mrs. Tasso  | Ctuono, Nish, Servia  | May | 3 | 191fi |
+| 9 | 687 | 1072 | 3876 | 1104 | 249709 | Private  | Nil  | Leach, Mrs. Sarah  | 18 Col borne St., Oshawa, Ont  |  | 5 | 1916 |
+| 9 | 687 | 1100 | 3876 | 1132 | 249843 | Private  | Nil  | LeBas, Samuel  | 97 Fresfield Rd., Brighton, Eng     | July | 1916 |
+| 9 | 687 | 1128 | 3875 | 1162 | 249336 | Private  | Nil  | Lee, Mrs. Evelyn  | 3 Alpha Ave., Toronto, Ont  | April | 10 | 1916 |
+| 9 | 687 | 1158 | 3876 | 1190 | 249517 | Private  |  | Leith, Mrs. Maria  | 142 Lippincott St., Toronto, Ont  | May | ? | 1916 |
+| 9 | 686 | 1188 | 3876 | 1219 | 250091 | Private  | Nil  | Leslie, Mrs. Margeret  | Brighton, Ont  |  | ?6 | 1917 |
+| 9 | 687 | 1216 | 3877 | 1247 | 249771 | Private  | Nil  | Leslie, Mrs. Martha  | >4 Bond St., Toronto, Ont  |  | M | 1916 |
+| 9 | 686 | 1246 | 3957 | 1275 | 249002 | C.Q.M.S  | Nil  | Lewis, Mrs. Mildred  | R.R. No. 1, Kelowna, B.C  |  | ?4 | 1916 |
+| 9 | 686 | 1274 | 3876 | 1306 | 249502 | Private  | Nil  | Litherland, Mrs. Mary Ann.. | 405 Jones Ave., Toronto, Ont  | May | 1 | 1916 |
+| 9 | 686 | 1303 | 3876 | 1334 | 249380 | Private  | Nil  | Little, Mrs. Hannah  | 12 Bertie St., Deer Park, Wychwood, Ont  | Apr. | 14 | 1916 |
+| 9 | 686 | 1332 | 3876 | 1364 | 249601 | Private  | Nil  | Lock, Mrs. May  | 76 Water St., Toronto, Ont  | May | 15 | 1916 |
+| 9 | 686 | 1361 | 3876 | 1392 | 249985 | Private  | Nil  | Loucks, Mrs. Annie Mary... | Pangman, Sask  | Nov. | ?0 | 191fi |
+| 9 | 685 | 1390 | 3876 | 1421 | 249869 | Private  | Nil  | Lowrey, Mrs. Alice  | 796 Ossington Ave., Toronto, Ont  | Aug. | 14 | 191ft |
+| 9 | 685 | 1419 | 3875 | 1448 | 249198 | Private  | Nil  | Lucas, Mrs. Florence  | 644 Richmond St. West, Toronto Ont  | Feb. | 7 | 1916 |
+| 9 | 686 | 1448 | 3876 | 1479 | 249575 | Private  | Nil  | Lynch, Mrs. Sarah  | Enniskillen, Co. Fermanagh, Ire  | May | 10 | 1916 |
+| 9 | 686 | 1477 | 3876 | 1508 | 249515 | Private  | Nil  | Lynch, Mrs. Margaret  | 131 Spadina Ave., Toronto, Ont  | May | ? | 1916 |
+| 9 | 685 | 1506 | 3876 | 1536 | 249063 | Private  | Nil  | Lynch, Mrs. Mary Ann   | Gortivea, Bready, Strabane Co., Tyrone, Ire. |  | 8 | 1916 |
+| 9 | 685 | 1535 | 3876 | 1566 | 249076 | Private  |  | Macdonald, Mrs. Mary Jane. | 177 Parliament St., Toronto, Ont  |  | 13 | 1916 |
+| 9 | 686 | 1563 | 3876 | 1593 | 249695 | Private  | Nil  | Mac Dowell, Mrs. Annie  | 57 Hamilton St., Toronto, Ont  | May | 30 | 1916 |
+| 9 | 685 | 1592 | 3876 | 1624 | 249580 | Private  | Nil  | MacEwan, Mrs. Mary  | 202 Clinton St., Toronto, Ont  | May | m | 1916 |
+| 9 | 686 | 1621 | 3876 | 1651 | 249731 | Private  | Nil  | Machin, Mrs. Clara  | 342 Pacific Ave., Toronto, Ont  |  | 7 | 1916 |
+| 9 | 685 | 1649 | 3876 | 1681 | 249330 | Private  | Nil  | MacKay, Mrs. Ellen  | 12 Woodgreen PI., Toronto,’Ont  | Apr. | 10 | 1916 |
+| 9 | 685 | 1678 | 3877 | 1710 | 250124 | Private  |  | Mackinstosh, George  | 172 Gamble Ave., Todmorden, Ont  | Apr. | 18 | 1917 |
+| 9 | 686 | 1708 | 3876 | 1737 | 249936 | Corporal  |  | Macleod, Mrs. Janet  | 296 Borden St., Toronto, Ont  |  | 16 | 1916 |
+| 9 | 686 | 1736 | 3876 | 1766 | 249038 | Sergeant  |  | Macrae, Mrs. Catherine  | 442 Brock St., Toronto, Ont  |  | ft | 1916 |
+| 9 | 686 | 1764 | 3877 | 1796 | 249470 | Private  | Nil  | Maddever, Mrs. Beatrice  | Wilton Mill, Parish of Plynt, Cornwall, Eng... | Apr. | ?6 | 1916 |
+| 9 | 685 | 1795 | 3877 | 1825 | 250046 | Private  |  | Maguire, Mrs. Margaret  | Grand Valley, Ont   |  | n | 1917 |
+| 9 | 686 | 1823 | 3877 | 1853 | 249556 | Private  | Nil  | Mangan, Michael  | 16 Tritonville Rd., Sandymount, Dublin, Ire.. | Apr. | ?4 | 1916 |
+| 9 | 686 | 1851 | 3876 | 1883 | 250121 | Private  | S.A  | Manning, Richard Edward... | Elliott St., Balmain, Sydney, Aust  | Apr. | 17 | 1916 |
+| 9 | 686 | 1881 | 3877 | 1911 | 249563 | Private  | Nil  | Mansell, Mrs. Georgcina  | 362 Harbord St., Toronto., Ont  | May | 8 | 1916 |
+| 9 | 686 | 1909 | 3877 | 1941 | 249383 | Private  | C.F.A   | Mara, Mrs. Margaret  | 30 Empire Ave., Toronto, Ont  | Apr. | 14 | 1916 |
+| 9 | 685 | 1938 | 3877 | 1969 | 250005 | Private  |  | Marcottc, Mrs. Ernestine  | 6164, Blvd des Ormes, Montreal, P.Q  | Dec. | 13 | 1916 |
+| 9 | 686 | 1967 | 3877 | 1998 | 249074 | Corporal  |  | Marsh, Mrs. Alice Victoria... | 92 King Edward Ave., Toronto, Ont  | Mar. | 13 | 1916 |
+| 9 | 686 | 1996 | 3875 | 2027 | 250126 | Private  | Nil  | Marsh, Mrs. Ida  | 184 Berkeley St., Toronto, Ont %  | Apr. | ?0 | 1917 |
+| 9 | 685 | 2026 | 3876 | 2055 | 249077 | Private  | Nil  | Martin, Mrs. Louisa  | 12 Thompson, St., Toronto, Ont  |  | 13 | 1916 |
+| 9 | 686 | 2054 | 3876 | 2084 | 249411 | Private  | Nil  | Martin, Mrs. Martha  | 510 Adelaide St. W., Toronto, Ont  | Apr. | 18 | 1916 |
+| 9 | 685 | 2082 | 3876 | 2113 | 250035 | Private  | Nil  | Martin, Mrs. Elizabeth Ann.. | 286 Harvie Ave., Toronto, Ont  |  | 1? | 1917 |
+| 9 | 685 | 2111 | 3877 | 2143 | 250133 | Private  | Nil  | Mason, Mrs. Mary Agnes  | 18 Pine Terr. E., Toronto, Ont  | Apr. | ?3 | 1917 |
+| 9 | 684 | 2141 | 3878 | 2173 | 249346 | Private  | Nil  | McAuley, Mrs. Catherine.... | 247 Ossington Ave., Toronto, Ont  | Apr. | 11 | 1916 |
+| 10 | 581 | 539 | 3267 | 575 | .325 |  | Former Corps. |  |  | Country of |
+| 10 | 588 | 565 | 3698 | 606 | I |  |  |  |  |  | Place. | Date. |
+| 10 | 565 | 682 | 3762 | 719 | 249214 | Private.. | McCabe, Hugh Elmer .  | Nil  | McCabe, William  | P.O. Box 578, Sudbury, Ont  | Canada... | Toronto  | Mar. | 28, 1916 |
+| 10 | 565 | 712 | 3762 | 748 | 249324 | Private.. | McCabe, Joseph    | Nil  | McCabe, Mrs. Grace  | 437 Gerrard St., East Toronto, Ont  | Canada... | Toronto  | Apr. | 10, 1916 |
+| 10 | 3071 | 740 | 3761 | 767 |  |  |  |  |  | Canada... | Toronto  | July | 14, 1916 |
+| 10 | 565 | 747 | 2906 | 777 | 249836 | Private.. | McCardel, Charles Augustine... | Nil  | McCardel, Charles Augustine  | Dundas, Ont  |
+| 10 | 565 | 769 | 3761 | 805 | 249321 | Private.. | McCarten, Samuel  | 10th Regt  | McCarten, Thomas   | Keady, Co. Amragh, Ire  | Ireland... | Toronto  | Apr. | 10, 1916 |
+| 10 | 565 | 798 | 3761 | 834 | 249339 | Private.. | McCarten, William   | Nil  | McCarten, Thomas  | Mowillian, Co. Armagh, Ire  | Ireland... | Toronto  | Apr. | 10, 1916 |
+| 10 | 564 | 827 | 3761 | 864 | 249172 | Private.. | McCleery, James  | Nil  | McCleery, Mrs. Catherine Jane.... | 73 Boston Ave., Toronto, Ont  | Ireland... | Toronto  | Mar. | 24, 1916 |
+| 10 | 564 | 855 | 3760 | 892 | 249164 | Private.. | McCleery, John  | Nil  | McCleery, Mrs. Jane  | 48 Pembrooke St., Toronto, Ont  | Ireland.. | Toronto  | Mar. | 23, 1916 |
+| 10 | 564 | 884 | 3760 | 921 | 249058 | Sergeant. | McComb, William Robert  | 10th Regt  | McComb, Mrs. Eliza  | Milsetown, Co. Louth, Ire  | Ireland. | Toronto  | Feb. | 26, 1916 |
+| 10 | 563 | 913 | 3760 | 950 | 249880 | Private.. | McCane, Edward Joseph  | Nil  | McCue, Mrs. Jane  | 800 Crawford St., Toronto, Ont....—  | Canada ... | Toronto  | Aug. | 21, 1916 |
+| 10 | 564 | 942 | 3760 | 978 | 249690 | Private.. | McDonald, John  | Imp. Forces... | McDonald, Mrs. Elizabeth  | 55 Glanville, Wychwood, Ont  | Ireland... | Toronto  | May | 20, 1916 |
+| 10 | 564 | 971 | 3760 | 1007 | 249939 | Private.. | McElroy, Frank Edward  | G.G.B.G  | McElroy, Mrs. Emma  | 15 Vernon St., Toronto, Ont  | Canada... | Toronto  | Oct. | 19, 1916 |
+| 10 | 563 | 1000 | 3760 | 1036 | 249199 | Private.. | McFadyen, Gordon Murray  | Nil  | McFadeyn, Mrs. Fllorence  | 353 Carlton St., Toronto, Ont  | Canada... | Toronto  | Ian. | 13, 1916 |
+| 10 | 564 | 1028 | 3759 | 1064 | 249536 | Private.. | McGarvie, David  | Nil  | McGarvie, John  | 12 Drummellen St. Maybole, Ayr, Scot  | Scotland.. | Toronto  | May | 4, 1916 |
+| 10 | 563 | 1057 | 3759 | 1093 | 249291 | Private.. | McGibbon, John Gerald  | Territorials  | McGibbon, James  | 77 Ormeon Rd., Belfast, Ire  | Ireland... | Toronto  | Apr. | 7, 1916 |
+| 10 | 563 | 1086 | 3759 | 1122 | 249406 | Private.. | McGill, Roger Alexander  | Nil  | McGill, Mrs. Lottie  | 100 Hampton Ave., Toronto, Ont  | Canada... | Toronto  | Apr. | 17, 1916 |
+| 10 | 563 | 1115 | 3759 | 1151 | 249140 | Private.. | McGrath, Hugh Patrick  | Nil  | McGrath, Mrs. Annie  | 419 Front East St., Toronto, Ont  | Canada... | Toronto  | Mar. | 20, 1916 |
+| 10 | 562 | 1144 | 3759 | 1178 | 250077 | Private.. | McGuire, James  | Nil  | McGuire, Mrs. Catherine  | 8 Wadrope St., Beith Ayr, Scot  | Scotland.. | Toronto  | Mar. | 13, 1917 |
+| 10 | 562 | 1173 | 3759 | 1209 | 249508 | Sergeant. | McKenna, Edward James  | Nil  | McKenna, Mrs. Margaret  | 453 Euclid Ave., Toronto  | Canada... | Toronto  | May | 1, 1916 |
+| 10 | 561 | 1201 | 3759 | 1237 | 249129 | Private.. | McKenzie, George Angus  | Nil  | McKenzie, Mrs. Annie  | 521 Ontario St., Stratford, Ont  | Canada... | Toronto  | Mar. | 20, 1916 |
+| 10 | 561 | 1230 | 3759 | 1266 | 249408 | Private.. | McLaughlin, Michacl  | Nil  | McLaughlin, Mary  | 226 Duncaim Gdns., Belfast Ire  | Ireland | Toronto  | Apr. | 17, 1916 |
+| 10 | 561 | 1259 | 3758 | 1294 | 250125 | Private.. | McMann, Clifford  | Nil  | McMann, Mrs. Julia  | 170 Arthur St. Toronto, Ont  | Canada... | Toronto  | Apr. | 20, 1917 |
+| 10 | 561 | 1288 | 3759 | 1324 | 250017 | Private.. | McMullen, Fraser Dclmage  | Nil  | McMullen, Mrs. Florence  | 588 St. Clarens Ave., Toronto, Ont  | Canada... | Toronto  | Jan. | 2, 1917 |
+| 10 | 548 | 1317 | 3758 | 1353 | 1096165 | Private.. | McNeilly, Samuel  | Nil  | McNeilly, William John  | R.R. No. 1, Listowetl, Ont  | Ireland | Toronto  | Feb. | 9, 1917 |
+| 10 | 560 | 1346 | 3758 | 1381 | 249564 | Private... | McNiffe, Alexander  | Nil  | McNiffe, Timoths'  | Ballyconnelly, Galway, Ire  | Ireland | Toronto  | May | 9, 1916 |
+| 10 | 560 | 1375 | 3758 | 1410 | 249552 | Private... | McPhail, John  | Nil  | McPhaU, Mrs. Isabel  | 3 Norfolk St., Toronto, Ont  | Ireland  | Toronto  | Apr. | 24, 1916 |
+| 10 | 560 | 1404 | 3752 | 1439 | 250088 | Privage.. | McTeman, James  | Nil  | McTernan, Mrs. Winnie  | 178 Strachan Ave., Toronto, Ont  | Ireland.... | Toronto  | Mar. | 22 1917 |
+| 10 | 560 | 1432 | 3758 | 1468 | 249266 | Private... | Megarry, Thomas  | Nil  | Megarry, Mrs. Sarah  | Maze, Co. Down, Ire  | Ireland.... | Toronto  | Apr. | 5, 1916 |
+| 10 | 561 | 1461 | 3758 | 1495 | 249351 | Private... | Metzker, Jake  | Nil  | Metzker, Agnes  | 937 Bathurst St., Toronto, Ont  | Canada  | Toronto  | Apr. | 11, 1916 |
+| 10 | 560 | 1489 | 3758 | 1526 | 249934 | Corporal.. | Meyers, Douglas  | U.S. Army.... | Meyers, Mrs. Maxime  | 285 Jarvis St., Toronto, Ont  | Canada  | Toronto  | Oct. | 16, 1916 |
+| 10 | 560 | 1518 | 3757 | 1553 | 249093 | Private... | Milih, Laza  | NU  | Milih, Stanko  | Xacian, Nish, Servia  | Servia  | Toronto  | Mar. | 15, 1916 |
+| 10 | 559 | 1547 | 3756 | 1582 | 273866 | Private... | Miller, Carl C. W  | Nil  | Miller, Hans  | 706 St. Paul St., Detroit, Mich., U.S.A  | Denmark. | Windsor  | Oct. | 19, 1916 |
+| 10 | 558 | 1576 | 3756 | 1611 | 249286 | Private... | Miller, Fred. Lorenza  | Nil  | Miller, Mrs. Elizabeth  | 110 YorkvUle Ave., Toronto  | Canada  | Toronto  | April | 7, 1916 |
+| 10 | 558 | 1604 | 3755 | 1640 | 250081 | Private... | Mill ward, William Arthur  | Nil  | Millward, Mrs. Ethel  | 29 MelviUe St., Dingle, Liverpool, Eng  | England... | Toronto  | Mar. | 15,1917 |
+| 10 | 557 | 1633 | 3755 | 1668 | 249973 | Private... | Milner, Frederick  | Nil  | Milner, Mrs. Mary Elizabeth  | 11 Holmegate Rd., Clay Cross, Derby, Eng. | England... | Toronto  | Nov. | 8, 1916 |
+| 10 | 557 | 1662 | 3754 | 1703 | 249352 | Private... | Milner, Squire  | Nil  | Milner, Mrs. Ann Eliza  | 16 Blantyre Ave., Toronto, Ont  | England... | Toronto  | April | 11, 1916 |
+| 10 | 557 | 1691 | 3755 | 1726 | 249371 | Private... | Missen, William Henry  | Territorials  | Missen, Mrs. Evalina  | Bracebridge, Ont  | England... | Toronto  | April | 13, 1916 |
+| 10 | 557 | 1720 | 3755 | 1754 | 249822 | Private... | Mitchell, Bernard William  | NU  | Mitchell, Dorothy  | Maldon, Essex, Eng  | England... | Toronto  | July | 7, 1916 |
+| 10 | 557 | 1749 | 3755 | 1783 | 249175 | Private... | Mitchell, Robert William  | Territorials  | Mitchell, Mrs. Margaret  | Dromore St., Banbridge Co., Down, Ire  | Ireland  | Toronto  | Mar. | 24.1916 |
+| 10 | 557 | 1777 | 3755 | 1812 | 249083 | Private... | Mitich, Alex...  | Nil  | Mitich, Toran  | Dorjor Studenor, Nish, Servia  | Servia  | Toronto  | Mar. | 14.1916 |
+| 10 | 557 | 1806 | 3755 | 1841 | 249922 | Private... | Mobbs, Robert George  | Can. Mil  | Mobbs, John T  | Bradfield N. Walsham, Norfolk, Eng  | England.. | Camp Borden... | Sept. | 24.1916 |
+| 10 | 557 | 1835 | 3755 | 1870 | 249815 | Private... | Mochkevech Konstantene  | Nil  | Mochkevech  | Eguman, Minsk, Russia  | Russia  | Toronto  | July | 5.1916 |
+| 10 | 557 | 1863 | 3754 | 1899 | 250127 | Private... | Moffatt, John   | Nil    | Moffatt, Joseph  | Joggin Mines, Cumberland Co., N.S  | U.S.A  | Toronto  | April | 21.1917 |
+| 10 | 557 | 1893 | 3754 | 1929 | 249032 | Sergeant.. | Morgan, Walter Michael  | 2nd Regiment. | Morgan, Mrs. Catherine  | 378 Berkeley St., Toronto, Ont  | Canada  | Toronto  | Mar. | 4, 1916 |
+| 10 | 557 | 1921 | 3754 | 1956 | 249147 | Private... | Montgomery, Ronald James  | 48th Regt  | Montgomery, Mrs. Thresea  | 48 Ashdale Ave., Toronto, Ont  | Canada.... | Toronto  | Mar. | 21, 1916 |
+| 10 | 557 | 1950 | 3754 | 1985 | 250008 | Private... | Mooney, Frederick Dalton  | Nil  | Mooney, Mrs. Annie  | John St., Bradford, Ont  | Canada.... | Toronto  | Dec. | 16, 1916 |
+| 10 | 556 | 1979 | 3755 | 2014 | 249400 | Private... | Moore, George Arthur  | NU  | Moore, Mrs. Annie  | 29 Cornwall St., Toronto, Ont  | Canada.... | Toronto  | April | 17,1916 |
+| 10 | 556 | 2008 | 3755 | 2043 | 249549 | Private... | Morgan, John  | Territorials.... | Taylor, Mary  | 5 May St., Liverpool, Eng  | England... | Toronto  | May | 5.1916 |
+| 10 | 556 | 2037 | 3755 | 2072 | 249046 | Private... | Morgan, Frank Ellick  | 9th Horse  | Morgan, Mrs. Elenor  | 202 Vaughan Rd., Toronto, Ont  | England... | Toronto  | Mar. | 6.1916 |
+| 10 | 555 | 2066 | 3755 | 2101 | 249315 | Private... | Morgan, James    | NU  | Morgan, Mrs. Mary  | 362 Deleware Ave., Toronto, Ont  | Ireland  | Toronto  | April | 8, 1916 |
+| 10 | 554 | 2095 | 3755 | 2130 | 249173 | Private... | Morrish, John Purcell  | Nil  | Morrish, Mrs. Florence A  | 40 Fern Ave., Toronto, Ont  | Canada.... | Toronto  | Mar. | 24, 1916 |
+| 11 | 782 | 324 | 3868 | 355 |  | Nil  | Mountjoy, Mrs. Annie  | 1309 Queen St. E., Toronto, Ont  |  | April | 30 | 1916 |
+| 11 | 685 | 354 | 3868 | 383 | 249040 | Nil  | Mulvenna, Mrs. Alada Blackfan... | Monmouth Hotel, Rumson, NJ., U.S.A  |  |  | 6 | 1916 |
+| 11 | 687 | 383 | 3867 | 414 | 2(9228 | Nil  | Mulvey, Mrs. Margaret  | 31 Essex Ave., Toronto, Ont  |  | Mar. | 31 | 1916 |
+| 11 | 685 | 412 | 3868 | 442 | .249188 | Nil  | Murphy, Mrs. Margaret  | 21 Ontario St., Toronto, Ont  |  | Mar. | 25 | 1916 |
+| 11 | 687 | 443 | 2365 | 471 | 250036 | Nil  | Murphy, Catherine  |
+| 11 | 2437 | 470 | 3867 | 495 |  |  |  | U.S.A  | U.S. A  |  | 1? | 1917 |
+| 11 | 687 | 499 | 3868 | 529 | 249719 | Nil  | Murray, James  | 548 King St. W., Toronto, Ont  | Ireland  | June | 5 | 1916 |
+| 11 | 688 | 527 | 3868 | 557 | 249801 | Nil  | Nakaznick, Mrs. Fedora  | Lipoves, Zubricha, Kiev, Russia  |  |  | M | 1916 |
+| 11 | 686 | 557 | 3867 | 588 | 249592 | C.A.M.C  | NeU, Mrs. Mary  | 16 Withrow Ave., Toronto, Ont   |  | May | 13 | 1916 |
+| 11 | 685 | 586 | 3868 | 617 | 249280 | 10th Regt  | Nelson, Mrs. Gertrude  | 103 McCaul St., Toronto, Ont    |  | April | 6 | 1916 |
+| 11 | 685 | 615 | 3868 | 645 | 249653 | Nil  | Nethery, Mrs. Annie Francis  | 683 Ontario St., Toronto, Ont  |  | May | 23 | 1916 |
+| 11 | 685 | 644 | 3868 | 674 | 249901 | Nil  | NeviUe, Mrs. Esther  | 70 Turner Rd., Walthamstow, Essex, Eng  |  | Sept. | 8 | 1916 |
+| 11 | 686 | 673 | 3868 | 704 | 249124 | Can. Eng  | Greenwood, Martha  | 360 Davenport Rd., Toronto, Ont  |  | Mar. | 20 | 1916 |
+| 11 | 685 | 702 | 3867 | 733 | 250016 | Nil  | Niffin, Mrs. Sophia  | 385 Adelaide St. W., Toronto, Ont  |  | Jan. | 2 | 1917 |
+| 11 | 685 | 730 | 3868 | 760 | 249141 | NU  | Nixon, Mrs. Isabella  | 987 Gerrard St. E., Toronto, Ont  |  | Mar. | 20 | 1916 |
+| 11 | 686 | 760 | 3868 | 791 | 249344 | 10th Regt  | Nixon, Mrs. Elizabeth  | 78 Guestholm Ave., Cedarvale, Ont  |  | April | 10 | 1916 |
+| 11 | 686 | 789 | 3869 | 820 | 249606 | Nil  | Noble, Mrs. Fanny  | 344 Howland Ave., Toronto, Ont  |  | May | 16 | 1916 |
+| 11 | 685 | 819 | 3867 | 848 | 250030 | Russian  | Nodelman, Mrs. Esther  | 41 Laplante Ave., Toronto, Ont  |  |  | 9 | 1917 |
+| 11 | 685 | 844 | 3867 | 877 | 250063 | Nil  | Norman, Mrs. Kate  | 238 Lippincott St., Toronto, Ont  |  | Feb | 1ft | 1917 |
+| 11 | 685 | 876 | 3869 | 906 | 249942 | Can. Mil  | Norton, Mrs. Sarah  | 14 Glenville Ave., Toronto, Ont  |  | Oct. | 17 | 1916 |
+| 11 | 685 | 905 | 3868 | 936 | 250027 | Nil  | Norwood, Ellen Margaret  | c/o Mrs. Whitla, 40 Haddington St., Galt, Ont  |  |  | 8 | 1917 |
+| 11 | 685 | 931 | 3869 | 964 | 249305 | Nil  | Oakley, Mrs. Elizabeth  | Howe St., Great Waltham, Chelmsford, Essex, Eng... |  | April | 8 | 1916 |
+| 11 | 685 | 963 | 3869 | 993 | 249075 | Nil  | Barber, Ellen   | 347 Lippincott St., Toronto, Ont  |  | Mar. | 13 | 1916 |
+| 11 | 686 | 992 | 3869 | 1022 | 349646 | Nil  | O’Donnell, Mrs. Fanny  | 394 Pape Ave., Toronto, Ont  |  | May | 22 | 1916 |
+| 11 | 685 | 1017 | 3869 | 1051 | 249005 | Nil  | O’Grady, Mrs. Alice  | 29 Enderby Rd., Toronto, Ont  |  | Feb | 25 | 1916 |
+| 11 | 687 | 1047 | 3869 | 1080 | 681364 | Nil  | O’Keefe, Margaret  | 78 Derby Rd., Kirkdale, Liverpool, Eng  |  | Mar. | 1 | 1916 |
+| 11 | 685 | 1078 | 3869 | 1108 | 249307 | Nil  | O’Leary, Mrs. Kathleen  | 76 Edwin Ave., Toronto, Ont  |  | April | 8 | 1916 |
+| 11 | 685 | 1108 | 3869 | 1138 | 249014 | 34 th Regt  | O’Neil, David F  | Uxbridge, Ont  |  | Feb | 28 | 1916 |
+| 11 | 685 | 1137 | 3870 | 1167 | 249114 | Nil  | O'Neill, Mrs. Mary  | 189 Sherbourne St., Toronto, Ont  | U.S. A  | Mar. | 18 | 1916 |
+| 11 | 685 | 1165 | 3869 | 1196 | 250103 | Nil  | Opie, Mrs. Clara  | Bridgeburg, Ont  |  | April | 10 | 1917 |
+| 11 | 686 | 1195 | 3870 | 1225 | 249102 | 2nd Regt  | Orr, Mrs. Elizabeth Mary  | P.O. Box 132, OakvUle, Ont  |  | April | 10 | 1916 |
+| 11 | 686 | 1220 | 3870 | 1252 | 228417 | Nil  | Osborne, Mrs. Leila Jane  | 11 Coolmine Rd., Toronto, Ont  |  | May | 10 | 1916 |
+| 11 | 685 | 1253 | 3869 | 1283 | 250116 | Nil  | Oson, Mrs. Elizabeth  | 15 Spring St. Salem, Mass., U.S.A  |  | April | U.S.A  | 16 | 1917 |
+| 11 | 687 | 1282 | 3869 | 1310 | 663031 | Nil  | Owens, James  | Marcellus, New York, U.S.A  |  | April | 10 | 1917 |
+| 11 | 686 | 1311 | 3870 | 1340 | 249715 | Nil  | Palmer, Mrs. Kathleen  | 84 Trinity St., Toronto, Ont  |  | June | 5 | 1916 |
+| 11 | 686 | 1340 | 3870 | 1369 | 249161 | Nil  | Pantlin, Mrs. Margaret  | 27 Steiner St., Toronto, Ont  |  | Mar. | 22 | 1916 |
+| 11 | 686 | 1369 | 3870 | 1399 | 249597 | 48 th Regt  | Parker, Mrs. Edith Gladys  | 29 Kenilworth Ave., Toronto, Ont  |  | May | 15 | 1916 |
+| 11 | 686 | 1398 | 3870 | 1427 | 285072 | 12th Regt  | Patterson, Mrs. Mary Esther  | Newmarket, Ont  |  | April | 4 | 1916 |
+| 11 | 686 | 1427 | 3871 | 1456 | 249100 | Nil  | Patterson, Mrs. Minnie  | 704 King St. W„ Toronto, Ont  |  | Mar. | 16 | 1916 |
+| 11 | 686 | 1455 | 3871 | 1484 | 249295 | Nil  | Peacock, Mrs. Edith  | 50 St. Nicholas St., Toronto, Ont  |  | April | 7 | 1916 |
+| 11 | 686 | 1484 | 3871 | 1512 | 249234 | Nil  | Ferris, Rebecca  | 74 Hamilton St., Toronto, Ont  |  | Mar. | 31 | 1916 |
+| 11 | 686 | 1513 | 3871 | 1542 | 249284 | Serbian Army | Pclewich, Joan  | 437 King St., East Toronto, Ont  |  | April | 7 | 1916 |
+| 11 | 674 | 1542 | 3871 | 1571 | 1024248 | Nil  | Penrice, James  | Macville, Ont  |  | Aug. | 9 | 1916 |
+| 11 | 686 | 1571 | 3871 | 1600 | 250137 | Nil  | Perillard, Mrs. Eva  | 2663 Jacques Hertel, Cote St., Paul, Montreal, Que  |  | April | 24 | 1917 |
+| 11 | 686 | 1599 | 3873 | 1629 | 249546 | 109th Regt  | Petty, Mrs. Lillian  | R.R. No. 2, Hensall, Ont  |  | May | 5 | 1916 |
+| 11 | 687 | 1628 | 3873 | 1657 | 249385 | G.G.B.G  | Phelps, Mrs. Florence  | 32 Gladstone Ave., Toronto, Ont  |  | April | 14 | 1916 |
+| 11 | 687 | 1657 | 3872 | 1686 | 201249 | Nil  | Phoenix, Lulu Beatrice  | 42 Halton St., Toronto, Ont  |  |  | 14 | 1915 |
+| 11 | 672 | 1686 | 3873 | 1715 | 2002573 | 29th Regt  | Pinnegar, Mrs. Emma  | 102 Cedar St., Galt, Ont  |  | Jan. | 6 | 1917 |
+| 11 | 687 | 1715 | 3872 | 1744 | 249442 | Nil  | Plaxton, Mrs. Louie  | 266 Sherbourne St., Toronto  | U.S.A  | April | 24 | 1916 |
+| 11 | 687 | 1744 | 3873 | 1774 | 249594 | Nil  | Plumridge, Mrs. Mary Ann  | Cleveland, Lea Rd., Southall, M’Sex, Eng  |  | May | 13 | 1916 |
+| 11 | 687 | 1768 | 3874 | 1803 | 249170 | Nil  | Pocock, Mrs. Maria  | Faculty Union, University of Toronto, Toronto, Ont... |  | Mar. | 24 | 1916 |
+| 11 | 688 | 1802 | 3874 | 1831 | 249665 | 30th Regt  | Porter, Mrs. Eva  | P.O. Box 22, Aurora, Ont  |  | May | 2f | 1916 |
+| 11 | 688 | 1831 | 3874 | 1860 | 249688 | Nil  | Porter, Mrs. Susan  | 414 King St. E., Toronto, Ont  |  | May | 29 | 1916 |
+| 11 | 688 | 1859 | 3875 | 1889 | 249258 | C.A.S.C  | Porter, Mrs. Ellen  | 5 Lumbcrvale Ave., Toronto, Ont  |  | April | 4 | 1916 |
+| 11 | 687 | 1888 | 3875 | 1917 | 249930 | Nil  | Powell, Frank  | 38 Boon Ave., Toronto, Ont  |  |  | 13 | 1916 |
+| 11 | 688 | 1918 | 3876 | 1946 | 249065 | Territorials | Proctor, Mrs. Isabella  | 31 Balvenie St., Dufftown, Banff, Scot  |  | Mar. | 10 | 1916 |
+| 11 | 688 | 1946 | 3877 | 1975 | 249783 | 15th Regt  | Proctor, Mrs. Pervilla Syvera  | 258 Dufferin St., Toronto, Ont  |  |  | 24 | 1916 |
+| 11 | 1550 | 2005 | 3876 | 2034 |  | Nil  | Quin, May  | 29 Jane St. W., Toronto, Ont  |  | Aug. | 1916 |
+| 11 | 1552 | 2028 | 3876 | 2063 |  | Nil  | Quin, Arthur  | [29 Jane St., Toronto, Ont  |  | Aug. | 11 | 1916 |
+| 11 | 688 | 2062 | 3877 | 2090 | 249751 | Nil  | Wylie, Catherine  |  |  | June | 13 | 1916 |
+| 11 | 785 | 2091 | 3877 | 2120 |  | 9th Horse. | Quinn, Mrs. Isabella | Clonbrock, Ahascragh Co., Galway, Ire. |  | Mar. | 27 | 1916 |
+| 12 | 1131 | 599 | 3271 | 630 |  | Former Corps. |  |  | Country of |
+| 12 | 936 | 743 | 3765 | 777 |  |  |  |  |  |  | ’, 1916 | Rachell, William  | Can. Mil  | Tuckford, Mrs. Edith  | 247 King St. E., Toronto, Ont  | England  | Toronto  |
+| 12 | 937 | 772 | 3764 | 807 |  |  |  |  |  |  | I, 1916 | Ramsay, James Cairns  | Nil  | Ramsay, Mrs. Martha Wilson. | Minishant Maybole, Ayr, Scot  | Scotland  | Toronto  |
+| 12 | 937 | 802 | 3764 | 835 |  |  |  |  |  |  | 1916 | Ramsey, Thomas   | Nil  | Ramsey, James  | Kesk Co., Fermanagh, Ire  | Ireland  | Toronto  |
+| 12 | 937 | 831 | 3763 | 865 |  |  |  |  |  |  | (, 1917 | Roussau, Joseph  | Nil  | Roussau, Edward  | St. Madeleine, P.Q  | Canada  | Toronto  |
+| 12 | 937 | 860 | 3764 | 893 |  |  |  |  |  |  | I, 1917 | Redmond, Frank Willard  | Nil  | Redmond, Mrs. Catheleen  | 304 Huron St., Toronto, Ont  | Canada  | Toronto  |
+| 12 | 936 | 889 | 3765 | 921 |  |  |  |  |  |  | i, 1916 | Reeks, Frederick George  | 9 th Horse  | Reeks, Mrs. Elizabeth  | 78 Peterborough Ave. Toronto, Ont  | England  | Toronto  |
+| 12 | 936 | 917 | 3766 | 951 |  |  |  |  |  |  | i, 1916 | Reesor, James Drysdalc  | G.G.B.G  | Reesor, Mrs. Catherine  | 85 St. Clair Ave. E., Toronto, Ont  | Canada  | Toronto  |
+| 12 | 936 | 946 | 3765 | 980 |  |  |  |  |  |  | I, 1916 | Reid, Loftus Henry  | 12 th Regt  | Reid, Mrs. Elizabeth  | Springfield, Enniskillen Co., Fermanagh, Ire  | Ireland  | Toronto  |
+| 12 | 936 | 975 | 3764 | 1008 |  |  |  |  |  |  | i, 1917 | Reid, Richard  | Territorials  | Reid, Mrs. Elizabeth  | Camborne, Cornwall, Eng  | England  | Toronto  |
+| 12 | 937 | 1004 | 3765 | 1038 |  |  |  |  |  |  | 1, 1916 | Reynolds, Ernest Henry  | Nil  | Reynolds, Mrs. Ellen  | c/o Mrs. M. Reynolds Gotham Rd., S. Bristol, Eng.... | England  | Toronto  |
+| 12 | 937 | 1033 | 3765 | 1065 |  |  |  |  |  |  | \ 1916 | Riddell, William Robert  | Nil  | Riddell, Robert  | Cedarbrae, Ont  | Canada  | Toronto  |
+| 12 | 937 | 1062 | 3766 | 1095 |  |  |  |  |  |  | I, 1916 | Riley, Edward Russell  | Nil  | Riley, Mrs. Margaret Purvis.. | 6 Alpha Ave., Toronto, Ont  | Canada  | Toronto  |
+| 12 | 936 | 1091 | 3765 | 1124 |  |  |  |  |  |  | ., 1916 | Riley, Joseph Arthur  | Nil  | Riley, Mrs. Emily  | 630 Wellington St., W. Toronto, Ont  | England  | Toronto  |
+| 12 | 936 | 1120 | 3764 | 1153 |  |  |  |  |  |  | I, 1917 | Riley, John William  | NU  | Riley, Mrs. Orpha  | 278 Lippincott St., Toronto, Ont  | Canada  | Toronto  |
+| 12 | 935 | 1144 | 3765 | 1180 |  |  |  |  |  |  | \ 1917 | Robert, James  | Nil  | Robert, Mrs. Margaret  | Bogside Cottage, Coupar Angus, Perth, Scot  | Scotland  | Toronto  |
+| 12 | 936 | 1177 | 3766 | 1209 |  |  |  |  |  |  | r, 1916 | Roberts, John  | Nil  | Roberts, Mrs. Lilly  | 121 Leslie St., Toronto, Ont  | England  | Toronto  |
+| 12 | 935 | 1206 | 3766 | 1238 |  |  |  |  |  |  | ), 1916 | Roberts, Walter Frank  | Nil  | Roberts, Mrs. Lily  | 269 Symington Ave., Toronto, Ont  | England  | Toronto  |
+| 12 | 936 | 1235 | 3766 | 1268 |  |  |  |  |  |  | I, 1916 | Rose, Chesley, Ambrose  | Nil  | Rose, Mrs. Nettie  | 76 West Lodge Ave., Toronto, Ont  | Canada  | Toronto  |
+| 12 | 935 | 1263 | 3766 | 1297 |  |  |  |  |  |  | i, 1916 | Rose, Frederick  | Nil  | Rose, Mrs. Ellen  | Portagol Rd., St.John's, N’f’l’d  | Newfoundland.. | Iroquois Falls.. |
+| 12 | 935 | 1293 | 3766 | 1325 |  |  |  |  |  |  | >, 1916 | Ross, Francis Ramsay  | 110th Regt  | Ross, Mrs. Sadie  | 5112 Laplante Ave., Toronto, Ont  | Ireland  | Toronto  |
+| 12 | 934 | 1322 | 3766 | 1353 |  |  |  |  |  |  | >, 1916 | Ross, Gordon  | Nil  | Ross, Mrs. Mary  | Gartly Stn, Gartly, Aberdeen, Scot  | Scotland  | Toronto  |
+| 12 | 935 | 1351 | 3766 | 1384 |  |  |  |  |  |  | ), 1916 | Rowley, Fayette Robert  | Nil  | Kearns, Emily  | 326 Sunnyside Ave., Toronto, Ont  | Canada  | Toronto  |
+| 12 | 933 | 1379 | 3766 | 1412 |  |  |  |  |  |  | I, 1916 | Rumsey, Frederick Charles.. | NU  | Rumsey, Mrs. Sarah  | 143 Lagauchetiere St. W., Montreal, Que  | Newfoundland.. | Toronto  |
+| 12 | 934 | 1409 | 3766 | 1441 |  |  |  |  |  |  | !, 1916 | Rynehart, John William  | Nil  | Rynehart, John Henry  | 363 Euclid Ave., Toronto, Ont  | Canada  | Toronto  |
+| 12 | 932 | 1437 | 3766 | 1470 |  |  |  |  |  |  | I, 1916 | Sadler, Walter    | NU  | Sadler, Mrs. Sarah Ann   | P.O. Box 19, Holland Landing, Ont  | England  | Toronto  |
+| 12 | 931 | 1461 | 3765 | 1499 |  |  |  |  |  |  | I, 1917 | Sample, Walter Snaith  | Nil  | Sample, John  | 6 Temple St., South Shields, Durham, Eng  | England  | Toronto  |
+| 12 | 931 | 1495 | 3766 | 1528 |  |  |  |  |  |  | ), 1916 | Sapash, Thomas  | Nil  | Sapash, Mrs. Stoyanca  | Belgrade, Servia  | Servia  | Toronto  |
+| 12 | 932 | 1524 | 3765 | 1556 |  |  |  |  |  |  | !, 1916 | Saunders, Edgar  | Imp. Forces  | Saunders, Mrs. Bessie  | 205 De Grassi St., Toronto, Ont  | England  | Toronto  |
+| 12 | 931 | 1552 | 3057 | 1585 | Schurko, Roman  | Nil  | Schurko, Jacob  | Woronieskoi, Guberni, Newesopievuskoi Uijzda Talen |
+| 12 | 2328 | 1582 | 3765 | 1609 |  |  |  |  |  |  | !, 1917 | Kalenskoi, Wotoski, Russia  | Russia   | Toronto. |
+| 12 | 931 | 1611 | 3766 | 1641 |  |  |  |  |  |  | ), 1916 | Searle, Frederick Ernest  | Nil  | Searle, Mrs. Florence  | Princess St., Toronto, Ont  | England  | Toronto. |
+| 12 | 932 | 1639 | 3766 | 1671 |  |  |  |  |  |  | !, 1916 | Searle, Stephen James  | NU  | Searle, Mrs. Florence  | 69 Princess St. Toronto, Ont  | England  | Toronto. |
+| 12 | 931 | 1669 | 3766 | 1699 |  |  |  |  |  |  | 1, 1916 | Sebben, Richard Hamilton... | Nil  | Sebben, Mrs. Maria  | Stratford, Ont  | Canada  | Toronto. |
+| 12 | 931 | 1698 | 3765 | 1728 |  |  |  |  |  |  | I, 1917 | Seipenko, Fred  | Nil  | Seipenko, Mrs. Fedora  | Kiev, Russia  | Russia  | Toronto. |
+| 12 | 930 | 1726 | 3767 | 1757 |  |  |  |  |  |  | 1,1916 | Seitz, Erwin Joseph  | Nil  | Seitz, Mrs. Margaret  | 541 Ossington Ave., Toronto, Ont  | Canada  | Toronto. |
+| 12 | 930 | 1755 | 3766 | 1786 |  |  |  |  |  |  | \ 1916 | Serpniak, Havriniee  | NU  | Ziniak, Mrs. Mary Sier  | Gubernia, Russia  | Russia  | Toronto. |
+| 12 | 930 | 1783 | 3766 | 1815 |  |  |  |  |  |  | ), 1916 | Shanahan, James Joseph  | C.A.M.C.. | Shanahan, Mrs. Josephine.. | 289 Victoria St., Toronto, Ont  | Canada  | Toronto. |
+| 12 | 930 | 1813 | 3766 | 1843 |  |  |  |  |  |  | r, 1916 | Shannon, Robert Thurston... | NU  | Shannon, Mrs. Josephine... | 87 Geneva St., St. Catharines, Ont  | Canada  | Toronto. |
+| 12 | 930 | 1841 | 3766 | 1872 |  |  |  |  |  |  | I, 1916 | Sharpe, James William A  | 25th Regt. | Sharpe, Mrs. Sarah Ann  | 402 Adelaide St. W., Toronto, Ont  | Canada  | Toronto. |
+| 12 | 930 | 1870 | 3766 | 1901 |  |  |  |  |  |  | I, 1916 | Sharpe, William James  | Nil  | Sharpe, Mrs. Maria  | 46 Pauline Ave., Toronto, Ont  | Canada  | Toronto. |
+| 12 | 930 | 1899 | 3765 | 1930 |  |  |  |  |  |  | r, 1916 | Shaw, Albert James  | Nil  | Shaw, James  | 12 George St., Lindsay, Ont-  | Canada  | Toronto. |
+| 12 | 930 | 1928 | 3767 | 1958 |  |  |  |  |  |  | I, 1916 | Shaw, Thomas Churchill  | Can. Mil... | Shaw, Mrs. Florence  | 4 Alpha Ave., Toronto, Ont  | England  | Toronto. |
+| 12 | 930 | 1952 | 3765 | 1987 |  |  |  |  |  |  | I, 1916 | Sheridan, Edward John  | C.A.S.C... | Sheridan, Mrs. Bertha  | 915 Bathurst St., Toronto, Ont .'  | Canada  | Toronto. |
+| 12 | 931 | 1986 | 3765 | 2016 |  |  |  |  |  |  | I, 1916 | Sherriffs, Daniel  | Nil  | Sherriffs, Mrs. Jane  | 845 Broadview Ave., Toronto, Ont  | Scotland  | Toronto. |
+| 12 | 930 | 2014 | 3765 | 2044 |  |  |  |  |  |  | 1916 | Shewan, Peter  | Nil  | Shewan, Mrs. Elizabeth  | 100 Shaw St., Toronto, Ont  | Scotland  | Toronto. |
+| 12 | 930 | 2044 | 3765 | 2073 |  |  |  |  |  |  | >, 1916 | Shier, Herman  | Nil  | Shier, Mrs. Margaret Jane. | R.R. No. 1, Pefferlaw, Ont  | Canada  | Toronto. |
+| 12 | 930 | 2073 | 3766 | 2102 |  |  |  |  |  |  | I, 1917 | Shimkoff, Nikifor  | Nil  | Shimkoff, Mrs. Malinda... | P.O. Kaskorum, Podolski, Gub, Russia  | Russia  | Toronto. |
+| 12 | 930 | 2101 | 3765 | 2131 |  |  |  |  |  |  | t, 1916 | Sillito, Frederick Thomas  | Nil  | Sillito, Richard  | 16 Vicaridge Rd., Stoke-on-Trent, Staffs, Eng  | England  | Toronto. |
+| 12 | 930 | 2131 | 3766 | 2161 |  |  |  |  |  |  | I, 1916 | Simons, Clifford John  | Nil  | Simons, Mrs. Nellie  | 42 Empire Ave., Toronto, Ont  | Channel Islands | Toronto. |
+| 12 | 930 | 2160 | 3765 | 2191 |  |  |  |  |  |  | ', 1916 | Simpson, Charles Edward  | Nil  | Simpson, Mrs. Alice  | 498 Park St., Peterboro, Ont  | Canada  | Toronto. |
+| 13 | 657 | 370 | 3836 | 404 | 249681 | Private.. | Skelton, William Robert  | NU  | Skelton, Mrs. Emily Mary  | Parry Sound, Ont  | England  | Toronto   | May | 29, 1916 |
+| 13 | 657 | 398 | 3837 | 433 | 250100 | Private.. | Skidmore, Robert Frederick. |  | Skidmore, Mrs. Matilda Parker.. | 73 Hamilton St., Toronto, Ont  | England  | Toronto  | April | 7, 1917 |
+| 13 | 657 | 427 | 3837 | 463 | 249904 | Private.. | Skinner, George Glenn  | Nil  |  | 193 Ashdale Ave., Toronto, Ont  | Canada  | Toronto  | Sept. | 11. 1916 |
+| 13 | 658 | 457 | 3837 | 492 | 249427 | Private.. | Slater, William  | Nil  |  | 18 Alice St., Toronto, Ont  | Canada  | Toronto  | April | 19, 1916 |
+| 13 | 657 | 487 | 3837 | 521 | 249621 | Private.. | Sloane, Thomas John  | Nil  |  | 19 Galt Ave., Toronto, Ont  | Ireland  | Toronto  | May | 17. 1916 |
+| 13 | 657 | 515 | 3838 | 550 | 250129 | Private.. | Smith, Adam Roy  | Nil  |  | R.R. No. 3, Moorefield, Ont   | Canada  | Toronto  | April | 23, 1917 |
+| 13 | 656 | 545 | 3838 | 579 | 250076 | Private.. | Smith, Francis Andrew  | Nil  |  | 1 Sumach St., Toronto, Ont   | Canada.  | Toronto  | Mar. | 12, 1917 |
+| 13 | 656 | 573 | 3838 | 608 | 249816 | Private.. | Smith, Frank Joseph....  | Nil  |  | 244 George St., Toronto, Out  | Canada  | Toronto  | July | 5, 1916 |
+| 13 | 656 | 602 | 3838 | 637 | 249347 | Private.. | Smith, Harry Charles  | Nil  |  | 8 Hiawatha Rd., Toronto, Ont  | England  | Toronto  | April | 11,1916 |
+| 13 | 656 | 632 | 3838 | 667 | 249613 | Private.. | Smith, James Brownlee  | Nil  |  | 17 Soho St., Toronto, Ont  | Scotland  | Toronto...;  | May | 17, 1916 |
+| 13 | 643 | 660 | 3839 | 695 | 1099282 | Private.. | Smith, Willard  | Nil  |  | 6 St. Paul St., St. Catharines, Ont.    | Canada  | St. Catharines.. | Jan. | 30, 1917 |
+| 13 | 655 | 689 | 3839 | 724 | 249361 | Private.. | Smith, William  | Nil  |  | 517 Jones Ave., Toronto, Ont .:  | Ireland  | Toronto  | April | 12, 1916 |
+| 13 | 655 | 717 | 3839 | 754 | 249902 | Private.. | Smith, William George  | Nil  |  | 43 Copperfield Rd., Mile End, London, Eng  | England  | Tdronto  | Sept. | 8, 1916 |
+| 13 | 655 | 747 | 3839 | 782 | 249645 | Private.. | Smith, William Robert E  | Nil  |  | 421 St. Clarens Ave., Toronto, Ont  | England  | Toronto  | May | 22, 1916 |
+| 13 | 655 | 776 | 3840 | 811 | 249504 | Private.. | Smithson, James Oliver  |  |  | 27 Highfield Rd., Toronto, Ont  | Canada  | Toronto  | April | 30, 1916 |
+| 13 | 656 | 805 | 3840 | 842 | 249868 | Corporal. | Smollet, Charles Broddie B... |  |  | 5 Tamico Ave., Toronto, Ont.  | Scotland  | Toronto  | Aug. | 14, 1916 |
+| 13 | 654 | 834 | 3839 | 870 | 249747 | Private.. | Sorensen, Ingvald  | Nil  |  | Rorvik, Namdalen, Norway....   | Norway  | Toronto  | June | 12. 1916 |
+| 13 | 654 | 863 | 3839 | 899 | 249116 | Private.. | Speyer, Charles Harry  |  |  | 205 Queen St. E., Toronto, Ont  | Canada  | Toronto  | Mar. | 1, 1916 |
+| 13 | 654 | 892 | 3839 | 928 | 249561 | Private.. | Sprackling, Charles Henry  |  |  | 16 Fair St., Brockport, N.Y., U.S.A  | Channel Islands | Toronto  | May | 8, 1916 |
+| 13 | 654 | 921 | 3839 | 956 | 249389 | Private.. | Sproule, Ernest Victor  | Nil  |  | 23 Roxborough St. W., Toronto, Ont  | Canada  | Toronto  | April | 15, 1916 |
+| 13 | 653 | 949 | 3840 | 985 | 249358 | Private.. | Stalker, Malcolm Alexander... | Nil  |  | R.R. No. 1, Burketon, Ont  | Canada  | Toronto  | April | 12, 1916 |
+| 13 | 653 | 979 | 3840 | 1015 | 249084 | Private.. | Stamcnovich, Dragutin  | Nil  |  | 437 King St. E., Toronto, Ont  | Servia  | Toronto  | Mar. | 14, 1916 |
+| 13 | 653 | 1007 | 3840 | 1044 | 249062 | Sergeant. | Stanich, James  |  |  | 437 King St. E., Toronto, Ont  | Servia  | Toronto  | Mar. | 8, 1916 |
+| 13 | 654 | 1036 | 3840 | 1072 | 249932 | Private.. | Stanley, Thomas Robert  |  |  | 19 Langley Ave., Toronto, Ont  | Canada  | Camp Borden.. | Oct. | 11, 1916 |
+| 13 | 654 | 1065 | 3840 | 1100 | 250143 | Private.. | Starlite, John  | Nil  |  | Hingham, Wis., U.S.A  | U.S.A  | Toronto  | April | 25, 1917 |
+| 13 | 654 | 1094 | 3840 | 1131 | 249101 | Corporal. | Steele, Henry Alexander  | Nil  |  | 1061 Dovercourt Rd., Toronto, Ont  | Canada  | Toronto  | Mar. | 15, 1916 |
+| 13 | 3154 | 1122 | 3840 | 1149 |  |  |  |  |  |  | Canada  | Toronto  | April | 29, 1916 |
+| 13 | 653 | 1129 | 3108 | 1159 | 249491 | Private.. | Stephens, William Lewis  |  |  | Aurora, Ont  |
+| 13 | 653 | 1151 | 3840 | 1188 | 249634 | Private.. | Stephenson, James Brown  | Nil  |  | 263 Sherbourne St., Toronto, Ont  | England  | Toronto  | May | 19, 1916 |
+| 13 | 653 | 1180 | 3841 | 1218 | 249512 | Corporal. | Stevens, Charles John  |  |  | 137 Balsam Ave., Toronto, Ont  | England  | Toronto  | May | 2, 1916 |
+| 13 | 654 | 1209 | 3841 | 1244 | 249057 | Private.. | Stevenson, Arthur Samuel  | Nil  |  | 283 Boston Ave., Toronto, Ont  | England  | Toronto  | Mar. | 7, 1916 |
+| 13 | 653 | 1237 | 3841 | 1275 | 249231 | Private.. | Stewart, Robert  |  |  | c|o S. C. Carss, Orillia, Ont  | Ireland  | Toronto  | April | 1, 1916 |
+| 13 | 653 | 1266 | 3841 | 1303 | 250064 | Private.. | Stone, Charlie  | Nil  |  | 1 Paterson PI., Toronto, Ont  | U.S.A  | Toronto  | Feb. | 15. 1917 |
+| 13 | 653 | 1295 | 3842 | 1331 | 250141 | Private.. | Stout, John Pierce  |  |  | 105 Tyndall Ave., Toronto, Ont  | Canada  | Toronto  | April | 24, 1917 |
+| 13 | 654 | 1324 | 3842 | 1360 | 769047 | Private.. | Stuart, Charles Edward  | Nil  |  | c|o Gordon Stuart, 181 Bleecker St., Toronto, Ont.... | Scotland  | Toronto  | Dec. | 17, 1915 |
+| 13 | 653 | 1352 | 3842 | 1389 | 249205 | Private.. | Sutton, Frederick Edmond — |  |  | 15 Clinton St., Toronto, Ont  | Canada  | Toronto  | Feb. | 8, 1916 |
+| 13 | 654 | 1381 | 3843 | 1417 | 678691 | Private.. | Sutton, Frederick William  | Nil  |  | 23 Kingsley Ave., West Toronto, Ont  | England  | Toronto  | Feb. | 12, 1916 |
+| 13 | 653 | 1410 | 3843 | 1448 | 249520 | Corporal. | Swan, John  |  |  | 39 Walton St., Belfast, Ire  | Ireland  | Toronto  | May | 2, 1916 |
+| 13 | 653 | 1438 | 3843 | 1476 | 250102 | Private.. | Sweeting, Fred  | Nil  |  | 131 Market St., Hamilton, Ont  | England.:  | Toronto  | April | 10, 1917 |
+| 13 | 653 | 1468 | 3843 | 1505 | 249011 | Private.. | Symonds, Robert  | Nil  |  | 215 High St., Hounslow, M’sex, Eng  | England  | Toronto  | Feb. | 26, 1916 |
+| 13 | 653 | 1500 | 3143 | 1533 | 250132 | Private.. | Tahil, John Cemenof  | Nil  |  | Munskoy, Hyberni, Sluchkako, Yizza, Pohoskaho, Ste |
+| 13 | 2376 | 1524 | 3843 | 1560 |  |  |  |  |  | Cami, Russia  | Russia  | Toronto  | April | 23, 1917 |
+| 13 | 653 | 1553 | 3843 | 1591 | 219458 | Private  | Talbot, Frederick  | Nil  |  | 58 Priscilla Ave., West Toronto, Ont  | England  | Toronto  | April | 25, 1916 |
+| 13 | 653 | 1582 | 3844 | 1620 | 250114 | Private  | Tanner, Ezekiel  | Nil  |  | West Bromwich, Staffs, Eng  | England  | Toronto  | April | 13, 1917 |
+| 13 | 654 | 1612 | 3844 | 1649 | 250089 | Private  | Tapp, Reginald Cyril  | Nil  |  | 20 Bolton Ave., Toronto, Ont  | England  | Toronto  | Mar. | 23, 1917 |
+| 13 | 653 | 1639 | 3844 | 1679 | 249304 | Private  | Taylor, Albert Edward  | Nil  |  | 42 Boswell Ave., Toronto, Ont  | England  | Toronto  | April | 8, 1916 |
+| 13 | 655 | 1669 | 3844 | 1707 | 249635 | Private  | Telfer, Ernest Hall  |  | Telfer, Mrs. Margaret Elizabeth.. | 128 Glenholme Ave., Toronto, Ont  | Canada  | Toronto  | May | 20, 1916 |
+| 13 | 655 | 1697 | 3844 | 1735 | 250146 | Private  | Temoshuk, Evan   | Nil  |  | Astroe P.O. Walonski, Gub, Russia  | Russia  | Toronto  | April | 25, 1917 |
+| 13 | 654 | 1727 | 3845 | 1765 | 249082 | Private  | Templeton, William Hollywood. |  |  | 8 Baltic Ave., Belfast, Ire  | Ireland  | Toronto  | Mar. | 14, 1916 |
+| 13 | 655 | 1756 | 3845 | 1793 | 249157 | Private  | Theobald, Dan  | Nil  |  | Barnham, Thetford, Norfolk, Eng  | England  | Toronto  | Mar. | 22, 1916 |
+| 13 | 655 | 1783 | 3845 | 1823 | 250113 | Private  | Thompson, David Archibald— | Nil  |  | Athens, Ont  | Scotland  | Toronto  | April | 13, 1917 |
+| 13 | 655 | 1812 | 3845 | 1851 | 250120 | Private  | Thomson, Arthur Smith  | Nil  | Thomson, Christian  | P.O. Box 641, Angola, Ind., U.S.A  | U.S.A  | Toronto  | April | 17, 1917 |
+| 13 | 656 | 1842 | 3846 | 1881 | 249596 | Sergeant  | Thomson, James Currie  |  |  | Teeswater, Ont  | Canada  | Toronto  | May | 15, 1916 |
+| 13 | 656 | 1869 | 3846 | 1909 | 249331 | Private  | Thomson, John Ingles  | Nil  |  | 9 Ashby PI., King St. E., Toronto, Ont  | Scotland  | Toronto  | April | 10, 1916 |
+| 13 | 655 | 1899 | 3846 | 1938 | 249603 | Private  | Tinker, Arthur  | Nil  |  | 21 Morley Ave., Toronto, Ont  | England  | Toronto  | May | 16, 1916 |
+| 13 | 656 | 1927 | 3846 | 1967 | 250128 | Private  | Tobin, Patrick  | Nil  |  | Ship Covo, Nfld  | Newfoundland. | Toronto  | April | 21, 1917 |
+| 13 | 656 | 1956 | 3846 | 1996 | 250123 | Private  | Todd, Clarence Harvey  | Nil......  | Todd, Mrs. Agnes Amelia :.. | 13 Emmerson Ave., Toronto, Ont  | Canada  | Toronto  | April | 17, 1917 |
+| 13 | 656 | 1985 | 3847 | 2025 | 250090 | Private  | Todd, William  | Territorials  | Todd, Samuel  | 18 Parrin Lane, Eccles, Manchester, Eng  | England  | Toronto  | Mar. | 24, 1917 |
+| 13 | 656 | 2014 | 3848 | 2054 | 249840 | Private  | Tompkins, James Ray.   | Nil  |  | Kemptville, Ont  | Canada  | Toronto  | July | 22, 1916 |
+| 13 | 657 | 2042 | 3849 | 2083 | 249375 | Private  | Townshend, Walter Dennis  | Nil  | Townshend, Mrs. Ilosina Harriet | 5 Bellwoods Ave., Toronto, Ont  | England  | Toronto  | April | 13, 1916 |
+| 13 | 1520 | 2071 | 3849 | 2106 |  |  |  | Nil  |  | 986 8th St. E., Owen Sound, Ont  | Canada  | Owen Sound. | Dec. | 6, 1915 |
+| 13 | 658 | 2084 | 1475 | 2112 | 838199 | Private  | Trotter, Clarence  |
+| 13 | 1520 | 2100 | 3849 | 2134 |  |  |  | Nil  |  | 68 Ivy Ave., Toronto, Ont  | England  | Toronto  | Mar. | 27, 1916 |
+| 13 | 658 | 2112 | 1476 | 2141 | 249193 | Private  | Trunks, George  |
+| 13 | 658 | 2128 | 3850 | 2170 | 201287 | Private  | Turley, Chester George  | Nil  |  | 155 Emmerson Ave., Toronto, Ont  | Canada  | Toronto  | Oct. | 20, 1915 |
+| 14 | 563 | 570 | 3245 | 607 | .§55 |  | Former Corps. |  |  | Country of |
+| 14 | 548 | 716 | 3741 | 749 | 249136 | Private. | Turner, James Alfred  | Nil  | Verrall, Miss Nellie   | 26 Ashbumham Rd., Toronto, Ont  | Canada... | Toronto  | Mar. | 20, 1916 |
+| 14 | 548 | 745 | 3740 | 778 | 250053 | Private. | Turner, William  | Nil  | Turner, Mrs. Susan  | R.R. No. 1, Weston, Ont  | Canada... | Toronto  | Jan. | 29, 1917 |
+| 14 | 548 | 774 | 3741 | 807 | 249133 | Corporal | Twite hell, George Arthur  | Can. Mil. and S.A.. | Twitchell, Mrs. Laura M  | 9 Borden St., Toronto, Ont  | Canada... | Toronto  | Mar. | 20, 1916 |
+| 14 | 548 | 803 | 3741 | 836 | 249359 | Private., | Tyndale, John Franklin  | Nil  | Tyndale, Mrs. Irene  | 1 Curzon St., Toronto, Ont  | Canada... | Toronto  | April | 12, 1916 |
+| 14 | 549 | 828 | 3741 | 865 | 229026 | C.S.M... | Tyner, James Frederick  | 2nd Regt  | Tyner, Laura Clark  | 202 Grenadier Rd., Toronto, Ont  | Canada... | Toronto  | Mar. | 2, 1916 |
+| 14 | 548 | 861 | 3742 | 894 | 249068 | Private., | Vanluven, Ralph  | Nil  | Vanluven, Chester  | 182 Sackville St., Toronto, Ont  | Canada... | Toronto  | Mar. | 10, 1916 |
+| 14 | 548 | 886 | 3742 | 922 | 249813 | Private.. | Veroola, Nicholas  | Nil  | Vercola, Mrs. Annie  | Podelskoi, Guebernia, Russia  | Russia  | Toronto  | July | 4, 1916 |
+| 14 | 548 | 914 | 3742 | 952 | 249849 | Private.. | Waldron, Frederick Ryerson  | Nil  | Waldron, Mrs. Ida Elizabeth. | 101 Colbome St., Brantford, Ont  | Canada... | Toronto  | Aug. | 2, 1916 |
+| 14 | 548 | 948 | 3742 | 981 | 249187 | Corporal | Wallace, Gordon Vincent  | Nil  | Wallace, Alexander  | 25 Greenwood Ave., Toronto, Ont  | Ireland... | Toronto  | Mar. | 25, 1916 |
+| 14 | 548 | 971 | 3742 | 1009 | 249327 | Private.. | Wallace, Hugh Wilson  | Nil  | Wallace, Elizabeth  | 94 Laughton Ave., Toronto, Ont  | Scotland. | Toronto  | April | 10, 1916 |
+| 14 | 547 | 1005 | 3741 | 1038 | 250063 | Private.. | Waller, Earl  | 35th Regt  | Waller, Mrs. Katherine  | Bayfield St., Barrie, Ont   | Canada... | Toronto  | Feb. | 12, 1917 |
+| 14 | 548 | 1034 | 3742 | 1067 | 249376 | Private.. | Walmsly, William John  | Nil  | Walmsly, Mrs. Sarah  | Kesh, Co. Fermanagh, Ire  | Ireland... | Toronto  | April | 13, 1916 |
+| 14 | 548 | 1062 | 3741 | 1096 | 250052 | Private.. | Walroth, Eber Campbell  | Nil  | Walroth, Mrs. Margaret  | Sharbot Lake, Ont  | Canada.. 1 | Toronto  | Jan. | 24, 1917 |
+| 14 | 548 | 1091 | 3742 | 1125 | 249151 | Corporal | Walsh, Walter  | 48th Regt  | Walsh, Mrs. Julia  | 1279 Queen St. E., Toronto, Ont  | Ireland... | Toronto  | Mar. | 22, 1916 |
+| 14 | 549 | 1119 | 3742 | 1155 | 775424 | Sergeant | Walton, Frank  | Nil ,  | Walton, Mrs. Agnes  | 18 Hawardson Ave., Liscard, Cheshire, Eng. | England.. | Toronto  | Dec. | 17, 1915 |
+| 14 | 548 | 1148 | 3742 | 1182 | 249810 | Private.. | Walton, John Harry  | Nil    | Walton, Mrs. Annie  | 77 Hastings Ave., Toronto, Ont  | England.. | Toronto  | July | 3, 1916 |
+| 14 | 548 | 1175 | 3743 | 1211 | 249928 | Private.. | Ware, Ernest Edgar  | Nil  | Ware, Mrs. Annie  | 258 Parliament St., Toronto, Ont  | Canada... | Camp Borden.. | Oct. | 14, 1916 |
+| 14 | 548 | 1206 | 3743 | 1239 | 249805 | Private., | Watson, Justine...  | Nil  | Watson, Mrs. Emma   | 91 King St. E., Toronto, Ont  | England.. | Toronto  | June | 30, 1916 |
+| 14 | 548 | 1234 | 3744 | 1269 | 249096 | Sergeant, | Watt, Algernon Liddon  | C.O.T.C  | Watt, Ina  | 367 Lansdowne Ave., Toronto, Ont  | Canada... | Toronto  | Mar. | 15, 1916 |
+| 14 | 548 | 1263 | 3744 | 1297 | 249535 | Private.. | Watterson, John  | Nil  | Watterson, Mrs. Margaret  | 426 Westmoreland Ave., Toronto, Ont  | Ireland... | Toronto   | May | 4, 1916 |
+| 14 | 547 | 1293 | 3745 | 1327 | 249910 | Private.. | Weaver, Walter  | Nil  | Weaver, Mrs. Margaret  | MacDonald Ave., Mimico, Ont  | Scotland. | Toronto   | Sept. | 19, 1916 |
+| 14 | 550 | 1327 | 1394 | 1356 | 135045 | Sergeant. | Webster, Frank Evans  |
+| 14 | 547 | 1350 | 3746 | 1384 | 249221 | Private.. | Webster, Reginald William  | Nil  | Webster, Mrs. Amelia  | 198 Grenadier Rd., Toronto, Ont  | Canada  | Toronto  | Mar. | 30, 1916 |
+| 14 | 548 | 1375 | 3745 | 1413 | 249795 | Corporal | Weeks, John Edward  | NU  | Weeks, Esther  | 2 Gorst St., Gillingham, Kent, Eng  | England  | Toronto  | June | 28, 1916 |
+| 14 | 547 | 1405 | 3746 | 1442 | 249510 | Private.. | Weir, Edward O’Reilly.  | Nil  | Weir, Mrs. Rebecca  | 537 Markham St., Toronto, Ont  | Canada  | Toronto  | May | 1,1916 |
+| 14 | 547 | 1437 | 3746 | 1471 | 249163 | Corporal | Wellord, Arthur  | Nil  | Wellord, Mrs. Mary Ann  | Uxbridge, Ont  | England  | Toronto  | Mar. | 22, 1916 |
+| 14 | 546 | 1466 | 3746 | 1500 | 250038 | Private.. | Wenzel, Sergey  | NU  | Wenzel, Mrs. Willelmine  | 15 Luther St., St. Reval, Russia  | Russia  | Toronto  | Jan. | 13, 1917 |
+| 14 | 546 | 1495 | 3746 | 1528 | 249791 | Private.. | Wesna, William  | Nil  | Wesna, Mrs. Zenki  | Podeski, Russia  | Russia  | Toronto  | June | 26, 1916 |
+| 14 | 546 | 1523 | 3746 | 1557 | 228100 | Private.. | West, George Frederick  | NU  | West, Mrs. Emma  | 89 Lappin Ave., Toronto, Ont  | England  | Toronto  | Feb. | 22, 1916 |
+| 14 | 546 | 1552 | 3747 | 1585 | 249239 | Private.. | West, Wilmot Washington  | NU  | West, Mrs. Mary J  | Holland Landing, Ont  | Canada^  | Toronto  | April | 1, 1916 |
+| 14 | 546 | 1577 | 3747 | 1614 | 249860 | Private.. | Whalen, Peter  | Can. MU. and S.A.. | Whalen, Mrs. Mary  | 572 Visitation St., Montreal, P.Q  | Canada  | Camp Borden. | Aug. | 8, 1916 |
+| 14 | 547 | 1610 | 3747 | 1643 | 853310 | Private.. | Wheeler, Charles  | NU  | Wheeler, Charles  | Lindsay, Ont  | Canada  | Bradford  | May | 4. 1916 |
+| 14 | 547 | 1633 | 3747 | 1672 | 249414 | Corporal | Whelan, John  | 110th Regt  | Whelan, Mrs. Nellie  | 80 Withrow Ave., Toronto, Ont...  | England  | Toronto  | April | 18, 1916 |
+| 14 | 547 | 1667 | 3747 | 1700 | 249746 | Private.. | White, Frank  | Nil  | Cameron, Miss C. M  | 232 Rathborne Rd., Old Swan, Liverpool, Eng. | England  | Toronto  | June | 12, 1916 |
+| 14 | 547 | 1696 | 3747 | 1730 | 249485 | Private.. | White, George James  | NU  | White, Mrs. Eliza  | 77 Kingsmount Park Rd., Toronto, Ont  | England  | Toronto  | April | 28, 1916 |
+| 14 | 547 | 1726 | 3747 | 1758 | 249176 | Private.. | White, John Joseph  | Nil  | White, Mrs. Bridget Ann  | 12 Regent St., Toronto, Ont  | Newfoundland. | Toronto  | Mar. | 24, 1916 |
+| 14 | 547 | 1755 | 3747 | 1786 | 249094 | Private.. | White, Walter  | NU  | White, Mrs. Charlotte  | 102 Helena Ave., Toronto, Ont  | England  | Toronto  | Mar. | 15, 1916 |
+| 14 | 547 | 1783 | 3748 | 1814 | 249362 | Private.. | White, William Wallace  | C.F.A  | White, Mrs. Gertrude  | 15 Macaulay Ave., Toronto, Ont  | Canada  | Toronto  | April | 12, 1916 |
+| 14 | 547 | 1808 | 3748 | 1845 | 249657 | Corporal | Whitehead, William Gladstone  | NU  | Whitehead, Harry  | 667 Gilmour St., Ottawa, Ont  | England  | Toronto  | May | 23, 1916 |
+| 14 | 547 | 1841 | 3748 | 1878 | 250028 | Private.. | Whitla, William  | NU  | Whitla, Mrs. Mapr  | 40 Haddington St., Galt, Ont  | Ireland  | Toronto  | Jan. | 8, 1917 |
+| 14 | 547 | 1870 | 3748 | 1902 | 550186 | Private.. | Whitney, Earl  | NU  | Whitney, Mrs. LUlian  | 14a B.lantyre Ave., Toronto, Ont  | Canada  | Toronto  | April | 20, 1916 |
+| 14 | 547 | 1896 | 3749 | 1931 | 249500 | Sergeant. | Whittam, Walter  | Imp. Forces  | Whittam, Mrs. Mary  | 27 Thorston St., Burnley, Lancs., Eng  | England  | Toronto  | May | 1, 1916 |
+| 14 | 548 | 1928 | 3748 | 1960 | 490867 | Private.. | Wickham, Harry Ray  | 21st Regt  | Wickham, Frederick Twist... | 83 Church Ave., Windsor, Ont  | Canada  | Toronto  | Sept. | 8, 1916 |
+| 14 | 548 | 1957 | 3749 | 1988 | 249632 | Private. | Wilson, Samuel Edwin  | G.G.aG  | Wilson, Mrs. Ada Mabel  | 136 Woolfrey Ave., Toronto, Ont  | Canada  | Toronto  | May | 19, 1916 |
+| 14 | 548 | 1985 | 3749 | 2017 | 249325 | Private.. | Wilson, Walter  | 10th Regt  | Wilson, Mrs. Josephine  | 57 Niagara St., Toronto, Ont  | Canada  | Toronto  | April | 10, 1916 |
+| 14 | 549 | 2014 | 3749 | 2047 | 135245 | Sergeant. | Wiltshire, Charles Edward  | Nil  | Wiltshire, Mrs. K.   | 15 Howard St., Toronto, Ont  | England  | Toronto  | July | 28, 1915 |
+| 14 | 547 | 2043 | 3749 | 2075 | 250122 | Private.. | Wood, Harold Roy  | Nil  | Wood, Mrs. Mellissa Alberta. | 22 Pauline Ave., Toronto, Ont  | Canada  | Toronto  | April | 17, 1917 |
+| 14 | 546 | 2073 | 3750 | 2103 | 238005 | Private.. | Wood, William Olive  | NU  | Wood, Mrs. Martha  | 116 Portland St., Toronto, Ont  | Canada  | Toronto  | June | 19, 1916 |
+| 14 | 545 | 2102 | 3750 | 2133 | 249622 | Private.. | Woodcock, Wesle; | NU  | Woodcock, Mrs. Alice  | 437 St. Johns Rd., Toronto, Ont  | Canada  | Toronto  | May | 17, 1916 |
+| 14 | 544 | 2130 | 3751 | 2162 | 249288 | Private.. | Woods, Bertram Thomas | NU  | Woods, Mrs. Maria  | P.O. Box 140, Bradford, Ont  | Canada  | Toronto  | April | 7, 1916 |
+| 15 | 648 | 393 | 3838 | 432 | 249476 | Private. | Woods, Joseph  | NU  | Woods, Charles Edward.. | c|o Miss Inkpen, 46 St. Clair Gdns., Toronto, Ont | Canada. | Toronto | April | 27, 1916 |
+| 15 | 648 | 423 | 3838 | 461 | 249625 | Private. | Woods, Michael George | NU  | Batters, Letitia  | Bondhead, Ont  | Ireland. | Toronto | May | 17,1916 |
+| 15 | 648 | 452 | 3838 | 490 | 249248 | Private. | Worrow, John  | Nil  | Worrow, Daniel  | 5 Flamborough St., London, Eng  | England | Toronto | April | 3, 1916 |
+| 15 | 648 | 481 | 3839 | 519 | 249262 | Private. | Wright, Thomas  | Nil  | Wright, Mrs. Jane  | Galgorm Parks, Co. Antrim, Ire  | Ireland. | Toronto | AprU | 4,1916 |
+| 15 | 648 | 510 | 3839 | 548 | 249061 | Private. | Wright, William Edgar. | NU  | Wright, Mrs. Bertha  | 428 Rexton Rd., Toronto, Ont  | Canada. | Toronto | Mar. | 27, 1916 |
+| 15 | 647 | 539 | 3839 | 578 | 249767 | Private. | York, John Thomas.... | Imp. Forces | York, George  | Stafford St., Walsall, Staffs, Eng  | England | Toronto | June | 19, 1916 |
+| 15 | 647 | 568 | 3839 | 607 | 249055 | Sergeant | Young, Robert  | Territorials. | Young, Mrs. Alice Rosina | P.O. Box 206, Mount Forest, Ont  | England | Toronto | Mar. | 7, 1916 |
+| 15 | 647 | 597 | 3840 | 636 | 249131 | Private. | Young, Robert Buller.. | NU  | Young, Mrs. Caroline  | 73 Fuller Ave., Toronto, Ont  | Canada. | Toronto | Mar. | 20, 1916 |
+{% endraw %}

@@ -1,0 +1,446 @@
+---
+title: 243rd Battalion
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 243rd Battalion | Nominal Roll of Officers, Non-Commissioned | Officers and Men | 3m-9-17. | 593-2-29. | 27443—1 | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “Olympic.' | Date: June 2, 1917. |
+| 2 | 748 | 526 | 3220 | 556 |  |  | Former Corps. |  |  | Birth. |
+| 2 | 665 | 670 | 3750 | 702 | Major  | Smith, Gavin Graham  | 3th Bn. C.E.F  | Smith, Mrs. Mary H  | P.O. Bdx 396, Battleford, Sask  | Scotland.. | Valcartier  | Aug. | 30 | 1914 |
+| 2 | 666 | 699 | 3750 | 732 | Hon. Captain  | Agnew, Thomas David  | 52nd Regt. and S.A.. | Agnew, Mrs. Mabel Alberta  | 504 20th St. W., Prince Albert, Sask  | Canada... | Prince Albert... | Julv | 4, | 1916 |
+| 2 | 665 | 728 | 3750 | 761 | Captain  | Boucher, Francis Xavier  | C.A.M.C  | Boucher, Mrs. Ora  | 673 Summers St., Minneapolis , Minn., U.S.A. | U. S. A... | Regina  | May | 25, | 1917 |
+| 2 | 668 | 757 | 3749 | 789 | Captain  | Elliott, Percival Sinclair.... | 100th Regt  | Elliott, Mrs. Minerva L  | Watrous, Sask  | Canada... | Prince Albert... | Aug. | 15, | 1916 |
+| 2 | 666 | 786 | 3749 | 818 | Captain  | Simpson, Arthur Frederick. | 105th Regt  | Simpson, Mrs. Mary L  | 303 Ave. H., North Saskatchewan, Sask  | Canada... | Prince Albert... | Oct. | 18, | 1916 |
+| 2 | 666 | 815 | 3749 | 847 | Captain  | Traill, William McKay  | 52nd Regt. and S.A.. | Traill, Mrs. Frances Eleanor  | 303 19th St. W., Prince Albert, Sask..   | Canada... | Prince Albert.. . | June | 23, | 1916 |
+| 2 | 666 | 843 | 3749 | 876 | Captain  | Wilkinson, Alfred  | 52nd Regt  | Wilkinson, Mrs. Lena Beatrice  | 146 20th St. W., Prince Albert, Sask  | Canada... | Prince Albert... | June | 14, | 1916 |
+| 2 | 668 | 873 | 3749 | 904 | ^aptain  | Wilson, Edward Sexton..  | 16th Horse  | Wilson, Frances Maude R  | Drawer 370, Yorkton, Sask  | Canada... | Prince Albert... | Sept. | 11, | 1916 |
+| 2 | 666 | 901 | 3748 | 934 | Lieutenant  | Cocks, Archibald  | 22nd Horse  | Cocks, George William  | 1015 7th Ave. N., Saskatoon, Sask  | England.. | Prince Albert... | July | 25, | 1916 |
+| 2 | 666 | 932 | 2248 | 960 | Lieutenant  | Harradence, Percy  | 29th Horse  | Harradence, Mrs. Charlotte Mary |
+| 2 | 1813 | 959 | 3747 | 991 |  |  |  | H  | 334 Ninth St., E. Prince Rupert, Sask. | England. | Prince Albert... | Mar. | 16, | 1916 |
+| 2 | 668 | 988 | 3747 | 1019 | Lieutenant  | Lowes, John Wasdale  | 105th Regt. | Lowes, Oscar E  | Gilroy, Sask  | Canada.. | Prince Albert... | Sept. | 18, | 1916 |
+| 2 | 666 | 1017 | 2246 | 1047 | Lieutenant  | Mussel white, Frederick William. | 52nd Regt.. | Musselwhite, Mrs. Margaret Eliza¬ |
+| 2 | 1813 | 1044 | 3747 | 1076 |  |  |  | beth  | 625, 13th Ave. W., Prince Albert, Sask  | England  | Prince Albert... | Jan. | 1, | 1916 |
+| 2 | 667 | 1074 | 3747 | 1105 | Lieutenant  | Page, Henry Charles   | 22nd Horse  | Page, Mrs. Nelly  | 1561 Harold St., North Battleford, Sask  | England  | Prince Albert... | Aug. | 10, | 1916 |
+| 2 | 666 | 1102 | 3746 | 1133 | Lieutenant  | Secret, Walter Edwin  | 60th Regt  | Secret, Mrs. Ruth  | Waldorf, Sask  | England  | Prince Albert... | Aug. | 1, | 1916 |
+| 2 | 666 | 1131 | 3746 | 1163 | Lieutenant  | Stewart, Bertrand Earl  | 106th Regt  | Stewart, Thomas Alexander  | 580 Ashbum St., Winnipeg, Man  | Canada  | Prince Albert... | Aug. | 3, | 1916 |
+| 2 | 666 | 1161 | 3745 | 1191 | Lieutenant  | Winters, Arthur Nicholas  | 105th Regt  | Winters, Mrs. Laura   | Witt Blk., Saskatoon, Sask  | Canada  | Prince Albert... | Dec. | 9, | 1916 |
+| 2 | 554 | 1190 | 3745 | 1220 | 1051557 | Private  | Aasen, Oscar T  | Nil  | Aasen, Torkrel  | Bagley, Sask  | U. S. A  | Melfort  | Dec. | 29, | 1916 |
+| 2 | 555 | 1219 | 3745 | 1249 | 1051388 | Private  | Abbott, George Ira  | 31st Regt  | Abbott, Samuel George  | Big River, Sask  | Canada  | Prince Albert... | Nov. | 4, | 1916 |
+| 2 | 555 | 1248 | 3745 | 1278 | 1051444 | Private  | Abbott, James Mernard  | Nil  | Abbott, Samuel George  | Big River, Sask  | Canada  | Prince Albert... | Nov. | 30, | 1916 |
+| 2 | 555 | 1277 | 3745 | 1306 | 1051059 | Act’g C.M.S  | Adamson, Edwin   | Can. Mil  | Adamson, Mrs. Agnes  | 1851 Richard St., North Battleford, Sask... | England  | North Battlef’d | June | 24, | 1916 |
+| 2 | 555 | 1306 | 3745 | 1336 | 1051026 | C. M. S  | Agnew, George Patrick  | 90th Regt  | Agnew, Mrs. Annie  | 512, 12th St. W.f Prince Albert, Sask  | Canada  | Prince Albert... | June | 20, | 1916 |
+| 2 | 555 | 1334 | 3745 | 1363 | 1051545 | Private  | Adams, Charles Robert  | Nil  | Adams, Charles  | Kinburn, Ont  | Wales  | Yorkton  | Dec. | 13, | 1916 |
+| 2 | 555 | 1363 | 3745 | 1393 | 1051208 | Lance-Corporal.. | .Allen, Bartlett John  | Nil  | Allen, George P  | Ithaca, Mich., U.S.A  | U. S. A  | Saskatoon  | Aug. | 26, | 1916 |
+| 2 | 555 | 1392 | 3745 | 1422 | 1051049 | Corporal  | Allen, John Gordon  | 22nd Horse  | Allen, Mrs. Hilda  | 1171 Edward St., North Battleford, Sask... | Scotland  | North Battlef’d | June | 24, | 1916 |
+| 2 | 555 | 1420 | 3745 | 1450 | 1051134 | Private  | Allenby, John       | Nil  | Allenby, Samuel  | Redfield, Sask  | England  | Redfield  | July | 14, | 1916 |
+| 2 | 555 | 1449 | 3745 | 1479 | 1051563 | Private  | Amiot, Andre    | Nil  | Amiot, Constant  | Duck Lake, Sask.    | Canada  | Saskatoon  | Jan. | 8, | 1917 |
+| 2 | 556 | 1478 | 3745 | 1508 | 1051406 | Private  | Anderson, Carl Werner  | Nil  | Anderson, Mrs. Ernestine  | Boslau, Sweden    | Sweden  | Saskatoon  | Nov. | 6, | 1916 |
+| 2 | 556 | 1507 | 3745 | 1536 | 1051229 | Private  | Armstrong, Frank  | Nil  | Armstrong, Frank  | Crooked River, Sask  | Canada  | Prince Albert... | Sept. | 9, | 1916 |
+| 2 | 555 | 1536 | 3745 | 1565 | 1051183 | Private  | Armstrong, Howard Era.... ... | Nil  | Armstrong, Edward  | Perdue, Sask  | U. S. A  | Perdue  | Aug. | 24, | 1916 |
+| 2 | 555 | 1564 | 3745 | 1593 | 1051636 | Private  | Armstrong, James Winchester J. | Nil  | Cook, Roy M  | 233 Avenue “J”North, Saskatoon, Sask.. .. | Scotland  | Saskatoon  | Mar. | 23, | 1917 |
+| 2 | 555 | 1593 | 3746 | 1622 | 1051230 | Lance-Corporal... | Armstrong, Walter  | Nil  | Armstrong, Frank  | Crooked River, Sask  | Canada  | Prince Albert... | Sept. | 9, | 1916 |
+| 2 | 556 | 1622 | 3746 | 1651 | 1051104 | Private  | Badger, Harry  | Nil  | Badger, Wilfred Ernest  | St. Michael’s School, Duck Lake  | Canada  | Prince Albert... | July | 17, | 1916 |
+| 2 | 556 | 1651 | 3746 | 1680 | 1051558 | Private  | Bain, Thomas Alfred  | Nil '. | Bain, Robert  | North Prince Albert, Sask  | Ireland  | Prince Albert... | Jan. | 0, | 1917 |
+| 2 | 556 | 1680 | 3747 | 1709 | 1051614 | Private  | Baines, William  | Nil  | Baines, Robert   | Hartfield, Kent, Eng  | England  | Melfort  | Feb. | 27, | 1917 |
+| 2 | 556 | 1708 | 3747 | 1737 | 1051242 | Private  | Baird, John.   | Nil  | Wilson, Mrs. J  | 123 Campbell Ave., Toronto, Ont  | Scotland  | Perdue  | Sept. | 5, | 1916 |
+| 2 | 556 | 1737 | 3747 | 1768 | 1051114 | Private  | Baker, Frederick  | 11th Regt  | Baker, Willis  | c/o Cannon Rennard, Montreal, P.Q  | Newfoundland.. | Prince Albert... | Julv | 18, | 1916 |
+| 2 | 556 | 1766 | 3747 | 1795 | 1051451 | Private  | Baker, Herbert  | Nil  | Baker, Jack  | Perdue, Sask  | Canada  | Saskatoon  | Nov. | 26, | 1916 |
+| 2 | 556 | 1794 | 3747 | 1824 | 1051479 | Private  | Ball, Jacob Ivan   | Nil  | Baker, John  | Gen. Del., Vape May, N.Y., U.S.A  | U. S. A  | Grandora  | Nov. | 2, | 1916 |
+| 2 | 557 | 1823 | 3748 | 1852 | 1051655 | Private  | Ballantyne, William Douglas  | 29th Horse   | Ballantyne, Mrs. Emma  | Mistawasis, Sask   | Canada  | Prince Albert... | April | 16, | 1917 |
+| 2 | 556 | 1852 | 3748 | 1883 | 1051584 | Private  | Barber, John Drummond  | Nil  | Barber, Arthur  | Jedburgh, Sask  | Scotland  | Yorkton  | Jan. | 16, | 1917 |
+| 2 | 557 | 1881 | 3748 | 1911 | 1051144 | Private  | Barker, Percy  | Nil  | Barker, Mrs. Emma  | Dona von, Sask  | England  | Saskatoon  | Aug. | 8, | 1916 |
+| 2 | 557 | 1910 | 3748 | 1940 | 1051378 | Private  | Barrow, Reginald John  | Nil  | Barrow, Mrs. Sadie  | Yorkton, Sask  | England  | Yorkton  | Oct. | 26, | 1916 |
+| 2 | 557 | 1939 | 3748 | 1968 | 1051608 | Private  | Batty, John William  | Nil  | Batty, Mrs. Caroline May  | Blaine Lake, Sask  | England  | Prince Albert... | Feb. | 28, | 1917 |
+| 2 | 558 | 1968 | 3748 | 1997 | 1051604 | Private  | Baugh, Charles Rochard C  | Nil  | Baugh, N. W. C  | Kinbrae, Sask  | Canada  | Yorkton  | Feb. | 19, | 1917 |
+| 2 | 558 | 1996 | 3748 | 2027 | 1051640 | Private  | Bennett, Edagr Frank    | Nil  | Stevens, Helen  | East Brent, Somerset, Eng  | England  | Yorkton  | Mar. | 5, | 1917 |
+| 2 | 558 | 2025 | 3748 | 2055 | 1051477 | Private  | Berube, Adelard    | Nil  | Berube, Mrs. Victor  | Wakaw, Sask  | U. S. A  | Saskatoon  | Nov. | 25, | 1916 |
+| 2 | 559 | 2055 | 3748 | 2085 | 1069088 | Private  | Bie, Oscar  | Norwegian Army. | Bie, N  | 237 Columbia St., Brooklyn, N.Y., U.S.A.. | Norway  | Estevan  | Nov. | 7, | 1916 |
+| 2 | 559 | 2083 | 3749 | 2114 | 1051407 | Private  | Bigelow, Homer Edwin  | S. A  | Bigelow, Mrs. Ebenezer  | Kingsport, King’s Co., N.S  | Canada  | Saskatoon  | Nov. | 3, | 1916 |
+| 3 | 1508 | 360 | 3822 | 390 |  | Nil  |  | 41 Lonsdale St., Hull, Yorks., Eng  | Ireland  | Saskatoon  | Oct. 10, 1916 |
+| 3 | 1508 | 447 | 3821 | 480 |  | Nil  | Mur sit, Frank  |  |  |  | Sept. 28, 1916 |
+| 3 | 1508 | 476 | 3821 | 508 |  | Nil  | Black, William  |  |  |  | June 26, 1916 | Prince Albert... |
+| 3 | 1509 | 505 | 3821 | 538 |  | Nil  | Blakeney, Mrs. Mary  |  |  |  | Feb. £, 1917 | Prince Albert... | U. S. A  |
+| 3 | 1509 | 534 | 3821 | 567 |  | Nil  | Blakeney, S  |  |  |  | April 20, 1917 | Prince Albert... |
+| 3 | 1510 | 563 | 3820 | 595 |  | Nil  | Bobouske, Andrew  |  |  |  | April 1, 917a | Prince Albert... |
+| 3 | 635 | 593 | 3821 | 625 | 1051143 Private .. | Nil  | Bourne, Mrs. Francis  |  |  |  | Aug. 7, 1916 |
+| 3 | 1509 | 622 | 3822 | 654 |  | Nil  | Bourrassa, Mrs. Piechia  |  |  | North Battlef’d | July 31, 1916 |
+| 3 | 1510 | 651 | 3821 | 683 |  | Nil  | Bouskill, Albert  |  |  |  | Dec. 20, 1916 |
+| 3 | 635 | 679 | 3822 | 712 | 1051625 Private  | Nil  | Boyer, John  |  |  |  | Mar. 16, 1917 |
+| 3 | 636 | 708 | 3823 | 741 | 1051622 Private  | Nil  | Boyes, James  |  |  |  | Mar. 15, 1917 |
+| 3 | 1511 | 738 | 3823 | 770 |  | Nil  | Bradley, Mrs. Phyllis  |  |  |  | June 28, 1916 | Prince Albert... |
+| 3 | 1511 | 766 | 3823 | 798 |  | Nil  | Braham, James  |  |  |  | Sept. 12, 1916 | Prince Albert... |
+| 3 | 1511 | 796 | 3823 | 827 |  | Nil  | North, Mrs. Frank  |  |  |  | April 20, 1917 | Prince Albert... | U. S.A  |
+| 3 | 635 | 824 | 3823 | 856 | 888245 Private |  | Brew, Mrs. Ada  |  |  |  | Nov. 22, 1916 | Melfort  |
+| 3 | 637 | 853 | 3823 | 885 | 1051033 Private  | Nil  | Brewster, Bernard  |  |  |  | June 26, 1916 | Prince Albert... |
+| 3 | 1510 | 883 | 3823 | 914 |  | Can. Mil  | Brian, John  |  |  |  | Dec. 13, 1916 |
+| 3 | 1511 | 911 | 3820 | 943 |  | Nil ?... | Briesc, William  |  |  |  | Mar. 15, 1911 | Yorkton  |
+| 3 | 1509 | 940 | 3823 | 971 |  | Can. Mil  | Brown, Mrs. Mary Olive  |  |  |  | Dec. 14, 1916 | Yorkton  |
+| 3 | 638 | 970 | 3824 | 1001 | 1051596 Private  | Nil  | Brown, Mrs. Elizabeth  |  |  |  | Jan. 20, 1917 |
+| 3 | 638 | 998 | 3824 | 1029 | 1051076 Private   | Nil  | Brown, William  |  |  |  | July 6, 1916 | Prince Albert... |
+| 3 | 639 | 1027 | 3824 | 1058 | 1051264 Private .. | Nil  | Bruneau, Antony  |  |  |  | Sept. 15, 1916 | Yorkton  |
+| 3 | 638 | 1056 | 3821 | 1088 | 1051266 Lance-Corporal... | Nil  | Bryant, Mrs. Alexandrina  |  |  |  | Sept. 19, 1916 |
+| 3 | 1511 | 1084 | 3824 | 1116 |  | Nil  | Bryson, Mrs. Christina Shaw. |  |  |  | July 6, 1916 | North Battlef’d |
+| 3 | 638 | 1114 | 3824 | 1145 | 1051389 Private  | Nil  | Buck, Mrs. Fannie  |  |  |  | Nov. 4, 1916 | Prince Albert... | Canada  |
+| 3 | 638 | 1142 | 3824 | 1173 | 1051331 Private | Nil  | Buhko, Henrick  |  |  |  | Sept. 15, 1916 | North Battlef’d |
+| 3 | 1511 | 1172 | 3825 | 1202 |  | Nil  | Burman, Dr. C. C  |  |  |  | Aug. 25, 1916 | 12 Bondgate Without, Alnwick, Northumberland, Eng.. |
+| 3 | 639 | 1202 | 3129 | 1231 | 1051244 Lance-Corporal... | Nil  | Burns, Mrs. Elsie  | Middle Park Farm, Bridge of Cally, Balirgowrie, Perth |
+| 3 | 1512 | 1257 | 3825 | 1289 |  | Nil  | Burns, Mrs. George  |  |  |  | Dec. 4, 1916 | Yorkton  |
+| 3 | 639 | 1286 | 3826 | 1319 | 1051100 Acting C.Q.M.S.. |  | Burton, Mrs. Annie Ada  |  |  |  | July 13, 1916 | North Battlef’d |
+| 3 | 1512 | 1315 | 3826 | 1346 |  | Nil  | Butgens, Francois  |  |  |  | Mar. 22, 1916 | Davidson  |
+| 3 | 639 | 1343 | 3826 | 1375 | 1051328 Private | Nil  | Federach, Pete  |  |  |  | Oct. 17, 1916 |
+| 3 | 1512 | 1373 | 3826 | 1403 |  | Nil  | Cameron, John M  |  |  |  | Aug. 3, 1916 | Prince Albert... |
+| 3 | 1511 | 1400 | 3826 | 1432 |  | Nil  | Campbell, Mrs. W  |  |  |  | Mar. 20, 1917 | Duck Lake  |
+| 3 | 1837 | 1429 | 3826 | 1460 |  |  | Carlile, Mrs. Etta Jane  |  |  |  | June 26, 1916 | 1151 John St North Battleford, Sask  | Prince Albert... |
+| 3 | 1512 | 1459 | 3826 | 1489 |  | Nil  | Carpenter, Mrs. Ella Amelia... |  |  |  | Nov. 8, 1916 | Saskatoon  |
+| 3 | 1512 | 1488 | 3826 | 1518 |  | Nil  | Carr, G. H  |  |  |  | Nov. 11, 1916 | Prince Albert... |
+| 3 | 1512 | 1516 | 3826 | 1546 |  | Nil  | Carter, Thomas James  |  |  |  | Dec. 14, 1916 | Saskatoon  |
+| 3 | 1512 | 1545 | 3827 | 1575 |  | Nil  | ~^ave, Francis Charles  |  |  |  | Jan. 2, 1917 | U. S. A  |
+| 3 | 1512 | 1574 | 3826 | 1605 |  | Nil  | Cayford, Mrs. Alice  |  |  |  | Aug. 15, 1916 | Saskatoon  |
+| 3 | 1512 | 1602 | 3826 | 1633 |  | Nil  | Chapman, Charles  |  |  |  | July 8, 1916 | Prince Albert... |
+| 3 | 1840 | 1632 | 3827 | 1662 |  |  | Chapman, Mrs. Ellen  |  |  |  | June 26, 1916 | Prince Albert... | Cor. 16th St. and 17th Ave., W. Prince Albert, Sask  |
+| 3 | 1512 | 1661 | 3826 | 1690 |  | Nil  | Chatfield, Tom  |  |  |  | April 17, 1917 | North Battlef’d |
+| 3 | 641 | 1689 | 3826 | 1719 | 1051333 Private | Nil  | Chunn, Mrs. Sarah Jane  |  |  |  | Oct. 13, 1916 | North Battlef’d | U. S. A  |
+| 3 | 1513 | 1718 | 3827 | 1747 |  | Nil  | Clapson, A. E  |  |  |  | Oct. 9, 1916 | Prince Albert... |
+| 3 | 642 | 1747 | 3826 | 1777 | 1051523 Private | Nil  | Clark, Mrs. Flora  |  |  |  | Dec. 9, 1916 | 717 Ave “ E ” North, Saskatoon, Sask .. |
+| 3 | 1512 | 1776 | 3826 | 1806 |  | Nil  | Clarricoates, Thomas Sawyer. |  |  |  | Dec. 8, 1916 |
+| 3 | 642 | 1804 | 3827 | 1835 | 1051433 Private .. | Nil  | Summers, Mrs. Lilly  |  |  |  | Nov. 23, 1916 | U. S. A  |
+| 3 | 1513 | 1833 | 3827 | 1862 |  | Nil  | Close, Mrs. Annie  |  |  |  | Mar. 22, 1917 |
+| 3 | 644 | 1862 | 3827 | 1892 | 1051073 Private... | Nil  | Clunas, Mrs. Mary  |  |  |  | June 30, 1916 | North Battlef’d |
+| 3 | 1513 | 1891 | 3827 | 1922 |  | Nil  | Cock head, Mrs. George  |  |  |  | Oct. 6, 1916 | Prince Albert... | 34 Brunley St., Commercial Rd., Stepney, London, Eng. |
+| 3 | 1512 | 1921 | 3827 | 1951 |  | Nil  | Codling, Mrs. Emma  |  |  |  | Dec. 5, 1916 | Prince Albert... | 9 Scarfield Ave., Meersbrook, Sheffield, Yorks., Eng... |
+| 3 | 644 | 1949 | 3827 | 1978 | 1051383 Corporal  | C.A.M.C  | Coghlan, Mrs. Lulough  |  |  |  | Oct. 20, 1916 |
+| 3 | 643 | 1978 | 3827 | 2005 |  | Nil  | 1051164 Private... | Crawford, Mrs. Fannie  |  |  | Dec. 11, 1916 |
+| 3 | 1512 | 2006 | 3827 | 2035 |  | Nil  | Collier, Robert Petty  |  |  |  | Nov. 30, 1916 |
+| 3 | 644 | 2065 | 3827 | 2093 | 1051201 Lance-Corporal... | Nil  | Cox, William H  |  |  |  | Aug. 27, 1916 | U. S.A  |
+| 3 | 644 | 2093 | 3827 | 2121 | 1051204 Private  | Nil  | Crittall, James     *. |  |  |  | Aug. 27, 1916 |
+| 3 | 643 | 2122 | 3828 | 2152 | 1051482 Private  | Nil  | Croteau, John    |  |  |  | Dee. 4, 1916 | R. R. No. 2, Powassan, Ont  | Saskatoon  |
+| 4 | 745 | 578 | 3257 | 608 |  |  |  | Former Corps. |  |  | Country of |
+| 4 | 552 | 721 | 3750 | 753 | 1051217 | Private  | Crowe, Arthur  | Nil. | Crowe, Mrs. Liopne  | Lake Eliza, Alta  | U. S. A.-  | North Battlef’d | Sept. | 1916 |
+| 4 | 552 | 746 | 3750 | 784 | 1051049 | Private  | Cunnighajp, Kenneth Lloyd... | Nil  | Cunningham, Mrs. W. J  | Sprjngwater, Sask    | Canada  | Saskatoon  | April | 1917 |
+| 4 | 551 | 779 | 3750 | 810 | 1051637 | Private  | Daly, George.    | Nil  | Daly, Fred  | 227 Ave. “ I ” North, Saskatoon, Sask  | Canada  | Saskatoon  | Mar. | 1917 |
+| 4 | 564 | 806 | 3750 | 839 | 718433 | Private  | Daniels, Charles  | Can. Mil.. | Martel, Mrs. Emma  | South Battleford, Sask  | Canada  | Saskatoon  | Oct. | 1916 |
+| 4 | 551 | 837 | 3750 | 867 | 1051380 | Private  | Davidson, William Bone  | Nil  | Davidson, William  | Bright Sand, Sask  | Scotland  | Turtleford  | Oct. | 1916 |
+| 4 | 552 | 865 | 3750 | 898 | 1051289 | Private  | Davies, Gordon Bennett  | Nil  | Davies, David  | P. 0. Box No. 10, Unity, Sask   | Canada  | Saskatoon   | Dec. | 18 1916 |
+| 4 | 552 | 895 | 3751 | 926 | 1051616 | Private  | Davies, Joseph Orlando  | Nil  | Davies, David  | P. O. Box No. 10, Unity, Sask  | Canada  | Saskatoon  | Mar. | 1917 |
+| 4 | 552 | 920 | 3750 | 961 | 1051514 | Private  | Deane, William Francis  | Nil  | Deane, William James  | Gen. Del., Keppel, Sask  | Ireland  | Saskatoon  | Dec. | 1916 |
+| 4 | 552 | 952 | 3750 | 983 | 1051474 | Lance-Corporal... | Deeble, Herbert Jowett  | Nil  | Deeble, Herzert Fage  | Kinistipo, Sask  | England  | Prince Albert... | Dec. | 1916 |
+| 4 | 552 | 979 | 3750 | 1012 | 1051169 | Sergeant  | Dent, Charles Lionel  | Nil  | Sykes, Mrs. Wyien  | 9819 110th St., Edmonton, Alta  | Canada  | Saskatoon  | Aug. | 1916 |
+| 4 | 552 | 1006 | 3750 | 1040 | 1051316 | Private  | Devine, Michael Andrew  | Nil  | Devine  | Cobden, Ont  | Canada  | Saskatoon  | Oct. | 1916 |
+| 4 | 552 | 1039 | 3750 | 1070 | 1051118 | Lance Corporal... | Donald, Edward  | 29th Horse  | Donald, Mrs. Florence  | 435 7th St. E., Prince Albert, Sask  | Canada  | Prince Albert... | July | 1916 |
+| 4 | 551 | 1065 | 3750 | 1099 | 1051117 | Private  | Donald, Henry George  | 52nd Regiment... | Donald, Mrs. Flossie  | Cor. 5th Ave. <fc 7th St. E., Prince Albert, Sask  | Canada  | Prince Albert... | July | 1916 |
+| 4 | 551 | 1097 | 3749 | 1127 | 1051119 | Private  | Donald, Lorce  | Nil  | Donald, Mrs. Mary  | 514 8th St. E., Prince Albert, Sask  | Canada  | Prince Albert... | July | 1916 |
+| 4 | 551 | 1126 | 3750 | 1156 | 1051629 | Private  | Donaldson, John William  | Nil  | Donaldson, Bill  | Ulbster, Caithness, Scot ... | Scotland  | Prince Albert... | Mar. | 1917 |
+| 4 | 551 | 1155 | 3750 | 1184 | 1051231 | Private  | Dool, James Graham  | Nil  | Dool, Adam  | Trout Mills, Ont  | Canada  | Saskatoon  | Nov. | 1916 |
+| 4 | 551 | 1183 | 3749 | 1214 | 1051317 | Act. Corporal.... | Dowler, Milton  | Nil  | Evans, ^Louise  | Billing’s Bridge, Ont  | Canada  | Saskatoon  | Oct. | 1916 |
+| 4 | 551 | 1212 | 3750 | 1243 | 1051660 | Private  | Dowling, Lester  | 105th Regiment.. | Dowling, John Maria  | Pike Lake, Sask  | U.S.A  | Saskatoon  | Apr. | 1917 |
+| 4 | 551 | 1240 | 3749 | 1271 | 1051224 | Private  | Downing, Albert  | R.N.W.M.P  | Downing, Mrs. Maria  | Rozille, Sask  | England  | Prince Albert... | Sept. | 1916 |
+| 4 | 551 | 1270 | 3749 | 1300 | 1051647 | Private  | Doylsk, Aonte  | Nil  | Marno, Mrs. Mary  | Barry’s Bay, Ont  | Canada  | Saskatoon  | Apr. | 1917 |
+| 4 | 550 | 1299 | 3749 | 1329 | 1051200 | Private  | Drewery, John William  | Territorials  | Drewery, Mrs. A  | Melfort, Sask  | England  | Melfort  | Aug. | 1916 |
+| 4 | 550 | 1328 | 3749 | 1359 | 1051432 | Private  | Dunmall, Henry  | Nil  | Dunmall, Launcelot  | Longfield, Kent, Eng  | England  | Saskatoon...'... | Nov. | 1916 |
+| 4 | 550 | 1356 | 3749 | 1389 | 1051499 | Private  | Dunn, George Roy  | Nil  | Dunn, George Edward  | Willowbrook, Sask  | U.S.A  | Yorkton  | Nov. | 1916 |
+| 4 | 562 | 1386 | 3749 | 1416 | 472655 | Private  | Dyson, Maxwell  | Can. Mil  | Dyson, Mrs. M. E  | 907 22nd St. W., Saskatoon, Sask  | England  | Saskatoon  | Sept. | 1916 |
+| 4 | 550 | 1414 | 3749 | 1445 | 1051659 | Private  | Enger, Magnus  | Nil  | Enger, Martin  | Cluffield, Sask  | Norway  | Saskatoon   | Apr. | 1916 |
+| 4 | 550 | 1444 | 3749 | 1476 | 1051582 | Private  | Evans, Arthur  | Nil   | Evans, Mrs. Mary  | Alingly, Sask  | Canada  | Prince Albert... | Jan. | 1917 |
+| 4 | 549 | 1472 | 3748 | 1504 | 1051039 | Prov. Sergeant... | Ewan, James  | Territorials  | Chapman, Mrs  | 16th St. & 17th Ave. W., Prince Albert, Sask  | Scotland  | Prince Albert... | June | 1916 |
+| 4 | 549 | 1498 | 3748 | 1532 | 1051273 | Sergeant  | Exel, Frederick Godfrey  | R.N.W.M.P  | Exel, Mrs. Eva Mae  | 724 7th Ave., Saskatoon, Sask  | East Indies  | Saskatoon  | Sept. | 1916 |
+| 4 | 549 | 1530 | 3748 | 1560 | 1051265 | Private  | Fedosenko, Lazarus Frederick.. | Nil :... | Familinow, Mrs. Dorry  | Gen. Del., Perdue, Sask  | Russia  | Perdue  | Sept. | 1916 |
+| 4 | 549 | 1558 | 3748 | 1589 | 1051478 | Private  | Fee, George Herbert  | Nil  | Fee, Walter  | Punnichy, Sask  | Canada  | Punnichy  | Nov. | 1916 |
+| 4 | 549 | 1588 | 3748 | 1617 | 1051243 | Private  | Fidler, Alexander McLeod  | Nil  | Fidler, John J  | Flett’s Springs, Sask  | Canada  | Perdue  | Sept. | 1916 |
+| 4 | 548 | 1617 | 3747 | 1646 | 1051447 | Private  | Finmano, Francisco  | Italian Army.... | Finmano, Mrs. Teresa Delia.. | Sidemo Marina, Reggio Calabria, Italy  | Italy  | Prince Albert ... | Dec. | 1916 |
+| 4 | 548 | 1645 | 3748 | 1675 | 1051576 | Private  | Florence, John William  | Nil    | Florence, Mrs. Annie  | 501 Ratligar Ave., Winnipeg, Man  | Canada  | Prince Albert... | Jan. | 1917 |
+| 4 | 548 | 1674 | 3748 | 1704 | 1051226 | Private  | Ford, Joseph Edwin  | Territorials  | Ford, Mrs. Eulalie  | New Osgoode, Sask  | England  | Tisdale  | Sept. | 1916 |
+| 4 | 549 | 1703 | 3747 | 1733 | 1051470 | Private  | Forde, George  | Nil  | Forde, Mrs. Minnie  | Kinistino, Sask  | Ireland  | Prince Albert... | Dec. | 1916 |
+| 4 | 548 | 1729 | 3748 | 1761 | 1051599 | Private  | Forssen, Edwin  | Nil  | Forssen, Alec  | Ramsele, Sweden  | Sweden,  | Yorkton  | Feb. | 1917 |
+| 4 | 549 | 1759 | 3748 | 1790 | 1051577 | Private  | Forteville, Lucien Charles E... | Nil  | Forteville, Desire Joseph  | Gen. Del., Kindersley, Sask   | Belgium  | Saskatoon  | Jan. | 1917 |
+| 4 | 548 | 1786 | 3747 | 1820 | 1051363 | Private  | Foy, Francis Marion  | Nil  | Foy, Mrs. D. P  | Charleston, 111., U.S.A  | U.S.A  | Weyburen  | Oct. | 1916 |
+| 4 | 549 | 1818 | 3748 | 1848 | 1051149 | Private  | Frank, Harry  | Nil  | Frasheshek, Frank  | Boissevain, Man  | Russia  | Prince Albert... | Aug. | 1916 |
+| 4 | 549 | 1848 | 3747 | 1877 | 1051099 | Private  | Fraser, John George  | 29th Horse.. | Fraser, Norman  | Parkside, Sask  | Canada  | Prince Albert... | July | 1916 |
+| 4 | 549 | 1876 | 3748 | 1906 | 1051335 | Private  | Frisky, Fred  | Nil  | Frisky, Carl  | Gen. Del., Sutherland, Sask  | Russia  | Saskatoon  | Oct. | 1916 |
+| 4 | 549 | 1905 | 3747 | 1935 | 1051543 | Private  | Gallaway, Henry Howard  | Nil  | Galloway, Mrs. Elizabeth  | Gen. Del., Saskatoon, Sask  | U.S.A  | Saskatoon  | Dec. | 1916 |
+| 4 | 549 | 1934 | 3747 | 1964 | 1051405 | Private  | Garneau, Alphonse  | U. S. Army.. | Garneau, Mrs. Delia Mary... | 232 9th St. E., Prince Albert, Sask  | Canada  | Prince Albert... | Nov. | 1916 |
+| 4 | 549 | 1964 | 3047 | 1993 | 1051170 | Private  | Gasparin, Carlo  | Nil  | Gasparin, Antonio  | Detto Costante, St. Martino de Lupanri, Provinca di |
+| 4 | 2312 | 1992 | 3746 | 2021 |  |  |  |  |  | Padova, Italy  | Italy  | Saskatoon.... | Aug. | 1916 |
+| 4 | 548 | 2020 | 3747 | 2052 | 1051627 | Private. | Gautschi, Willi  | Nil  | Gautschi, Mrs. Bertha... | Seebach, Switzerland  | Switzerland., | Saskatoon.... | Feb. | 1917 |
+| 4 | 548 | 2049 | 3747 | 2079 | 1051547 | Private. | Gemmell, Paul William. | Nil  | Gemmell, Paul Freeland. | 812 Ave. W. North, Saskatoon, Sask  | Africa  | Saskatoon.... | Jan. | 1917 |
+| 4 | 549 | 2078 | 3746 | 2109 | 1051090 | Private. | Gigosh, Dan  | Nil  | Page, Mrs. Nelly  | Gen. Del., North Battleford, Sask  | Russia  | NorthBattleford | July | 1916 |
+| 4 | 547 | 2107 | 3747 | 2138 | 1051633 | Private. | Golding, Ernest Henry... | Territorials. | Golding, John  | Lindford, Hants, Eng  | England  | Saskatoon.... | Apr. | 1917 |
+| 5 | 617 | 367 | 3099 | 402 | 1051293 | Private  |  | Nil. | Hamm, Mrs. Abraham. | Castle Hill, Fenny Bridges, Ottery St. Mary, Devon |
+| 5 | 2375 | 391 | 3804 | 427 |  |  |  |  |  | Eng  | England.. |  | Sept. | 7, | 1916 |
+| 5 | 617 | 420 | 3804 | 464 | 1051434 | G. P. Sergeant... | Gould, Anthony Andrew  | Nil  | Gould, Charles  | Gen. Del., Seattle, Wash., U.S.A  | U.S.A.... | Saskatoon  | Nov. | 23, | 1916 |
+| 5 | 617 | 449 | 3804 | 490 | 1051485 | Private  | Gould, Harry i  | Can. Mil  | Gould, Mrs. Morley  | Gen. Del., Willson Lake, Sask  | Canada... | Saskatoon  | Nov. | 26, | 1916 |
+| 5 | 3120 | 478 | 3805 | 505 |  |  |  |  |  |  | Canada... | Prince Albert... | Mar. | 23, | 1917 |
+| 5 | 617 | 485 | 3103 | 519 | 1051630 | Private  | Graham, Edward Watson  | Nil  | Graham, Mrs. R. W  | 1502 1st Ave. W., Prince Albert, Sask  |
+| 5 | 3120 | 507 | 3805 | 533 |  |  |  |  |  |  | Canada... | Melfort  | Jan. | 5, | 1917 |
+| 5 | 631 | 515 | 3103 | 549 | 180050 | Private  | Grainger, Thomas Alexander  | Can. Mil  | Grainger, Mrs. Ida  | Melfort, Sask  |
+| 5 | 617 | 536 | 3805 | 577 | 1051505 | Private  | Grant, John  | Nil  | Grant, Mrs. Jessie Walker  | Ballindalloch, Banff, Scot  | Scotland.. | Saskatoon  | Dec. | 9, | 1916 |
+| 5 | 617 | 565 | 3805 | 607 | 1051286 | Private  | Gray, Charles Mathew  | Nil  | Gray, Alexander  | R. R. No. 2, Hawkesbury, Ont  | Canada... | Battleford  | Sept. | 26. | 1916 |
+| 5 | 616 | 595 | 3805 | 638 | 1051232 | Corporal  | Gray James  | Nil  | Gray, Alexander  | North Bay, Ont  | Scotland.. | Saskatoon  | Aug. | 24, | 1916 |
+| 5 | 617 | 623 | 3806 | 665 | 1051072 | Private  | Green, Herbert John  | Imp. Forces  | Green, Frederick B  | Gen. Del., Daysville, Sask  | England.. | N. Battleford... | Julv | 7, | 1916 |
+| 5 | 617 | 653 | 3805 | 694 | 1051476 | Private  | Green, Stevens  | Nil  | Green, Louis  | Gen. Del., Winnipeg, Man  | Canada... | Prince Albert.. | Dec. | 6. | 1916 |
+| 5 | 617 | 681 | 3805 | 723 | 1051419 | Private  | Green, Winchester Addison  | Nil  | Green, Mrs. Amy Alice  | Wolfe, Sask  | Canada... | Saskatoon  | Dec. | 2, | 1916 |
+| 5 | 630 | 711 | 3805 | 751 | 268113 | Private  | Grummett, William Matthew.... | Nil  | Grummett, Mrs. Grace  | 431 Ave. “C”, South, Saskatoon, Sask  | Canada... | Saskatoon  | Feb. | 23, | 1917 |
+| 5 | 617 | 739 | 3805 | 781 | 1051541 | Private  | Handley, John  | Nil  | Handley, John  | 50 Church St., South Lamberth, London, Eng  | England.. |  | Dec. | 4, | 1916 |
+| 5 | 3121 | 768 | 3805 | 794 |  |  |  |  |  |  | Canada... | Saskatoon  | Nov. | 16, | 1916 |
+| 5 | 618 | 777 | 3104 | 810 | 1051427 |  | Harvis, Albert  | Nil  | Covell, Mrs. A. P  | Woodstock, Ont  |
+| 5 | 617 | 797 | 3805 | 839 | 1051554 | Private  | Harris, Ivor  | Nil  | Harris, Mrs. Emily  | 185 Windham Rd., Bournemouth, Hants, Eng  | England.. | VVatrous  | Jan. | 3, | 1917 |
+| 5 | 3120 | 826 | 3805 | 852 |  |  |  |  |  |  | Ireland... | Prince Albert... | Dec. | 19, | 1916 |
+| 5 | 618 | 834 | 3104 | 870 | 1051519 | Sergeant  | Harris, Charles Reginald  | R.N.W.M.P  | Harris, Charles  | Belfast, Ire  |
+| 5 | 3121 | 855 | 3805 | 881 |  |  |  |  |  |  | Canada... | Saskatoon  | Dec. | 27, | 1916 |
+| 5 | 617 | 863 | 3103 | 896 | 1051550 | Private  | Harrison, John  | Nil  | Harvison, Mrs. Alice  | Grenville, P.Q  |
+| 5 | 617 | 883 | 3805 | 925 | 1051669 | Private  | Howard, Frederick Lewis  | Nil  | Haward, Mrs. Louisa  | Fairsteda, Hendon, M’sex, Eng  | England.. | Saskatoon  | Apr. | 13, | 1917 |
+| 5 | 617 | 912 | 3805 | 954 | 1051465 | Private  | Hazell, James Andrew  | Nil  | Garraway, Mrs. J  | 3 Caroline PL, Widcombe, Bath, Somerset, Eng  | England.. |  | Oct. | 4, | 1916 |
+| 5 | 3121 | 941 | 3806 | 968 |  |  |  |  |  |  | Ireland... | Saskatoon  | Sept. | 4, | 1916 |
+| 5 | 616 | 950 | 3103 | 984 | 1051213 | C.S.M  | Healy, Patrick Francis  | R.N.W.M.P  | Healy, Patrick  | Barby Rd., Rubgy, Warwick, Eng  |
+| 5 | 3122 | 970 | 3806 | 997 |  |  |  |  |  |  | U.S.A.... | Saskatoon  | Sept. | 1, | 1916 |
+| 5 | 615 | 979 | 3104 | 1012 | 1051233 | Private  | Heinen, John  | Nil  | Heinen, N.S  | Vermillion, Minn., U.S.A  |
+| 5 | 616 | 999 | 3806 | 1041 | 1051658 | Private  | Hendren, Benjamin  | Nil  | Hendren, William  | Kelvington,. Sask    | U.S.A.... | Saskatoon  | Apr. | 14, | 1917 |
+| 5 | 3121 | 1028 | 3807 | 1059 |  |  |  |  |  |  | England.. | Yorkton  | Nov. | 20, | 1916 |
+| 5 | 616 | 1037 | 3104 | 1070 | 1051460 | Private  | Heron, Herbert  | Nil  | Heron, Charles  | Yiewsley, M’sex, Eng    |
+| 5 | 3122 | 1057 | 3807 | 1088 |  |  |  |  |  |  | England.. | Saskatoon  | Jan. | 30, | 1917 |
+| 5 | 616 | 1065 | 3103 | 1099 | 1051588 | Private  | Hickman, John Edwin  | Territorials  | Hickman, John  | Gen. Del., Twin Lakes, Sask  |
+| 5 | 3123 | 1086 | 3807 | 1113 |  |  |  |  |  |  | U.S.A.... | Prince Albert... | Aug. | 18, | 1916 |
+| 5 | 615 | 1095 | 3104 | 1128 | 1051321 | Private  | Higbee, Myron James  | Nil  | Higbee, Mrs. Lulu  | Ferguson Flats, Alta  |
+| 5 | 616 | 1115 | 3807 | 1157 | 1051455 | Private  | Hills, Arthur R,udolph  | Nil  | Hills, Henry  | Brook Cottage, Cambridge, Eng  | England.. | Sheho  | Nov. | 13, | 1916 |
+| 5 | 3123 | 1144 | 3807 | 1171 |  |  |  |  |  |  | U.S.A.... |  | Nov. | 10, | 1916 |
+| 5 | 616 | 1152 | 3104 | 1186 | 1051453 | Private  | Hiltgen, Haskell Pierre  | Nil  | Hiltgen, Charles S  | Yorkton, Sask  |
+| 5 | 615 | 1173 | 3806 | 1215 | 1051441 | Private  | Holderson, Kenneth George  | Nil  | Holderson, John  | Sinclair Stn., Man  | Canada... | Saskatoon  | Jan. | 15, | 1917 |
+| 5 | 616 | 1202 | 3807 | 1243 | 1051288 | Private  | Holmes, Charles Alexander  | Nil  | Holmes, Mrs. Elizabeth Cathrine | 350 Ave. W. “V” South, Saskatoon, Sask  | England.. | Saskatoon  | Dec. | 29, | 1916 |
+| 5 | 616 | 1231 | 3807 | 1276 | 1051221 | Corporal  | Hope, Vance William  | R.N.W.M.P  | Hope, Richard  | The Firs, Maidenhead Berks, Eng ■> | England.. | Yorkton  | Sept. | 1, | 1916 |
+| 5 | 616 | 1259 | 3806 | 1303 | 1051642 | Private  | Horne, Charles Henry  | Nil  | Horne, Charles John  | Zealandia, Sask  | Belgium.. | Saskatoon  | Apr. | 2, | 1917 |
+| 5 | 616 | 1289 | 3808 | 1331 | 1051568 | Private  | Horowenko, Acenti  | Nil  | Horowenko, Mrs. Likeriy  | Odessa, Russia  | Russia  | Saskatoon  | Dec. | 8, | 1916 |
+| 5 | 616 | 1318 | 3807 | 1364 | 1051041 | Sergeant  | Horricks, George Alexander  | 97th Regiment  | Horricks, Mrs. Serine  | 245 15tli St. W., Prince Albert, Sask  | Canada... | Prince Albert. | June | 27, | 1916 |
+| 5 | 615 | 1346 | 3807 | 1389 | 1051456 | Private  | Houston, Robert  | Nil  | Houston, William  | Hyas, Sask  | Scotland.. | Yorkton  | Nov. | 16, | 1916 |
+| 5 | 615 | 1375 | 3808 | 1418 | 1051515 | Private  | Howard, John James  | Nil  | Howard, Steven M  | Thurso, P.Q  | Canada... | Saskatoon  | Dec. | 15, | 1916 |
+| 5 | 616 | 1405 | 3808 | 1448 | 1051468 | Private  | Hughes, Gerald  | Nil  | Hughes, Robert Henritta  | Cereal, Alta  | U.S.A.... | Saskatoon  | Nov. | 25, | 1916 |
+| 5 | 615 | 1433 | 3807 | 1477 | 1051404 | Private  | Hunt, Henry  | Nil  | Hint, Mrs. Laura  | Shell Brook, Sask  | England.. | Prince Albert.. | Nov. | 16. | 1916 |
+| 5 | 616 | 1462 | 3808 | 1506 | 1051524 | Private  | Hurst, Henry Wellington  | Royal Navy  | Hurst, Henry Wellington  | 1955 Halifax St., Regina, Sask  | England.. | Springside  | Dec. | 13, | 1916 |
+| 5 | 616 | 1491 | 3808 | 1537 | 1051414 | Sergeant  | Hurst, William Leslie  | Nil  | Hurst, William Page  | Delisle, Sask  | England.. | Saskatoon  | Nov. | 4, | 1916 |
+| 5 | 616 | 1520 | 3808 | 1566 | 1051084 | Lance Corporal... | Huston, Andrew Vernon  | G.G.B.G  | Wright, Mrs. G W  | 170 Quebec Ave., Toronto, Ont  | Canada... | Prince Albert... | Julv | 15, | 1916 |
+| 5 | 616 | 1548 | 3808 | 1592 | 1051210 | Private  | Innis, Alexander Milton  | Nil  | Innis, Mrs. James  | P. 0. Box 941, Saskatoon, Sask  | Canada... | Saskatoon  | Sept. | 5, | 1916 |
+| 5 | 615 | 1577 | 3807 | 1622 | 1051572 | Private  | Isaac, Henry Da via  | Nil  | Isaac, D. D  | Maymont, Sask  | U.S.A.... | Saskatoon  | Jan. | 13, | 191V |
+| 5 | 615 | 1606 | 3808 | 1650 | 1051396 | Private  | Jensen, Andrew Antonius  | Nil  | Jensen, Andrew   | P. O. Box 55, Detroit, Mich., U.S.A  | U.S.A.... | VVatrous  | Oct. | 31, | 1916 |
+| 5 | 627 | 1634 | 3808 | 1679 | 886513 | Private  | Johnson, Aron  | Nil  | Johnson, Ode  | Prince Albert, Sask  | Sweden.,. | Prince Albert... | Mar. | 24, | 1916 |
+| 5 | 615 | 1664 | 3808 | 1709 | 1051250 | Private  | Johnson, Ernest George  | Nil  | Johnson, Mrs. William  | Ill Algernon Rd., Lewisham, London, S.E., Eng  | England.. | Battleford  | Aug. | 25, | 1916 |
+| 5 | 1486 | 1693 | 3808 | 1730 |  |  |  | Nil  | Johnston, Mrs. Helen  | 465 Dundas St., Toronto, Ont  | Canada... | Watrous  | Dec. | 4, | 1916 |
+| 5 | 615 | 1710 | 1454 | 1737 | 1051506 | Private  | Lome, Johnston  |
+| 5 | 614 | 1721 | 3809 | 1765 | 1051356 | Private  | Johnston, Thomas William  | Nil  | Johnston, Mrs. William A  | Gen. Del., Fairlight Stn., Sask  | Canada... | Biggar  | Oct. | 24, | 1916 |
+| 5 | 614 | 1751 | 3808 | 1795 | 1051457 | Private  | Joyce, Archibald John  | Nil  | Joyce, Joseph  | Castle Camps, Cambridge, Eng    | England.. | Yorkton  | Nov. | 18, | 1916 |
+| 5 | 614 | 1779 | 3808 | 1824 | 1051551 | Private  | Kastel, Arthur  | Nil  | Kastel, Adam  | Athens, Wis., U.S.A  | U.S.A.... | Saskatoon  | Dec. | 27, | 1916 |
+| 5 | 1815 | 1808 | 3811 | 1844 |  |  |  |  | Killeen, James  | Caledon, Ont  | Canada... | Saskatoon  | Nov. | 17, | 1916 |
+| 5 | 614 | 1823 | 1797 | 1852 | 1051423 | Private  | Killeen, Edward  | Nil......  |
+| 5 | 627 | 1837 | 3809 | 1882 | 267997 | II.S.M  | King, George Henry  | Territorials  | King, Mrs. Jerima  | 329 Ave. “N”, South, Saskatoon, Sask  | England.. | Saskatoon  | June | 9, | 1916 |
+| 5 | 1815 | 1866 | 3809 | 1902 |  |  |  |  | Kingrey, David  | Lovington, 111., U.S.A  | U.S.A.... | Prince Albert... | Sept. | 28, | 1916 |
+| 5 | 614 | 1882 | 1797 | 1911 | 1051280 | Private  | Kingrey, William Francis  | Nil  |
+| 5 | 1815 | 1895 | 3809 | 1930 |  |  |  |  | Kirk, Mrs. David Ina  | Aberdeen, Sask  | Scotland.. |  | Nov. | 18, | 1916 |
+| 5 | 614 | 1910 | 1797 | 1939 | 1051501 | Private  | Kirk, William  | Nil  |
+| 5 | 1815 | 1925 | 3809 | 1961 |  |  |  |  | Kist, Henry  | Sake, Russia  | Russia  | Saskatoon  | Nov. | 23, | 1916 |
+| 5 | 613 | 1940 | 1797 | 1968 | 1051431 | Private  | Kist, Andrew  | Nil  |
+| 5 | 1815 | 1953 | 3808 | 1989 |  |  |  |  | Knapp. James  | Wilmington, Ohio, U.S.A  | U.S.A.... |  |  | 1? | 1917 |
+| 5 | 614 | 1969 | 1797 | 1998 | 1051657 | Private  | Knapp, Frank  | Nil  |
+| 5 | 1814 | 1982 | 3809 | 2018 |  |  |  |  | Kopiakoski, Andrew  | Rosthern, Sask   | Galicia... | Saskatoon  | Mar. | 9, | 1917 |
+| 5 | 613 | 1998 | 1797 | 2027 | 1051618 | Private  | Kopiakoski, Joseph  | Nil  |
+| 5 | 1813 | 2012 | 3810 | 2048 |  |  |  |  | Oas, Mrs. Josephine  | Asker, Alta  | U.S.A.... |  |  | 22. | 1917 |
+| 5 | 627 | 2026 | 1797 | 2056 | 294562 | Private  | Kraft, Thomas Henry  | Can. Mil  |
+| 5 | 1813 | 2040 | 3810 | 2077 |  |  |  |  | Skrove, Martin  | Gen. Del., Craik, Sask  | Canada... |  |  | 15, | 1917 | Saskatoon  | Jan. |
+| 5 | 613 | 2056 | 1796 | 2085 | 1051452 | Private  | Kyllo, James Arthur  | Nil  |
+| 5 | 1814 | 2070 | 3810 | 2106 |  |  |  |  | Lacasse, Edward  | Gen. Del., Havre, Mont., U.S.A  | Canada... |  |  | 29, | 1916 | Punnichy  | Nov. |
+| 5 | 613 | 2086 | 1796 | 2113 | 1051486 | Private  | Lacasse, Andrew  | Nil  |
+| 5 | 1813 | 2099 | 3810 | 2135 |  |  |  |  | Lachance, Mrs. Solome  | Thetford Mines, P.Q  | Canada... |  |  | 9, | 1916 | Nov. |
+| 5 | 613 | 2115 | 1795 | 2142 | 1051413 | Private  | Lachance, Joseph Albert  | Nil  |
+| 5 | 1811 | 2129 | 3810 | 2166 |  |  |  |  | ,aing, Mrs. J  | 28th St. E., Prince Albert, Sask S | cotlar.d.. |  |  | 21, | 1916 | July | Prince Albert ... |
+| 5 | 613 | 2143 | 1814 | 2172 | 1051116 | Private  | Laing, Henry McLaurin L  | Nil I |
+| 6 | 751 | 655 | 3221 | 687 |  | Former Corps. |  | Birth. |
+| 6 | 557 | 798 | 3748 | 832 | 1051238 | Nil |  | Canada  | Watrous  | Sept. 9, | 1916 |
+| 6 | 557 | 828 | 3748 | 861 | 1051533 | Nil  | 1432 First St. E., Prince Albert, Sask  | U.S.A  | Prince Albert... | Dec. 20, | 1916 |
+| 6 | 3306 | 857 | 3748 | 885 |  |  |  |  | Saskatoon  | Dec. 9, | 1916 |
+| 6 | 3305 | 886 | 3748 | 913 |  |  |  |  | Watrous  | Oct. 26, | 1916 |
+| 6 | 3067 | 914 | 3748 | 943 |  |  |  | U.S.A  | Prince Albert... | Aug. 29, | 1916 |
+| 6 | 3066 | 944 | 3748 | 972 |  |  |  | Denmark  | Speers  | July 31, | 1916 |
+| 6 | 558 | 972 | 3749 | 1005 | 1051151 | Nil  | Gen. Del., Medstead, Sask  | U.A.S  | N. Battleford... | July 26, | 1916 |
+| 6 | 3306 | 1029 | 3749 | 1058 |  |  |  |  | Prince Albert... | July 31, | 1916 |
+| 6 | 3307 | 1059 | 3749 | 1087 |  |  |  |  |  | Feb. 26, | Prince Albert... | 1917 |
+| 6 | 557 | 1080 | 3749 | 1120 | 1051069 | Nil | 135 8th St. E., Prince Albert, Sasic  |  | Prince Albert... | July 4, | 1916 |
+| 6 | 557 | 1116 | 3750 | 1149 | 1051632 | Nil |  |  | Duck Lake  | Mar. 3, | 1917 |
+| 6 | 557 | 1146 | 3749 | 1181 | 1051150 | Nil | 56 Ure St., Dundee, Forfar, Scot  | Scotland  | N. Battleford... | July 31, | 1916 |
+| 6 | 557 | 1175 | 3750 | 1206 | 1051575 | Nil |  | U.S.A  | Prince Albert... | Jan. 16, | 1917 |
+| 6 | 557 | 1203 | 3749 | 1235 | 1051488 | Nil | Gen. Del., Methlick, Aberdeen, Scot  |  | Saskatoon  | Dec. 7, | 1916 |
+| 6 | 3308 | 1233 | 3750 | 1260 |  |  |  |  | Saskatoon  | Apr. 3, | 1917 |
+| 6 | 3308 | 1262 | 3749 | 1290 |  |  |  |  | Saskatoon  | Dec. 1, | 1916 |
+| 6 | 557 | 1291 | 3750 | 1323 | 1051246 | Nil | 22 Chapel St., Rugby, Warwick, Eng  |  | Battleford  | Aug. 21, | 1916 |
+| 6 | 557 | 1320 | 3750 | 1351 | 1051461 |  | 107 Stillwater Ave., Oldtown, Me., U.S.A  | U.S.A  | Yorkton  | Nov. 20, | 1916 |
+| 6 | 557 | 1349 | 3750 | 1380 | 1051011 | Nil | 840 4th St. E., Prince Albert, Sask  |  | Prince Albert... | June 16, | 1916 |
+| 6 | 3309 | 1377 | 3750 | 1405 |  |  |  |  | Yorkton....  | Dec. 1, | 1916 |
+| 6 | 3309 | 1406 | 3751 | 1435 |  |  |  |  | Saskatoon  | Jan. 31, | 1917 |
+| 6 | 3309 | 1436 | 3750 | 1463 |  |  |  |  | Prince Albert... | July 20, | 1916 |
+| 6 | 3309 | 1464 | 3751 | 1492 |  |  |  |  | Saskatoon  | Jan. 23, | 1917 |
+| 6 | 3309 | 1493 | 3751 | 1521 |  |  |  |  | Saskatoon  | Jan. 3, | 1917 |
+| 6 | 556 | 1522 | 3751 | 1552 | 1051570 | Nil | Zashkow Derewnie, Ochmato, Kayo, Russia  |  | Saskatoon  | Nov. 23, | 1916 |
+| 6 | 556 | 1551 | 3750 | 1581 | 1051009 | Nil  | 523 21st St. E., Prince Albert, Sask  | U.S.A  | Prince Albert... | June 16, | 1916 |
+| 6 | 556 | 1580 | 3750 | 1613 | 1051338 | U. S. Army  | 1721 Easttown St., Columbus, Ohio, U.S.A  | U.S.A  | Weyburn  | Oct. 12, | 1916 |
+| 6 | 556 | 1609 | 3751 | 1638 | 1051393 | Nil   |  |  | N. Battleford... | Oct. 30, | 1916 |
+| 6 | 557 | 1638 | 3751 | 1667 | 1051362 | Nil  |  | U.S.A  | Weyburn  | Oct. 27, | 1916 |
+| 6 | 557 | 1667 | 3751 | 1696 | 1051631 |  |  | U.S.A  | Saskatoon  | Mar. 23, | 1917 |
+| 6 | 570 | 1695 | 3752 | 1725 | 908115 | Nil   |  |  | Regina  | May 18, | 1916 |
+| 6 | 557 | 1724 | 3752 | 1757 | 1051534 | Nil  |  |  | Prince Albert... | Dec. 22, | 1916 |
+| 6 | 557 | 1753 | 3753 | 1782 | 1051619 | Nil  |  |  | Saskatoon  | Mar. 8, | 1917 |
+| 6 | 557 | 1782 | 3753 | 1812 | 1051526 | Nil |  |  | Yorkton  | Nov. 20, | 1916 |
+| 6 | 557 | 1811 | 3753 | 1841 | 1051597 | Nil  | Tuffnell, Sask  | Canada  | Yorkton  | Feb. 3, | 1917 |
+| 6 | 557 | 1840 | 3753 | 1869 | 105156C | Nil  |  | Scotland  | Yorkton  | Dec. 28, | 1916 |
+| 6 | 557 | 1869 | 3754 | 1898 | 1051454 | Nil |  |  | Yorkton  | Nov. 20, | 1916 |
+| 6 | 3311 | 1898 | 3754 | 1924 |  |  |  |  | N. Battleford... | June 28, | 1916 |
+| 6 | 557 | 1927 | 3754 | 1955 | 1051424 | Nil   |  |  | Saskatoon  | Nov. 18, | 1916 |
+| 6 | 557 | 1956 | 3754 | 1985 | 1051327 | Nil |  |  | Saskatoon  | Oct. 13, | 1916 |
+| 6 | 558 | 1985 | 3754 | 2014 | 1051426 | Nil |  | Canada  | Saskatoon  | Nov. 15, | 1916 |
+| 6 | 558 | 2014 | 3754 | 2042 | 1051245 | Nil |  |  | Battleford  | Aug. 29, | 1916 |
+| 6 | 558 | 2043 | 3754 | 2071 | 1051261 |  |  |  |  | Sept. 4, | Nil | Prince Albert... | 1916 |
+| 6 | 558 | 2072 | 3754 | 2100 | 1051133 | Nil |  | U.S.A  | N. Battleford... | Aug. 4, | 1916 |
+| 6 | 558 | 2101 | 3754 | 2130 | 1051013 |  |  |  |  | June 15, | Nil | England  | Prince Albert... | 1916 |
+| 6 | 558 | 2130 | 3755 | 2162 | 1051491 |  |  |  | Yorkton  | Oct. 25, | 1916 |
+| 6 | 557 | 2159 | 3755 | 2187 | 1051609 | Nil |  |  | Saskatoon  | Feb. 14, | 1917 |
+| 6 | 556 | 2188 | 3755 | 2216 | 1051397 | Nil |  |  | Saskatoon  | Oct. 31, | 1916 |
+| 6 | 556 | 2217 | 3756 | 2248 | 1051487 | Nil  | Camiel par Cany Seine, Inferieure, France  | France  | Prince Albert... | Dec. 9, | 1916 |
+| 7 | 634 | 327 | 3812 | 361 | 1051639iPrivate  |  | Nil  | 243 20th St. E., Prince Albert, Sask  | Canada., | Prince Albert... | Apr. 2, | 1917 |
+| 7 | 634 | 355 | 3812 | 388 | 1010247 Private  | Mulligan, Albert Edward  |  |  | i U.S.A... | Moose Jaw  | Nov. 18, | 1916 |
+| 7 | 633 | 385 | 3812 | 419 | 1051251 Private  | Munns, John George W  | Nil  |  | England. | Yorkton  | Sept. 11, | 1916 |
+| 7 | 634 | 414 | 3812 | 447 | 1051255 Corporal  | Murphy, Harry James  |  |  | Canada.. | Aberdeen  | Aug. 19, | 1916 |
+| 7 | 633 | 443 | 3812 | 475 | 1051429 Private  | Murray, William Barr  | Nil  |  | Canada.. | Saskatoon  | Nov. 18, | 1916 |
+| 7 | 634 | 472 | 3813 | 506 | 1051585 Private  | Neal, Percy  | Nil  |  | England. | Yorkton  | Ian. 6, | 1917 |
+| 7 | 633 | 501 | 3813 | 533 | 1051042 Lance-Corporal... | Neely, Patrick Ruddock  |  |  | Canada.. | Prince Albert... | June 27, | 1916 |
+| 7 | 633 | 530 | 3812 | 562 | 1051088 Private  |  | Nil  |  | U.S.A... | Prince Albert... | luly 14, | 1916 |
+| 7 | 633 | 559 | 3814 | 592 | 1051450 Private  | Newman, Jack  | Nil  |  | England. | Saskatoon  | Nov. 23, | 1916 |
+| 7 | 633 | 589 | 3815 | 619 | 1051259 Private  |  | Nil  |  | Canada.. | Prince Albert... | Sept. 1, | 1916 |
+| 7 | 632 | 617 | 3815 | 647 | 1051367 Lance-C.orporal... | Nicholf, Steve  | Nil  |  | Servia... | Saskatoon  | Oct. 26, | 1916 |
+| 7 | 633 | 647 | 3816 | 678 | 1051337 Private  | Noah, Henry  | Nil  | Pleasant Hill, Mo., U.S.A  | U.S.A... | Weyburn  | Oct. 12, | 1916 |
+| 7 | 633 | 676 | 3816 | 707 | 1051092 Corporal  | Noble, Charles  | Nil  |  | England. | North Battleford | July 12, | 1916 |
+| 7 | 633 | 705 | 3816 | 736 | 1051590 Private  |  | Nil . |  | England. | Saskatoon  | Jan. 30, | 1917 |
+| 7 | 633 | 734 | 3816 | 764 | 1051190 Lance-Corporal... |  | Nil  |  | U.S.A... | Perdue  | Aug. 24, | 1916 |
+| 7 | 633 | 763 | 3816 | 794 | 1051191 Private  | Norskin, John  | Nil  | 529 Columbia Ave., Baltimore, Md., U.S.A  | U.S.A... | Saskatoon  | Aug. 26, | 1916 |
+| 7 | 633 | 792 | 3815 | 822 | 1051530 Private  |  |  |  | England. | VVatrous  | Dec. 0, | 1916 |
+| 7 | 633 | 821 | 3815 | 852 | 1051281 Private  |  | Nil  |  | Sweden.. | Battleford  | Sept. 22, | 1916 |
+| 7 | 633 | 849 | 3815 | 878 | 1051108 Private  |  | Nil  |  | 'anada.. | Prince Albert... | July 19, | 1916 |
+| 7 | 632 | 879 | 3815 | 905 | 1051552 Private  |  |  |  | U.S.A... | Saskatoon  | Dec. 28, | 1916 |
+| 7 | 1506 | 908 | 3814 | 938 |  |  | U.S. Armv.. | c-o T. J. Davis, Brownwood, Tex., U.S.A  | U.S.A... | Prince Albert... | Sept. 25, | 1916 |
+| 7 | 632 | 936 | 3815 | 963 | 1051562 Private  |  | Nil  |  | Canada.. | Saskatoon  | Jan. 5, | 1917 |
+| 7 | 644 | 966 | 3814 | 995 | 886541 Private  |  | Imp. Forces and S.A. |  | England. | Prince Albert... | Mar. 30, | 1916 |
+| 7 | 3134 | 995 | 3814 | 1024 |  |  |  |  | England. | Prince Albert... | June 26, | 1916 |
+| 7 | 631 | 1023 | 3814 | 1050 | 1051350 Private  | Parenteau, Gustave  | Nil  |  | Canada.. | Duck Lake  | Oct. 22, | 1916 |
+| 7 | 631 | 1051 | 3814 | 1080 | 1051473 Private  | Parks, Percy  | Nil  |  | Canada.. | Saskatoon  | Jan. 15, | 1917 |
+| 7 | 632 | 1081 | 3814 | 1109 | 1051207 Sergeant  | Parsons, Henry Gwynne  |  |  | Canada.. | Saskatoon  | Sept. 4, | 1916 |
+| 7 | 1505 | 1110 | 3814 | 1139 |  |  | Nil  |  | Canada.. | Prince Albert... | Aug. 11, | 1916 |
+| 7 | 632 | 1138 | 3815 | 1165 | 1051518 Private  | Paulson, Julis Palmer  | Nil  |  | U.S.A... | Saskatoon  | Dec. 7, | 1916 |
+| 7 | 632 | 1167 | 3815 | 1196 | 1051416 Private  | Paulin, Dominique  | Nil  |  | Canada.. | Saskatoon  | Nov. 14, | 1916 |
+| 7 | 632 | 1196 | 2315 | 1228 | 1051665 Private  |  | Nil... |
+| 7 | 3134 | 1224 | 3816 | 1251 |  |  |  |  | Canada  | Prince Albert... | April | 1917 |
+| 7 | 632 | 1252 | 3816 | 1280 | 1051537 Private  | Pearse, Robert  | Nil  |  | Canada  | Prince Albert... | Dec. | 1916 |
+| 7 | 632 | 1282 | 3816 | 1309 | 1051399 Private  |  | Nil  |  | U.S.A  | Prince Albert... | Nov. | 1916 |
+| 7 | 632 | 1308 | 3817 | 1338 | 1051611 Private  | Petit, Alfred  | Nil  |  | Canada  | Prince Albert... | Mar. | 1917 |
+| 7 | 632 | 1339 | 3817 | 1370 | 1051234 Private  |  | Nil  |  | England  | Saskatoon  | Jan. | 1917 |
+| 7 | 631 | 1368 | 3816 | 1395 | 1051256 Private  |  | Nil  |  | U.S.A  | Watrous  | Sept. | 1916 |
+| 7 | 631 | 1394 | 3817 | 1424 | 1051661 Private  |  | C.F.A  |  | Canada  | Prince Albert... | April | 1917 |
+| 7 | 631 | 1425 | 3818 | 1452 |  |  | Nil  | 1051587 Private  | Canada  | Prince Albert... | Jan. | 1917 |
+| 7 | 631 | 1454 | 3817 | 1482 | 1051668 Private  |  | Nil  |  | U.S.A  | Prince Albert... | April | 1917 |
+| 7 | 999 | 1483 | 3818 | 1512 |  | Pollock, Mikle  | Nil  |  | Canada  | Melfort  | Sept. | 1916 |
+| 7 | 631 | 1512 | 3818 | 1539 | 1051569 Private  |  | Nil  |  | Russia  | Saskatoon  | Nov. | 1916 |
+| 7 | 631 | 1541 | 3818 | 1571 | 1051205 Lance-Corporal... |  |  |  | England  | Perdue  | Aug. | 1916 |
+| 7 | 1504 | 1570 | 3818 | 1598 |  |  | Nil  |  | Wales  | Kindersley  | Oc.t | 1916 |
+| 7 | 1505 | 1598 | 3818 | 1629 |  |  | Nil  |  | England  | Prince Albert.. | Feb. | 1916 |
+| 7 | 1505 | 1626 | 3819 | 1659 |  |  | Nil  | Long River, Queen’s Co., P.E.I  | Canada  | Prince Albert.. | April | 1917 |
+| 7 | 1504 | 1656 | 3819 | 1687 |  |  | Nil  |  | England  | Regina  | April | 1916 |
+| 7 | 1505 | 1684 | 3819 | 1711 |  |  | Nil  |  | Russia  | Saskatoon  | Feb. | 1917 |
+| 7 | 1505 | 1713 | 3819 | 1744 |  |  | Nil  |  | England  | North Battleford | June | 1916 |
+| 7 | 3138 | 1743 | 3819 | 1768 |  |  |  |  | Scotland  | Prince Albert... | Nov. | 1916 |
+| 7 | 1506 | 1770 | 3820 | 1802 |  |  | Nil  |  | England  | Prince Albert.. | Feb. | 1917 |
+| 7 | 1505 | 1800 | 3820 | 1830 |  |  | Nil  |  | England  | Saskatoon  | Nov. | 1916 |
+| 7 | 631 | 1829 | 3820 | 1860 | 1051549 Private  |  |  | 1201 Holcomb St., Detroit, Mich., U.S.A  | U.S.A  | Saskatoon  | Dec. | 1916 |
+| 7 | 631 | 1858 | 3820 | 1885 | 1051132 Private  |  | Nil  |  | U.S.A  | Mervin  | July | 1916 |
+| 7 | 632 | 1886 | 3821 | 1917 | 1051365 Lance-Corporal... |  | U.S. Army  |  | U.S.A  | Weyburn  | Oct. | 1916 |
+| 7 | 632 | 1915 | 3821 | 1943 | 1051122 Private  |  | Nil  |  | U.S.A  | North Battleford | July | 1916 |
+| 7 | 633 | 1941 | 3822 | 1972 | 1051347 Private  |  | Nil  |  | Canada  | Saskatoon  | Oct. | 1916 |
+| 7 | 632 | 1973 | 3822 | 2001 | 1051528 Private  |  | Nil  |  | Canada  | Bredenbury  | Dec. | 1916 |
+| 7 | 632 | 2001 | 3822 | 2030 | 1051466 Private  |  | Nil  |  | Scotland  | Saskatoon  | Nov. | 1916 |
+| 7 | 1504 | 2030 | 3822 | 2059 |  |  | Nil  |  | Canada........ | Prince Albert.. | July | 1916 |
+| 7 | 3140 | 2059 | 3822 | 2086 |  |  |  |  | Scotland | Saskatoon  | Oct. | 1916 |
+| 7 | 632 | 2088 | 3823 | 2119 | 1051463 Private  | Rose, George  | Nil  | Arnold’s Cove, Nfld  | Newfoundland.. Saskatoon |  | Nov. | 1916 |
+| 8 | 585 | 535 | 2839 | 565 | .= 2 |  | Former Corps. |
+| 8 | 556 | 677 | 3755 | 710 | 105)254 | Private  | Rossiter, Samuel James  | Nil  | Gouilie, Mrs. L  | Aberdeen, Sask  |  | Aug. | 30, | 1916 |
+| 8 | 556 | 705 | 3755 | 740 | 1051155 | Private  | Rowley, Bertram  | Nil  | Rowley, Mrs. Carrie  | 28th and Ave. “T.” N., Saskatoon, Sask  |  | Aug. | 14, | 1916 |
+| 8 | 556 | 734 | 3754 | 768 | 1051181 | Lance-Corporal... | Rowley, Frank  | Nil  | Rowley, Thomas  | 28th and Ave. “T.” N., Saskatoon, Sask  |  | Aug. | 24, | 1916 |
+| 8 | 556 | 762 | 3754 | 796 | 1051010 | Lance-Corporal... | Rudkin, William  | Nil  | Rudkin, Mrs. Ada  | 807 15th St. W., Prince Albert, Sask  | Prince Albert... | June | 16, | 1916 |
+| 8 | 556 | 791 | 3754 | 826 | 1051128 | Private  | Rush, Elmer  | R.N.W.M.P.... | Rush, Hiram Benjamin  | General Delivery, Melfort, Sask  | North Battleford | July | 24, | 1916 |
+| 8 | 556 | 820 | 3754 | 854 | 1051425 | Private  | Ryan, Edward  | U.S. Army  | Ryan, John  | 224 Bradford St., Boston, Mass., U.S.A  | Saskatoon  | U.S.A  | Nov. | 15, | 1916 |
+| 8 | 556 | 848 | 3753 | 883 | 1051490 | Private  | St. Denis, Raoul Olier  | R.N.W.M.P.... | St. Denis, Odilon  | Duck Lake, Sask  | Saskatoon  | Canada  | Oct. | 22, | 1916 |
+| 8 | 556 | 877 | 3753 | 912 | 1051091 | Private  | Salmon, Percy Edmund B | Nil  | Salmon, Mrs. Naomi Louisa  | 20 Thornbury Rd., C-lapham Park, London, Eng.... | North Battleford | England  | July | 11, | 1916 |
+| 8 | 556 | 907 | 3753 | 941 | 1051417 | Private  | Sanders, George Percy  | Nil  | Sanders, Mrs. Beatrice  | 337 Ave. “C.” South, Saskatoon, Sask  |  | Nov. | 13, | 1916 |
+| 8 | 556 | 935 | 3753 | 970 | 1051001 | Private  | Savelieff, Dan  | Nli  | Savelieff, Nickolas  | General Delivery, Cando, Sask  |  | Feb. | 5, | 1917 |
+| 8 | 556 | 963 | 3752 | 998 | 1051617 | Private  | Sawchuk, Peter  | Nil  | Sawchuk, Wiek   | Kiev, Russia  |  | Mar. | 10, | 1917 |
+| 8 | 556 | 993 | 3752 | 1027 | 1051516 | Private  | Schellinck, Henry Constant A. | Nil  | Schellinck, Mrs. Lucy  | Howell, Sask  |  | Dec. | 15, | 1916 |
+| 8 | 555 | 1021 | 3751 | 1055 | 1051136 | Private  | Schiltz, Michael Jo3eph  | Nil  | Schiltz, Mrs. Mary-  | General Delivery, Redfield, Sask  | U.S.A  | July | 14, | 1916 |
+| 8 | 556 | 1050 | 3752 | 1085 | 1051081 | Private  | Schofield, Hugh Wortley  | Nil  | Schofield, Joseph  | 526 Sixth St., E., Prince Albert, Sask  | Prince Albert... | July | 14, | 1916 |
+| 8 | 556 | 1079 | 3751 | 1114 | 1051598 | Private  | Scott, George  | Nil  | Scott, Benjamin  | General Delivery, Tisdale, Sask  | Prince Albert... | Feb. | 19, | 1917 |
+| 8 | 555 | 1108 | 3751 | 1142 | 1051159 | Lance-Corporal... | Scott, Walter Stewart  | Nil  | Scott, Mrs. Elizabeth  | Wild Rose, N.D., U.S.A  | North Battleford | Aug. | 14, | 1916 |
+| 8 | 554 | 1135 | 3750 | 1170 | 1051123 | Sergeant  | Seale, Benjamin Coleridge  | 52nd Regt  | Seale, Mrs. Olive L  | Suite 203, Carlton Apts., Prince Albert, Sask  | Prince Albert... | B.W.I  | July | 29, | 1916 |
+| 8 | 555 | 1165 | 3750 | 1199 | 1051626 | Private  | Semple, William  | Nil  | Semple, William  | Markdale, Ont  |  | Mar. | 20, | 1917 |
+| 8 | 554 | 1195 | 3750 | 1228 | 1051517 | Private  | Shanks, William Birchly  | Nil  | Shanks, William G  | Fielding, Sask  |  | Dec. | 9, | 1916 |
+| 8 | 554 | 1223 | 3750 | 1257 | 1051402 | Private  | Siguin, Henry  | Nil  | Siguin, Medric  | Embrun, Ont  |  | Nov. | 10, | 1916 |
+| 8 | 554 | 1252 | 3750 | 1286 | 1051163 | Sergeant  | Smith, Braj!ley Lewis  | 19th Dragoons... | Hodgson, Jack  | Perdue, Sask  | U.S.A  | Aug. | 17, | 1916 |
+| 8 | 554 | 1280 | 3749 | 1315 | 1051652 | Private  | Smith, George  | Nil  | Smith, John W  | Allan, Sask  |  | April | 11, | 1917 |
+| 8 | 554 | 1309 | 3750 | 1344 | 1051102 | Private  | Smith, Joseph Henry  | Territorials and | S.A. | Capstick, Mrs. Eva  | General Delivery, Appleby, Westmoreland, Eng  | North Battleford | July | 13, | 1316 |
+| 8 | 553 | 1339 | 3749 | 1372 | 1051166 | Private  | Smith, William  | Nil  | Smith, Mrs. Matilda  | c-0 Mrs. Archie McDonald, 581 Corydon Ave., Winnipeg, Man | Prince Albert... | Aug. | 21, | 1916 |
+| 8 | 553 | 1367 | 3749 | 1402 | 1051571 | Private  | Smolig, John  | Nil  | Smolig, Frank  | General Delivery, Kharkuff, Russia  | Saskatoon  | Russia  | Dec. | 7, | 1916 |
+| 8 | 553 | 1396 | 3748 | 1430 | 1051158 | Corporal  | Snell, Eli  | Nil  | Snell, Mrs. Sarah  | Cutlompton, Devon., Eng  |  | Aug. | 15, | 1916 |
+| 8 | 553 | 1423 | 3749 | 1459 | 1051306 | Private  | Spence, Charles Herbert  | Nil  | Spence, Edward  | Red Deer Hill, Sask  | Prince Albert... | Oct. | 12, | 1916 |
+| 8 | 553 | 1453 | 3748 | 1489 | 1051553 | Private  | Squires, James Albert  | 26th Regt  | Squires, Charles Nelson  | Melbourne, Ont  | Saskatoon  | Dec. | 27, | 1916 |
+| 8 | 553 | 1482 | 3748 | 1517 | 1051020 | Lance-Sergeant... | Stanley, James Wellington  | Canadian Militia. | Stanley, Mrs. Josephine  | 1060 4th St. E., Prince Albert, Sask  | Prince Albert... | June | 17, | 1916 |
+| 8 | 553 | 1511 | 3748 | 1546 | 1051438 | Private  | Steinberg, Max  | Nil  | Braunstein, Israel  | 148 Higgins Ave., Winnipeg, Man  | Prince Albert... | Nov. | 24, | 1916 |
+| 8 | 553 | 1539 | 3747 | 1575 | 1051045 | Regt. Q.M. Sergt. | Steer, Henry James  | 52nd Regt  | Steer, Mrs. Ellen  | 1116'Central Ave., Prince Albert, Sask  | Prince Albert... | June | 26, | 1916 |
+| 8 | 553 | 1568 | 3748 | 1604 | 1051574 | O.R. Sergeant  | Stewart, Arthur  | Nil  | Stewart, May  | Camreach, Advie-on-Spey, Scot  | Saskatoon  | Dec. | 22, | 1916 |
+| 8 | 552 | 1597 | 3747 | 1631 | 1051387 | Private  | Stewart, Donald Wilfred  | Nil  | Canton, Mrs. Alexander  | Big River, Sa3k  | Prince Albert... | Nov. | 4, | 1916 |
+| 8 | 552 | 1626 | 3747 | 1661 | 1051126 | Private  | Still, John  | Nil  | Still, Mrs. Agnes Faith  | 333 10th St. E., Prince Albert, Sask    | Prince Albert... | July | 24, | 1916 |
+| 8 | 552 | 1655 | 3746 | 1689 | 1051292 | Private  | Stonehouse, John  | Nil  | Stonehouse, Mrs. John  | 117 Booth Ave., Toronto, Ont  |  | Sept. | 10, | 1916 |
+| 8 | 553 | 1683 | 3746 | 1718 | 1051294 | Private  | Stonehouse, William  | Nil  | Stonehouse, Mrs. John  | 117 Booth Ave., Torontq, Ont  |  | Sept. | 7, | 1916 |
+| 8 | 552 | 1712 | 3746 | 1747 | 1051398 | Private  | Street, Albert  | Nil  | Street, Henry  | 82 Lowden Rd., Lower Edmonton, London, Eng  |  | Nov. | 1, | 1916 |
+| 8 | 552 | 1741 | 3746 | 1776 | 1051384 | Private  | Summers, Victor Lionel  | Nil  | Summers, Mrs. Elizabeth  | Horsted Keynes, Sussex, Eng  |  | Oct. | 28, | 1916 |
+| 8 | 552 | 1770 | 3746 | 1805 | 1051082 | Private  | Swain, Louis  | Nil  | Swain, Mrs. Mary Christine  | Butterby, Sask  | Prince Albert... | July | 7, | 1916 |
+| 8 | 552 | 1799 | 3746 | 1834 | 1051573 | Private  | Swalles, Arthur Garfield  | Nil  | Swalles, William  | Garrison, N.D., U.S.A  | U.S.A  | Nov. | 24, | 1916 |
+| 8 | 552 | 1825 | 3746 | 1862 | 1051615 | Private  | Talbot, John Clark  | Nil  | Talbot, John  | Comer 22nd St. and Ave. “Q.” Saskatoon, Sask  |  | Mar. | 6, | 1917 |
+| 8 | 552 | 1856 | 3746 | 1892 | 1051340 | Private.'.  | Tardy, Isadore  | Nil  | Tardy, John  | General Delivery, Battleford, Sask   | North Battleford | Oct. | 17, | 1916 |
+| 8 | 552 | 1885 | 3745 | 1921 | 1051161 | Co. Q.M. Sergeant | Taylor, Albert Gordon  | Imperial Forces.. | Taylor, Mrs. Esther  | D’Arcy Stn., Sask  |  | Aug. | 2, | 1916 |
+| 8 | 551 | 1913 | 3746 | 1950 | 1051643 | Private  | Taylor, Charles Edwin  | Nil  | Taylor, Alfred  | 725 Ave. “N." South, Saskatoon, Sask  |  | April | 2, | 1917 |
+| 8 | 551 | 1940 | 3745 | 1978 | 1051203 | Private  | Terrin, Jack  | Nil  | Terrin, George  | Nebenue Ave., Fort William, Ont  |  | Aug. | 31, | 1916 |
+| 8 | 551 | 1969 | 3745 | 2008 | 1051236 | B. Sergeant  | Thompson, Harold  | Territorials  | Ashley, Thompson  | 23rd St., St. Herbert, Keswick, Cumberland, Eng... | Prince Albert... | Sept. | 12. | 1916 |
+| 8 | 551 | 2000 | 3745 | 2037 | 1051066 | Acting Corporal.. | Thorn, Harry Victor  | Nil  | Thorn, Mrs. Emily Mary  | 2017 Sixth Ave. W., Prince Albert, Sask  | Prince Albert... | July | 6, | 1916 |
+| 8 | 551 | 2029 | 3745 | 2066 | 1051171 | Private  | Tingstad, Bjarne Johannes  | Nil  | Dale, Mrs. Margaret  | Bjorgen, Norway  | Saskatoon  | Aug. | 21, | 1916 |
+| 8 | 550 | 2058 | 3745 | 2093 | 1051439 | Private  | Torbet, William Cuthbert  | Nil  | Torbet, Robert Dugen  | 521 Rusholme Rd., Saskatoon, Sask  |  | Nov. | 27, | 1916 |
+| 8 | 550 | 2088 | 3747 | 2123 | 1051603 | Private  | Torrey, Joseph Newell  | U.S. Army  | Torrey, Mrs. EvaBlanche  | Winton, Sa?k  | U.S.A  | Prince Albert... | Feb. | 10, | 1917 |
+| 9 | 609 | 378 | 3801 | 418 | 1051380 | Private  | Traill, Harry  | Nil  | Traill, Walter  |  | Prince Albert... | Nov. | 4, 1916 |
+| 9 | 610 | 407 | 3801 | 447 | 1051620 | Private  | Trouper, Claude  | Nil  | Trouper, Mrs. Mary  | U.S.A  |  | Mar. | 2, 1917 |
+| 9 | 609 | 436 | 3801 | 478 | 1051540 | Private  | Turnbull, George Leyden.. | Nil  | Turnbull, James  |  | Prince Albert... | Dee. | 27, 1916 |
+| 9 | 609 | 465 | 3801 | 506 | 1051374 | Sergeant  | Turner, Archibald Robert. | Nil  | Turner, Mrs. Nellie B  |  |  | Oct. | 19, 1916 |
+| 9 | 582 | 494 | 3801 | 535 | , 1051421 | Private  | Turner, William Joseph  | Nil  | Turner, William    |  |  | Nov. | 18, 1916 |
+| 9 | 575 | 523 | 3801 | 564 | i, 1051115 | Private  | Umpherville, Andrew  | !52nd Regt  | Umpherville, Mrs. Harriet  |  | Prince Albert... | July | 20, 1916 |
+| 9 | 609 | 552 | 3801 | 592 | 1051239, | Private  | Vandal, Norbert  | Nil  | Vandal, Mrs. Virginia Carriere. |  |  | Sept. | 4, 1916 |
+| 9 | 608 | 581 | 3801 | 623 | 1051594 | Private  | Vaughan, Percy Edward... | Nil  | Vaughan, Edward  |  |  | Feb. | 3, 1917 |
+| 9 | 608 | 610 | 3800 | 652 | 1051285 | Private  | Vernon, Aubrey Victor  | |8th Regt  | Ferguson, Mrs. Fred  |  |  | Oct. | 2, 1916 |
+| 9 | 607 | 639 | 3801 | 680 | 1051580 | Private  | Vigneron, Albert Victor  | Nil  | Vigneron, Felix  |  |  | Jan. | 24, 1917 |
+| 9 | 619 | 668 | 3802 | 708 | 234359 | Private  | Walsh, Marshall  | Nil  | Wiicox, Mrs. F  |  |  | Mar. | 15, 1916 |
+| 9 | 608 | 697 | 3801 | 737 | 1051222 | Private  | Ward, Uriah  | Nil  | Ward, Mrs. Mary  |  |  | Aug. | 30, 1916 |
+| 9 | 608 | 725 | 3800 | 766 | 1051592 | Private  | Watson, John Crerar  | Nil  | Watson, Mrs. John C  |  |  | Jan. | 27, 1917 |
+| 9 | 608 | 754 | 3801 | 796 | 1051628 | Private  | Watson, John Findlay  | Nil  | Watson, Mrs. Elspeth  |  |  | Mar. | 20, 1917 |
+| 9 | 607 | 784 | 3800 | 825 | 1051184 | Sergeant  | Wcdderspoon, David  | Imperial Forces | Wedderspoon, Robert  |  |  | Aug. | 5, 1916 |
+| 9 | 607 | 813 | 3801 | 854 | 1051193 | Private  | Wertman, John Philip  | Nil  | Wertman, John Adam  | U.S.A  | Yorkton  | Aug. | 26, 1916 |
+| 9 | 607 | 842 | 3801 | 882 | 1051186 | Private  | Wilkinson, John Earle  | Nil  | Wilkinson, John George  |  |  | Aug. | 23, 1916 |
+| 9 | 606 | 871 | 3801 | 911 | 1051310| | Sergeant  | Williams, Clarence Rubin.. | R.N.W.M.P... | Baden, Mrs. William  | U.S.A  |  | Oct. | 12, 1916 |
+| 9 | 606 | 900 | 3801 | 941 | 1051148 | Private  | Wills, Ernest Philip  | Nil  | Mogg, Mrs. Eliza  |  | North Battleford | 'July | 14, 1916 |
+| 9 | 606 | 929 | 3801 | 970 | 1051268 | Private  | Wilson, John George  | Nil  | Wilson, William George  |  | Prince Albert... | Sept. | 23, 1916 |
+| 9 | 606 | 954 | 3802 | 999 | 1051112 | Private  | Wilson, Joseph Henry  | 52nd Regt  | Hyman, Annie  |  | Prince Albert... | U.S.A  | lJuly | 22, 1916 |
+| 9 | 606 | 987 | 3802 | 1026 | 1051299 | Private  | Wilson, Richard Attwill  | Nil  | Wilson, Mrs. Jane  |  | Saskatoon  | Oct. | 5, 1916 |
+| 9 | 606 | 1016 | 3802 | 1057 | 1051023 | Pioneer Sergeant. | Winter, George Edward  | 30th Regt  | Winter, Mrs. Martha Wilson.... |  | Prince Albert... | U.S.A   | June | 15, 1916 |
+| 9 | 606 | 1045 | 3802 | 1084 | 1051056| | Private  | Winter, John Hubert  | Nil  | Winter, George Edward  |  | Prince Albert... | July | 1, 1916 |
+| 9 | 606 | 1073 | 3802 | 1112 | 1051581 | Private  | Winter, Thomas Willard  | Nil  | Winter, Mrs. R. C  |  |  | Jan. | 24, 1917 |
+| 9 | 606 | 1102 | 3802 | 1142 | 1051646] | Private  | Wise, Harry Conrad  | Nil  | Wise, James  | U.S.A   | Saskatoon  | April | 7, 1917 |
+| 9 | 605 | 1131 | 3803 | 1170 | 1051443 | Private  | Wood, James Golder  | Nil  | Wood, Mrs. Alice Ashby  |  | Prince Albert... | Nov. | 14, 1916 |
+| 9 | 605 | 1160 | 3803 | 1200 | 1051583 | Private  | Wyman, Oscar Edward.... | Nil  | Bernard, Mrs. Jessie  |  |  | Jan. | 26, 1917 |
+| 9 | 604 | 1189 | 3803 | 1227 | 1051303 | Private  | Yoroszewski, Walter  | Nil  | Yoroszewski, Walter  |  |  | Oct. | 5, 1916 |
+| 9 | 605 | 1219 | 3804 | 1258 | 1051511 | Lance-Corporal... | Young, Percy Leroy  | Nil  | Young, Arthur Earnest  |  |  | Dec. | 9, 1916 |
+{% endraw %}

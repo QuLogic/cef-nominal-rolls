@@ -1,0 +1,511 @@
+---
+title: 153rd Battalion
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 153rd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 5m-9-17. | 593-2-29 | EMBARKATION | Port: Halifax, N. S. | Ship: S.S. “Olympic.” | Date: Ap:il. 29th 1917. | 27090—1 |
+| 2 | 717 | 560 | 3246 | 591 | Rank. | Former Corps. |  |  | Country of |
+| 2 | 649 | 704 | 3743 | 738 | Lt.-Colonel  |  | Pritchard, William H  | Fergus, Ont  | Canada  | Hespeler  | Mar. | 19, 1916 |
+| 2 | 1742 | 732 | 3744 | 766 |  |  | Grieve, Mrs. John  | R. R. No. 3, Rockwood, Ont  | Canada  | Guelph  | Mar. | 20, 1916 |
+| 2 | 1739 | 761 | 3743 | 794 |  |  | Justive, Mrs. Ella  | Erin, Ont  | Canada  | Erin  | May | 20, 1916 |
+| 2 | 602 | 789 | 3743 | 825 | — |  | Doughty, Mrs. Edna Ivine.. | 107 Strange St., Guleph, Ont.   | Canada.... | Guelph  | April | 3, 1916 |
+| 2 | 908 | 819 | 3742 | 852 |  | O.T.C  | Paul, Mrs. R. S  | Listowel, Ont  | Canada— | Guelph  | May | 3, 1916 |
+| 2 | 1741 | 848 | 3742 | 881 |  |  | Perry, Mrs. Florence P  | Mount Forest, Ont  | Canada— | Guelph  | Mar. | 30, 1916 |
+| 2 | 645 | 876 | 3742 | 910 | Captain  |  | Pinkerton, John M  | 376 Brunswick Ave.f Toronto, Ont  | Canada— | Mount Forest... | Mar. | 31, 1916 |
+| 2 | 906 | 906 | 3742 | 940 |  |  | Broley, Mrs. W. E  | Elora, Ont  | Canada  | London  | Oct. | 24, 19J6 |
+| 2 | 644 | 934 | 3742 | 967 | Captain   | C.S.C.I  | Scott, E. K  | Palmerston, Ont  | Canada— | Erin  | Mar. | 27, 1916 |
+| 2 | 1410 | 963 | 3741 | 996 |  | 30th Regt... | Wood, Mrs. Edith Clarke... | 806 Main St., YVhitewater, Wis., U.S.A  | Canada  | London  | June | 21, 1916 |
+| 2 | 645 | 991 | 3741 | 1026 | Lieutenant  |  | Brown, Mrs. II. G  | Fergus, Ont  | Canada  | Palmerston  | April | 6, 1916 |
+| 2 | 1409 | 1021 | 3740 | 1054 |  | O.T.C... | Chambers, William Clarke.. | Harriston, Ont  | Canada  | Guelph  | Mar. | 17, 1916 |
+| 2 | 1738 | 1049 | 3741 | 1084 |  |  | Goodman, Charles  | Rayleigh, Essex, Eng  | England... | Guelph  | Mar. | 25, 1916 |
+| 2 | 1736 | 1079 | 3740 | 1111 |  |  | Maclaughlin, John  | Phoenix, B.C  | Canada  | Drayton  | Mar. | 25, 1916 |
+| 2 | 904 | 1107 | 3740 | 1141 |  | O.T.C  | McMullin, Mrs. Ellen  | Blytherwood, Ont  | Canada  | Harriston  | Mar. | 27, 1916 |
+| 2 | 1738 | 1136 | 3740 | 1169 |  |  | Nickle, Mrs. Lottie  | Harriston, Ont  | Canada  | Guelph  | Mar. | 17, 1916 |
+| 2 | 1736 | 1165 | 3740 | 1197 |  |  | Smith, M. Florence  | Elora, Ont  | Canada  | Guelph  | Mar. | 30, 1916 |
+| 2 | 545 | 1194 | 3740 | 1226 | 928017 | Corporal  | Nil  | Abottb, James  | Church St., Trim, Co. Meath, Ire  | Ireland.... | Guelph  | Nov. | 22, 1915 |
+| 2 | 544 | 1223 | 3740 | 1256 | 928699 | Nil  | Dunn, Mrs. Edith  | 12 Jennet Rd., West Croydon, Surrey, Eng  | England... | Erin  | Mar. | 11, 1916 |
+| 2 | 544 | 1251 | 3740 | 1284 | 928804 | Private  | Aitchison, Simon  | Ariss, Ont  | Canada  | Elora  | April | 13, 1916 |
+| 2 | 545 | 1281 | 3739 | 1313 | 928687 | Nil  | Akhurst, John  | Simcoe St., Guelph, Ont  | England.. | Guelph  | Mar. | 7, 1916 |
+| 2 | 544 | 1309 | 3739 | 1342 | 928822 | Nil  | Allen, John T  | Mount Forest, Ont  | Canada  | Guelph  | April | 5, 1916 |
+| 2 | 544 | 1338 | 3739 | 1371 | 928922 | Nil  | Allen, William C  | R. R. No. 5, Mount Forest, Ont  | Canada  | Mount Forest... | July | 31, 1916 |
+| 2 | 543 | 1367 | 3738 | 1401 | 928188 | Nil  | Alpaugh, John Henry  | Fergus, Ont  | Canada  | Fergus  | Dec. | 20, 1915 |
+| 2 | 543 | 1395 | 3739 | 1429 | 928834 | Nil  | Amos, Mrs. Frances  | 3 Wellington St., Guelph, Ont  | Canada  | Guelph  | April | 26, 1916 |
+| 2 | 543 | 1425 | 3738 | 1457 | 928261 | Nil  | Anderson, Isaac Newton.... | Damascus, Ont  | Canada— | Arthur  | Dec. | 13, 1915 |
+| 2 | 543 | 1454 | 3739 | 1486 | 928731 | Nil  | Anderson, William   | Damascus, Ont  | Canada  | Arthur  | Mar. | 25, 1916 |
+| 2 | 542 | 1483 | 3738 | 1514 | 928973 |  | Gilmore, Dr  | Prison Farm, Guelph, Ont  | Canada  | Guelph  | Oct. | 27, 1916 |
+| 2 | 542 | 1511 | 3738 | 1544 | 928348 | Nil  | Ariss, John  | Monck, Ont  | Canada  | Fergus  | Dec. | 31, 1915 |
+| 2 | 542 | 1540 | 3738 | 1573 | 928191 |  | Armstrong, Mrs. Margaret.. | Harriston, Ont  | Canada  | Harriston  | Dec. | 13, 1915 |
+| 2 | 541 | 1569 | 3738 | 1601 | 928004 | Nil  | Arnett, George  | Erin, Ont  | England.... | Guelph  | Nov. | 10, 1915 |
+| 2 | 541 | 1597 | 3738 | 1631 | 928227 | Nil  | Audsley, Mrs. Jeanette  | 11 Erie Terr., Queen St. E., Toronto, Ont  | Canada  | Mount Forest... | Dec. | 1, 1915 |
+| 2 | 542 | 1626 | 3740 | 1659 | 928382 | Nil  | Baker, Mrs. Minnie •. | 31st Ward, Lewisham, London, Eng  | England | Drayton  | Jan. | 7, 1916 |
+| 2 | 542 | 1655 | 3739 | 1688 | 928252 | Nil  | Baker, Andrew  | Mount Forest, Ont  | Canada  | Mount Forest... | Dec. | 15, 1915 |
+| 2 | 543 | 1684 | 3739 | 1716 | 928038 | Nil  | Ball, Mrs. Elizabeth  | 114 Bridge St. E., Guelph, Ont  | England... | Guelph  | Nov. | 29, 1915 |
+| 2 | 543 | 1713 | 3739 | 1745 | 928444 | Nil  | Bamsey, Mrs. Ann  | 20 Morris St., Guelph, Ont      | England... | Guelph  | Jan. | 24, 1916 |
+| 2 | 542 | 1744 | 3030 | 1774 | 928970 | Nil  | Baran, Mrs. Mary  | Zagarow, Aielo, Volinska, Gubemi, Voldimier, Wiezd, |
+| 2 | 2296 | 1771 | 3738 | 1800 |  |  |  | Volosc, Horaskaia, Russia  | Russia  | St. Thomas  | Oct. | 22, 1916 |
+| 2 | 540 | 1800 | 3739 | 1832 | 929002 | Nil  | Barber, David  | Mount Forest, Ont  | Canada.... | Harriston  | Dec. | 7, 1916 |
+| 2 | 540 | 1828 | 3738 | 1860 | 928649 | Nil  | Barber, David  | R. R. No. 5, Wagram, Ont *  | Canada..... | Mount Forest... | Feb. | 25, 1916 |
+| 2 | 541 | 1857 | 3738 | 1889 | 928837 | Nil  | Barnet, W. K  | R. R. No. 3, Fergus, Ont  | Canada.... | Guelph  | April | 29, 1916 |
+| 2 | 539 | 1887 | 3739 | 1918 | D28295 |  | Barnett, Charles  | Calgary, Alta  | Scotland... | Guelph  | Jan. | 8, 1916 |
+| 2 | 540 | 1915 | 3739 | 1946 | 928054 | Nil  | Barnett, Charles  | 206, Hess St., Hamilton, Ont  | Scotland... | Guelph  | Dec. | 4, 1915 |
+| 2 | 540 | 1945 | 3739 | 1976 | 928514 | Nil  | Bates, Mrs. Marion  | 109 Albert St., Camden Town, London, N.W., Eng  | England... | Harriston  | Jan. | 28, 1916 |
+| 2 | 540 | 1974 | 3739 | 2005 | 928200 | Nil  | Bates, Mrs. Marion  | Camden Town, London N.W., Eng  | England... | Harriston  | Nov. | 29, 1915 |
+| 2 | 541 | 2002 | 3739 | 2034 | 928800 | Nil  | Becker, Mrs. Eva May. | Palmerston, Ont  | Canada  | Palmerston  | April | 1, 1916 |
+| 2 | 541 | 2031 | 3739 | 2062 | 928577 | Nil  | Beckner, Mrs. Sarah.... | R.R. No. 2, Conn, Ont  | Canada  | Mount Forest... | Feb. | 5, 1916 |
+| 2 | 541 | 2061 | 3740 | 2092 | 928224 | Nil  | Beley, George Alfred... | Mount Forest, Ont  | Canada  | Mount Forest... | Nov. | 9, 1915 |
+| 2 | 540 | 2089 | 3739 | 2121 | 928910 |  | Bell, Mrs. Agnes  | Elora, Ont  | Canada.... | London  | June | 9, 1916 |
+| 2 | 542 | 2118 | 3739 | 2155 | 928172 | L.-Corporal  | Nil  | Bellamy, Mrs. James... | Belwood, Ont  | Canada  | Fergus  | Dec. | 6, 1915 |
+| 3 | 1842 | 357 | 3849 | 386 |  |  |  | Bender, Mrs. George  |  |  | Palmerston  | Feb. 12, 1910 |
+| 3 | 1843 | 415 | 3850 | 445 |  |  |  |  |  |  |  | Mar. 4, 1916 | Bernhardt, Mrs. Caroline  | Priory Hotel, Guelph, Ont  |
+| 3 | 1843 | 444 | 3850 | 474 |  |  |  |  |  |  |  | Dec. 6, 1915 | Berric, Mrs. Elizabeth  | 12 Higlifield Rd., Rathgar, Dublin, Ire  | Guelph  |
+| 3 | 1843 | 473 | 3849 | 504 |  |  |  |  |  |  |  | Mar. 7, 1910 | Berry, George  | R. 11. No. 1, Hillsburgh, Ont  | Guelph  |
+| 3 | 1518 | 532 | 3850 | 564 |  |  |  |  |  |  |  | Jan. 25, 1910 | Nil   | Bickmore, Mrs. Annie  | 32 Gilderson St., Woolwich, Kent, Eng  |
+| 3 | 1842 | 647 | 3850 | 677 |  |  |  |  |  |  |  | Jan. 7, 1910 | Birch, John William  | England  |
+| 3 | 1844 | 677 | 3850 | 707 |  |  |  |  |  |  |  | Feb. 1, 1910 | French, Mrs. Louisa M  | c/o Dr. K. MacKinnon, Norfolk St., Guelph, Ont  | England  |
+| 3 | 1518 | 792 | 3850 | 825 |  |  |  |  |  |  |  | Dec. 0, 191.5 | Nil   | Blyth, Mrs. R. Y  |
+| 3 | 1518 | 1052 | 3851 | 1084 |  |  |  |  |  |  |  | May 2, 1916 | Nil   | Canada  |
+| 3 | 1518 | 1138 | 3853 | 1170 |  |  |  |  |  |  |  | Jan. 18, 1916 | Nil   | Bramhill, Mrs. Margaret Douglas. | Palmerston  |
+| 3 | 1518 | 1196 | 3852 | 1226 |  |  |  |  |  |  |  | Dec. 21, 1915 | Nil | England  | Guelph  |
+| 3 | 1518 | 1341 | 3853 | 1370 |  |  |  |  |  |  |  | Nov. 27, 1915 | Nil . | Mount Forest... |
+| 3 | 1518 | 1369 | 3853 | 1399 |  |  |  |  |  |  |  | Jan. 28, 1910 | Guelph  | Nil .. | U.S.A  |
+| 3 | 1518 | 1426 | 3853 | 1458 |  |  |  |  |  |  |  | Dec. 31, 1915 | Nil .. | R. R. No. 2, Bel wood, Ont  | Fergus  |
+| 3 | 1518 | 1455 | 3853 | 1484 |  |  |  |  |  |  |  | Jan. 20, 1910 | Palmerston  | Nil |
+| 3 | 1518 | 1483 | 3853 | 1513 |  |  |  |  |  |  |  | Sept.. 23, 1910 | Nil | Swift Current... |
+| 3 | 1518 | 1512 | 3853 | 1542 |  |  |  |  |  |  |  | Sept. 8, 1910 | Arthur  | Nil  |
+| 3 | 1013 | 1542 | 3852 | 1577 |  |  |  |  |  |  |  | Jan. 4, 1910 | Busby, John  | Nil  | England  | Orangeville  |
+| 3 | 1517 | 1571 | 3853 | 1599 |  |  |  |  |  |  |  | Feb. 7, 1916 | Nil | Canada  | Arthur  |
+| 3 | 1517 | 1600 | 3852 | 1628 |  |  |  |  |  |  |  | Mar. 25, 1916 | Nil | Canada  | Fergus  |
+| 3 | 1517 | 1629 | 3853 | 1657 |  |  |  |  |  |  |  | Jan. 4, 1910 | Nil   | Canada  | Guelph  |
+| 3 | 1516 | 1658 | 3853 | 1686 |  |  |  |  |  |  |  | Feb. 15, 1910 | Mount Forest... | Nil... |
+| 3 | 656 | 1716 | 3853 | 1745 |  |  |  |  |  |  |  | Feb. 26, 1910 | 928650 Private. . | Nil  | Mount Forest... |
+| 3 | 656 | 1802 | 3854 | 1834 |  |  |  |  |  |  |  | Mar. 1, 1916 | 928663 Corporal  | Nil  | Canada  |
+| 3 | 656 | 1859 | 3853 | 1888 |  |  |  |  |  |  |  | Jan. 10, 1917 | 928607 Private  | Nil  | Canada  |
+| 3 | 656 | 1922 | 2328 | 1948 | 928718 Private |  | Nil.. | Cookman, Mrs. Emma  |
+| 3 | 3163 | 1945 | 3855 | 1973 |  |  |  |  |  |  |  | Dec. 14, 1916 | U.S.A  | Guelph  |
+| 3 | 1516 | 1974 | 3855 | 2002 |  |  |  |  |  |  |  | Dcc. 27, 1915 | Nil | Orangeville  |
+| 3 | 655 | 2002 | 3855 | 2032 |  |  |  |  |  |  |  | April 13, 1910 | 928874 Private  | Nil . | Guelph  |
+| 3 | 655 | 2032 | 3855 | 2061 |  |  |  |  |  |  |  | April 13, 1910 | 928766 Private .. | Guelph  |
+| 3 | 655 | 2061 | 3855 | 2092 |  |  |  |  |  |  |  | Mar. 24, 1916 | 928875 Private.  | Clark, James Donald  | Clark, James  | Guelph  |
+| 3 | 656 | 2090 | 3854 | 2122 |  |  |  |  |  |  |  | Fob. 28, 1916 | Mount Forest... | 928656 Corporal  | Clarke, Harry Ensko  | Clarke, 1 homas  |
+| 3 | 655 | 2119 | 3855 | 2151 |  |  |  |  |  |  |  | Dec. 2, 1915 | Mount Forest ... | 928228 I,.-Corporal  | Close, William Joseph  | Nil  | Close, Marguerette  |
+| 4 | 700 | 588 | 3232 | 621 | Hank. |  | Former Corps. |
+| 4 | 534 | 732 | 3732 | 766 | 928792 | Private  | Nil.. | Guelph  | April | 3, 1916 |
+| 4 | 535 | 761 | 3732 | 790 |  |  |  | Mount Forest... | Feb. | 28, 1916 | 928655 | Private  | Cockerill, William Thomas  | Nil  |
+| 4 | 535 | 790 | 3732 | 819 | 928739 | Private  | Collie, James  |  | Mar. | 27, 1916 |
+| 4 | 535 | 819 | 3732 | 847 | 928548 | Private  | Nil  |  | Feb. | 11, 1916 |
+| 4 | 535 | 848 | 3732 | 876 | 928189 | L.-Corporal  | Nil  |  | Pec. | 16,1915 |
+| 4 | 535 | 877 | 3732 | 904 | 928386 | Private  | Nil  |  | Jan. | 8, 1916 |
+| 4 | 536 | 906 | 3732 | 934 | 730445 | Private  | Nil  | Galt  | Jan. | 31, 1916 |
+| 4 | 535 | 935 | 3732 | 964 | 928014 | Private  | Cook, William  | Nil  | Nov. | 19, 1915 |
+| 4 | 535 | 964 | 3732 | 994 | 928580 | L.-Corporal  | Cook, William Percy  | Nil  | Feb | 14, 1916 |
+| 4 | 535 | 993 | 3733 | 1021 | 928871 | Private  | Nil  |  | May | 16, 1916 |
+| 4 | 535 | 1023 | 3733 | 1049 | 928659 |  | Nil. |  | Feb. | 25, 1916 |
+| 4 | 535 | 1050 | 3733 | 1080 |  |  |  |  | 15, 1916 | 928912 | Private  | Cooper, Jedediah Ephraim  | July, |
+| 4 | 535 | 1079 | 3733 | 1108 |  |  |  |  | Jan. | 928481 | Private  | Cooper, Sutherland  | Nil  | 25, 1916 |
+| 4 | 535 | 1108 | 3733 | 1138 | 928869 | Private  | Copland, Arthur Hughey  | Nil  | May | 15, 1916 |
+| 4 | 535 | 1136 | 3733 | 1164 | 928368 | Private  | Nil  |  | Dec. | 28, 1915 |
+| 4 | 535 | 1165 | 3733 | 1195 | 928404 | Private  | Corrigan, George  | Nil  | Jan. | 21, 1916 |
+| 4 | 535 | 1195 | 3733 | 1226 | 928802 | Private  | Courtney, William John  | Nil  | Fergus  | Mar. | 23, 1916 |
+| 4 | 534 | 1224 | 3732 | 1251 | 928657 | Private  | Nil  |  | Feb. | 28, 1916 |
+| 4 | 534 | 1253 | 3732 | 1281 | 928359 | Corporal  | Cowan, William Ernest  | Nil  | Dec. | 27, 1915 |
+| 4 | 534 | 1282 | 3731 | 1309 | 928418 | Private  | Nil  |  | 7, 1916 |
+| 4 | 534 | 1311 | 3731 | 1338 | 928966 | Private  | Nil  |  | Oct. | 12, 1916 |
+| 4 | 533 | 1340 | 3730 | 1368 | 928505 | Private  | Craig, Wilmer  | Nil  | Feb | 1, 1916 |
+| 4 | 533 | 1369 | 3730 | 1398 | 652168 | Private  | Nil  |  | April | 7, 1916 |
+| 4 | 532 | 1398 | 3730 | 1431 | 928294 | Private  | Nil  |  | 8, 1916 |
+| 4 | 532 | 1426 | 3730 | 1453 | 928742 | Private  | Nil  |  | Mar. | 25, 1916 |
+| 4 | 532 | 1455 | 3731 | 1483 | 928415 | Private  | Cunningham, Charles  | Nil  | Jan. | 10, 1916 |
+| 4 | 532 | 1483 | 3731 | 1509 | 928435 | Private  |  |  | 20, 1916 |
+| 4 | 532 | 1512 | 3731 | 1540 | 928829 | Corporal  |  |  | Apr. | 5, 1916 |
+| 4 | 532 | 1540 | 3732 | 1569 |  |  |  |  | Dcc. | 928211 | Private  | Dad swell, William Arthur  | 20. 1915 |
+| 4 | 532 | 1568 | 3733 | 1599 | 928801 | Private  | Davidson, Harvey  | Nil  | Apr. | 11, 1916 |
+| 4 | 532 | 1596 | 3734 | 1627 | 928296 | Private  | Nil  | Guelph  | Jan. | 9, 1916 |
+| 4 | 532 | 1624 | 3735 | 1656 |  |  |  | Mount Forest... | 928708 | Private  | Deakin, Albert Victor  | Mar. | 14, 1916 |
+| 4 | 532 | 1652 | 3735 | 1684 | 928016 |  | Nil  | Guelph  | Nov. | 19, 1915 |
+| 4 | 532 | 1681 | 3737 | 1713 | 928320 |  |  |  | Jan. | 1, 1916 |
+| 4 | 532 | 1709 | 3737 | 1737 | 928621 |  |  |  | Feb. | 21, 1916 |
+| 4 | 532 | 1739 | 3738 | 1769 | 928626 |  | Nil  |  | Feb. | 22,1916 |
+| 4 | 531 | 1767 | 3738 | 1798 | 928949 |  | Nil |  | Oct. | 1, 1916 |
+| 4 | 532 | 1796 | 3737 | 1827 | 928340 |  | Nil  |  | Dec. | 24, 1915 |
+| 4 | 531 | 1825 | 3738 | 1856 | 928392 |  | Nil. |  | Jan. | 20, 1916 |
+| 4 | 531 | 1854 | 3738 | 1888 | 928100 |  | Nil. |  | Dec. | 22, 1915 |
+| 4 | 531 | 1882 | 3738 | 1913 | 928015 |  | Nil. |  | Nov. | 19, 1915 |
+| 4 | 531 | 1911 | 3739 | 1943 | 928623 |  | Nil. | Arthur  | Feb. | 21, 1916 |
+| 4 | 531 | 1940 | 3738 | 1969 | 929021 |  |  | Amherstburg... | Jan. | 22, 1917 |
+| 4 | 531 | 1969 | 3738 | 2000 | 928231 |  | Nil . | Mount Forest... | Dec. | 7, 1915 |
+| 4 | 530 | 1998 | 3738 | 2029 | 928793 |  | Nil |  | Apr. | 11,1916 |
+| 4 | 530 | 2027 | 3739 | 2058 | 928552 |  | Nil |  | Feb. | 11, 1916 |
+| 4 | 530 | 2056 | 3739 | 2085 | 928049 |  |  |  | Dec. | 3, 1915 |
+| 4 | 529 | 2085 | 3740 | 2119 | 928603 | Emerson, George  | Nil. |  | Feb. | 16, 1916 |
+| 4 | 530 | 2115 | 3740 | 2147 | 928851 | C.Q.M.S  | Nil |  | Apr. | 24, 1916 |
+| 4 | 529 | 2145 | 3741 | 2178 | Corporal  | 928602 | Everitt, Ernest Henry  | Nil  | Feb. | 15, 1916 |
+| 5 | 2330 | 347 | 3676 | 378 |  |  |  | Palmerston, Ont  | Canada  | Palmerston  | Jan. |
+| 5 | 2330 | 376 | 3687 | 407 |  |  |  | Elora, Ont  | Canada  | Elora  | Feb. |
+| 5 | 639 | 405 | 3678 | 437 | 928489 C.S.M  |  |  | Spring Bank Plains, Aindrie, Lanark, Scot  | Scotland  | Palmerston  | Jan. |
+| 5 | 1500 | 435 | 3682 | 465 |  |  | Nil  | Wallenstein, Ont..  | Canada  | Harriston  | Apr. |
+| 5 | 1499 | 464 | 3685 | 495 |  |  | Nil  | 2556 Main St., Buffalo, N.Y., U.S.A  | Canada  | Guelph   | May |
+| 5 | 1498 | 494 | 3688 | 523 |  |  | Can. Mil  | Elora, Ont  | England  | Elora   | Dec. |
+| 5 | 1499 | 522 | 3689 | 552 |  |  | Nil  | Glencoe, Ont  | Canada  | Mount Forest. | . Dec. |
+| 5 | 2330 | 551 | 3689 | 582 |  |  |  | Stewartstown, Pa„ U.S.A  | U.S.A  | Windsor  | Mar. |
+| 5 | 1500 | 580 | 3690 | 611 |  |  | Nil  | 1602 Dundas St., Toronto, Ont  | Canada  | Fergus  | . Dec. |
+| 5 | 997 | 609 | 3690 | 640 |  | Fitzpatrick, Charles Edmund J.... | Nil  | R. R. No. 4, Kenilworth, Ont  | Canada  | Arthur  | . Mar. |
+| 5 | 1500 | 638 | 3679 | 668 |  |  | Nil  | Salem, Ont  | Canada  | Elora  | . Jan. |
+| 5 | 1500 | 668 | 3690 | 699 |  |  | Nil  | 25 Sprowston, Norwich, Norfolk, Eng  | England  | Guelph  | . Dec. |
+| 5 | 1501 | 697 | 3690 | 727 |  |  | Nil  | Elora, Ont  | Canada  | Guelph  | . Dec. |
+| 5 | 2330 | 725 | 3691 | 755 |  |  |  | Elora, Ont  | Canada  | Elora  | . Feb. |
+| 5 | 1501 | 754 | 3680 | 782 |  |  | Nil  | X^educ Altft « •••••••••••••••••••••••••••••• | Canada  | Harriston  | . Jan. |
+| 5 | 1501 | 783 | 3680 | 815 |  |  | Nil  | Puslinch or P.O. Box 133, Guelph, Ont  | Canada  | Guelph  | . Jan. |
+| 5 | 997 | 812 | 3685 | 843 |  | Fredin, Olaf  |  | London, Ont  | Canada  | Guelph  | . Oct. |
+| 5 | 640 | 841 | 3685 | 872 | 928819 Private  |  | Nil  | Palmerston, Ont  | Canada  | Palmerston  | . Apr. |
+| 5 | 1502 | 870 | 3690 | 902 |  |  | Nil  | 41 Cornwall Rd., Kent, Eng  | England  | Guelph  | . Dec. |
+| 5 | 1502 | 898 | 3690 | 930 |  |  | Nil  | R. R. No. 4, Guelph, Ont  | Canada  | Guelph  | . Mar. |
+| 5 | 1502 | 928 | 3690 | 959 |  |  | Nil  | Mount Forest, Ont  | England  | Mount Forest. | . Dec. |
+| 5 | 640 | 957 | 3696 | 989 | 928001 C.Q.M.S  |  |  | 69 Omar St., Guelph, Ont  | England  | Guelph  | . Nov. |
+| 5 | 1502 | 987 | 3685 | 1018 |  |  | Nil  | Wallaceburg, Ont  | Canada  | Sarnia  | . Apr. |
+| 5 | 2390 | 1043 | 3678 | 1074 |  |  |  | Derewna Peterkovica, Russia  | Russia  | Amherst burg. | , Jan. |
+| 5 | 1502 | 1073 | 3689 | 1105 |  |  | Nil  | Rothsay, Ont  | England.. | Harriston  | . Dec. |
+| 5 | 998 | 1102 | 3685 | 1134 |  | George, Robert ...'  | Nil  | Drayton, Ont  | England.. | Drayton  | . Apr. |
+| 5 | 1502 | 1131 | 3690 | 1162 |  |  | Nil  | 3 Sanders Rd., Sandy Pk., Brislington, Bristol, Eng  | England.. | Guelph  | . Dec. |
+| 5 | 1502 | 1159 | 3680 | 1191 |  |  | Nil  | R. R. No. 4, Fergus, Ont  | Canada.. | Fergus  | . Jan. |
+| 5 | 1502 | 1188 | 3690 | 1220 |  |  | Nil  | Salem, Ont  | Ireland... | Elroa  | . Feb. |
+| 5 | 1502 | 1217 | 3691 | 1249 |  |  | Nil  | 110 Norfolk St., Guelph, Ont  | Canada.. | Guelph  | . Dec. |
+| 5 | 1501 | 1246 | 3686 | 1278 |  |  | Nil   | R. R. No. 1, Mount Forest, Ont  | Canada... | Mount Forest. | . Apr. |
+| 5 | 1501 | 1275 | 3689 | 1308 |  |  | Nil  | 136 Glasgow St., Guelph, Ont  | Canada.. | Guelph  | . May |
+| 5 | 641 | 1304 | 3697 | 1337 | 928221 Private  |  | Nil  | 6 Alwing Ave., Portsmouth, Ont  | Canada.. | Mount Forest. | . Nov. |
+| 5 | 1502 | 1332 | 3696 | 1366 |  |  | Nil  | 185 Liverpool St., Guelph, Ont  | Scotland. | Guelph  | . Sept. |
+| 5 | 1501 | 1362 | 3691 | 1394 |  |  | Nil  | Whitby, Ont  | Canada.. | Arthur  | . Dec. |
+| 5 | 1501 | 1391 | 3691 | 1425 |  |  | Nil  | c/o C. Miller, Erin, Ont  | England.. | Guelph  | . Feb. |
+| 5 | 1502 | 1419 | 3691 | 1452 |  |  | Nil  | Erin, Ont  | Canada.. | Erin  | . Feb. |
+| 5 | 2327 | 1448 | 3691 | 1481 |  |  |  | Arthur, Ont  | Canada.. | Arthur  | . Feb. |
+| 5 | 2327 | 1477 | 3692 | 1508 |  |  |  | 33 Dufferin Ave., Guelph, Ont  | Canada.. | Guelph  | . Dec. |
+| 5 | 641 | 1506 | 3692 | 1538 | 928201 Sergeant  |  | Imp. Forces and S.A.. | Harriston, Ont  | England.. | Harriston  | . Dec. |
+| 5 | 1502 | 1535 | 3687 | 1567 |  |  | Nil  | Palmerston, Ont  | Canada.. | Harriston  | Apr. |
+| 5 | 1501 | 1563 | 3692 | 1596 |  |  | Nil  | R. R. No. 3, Rockwood, Ont  | Canada.. | Guelph  | . Feb. |
+| 5 | 2329 | 1592 | 3686 | 1626 |  |  |  | Pinsk, Russia  | Russia... | London  | . Oct. |
+| 5 | 2329 | 1622 | 3687 | 1654 |  |  |  | Arthur, Ont  | Canada.. | Arthur  | . Apr. |
+| 5 | 642 | 1651 | 3698 | 1687 | 92803G Private  |  | Nil  | Alma, Ont   | Canada.. | Guelph  | . Nov. |
+| 5 | 2389 | 1708 | 3681 | 1740 |  |  |  | Ohobni, Domerna, Russia  | Russia  | Amherstburg. | . Jan. |
+| 5 | 641 | 1737 | 3692 | 1770 | 929006 Private  |  | Nil  | R. R. No. 2, Elora, Ont  | Canada..., | Guelph  | . Dec. |
+| 5 | 998 | 1766 | 3688 | 1799 |  | Hall, John  | Nil  | Alton, Ont  | Canada  | Guelph  | . Apr. |
+| 5 | 642 | 1794 | 3681 | 1827 | 928299 Private  |  | Nil  | R. R. No. 1, Ariss, Ont  | Canada  | Guelph  | Jan. |
+| 5 | 643 | 1823 | 3693 | 1856 | 928751 L.-Corporal  |  | Nil  | Southend, Berks, Eng  | England.. | Erin  | . Mar. |
+| 5 | 643 | 1852 | 3693 | 1885 | 928732 Private  |  | Nil  | R. R. No. 3, Fergus, Ont  | Canada  | Fergus  | . Mar. |
+| 5 | 1500 | 1881 | 3693 | 1913 |  |  | Nil.   | Palmerston, Ont  | Canada... | Palmerston... | . Feb. |
+| 5 | 998 | 1910 | 3693 | 1943 |  | Hammond, Ernest  |  | Fergus, Ont  | England.. | Fergus  | . Dec. |
+| 5 | 643 | 1938 | 3683 | 1971 | 928491 Private  |  |  | Glen Allan, Ont  | Denmark. | Drayton  | . Jan. |
+| 5 | 1499 | 1968 | 3693 | 2000 |  |  | Nil  | Harriston, Ont  | Canada  | Harriston  | . Dec. |
+| 5 | 1500 | 1996 | 3691 | 2029 |  |  | Nil | c/o Major Fraser, 58 Clinton St., Guelph, Ont  | England.. | Guelph  | . May |
+| 5 | 643 | 2025 | 3694 | 2057 | 928754 Private  |  | Nil  | Fergus, Ont  | Canada... | Fergus  | . Mar. |
+| 5 | 1499 | 2053 | 3694 | 2086 |  |  | Nil  | 40 Mitchell St., Guelph, Ont  | England.. | G uelph  | . Dec. |
+| 5 | 642 | 2083 | 3701 | 2115 | 928026 Private  |  | Nil  | 8 Elm St., Cambridge, Eng  | England.. | Guelph  | . Nov. |
+| 5 | 642 | 2112 | 3695 | 2145 | 928989 Private  |  | Nil  | Salem, Ont  | Canada... | Elora  | . Dec. |
+| 6 | 713 | 649 | 3246 | 684 |  | Former Corps. |
+| 6 | 547 | 791 | 3743 | 826 | 928286 | Nil  |  |  | Jan. 5, 1916 |
+| 6 | 548 | 821 | 3743 | 855 | 928646 |  |  |  | Feb. 28, 1916 | Nil  |
+| 6 | 547 | 850 | 3743 | 884 | 92860S |  |  |  | Feb. 19,1916 | Nil  |
+| 6 | 547 | 908 | 3744 | 942 | 92861!) |  |  |  | Feb. 19,1916 | Nil  | R. R. No. 2, Clandeboye, Ont  | Mount Forest... |
+| 6 | 548 | 937 | 3744 | 971 | 92841* |  |  |  | Jan. 8, 1916 | Nil  |
+| 6 | 548 | 965 | 3744 | 1000 | 928755 |  |  |  | Mar. 23, 1916 | Nil  |
+| 6 | 548 | 994 | 3745 | 1031 | 928893 |  |  |  | May 20, 1916 | Nil  |
+| 6 | 547 | 1052 | 3744 | 1087 | 928430 |  |  |  | Jan. 13, 1916 | Nil  | It. R. No. 7, Guelph, Ont  |
+| 6 | 548 | 1082 | 3745 | 1116 | 928778 |  |  |  | Apr. 6, 1916 | Nil  |
+| 6 | 548 | 1110 | 3745 | 1145 | 928889 |  |  |  | May 31, 1916 | Nil  |
+| 6 | 548 | 1138 | 3745 | 1174 | 928511 |  |  |  | Jan. 29, 1916 | Nil  |
+| 6 | 548 | 1167 | 3745 | 1203 | 928216 |  |  |  | Nov. 29, 1915 | Nil  | Mount Forest... |
+| 6 | 548 | 1196 | 3746 | 1232 | 928967 |  |  |  | Oct. 9, 1916 | Nil  |
+| 6 | 548 | 1225 | 3746 | 1261 | 928620 |  |  |  | Feb. 15,1916 | Nil  |
+| 6 | 547 | 1254 | 3746 | 1289 | 928727 |  |  |  | Mar. 18, 1916 | Nil  | Guelph  |
+| 6 | 549 | 1282 | 3746 | 1319 | 928678 |  |  |  | Mar. 4, 1916 | Nil  |
+| 6 | 549 | 1311 | 3747 | 1347 | 928301 |  |  |  | Jan. 10, 1916 | Nil  | Guelph  |
+| 6 | 549 | 1340 | 3746 | 1378 | 929033 |  |  |  | Feb. 15, 1917 |
+| 6 | 549 | 1369 | 3747 | 1405 | 928640 |  |  |  | Feb. 24, 1916 | Nil  | Mount Forest... |
+| 6 | 549 | 1398 | 3747 | 1434 | 928496 |  |  |  | Jan. 31,1916 | Nil  |
+| 6 | 548 | 1428 | 3747 | 1462 | 929000 |  |  |  | Dec. 2, 1916 | Nil  |
+| 6 | 549 | 1456 | 3747 | 1491 | 928920 |  |  |  | Aug. 7, 1916 | Nil  |
+| 6 | 549 | 1485 | 3747 | 1520 | 928905 |  |  |  | June 18,1916 | Nil  | 271 Fordhouse Lane, Stirchley, Birmingham, Eng.... |
+| 6 | 549 | 1599 | 3748 | 1636 | 928932 |  |  |  | Sept. 7, 1916 | Guelph  |
+| 6 | 550 | 1628 | 3748 | 1664 | 928138 |  |  |  | Dec. 29, 1915 | Nil  | Guelph  |
+| 6 | 550 | 1657 | 3748 | 1693 | 928627 |  |  |  | Feb. 22, 1916 | Fergus  |
+| 6 | 550 | 1686 | 3748 | 1722 | 928346 |  |  |  | Jan. 1, 1916 | Nil. |
+| 6 | 550 | 1715 | 3749 | 1751 | 928906 |  |  |  | June 18, 1916 | Nil  | R. R. No. 1, Holstein, Ont  | London  |
+| 6 | 549 | 1744 | 3748 | 1780 | 928104 |  |  |  | Dec. 18, 1915 | Nil  | Guelph  |
+| 6 | 549 | 1773 | 3749 | 1809 | 928341 |  |  |  | Jan. 3, 1916 | Nil  | Fergus  |
+| 6 | 549 | 1802 | 3749 | 1838 | 9283J6 |  |  |  | Dec. 27, 1915 | Mount Forest... | Nil  |
+| 6 | 549 | 1830 | 3750 | 1867 | 928643 |  |  |  | Feb. 26, 1916 | Nil  |
+| 6 | 549 | 1860 | 3749 | 1895 | 928472 |  |  |  | Jan. 24, 1916 | Nil  |
+| 6 | 549 | 1889 | 3750 | 1925 | 9287G1 |  |  |  | Mar. 23, 1916 | Nil  |
+| 6 | 549 | 1917 | 3750 | 1954 | 928757 |  |  |  | Mar. 23, 1916 | Nil  |
+| 6 | 548 | 1946 | 3750 | 1982 | 928449 |  |  |  | Jan. 17, 1916 | Nil  |
+| 6 | 548 | 1976 | 3750 | 2012 | 928400 |  |  |  | Jan. 21, 1916 | Nil  |
+| 6 | 549 | 2004 | 3751 | 2040 | 928690 |  |  |  | Mar. 8, 1916 | Nil  | Erin  |
+| 6 | 549 | 2033 | 3751 | 2069 | 928576 |  |  |  | Feb. 11, 1916 | Mount Forest... | Nil  |
+| 6 | 548 | 2062 | 3752 | 2098 | 928968 |  |  |  | Sept. 30, 1916 | London  | Nil  |
+| 6 | 549 | 2092 | 3751 | 2127 | 929030 |  |  |  | Jan. 29, 1917 | Amherstburg... | Nil  |
+| 6 | 549 | 2124 | 3051 | 2156 | 929017 | Nil  | Walinska Gub,. Kriminecko Uiezd, Bureckoi, Woloste |
+| 6 | 549 | 2179 | 3752 | 2214 | 928255 |  |  |  | Dec. 7, 1915 | Nil  |
+| 6 | 549 | 2207 | 3753 | 2247 | 928956 | Russian Army  |  | London  | I.Sept. 30, 1916 |
+| 7 | 998 | 384 | 2174 | 412 |  | Laidlaw, Archibald Roy  | Nil  | Laidlaw, John I  |
+| 7 | 639 | 463 | 3829 | 498 | 928898 Private  |  | Nil  | Lane, Mrs. Ellen  |  |  |  | June | 12, 1910 |
+| 7 | 639 | 499 | 2175 | 527 | 928897 Private  |  | Nil  | Lane, Mrs. Emma  |
+| 7 | 3382 | 522 | 3829 | 550 |  |  |  |  |  |  | Fergus  | Dec. | 24,1915 |
+| 7 | 3382 | 550 | 3830 | 578 |  |  |  |  |  |  | Mount Forest... | Feb. | 16, 1916 |
+| 7 | 638 | 616 | 2178 | 644 | 928824 Private  |  | Nil  | Lazenby, Mrs. Elsie  |
+| 7 | 3384 | 696 | 3831 | 724 |  |  |  |  |  |  | Guelph  | Nov. | 25, 1916 |
+| 7 | 638 | 703 | 2178 | 730 | 928972 Private  |  | Nil  | Leader, Mrs. Margaret.. |
+| 7 | 3384 | 812 | 3831 | 840 |  |  |  |  |  |  | Guelph  | Nov. | 29, 1915 |
+| 7 | 637 | 841 | 3831 | 875 | 928263 C.S.M  |  |  | Lennox, Mrs. Sarah  |  |  |  | Dcc. | 18, 1916 |
+| 7 | 1502 | 873 | 3128 | 904 |  |  | Nil  | Lesneik, Mrs. Mary  | Grodenskoi Gub., Kobunskavo Niezd, Pruskooskoi, |
+| 7 | 3384 | 898 | 3830 | 927 |  |  |  |  |  |  | Amherstburg... | Jan. | 12, 1917 |
+| 7 | 637 | 935 | 2318 | 964 | 928322 Private  | Lillie, Leonard Roy  | C.F.A  | Lillie, Mrs. Thomas  |
+| 7 | 1503 | 1015 | 3831 | 1048 |  |  | Nil  | Lovelock, Mrs. Emily  |  | Wales  |  | Aug. | 15, 1916 |
+| 7 | 636 | 1050 | 2318 | 1079 | 928173 B.S.M  | Low, William  |  | Low, David  |
+| 7 | 1504 | 1072 | 3831 | 1105 |  |  | Nil  | MacLean, Alexander  |  |  | Guelph  | Mar. | 21, 1916 |
+| 7 | 1832 | 1101 | 3832 | 1135 |  |  |  | Magnus, Michael  |  | Canada  |  | Jan. | 5, 1916 |
+| 7 | 635 | 1159 | 3832 | 1194 | 928305 C.Q.M.S  |  | Nil  | Mahoney, Mrs. Ellen  | Hopkinton, Mass., U.S.A  | U.S.A  |  | Dcc. | 20, 1915 |
+| 7 | 634 | 1187 | 3832 | 1221 | 929027 Private  |  | Nil  | Major, Edward  |  | England  |  | Jan. | 29, 1917 |
+| 7 | 1504 | 1216 | 3833 | 1249 |  |  | Nil  | Manion, Mrs. Elizabeth  |  | Canada  | Mount Forrest.. | Feb. | II, 1916 |
+| 7 | 3387 | 1246 | 3833 | 1273 |  |  |  |  |  |  | Palmerston  | Mar. | 7, 1916 |
+| 7 | 636 | 1252 | 2318 | 1278 | 928684 Private  |  | Nil  | Harris, Mrs. Catherine  |
+| 7 | 1503 | 1273 | 3833 | 1309 |  |  | Nil  | Mapp, Mrs. Amelia  |  |  | Mount Forest... | Feb. | 15, 1916 |
+| 7 | 1503 | 1304 | 3833 | 1337 |  |  | Nil  | Marriott, Mrs. Beatrice  |  |  | Guelph  | Nov. | 23, 1915 |
+| 7 | 1504 | 1332 | 3833 | 1367 |  |  | Nil  | Martin, George  |  |  | Guelph  | Jan. | 31, 1916 |
+| 7 | 636 | 1362 | 3834 | 1395 | 929042 Private  |  | Nil  | Bell, Mrs. Florence  |  | Canada  |  | Mar. | 28, 1916 |
+| 7 | 635 | 1391 | 3834 | 1424 | 928681 Private  |  | Nil  | Matthews, Samuel  | R. R. No. 3. Clifford. Ont   |  |  | Mar. | 4, 1916 |
+| 7 | 1503 | 1419 | 3834 | 1453 |  |  | Nil  | Matthews, Mrs. Gertrude May  | 138 Montcalm St. E., Detroit, Mich., U.S.A  |  |  | Sept. | 18, 1916 |
+| 7 | 1503 | 1449 | 3834 | 1483 |  |  | Nil  | Matthews, Humphrey  |  |  | Fergus  | Mar. | 24, 1916 |
+| 7 | 1502 | 1478 | 3834 | 1511 |  |  | Nil  | McBride, Mrs. Margaret  |  |  | Mount Forest... | Feb. | 28, 1916 |
+| 7 | 1830 | 1507 | 3834 | 1539 |  |  |  | McCulloch, William  |  |  | Harriston  | Dec. | 14, 1915 |
+| 7 | 633 | 1536 | 3834 | 1568 | 928225 Private  |  | Nil  | McCullough, Mrs. Lizzie  |  |  | Mount Forest... | Nov. | 27, 1915 |
+| 7 | 1830 | 1565 | 3835 | 1596 |  |  |  | McDonald, Miss Pearl  |  |  | Elora  | Jan. | 31, 1916 |
+| 7 | 1502 | 1594 | 3835 | 1624 |  |  | Nil  | McEwen, James  |  |  | Mount Forest... | Mar. | 15, 1916 |
+| 7 | 993 | 1623 | 3835 | 1656 |  | McGimsie, Durward A  | S. A  | McGimsie, Mrs. Maud  |  |  | Guelph  | May | 6, 1916 |
+| 7 | 993 | 1652 | 3835 | 1686 |  | McGregor, Arthur Richardson  | Nil  | McGregor, Robert  |  |  |  | Jan. | 24, 1916 |
+| 7 | 1501 | 1681 | 3836 | 1713 |  |  | Nil  | McHardy, Mrs. Annie Thompson. |  |  |  | Mar. | 24, 1916 |
+| 7 | 1500 | 1708 | 3836 | 1741 |  |  | Nil  | McLean, Mrs. Margaret  |  |  |  | Mar. | 25, 1916 |
+| 7 | 1831 | 1739 | 3836 | 1768 |  |  |  | McMillan, William  |  |  | Erin  | May | 27, 1916 |
+| 7 | 634 | 1765 | 3836 | 1799 | 928654 Private  |  | Nil  | McNair, Mrs. Emma Place   |  |  | Mount Forest... | Feb. | 29, 1916 |
+| 7 | 634 | 1796 | 3836 | 1828 | 928234 Private   |  |  | McNamara, Mrs. Mary  |  |  | Mount Forest... | Dec. | 8, 1915 |
+| 7 | 634 | 1825 | 3836 | 1856 | 928235 Private  |  | Nil  | McPhaden, Mrs. Elizabeth M  |  |  | Mount Forest... | Dec. | 6, 1915 |
+| 7 | 634 | 1854 | 3836 | 1885 | 928217 Private  |  | Nil  | McPhaden, Mrs. Elizabeth M  |  |  | Mount Forest... | Nov. | 15, 1915 |
+| 7 | 994 | 1884 | 3837 | 1914 |  | McTavish, Norman Frederick  | Nil  | McTavish, Neil  |  |  | Arthur  | Mar. | 14, 1916 |
+| 7 | 1501 | 1912 | 3837 | 1943 |  |  | Nil  | Mew, Mrs. S   |  |  | Drayton  | Jan. | 18. 1916 |
+| 7 | 1501 | 1941 | 3838 | 1972 |  |  | Nil  | Miller, Mrs. Anne   |  | Canada  |  | April | 3, 1916 |
+| 7 | 634 | 1969 | 3838 | 2001 | 928666 Private  |  | Nil  | Miller, Wiliam  |  | Canada  | Drayton  | Feb. | 25, 1916 |
+| 7 | 635 | 1999 | 3838 | 2031 | 928485 Private  | Miller, Thomns Wilson  | Nil  | Miller, James  | Glasgow, Scot  | Scotland  | Drayton  | Jan. | 27, 1916 |
+| 7 | 635 | 2033 | 3127 | 2060 | 928768 Private  | Milne, Frederick Charles  | Nil  | Milne, Robert  | Eloro, Ont  |
+| 7 | 3390 | 2056 | 3838 | 2084 |  |  |  |  |  |  | Guelph  | Feb. | 17, 1916 |
+| 7 | 1502 | 2085 | 3838 | 2117 |  |  | Nil  | Minshall, Mrs. Annie  |  |  |  | Feb. | 1, 1916 |
+| 7 | 635 | 2115 | 3839 | 2147 | 928135 Private  | Moir. James Gorrie  | Nil  | Moir, Mrs. Agnes   | R. R. No. 1, Bel wood, Ont  | Canada  | Fergus  | Dei;. | 20, 1915 |
+| 8 | 724 | 603 | 3242 | 633 |  | Former Corps. | Country of |
+| 8 | 543 | 746 | 3741 | 774 | 928526 | Nil  |  | Guelph  | Feb. | 5, 1916 |
+| 8 | 543 | 775 | 3741 | 803 | 928355 | Nil  |  | Mount Forest... | Dec. | 27, 1915 |
+| 8 | 543 | 804 | 3742 | 832 | 928713 |  | U.S.A  | Mount Forest... | Mar. | 14, 1916 |
+| 8 | 543 | 833 | 3741 | 861 | 928454 | Nil  | Canada  | Palmerston  | Jan. | 7, 1916 |
+| 8 | 543 | 862 | 3741 | 890 | 928245 | Nil  |  | Mount Forest... | Dec. | 13, 1915 |
+| 8 | 541 | 891 | 3742 | 919 | 928774 | Nil  |  | Harriston  | Mar. | 28, 1916 |
+| 8 | 540 | 920 | 3741 | 948 | 928748 | Nil  |  | Harriston  | Mar. | 28, 1916 |
+| 8 | 539 | 949 | 3741 | 977 | 928029 | Nil  |  | Guelph  | Nov. | 26, 1915 |
+| 8 | 539 | 978 | 3742 | 1006 | 928773 | Nil  |  | Mount Forest... | Mar. | 28, 1916 |
+| 8 | 540 | 1007 | 3741 | 1035 | 928815 | Nil  |  | Harriston  | April | 17, 1916 |
+| 8 | 541 | 1036 | 3741 | 1064 | 928079 | Nil  |  | Guelph  | Dec. | 8, 1915 |
+| 8 | 540 | 1064 | 3742 | 1093 | 928928 | Nil  |  | Guelph  | Sept. | 11. 1916 |
+| 8 | 541 | 1094 | 3742 | 1121 | 928680 | Nil  | Canada. | Mount Forest... | Mar. | 4,1916 |
+| 8 | 3051 | 1150 | 3741 | 1178 |  |  | Russia... | Amherstburg... | Jan. | 22, 1917 |
+| 8 | 540 | 1180 | 3742 | 1209 | 274062 | Nil  | England. | Ottawa  | Feb. | 7, 1917 |
+| 8 | 540 | 1208 | 3743 | 1237 | 928237 | Nil  |  | Mount Forest... | Dec. | 6, 1915 |
+| 8 | 540 | 1238 | 3743 | 1266 | 928456 |  |  | Harriston  | Dec. | 31, 1916 |
+| 8 | 540 | 1267 | 3038 | 1297 | 929024 |
+| 8 | 3051 | 1295 | 3743 | 1323 |  |  | Russia  | Amherstburg... | Jan. | 22, 1917 |
+| 8 | 540 | 1324 | 3743 | 1353 | 928482 | Nil  | Canada.... | Drayton  | Jan. | 25,1916 |
+| 8 | 538 | 1353 | 3743 | 1383 | 928024 | Nil   | England... | Guelph  | Dec. | 2, 1915 |
+| 8 | 538 | 1382 | 3744 | 1410 | 928753 | Nil  | U.S.A  | Mount Forest... | Mar. | 18, 1916 |
+| 8 | 537 | 1411 | 3744 | 1439 | 928273 | Nil  | Canada  | Guelph  | Jan. | 3, 1916 |
+| 8 | 537 | 1440 | 3744 | 1468 | 928710 | Nil  | Canada  | Drajrton  | Mar. | 7, 1916 |
+| 8 | 536 | 1468 | 3744 | 1497 | -928532 | Nil  | Canada.... | Fergus  | Feb. | 3, 1916 |
+| 8 | 535 | 1497 | 3744 | 1526 | -928694 | Nil  | Canada  | Mount Forest... | Mar. | 9, 1916 |
+| 8 | 535 | 1526 | 3744 | 1555 | •928692 | Nil  | Canada  | Arthur  | Mar. | 11, 1916 |
+| 8 | 535 | 1556 | 3745 | 1585 | U29015 | Nil  | Belgium... | Windsro  | Dcc. | 26, 1916 |
+| 8 | 535 | 1584 | 3744 | 1612 | •928218 | Nil  | Canada  | Mount Forest... | Nov. | 9, 1915 |
+| 8 | 536 | 1613 | 3745 | 1641 | 838368 | Nil  | Canada  | Owen Sound... | Nov. | 30, 1915 |
+| 8 | 538 | 1641 | 3746 | 1670 | 92896? |  | Russia  | London  | Oct. | 10, 1916 |
+| 8 | 537 | 1670 | 3746 | 1699 | 928979 | Nil  | Roumania. | St. Thomas  | Nov. | 11, 1916 |
+| 8 | 538 | 1699 | 3746 | 1728 | 928809 | Nil  | Canada.... | Guelph  | Mar. | 22, 1916 |
+| 8 | 538 | 1728 | 3746 | 1757 | 928095 | Nil  | Canada  | Guelph  | Dec. | 16, 1915 |
+| 8 | 534 | 1757 | 3747 | 1786 | 928707 | Nil  | Canada  | Guelph  | Mar. | 11, 1916 |
+| 8 | 534 | 1786 | 3747 | 1815 | 328561 | Nil  | Canada  | Palmerston.... | Feb. | 12, 1916 |
+| 8 | 534 | 1815 | 3746 | 1845 | ■928132 |  | England... | Guelph  | Dec. | 13, 1915 |
+| 8 | 535 | 1844 | 3747 | 1873 | 928181 | Nil  | Canada.... | Fergus  | Dec. | 7, 1915 |
+| 8 | 534 | 1872 | 3747 | 1902 | 928709 |  | Canada  | Elora  | Mar. | 17, 1916 |
+| 8 | 534 | 1902 | 3747 | 1931 | 928239 | Nil  | Canada  | Mount Forest... | Dec. | 8, 1916 |
+| 8 | 535 | 1931 | 3747 | 1959 | 928844 | Nil  | Canada.... | Mount Forest... | April | 21, 1916 |
+| 8 | 537 | 1959 | 3748 | 1989 | 928459 | Nil  | Canada.... | Harriston.... | Jan. | 10, 1916 |
+| 8 | 537 | 1989 | 3747 | 2018 | 928085 | Nil  | Canada.... | Guelph  | Dec. | 10, 1915 |
+| 8 | 536 | 2017 | 3749 | 2046 | 225208 |  | Canada.... | Hamilton.... | Oct. | 20, 1916 |
+| 8 | 536 | 2047 | 3749 | 2076 | 928840 |  | Canada.... | Mount Forest... | April | 20, 1916 |
+| 8 | 535 | 2076 | 3749 | 2105 | 928393 | Nil  | Canada  | Palmerston.. | Jan. | 13, 1916 |
+| 8 | 535 | 2105 | 3747 | 2133 | 928484 | Nil  | Canada.... | Mount Forest... | Jan. | 26, 1916 |
+| 8 | 535 | 2133 | 3749 | 2163 | 928528 |  | Canada.... | Elora  | Feb. | 5, 1916 |
+| 8 | 536 | 2162 | 3749 | 2192 | 928260 |  | Canada  | Arthur  | Dec. | 14, 1915 |
+| 9 | 646 | 362 | 3708 | 397 | 028976 | Private  | Price, Edward Joseph  | Nil  | Price, Albert  | 31 Ducat St., London, Eng  Wales. |  | Fergus  | . Nov. |
+| 9 | 645 | 391 | 3701 | 428 | 928158 | Sergeant  | Price, George  | S.A  | Price, Mrs. Lavina  | Orangeville, Ont Ireland. |  | Orangeville  | . Dec. |
+| 9 | 645 | 420 | 3707 | 455 | 928795 | Private  | Pritchard, Harry Scarf  | Nil. | Pritchard, Mrs. M. M  | Harriston, Ont Canada. |  | Harriston  | . April |
+| 9 | 645 | 449 | 3701 | 484 | 928664 | Private  | Pritchard, Raymond  | Nil. | Pritchard, Mrs. Emma  | Harriston, Ont Canada. |  | Guelph  | . Mar. |
+| 9 | 644 | 478 | 3689 | 514 | 928395 | Sergeant  | Pugh, Ellis  | Imp. Forces.... | Pugh, Mrs. Amy  | Palmerston, Ont England. |  | Palmerston.... | . Jan. |
+| 9 | 644 | 507 | 3690 | 544 | 928390 | L.-Corporal  | Quarrie, John   | Nil  | Quarrie, Mrs. Mary  | 688o Brock Ave., Toronto, Ont Canada. |  | Guelph  | Jan. |
+| 9 | 644 | 536 | 3701 | 572 | 928783 | Private  | Quinn, James  | Nil  | Quinn, Patrick  | Hazelbrook, Rathfarnham, Co., Dublin, Ire  Ireland. |  | Fergus  | . Mar. |
+| 9 | 644 | 566 | 3701 | 599 | 928711 | Private  | Rachar, Telma Ernest  | Nil   | Rachar, Brock  | Mount Forest, Ont Canada. |  | Guelph  | . Mar. |
+| 9 | 644 | 592 | 3699 | 629 | 928595 | Private  | Reed, Henry  | Nil  | Reed, Mrs. Catharine  | 21 Lawrence St., Canning Town, London E., Eng England. |  | Mount Forest . | . Feb. |
+| 9 | 644 | 623 | 3690 | 658 | 928384 | Private  | Reynolds, Russell Radford... | Nil  | Reynolds, Mrs. W  | Mount Forest, Ont Canada. |  | Palmerston  | . Jan. |
+| 9 | 644 | 653 | 3702 | 687 | 928351 | Private  | Richards, George Wellington. | 32nd Rcgt  | Richards, Wellington  | Harriston, Ont Canada. |  | Harriston  | . Dec. |
+| 9 | 644 | 681 | 3702 | 718 | 928069 | Corporal  | Riddell, Frederick  | Nil  | Riddell, Mrs. Beatrice  | Palmerston, Ont England. |  | Guelph  | . Dec. |
+| 9 | 644 | 710 | 3702 | 745 | 928164 | Private  | Riddolls, Elijah  | C.A.S.C  | Riddolls, Charles  | Guelph, Ont Canada. |  | Elora  | . Dec. |
+| 9 | 645 | 739 | 3691 | 775 | 928405 | Private  | Riley, Harold Joseph  | Nil  | Riley, Thomas  | Elora, Ont Canada. |  | Elora  | . Jan. |
+| 9 | 644 | 768 | 3700 | 802 | 928849 | Private  | Rimmer, James  | Imp. Forces  | Rimmer, Mrs. Emily Anne... | 11 Atort St., Bolton, Lancs., Eng England. |  | Guelph  | . May |
+| 9 | 644 | 797 | 3701 | 831 | 928565 | Private  | Rinn, Elgin  | Nil  | Angus, Mrs. Susan  | Stockton, Man Canada. |  | Palmerston... | . Feb. |
+| 9 | 645 | 826 | 3703 | 862 | 928720 | L.-Corporal  | Roberts, Llewellyn  | Nil  | Roberts, Llewellyn  | Elora, Ont Canada. |  | Elora  | . Mar. |
+| 9 | 645 | 855 | 3691 | 891 | 928462 | L.-Corporal  | Robertson, George Edward.. | Nil  | Robertson, Mrs. Martha  | Elora, Ont Canada. |  | Elora  | . Jan. |
+| 9 | 645 | 884 | 3702 | 920 | 928182 | Sergeant  | Robertson, Harold  | Nil  | Robertson, Andrew  | Calcutta, India Scotland. |  | Fergus  | . Dec. |
+| 9 | 645 | 913 | 3691 | 949 | 928463 | L.-Corporal  | Robertson, James Stuart  | Nil  | Robertson, James  | Drayton, Ont Canada.. |  | Drayton  | Jan. |
+| 9 | 645 | 942 | 3702 | 976 | 929009 | Private  | Robic, Anaini  | Russian Army. | Robic, Mrs. Katiy  | Kovel, Russia  Russia. |  | Amherstburg. | . Dec. |
+| 9 | 645 | 970 | 3710 | 1005 | 928975 | Private  | Rogers, Albert  | Nil  | Rogers, Job   | Elora, Ont Canada. |  | Guelph  | . Nov. |
+| 9 | 646 | 999 | 3692 | 1033 | 928389 | Private  | Rogers, Frank Ire  | Nil  | Rogers, Mrs. Wing  | Fordwich, Ont Canada. |  | Harriston  | . Jan. |
+| 9 | 646 | 1028 | 3703 | 1062 | 928165 | Private  | Rogers, George Edward  | Nil  | Rogers, Job  | Salem, Ont Canada. |  | Elora  | . Dec. |
+| 9 | 646 | 1057 | 3703 | 1091 | 928269 | Private  | Rogers, William Thomas  | Nil  | Rogers, Harry  | Wiarton, Ont Canada. |  | Guelph  | . Dec. |
+| 9 | 649 | 1086 | 3708 | 1121 | 126974 | O.R. Sergeant.... | Roschman, Samuel Hughes. | 108th Regt  | Roschman, Mrs. Wilhelmina. | 55 Mary St., Kitchener, Ont Canada. |  | Berlin  | . Sept. |
+| 9 | 647 | 1114 | 3696 | 1149 | 928921 | Private  | Roy, Robert   | Territorials  | Roy, Mrs. Margeret  | 12 Carden St., Guelph, Ont Scotland. |  | Guelph  | . July |
+| 9 | 647 | 1144 | 3710 | 1176 | 928025 | Private  | Rudman, Albert  | Nil  | Ridman, James  | Bath, Somerset, Eng England. |  | Guelph   | . Nov. |
+| 9 | 647 | 1173 | 3139 | 1207 | 929034 | Private  | Ruthowsky, Alexander  | Russian Army. | Ruthowsky, Mrs Warwara. . | Minskoie Gub., Mozerskoka Niezd Pocta Volose Rzil- |
+| 9 | 2401 | 1201 | 3703 | 1230 |  |  |  |  |  | kowice, Russia  | Russia... | Windsor. | . Feb. |
+| 9 | 647 | 1230 | 3703 | 1263 | 928047 | Private. | St. Clair, James Grant. | Nil. | St. Clarir, Henry  | Honeywell Lane, London, Eng  | England. | Windsor. | Dec. |
+| 9 | 647 | 1257 | 3139 | 1293 | 928987 | Private. | Salmon, James  | Nil. | Salmon, Mrs. Mary  | c/o Rev. Father Callaghan, St. Urbain St., Montreal, |
+| 9 | 3152 | 1287 | 3711 | 1316 |  |  |  |  |  |  | England  | Guelph  | . Nov. |
+| 9 | 648 | 1316 | 3693 | 1352 | 928551 | Corporal.... | Sanders, George  | 30th Regt  | Sanders, Jean  | Erin, Ont  | Canada  | Erin  | Jan. |
+| 9 | 648 | 1345 | 3702 | 1378 | 928887 | Private  | Sanderson, Fred  | 30th Regt  | McLaughlin, Mrs. S. J  | Harriston, Ont  | Canada  | Harriston  | May |
+| 9 | 648 | 1374 | 3705 | 1407 | 928770 | Private  | Scarlett, Rol>ert William... | Nil  | Scarlett, Mrs. Madeline  | Mount Forest, Ont  | Canada  | Mount Forest.. | . Mar. |
+| 9 | 648 | 1402 | 3710 | 1436 | 928946 | Private  | Schechter, Morris  | Nil  | Lunenfeld, Mrs. Minnie  | 59 Spruce St., Galt, Ont  | U.S.A  | London  | Sept. |
+| 9 | 648 | 1431 | 3705 | 1465 | 219010 | Private  | Schell, John  | Can. Mil  | Schell, John  | 213 Lisgar St., Toronto, Ont  | Canada  | Guelph  | . Dec. |
+| 9 | 649 | 1460 | 3695 | 1493 | 928363 | Private  | Schmidt, David Leonard... | Nil  | Schmidt, Mrs. Luella  | Kenilworth, Ont  | Canada  | Mount Forest.. | . Jan. |
+| 9 | 649 | 1489 | 3706 | 1524 | 730579 | Private  | Schupp, Percy Albert  | Nil  | Schupp, Casper  | c/o Mrs. Coker, 46 Derby Rd., Essex, Eng  | England  | Galt  | Mar. |
+| 9 | 649 | 1517 | 3699 | 1552 | 928965 | Private  | Schweitz, Joseph  | Nil  | Schweitz, Mrs. Mary  | 44 Ruskin Ave., Toronto, Ont  | Russia  | Guelph  | . Oct. |
+| 9 | 650 | 1545 | 3695 | 1582 | 928311 | Sergeant  | Scott, David Herbert  | Can. Mil   | Scott, Mrs. Elva  | Elora, Ont  | Canada  | Elora  | . Jan. |
+| 9 | 650 | 1574 | 3706 | 1610 | 028764 | Private  | Scott, Edward  | Nil  | Scott, Andrew  | R. R. No. 1, Puslinch, Ont  | Canada  | Guelph  | Mar. |
+| 9 | 650 | 1603 | 3703 | 1639 | 928856 | Sergeant.... | Scudamore, George Ernest. | 30th Regt  | Scudamore, Mrs. C  | Fergus, Ont  | Canada  | Guelph  | . May |
+| 9 | 650 | 1632 | 3704 | 1667 | 928515 | Private  | Seaman, Samuel  | 30th Regt  | Seaman, Mrs. Mary  | Mount Forest, Ont  | Canada  | Mount Forest.. | . Feb. |
+| 9 | 650 | 1661 | 3711 | 1696 | 928222 | Private  | Sedore, Stanley Carl  | Nil  | Sedore, Edward  | Ravenshoe, Ont  | Canada  | Mount Forest.. | . Nov. |
+| 9 | 651 | 1691 | 3706 | 1726 | 730 61 | L.-Corporal. | Senior, Arthur  | Nil  | Senior, Mrs. Emma  | Preston, Ont  | England  | Preston  | . Dec. |
+| 9 | 651 | 1719 | 3694 | 1753 | 928321 | Private  | Shafer, Wilbert Roy  | Nil  | Shafer, Alonzo  | Elora, Ont  | Canada  | Elora  | Jan. |
+| 9 | 651 | 1748 | 3705 | 1783 | 928630 | Corporal.... | Shaw, Albert  | Nil  | Shaw, John  | Arthur, Ont  | Canada  | Arthur  | . Feb. |
+| 9 | 651 | 1777 | 3705 | 1811 | 928543 | Private  | Shaw, John Harold  | Nil  | Shaw, Fred  | R. R. No. 2, Arthur, Ont  | Canada  | Arthur  | . Feb. |
+| 9 | 651 | 1806 | 3706 | 1840 | 918697 | Private  | Shaw, Russell  | Nil  | Shaw, Edgar  | R. R. No. 2, Arthur, Ont  | Canada  | Arthur  | Mar. |
+| 9 | 652 | 1835 | 3705 | 1869 | 880034 | Private  | Shaw, William Harry  | Nil  | Shaw, Andrew  | 207 Selkirk, St., Chatham, Ont  | Canada  | Chatham  | . Feb. |
+| 9 | 652 | 1863 | 3695 | 1897 | 928319 | Private  | Slierrer, Frank Joseph  | Nil  | Sherrer, Mrs. Mary  | Elora, Ont  | Canada  | Elora  | . Jan. |
+| 9 | 652 | 1892 | 3695 | 1926 | 928366 | Private  | Shortt, William  | Nil  | Shortt, Elijah  | Arthur, Ont  | Canada  | Arthur  | . Jan. |
+| 9 | 653 | 1921 | 3706 | 1955 | 929037 | Private  | Shulshuk, Stephen  | Russian Army. | Krohchak, Mrs. Tilly  | 119 Hewitt Ave., Hamtramick, Detroit, Mich., U.S.A. | Russia  | Windsor  | . Feb. |
+| 9 | 653 | 1950 | 3695 | 1985 | 929014 | Private  | Shumsky, Jon  | Nil  | Shumsky, Mrs. Teckla  | Norchewiche, Grodno, Russia  | Russia  | Windsor  | . Jan. |
+| 9 | 654 | 1978 | 3706 | 2014 | 928091 | Private  | Simpson, James  | Nil  | Simpson, James R  | Alton, Ont  | Scotland  | Guelph  | . Dcc. |
+| 9 | 654 | 2007 | 3695 | 2041 | 928343 | Private  | Skcoch, James Ernest  | 30th Regt  | Skeoch, James  | Fergus, Ont  | Canada  | Fergus  | . Jan. |
+| 9 | 655 | 2036 | 3706 | 2071 | 928244 | Sergeant.... | Skinner, Herbert John  | Nil  | Skinner, Mrs. Marian  | 1 Bevington Rd., Oxford, Eng  | England  | Mount Forest.. | . Dcc. |
+| 9 | 655 | 2065 | 3699 | 2100 | 928914 | Corporal | Sluboski, Edward  | Nil  | Sloboski, Mrs. Staneslaslaw.. | 96 Ulica St., Polski, Warsaw, Russia  | Nil  | Amherstburg.. | . July |
+| 9 | 655 | 2093 | 3706 | 2128 | 928736 | Private  | Small, Mcroyn Roy  | Nil  | Small, Samuel   | R.R. No. 1, Conn, Ont  | Canada  | Mount Forest.. | . Mar. |
+| 9 | 655 | 2122 | 3706 | 2157 | 928517 | Private  | Small, Orville Gladstone... | 30th Rcgt  | Small, Mrs. Sarah  | Arthur, Ont  | Canada  | Arthur  | . Feb. |
+| 10 | 546 | 551 | 3227 | 586 | .5& |  | Former Corps. |  |  | Country of |
+| 10 | 553 | 593 | 3662 | 618 | 0 |  |  |  |  |  | Place. | Date. |
+| 10 | 530 | 694 | 3726 | 724 | 028587 |  | Nil. . |  |  |  | Mount Forest... | Feb. | 13 | 1916 |
+| 10 | 530 | 723 | 3726 | 755 | 1)28629 | L.-Corporal  | Nil... |  |  |  | Drayton  | Feb. | 23 | 1916 |
+| 10 | 530 | 752 | 3726 | 782 | 928364 |  | Nil. |  |  |  | Mount Forest... | Jan. | 5 | 1916 |
+| 10 | 529 | 781 | 3725 | 811 | 928148 |  | Nil. |  |  |  |  | Dec. | 8 | 1915 |
+| 10 | 529 | 810 | 3725 | 840 | 928213 |  | Nil |  |  |  |  | Dcc. | 27 | 1915 |
+| 10 | 529 | 839 | 3725 | 869 | 928857 |  | Nil. |  |  |  | Harriston  | April | 18 | 1916 |
+| 10 | 528 | 869 | 3725 | 900 | 928354 |  |  |  | Drew Stn., Ont  | Canada  | Mount Forest.. | Dec. | 24 | 1915 |
+| 10 | 528 | 897 | 3724 | 929 |  |  |  |  | Grodno, Russia  | {>29012 | Nil  | Windsor  | Jan. | 3 | 1917 |
+| 10 | 527 | 927 | 3725 | 958 |  |  |  |  | 1st Hussars, C.E.F., c/o War Office, London, Eng  | 928984 | Windsor  | Dee. | 6 | 1916 |
+| 10 | 527 | 955 | 3725 | 984 | 928490 |  | Nil.... |  |  |  |  | Jan. | 28 | 1916 |
+| 10 | 527 | 983 | 3725 | 1013 | 730415 |  | Nil. ... |  |  | England  |  | Jan. | 28 | 1916 |
+| 10 | 3520 | 1012 | 3725 | 1034 |  |  |  |  |  |  |  | Mar. | 20 | 1916 |
+| 10 | 527 | 1041 | 3725 | 1069 | 928179 |  |  |  |  | Canada  |  | Dec. | 7 | 1915 |
+| 10 | 3522 | 1069 | 3725 | 1092 |  |  |  |  |  |  |  | Dec. | 7 | 1915 |
+| 10 | 527 | 1076 | 2202 | 1104 | 928170 | Private  | 30th Regt  | Steele, James H  |
+| 10 | 527 | 1098 | 3726 | 1135 |  |  |  |  |  |  |  | Jan. | 1916 | 928293 | Steer, Robert Roper  | Nil  | Steer, N. E  | 7 |
+| 10 | 528 | 1127 | 3725 | 1158 |  |  |  |  |  |  |  | Apr. | 1916 | 928828 | Nil | 11 |
+| 10 | 529 | 1156 | 3726 | 1187 | 928332 |  | Nil |  |  | Canada  |  | Mar. | 23 | 1916 |
+| 10 | 529 | 1185 | 3725 | 1216 | 928760 |  | Nil. |  |  |  |  | Dec. | 27 | 1915 |
+| 10 | 529 | 1214 | 3725 | 1245 | 928735 |  | S A |  |  |  |  | Mar. | 24 | 1910 |
+| 10 | 529 | 1242 | 3725 | 1270 | 928168 |  |  |  |  |  |  | Dcc. | 27 | 1915 |
+| 10 | 528 | 1271 | 3725 | 1303 | 928033 |  | Nil. |  |  |  |  | Nov. | 29 | 1915 |
+| 10 | 528 | 1301 | 3725 | 1331 | 928488 |  | Nil. |  |  |  |  | Jan. | 27 | 1916 |
+| 10 | 528 | 1329 | 3725 | 1360 | 928103 |  | Nil. |  |  |  |  | Dec. | 18 | 1915 |
+| 10 | 528 | 1358 | 3726 | 1388 | 928986 |  | Nil  |  |  |  | Mount Forest... | Nov. | 28 | 1916 |
+| 10 | 3518 | 1387 | 3725 | 1409 |  |  |  |  |  |  |  | Jan. | 3 | 1916 |
+| 10 | 3522 | 1416 | 3726 | 1438 |  |  |  |  |  |  |  | Dec. | 30 | 1915 |
+| 10 | 525 | 1445 | 3726 | 1478 | 928041 | Tate, James Samuel  | Nil  | Tate, Mrs. Rachael  | 29 John St., Guelph, Ont  | England  | Guelph   | Nov. | 29 | 1915 |
+| 10 | 524 | 1473 | 3726 | 1508 | 928357 | Private   | Taylor, Harold Allen  | Nil  | Taylor, John  | 1339 Lonsdale Ave., Victoria, B.O   | Can:ida  | Mount I' orcst... | Dec. | 21 | 1915 |
+| 10 | 523 | 1505 | 3014 | 1537 | 928112 | Private  | Thomas, George  | Nil  | Thomas, Mrs. Elizabeth  | c/o Mrs. Campbell 28 Donorc Ave., S. Circle Rd.. |
+| 10 | 3521 | 1530 | 3726 | 1554 |  |  |  |  |  |  |  | Dee. | 28 | 1915 |
+| 10 | 522 | 1559 | 3726 | 1589 | 928022 |  | Nil |  |  |  |  | Nov. | 23 | 1915 |
+| 10 | 521 | 1589 | 3725 | 1617 | 928772 |  | Nil. |  |  |  |  | Apr. | 4 | 1916 |
+| 10 | 522 | 1617 | 3725 | 1646 | 1151612 |  | Nil. .. |  |  |  |  | Feb. | 2 | 1916 |
+| 10 | 521 | 1646 | 3725 | 1674 | 928279 |  | Nil. |  |  |  |  | Jan. | 4 | 1916 |
+| 10 | 522 | 1675 | 3724 | 1699 | 928399 |  |  |  |  |  |  | Jan. | ?1 | 1916 |
+| 10 | 523 | 1703 | 3724 | 1736 | 928329 | Private  | Tranter, Henry  | Dlst Re;*t  | Tranter, Miss Elizabeth  | 14 Chiswcll Rd., Birmingham, Eng  | England  | P.lora  | Jan. | 6 | 1916 |
+| 10 | 525 | 1732 | 3724 | 1763 | 928467 | Private  | Trask, Ixjvi Austin  | Nil  | Trask. Mrs. Katherine  | Alma, Ont  | Canada  | Elora  | Jan. | 18 | 191b |
+| 10 | 526 | 1761 | 3724 | 1784 | 928243 | Private  |  |  |  |  |  | Dec. | I.S | 191!. |
+| 10 | 527 | 1789 | 3724 | 1815 | 928131 | Privgte  |  |  |  |  |  | Dec. | Ifi | 1915 |
+| 10 | 528 | 1817 | 3725 | 1848 | 928959 | Private  | Trofinchuk, Dionisi  | Nil  | Trofinchuk. Mrs. Ieldokiia  | Linkochc, Volinska, Russia  | Russia  | London  | Sept. | 30 | 1916 |
+| 10 | 528 | 1846 | 3724 | 1879 | 929011 | Private  | Tumanovich Thomas John  | Nil  | Tumanovich Thomas George  | c/o Ammunition Factory, Fort William, Ont  | Russia  | Dec. | 30 | 1916 |
+| 10 | 528 | 1875 | 3725 | 1903 | 928248 | Private  | Turner, James Alexander  | Nil  |  |  | Mount Forest... | Dec. | 22 | 1915 |
+| 10 | 527 | 1904 | 3725 | 1931 | 928078 | Private  | Nil. |  |  |  |  | Dec. | 8 | 1915 |
+| 10 | 528 | 1933 | 3726 | 1960 | 928777 | Private  | Nil. |  |  |  |  | Apr. | fl | 1916 |
+| 10 | 527 | 1961 | 3726 | 1989 | 928276 | Corporal  | Nil. ... |  |  |  |  | Jan. | 3 | 1916 |
+| 10 | 527 | 1991 | 3726 | 2017 | 928190 | Private  | Nil  |  |  |  |  | Dec. | 21 | 1915 |
+| 10 | 527 | 2020 | 3726 | 2044 | 928209 | Private  |  |  |  |  |  | Dec. | 18 | 1915 |
+| 10 | 526 | 2049 | 3726 | 2076 | 928134 |  | Nil  |  |  |  |  | Dec. | 18 | 1915 |
+| 10 | 526 | 2078 | 3726 | 2106 | 928125 | Wallis, John  | Nil  |  |  |  |  | Dec. | 20 | 1915 |
+| 10 | 526 | 2101 | 3727 | 2141 | 928082 | Private  | Wallond, Harry  | Nil  | Wallond, Mrs. May Elizabeth  | 85 Durham St., Guelph, Ont  |  | Dec. | 9 | 1915 |
+| 11 | 620 | 363 | 3799 | 402 | 928726 | Private  | Walters, Alexander Arthur  | C.F.A  | Walters, Caroline  | Guelph  | Mar. | 25, | 1916 |
+| 11 | 3356 | 393 | 3799 | 425 |  |  |  |  |  | Drayton.... | Mar. | 24, | 1916 |
+| 11 | 620 | 402 | 2221 | 431 | 928729 | Private  | Ward, Emerson, John  | Nil  | McBeth, Mrs. Edith  |
+| 11 | 621 | 422 | 3799 | 460 | 928184 | L.-Sergeant | Warden, Thomas Andrew  | NU  | Warden, Lorenzo  | Fergus  | Dec. | 20, | 1915 |
+| 11 | 621 | 452 | 3800 | 489 | 928658 | Private  | Warner, James Thomas  | Nil  | Meek, Sam   | Guelph  | Feb. | 27, | 1916 |
+| 11 | 620 | 481 | 3800 | 519 | 928929 | Private  | Watson, Hugh  | Nil  | Watson, Hugh C  | London  | Sept. | 9, | 1916 |
+| 11 | 620 | 511 | 3800 | 547 | 928566 | Private.... | Watt, Clarence Alexander  | Nil  | Watt, Mrs. Annie Nichol. ... | Palmerston | Feb. | 12, | 1916 |
+| 11 | 620 | 539 | 3801 | 576 | 928556 | Private  | Watt, Harold Nichol  | Nil  | Watt, Mrs. Annie  | Palmerston | Feb. | 13, | 1915 |
+| 11 | 620 | 569 | 3802 | 606 | 928327 | Private. | Weatherdon, Innes  | Nil  | Weatherdon, Herbert  | Elora  | Jan. | 5, | 1916 |
+| 11 | 620 | 598 | 3802 | 634 | 928470 | L.-Corporal | Weatherdon, James Reid  | Nil  | Weatherdon, H. W  | Elora  | Jan. | 12, | 1916 |
+| 11 | 619 | 627 | 3802 | 664 | 928194 | Private  | Webb, William Augustus  | Nil  | Webb, Mrs. Sarah  | Harriston.. | Dec. | 2, | 1915 |
+| 11 | 619 | 656 | 3803 | 693 | 928195 | C.S.M  | Webber, Frank Jeffrey  | Nil  | Webber, Jeffrey John  | Harriston.. | Nov. | 26, | 1915 |
+| 11 | 619 | 685 | 3803 | 721 | 928352 | Private  | Webster, James Russell  | Nil  | Webster, Mrs. Edith  | Mount Forest... | Dec. | 18, | 1915 |
+| 11 | 618 | 714 | 3803 | 750 | 929043 | Private  | Welch, Truman  | Nil  | Welch, Hector  | St. Thomas | Apr. | 10, | 1917 |
+| 11 | 618 | 741 | 3803 | 780 | 929028 | Private  | West, Albert Victor  | Nil  | West, Mrs. Alice  | Windsor  | Jan. | 20, | 1917 |
+| 11 | 618 | 773 | 3805 | 809 | 929897 | Private  | Weston, Edward John  | Nil  | Weston, Mrs. Emily  | St. Thomas | Dec. | 14, | 1916 |
+| 11 | 618 | 802 | 3805 | 838 | 928741 | Private  | Whitelaw, Alexander Cummings.. | Nil  | Whitelaw, John  | Fergus  | Mar. | 25, | 1916 |
+| 11 | 618 | 831 | 3805 | 866 | 928740 | Private  | Whitelaw, James William  | Nil  | Whitelaw, John  | Fergus  | Mar. | 27, | 1916 |
+| 11 | 617 | 860 | 3805 | 896 | 928193 | L.-Corporal. | Whitten, Alexander  | Nil  | Whitten, Mrs. Marian  | Harriston... | Dec. | 17, | 1915 |
+| 11 | 618 | 889 | 3806 | 925 | 928257 | Private  | Wilding, Arthur Francis  | Nil  | Wilding, Mrs. Margaret Ann. | Palmerston. | Dec. | 3, | 1915 |
+| 11 | 618 | 918 | 3807 | 953 | 928468 | Private  | Wilard Harold Cecil  | Nil  | Wilford, Neil  | Palmerston. | Jan. | 8, | 1916 |
+| 11 | 617 | 947 | 3807 | 982 | 928098 | Private  | Wilkinson, Arthur Frank  | Nil  | Wilkinson, Mrs. Gertrude.... | Guelph  | Dec. | 21, | 1915 |
+| 11 | 618 | 976 | 3807 | 1012 | 928075 | L.-Corporal. | William, George Henry  | NU  | Willan, Francis  | Guelph  | Dec. | 7, | 1915 |
+| 11 | 617 | 1005 | 3807 | 1041 | 928220 | Private  | Willis, Wilfred Edwin   | Nil  | Willis, Mrs. George  | Mount Forest... | Nov. | 8. | 1915 |
+| 11 | 617 | 1034 | 3808 | 1070 | 928584 | Corporal  | Wilson, Benjamin Wellington  | Nil  | Wilson, Mrs. Alice  | Palmerston  | Feb. | 12, | 1916 |
+| 11 | 617 | 1063 | 3809 | 1099 | 928693 | Private  | Wilson, Charles Alexander  | Nil  | Wilson, Mrs. Elsie  | Mount Forest.., | Mar. | 9, | 1916 |
+| 11 | 618 | 1092 | 3809 | 1128 | 928334 | Private  | Wilson, Hohn Albert  | Nil  | Wilson, Mrs. Janet  | Fergus  | Dec. | 28, | 1915 |
+| 11 | 618 | 1121 | 3810 | 1156 | 928443 | Private  | Wilson, Rupert Arnold  | Nil  | Wilson, Peter  | Guelph  | Jan. | 24 | 1916 |
+| 11 | 618 | 1150 | 3810 | 1186 | 928706 | Private  | Winfield, Russell Frank  | Nil  | Winfield, Mrs. Martha  | Guelph  | Mar. | 15 | 1916 |
+| 11 | 617 | 1179 | 3810 | 1214 | 928055 | Private  | Winston, Gordon David  | Nil  | Winston, Ephraim  | Guelph  | Dec. | 4 | 1915 |
+| 11 | 617 | 1211 | 3109 | 1243 | 929029 | Private  | Wirzbichi, Joe  | Nil  | Wirzbicki, Mrs. Josephine  |
+| 11 | 3361 | 1237 | 3892 | 1262 |  |  |  |  |  | Windsor  | Feb. | 1 | 1917 i-i |
+| 11 | 617 | 1264 | 3893 | 1301 | 928094 | Private  | Withers, Herbert Thomas  | Nil : | Withers, Thomas  | Guelph  | Dec. | 29 | 1915 •“* |
+| 11 | 617 | 1295 | 3811 | 1329 | 928064 | L.-Corporal. | Wood, Cosford Reynold  | NU  | Wood, William  | Guelph  | Nov. | 29 | 1915 |
+| 11 | 617 | 1324 | 3812 | 1359 | 928060 | Private  | Wood, Frank  | Nil  | Lawrence, Mrs. George   | Guelph  | Dec. | 6 | 1915 |
+| 11 | 617 | 1353 | 3813 | 1387 | 928608 | Private  | Wood, William Russell  | Nil  | Wood, William  | Elora  | Feb. | 18 | 1916 |
+| 11 | 617 | 1382 | 3813 | 1416 | 928401 | Corporal  | Woodman, La Rue Arthur  | Nil  | Woodman, Arthur C  | Palmerston  | Jan. | 21 | 1916 |
+| 11 | 617 | 1411 | 3814 | 1445 | 928614 | Private  | Worthington, James Alexander.. | Nil  | Worthington, Naomi  | Guelph  | Keb | 21 | 1916 |
+| 11 | 617 | 1440 | 3814 | 1473 | 928964 | Private  | Woschuk, Mike  | Nil  | Woschuk, Maria  | London  | Oct. | 7 | 1916 |
+| 11 | 617 | 1469 | 3814 | 1502 | 929008 | Private  | Woshuk, Mikari  | Russian Army | Woshuk, Mrs. Kotim   | Amherstburg.. | Dec. | 31 | 1916 |
+| 11 | 617 | 1498 | 3815 | 1531 | 928992 | Private  | Yanak, Ygnat  | Russian Army | Yanak, Mrs. Threskini   | Amherstburg.. | Dec. | 5 | 1916 |
+| 11 | 616 | 1527 | 3816 | 1560 | 928116 | Private  | Yates, Dennis  | Nil  | Yates, Mrs. Elizabeth Ann. | Guelph  | Dec. | 20 | 1915 |
+| 11 | 616 | 1555 | 3817 | 1589 | 928903 | Private  | Young, Arthur  | Territorials  | Young, Mrs. Emily  | Guelph  | June | 17 | 1916 |
+| 11 | 616 | 1585 | 3817 | 1617 | 928677 | Private  | Young, Lloyd Walter :  | Nil  | Young, Mrs. Adeline   | Fergus  | Mar. | 4 | 1916 |
+| 11 | 616 | 1614 | 3817 | 1645 | 928955 | I..-Corporal. | Zuboflf, Saras  | Nil  | Zuboff, Parfen  | London  | Oct. | 3 | . 1916 |
+{% endraw %}

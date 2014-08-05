@@ -1,0 +1,1120 @@
+---
+title: 10th Battalion
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS. 1915). | CANADIAN EXPEDITIONARY FORCE. | 10th BATTALION | NOMINAL ROLL OF OFFICERS. NON-COMMISSIONED | OFFICERS AND MEN. | 10id« S-15. | H.Q. 593-2-29. |
+| 2 | 741 | 901 | 3236 | 940 | Hank. |  | Former Corps. | Name of Next-of-Kin. |  | of |
+| 2 | 3182 | 933 | 3682 | 962 |  |  |  |  |  | Birth. | Date. |
+| 2 | 830 | 1050 | 3742 | 1087 | Lt.-Col. | Hoyle, Russell Lambert... | 15th Horse  | Boyle, Laura Wight Mrs  | Crossfield, Alta  | Canada.. |
+| 2 | 828 | 1083 | 3260 | 1116 | Major... | MacLaren, Joseph  | Royal High anil 12th Drops. | McLaren, Robert  | 140 Ivorne St., Locher, Dundee, Scot  | Scotland. |
+| 2 | 1007 | 1112 | 3259 | 1149 |  | Lightfoot. James  | Imp. Yeom.&Oapc M.R. | | Lightfoot, Margaret A. Mrs.... | 150 Kennedy St., Winnipeg, Man  | England. |
+| 2 | 830 | 1141 | 3045 | 1173 | Adj. Ma | Ormond, Daniel Mowat. | 18th Mid. Rifles  | •Ormond, Annie Laura Mrs  | 57-11 tli St., Port age-!a-Pra:rie, Man  |
+| 2 | 829 | 1167 | 3660 | 1203 | Capt. | Nasmyth, William Wylie. | 3rd C.M.R  | Nasmyth, Helen Elizabeth  | 223 Hartford Ave., Detroit, Mich., lr.S.A. |  | 20 |
+| 2 | 1007 | 1197 | 3067 | 1232 |  | Howell, Edmund Lally... | 100th Regt  | Howeil, Ethel Constance  | 113 Stradbrook PI., Fort Rouse, Winnipeg, |
+| 2 | 1005 | 1228 | 3102 | 1261 |  | Cooke, Henry  | N. S. W Inftry  | Cooke, Mrs. Francis  | Hotham Lodge, Charlwood Rd., Putncj |
+| 2 | 2503 | 1254 | 3661 | 1287 |  |  |  |  | London, S.W., Eng  | Ireland.. | 25 |
+| 2 | 1007 | 1284 | 3661 | 1317 |  | Robinson, Charles Wilson  | 2nd C. M. R  | Robinson, Louie Mrs  | MuDson, Alta  | England. | 2 fi |
+| 2 | 1008 | 1315 | 3104 | 1348 |  | Arthur, Christopher Geoffrey. | 103rd Regt  | Ni ch tergal I, Francis Mary.. . | St. Ilelier’s, Park llill Rd., Sidcup, Kent, Eng |
+| 2 | 1010 | 1342 | 3662 | 1377 |  | Redman, Daniel Lee  | 103rd Regt.  | Redman, Daniel Ralls  | 2104, Hope St., Calgary, Alta  | Canada.. | 20 |
+| 2 | 1008 | 1373 | 3102 | 1406 |  | Pott, Frank  | Imp’l. Service  | Pott, Mrs. A. B  | “Littlehurst” Rovston Park Rd., Hatch Enc |
+| 2 | 2505 | 1399 | 3663 | 1431 |  |  |  |  | Middlesex, England  | England. | 25 |
+| 2 | 1010 | 1429 | 3663 | 1463 |  | Meikle, Andrew Fred’k Thomson | Territorials.   | Meikle, Elizabeth  | Locliibo, Neweastle-on-Tyne, Eng..  |  | 20 |
+| 2 | 1009 | 1460 | 3100 | 1493 |  | Wallace, Ilenry Athol Charles. . | 106th Regt  | Wallace, Winnifred Laura Jane Mrs. | 194 Hill St. Norwood Grove, Winnipeg, Man. |
+| 2 | 1011 | 1486 | 3664 | 1521 |  | Ross. Edward  | 31st Imp. Yeo. C.A.S.C | Ross, Dora Mrs  | 711-43-2 St. N.W., Sunnyside, Calgary, Alta. | England. | 25 |
+| 2 | 1008 | 1515 | 3664 | 1551 |  | Gliddon, George Clarence  | A. M. C  | Gliddon, John  | Union, Ont  | Canada.. | 24 |
+| 2 | 1012 | 1549 | 3098 | 1582 |  | Yates, Charles Reginald  | II. M. C  | Yates, Elizabeth Maria Mrs.. | Mitchell, Ont    .#  |
+| 2 | 1012 | 1577 | 3098 | 1608 |  | Houston, Alexander McLean... |  | Houston, John Donald  | 185 Spence St.* Winnipeg, Man  |
+| 2 | 1012 | 1608 | 3098 | 1638 |  | Emsley, William Henry  | 16th Regt  | Emsley, Susie Mrs.    | Pembroke, Ontf  |
+| 2 | 837 | 1632 | 3665 | 1667 | Lirut. | Nasmyth, James Th. Hutchinson | 46th Regt    | Nasmyth, Emma Emily..... | Janetville, Ont    | Canada. | 28 |
+| 2 | 1011 | 1666 | 2371 | 1696 |  | Suydam, If. C  | 2nd Regt. Particulars | will be furnished when available |
+| 2 | 1013 | 1692 | 3249 | 1724 |  | Morgan, Albert Norton  | G. G. F. G  | Morgan, Beatrice, Mrs  | New Liskeard, Ont  | Canada. |
+| 2 | 1011 | 1722 | 3098 | 1753 |  | Simpson. Joseph Donaldson... . | 22nd Regt  | Simpson, Vivian I>oi3 N., Miss. | 12 Admiral Rd., Toronto Ont  |
+| 2 | 1011 | 1752 | 3099 | 1782 |  | Cold well, George Alfred  | 12th Dragoons  | Coidwell, Hon. George it  | i22-iSih St., Brandon, Man  |
+| 2 | 1014 | 1783 | 3099 | 1811 |  | Watson, Clarence Herbert Dean | 46th Regt | Watson, Thompson George... . | Port Hope, Ont  |
+| 2 | 1014 | 1811 | 3099 | 1839 |  | Duncan, George Gordon  | 36th Regt  | Duncan, George Patrick, Rev.. | Port Credit, Ont    |
+| 2 | 1012 | 1840 | 3100 | 1869 |  | Thompson, Alexander Thomas.. | 36th Regt  | Thompson, Lilian, Mrs  | Port Credit, Ont  |
+| 2 | 1014 | 1863 | 3667 | 1898 |  | Harrison, Albert Edward  | L. S. II  | Harrison, Celia Mrs  | 317-21st Ave., W. Calgary, Alta  | England. | 20 |
+| 2 | 1013 | 1893 | 3667 | 1927 |  | Sinclair, David Home.   | O. T. C  | Sinclair, John II  | 23 York Street, Glasgow, Scot   | Scotland. | 25 |
+| 2 | 1013 | 1922 | 3667 | 1957 |  | Snelgrove, Harold Proctor  | 4th Regt  | Snelgrove, Francis Maud  | 118 MacPherson Ave., Toronto, Ont.'  | Canada.. | 28 |
+| 2 | 1013 | 1951 | 3667 | 1985 |  | Cockshutt, Wiliiani Ashton.. . . | 103rd Regt  | Turner, Minnie    | 172 Chatham St., Brantford, Ont  | Canada.. | 20 |
+| 2 | 1015 | 1981 | 3666 | 2014 |  | Forneret, George Reginald  | 13th Regt  | Forneret, Archdcacon,Gco. Augustus | 15 Queen St. S., Hamilton, Ont    |  | 27 |
+| 2 | 1016 | 2009 | 3252 | 2042 |  | Hoskins, Ronald  | 106th Regt  | Hoskins, Anna, Mrs  | 54 St. David’s Hill, Exeter, Devon, Eng..... | England |
+| 2 | 1016 | 2038 | 3104 | 2072 |  | Fryer, Thomas Claude  |  | Fryer, Sydney Ernest  | G8 Kensington Gardens Sq., Ivondon, W. Eng |
+| 2 | 1016 | 2066 | 3667 | 2100 |  | Norton-Taylor, Seymour  | Imp. Tj. II  | Norton-Taylor, Emily  | St. Margarets, Pyrford, Surrey, Eng  | England, | 20 |
+| 2 | 1016 | 2097 | 3667 | 2128 |  | Knowles, Wilfred Neville  | 30th Regt  | Knowles, Letitia  | Haste llill, Hayes, Kent, Eng  |  | 28 |
+| 2 | 1016 | 2124 | 3667 | 2158 |  | McColl, Douglas Chalmers  | S. A. C  | McColl, A. Mrs  | 575 Gilmour St., Ottawa, Ont  | Canada.. | 20 |
+| 2 | 1014 | 2154 | 3106 | 2187 |  | Glanrield, Stanley Lane  |  | GlanGeld, William Arthur.... | St George’s Terrace, Great Yarmouth, Eng... |
+| 3 | 874 | 478 | 3363 | 511 | ez |  |  |  |  |  | of |
+| 3 | 998 | 493 | 1926 | 521 |  | Rank. |  | Former Corps. |
+| 3 | 960 | 638 | 1933 | 666 |  | Lieut. | Bell, Andrew I/tjlie  | 10th Regt  |
+| 3 | 2016 | 655 | 3380 | 687 |  |  |  |  | Critchlev, <>. A., Lieut... | Lord Strathcona’s Horse, (R. C.) C. O. E. F.. | Canada.. |
+| 3 | 1134 | 682 | 3379 | 725 |  |  | Ball, Halbert Rnnaomc . . | 79th Regt   | Ball, William Lee  | 155 Wellington Creseent,, SVinnipeg, Man  | Canada.. |
+| 3 | 1131 | 714 | 3380 | 756 |  |  | Graggs, George Somerville. | Imp.Yeo. 1 err. 1'orces | Graggs, Eliza Ethel  | 50 Bramham (hardens, Ijondon, S.W. Eng  | England. |
+| 3 | 1137 | 742 | 3382 | 783 |  |  | Jenner, Frank  . | S. A  | Jenner, Rose  | 328 Gala Park Rd. Galashiels, Scot  | S. Africa. |
+| 3 | 1134 | 772 | 3379 | 813 |  |  | Eppes. David Douulos Riv< | W. Indian Regt  | Eppcs, Louise  | 9 I^ce Ave., Toronto, Ont  | Canada.. |
+| 3 | 1134 | 802 | 3232 | 841 |  |  | Lowry, \\ illiam Arthur.... | {>. <;  | Lowry, Clara, Mrs  | 528, 20th Avenue, West, Calgary, Alta  |
+| 3 | 1131 | 831 | 3232 | 866 |  |  | Collins, John .    | tdeL lustruetors. .. | Collins. Mollie Mrs  | Work Point Barracks, Victoria, li.C  |
+| 3 | 868 | 863 | 2371 | 897 | 1957C | Sgt. Maj.. | Good. R. (W. O.)  | Particulars will l>c furn | ished when available..... |
+| 3 | 868 | 888 | 3368 | 925 | 19579 | O.R.Sgt.. | Baker, Sidney HerNrt. .. . | Roval Regt, etc  | Baker, Sarah. Mrs  | 020, Alexander Ave., Winnipeg, Man  | England |
+| 3 | 867 | 918 | 3374 | 954 | 19577 | Sgt. Bug.. | Barton. Frederick Tennyao | 103 Rest., etc  | Barton, A. T  | Swansea, Ont  | IT. S. A.. |
+| 3 | 865 | 947 | 3367 | 982 | 20838 | Arm. Sgt. | Scott, Edmund James  | KM.th Regt   | Scott, Grace  | 858-19th St., Brandon, Man  | England |
+| 3 | 868 | 978 | 2374 | 1010 | 19580 | •Sr. Sergt.. | Clarke, L. A  | Particulars will be furn | ished when available  |
+| 3 | 868 | 1005 | 3374 | 1041 | 19583 | Shoe Sgt. | Griffiths, William John | Nil :  | Griffiths. Maggie  | Cartherfyn, Tryarth, Langor, Wales  | Wales... |
+| 3 | 868 | 1034 | 3368 | 1068 | 19581 | Cook Sgt. | Alderton. Walter Jo*. j.h | Koval Warwicks  | Aldcrton, Horace  | Cambridge, Eng  | England |
+| 3 | 868 | 1062 | 3165 | 1096 | 19020 | Pay S«t. . | Dacre, Cecil Vi« (or  | Volunteers  | Dacre, Mabel, Miss  | Forest House, Ashurst, Eng  |
+| 3 | 865 | 1093 | 3165 | 1123 | 20581 | Sgt. TIr... | Aitc.hiaon, Alexander. . | 2nd Batt. K.O.S.B  | Aitchison, Maggie Miss | Belton, Dunbar, E. Lothian, Scot  |
+| 3 | 864 | 1121 | 3165 | 1153 | 20278 | Col. Sgt.. | Stuart, 1 )uncan. . | N. Nigeria (Cairo)  | Stuart, Christina J. Mrs. | 17-4A Street, N. E., Calgary, Alta  |
+| 3 | 867 | 1151 | 3165 | 1181 | i 9o2G |  | Winter, Grorge Ernest. | 15th Horse  | Winter, Geo. William.... | (-astor, Alta  |
+| 3 | 866 | 1180 | 3164 | 1210 | 19970 |  | Sharland. Henry lvlwin . | Nil  | Sharland. Francis  | Lymington, Hants, Eng - .. . |
+| 3 | 863 | 1207 | 3232 | 1237 | 20272 |  | Nesbit. Thomas Oswald. | !?. F. A  | Nesbit, T. O. Mrs  | I )enliee House, The Hall, Wanstead, Essex | Enp |
+| 3 | 863 | 1236 | 3232 | 1266 | 20275 |  | Jacol>s, Sidney Jnmw. . | 1th Hants Terr  | Jacobs. James  | Powerhouse, Wellington College, Berks It | ng.. |
+| 3 | 862 | 1266 | 3180 | 1294 | 20426 |  | Ki chard, Ernest Edward | 103rd Regt .  | Blake, A. Mrs  | orre House, Elburton, Devon, Eng  |
+| 3 | 862 | 1295 | 3175 | 1323 | 20570 |  | Watson. John  | Northumberland Fus... . | Watson, Jessie, Mrs  | 1134 Sherburn St., W innipeg, Man  |
+| 3 | 862 | 1324 | 3180 | 1352 | 2072G |  | Alexander, \\ illiam  | K. R. R  | Alexander, A. A!  | 2GG Hargrave Street, Winnipeg, Man  |
+| 3 | 862 | 1353 | 2371 | 1379 | 20870 |  | Grant, J   . | Particulars will be fur | nished when available... |
+| 3 | 866 | 1381 | 3154 | 1409 | 19083 | Sergeant | Banka, Ernest CuthUrt | *.M»th Regt  | Banks, Margaret Mrs,.., | 102 Breadalbane Block, Winnipeg, Man.. |
+| 3 | 865 | 1410 | 3216 | 1438 | 19799 |  | ("attanach, Aim Martir.. | Nil  | Cattanaeh, James  | 10 Warrender Park Terrace, Edinburgh, | Scot |
+| 3 | 865 | 1438 | 3227 | 1467 | 19786 |  | Scriven, Christopher. . | Sth Butt. Worcester Kegt | Seriven, Emma Mrs  | Haddou Cottage,Malvern Links,WorcesU | rshin |
+| 3 | 865 | 1466 | 3146 | 1497 | 19780 |  | Thatcher. Waller Jesse. | 2nd Clones, ling.  | Thatcher, Edith  | 556 Victor St., Winnipeg, Man  |
+| 3 | 864 | 1494 | 3150 | 1526 | 1982 |  | Steel, Alfred Kennedy | Dragoon Guards  | Steel, Francis  | (58 Boscawcn St., Deptford, London, Eiif |
+| 3 | 863 | 1518 | 2596 | 1550 | 198. to |  | Moss, John McDonald. . | South Africa  | Nil  | Nil |
+| 3 | 862 | 1550 | 3370 | 1582 | 1982* |  | Evans, i le»»rge Henry ... | North. Fus., Terr  | Evans, James  | 1 ierwick-on-Tweed, Scot  | Scotland |
+| 3 | 862 | 1577 | 3374 | 1612 | 19829 |  | Hand, Fn-d* rick .lolui.... | 103rd Regt  | Hand, Frederick II  | Longucuil, P. Q  | < ’anada.. |
+| 3 | 861 | 1605 | 3365 | 1642 | 19977 |  | ('ouchinan, Walter (ieorg* | < ‘ape M. R. etc  | Couchman, Charles  | Chartham, Canterbury, Kent, Eng  | England |
+| 3 | 2012 | 1642 | 3356 | 1670 |  |  |  |  | Martin, Jeanic, Mrs  | Youngstown, Alta  | (’anada |
+| 3 | 1634 | 1668 | 3365 | 1698 |  |  |  | (Kford L. I  | Green, Eliza Mrs  | 31 Alma St., Reading, Eng  | England |
+| 3 | 1638 | 1699 | 3145 | 1727 |  |  |  | R. A  | Francis, Lulu, Mrs  | 12 Pemray St., Portsmouth, Eng  |
+| 3 | 858 | 1718 | 3111 | 1757 | 20241 |  | Marks. Reginald J . | Nil.........  | Marks, M. F., Mrs  | 290 Colony St., Winnipeg, Mar.  |
+| 3 | 1637 | 1756 | 3233 | 1784 |  |  |  | Lanes Fuaiiiers  | Kemp, W., Mrs  | 14 Strathmore lid., Whitehouse Rd. | . W. |
+| 3 | 1636 | 1813 | 3348 | 1842 |  |  |  | R. E  | Belshaw, Elizabeth.... | 8, Lower Whitehouse, Co. Antrim, Ire... | Ireland |
+| 3 | 1636 | 1842 | 3364 | 1871 |  |  |  | R. N  | Small, Rose  | 005 St. John’s Ave., Winnipeg, Man  | England |
+| 3 | 1633 | 1871 | 3147 | 1907 |  |  |  | 90th Regt  | Clare, Hannah. v  | (>55 Bannermaii Ave., Winnipeg, Man... |
+| 3 | 1636 | 1930 | 3369 | 1958 |  |  |  | Royal Scots  | Millar, William  | Edinburgh, Scot  | Scotland |
+| 3 | 1637 | 1959 | 3366 | 1987 |  |  |  | R. G. A  | Mason, Sarah, Mrs— | 18 Tithebawn Rd.,Stafford, Staffs, Eng  | England |
+| 3 | 1636 | 1988 | 3377 | 2015 |  |  |  | R.N.W.M.P. & R.M.C. | Biscoe, Col. V. R  | Galt, Ont  | India..... |
+| 3 | 1638 | 2016 | 3372 | 2045 |  |  |  | 103rd Regt  | Browne, Ellia Mrs... . | 20-12th Ave. W., Calgary, Alta  | Wales... |
+| 3 | 1634 | 2045 | 3376 | 2074 |  |  |  | 2nd Regt  | Wilson, Minna Mrs... | Victoria Harbor, Ont  | Canada.. |
+| 3 | 1636 | 2074 | 3214 | 2102 |  |  |  | 103rd Regt  | Glover, William  | Orillia, Ont  |
+| 4 | 822 | 368 | 2284 | 403 | 2*V130 Sprwv\r,f. | {Miller, J ., . .    | J Particulars will be fur : i-i - |
+| 4 | 822 | 391 | 3817 | 432 | 20577| '« ' | . Larkin, John  | R. Irish Fus... . | Larkin, ileuriette, Mrs... . | Cromwell Rd., Camberley [Surrey, Eng] jEngland. |  | 28 1914. |
+| 4 | 822 | 428 | 3733 | 458 | 20578 | . Welch, William Hunter  | 100th Regt  | Welch, Jeanette, Mrs  |  | Ireland. | 542 Castle Ave., Elmwood, Winnipeg, Man... | 24 |
+| 4 | 822 | 451 | 3734 | 504 | 20579 | 'Ford, Frank P  | XU | Ford, Annie R  |  | England j | 511 Bannerman Ave., Winnipeg, Man  | 26 |
+| 4 | 822 | 484 | 3184 | 516 | 20580 | . iTaylor, Arthur E  | Can. Mlitiia  | Taylor, Beatrice, Mrs  | 170 Carlton St., Winnipeg, Man  |
+| 4 | 822 | 514 | 3734 | 545 | 207:27 | I Knights, Frederick Anthony.... | 103rd Regt. | Knights, A. M  | R. R. No. 1, Calgary, Alta  |  | 24 |
+| 4 | 822 | 539 | 3735 | 573 | 20728 | ' Mather, Bernard  | L. S. H  | Mather, J. William  | Custom House, Whitefriargate, Hull, Eng  |  | 27 |
+| 4 | 826 | 573 | 3735 | 611 | 19930 | ■ jStiil, James   | Nil | Still, L. T. Mrs..    | Lloydminster, Sask  |  | 22 |
+| 4 | 823 | 601 | 3736 | 631 | 20729 | Norton, Clarence Wiliiam  | 2nd City of London Reg | Norton, Annie   | 1749-41st Ave., E. S. Vancouver, B.C  |  | 23 |
+| 4 | 822 | 631 | 3736 | 671 | 20730 | . [Walah, Edward  | 6t,h Manchester Regt  | Walsh, William James  | 6 Catherine Rd., High Crunipsall, Manchester,. |  | 24 |
+| 4 | 822 | 657 | 3738 | 691 | 208 | . IRolfe, Henry  | K. O. L. Regt  | Roife, Thomas Dennis  | 546 Cross St. Uxbridge Middlesex, Eng  |  | 28 |
+| 4 | 822 | 686 | 3318 | 720 | 20878 | I Rutherford, Thomas George.... | 106th Regt  | Rutherford, Margaret, Mrs. | 283 Pacific Ave., Winnipeg, Man  | Ireland. |
+| 4 | 822 | 720 | 2296 | 749 | Actg Sgt . | 20879 | Knights. F. W  | Particulars will be fur | nished when available. |
+| 4 | 825 | 741 | 3739 | 778 | Corporal.. | 19802 | Forbes, M  | R. N. W. M. P  | Forbes, M., Mrs  | 1302 Selkirk Ave., Winnipeg, Man  | Scotland j | 26 |
+| 4 | 824 | 774 | 3407 | 806 | 19V45 | Massey, John  | South Lancs. Regt | Massey, Victoria Miss  | Babington, Cheshire, Eng  | England ‘ |
+| 4 | 825 | 805 | 3188 | 835 | 19iJ90 | Bennett, John G  |  | Bennett, G., Mrs  | Imp. Armv  | 1599 Pacific Ave., Winnipeg, Man  |
+| 4 | 825 | 832 | 3740 | 873 | 19770 | Roots, John  | R. C. R jNil  |  | Nil    |  | 25 |
+| 4 | 825 | 860 | 3740 | 895 | 19782 | Shaw, George B  | Gordon, High's jShaw, Alexander  |  | Woodend, Findiick Tolphins, Aberdeen Scot.. | Scotland. | 27 |
+| 4 | 825 | 889 | 3739 | 925 | 19831 | Hardy, George Railton  | Territorials j Hardy, George S  |  | 22 Sydenham Terrace, Sunderland, Eng  | England. | 24 |
+| 4 | 825 | 918 | 3338 | 952 | 19832 | Wright, David Fullerton  |  | . I Wright, John   | Berwick-on-Tweed, Scot  | Scotland. |
+| 4 | 825 | 947 | 3339 | 981 | 19833 | Berry, Joseph  |  | .‘Berry, Mrs  | 113, Bemiston Street, London. Eng  | England. |
+| 4 | 825 | 977 | 3742 | 1009 | 19981 | Grimshaw, George Frederick... | 2nd Regt McKinnon, Miss  |  | 55 Alexander St., Toronto, Ont  |  | 25 |
+| 4 | 825 | 1005 | 3742 | 1038 | 19982 | Foreman, Albert  | 11th Hussars -Foreman, T  |  | Coalspur, Alta  |  | 28 |
+| 4 | 826 | 1035 | 3742 | 1071 | 19983 | Spencer, Edward  | 4th Northants Regt jSpencer, George  |  | Fiore, Northant3, Eng  |  | 24 |
+| 4 | 826 | 1061 | 3341 | 1097 | 19984 | Campbell, John  | Nil Campbell, William.... |  | 20 Tollcross Rd., Parkhead, Glasgow, Scot... | Scotland. |
+| 4 | 824 | 1096 | 2312 | 1132 | 2009, | Eccles, E. G  | Particulars will be furjnished when available.. |
+| 4 | 825 | 1120 | 3743 | 1155 | 20148 | Rayfield, Edmund  | East Kent Buff | Rayfield, EUen Louisa. |  | 433 Machray Ave., Winnipeg, Man. | England. | 27 |
+| 4 | 828 | 1150 | 3744 | 1183 | 20167 | Menzies, William  | Vol. Artillery j Menzies, Elizabeth  |  | box 832 Fort Francis, Ont  |  | 28 |
+| 4 | 825 | 1178 | 3744 | 1212 | 20207 | Greenaway, Thomas Bell  | Nil iGreenaway, Aggie Mrs |  | 621 Atlantic Ave., Winnipeg, Man.. | Canada.. | 27 |
+| 4 | 826 | 1207 | 3745 | 1240 | 20242 | Williams, Cecil William Chapman |  | Williams, L. S. Mrs. | Vol. Artillery. | Miami, Man. | England. | 28 |
+| 4 | 825 | 1236 | 3744 | 1272 | 20271 | Armr. Cpl. | Mann, D. G  | Atkinson, Mrs jSt. Catharines, Ont | 2nd M’chester Regt... . |  | 27 |
+| 4 | 826 | 1266 | 3745 | 1299 | 202S2 | Corporal . | Hopkins, George  | Hopkins, Henry  1" 1 01 m“' | Queens (R.W.X.)..-..... | 26 Ligban St., Blaekheath, Kent, Eng  | 26 |
+| 4 | 827 | 1294 | 3745 | 1327 | 20283 | Parke, Charle3 William.... |  | Parke, Elizabeth Mrs. | 103rd Regt  | 256 Brock Ave., Toronto, Ont  | Canada.., | 23 |
+| 4 | 827 | 1324 | 3342 | 1355 | 20284 | Jones, Samuel Garfield.. -. |  | Parish, F. Mrs  | 7th R. Fus  | 39 Campbell Rd., East London, Eng  | England. |
+| 4 | 827 | 1353 | 3746 | 1385 | 20285 | McCabe, James D  |  | McCabe, John Davis. | R. M. L. I  | 520 5th St, S. N. E., Calgary, Alta  | Scotland. | 2S |
+| 4 | 828 | 1382 | 3746 | 1414 | 20431 | Hole, Harry  |  | Hole, Amos  | 103rd Regt  | 37 Amroth Ave., Toronto, Ont  | England. | 25 |
+| 4 | 828 | 1412 | 3746 | 1442 | 20432 | Burton, Percy  |  | Burton, F. W | Bucks Terr., etc  | Strathmore, Alta  | 23 |
+| 4 | 829 | 1438 | 3344 | 1477 | 20433 | Goodfellow, Walter, Ell. Murray . | 103rd Regt. | Goodfellow, Walter 1130 Garden Crescent, Calgary, Alta  |  | Scotland. |
+| 4 | 829 | 1468 | 3344 | 1500 | 20434 | ‘Mortimer, Frank  | 103rd Regt. | Mortimer Levi i Melksham, Wilts, Eng  |  | England. |
+| 4 | 829 | 1497 | 3198 | 1535 | 20435 | Smith, Brian Bradshaw.... | O. T. C  | Smith, Bradshaw, Mrs   jThe Croft, Stonecliffe Ave.. Bournemouth,Eng. |
+| 4 | 830 | 1524 | 3747 | 1557 | 20585 | iLinaker, Simon  | 3rd Cheshire  | Linaker, Simon !54 Market St., Hoylake, Eng  |  |  | 27 |
+| 4 | 830 | 1556 | 3748 | 1592 | 20587 | ILockart, Percy  | 90th Regt  | Lockart, Martha, Mrs JStrathclair, Man  |  |  | 24 |
+| 4 | 831 | 1583 | 3748 | 1623 | 20667 | jSparks, John William  | Navy  | Sparks, Thomas C iKnowlewo,od, Todmorden, Eng  |  |  | 27 |
+| 4 | 832 | 1612 | 3749 | 1644 | 20731 | I Scott, Richard  | Royal Scots Greys. | Scott, Edith  1500 Morgan St., Aberdeen, Wash. U.S.A  |  | Scotland., | 24 |
+| 4 | 832 | 1638 | 3346 | 1673 | 20732 | IWashford, Harry J  | Vol. S. A  | Washford, William G 'Met. PoliceStat. House, Chatham ,Eng  |  | England. |
+| 4 | 832 | 1670 | 3750 | 1701 | 20733 | Matheson, J. C  | 9th Royal Scots... | Matheson, Catherine *20 Polwarth Gardena Edinburgh, Scot  |  | Scotland.' | 23 |
+| 4 | 833 | 1697 | 3749 | 1732 | 20734 | iWhiffin, Hartley Allen  | London Scottish... | WThif&n, A. E j Medicine Hat, Alta  |  |  | 23 |
+| 4 | 833 | 1727 | 3392 | 1760 | 20735 | I Lee. Thomas Fenton  | 12th Drags  | Lee, Catherine, A j Brandon, Man, |  | Canada  |
+| 4 | 832 | 1758 | 3751 | 1788 | 20880 | Kdward3, -Mark.  | U. S. A. Army  | NU  | Nil. | U. S. A  | 28 |
+| 4 | 833 | 1785 | 3751 | 1818 | 20881 | O. R. Cpl. | Sydenham, Sydney  | M. L. I  | Sydenham, A. L., Mrs  | Pera House, Thomas St., Bath. Somerset, Eng | England.... | 24 |
+| 4 | 835 | 1815 | 3200 | 1846 | 19685 | L. Cpl.... | Bates, Ernest  | Nil  | Hargreaves, Mrs. S  | Armitage Bridge, Berry Brow, N. Huddersfield: |
+| 4 | 2592 | 1842 | 3752 | 1873 |  |  |  |  | Eng  | England. | 26 |
+| 4 | 836 | 1873 | 2322 | 1904 | 19834 | McIntosh, D  | Particulars will be fur | nished when available., |
+| 4 | 837 | 1903 | 2322 | 1933 | 19835 | McDonald, J. A  | Particulars will be fur | nished when available.. |
+| 4 | 837 | 1930 | 3753 | 1962 | 19836 | Robotham, Samuel  | S. Staff Inf    | Robotham, William | Townsend S., Ashbourne, Derby, Eng., | England. | 24 |
+| 4 | 839 | 1961 | 2322 | 1990 | 198G0 | Graham, J   | Particulars will be fur | nished when available.. |
+| 4 | 838 | 1976 | 3753 | 2019 | 198S1 | Lewis, Frank  | R. N. W. M. P  | Lewis, W. G  | London, Eng  | England.. | '24 |
+| 4 | 839 | 2018 | 3136 | 2049 | 199S5 | Arm. Cpl. | Billings, Horace Stanley  | 4th Devon. Regt  | Billings, L. E  | 2115-17th A St., Calgary, Alta  |
+| 4 | 839 | 2046 | 3140 | 2078 | 19986 | L.-Cpl  | Jones, Edgar Hobbs  | R. E  | Webster, Ellen. | Sea View, Brixworth, Northampton, Eng.. |
+| 4 | 841 | 2071 | 3754 | 2107 | 19987 | Stephenson, Charles  | R. G. A Nicholson, William, Mrs.. |  | 313-9J^ St. Sunnyside, Calgary, Alta..... | Ireland. | 23 |
+| 5 | 959 | 501 | 3328 | 535 |  | Rank. |  | Former Corps. |  |  | of |
+| 5 | 3272 | 527 | 3773 | 552 |  |  |  |  |  |  | Birth. | Date. |
+| 5 | 827 | 643 | 3833 | 680 | 19988 | L.-Cpl. | Morrison, Alfred Edrn. Stanley.... Nil.. |  | Mormon, Robert W Carndonagh, Co. Donegal, Ire  |  | Ireland.., | Sept. | 24 1914 |
+| 5 | 825 | 674 | 3063 | 710 | 20286 |  | Moir, Alexander. | 91st Regt Morren, George Aberdeenshire, Scot  |
+| 5 | 824 | 703 | 3750 | 737 | 20287 |  | Raftery, John  | IC. O. T. L.X Raftery, John IWragby, Yorkshire, Eng  |  |  | England. | 26 |
+| 5 | 823 | 733 | 3345 | 774 | 20288 |  | King, Robert  | Gordon High's  Kin?, Robert, Mrs [General Delivery, Medicine Hat, Alta |  |  | Scotland. |
+| 5 | 823 | 761 | 3750 | 798 | 20289 |  | Robertshaw, Frank  | R. F. A |Robertshaw, Francis Georgs  5, Grant Mount, Romwhay Rd, Leeds. Eng... |  |  | England. | 24 |
+| 5 | 822 | 795 | 2484 | 831 | 20390 | Arm. Cpl. | Grant, G  | Particulars will be furjnished when availablo  |
+| 5 | 822 | 818 | 3750 | 854 | 20736 | L.-Cpl..., | Sculthorpe, Edgar J  | 5th L’pool Regt Sculthorpe, Mary  |  | 3, Douglas Rd., Winfield, Liverpool, Eng. | England. | 23 |
+| 5 | 821 | 851 | 3127 | 881 | 20737 |  | McLoughland, Thomas  | K.O.Y. L. I IMcLoughland, Fanny  |  | Firsby, N. Spelsley, Lines, Eng...  |
+| 5 | 821 | 874 | 3417 | 913 | 20797 |  | Mackinnon, Stephen  | 5th H. L. I I Mackinnon. Robert  |  | Brae Cottage, Gartmoor, Perthshire, Scot. | Scotland ! |
+| 5 | 820 | 906 | 3417 | 938 | 20754 |  | Ciift, Alexander  | R. N. R :Clift, Jane A |  | iThe Homestead, Working, Surrey, Eng... | I “ ....I |
+| 5 | 822 | 934 | 3750 | 968 | 19682 | Private. | Arthurs, James  | R. F. A  | Vrthurs, Miss Mary  | Dungannon, Co. Tyrone. Ire  | !Ireland I | 26 |
+| 5 | 821 | 959 | 3417 | 1001 | 19676 |  | Adams, C. H   | Nil  | Adams, C. H  | 417 Pearl Ave., Peterboro, Ont......._  | I Canada I |
+| 5 | 821 | 988 | 3751 | 1028 | 19677 |  | Allison, Harry  | Imp'l Service  | Allison. Henry  | c/o T. Newman, 221 Austin St., Winnipeg, Man | England \ | 26 |
+| 5 | 820 | 1022 | 3341 | 1056 | 19679 |  | Anthony, Douglas  | Nil  | Anthony, Alexander...’. | Upper Kennetcook.N.S  | Canada.. |
+| 5 | 820 | 1051 | 3344 | 1085 | 19680 |  | Apperley, F. J  | Leicester Yeom’ry  | Apperley, F. J. Mrs  | Hungerton, Leicestershire, Eng  | England. |
+| 5 | 819 | 1080 | 3344 | 1115 | 19681 |  | Arnott, John  | Nil  | Muir, G. Mrs  | Coatbridge, Lanarkshire, Scot _.  | Scotland. |
+| 5 | 819 | 1110 | 3141 | 1142 | 19797 |  | Adcock, Harry  | Somerset L. I  | Alcock, Elizabeth Jane Mrs.. | Dunkerry Rd., Windmill Hill, Bedminster, |
+| 5 | 2581 | 1136 | 3750 | 1168 |  |  |  |  |  | Bristol, Eng  | England. | 27 |
+| 5 | 818 | 1164 | 3196 | 1200 | 19837 |  | [Abbott, Samuel L  | Nil  |  | Burdett, Cornwall, Eng  | Abbott, Alfred  |
+| 5 | 817 | 1194 | 3749 | 1229 | 19989 |  | Atherton, Harry Foster  | N. Z. Mtd Inf. |  | -Mission City. B.C  | Atherton Adelaide Miss  | Ireland.. | 24 |
+| 5 | 814 | 1224 | 3343 | 1259 | 20008 |  | Adshead, Harry Percy  | Nil  |  | Box 1504, Calgary, Alta   | Adshead, H. B  | Canada.. |
+| 5 | 814 | 1250 | 3342 | 1286 | 20138 |  | Ager, Robert  |  |  | Grafton Road, Geddington, Eng  | Ager, Lucy  | I Canada.. |
+| 5 | 813 | 1277 | 3750 | 1320 | 20168 |  | Alexander, David Melville... |  |  | 378, Chalmers Ave., Winnipeg, Man  | Alexander, John  ( _ _ | (Scotland. | 25 |
+| 5 | 812 | 1311 | 3750 | 1348 | 20150 |  | Andrews, Herbert  | 79th Regt  | Andrews, Thos. F j234 Magnus Ave., Winnipeg, Mun, |  | Canada.. | 28 |
+| 5 | 812 | 1344 | 3194 | 1377 | 20139 |  | Adamson, R  | . .Particulars will be fur | nished when available j   |
+| 5 | 811 | 1369 | 3749 | 1402 | 20290 |  | Acheson, Stanley  | Territorials  | Acheson, Commander A IToddington, Dunstable, Beds., Eng  |  | England. | 27 |
+| 5 | 810 | 1400 | 3347 | 1432 | 20291 |  | Adair, William Henry  | Nil  | Adair, Samuel 233 Tennent Street, Belfast, Ire  |  | Ireland... |
+| 5 | 810 | 1427 | 3750 | 1462 | 20292 |  | Armstrong, Albert Percy...., | 48th Regt |    Armstrong, Levi iBoiton, Ont  |  | Canada.. | 28 |
+| 5 | 809 | 1456 | 3749 | 1493 | 20293 |  | Andrews, Alexander  | Nil {Andrews, Jane S IMonkton, Ayr, Scot ._  |  |  | Scotland. | 26 |
+| 5 | 809 | 1486 | 3749 | 1523 | 20436 |  | Adams, Thomas Alfred  | “  J Adams, Alfred  j Brooklyn Cottage.Hunter St.,Buckingham,Eng |  |  | England. | 27 |
+| 5 | 809 | 1515 | 3749 | 1548 | 20437 |  | A twill, Sydney G  |  | Atwill, Robert i 153 King Street, Plymouth, Eng. |  |  | 24 |
+| 5 | 808 | 1540 | 3749 | 1576 | 20438 |  | Atherton, Ernest John  | 103rd Regt  | therton J. J. | 814-3rd Avenue N.W., Calgary, Alta  |  | 23 |
+| 5 | 808 | 1572 | 3749 | 1604 | 20590 |  | Annand, Clinton Henry.  | C. M. R  | Annand, Annie Mrs  | Milford, N.S  | Canada... | 28 |
+| 5 | 808 | 1601 | 3749 | 1634 | 20591 |  | Armstrong, William Edward. | 1st Batt. E. Lancs. | Armstrong, Frank  | 280 Smith Street, Providence, R.I., U.S.A..... | England.. | 25 |
+| 5 | 808 | 1631 | 3749 | 1667 | 20738 |  | | Abbott, Frederick Charles  | Nil  | Abbott, F. C  | Salters Hill, Upper Norwood, London, Eng  |  | 27 |
+| 5 | 807 | 1659 | 3358 | 1695 | 20739 |  | jAitkenhead, James  |  | Aitkenhead, Alexander  | 37 Trafalgar St., Greenock, Scot  | Scotland.. |
+| 5 | 807 | 1688 | 3750 | 1722 | 20740 |  | Allen, Percy Harry  |  | Allen, John  | Allenderne, Blakeley, Norfolk, Eng  | England.. | 23 |
+| 5 | 807 | 1718 | 3358 | 1750 | 20741 |  | Allingham, J. R. E  | 21st Hussars  | Allingham, Jane  | Leo, Alberta    | Canada... |
+| 5 | 807 | 1747 | 3748 | 1776 | 20SS2 |  | Arthur Jam€5   | Nil....   | Arthur, John...  | Pluck, Manor Cunningham, Donegal, Ire  |  | 27 |
+| 5 | 807 | 1777 | 2276 | 1807 | 20883 |  | Asifat, W  | Particlars will be furn | ished when available. |
+| 5 | 809 | 1804 | 3749 | 1836 | 19678 |  | Ansen, Fred  | Nil  | Ansen, Mrs. Knudsen  | Odense, Denmark  | Denmark.. | 20 |
+| 5 | 809 | 1833 | 3749 | 1865 | 19684 |  | Barlow, Charles  | Royal Welsh Fus  | Barlow, Edward  | 541 Flag Lane, Crewe, Eng  | England... | 25 |
+| 5 | 809 | 1862 | 3194 | 1894 | 19687 |  | Baudains, Stanley P  | 38th Regt  | Baudains, E. Mrs  | 7 Park Street, Plymouth, Eng  |
+| 5 | 809 | 1891 | 3194 | 1923 | 19688 |  | Bean, Harold N  | Nil  | Bean, Mrs  | Derry, P. O., Kildonan, B.C  |
+| 5 | 808 | 1920 | 3749 | 1953 | 19691 |  | Boyden, John George  |  | Flett, M. Mrs  | Molson, Man  | Canada.. | 28 |
+| 5 | 807 | 1949 | 3199 | 1982 | 19692 |  | Bryan, George  |  | Bryan, Annie Miss • | 90 Brunswick Rd., West Green Rd., Totten¬ |
+| 5 | 2577 | 1977 | 3749 | 2007 |  |  |  |  |  | ham, London, Eng  | England. | 23 |
+| 5 | 807 | 2006 | 3749 | 2038 | 19694 |  | Burns, W  |  | Burns, John  | Churchstock, Eng  |  | 25 |
+| 5 | 807 | 2030 | 3749 | 2067 | 19696 |  | Beard, Thomas  | R- N.... | Beard, Arthur  | Cambridge, Eng  |  | 27 |
+| 5 | 807 | 2063 | 3750 | 2095 | 19597 |  | Barrs, Charles James  | Nil  | Barrs, William  | 58 Milford Rd., Holloway, London, Eng  |  | 25 |
+| 5 | 806 | 2093 | 3751 | 2126 | 19697 |  | Burgcs3, J. T  |  | Burgess, J. T. (Jr.). | 409 Garlies Street, Winnipeg, Man  |  | 27 |
+| 6 | 801 | 348 | 3806 | 382 | ’Burns, John  | Imp. Light Horbe Nii  |
+| 6 | 1060 | 379 | 3134 | 415 | iBIaylock, John  | R.N.W.M.P  - K, nr.- 1. E iza'jttii Mrs  |  | . . . ;Wcthcrali Pasture, Wetherull, Carnslc, Eng |
+| 6 | 1068 | 428 | 3311 | 470 | Be!' hrr, Edward M  | Nil jBelrlicr, Gn.'-e Mrs  |  | ... IXbbeviile lid'., Clapham, London, Eng  | . Lngland |
+| 6 | 1060 | 467 | 3126 | 507 | (Ber.dall, Hugh Henry  | “     jScholkouski, Mrs  |  | ... McNally, P. 0., Alta  |
+| 6 | 1060 | 525 | 3353 | 564 | IBrereton, Clement Shaw.... | R. N |Brereton, Alf  |  | Hardham, Sussex, Eng    . .India  |
+| 6 | 1068 | 554 | 3356 | 586 | Iiarnes. Frederick Fraccia... | Nil !Barncs, Amy Maud Mrs  |  | Alexandra College,Shirley, Southampton. Eng. England... |
+| 6 | 1061 | 582 | 3274 | 620 | ’P,>(,nsdon, Stanley Giles.... | “  ;Bron6don, Helen Mrs  |  | Caversham, Oxford. Eng I “ |
+| 6 | 1061 | 612 | 3274 | 653 | j Bradford, Herbert - |  | Bradford, Henry  | 38 Gore Park Road, Eastbourne, Eng I “ |
+| 6 | 1061 | 641 | 3274 | 675 | (Bell, John Dobson  |  | Bell, Thomas R  | 103rd Regt  | Fordsyke Farm, Scalaby, Near Carlisle, Eng. .1 “ |
+| 6 | 1061 | 675 | 2414 | 705 | J Brookes, Herbert Ernest.... |  | nished when available  | Particulars will be fur |
+| 6 | 1060 | 699 | 3179 | 740 | | Browne, Alfred  |  | Brown, Bertha Mrs  | lOlrd Regt  | 325-5th Avenue W., Caigary, Alta .  |
+| 6 | 1061 | 728 | 3179 | 765 | [Browne Ralph Edward  |  | Brow n Elizabeth Mr3  | Lines Regt  | c[o (1) Ilewson Rd., W. Parade, Lincoln, Eng. |
+| 6 | 1061 | 761 | 3179 | 791 | ;Bell, Thomas Edwin  |  | Bell, Catherine Mrs. | Nil  | 5 MacKenzie St., Breckrond, Everton, Eng... |
+| 6 | 1068 | 788 | 3179 | 825 | Branch, Henry Edward  | O. T. C  | Branch, Henry E [LlandaiT House, Cambridge, Eng.     |
+| 6 | 1062 | 817 | 3185 | 854 | [Beeton, Geo. Stanley  | Nil  | [Beeton, George |57 Bobbersmill, Rd. Hyson Green, Notts, Eng |
+| 6 | 1069 | 845 | 3333 | 878 | Berg, Henry Olaf  | Nil ltasmisson, C |  |  | Denmark | llasmisson, C ’420 Jasper Ave., Winnipeg, Man  |
+| 6 | 1070 | 874 | 3375 | 907 | Bell, David  | 1st S. H. & R.C.G  * |  |  | Scotland.... | Bell, Mrs [45 Wellcourt-Dean Village, Edinburgh, Scot.... |
+| 6 | 1070 | 904 | 3317 | 942 | Bomford, A. R. G  | Nil  |  |  | England | [Bomford, E Frome, Eng  |
+| 6 | 1070 | 992 | 3184 | 1031 | Balchin, W. H  | [Queen’s R. R. | Balchin, A   |4 Thorndale Cottages, Westgate, Surrey, Eng, |
+| 6 | 1071 | 1023 | 3182 | 1059 | Barnes, George. | iSth Liverpool Regt  | Barnes, Maud Miss (Kendal, Westmoreland, Eng  |
+| 6 | 1072 | 1049 | 3304 | 1082 | Ballance, George. | Nil  | Ballance, William iHarrow Road, Kilkeel, Ire (Ireland |
+| 6 | 1071 | 1078 | 3321 | 1115 | Bristow, Frank.     | ’Volunteers  | Bristow, Jame3 Edward |512 Bannerman Ave., Winnipeg, Man England |
+| 6 | 1073 | 1108 | 3318 | 1144 | Broadhurst,,_ Frederick Ewart. | Nil  | Broadhurst, J. J. Mrs |498 Langside St., W'innipeg, Man Canada. |
+| 6 | 1073 | 1136 | 3322 | 1174 | Bicknell, William John  | |2nd R. C. E  | Bicknell, William John ’Long Itchington, Warwickshire, Eng [England |
+| 6 | 1073 | 1165 | 3197 | 1203 | Bell, Harry  | Cheshire Imp. Yeo  | Bell, Lewis |332, Parkview Street, Winnipeg, Man j |
+| 6 | 1073 | 1192 | 3282 | 1227 | Bristow, Frederick  | Nil  | (Bristow, A. Mrs Lane End, Buckinghamshire, Eng... j “ |
+| 6 | 1075 | 1308 | 3741 | 1341 | Balfour, William  | [30th Horse iBalfour, Henrietta  |  | Hornsea, E. Yorkshire, Eng. |  | 22 |
+| 6 | 1075 | 1340 | 3200 | 1370 | Bennett, Stanley  | iNil iBennett, Arthur  |  | 705-5th Avenue Wr., Calgary, Alta I |
+| 6 | 1076 | 1368 | 3366 | 1403 | Bonna, George  | U. S. Army Burton, Edna jQuesnel, B.C.... |
+| 6 | 1076 | 1398 | 3366 | 1430 | Boultbee, Joseph Maxwell. .. | Nil |Boultbee, C. F    |  | Hargrave, Huntingdon, Eng lEngland... |
+| 6 | 1069 | 1424 | 3745 | 1458 | [Brett, Ernest  |  | Brett, Amy  | 21 William Street, Hoole,Chester, Eng j “ |  | 28 |
+| 6 | 1077 | 1454 | 3745 | 1486 | Brown, James Dawson  |  | Brown, James  | New London, P. E. I Canada.... |  | 26 |
+| 6 | 1077 | 1481 | 3745 | 1521 | Bell, Bert  | 103rd Regt Bell, A. Mrs  |  | Wood Island, P. E. I | “ |  | 28 |
+| 6 | 1077 | 1512 | 3745 | 1552 | Barritt, George  |  | Barker, Mary Ann  | Nil  | Stubbing, Chelmsford, Essex, Eng j England.. | 27 |
+| 6 | 1078 | 1541 | 3746 | 1573 | Boyd, John B  |  | Boyd, John  | Imp. Yeomanry  | 45 Lennas Ave., Soldean, Glasgow, Scot (Scotland.. | 23 |
+| 6 | 1076 | 1568 | 3355 | 1607 | Birrell, Alexander Albert  |  | Birrell, E. Mrs  | 103rd Regt  | Bolton Road, Windsor, Eng |Engiaud.. |
+| 6 | 1077 | 1600 | 3355 | 1631 | Bunyan, James Alexander  |  | Bunyan, Sadie. Mrs  | 1st C. M. Regt  | Prince Albfcrt, Sask [Scotland.. |
+| 6 | 1078 | 1631 | 3748 | 1660 | Boyd, John  |  | Boyd, Anna Mrs  | 103rd Regt  | 338-14th Ave. E., Calgary, Alta. | 2o |
+| 6 | 1078 | 1657 | 3747 | 1690 | Bibby, Laurence  |  | Bibby, Francis  | Nil  | Ardleigh, Essex, Eng  | England. | 23 |
+| 6 | 1078 | 1685 | 3198 | 1718 | Bramwell, John Robertson... |  | Bramwell, S. Mrs  | 103rd Regt  | 4192 Moss Bay Rd., Workington, Cumberland |
+| 6 | 1079 | 1743 | 3747 | 1776 | Baker, Herbert.... | Worcester, Regt., etc... | Baker, J, A.  | Bournemouth,     |  | 24 |
+| 6 | 1079 | 1776 | 3144 | 1804 | Burrow, Thomas... | 103rd Regt  | Burrow, Agnes Mrs. | Grange-over-Sands, Lancashire, Eng  |
+| 6 | 1079 | 1804 | 3135 | 1833 | Burrows, James H. | East Surrey Regt  | Jerry, A. Mrs  | 10 Arline St., Hackney Rd., London, Eng. |
+| 6 | 1080 | 1833 | 3199 | 1861 | Baird, Hugh  | 103rd Regt  | Scott, William  | clo Scott & Hartcroft, Grain Exchange Bldg., |
+| 6 | 1080 | 1889 | 3344 | 1920 | Brown, Elsdon  | Dur. L. Inf,. 103rd Regt. | Brown, George  | 43 Edith St., Consett, Durham, Eng England. |
+| 6 | 1079 | 1920 | 2695 | 1949 | Bailey, Leonard Harold. | 25th Batt. C. F. A  | Bailey, S. Mrs  | Taber, Alta. |
+| 6 | 1080 | 1947 | 3345 | 1977 | Boag, John  | Nil  | Wallace, Kate Mrs... | Kirriemuir, Scot. | Scotland. |
+| 6 | 1080 | 1976 | 3344 | 2008 | Bailey, W7illiam  | 63rd Wilts Regt  | Bailey, Margaret Mrs | 495)4 Alexander Ave., Winnipeg, Man. | England. |
+| 6 | 1080 | 2004 | 3345 | 2035 | Black, Alexander  | Nil  | Black, Annie Mrs  | Garaen Lane, Buckie, Scot  | Scotland. |
+| 6 | 1080 | 2034 | 3344 | 2064 | Bolton, James  |  | Bolton, William | 311 Stanley St., Winnipeg, Man  | Canada.. |
+| 6 | 1081 | 2058 | 3346 | 2093 | Blake, Percival W  | South Wales Batt. | Blake, May Mrs 158 Eagle Street, Coventry, Eng. |  | England. |
+| 7 | 961 | 517 | 3327 | 545 |  | Rank. |  | Former Corps. |  |  | of |
+| 7 | 837 | 543 | 3772 | 572 | CJ |  |  |  |  |  | Birth. | Place. | Date. |
+| 7 | 829 | 663 | 3205 | 696 | 2059G | Private... . | B6yden, Walter Samuel Charles.. | L. S. 11  |  | Guinness Bldg., Draycott Ave., Chelsea, Lon¬ |
+| 7 | 829 | 719 | 3750 | 747 | 2019J |  |  | Nil  |  |  |  | 28 |
+| 7 | 829 | 749 | 3751 | 784 | 20597 | « | Brown. Frederick  | Nil  | Brown, Charles  | Keysoe, Eng  |  | 24 |
+| 7 | 828 | 781 | 3619 | 812 | 20684 | “ . | Bloomfield, l'rank E  | Royal Guernsey L.l  | Bloomfield, Charlotte Mrs  | i)40 Barking Road, London, Eng  | U ... |
+| 7 | 828 | 807 | 3752 | 839 | 20C92 |  |  | Nil  |  | 1464A Dufferin St., Toronto, Ont  | U.S. A  | 23 |
+| 7 | 1641 | 865 | 3733 | 880 |  |  |  | u |  |  | u | “ |
+| 7 | 827 | 867 | 3184 | 896 | 207-i3 |  | Baker, William Henry  |  | Baker, Annie  | Smethwick. Staffordshire. Eng  |
+| 7 | 826 | 894 | 3745 | 928 | 20741 |  | Barb, George  | R. M. L. I  | Barb, John  | Greyhound Road, Fulham. Eng  | — | ... | 2. |
+| 7 | 3285 | 1010 | 3734 | 1024 |  |  |  |  |  |  | u | u | w |
+| 7 | 824 | 1071 | 1967 | 1097 | 20881 |  | Baker, B F. | Particulars will be fur |
+| 7 | 826 | 1155 | 3754 | 1181 | 1'jCSr, |  |  |  |  |  | “ ... | 26 |
+| 7 | 967 | 1186 | 3524 | 1200 |  | u |  | u |  |  | a |
+| 7 | 822 | 1213 | 3754 | 1240 | 20000 | u |  | u |  |  | Ireland  | it | 27 |
+| 7 | 824 | 1242 | 3753 | 1268 | 19899 | ** |  | u |  |  | » “ | 24 |
+| 7 | 821 | 1270 | 3755 | 1297 | 20595 | u |  |  |  |  |  | 23 |
+| 7 | 823 | 1300 | 3754 | 1334 | 19G98 |  |  | A. & S. High  |  |  |  | 25 |
+| 7 | 822 | 1330 | 3755 | 1358 | 19G99 |  |  | Nil  |  |  | a | 26 |
+| 7 | 822 | 1359 | 3622 | 1392 | 19701 | “ | Cox, Alfred T  |  | Wellman, E. Mrs  | Priory Lodge, Christchurch, Hampshire, Eng. | * ... |
+| 7 | 822 | 1386 | 3737 | 1418 | iy?02 |  | Critcblev, James  |  |  |  | “ | “ | * |
+| 7 | 822 | 1419 | 1959 | 1446 | 19703 |  | Crook, Robert  | Nil  |
+| 7 | 822 | 1445 | 3755 | 1470 | 19704 | *• |  | u |  |  |  | 25 |
+| 7 | 819 | 1474 | 3755 | 1504 | 20093 | “ | Chaplin, Herbert  | a |  |  | ii | 23 |
+| 7 | 822 | 1503 | 3756 | 1533 | 19800 | « |  | R. G. A.. | Nil... | Nil  | u | 26 |
+| 7 | 821 | 1532 | 3755 | 1561 | 19842 |  |  | Nil  |  |  |  | 22 |
+| 7 | 964 | 1560 | 3737 | 1575 |  | “ |  |  |  |  | u | a | * |
+| 7 | 3288 | 1589 | 3736 | 1604 |  |  |  |  |  |  | a | u | a |
+| 7 | 964 | 1618 | 3737 | 1633 |  | « |  |  |  |  | u | a |
+| 7 | 822 | 1622 | 1776 | 1649 | 1984o |  | Clarke, John  | Nil  |
+| 7 | 822 | 1648 | 3755 | 1678 | 19S17 | « | Clarke, Robert  | « |  |  |  | 24 |
+| 7 | 964 | 1680 | 3525 | 1694 |  | *♦ |  | u |  |  | ** |
+| 7 | 822 | 1705 | 3755 | 1739 | 19849 | it | Connell, David  | u | Connell, Robert  | 110 Cooper St., Doncaster, Yorkshire, Eng.... | it | u | 22 |
+| 7 | 821 | 1734 | 3755 | 1767 | 19942 |  | Campbell, John  | First Irish Gds  | Campbell, Helen. Mrs.  | 11 Windsor Gardens, Musselburgh, Scot  | Scotland  | 26 |
+| 7 | 820 | 1792 | 3754 | 1822 | 20002 | « |  | Nil  |  |  | u | 24 |
+| 7 | 822 | 1820 | 3754 | 1847 | 19C03 |  |  |  |  |  | u | 27 |
+| 7 | 820 | 1879 | 3756 | 1911 | 20089 |  | Clawson, William  | Nil  |  |  |  | 20 |
+| 7 | 821 | 1907 | 3755 | 1938 | 20004 | « | Cook, James  |  |  |  |  | 24 |
+| 7 | 821 | 1941 | 3412 | 1965 | 20005 |  | Coooer. Edward Lawson  |  |  |  | U. S. A  |
+| 7 | 821 | 1969 | 3413 | 1998 | 20006 |  |  | Nil  |  |  | England  |
+| 7 | 968 | 2024 | 3756 | 2046 |  | « |  |  |  |  | a | u | 24 |
+| 7 | 822 | 2027 | 1811 | 2054 | 20009 |  | Curtis, William Ernest  | Nil  |
+| 7 | 822 | 2053 | 3757 | 2083 | 20247 | • |  | O.T.C. |  |  |  | 25 |
+| 7 | 821 | 2083 | 3758 | 2115 | 20209 |  | Clarke, Frederick George  | Nil  |  | 831 William Ave., Winnipeg. Man  |  | 23 |
+| 7 | 821 | 2112 | 3758 | 2144 | 20210 |  | Cranston, George  |  |  | 12 St. Mary St., Edinburgh, Scot  |  | 27 |
+| 8 | 815 | 374 | 3817 | 407 | Or,jper, Thomas  |  | V-QOpi j, iVi.it*... | S Brazier bt., Elmwood, Winnipeg, Man  | Canada.. |
+| 8 | 815 | 405 | 3732 | 437 | Cartwright, Joseph  |  | Cartwright, Susan Mrs.. | 23S Harbison Ave., Elmwood, Winnipeg, Man.. | England. | 27 |
+| 8 | 1083 | 434 | 3333 | 469 | Cuinjineham. George  _ | 74th Highland Regt. | CunniDgham, Alexander. | 42 Parkhead. Glasgow, Scot . | Scotland. |
+| 8 | 1082 | 460 | 3189 | 496 | Chappclow, Eustace P |Nil. |  | Wilson, H. Mrs  | Amarosa Mine, Shagari P.O., South Rhodesia, |
+| 8 | 2575 | 494 | 3734 | 524 |  |  |  | Africa  | England. | 28 |
+| 8 | 1081 | 522 | 3733 | 553 | Chceseman, Henry Augustus  |  | Cheeseman, M. Mrs  | 33 Tule St., Cathedral Road, Cardiff, Wales... |  | 23 |
+| 8 | 1081 | 548 | 3733 | 582 | Cabeldue, Horace Edwin Herbert |  | Cabeldue, Philip S  | 10 Harima, Machi Kobe, Japan  | Channel Isl. | 22 |
+| 8 | 1081 | 579 | 3735 | 611 | Cameron, Walter Kenneth  | South Africa  | Campbell, E. J. Mrs.... | 71-2nd Ave., Ottawa, Ont  | Canada  | 20 |
+| 8 | 1081 | 609 | 3377 | 641 | Coats, Andrew  | Nil  | Coats, Margaret Mrs  | Campbell's Cross. Ont  | Scotland.... |
+| 8 | 1080 | 639 | 3735 | 674 | Coates, James E     | 30th Horse v  | Coates, E. H  | Wetherby, Yorkshire, Eng  | Canada  | 28 |
+| 8 | 1081 | 667 | 3735 | 700 | Crosby, G eorge Crichton  | 5th Roval Warwicks. | Crosby, Kate Mrs  | 734-24th Ave., E., Calgary, Alta  | England  | 26 |
+| 8 | 1081 | 697 | 3735 | 728 | Clarke, Alexander Bernard  | Nil..  | Clarke, J. H. Mrs  | Pugwash, N. S  | Canada  | 23 |
+| 8 | 1081 | 726 | 3734 | 757 | Conley, Henry  | R. G. A..... Conley, John  |  | 24 Norfolk Street., Hull, Eng  | England  | 24 |
+| 8 | 1081 | 755 | 3736 | 786 | Courtney, Arthur  | 3rd Devonshire Regt Courtney, E. Mr; |  | Stoke Woods, Exeter Devonshire, Eng  |  | 23 |
+| 8 | 1081 | 783 | 3737 | 816 | Cooper, Frederick  | 1st West Yorks Regt, etc | Cooper, Edmund. | Railway St., Leyburn, Yorkshire, Eng  |  | 25 |
+| 8 | 1081 | 812 | 3737 | 844 | Connah, Arthur Llewellyn  | 15th Horse..... | Connah, Thomas. | Saltney Ferry, Flintshire, Wales.   | Wales... | 23 |
+| 8 | 1081 | 841 | 3159 | 874 | Cecil, Edgar Edward  | 103th Regt., etc | Cecil, E. Mrs  | 14 Long Hyde Rd., Bearwood, Birmingham, |
+| 8 | 1081 | 898 | 3738 | 932 | Cox, William George  |  | Cox, Mrs  | 89 Queens Square, 'Waterloo Rd. London, Eng |  | 27 |
+| 8 | 1082 | 928 | 3738 | 960 | Cudmore, Charles Robert  |  | Cudmore, William Mrs. Sr... | ~6 Milton Road, Lowestoft, Suffolk, Eng.... |  | 23 |
+| 8 | 1082 | 957 | 3738 | 989 | Conybeare. Henry Bruce Athwood | 2nd Regt.. . | Conybeare, C. F. P  | ‘Riverview”, Lethbridge, Alta  | Canada.. | 23 |
+| 8 | 1083 | 986 | 3739 | 1017 | Clark, John Smith  | 103rd Rest | Clark, John  | 25 Marchmont Road., Edinburgh, Scot  | Scotland. | 23 |
+| 8 | 1083 | 1015 | 3739 | 1047 | Cadman. Thomas Henry  | Nil  | Cadman. Elizabeth Miss.... | Solond, Croxteth, Sefton Park, Eng  | England. | 27 |
+| 8 | 1083 | 1044 | 3740 | 1076 | Cann, William H  |  | Cann, Alfred  | Portage-la-Prairie, Man  |  | 28 |
+| 8 | 1084 | 1072 | 3740 | 1104 | Chester, Sydney Daniel  | Sussex R. E | Chester, C. Miss  | Bexhili-on-Sea. Sussex Eng  |  | 24 |
+| 8 | 1084 | 1101 | 3337 | 1133 | Clark, Cyril A  | nd Regt. . | Clark, Mary Mrs  | 126-12th Ave., West Toronto, Ont  | Canada.. |
+| 8 | 1085 | 1130 | 3340 | 1163 | Cottam, Arthur  | Nil  | Cottam, Rachel Mrs  | 217 Mission Rd., Park Hill, Calgary, Alta  | England. |
+| 8 | 1085 | 1159 | 3742 | 1192 | Cullum, Waiter  | Rifle Brigi.de  | Cullum, Lownie Mrs  | 38 Gifford St., Hoota Street, (London, Eng.).. |  | 27 |
+| 8 | 1086 | 1188 | 3741 | 1222 | Costello, Richard  | 36th Worcester Regt.... | Meade Augustin Mrs  | Grosvenor St., Wolverhampton, Eng  |  | 28 |
+| 8 | 1086 | 1218 | 3741 | 1250 | Cameron, Keith Edward  | 21st Hussirs  | Hollingworth, Bella  | 10 Daniel St., Motherwell, Lanarkshire, Scot.. | Scotland. | 27 |
+| 8 | 1086 | 1247 | 2384 | 1275 | Cameron, G  | Particulars will be fur | nished when available  |
+| 8 | 1086 | 1275 | 3743 | 1306 | Cairns, John  | S. A. Light Horse  | Cairns, Wm  | Burnfort Hill, Scot  | Scotland. | 24 |
+| 8 | 1086 | 1304 | 3341 | 1336 | Ching, Harry  | Nil I | Ching, Sarah  | 4 Alban Terrace, Paignton, Eng  | England. |
+| 8 | 1086 | 1333 | 3127 | 1366 | Chipperfield, William  | 10th Batt. Finsb’y Rif.... | Chipperfield, William  | 17 Romily Rd., London N., Eng  |
+| 8 | 1087 | 1362 | 3744 | 1395 | Clarke, Maurice Fredway  | C. U. R. V. Rest. | Clarke, Fredway Sydenham. | Eagle Butte, Medicine Hat, Alta  |  | 27 |
+| 8 | 1087 | 1391 | 3342 | 1424 | Clark, Charles Harry  | Nil | Clark, Annie  | Pittulie-by-Fraserburgh, Scot  | Scotland. |
+| 8 | 1088 | 1420 | 3745 | 1453 | Collin. Bertie Phillips  | 2Sth Co. of London Regt | Collin, Rev. J  | Thurston Rectory, Hampshire, Eng  | England. | 24 |
+| 8 | 1088 | 1449 | 3339 | 1480 | Congdon, Walter Roy  | Nil  | Ilalpin, W. E. M rs  | 837-4th Ave. S. E., Medicine Hat, Alta  | Canada.. |
+| 8 | 1088 | 1478 | 3744 | 1510 | Cooke, Ernest  |  | Cooke. Paul  | 65 Ashfield Rd., Altrincham, Cheshire, Eng... | England. | 23 |
+| 8 | 1088 | 1507 | 3322 | 1539 | Cox, Richard  | S. I. I. Y  | Cox, William A  | Nore View Terrace, Kilkenny, Ire  | Ireland. |
+| 8 | 1088 | 1533 | 3746 | 1568 | Cumming, George  | 29th Horse... | Gumming, Fanny  | Fauldhouse. Linlithgowshire, Scot  | Scotland. | 24 |
+| 8 | 1089 | 1565 | 3181 | 1598 | Cumming, Peter  | Nil  | Cumming. George  | Hepscarth Villa, Fauldhouse, Linlithgowshire |
+| 8 | 1090 | 1622 | 3747 | 1656 | Cope, James  | Nil. | Cope, S. Mrs  | 66 Index St., Walton, Liverpool, Eng  | England. | 26 |
+| 8 | 1090 | 1652 | 3749 | 1685 | Clutterbuck, Sara  |  | Clutterbuck, Rosina Mrs.. | Ynysybwl, South Wales..   | Wales... . | 26 |
+| 8 | 1091 | 1681 | 3748 | 1713 | Deally, James  |  | Deally C. Mrs    | 83, Harrison Road, Edinburgh, Scot  | Scotland. | 25 |
+| 8 | 1092 | 1711 | 3749 | 1742 | Douglas, Robert  |  | Douglas, M. E. Mrs  | Transcona, Man    |  | 26 |
+| 8 | 1091 | 1739 | 3750 | 1771 | Drayton, George  |  | Drayton. Thomas C  | 78 West Parade, Hull, Yorkshire, Eng  | England. | 25 |
+| 8 | 1092 | 1768 | 2356 | 1795 | Dickenson,   | Particulars will be fur | nished when available  |
+| 8 | 1091 | 1789 | 3768 | 1828 | Dolan, Ernest  | Nil  | Dolan, W. J. Mrs  | 10 Ilse, Ncwmilnes, Scot .  | Scotland | "22" |
+| 8 | 1092 | 1826 | 3751 | 1859 | Davin, James Andrew  |  | Davin, J. A  | 3 Aylesbury Road, Dublin, Ire  | Ireland.. | 24 |
+| 8 | 1091 | 1855 | 3752 | 1888 | Dumais, John B  |  | Dumais, E  | St. .Joseph, Rimouski Co., P. Q  | Canada.. | 25 |
+| 8 | 1092 | 1884 | 3751 | 1918 | Davidson, Thomas Alfred  | 4th C. M. R  | Davidson, James  | Springhiil, N.S  |  | 24 |
+| 8 | 1092 | 1913 | 3395 | 1946 | Duff, John Frederick  | Nil  | Duff, Ellen Mr3  | 17 Brooke Ave., Montreal, P. Q  | U.S. A  |
+| 8 | 1092 | 1943 | 3394 | 1975 | Duff, James    | R. A. M. C  | Duff, Margaret Miss  | :932-14th Ave., W. Calgary, Alta  | Scotland.... |
+| 8 | 1092 | 1971 | 3380 | 2004 | Devonport, James  | K. O. R. L. Regt | Devonport, Rhoda Mrs... | 115 New Banks, Longsight, Manchester.Eng.. | England... |
+| 8 | 1092 | 2000 | 3203 | 2032 | Dyke, Alfred Rowland Vivian.... | Nil  | Dyke. H. S  | Milborne, Port Sherborne, Dorset, Eng  |
+| 8 | 1090 | 2029 | 3754 | 2061 | Dick, Colin Grey  |  | Dick, Elizabeth  | 4669-lst Ave. N.E., Seattle, Wash., U.S.A.... | Canada.. | 25 |
+| 8 | 1091 | 2057 | 3754 | 2091 | Davidson, John  |  | Davidson, J. Mrs  | 19, Guay Ave., Norwood, Winnipeg, Man  | Scotland. | 23 |
+| 8 | 1090 | 2086 | 3351 | 2120 | Davis, Thomas  |  | Stuart, M. Mrs  | Birmingham, Eng  | England. |
+| 9 | 953 | 516 | 3325 | 550 |  | Rank. |  | Former Corps. |  |  | of |
+| 9 | 830 | 544 | 3771 | 573 | o |  |  |  |  |  | Birth. | Place. | Date. |
+| 9 | 823 | 661 | 3820 | 696 | 2030S |  |  | Queen’s Edinboro’ Regt.. |  |  | Scotland  | Valcartier | Sept. 20 1914 |
+| 9 | 966 | 692 | 3730 | 707 |  | It |  |  |  |  |  | a | • |
+| 9 | 822 | 691 | 3406 | 722 |  |  |  | Nil | 20309 |  | Canada  |
+| 9 | 822 | 720 | 3729 | 751 | 20310 | u | Donaldson. Charles  | a |  |  | Scotland  | m | a |
+| 9 | 822 | 743 | 3749 | 784 | 20402 | “ !!! | Daniels. Alfred  | Bordpr Regt  | Atkins, H. Mrs  | Broad View Sask   | England  | * | 23 |
+| 9 | 821 | 780 | 3198 | 812 | 20403 | “ ... | Dowty, Algernon Bradley  | II. F. A  | Dowty. G. H. M s  | Totland Bay. Isle of Wight Eng  |
+| 9 | 821 | 781 | 3407 | 840 | 20404 | “ | Davies, Frederick, Ilenrv  |  | Hormsby, M. A. Mrs  | Whaddon* I louse, llolherchiid Owestry | * -• |
+| 9 | 965 | 866 | 3730 | 879 |  | <4 |  |  |  |  | U |  | * |
+| 9 | 821 | 895 | 3731 | 924 | 204C0 | U | Davis, John Alfred  | U | Davis. A. 1 •. Mis  | \ictoria Hotel, Richmansworth, Herts, Eng... | u   | u | a |
+| 9 | 820 | 926 | 3198 | 955 |  |  |  |  |  | Abbey Street, Lindeford, Gloucs, Eng  | 20407 | Durham, George Cornelius  |
+| 9 | 820 | 983 | 3750 | 1012 | 20401} |  |  |  |  | Woodborough, Wiltshire, Eng  |  |  | 24 |
+| 9 | 821 | 1069 | 3751 | 1100 | 20472 |  | Drown, George Washington  | Nil  | Drown, G. \V  | Morrisville, Vermont, U.S.A  | U. S. A.  |  | 23 |
+| 9 | 820 | 1099 | 3408 | 1126 | 20473 |  |  | R. F. A |  |  | England  |
+| 9 | 821 | 1127 | 3408 | 1157 |  |  |  |  |  |  | Canada  | 20474 | Doiron, Emmanuel  | Doiron, Xavier. Mrs  | New Glasgow, P.E.I  |
+| 9 | 821 | 1157 | 3751 | 1186 | 20475 |  |  | 130th Regt  | Denney, Charlotte Mrs  | Fortv-foot Road., Portsmouth, Ont. Can  | England  |  | 27 |
+| 9 | 821 | 1186 | 3161 | 1216 | 20605 |  |  | Nil  |  | c[o Thos. Jones, 5 Rose Cottage Puollgwan, |
+| 9 | 965 | 1245 | 3522 | 1267 |  | « |  | a |  |  |  | , « |
+| 9 | 965 | 1273 | 3522 | 1286 |  | u |  | u |  |  | u | « |
+| 9 | 965 | 1302 | 3733 | 1314 |  | « |  | u |  |  |  | u | U |
+| 9 | 966 | 1331 | 3522 | 1344 |  | u |  | it |  |  | u | u |
+| 9 | 966 | 1360 | 3733 | 1373 |  | u |  | U |  |  | • | u | u |
+| 9 | 965 | 1389 | 3733 | 1402 |  | « |  | u |  |  | c | u | t* |
+| 9 | 966 | 1418 | 3733 | 1431 |  | « |  | u |  |  |  |  | u |
+| 9 | 965 | 1504 | 3732 | 1516 |  | « |  |  |  |  | u | « | u |
+| 9 | 821 | 1533 | 3751 | 1562 | 20888 |  | Darling, James R  | Nil  |  | High Street, Greenlaw, Berwickshire, Scot.... |  |  | 23 |
+| 9 | 966 | 1562 | 3732 | 1574 |  | u |  |  |  |  |  | a | « |
+| 9 | 821 | 1590 | 3750 | 1621 | 20S90 |  | Degon, William  | Nil  |  | 100G-5th Street C., S.E., Medicine Hat, Alta . | U.S.A  |  | 24 |
+| 9 | 821 | 1619 | 1963 | 1646 | 20S91 |  | Denyer, WT  | Particulars will be fur |
+| 9 | 821 | 1706 | 3751 | 1734 | 20894 |  |  | Nil... | Denis, Sam  |  |  |  | 27 |
+| 9 | 821 | 1763 | 3408 | 1793 | 20607 |  | Dougherty, L. D  |  |  | Parence, Idaho, U.S.A  | U.S.A  |
+| 9 | 820 | 1792 | 3750 | 1821 | 20C59 |  | Donaldson, Selby Guy  | Nil  |  |  |  |  | 24 |
+| 9 | 966 | 1821 | 3522 | 1835 |  | “ |  | u |  |  |  | a |
+| 9 | 823 | 1821 | 3751 | 1858 |  |  |  |  |  |  |  |  | 26 | 19710 | Ellis, Albert  | Ellis, G. F ;  | 107 Cockshutt X^ane, Wolverhampton, Eng  |
+| 9 | 1633 | 1852 | 3733 | 1866 |  |  |  |  |  |  |  |  | •t | « | u | m |
+| 9 | 822 | 1850 | 2502 | 1879 |  |  |  |  | Ellis, George Frederick  | 19711 | Ellis, Ernest   |
+| 9 | 823 | 1879 | 3751 | 1907 | 19853 |  | Enderton, Homer Frank  |  |  |  | U.S.A  |  | 24 |
+| 9 | 965 | 1908 | 3733 | 1925 |  | it |  |  |  |  |  | H | u |
+| 9 | 823 | 1908 | 3079 | 1938 | 19854 |  | Easterbrook, Frederick Herbert.. | Nil  |  | 3 Esther St., Brantford, Ont  |
+| 9 | 820 | 1937 | 3732 | 1964 | 20016 |  | Elliott, William  | . u |  |  | u | m | m |
+| 9 | 820 | 1966 | 3732 | 1993 | 20017 | M | Eggleston, Arthur II  | u |  |  | m | m | u |
+| 9 | 820 | 1995 | 3732 | 2023 | 20018 | a | Embrce. Ilenry Janius  | m |  |  | U.S.A  | m | a |
+| 9 | 819 | 2023 | 3751 | 2052 | 20249 |  | Earl, William  | C. F. A  |  |  |  |  | 28 |
+| 9 | 821 | 2052 | 3750 | 2084 | 19601 |  | Edwards, John  | R. C. R  |  | Salt Lake City, Wash., U.S.A  |  |  | 27 |
+| 9 | 818 | 2081 | 3751 | 2110 | 20176 |  | Ellis, Herbert A  | NU  |  |  |  |  | * 28 |
+| 10 | 833 | 440 | 3343 | 476 | 20767 | Evans, Cyril Bruce  | R. F. A  | Evans, Charles  | 14 King Edward Rd., Leyton, Eng [England |
+| 10 | 834 | 472 | 3192 | 504 | 20611 |  |  | Lambert, Mrs  | General Delivery, Winnipeg, Man  |
+| 10 | 834 | 498 | 3428 | 534 | 20G12 |  | Nil  | Emek, William   | Temer, Belgium  | Belgium..... j |
+| 10 | 834 | 522 | 3428 | 563 | 20683 | « |  | Elton, Arthur  | 2nd Batt. North Staffs, Regt  | England I |
+| 10 | 834 | 553 | 3428 | 591 | 2076G | w |  | Erickson, Peter   | Canyon, Minnesota, iJ.S.A  | Sweden | |
+| 10 | 833 | 586 | 3429 | 621 | 20613 | Faultley, Arthur  | 23rd Horse  | Faultley, Lizzie, Mrs  | Raymond, Alta.   | England j |
+| 10 | 833 | 610 | 3429 | 649 | 20614 | Fillmore. Harold  | Nil  | Fillmore, Thomas   | 749 Ross Ave., Winnipeg, Man.   | Canada ! |
+| 10 | 833 | 641 | 3429 | 680 | 20615 | Flanagan, William '  | 4th K. O.R. Lancs Regt | Flanagan, Lucy, Mrs  | 4 Bedson St., Ashton, New Rd., Manchester | England I |
+| 10 | 1610 | 674 | 3429 | 708 |  |  | 106th Regt    | Forbea, Mathew  | 17th Batt. 1st Contingent, C. E. F. Eng  | Scotland ! |
+| 10 | 833 | 709 | 2510 | 736 | 20610 | Fox, T  |  | ished when available  |
+| 10 | 834 | 733 | 3357 | 766 | 20617 |  | 1st Batt.Q.O.Hiph’8.. . . | Fraser, Lennox  | Melfort, Sask  | Scotland. |
+| 10 | 836 | 791 | 3356 | 825 | 19712 |  | Nil  | Fitzgerald, Annio Gertrude Mrs— | 134 Dufferin Ave., Norwood, Winnipeg, Man. | Canada.. |
+| 10 | 836 | 821 | 3357 | 853 | 19713 |  |  | Going, S. Mr3  | 36 Sandy Cove Road, Kingstown, Ire  | England. |
+| 10 | 836 | 850 | 3195 | 882 | 19801 |  |  | Farrington, Ebenezer  | High Street, Buntingford, Herts, Eng  |
+| 10 | 837 | 878 | 3195 | 910 | 19718 | Fenn, Frederick, Charles  | C. A. M. C  | Fenn. F. L  | 46 Manchester St., London, Eng  |
+| 10 | 836 | 907 | 3419 | 941 | 19717 |  |  | Foley, James  | Kelmurry, Kenmare, Co. Kerry, Ire  | Ireland  |
+| 10 | 836 | 937 | 3420 | 969 | 19714 | « | Nil  | Huddleston, Mrs. Emily  | High St., Ware, Herts, Eng  | England  |
+| 10 | 836 | 966 | 3420 | 999 | 19715 |  |  | Frampton, W. J  | 19J-3 Yon Clady St., St. Johns, Nfld  | Newf’land... . |
+| 10 | 836 | 991 | 3420 | 1028 | 19716 | “ | Nil  | Craig, Mrs  | 31, Garngad Ave., Glasgow, Scot  | Scotland  |
+| 10 | 836 | 1020 | 3420 | 1057 | 19719 |  |  | Fry, Fanny Mrs  | 634 Kenilworth Av., Winnipeg. Man  | Canada  |
+| 10 | 836 | 1053 | 3420 | 1085 | 19855 | « | u | Fox, Stuart M  | 13 Queen St., Waterloo, Liverpool, Eng  | England   |
+| 10 | 836 | 1083 | 3406 | 1114 | 19856 | « | Nil  | Fox, Mary Anne  | 39 Thorold Ave., Ilford, London, Eng  | England  |
+| 10 | 834 | 1111 | 3219 | 1143 | 20019 | ** | Furber, W'illiam  | Furber, Joseph  | 39 St.. Annis Rd., Bryants Hill, Bristol, Eng.... |
+| 10 | 834 | 1140 | 3340 | 1173 | 20020 |  |  | Fuunigan Charles Mrs   | c o Canada Malting Co., East Calgary, Alta... | Ireland - |
+| 10 | 834 | 1164 | 3199 | 1200 | 20021 |  |  | Fainveather, Jean Mrs  | 48 South Glerk St., Edinburgh, Scot  |
+| 10 | 834 | 1194 | 3376 | 1230 | 20022 |  |  | Frizzelle, Elizabeth Mra  | 553 Gollyhurst Road, Manchester, Eng  | Ireland... |
+| 10 | 834 | 1223 | 3197 | 1256 | 20023 |  | Nil  | Franklin Minnie Reece Mrs  | R. F. D. No. 2, Box 37, Canton, N. Carolina, |
+| 10 | 834 | 1286 | 3377 | 1315 | 20024 |  |  | Fullarton Bessie Mrs.. | 207-17th Ave. E., Calgary, Alta.  | Scotland.. |
+| 10 | 835 | 1315 | 3379 | 1346 | 20236 |  |  | Ford, Alice Mrs  | Burland Villa, Nantwich, Cheshire, Eng  | England.. |
+| 10 | 835 | 1343 | 3204 | 1374 | 20130 | Ford, Egon Charles  | Nil  | Ford, Charles  | c]o H. Ford, 17 rue de Vienne, Ostend, Belg.. |
+| 10 | 836 | 1372 | 3363 | 1404 | 20177 |  |  | Ferris, William B.... | Springhili, N.B  | Canada.. |
+| 10 | 836 | 1402 | 3365 | 1433 | 20896 |  | Nil  | Fenn, G. Mrs  | 4 Chapel Street, Herts, Eng    | England. |
+| 10 | 836 | 1430 | 3363 | 1462 | 20311 | Foster, Harry  |  | Foster, Susan Mrs-... | Moose Jaw, Sask  | Canada.. |
+| 10 | 836 | 1460 | 3160 | 1491 | 20312 | Fanning, Stephen Alexander  |  | Fanning. Michael T.. | c|o Wm. Ashman, 337 Princess Ave., Van¬ |
+| 10 | 837 | 1517 | 3366 | 1549 | 20477 | Frost, George William  |  | Frost, Mary H  | Leslieville, Alta  | England. |
+| 10 | 836 | 1546 | 3364 | 1578 | 2047S | Fitzgibbons, A. Gerald  | Nil  | Fitzgibbons, Bernard  | Chesterville, Ont  | Canada.. |
+| 10 | 836 | 1575 | 3366 | 1606 | 20479 | « | Farmer, Alexander Crosbie  | Farmer, Dr Robert C. ... | Research Dept., Royal Arsenal Woolwich, Eng | England. |
+| 10 | 836 | 1604 | 3203 | 1635 | 20480 | M | a | Furmston, Mr  | 440-llH'St., Hillhurst, Calgary, Alta  |
+| 10 | 836 | 1634 | 3203 | 1665 | 20481 | Farley, Reginald  |  | Farley, E. Mrs  | 906, 1st Ave., N.W. Calgary, Alta  |
+| 10 | 837 | 1661 | 3361 | 1693 | 20482 | Findlay, William Henry  | Nil. | Mitchiran, P. E. G. Mrs. | Konnier, Nilgri Hills, South India  | India.... |
+| 10 | 837 | 1689 | 3367 | 1722 | 20483 | Foster, Frederick Albert  |  | Foster, Edwin Albert  | 615-15th Ave. E., Calgary, Alta  | England. |
+| 10 | 836 | 1719 | 3365 | 1750 | 20545 | Forbes, John Franklin  |  | Forbes, J. Mrs  | McCreary, Man  | Canada.. |
+| 10 | 836 | 1749 | 3203 | 1779 | 20768 | Fraser, Peter Robertson  | llUf    | Fraser, Simon | S"ringhii!, N. S  |
+| 10 | 836 | 1778 | 3203 | 1807 | 207G9 | Falkinp.r, Gfiorgft Kingsley  |  | Falkiner, Richard  | 300 Wright ave., Toronto Ont  |
+| 10 | 837 | 1807 | 3203 | 1836 | 204S4 |  |  | Goddard, S. Mrs  | 20 Nippin Ave., Toronto, Ont  |
+| 10 | 837 | 1832 | 3411 | 1866 | 20485 |  | R. C. R  | Gregory, F. Mrs  | 459-23rd Ave., N.W., Calgary, Alta  | England  |
+| 10 | 837 | 1862 | 3411 | 1894 | 20486 |  | Nil  | Gow, Walker  | Uddington, Scot  | Scotland... . |
+| 10 | 837 | 1891 | 3412 | 1924 | 20487 | « | Grasby, Robert  | a | Grasby, A. Mrs  | 61, School St., Greenfield, Mass., U.S.A  | Canada  |
+| 10 | 839 | 1918 | 3411 | 1954 | 19721 | Gardiner, William  |  | Gardiner, George  | Gorse Cottage, Tupsley, Hereford, Eng  | Australia.. . |
+| 10 | 840 | 1947 | 3356 | 1982 | 19722 | rJerrard, Edward   |  | GGirard, E. M. Mrs  | 294, Gwendoline St., Winnipeg, Man  | England |
+| 10 | 839 | 1978 | 3412 | 2012 | 19723 | Ginn, Henry  |  | MeKebary, Sarah Mrs... | 25. Ninth Street, Belfast, Ire  | Ireland  |
+| 10 | 840 | 2009 | 3205 | 2039 | 19803 |  |  | Good, H. A  | 132, Georges St., Cork Ire  |
+| 10 | 840 | 2035 | 3369 | 2069 | 19804 | Green, John  | R. E. (Vola.)  | Green, Mary Mrs.  | 159 Shamrock St., Glasgow, Scot  | Scotland. |
+| 10 | 839 | 2065 | 3369 | 2097 | 19857 | • • • | Gates, Rupert  | Nil  | Gates, H. T  | Portslade, Sussex, Eng  | England. |
+| 11 | 979 | 477 | 3342 | 507 |  | Rank. |  | Former Corps. | Name of Next-of-Kin. |  | of |
+| 11 | 853 | 504 | 3790 | 532 | V |  |  |  |  |  | Birth. | Place | Date. |
+| 11 | 850 | 643 | 1986 | 678 | 19*59 | Private.... | Gold, C. W ’  | Particulars will be fur |
+| 11 | 849 | 679 | 3850 | 714 | 19801 |  | Griffiths, \ incent Sydney  |  | Griffiths, Richard J  |  |  | Valcartier  | Sept. 24 1914 |
+| 11 | 849 | 736 | 3215 | 766 | 19803 |  |  | 2nd Scot. Horse  |  | Haughlend Pleiners, Elcin, Scot  |
+| 11 | 850 | 765 | 2521 | 792 | 19804 |  | Gilles, A  | Particulars will be lur | nished when available  |
+| 11 | 850 | 786 | 3426 | 823 | 1985b |  | Giles, Joseph  | 4th Hampshire Terr  | Giles, Mrs  | 131-23rd Ave. Tuxedo Park, Caigary, Alta  | England  |
+| 11 | 992 | 791 | 3851 | 836 |  | : ■■ |  |  |  |  | u | « |  28  |
+| 11 | 3302 | 833 | 3770 | 864 |  |  |  |  |  |  |  |  | 22 | m | u |
+| 11 | 851 | 851 | 3217 | 880 |  |  |  |  |  | 222 Main St., Southampton, Eng  | 19800 | D. C. L. I  |
+| 11 | 850 | 878 | 3428 | 911 |  |  |  |  |  | 1692 St. James St., St. Henri, Montreal, P. Q. | 19910 | Guy, Ernest  | 54th Regt  | Guy, On6sime  | Canada  |
+| 11 | 848 | 907 | 3428 | 935 | 20025 |  |  | Nil  |  |  | West Indies.. |
+| 11 | 848 | 936 | 3753 | 966 |  |  |  |  |  |  |  |  | U | 20027 | Box 350 Moose Jaw, Sask  | Scotland  |
+| 11 | 849 | 1052 | 2525 | 1080 | 20145 |  | Gunn, H .  | Particulars will be fur | nished when available  |
+| 11 | 850 | 1073 | 3429 | 1109 | 20133 |  |  |  |  | 6 Joshua Ave., Hessie Rd., Hull, Yorks, Eng... | England  |
+| 11 | 850 | 1110 | 3181 | 1140 | 20313 |  | Gerrish, Henry  | Nil  |  | Steeple Ashton, nr. Trowbridge, Wilts, Eng |
+| 11 | 994 | 1207 | 3775 | 1237 |  |  |  |  |  |  |  |  | 26 | u | * « |
+| 11 | 850 | 1224 | 1983 | 1256 | 20391 |  | Goodall, Harold  | W. R. F.A. (T.F.)  |
+| 11 | 850 | 1253 | 3755 | 1284 |  |  |  |  |  |  |  |  | a | 20705 | 17 Goldhawk Rd., Shepherds Bush, London... |
+| 11 | 993 | 1283 | 3545 | 1295 |  | u |  |  |  |  | u | u |
+| 11 | 850 | 1282 | 3755 | 1313 |  |  |  |  |  | Box 85, Raymond, Alta  | 20618 |  | u |
+| 11 | 850 | 1310 | 3431 | 1340 | 20021 |  |  |  | Potter, Ernest  |  | South Africa. |
+| 11 | 993 | 1322 | 3774 | 1353 |  |  |  |  |  |  |  |  | 27 | u | u |
+| 11 | 850 | 1339 | 3431 | 1371 | 20022 |  |  | Nil  |  | 20 Queensborough St., Dumfries, Scot  | Scotland  |
+| 11 | 994 | 1380 | 3776 | 1411 |  |  |  |  |  |  |  |  | 23 | U • | u | u |
+| 11 | 994 | 1409 | 3776 | 1439 |  |  |  |  |  |  |  |  | 25 | u | u | u |
+| 11 | 850 | 1483 | 3756 | 1514 | 20772 | “ |  | W. 11. Howitzer Bgde... |  | 2 Thrackrys So., Bowgate, Otley, Eng  | u | u | « |
+| 11 | 850 | 1511 | 3756 | 1543 |  |  |  | Nil  |  | Rose-Lynn, Alta  | 20773 | “ | a | a |
+| 11 | 850 | 1540 | 3756 | 1572 |  |  |  |  |  | Mere, Wiltshire, Eng  | 20774 | “ | Gray, B. II  | Gray, C. E  | u | a |
+| 11 | 849 | 1568 | 3757 | 1591 | 20775 | “ |  | a |  |  | u | a | u |
+| 11 | 995 | 1610 | 3777 | 1641 |  |  |  |  |  |  |  |  | 28 | a | u |
+| 11 | 850 | 1655 | 1991 | 1683 | 20899 | “ | Gilmore, G  | Particulars will be fur |
+| 11 | 850 | 1712 | 3547 | 1733 | 20026 | u |  |  |  |  | u | m |
+| 11 | 853 | 1740 | 3547 | 1762 | 19724 | u |  | u |  |  | u | a |
+| 11 | 995 | 1752 | 3777 | 1783 |  |  |  |  |  |  |  |  | 25 | a | u | a |
+| 11 | 852 | 1768 | 3758 | 1801 |  |  |  |  |  | 1830, Valentine Ave., Winnipeg, Man  |  |  | u | 19725 | Hall. Albert George  |
+| 11 | 852 | 1799 | 3548 | 1828 | 19SUO | “ | Hall, Henry Cecil  | Nil   | Hall, M. Mrs  |  | u | « |
+| 11 | 853 | 1827 | 3548 | 1848 | 19720 | a |  | u |  |  |  | a |
+| 11 | 995 | 1838 | 3779 | 1870 |  |  |  |  |  |  |  |  | 26 | a | a |
+| 11 | 852 | 1855 | 3759 | 1887 |  |  |  |  |  |  |  |  | « | 19727 | Harris, George  |
+| 11 | 852 | 1884 | 3760 | 1916 | 19728 | u | Hayes, George  | Nil  |  |  | Canada  | « | a |
+| 11 | 852 | 1913 | 3550 | 1944 | 19730 | u | Higgins, Richard  | u |  |  | Newfoundland | « |
+| 11 | 995 | 1924 | 3780 | 1959 |  |  |  |  |  |  |  |  | 25 | a | u | « |
+| 11 | 2002 | 1976 | 3780 | 2005 |  |  |  |  |  |  |  |  | 27 | Hill, N. Mrs | Pentonville Rd., Islington, London N., Eng... |
+| 11 | 851 | 1999 | 3760 | 2031 |  |  |  |  |  |  |  |  | a | 19732 | Nil  | Hughes, L. Miss  |
+| 11 | 850 | 2027 | 3549 | 2057 | 19807 | u | Hall, James Edwin  | u |  |  |  | u |
+| 11 | 994 | 2057 | 3550 | 2074 |  | a |  | u |  |  |  | u |
+| 11 | 848 | 2057 | 3227 | 2091 | 19868 |  | Hatcher, Charles Frederick  |  | Hatcher, Elizabeth  | 10 Pearion St., Port Elizabeth, S. Africa  |
+| 12 | 823 | 346 | 3335 | 380 | Harding, Robert   | Nil  | Ilarlliug. Auam  | Port Dufferin, N. S ;Canada... |
+| 12 | 822 | 376 | 3333 | 411 | Hawksworth. A!In <i Raau  |  | Hawkavvur th. Y\ illiam.. | Big Prairie, AlU. U. S. A.. |
+| 12 | 1088 | 406 | 3336 | 441 | Hillian, William Miller  |  | Hillian, William A  | Tolcross, Glasgow, Scot Scotland. |
+| 12 | 1088 | 436 | 3324 | 469 | Hallford, James  |  | Hallford. Frances Miss. | Field, B. C England |
+| 12 | 1088 | 466 | 3325 | 499 | Hartman, William  |  | Hartman, Henry  | Vibori, Finland.   Finland. |
+| 12 | 1089 | 495 | 3155 | 529 | Higgineon, John  |  | Pearce, W. Mrs  | 3 Anns Cottage, Hartland Rd., Seven Oaks, |
+| 12 | 1088 | 552 | 3323 | 585 | Hogg, James E  |  | Hcgg, Sarah Jane Mrs  |  | Canada. | Shelburne, Ont  |
+| 12 | 1088 | 581 | 3325 | 614 | Hobbs Cecil James  |  | Hcbbs, Annie  |  | England | 16 Dancer, Rd., Fulham, London, Eng  |
+| 12 | 1088 | 610 | 3188 | 642 | Hunt, Edgar  |  | Hunt, John  | Sullivan Lake, Alta  |
+| 12 | 1087 | 640 | 3335 | 673 | Hudgins, John Jacob   | 1st Reg. Cav. U.S.A  | Hudgini, Mr Logan  |  | U. S. A.. | 802W. Broadway, Louisville,Kentucky,U.S.A. |
+| 12 | 1086 | 667 | 3329 | 702 | Horner, Reginald George  | C. D. F. S. A  | Horner, S. (Rev.)  | Eldersfield Vicarage, Tewkesbury, Worcester,.. England |
+| 12 | 1087 | 698 | 3335 | 730 | Herold, Ray Christopher  | Nil  | Herold, J. P  | Whatcheer, Alta U. S. A.. |
+| 12 | 1088 | 728 | 3340 | 760 | Hickey, William  |  | Hickey, Cecilia Mrs  | 5 Dellow Bldgs, Dcllow St., London E., Eng.. England. |
+| 12 | 1088 | 756 | 3336 | 789 | Houle, Nelson  |  | Houle, J. Leon  | Stirling, Massachusetts, U. S. A (J. S. A.. |
+| 12 | 1087 | 785 | 3332 | 818 | Hardie, Joseph  |  | Hardic, Joseph  | 18 William Street, Kilmarnock, Scot Scotland |
+| 12 | 1087 | 814 | 3354 | 847 | Harsell, Albert Henry  |  | Harsell, Barbara A. Mrs.... | Uxbridge, Ont  Canada... |
+| 12 | 1087 | 843 | 3319 | 875 | Hood, Archibald A  | lOGth Regt. | Hood, A. K  | 363 Dufferin Ave., Winnipeg, Man Canada |
+| 12 | 1088 | 872 | 3338 | 904 | Hewer, Frank Charles  | IJ. S. Navy. | Hewer, Mary L     | 10 East 23rd Street, Erie, Penn., U. S. A U. S. A.. |
+| 12 | 1087 | 901 | 3319 | 933 | Hulme, Alfred  | Nil  | Hulme, Eliza  | 492 Sherbrooke St., Winnipeg, Man Canada |
+| 12 | 1088 | 930 | 3331 | 962 | Howard, William  |  | Howard, M. A. Mrs  | 149, Randolph Ave., Winnipeg, Man England |
+| 12 | 1088 | 959 | 3308 | 991 | Howard, Frederick  |  | Tait, Mrs  | 341 Young St., Winnipeg, Man Wale3. |
+| 12 | 1088 | 988 | 3332 | 1021 | Harries, Alfred Robert  |  | Harries, Margaret Mrs  | 2 Palmyra Place, Newport, Mon., Eng England |
+| 12 | 1088 | 1012 | 3197 | 1050 | Hunt, Frederick Charles  | Territorials. | Hunt, C. W   | 38 Valetta Grove, Plaistow, Essex. Eng  |
+| 12 | 1088 | 1047 | 3197 | 1078 | Horne, William Charles  | Nil  | Horne, Charles Frederick.. | 16 Henry Street, Tring, Herts, Eng  |
+| 12 | 1088 | 1074 | 3336 | 1106 | Henderson, James  |  | Henderson, Marion   | Arran Moor, Dunblane, Scot  | Scotland |
+| 12 | 1088 | 1104 | 3333 | 1136 | Hayman, Alexander  | Nil. | Hayman, F. Mrs  | Balmoral Mills, N. S  | Canada. |
+| 12 | 1088 | 1133 | 3333 | 1166 | High, Clifford  |  | High, Ernest P  | Saithouse, Holt, Norfolk, Eng  | England |
+| 12 | 1089 | 1160 | 3197 | 1194 | Hurst, Albert  |  | Crosland, Mrs. Martha  | 14 Lower Mt., Weltham, Yorkshire, Eng  |
+| 12 | 1089 | 1191 | 3197 | 1224 | Hodges, Charles William...... |  | Hodges, Herbert  | 515-7th Street N.E., Calgary, Alta  |
+| 12 | 1089 | 1220 | 3197 | 1252 | Horton, William Harry  |  | 'Horton, Frederick William. | c|o Henry Kingham & Sons, Walford, Eng  |
+| 12 | 1089 | 1250 | 3198 | 1280 | Hughes, Arthur  | A. S. C  | Jones, Alice  | 19 Oak St., Owestry, Shropshire, Eng  |
+| 12 | 1089 | 1278 | 3333 | 1311 | Hutchinson, John  | Nil  | Hutchinson, Anthony  | Ucluelet, Vancouver Island, B. C  | England |
+| 12 | 1089 | 1305 | 3327 | 1339 | Heron, Andrew  | Lovats Scouts.... | Heron, Mary Miss  | Ogden, Nr. Calgary, Alberta.   | Scot  |
+| 12 | 1090 | 1334 | 3334 | 1367 | Hansford, Harry  | Nil  | Hansford, L. Mrs  | c|o Mr. Wiggs, Brighton, Victoria, Australia... | England |
+| 12 | 1089 | 1366 | 3200 | 1396 | Hewett, Brian Landale  | R. N. W. M. P.. . | McCoory, Mary Mrs  | 87a St. Marks Rd., Kensington, London,Eng.. |
+| 12 | 1090 | 1395 | 3198 | 1425 | Hutchinson, Charles G  | Nil  | Hutchinson, H  | The Old Farm, Fulbeck, Lincolnshire, Eng.... |
+| 12 | 1091 | 1420 | 3340 | 1455 | Hughes, E. R  | 103rd Regt  | Hughes, M. Mrs  | Presmylfa, New Road, Newtown, N. Wales... | Wales... |
+| 12 | 1090 | 1453 | 3334 | 1484 | Hastings, William  |  | Hastings, James  | Egnere, Norfolk, Eng  | England |
+| 12 | 1091 | 1477 | 3347 | 1512 | Hague, William Arthur  | Nil. | Hague, Alice Mrs  | 77 Elms Road.Clapham Common,London,Eng | Egypt... |
+| 12 | 1090 | 1506 | 3337 | 1541 | Hall, Alexander       |  | Hall, Monroe, Mrs  | North Calgary, Alta  | Scotland |
+| 12 | 1090 | 1540 | 3334 | 1570 | Hall, James William  | Oxford Vols.. | Hall, Albert  | Calgary, Alta  | England |
+| 12 | 1090 | 1569 | 3324 | 1598 | Hall, Edward  | Nil  | Hall, Annie Miss  | 2 Heanume Place, Peterborough, Ont  | Canada |
+| 12 | 1090 | 1598 | 3335 | 1627 | Holden, Timothy  | R. N. Lancs. | Holden, Sarah  | 58 Harwodd St., Darwin, Eng  | England |
+| 12 | 1090 | 1627 | 3199 | 1657 | Hughes, Alfred  | Nil  | Hughes, Mrs   | 36 Augusta Ave., Toronto, Ont  |
+| 12 | 1089 | 1656 | 3199 | 1686 | Hughes, George  | Nil  | Hughes, Emma Mrs   | 114 Vine Street, Liverpool, Eng  |
+| 12 | 1090 | 1685 | 3337 | 1714 | Hur.ter, Alexander  |  | Hunter, James   | Thomlie Bank, Glasgow, Scot  | Scotland |
+| 12 | 1090 | 1715 | 3182 | 1744 | Hay ter, Arthur William  | 1st London R F. A. | Hay ter, Alice Mable  | 10 Waldegrave Rd., Hanger Lane, Middlesex |
+| 12 | 1089 | 1772 | 3338 | 1801 | narkness, James  | Nil  | Taylor, Jack    | 3 Annette St., Govanhill, Glasgow, Scot  | Scotland |
+| 12 | 1089 | 1800 | 3199 | 1831 | Hutton, John  | Black Watch... | Hutton, Anita Miss       | 24 Carpenter St., Perth, Scot  |
+| 12 | 1089 | 1829 | 3198 | 1860 | Henderson, Andrew  | Black Watch.. . | Henderson, Agnes.   | 6 Craighall Gardens, Edinburgh, Scot  |
+| 12 | 1089 | 1854 | 3200 | 1887 | Henderson, John  | 6th H. L. I  | Henderson, Elizabeth Watson. | 376 North Woodside Road, Glasgow. Scot... |
+| 12 | 1089 | 1887 | 3138 | 1918 | Henderson, John Reid. | Nil  | Henderson, Barbara  | The Cottage, 6 Bothwell Road, Hamilton, |
+| 12 | 1089 | 1945 | 3344 | 1976 | Holland, George  |  | Holland, C  | Madoc, Ont  | Canada- - |
+| 12 | 1091 | 1975 | 3200 | 2004 | IIoznc-3. James S  |  | Homes J  | Beresford, Man  |
+| 12 | 1089 | 2001 | 3344 | 2034 | Hoyes, Nicholas  |  | Cockroft, Lillian  | 9 Druid St., Clapton, Nr. Broadford, Eng  | England. |
+| 12 | 1089 | 2032 | 3200 | 2061 | Howe, Walter James. | C. F. A  | Howe, Ruth Mrs  | Blairmore, Alta  |
+| 12 | 1088 | 2061 | 2306 | 2088 | Henry, J. E....  | Particulars will be fur | nished when available. |
+| 13 | 957 | 562 | 3329 | 593 |  | Rank. |  | Former Corps. |  | of |
+| 13 | 832 | 589 | 3777 | 614 | © |  |  |  |  | Birth. | Place. | Date. |
+| 13 | 826 | 706 | 3838 | 737 | 20902 | Private.... |  | R’ C. R  |  |  | Valcartier  | Sept. 28 1914 |
+| 13 | 972 | 737 | 3526 | 749 |  | tt |  |  |  | u | tt |
+| 13 | 827 | 738 | 3755 | 763 |  |  |  |  |  |  |  | 22 | 20903 | Nil  |
+| 13 | 831 | 911 | 3757 | 937 | 19734 |  |  | Nil  |  |  |  | 26 |
+| 13 | 973 | 969 | 3530 | 983 |  | « |  | u |  |  | u |
+| 13 | 973 | 1027 | 3739 | 1040 |  | « |  | u |  | u | u | « |
+| 13 | 974 | 1056 | 3531 | 1069 |  | « |  | u |  | u | « |
+| 13 | 974 | 1084 | 3531 | 1098 |  | a |  | u |  | U | « |
+| 13 | 974 | 1113 | 3531 | 1127 |  | u |  | u |  | tt | « |
+| 13 | 829 | 1142 | 3531 | 1158 | onms | u | Tn TT "\V il 1 1 |  |  | « | « |
+| 13 | 830 | 1171 | 3760 | 1197 | 20039 |  |  | Nil    |  |  |  | 27 |
+| 13 | 828 | 1258 | 3762 | 1285 | 20324 |  |  | R. M. C  |  |  | * fl ... | 26 |
+| 13 | 828 | 1316 | 2761 | 1345 | 20320 |  |  | Nil  | (Not known). |
+| 13 | 973 | 1343 | 3533 | 1357 |  | “ |  |  |  | u | tt |
+| 13 | 829 | 1344 | 3761 | 1373 | 20493 |  | Jarvis. Harry J  |  |  |  |  | 23 |
+| 13 | 973 | 1373 | 3532 | 1386 |  | u |  | u |  | a | u |
+| 13 | 974 | 1402 | 3743 | 1417 |  | u |  | u |  | • | u | « |
+| 13 | 973 | 1516 | 3532 | 1531 |  | u |  |  |  | a | u |
+| 13 | 828 | 1517 | 3759 | 1545 | 20785 |  |  | Black Watch  |  |  |  | 24 |
+| 13 | 828 | 1545 | 3742 | 1573 | 20786 | u |  | Nil  |  | u | a | « |
+| 13 | 973 | 1574 | 3532 | 1589 |  | tt |  | a |  |  | tt |
+| 13 | 973 | 1603 | 3531 | 1618 |  | « |  |  |  | a | u |
+| 13 | 828 | 1662 | 1972 | 1689 | 20906 |  | Jackson, H  | Particulars will be fur |
+| 13 | 830 | 1691 | 3761 | 1720 | 19739 |  | Kay, George L  | R. E  |  |  |  | 25 |
+| 13 | 830 | 1720 | 3761 | 1750 |  |  |  |  |  |  |  | 26 | 19470 | Kelly, William H  | Nil  | 390 Powers St., Winnipeg, Man  |
+| 13 | 1097 | 1749 | 3761 | 1779 |  |  |  |  |  |  |  | 25 | 2G Grove Road, Egham, Suney, Eng  | Kennedy, William James | R. M. L. I  | Scotland  |
+| 13 | 830 | 1776 | 3533 | 1807 |  |  |  |  | 504 Rimmon St., Manchester, N.H., U.S.A... | 19742 | Nil  | a | u |
+| 13 | 831 | 1834 | 3533 | 1857 | 18879 | u |  |  |  |  | « |
+| 13 | 830 | 1863 | 1974 | 1891 | 18S80 |  | Kirkham, W  | Particulars will be fur |
+| 13 | 829 | 1892 | 3760 | 1923 | 20041 | u | Kerss, James,  | Nil  |  |  | « | 24 |
+| 13 | 829 | 1922 | 3744 | 1952 |  |  |  |  |  |  |  | « | 20042 | “ | Kennedv, Alexander Francis  | Scottish Horse  | Pitlochly, Scot   | u. S. A  | k |
+| 13 | 829 | 1951 | 3744 | 1980 | 20043 | u | Koller, Frederick Bridges  | Col. Def. Force  |  |  | « | « |
+| 13 | 828 | 1980 | 3534 | 2006 | 20l!52 |  |  | 21st Hus  |  |  | « |
+| 13 | 829 | 2008 | 3743 | 2039 |  |  |  |  |  |  |  | tt | 20180 | Kearns, Thomas  | 1st Lines Regt  | 10 Casimis Ave., Harolds Cross, Dublin, Ire.... | tt |
+| 13 | 830 | 2037 | 3762 | 2067 | 20181 |  |  | R. C. H  |  |  |  | 27 |
+| 13 | 829 | 2066 | 3762 | 2095 |  |  |  |  |  |  |  | 26 | 20327 | Kerr, George Donald  | Nil  | U. S. A. | « |
+| 13 | 830 | 2095 | 3534 | 2121 | 20392 | a | Kennedy, William  | « |  |  | « |
+| 13 | 830 | 2124 | 3533 | 2153 | 20494 | « | Knock, Edgar  |  |  |  | « |
+| 13 | 829 | 2153 | 2512 | 2185 | 20496 |  | Kidd, Thomas    |
+| 14 | 822 | 345 | 3829 | 380 | 20-597 | Private.. . . | Keclinn, Stephen Richardson  | l(J3rd Regt  | Krrlicr. Elizabeth Mrs  | The Greaves, Mcnw^nii, Lirminp.ham, Eng... | England  |
+| 14 | 822 | 378 | 3743 | 412 | 20-498 | King, William Henry  |  | King, Elizabeth Mia  | 401-11^2 St., Hiiihurati Calgary, Aita  |  |  | 24 |
+| 14 | 967 | 405 | 3745 | 429 |  | li |  |  |  | a | a | 25 |
+| 14 | 822 | 410 | 3195 | 439 | 20038 | . • . | Karn, Arthur D  | Noakes, Robert  | 41 Denmark Rd., Gloucester. Eng  |
+| 14 | 823 | 430 | 3743 | 465 | 20539 |  | Nil.  |  |  |  |  | 24 |
+| 14 | 968 | 464 | 3725 | 480 |  | U |  |  |  | a | a | tt |
+| 14 | 967 | 493 | 3726 | 511 |  | u | « |  |  |  | a | a |
+| 14 | 822 | 526 | 3134 | 556 | 20642 | Kinman, George I  |  |  | 22 Hi^h St., Stratford-on-Avon, Warwick- |
+| 14 | 824 | 581 | 3744 | 610 | 19743 |  | Nil  |  |  |  |  | 25 |
+| 14 | 823 | 610 | 3744 | 642 | 19S06 |  |  |  | cjo Mrs. W. Prim, Middle Church, Man  | U. S. A  |  | 20 |
+| 14 | 824 | 670 | 3743 | 698 | 19883 |  | Nil  |  |  |  |  | 24 |
+| 14 | 967 | 698 | 3515 | 714 |  | u | tt |  |  |  | tt |
+| 14 | 821 | 787 | 3743 | 818 | 20044 |  | Nil  |  | Waterloo Bidgs., Slaidburn, Yorkshire, Eng... |  |  | 24 |
+| 14 | 967 | 815 | 3725 | 827 |  | u |  |  |  | tt | tt | tt |
+| 14 | 822 | 845 | 3740 | 871 |  |  | Nil  | 20253 |  | Scotland  |  | 27 |
+| 14 | 967 | 873 | 3726 | 887 |  | “ | tt |  |  |  | tt | tt |
+| 14 | 822 | 896 | 3745 | 934 | 20219 | Lloyd, Francis Oswald  | R. N. W. M. P., etc. | Lloyd, Col. R. C  | TrefFgarne Hail, TrefTgarne, Pembroke, Wales |  |  | 28 |
+| 14 | 822 | 931 | 3193 | 964 |  | Lane, Martin, II. A  |  |  | Kehley, Wellington, Shropshire, Eng  | 20235 |
+| 14 | 968 | 960 | 3726 | 973 |  | u |  |  |  | u | « | m |
+| 14 | 823 | 960 | 2499 | 990 | 20154 |  | Nil  | Lee, W  |
+| 14 | 822 | 989 | 3745 | 1020 | 20182 | u | King’s Liverpool Regt... |  |  | a | tt | 27 |
+| 14 | 968 | 1018 | 3726 | 1031 |  | u |  |  |  | • | tt | a |
+| 14 | 823 | 1018 | 2499 | 1048 |  |  | Nil  | 20129 | Lawton, J. R  |
+| 14 | 969 | 1047 | 3516 | 1059 |  | u |  |  |  | a | tt |
+| 14 | 823 | 1047 | 3744 | 1074 | 20223 |  | R. E  |  |  |  |  | 26 |
+| 14 | 824 | 1076 | 3516 | 1106 | 20393 | u | Nil  | Fliset, Alfred  |  | « | a |
+| 14 | 824 | 1104 | 3745 | 1134 | 20329 | Lindsay, John  | R. N  |  |  |  |  | 27 |
+| 14 | 824 | 1133 | 3726 | 1166 |  | Lipsett, William Alf. ed  | 20330 | u | O. T. C  | Lipsett. Lewis R.,,   | tt | * | m |
+| 14 | 970 | 1162 | 3726 | 1174 |  | u |  |  |  |  | k | u |
+| 14 | 825 | 1191 | 3726 | 1222 | 20332 | Lunn, Edward Harvey  | O. T. C  |  | East Dene, Guilford, Surrey, Eng  | England  | “ | “ |
+| 14 | 825 | 1220 | 3745 | 1251 |  |  |  |  | 8 Sutton Court Mansions, Chiswick, London... | 20499 | Nil  | Lane, W. H  | 23 |
+| 14 | 970 | 1249 | 3727 | 1261 |  | u |  |  |  | a | a | tt |
+| 14 | 970 | 1279 | 3727 | 1290 |  | u |  |  |  |  | « | a |
+| 14 | 970 | 1307 | 3726 | 1319 |  | u |  |  |  |  | a | a |
+| 14 | 825 | 1336 | 3744 | 1365 | 20643 | Leahy, Michael  |  |  |  |  |  | 24 |
+| 14 | 970 | 1365 | 3518 | 1380 |  | u | a |  |  |  | a |
+| 14 | 826 | 1365 | 3745 | 1391 | 20691 |  |  |  |  | Ireland  |  | 25 |
+| 14 | 825 | 1394 | 3744 | 1424 | 20789 | “ . | Lawrence, Arthur Edwin  |  |  | England  | a | 24 |
+| 14 | 825 | 1423 | 3745 | 1452 | 20790 | Lemmon, William Thomas  | Nil  |  |  |  |  | 23 |
+| 14 | 825 | 1452 | 3727 | 1480 | 20791 | u | Lever, William F  | «< |  | a | “ | ■ |
+| 14 | 969 | 1481 | 3728 | 1493 |  | « |  |  |  |  | tt | tt |
+| 14 | 824 | 1479 | 3405 | 1510 | 20501 | Lockhart, George Mounca  | R. C. E  |  |  | India  |
+| 14 | 824 | 1538 | 3744 | 1572 | 20907 |  |  | Mcllroy, Mrs  | 21 Ferrier Street, Leith, Scot  | Scotland  |  | 28 |
+| 14 | 1093 | 1569 | 3744 | 1600 |  |  |  |  |  |  |  | 23 | London, W illiam  | Scottish Rifies   | London, William  |
+| 14 | 826 | 1626 | 3745 | 1656 | 19746 | Maxwell, A. W  | Nil  |  |  |  |  | 26 |
+| 14 | 826 | 1655 | 3745 | 1683 | 19813 | McArthur, Alan  |  |  |  |  |  | 28 |
+| 14 | 827 | 1684 | 3744 | 1712 | 19749 | McCall, William P  |  |  |  |  |  | 26 |
+| 14 | 826 | 1713 | 3744 | 1745 | 19750 | McDonald, Alexander  | Lovat Scouts  | Macdonald, David  | Inverness, Scot  | Scotland  |  | 25 |
+| 14 | 826 | 1742 | 3745 | 1774 | 19752 | Macdonald, Ii. M  | Nil  | Macdonald, Bella Mrs  | 11 Bedford, Hamilton, Scot  |  |  | 26 |
+| 14 | 969 | 1770 | 3516 | 1784 |  | u | tt |  |  | a | a |
+| 14 | 826 | 1771 | 3745 | 1802 | 19753 | Mclvor, Murdoch  |  | Mclvor, C. Mrs  | West Croft Street, Paisley, Scot  |  |  | 25 |
+| 14 | 969 | 1799 | 3727 | 1812 |  | tt | tt |  |  |  | m | . |
+| 14 | 968 | 1828 | 3728 | 1841 |  | u | a |  |  |  | «< | « |
+| 14 | 825 | 1857 | 3728 | 1885 | 19756 | “ | Me William Frederick  | tt |  | tt | « | * |
+| 14 | 968 | 1886 | 3728 | 1900 |  | tt | tt |  |  |  | a | m |
+| 14 | 968 | 1916 | 3517 | 1929 |  | tt | tt |  |  |  | a |
+| 14 | 824 | 1915 | 3745 | 1944 | 19748 | Mount, John A  |  |  |  |  |  | 26 |
+| 14 | 967 | 1944 | 3517 | 1958 |  | « | ■ tt |  |  |  | a |
+| 14 | 823 | 1944 | 3744 | 1973 |  | Madge, Wrilliam Thomas  | 19886 |  |  |  |  | 24 |
+| 14 | 823 | 1973 | 3743 | 2004 | 19889 | tt | Martin, Alfred Henry  | *i |  | « | a | 27 |
+| 14 | 822 | 2002 | 1961 | 2030 | I08SS | Marshall, S  | Particulars will bo fur |
+| 14 | 820 | 2059 | 3746 | 2090 | 19900 | Miller, John  | 7th Sutherland High’s... |  |  |  |  | 24 |
+| 15 | 971 | 496 | 3337 | 528 |  | Rank. |  | Former Corps. |  | of |
+| 15 | 846 | 524 | 3782 | 549 | & |  |  |  |  | Place. | Place. | Date. |
+| 15 | 844 | 670 | 3843 | 700 | 19936 |  |  |  |  |  | Valcartier  | Sept. 27 1914 |
+| 15 | 988 | 700 | 3532 | 713 |  | a |  |  |  | u | U |
+| 15 | 845 | 699 | 3759 | 729 | 19887 |  | MacRae, Alexander  | Nil  |  |  |  | 24 |
+| 15 | 989 | 730 | 3741 | 741 |  | a |  |  |  |  | a | U |
+| 15 | 847 | 757 | 3740 | 787 | 19891 | ** | McFarlane, Alexander  | u |  | u | « | tt |
+| 15 | 847 | 786 | 3741 | 816 |  |  | Macgregor, Robert McConnell.... | 19892 | « | u | u | tt |
+| 15 | 848 | 844 | 3759 | 873 | 19894 |  |  | Nil... |  |  |  | 27 |
+| 15 | 849 | 902 | 3531 | 924 | 19897 | « |  |  |  |  | u |
+| 15 | 846 | 931 | 3758 | 958 | 20046 | “ |  | a |  |  | u | 24 |
+| 15 | 846 | 960 | 3740 | 982 | 20047 |  |  |  |  |  | * | tt |
+| 15 | 845 | 989 | 3759 | 1019 |  |  |  | Nil  | 20048 | u | u | 25 |
+| 15 | 845 | 1047 | 3740 | 1069 | 2005.J | u |  |  |  | a | u | tt |
+| 15 | 846 | 1076 | 3759 | 1103 | 20255 | u |  | u |  |  | a | 28 |
+| 15 | 846 | 1105 | 3532 | 1127 | 20222 | u |  | a |  |  | u |
+| 15 | 1115 | 1108 | 3759 | 1139 |  |  | McCormick, C. V  |  | ficynGwyn Farm, Senchuymyngedd, N. Wales |  |  | 27 |
+| 15 | 846 | 1134 | 3741 | 1167 |  |  |  |  | 21 Anderson St., Glasgow, Scot  | 20223 | u ... | McNaughton, 11= P  | u | Scotland  | ii | a |
+| 15 | 844 | 1249 | 3532 | 1271 | 20220 | u |  |  |  | u | « |
+| 15 | 1114 | 1252 | 3759 | 1280 |  |  | Melville, N  | Nil  |  |  |  | 27 |
+| 15 | 844 | 1272 | 3741 | 1301 | 20221 | “ |  | u |  |  | * u | u |
+| 15 | 843 | 1308 | 3740 | 1330 | 20225 | u • |  |  |  |  | u | * |
+| 15 | 843 | 1336 | 3741 | 1359 | 20226 | u |  |  |  |  | u | m |
+| 15 | 843 | 1365 | 3741 | 1388 | 20250 | « |  | u |  |  | a | tt |
+| 15 | 842 | 1395 | 3741 | 1416 | 20257 | u |  | u |  | u | u | » |
+| 15 | 843 | 1423 | 3740 | 1445 | 20183 | u |  | U |  |  | a | u |
+| 15 | 842 | 1452 | 3740 | 1474 | 20184 | u |  | u |  |  | u | tt |
+| 15 | 842 | 1481 | 3531 | 1503 | 20140 | u |  | u |  |  | u |
+| 15 | 1991 | 1486 | 3759 | 1512 |  |  |  |  | Nil  | U. S. A  |  | 28 |
+| 15 | 842 | 1509 | 3532 | 1531 | 20333 | u |  | U |  |  | u |
+| 15 | 842 | 1538 | 3531 | 1560 | 20334 | u |  | u |  | a | a |
+| 15 | 841 | 1567 | 3532 | 1590 | 20335 | u |  | u |  |  | u |
+| 15 | 842 | 1596 | 3531 | 1619 | 20336 | u |  | u |  |  | u |
+| 15 | 842 | 1626 | 3532 | 1647 | 20337 | u |  | u |  |  | a |
+| 15 | 842 | 1653 | 3759 | 1689 | 20338 |  | McLean, Kenneth Donald  | u | 1473-12th Ave., W., Vancouver, B.C  | a | a | 28 |
+| 15 | 842 | 1684 | 3759 | 1714 | 20339 | u | McLeod, George  | u |  |  | a | 26 |
+| 15 | 841 | 1712 | 3741 | 1746 | 20340 |  | McPherson, Angus  | a | Schuler, Nebraska, U. S. A  | Canada  | u | u |
+| 15 | 841 | 1740 | 3759 | 1772 | 20341 |  | Mackenzie. Duncan Campbell.. . . | Scota Guard*. | TJ jl  | WV/VUUUU. .... | a | OT | 4l>< |
+| 15 | 1617 | 1773 | 3760 | 1803 |  |  |  | Nil  | Cranbrook, B.C   |  |  | 26 |
+| 15 | 986 | 1800 | 3741 | 1815 |  | u |  | a |  |  | tt | u |
+| 15 | 840 | 1828 | 3759 | 1858 | 20344 | u | Matheson, J  |  |  |  | m | 23 |
+| 15 | 840 | 1856 | 3532 | 1878 | 20345 | u |  |  |  |  | u |
+| 15 | 1110 | 1860 | 3759 | 1891 |  |  | Merrifield, Henrv Charles  | Paddington Reet  | 172 Droop St., Queen’s Park, London, Eng... |  |  | 26 |
+| 15 | 840 | 1885 | 3741 | 1921 |  |  |  |  | Old Cumnock. Ayrshire, Scot  | 20340 | u | Miller, Robert  | Nil  | m | u |
+| 15 | 3294 | 1948 | 3740 | 1962 |  |  |  |  |  | u | M | a |
+| 15 | 839 | 1972 | 3759 | 2008 | 20348 | u | Monk, W. E  | 4th Essex Terr  | George Yard, Chipping Ongar, Essex, Eng.... |  | a | 28 |
+| 15 | 839 | 2001 | 3759 | 2033 | 20349 |  | Morgan, Morgan  | 3rd Welsh Regt  |  |  |  | 26 |
+| 15 | 839 | 2030 | 1974 | 2061 | 20350 |  | Murray, George  | Nil  |
+| 15 | 838 | 2059 | 3759 | 2089 | 20504 | u | McGuire, James  | u |  | U | u | 23 |
+| 15 | 983 | 2091 | 3742 | 2105 |  | a |  |  |  |  | u | *i |
+| 15 | 838 | 2089 | 3210 | 2123 | 20505 |  | MeNiven, Charles Hogg  |  | Box 490, Ludlow, Massachusetts. U.S.A  |
+| 16 | 716 | 437 | 3712 | 468 | 20506 | Private.... |  | Nil  |
+| 16 | 1526 | 469 | 3611 | 480 |  |  |  | u |  |  | u | u |
+| 16 | 716 | 525 | 3631 | 556 | 20509 |  |  | 4th Batt. Norfolk Regt.. | Lodge Farm, Twits Hall, Norwich, Eng  |  |  | 24 |
+| 16 | 716 | 582 | 3631 | 608 | 20511 | U |  |  |  | u | « | 23 |
+| 16 | 860 | 700 | 3403 | 712 |  | « |  | a |  |  | tt |
+| 16 | 860 | 729 | 3613 | 741 |  | u |  |  |  | it | tt | U |
+| 16 | 860 | 758 | 3404 | 770 |  | « |  |  |  | u | u |
+| 16 | 716 | 786 | 3081 | 817 | 20640 |  |  | Nil  • | G3 Chandos, Norwood, Winnipeg, Man  |
+| 16 | 860 | 873 | 3404 | 885 |  | u |  | a |  |  | u |
+| 16 | 717 | 930 | 3633 | 957 | 20651 |  |  | Nil  |  |  |  | 28 |
+| 16 | 861 | 990 | 3403 | 1002 |  | U |  |  |  | u | u |
+| 16 | 717 | 988 | 3633 | 1015 | 20694 |  |  | 74th H. L. I  |  |  |  | 27 |
+| 16 | 717 | 1017 | 3634 | 1047 | 20697 |  |  |  | Bank of Commerce, Toronto, Oct  |  |  | 28 |
+| 16 | 718 | 1046 | 3633 | 1073 | 20700 | « |  | L. S. H  |  |  | u | 28 |
+| 16 | 718 | 1074 | 3634 | 1105 | 20793 | « | McAllister, William Favor  |  | 6116, Greenwood Ave., Chicago, 111., U. S. A.. | U. S. A  | » | 27 |
+| 16 | 718 | 1103 | 3633 | 1131 | 20794 | « |  | Nil  |  |  | tt | 24 |
+| 16 | 719 | 1131 | 3633 | 1161 | 20795 | « | McClean, J. W  |  |  |  | a | 25 |
+| 16 | 718 | 1160 | 3632 | 1189 | 20796 | « |  | Nil  |  |  | tt | 24 |
+| 16 | 718 | 1217 | 3631 | 1249 | 20799 |  | Middleton, Charles, G. S. C  |  |  |  |  | 24 |
+| 16 | 719 | 1246 | 3613 | 1270 | 20800 |  |  |  |  |  | « | tt |
+| 16 | 720 | 1274 | 3633 | 1304 | 20801 | « |  | Nil  |  |  | u | 23 |
+| 16 | 720 | 1304 | 3404 | 1328 | 20909 | « |  | u |  |  | a |
+| 16 | 863 | 1336 | 3405 | 1348 |  | « |  | a |  |  | u |
+| 16 | 718 | 1389 | 2964 | 1425 | 20911 |  |  | English Vols  | Crabbe Wood, Lynne Rd., Axminster, |
+| 16 | 719 | 1447 | 3405 | 1472 | 20912 | «• |  |  |  |  | a |
+| 16 | 721 | 1505 | 3639 | 1535 | 19307 | U |  | Nil  |  |  | «• | 28 |
+| 16 | 721 | 1533 | 3616 | 1566 | 19S08 | « | Moran, Daniel   | R. A  |  |  | u | tt |
+| 16 | 721 | 1562 | 3406 | 1586 | 19751 | « |  |  |  |  | u |
+| 16 | 1497 | 1566 | 3635 | 1595 |  |  |  | Nil  | Riverside, Inverness Co., N.S  | U. S. A  |  | 26 |
+| 16 | 721 | 1591 | 3635 | 1625 |  |  |  |  | 329 Sherbrooke St., Montreal, P. Q  | 19896 | « | McDonald, James Alfred  | R. C. M. R  | u | 24 |
+| 16 | 720 | 1678 | 3058 | 1711 | 19903 |  |  |  | c]o Messrs. Page & Porter, 546 Bank Street, |
+| 16 | 864 | 1856 | 3407 | 1869 |  | U |  |  |  | a | tt |
+| 16 | 720 | 1852 | 3636 | 1884 | 20351 |  |  |  | 12 Shorncliffe Rd., Old Kent Rd., London, |  |  | 26 |
+| 16 | 720 | 1912 | 3636 | 1944 | 20514 |  |  |  | Sussex Rd., Haywards Heath, Sussex, Eng.... |  |  | 23 |
+| 16 | 864 | 1945 | 3408 | 1956 |  | a |  |  |  | u | u |
+| 16 | 719 | 1943 | 3637 | 1972 |  |  |  |  | 1362 Selkirk St., Winnipeg, Man  | 20653 |  | 28 |
+| 16 | 719 | 2001 | 1859 | 2030 | 20802 |  | Neale, W  | Particulars will be fur |
+| 16 | 719 | 2030 | 3637 | 2057 | 20914 |  |  | Nil  |  |  |  | 24 |
+| 16 | 721 | 2089 | 3637 | 2118 | 19905 |  |  |  | 49 Strathville Rd., Earlsfield, London, Eng  |  |  | 25 |
+| 16 | 863 | 2119 | 3618 | 2131 |  | V |  |  |  | u | u | tt |
+| 16 | 719 | 2116 | 3087 | 2148 |  |  |  |  | 39 Pontefract Rd.. Castleford, Yorks, Eng.... | 20053 | Nil  |
+| 16 | 863 | 2147 | 3409 | 2161 |  | tt |  | u |  | a | a |
+| 16 | 719 | 2146 | 3638 | 2177 |  |  |  |  | 10th Batt. 3rd. Brig., 1st Con., C. E. F    | 20054 | O’Dell, Frank  | 24 |
+| 17 | 841 | 591 | 3208 | 630 |  | Rank. |  | Former Corps. |  |  | of |
+| 17 | 3152 | 619 | 3651 | 644 |  |  |  |  |  |  | Birth. | Place. | Date. |
+| 17 | 708 | 736 | 3711 | 776 | 20055 | Private... | Oldridge, William Thomas  |  |  |  |  | Valeartier ... | Sept. 27 1914 |
+| 17 | 854 | 794 | 3611 | 815 |  | u |  |  |  |  |  | u | a |
+| 17 | 854 | 823 | 3611 | 845 |  | u |  | a |  |  |  | u | a |
+| 17 | 709 | 853 | 3629 | 885 | 20515 | a |  | a |  |  | u | “ | 22 |
+| 17 | 854 | 883 | 3400 | 902 |  | a |  | a |  |  |  | u |
+| 17 | 708 | 912 | 3628 | 943 | 20656 | « |  | a |  |  |  | u | 24 |
+| 17 | 709 | 940 | 3629 | 978 | 20803 |  |  | 3rd Batt. Essex Regt.... |  |  |  |  | 28 |
+| 17 | 709 | 970 | 3628 | 1007 | 20804 |  | Owen, Stanley  |  |  | Llwyn Ave., Ruthin Gardens, Cardiff, Wales... |  |  | 24 |
+| 17 | 711 | 999 | 3629 | 1032 |  |  |  |  |  | 595, Pacific Ave., Winnipeg, Man  | 19757 | Nil  | 26 |
+| 17 | 711 | 1028 | 3629 | 1064 | 19758 |  |  | Queen’s Edinburgh Vols. |  |  |  |  | 25 |
+| 17 | 710 | 1057 | 3629 | 1089 |  |  |  | Nil | 19759 |  |  |  | 26 |
+| 17 | 853 | 1143 | 3610 | 1163 |  | u |  | s |  |  |  | a | u |
+| 17 | 853 | 1174 | 3400 | 1192 |  | u |  | m |  |  |  | a |
+| 17 | 853 | 1201 | 3610 | 1221 |  | u |  | a |  |  | « | « | a |
+| 17 | 710 | 1236 | 2190 | 1266 | 19907 |  | Peck, R. G  | Particulars will be fur | nished when available. |
+| 17 | 853 | 1259 | 3610 | 1277 |  | a |  |  |  |  | m | u | a |
+| 17 | 711 | 1289 | 3630 | 1320 | 19939 |  |  |  |  | Jersey Island, Channel Isles, Eng  |  |  | 27 |
+| 17 | 854 | 1318 | 3402 | 1335 |  | u |  |  |  |  | a | a |
+| 17 | 709 | 1318 | 3629 | 1350 | 20056 |  |  | Nil... |  |  |  |  | 24 |
+| 17 | 854 | 1347 | 3402 | 1365 |  | u |  | u |  |  |  | a |
+| 17 | 854 | 1374 | 3611 | 1394 |  | u |  | u |  |  |  | a | a |
+| 17 | 854 | 1404 | 3611 | 1422 |  | u |  |  |  |  |  | u | a |
+| 17 | 854 | 1434 | 3402 | 1452 |  | a |  | « |  |  | a | u |
+| 17 | 709 | 1433 | 3630 | 1465 | 20227 |  |  |  |  | Attleborough, Eng  |  |  | 27 |
+| 17 | 854 | 1462 | 3611 | 1481 |  | a |  | a |  |  | a | a | U |
+| 17 | 708 | 1521 | 3631 | 1552 | 20354 |  |  | Nil  |  |  | Denmark.... |  | 26 |
+| 17 | 853 | 1578 | 3611 | 1597 |  | “ |  | u |  |  |  | u | « |
+| 17 | 707 | 1607 | 3631 | 1639 | 20357 |  |  |  |  | Grand Rapids, Wisconsin, U. S. A  | U. S. A  |  | 28 |
+| 17 | 853 | 1636 | 3402 | 1655 |  | u |  | a ■ |  |  |  | a |
+| 17 | 707 | 1669 | 2929 | 1699 | 20533 |  |  |  | Perodeau, Dr E. J  | Ail S3 Park House St. Margarets-on- |
+| 17 | 852 | 1723 | 3612 | 1740 |  | u |  |  |  |  |  | « | a |
+| 17 | 853 | 1781 | 3403 | 1797 |  | « |  |  |  |  | • | a |
+| 17 | 708 | 1782 | 3632 | 1812 | 20805 |  |  |  | Park, R  |  |  |  | 23 |
+| 17 | 708 | 1810 | 3291 | 1845 | 20806 |  | Phillips, Alfred T  |  | Phillips, E. J  |  | U.S. A  |
+| 17 | 853 | 1838 | 3614 | 1856 |  | « |  |  |  |  |  | a | a |
+| 17 | 708 | 1839 | 3082 | 1871 |  |  |  |  | Kerr, C. J  | 20807 | Fairview, Sunninghill, Ascot Berks, Eng  |
+| 17 | 707 | 1868 | 3632 | 1899 | 20808 |  |  | Nil  |  |  | Wales  |  | 24 |
+| 17 | 709 | 1898 | 3633 | 1928 | 19760 |  |  | 21st C. A. M. C  |  |  |  |  | 25 |
+| 17 | 709 | 1927 | 3633 | 1957 | 19763 |  |  | Nil   |  |  |  |  | 26 |
+| 17 | 709 | 1957 | 3016 | 1991 | 19765 |  | Reid, Francis Jackson  | A. S. C  |  | 10 Lebland House, ^enisto71 Gd^s, Ken- |
+| 17 | 709 | 2014 | 3633 | 2044 | 19767 |  |  | Nil  |  |  |  |  | 27 |
+| 17 | 853 | 2042 | 3404 | 2060 |  | * |  | a |  |  | « | a |
+| 17 | 854 | 2129 | 3615 | 2147 |  | u |  |  |  |  |  | ■ | U |
+| 17 | 711 | 2159 | 3634 | 2189 | 19774 |  |  | u  IRoss. H. J. Mrs    iTho Sauare. Kilkeel. Co. Down. Ire  |  |  |  |  | 27 |
+| 17 | 854 | 2188 | 3615 | 2207 |  | a |  | a |  |  |  |  | M |
+| 17 | 711 | 2190 | 3083 | 2225 | 19775 |  | Rowley, Leonard  |  |  | Ware, Hertfordshire, Eng  |
+| 18 | 713 | 389 | 3703 | 419 | 1Q908 | i ikvui.i . Ouai »'..o L<u *» a> U  |  |  |  | .. (Canada  | iieiiiy, P. E :H44, 4th St., Edmonton, Alta  |
+| 18 | 713 | 419 | 3261 | 448 | 16909 | ! Rigby, Edmund Frederick  |  |  |  | England.... | Rigby, Frederick Union Club, Trafalgar Sq., London, Eng |
+| 18 | 713 | 448 | 3261 | 477 | 19310 | Ross, Thomas Oscar  |  |  |  | Scotland.... | Ross, Kenneth Hastings Street, Napier, New Zealand  |
+| 18 | 712 | 476 | 3262 | 506 | 19911 | He veil, George Gibbs  |  |  |  | Ireland  | Revell, Jane Ellen 7 Galtrein Road, Bray, Wicklow, Ire  |
+| 18 | 709 | 505 | 3620 | 542 | 20060 | jRydberg, Roy Weldon  |  |  |  | U. S. A  | Rydberg, A. V Glenview, Alta  | 25 |
+| 18 | 709 | 533 | 3620 | 563 | 20061 | I Richards, George  |  |  |  | Wales  | Richards, George 1-43 Nichol Lane, Bromley, Kent, Eng  | 28 |
+| 18 | 709 | 561 | 3621 | 592 | 20657 | Ramsay, Alfred John  | R. G. A  |  |  | Scotland. | Ramsay, Margaret Mrs (137 Atantie Ave., Winnipeg, Man  | 26 |
+| 18 | 708 | 591 | 3621 | 620 | 20062 | Ross, J. I. George  | Nil  |  |  | England.... | Ross, Rachael, Miss IBarle House, Dulverton, Eng  | 25 |
+| 18 | 708 | 619 | 3621 | 650 | 20063 | Ross, Donald Mobile  |  |  |  | Scotland.... | Ross, William  8 Lauriston Park, Edinburgh, Scot  | 24 |
+| 18 | 708 | 647 | 3623 | 682 | 20261 | Ros3, John  |  | Ross, H; R {Stevenston, Ayrshire, Scot  |  |  | 28 |
+| 18 | 708 | 669 | 3263 | 712 | 20262 | Rainey, James  | 2nd Suffoik Regt.... |  |  | Ireland  | Crineen, Mabel Miss {371 Home Street, Winnipeg, Man  |
+| 18 | 708 | 705 | 3623 | 737 | 20263 | Rasmussen, Oscar  | Nil  |  |  | Denmark... | Rasmussen, Frau Anna 83 Kang Gate, Copenhagen, Denmark  | 27 |
+| 18 | 708 | 731 | 3623 | 766 | 2026-1 | Ricketts, Leonard James  |  |  |  | England.... | Rickett3, Thomas 'High Street, Sawston, Cambridgeshire, Eni;... | 25 |
+| 18 | 707 | 763 | 3624 | 801 | 20153 | iRoss, Angus  |  |  |  | Canada  | Ross, Elizabeth J291, Magnus Ave., Winnipeg, Man  | 25 |
+| 18 | 708 | 788 | 3624 | 823 | 20189 | Ross, Francis  |  |  |  | England.... | Ross, Ellen Mrs 52 NeU Street, Longaire, Eng  | 27 |
+| 18 | 707 | 819 | 3265 | 853 | 20188 | (Royce, Allan Edward  | Volunteers  |  |  | Canada  | Royce, A. E Mrs Bowsman River, Man    ... |
+| 18 | 707 | 847 | 3625 | 887 | 20358 | Rabone, Samuel Thomas Henry.. | Nil  |  |  | England.... | Rabone, Francis Jennie Mrs |395 City Road, Edgbaston, Birmingham, Eng | 26 |
+| 18 | 707 | 876 | 3624 | 910 | 20359 | Rafferty, Thomas Patrick  |  |  |  | Canada  | Rafferty, John I Waterloo, Ont   | 23 |
+| 18 | 707 | 905 | 3626 | 939 | 20360 | Ramsden, William  | Lincolnshire Yeo  |  |  | Australia... | Ramsden, W. Thomas 1117 Grimsby Rd., Grimsby, Eng  | 26 |
+| 18 | 709 | 934 | 3625 | 968 | 19627 | Ringrose. Frank Greenley  | Nil  |  |  | England.... | Ringrose, Richard [The Hotel, Stanton Dale, Yorks, Eng  | 24 |
+| 18 | 975 | 964 | 3626 | 996 |  | Roche, William Edward  | Liverpool Regt  | Roche, Mary Mrs 166 Robson St., Everton, Liverpool, Eng  |  |  | 22 |
+| 18 | 707 | 991 | 3624 | 1025 | 20361 | Renton, Sidney Chambers  | Nil  | Renton, John Stiles VUlage, N.B iCanada. |  |  | 24 |
+| 18 | 706 | 1018 | 3627 | 1054 | 20362 | Richardson, David Alexander.... | Territorials  | Richardson, Rev. W Birr, Xre.^   |England |  |  | 20 |
+| 18 | 707 | 1050 | 3627 | 1082 | 20389 | Richardson, George  | Nil  | Richardson, John  | 21 Wells Street, Toronto, Ont  [Canada.. |  | 28 |
+| 18 | 707 | 1076 | 3627 | 1111 | 20363 | Robins, Charles Richard  |  | Robins, Joseph Mrs  | 31 Ferinstand St., Wollaston, Worcs., Eng... .(England. |  | 23 |
+| 18 | 707 | 1107 | 3222 | 1139 | 20364 | Robins, John Franklin  | 2nd Regt  | Robins, H. E  | 33 Victoria Street, Toronto, Ont iCanada.. |
+| 18 | 707 | 1131 | 3225 | 1168 | 20365 | Roy, John  | Nil   | Roy, James Mrs  | Upper Ballacay, Elginshire, Scot Scotland. |
+| 18 | 707 | 1164 | 3628 | 1196 | 20366 | Russell, Osborne Scott  | O. T. C  | Russell, Norman Scott  | 48 Holland St., Kensington, London, W., Eng. | England. | 26 |
+| 18 | 707 | 1193 | 3628 | 1226 | 20518 | Reynolds, James  | NU   | Reynolds, J    _ ,  . | 367 Upton Lane, Forest Gate, London, Eng... |  | 24 |
+| 18 | 706 | 1222 | 3629 | 1254 | 20519 | Roughton, Clifford Godfree  | 103rd Regt  | Roughton, M. Mrs 2126-5Mj St. W-, Calgary, Alta |  |  | 23 |
+| 18 | 707 | 1252 | 3020 | 1283 | 20520 | Roughton, Basil Paul  |  | Roughton, F. C. Mrs i2126-5^ St. W„ Calgary, Alta   |
+| 18 | 707 | 1278 | 3629 | 1317 | 20522 | Ryman, Albert Harold  | Nil  | Ryman, Henry [26 Stanley Rd, Oldfield Pk, Bath, Somerset |  |  | 22 |
+| 18 | 707 | 1307 | 3629 | 1348 | 20523 | Rosenroll, Arthur Sylvester  |  | Rosenroll, A. S jWetaskewin, Alta  |  | Switzerland.. | 23 |
+| 18 | 707 | 1335 | 3630 | 1374 | 20657 | Ramsay, Alexander  |  | Ramsay, Thomas | (Not known) (England |  |  | 24 |
+| 18 | 707 | 1364 | 3222 | 1397 | 20658 | Roulston, William George  |  | Roulston, JamesMrs 'St. Johnston, Co. Donegal, Ire ; Ireland.. |
+| 18 | 706 | 1394 | 3042 | 1433 | 20809 | Rees, Jeffrey Valentine  |  | Rees, V. W jUpper Parklew, Lamphey S. O., Pembroke- |
+| 18 | 707 | 1453 | 3630 | 1483 | 20810 | Reid, William James  | m. l. n  | Reid, John City Hall, Toronto, Ont., !Ireland. |  |  | 24 |
+| 18 | 706 | 1481 | 3632 | 1516 | 20811 | Rimmer, Lancelot  | Nil  | Rimmer, Mapr 14 Crnsby Rd., Birkdale, Lancs England |  |  | 23 |
+| 18 | 706 | 1511 | 3632 | 1543 | 20812 | Robinson. Andrew W  | !4th Regt  | Robinson, Alice (General Delivery, Medicine Hat, Alta (Canada. |  |  | 24 |
+| 18 | 706 | 1539 | 3633 | 1569 | 20813 | Robison, N. J  | 21st Hus  | Robison, Mrs 1261-6th Ave., N. E. Lethbridge, Alta  “ |  |  | 23 |
+| 18 | 706 | 1564 | 3218 | 1603 | 20814 | Rosher, Douglas A  | NU  | Bedford, Joseph Rogers, Sir J Bedford, Eng I England |
+| 18 | 705 | 1596 | 3633 | 1629 | 20815 | Roy, Robert William  |  | Roy, E. R Saintfield, Co. Down, Ire (Ireland |  |  | 24 |
+| 18 | 706 | 1627 | 3094 | 1657 | 20916 | Ritchie, E. G  | Particulars will be fur | nished when avaUable   ' |
+| 18 | 706 | 1651 | 3231 | 1692 | 20917 | Reynolds, Stanley  | Nil  | Reynolds, Mary |20 Bridge Rd., More^ombe, Lancs., Eng  |  | England. |
+| 18 | 705 | 1679 | 3083 | 1718 | 20918 | Rutledge, W. J  | Particulars will be fur | nished when avaUable j        |
+| 18 | 708 | 1711 | 3634 | 1745 | 19766 | Rickner, Sydney  | NU  | Rickner, E. Mrs j245 Montrose Ave., Elmwood, Winnipeg, Man. |  | England. | 2-3 |
+| 18 | 708 | 1741 | 3240 | 1773 | 19771 | Rottenberg, Morris  |  | Rottenberg, Abraham. | Kovel Poland, Russia. | Russis.... |
+| 18 | 708 | 1769 | 3240 | 1801 | 19772 | Russell, John .  | Seaforth High’s  | Shaw, Isabella   | 1709 Second Ave., N. Lanarkshire, Scot. | Scotland., |
+| 18 | 708 | 1799 | 3232 | 1831 | X9776 | Sangster, Joseph W  | A. S. C.t etc  | Sangster, Thomas A  | Carisbrook, Manchester, Eng  | England. |
+| 18 | 708 | 1829 | 3000 | 1859 | 19777 | Sexton, F. J  | 6th Batt. S. Staffs Regt | Sexton, James  | Dickens, P. O. Winnipeg, Man  |
+| 18 | 709 | 1846 | 3635 | 1888 | 19809 | Shaw, James  | Nil  | Armstrong, A. T. Mrs... | Hardisty, Alta  | V. S. A..] | 28 |
+| 18 | 708 | 1887 | 3635 | 1918 | 19783 | Simpkin, Jack  |  | Simpkin, J. Mrs  | 145 Atlantic Ave., Winnipeg, Man .' | India  | 27 |
+| 18 | 709 | 1916 | 3233 | 1947 | 19784 | Simpson, John   |  | Simpson, William  | 2 Nelson Terr., Keith, Banffs, Scot  | Scotland. |
+| 18 | 709 | 1938 | 3636 | 1976 | 19779 | Stevens, Henry  | Royail Ftis  | NU  | Nil  | England. | 25 |
+| 18 | 709 | 1974 | 3636 | 2005 | 19780 | Stevenson, Stanley  | Nil  | Stevenson, Y. M. T  | 323 Leith Walk, Leith, Scot  | Scotland. | 29 |
+| 18 | 709 | 2000 | 3636 | 2033 | 19781 | Stockall, Frank A  |  | Stockall, William  | Humboldt, Sask  | Canada.. | 25 |
+| 18 | 709 | 2033 | 3636 | 2063 | 19912 | Sherlock, William John  |  | Austin, E. J. Mrs  | Ringhouse, Clonakilty, Ire  | Ireland.. | 22 |
+| 18 | 710 | 2061 | 2230 | 2091 | 19913 | Sixby, F  | Particulars will be fur | nished when available.... |
+| 18 | 711 | 2091 | 3234 | 2122 | 19916 | Simpson, Herbert  | NU  | Simpson, Florence, Miss. | 10 Heaton Road, Manchester, Eng., | England. |
+| 19 | 870 | 580 | 3278 | 610 |  |  | Former Corps. | Name of Next-of-Kin. | of |
+| 19 | 3225 | 607 | 3736 | 633 |  |  |  |  | Birth. | Date. |
+| 19 | 738 | 718 | 3809 | 759 | 19914IPrivate | Smylie, Robert  | Nil.. | Smylie, John iCahaid. Ballynahinch, Ire (Ireland (Valcartiex .. |  | .Sept. 22 1914 |
+| 19 | 738 | 754 | 3725 | 787 | 19915 “ | Smith, Harry Roy... |  | Smith, C. W„ Mrs ‘Belleville, Ont tU. S. A.. |  | 24 |
+| 19 | 738 | 786 | 3136 | 816 | 19917 “ | Steele, L ■ | Particulars will bo fur | nished when available ■  |
+| 19 | 739 | 810 | 3730 | 846 | 19918 “ | Stewart, Robert Orrio | Nil  | Stewart, John A Dunstaffnage, P.E.I [Canada. |  | 24 |
+| 19 | 737 | 843 | 3732 | 873 | 19919 “ | Stone, Harry Clifford. |  | Stone, John Bloomfield, Ont  |  | 22 |
+| 19 | 737 | 872 | 3136 | 903 | 19920 | St. Pierre, Joseph  | R. C. R. | Blechet, Hermine, Mrs Rivi&re-du-Loup, P.Q  |
+| 19 | 738 | 902 | 3737 | 938 | 19921 | Secord, Gladstone Ewart 2nd Drags... (Secord, Sarah, Mrs St. Catharines, Ont. |  |  |  | 21 |
+| 19 | 735 | 957 | 3330 | 992 | 20065 | Sutherland, William Macbeth.... I “  [Sutherland, Andrew !Accumster, Wick, Scot. |  |  | Scotland. |
+| 19 | 736 | 990 | 3748 | 1026 | 20066 |  |  |  | England. | Scott, Edward I “  [Parsons, Mary ji39 Stockport Rd. Gee Cross, Hyde, Cheshire. | 25 |
+| 19 | 736 | 1077 | 3755 | 1117 | 20069 | Slater, Frank   iNil Slater, James (Box No. 5, R. F.D., Vineland, N.J., U.S.A.... |  |  |  | 24 |
+| 19 | 735 | 1104 | 3758 | 1145 | 20070 | Spalding, Charles Mortimer jR. E [Spalding, Mary Ilona Cottage, Barry, Scot (Scotland. |  |  |  | 25 |
+| 19 | 735 | 1135 | 3759 | 1175 | 20071 | Slye, Percy    iNil  Slye, William. (Bristol Mines, P.Q (Canada . |  |  |  | 27 |
+| 19 | 736 | 1198 | 3334 | 1229 | 20073 | Sheard, Arthur... |  |  | ■Canada. | “  'James, D. Mrs   Parry Sound, Ont  |
+| 19 | 736 | 1227 | 3109 | 1267 | 20074 | Swann, Hugh Beauchamp. | “  jSwann, Maria C. Mrs i3 Erskine Hill, Hampstead Garden City, |
+| 19 | 2487 | 1257 | 3771 | 1288 |  |  |  |  | . England. | 23 |
+| 19 | 736 | 1288 | 3774 | 1321 | 20075 “ | Stephens, Edward John  | “  [Stephens, Henry [811. 4th Ave. N. W., Calgary, Alta  |  |  | 24 |
+| 19 | 736 | 1317 | 3777 | 1350 | 20076 “ | Smith, William Albert. |  |  |  | 23 |
+| 19 | 2493 | 1379 | 3782 | 1416 |  |  |  |  | 'England. | 24 |
+| 19 | 736 | 1410 | 3785 | 1446 | 20205 |  |  |  | . Scotland. | Smith, Donald [Nil (Smith, Donald  Fort George, Inverness, Scot   | 28 |
+| 19 | 736 | 1441 | 3152 | 1473 | 20266 “ | Stevenson, Alexander. | “  Stevenson, John School House, Limerigg, Slainanuan, Scot. |
+| 19 | 736 | 1470 | 3370 | 1508 | 20229 “ | Sewell, Stephen  | “  jSewell, Florence i London, Eng   |  | England. |
+| 19 | 736 | 1502 | 3148 | 1535 | 20232 | Sharp, Frank  | “  iSliarp, Rosina  485 Burnell St., Winnipeg, Man  |
+| 19 | 736 | 1533 | 3150 | 1567 | 20190 | Shipp, William.  | “  IShipp, Ernest 'Abbotsford, P.Q  |
+| 19 | 736 | 1560 | 3798 | 1599 | 20191 | Springelt, Christopher, | East Kent Regt Springett, Emma jTen Yard Cottages, Ilorsmonden, Kent, Eng.I * |  |  | 25 |
+| 19 | 735 | 1590 | 3801 | 1627 | 20192 | Salmon, Arthur Percy. | Nil Salmon, Horace Daniel A 18 Limesford Rd.. Nunhead S.E., London, Eng * |  |  | 28 |
+| 19 | 735 | 1623 | 3381 | 1665 | 20309 | Scott, James R  | 106th Regt jScott, F. Mrs |Talbot Ave., St. Vital, P.O. Man Scotland. |
+| 19 | 735 | 1653 | 3388 | 1689 | 20119 | Scott, A  | Particulars will be furlnished when available i I  |
+| 19 | 735 | 1717 | 3811 | 1757 | 20142 | Schofield, George L ^Irish Fusiliers (Schofield, Alfred   j24 Meadow Baur St., Belfast, Ire Ireland  |  |  |  | 27 |
+| 19 | 734 | 1748 | 3815 | 1784 | 20135 | Starfield, Sidney Samuel (Nil 'Starfield, William (835 Alexander Ave., Winnipeg, Man 'Canada  |  |  |  | 28 |
+| 19 | 733 | 1811 | 3821 | 1843 | 20367 “ | Samson William Emile. |  | Samson, Francois, Mrs (Inverness, P. Q. |  | 20 |
+| 19 | 733 | 1838 | 3823 | 1880 | 20368 | Sawers, Owen Cuthbert  |  | Sawers, C. W (Vancouver, B. C j “ |  | 22 |
+| 19 | 733 | 1871 | 3827 | 1908 | 20369 | Scott, James  | R. Scots F-usiliers  | Scott, John Napierhall St., Glasgow, Scot England.. |  | 26 |
+| 19 | 733 | 1899 | 3830 | 1940 | 20370 | Secord, Walter Edgar  | nu :  | Secord, Samuel |R. R. S. Simcoe, Ont (Canada... |  | 23 |
+| 19 | 732 | 1935 | 3832 | 1973 | 20371 | Sherman, Albert  | U. S. A. Navy  | Sherman, Elizabeth, Mrs Johns St., London, Eng.  (England.. |  | 26 |
+| 19 | 732 | 1965 | 3418 | 2006 | 20372 « | Sloan, Robert   | Nil    | Sloan, John '218 Rankuston, Ayr, Ayrshire, Scot :... .(Scotland., |
+| 19 | 731 | 1997 | 3410 | 2035 | 20373 « | Soman, Leon A  | Cadet Corps  | Soman, Asher E !St. Andrew, Norfolk, Enz (England. |
+| 19 | 729 | 2028 | 3841 | 2066 | 20374 * | Somers, John  | R. C. A  | Somers, Agnes, Mrs '. !5044 Grand Blvd, Chicago, 111., U. S. A (Canada.. |  | 28 |
+| 19 | 731 | 2061 | 3845 | 2101 | 20375 “ | Somerset, V. Harry P  | O. T. C  | Wilde, C. T jHighfield House Derby, Eng (England. |  | 26 |
+| 19 | 731 | 2090 | 3362 | 2130 | 20376 | Stokes, Henry  | Artillery  | Stokes, George iLaw St., West Bromwich, Staffs, Eng  “ |
+| 19 | 730 | 2117 | 3262 | 2161 | 20377 | Smith, George  | 105th H. O. Y  | NU 7 (Nil  |
+| 19 | 730 | 2155 | 3853 | 2194 | 20378 | Smith, II. Ray .  | 8th Hussars  | Smith, H. V., Mrs ’Smithstown, N.B (Canada.. |  | 23 |
+| 19 | 732 | 2187 | 3369 | 2226 | 19604 “ | Spalding, George Baldwin  | 2nd C. M. R  | Spalding, Charles D 12416 Norwood Ave., Cincinnati, U. S.A  “ |
+| 19 | 733 | 2220 | 3858 | 2262 | 19595 ■ | (Stephenson, Guy, Lewis  | Nil  | IStephenson, William O Richdale, Alta iU. S. A. |  | 24 |
+| 19 | 734 | 2249 | 3862 | 2294 | 19590 | iStephenson Vay E  |  | [Stephenson William O (Richdale, Alta \ “ |  | 27 |
+| 20 | 737 | 426 | 3735 | 461 | 20379|Private. | ISmythe Linton William ... | 31st Horse  | ISmythe, Roger George.... | 35 Lumsden Ave., Southampton, Eng. | .(England. |
+| 20 | 736 | 456 | 3249 | 493 | 20380 “ | (Stephens. William John.... | Nil  | Stephens, Caroline Mrs... | Medicine Hat, Alta  | . iCanada.. |
+| 20 | 737 | 485 | 3251 | 519 | 20331 “ | iSutton, Percy Villiers  | Cadet Corps  | Sutton, Margaret, Mrs.. . | West Hartlepool, Eng  | .: England. |
+| 20 | 737 | 514 | 3252 | 552 | 20544 “ | Smith, John  | Ii. N  | Smith, John  | 90 High St., Campbell town, Scot  | . (Scotland. |
+| 20 | 737 | 543 | 3653 | 582 | 20524 “ | | Shaver, Eric W. B  | 103rd Regt  | Shaver, M., Mrs  | Okotoks, Alta  | . (Canada.. | 24 |
+| 20 | 737 | 571 | 3654 | 609 | 20525 “ | Stone, Edwin William  | 103rd Regt  | Stone, Elizabeth, Mrs... . | 80 Sangley Rd., Catford, London, Eng | . [England. | 23 |
+| 20 | 737 | 600 | 3252 | 632 | 20526 “ | Sinclair, Archibald G  | 14 th Regt  | Sinclair, M., Mrs  | 1808 Albert St., Vancouver, B.C  | . |Scotland. |
+| 20 | 737 | 629 | 3253 | 662 | 20527 “ | Smith, Alexander G. IL.. . | 103rd Regt  | Smith, Henry, Mrs  | Powers Court, 25 The Ave., Gravesen | England. |
+| 20 | 737 | 658 | 3655 | 693 | 20528 “ | Simpson, Robert  | 4 th East L. 11... . | Simpson, Elizabeth  | 30 Cranbourne Rd., [Carlisle] Eng  |  | 22 |
+| 20 | 737 | 687 | 3655 | 722 | 20529 “ | Sat tin, Arthur.   | (). T. C  | Sattirf, Joseph  | Bella Vista, Queen’s Park Brighton, E |  | 23 |
+| 20 | 736 | 716 | 2976 | 750 | 20530 “ | Smith, John William  | 103rd Regt  | Smith, S., Mrs  | 1439-lSth Ave. N. E., Calgary Alta.. |
+| 20 | 737 | 746 | 2267 | 776 | 20543 “ | Starkey, C. S....  | Particulars will be | fur | nished when available  |
+| 20 | 737 | 776 | 3253 | 810 | 20CG0 “ | Sergeant, John Furdew Con | O. T. C  | Sergeant, F. Ross  | Waverly St., Nottingham, Eng  | England. |
+| 20 | 737 | 804 | 3654 | 839 | 20061 “ | Sharrah, Richard W  | Imp. Yeo  | Sharrah, Richard  | 25 Spencer ltd., Wandsworth, London, Eng... |  | 28 |
+| 20 | 737 | 833 | 3252 | 865 | 20CG4 “ | Sharp, Joseph  | 42nd Black Watch | Sharp, Elizabeth, Mrs.. . . | 7 Arundel St., Belfast, Ire  | Ireland.. |
+| 20 | 737 | 861 | 3106 | 900 | 20316 “ | Shiels, Robert.....  | Nil  | Shiels, William  | Ballygowan, Co. Down, Ire.;  |
+| 20 | 737 | 890 | 2991 | 923 | 20602 “ | Shoesmith, Frederick Charle |  | Shoesmith, Martha, Mrs.. | 75 Little Common Rd, Bexhill-on-Sea, |
+| 20 | 2496 | 924 | 3653 | 954 |  |  |  |  | Sussex, Eng  | England. | 24 |
+| 20 | 737 | 948 | 3655 | 982 | 20817 “ | Simmonda, William R  | R. A. M. C  | Sym6s, I1., M rs  | 24 Redruth Rd., Manor Lane, Lee, London E. |  | 28 |
+| 20 | 738 | 977 | 3654 | 1012 | 20006 “ | Skelton, Joseph  | Nil  | Skelton, Sarah  | Ascot, Berkshire, Eng  |  | 27 |
+| 20 | 738 | 1007 | 3655 | 1041 | 20818 “ | Smith, Augustus H. A  |  | Smith, Evelyn  | Bowden, Alta  |  | 23 |
+| 20 | 738 | 1036 | 2262 | 1064 | 20761 “ | Smith, A  | Particulars will be furn | i«hed when available  |
+| 20 | 738 | 1064 | 3654 | 1097 | 20663 “ | Smith, Bertram  | Nil  | Smith, William.    | I Market Place Hornsea,E. Yorks, Eng  | England.. | 24 |
+| 20 | 738 | 1093 | 3655 | 1128 | 20700 “ | Smith, Edward G  |  | Smith, Felicia, Mrs  | 310 College St., W’innipeg, Man  | Canada... | 28 |
+| 20 | 739 | 1122 | 2255 | 1150 | 20747 “ | Smith, E. L  | Particulars will be fur | rushed when available.... |
+| 20 | 739 | 1145 | 3674 | 1186 | 20005 “ | Smith, Robert.. ,  | L. S. II  | Smith, Mary Mrs  | 04 Plough ltd., Clapliam, Eng  .. . | England.. | 24 ' |
+| 20 | 741 | 1180 | 3656 | 1214 | 1U778 “ | Spcctrc, N  | Nil  | Spectre, N., Mrs  | 551 Pritchard Ave., Winnipeg, Man  | Russia.... | 20 |
+| 20 | 739 | 1209 | 3656 | 1242 | 20008 “ | Stair, Harry John  | 103rd Regt  | Stair, Emily, Mrs  | 29 Sudbourne Rd., Brixton, London, Eng  | England.. | 28 |
+| 20 | 739 | 1238 | 3655 | 1272 | 20669 “ | Standring, George  | Nil  | Standring, John  | 15 Bradshaw St., Shudehill, Manchester, Eng. |  | 24 |
+| 20 | 738 | 1266 | 3656 | 1299 | 20819 “ | Stinson, William Herbert.. |  | Stinson, Moses  | Cohan, Sask  | Canada.. | 23 |
+| 20 | 738 | 1295 | 3245 | 1329 | 20820 “ | Stirling, J. B  | Sutherland High’s.. | Stirling, Isabella  | Hay Villa, Gowrock, Scot  | Scotland |
+| 20 | 739 | 1324 | 3654 | 1358 | 20821 “ | Street, Charles M  | Nil  | Street, Col  | Somerset St., Ottawa, Ont   | Canada., | 24 |
+| 20 | 739 | 1353 | 3655 | 1385 | 20822 “ | Stubbs, John Pattinson... |  | Stubbs, Ivor F. P  | 29 and 30 Green End, Woolwich, Eng  | . .England | 23 |
+| 20 | 739 | 1382 | 3065 | 1415 | 20828 “ | Swanson, John William... . |  | Swanson, E. Mrs  | 9 St. John’s Terrace, Westbury ltd., Forest |
+| 20 | 739 | 1440 | 3105 | 1472 | 20670 “ | Tallents, George William. . | R. N. W. M. P | Tallents, George, Mrs... . | 3 Victoria Rd., Retford, Notts, Eng   |
+| 20 | 739 | 1469 | 3655 | 1502 | 20G90 “ | Tawse, William M  | Nil  | Tawse, Adam  | W'oodside, lvintose, Aberdeen, Scot   | Scotland. | 25 |
+| 20 | 740 | 1498 | 3105 | 1530 | 20071 * | Thomson, Alexander  |  | Thomson, John  | Fraser ton, Alta   |
+| 20 | 740 | 1526 | 3655 | 1559 | 20531 “ | Tonkin, Frank Scott  | 14 th Batt. L. S  | Tonkin, A. 10., Mrs  | 87 Tower ltd.. New Quay, Cornwall, Eng... . | Spain.... | 23 |
+| 20 | 740 | 1555 | 3655 | 1588 | 20540 “ | Toole, Archibald Martin... | Nil  | Toole, Ellen, Mrs  | 30G-28th Ave., N. E. Calgary, Alta  | Scotland. | 28 |
+| 20 | 740 | 1584 | 3655 | 1617 | 20532 “ | Towers, John Arthur  | 103rd Regt  | Towers, j. i\i rs  | Block 33, Home*Patrick, Calgary, Alta  | England. | 23 |
+| 20 | 740 | 1613 | 3655 | 1646 | 20673 “ | Tozer, William George  | It. G. A  | Tozer, Erencc, Mrs  | 4 Grosvcnor Place, Plymouth, Eng..   |  | 27 |
+| 20 | 740 | 1642 | 3656 | 1675 | 20701 “ | Trout, Walter  | Worcester Vols  | Trout, Caroline, Mrs  | Ridgeway, Ashwood Bank, Worcester, Eng... | England. | 28 |
+| 20 | 743 | 1671 | 3656 | 1705 | 19787 “ | Trebhle, William  | R. K.    . . | Trebble, Frank  | Bristol, Eng  | England. | 20 |
+| 20 | 743 | 1700 | 2266 | 1728 | 19922 “ | Terriss, J  | Particulars will be furn | ished when available  |
+| 20 | 742 | 1730 | 3655 | 1761 | 19923 “ | Thurston, John  |  | udmundson, John  | 1511-Sth Ave. 13., Calgary, Alta  |  | •24 |
+| 20 | 1007 | 1759 | 3656 | 1790 |  | Thompson. Hobson  | 103rd Regt  | Thompson, John William | 309-14th Ave , Calgary, Alta  |  | 27 |
+| 20 | 742 | 1787 | 3256 | 1818 | 19924 “ | Thomas David Randolph.. |  | liomas, William E  | 5 Richmond Villa, Swansea, S. Wales, | England. |
+| 20 | 741 | 1816 | 3658 | 1848 | 19G08 “ | Templeton, Mathew  |  | Templeton, J. R  | 73G Dudley St., Winnipeg, Man  | Scotland. | 2G |
+| 20 | 741 | 1844 | 2255 | 1872 | 19925 * | Thomas, E  | Particulars will be fur | nished when available.... |
+| 20 | 741 | 1874 | 2266 | 1902 | 19926 “ | Travis, 1). H  | Particulars will be fur | nished when available  |
+| 20 | 741 | 1903 | 3656 | 1935 | 19927 a | Turner, William  | Royal North Lancs. . . | Pryde, Henry  | 534 Frazer Ave., Edmonton, Alta   | England. | 24 |
+| 20 | 738 | 1932 | 3238 | 1964 | 20078 a | Taylor, Noel Urban  | Nil  | Taylor, W. A  | Med. Officer, Malacca, Straits Settlements  | Ireland, |
+| 20 | 738 | 1962 | 3657 | 1994 | 20079 “ | Taylor, Arthur  |  | Earnshaw... George  | Morecombe Bay, Lancs, Eng  | England. | 20 |
+| 20 | 738 | 1991 | 3657 | 2022 | 20080 “ | Taylor, George Saville  |  | Taylor, Helen, Mrs  | 109, 12th Ave. E., Calgary, Alta  |  | 25 |
+| 20 | 738 | 2019 | 3251 | 2053 | 20081 “ | Tunnicliffe, Herbert John.. |  | Tunnicliffe, John T  | 3029 Quadra St. Victoria, B. C.   | Wales... |
+| 20 | 738 | 2047 | 3656 | 2080 | 20082 * | Tucker, William Henry.... | R. Fusiliers  | Tucker, Julia Mrs  | 040 1st Ave., W., Calgary Alta  | England. | 24 |
+| 20 | 738 | 2076 | 3254 | 2111 | 20083 “ | Thirwell, Harold  | Nil  | Thirwell, Jemima  | cJo Young Plumbing Co., Calgary, Alta  | Canada.. |
+| 20 | 738 | 2105 | 3657 | 2139 | 20140 “ | Tottan, William  |  | Tottan, David  | Kurgh, Ire    | Ireland... | 23 |
+| 20 | 737 | 2133 | 3657 | 2169 | 20144 “ | Taylor, Russell  |  | Taylor, Mrs  | 91 Matheson Ave., W'innipeg, Man  | Canada.. | 27 |
+| 21 | 841 | 597 | 3209 | 628 |  | Raak. |  | Former Corps. | Name of Next-of-Kin. |  | of |
+| 21 | 716 | 625 | 3654 | 653 | o |  |  |  |  |  | Birth. | Placc. | Date. |
+| 21 | 710 | 742 | 3715 | 774 | 20:133 | Private.... | Thomson, William  | Nil  |  |  |  |  | Sept. 28 1911 |
+| 21 | 855 | 801 | 3404 | 816 |  | a |  | a |  |  | « | tt |
+| 21 | 710 | 801 | 3633 | 830 | 20382 |  |  |  |  | 2 Durham St., W. Hartlepool, Durham, Eng... |  |  | 26 |
+| 21 | 855 | 830 | 3613 | 842 |  | u |  |  |  |  |  | a | tt |
+| 21 | 855 | 859 | 3403 | 871 |  | m |  |  |  |  | « | a |
+| 21 | 710 | 859 | 3630 | 886 | 20824 |  |  | Nil  |  |  |  |  | 24 |
+| 21 | 711 | 887 | 3040 | 917 | °08‘,5 |  |  | 22nd Hor.se  | Trim, Sarah, M  | 0031 Fleming St., 45th Ave., S. Vancouver, |
+| 21 | 856 | 946 | 3613 | 959 |  | a |  |  |  |  |  | « | u |
+| 21 | 712 | 975 | 3631 | 1005 |  |  |  |  |  | 5931 Fleming St., Vancouver, B.C  | 20820 | Trim, Frederick William  | Nil  | 27 |
+| 21 | 712 | 1005 | 3631 | 1033 | 20828 |  | Turnbull, James Hatton Glen... . |  |  |  |  |  | 21 |
+| 21 | 712 | 1032 | 3067 | 1062 | 20920 |  |  | Nil  |  | 39 Slanstead Rd., Forest Hill, S. 10., London, |
+| 21 | 711 | 1091 | 3010 | 1122 | 20072 |  | Torrington, Clis. William David... | C. M. &S. II  |  | 74 Barry Rd.f Carrickaon Barry Dock, S. |
+| 21 | 714 | 1148 | 3632 | 1178 | 19811 |  |  |  |  | 52 Finga! St., E. Greenwich, Kent, ling  | England  |  | 28 |
+| 21 | 716 | 1206 | 3632 | 1238 | 19788 |  |  | R. G. A...  | Valentine, William It  | Valentine, 10., Mrs....  | Willowfield Farm, Halifax, York, ICng  | England  | 20 |
+| 21 | 715 | 1237 | 3632 | 1266 | 19810 |  |  | O. C. Belgium Army... . | Van Aehter, Paul  | Van Aehter, Marie, Miss  |  |  | 28 |
+| 21 | 716 | 1264 | 3633 | 1299 | 19789 |  |  | Nil  | Vincenjt, Georce  | Iron Works, Milhain, Cumberland, Eng  |  |  | 2ft |
+| 21 | 858 | 1294 | 3404 | 1308 |  |  |  | u | u |  |  | a |
+| 21 | 714 | 1353 | 3632 | 1381 | 20536 |  |  | ISth Batt. E. Yorks llgt. |  |  |  |  | 23 |
+| 21 | 857 | 1381 | 3404 | 1394 |  | u |  |  |  |  | « | « |
+| 21 | 714 | 1382 | 3631 | 1412 | 20695 |  |  | Nil   | Vernon, William  |  |  |  | 21 |
+| 21 | 858 | 1410 | 3404 | 1424 |  | a |  | a |  |  |  | a |
+| 21 | 858 | 1439 | 3613 | 1453 |  | a |  | M |  |  |  | « | a |
+| 21 | 716 | 1438 | 3081 | 1469 | 19928 |  | Vulleumier, Adrien  |  |  | 09 Faubourg Colmer, Mulhausen, Alsace  |
+| 21 | 716 | 1469 | 3631 | 1498 | 19792 |  |  | Imp. Service  | Walsh, Bernard  |  |  |  | 27 |
+| 21 | 716 | 1498 | 3632 | 1527 | 19S12 |  |  |  | Walpole, William, Mrs  | Walpole, William  |  |  | 2S |
+| 21 | 716 | 1525 | 3630 | 1554 | 19790 |  |  | Nil  |  | 1105 Woodsnave Ave.. Pittsburgh, Penn.U.S.A |  |  | 27 |
+| 21 | 858 | 1556 | 3402 | 1568 |  | a |  | a |  |  |  | « |
+| 21 | 716 | 1555 | 3631 | 1583 | 19791 |  |  |  |  | Kenyon, Minnesota, U. S. A  | U. S. A  |  | 20 |
+| 21 | 858 | 1584 | 3402 | 1597 |  | a |  | « |  |  |  | u |
+| 21 | 716 | 1583 | 3289 | 1612 | 19792 |  |  |  |  | 372 McDermot Ave., Winnipeg, Man  | Whitmarsh, William  | England  |
+| 21 | 857 | 1612 | 3402 | 1625 |  | a |  |  |  |  | « | « |
+| 21 | 715 | 1612 | 3630 | 1641 | 19793 |  |  | S. Staffs. Regt  |  | 10 Dawson St., Wolverhampton. Eng  |  |  | 25 |
+| 21 | 857 | 1641 | 3402 | 1654 |  | a |  |  |  |  | m | « |
+| 21 | 716 | 1642 | 3630 | 1670 | 19794 |  |  | S. Lancs Regt  | Roberts, S. Mrs  |  |  |  | 20 |
+| 21 | 857 | 1729 | 3402 | 1741 |  | u |  |  |  |  | tt | « |
+| 21 | 715 | 1728 | 3630 | 1753 | 1Q0.il |  |  |  |  |  |  |  | 22 | Nil  | Nil  |
+| 21 | 857 | 1786 | 3403 | 1799 |  | a |  |  |  |  | « | « |
+| 21 | 716 | 1787 | 3629 | 1815 | 19933 |  | Watkins, Mark  | C. F. A   |  |  |  |  | 21 |
+| 21 | 714 | 1833 | 3631 | 1873 | 19915 |  | Willingham, Royal Alexander.... | F. M. Army, Mexico  |  | i()l Preston St., Houston, Texas, U. S. A  |  |  | 23 |
+| 21 | 711 | 1871 | 3629 | 1903 | 20086 |  | Williams, David Brymure.  | Nil  | Williams, David  |  | Wales  |  | 21 |
+| 21 | 855 | 1903 | 3612 | 1916 |  |  |  | tt | a |  |  |  | u |
+| 21 | 1859 | 1930 | 3630 | 1959 |  |  |  |  | White, Edwin J  | 61 Pembroke Crcscent, Hove., Sussex IOng.. | England  |  | 25 |
+| 21 | 855 | 1960 | 3402 | 1975 |  | M |  | « |  |  |  | tt |
+| 21 | 854 | 2018 | 3611 | 2032 |  | a |  |  |  |  |  | tt | « |
+| 21 | 710 | 2046 | 1847 | 2077 | 20092 |  |  | Particulars will bo fur | Watts C. C  |
+| 21 | 854 | 2134 | 3402 | 2149 |  | « |  | a |  |  |  | « |
+| 21 | 853 | 2163 | 3612 | 2178 |  | tt |  |  |  |  |  | « | u |
+| 21 | 708 | 2162 | 3289 | 2195 | 20270 |  | Woods, Clarence Marshall  | U. S. Marine  | Morrison, Luther, Mrs  | Shanan Dock Junction, W. Virginia, U.S.A... | U. S. A  |
+| 21 | 853 | 2193 | 3612 | 2207 |  | > |  |  |  |  |  | ■ | • |
+| 21 | 707 | 2191 | 3289 | 2226 | 2015G |  | Walpole, William Clarence  | 100th House  | Walpole, William  | 188 Jarvis St., Winnipeg, Man  | England  |
+| 22 | 820 | 410 | 3722 | 445 |  | Private. | Williams, "William  | Nil. | Williams, David  | •Lyg Eifion. Port Mador*, Walea  | WnJou... |
+| 22 | 995 | 440 | 3642 | 474 |  |  | Watson. Harry Alexande |  | Watson, A. Mrs  | P.O. Box 56, Maeleod, Alta  | Scotland. |  | 28 |
+| 22 | 996 | 471 | 3642 | 503 |  |  | White, Hubert  |  | White, Annie Miss  | Carluke, Lanarkshire, Scot  |  |  | 2S |
+| 22 | 996 | 499 | 3643 | 531 |  |  | Wilson, Robert Clinton.. | C. M. R  | Wilson, T. E., M rs  | W’indsor, Ont  | Canada.. |  | 20 |
+| 22 | 996 | 528 | 3241 | 560 |  |  | Wooley, William  | Nil  | Wooley, T. H. Mrs . .. | (Albert Pk.. P. ()., Calgary, Alta.    | England. |
+| 22 | 996 | 557 | 3643 | 590 |  |  | Watson, John O'Donnell | lOoiu Regt. | Watson, F. M., Mrs  | The Service Earl Sodham, Franklingham.E | Irt land . |  | 28 |
+| 22 | 997 | 586 | 3641 | 618 |  |  | Wilson, George  | Nil  | Wilson, W  | IFulbuk, Lincolnshire, Eng  | England. |  | 24 |
+| 22 | 996 | 618 | 3044 | 647 |  |  | Wilson, Sydney  |  | Wilaon, M  | Nanaimo St., Vancouver, B.C  |
+| 22 | 995 | 644 | 3642 | 676 |  |  | Wright, Alfred  | 60th Regt... | Wright, Mary, Mrs.. .. | *3 Dinorwick Rd., Southport, Eng  |  |  | 27 |
+| 22 | 995 | 675 | 3639 | 705 |  |  | Webb, Walter James.... | 103rd Regt.. | Webb, Elizabeth  | 93 Samuel St., Wroolwich, Eng  |  |  | 21 |
+| 22 | 996 | 704 | 3641 | 734 |  |  | Walker, Edward Theodore | Nil  | Walker, Edward  | Well wood, Man  |  |  | 21 |
+| 22 | 996 | 732 | 3240 | 763 |  |  | Walker, Rol>ert  |  | Walker, Elizabeth, Mrs. | Primrose St.. Ballysire, Belfast, Ire  | Ireland.. |
+| 22 | 995 | 762 | 3643 | 792 |  |  | Webster, Thomas  |  | Webster, Anne  | Heagc Ud., Ripley, Derby, Eng  | England. |  | 2G |
+| 22 | 996 | 794 | 2217 | 819 |  |  | West, G  | Particulars w | ished when available.. . |
+| 22 | 995 | 820 | 3243 | 850 |  |  | Whyte, Alexander  | Nil  | Whyte, Margaret, Mrs. | t>91 Nasson St., Winnipeg, Man  | England. |
+| 22 | 996 | 849 | 3243 | 879 |  |  | Wyness, George  | R. G. A  | Wyness, George (jr.)... | Glasgow, Scot  | Scotland. |
+| 22 | 995 | 874 | 3644 | 907 |  |  | West, Albert 0  | 4 th Essex Regt | West Annie C., Mrs  | Fairbank, Ont  | Eugland. |  | 23 |
+| 22 | 996 | 906 | 3247 | 937 |  |  | Whitney, Walter  | Nil  | Whitney, Catherine  | •JOG North May St., Philadelphia, Pa., U.S. | U. S. A.. |
+| 22 | 996 | 935 | 3644 | 965 |  |  | Wade,. William  | R. A  | Hobbs, Mrs  | 1005, 5th St., A., Medicine Hat, Alta  | England. |  | 2.1 |
+| 22 | 995 | 965 | 3644 | 994 |  |  | Watson, William Allen. . | Nil  | Watson, George  | 122 Canal Crescent, Perth, Scot  | Scotland. |  | 20 |
+| 22 | 995 | 993 | 3644 | 1023 |  |  | Watson, Frank G  |  | Watson, Samuel  | 377 St. Clarens Ave., Toronto, Ont  | Canada.. |  | 23 |
+| 22 | 995 | 1022 | 3645 | 1053 |  |  | Winter, Cornelius  | 21st Hus  | Mickle, Captain  | cjo 10th Batt., G. Co  | England. |  | 28 |
+| 22 | 995 | 1051 | 3644 | 1081 |  |  | Walker, Henry  |  | Walker, Mary  | P. O. Medicine Hat, Alta  | Scotland. |  | 2.r> |
+| 22 | 995 | 1080 | 3644 | 1110 |  |  | Warner, William Ernest. |  | W arner, Robert C  | Redcliffe, Alta  | Canada.. |  | 23 |
+| 22 | 995 | 1109 | 3645 | 1139 |  |  | Williams, Albert  | Fort Artillery. | Williams, Matilda, Mrs. | 181 Water St., Winnipeg, Man  | England. |  | 2S |
+| 22 | 995 | 1139 | 3644 | 1167 |  |  | Wills, John Gordon  | R. G. A  | Wills, Harry  | 22 Morgan Arcade, Cardiff, Wales  |  |  | 23 |
+| 22 | 995 | 1166 | 3643 | 1197 |  |  | Wisdom, Patrick William | Nil  | Wisdom, Stanley  | 270-5th Ave., Maisonneuve, Montreal, P. (, | Ireland.. |  | 21 |
+| 22 | 995 | 1194 | 3646 | 1225 |  |  | Wheelun, Archibald  |  | Wheelan, Mary, Mrs... | Independence, Missouri, U. S. A  | U. S. A.. |  | 2S |
+| 22 | 996 | 1224 | 3049 | 1254 |  |  | Waller, William James.. |  | Waller, MaryAnn, Mrs. | 4 Emma Terr., Leytonstone Rd., Wansteac |
+| 22 | 2486 | 1252 | 3802 | 1282 |  |  |  |  |  | Flats, Essex, Eng  | England. |
+| 22 | 994 | 1284 | 2221 | 1312 |  |  | Wilson* M.... | Particulars will be fur | nished when available.. |
+| 22 | 995 | 1311 | 2986 | 1341 |  |  | Wood, Albert. | Imp. Service  | Wood, M. G., Mrs  | Cosy Cabin, Victoria Parade Torquay, |
+| 22 | 2487 | 1339 | 3646 | 1369 |  |  |  |  |  | Devon, Eng  | England. |  | 20 |
+| 22 | 994 | 1370 | 2216 | 1398 |  |  | Wilson, L. R  | Particulars will be fur | nished when available.. |
+| 22 | 993 | 1398 | 3646 | 1426 |  |  | Wibrew, David  | Nil  | Wilbrew, Albert  | Malma Terr., Ixmdon, Eng  | England. |  | 20 |
+| 22 | 995 | 1427 | 3645 | 1456 |  |  | Young, William Turnbull. | C. M. R  | Young, William  | North Bay, Ont  | Canada. |  | 24 |
+| 22 | 994 | 1457 | 3645 | 1485 |  |  | Younghusband, Edward B | Nil  | Younghusband, Christii: | Carp, Ont  |  |  | 27 |
+| 22 | 993 | 1485 | 3647 | 1512 |  |  | Zuidema, Louis  |  | Zuidema. J., Mrs   | Ilaren, Province Groningen, Holland. | Holland. |  | 28 |
+| 22 | 992 | 1643 | 3728 | 1671 |  |  | Lockington, William Edward  |  |  |  |  |  | 2S 1914 |
+| 22 | 724 | 1672 | 3646 | 1699 | 33G50 | Private... . |  | C. A. M. C  |  |  |  |  | 27 |
+| 22 | 723 | 1701 | 3647 | 1729 | 33648 |  |  |  |  | 20 Festing St., Hanley, Staffs, Eng  | England  |  | 2S |
+| 22 | 868 | 1731 | 3628 | 1744 |  | a |  |  |  |  | M | tt | u |
+| 22 | 722 | 1729 | 2404 | 1759 | 33647 |  | Mills, Richard Sidney  | Territorials  | Mills, Arthur  |
+| 22 | 868 | 1758 | 3629 | 1773 |  | a |  |  |  |  | ■ | a | u |
+| 22 | 724 | 1908 | 3730 | 1938 | 19629 | Private  | Cave, John Henry .   | Nil  |  | Sulgrave, Northamptonshire, Eng   |  |  | 22 1914 |
+| 22 | 866 | 1937 | 3419 | 1953 |  | U |  | u |  |  |  | U |
+| 22 | 865 | 1966 | 3628 | 1981 |  | a |  |  |  |  |  | ■ | « |
+| 22 | 723 | 1996 | 3647 | 2026 | 19630 |  | Smith, Rupert P  | C. M. I  |  |  |  |  | 27 |
+| 22 | 723 | 2026 | 3647 | 2053 | 19637 |  |  | Nil  |  | 310 W. 39th St., New York, N. Y., U. S. A... |  |  | 28 |
+| 22 | 864 | 2111 | 3453 | 2124 |  | a |  |  |  |  | « | • |
+| 22 | 722 | 2112 | 3647 | 2141 | 19633 |  | W’orkman, Wrilliam Frederick  |  | Workman, E. Mrs  | 27 Columbia St., Gloucester, Eng  |  |  | 23 |
+| 23 | 859 | 655 | 3225 | 686 |  | Rank. |  | Former Corps. |  |  | of |
+| 23 | 736 | 683 | 3668 | 709 | V |  |  |  |  |  | Birth. | Place. | Date. |
+| 23 | 732 | 799 | 3727 | 831 | 19C09 | Sergeant... | Colomb, Horatio Walcott  |  |  | 13 Newport Rd., Birmingham. Eng.   | England  | Valeartier. .. | Sept. 20 1911 |
+| 23 | 732 | 830 | 3095 | 860 | 19610 | Corporal... |  |  |  | Vanbrugh Park, Blackhcath, S. E., Eng  |
+| 23 | 732 | 858 | 3646 | 884 | 19016 |  |  |  |  |  | r. S. A  |  | 27 |
+| 23 | 732 | 887 | 3645 | 915 | 19618 |  |  |  |  |  | England  |  | 23 |
+| 23 | 873 | 917 | 3417 | 930 |  | a |  | a |  |  |  | a |
+| 23 | 732 | 916 | 3644 | 946 | 19019 |  |  |  |  | 20 Tottcridce Lane, Whetstone, London, Eng. |  |  | 24 |
+| 23 | 732 | 948 | 1860 | 976 | 19020 |  | Carvill, William  | I >crbyshire Terr  |
+| 23 | 732 | 976 | 3647 | 1006 | 19622 |  | Dobbs, Samuel Hayward  | Nil   |  | Cinderford, Gloucestershire, Eng  |  |  | 20 |
+| 23 | 732 | 1035 | 3646 | 1063 |  |  |  | Nil  | 19615 | Harrison, Arthur R  | Harrison, William James  |  | 20 |
+| 23 | 874 | 1062 | 3627 | 1077 |  |  |  | a | u |  |  | U | u |
+| 23 | 732 | 1064 | 3096 | 1091 | 19013 |  |  |  | Higgins, Edward  | Fort Fairfield, Maine, U. S. A  |
+| 23 | 873 | 1092 | 3628 | 1105 |  | u |  | u |  |  |  |  | “ |
+| 23 | 732 | 1090 | 3305 | 1120 |  |  |  |  | Ilogarth, Mary, Mrs  | 07 Marine Rd., Pt. Bannatyno, Bate, Scot.... | 19021 | Scotland  |
+| 23 | 732 | 1120 | 3083 | 1149 |  |  |  |  | Howard, Mary, Mrs  | 28 Dartmoor St., Notting Hill Gate, London, | 19623 | Howard, Patrick Charles  | otli R. H  |
+| 23 | 731 | 1178 | 3036 | 1208 | 19615 |  | Lay, Frederick  | R. C. R   |  | 1 Cliawton Villa, Morris Rd. S. Farnboro, |
+| 23 | 3182 | 1206 | 3629 | 1217 |  |  |  |  |  |  | u | it | “ |
+| 23 | 731 | 1265 | 3647 | 1294 | 19634 |  |  | 11 1, 1 | McLatiglin, George  |  |  |  | 24 |
+| 23 | 873 | 1294 | 3648 | 1310 |  | u |  |  |  |  |  | a | 90 |
+| 23 | 730 | 1295 | 3099 | 1325 | 19612 |  |  |  | O’Rourke, Angcs, Mrs  | O’Roui'ke, David  | Nil  | 13 Shearer Road, Portsmouth, Eng  |
+| 23 | 731 | 1322 | 3648 | 1353 | 19017 |  |  |  | Odell, J. W.t Mrs  | 1235-5th Ave., A., South Lethbridge, Alta.. . . |  |  | 20 |
+| 23 | 730 | 1500 | 3729 | 1533 | 19582 | Sergeant... | Turner, Stanley, Marsh  | L. S. H  | Turner, F. H  | Ravensworth, Clarendon Rd., Bristol, Eng  | England  | Valeartier .. . | Sept. 20 1911 |
+| 23 | 731 | 1552 | 3305 | 1590 |  |  |  |  |  | Harbor House, Gray St. Broughty Ferry Scot, | 19587 | Doig, Charles louden    | 4th V.B.R.il  | Doig, M. Mrs  | Scotland  |
+| 23 | 730 | 1587 | 3305 | 1619 |  |  |  |  |  | 33 Kitson St., Norwood, Winnipeg, Man  | 19589 | King, Henry William  | L. S. H  | King, H. W.t Mrs  | England  |
+| 23 | 871 | 1616 | 3628 | 1631 |  | tt |  |  |  |  |  | a | a |
+| 23 | 730 | 1648 | 1864 | 1676 | 19590 |  |  | Particulars will be fur | Nive, C |
+| 23 | 871 | 1675 | 3628 | 1689 |  | u |  |  |  |  |  | a | a |
+| 23 | 730 | 1704 | 3628 | 1735 |  |  |  | 0th Innis Dragoons  | 1958S | Perry, Charles Edwin  | Perry, C. E., Mrs iFort Francis, Ont  |  | “ |
+| 23 | 729 | 1737 | 2401 | 1764 | 19585 |  |  | Imp. Army  | Wilson, William  |
+| 23 | 726 | 1918 | 3730 | 1948 | 20588 |  |  |  |  | 495*^ Alexandra Ave., Winnipeg, Man..... |  | Valeartier ... | Sept. 21 1914 |
+| 23 | 725 | 1949 | 3036 | 1980 | 20362 |  | Roberts, W. G  | C. O. C.   |  | 4 BcaconsfieM Rd., Westoa Pevcrill, Rcy- |
+| 23 | 870 | 2006 | 3419 | 2021 |  | a |  |  |  |  | tt | tt |
+| 23 | 726 | 2006 | 3647 | 2037 | 20237 |  | Somerset, Samuel Arthur  | Nil  | Johnson, Jane Florence  | 790 Atlantic Ave., Winnipeg, Man  |  |  | 27 |
+| 23 | 818 | 2176 | 3732 | 2218 |  | Sergeant;.. | Payne. Harry  | Beds Inf. Reserve  |  | 155 Delaware Ave., Ealing P.O., london, Ont. | England  | Valcarticr ... | Sept. 28 itm |
+{% endraw %}

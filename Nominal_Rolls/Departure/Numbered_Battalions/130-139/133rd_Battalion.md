@@ -1,0 +1,700 @@
+---
+title: 133rd Battalion
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 133rd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men, | EMBARKATION | Port: Halifax, N.S. | I0m-i-i7. Ship: S.S. “Lapland.” | 593-2-29. Date: October 30th, 1916. |
+| 2 | 717 | 619 | 3226 | 649 |  |  |  | Former Corps. |  |  | Country of |
+| 2 | 629 | 763 | 3721 | 795 |  | Lieut.-Coloncl  | Pratt, Arthur Clarence  | 100th Regt. | Pratt, Mrs. Alice Bertha  | 60 Walker Ave., Toronto, Ont  | Canada  |  | 1915. |
+| 2 | 629 | 793 | 3722 | 824 |  | Major  | Aiken, Leslie Fletcher  | 39th Regt.. | Aiken, Mrs. Mary Helen  | Simcoe, Ont  | Canada  |  | 1915. |
+| 2 | 627 | 821 | 3722 | 856 |  | Major  | Heath, William Linzie  | 39th Regt.. | Heath, Mrs. Bertha  | Waterford, Ont  | Canada  |  | Dec. | 7 | 1915. |
+| 2 | 628 | 850 | 3722 | 881 |  | Major  | Innes, Charles Edward  | 39th Regt.. | Innes, Mrs. E. Leila  | Simcoe, Ont  | Canada  |  | Dec. | 10 | 1915. |
+| 2 | 628 | 879 | 3722 | 914 |  | Major  | McDowell, Robert Guy  | 39th Regt.. | McDowell, Mrs. Ella E  | Langton, Ont  | Canada  | Simcoe  | Dec. 15 | 1915. |
+| 2 | 628 | 908 | 3722 | 939 |  | Major  | McIntosh, Wilfred Alonzo  | 39th Regt.. | McIntosh, Mrs. Georgeanna  | Simcoe, Ont  | Canada  | 3amp Borden... | July 26 | 1916. |
+| 2 | 627 | 937 | 3722 | 968 |  | Captain  | Mason, Francis Edward  | 39th Regt.. | Mason, Mrs. Clara E  | St. Williams, Ont  | Canada  | Simcoe  | Jan. 10 | 1916. |
+| 2 | 627 | 963 | 3722 | 997 |  | Captain  | Newcombe, Harley Coleman  | Can. Mil... | Newcombe, Mrs. Edith Emma. | Simcoe, Ont  | Canada  | 3amp Borden... | Sept. 26 | 1916. |
+| 2 | 626 | 995 | 3723 | 1026 |  | Captain  | Paulin, Arthur Hilton  | 39th Regt.. | Paulin, Mrs. Minnie  | Simcoe, Ont  | Canada  |  | 1916. |
+| 2 | 627 | 1023 | 3723 | 1055 |  | Captain  | Selby, Herbert Longland  | 39th Regt.. | Selby, Mrs. Mary Helen  | Simcoe, Ont  | Wales  |  | Nov. 30 | 1915. |
+| 2 | 627 | 1052 | 3723 | 1084 |  | Captain  | Wake, Charles Alexander  | P.P.C.L.I.. | Wake, Mrs. Martha  | 190 Jones Ave., Toronto, Ont  | England  |  | Nov. | 1915. |
+| 2 | 628 | 1078 | 3723 | 1113 |  | Lieutenant  | Browne, Ccdric MacDonald  | 39th Regt.. | Browne, Mrs. Irene  | 12S Lyndhurst Ave., Toronto, Ont  | Canada  |  | Jan. | 1 | 1916. |
+| 2 | 628 | 1109 | 3724 | 1142 |  | Lieutenant  | Curtis, Vladimir  | 39th Regt.. | Curtis, Mrs. Lillian Twigg  | P.O. Box 101, Simcoe, Ont  | Canada  |  | April | 1 | 1916. |
+| 2 | 628 | 1138 | 3724 | 1171 |  | Lieutenant  | Dick, Norman  | 39th Regt.. | Dick, Mrs. Mary Ellen  | R.R. No. 1, Tillsonburg, Ont  | Canada  |  | Dec. | 15 | 1915. |
+| 2 | 627 | 1167 | 3724 | 1200 |  | Lieutenant  | Dillon, Marmaduke Murray  | 39th Regt.. | Dillon, Mrs. Florence N  | Port Dover, Ont  | Canada  |  | Feb. | 19 | 1916. |
+| 2 | 627 | 1197 | 3724 | 1229 |  | Lieutenant  | Dimond, Edward Henry  | 39th Regt.. | Dimond, George  | R.R. No. 3, Simcoe, Ont  | Canada  |  | 2? | 1916. |
+| 2 | 626 | 1222 | 3724 | 1258 |  | Lieutenant  | Durward, Walter Bennet  | 39th Regt.. | Durward, Mrs. Jessie G  | Simcoe, Ont  | Canada  |  | 8 | 1916. |
+| 2 | 626 | 1251 | 3725 | 1287 |  | Lieutenant  | Gibson, William Robert  | 39th Regt.. | Gibson, Lewis C  | Simcoe, Ont   | Canada  |  | 1916. |
+| 2 | 625 | 1283 | 3724 | 1316 |  | Lieutenant  | Miller, Ira  | 39th Regt.. | Miller, Mrs. Mabel Edith  | Simcoe, Ont  | Canada  |  | May | 1 | 1916. |
+| 2 | 626 | 1312 | 3725 | 1345 |  | Lieutenant  | Saunders, Walter Laidlaw  | Can. Eng... | Saunders, Mrs. Angie Haynes... | Waterford, Ont  | Canada  |  | Dec. | 1915. |
+| 2 | 626 | 1342 | 3725 | 1374 |  | Lieutenant  | Souter, James Mitchell  | 13th Regt.. | Souter, James E  | 173 East Ave. N., Hamilton, Ont  | Canada  |  | 21 | 1916. |
+| 2 | 527 | 1371 | 3725 | 1405 | 797061 | Private  | Abbott, Hedley  | 39th Regt.. | Abbott, Mrs. Jessie M  | Port Rowan, Ont  | Canada  |  | 11 | 1916. |
+| 2 | 527 | 1398 | 3725 | 1434 | 797160 | Private  | Abbott, Henry Ernest  | 39th Regt.. | Abbott, Mrs. Laura Ellen  | R.R. No. 3, Port Rowan, Ont  | Canada  |  | Mar. | M | 1916. |
+| 2 | 527 | 1428 | 3725 | 1463 | 796548 | Private  | Abel, Joseph  | 38th Regt.. | Abel, Mrs. I  | Port Dover, Ont  | England  |  | Dec. | 11 | 1915. |
+| 2 | 526 | 1457 | 3725 | 1492 | 796097 | Private  | Adams, Charles  | 39th Regt.. | Adams, George  | Simcoe, Ont  | Canada  |  | Jan. | 13 | 1916. |
+| 2 | 526 | 1486 | 3726 | 1521 | 797089 | Private  | Alexander, Wilfred  | 39th Regt.. | Alexander, Mrs. Catherine  | Langton, Ont  | Canada  |  | ner | 10 | 1915. |
+| 2 | 526 | 1515 | 3726 | 1550 | 796514 | Private  | Alger, Hastings Robert  | 39th Regt.. | Haney, Mrs. Lottie  | 34 Humbert St., Toronto, Ont  | Canada  |  | Nov. 19 | 1915. |
+| 2 | 525 | 1544 | 3726 | 1578 | 796562 | Private  | Allen, Harold Anderson  | Nil  | Allen, Mrs. Kate  | Simcoe, Ont  | England  |  | Dec. | 11 | 1915. |
+| 2 | 525 | 1569 | 3726 | 1606 | 797184 | Private  | Altelaar, Bastiaan  | Nil  | Altelaar, Mrs. Mable Krannel... | Simcoe, Ont  | Holland  |  | Aoril 21 | 1916. |
+| 2 | 525 | 1602 | 3726 | 1636 | 798004 | Sergeant  | Alward, James William  | 39th Regt.. | Alward, Mrs. Anna D  | Simcoe, Ont  | Canada  |  | Dec. | 28 | 1915. |
+| 2 | 525 | 1631 | 3727 | 1665 | 798012 | Private  | Anderson, Beverley Wallace  | 39th Regt.. | Anderson, Wallace  | Simcoe, Ont  | Canada  |  | Feb. | 19 | 1916. |
+| 2 | 524 | 1660 | 3727 | 1694 | 796731 | Private  | Anderson, Walter Wray  | 39th Regt.. | Anderson, Albert  | R.R. No. 5, Simcoe, Ont  | Canada  |  | April 20 | 1916. |
+| 2 | 524 | 1689 | 3727 | 1723 | 797123 | Private  | Andress, Frederick Neal  | 39th Regt.. | Andress, William  | Walsingham, Ont  | Canada  |  | Feb. 21 | Port Rowan.... | 1916. |
+| 2 | 524 | 1717 | 3727 | 1752 | 797657 | Private  | Angus, Alexander  | 48th Regt.. | Angus, Mrs. Margaret  | Rockford, Ont  | Scotland  |  | Aoril 24 | 1916. |
+| 2 | 524 | 1747 | 3727 | 1781 | 796160 | Private  | Armstrong, George  | 39th Regt.. | Armstrong, Mrs. Mary Ethel... | Simcoe, Ont  | Canada  |  | Mar. | 14 | 1916. |
+| 2 | 523 | 1776 | 3727 | 1810 | 796049 | Private  | Arthur, John    | 39th Regt.. | Arthur, Mrs. John  | 10 Charles St., Egremont, Cheshire, Eng. | Scotland  |  | Dec. | 27 | 1915. |
+| 2 | 524 | 1804 | 3727 | 1838 | 797214 | Private  | Ashford, Levi William  | Nil  | Ashford, William  | Courtland, Ont  | Canada  |  | May | 24 | 1916. |
+| 2 | 523 | 1834 | 3727 | 1868 | 797182 | Sergeant  | Atkinson, Charles Frederick W... | 39 th Regt.. | Atkinson, Mrs. Linnie E. H  | Port Rowan, Ont  | Canada  |  | April | 17 | 1916. |
+| 2 | 523 | 1861 | 3727 | 1896 | 798011 | Private  | Atkinson, Leandcr James  | 39th Regt.. | Marrett, Mrs. A. L  | Channel Islands  | Channel Islands |  | Feb | 14 | 1916. |
+| 2 | 523 | 1892 | 3727 | 1925 | 796651 | Private  | Baker, Arthur Thomas  | 39 th Regt.. | Baker, Thomas  | Simcoe, Ont  | England  |  | Feb | 13 | 191j. |
+| 2 | 522 | 1920 | 3727 | 1955 | 797112 | Private  | Ball, Frederick William  | 39th Regt.. | Ball, William  | Simcoe, Ont  | Canada  |  | Feb | 1V | 1916. |
+| 2 | 522 | 1951 | 3727 | 1984 | 797149 | Corporal  | Ball, Gordon Stanley  | 39th Regt.. | Ball, Mrs. Jennie  | Sault Ste. Marie, Ont  | Canada  |  | 4 | 1916. |
+| 2 | 522 | 1980 | 3727 | 2013 | 796186 | Private  | Bancroft, Gervase Edgar  | 39th Regt.. | Bancroft, Mrs. M. A  | Nixon, Ont   | England  |  | 1916. |
+| 2 | 522 | 2009 | 3727 | 2041 | 797617 | Private  | Bannister, Samuel  | 39th Regt.. | Bannister, Robert  | La Salette, Ont  | Canada  |  | 13 | 1916. |
+| 2 | 522 | 2037 | 3719 | 2070 | 797088 | Private  | Bantam, George  | 39th Regt.. | Bantam, Mrs. Mary  | Port Rowan, Ont  | Canada  |  | Jan. | 27 | 1916 |
+| 2 | 522 | 2068 | 3728 | 2099 | 796546 | Private  | Barbar, Clarence Allen  | 39 th Regt.. | Barbar, Mrs. Alice  | Simcoe, Ont  | Canada  |  | Der. | 28 | 1915. |
+| 2 | 521 | 2097 | 3728 | 2129 | 797065 | Private  | Barnes, George Christopher  | 39th Regt.. | Barnes, Edith  | Allandale, Ont  | England  | Port Rowan.... | Jan. | 12 | 1916. |
+| 2 | 521 | 2126 | 3728 | 2158 | 797518 | Sergeant  | Barnwell, Frederick William G... | Nil  | Barnwell. Thomas Charles  | Waterford, Ont   | England  |  | Dec. | 16 | 1915. |
+| 2 | 521 | 2155 | 3729 | 2187 | 796574 | Private  | Barr, Alfred James  | 39th Regt.. | Barr, Richard  | Port Dover, Ont  | England  |  | Dec. | 11 | 1915. |
+| 3 | 595 | 350 | 3784 | 391 | 796550 |  | Barr, Richard  |  |  | Dec. 11, | 1915 |
+| 3 | 596 | 379 | 3786 | 418 | 796733 |  | Barrett, H. B   |  |  | Mar. 23, | 1916 |
+| 3 | 596 | 409 | 3785 | 450 | 796751 | C.O.T.C  | Barry, Mrs. Maud Elizabeth.... |  |  | Aug. 17, | 1916 |
+| 3 | 597 | 437 | 3785 | 476 | 797025 |  | Baughman, Alonzo  |  |  | Dec. 28, | 1915 |
+| 3 | 596 | 467 | 3785 | 505 | 797049 |  | Bayham, James  |  |  | Jan. 10, | 1916 |
+| 3 | 596 | 496 | 3785 | 535 | 797631 |  | Bayton, Charles  |  |  | Mar. 11, | 1916 |
+| 3 | 596 | 525 | 3784 | 564 | 797533 |  | Bearfoot, Mrs. Seth  |  |  | Dec. 6, | 1915 |
+| 3 | 597 | 554 | 3785 | 593 | 796702 |  | Beck, Calvin  | Canada  |  | Mar. 17, | 1916 |
+| 3 | 597 | 583 | 3785 | 622 | 797126 |  | Bennett, Mrs. Eunice   |  |  | Feb. 21, | 1916 |
+| 3 | 597 | 612 | 3785 | 651 | 797054 |  | Bennett, Mrs. Ada Belle  |  |  | Jan. 8, | 1916 |
+| 3 | 597 | 641 | 3784 | 680 | 796149 |  | Berry, Richard  |  | Welland  | Nov. 9, | 1915 |
+| 3 | 598 | 671 | 3785 | 709 | 797124 |  | Billington, Thomas  |  |  | Feb. 22, | 1916 |
+| 3 | 599 | 700 | 3785 | 738 | 797542 |  | Bint, John  |  |  | Dec. 28, | 1915 |
+| 3 | 599 | 729 | 3785 | 767 | 797595 |  | Birdsall, H. W  |  |  | Feb. 14, | 1916 |
+| 3 | 598 | 758 | 3785 | 796 | 797634 |  | Bishop, Mrs. Rebecca  |  |  | Mar. 20, | 1916 |
+| 3 | 598 | 787 | 3785 | 825 | 796006 |  | Blake, George  |  |  | Nov. 19, | 1915 |
+| 3 | 599 | 816 | 3786 | 854 | 798005 |  | Blake, Mrs. Margaret Ann  |  |  | Jan. 21, | 1916 |
+| 3 | 599 | 845 | 3786 | 883 | 796644 |  | Blake, W  |  |  | Dec. 31, | 1915 |
+| 3 | 598 | 876 | 3785 | 912 | 797004 |  | Dunlop, Mrs. Mooley  |  |  |  | 1915 |
+| 3 | 599 | 903 | 3786 | 941 | 796210 | C.A.M.C  | Bland, Mrs. Emily  |  |  | May 19, | 1916 |
+| 3 | 599 | 932 | 3785 | 970 | 796029 |  | McIntosh, Mrs. J. D  |  |  | Dec. 3, | 1915 |
+| 3 | 601 | 961 | 3787 | 999 | 135006 |  | Bonthron, Mrs. Margaret  |  | Camp Borden... | Sept. 1, | 1916 |
+| 3 | 600 | 990 | 3787 | 1028 | 796174 | Nil  | Booth, Mrs. Jane  |  |  | Mar. 29, | 1916 |
+| 3 | 600 | 1022 | 3786 | 1057 | 79G610 |  | Booth, Mrs. Sarah  |  |  |  | 1916 |
+| 3 | 600 | 1048 | 3787 | 1086 | 796719 |  | Boughner, Mrs. Fannie  |  |  | Mar. 30, | 1916 |
+| 3 | 600 | 1077 | 3787 | 1115 | 796094 | 39th Regt  | Bowyer, William  |  |  | Jan. 11, | 1916 |
+| 3 | 600 | 1106 | 3787 | 1143 | 797200 |  | Bowyer, John R  |  |  | May 4, | 1916 |
+| 3 | 600 | 1135 | 3787 | 1172 | 796645 |  | Bradfield, Mrs. Alice  |  |  | Feb. 12, | 1916 |
+| 3 | 601 | 1164 | 3787 | 1201 | 796741 |  | Brady, Leonard  |  |  | May 8, | 1916 |
+| 3 | 600 | 1193 | 3787 | 1230 | 797038 |  | Brandon, Charlie  |  |  | Dec. 16, | 1915 |
+| 3 | 601 | 1221 | 3787 | 1263 | 797154 |  | Brandon, Charles  |  |  | Mar. 11, | 1916 |
+| 3 | 599 | 1253 | 3788 | 1291 | 797517 | Nil  | Brant, William J  |  |  |  | 1915 |
+| 3 | 600 | 1282 | 3788 | 1320 | 796697 |  | Brewster, Mrs. Pearl  |  |  |  | 1916 |
+| 3 | 599 | 1309 | 3788 | 1349 | 797132 |  | Brinn, John  |  |  | Feb. 26, | 1916 |
+| 3 | 599 | 1338 | 3788 | 1378 | 796557 |  | Brock, Charles  |  |  | Dec. 4, | 1915 |
+| 3 | 599 | 1369 | 3788 | 1408 | 796578 | 39th Regt  | Thompson, J. H  |  |  |  | 1916 |
+| 3 | 600 | 1396 | 3788 | 1437 | 796165 |  | Broughton, Albert  | England  |  |  | 1916 |
+| 3 | 1806 | 1424 | 3788 | 1461 |  |  | Broughton, Albert  |  | Camp Borden.. | July 8, | 1916 |
+| 3 | 600 | 1453 | 3788 | 1494 | 796138 |  | Broughton, Mrs. Ora  |  |  | Feb. 12, | England  | 1916 |
+| 3 | 1806 | 1482 | 3788 | 1519 |  |  | Brown, Mrs. Mary  | Canada... |  | Feb. 22, | 1916 |
+| 3 | 600 | 1511 | 3788 | 1552 | 797095 |  | Brown, William  |  |  | Jan. 31, | 1916 |
+| 3 | 599 | 1540 | 3787 | 1581 | 797120 |  | Brown, Mrs. Annie Mildred  | Canada  |  | Feb. 21, | 1916 |
+| 3 | 599 | 1568 | 3788 | 1610 | 797008 |  | Tripp, Mrs  | England  |  | Nov. 19, | 1915 |
+| 3 | 1477 | 1597 | 3788 | 1635 |  | 39th Regt  | Brown, Mrs. Hilda  |  |  | Dec. 31, | 1915 |
+| 3 | 599 | 1626 | 3789 | 1668 | 796517 |  | Brown, Mrs. Jessie  |  |  | Nov. 19, | 1915 |
+| 3 | 1807 | 1656 | 3789 | 1691 |  |  | Hudack, Joe  | U.S.A  |  |  | 1916 |
+| 3 | 599 | 1684 | 3789 | 1725 | 796082 | 39th Regt  | Buchanan, Mrs. Adah Wilhelmina |  |  | Dec. 31, | 1915 |
+| 3 | 1806 | 1712 | 3789 | 1748 |  |  | Buchner, William H  |  | Simcoe  | Dec. 11, | 1915 |
+| 3 | 599 | 1742 | 3789 | 1783 | 797613 |  | Buck, Mrs. Joseph  |  |  | Feb. 25, | 1916 |
+| 3 | 598 | 1773 | 3789 | 1812 | 796577 |  | Buckle, Mrs. Dorothy Richardsor |  |  |  | 1916 |
+| 3 | 599 | 1829 | 3789 | 1870 | 796630 | 39 th Regt  | Burch, Mrs. Harriett  |  |  | July 1, | 1916 |
+| 3 | 599 | 1860 | 3790 | 1898 | 797152 |  | Burchell, Eli  |  |  |  | 1916 |
+| 3 | 599 | 1889 | 3790 | 1927 | 797021 | 39th Regt  |  |  |  |  | 1916 |
+| 3 | 600 | 1916 | 3789 | 1956 | 796209 |  | Smith, W.C. | U.S.A  |  |  | 1916 |
+| 3 | 600 | 2004 | 3789 | 2042 | 797569 | Nil  |  |  |  |  | 1916 |
+| 3 | 600 | 2032 | 3790 | 2071 | 797557 |  |  |  |  | Jan. 17, | 1916 |
+| 3 | 600 | 2090 | 3790 | 2129 | 796543 |  |  |  | Simcoe  | Dec. 23, | 1915 |
+| 4 | 766 | 568 | 3269 | 599 |  |  |  | Country of |
+| 4 | 581 | 713 | 3768 | 745 | 765641 | Cairnes, Mrs. Arabell  | Simcoe, Ont  | Canada  | Simcoe  | Feb. | 8, | 1916. |
+| 4 | 1781 | 743 | 3768 | 774 |  | Caldwell, George Hoover  | R.R. No. 2, Simcoe, Ont  | Canada  | Simcoe  | Jan. | 7, | 1916. |
+| 4 | 1781 | 772 | 3769 | 803 |  | Cameron, Duncan  | Bimie, Elgin, Scot  | Scotland.. | Simcoe  | Dec. | 10, | 1915. |
+| 4 | 1780 | 801 | 3769 | 831 |  | Carmichael, Mrs. Annie  | R.R. No. 2, Port Dover, Ont  | Scotland.. | Simcoe  | Feb. | 28, | 1916. |
+| 4 | 1780 | 830 | 3769 | 860 |  | Carnahan, Mrs. Flossie Leota  | St. Williams, Ont  | Canada— | Simcoe  | Feb. | 10, | 1916. |
+| 4 | 1781 | 859 | 3770 | 890 |  | Carpenter, John Henry  | 74 Walker Ave., Montreal, P.Q  | Canada  | Simcoe  | June | 3, | 1916. |
+| 4 | 1780 | 888 | 3770 | 918 |  | Casey, Robert   | Newport, N.S.W., Australia  | England.. | Simcoe  | April | 24, | 1916. |
+| 4 | 1781 | 917 | 3770 | 947 |  | Casselton, Mrs. Lily Louise  | Vittoria, Ont  | England.. | Simcoe  | April | 25, | 1916. |
+| 4 | 1781 | 947 | 3770 | 976 |  | Chambers, Isaac  | Langton, Ont  | Canada... | Langton  | Dec. | 27, | 1915. |
+| 4 | 581 | 975 | 3770 | 1004 | 796684 | Charter, James  | Waterford, Ont  | Canada... | Simcoe  | Mar. | 6, | 1916. |
+| 4 | 581 | 1004 | 3770 | 1034 | 796084 | Chisholm, Mrs. Lillian  | Simcoe, Ont  | England.. | Simcoe  | Jan. | 8, | 1916. |
+| 4 | 580 | 1033 | 3770 | 1063 | 796561 | Christie, Thomas  | Culloden, Ont  | Scotland.. | Simcoe  | Dec. | 10, | 1915. |
+| 4 | 579 | 1062 | 3771 | 1091 | 797052 | Christmas, Lawrence  | Walsingham, Ont  | Canada... | Langton  | Jan. | 10, | 1916. |
+| 4 | 579 | 1091 | 3770 | 1120 | 797019 | Clancy, Joseph  | 2nd Royal Fus., Lemnos Island  | England.. | Simcoe  | Dec. | 27, | 1915. |
+| 4 | 578 | 1119 | 3771 | 1150 | 797110 | Claringbold, Mrs. Lyiia Edith... | 118 Savage Gdns, East Ham, London, Eng. | England.. | Simcoe  | Feb. | 11. | 1916. |
+| 4 | 578 | 1149 | 3771 | 1179 | 797049 | Claydon, Daniel  | Tecumseh, Ont  | England.. | Simcoe  | April | 10, | 1916. |
+| 4 | 578 | 1178 | 3772 | 1207 | 796544 | Kirk, Mrs  | Englehart, Ont  | England.. | Port Dover. | Dec. | 21, | 1915. |
+| 4 | 577 | 1207 | 3772 | 1235 | 796112 | Coates, Mrs. Rachel  | Simcoe, Ont  | Canada... | Simcoe  | Jan. | 26, | 1916. |
+| 4 | 577 | 1236 | 3772 | 1264 | 796053 | Colby, Walter  | Simcoe, Ont   | Canada... | Simcoe  | Dec. | 31, | 1915. |
+| 4 | 577 | 1259 | 3772 | 1295 | 790735 | Collard, Albert  | Model Farm, Hillingdon, M’sex, Eng  | England.. | Simcoe  | April | 29, | 1916. |
+| 4 | 576 | 1295 | 3773 | 1323 | 796618 | Collier, Ada Lucy  | Simcoe, Ont  | England.. | Simcoe  | Feb. | 1, | 1916. |
+| 4 | 576 | 1318 | 3773 | 1352 | 796542 | Collver, A. M  | R.R. No. 1, Nixon, Ont  | Canada... | Simcoe  | Dec. | 23, | 1915. |
+| 4 | 576 | 1347 | 3774 | 1381 | 796541 | Collver, Archio M  | R.R. No. 1, Nixon, Ont  | Canada... | Simcoe  | Dec. | 27, | 1915. |
+| 4 | 576 | 1376 | 3773 | 1410 | 796180 | Colton, Mrs. Annie Hutton  | 15 Bainsford Rd., Toronto, Ont  | England.. | Toronto  | April | 1, | 1916. |
+| 4 | 576 | 1410 | 3775 | 1438 | 796564 | Coulan, John  | Antrim, Ire  | Ireland... | Simcoe  | Dec. | 1, | 1915. |
+| 4 | 576 | 1439 | 3775 | 1467 | 797018 | Cook, Sheldon  | Port Rowan, Ont  | Canada... | Port Rowan. | Dec. | 22, | 1915. |
+| 4 | 577 | 1468 | 3775 | 1496 | 796556 | Cook, C. M  | Vittoria, Ont  | Canada... | Simcoe  | Dec. | 8, | 1915. |
+| 4 | 577 | 1496 | 3775 | 1525 | 797103 | Cook, Robert  | Portsmouth, Eng  | England.. | Simcoe  | Feb. | 7, | 1916. |
+| 4 | 578 | 1526 | 3775 | 1554 | 796545 | Cooper, John  | Simcoe, Ont  | Canada... | Simcoe  | Dec. | 18, | 1915. |
+| 4 | 578 | 1554 | 3776 | 1583 | 796566 | Cooper, Mrs. Pauline  | 28 East St., 2nd Ave., Simcoe, Ont  | England.. | Simcoe  | Dec. | 8, | 1915. |
+| 4 | 577 | 1584 | 3776 | 1612 | 796502 | Cope, Mrs. Sarah  | Simcoe, Ont  | Canada... | Simcoe  | Nov. | 19, | 1915. |
+| 4 | 577 | 1612 | 3776 | 1640 | 797554 | Corlett, Mrs. Jennie  | Waterford, Ont  | Scotland.. | Simcoe  | Jan. | 10. | 1916. |
+| 4 | 576 | 1636 | 3776 | 1669 | 796150 | Cormack, Mrs. Mary  | Simcoe, Ont  | Scotland.. | Simcoe  | Feb. | 28, | 1916. |
+| 4 | 575 | 1665 | 3777 | 1699 | 796103 | Cormack, George  | Simcoe, Ont  | Scotland.. | Simcoe  | Jan. | 20, | 1916. |
+| 4 | 574 | 1694 | 3777 | 1727 | 797196 | Cowan, Jack  | R.R. No. 4, Tillsonburg, Ont  | Canada... | Simcoe  | May | 3, | 1916. |
+| 4 | 573 | 1727 | 3778 | 1757 | 797576 | Coward, Mrs. Lucy  | 250 South Rd., Walkley, Sheffield, Eng  | England.. | Simcoe  | Feb. | 3, | 1916. |
+| 4 | 573 | 1752 | 3778 | 1786 | 796732 | Cox, Mrs. Lily  | R.R. No. 4, Simcoe, Ont.   | England.. | Simcoe  | Mar. | 25, | 1916. |
+| 4 | 573 | 1781 | 3779 | 1815 | 797181 | Craig, Robert  | Simcoe, Ont  | Canada... | Simcoe  | April | 13, | 1916. |
+| 4 | 573 | 1810 | 3778 | 1844 | 797516 | Crapper, Annie  | Clerkenwell, London, E.C., Eng  | England.. | Simcoe  | Dec. | 3, | 1915. |
+| 4 | 573 | 1839 | 3778 | 1873 | 797213 | Crerar, Donald  | Bright, Ont  | Canada... | Simcoe  | May | 20, | 1916. |
+| 4 | 573 | 1872 | 3779 | 1901 | 790098 | Cromwell, Mrs. Eric  | Port Dover, Ont  | U.S.A.... | Simcoe  | Mar. | 10, | 1916. |
+| 4 | 573 | 1901 | 3779 | 1930 | 797118 | Cronk, Mrs. Mary Elizabeth  | Port Rowan, Ont  | Canada... | Port Rowan | Feb. | 17, | 1916. |
+| 4 | 573 | 1930 | 3780 | 1960 | 797581 | Armbrust, Miss May  | 210 Park Ave., Brantford, Ont  | Canada... | Simcoe  | Feb. | 6, | 1916. |
+| 4 | 573 | 1959 | 3780 | 1988 | 796572 | Cross, Mrs. Emma  | Simcoe, Ont  | England.. | Simcoe  | Dec. | 16, | 1915. |
+| 4 | 573 | 1988 | 3780 | 2018 | 796581 | Cruise, George  | Port Dover, Ont  | Canada... | Simcoe  | Dec. | 14, | 1915. |
+| 4 | 573 | 2017 | 3781 | 2047 | 797575 | Culliford, Evelyn  | Waterford, Ont  | England.. | Waterford  | Feb. | 2, | 1916. |
+| 4 | 573 | 2046 | 3781 | 2075 | 797534 | Culliford. Mrs. Clara  | Waterford, Ont  | England.. | Simcoe  | Dec. | 10, | , 1915. |
+| 4 | 573 | 2071 | 3781 | 2105 | 797538 | Currie, Duncan  | Kilnaish, Tarbert, Loch Fyne, Scot. |  | Simcoe  | Dec. | 10 | 1915. |
+| 4 | 573 | 2104 | 3782 | 2134 | 797017 | Dair, John  | Tillsonburg, Ont 'Canada.. |  | Port Rowan  | Dec. | 16, | , 1915. |
+| 5 | 595 | 388 | 3787 | 428 | 796507 | Private  - | Davis, Alfred  | 39th Regt. | Davis, Mrs. Carrie  | Simcoe, Ont  | England... | Simcoe.... | Nov. | 19, 1915. |
+| 5 | 594 | 417 | 3788 | 456 | 796576 | Private  | Davis, Daniel Herbert.... | 39th Regt. | Davis, Mrs. Josie  | Simcoe, Ont   | Canada  | Simcoe  | Jan. | 5, 1916. |
+| 5 | 595 | 447 | 3787 | 486 | 79659! | Private  | Davis, Harvey Henry  | 39th Regt. | Davis, William Henry  | R.R. No. 1, Simcoe, Ont   | Canada  | Simcoe  | Jan. | 21, 1916. |
+| 5 | 595 | 476 | 3787 | 515 | 797016 | Private  | Daw, Alfred  | Nil  | Daw, Henry  | Inkerman, Ont   | England... | Simcoc  | Dec. | 15, 1915. |
+| 5 | 594 | 505 | 3786 | 545 | 797156 | Private  | Day, Stanley  | 39th Regt. | Day, Mrs. Mary  | Clear Creek, Ont  | Canada  | Simcoe  | Mar. | 13, 1916. |
+| 5 | 594 | 534 | 3787 | 573 | 79616c | Private  | Deans, James  | 39th Regt. | Deans, Mrs. Mary  | Simcoe, Ont   | Scotland.. | Simcoe  | Mar. | 15, 1916. |
+| 5 | 594 | 563 | 3787 | 603 | 797588 | Private  | Debbage, William George. | 39th Regt. | Roats, Mrs. Sarah  | 43 Palace Rd., Bromley, Kent, Eng   | England... | Simcoe  | Feb. | 8, 1916. |
+| 5 | 594 | 592 | 3786 | 631 | 796653 | Private  | DeCou, Oliver Arthur  | 39th Regt. | DeCou, Alec  | Simcoe, Ont  | Canada  | Simcoe  | Feb. | 14, 1916. |
+| 5 | 594 | 622 | 3786 | 661 | 79S596 | Private  | Dell, Arthur Roy  | 39th Regt. | Dell, Aipheus James  | Port Dover, Ont   | Canada  | Simcoe  | Jan. | 18, 1916. |
+| 5 | 593 | 651 | 3786 | 690 | 79722J | Private  | Denny, William  | 39th Regt. | Denny, Robert  | Langton, Ont  | Canada  | Simcoe  | June | 19, 1916. |
+| 5 | 593 | 680 | 3786 | 719 | 796552 | Private  | Deslands, Joshua  | 39th Regt. | Deslands, Marjorie and Herbert., | Robor’s Rd., Guernsey, Chan. Ils  | Channel Islands | Simcoe.... | Dec. | 10, 1915. |
+| 5 | 593 | 709 | 3785 | 751 | 797594 | Corporal  | Devitt, Roscoe  | 39th Regt. | Devitt, Mrs. Ethel Lillian  | Delhi, Ont  | U.S.A  | Simcoe  | Feb. | 12, 1916. |
+| 5 | 593 | 738 | 3786 | 778 | 797083 | Private  | Dick, Milton Wilfred  | 39th Regt. | Dick, Robert W  | R.R. No. 1, Tillsonburg, Ont  | Canada  | Simcoe  | Jan. | 21, 1916. |
+| 5 | 593 | 767 | 3786 | 807 | 797677 | Private  | Dick, William Henry  | Nil  | Dick, Mrs. Myrtle  | Delhi, Ont  | Canada  | Simcoe  | June | j5, 1916. |
+| 5 | 593 | 796 | 3786 | 837 | 797596 | Private  | Dickey, William  | 39th Regt. | Dickey, Mrs. F. G  | Delhi, Ont  | Canada  | Simcoe.... | Feb. | 13, 1916. |
+| 5 | 593 | 826 | 3786 | 864 | 796622 | Private  | Dickinson, Thomas  | 39th Regt. | Dickinson, Bert  | Port Rowan, Ont  | Canada  | Simcoe  | Feb. | 2, 1916. |
+| 5 | 593 | 854 | 3786 | 895 | 797591 | Private  | Dickson, Alexander  | Nil  | Dickson, David  | 26 Dundurn St., Hamilton, Ont  | Scotland... | Waterford. | Feb. | 7, 1916. |
+| 5 | 593 | 883 | 3786 | 923 | 797559 | Private  | Dickson, David  | 39th Regt. | Dickson, David  | Hamilton, Ont  | Scotland... | Simcoe.... | Jan. | 17, 1916. |
+| 5 | 592 | 913 | 3787 | 952 | 796146 | Private  | Dickson, John  | 39th Regt. | Howard, Mrs. Jessie  | 130 Grove St., Simcoe, Ont  | Scotland... | Simcoe  | Feb. | 21, 1916. |
+| 5 | 593 | 941 | 3786 | 981 | 797667 | Private  | Dickson, Patrick  | Nil  | Smith, Mrs. J  | Delhi, Ont    | Ireland  | Simcoe  | May | 1, 1916. |
+| 5 | 593 | 970 | 3786 | 1010 | 796591 | Private  | Diggins, Malcolm James... | 39th Regt. | Diggins, Edith Florence  | Simcoe, Ont    | England  | Simcoe.... | Jan. | 17, 1916. |
+| 5 | 592 | 999 | 3786 | 1039 | 796009 | Private  | Diver, Harold Frederick.. | 39th Regt. | Diver, Mrs. Caroline  | Simcoe, Ont  | England  | Simcoe  | Nov. | 19, 1915. |
+| 5 | 592 | 1028 | 3786 | 1067 | 796662 | Private  | Dixon, Lome  | 39th Regt. | Dixon, William  | Simcoe, Ont  | Canada  | Simcoe  | Feb. | 20, 1916. |
+| 5 | 592 | 1057 | 3786 | 1097 | 796023 | Private  | Docherty, Samuel.   | 39th Regt. | Docherty, Mrs. Jane  | R.R. No. 2, Simcoe, Ont  | Canada  | Simcoe  | Nov. | 19, 1915. |
+| 5 | 592 | 1085 | 3787 | 1126 | 796170 | Private  | Donly, James Frederick... | 39th Regt. | Donly, Hal. B  | Simcoe, Ont  | Canada  | Simcoe.... | Mar. | 27, 1916. |
+| 5 | 593 | 1115 | 3787 | 1154 | 7965-10 | Private  | Dorey, Henry William  | Nil  | Dorey, Allan  | Simcoe, Ont  | England  | Simcoe.... | Dec. | 10, 1915. |
+| 5 | 593 | 1143 | 3787 | 1183 | 796590 | Private  | Dougherty, Frank  | 39th Regt. | Dougherty, Jane  | Simcoc, Ont    | Canada  | Simcoe.... | Jan. | 11, 1916. |
+| 5 | 593 | 1172 | 3787 | 1212 | 796649 | Private  | Down, Frank  | 39th Regt. | Down, Mrs. Hester Irene  | Simcoe, Ont  | Canada  | Simcoe.... | Feb. | 12, 1916. |
+| 5 | 592 | 1201 | 3787 | 1241 | 796054 | Private  | Dumper, Ernest George... | 39th Regt. | Dumper, Mrs. Eliza  | North Stoneham Farm, Hants, Eng  | England  | Simcoe.... | Dec. | 24, 1915. |
+| 5 | 592 | 1230 | 3787 | 1269 | 797056 | Private  | Duncan, William  | 39th Regt. | Duncan, Mrs. Sarah Jane  | Corinth, Ont  | Canada  | Simcoe.... | Jan. | 11, 1916. |
+| 5 | 592 | 1259 | 3786 | 1298 | 797641 | Private  | Dunke, William Floyd  | 2nd Regt.. | Dunke, A. K  | 23 Mount view Ave., Toronto, Ont  | Canada  | Simcoe  | Mar. | 28, 1916. |
+| 5 | 592 | 1288 | 3786 | 1327 | 797648 | Private  | Earl, Earnest Russel  | 39th Regt. | Earl, Mrs. Bessie  | Blayney, Ont  | Canada  | Simcoe.... | Mar. | 17, 1916. |
+| 5 | 592 | 1317 | 3786 | 1356 | 797524 | Private  | Earl, George Riley  | 39th Regt. | Earl, James  | Atherton, Ont  | Canada  | Simcoe.... | Dec. | 15, 1915. |
+| 5 | 591 | 1347 | 3786 | 1385 | 796675 | Private  | Earl, William Henry  | 39th Regt. | Earl, Mrs. Lula  | St. Williams, Ont  | Canada  | Simcoe.... | Feb. | 26, 1916. |
+| 5 | 591 | 1375 | 3785 | 1414 | 797600 | Private  | Ebert, Chris  | 39th Regt. | Ebert, Fred  | Delhi, Ont  | Canada  | Simcoe.... | Feb. | 16, 1916. |
+| 5 | 590 | 1404 | 3784 | 1443 | 796538 | Private  | Ellis, Richard  | Nil  | Ellis, Mrs. Mary Elizabeth  | Simcoe, Ont  | England  | Simcoe.... | Dec. | 30, i915. |
+| 5 | 592 | 1433 | 3785 | 1472 | 797165 | Private  | Elms, John Edward G  | 39th Regt. | Elms, John  | Chippenham, Wilts, Eng  | England.... | Simcoe.... | Feb. | 21, 1916. |
+| 5 | 590 | 1463 | 3784 | 1501 | 797027 | Private  | Emsley, Frederick Victor.. | 39th Regt.. | Emsley, Mrs. Edith  | Port Rowan, Ont  | Canada  | Simcoe  | Dec. | 10, 1915. |
+| 5 | 590 | 1491 | 3784 | 1531 | 796042 | Private  | England, James.    | 39th Regt.. | England, George  | Beeford, Yorks, Eng  | England.... | Simcoe.... | Dec. | 10, 1915. |
+| 5 | 590 | 1520 | 3786 | 1559 | 796001 | Private  | Erskine, James Gibb  | 39th Regt.. | Erskine, James Gibb  | 46 Albert St., Shieldfield, Newcastle-on-Tyne, Eng.. | Scotland... | Simcoe.... | Nov. | 19, 1915. |
+| 5 | 590 | 1549 | 3787 | 1591 | 797556 | Sergeant  | Evans, William Acey  | 39th Regt. . | Evans-, Morris  | Waterford, Ont  | Canada  | Simcoc.... | Jan. | 13, 1916. |
+| 5 | 589 | 1578 | 3784 | 1617 | 797531 | Private  | Fairman, Harry  | 39th Regt.. | Fairman, Frederick  | I Ashley Rd., Watford, Eng  | England.... | Simcoe.... | Dec. | 13, 1915. |
+| 5 | 589 | 1607 | 3785 | 1646 | 796505 | Private  | Fare, John William  | 39th Regt.. | Fare, Mrs. Olive  | Walsingham, Ont  | England.... | Simcoe  | Nov. | 19, 1915. |
+| 5 | 588 | 1636 | 3785 | 1675 | 797051 | Private  | Farr, John Thomas  | 39th Regt. . | Farr, Albert  | Walsingham, Ont  | Canada  | Langton... | Jan. | 10, 1916. |
+| 5 | 588 | 1665 | 3785 | 1705 | 796026 | Private  | Feere, Roy Curtis  | 39th Regt.. | Feere, James Edward  | Port Rowan, Ont  | Canada  | Simcoe.... | Nov. | 20, 1915. |
+| 5 | 588 | 1694 | 3785 | 1736 | 796065 | Sergeant  | Fick, Douglas Raymond — | 39th Regt.. | Fick, Mrs. L. W  | Simcoe, Ont  | Canada  | Simcoe.... | Dec. | 6, 1915. |
+| 5 | 587 | 1723 | 3784 | 1763 | 797187 | Private  | Fick, Emery  | 39th Regt.. | Fick, Mrs. Nellie  | Fair Ground, Ont  | Canada  | Simcoe.... | April | 25, 1916. |
+| 5 | 587 | 1751 | 3786 | 1791 | 797155 | Private  | Fish, Charles Lee  | 39th Regt.. | Fish, Mrs. Mildred  | Clear Creek, Ont  | Canada  | Simcoe.... | Mar. | 13, 1916. |
+| 5 | 588 | 1780 | 3786 | 1821 | 796007 | Private  | Fleg, Laurens Martinus  | 39th Regt.. | Fleg, Mrs. Winnifred Helen  | Simcoe, Ont  | Holland.... | Simcoe  | Nov. | 19, 1915. |
+| 5 | 587 | 1809 | 3786 | 1852 | 796055 | Co. Sergt.-Major.. | Foot, John Leslie  | 39th Regt.. | Foot, Mrs. Jean  | Simcoe, Ont  | England.... | Simcoe  | Dec. | 21, 1915. |
+| 5 | 587 | 1838 | 3786 | 1880 | 796008 | Sergeant  | Forse, George Arthur  | 39th Regt.. | Forse, Nelson  | R.R. No. 3, Waterford, Ont  | Canada  | Simcoe.... | Nov. | 19, 1915. |
+| 5 | 586 | 1867 | 3786 | 1909 | 798002 | Sergeant  | Forster, Chester James  | 39th Regt.. | Forster, Mrs. Elizabeth M  | Simcoe, Ont  | Canada  | Simcoe  | Nov. | 19, 1915. |
+| 5 | 587 | 1895 | 3785 | 1936 | 797162 | Private  | Franklin, Walter John  | 39th Regt. . | Franklin, F. B  | Clear Creek, Ont #  | Canada  | Simcoe.... | Mar. | 18, 1916. |
+| 5 | 586 | 1927 | 3088 | 1965 | 796022 | Private  | French, Walter Frederick... | 39th Regt.. | French, John  | II Victoria Cottages, Wickham Lane, Welling, Kent, |
+| 5 | 2320 | 1953 | 3786 | 1995 |  |  |  |  |  | # Eng  | England. | Simcoc Nov. 19, 1915. |
+| 5 | 586 | 1982 | 3786 | 2022 | 796537 | Private  | Garland, Lome  | Nil  | Garland, John  | Simcoe, Ont  | Canada.. | Simcoe Dec. 24, 1915. |
+| 5 | 586 | 2011 | 3785 | 2052 | 796028 | Private  | Gautby, Cyril  | 39th Regt. | Gautby, W. B  | Simcoe, Ont    | England. | Simcoe Dec. 7, 1915. |
+| 5 | 585 | 2039 | 3785 | 2083 | 796043 | Corporal  | Gautby, Leonard... | 39th Regt. | Gautbv, W. B  | Simcoe, Ont-  | England. | Simcoe Dec. 11, 1915. |
+| 5 | 585 | 2069 | 3784 | 2109 | 796031 | Private  | Gell, Norman Cecil. | 39th Regt. | Gell, J. R  | Simcoe, Ont  | England. | Simcoe Dec. 2, 1915. |
+| 5 | 584 | 2097 | 3788 | 2139 | 796664 | Private  | George, Edward  | 39th Regt. | George, Mrs. Emma | Port Dover, Ont  | England. | Simcoe iFeb. 21,1916. |
+| 6 | 559 | 580 | 3252 | 617 | .Sfc |  |  | Former Corps. |  |  | Country of |
+| 6 | 559 | 731 | 3750 | 763 | 796620 | Private  | George, Samuel  | 39th Regt | George, Mrs. Emma  | Port Dover, Ont  | England.. | Simcoc.. | Feb. | 1916. |
+| 6 | 559 | 761 | 3749 | 792 | 796619 | Private  | George, William Fred  | 39th Regt | George, Mrs. Emma  | Port Dover, Ont  | England.. | Simcoc.. | Feb. | 1916. |
+| 6 | 560 | 790 | 3750 | 821 | 796615 | Private  | George, William Fred  | 39th Regt | George, William Fred  | Port Dover, Ont  | England.. | Simcoe.. | Jan. | 1916. |
+| 6 | 559 | 819 | 3749 | 850 | 797583 | Private  | Gibson, Henry Charles... | 39th Regt | Gibson, Mary Ann  | 24 Birchall St., East India Rd., Poplar, London, Eng | England.. | Delhi.. . | Feb. | 1916. |
+| 6 | 559 | 848 | 3749 | 879 | 796177 | Private  | Gibson, John  | 39th Regt | Gibson, Mrs. Margaret Rugg. | Simcoe, Ont  | Scotland. | Simcoc.. | Mar. | 1916. |
+| 6 | 559 | 877 | 3750 | 907 | 796688 | Private  | Gifford, Cecil Earl  | 39th Regt | Gifford, Mrs. Sarah  | Simcoe, Ont  | Canada... | Simcoe.. | Mar. | 1916. |
+| 6 | 559 | 906 | 3749 | 937 | 797225 | Private  | Gill, Arthur  | 39th Regt | Gill, Moses  | Strathroy, Ont  | Canada... | Simcoe.. | May | 1916. |
+| 6 | 558 | 931 | 3750 | 966 | 797098 | Private  | Gillis, Roy  | 39th Regt | Gillis, Mrs. Myrtle Edna.... | Courtland, Ont  | Canada... | Simcoe.. | Feb. | 1916. |
+| 6 | 558 | 965 | 3750 | 994 | 797578 | Private  | Gingcll, Thomas Edward. | 39th Regt | Gingcll, Edward  | Delhi, Ont  | Canada... | Simcoe.. | Feb. | 1916. |
+| 6 | 558 | 994 | 3750 | 1022 | 798003 | Q.-M. Sergt  | Glenn, William Thomas.. | Nil  | Glenn, Mrs. H. I  | Simcoe, Ont  | Canada... | Simcoe.. | Dec. | 1915. |
+| 6 | 557 | 1022 | 3751 | 1053 | 796728 | Private  | Godfrey, George Aubrey.. | 39th Regt | Godfrey, Mrs. Emily  | Ellaton, Ont  | England.. | Simcoe.. | Feb. | 1916. |
+| 6 | 558 | 1048 | 3751 | 1081 | 797073 | Corporal  | Goffin, Eric Romrin  | 39th Regt | Goffin, Charles Alfred  | 4 Emficld Mansions, Balham, London, S.W., Eng  | Canada... | Simcoe., | Jan. | 1916. |
+| 6 | 557 | 1080 | 3751 | 1110 | 797632 | Private  | Golding, William  | 39th Regt | Golding, Mrs. Louisa  | Lynedock, Ont  | England.. | Simcoe.. | Feb. | 1916. |
+| 6 | 556 | 1105 | 3751 | 1139 | 796024 | Corporal  | Good, Charles Frederick. | 39th Regt | Good, Wallace Charles  | Charing, Kent, Eng  | England.. | Simcoe., | Nov. | 1915. |
+| 6 | 556 | 1138 | 3751 | 1168 | 796711 | Private  | Goodlett, Alex. Gordon... | 39th Regt | Goodlett, James  | R.R. No. 1, Nixon, Ont  | Canada. . | Simcoe., | Mar. | 1916. |
+| 6 | 557 | 1168 | 3751 | 1196 | 796607 | Corporal  | Goodlet, David Wyatt... | 39th Regt | Goodlet, James  | Nixon, Ont  | Canada... | Simcoe.. | Jan. | 1916. |
+| 6 | 557 | 1196 | 3751 | 1226 | 796710 | Private  | Goodlet, Joseph Lome  | 39th Regt | Goodlet, James  | R.R. No. 1, Nixon, Ont  | Canada... | Simcoe., | Mar. | 1916. |
+| 6 | 556 | 1225 | 3750 | 1254 | 796087 | Sergeant  | Goulden, Jack Martin  | 39th Regt | Goulden, William  | 19 Grange Rd., Egham, Surrey,Eng  | England.. | Simcoe.. | Dec. | 1915. |
+| 6 | 556 | 1254 | 3750 | 1284 | 796052 | Private  | Graham, Francis William. | 39th Regt | Graham, Mrs. H. C  | Simcoe, Ont  | Canada... | Simcoe.. | Dec. | 1915. |
+| 6 | 557 | 1283 | 3027 | 1313 | 797173 | Private  | Green, Harold  | 39th Regt | York, Mrs. A  | 2 Sherwood Terr., School Rd., Irchester Northants , |
+| 6 | 2319 | 1313 | 3750 | 1341 |  |  |  |  |  | Eng  | England.. | Simcoe.. | Mar. | 1916. |
+| 6 | 556 | 1341 | 3750 | 1371 | 797063 | Private  | Green, William  | 39th Regt | Stage, Mrs. Samuel  | R.R. No. 1, Courtland. Ont  | England.. | Simcoe.. | Jan. | 1916. |
+| 6 | 555 | 1365 | 3750 | 1399 | 796603 | Private  | Greenland, Leslie John E  | 39th Regt | Lucas, Mrs  | 21 Lowth Rd., Camberwell, London, S.E., Eng  | England.. | Simcoe.. | Jan. | 1916. |
+| 6 | 557 | 1400 | 3751 | 1428 | 796586 | Private  | Greenland, Victor Ernest M... | 39th Regt | Greenland, Mrs. Rosa  | London, Eng  | England.. | Simcoe.. | Jan. | 1916. |
+| 6 | 556 | 1424 | 3750 | 1457 | 797601 | Private  | Griffin, Alien  | 39th Regt | Griffin, Mrs. J  | Delhi, Ont  | Canada... | Simcoe. | Feb. | 1916. |
+| 6 | 556 | 1452 | 3751 | 1486 | 797658 | Private  | Groat, Francis Burwall  | 37 th Regt | Dortress, Mrs. Evelyn  | Waterford, Ont  | Canada... | Simcoe. | April | 1916. |
+| 6 | 556 | 1486 | 3751 | 1515 | 797202 | Private  | Hagan, Mervin Thomas  | 39th Regt | Hagan, James T  | Langton, Ont  | Canada... | Simcoe. | May | 1916. |
+| 6 | 556 | 1515 | 3752 | 1544 | 796120 | Private  | Hagyard, Robert A1  | 39th Regt | Hagyard, Mrs. Robert  | P.O. Box 38, Simcoe, Ont  | Canada... | Simcoe. | Feb. | 1916. |
+| 6 | 555 | 1544 | 3749 | 1573 | 796016 | Private  | Hall, Alexander Marshalsey... | 39th Regt | Hall, Mrs. Robina  | Simcoe, Ont  | Scotland. | Simcoe. | Nov. | 1915. |
+| 6 | 556 | 1573 | 3752 | 1602 | 796206 | Private  | Hall, Angus Marshall  | 39th Regt | Hall, Mrs. R  | Simcoe, Ont  | Scotland. | Simcoe. | Mar. | 1916. |
+| 6 | 555 | 1602 | 3752 | 1631 | 796034 | Private  | Hall, Edward Benford  | 39th Regt | Hall, Miss  | 39 Highbury Hill, London, Eng  | England.. | Simcoe. | Dec. | 1915. |
+| 6 | 555 | 1631 | 3751 | 1660 | 796173 | Sergeant  | Hamilton, Robert Murray  | 39th Regt | Hamilton, Mrs. Olive Norma... | Simcoe, Ont  | Canada.. | Simcoe. | Mar. | 1916. |
+| 6 | 555 | 1660 | 3751 | 1689 | 796045 | Private  | Hammond, Stanley  | 39th Regt. | Hammond, Harry  | Simcoe, Ont  | Canada.. | Simcoe. | Dec. | 1915. |
+| 6 | 555 | 1685 | 3750 | 1719 | 797102 | Private  | Hampton, James Ashley  | 39th Regt, | Hampton, Charles  | Courtland, Ont  | Canada.. | Simcoe. | Feb. | 1916. |
+| 6 | 555 | 1717 | 3750 | 1747 | 796185 | Private  | Hansel, Lome  | 39th Regt. | Hansel, George  | Otterville, Ont  | Canada... | Simcoe. | Feb. | 1916. |
+| 6 | 555 | 1747 | 3750 | 1776 | 796551 | Private  | Hargreaves, Thomas Charles. | 39th Regt | Hargreaves, T. C  | 20 Seaton St., Toronto, Ont  | Canada.., | Simcoe. | Dec. | 1915. |
+| 6 | 555 | 1775 | 3750 | 1806 | 796202 | Private  | Harris, Alfred Henry  | 10th Regt | Harris, Christina and Margaret. | Aslyn, Southview Rd., Southwick, Sussex, Eng  | England.. | Simcoe. | May | 1916. |
+| 6 | 555 | 1804 | 3750 | 1834 | 797105 | Private  | Harrison, Lome S  | 39th Regt. | Harrison, William H  | St. Williams, Ont  | Canada... | Simcoe. | Jan. | 1916. |
+| 6 | 555 | 1833 | 3750 | 1863 | 796020 | Private  | Harvey, William Alfred  | 39th Regt | Harvey, Mrs. Alice  | Simcoe, Ont  | England.. | Simcoe. | Nov. | 1915. |
+| 6 | 555 | 1862 | 3751 | 1892 | 796680 | Private  | Hasely, Allan  | 39th Regt, | Hasely, Mrs. John  | Simcoe, Ont  | Canada... | Simcoc. | Feb. | 1916. |
+| 6 | 555 | 1891 | 3751 | 1922 | 796118 | Private  | Haskett, Clarence Stanley  | 39th Regt | Haskett, Robert  | Simcoe, Ont  | Canada... | Simcoe. | Jan. | 1916. |
+| 6 | 554 | 1920 | 3751 | 1950 | 706510 | Private  | Haskett, Roy James  | 39th Regt | Haskett, Robert  | Simcoe, Ont  | Canada... | Simcoc.. | Nov. | 1915. |
+| 6 | 555 | 1949 | 3752 | 1980 | 796584 | Corporal  | Hasley, William Clarence  | 39th Regt | Hasley, Mrs. Nellie  | Simcoe, Ont  | Canada... | Simcoe. | Jan. | 1916. |
+| 6 | 555 | 1978 | 3752 | 2008 | 797611 | Private  | Hatton, Thomas  | 39th Regt | Franklin, Norman    | R.R. No. 1, Simcoe, Ont  | England.. | Simcoe. | Feb. | 1916. |
+| 6 | 554 | 2007 | 3752 | 2038 | 796738 | Corporal  | Hawkins, James  | 39th Regt | Hawkins, Mrs. May Louisa M .. | Simcoe, Ont  | England.. | Simcoe. | Mar. | 1916. |
+| 6 | 554 | 2035 | 3752 | 2067 | 796693 | Private  | Hawley, Lennie  | 39th Regt | Hawley, James  | Langton, Ont   | Canada... | Simcoe. | Mar. | 1916. |
+| 6 | 554 | 2059 | 3752 | 2096 | 796021 | Private  | Heath, Charles  | 39th Regt | Heath, Mrs. Elizabeth Ellen.... | Simcoe, Ont  | Canada... | Simcoe. | Nov. | 1915. |
+| 6 | 554 | 2093 | 3752 | 2125 | 797205 | Private  | Helmer, Lome Larenzo E  | 39th Regt | Helmer, Mrs. Mary Ann  | Ambrose, Ont  | Canada.. | Simcoe. | May | 1916. |
+| 6 | 554 | 2123 | 3753 | 2155 | 796102 | Sergeant  | Hewgill, Frank Wilfred  | 39th Regt | Hewgill, Frank  | Weston, Ont  | Canada.. | Simcoe. | Jan. | 1916. |
+| 7 | 634 | 390 | 3820 | 419 | 797164 | Private  | Hibberd, George FranciB. | Hibberd, Silas  | Port Burwell, Ont  | Canada.. | Port Rowan.... | Feb. | 1916. |
+| 7 | 634 | 419 | 3820 | 448 | 796057 | Private  | Hickman, George Edward | Hickman, George E  | Simcoc, Ont  | Canada.. | Simcoe  | Dec. | 1915. |
+| 7 | 634 | 449 | 3820 | 477 | 796536 | Private  | Hickman, Roy Oakley | Davis, Mrs. F. H  | Vittoria, Ont  | U.S.A... | Port Dover  | Dec. | 1915. |
+| 7 | 633 | 478 | 3819 | 507 | 706125 | Private  | Hickman, William | Hickman, Annie  | Simcoe, Ont  | England. | Simcoe  | Dec. | 1915. |
+| 7 | 633 | 507 | 3820 | 536 | 796678 | Private  | Hill, Clarence Wilson | Hill, Mrs. James Edward  | 194 Head St., Simcoe, Ont  | Canada.. | Simcoe  | Feb. | 1916. |
+| 7 | 633 | 536 | 3819 | 565 | 797515 | Private  | Hill, Frank W | Hill, Mrs. Ester Emilia  | R.R. No. 3, Vanessa, Ont  | Canada.. | Windham  | Dec. | 1915. |
+| 7 | 633 | 565 | 3820 | 595 | 796656 | Private  | Hill, James Edward | Hill, Mrs. Mary  | Simcoe, Ont  | Canada.. | Simcoe | Feb. | 1016. |
+| 7 | 632 | 595 | 3820 | 624 | 796520 | Private  | Hill, James Wilfred | Hill, Edward  | Simcoe, Ont  | Canada.. | Simcoe  | Nov. | 1915. |
+| 7 | 632 | 624 | 3819 | 653 | 797119 | Sergeant  | Hill, William Gordon | Hill, Mrs. Maggie  | 55 Oak St., Toronto, Ont  | Canada.. | Simcoe  | Feb. | 1916. |
+| 7 | 632 | 653 | 3819 | 682 | 796104 | Private  | Hitchcock, Alfred Thomas | Hitchcock, Alfred Henry.... | P.O. Box 201, Simcoe, Ont  | England. | Simcoe  | Jan. | 1916. |
+| 7 | 632 | 682 | 3819 | 711 | 796121 | Private ;.. | Hitchcock, Melvin Edward | Hitchcock, John  | Simcoe, Ont  | Canada.. | Simcoe  | Jan. | 1016. |
+| 7 | 632 | 707 | 3819 | 741 | 796594 | Private  | Hocking, Charles Wellington | Sharp, Mrs. James  | Simcoe, Ont  | Canada.. | Simcoe  | Jan. | 1916. |
+| 7 | 631 | 741 | 3820 | 771 | 796744 | Private  | Hocking, John Henry | Sharp, Mrs. James  | Simcoe, Ont  | Canada.. | Simcoe  | May | 1916. |
+| 7 | 631 | 770 | 3820 | 800 | 796169 | Private  | Hodgson, Joseph Ashley H | Hodgson, Joseph Murray  | Simcoe, Ont  | England. | Simcoe  | Mar. | 1916. |
+| 7 | 631 | 799 | 3820 | 828 | 796152 | Private  | Hoisington, James Warren | Hoisington, Mrs. Roy  | Simcoe, Ont  | Canada.. | Simcoe  | Mar. | 1916. |
+| 7 | 631 | 828 | 3820 | 858 | 796033 | Private  | Hoisington, Roy | Hoisington, Mrs. Lucy  | Simcoe, Ont  | Canada.. | Simcoe  | Nov. | 1915. |
+| 7 | 631 | 857 | 3819 | 886 | 796117 | Private  | Holden, James | Holden, Mrs. Florence  | Simcoc, Ont  | England. | Simcoe  | Jan. | 1916. |
+| 7 | 630 | 886 | 3819 | 915 | 796099 | Private  | Holden, James William | Holden, James  | Simcoe, Ont  | England. | Simcoe  | Jan. | 1916. |
+| 7 | 631 | 915 | 3819 | 944 | 796563 | Private  | Hollman, Alfred John | Hollman, Mrs. Janet  | Simcoe, Ont  | England. | Simcoe  | Jan. | 1916. |
+| 7 | 631 | 945 | 3819 | 973 | 797587 | Private  | Holmes, Clarence Wilbert | Holmes, William  | Windham Centre, Ont  | U.S.A. | Waterford  | Feb. | 1916. |
+| 7 | 631 | 974 | 3819 | 1003 | 796647 | Private  | Holmyard, Edward Wallace | Holmyard, Mrs. Cecelia  | 78 St. Marys Rd., Ilford, Essex, Eng.... | England. | Simcoe  | Feb. | 1916. |
+| 7 | 631 | 1003 | 3820 | 1032 | 797652 | Private  | Howey, Lloyd Leonard | Not stated  | Not stated  | Canada.. | Simcoe  | April | 1916. |
+| 7 | 630 | 1031 | 3819 | 1061 | 706652 | Private  | Huke, John William | Huke, Mrs. Mary Ann  | St. Andrews St., Port Dover, Ont  | England. | Simcoe  | Feb. | 1916. |
+| 7 | 630 | 1060 | 3820 | 1091 | 798017 | Private  | Hunt, Frank William | Hunt, Mrs. Sarah Elizabeth. | Simcoe, Ont  | England. | Simcoe  | May | 1016. |
+| 7 | 630 | 1084 | 3820 | 1119 | 797142 | Private  | Hunting, Noel Edwin | Hunting, Ella  | Denver Mines, Transvaal, S. Africa  | England. | Simcoe  | Mar. | 1016. |
+| 7 | 630 | 1118 | 3820 | 1147 | 796534 | Private  | Husted, Lome Edmund | Husted, William  | Port Dover, Ont  | Canada.. | Simcoc  | Jan. | 1916. |
+| 7 | 630 | 1146 | 3820 | 1177 | 797143 | Private  | Hutchinson, Lloyd Stewart | Hutchinson, George  | R.R. No. 2, Port Rowan, Ont  | Canada.. | Port Rowan... | Feb. | 1916. |
+| 7 | 630 | 1175 | 3820 | 1206 | 706C64 | Private  | Hynds, William Charles | Telford, Richard  | King's Co., Ire  | Ireland.. | Simcoe  | Dec. | 1915. |
+| 7 | 630 | 1204 | 3821 | 1234 | 796700 | Private  | Iliffe, Walter | Iliffe, Mrs. Alice  | R.R. No. 5, Simcoe, Ont  | England. | Simcoe  | Mar. | 1916. |
+| 7 | 631 | 1232 | 3820 | 1263 | 796621 | Private  | Jlton, George Henry | Ilton, Mrs. Minnie  | Walsh, Ont  | Canada.. | Simcoe  | Feb. | 1916. |
+| 7 | 630 | 1265 | 3820 | 1293 | 797620 | Private  | Immel, Arthur | Immel, Jacob  | Delhi, Ont  | Canada.. | Simcoe  | Mar. | 1916. |
+| 7 | 630 | 1294 | 3820 | 1322 | 797585 | Private  | Immel, Bruce | Immel, Jacob   | Delhi, Ont  | Canada.. | Simcoe  | Feb. | 191G. |
+| 7 | 630 | 1322 | 3820 | 1353 | 797671 | Private  | Inglia, James | Inglis, Mrs. Isabella  | S8 Simcoe St., Hamiton, Ont  | Canada.. | Simcoe  | May | 1916. |
+| 7 | 630 | 1352 | 3820 | 1382 | 796727 | Private  | Irish, Walter Francis | Irish, Mrs. Mary Eliza  | Tyrrell, Ont  | England. | Simcoe  | April | 1916. |
+| 7 | 629 | 1380 | 3820 | 1410 | 796595 | Private  | Irving, Roy Elwood | Irving, Martha Jane  | 23 Grove Ave., Hamilton, Ont  | Canada.. | Simcoe  | Jan. | 1016. |
+| 7 | 629 | 1409 | 3819 | 1439 | 796079 | Sergeant  | Jackson, Bruce Thomley | Jackson, E. H  | Simcoe, Ont  | Canada.. | Simcoe  | Jan. | 1916. |
+| 7 | 629 | 1438 | 3820 | 1469 | 706080 | Corporal  | Jackson, Ernest Gordon | Jackson, E. H  | Simcoc, Ont  | Canada . | Simcoe  | Jan. | 1916. |
+| 7 | 628 | 1461 | 3820 | 1497 | 796703 | Private  | James, Cornelius | James, Mrs. Elizabeth  | 101 King St., Simcoc, Ont  | England. | Simcoe  | Mar. | 1916. |
+| 7 | 630 | 1496 | 3819 | 1527 | 796706 | Private  | Jaques, Samuel Christopher | Jaques, Mrs. Gertrude  | P.O. Box 125, Port Dover, Ont  | Canada.. | Simcoe  | Mar. | 1916. |
+| 7 | 629 | 1525 | 3820 | 1555 | 797086 | Private  | Jennev, William  | Jenney, Mrs. William  | Walsingham, Ont  | Canada.. | Port Rowan... | Jan. | 1916. |
+| 7 | 630 | 1554 | 3820 | 1584 | 706533 | Private  | Johnson, Alfred Horace | Johnson, Mrs. Ada  | 11 Sandown Rd., Brighton, Sussex, Eng. | England. | Simcoe  | Dec. | 1915. |
+| 7 | 630 | 1583 | 3819 | 1613 | 797194 | Private  | Johnson, Charles Edward | Johnson, Mrs. Clara  | R.R. No. 1, St. Williams, Ont  | Canada.. | Simcoe  | May | 1916. |
+| 7 | 630 | 1606 | 3820 | 1643 | 796122 | Sergeant  | Johnson, Henry | Johnson, Mrs. Florence Ann.. | Vittoria, Ont  | England. | Simcoe  | Jan. | 1916. |
+| 7 | 630 | 1640 | 3820 | 1671 | 707614 | Private  | Johnson, James | Johnson, Mrs. Delphine  | Waterford, Ont  | Canada.. | Simcoe  | Feb. | 1916. |
+| 7 | 631 | 1669 | 3820 | 1700 | 797197 | Private  | Johnson, Walter | Johnson, James  | St. Williams, Ont  | Canada.. | Simcoe  | May | 1916. |
+| 7 | 630 | 1702 | 1357 | 1731 | 409073 | Co. Sergt.-Major. | Johnston, Herbert James |
+| 7 | 631 | 1727 | 3820 | 1758 | 706617 | Private  | Johnstone, Winsor | Johnstone, David  | Vittoria, Ont  | Canada.. | Simcoc  | Feb. | 1916. |
+| 7 | 631 | 1756 | 3820 | 1788 | 797192 | Private  | Jones, Charles | Jones, Frank W  | R.R. No. 2, Simcoc, Ont  | Canada.. | Simcoe  | April | 1916. |
+| 7 | 632 | 1785 | 3820 | 1817 | 797084 | Private  | Jones, Whitney Harry | Jones, Sidney  | Walsh, Ont   | Canada.. | Simcoc  | Jan. | 19i6. |
+| 7 | 631 | 1814 | 3820 | 1847 | 798010 | Sergeant  | Jordan, William John | Jordan, Mrs. K. Katherine. | Simcoe, Ont  | Canada.. | Simcoc  | Feb. | 1916. |
+| 7 | 632 | 1842 | 3820 | 1875 | 796168 | Private  | Joslin, Thomas George | Joslin, Mrs. Eliza Florence., | Simcoe, Ont  | Englnnd. | Simcoe  | Feb. | 1916. |
+| 7 | 632 | 1871 | 3820 | 1904 | 796579 | Private  | Judd, Charles James | Judd, Mrs. Martha  | Simcoc, Ont  | England. | Simcoe  | Jan. | 1916. |
+| 7 | 634 | 1900 | 3820 | 1933 | 796725 | Private   | Judd, Fred | Judd, William  | Amport, Andover, Hants, Eng  | England. | Simcoe  | Mar. | 1916. |
+| 7 | 633 | 1929 | 3820 | 1961 | 797180 | Private  | ICellar, Arthur Gordon | Mills, Mrs. Robert  | Langton, Ont  | Canada.. | Sincoe  | April | 1916. |
+| 7 | 634 | 1957 | 3821 | 1992 | 797087 | Private  | Kelly, George Bailey | Kelly, William E  | St. Williams, Ont  | U.S.A.. | Port Rowan. | Jan. | 1916. |
+| 7 | 633 | 1984 | 3820 | 2020 | 797172 | Private  | Kelly, Norman Aldric | Kelly, Robert B  | 180 Sterling Pi., Brooklyn, N.Y., U.S.A  | Canada.. | Simcoe  | Mar. | 1016. |
+| 7 | 633 | 2016 | 3820 | 2049 | 408590 | Private  | Kenline, Levi Nelson | Billington, Mrs. Mary  | Simcoe, Ont    | Canada.. | N iagara  | June | 1015. |
+| 7 | 634 | 2045 | 3819 | 2078 | 796606 | Private  | Kennedy, Andrew | Cooper. Margaret..   | Simcoe, Ont    | Scotland | Simcoe  | Jan. | 1916. |
+| 7 | 634 | 2075 | 3819 | 2107 | 797157 | Private  | Kennett, Henry James | 'Kennett, Chns. F  | The Grange, Minster, Kent, Eng  | England. | Simcoc  | Mar. | 1916. |
+| 7 | 635 | 2104 | 3819 | 2136 | 797111 | Private  | King, Alfred Thomas | iKimr. Thomas Alfred  | Not stated  | England. | Simcoc  | Jan. | 1916. |
+| 8 | 769 | 595 | 3275 | 627 |  |  |  | Former Corps. |  |  | Country of |
+| 8 | 584 | 740 | 3773 | 774 | 796189 | Private  | King, Geoffrey Francis  | 39th Regt. | King, W. C. J  | Simcoe, Ont  | Canada.. | bimcoc  | April | 29, 1916. |
+| 8 | 584 | 769 | 3772 | 802 | 796631 | Private  | King, James  | 39th Regt. | King, George  | Bradbury Cottage, Bildeston, Suffolk, Eng  | England. | Simcoc  | Feb. | 4, 1916. |
+| 8 | 584 | 798 | 3772 | 830 | 79707S | Private  | King, Richard James  | 39th Regt. | King, Mrs. Richard  | Walsingham, Ont  | England. | Simcoe  | Jan. | 21, 1916. |
+| 8 | 584 | 827 | 3772 | 860 | 79672S | Private  | Kissh, Joseph  | 39th Regt. | Falemsbee, George F  | Port Dover, Ont    | Russia.. | Simcoe . .. | April | 15. 1916. |
+| 8 | 584 | 856 | 3772 | 889 | 79656C | Private  | Kitchen, John William  | 39th Regt. | Kitchen, Mrs. Mary  | Simcoe, Ont  | England. | Simcoc  | Nov. | 23. 1915. |
+| 8 | 585 | 885 | 3771 | 917 | 797503 | Private  | Klason, Rupert Francis H. | 39th Regt. | Klason, Terrance  | 2 Eastbrook Rd., Blackheath, Kent, Eng  | England. | Simcoe  | Nov. | 19, 1915. |
+| 8 | 586 | 914 | 3772 | 946 | 796142 | Private  | Kniffen, Charles Herbert.. | 39th Regt. | Kniffen, Mrs. Charlotte F. | 333 College Ave., Simcoe, Ont   | Canada.. | Simcoe  | Feb. | 15, 1916. |
+| 8 | 586 | 944 | 3772 | 975 | 798014 | Private  | Knight, Ernest Henry  | 39th Regt. | Knight, Mrs. Leota  | Simcoe, Ont  | England. | Simcoe  | Jan. | 31, 1916. |
+| 8 | 584 | 974 | 3772 | 1004 | 797549 | Private  | Knisely, Clifford Mott  | 39th Regt. | Knisely, Albert  | Villanova, Ont  | Canada.. | Simcoe  | Dec. | 21, 1915. |
+| 8 | 584 | 998 | 3056 | 1034 | 796128 | Private  | Knott, Arthur Frederick... | 39th Regt. | Knott, Chas  | 56 Lock Cottage, North Stoneham Farm, Eastleigh, |
+| 8 | 2343 | 1034 | 3773 | 1063 |  |  |  |  |  | Hants, Eng  | England  | Simcoe  | Jan. | 30, 1916. |
+| 8 | 582 | 1056 | 3772 | 1091 | 797094 | Private  | Knowles, Leslie Kingstone., | 39th Regt.. | Knowles, Mrs. Victoria  | Port Rowan, Ont  | Canada  | Port Rowan | Jan. | 30, 1916. |
+| 8 | 583 | 1089 | 3772 | 1121 | 796658 | Corporal  | Knowles, Morley William... | 39th Regt.. | Knowles, James  | Winnipeg, Man  | Canada  | Simcoe  | Feb. | 19, 1916. |
+| 8 | 582 | 1118 | 3772 | 1150 | 797040 | Private  | LaForge, Amy Gordon  | 39th Regt.. | LaForge, William  | Langton, Ont    | Canada  | Simcoe  | Jan. | 4, 1916. |
+| 8 | 582 | 1144 | 3772 | 1178 | 796190 | Corporal  | Lake, Archibald Richard... | 109th Regt. | Lake, Mrs. Ella Agnes  | 18 Monteith St., Toronto, Ont  | England  | Toronto  | April | 1, 1916. |
+| 8 | 583 | 1177 | 3772 | 1208 | 796046 | Private  | Lambden, Edward Arthur., | 39 th Regt.. | Lambden, Mrs. Ada  | Epsom Asylum, London, Eng  | England  | Simcoe  | Dec. | 13, 1915. |
+| 8 | 583 | 1206 | 3771 | 1237 | 797055 | Private  | Lambert, Lee Elliott  | 39 th Regt.. | Lambert, Charles Wesley  | R.R. No. 1, Courtland, Ont  | Canada  | Simcoe  | Jan. | 11, 1916. |
+| 8 | 583 | 1235 | 3772 | 1267 | 797000 | Private  | Lancaster, Louis Arthur.... | Territorials. | Lancaster, Mrs. Helena Ncssy. | 21 Woodbury Park Road, Ealing, London, N.W., Eng. | England  | St. Williams.. . | Jan. | 5, 1915. |
+| 8 | 583 | 1264 | 3771 | 1296 | 796072 | Private  | Lane, Arthur  | 39th Regt.. | Lane, William  | Coventry, Warwick, Eng  | England  | Simcoe  | Dec. | 10, 1915. |
+| 8 | 583 | 1294 | 3772 | 1323 | 796150 | Corporal  | Lane, George Ritchie  | 39th Regt.. | Lane, Mrs. Maggie  | St. Williams, Ont  | U.S.A  | Simcoe  | Mar. | 8, 1916. |
+| 8 | 582 | 1323 | 3771 | 1353 | 790555 | Private  | Larry, Alfred John L  | Nil  | Larry, Mrs. Matilda  | 02 Moorland Rd., Kingstone, Portsmouth, Eng  | England  | Vittoria  | Dec. | 22, 1915. |
+| 8 | 583 | 1352 | 3771 | 1384 | 797179 | Private  | Larsson, James August  | 39th Regt.., | Larsson, Mrs. Jane  | R.R. No. i, Clear Creek, Ont  | Denmark  | Simcoc | Feb. | 29, 1916. |
+| 8 | 582 | 1381 | 3772 | 1414 | 796147 | Private  | Lawrence, Fred Dayton  | 39 th Regt.. | Lawrence, Mrs. Jennie  | Simcoe, Ont  | Canada  | Simcoe  | Feb. | 21, 1916. |
+| 8 | 582 | 1410 | 3772 | 1443 | 797177 | Private  | Lawson, Donald Malcolm... | 39 th Regt.., | Lawson, Harry T  | La Salle, N.Y., U.S.A  | Canada  | Simcoe  | April | 6, 1916. |
+| 8 | 582 | 1439 | 3771 | 1471 | 790131 | Private  | Lay land, William  | 39th Regt... | Lay land, Mrs. Alice  | Simcoe, Ont  | England  | Simcoe  | Feb. | 3, 1916. |
+| 8 | 582 | 1468 | 3771 | 1500 | 796003 | Co. Sergt.-Major.. | Lea, Maurice Albert  | 39 th Regt.., | Smith, Tom  | Simcoe, Ont  | England  | Simcoe  | Nov. | 19, 1915. |
+| 8 | 582 | 1497 | 3771 | 1529 | 796002 | Sergeant  | Leamen, Harold C. P  | 39 th Regt... | Leamen, Mrs. Elizabeth  | 822 Stcdwell St., London, Ont  | Canada  | Simcoe  | Nov. | 19, 1915. |
+| 8 | 582 | 1525 | 3771 | 1558 | 790151 | Private  | Lefebvre, Hugh  | 39th Regt... | Lefebvre, Philip Horton  | High St., Buruhara, St. Aubin, Jersey, Chan. Ia  | Channel Islands. | Simcoe  | Mar. | 3, 1916. |
+| 8 | 581 | 1556 | 3771 | 1587 | 797520 | Private  | Lefler, Harvey Pembroke.. | 39th Regt... | Lefler, Mrs. Mary A  | Waterford, Ont  | Canada  | Simcoe  | Dec. | 19, 1915. |
+| 8 | 580 | 1585 | 3771 | 1617 | 797527 | Private  | Lefler, James Howard  | 39th Regt... | Lefler, Mrs. Mary  | Waterford, Ont  | Canada  | Simcoe  | Dec. | 6, 1915. |
+| 8 | 580 | 1614 | 3770 | 1644 | 797505 | Private  | Lefler, Lemuel  | 39 th Regt.., | Lefler, Lemuel  | Waterford, Ont  | Canada  | Simcoe  | Nov. | 19. 1915. |
+| 8 | 579 | 1643 | 3770 | 1674 | 79700S | Private  | Lefler, Marshall  | 39th Regt... | Squires, Mrs. Bert  | Waterford, Ont  | Canada  | Simcoe  | Feb. | 21, 1916. |
+| 8 | 579 | 1672 | 3770 | 1703 | 201422 | Co. Sergt.-Major. | Leighton, Thomas William. | Territorials. | Leighton, Mrs. Martha Ann.... | 275 Rhodes Ave., Toronto, Ont  | England  | Toronto  | Sept. | 20, 1915. |
+| 8 | 577 | 1701 | 3770 | 1732 | 796047 | Private  | Leitch, Howard  | 39th Regt... | Leitch, Alec  | R.R. No. 3, Simcoe, Ont  | Canada  | Simcoe  | Dec. | 15, 1915. |
+| 8 | 577 | 1730 | 3770 | 1761 | 797513 | Private  | Lewis, Lloyd Bristol  | 39th Regt... | Lewis, Bernice  | R.R. No. 4, Norwich, Ont  | Canada  | Simcoe  | Dec. | 24.1915. |
+| 8 | 576 | 1759 | 3770 | 1790 | 790011 | Private  | Little, John.   | 39th Regt... | Little, James  | Port Dover, Ont  | Scotland  | Simcoe  | Nov. | 19, 1915. |
+| 8 | 576 | 1788 | 3770 | 1820 | 797092 | Private  | Long, Charles Wesley  | 39th Regt... | Long, Mrs. Martha  | R.R. No. 1, Walsingham, Ont  | Canada  | Simcoe  | Jan. | 29, 1916. |
+| 8 | 576 | 1816 | 3770 | 1849 | 797099 | Private  | Long, John Wesley  | 39th Regt... | Long, Mrs. Dorothy  | Walsingham, Ont  | Canada  | Simcoe  | Feb. | 3.1916. |
+| 8 | 576 | 1845 | 3770 | 1877 | 797100 | Private  | Louch, Chelsea  | GOth Regt... | Louch, Mrs. Minnie  | Clear Creek, Ont  | Canada  | Simcoe  | Feb. | 5.1916. |
+| 8 | 576 | 1872 | 3771 | 1906 | 796009 | Private  | Low, Walter Cecil  | 39th Regt  | Low, David  | Port Dover, Ont  | Canada  | Simcoe  | Jan. | 29.1916. |
+| 8 | 575 | 1903 | 3770 | 1935 | 796740 | Private  | Lowe, William David  | 39 th Regt... | Lowe, David  | Port Dover, Ont  | Canada  | Simcoe  | May | 4.1916. |
+| 8 | 575 | 1932 | 3770 | 1965 | 796673 | Private  | Luney, David  | 39th Regt... | Luney, Mrs. Nina  | Simcoe, Ont  | Ireland  | Simcoe  | Feb. | 26, 1916. |
+| 8 | 574 | 1960 | 3770 | 1994 | 797507 | Private  | Lyne, William Budett  | 39th Regt... | Lyne, May Victoria  | Hagersville, Ont  | England  | Simcoe  | Nov. | 19.1915. |
+| 8 | 574 | 1989 | 3771 | 2023 | 797628 | Private  | Lyness, Milton Everett  | 39th Regt... | Lyness, Mrs. Estell  | Delhi, Ont  | Canada  | Simcoe  | Mar. | 10, 1916. |
+| 8 | 573 | 2019 | 3771 | 2053 | 796214 | Private  | Lyon, George  | 39th Regt... | Lyon, Mrs. Mary  | 1 Spruce St., Toronto, Ont  | England  | Toronto  | June | 17, 1916. |
+| 8 | 573 | 2047 | 3771 | 2081 | 797195 | Private  | Mabee, James Arthur  | 39th Regt... | Mabee, Peter  | Forestville, Ont  | Canada  | Simcoe  | May | 1, 1916. |
+| 8 | 572 | 2076 | 3771 | 2110 | 796692 | Private  | MacAinsh, Nasen Erven  | 39th Regt... | MacAinsh, William Erven B... | Tain, Ont  | U.S.A  | Port Rowan. | Mar. | 11, 1916. |
+| 8 | 571 | 2105 | 3772 | 2141 | 798001 | Private  | Mackay, William Perry  | 39th Regt... | Mackay, Mrs. Annie P  | Simcoe, Ont   | Canada  | Simcoe  | Dec. | 1, 1915. |
+| 8 | 570 | 2134 | 3772 | 2169 | 796025 | Private  | MacKenzie, Norman John.. | 39th Regt... | MacKenzie, Donald  | 27 John Garrick St., Springburn, Glasgow, Scot  | Scotland  | Simcoe  | Nov. | 19.1915. |
+| 9 | 624 | 386 | 3741 | 416 | 796059 | Private  | MacNab, Charles Stevenson  | 39th | Regt | MacNab, Mrs. A  | Dec. 27, |
+| 9 | 625 | 415 | 3740 | 446 | 796067 | Private  | Madren, Ernest Charles  | 39th | Regt | Madren, John Stephen  | Dec. 6, |
+| 9 | 625 | 444 | 3741 | 475 | 797147 | Private  | Mansfield, Jerred  | 39th | Regt | Mansfield, C. Maitland  | Mar. 3, | Port Rowan  |
+| 9 | 624 | 474 | 3741 | 505 | 797539 | Private  | Mansley, Samuel  | 39th | Regt | Mansley, Harold  | Dec. 4, |
+| 9 | 624 | 499 | 3741 | 534 | 796531 | Sergeant  | March, Arthur  | Nil | March, Mrs. Fanny Elizabeth  |  | Dec. 28, |
+| 9 | 624 | 532 | 3741 | 563 | 796187 | Private  | Marr, Earl Middleton  | 91st | Marr, Frederick  |  | April 22, |
+| 9 | 624 | 562 | 3741 | 593 | 797562 | Private  | Marr, Wallace  | 39th | Marr, Mrs. Edith  |  | Jan. 24, |
+| 9 | 624 | 591 | 3741 | 621 | 797573 | Private  | Marsaw, Howard Earl  | Nil | Marsaw, William  |  | Feb. 1, | Waterford  |
+| 9 | 624 | 619 | 3740 | 651 | 796221 | Private  | Marshall, Albert Edward  | 39th | Marshall, Mrs. Lily  |  | July 15, | Camp Borden... |
+| 9 | 624 | 649 | 3741 | 681 | 797081 | Corporal  | Marshall, Charles Stewart  | 39th | Marshall, Charles  |  | Jan. 21, | Simcoe  |
+| 9 | 624 | 678 | 3741 | 709 | 796717 | Private  | Marshall, John Henry  | 39th | Marshall, Mrs. Mary  |  | Mar. 30, |
+| 9 | 624 | 707 | 3740 | 738 | 797014 | Private  | Martin, Robert  | 39th | Martin, Major William  |  | Jan. 5, | St. Williams.... |
+| 9 | 624 | 736 | 3740 | 768 | 797135 | Private  | Martin, Thomas Lawrence  | 39th | Martin, John A  |  | Feb. 28, |
+| 9 | 624 | 765 | 3740 | 796 | 797598 | Private  | Massecar, William Clarence  | 39th | Massecar, Mrs. Clarence W  |  | Feb. 15, |
+| 9 | 624 | 794 | 3740 | 827 | 797141 | Private  | Masters, Harry  | 39th | Martin, John A  |  | Mar. 1, |
+| 9 | 624 | 823 | 3740 | 856 | 797597 | Private  | Mather, Henry   | 39th | Mather, Mrs. Ethel  |  | Feb. 14, |
+| 9 | 624 | 853 | 3740 | 885 | 797526 | Private  | Mathews, John William  | 39th | Mathews, Mrs. Surbina  |  | Dec. 11, |
+| 9 | 624 | 881 | 3740 | 913 | 797107 | Private  | Matthews, Alfred  | 39th | Matthews, Mrs. Elsie  |  | Feb. 10, | Port Rowan  |
+| 9 | 624 | 910 | 3740 | 943 | 797208 | Private.    | Matthews, Chancy Jeremiah  | 39th | Matthews, Mrs. Bernice  |  | May 10, |
+| 9 | 624 | 940 | 3740 | 972 | 797532 | Corporal  | Matthews, Michael  | 39th | Matthews, Mrs. Daisy  |  | Dec. 6, |
+| 9 | 624 | 968 | 3740 | 1000 | 796126 | Private  | Maxwell, Frank Herbert  | 39th | Maxwell, James  |  | Feb. 1, |
+| 9 | 625 | 996 | 3740 | 1030 | 796691 | Private  | May, John  | 39th | May, Mrs. Christina  |  | Mar. 13, |
+| 9 | 625 | 1027 | 3740 | 1060 | 79610S | Corporal  | McAndrew, Lewis Gordon  | 39th | McAndrew, Mrs. Edith  |  | Jan. 24, |
+| 9 | 624 | 1055 | 3740 | 1088 | 796211 | Private  | McCall, Arthur Earl  | 39th | McCall, Jake  |  | June 6, |
+| 9 | 623 | 1081 | 3740 | 1118 | 797169 | Co. Q.-M. Sergt.. | McCall, Charles Bruce  | Nil | McCall, Mrs. Beatrice Abigail.... |  | Mar. 29, |
+| 9 | 623 | 1113 | 3740 | 1145 | 796167 | Private  | McCall, Clayton Walter  | 39th | Regt | McCall, Andrew D  | Mar. 24, |
+| 9 | 623 | 1139 | 3741 | 1174 | 796105 | Private....  | McCammon, Joseph  | 39th | Regt | McCammon, Mrs. Eliza  | Jan. 22, |
+| 9 | 624 | 1171 | 3740 | 1203 | 797536 | Private  | McCarey, George Albert  | 39th | Regt | McCarey, Albert  | Dec. 6, |
+| 9 | 624 | 1200 | 3741 | 1233 | 797623 | Private  | McClentic, Cyrus William  | 39th | Regt | McClentic, Mrs. S  | Mar. 8, |
+| 9 | 624 | 1231 | 3740 | 1262 | 797201 | Private  | McClung, Howard Ray  | 39th | Regt | McClung, Robert  | May 6, |
+| 9 | 624 | 1261 | 3740 | 1291 | 798006 | Sergeant  | McCool, Daniel Brown  | 39th | Regt | McCool, Mrs. Jane  | Jan. 28, |
+| 9 | 624 | 1289 | 3741 | 1320 | 796184 | Private  | McDonald, Peter  | 39th | Regt | McDonald, Mrs. Annie  | April 10, |
+| 9 | 625 | 1319 | 3740 | 1349 | 796153 | Private  | McGarry, John  | 39th | Regt | McGarry, James  | Mar. 6, |
+| 9 | 624 | 1347 | 3740 | 1378 | 797129 | Sergeant  | McIntosh, Donald James  | 39th | Regt | McIntosh, Mrs. Georgianna  | Feb. 25, |
+| 9 | 626 | 1377 | 3740 | 1407 | 796001 | Private  | McIntosh, Ronald  | 39th | Regt | McIntosh, James  | Nov. 19, |
+| 9 | 624 | 1400 | 3740 | 1437 | 796686 | Sergeant  | Mclvor, David  | 39th | Regt | Mclvor, Mrs. Elizabeth  | Mar. 7, |
+| 9 | 624 | 1434 | 3357 | 1466 | 796208 | Private  | McKee ver, Robert Joseph  | 39th | Regt | McKeever, Mrs. Madeline  |
+| 9 | 624 | 1464 | 3740 | 1494 | 797137 | Private  | McKibbon, Denzel Everett  | 39th | Regt | McKibbon, W. H  | Feb. 9, |
+| 9 | 623 | 1493 | 3740 | 1524 | 797589 | Private ,... | McKinnon, Ernest Haviland  | 39th | Regt | McKinnon, Mrs. Katherine  | Feb. 4, |
+| 9 | 623 | 1516 | 3741 | 1552 | 796704 | Private  | McLean, Harry  | 39 th | Regt | McLean, Mrs. Mary  | Mar. 23, |
+| 9 | 624 | 1551 | 3740 | 1582 | 796513 | Private  | McLean, Roland Percy  | 39th | Regt | McLean, W. A  | Nov. 19, |
+| 9 | 623 | 1579 | 3740 | 1612 | 797015 | Sergeant  | McQueen, Charles Leland  | 39th | Regt | McQueen, John  | Jan. 1, |
+| 9 | 623 | 1608 | 3740 | 1639 | 797568 | Private  | Media, Steven  | 39th | Regt | Media, Mrs. Josephine  | Jan. 31, |
+| 9 | 623 | 1637 | 3740 | 1669 | 796060 | Private  | Mercer, William  | 39th | Regt | Mercer, Mrs. Eva  | Dec. 22, |
+| 9 | 623 | 1667 | 3740 | 1698 | 797501 | Private  | Messacar, Harry Clifford  | 39th | Regt | Messacar, Mrs. Florence Kathleen. | Nov. 19, |
+| 9 | 622 | 1695 | 3740 | 1726 | 797679 | Private  | Messecar, Andrew  | 39th | Regt | Messecar, Mrs. Lavinia  | July 1, |
+| 9 | 622 | 1724 | 3741 | 1756 | 797545 | Private  | Mike, Isaac  | 39th | Regt | Mike, James  | Jan. 5, |
+| 9 | 622 | 1753 | 3740 | 1784 | 797080 | Private  | Miller, Clarence  | 39th | Regt | Miller, William  | Jan. 21, |
+| 9 | 622 | 1782 | 3741 | 1814 | 796708 | Private  | Mills, Lemon  | 39th | Regt | Mills, William  | Mar. 24, |
+| 9 | 620 | 1811 | 3741 | 1843 | 796707 | Private  | Mills, Roland Oscar  | 39th | Regt | Mills, Mrs. Maud Ethel  | Mar. 24, |
+| 9 | 621 | 1840 | 3741 | 1873 | 797642 | Private  | Mingo, Sidney Philip  | 39th | Regt | Mingo, Mrs. Eleanor  | Mar. 31, |
+| 9 | 622 | 1868 | 3741 | 1902 | 797148 | Private  | Moffatt, George Leslie  | 39th | Regt | Moffatt, Mrs. Alice  | Mar. 3, |
+| 9 | 622 | 1896 | 3742 | 1931 | 797122 | Private  | Moffatt, Morley Everd  | 39th | Regt | Moffatt, John  | Feb. il, | Port Rowan  |
+| 9 | 621 | 1926 | 3741 | 1959 | 796723 | Private  | Monroe, William Arthur  | 39th | Regt | Monroe, Mrs. Janet  | April 1, |
+| 9 | 621 | 1955 | 3741 | 1990 | 796674 | Co. Q.-M. Sergt.. | Moon, Edward  | 39th | Regt | Moon, Mrs. Ida Maud M  | Feb. 26. |
+| 9 | 620 | 1984 | 3742 | 2018 | 796532 | Private  | Moore, Hilton  | 39th | Regt | Holden, Mrs. George.  | Dec. 11. |
+| 9 | 620 | 2012 | 3742 | 2046 | 796058 | Private  | Morick, James Edward  | 39th | Regt | Morick, William  | Dec. 31, |
+| 9 | 620 | 2041 | 3742 | 2077 | 796529 | Private  | Morris, Benjamin Harvey  | 39 th | Regt | Morris, Charles E  | Dec. 31, |
+| 9 | 620 | 2070 | 3741 | 2105 | 797096 | Private  | Morris, David  | 39th | Regt | Morris, Jacob  | Jan. ,51, | Port Rowan  |
+| 9 | 621 | 2099 | 3741 | 2134 | 797075 | Private  | Morris, George Edward  | 39th | Regt | Morris, Jacob  | Jan. 17, |
+| 10 | 751 | 586 | 3255 | 617 |  | Former Corps. | Country of |
+| 10 | 567 | 729 | 3752 | 763 | 796050 |  |  |  | Dec. | 14 | 1915. |
+| 10 | 567 | 758 | 3752 | 788 | 796552 |  |  |  | Dec. | 11 | 1915. |
+| 10 | 566 | 787 | 3752 | 816 | 797077 |  |  |  | 17 | 1916. |
+| 10 | 566 | 845 | 3752 | 874 | 796604 |  |  |  | ?f> | 1916. |
+| 10 | 566 | 873 | 3752 | 905 | 797014 | Nil  |  |  | Dec. | SI | 1915. |
+| 10 | 565 | 902 | 3752 | 937 | 796192 | 39 th Regt  |  | Simcoe  | Mav | 1 | 1910. |
+| 10 | 565 | 930 | 3753 | 962 | 797504 |  |  | Simcoe  | Nov. 19 | 1915. |
+| 10 | 564 | 960 | 3752 | 991 | 797163 |  | U.S.A  | Simcoe  | Feb | 27 | 1916. |
+| 10 | 565 | 988 | 3753 | 1020 | 797104 |  |  | Simcoe  | Feb. | 9 | 1916. |
+| 10 | 564 | 1017 | 3753 | 1050 | 796558 | Nil .. |  | Simcoe  | Dec. | 4 | 1915. |
+| 10 | 564 | 1045 | 3754 | 1077 | 796624 |  | Canada  | Simcoe  | Feb. | 2 | 1916. |
+| 10 | 564 | 1074 | 3754 | 1107 | 797620 |  | Canada  | Simcoe  | Mar. | fi | 1916. |
+| 10 | 563 | 1103 | 3754 | 1136 | 796137 |  | Scotland  |  | Feb. | 12 | 1916. |
+| 10 | 563 | 1131 | 3754 | 1165 | 797078 |  | Canada  | Simcoe  | Jan. | tl | 1916. |
+| 10 | 562 | 1162 | 3754 | 1194 | 796107 |  | Canada   | Simcoe  | Jan. | 24 | 1916. |
+| 10 | 562 | 1190 | 3754 | 1226 | 796734 |  |  | Simcoe  | April 29 | 1916. |
+| 10 | 562 | 1219 | 3754 | 1253 | 796748 | Nil | England  | Simcoc  | July | 5 | 1916. |
+| 10 | 562 | 1248 | 3754 | 1281 | 796143 |  | England  |  | Feb. | 15 | 1916. |
+| 10 | 562 | 1276 | 3754 | 1312 | 797512 | Nil |  |  | Dec. | 21 | 1915. |
+| 10 | 562 | 1306 | 3754 | 1339 | 796629 |  |  | Simcoe  | Feb. | 4 | 1910. |
+| 10 | 562 | 1337 | 3754 | 1368 | 797541 |  |  |  | Dec. | 11 | 1915. |
+| 10 | 562 | 1366 | 3754 | 1397 | 797529 |  |  |  | Dec. | 11 | 1915. |
+| 10 | 562 | 1395 | 3754 | 1426 | 797621 |  |  |  | Feb. | 24 | 1916. |
+| 10 | 561 | 1424 | 3754 | 1457 | 797593 | Nil  |  | Simcoe  | Fell. | in | 191C. |
+| 10 | 562 | 1453 | 3755 | 1484 | 797215 |  |  |  | April 18 | 1916. |
+| 10 | 562 | 1483 | 3756 | 1513 | 797041 |  |  | Simcoe  | Jnn. | 4 | 1916. |
+| 10 | 562 | 1507 | 3756 | 1542 | 796654 |  |  | Simcoe  | Feb. | M | 1916. |
+| 10 | 562 | 1539 | 3756 | 1571 | 796696 |  |  | Simcoe  | Mar. | 15 | 1916. |
+| 10 | 562 | 1568 | 3756 | 1606 | 796639 | 39th Regt . |  | Simcoe  | Feb. | 7 | 1916. |
+| 10 | 561 | 1597 | 3756 | 1636 | 796638 | 39th Regt . |  |  | Feb. | 8 | 1916. |
+| 10 | 561 | 1626 | 3756 | 1662 | 796650 | Nil  |  | Simcoe  | Feb. | 11 | 1916. |
+| 10 | 561 | 1656 | 3756 | 1688 | 796528 |  |  | Simcoe  | Jan. | 4 | 1916. |
+| 10 | 560 | 1685 | 3756 | 1717 | 797050 |  |  | Langton  | Jan. | 10 | 1916. |
+| 10 | 561 | 1714 | 3756 | 1746 | 796139 |  |  | Simcoe  | Jan. | 17 | 1916. |
+| 10 | 561 | 1742 | 3756 | 1775 | 796063 |  |  |  | Dec. | 10 | 1915. |
+| 10 | 561 | 1770 | 3755 | 1804 | 796665 |  |  | Simcoe  | Feb. | 22 | 1916. |
+| 10 | 561 | 1800 | 3755 | 1833 | 796687 |  |  |  | Mar. | 8 | 1916. |
+| 10 | 561 | 1829 | 3755 | 1869 | 796585 | 39th Regt . |  | Simcoe  | Jan. | 8 | 1916. |
+| 10 | 561 | 1858 | 3755 | 1891 | 796154 |  |  | Simcoe  | Mar. | fi | 1916. |
+| 10 | 561 | 1887 | 3756 | 1923 | 797046 | Nil .. | England  | Port Rowan.... | Jan. | 7 | 1916. |
+| 10 | 562 | 1915 | 3757 | 1950 | 797646 |  |  |  | April | fi | 1916. |
+| 10 | 562 | 1945 | 3757 | 1979 | 796074 |  |  | Simcoe  | Jan. | 1 | 1916. |
+| 10 | 563 | 1974 | 3757 | 2009 | 797552 |  |  | Simcoe  | Jan. | 12 | 1916. |
+| 10 | 562 | 2003 | 3758 | 2038 | 797553 |  | Canada  | Simcoe  | Jan. | 10 | 1916. |
+| 10 | 562 | 2031 | 3758 | 2067 | 797009 |  |  | Simcoe  | Dec. | 10 | 1915. |
+| 10 | 3557 | 2061 | 3759 | 2084 |  |  |  |  | Dec. | 21 | 1915. |
+| 10 | 561 | 2119 | 3760 | 2161 | 796743 | Nil  | England  | Simcoe  | May | 24 | 1916. |
+| 11 | 1814 | 362 | 3712 | 395 |  |  | Pitman, Samuel  | R.R. No. 3, Port Rowan, Ont  | Canada  | Camp Borden... | Oct. | 12 |
+| 11 | 605 | 392 | 3713 | 424 | 796515 |  | Pitters, Mrs. Ellen   | Simcoe. Ont   | England  | Simcoe  | Nov. | 19 |
+| 11 | 605 | 420 | 3713 | 451 | 796669 |  | Place, E. H  | R.R. No. 1, St. WUliams, Ont  | Canada  | Simcoe  | Feb. | 25 |
+| 11 | 605 | 450 | 3713 | 479 | 796133 |  | Potts, Mrs. Warren  | Simcoe, Ont   | Canada  | Simcoe  | Feb. | 5 |
+| 11 | 605 | 480 | 3713 | 512 | 797659 |  | Power, Mrs. Anna Mary... | Delhi, Ont   | Canada  | Simcoe  | April | 26 |
+| 11 | 606 | 507 | 3712 | 538 | 751394 | Nil  | Power, Frederick  | Delhi, Ont   | Canada  | Waterloo  | Jan. | 28 |
+| 11 | 1482 | 537 | 3712 | 567 |  | Nil  | Power, Frederick  | Delhi, Ont   | Canada  | Waterloo  | Nov. | 22 |
+| 11 | 1811 | 567 | 3711 | 599 |  |  | Pratt, E. G  | R.R. No. 2, Courtland, Ont   | England  | Courtland  | Jan. | 4 |
+| 11 | 605 | 597 | 3712 | 628 | 796081 |  | Pratt, Mrs. Emmeline  | Simcoe, Ont   | England  | Simcoe  | Jan. | 5 |
+| 11 | 1812 | 626 | 3712 | 654 |  |  | Prentice, John  | Strathlyn Farm, Simcoe, Ont  | Scotland  | Simcoe  | Mar. | 10 |
+| 11 | 1482 | 654 | 3712 | 683 |  | Nil  | Prentice, John  | Simcoe, Ont   | Scotland  | Simcoe  | Nov. | 19 |
+| 11 | 1812 | 684 | 3710 | 712 |  |  | Price, Mrs. Ila  | Simcoe, Ont  | Canada  | Simcoe  | Mar. | 1 |
+| 11 | 605 | 714 | 3713 | 742 | 797183 |  | Priddle, Mrs. Pauline  | Tillsonburg, Ont  | Canada  | Simcoe  | Feb. | 19 |
+| 11 | 606 | 742 | 3713 | 771 | 797592 |  | Pringle, Mrs. Margaret  | 81 Chatham St., Brantford, Ont  | Canada  | Simcoe  | Feb. | 10 |
+| 11 | 605 | 772 | 3713 | 803 | 797185 |  | Proper, Mrs. Annie  | Silver Hill, Ont  | Canada  | Simcoe  | April | 25 |
+| 11 | 604 | 801 | 3713 | 832 | 79S182 |  | Quanbury, Christian  | R.R. No. 3, Simcoe, Ont  | Canada  | Simcoe  | April | 7 |
+| 11 | 604 | 824 | 3713 | 861 | 797064 |  | Rabbits, Mrs. Emilie  | Courtland, Ont  | England  | Simcoe  | Jan. | 12 |
+| 11 | 604 | 859 | 3713 | 887 | 796705 |  | Rankin, Mrs. Robert  | Port Dover, Ont  | Canada  | Simcoe  | Mar. | 24 |
+| 11 | 604 | 888 | 3713 | 919 | 796159 |  | Ransom, Lizzie  | Leytonstone, London, Eng  | England.... | Simcoe  | Mar. | 13 |
+| 11 | 604 | 917 | 3713 | 948 | 796580 |  | Rawlin, John W  | 22 Cheever St., Hamilton, Ont  | England  | Simcoe  | Jan. | 7 |
+| 11 | 604 | 941 | 3713 | 974 | 5103G3 | Nil  | Read, Mrs. Leila Maude... | Ingersoll, Ont  | Canada  | Toronto  | Nov. | 24 |
+| 11 | 604 | 975 | 3713 | 1006 | 796730 |  | Reed, Mrs. Martha  | Simcoe, Ont  | England  | Simcoe  | April | 17 |
+| 11 | 603 | 1004 | 3713 | 1034 | 797508 |  | Cole, George E  | R.R. No. 2, Otterville, Ont  | England.. <. | Simcoe  | Nov. | 19 |
+| 11 | 603 | 1033 | 3713 | 1063 | 797574 |  | Charlton, Joseph  | Delhi, Ont .  | England.... | Simcoe  | Feb. | 4 |
+| 11 | 603 | 1057 | 3712 | 1092 | 796088 | 39th Regt  | Richards, Mrs. Christine.. | Port Talbot, Glamorgan, Wales  | England.... | Simcoe  | Jan. | 14 |
+| 11 | 603 | 1091 | 3724 | 1120 | 796089 |  | Richardson, Mrs. Maggie.. | Simcoe, Ont  | England.... | Simcoe  | Jan. | 10, |
+| 11 | 603 | 1120 | 3723 | 1148 | 798008 |  | Rigg, William  | Simcoe, Ont  | Scotland  | Simcoe  | Feb. | 8, |
+| 11 | 603 | 1149 | 3723 | 1177 | 798009 |  | Rigg, Mrs. Jessie  | Simcoe, Ont  | Scotland  | Simcoe  | Feb. | 8, |
+| 11 | 603 | 1178 | 3723 | 1207 | 796091 |  | Ripple, Mrs. Eva M  | Davenport, Iowa, U.S.A  | U.S.A  | Simcoe  | Jan. | 10, |
+| 11 | 602 | 1207 | 3723 | 1237 | 797643 |  | Roberts, Thomas  | 108 Kramford Rd., Ipswich, Suffolk, Eng  | England | Simcoe  | Mar. | 28, |
+| 11 | 602 | 1236 | 3725 | 1264 | 797502 |  | Robins, Herbert  | R.R. No. 4, Boakton, Ont  | Canada  | Simcoe  | Nov. | 19, |
+| 11 | 604 | 1265 | 3724 | 1295 | 171871 |  | Robinson, Mrs. Elizabeth. | 42 Teignmouth Ave., Toronto, Ont  | England  | Toronto  | Aug. | 17, |
+| 11 | 605 | 1295 | 3723 | 1324 | 796123 |  | Robinson, Mrs. Mary  | Simcoe, Ont  | England | Simcoe  | Jan. | 30, |
+| 11 | 602 | 1324 | 3724 | 1353 | 796124 |  | Robinson, Mrs. Rhoda  | Simcoe, Ont  | England.... | Simcoe  | Jan. | 30, |
+| 11 | 603 | 1352 | 3724 | 1382 | 797579 |  | Robinson, Thomas  | 519 Dupont St., Toronto, Ont  | England.... | Simcoe  | Feb. | 2, |
+| 11 | 604 | 1382 | 3724 | 1409 | 797037 |  | Rockefeller, Mrs. Hannah. | Port Rowan, Ont .  | Canada  | Port Rowan.... | Jan. | 3, |
+| 11 | 604 | 1410 | 3724 | 1439 | 797006 |  | Roloson, Joseph  | Langton, Ont   | Canada  | Simcoe  | Nov. | 19, |
+| 11 | 605 | 1439 | 3724 | 1468 | 796194 |  | Ross, Mary  | ~ George St., Stranraer, Wigtown, Scot  | Scotland  | Simcoe  | May | 7, |
+| 11 | 606 | 1468 | 3725 | 1497 | 797555 |  | Ross, Mrs. Alice  | Winnipeg, Mon  | England.... | Simcoe  | Dec. | 31, |
+| 11 | 605 | 1497 | 3725 | 1526 | 798020 |  | Rumble, Elias   | Alma, Ont  | Canada  | Camp Borden... | Sept. | 1, |
+| 11 | 605 | 1526 | 3724 | 1554 | 796135 | 39th Regt  | Ruse, Mrs. Beatrice  | Simcoe, Ont  | Ireland  | Simcoe  | Feb. | 5, |
+| 11 | 606 | 1555 | 3724 | 1584 | 796070 |  | Russell, Edward  | Simcoe, Ont  | England | Simcoe  | Jan. | 3, |
+| 11 | 605 | 1584 | 3725 | 1612 | 796090 |  | Russell, Mrs. Annie  | Simcoe, Ont  | England.... | Simcoe  | Jan. | 10, |
+| 11 | 605 | 1613 | 3724 | 1641 | 796050 |  | Russell, Edward  | Simcoc, Ont  | England | Simcoe  | Dec. | 31, |
+| 11 | 605 | 1642 | 3725 | 1670 | 796078 |  | Russell, Edward   | Simcoe, Ont  | England | Simcoe  | Jan. | 3, |
+| 11 | 605 | 1670 | 3725 | 1699 | 797011 | Nil  | Foster, Mrs. Annie   | Erie View, Ont  | Canada  | Port Rowan.... | Dec. | 23, |
+| 11 | 605 | 1700 | 3725 | 1728 | 796508 |  | Ryerse, Mrs. Mary   | Simcoe, Ont  | Canada  | Simcoe  | Nov. | 19, |
+| 11 | 605 | 1723 | 3725 | 1757 | 796720 |  | Ryerse, Mrs. Kate   | Simcoe, Ont  | Canada  | Simcoe  | Mar. | 29, |
+| 11 | 1813 | 1757 | 3725 | 1786 |  |  | Baylie, Mrs. Kate  | Gen. Del., Hamilton, Ont  | England | Camp Borden... | Aug. | 15, |
+| 11 | 1814 | 1781 | 3726 | 1814 |  |  | Scott, Mrs. Elizabeth  | Simcoe, Ont  | Canada  | Simcoe  | Dec. | 1, |
+| 11 | 1814 | 1815 | 3725 | 1844 |  |  | House, William  | Market Lavington, West Lavington, Wilts, Eng. | England | Simcoe  | Jan. | 16, |
+| 11 | 605 | 1843 | 3727 | 1873 | 796130 |  | Searles, Mrs. Kate  | I.a Salette, Ont  | England | Simcoe  | Feb. | 8, |
+| 11 | 1482 | 1873 | 3726 | 1901 |  | 39th Regt  | Sebring, Mrs. Alma  | Simcoe, Ont  | Canada  | Simcoe  | Jan. | 31, |
+| 11 | 1484 | 1897 | 3727 | 1930 |  | Nil  | Secord, Mrs. Jessie  | 23 Rose Ave., Brantford, Ont  | Canada  | Simcoe  | Feb. | 1, |
+| 11 | 1483 | 1930 | 3726 | 1959 |  | Nil  | Seldon, Mrs. Clifford  | Waterford, Ont  | Not stated. | Simcoe  | Jan. | 24, |
+| 11 | 605 | 1959 | 3728 | 1988 | 796645 | Nil  | Sellar, Mrs. Emma Maud.. | Simcoe, Ont  | England.... | Simcoe  | Feb. | 10, |
+| 11 | 605 | 1987 | 3728 | 2017 | 796620 | 39th Regt  | Sellar, Mrs. Emma Maud. | Simcoe, Ont  | England | Simcoe  | Feb. | 3. |
+| 11 | 606 | 2016 | 3728 | 2046 | 790017 | 39th Regt  | Sellars. Mrs. Maud Alice.. | 277 Gladstone Ave., London, Eng  | England | Simcoe  | Nov. | 19, |
+| 11 | 606 | 2045 | 3728 | 2075 | 790597 |  | Shand, Mrs. Isabella  | Port Dover, Ont  | Scotland  | Simcoe  | Jan. | 5, |
+| 11 | 706 | 2073 | 3728 | 2105 |  |  | Shanks, Mary  | Toronto, Ont  | Canada  | Simcoe  | Nov. | 19, |
+| 12 | 546 | 603 | 3241 | 644 | M |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
+| 12 | 546 | 753 | 3740 | 787 | 796602 | Private.. | Shannon, Herbert Vincent. | 39 th Regt  | Shannon, William A  | Belfast, Ire  | Ireland  | Simcoe  | Jan. | 18 | 1916. |
+| 12 | 545 | 782 | 3739 | 818 | 797604 | Private.. | Shaw, Thomas Edward  | 39th Regt  | Shaw, Mrs. Margaret  | Norfolk Pi., Boston, Lincoln, Eng  | England  |  | May | 1 | 1916. |
+| 12 | 545 | 811 | 3738 | 846 | 797535 | Private.. | Shaw, William  | 39th Regt  | Shaw, Mrs. Annie  | Simcoe, Ont  | Canada  | Simcoe  | Dec. | 4 | 1915. |
+| 12 | 544 | 840 | 3737 | 876 | 79704S | Private.. | Sherlock, George  | 39th Regt  | Sherlock, Mrs. Ida M  | St. Williams, Ont  | England  |  | Jan. | 10 | 1916. |
+| 12 | 544 | 869 | 3738 | 905 | 796014 | Private.. | Sherman, Charles Arthur.. | 39 th Regt  | Sherman, Mrs. Rachel  | Simcoc, Ont  | Canada  | Simcoe  | Nov. | 1!) | 1915. |
+| 12 | 544 | 898 | 3730 | 934 | 796111 | Private.. | Sherman, Harry Ernest... | Nil  | Sherman, Mrs. Rachel  | Simcoe, Ont  | Canada  | Simcoe  | Jan. | 26 | 1916 |
+| 12 | 544 | 927 | 3738 | 963 | 797161 | Private.. | Short, Thomas Alexander.. | 39 th Regt  | Short, Hugh  | R.R. No. 5, Rockwood, Ont  | Canada  | Simcoe  | Mar. | 18 | 1916. |
+| 12 | 543 | 956 | 3731 | 992 | 797224 | Private.. | Shoup, John Martin  | 39 th Regt  | Shoup, Mrs. Agnes  | Coniston, Ont  | Canada  | Simcoe  | Juno | 27 | 1916 |
+| 12 | 543 | 985 | 3740 | 1021 | 797031 | Private.. | Simmons, Albert  | 39 th Regt  | Simmons, Charles Beston  | R.R. No. 1, Burgessville, Ont   | Canada  |  | Dec. | 10 | 1915. |
+| 12 | 543 | 1013 | 3740 | 1050 | 79650U | Private.. | Simpson, Anthony  | 39th Regt  | Simpson, Mrs. Emma  | Simcoe, Ont  | England  |  | Nov. | 19 | 1915. |
+| 12 | 543 | 1043 | 3741 | 1079 | 79619S | Private.. | Sinden, Frederick Aid win.. | 39th Regt  | Woolnough, Mrs. Amelia  | 60 Grove St., Simcoe, Ont  | Canada  |  | ?.i | 1916. |
+| 12 | 543 | 1072 | 3741 | 1108 | 796659 | Private.. | Slade, Frederick  | 39 th Regt  | Slade, Edward  | Forestville, Ont   | England  |  | Feb. | 21 | 1916. |
+| 12 | 543 | 1101 | 3741 | 1137 | 796600 | Private.. | Slade, George Edward  | 39 th Regt  | Slade, Mrs. Ethel  | Forestville, Ont  | England  |  | Jan. | 22 | 1916. |
+| 12 | 543 | 1130 | 3741 | 1166 | 796506 | Private.. | Sloat, John Nelson  | 39th Regt  | Sloat, Nelson  | Waterford, Ont  | Canada  |  | 19 | 1915. |
+| 12 | 543 | 1159 | 3741 | 1196 | 796523 | Private.. | Sloat, Roy Arnold  | Nil  | Sloat, Nelson  | Waterford, Ont  | Canada  |  | Dec. | 27 | 1915. |
+| 12 | 543 | 1187 | 3741 | 1224 | 796679 | Private.. | Small, Andrew Gordon  | 39th Regt  | Small, Mrs. Margaret  | Simcoe, Ont  | Canada  |  | Mar. | 1 | 1915. |
+| 12 | 543 | 1217 | 3741 | 1253 | 796709 | Private.. | Smith, Andrew Franklin... | 39th Regt  | Smith, Mrs. Flossie Maud  | R.R. No. 2, Simcoe, Ont  | Canada  |  | Mar. | 25 | 1916. |
+| 12 | 542 | 1246 | 3740 | 1283 | 797607 | Private.. | Smith, Benjamin  | Nil  | Smith, Mrs. Mary  | Waterford, Ont  | Canada  | Simcoe  | Feb. | 21 | 1916. |
+| 12 | 543 | 1274 | 3741 | 1311 | 769041 | Private.. | Smith, Donald  | 39th Regt  | Smith, Thomas  | Bimie, Elgin, Scot  | Scotland  | Simcoe  | Dec. | 10 | 1915. |
+| 12 | 542 | 1303 | 3741 | 1340 | 796062 | Private.. | Smith, Elwood  | 39th Regt  | Smith, William    | R.R. No. 3, Simcoe, Ont  | Canada  | Simcoe  | Dec. | 27 | 1915. |
+| 12 | 542 | 1332 | 3740 | 1370 | 796181 | Private.. | Smith, Edwin George S... | Nil  | Smith, Mrs. Margaret Annie H.... | 121 Amelia St., Toronto, Ont  | England  | Toronto  | April | 1 | 1916. |
+| 12 | 541 | 1361 | 3740 | 1399 | 797144 | Private.. | Smith, Ernest Welby  | 39th Regt  | Smith, Mrs. Hannah Elizabeth... | Fair Ground, Ont  | Canada  | Simcoe  | Mar. | 2 | 1916. |
+| 12 | 541 | 1390 | 3740 | 1428 | 797010 | Sergeant. | Smith, Hugh Whitney  | Nil   | Smith, Mrs. Helen Amy  | St. Williams, Ont  | England  |  | Dec. | 15 | 1915. |
+| 12 | 540 | 1419 | 3740 | 1456 | 797204 | Private.., | Smith, John A  | 39th Regt  | Smith, Mrs. Harriet Annie  | Langton, Ont  | England  | Simcoe  | May | 8 | 1916. |
+| 12 | 540 | 1448 | 3740 | 1486 | 797210 | Private... | Smith, John Wesley  | 39 th Regt  | Smith, Thomas  | Fair Ground, Ont  | Canada  | Simcoe  | May | 11 | 1916. |
+| 12 | 539 | 1476 | 3741 | 1515 | 797059 | Corporal. | Smith, Lloyd Holst  | 39th Regt  | Smith, Samuel  | Port Rowan, Ont  | Canada  | Simcoe  | Jan. | 11 | 1916. |
+| 12 | 540 | 1505 | 3741 | 1548 | 797136 | Private... | Smith, Marquis Lome  | 39th Regt  | Loaks, Mrs. Sarah Delia  | Walsingham, Ont  | Canada  | Simcoe  | Feb. | 28 | 1916. |
+| 12 | 539 | 1534 | 3742 | 1572 | 796051 | Private... | Smith, Otto Emerson  | 39 th Regt  | Smith, Steven  | Vittoria, Ont  | Canada  | Simcoe  | Dec. | 14 | 1915. |
+| 12 | 539 | 1564 | 3733 | 1602 | 797175 | Private... | Smith, Percy Jesse  | 39th Regt  | Boyce, Mrs. Livina  | Durinville, Ont  | Canada  |  | 5 | 1916 |
+| 12 | 539 | 1593 | 3741 | 1630 | 79C613 | Private... | Smith, Walter  | 39th Regt   | Not stated  | Not stated  | England  |  | 11 | 1916. |
+| 12 | 539 | 1621 | 3741 | 1658 | 797057 | Private... | Smith, William  | 39th Regt  | Byerley, Mrs. J. C  | R.R. No. 2, Courtland, Ont  | England  | Simcoe  | Jan. | 11 | 1916. |
+| 12 | 539 | 1650 | 3741 | 1687 | 796690 | Private... | Smithson, Charles Cecil... | 39 th Regt  | Smithson, John L  | Nixon, Ont  | Canada  |  | Mar. | 1 | 1916. |
+| 12 | 539 | 1679 | 3741 | 1717 | 796695 | Private... | Snively, Robert Bruce  | 39th Regt  | Snively, Mrs. Nellie  | Simcoe, Ont  | Canada  |  | Feb. | 25 | 1916. |
+| 12 | 539 | 1708 | 3741 | 1746 | 796096 | Corporal. | Sohier, Adolph  | 39 th Regt  | Sohier, Peter John  | Woodbine,Havre Des Ras.St. Heliers,Jersey,Chan. Is. | Channel Islands | Simcoe  | Jan. | 13 | 1916. |
+| 12 | 539 | 1737 | 3741 | 1775 | 796106 | Private.., | Sohier, Henri  | 39 th Regt  | Sohier, Peter John  | St. Heliers, Jersey, Chan. Is  | Channel Islands | Simcoe  | Jan. | 24 | 1916. |
+| 12 | 540 | 1766 | 3740 | 1804 | 796115 | Private... | Southworth, Peter  | 39 th Regt  | Millard, Mrs  | R.R. No. 2, Simcoe, Ont  | England  | Simcoe  | Jan. | 26 | 1916. |
+| 12 | 539 | 1795 | 3741 | 1833 | 796582 | Private... | Spain, John William  | 39 th Regt  | Spain, John William  | Port Dover, Ont  | Canada  |  | Jan. | 8 | 1916. |
+| 12 | 539 | 1824 | 3741 | 1862 | 797022 | Private... | Sparks, William Henry O.. | 39th Regt  | Sparks, Andrew  | Port Rowan, Ont  | England  | Port Rowan.... | Dec. | 16 | 1915. |
+| 12 | 539 | 1853 | 3740 | 1891 | 797590 | Private... | Sparrow, Alfred George  | Nil  | Sparrow, John  | Nailsworth, Glos, Eng  | England  | Simcoe  | Feb. | 10 | 1916. |
+| 12 | 539 | 1882 | 3740 | 1920 | 797191 | Private... | Spencer, James Bruce  | 39th Regt  | Spencer, William  | R.R. No. 6, Simcoe, Out   | Canada  | Simcoe  | April | 28 | 1916. |
+| 12 | 539 | 1911 | 3742 | 1950 | 797219 | Private... | Staib, Percy Edward  | 39 th Regt  | Staib, George  | Lynedoch, Ont  | Canada  | Simcoe  | June | 3 | 1916. |
+| 12 | 539 | 1940 | 3741 | 1978 | 796207 | Private... | Stallman, Arthur Lewis.... | 39th Regt  | Bare, Mrs. Sarah  | Mount Union, Pa., U.S.A  | U.S.A  | Simcoe  | Juno | 3 | 1916. |
+| 12 | 539 | 1969 | 3742 | 2008 | 796575 | Private... | Stass, Sidney  | 39 th Regt  | Stass, George Robert  | Sittingbourne, Kent, Eng  | England  | Simcoe  | Jan. | 3 | 1916. |
+| 12 | 539 | 1998 | 3742 | 2037 | 796672 | Private... | Stather, Charles Gordon... | 39 th Regt   | Stather, Mrs. Edith Pearl  | Simcoe, Ont  | Canada  | Simcoe  | Feb. | 26 | 1916. |
+| 12 | 539 | 2027 | 3742 | 2067 | 796643 | Corporal. | Stegmeir, David Earl  | 39th Regt  | Stegmeir, Mrs. John  | Simcoe, Ont  | Canada  | Simcoe  | Feb. | 9 | 1916. |
+| 12 | 539 | 2057 | 3742 | 2094 | 797647 | Private... | Stelmashuk. Fred  | 39th Regt  | Stelmashuk, Catherine  | Mokre, Grodno, Prushana, Russia  | Russia  | Simcoe  | April | 5 | 1916. |
+| 12 | 539 | 2086 | 3742 | 2125 | 796524 | Private... | Stevens, Edward Charles.. | 39th Regt  | Stevens, William John  | 152 Weston St., Bermondsey, London, Eng  | England  |  | Dec. | 31 | 1915. |
+| 12 | 539 | 2114 | 3742 | 2154 | 796525 | Sergeant.. | Stevens, William John  | 39th Regt  | Stevens, John  | Not stated  | England  |  | Jan. | 1 | 1916. |
+| 12 | 539 | 2144 | 3742 | 2183 | 796061 | Private... | Stewart, George William.. | 39th Regt  | Stewart, William  | Simcoe, Ont  | Canada  | Simcoe  | Dec. | 7 | 1915. |
+| 13 | 2299 | 347 | 3697 | 375 |  |  |  | Simcoe, Ont  | Canada  | Simcoe  | Jan. 3 |
+| 13 | 590 | 375 | 3699 | 404 | 797609 Private  | Nil  |  | Waterford, Ont  | Canada  | Waterford  | Feb. 23 |
+| 13 | 591 | 404 | 3697 | 433 | 797511 Private  |  |  | Wilsonvillo, Ont  | Canada  | Simcoe  | Dec. 21 |
+| 13 | 2298 | 434 | 3700 | 464 |  |  |  | 253 Leslie St., Toronto, Ont  | England  | Simcoe  | April J.9 |
+| 13 | 2299 | 464 | 3699 | 492 |  |  |  | Waterford, Ont  | Canada  | Simcoe  | Jan. 24 |
+| 13 | 590 | 492 | 3699 | 521 | 796667 Private  | Nil  |  | Hamilton, Ont  | England  | Simcoe  | Feb. 24 |
+| 13 | 1468 | 522 | 3699 | 550 |  | Nil  |  | Delhi, Ont  | Canada  | Simcoe  | Jan. 5 |
+| 13 | 2300 | 551 | 3699 | 580 |  |  |  | Englefield, Surrey, Eng  | England  | Simcoe  | April 10 |
+| 13 | 1795 | 580 | 3700 | 609 |  |  | Taylor, John W  | Simcoc, Ont  | Canada  | Simcoe  | Jan. 26 |
+| 13 | 1796 | 609 | 3700 | 638 |  |  | Taylor, Mrs. Elizabeth Rebecca. | 284 Victoria St., Toronto, Ont  | England  | Toronto  | Juno 10 |
+| 13 | 2300 | 639 | 3699 | 667 |  |  |  | Waterloo, Ont  | Canada  | Simcoe  | Nov. 19 |
+| 13 | 590 | 668 | 3699 | 697 | 797034 Private  |  |  | London, Eng  | England  | Langton  | Dec. 27 |
+| 13 | 590 | 697 | 3699 | 726 | 796095 Private  |  |  | Simcoe, Ont  | Canada  | Simcoe  | Jan. 12 |
+| 13 | 590 | 726 | 3699 | 755 | 796197 Private  |  |  | Rossclair Hotel, Lake Muakoka, Ont  | Ireland  | Simcoe  | May 12 |
+| 13 | 589 | 755 | 3700 | 784 | 796113 Private  |  |  | Simcoe, Ont..   | Canada  | Simcoe  | Jan. 26 |
+| 13 | 590 | 784 | 3699 | 813 | 796747 Private  | 39th Regt  |  | Grenfell, Sank  | England  | Simcoe  | June 2 |
+| 13 | 590 | 814 | 3700 | 843 | 797150 Private  |  |  | Walsingham, Ont  | England  | Port Rowan  | Mar. 6 |
+| 13 | 590 | 843 | 3700 | 872 | 797625 Private  |  |  | R.R. No. 3, Delhi, Ont  | U.S.A  | Simcoe  | Mar. 10 |
+| 13 | 589 | 872 | 3699 | 899 | 796632 Private  |  |  | Simcoe, Ont  | Canada  | Simcoe  | Feb. 4 |
+| 13 | 590 | 901 | 3700 | 930 | 796670 Private  |  |  | 138 Head St., Simcoe, Ont  | Canada  | Simcoe  | Feb. 24 |
+| 13 | 590 | 930 | 3700 | 959 | 796646 Private  |  |  | Simcoe, Ont  | Canada  | Simcoe  | Feb. 5 |
+| 13 | 591 | 959 | 3698 | 988 | 796661 Private  |  |  | Simcoe, Ont  | Scotland  | Simcoe  | Feb. 21 |
+| 13 | 591 | 988 | 3699 | 1017 | 797627 Private  |  |  | Delhi, Ont  | Canada  | Simcoe  | Mar. 11 |
+| 13 | 591 | 1017 | 3700 | 1046 | 796625 Private  |  |  | Vittoria, Ont  | England  | Simcoe  | Feb. 2 |
+| 13 | 2302 | 1046 | 3700 | 1075 |  |  |  | Port Rowan, Ont  | Canada  | Port Rowan  | Mar. 24 |
+| 13 | 592 | 1075 | 3701 | 1104 | 796101 Private  |  |  | Simcoe, Ont  | England  | Simcoe  | Jan. 20 |
+| 13 | 963 | 1103 | 3700 | 1133 |  |  |  | Simcoe, Ont  | Canada  | Simcoe  | Feb. 2 |
+| 13 | 2304 | 1132 | 3701 | 1160 |  |  |  | Not stated  | England  | Simcoe  | Feb. 6 |
+| 13 | 2304 | 1161 | 3701 | 1191 |  |  |  | Durham, Ont  | Canada  | Simcoe  | Nov. 19 |
+| 13 | 2302 | 1184 | 3702 | 1220 |  |  |  | Port Dover, Ont  | Scotland  | Simcoe  | Feb. 5 |
+| 13 | 594 | 1219 | 3702 | 1249 | 796010 Private  |  |  | Hawtrey, Ont  | Canada  | Simcoe  | Nov. 19 |
+| 13 | 595 | 1248 | 3700 | 1277 | 797618 Private  |  |  | Seeterville, Ont  | Canada  | Simcoe  | Mar. 1 |
+| 13 | 594 | 1277 | 3703 | 1306 | 796037 Private  |  |  | Head St., Simcoe, Ont  | Canada  | Simcoe  | Dec. 9 |
+| 13 | 595 | 1306 | 3702 | 1335 | 796077 Private  |  |  | Simcoe, Ont  | England  | Simcoe  | Jan. 3 |
+| 13 | 2303 | 1335 | 3702 | 1365 |  |  |  | Port Rowan, Ont  | England  | Port Rowan.... | Dec. 22 |
+| 13 | 2304 | 1364 | 3703 | 1393 |  |  |  | Port Rowan, Ont.-  | England  | Port Rowan.... | Dec. 27 |
+| 13 | 595 | 1393 | 3703 | 1423 | 797217 Private  |  |  | Fitchburg, Mass., U.S.A  | U.S.A  | Simcoe  | June 3 |
+| 13 | 1800 | 1421 | 3704 | 1450 |  |  | Walters, Mrs. J. S  | Waterford, Ont  | Canada  | Simcoe  | Nov. 26 |
+| 13 | 595 | 1450 | 3702 | 1481 | 797543 Co. Q.-M. Sergt... |  |  | Simcoe, Ont  | Canada  | Simcoe  | Jan. 4 |
+| 13 | 2305 | 1479 | 3703 | 1510 |  |  |  | London, Eng  | England  | Simcoe  | Feb. 22 |
+| 13 | 2306 | 1508 | 3703 | 1539 |  |  |  | c'o Campbell Bros., Simcoe, Ont  | Scotland   | Simcoe  | Mar. 3 |
+| 13 | 2304 | 1537 | 3703 | 1568 |  |  |  | 45 McCormack St., Toronto, Ont  | Scotland  | Simcoo  | Feb. 7 |
+| 13 | 596 | 1566 | 3703 | 1597 | 797074 Private  |  |  | Langton, Ont  | Scotland  | Langton  | Dec. 27 |
+| 13 | 2307 | 1594 | 3702 | 1626 |  |  |  | Glenallyn Distillery, Muirtown, Inverness, Scot. | Scotland.... | Simcoe  | Dec. 21 |
+| 13 | 2307 | 1623 | 3701 | 1654 |  |  |  | Huntly, Aberdeen, Scot  | Scotland  | Simcoe  | Mar. 18 |
+| 13 | 1473 | 1653 | 3704 | 1683 |  | 39th Regt  |  | 44 Queen St., Simcoe, Ont  | Canada  | Simcoe  | Jan. 27 |
+| 13 | 2306 | 1681 | 3703 | 1712 |  |  |  | Tillsonburg, Ont  | Canada  | Courtland  | Jan. 4 |
+| 13 | 2307 | 1710 | 3705 | 1740 |  |  |  | Waterford, Ont  | Canada  | Simcoe  | Dec. 25 |
+| 13 | 1473 | 1739 | 3703 | 1769 |  | 39th Regt  |  | Simcoe, Ont  | England  | Simcoe  | Feb. 21 |
+| 13 | 1473 | 1768 | 3705 | 1798 |  | 39th Regt  |  | Simcoe, Ont  | Canada  | Simcoe  | Mar. 26 |
+| 13 | 2309 | 1797 | 3706 | 1829 |  |  |  | R.R. No. 1, Kinglake, Ont  | Canada  | Port Rowan.. | Feb. 26 |
+| 13 | 2309 | 1825 | 3662 | 1855 |  |  |  | Nixon, Ont  | Canada  | Simcoe  | April |
+| 13 | 1472 | 1855 | 3653 | 1886 |  | 39th Regt  | West, W. M. H  | R.R. No. 1, Kinglakc, Ont  | Canada  | Simcoe  | May |
+| 13 | 1802 | 1884 | 3714 | 1914 |  |  | West, Mrs. S.J..  | Simcoe, Ont  | Canada  | Simcoe  | Dec. 6, |
+| 13 | 2310 | 1913 | 3715 | 1943 |  |  |  | Kinglakc, Ont •.  | Canada  | Simcoe  | Feb. 12, |
+| 13 | 2310 | 1942 | 3715 | 1971 |  |  |  | Nixon, Ont  | Canada  | Simcoc  | Feb. 2, |
+| 13 | 597 | 1971 | 3715 | 2002 | 797116 Private  |  |  | R.R. No. 1, Kinglakc, Ont  | Canada  | Simcoe  | Feb. 17, |
+| 13 | 2309 | 2000 | 3715 | 2030 |  |  |  | Simcoe, Ont  | England  | Simcoc  | Jan. 3, |
+| 13 | 2307 | 2028 | 3715 | 2061 |  |  |  | 228 Back St., Birmingham, Eng  | England  | Simcoc  | Nov. 19, |
+| 13 | 598 | 2057 | 3715 | 2092 | 796013 Private  | 30th Rept  |  | Simcoe, Ont  | Canada  | Simcoc  | Nov. 19, |
+| 14 | 737 | 612 | 3245 | 642 |  |  |  | Former Corps. |  |  | Country of |
+| 14 | 550 | 756 | 3742 | 787 | 797199 | Private.. | Wheeler, Ralph Elbert  | 39th | Regt. | Wheeler, John  | Lyncdoch, Ont  | Canada.. | Simcoe  | May | 6. 1916. |
+| 14 | 549 | 784 | 3742 | 815 | 798516 | Private.. | Wheeler, Robert Henry  | 39th | ltcgt. | Wheeler, Mrs. Elsie  | Simcoe, Ont  | Canada.. | Simcoe  | Nov. | 19. 1915. |
+| 14 | 548 | 813 | 3742 | 845 | 796713 | Private.. | White, George  | 39th | Regt. | White, Mrs. Annie  | 76 Mctcalf St., Simcoe, Ont  | England. | Simcoe  | Mar. | 27.1916. |
+| 14 | 548 | 843 | 3743 | 874 | 796504 | Private.. | Whitehorn, Osman Samuel J. | 39th | Regt. | Whitehorn, Mrs. Rosenia  | Simcoe, Ont  | England. | Simcoe  | Nov. | 19, 1915. |
+| 14 | 548 | 869 | 3743 | 903 | 797630 | Private.. | Whiting, William Lewis  | 39th | Regt. | Whiting, Mrs. Laura Bell  | Delhi, Ont  | Canada.. | Simcoe.... | Mar. | 13, 1916. |
+| 14 | 548 | 901 | 3743 | 932 | 797114 | Private.. | Wickens, Leslie George  | 39th | Regt. | Williams, Mrs. Annie  | 19 Carrington Rd., Small Heath, Birmingham, Eng... | Canada.. | Simcoe.... | Feb. | 16, 1916. |
+| 14 | 547 | 930 | 3743 | 961 | 797571 | Private.. | Wilbur, James Arthur  | 39th | Regt. | Wilbur, Henry  | Delhi, Ont  | Canada.. | Simcoe  | Feb. | 1,1916. |
+| 14 | 547 | 959 | 3743 | 990 | 797043 | Private.. | Wilkinson, Ward Henry  | 39th | Regt. | Wilkinson, Alvy  | Courtland, Ont  | Canada.. | Courtland. | Jan. | 4, 1916. |
+| 14 | 547 | 988 | 3743 | 1019 | 796191 | Private.. | Williams, Ernest  | 39th | Regt. | Williams, Mrs. Grace Helena.. | Simcoe, Ont  | England. | Simcoe  | May | 2. 1916. |
+| 14 | 547 | 1017 | 3743 | 1049 | 797203 | Private.. | Williams, Fred  | 39th | Regt. | Williams, Alfred  | Glen Meyer, Ont  | Canada.. | Simcoe  | May | 8, 1916. |
+| 14 | 547 | 1046 | 3743 | 1077 | 797603 | Sergeant. | Wilson, Arthur John  | 39th | Regt. | Wilson, Albert John  | Delhi, Ont  | Canada.. | Simcoe  | Feb. | 18, 1916. |
+| 14 | 546 | 1075 | 3743 | 1107 | 796608 | Private.., | Wilson, Ernest George  | 39th | Regt. | Wilson, Mrs. Margaret  | Simcoe, Ont  | England. | Simcoe  | Jan. | 29, 1916. |
+| 14 | 546 | 1104 | 3744 | 1136 | 796158 | Private... | Wilson, George Stanley  | 39th | Regt. | Wilson, Mrs. Edna  | Simcoe, Ont  | Canada.. | Simcoe  | Mar. | 10, 1916. |
+| 14 | 545 | 1132 | 3744 | 1165 | 796640 | Private... | Wilson, Harry   | 39th | Regt. | Wilson, Mrs. Emma Elizabeth. | Simcoe, Ont ,  | England. | Simcoe  | Feb. | 8, 1916. |
+| 14 | 543 | 1161 | 3745 | 1194 | 797528 | Private... | Wilson, Hugh  | 39th | Regt. | Wilson, Mrs. John  | R.R. No. 1, Villanova, Ont  | Canada.. | Simcoe  | Dec. | 14. 1915. |
+| 14 | 543 | 1190 | 3745 | 1222 | 786587 | Private... | Wilson, James Thomas  | 39th | Regt. | Green, E. Manuel  | P.O. Box 170, Simcoe, Ont  | England. | Simcoe  | Jan. | 17.1916. |
+| 14 | 542 | 1219 | 3745 | 1252 | 797133 | Private... | Wilson, Peter Egbert  | 39th | Regt. | Wilson, Mrs. Susan  | Frogmore, Ont  | Canada.. | Simcoe  | Feb. | 26.1916. |
+| 14 | 542 | 1248 | 3745 | 1281 | 79G671 | Private... | Wilson, Russel John  | 39th | Regt. | Wilson, John  | Simcoe, Ont  | Canada.. | Simcoe  | Feb. | 23, 1916. |
+| 14 | 541 | 1278 | 3745 | 1310 | 796032 | Private... | Winfield, Wilfred  | 39th | Regt. | Winfield, Mrs. E  | Bierton, Aylesbury, Bucks, Eng  | England. | Simcoe  | Dec. | 18, 1915. |
+| 14 | 541 | 1306 | 3745 | 1339 | 797097 | Private... | Wingfield, Bert  | 39th | Regt. | Wingfield, Mrs. Florence  | Courtland, Ont  | England. | Courtland. | Jan. | 4, 1916. |
+| 14 | 541 | 1335 | 3745 | 1368 | 797139 | Corporal. | Wingrove, George Alexander.. | 39th | Regt. | Wingrove, Mrs. Amy  | Port Rowan, Ont  | Canada.. | Simcoe  | Feb. | 29, 1916. |
+| 14 | 541 | 1364 | 3746 | 1397 | 797644 | Private... | Winn, George  | 39th | Regt. | Thompson, Mrs  | 581 Gladwin Ave., Detroit, Mich., D.S.A  | Canada.. | Simcoe  | April | 1, 1916. |
+| 14 | 540 | 1393 | 3746 | 1426 | 793176 | Private... | Winter, Frederick  | 39th | Regt. | Winter, Mrs. Lea Nora  | Norwich Jet., Ont  | England. | Simcoe  | Mar. | 31.1916. |
+| 14 | 539 | 1422 | 3746 | 1455 | 796677 | Private... | Winters, William  | 39th | Regt. | Winters, Daniel  | Simcoe, Ont  | Canada.. | Simcoe  | Feb. | 16. 1916. |
+| 14 | 538 | 1451 | 3745 | 1483 | 796522 | Private... | Witham, Arthur Edward  | 39th | Regt. | Witham, Arthur  | Toronto, Ont  | Canada.. | Simcoe  | Doc. | 31, 1915. |
+| 14 | 537 | 1480 | 3746 | 1513 | 796109 | Private... | Witherspoon, Charles Alec  | 39th | Regt. | Witherspoon, Charles  | Simcoe, Ont  | Canada.. | Simcoe  | Jan. | 25.1916. |
+| 14 | 537 | 1506 | 3746 | 1542 | 796526 | Private... | Wood, Arnold  | 39th | Regt. | Wood, Harry George E  | 21 Markham Sq., Chelsea, London, Eng  | England. | Simcoe  | Dec. | 6.1915. |
+| 14 | 537 | 1538 | 3746 | 1571 | 796092 | Private... | Wood, John  | 39th | Regt.. | Wood, James  | Simcoe, Ont  | England. | Simcoe  | Jan. | 10.1916. |
+| 14 | 537 | 1567 | 3746 | 1600 | 797047 | Private... | Woodey, William Henry  | 39th | Regt. | Woodey, Mrs. Gertrude  | St. Williams, Ont  | England. | St. Williams  | Jan. | 5.1916. |
+| 14 | 536 | 1596 | 3746 | 1629 | 796171 | Private... | Woolley, Frank Carpenter  | 39th | Regt. | Woolley, D. McF  | Simcoe, Ont   | Canada.. | Simcoe  | Mar. | 27.1916. |
+| 14 | 536 | 1625 | 3746 | 1658 | 796201 | Private... | Wright, Harry Orlando  | 39th | Regt. | Wright, Mrs. Eunice  | 165 Borden St., Toronto, Ont  | England. | Toronto  | May | 26.1916. |
+| 14 | 536 | 1654 | 3746 | 1687 | 797537 | Private... | Wrigley, Harold  | 39th | Regt. | Wrigley, Mrs. Kate  | 93 Cumdy St., Walkley, Sheffield, Eng  | England. | Simcoe  | Dec. | 10,1915. |
+| 14 | 535 | 1683 | 3746 | 1716 | 790611 | Private... | Youmans, Ernest  | 39th | Regt. | Youmans, Lewis  | Simcoe, Ont ••  | Canada.. | Simcoe  | Feb. | 2.1916. |
+| 14 | 536 | 1712 | 3746 | 1745 | 796569 | Private... | Young, Charles Walter  | Nil.. | Young, Alexander Charles  | Simcoe, Ont  | Canada.. | Simcoe  | Dec. | 10, 1915. |
+| 14 | 535 | 1741 | 3746 | 1774 | 797530 | Private... | Young, Clarence  | Nil.. | Young, Alva  | Delhi, Ont  | Canada.. | Simcoe  | Dec. | 13, 1915. |
+{% endraw %}

@@ -1,0 +1,219 @@
+---
+title: 5th Battalion (Honours, Awards, Distinctions)
+---
+
+{% raw %}
+| | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 478 | 506 | 2577 | 541 |  |  |  |  | Major ... | Lieut.-Col. | G. S. T. Pragnell |
+| 1 | 1741 | 600 | 2579 | 631 |  |  |  |  | The Rev. | The Rev. | Ambrose Madden |
+| 1 | 1723 | 654 | 2524 | 689 |  |  |  |  | Major ... | Major ... | I. L. Crawford |
+| 1 | 1723 | 709 | 2512 | 744 |  |  |  |  | Major ... | Major ... | C. K. L. Pyman |
+| 1 | 1721 | 786 | 2538 | 822 |  |  |  |  | Capt. ... | Lieut.-Col. | Robert Murdie |
+| 1 | 1720 | 839 | 2532 | 875 |  |  |  |  | Capt. ... | Major ... | K. A. Mahaffey |
+| 1 | 1721 | 894 | 2595 | 929 |  |  |  |  | Capt. ... | Capt. ... | J. F. P. Nash . |
+| 1 | 1720 | 972 | 2597 | 1007 |  |  |  |  | Capt. ... | Capt. ... | Stanley Anderson |
+| 1 | 1720 | 1024 | 2482 | 1061 |  |  |  |  | Capt. ... | Capt. ... | E.C.Jackson |
+| 1 | 314 | 1182 | 2422 | 1218 |  | RANK AT DATE PRESENT DAY |  |  | Capt. ... | Capt. ... | A. C. Ross |
+| 1 | 163 | 1218 | 2443 | 1243 | NO. OF AWARD. |  | RANK. |  |  |  | (Died of Wounds) |
+| 1 | 318 | 1249 | 2516 | 1289 |  | Lieut.-Col. | Brig.-Gen. | Hugh Marshal | Lieut. ... | Capt. ... | R. G. Foulkes |
+| 1 | 318 | 1303 | 2436 | 1343 |  | Brig.-Gen. | Brig.-Gen. | E. Hilliam. | Lieut. ... | Capt. ... | W. Willis |
+| 1 | 318 | 1359 | 1040 | 1390 |  | Lieut.-Col. | Lieut.-Col. | L. F. Page |
+| 1 | 319 | 1413 | 1108 | 1444 |  | Lieut.-Col. | Lieut.-Col. | L. P. O. Tudor |
+| 1 | 1721 | 1457 | 2487 | 1493 |  |  |  |  | Capt. ... | Capt. ... | M. J. Graham |
+| 1 | 319 | 1466 | 1120 | 1504 |  | Major ... | Major ... | I. L. Crawford |
+| 1 | 1721 | 1511 | 2502 | 1547 |  |  |  |  | Capt. ... | Capt. ... | J. E. Purslow |
+| 1 | 320 | 1519 | 1102 | 1554 |  | Major ... | Major ... | C. K. L. Pyman |
+| 1 | 1722 | 1565 | 2475 | 1602 |  |  |  |  | Capt. ... | Capt. ... | A. S. Porter |
+| 1 | 1723 | 1619 | 2509 | 1655 |  |  |  |  | Capt. ... | Capt. . . | Basil George |
+| 1 | 320 | 1672 | 2557 | 1713 |  | Major ... Brig.-Gen. Hugh Marshal Dyer |  |  | Capt. ... | Capt. ... | J. S. McGlashan |
+| 1 | 322 | 1727 | 2491 | 1767 |  | Major ... Brig.-Gen. Edward Hilliam |  |  | Capt. ... | Capt. ... | D. A. Bissett |
+| 1 | 321 | 1780 | 2622 | 1821 |  | Major ... Lieut.-Co!. L. F. Page |  |  | Capt. ... | Capt. ... | A. A. E. Batchelor |
+| 1 | 324 | 1835 | 2471 | 1871 |  | Lieut.-Col. Lieut.-Col. L. P. O. Tudor |  |  | Capt. .. : | Capt. ... | R. Lingford |
+| 1 | 323 | 1889 | 2473 | 1925 |  | Lieut.-Col. Lieut.-Col. H. W. Harbord |  |  | Capt. ... | Capt. ... | S. G. Carson |
+| 2 | 368 | 178 | 2605 | 215 | Lieut. ... | Major ... | J. G. Anderson | 13281 | C.S.M. . | . Lieut. | R. W. Sheffield |
+| 2 | 1618 | 232 | 2604 | 269 |  |  |  | 13200 | Sergt. . | . Capt. | J. S. McGlashan |
+| 2 | 368 | 257 | 1187 | 294 | Capt. ... | Major ... | K. A. Mahaffey |
+| 2 | 1621 | 285 | 2503 | 323 |  |  |  | 12877 | Pte. . | . Sergt. | J. M. McKie |
+| 2 | 371 | 310 | 1239 | 349 | Lieut. ... | Major ... | K. L. T. Campbell |
+| 2 | 917 | 339 | 2475 | 376 |  |  | (Killed in Action) | 13394 | Sergt. . | . Sergt. | John Moir |
+| 2 | 372 | 390 | 2544 | 429 | Hon. Capt. | Hon. Major | Ambrose Madden | 12736 | Cpl. . | . Lieut. | E. G. McFeat |
+| 2 | 1621 | 447 | 2545 | 484 |  |  |  | 12605 | Pte. . | . Cpl. | E. H. Hester |
+| 2 | 370 | 485 | 1204 | 523 | Capt. ... | Capt. ... | William Brown |
+| 2 | 1590 | 500 | 2562 | 537 |  |  |  | A40275 | L.-Cpl. . | . Sergt. | R. A. Edmunds |
+| 2 | 373 | 539 | 1182 | 574 | Lieut. ... | Capt. ... | A. H. R. McKay |
+| 2 | 1016 | 567 | 2660 | 604 |  |  |  | 886050 | Sergt. . | . Sergt. | M. D. H. McKenzie |
+| 2 | 372 | 618 | 2589 | 653 | Lieut. ... | Capt. ... | M. McGregor | 907091 | Pte. . | . Pte. | W. R. Howland |
+| 2 | 372 | 671 | 2499 | 707 | Lieut. ... | Capt. .. | H. D. Hedley | 267128 | Pte. . | . Pte. | A. Hoadley |
+| 2 | 372 | 724 | 2646 | 766 | Lieut. ... | Capt. ... | E. H. Latter | A24174 | Pte. . | . Lieut. | J. F. A. H. Lindsay |
+| 2 | 373 | 777 | 2496 | 813 | Lieut. ... | Capt. ... | W. C. McDonnell | A40675 | Pte. . | . Pte. | R. A. Coles |
+| 2 | 373 | 832 | 2525 | 873 | Lieut. ... | Capt. ... | W. Willis | 21855 | Pte. | . Pte. | R. W. Joslyn |
+| 2 | 374 | 886 | 1157 | 921 | Lieut. ... | Capt. ... | G. E. Hocking |
+| 2 | 1622 | 903 | 2547 | 934 |  |  |  | 13722 | Pte. . | . Lieut. | N. M. Cowell |
+| 2 | 373 | 939 | 1156 | 974 | Lieut. ... | Capt. ... | R. G. Foulkes |
+| 2 | 1622 | 956 | 2557 | 987 |  |  |  | 13022 | Pte. . | . Pte. | T. M. Maguire |
+| 2 | 374 | 992 | 1152 | 1023 | Lieut. ... | Lieut. ... | G. B. Roberts |
+| 2 | 1622 | 1011 | 2457 | 1046 |  |  |  | 13204 | A.-Cpl. . | . A.-Cpl. | G. White |
+| 2 | 375 | 1045 | 1248 | 1076 | Lieut. ... | Lieut. ... | W. W. McClellan |
+| 2 | 1590 | 1063 | 2585 | 1094 |  |  |  | A24081 | Pte. . | . Pte. | A. H. V. Wythe |
+| 2 | 374 | 1099 | 1112 | 1134 | Lieut. ... | Lieut. ... | W. E.James |
+| 2 | 1622 | 1117 | 2460 | 1154 |  |  |  | 13762 | Pte. . | . Pte. | J. McIvor |
+| 2 | 376 | 1152 | 1141 | 1183 | Lieut.' ... | Lieut. ... | W. R. Welch |
+| 2 | 1621 | 1171 | 2471 | 1201 |  |  |  | 13760 | Pte. . | . Pte. | N. McIvor |
+| 2 | 377 | 1206 | 1071 | 1242 | Lieut. ... | Capt. ... | A. C. Ross |
+| 2 | 1622 | 1225 | 2534 | 1261 |  |  |  | 13649 | Sergt. . | . Sergt. | L. B. Hughes |
+| 2 | 375 | 1279 | 2493 | 1321 | Lieut. ... | Lieut. ... | J. E. H. Laidlaw | 907929 | Pte. . | . Cp!.-A-S | A. B. Angus |
+| 2 | 377 | 1340 | 2526 | 1381 | Lieut. ... | Lieut. ... | G. F. Adams | 424365 | Pte. . | . A.-L.-Cp | F. J. Tingley |
+| 2 | 377 | 1393 | 1176 | 1423 | Lieut. ... | Lieut. ... | T. W. Cogland |
+| 2 | 1603 | 1424 | 2541 | 1460 |  |  |  | 147564 | Sergt. . | . Sergt. | D. Madowei.l |
+| 2 | 377 | 1446 | 1158 | 1478 | Lieut. ... | Lieut. ... | T. B. Chapman |
+| 2 | 1625 | 1478 | 2536 | 1514 |  |  |  | 13369 | Sergt. . | . Sergt. | A. McDonald |
+| 2 | 379 | 1501 | 1069 | 1531 | Lieut. ... | Lieut. ... | D. Gibson |
+| 2 | 873 | 1532 | 2554 | 1568 |  |  | (Killed in Action) | 440702 | Cpl. . | . Sergt. | Joseph Fisher |
+| 2 | 377 | 1580 | 1135 | 1610 | Lieut. ... | Lieut. ... | T. F. Carter |
+| 2 | 1747 | 1611 | 2525 | 1642 |  |  |  |  | 2nd BAR | TO MIL | ARY MEDAL. |
+| 2 | 379 | 1634 | 1099 | 1668 | Lieut. .. | Lieut. ... | M. J. Dobie |
+| 2 | 1625 | 1672 | 2537 | 1709 |  |  |  | 13609 | A C.S.M. | A C.S.M | J. H. Bowyer |
+| 2 | 379 | 1791 | 1128 | 1824 | R.S.M. ... | R.S.M. ... | A. G. Mackie |
+| 2 | 1625 | 1819 | 2536 | 1855 |  |  |  | 13609 | Sergt. . | .. A C.S.M... | J. H. Bowyer |
+| 2 | 377 | 1846 | 1051 | 1876 | A.-R.S.M. | A.-R.S.M. | R. Blair |
+| 2 | 1594 | 1873 | 2463 | 1904 |  |  |  | A24140 | C.S.M. . | .. Lieut. ... | D. Gibson |
+| 2 | 377 | 1896 | 2403 | 1936 | C.S.M. ... | Lieut. ... | M. J. Dobie |  |  |  | (Killed! |
+| 3 | 195 | 113 | 2468 | 149 | 81061 | Cpl. | Cpl. | ... H. McC. Montgomery | 13629 | Cpl. | Lieut. | H.Cobham |
+| 3 | 176 | 166 | 2625 | 200 | 436352 | Sergt. | Lieut. | ... P. B. Chapman | 907235 | Pte. | . Pte. | D. K. L. O. Brown |
+| 3 | 200 | 218 | 2468 | 255 | 13979 | Cpl. | C.S.M. | ... W. Barrett | 424104 | Sergt. | . Sergt. | L. Brau&id |
+| 3 | 181 | 271 | 2522 | 307 | 198952 | Pte. | Cpl. | ... O. Belanger | A24252 | L.-Cpl. . | .. Sergt. | L. R. Zengal |
+| 3 | 182 | 324 | 2541 | 360 | 199182 | Sergt. | Sergt. | ... R. Shaw | 908156 | Pte. | .. Cpl. | R. McChesney |
+| 3 | 1586 | 377 | 2506 | 412 |  |  |  |  | 888069 | L.-Cpl. . | .. L.-Cpl. ... | F. H. Finnie |
+| 3 | 504 | 430 | 2499 | 466 |  |  | MI | LITARY | MEDAL. | 148120 | Cpl. | .. Cpl. | A. E. Knott |
+| 3 | 1587 | 484 | 2589 | 514 |  |  |  |  | 925727 | Pte. | .. Pte. | W. H. Anderson |
+| 3 | 204 | 510 | 1108 | 546 | 13782 | Sergt. | C.S.M. | ... M. Morrison |
+| 3 | 1588 | 536 | 2445 | 572 |  |  |  |  | 441111 | L.-Cpl. . | .. Sergt. | E. Young |
+| 3 | 171 | 564 | 1061 | 600 | A40432 | Sergt. | Sergt. | ... G. E. Bain |
+| 3 | 1592 | 591 | 2464 | 625 |  |  |  |  | 104744 | Sergt. | .. Sergt. | B. Abbott |
+| 3 | 205 | 618 | 1129 | 654 | 13306 | Sergt. | Sergt. | ... T. M. Simpson |
+| 3 | 876 | 643 | 2475 | 679 |  |  |  |  | 441064 | Cpl. | .. Sergt. | J. T. Riley |
+| 3 | 206 | 696 | 2516 | 732 | 13100 | Cpl. | Lieut. | ... C. Frey | A24123 | Cpl. | L.-Sergt  | R. C- Coutts |
+| 3 | 173 | 750 | 2493 | 787 | A24005 | L.-Cpl. ... | Sergt. | ... H. Batchelor | 21298 | Pte. | .. Pte. | R. J. Green |
+| 3 | 206 | 803 | 2581 | 841 | 13276 | Pte. | Sergt. | ... H. P. Sutherland | 105478 | Cpl. | .. Cpl. | J. D. P. Perkins |
+| 3 | 203 | 857 | 2491 | 895 | 21887 | Sergt. | Lieut. | ... W. Scanlan | A40492 | Pte. | .. Pte. | A. F. Gowe |
+| 3 | 1611 | 909 | 2662 | 946 |  |  |  |  | 13742 | Cpl. | .. Sergt. | A. A. E. R. Chivers- |
+| 3 | 206 | 936 | 1222 | 974 | 13142 | Sergt. | Sergt. | ... James Allan Reid |
+| 3 | 1612 | 1007 | 2529 | 1044 |  |  |  |  | 13640 | Sergt. | .. Sergt. | A. M. Hanson |
+| 3 | 206 | 1016 | 1166 | 1053 | 13456 | Sergt. | Sergt. | ... Auston Patton |
+| 3 | 1584 | 1061 | 2540 | 1098 |  |  |  |  | A24063 | Sergt. | Lieut. | W. G. Moxley |
+| 3 | 207 | 1070 | 1141 | 1107 | 12641 | Sergt. | Captain | ... Rex Lingford |
+| 3 | 204 | 1124 | 1206 | 1161 | 81965 | Sergt. | Sergt. | ... J. M. Williamson |
+| 3 | 1614 | 1139 | 2506 | 1176 |  |  |  |  | 13079 | Cpl. | .. C.S.M. ... | W. Barrett |
+| 3 | 182 | 1177 | 1178 | 1214 | 441005 | Sergt. | Sergt. | .. Y. W. Mitchell |
+| 3 | 1579 | 1193 | 2458 | 1228 |  |  |  |  | A24140 | Cpl. | Lieut. | B. Gibson |
+| 3 | 184 | 1231 | 1087 | 1268 | 887762 | A.-L-Cpl. | L.-Cpl. | ... F. C. Evers |
+| 3 | 1615 | 1247 | 2534 | 1282 |  |  |  |  | 13609 | Pte. | .. A. C.S.M. | J. H. Bowyer |
+| 3 | 183 | 1286 | 1165 | 1323 | 926046 | Sergt. | Sergt. | ... W. J. Ferguson |
+| 3 | 1612 | 1300 | 2506 | 1337 |  |  |  |  | 81895 | L.-Cpl. . | Lieut. | C. Tansgrud |
+| 3 | 187 | 1340 | 1109 | 1372 | 147787 | Pte. | Pte. | ... R. Halliday |
+| 3 | 1615 | 1355 | 2538 | 1390 |  |  |  |  | 13083 | Pte. | .. L.-Cpl. ... | G. Batchelor |
+| 3 | 183 | 1394 | 1040 | 1431 | 440702 | Sergt. | Sergt. | ... J. FIsher |
+| 3 | 1615 | 1408 | 2433 | 1444 |  |  |  |  | 13787 | Pte. | L.-Sergt.... | Guy Oke |
+| 3 | 184 | 1448 | 1097 | 1485 | 460838 | L.-Cpl. ... | Cpl. | ... S. A. Leslie |
+| 3 | 1612 | 1462 | 2548 | 1494 |  |  |  |  | 81894 | Pte. | Lieut. | W. S. Laidlaw |
+| 3 | 186 | 1501 | 1091 | 1537 | 887762 | Pte. | L.-Cpl. | ... F. C. Evers |
+| 3 | 1616 | 1541 | 2542 | 1577 |  |  |  |  | 13045 | Pte. | .. Cpl. | Robert W'eir |
+| 3 | 186 | 1555 | 1047 | 1593 | 907082 | L.-Cpl. ... | L.-Cpl. | ... R. White |
+| 3 | 186 | 1609 | 1024 | 1647 | 907545 | L.-Cpl. ... | L.-Cpl. | ... J. Allan |
+| 3 | 1613 | 1621 | 2734 | 1656 |  |  |  |  | 81061 | Cpl. | .. Cpl. | H. Mc.C. Montgomery |
+| 3 | 185 | 1663 | 1165 | 1699 | 473247 | Pte. | Pte. | ... J. H. Copeland |
+| 3 | 1580 | 1678 | 2632 | 1714 |  |  |  |  | A24174 | Pte. | Lieut. | J. F. A. H. Lindsay |
+| 3 | 189 | 1717 | 1047 | 1751 | 147822 | Pte. | Pte. | ... H. Toole |
+| 3 | 1591 | 1738 | 2490 | 1773 |  |  |  |  | 426083 | Pte. | Pte. | J. F. Regan |
+| 3 | 177 | 1772 | 1160 | 1805 | A24082 | Pte. | Pte. | ... S. A. L. Wythe |
+| 3 | 187 | 1818 | 2511 | 1865 | 441027 | Sergt. | Sergt. | ... W. F. Baillie | 81806 | Pte. | .. Sergt. | L. Skolrood |
+| 4 | 246 | 95 | 2545 | 136 | 13030 | Pte. | Pte. | J. C. Peacley | 198952 | Pte. | Cpl. | O. Belanger |
+| 4 | 220 | 148 | 2562 | 191 | 424213 | Pte. | Pte. | J. D. Strater | 198774 | Pte. | Pte. | R. McDonald |
+| 4 | 248 | 204 | 2452 | 244 | 13027 | Pte. | Pte. | . A. J. Offley | 198182 | Sergt. | Sergt. | R. Shaw |
+| 4 | 226 | 257 | 2534 | 294 | 151216 | Pte. | Pte. | . 11. Rodgerson | 105323 | Cpl. | Cpl. | W. C. Allen |
+| 4 | 222 | 312 | 2470 | 349 | 466368 | Pte. | Pte. | C. W. Walker | 268123 | Pte. | Pie. | J. Currie |
+| 4 | 1604 | 366 | 2571 | 402 |  |  |  |  | 1018608 | Pte. | Pte. | J. H. Phillips |
+| 4 | 248 | 395 | 1184 | 432 | 12892 | Pte. | Sergt. | A. XV. Richard |
+| 4 | 972 | 418 | 2558 | 454 |  |  |  | (Killed) | 886369 | A.-L.-Cpl. | A.-L.-Cpl. | XV. Dickinson |
+| 4 | 264 | 474 | 2730 | 510 | 6018 | Cpl. | Cpl. | J. Perry | 1018135 | Pte. | Pte. | J. C. Ratcliffe-Smith |
+| 4 | 244 | 526 | 2463 | 564 | 73175 | L.-Cpl. . | L.-Cpl. .. | N. E. S. Pengelly | A24030 | Cpl. | Sergt. | W. Kerr |
+| 4 | 246 | 580 | 2585 | 619 | 12754 | Pte. | Sergt. | W. J. Pikes | 466537 | Cpl. | Sergt. | C. T.'L. Javens |
+| 4 | 221 | 634 | 2549 | 672 | 440565 | Cpl. | C.Q.M.S... | J. Nicklin | 1018186 | Pte. | Pte. | C. W. Gibson |
+| 4 | 225 | 688 | 2542 | 726 | 195425 | Sergt. | Sergt. | R. H. Morrison | 907100 | Sergt. | Sergt. | A. Thompson |
+| 4 | 1621 | 742 | 2527 | 776 |  |  |  |  | 440130 | L.-Cpl. ... | Cpl. | W. Spencer |
+| 4 | 221 | 769 | 1141 | 805 | 441218 | L.-Sergt. | Sergt. | J. Moriakity |
+| 4 | 949 | 796 | 2445 | 828 |  |  |  | (Killed in Action) | 441167 | Pte. | Pte. | H. Best |
+| 4 | 221 | 848 | 2467 | 883 | 441050 | Sergt. | C.S.M. .. | W. Kerfoot | 907361 | Cpl. | A.-Sergt. .. | T. Hagan |
+| 4 | 221 | 902 | 2510 | 939 | 925114 | Pte. | Cpl. | P. J. ISSAC | 925959 | Cpl. | A.-Sergt. .. | J. G. Quinn |
+| 4 | 224 | 955 | 2556 | 991 | 104315 | Pte. | Cpl. | J. W. Hendry | 267850 | Pte. | Pte. | L. G. Pickles |
+| 4 | 221 | 1009 | 2523 | 1045 | 427466 | Pte. | Pte. | J. R. Hyde | 440391 | L.-Sergt.... | L.-Sergt... | D. A. Lewis |
+| 4 | 223 | 1063 | 2579 | 1098 | 147787 | Pte. | Pte. | R. Halliday | A40778 | Sergt. ... | A-C.S.M... | H. G. Phillips |
+| 4 | 219 | 1117 | 2569 | 1153 | 424149 | Sergt. | Sergt. | P. Howarth | A24244 | Sergt. ... | Sergt. | W. C. Waters |
+| 4 | 245 | 1170 | 2550 | 1207 | 13478 | L.-Cpl. .. | Sergt. | H. Hing | 1051523 | Pte. | Pte. | W. J. Clarke |
+| 4 | 245 | 1224 | 2566 | 1261 | 13233 | Sergt. | Sergt. | W. Graham | 198176 | Pte. | Ptel | W. N. Brooks |
+| 4 | 220 | 1278 | 2438 | 1316 | 436352 | Sergt. ... | Lieut. | T. B. Chapman | 440475 | Pte. | Pte. | A. Duff |
+| 4 | 221 | 1331 | 2662 | 1366 | 886410 | Pte. | Pte. | C. G. Bryden | 925676 | Pte. | Pte. | C. A. Hallonquist |
+| 4 | 221 | 1385 | 2618 | 1420 | 907619 | Pte. | Pte. | B. XV. Briggs | 440017 | Cpl. | Cpl. | XV. O. Hamilton |
+| 4 | 247 | 1438 | 2593 | 1474 | 13078 | Pte. | Lieut. | W. A. Baker | 258112 | Pte. | A. L.-Cpl. | W. J. McAlvey |
+| 4 | 243 | 1491 | 2559 | 1531 | 81842 | Sergt. .. | Lieut. | A. Squair | 907308 | Pte. | A.-L.-Cpl. | P. L. Graham |
+| 4 | 225 | 1546 | 2634 | 1585 | 198769 | Cpl. | Sergt. | XV. Mitchell | 13692 | Pte. | Pte. | L. R. Whitelock |
+| 4 | 223 | 1599 | 2661 | 1633 | 255473 | Pte. | Pte. | C. R. Wood | 1051581 | Pte. | Pte. | E. W. Martindale |
+| 4 | 203 | 1654 | 2453 | 1690 | 1018393 | Pte. | Pte. | H.Sangry | 13268 | L.-Cpl. ... | A.-Cpl. ... | J. Inglis |
+| 4 | 226 | 1708 | 2565 | 1744 | 198283 | Pte. | Pte. | . F. Moore | 463869 | Pte. | A.-L.-Cpl. | E. Entwistle |
+| 4 | 203 | 1762 | 2517 | 1800 | 1051134 | Pte. | L.-Cpl. .. | J. Allenby | 105866 | Pte. | Pte. | H. S. Allen |
+| 4 | 222 | 1816 | 2521 | 1855 | 907305 | Sergt. | Sergt. | P. S. Clark | 907289 | L.-Sergt.... | L.-Sergt.... | W. J. Pratt |
+| 5 | 192 | 46 | 2615 | 84 | 925512 | Pte. | Pte. | S. Mann | 81965. | Cpl. | Sergt. | J. M. Williamson |
+| 5 | 191 | 101 | 2500 | 139 | 440221 | Pte. | Pte. | H. Gibson | A24065 | L.-Cpl. ... | Sergt. ... | A. McGuire |
+| 5 | 174 | 154 | 2500 | 191 | 1051505 | Pte. | Pte. | J. Grant | 199279 | Pte. | Pte. | D. Labelle |
+| 5 | 212 | 207 | 2555 | 247 | 21633 | Pte. | Pte. | H. Murphy | 198743 | L.-Cpl. ... | Sergt. | E. W. Hymers |
+| 5 | 191 | 261 | 2602 | 300 | 874249 | Pte. | Pte. | L. C. E. Madgwick | 13021 | Sergt. | Lieut. | L. W. G. Meikle |
+| 5 | 190 | 315 | 2604 | 352 | 907970 | Cpl. | A.-Sergt. .. | F. G. Blow | -1018690 | Pte. | Pte. | N. G. Sanderson |
+| 5 | 190 | 369 | 2581 | 408 | 908181 | Pte. | Pte. | H. H. McCallum | A24137 | Sergt .... | Sergt. | C. G. Fletcher |
+| 5 | 174 | 423 | 1084 | 455 | 1051482 | Pte. | Pte. | P. Croteau |
+| 5 | 1622 | 450 | 2593 | 486 |  |  |  |  | 81399 | Sergt. | Sergt. | C. R. Holmberg |
+| 5 | 174 | 477 | 2435 | 509 | 1069322 | Pte. | Pte. | M. M. Smith |  |  |  | (Killed) |
+| 5 | 214 | 528 | 2429 | 568 | 21654 | Pte. | L.-Cpl. .. | H. Rainbird | A24221 | Pte. | Pte. | F. Swan |
+| 5 | 196 | 584 | 1078 | 616 | 195885 | Pte. | Pte. | H. C. Bull |
+| 5 | 1602 | 607 | 2639 | 643 |  |  |  |  | 441014 | Cpl. | Sergt. | A. J. Bossenberry |
+| 5 | 192 | 638 | 1103 | 670 | 424867 | Pte. | Pte. | W. Kolesar |
+| 5 | 1602 | 661 | 2518 | 697 |  |  |  |  | 886562 | Cpl. | Cpl. | R. T. Moore |
+| 5 | 192 | 691 | 1153 | 723 | 907184 | Pte. | Pte. | R. Tweeddale |
+| 5 | 1604 | 715 | 2588 | 745 |  |  |  |  | 267225 | Pte. | Pte. | W. E. Sheppard |
+| 5 | 191 | 745 | 1085 | 777 | 907359 | Pte. | Pte. | M. McLeay |
+| 5 | 1603 | 768 | 2461 | 804 |  |  |  |  | 925240 | Cpl. | Cpl. | W. Smith |
+| 5 | 179 | 799 | 1050 | 836 | A40542 | A.-Sergt... | Sergt. | A. McLay |
+| 5 | 1602 | 821 | 2597 | 857 |  |  |  |  | 441005 | Sergt. | Sergt. | V. W. Mitchell |
+| 5 | 191 | 852 | 1173 | 891 | 926046 | L.Cpl. ... | Lieut. | W. J. Ferguson |
+| 5 | 1584 | 876 | 2644 | 909 |  |  |  |  | 1018003 | Pte. | Pte. | E. B. Bloomfield, |
+| 5 | 195 | 906 | 1067 | 944 | 174568 | Cpl. | Sergt. | B. Fraser |
+| 5 | 1585 | 929 | 2505 | 965 |  |  |  |  | 1018123 | A.-L.-Cpl. | A.-L.-Cpl. | J. H. Coker |
+| 5 | 192 | 962 | 1076 | 992 | 449115 | Pte. | Pte. | W. Dilbey |
+| 5 | 1607 | 982 | 2473 | 1019 |  |  |  |  | 150474 | Sergt. | Sergt. | W. C. Lee |
+| 5 | 192 | 1016 | 1097 | 1046 | 908082 | Pte. | Pte. | \V. Elliott |
+| 5 | 1597 | 1036 | 2584 | 1072 |  |  |  |  | A40697 | Pte. | At-Cpl. ... | W. C. Davidson |
+| 5 | 192 | 1070 | 1073 | 1099 | 925157 | Pte. | Pte. | F. Mayeur |
+| 5 | 1604 | 1090 | 2515 | 1120 |  |  |  |  | 888339 | Pte. | Pte. | E. WlLMOTT |
+| 5 | 192 | 1123 | 1041 | 1153 | 907068 | Pte. | Pte. | M.Stark |
+| 5 | 1604 | 1144 | 2519 | 1179 |  |  |  |  | 267991 | Cpl. | Cpl. | M. C. Exter |
+| 5 | 191 | 1177 | 1163 | 1213 | 436680 | Sergt. | C.S.M. .. | J. McWilliams |
+| 5 | 1603 | 1196 | 2433 | 1233 |  |  |  |  | 441285 | L.-Sergt. ... | L.-Sergt.... | W. Low |
+| 5 | 193 | 1231 | 1071 | 1266 | 104240 | Pte. | Cpl. | S. Fowler |
+| 5 | 1603 | 1250 | 2503 | 1281 |  |  |  |  | 461395 | Pie. | Pte. | E. C. Mills |
+| 5 | 216 | 1285 | 1188 | 1322 | 13544 | Cpl. | Sergt. | E. H. Scammell |
+| 5 | 1603 | 1304 | 2459 | 1341 |  |  |  |  | 925930 | Cpl. | Cpl. | A. LaBay |
+| 5 | 191 | 1338 | 1058 | 1375 | 887932 | Pte. | Pte. | J. H. Pass |
+| 5 | 1607 | 1358 | 2490 | 1389 |  |  |  |  | 105999 | C.S.M. ... | C.S.M. ... | S. H. Cook |
+| 5 | 215 | 1392 | 1034 | 1429 | 13420 | L.-Sergt... | L.-Sergt. .. | S. Clark |
+| 5 | 1602 | 1412 | 2502 | 1442 |  |  |  |  | 440293 | Pte. | Pte. | B. H. Shaw |
+| 5 | 189 | 1450 | 1092 | 1481 | 440622 | Pte. | Pte. | G. Welham |
+| 5 | 1602 | 1470 | 2467 | 1507 |  |  |  |  | 466198 | Sergt. | Sergt. | J. Rennie |
+| 5 | 190 | 1510 | 1062 | 1547 | 925626 | Cpl. | Sergt. | E. Strate |
+| 5 | 1606 | 1530 | 2519 | 1566 |  |  |  |  | 104365 | L.-Sergt.... | Sergt. | A. Williams |
+| 5 | 1604 | 1589 | 2500 | 1620 |  |  |  |  | 267393 | Pte. | Pte. | L. Tetlock |
+| 5 | 193 | 1597 | 1063 | 1633 | 174572 | Pte. | L.-Cpl. .. | J. Gorman |
+| 5 | 194 | 1649 | 2467 | 1691 | 147467 | Pte. | Cpl. | T. J. Miller | A40549 | A.-L.-Cpl. | A.-L.-C.pl. | A. Mackie |
+| 5 | 190 | 1710 | 2511 | 1746 | 935059 | Pte. | Pte. | W. Hodgson | 424070 | Cpl. | Cpl. | J. A. Whyte |
+| 5 | 191 | 1769 | 2426 | 1808 | 888237 | Pte. | Pte. | J. S. Perry | 886443 | Sergt. | Sergt. | J. Ellis |
+| 6 | 325 | 1025 | 1806 | 1062 |  | Sergt. ... A. C.S.M. | P. L. Kingsi.ey. |
+{% endraw %}

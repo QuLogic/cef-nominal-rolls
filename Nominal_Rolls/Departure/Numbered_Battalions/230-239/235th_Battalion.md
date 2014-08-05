@@ -1,0 +1,500 @@
+---
+title: 235th Battalion
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | 'UPkv<r9 | (ISSUED WITH MILITIA ORDERS, 1917.) | -K-. | : o : v | ; Co w- s. X ~« | ; 15 » ? | i.Vv- I- | III Ee | •. 'J l | t ■*- | n | 1 | ! N | H * | |} N | U: t* I | *? : ri Ct - - . *.r - - " .. • | 4- •' /-v; Ilf.;. ; S ;> :i i;• | ■ i | 1 • <jis | S.?;-.*-. » -4 § &§ > | a.-/- 7 •*• i .: • * j 7 / | ~ £TT r. | •.••’ ;i; £ - 5# w. > ~ ;t‘ ^ tf* ~”v :•"* | v, -v j: v*" V,S vV; Vv~ | & | ; Nominal Roll of Officers, Non-Commissioned | Officers and Men. | t »" | ij | I! a. | 1 i W. | ’! tv/ | iA>-j «. | £ « • < < | ■' » . V J— | e. t. 3* r v | TTb it u | X a X £. | ; X. ; -. '- | ' • V x 5 | •■» s i»2: | XaaKSSti | je ?! f? * c, | 5m-9-l7» > | 27089- ] | , _x ; y | M | ' ■ 5 ! P | EMBARKATION | - Port: Halifax,"N. S. | • 1,. ^ W j j | Ship:':S.S. “Metagama.” | Date: May. 3rd, 1917.;! | ,-r:5:.111v 17 H |
+| 2 | 570 | 518 | 3254 | 565 | M: |  | Former Corps. | Next of Kin. |  | Country of |
+| 2 | 655 | 672 | 3745 | 709 | Lieut.-Colonel... | Scobell, Sidney Brandage. | 19th Regt   | Scobell,Mrs. Amy..;...  | 2 Lake St., St. Catharines, Ont  | CanadaV;.-...... | Bowmanville.. | May 8, 1916 |
+| 2 | 653 | 705 | 2438 | 739 | Major.   | Cunningham-Dunlop, Charles James. | 15th Regt. and S. | A. Cunningham-Dunlop, Mrs. Mabel | iTpy 1 • ■ |
+| 2 | 1803 | 726 | 3744 | 765 |  |  |  | Grace.vsi | 94 Queen St., St. Catharines, Ont    | Scotlandl.I’t.. | Bowmanville.. | Aug. 14, 1916 |
+| 2 | 653 | 762 | 3744 | 800 | Captain  | Buckley .James Oscar.  .V; | 46th Regt......... | Buckley, Mrs. Madeline Isabelle... | 433 Euclid. St., Toronto, Ont    | Canada...;^,. | Bowmanville... | July 16, 1916 |
+| 2 | 654 | 791 | 3744 | 824 | Hon. Captain  | Clarke, WUmot G   .V. | Can. Mil  | Clarke, Mrs. Lois A. ....  | Bowmanville, Ont -.    | Canada  | Bowmanville... | May 29, 1916 |
+| 2 | 653 | 820 | 3744 | 853 | Captain   | Dickson, Bertram Thomas   | O.T.C  | Dickson, Mrs. Florence Ethel A. | 1514 Brock St., Brantford, Ont    | England...... | Bowmanville... | May 23, 1916 |
+| 2 | 654 | 848 | 3743 | 883 | Hon. Captain  | James, George William . i.. | 46th Regt  | James, Mrs. Mary       | Drawer “B”, Bowmanville, Ont   | Canada....... | Bowmanville. | May 18, 1916 |
+| 2 | 652 | 878 | 3744 | 911 | Captain.....  | MacDonald, Wilbert Lorne  | O.T.C  | MacDonald, Donald   | P.O. Box 252, Weston, Ont.    | Canada.,  | Bowmanville... | June 8, 1916 |
+| 2 | 654 | 905 | 3743 | 941 | Hon. Captain  | McLean, Evan Hamilton..'.   | 46th Kegt  | McLean, Mrs. Margaret E. 0. R... | Bowmanville, Ont    | Canada....... | Bowmanville.. | May 17, 1916 |
+| 2 | 652 | 925 | 3743 | 971 | Captain  | Meath, Clarence William E...,...v. | 39th Bn. C.E.F... | Meath, Mrs; Edna L.    | Bowmanville, Ont '    | Canada.rH'f.. | Bowmanville.. | June 26, 1916 |
+| 2 | 653 | 968 | 1701 | 1001 | Lieutenant... | Cameron, Allen Hector.......... £.. | 57th Regt  |
+| 2 | 653 | 992 | 3742 | 1026 | Lieutenant  | Edmunds, George Lovell,.  | 46th Regt......... | Edmunds, Mrs. Lettie.   | Port Hope, Ont  | Canada,.... t. | Bowmanville... | June 16, 1916 |
+| 2 | 652 | 1022 | 3742 | 1058 | Lieutenant  | Lane, Milton Cornell.......,   | 46th Regt  | Lane, Kate E   | 126 Avenue Rd., Toronto, Ont  | Canada...;?.. | Bowmanville. | June 20, 1916 |
+| 2 | 652 | 1052 | 3741 | 1082 | Lieutenant  | Latimer. Harry.   ; | 57th Regt   | Latimer, Mrs. Mary   | 307 Frederick Ave., Peterboro, Ont  | Canada...,1... | Peterboro  | Jan. 25, 1917 |
+| 2 | 652 | 1078 | 3741 | 1115 | Hon. Lieutenant.. | Lloyd, Wilson Henry .. ,'J".. | C.A.M.C.  | Lloyd, Mrs. Olive Pearl   | 59 Union St. W-, Kingston, Ont    | Canada | Belleville  | Jan. 4, 1917 |
+| 2 | 651 | 1110 | 1700 | 1141 | Lieutenant   | Meen, Benjamin    .£?T.... | 34th Regt  |
+| 2 | 651 | 1128 | 3741 | 1170 | Lieutenant  | O’Neill, Joseph     1 ' | O.T.C  | o’Neiii', j.- r:;::;:: "'" " "!;;!; | Lindsay.Ont.l....    | Canada i... | Bowmanville.. | May 18, | 1916 |
+| 2 | 651 | 1164 | 3779 | 1199 | Lieutenant  | Shaughnessy, Joseph Jefferson  | 46th Regt  | Shaughnessy, Thomas J  | 425 West 160thfit., New York, N.Y., U.S.A... | U.S.A....;/.: | Bowmanville... | Aug. 1, | 1916 - |
+| 2 | 651 | 1193 | 3741 | 1228 | Lieutenant  | Shaw, Charles Gordon....’tv,-'...... | 57th Regt  | Shaw, Mrs. Mabel Somerville.;... | Peterboro.Ont/,           | Canada^....,. | Peterboro.   | Oct. 2, | 1916 |
+| 2 | 651 | 1225 | 3821 | 1257 | Lieutenant....... | Strickland, James Fordyce.,.... Si | 57th Regt  | Strickland, James..  | Cornwall, Ont.V;..,;i.    | Canada......... | Peterboro....... | Oct.. 28, | 1916 to |
+| 2 | 650 | 1253 | 3740 | 1291 | Lieutenant  | Thomson, Pierre Chitton...;   | 43rd Regt  | Thomson, Mrs. Anna Daisy....... | Bowman villevOnt.>y.      | Canada....V,.. | Bowmanville... | June'' 8, | 1916 |
+| 2 | 534 | 1278 | 3813 | 1314 | 2309320 | Private  | Ackland, John V..  | Nil   | Ackland, Mrs. Elizabeth   | 76 John St., Ottawa,’Ont   | Bermuda | Rockland.   | March 2, | 1917 •. i |
+| 2 | 538 | 1308 | 3815 | 1344 | 1027186 | Private.....  | Adler, Jack    .'  | Nil .   | Adler, Mrs. Sarah   | 27 Benoit StMMontreal, P.Q     | Canada.^. | Bowmanville... | July 18, | 1916... ^ |
+| 2 | 538 | 1336 | 3771 | 1374 | 1063052 | Private  | Allen, Albert Lewis.  .y  | Nil  | Not Stated    | Not Stated^'-iV. .'£   | England...,,. | Peterboro  | Deo. 6, | 1916- |
+| 2 | 537 | 1367 | 3825 | 1404 | 1063041 | Sergeant  | Anderson, David Howard,, . £ | Nil..    | Anderson, Laughlin..    | 588 Aylmer St., Peterboro, Ont  | Canada .V*. .a'.',* | Peterboro....... | Nov. 24, | 1916 ;:,- ’ |
+| 2 | 537 | 1390 | 3853 | 1433 | 1027023 | Sergeant  | Annison, Thomas. ..fr,....< | Imp. Forces....... | Annison^Mrs. Eliza Beatrice   | Sutterton,'Lines;. Eng,. ...... ........ | England.......; | Bowmanville... | May 23, | 1916 "V" ^ |
+| 2 | 537 | 1426 | 3772 | 1460 | 1027627 | Private..   | Archibald, Percy Andrew.y.*. | £Iil............... | Archibald, John.......... | Cannif ton,- Ont. ..o'..............  | Canada......^. | Belleville.....*.-. | Jan. 20, | 1917c-* |
+| 2 | 537 | 1455 | 3773 | 1487 | 1063045 | Private..  | Armstrong, Alfred Arthur .... | Nil...;':........ . | Armstrong, George....,.  | 193 Westcott St.-, Peterboro, Ont...   | Canada........: | Peterboro....... | Dee;"; 4, | 1916s |
+| 2 | 536 | 1483 | 3773 | 1518 | 1063147 | Private.......... | Armstrong, William Edward, •.. | Nil..,............ | Armstrong; Thomas.;...  | Hall s Bridge, Ont...a...'a,a......a*. | Canada™.^, | Peterboro....... | Mar.' : 8, | 1W1 /M |
+| 2 | 537 | 1509 | 3793 | 1546 | 1027275 | Private.......... | Atkinson, Charles Harold.'^.. .*«. | U.S. Army....... | Post, Mrs. M....   | Beachville', Ont.         | Canada J | Bowmanville... | Aug. IS, | 1916 ^ ■ |
+| 2 | 536 | 1539 | 3739 | 1581 | 1063006 | Private....  | Avery, Charles    ..a., .. .0. | Nil. ........a'..... | Avery, Thomas.      | c/o Ai B. Mann, R. R. No. 4, Peterboro, Ont  | Canada. | Peterboro....... | Sept. 18, | 1916 |
+| 2 | 533 | 1560 | 3777 | 1605 | 2309324 | Private,.......... | Aylwin, Albert............1,^.... | Nil......;........ | Aylwin. Miss Nellie.,.' ....:. | Chateau Laurier, Ottawa, Ont.  . j U   | Englani | Rockland....... | Mari,". 6, | 1917S |
+| 2 | 536 | 1589 | 3775 | 1634 | 1027646 | Private.......... | Ayotte, Rupert Frederick     | Can. Mil..7.  | Ayotte.’Mrs. Sarah......   | Shives Athol, Reatigouche Co.,'N.B...     | Canada | Belleville/;, j: .. | Jan.t29,- | 1917 P |
+| 2 | 535 | 1626 | 3775 | 1660 | 1027422 | Private.  | Ayrhart, George William....  | Nil............... | Ayrhart,’Mrs. Addie....... | Cam pbellford ,~On t.......,.«..a...........,, | Canada;  | CampbfiUford... | Oct. 21, | 1916^ |
+| 2 | 536 | 1650 | 3774 | 1689 | 1027598 | Private.....:;... | Baker, Elbert Keith....   | N11. | Sexsmith,Mrs. W. B...   | Hlllier, Ont. ...aa.aa'a ..'aaaaaa..'. • • •% | Canada;,.4 | Belleville......:. | Jan. 6, | 1917 £ |
+| 2 | 550 | 1683 | 3778 | 1718 | 637033 | Private  | Bamber, John William  | Nil............... | Dainard, iliss Emma C   .i | Picton,Ont.......>;‘;\.»:v*, | Pioton....:'.. .U | April 10, | 1916,4 |
+| 2 | 535 | 1703 | 3779 | 1746 | 1027583 | Private...'.  | Banister, James Albert  | ^Jll. . . « , .......... . | Bannister, Mrs. Louise............ | Laddy s, Belleville, Ont a.............................. | Belleville...,. ... | Deo. 27, | 1916^» |
+| 2 | 536 | 1740 | 3775 | 1779 | 1063161 | Private.. ■. < •.... | Banks, Orlan....  | Nil. »«.*•• .-. ....... | Banks, Orlaij | 10 Florence St., Toronto, Ont      | Canadas . | Peterboro....... | Mar.’ 21, | 1917^ |
+| 2 | 291 | 1762 | 3740 | 1804 | 1027701 | Private.......... | Barker, William Arthur...... | Nil. ..a...........' | Barker, Mrs'. Marguerite  | Bloomfield, Ont. | England,..!.... | Belleville   | Feb. 21( | 1917 |
+| 2 | 535 | 1799 | 3741 | 1833 | 1027170 | Private.'......... | Belanger, Charles.   ;  | Nil. . . . a a a a a •. a ...» 1 | Belanger, Mrs. Marie  | 972 Maisonneuve St., Montreal, P.Q.;..........   | Canada.... | Bowmanville... | July 14, | 1916 |
+| 2 | 535 | 1827 | 3777 | 1863 | 1027209 | Sergeant......... | Bellass, Edwin..   | Imp. Forces.;..... | Bellass, Mrs. Gertrude.  1. | 248 Sanford St., Rochester, N.Y., U.S.A...  | England,.! jr.., | Bowmanville... | July 27, | 1916 . |
+| 2 | 535 | 1846 | 3768 | 1892 | 1063159 | Private. | Bennett, Alfred.............. | Nil. .........'.....1 | Bennett; Mabel.................... | c/o Fred. Pearee, Norwood,Ont   | Englandt | Peterboro  | liar. 17, | 1917 3 |
+| 2 | 535 | 1876 | 3762 | 1922 | 1027505 | Private.......... | Bergson, Harry.........  | Nil. .^............ | Bergson, Mis. I^na............... | 64 Muirhead St., Glasgow, S.S., Scot................*... | Scotland.;.^. | Belleville....... | Nov. 20, | 1916 ■ |
+| 2 | 536 | 1906 | 3808 | 1950 | 1063110 | Sergeant......... | Bernard, John Baxter    | U.S,Army....... | Parker, Mrs. N. B......'.   | Sago, Ya.,.U.S.A....«,v... ....... | U.S.A..M».^.. | Peterboro  | Jan. 19, | 1917 T, » |
+| 2 | 533 | 1943 | 3780 | 1990 | 2309325 | Private.......... | Berm^ David...v  | Nil. . 1 | Bernier,'Mrs..Y.t; ........ | Papineauville, P.Q....,a• /...........(.V.....i*.. | Rockland  | Mar. 3, | 1917 <' |
+| 2 | 298 | 1972 | 3778 | 2011 | 1027041 | Private. Si...*. | Berry; Bruce LelandS. ,/i  ,r. | 11. .....aa a.*...'. < | Widdicombe, Mrs. W. G  | Duke St,, Bowmanville, Ont    | Canada. ,T. | Bowmanville... | June 3, | 1916 . |
+| 2 | 294 | 1991 | 3787 | 2043 | 1027499 | Private.......... | Best, Thomas Fredj......i C. | Nil. .............. | Best, Florence Elizabeth ... | 454 Hawthorn Rd., Bootle, Liverpool,Eng., | England, if .'.t, | Belleville...., | Nov. 19, | 1916 A |
+| 2 | 535 | 2029 | 3786 | 2065 | 1027632 | Private...; ..1.. | Biel, Francis...... | C.S.Army  | Biel, Josephine.   | 5015, 31st St., Cicero, N. Y-. U.S.A. | U.S.A........... | Belleville  | Jan. 22, | 1917. f |
+| 2 | 535 | 2056 | 3783 | 2094 | 1027167 | Private. | Blacker; William .... | Nil. ii.aa.a.a..... | Blacker, Mrs. William............. | “Leemoor Cottage",Leemoor, Roborough; Devon, Eng. | England;.-... .i. | Bowmanvillei | July 12, | 1916 C* |
+| 2 | 532 | 2088 | 3778 | 2125 | 102720$ Lance-Sergeant.. | Blake, .Walter Arthur,.... | NU.*..  | Blake, Mrs. Amy:........7;;  | 587 Bourbonniere Ave., Maisonneuve, P.Q....  | Ireland. «••••«( | Bowmanville... | July 21, | 1916 \ |
+| 3 | 1840 | 386 | 3847 | 419 |  |  |  |  | Blaker, Clarence  | Chemong, Ont      | Canada  |  | Oct. | 20, | 191& |
+| 3 | 656 | 401 | 1769 | 430 | 195029 | Private  | Blakcr, Joshua    | NU   |
+| 3 | 1842 | 416 | 3841 | 448 |  |  |  |  | Sundell, S. E  | 165 Aspinwall Ave., Brookline, Mass., U.S.A  | U.8.A  | Ottawa  | Mar. | 3, | 1917 |
+| 3 | 642 | 429 | 1769 | 459 | 1027689 | Private  | Blazer, William.   | NU ....... |
+| 3 | 1841 | 445 | 3842 | 478 |  |  |  |  | Bluijden,,;Mrs. Susan  | 123 Rivard St., Montreal, P.Q      | England........ | Montreal  | July | 3, | 1816 |
+| 3 | 642 | 457 | 1740 | 489 | 1027224 | Sergeant......... | Blunden, George     | Nil   |
+| 3 | 1841 | 472 | 3842 | 507 |  |  |  |  | Bolton, Mrs. Lillian H  | 150 High St., Poplar, London E., Eng............... | England  | Newcastle  | Sept. | 5, | 1816 |
+| 3 | 641 | 489 | 1310 | 517 | 1027324 | Private.-......... | Bolton, Albert...:... |
+| 3 | 1841 | 504 | 3857 | 539 |  |  |  |  | Bolton, WUliam Edward  | Burleigh Falls, Ont   | Canada..;...:.. | Peterboro  | Dec. | 23, | 1916- |
+| 3 | 642 | 516 | 1599 | 546 | 1063070 | Private........... | Bolton, Frank.   | Nil. |
+| 3 | 642 | 533 | 3856 | 574 | 102736S | Private.......... | Bowman, Milton G    | 36th Regt....... | Bowman, Mrs. Annie  | 555 Hughson St. N-, Hamilton, Ont    | Canada.^;...... | Cobourg  | Sept. | 18, | 1916- |
+| 3 | 657 | 562 | 3842 | 605 | 18S012 | Private.......... | Boyler,Henry George. |  | Boyler, Ceorge S.      | Peterboro, Ont i. | Canada......... | Peterboro  | Aug. | 31. | 1915 |
+| 3 | 1842 | 590 | 3857 | 624 |  |  |  |  | Brady, Joseph.,.:  | 249 EucUd Ave., Peterboro, Ont.      | Canada.'........ | Campbellford... | Mar. | 8, | 1916" |
+| 3 | 655 | 600 | 1770 | 633 | 814357 | Private  | Brady, John..:   ; | Can. Mil.   |
+| 3 | 1842 | 620 | 3841 | 653 |  |  |  |  | Brant, Mis. WUliam  | MelvUle, Ont....^.      | Canada  | BellevUle  | Dec. | 15, | 1916 |
+| 3 | 642 | 632 | 1770 | 662 | 1027564 | Private.......... | Brant, Garfield '... i | Nil.,   |
+| 3 | 1843 | 649 | 3841 | 681 |  |  |  |  | Breadmin, Charles E  | 411 London St., Peterboro, Ont.4  | England........ | Peterboro  | Oct. | 20, | 1915 |
+| 3 | 657 | 661 | 1600 | 691 | 195025 | Private.......... | Breadman, Albert Edward..    I | Nil, |
+| 3 | 1843 | 678 | 3841 | 711 |  |  |  |  | Bright, Mrs. Mabel.     | 533 Park St., Peterboro, Ont.,  | Canada....  | Peterboro  | Feb. | 12, | 1817 |
+| 3 | 643 | 687 | 1600 | 721 | 1063124 | Private.......... | Bright, James....     | Nil. |
+| 3 | 1560 | 707 | 3841 | 741 |  |  |  | ; • • vk | Bristow, Alexander.™..  | Mill Brook, Ont......;..,......   | Canada.-..  | Peterboro..:.... | Oct. | 28, | 1816 |
+| 3 | 643 | 719 | 1529 | 749 | 1063028 | Lance^3orporal... | Bristow, Lawrence Stanley  |
+| 3 | 643 | 737 | 3841 | 777 | 1027096 | Private.:....:... | Britton, Charles Lambert     . | 46th Regt.. —, | Britton, Mrs. Elizabeth  | Port Hope, Ont '.....   | Canada....  | Port Hope  | Juno | 21, | 1816 |
+| 3 | 643 | 765 | 3841 | 805 | 1063143 | Private..:  | Brooks, William David.  .'. | 15th Regt....... | Brooks; Mrs. Phoebe Jane    | Norwood, 0»t.           | Canada.  | Peterboro  | Feb. | 28, | 1817 |
+| 3 | 659 | 794 | 3842 | 835 | 196866 | Private  | Brough, Rudolph Lawrence  | C.F.A   | Brough; Mrs. Dorothy  | 22 Lansdowne St.,Peterboro, Ont.   | Canada...:  | Peterboro  | Mar. | 29, | 1816 |
+| 3 | 2345 | 821 | 3841 | 855 |  |  |  |  |  | R. F, D. No. 3, Colbourne, Ont  | Canada......:.. | Trenton.;.,..... | Jan. | 12, | 1817 |
+| 3 | 643 | 832 | 1757 | 865 | 1027614 | Private...:  | BroWn; Jay .".:.. .  .. ....... | Nil...   |
+| 3 | 644 | 828 | 3841 | 893 | 1027503 | private.   | Brown, Mathew John...:  | Nil!.   | Browril^Irs. Minnie...:  | Cobourg, Ont    ........  ...».... | Canada..:.  | Cobourg....  | Nov. | 18, | 1816 |
+| 3 | 644 | 880 | 3841 | 921 | 1027605 | Private..   | Brown, Robert t | Nii:...:  | BiibtfiC Mrs. Mary E  | R. M. D. No. 6, ShannonvUle, Ont    | Canada.-..-  | BellevUle....... | Jan. | 6, | 1917 |
+| 3 | 644 | 910 | 3842 | 950 | 1027434 | Private  | Brown, Stanley  | Nii:..:   | Brown,; Allen.  .... | 105 Octavia St., BeUevUle, Ont.       | Canada.......... | BeUeville  | Nov. | 1, | 1816 |
+| 3 | 644 | 940 | 3841 | 979 | 1027295 | Lance-Sergeant... | Brown, William  | Nil.   | Brown,;Mr.   | 59 Aspinall St., Liverpool, Eng   | England i..  | Bowmanville... | Aug. | 22, | 1816 |
+| 3 | 644 | 969 | 3841 | 1007 | 1063106 | Private  | Brown, William Charles  | Nil.... .... • •:. * | Not stated   | Not stated      | England:....... |  | Jan. | 25, | 1817 |
+| 3 | 644 | 998 | 3841 | 1034 | 1063071 | Private  | Buchanan, William , | Nii::::. | Buchanan, Andrew M  | Havelock, Ont        | Canada.    |  | Dec. | 27, | 1916 |
+| 3 | 644 | 1026 | 3841 | 1062 | 1027596 | Private  | Burchfield, Robert Lytle.. | U.S.' Army. | Burchfield, Mrs. H. W  | 408 E. Tompkins St., Ithaca, N.Y., U.S.A  | U.S.A.. j..  |  | Jan. | 5, | 1816 |
+| 3 | 642 | 1055 | 3841 | 1093 | 2309342 | Private  | Byrne, Lawrence  | NU.IJV:-......... | Byrne,'Mrs. Henriette  | 210 Kelvin Haugh St., Glasgow, Scot.     | Scotland..;  | Rockland  | April | 3, | 1817 |
+| 3 | 644 | 1085 | 3841 | 1120 | 1063140 | Private...  | Calvert, Burritt   : I | Nil...:........ | Calvert, William   | Hall’s Bridge, Ont    | Canada....  | Peterboro   | Feb. | 22, | 1817 |
+| 3 | 644 | 1114 | 3841 | 1152 | 1027464 | Private  | Campbell, George - | Na./jjy....:.,, | Campbell, WUliam  | R. F. D. No. 2, Fredericton, N*B    | Scotland  | Bowmanville... | Nov. | 5, | 1816 |
+| 3 | 645 | 1143 | 3841 | 1178 | 1027540 | Private  | Campbell, Leslie    : | Nil.ti*.':    | CampbeU, G. W. H  | Castleton, Ont.....:.......    | Canada.   | BellevUle  | Dec. | 6, | 1816 |
+| 3 | 644 | 1171 | 3842 | 1206 | 1063060 | Private   | Carl, James Arthur  | NU..'..'...  | Carl, Mrs. Elizabeth M  | Fraserville, Ont...:         | Canada  |  | Dec. | 9, | 1816 |
+| 3 | 645 | 1201 | 3841 | 1234 | 1027278 | Private Carney, John   |  | Nil......:  | Candy, Richard    | 14 Talbot St., Glasgow, Scot..,-..*  | Scotland....  | Bowmanville... | Aug. | 16, | 1816 |
+| 3 | 646 | 1229 | 3841 | 1262 | 1027386 | Private Cassalman, Charles Wesley  |  | NU  | Cassalman, David    | Birds Creek, Ont      | Canada....  | Campbellford... | Oct. | 1, | 1816 |
+| 3 | 646 | 1253 | 3841 | 1291 | 1027175 | Private Challice, John Richard   |  | NU... | Challice, John  | R. R. No. 1, Bethany, Ont.......  | Canada  | Bowmanville... | July | 14, | 1916 |
+| 3 | 647 | 1287 | 3840 | 1319 | 1063165 | Private Chamberlin, Robert Henry i |  | NU....  | Chamberlin, Mrs. Lily  | Norwood, Ont    | Canada......... |  | Mar. | 31, | 1917 |
+| 3 | 647 | 1316 | 3841 | 1349 | 1063044 | Private.     Chard, Sandford     |  | Nil............. | Chard, Lion  | Blairton, Ont    | Canada..  |  | Nov. | 29, | 1816 |
+| 3 | 646 | 1345 | 3841 | 1378 | 1027042 | Private Cherry, Samuel Edward   |  | Can. Is. MU  | Cherry, Mrs. F  | Guernsey, Chan. Is   | Channel Islands | Bowmanville... | June | 3, | 1816 |
+| 3 | 661 | 1371 | 3842 | 1406 | 195035 | Private... Clark, Allan Hamilton..  |  | Nil..   | Clark, James  | Pickering, Ont  | Canada  |  | Sept. | 1, | 1815 |
+| 3 | 646 | 1403 | 3841 | 1434 | 1027650 | Private Clark, Robert Earl  |  | NU......  | Clark, Mrs. Elizabeth  | Centre St., Napanee, Ont    | Canada..  |  | Jan. | 28, | 1817 |
+| 3 | 646 | 1431 | 3841 | 1463 | 1027413 | Private Clarke, Garnet Garfield  |  | nu....:..  | Clarke, Mrs. Sarah E | Campbellford, Ont    | Canada  | Campbellford... | Oct. | 10, | 1816 |
+| 3 | 646 | 1460 | 3841 | 1493 | 1027647 | Private..... Clayton, Thomas    |  | nu   :. | Clayton, Mrs. Ada  | Picton, Ont  | England  | Picton  | Jan. | 27, | 1817 |
+| 3 | 646 | 1490 | 3841 | 1522 | 1063089 | Private Clysdale, Milton Noble   |  | nu..:..   | Clysdale, WUliam  | Norwood, Ont. | Canada....... |  | Jan. | 13, | 1817 |
+| 3 | 659 | 1519 | 3842 | 1550 | 624918 | Private.......... Cole, Arnold Carlton......  |  | NU   | Cole, Richard H  | Vrthur, Ont  | Canada   | Stettler.     | Feb. | 19, | 1816 |
+| 3 | 645 | 1547 | 3842 | 1578 | 1027400 | Private Cole, Walter J , |  | Nil.:..  | Cole, James.. | ampbellford, Ont. | Canada.::.... | Campbellford... | Oct. | 8, | 1816 |
+| 3 | 645 | 1576 | 3842 | 1607 | 1027160 | Private   Collins, Michael    |  | NU  | Collins,' Annie | 125 Rozell St., Montreal, P.Q. | Ireland  | Bowmanville... | Julv | 21. | 1916 |
+| 3 | 646 | 1605 | 3841 | 1636 | 1027708 | Private Collins, Oral Preston.....:   |  | NU...  | Collins, Mrs. Mary  | Alton, N.Y., U.S.A  | Canada  | Ottawa  | Mar. | 8. | 1917 |
+| 3 | 645 | 1633 | 3842 | 1665 | 1027063 | Private Collins, Stanley   |  | Nil  | Collins, Mrs. Ada  | S289 St. Adele Ave., Montreal, P.Q... | Canada  | Bowmanville... | June | 12, | 1916 |
+| 3 | 645 | 1662 | 3842 | 1694 | 102758C | Private   Conley, Frank James.........  |  | NU..   | Conley, Mrs. Fanney Jane | Bloomfield, Ont..., | Canada  | Wellington  | Dec. | 23, | 1916 |
+| 3 | 646 | 1688 | 3842 | 1722 | 1027637 | Private Cook, Oscar  |  | Can. MU  | Cook, Mrs. Ida  | Bowmanville, Ont. | Canada  | Bowmanville... | Jan. | 24, | 1917 |
+| 3 | 646 | 1719 | 3842 | 1751 | 1027504 | Private ’. Cook, William Albert..       |  | Nil   | Cpbk, Mrs. Kathaline  | 191 Front St., BellevUle, Ont. | Canada  |  | Nov. | 20, | 1916 |
+| 3 | 646 | 1749 | 3843 | 1783 | 1027542 | Private Cooney, Marvin Valintine : |  | Nil     | Cooney, Mrs. Mary Emma | Stirling, Ont.. | Canada  |  | Dec. | 8, | 1916 |
+| 3 | 646 | 1776 | 3844 | 1809 | 102703S | Lance-Sergeant... Cooper, John      |  | NU.....  | Cooper, Mrs. Violet  | Bowmanville, Ont..,.. .. ..... | England.  | Bowmanville... | June | 1, | 1916 |
+| 3 | 647 | 1806 | 3843 | 1837 | 1027205 | B.S.M Copeland, John George  |  | Royal Navy.... | Copeland, Mrs. Alma N | 35i Lasalle Rd., Verdun, P.Q.. | England  | Bowmanville... | July | 21, | 1916 |
+| 3 | 646 | 1831 | 3842 | 1865 | 1063148 | Private Cornelious, John  |  | Nil  | Cornelious, Richard.. | Western Ave., Peterboro, Ont. | Canada  |  | Mar. | 6, | 1917 |
+| 3 | 646 | 1860 | 3842 | 1894 | 1027630 | Private Cosenzo, Frank   |  | NU   | Cosenzo, Mrs. Rose C | 19 Norman St., Ottawa, Ont. | Italy  |  | Jan. | 20, | 1917 |
+| 3 | 644 | 1893 | 3843 | 1923 | 2309343 | Private Courville, Albert j |  | Can. Mil........ | Courville, Arthur. | iO Dollard St., Hull, P.Q. | Canada  |  | April | 7, | 1917 |
+| 3 | 646 | 1923 | 3843 | 1951 | 1027719 | Private Cousineau, Eli i |  | Nil  | Cousineau, Joseph | Russell, Ont   | U.S. A. i.:.... | Ottawa  | Mar. | 20, | 1817 |
+| 3 | 646 | 1947 | 3844 | 1981 | 1063008 | Lance-Corporal... Crank, Austin Bunbury ; |  | NU  | Crank, Vincent .«  | 41 Carlton St., Toronto, Ont  | England  |  | Sept. | 15, | 1816 |
+| 3 | 646 | 1980 | 3844 | 2010 | 1027091 | Private Crocker, Willis   |  | 57th Regt   | Crocker, Joseph  | 221 Rubridge St., Peterboro, Ont  | Canada  | Bowmanville... | June | 21, | 1816 |
+| 3 | 646 | 2009 | 3845 | 2038 | 1027460 | Private Cronkwright, Henry William  |  | Nil  | Cronkwright, Mrs. Dellie... | Trenton, Ont  | Canada  | Trenton  | Nov. | 9, | 1816 |
+| 3 | 647 | 2038 | 3843 | 2067 | 1063128 | Private Crosby, William  |  | Nil  | Crosby, Mrs. Laura  | C03 Hill, Ont -  | Canada  |  | Feb. | 15, | 1917 |
+| 3 | 646 | 2062 | 3846 | 2095 | 1027385 | Private Cross, George R  |  | Nil  | Patterson, Mrs. George  | Dumraer, Sask    | Canada  | Campbellford... | Oct. | 3, | 1916 |
+| 3 | 646 | 2091 | 3845 | 2125 | 1027590 | Private. Crowther, James  |  | Nil  | Hardman, Mrs. Ashworth.. | S5 Princess St., Castleton, Manchester, Lancs, Eng. | England  | Wellington  | Dec. | 20, | 1916 |
+| 3 | 659 | 2124 | 3845 | 2154 | 805569 | Acting Sergeant.. Cryderman, Fred   |  | Nil  | Cryderman, Mrs. Georgina. | Bowmanville, Ont  | Canada  | Bowmanville... | Mar. | 11. | 1916 |
+| 3 | 646 | 2153 | 3844 | 2184 | 1027692 | Lance-Sergeant... Cullinan, James Edward  |  | U.S. Army  | Cullinan, Mrs. Margaret  | 155 Western Ave., Allston, Mass., U.S.A  | U.SJV  |  | Feb. | 12, | 1917 |
+| 4 | 770 | 560 | 3282 | 593 |  |  | Former Corps. |  |  | :i Country of |
+| 4 | 575 | 705 | 3751 | 736 | 1027384 | Lance-Sergeant.. | Cunnington, Bertram  | Nil.   | Cunnington; Mrs. EmUy Augusta |  |  | i s re |
+| 4 | 1012 | 731 | 3781 | 768 |  | , ; V , »«.< l~" " | :, :ij S. ‘ * *■ ' | ;’3t* • - • - *   | 36 Belgrave Rd., New Moston, Manchester, Eng. | England  | Campbellford.. | Sept. | 28, 1916 |
+| 4 | 574 | 760 | 3781 | 794 | 1027156 | Private.;. | Curzon, Benjamin Wellington. | 38th Regt...... | Ciifzon; •’Mrs. Catharine.    | 188 Armstrong St., Ottajra, Ont.....;  | Canada   | Bowmanville.. | July | 10; 1916 |
+| 4 | 565 | 792 | 3781 | 822 | I 195Q61 | Private... | Dallin, John Victor.1 •.*.. . | 57th Regt  | Dallin, John G......... .'  | 696 Water St., Peterboro, Ont.:   | England..... | Peterboro...... | Oct. | 20, 1915 |
+| 4 | 575 | 821 | 3781 | 851 | 1081359 | Sergeant.. | Dalton, Kirby George  | R1 Can. Eng... | Dalton,1 Mrs. Eunice Mabel  | 217 Russell Ave., Ottawa, Ont.  ....... | England  | Ottawa.,  | June | 24, 1916 |
+| 4 | 565 | 850 | 3781 | 880 | ,1027337 | Private... | Davies, Llewellyn D  | Nil....'..  | Davies, Mrs. Sarah Jane  | 57 Norway St., St. John Rd., Waterloo, Eng  | England  | Cobourg  | Sept: | 13; 1916 |
+| 4 | 575 | 879 | 3780 | 909 | 1063082 | Private... | Davis, Thomas..   | NU  | Johnston, Mrs. Flora  | 55 The Parade West, Worthing, Sussex, Eng  | England  | Peterboro  | Jan. | 6, 1917 |
+| 4 | 565 | 908 | 3781 | 938 | ,1027454 | Private... | Dean, Archie  | Can. MU  | Dean, Mrs. EUen.   | Burketon, Ont....-   | Canada  | Bowmanville.. | Dec. | 15, 1916 |
+| 4 | 565 | 932 | 3781 | 967 | ;1027173 | Lance-Cor] | Dean, Cecil Peter       | Nil  | Dean, Mrs. Mary EUen  | Burketon, Ont.              | Canada..  | Bowmanville.. | July | 14, 1916 |
+| 4 | 566 | 964 | 3782 | 995 | :1,02T441 | Private... | Deline, Percy.    | Nil...:  | Deline, Mrs'. Mary  | Marmora, Ont..,..    | Canada  | Belleville.:.... | Nov. | 3. 1916 |
+| 4 | 566 | 993 | 3781 | 1024 | ,1027712 | Private... | Dillabough, Ernest Rae  | Nil...  | Dillabough, Mrs. Libby  | Norwood, Ont   | Canada  | Ottawa  | Mar. | 13, 1917 |
+| 4 | 571 | 1021 | 3781 | 1053 | 1063139 | Private... | Dixon, Walter.    | nu;.;  | Dixon, George  | Hall’s Bridge, Ont      | Canada  | Peterboro  | Feb. | 22, 1917 |
+| 4 | 571 | 1049 | 3782 | 1081 | 1063066 | Private... | Dobbs, John Thomas  | Nil  | Dobbs, Mrs. Edith  | Campbellford, Ont   | England  | Peterboro  | Dec. | 19, 1916 |
+| 4 | 564 | 1078 | 3781 | 1111 | (1027189 | Sergeant.. | Donnelly, John Patrick...... | Nii.;;  | Donnellyi Mrs. John  | 73 McGill College Ave., Montreal, P.Q  | Canada  | Bowmanville.. | July | 18/1916 |
+| 4 | 572 | 1108 | 3779 | 1139 | 1027193 | Private... | Dose, Samuel    | Territorials  | Dose, Bagm  | Victoria Hospital, Montreal, P.Q   | England  | Bowmanville.. | July | 21,1.-1916 |
+| 4 | 563 | 1136 | 3780 | 1168 | (1027606 | Private... | Doutre, Edward  | Nil  | Doutre, Mrs. TorcU  | 150 Dorion St., Montreal, P.Q         | Canada  | BellevUle...... | Jan. | 9, 1917 |
+| 4 | 574 | 1167 | 3781 | 1196 | 1063063 | Private... | Drain, James Nelson.  | Nil  | Drain, Mrs. Carrie  | Havelock, Ont...          | Canada   | Peterboro  | Dec. | 16, 1916 |
+| 4 | 565 | 1195 | 3781 | 1226 | ,1063112 | Private... | Drain, William Fj | NU.'..i:....... | Drain, Mrs- Hannah  | 450J Mark St., Peterboro, Ont      .......... | Canada.  | Peterboro ..... | Jan. * | 31, 1917 |
+| 4 | 574 | 1225 | 3781 | 1254 | 1027415 | Private... | Drummond, Harry Wilson... | Nil  | Drummond, Mrs. Helen  | Westwood, Ont.       | Canada  | Hastings....... | Oct. | 15, 1916 |
+| 4 | 565 | 1249 | 3782 | 1286 | ;1063068 | Private... | Durinette, Frank Carl.... | nu...:  | Dunnette, James  | 462Park St-iPeterboro,;Ont...... •.   | Canada  | Peterboro.  | Dec, i | 19,' 1916 |
+| 4 | 572 | 1279 | 3780 | 1312 | 1063169 | Sergeant.. | Dunsford, Sydney Jarvis  | 57th Regt  | Dunsford, William H  | 748 Water'St., Peterboro: Ont.   | Canada..  | Peterboro....• | Apr. | 6,1 '1917 |
+| 4 | 572 | 1312 | 3781 | 1342 | 1027138 | Private... | Dunwell,- Isaac Christopher.. | NU  | DunweU, Mrs. Mary Rebecca  | 10150,122nd St-.iEdmonton, Alta •....•  | England. | Bowmanville.. | July i | 1,- 1916 |
+| 4 | 572 | 1336 | 3781 | 1370 | 1027111 | Private... | Dupuis, Victor.......  | NU...  | Dupuis, Mrs. Georgina  | Beaconsfield, P.Q...... ■. | Canada.'..... | Bowmanville.. | June | 24, 1916 |
+| 4 | 563 | 1366 | 3782 | 1399 | I ,195056 | Private... | Dyer, Reginaldi'.11.    | 57th Regt  | Dyer, Walter..'../...ft   | 413 Bethune St., Peterboro, Ont ................ ■ | England  | Peterboro  | Sept. | 27.11915 |
+| 4 | 563 | 1397 | 3781 | 1430 | ,195057 | Private.. | Dyer, William Thomas  | 57th Regt  | Dyer, Mrs. Elizabeth i. | 413 Bethune St., Peterboro* Ont,. i.... .. ........ | England: | Peterboro.;... | Sept. | 27,s-19i5 |
+| 4 | 573 | 1424 | 3782 | 1463 | 1027QQ4 | Private... | Easter, Norman Robert  | Can. Mil  | Easter, Robert     | 559, 4tl^ Ave.;,Opreii Sound, Ont....... ............ | England  | Bowmanville.. | June | 21.11916 |
+| 4 | 562 | 1452 | 3782 | 1491 | -1027498 | Private... | Eaton, Edwin.     | Nil....  | Eaton, Mrs. j Henrietta   | 71 Patten St., Birkenhead; Eng.^,.i*,............. | England | BellevUle  | Nov. | 19, 1916 |
+| 4 | 580 | 1483 | 3782 | 1519 | ,171566 | G;S;M  | Edgar, Maurice Roy.   | 12th Regt..... | Edgar/Mrs. Emma M   | 59 Wood St., Toronto, Ont,..v../.....   | Canada  | Toronto.   | July | 16, Ml5 |
+| 4 | 572 | 1510 | 3782 | 1542 | 1027072 | Private... | Edwards, Ira...:-i.!.      | Can. Mil;.:.... | Edwards, Mrs, Maud Lavina . | Colboume, Ont    | Canada  | Bowmanville.. | June | 1, 1916 |
+| 4 | 572 | 1541 | 3782 | 1571 | 1063095 | Private... | Edwards, James Thomas  | Nil;........... | Edwards, Mrs. Jenny ' | Lang,.Ont-      -.   | Canada  | Peterboro  | Jan. | 17, 1917 |
+| 4 | 562 | 1569 | 3782 | 1600 | .1063094 | Private... | Edwards, William Crossby... | nu....;....... | Edwards, Mrs. Mary  | Lang, Ont.,.-. . .«■,*:,:   | Canada  | Peterboro.:... | Jan. | 17,1917 |
+| 4 | 561 | 1596 | 3783 | 1631 | i1027711 | Private... | Elliott, John Alexander....... | NU:....  | Elliott, Mrs. Annie '.; | R. R. No. 3, CljesterviUe,; Ont   ...... | Canada  | Ottawa  | Mkr. | 13,: 1917 |
+| 4 | 561 | 1628 | 3783 | 1661 | ’,1063061 | Private... | Emmorey, Charles Edward.. | NUi  | Emmorey,'Mrs. Maud .', | Havelock, Ont...,. ,v;.   ......... | Canada  | Peterboro  | Dec. | 12, 1916 |
+| 4 | 562 | 1653 | 3782 | 1689 | ;1063130 | Private... | Evans, John. . | nii;:,. | Evans, 'JoWj.;.)  | Bryn, Pistell, Llangynog, Montgomery, Wales.-... | Wales  | Paterboro.  | Feb. | 17,: 1917 |
+| 4 | 561 | 1682 | 3783 | 1721 | •1063059 | Private... | Everett, Wesley. H   | NUi........... | Everett; Mrgi Marie A..  | 255 George St., Peterboro, pnt.        | Canada  | Peterboro..... | Dec.. | 8,-1916 |
+| 4 | 559 | 1711 | 3783 | 1752 | >1063056 | Private... | Fagdn, John................. | Niu.::;;:;.... | Fagan,'John; ^r,..,^,..  | 413 Sheridan St.* Peterboro, Opt: | England. | Peterboro .:... | Dec. | 7, 1916 |
+| 4 | 571 | 1740 | 3784 | 1777 | 1063062 | Private... | Fagg, Harry.^j; .IT.'iViK-V.: 1 | Nin.xv:::.. | 112 Osborn Rd., WUlesborough, Ashford, Eng  | England  | Peterboro  | Dec. | 12,: 1916 |
+| 4 | 556 | 1764 | 3784 | 1804 | j1063018 | Private... | FauIkner.James.Autrey..... | BOIt'.RHK'.'..'. | Faulkner, Edward:.  | Coboconk, Ont..   | Canada.  | Peterboro  | Oct. | 18,<1916 |
+| 4 | 558 | 1794 | 3784 | 1833 | j1027192 | Private... | Feeley, Hildos Jose^hi; | NUjj.H';1?1.,'... | Feeley, Mrs. Mar#.;    | 553 Romaine St., Peterboro, Ont.  | Canada...... | BowmanvUle.. | July | 21,: 1916 |
+| 4 | 560 | 1826 | 3784 | 1860 | ■1063023 | Private... | Ferguson.David Perry’.;.... | 57th Regt...... | Ferguson, Mrs. Blanche  | 645 Rogers St., Peterboro, Ont.     ; | Canada  | Peterboro..... | Oct. | 20.M916 |
+| 4 | 557 | 1855 | 3785 | 1892 | 4(1027202 | Sergeant.. | Fess, George Alfred.......... | NU;........... | Fess, Mrs. Bertha Mary  | 53 Innis Ave.‘, Toronto, Ont. . . | Canada...... | BowmanvUle.. | July | 22,51916 |
+| 4 | 570 | 1885 | 3785 | 1923 | 1027471 | Private... | Fetterlyy Albertlr^i*.'.1;:'.. | NUi........... | Blairhampton, Ont.       | Canada...... | Belloville  | Nov. | 11.11916 |
+| 4 | 559 | 1915 | 3785 | 1948 | ,1027538 | Private... | Fleming,1, Donald Mack... .... | Nilt..:...  | Ivaihoe, Qiit,..,.. ,. ■•. • | Canada...... | Madoc..:...... | Dfec. | 2,'1916 |
+| 4 | 571 | 1942 | 3785 | 1975 | 1027126 | Sergeant.. | FlemingiiFrank Noel S.... 1. | R.N.W:M.P... | Fleming, Mrs. Grace CoUins. | Ndpanee, Ont... | Canada..  | .; Montreal  | Sept. | l,; 1616 |
+| 4 | 571 | 1973 | 3786 | 2006 | 1027681 | Private... | Fliit; Gesorfefe Henry;.^‘.11'. | Territorials.... | Fliit, Mrs, .Fxaices  | London, Ont.          | England....: | Campbellford.. | Fib. | 8,5 1917 |
+| 4 | 559 | 1999 | 3786 | 2034 | !1063162 | Private... | Flynn; John Patrick.'....'.. . '.. | NU.   | Flimn.'Jamfes.   | Bird’s Creelj, Ont..'.    | Canada...... | Peterboro  | Mar. | 21.11917 |
+| 4 | 560 | 2030 | 3786 | 2063 | I1021113 | Private... | Flynn, Leoif................. | 45 th Regt  | DuSy,/Mrs..'.,.  | DowneyVUle, Ont   | Canada.  | Bowmanville.. | Jttne | 26,14916 |
+| 4 | 560 | 2061 | 3786 | 2096 | (1027257 | Private... | FoNey, DaVid................ | Royal Navy... | Foley, James.....,.:  | Yohoes, Jre.C, C,.<v ............... | i Ireland  | BowmanvUle.. | Aug. | .10,: 1916 |
+| 4 | 560 | 2086 | 3785 | 2120 | (1027362 | Private... | Fdrd, John;..?..::......:.:.. | NU.  | F«d, Mrs; Margaret  | 45 AdUrigtori St., Liverpool, Eng   | England  | Cobourg  | Sept. | 17," 1916 |
+| 4 | 568 | 2118 | 3789 | 2149 | 1027522 | Private... | F6ster,'Caniiiff Ross........: | NU  | Foster, Mrs. Helen. | HUlier, Ont      | Canada  | Belleville  | Nov. | 23,’1616 |
+| 5 | 646 | 370 | 3850 | 405 | 1027545 | Private  | Fox, James Whytock  | ... Nil  | Fox, Mrs. W. R  | Bloomfield, Ont.   | Canada  | Belleville.; .. | Dec. 6, ;1916 |
+| 5 | 653 | 399 | 3850 | 433 | 495659 | Private  | Foy.Ernest Charles.   | ... NU  | Foy, George  | 97JRubidge St.rPeterboro, Ont  | Canada....^.... | Peterboro;... | Feb. 4,,1916 |
+| 5 | 645 | 429 | 3848 | 466 | 1027393 | Private  | Frair,’.Harold Edward  | ... O.T.C  | Frair, Mrs. Florence D  | 265 D^vphport Rd., Toronto, Ont  | Canada..   | Campbell.... | . Odt. ;vl, 4916 |
+| 5 | 641 | 457 | 3848 | 494 | 4027106 | Private.  | Frank, Arthur John  | ...Nil  | Frank, Mrs. Hattie  | BownfifrjrJlle^ Qni„,„,„„. | Canada..,....., | BowmanvUle: | June ie,;l9l6 |
+| 5 | 640 | 487 | 3847 | 525 | .1027494 | Private..'... | Frederick,“Emerson..    | ... Can. Mil  | Frederick, Mrs. Clarissa.*..... | Wellington, Ont™.... | Canada.,.;,:,.1. | Belleville.:.:: | Nov. ]12, j 1916 |
+| 5 | 645 | 516 | 3770 | 573 | 1063076 | Private  | Freeman, James Ai'Jivi;;.... | ... Nil..  | Freeman, George A    | Havelpck“ Ont.i.  | Eogjfnd;   | Peterboro..:. | Jan.- ,i:2, |
+| 5 | 645 | 545 | 3849 | 582 | 1063136 | Private  | Freirch jilameso-.; V: C......... | .., Nil  | French; John L.. | 104 Lajisdowne St. „ peterboro, Ont,... |  | Peterboro. ..-. | F?b. 21, 1917 |
+| 5 | 639 | 574 | 3848 | 609 | >(195075 | Private.'; t>: | French', "John Alfred  | ... Nil   | French, Mrs. Rebecca.,.  | 3lLa'nsdo'TO^ St.^Peterbblro; Ont  |  | Peterboro-.-... | Sept. 10, 1915 |
+| 5 | 642 | 603 | 3848 | 645 | 1063011 | C.Q.M.S  | Gatney', Joseph Clifford 7. | ... 31st Regt.... | Gamey, Mrs. Ethel Mabel.... | R.' JC,N0;^Pe^erboro, Ont..,.. . | Canada......... | Peterboro-.-.; .¬ | Aug. *29, il916 |
+| 5 | 644 | 632 | 3848 | 668 | 1027679 | Private...... | Gannon; {Robert.. ftV  | ... Nil  | Gannon, John James,   | MayndoiW.’CJht^',.,^'^.,J....  | Canada.-........ | Belleville.-:.. ; | Feb. >8, 4917 |
+| 5 | 640 | 661 | 3848 | 695 | 4027033 | C:Q.M.S  | Garner, George Wesley  | ... Nil  | Garner, William'Robert........ | London„Ont,....';,.:. ................ | Canada.-.......; | *'owmanville. | June 1916 |
+| 5 | 636 | 690 | 3848 | 728 | :J027314 | Private    | .GaitVieW Charles  | ... Nil  | Garvief Mrs. EmUy J...,    . | 35 HearnSt'./Canning Town, London. Eng. | England... | i9wmanville. | Sept.-3, .4916 |
+| 5 | 640 | 716 | 3848 | 756 | ■1027693 | Private.., r.-v.1 | GigUere, Daniel..K     | ... Nil  | Giguere,Mrs. Eli*ji,A..... | 37 College StT, New^edford.jMass., U.S.A | Canada. | Belleville   | Feb. ,45, 4917 |
+| 5 | 645 | 748 | 3848 | 784 | 1027292 | Private    | GIoyne,l-Fted6rick.v. ill:    | ... NU  | Gloria,‘Mrir: Elsfe Mary  | Colboriie,' Qnt .7; Jl .'..'..I.......... | England-.; :■.... | ■“’olborne...... | Aug 19,4916 |
+| 5 | 645 | 772 | 3848 | 817 | 1027403 | Corporal... | Gord6nrtHfehryVWtfl'sV.';;  | ... Nil  | Gordon,! Henry/., fZ......... | 90 Park S.t,, BeUevUle, Ont.... ..  | Cana jia.; | filleviUe:v.. .- | Nov. 2, 4916 |
+| 5 | 641 | 806 | 3848 | 846 | 1027442 | Corporal... . | Gore, James.1::.'.v'.'.'.-:.  | ... Nil  | Gdre, Maria?,;:   | 34 B^llirigton St., Liverpool, Eng  | England....... ( | Belleville:v... | Nov. ;;6, 4916 |
+| 5 | 645 | 835 | 3848 | 870 | 1027043 | Private  | Gossett, Harold'James  | ... Nil  | Gossett, Mrs! Hilda   | Bbwm'anvflle, Ont..,';....*..   | Channel Islands | Bpwmanville. | June t3, "4916 |
+| 5 | 643 | 864 | 3848 | 902 | 1027417 | Private  | Gdffldj Leslio Albert .. | ... Nil  | Gt>uld;fMrs: Minnie   | Uxbridgfe7 Ont .V;,. .',!,'•»••• »..*•• | Canada.-.......; |  | Oct. r>4, 4916 |
+| 5 | 640 | 890 | 3847 | 933 | '1063104 | Private  | G6iild >‘Patrick,tJ. L..  | ... NU  | McGwie^Sarsficld ....   | R.'jR; $qc S' Havelock; Ont..'. | Ireland.  | ?eterboro: | J&n. 23,4917 |
+| 5 | 639 | 922 | 3848 | 962 | 11455510 | private.  | .Gauge,' Briifctori  | ... 57th Regt... |  | "* rmories, Peterbprp, Ont . | Canada:  , | Jeterorbo-.j:,: v. | Aug. 24, 4816 |
+| 5 | 644 | 947 | 3848 | 986 | 1027415 | Sergeant  | Gray,- ThonaS^ Wesley A...... | ... 46th Regt... |  |  | Caiiada.  | Bowmanville.. | June 24, 4916 |
+| 5 | 642 | 976 | 3848 | 1014 | 1063157 | Private  | Green,-Nortiifta Howard '... | ... Nil.   |  |  | Canada:........ | ’’eterboro | Mar. 14, 49X7 |
+| 5 | 645 | 1008 | 3848 | 1044 | 1027035 | Corporal ..... | Grefenfieldi Norman    | .. i NU  |  |  | Canada     | iowmanville.. | June 54, 1916 |
+| 5 | 643 | 1037 | 3848 | 1074 | 1027040 | Private v. | Greenfield, Victor1 Robert  | Nil.......... |  | -I | Glegrifieldt | Canada.., 7 | lowinanvjlle.. | June -3, 1916 |
+| 5 | 645 | 1066 | 3848 | 1101 | 1027652 | Private  | Gregg, .I):inieI,’i.‘V.V:Y....7.7. | Nil.   | Grtegg£iStanle>.., ,    |  | Canat | lelleville..-— | Jaw. ‘25, 46(17 |
+| 5 | 645 | 1090 | 3848 | 1131 | 1027683 | Private...... | Grey,Berijamin.  | ...Nil....;.'..'.. | Grey/Mrs/Elifcabeth   | R.,jRCNo. 3, Prescott, Ont   |  | ieUeville....... | Feb. v9, 49117 |
+| 5 | 645 | 1123 | 3848 | 1165 | 1027484 | Private .. | GrifBrt;!RUfc6ell William T... | ... Nil. | Gnf^MiyrMary   | Enniskillen,,Ont.     | Canada..   ] | BowmanvUle.. | July 13, 4916 |
+| 5 | 646 | 1152 | 3848 | 1205 | 1063120 | Private...... | Gunter, Daniel Herbert    | .'.7 U.S. Navy.. | " ‘ '^Charles   | Joe Jim, Oilt. .... .J. . , . . . v*y .... | Canada... | Peterboro.'.... . | Feb. i ft, 4947 |
+| 5 | 645 | 1180 | 1648 | 1210 | 1027481 | Private   | Guhtei,- Harolti Dduglas........ | .'.; M " ' |
+| 5 | 647 | 1207 | 3847 | 1246 | 1063127 | Private. :7... | Gunter; iRichard    | ... Nil. | Gunterf Mrsi Clara Emily  |  | Canada.  | Peterboro...... | Feb. ;15, 491) |
+| 5 | 647 | 1238 | 3848 | 1278 | 1063118 | Private  | Gunter', Wrlford................ | ... NU  | Gunter, David  | Soe^HiU^ Qnt*...... 7.    |  | Peterboro..  | Feb. S, 1947 |
+| 5 | 647 | 1262 | 3848 | 1306 | 1027016 | C.Q.M.S  | Baddy, Alexander Eastman... | ... Nil.  | Haddy, F. A.      | BowmanvUle, Ont.,,,,,... | lainada  | Bowmanville.. | May 27, 1916 |
+| 5 | 646 | 1294 | 3848 | 1332 | 1027500 | Sergeant  | Halfi-; Leoi Daniel    | ... Imp. Forces. | Gnmmer; Mrs.1 Mari’  | 168 Orwell Rd., Kirdale, Liverpool, Eng. | England  | Belleville  | Nov. 19, 1946 |
+| 5 | 647 | 1319 | 3847 | 1365 | 1063145 | Private  | Hail; 'Lesiwy^;; r«gv-: v     | ... Nil..V:7  | Hall, Charles.,.:..  | Hall’s Bridge," Owt.n. w>,     | Canada  | Peterboro...... | Mar. -1, 1917 |
+| 5 | 647 | 1352 | 3866 | 1390 | 1063154 | Private  | Hallv Melville,-Thomas  | ... NU....  | Hall, Charles......   | Hall’s Bridge, Ont.. | Canada..'....... | Peterboro:  | Mar. 13, 1947 ■ |
+| 5 | 646 | 1381 | 3848 | 1423 | 1063069 | .Lance-Corporal.. | Hall; waiter Harold  | ... 3rd Drags  | Hall/George....:..   | R; R,.No,'9, Peterboro, Ont'....,..:,;. | Canada  | Peterboro.  | Dec: 26, 1916 |
+| 5 | 646 | 1410 | 3847 | 1447 | 1027050 | Sergeant..  | Hately/ John. lii         | ... NU  | Hatelyi-Mrs: Ethel Maud  | BowmanvUle; Orit........‘   | Ireland..  | Bowmanville.. | June. 6, 4946 |
+| 5 | 646 | 1438 | 3848 | 1479 | 1027044 | Lance-Sergeant.. | Haywood1, Arfcliibald James... | ... 31st Regt.... | Hayward, Mrs: Elizabeth Eddy.. | BowmanvUle, Ont..,,  | England -...' | Bqwmanville.. | June 3, 1916 |
+| 5 | 646 | 1467 | 3848 | 1508 | 1027105 | Private  | Hearns; Marshall:      | ... NU.  | Micke^Mrsi Josie  | Trenton, Ont,,,    | Canada  | “'renton ^. .... .. | Dot: 31, 1916 |
+| 5 | 646 | 1496 | 3848 | 1534 | 1027609 | Private  | Herinessy;Carroll Peter.  | ... Nil  | Hennessy, Peter.   | L’Amable.'Qnt.;      | Canada...  | lelleVille... | Jan. 8, 4917 |
+| 5 | 645 | 1523 | 3849 | 1572 | 1027559 | Private  | Heiinessjv George Clayton   | ... NU  | Hennessy, Peter,.'.,............. | ^‘^nable, ,pnt r,     | Canada. -.-... |  | Dec. 13', 1916 |
+| 5 | 646 | 1553 | 3848 | 1592 | 1063137 | Private  | Henshaw, Herbert Albert  | ... Nil  | Henshaw,' Robert Joseph..... | Omemee,' Ont..:         | Canada.......... |  | Feb. 22, 1917 |
+| 5 | 645 | 1583 | 3849 | 1619 | 1027404 | Private  | Henshaw; Joseph    | ... NU....,  | Henshaw; Mrs. Annie Ester... | 182 DorcHester St- W., Montreal, P.Q. | England  | impbellford. | Oct. ,5, 1916 |
+| 5 | 645 | 1608 | 3849 | 1651 | 1027045 | Sergeant... | Herbst; Roy .Si .'J..  | ... 43rd Regt  | Herbst; 'Henry  | 40 Turner St:, Ottawa, Ont,.......... | Canada....  | iwmanville. | June 3, 1916 |
+| 5 | 645 | 1641 | 3849 | 1680 | 1027558 | Corporal... | Herrick, George Edmond  | ... U.S. Navy.. | Herrick, Delven.:    | San Diego, Cal., U.S.A............... | U.S.A....  | (bourg. | Dec. 12, 1916 |
+| 5 | 644 | 1665 | 3848 | 1712 | 1027660 | Private  | Hickersoay EVdrett‘.:;   | ... Nil  | Hickerson; Mrs. William   | Trenton, Qnt,...   | Canada......... | ielleviUe:;^.-. | Jam 31, 1917 |
+| 5 | 644 | 1698 | 3849 | 1740 | 1027573 | Private  | Hicks; Robert Rby. j:.'. ... | ... NU   | McGowan/ Mrs/A..7    | Trenton, Ont.., • j...,‘.»,.j........... | Canada......... | 'icton-;.. | Deo. [4, 1916 |
+| 5 | 644 | 1728 | 3849 | 1765 | 1063050 | Private  | Hills, NelsoSil.IiV.’1.;1.1   | ... Territorials.. | Hills; Thomas WiUiam.  | 112 Osborae Rd,,, Asuford, Kent, Eng. | England   | 'eterboro . .... | Dec. 15", 1916 |
+| 5 | 645 | 1756 | 3849 | 1797 | 1027544 | Private  | Hihchliffe.'ThomasRaymond. | ... NU..V.7..... | Hinchliffe, Thomas Allan  | Campb'elHoM,.,Unt,,.,„............., | Canada...   | IeUeville-,. | Dec. j7. 1916 |
+| 5 | 645 | 1786 | 3849 | 1826 | 1063038 | Private...... | Hinds, Arthiir.V.V:'.!  | ... Nil  | Hinds, James ,7   | Blairton, Ont......,,................... | Canada—..... | Peterboro..... | Nov. 20; 1916 |
+| 5 | 645 | 1814 | 3848 | 1852 | 1027108 | Private  | Hitchcock;'Johh.7..-.   | ... Nil  | Hitchcock, Nellie.'    | 1232 Shaw St./Toronto, Ont  | England  | Bowmanville. | July 1, 1916 |
+| 5 | 645 | 1842 | 3849 | 1882 | 1027520 | Private.... | Hodges, Ernest Richard  | ... NU  | Not stated  | Not statedj_.     | Canada  | BellevUle  | Nov. 23, 1916 |
+| 5 | 645 | 1872 | 3849 | 1910 | 1063046 | Lance-Corporal.. | Holden, Fred..;........... | .. . 57th Regt.... | Holden, Thomas  | 606 Bethune St., Peterboro, Ont  | England  | Peterboro  | Dec. 4, 1916 |
+| 5 | 645 | 1901 | 3849 | 1938 | 1027412 | Private  | Horsley, Joseph Henry  | ... Nil  | Horsley, Mrs. Jennie B  | Smith field, Ont.    | Canada.;..  | Campbellford. | Oct. '12, 1916 |
+| 5 | 644 | 1929 | 3849 | 1972 | 1027589 | Private.... | Howard, Charles James  | ... Imp. Forces. | Howard, Mrs. Charles  | Bloomfield, Ont...,.................. | England.  | Belleville   | Dec. 28, 1916 |
+| 5 | 645 | 1958 | 3849 | 1996 | 1027313 | Private:. | Huffman, Ralph W  | ... NU ':.... | Huffman, Morely Isaac  | Moscow, Ont, | Canada  | Bowmanville. | Sept. 1, 1916 |
+| 5 | 645 | 1987 | 3849 | 2025 | 1027120 | Sergeant... | Hume, Thomas James  | ... Nil  | Hume, Alexander D  | R. R. No. 3, Campbellford, Ont... | Canada  | Campbellford. | June 22, 1916 |
+| 5 | 644 | 2014 | 3849 | 2053 | 1027011 | B.Q.M.S  | Ince, Robert  | ,.. R.N.W.M.P. | Ince, Mrs. Mary Gertrude  | 93 Fentiman Ave.,T)ttawa, Ont.... | Canada  | Bowmanville. | May 26, 1916 |
+| 5 | 645 | 2044 | 3849 | 2084 | 1027021 | Sergeant  | Ince, Robert Allison    | ... NU  | Ince, Mrs. Mary Gertrude..,,, | 83-Eeatiman Ave,, Ottawa, Ont. ... | U.S.A   | Bowmanville. | May 28, 1916 |
+| 5 | 644 | 2074 | 3848 | 2112 | 1063144 | Private...... | Ireland, Frederick John..  | ... Nil   | [reland, George   | Lakehurst, Ont  | Canada  | Peterboro | Mar. 1, 1917 |
+| 5 | 644 | 2103 | 3848 | 2146 | 1063146 | Private  | Irwin, Karl Webster  | ... Nil  | Irwin, Arthur M axvpelj. - |  | Canada  | Peterboro | .. Mar. 2,1917 |
+| 5 | 644 | 2131 | 3848 | 2170 | 1027028 | Sergeant  | Jackson, Eric    | .. Can. Mil  | Jackson, Mrs. Charles...J | •O'lJox 491, Lindsay, Ont  | Canada..  | Bowmanville. | .. May 29, 1916 |
+| 6 | 544 | 543 | 3712 | 588 | “.-§'11 | tnV-K * |  |  |  |  |  | Taki^ osr Strmnoth |
+| 6 | 697 | 605 | 3243 | 638 |  | ' Rank. |  | Former Corps. |  |  | Country of |
+| 6 | 534 | 751 | 3737 | 788 | 1027402 |  | James, Alban Herbert....  | Nil    | James, Mrs,/Lucy Perks  | 109 Church Lane, Maples, Stockport, Eng.   | England  | Campbellford.:. | Oct. | 9; | 1916 |
+| 6 | 534 | 780 | 3736 | 813 | 1027426 | Private.  | James; JohnLeonard......... | Nil...    | James,.Mrs. Lucy Perks  | 109 Church Lane, Maples, Stockport, Eng  | England..  | Campbellford.;. | Octi | 16. | 1916 |
+| 6 | 539 | 810 | 3736 | 844 | ;195ll< | Private  | James, JohnThomas.i:....., | 57th Regt  | James, Mrs. Agnes  | 488 George St., Peterboro, Ont ,  | England....... | Peterboro.. | Sept: | ,10, | 1915 |
+| 6 | 549 | 838 | 3737 | 872 | 10708( | Sergeant   | James,.Samuel George..  | G.G.F.G   | James, Mrs. Emily Agnice  | 98 Stewart St., Ottawa, Ont  | Canada : | BowmanvUle.. . | June' | 17. | 1916 |
+| 6 | 534 | 869 | 3735 | 901 | 102700( | Sergeant   | Jamieson, Frederick John  | Nil................... | Jamieson, Mrs. Annetti  | 493 Gilmour St., Peterboro, Ont    | Canada........ | BowmanvUle. | May | 23, | 1916 |
+| 6 | 533 | 897 | 3735 | 929 | 102747( | Private  | Jarvis, Gordon Spear  | Nil  | Jarvis, Mrs. Sara Bertha  | Stirling, Ont    y       | Canada,;;..... | BeUevUle'; ;V: | Oct. | 28; | 1916 |
+| 6 | 533 | 927 | 3734 | 957 | 102761] | Private  | Jarvis, Karl Ross.   | Nil........  | Jarvis, Christopher.   | R. R. No. 2, Holloway, Ont.   | Canada  | BellevUle.;..... | Jan. | 9. | 1917 |
+| 6 | 532 | 951 | 3735 | 986 | 1027688 | Private  | Jennings, Albert W    | U.S. Navy  | Cox, Mrs. Eva..,   | East Dixfield, Me., U.SlA...    | U.S.A.......... | BellevUle. . | Feb; | 9. | 1917 |
+| 6 | 532 | 984 | 3735 | 1014 | 1027524 | Private  | Jewell, Edgar: .. ............. | Nil...   | Jewell, Mrs: Flossie Elizabeth.. | Pictoq, Ont.         | Canada....... | BellevUle....!. . | Nov. | 27, | 1916 |
+| 6 | 532 | 1010 | 3734 | 1044 | 1063125 |  | Johnson, George    | Nil..   | Johnson,' Mrs. Sarah    | Cordova Mines, Ont   | Canada   | Peterboro....... | Feb. | 12, | 1917 |
+| 6 | 532 | 1042 | 3734 | 1073 | 102760S | Private  | Johnson, Roger......V...‘.... | Nil  | Johnson, George Frederick  | Norfolk, Eng.      | England  | Picton  | Jan. | 6, | 1917 |
+| 6 | 529 | 1071 | 3734 | 1101 | 2309334 | Private  | Joly, Oscar... :;  | Nil...  | Joly, Athanase  | Clarence Creek, Ont...     | Canada  | Rockland  | Mar. | 16, | 1917 |
+| 6 | 531 | 1096 | 3735 | 1132 | 1063049 | Private  | Jones, Henry Joseph  | Nil  | Jones, Mrs. Annie   | 539, Albert St., Peterboro, Ont.    | Canada  | Peterboro....... | Dec. | 5, | 1916 |
+| 6 | 531 | 1129 | 3734 | 1161 | 1063054 |  | Jones, Isaac, William......... | NU.  | Jones, Mrs. Annie    | Apsley, Ont...;,.......,.  | Canada  | Peterboro  | Dec. | 6, | 1916 |
+| 6 | 530 | 1158 | 3734 | 1188 | 1027485 |  | Judge, Arthur William  | Nil  | Judge, Mrs. Alice.,  | 285 High St., Plumstead, London, Eng  | England  | Belleville.  | Nov. | 15, | 1916 |
+| 6 | 530 | 1187 | 3734 | 1217 | 1027436 |  | Julien, Albert...7......   | NU  | Cloutier, Mrs. Napoleon  | 202 Notre Dame St. E., Montreal, P.Q  | Canada  | BeUeviUe  | Nov. | 1, | 1916 |
+| 6 | 545 | 1215 | 3734 | 1246 | 106315 |  | Keale, Edgar Isaac.:.... | NU  | Keale, Alfred.  | 17 Smith Ave., Hamilton, Ont  | England...... | Peterboro    | Nov. | 12, | 1915 |
+| 6 | 530 | 1241 | 3734 | 1275 | 1027576 |  | Keating, James Abraham.... | 15th Regt  | Keating, Mrs. Joshua  | Frankford, Ont  | Canada  | Belleville  | Dec. | 12, | 1916 |
+| 6 | 530 | 1269 | 3029 | 1304 | 1027447 | Private  | Keegan, Michael.   | NU.  | Keegan, Mrs. Mary   | 3 St. Catherine’s House Chord Rd., Drogheda, Co. |
+| 6 | 936 | 1303 | 3734 | 1332 |  |  | - • L"' ' |  |  | Louth, Ire.  | Ireland  | BeUevUle  | Nov. | 6, | 1916 |
+| 6 | 527 | 1332 | 3733 | 1361 | 2309331 |  | Keeley, Moses, t. | NU   | Keeley, John.   | 213 Armstrong St., Ottawa, Ont  | Canada  | Rockland....... | Mar. | 14, | 1917 |
+| 6 | 529 | 1360 | 3734 | 1391 | 1063079 | Acting-Sergeantt | Kelly, Herbert, i        | Royal Navy  | Kelly, Mrs. Helena Maud.. | Peterboro Club, Peterboro, Ont  | England  | Peterboro  | Jan. | 4, | 1917 |
+| 6 | 529 | 1390 | 3733 | 1419 | 1027619 | Private  | Kennedy; Joseph'Martin T... | NU  | Spray, Mrs. Mary   | 413 East 63rd St., New York, N.Y., TJ.S.A  | U.S.A   | Cobourg.   | Jan. | 13. | 1917 |
+| 6 | 528 | 1418 | 3734 | 1447 | 1027027 | Private.  | Kent, William Gordon.;  | NU......   | Kent, George.... | Lindsay, Ont...     | Canada  | BowmanvUle... | May | 31. | 1916 |
+| 6 | 528 | 1447 | 3734 | 1482 | 1063100 |  | Kimball, Erie.;1 ..... | 57th Regt  | Kimball,'Mrs. Ida.,.,,.,.. | Lang, .Ont.... ■  •••■... | Canada  | Peterboro  | Jan. | 22, | 1917 |
+| 6 | 527 | 1476 | 3734 | 1505 | 1063035 |  | King, Arthur.'.;......... | Nil  | King, Mrs. Emma... | Havelock, Ont.. .....y.   | Canada  | Peterboro...  | Nov. | 13. | 1916 |
+| 6 | 527 | 1503 | 3734 | 1534 | 1027234 | Private   | King, Charles Morris. | NU  | King, MralNorah.. | 595a Delongeire St., Montreal, P.Q  | Canada  | BowmanvUle... | Aug. | 3. | 1916 |
+| 6 | 526 | 1534 | 3734 | 1563 | 1063135 | Private  | King, John..;....IK JfS‘JA: .'. | NU......  | King, John.. - ,,...... | 380' London St., Peterboro, Ont  | Canada  | Peterboro.,..... | Feb. | 21. | 1917 |
+| 6 | 541 | 1562 | 3734 | 1593 | 164672 | Pay-Sergeant... | Kingscott, Harry.'.1'.1.;....... | NU...  | Kingscott, Mrs. Florence.., | 7 St. John’s Rd., Mount Dennis, Ont  | England  | Brantford....... | Dec. | 7. | 1915 |
+| 6 | 526 | 1591 | 3734 | 1625 | 1027722 | Private  | Krosnisky.'John.f.'.1..1.'.;.... | NU,   | Pontiskul, Constantine. | 27 Kenney St., Ottawa, Ont    | Poland  | Ottawa...;  | Mar. | 30. | 1917 |
+| 6 | 525 | 1619 | 3734 | 1651 | 1027159 | Sergeant  | Lancaster, James Wilson  | Territorials  | Lancaster, John James.!... | 83 Helen St., Blackburn, Lancs, Eng  | England  | BowmanvUle,... | July | 10, | 1916 |
+| 6 | 526 | 1649 | 3734 | 1679 | 1063168 | Private   | LaNoue, Willie.1.'.    | NU....  | LaNoue, Jerry. | Sherbrooke j P.Q.     | Canada  | Peterboro   | Apr. | 6, | 1917 |
+| 6 | 525 | 1673 | 3734 | 1707 | 1027017 | Private  | Lapointe, Hector    | NU    | Lapointe, J; E.; .. | 2198 N. St. Denis St., Montreal, P.Q  | Canada  | BowmanvUle... | May | 29, | 1916 |
+| 6 | 525 | 1704 | 3734 | 1736 | 1027416 | Private  | Lapp, Thomas Clarke  | NU....  | Lapp, MrS. Sarah | 215 Charles St.; BeUevUle, Ont  | Canada......... | BeUevUle..;.... | Dec. | 28, | 1916 |
+| 6 | 525 | 1735 | 3734 | 1765 | 1027057 | Private  | Laugher, Albert'James  | Nil......  | Laugher, James....  | 72 Cambridge Ave., Toronto, Ont  | England.   | BowmanvUle... | June | 10, | 1916 |
+| 6 | 525 | 1764 | 3734 | 1798 | 1027312 | Lance-Sergeant.. | Lawless,'Thomas Alphonsus. | O.T.C  | Lawless,' Reuben.......... | Grafton, Ont.,'/--   | Canada  | BowmanvUle... | Sept. | 1, | 1916 |
+| 6 | 524 | 1789 | 3734 | 1822 | 1027697 | Private  | Leach, Charles Frederick  | NUI.......  | Leach, Mrs! Mary Anu.,... | Bancroft, Ont........;..'.  | Canada  | BellevUle....... | Feb. | 2. | 1917 |
+| 6 | 524 | 1818 | 3734 | 1851 | 1027339 | Privato  | LeBreton, Edward William.. | Nil;...  | LeBreton, Mrs. Annio. | 31 The Parade, Barry, Glamorgan, Wales  | Channel Islands | Cobourg........ | Sept. | 13. | 1916 |
+| 6 | 524 | 1846 | 3734 | 1881 | 1(027640 | Lance-Corporal.'. | Leeman, Harvey William  | NiU..   | Leemon, Mrs. Mary Jane... | 278 Bleacker Ave., Belleville, Ont    | Canada.......... | BeUeviUe....... | Jan. | 25, | 1917 |
+| 6 | 521 | 1879 | 3734 | 1910 | 2309315 | Private; ....   | [^eslie,fRobert..'...' y......... | Nil;'.;.....  | Leslie,'William..  | Rockland, Ont.....  | Ireland  | Rockland.;..... | Feb. | 12, | 1917 |
+| 6 | 523 | 1906 | 3734 | 1938 | 1063083 | Private. . .   | Lewis, Wilford Joseph........ | NU........   | Hatailtori, Mrs.’William... | 56 Wolsley St., Peterboro, Ont  | Canada  | Peterboro....... | Jan. | 7* | 1917 |
+| 6 | 523 | 1934 | 3734 | 1968 | 1063057 | Private..    | Lewis, Wilfred Robert. ,... | NU;.   | Lewis, Mrs. Sophia C  | Cretorion Restaurant, Coventry, Eng  | England...  | Peterboro..  | Feb. | 17, | 1917 |
+| 6 | 523 | 1965 | 3734 | 1996 | 1063133 | Private.  | Little; James.....;;.i..'.. | nu.. ......... | Little, Johh. | Havelock, Ont.’.      | Canada. | Peterboro..  | Feb.':’ | 17, | 1917 |
+| 6 | 523 | 1993 | 3733 | 2028 | 1027635 | Lance-Corporal... | Lizzott, Ralph...v.   | nu.....   | Lizzott, Victor ;...'  | 28 Lunenburg S£, Fitchburg, U.S..A  | U.S.A.......... | BeUeviUe..... | Feb;- | 9. | 1917 |
+| 6 | 522 | 2023 | 3734 | 2056 | 1027358 | Private/..... | Locey,'Robert Samuel. . . | Nil........   | Locey. Mrs. Liddie  | Cornwall, Ont.      | Canada.,  | Cobourg........ | Sept; | 16. | 1916 |
+| 6 | 522 | 2051 | 3733 | 2084 | 1027615 | Private  | Lockman, Joseph Michael...'. | NU.........   | Lockman, Mrs. Annie.  | Cor. 99th and 2nd Ave., New York, N.Y., U.S.A  | U.S.A.   | BeUeviUe. | JanV: | 17.' | 1917 |
+| 6 | 521 | 2079 | 3734 | 2112 | 1027552 | Lance-Corporal.. | Logue, Francis Leo;'......... | Nil....'.   | Logue, Mrs. John:    .*. | 89 Broadway St., Buffalo, N.Y., U.S.A  | Canada......... | BeUeviUe..v.!:.; | Dec.- | 9, | 1916 |
+| 6 | 521 | 2111 | 3734 | 2142 | 1027001 | 3.Q.M.S  | Long, Samuel., .vijii.;  | Nil   | Long, Mrs. George  | Peterboro, Ont  | Canada  | Bowmanville... | May | 18, | 1916 |
+| 6 | 521 | 2140 | 3736 | 2170 | 1063103 | Private  | Lord, Henry Charles.   | Nil   | Lord, sr., Henry Charles... | Mill Brook, Ont.   | England  | Peterboro....... | Jan, | 23, | 1917. |
+| 6 | 518 | 2168 | 3734 | 2199 | 2309338 | Private  | LougK; Percy..;':.:.TV......... | Nil  | Lough; Vinton  | Flint, Mich., U.S;A.   | England  | Rockland  | Mar. | 23. | 1917 |
+| 7 | 669 | 370 | 3867 | 409 | 1027061 | Private  | Low, Alexander Ritchie   | NU. | Low, Robert.. | P. O. Box 158, Granby, P.Q. | England Bowmanville....IJune 12,1916 |
+| 7 | 669 | 408 | 1523 | 438 | 1027631 | Private  | Lucas, William Henry  |
+| 7 | 645 | 419 | 3653 | 467 | , 163028 | Private  | Lucas, William James  |  |  |  | :: ...... |
+| 7 | 648 | 452 | 3867 | 498 | ,1027492 | Private T | LuffmaiC James Alfred   | Nil    |  | Sulphide,; Ont.    | Canada. | Madoo!..'.„... j. | Nov. 15,11916 |
+| 7 | 668 | 484 | 3867 | 528 | 1067012 | Private ; | Lyman,' Amos Arnold  | 47th Regt   | . _ . _ _ *» •*-*— - -¬ | R. R; No. 6; Peterboro, Ont  | Canada.....:, | Peterboro.V.V.J. | Sept. 23,*’1916 |
+| 7 | 646 | 514 | 3868 | 557 |  | Private.,   | 1 '1027659 | Lytle, Albert;^,.'.   < .. | Nil.•••••••..... • •. | Lytle, Mrs. Bertha,,.>.. | Brockville, Ontu'AWS-. :.. | U.S.A....... | Beiievuie;;;;;.). | Feb.»9,!1917 |
+| 7 | 669 | 544 | 3868 | 584 | 1063042 | Lance^orporal... | MacLeod, Donald    | Nil.. | MacLeod, James.        | MU1 Bridge, Ontiuiw. .;;.... | Canada ; | Peterboro...;..* | Nov;>24,i'1916 |
+| 7 | 648 | 571 | 3869 | 613 | 1 *1027567 | Private.........f | Mallory, John.     | NU i' | Mallory, Mrs. Jennie   | RiFs D. No. l,Colbome,Ont... | Canada !.i | Belleville....; | Deo.^ 16,11916 |
+| 7 | 668 | 601 | 3870 | 646 | 1027132 | Corporal  | Malone, Leov*...,    | NU. | Malone, Jessie     - | 1149 Niagara St.* Buffalo, N.Y., U.SA.. | Canada  | BowmanvUle... Jul; | July ; 3,!1916 |
+| 7 | 668 | 630 | 3870 | 670 | 1027664 | Private  | Marlieb, Morris Lewis  | NU ,., | Litwin, Mrs.    | 174 Queen St., HamUton, Ont  | England  | Belleville... | Feb. 5-2,11917 |
+| 7 | 668 | 659 | 3871 | 706 | 1027694 | Private    | Marquette, John Edward   | NU   , | Marquette, Albert   | P. O. Box 466, Prescott; Ont.;. | Canada  | BeUevUle... | Feb. 14, 11917 |
+| 7 | 669 | 687 | 3870 | 729 | 1027387 | Corporal.. i | Marriott, Henry.,   | Imp. Forces..,........, | Marriott, Mrs. Emma  | Campbellford, Ont—.....:;'.i,.i.. | England  | CampbeUford... | Sept. 28.U916 |
+| 7 | 648 | 718 | 3872 | 757 | ; 1063102 | Private   | Martin, John.    | NU..;  | Martin, (Sr.) John   | Ormsby, Ont.i.'. 5   | Canada   | Peterboro   | Jan. r23,U917 |
+| 7 | 669 | 747 | 3872 | 787 | 1063123 | Private  | Martin, Robert Ray   | NU   | Martin, Mrs. WUliam  | Spanish Mills, Ont.......... ............ | Canada  | Peterboro ;.. | Feb. 10,'1917 |
+| 7 | 670 | 773 | 3872 | 815 | 1027141 | Corporal  | Mason, Ariel George J - | 43rd Regt.............: | Mason, Mrs. Maria   | 101 Bayswater Ave., Ottawa, Ont  | Canada  | Bowmanville... | July fi,11916 |
+| 7 | 670 | 805 | 3870 | 844 | 1027046 | Private  | Mason, Charles ....   | Nil   | Mason, Robert    | 101 Bayswater Ave., Ottawa, Ont  | Canada  | Bowmanville... | June 3,‘1916 |
+| 7 | 669 | 834 | 3870 | 874 | 1063158 | Private  | Mather, Andrew Percy.. ;, | NU..  | Mather, Mrs. Agnes   | R.R. No. 2,Keene, Ont..........;..... | Canada  | Peterboro  | Mar. 14; 1917 |
+| 7 | 670 | 862 | 3870 | 910 | 1027281 | Private  | Mathews, Roy.,,   | Nil ...  | Mathews, Mrs. MUdred May  | Lakeport, Ont    | Canada   | Colboume  | Aug. 14, 1916 |
+| 7 | 650 | 891 | 3870 | 931 | ’1027501 | Private    | McCormick, James    | Nil    : | McCormick, Mrs. Catherine   | 17 Bowles St., Bootle, Liverpool, Eng... | England ’. | Belleville  | Nov. 19, 1916 |
+| 7 | 670 | 920 | 3870 | 959 | 1027047 | Private  | McCurdy, Arthur.. .       | NU    | McCurdy, Lorenzo.-.      | 384 McLaren St., Ottawa, Ont..,.,.';.... | Canada  | BowmanvUle... | June 3, 1916 |
+| 7 | 662 | 949 | 3871 | 988 | ■2309321 | Private  | McDonald, William Joseph  | NU...     | McDonald; Mrs. Alex    | Pembroke, Ont......................... | Canada  | Rockland  | Mar. 1, 1917 |
+| 7 | 670 | 977 | 3870 | 1018 | 1027187 | Private  | McGuire, Edward John ...... | NU   | McGuire; Mrs. Mary..........   | 210 BeU St., Ottawa, Ont...;...... | Canada.   | BowmanvUle... | July 19, 1916 |
+| 7 | 652 | 1006 | 3870 | 1047 | :'1063005 | Sergeant  | McMahon, Roland.Foster......... | Can. MU   | McMahon, Thomas.   | Bridgenorth Ont..’.’.      V......... | Canada  | Peterboro  | Aug. 29, 1916 |
+| 7 | 670 | 1035 | 3870 | 1076 | 1027037 | Sergeant   | McMahon,, William Frederick  | 46th Regt  | McMahon, Joshua   | Port Hope, Ont..ri:X’vj:‘.'. ;'.;.. | Canada  | BowmanvUle... | June 2, 1916 |
+| 7 | 651 | 1064 | 3871 | 1104 | ■1027216 | Private   | Micks, Joseph  | NU   | Micks,.Mrs. Jenny...... .  | 34 King St., Port Hope, Ont ........ | Canada  | Port Hope.  | July 27, 1916 |
+| 7 | 671 | 1092 | 3871 | 1133 | 1027318 | Private...,.  | Middleton, Elvyn Ethelston  | NU  | Middleton, Mrs. Ethel  | Newcastle, Ont. .w.;..   | Canada  | BowmanvUle... | Sept. 2, 1916 |
+| 7 | 685 | 1121 | 3870 | 1161 | 195168 | Private .; | Miles, Horrace    | NU  | Miles, Mrs. Edith  | 112 Murray St., Peterboro, Ont......... | England’.  | Peterboro  | Oct. 20, 1915 |
+| 7 | 653 | 1150 | 3870 | 1190 | ' 1063004 | Corporal...  | Miller, Harvey John..  | Nil  | MiUer, John       | Sunderland, Ont..... ...    | Canada  | Peterboro  | Sept. 9, 1916 |
+| 7 | 671 | 1179 | 3871 | 1218 | 1027594 | Private ;  | Miree, Harold   | NU...  | Miree, Miss Sarah  | 9 Moor St. W., Didsbury, Manchester, En | England  | Belleville  | Jan. 9, 1917 |
+| 7 | 671 | 1208 | 3870 | 1247 | 1027444 | Private  | Mitchell, Thomas   | NU  | Mitchell, Eliza  | C/o A. P. Davis, Smith Mills, P.Q | England  | BellevUle  | Oct. 28, 1916 |
+| 7 | 671 | 1236 | 3870 | 1276 | 1027721 | Private  | Mitchell; Thomas Edward   | NU  | Mitchell, Mrs. Emma  | Carleton Place, Ont.;.............. | England  | Carleton Place.. | Mar. 17, 1917 |
+| 7 | 672 | 1265 | 3869 | 1305 | 1027253 | Private  | Mitts, Robert Bruce     | 49th Regt  | Mitts, Mrs. Isabelle  | Crooks ton, Ont..    | Canada  | Campbellford... | Aug. 7, 1916 |
+| 7 | 672 | 1294 | 3870 | 1334 | 1063075 | Private : | Monghan, Michael   | Nil  | Monghan, Peter    | Coe Hill, Ont...;. j. ;:       | Canada  | Peterboro  | Jan. 1, 1917 |
+| 7 | 672 | 1323 | 3869 | 1363 | 1027560 | Private  | Moore, John Stewart.  | NU  | Moore, WUliam  | R. R. No. 3, Picton, Ont....     | Canada  | Picton  | Deo. 9, 1916 |
+| 7 | 672 | 1352 | 3869 | 1392 | 1027507 | Private  | Moore, William...,.  | Nil  | McLauglin, Mrs. Mary  | 71 Thistle St., Glasgow, Scot...... | Scotland  | Belleville  | Nov. 20, 1916 |
+| 7 | 672 | 1381 | 3869 | 1420 | 1027370 | Private  | Moore, William Ashford     | NU  | Moore, Mrs. Lavina  | Colborne, Ont......    | Canada  | Cobourg '.. | Sept. 18, 1916 |
+| 7 | 672 | 1410 | 3869 | 1450 | 1027079 | Lance<Jorporal... | Morgan, Everett James .".. | Nil   | Morgan, James.........;   | Charlottetown, P.E.I     | Canada  | Cobourg  | June 17, 1916 |
+| 7 | 669 | 1439 | 3871 | 1478 | 2309326 | Private   | Morgan, Francis  | NU  | Morgan, M>a. Mary ;... | 280 Bay St., Ottawa, Ont.   | Canada  | Rockland  | Mar. 10, 1917 |
+| 7 | 688 | 1468 | 3871 | 1508 | 195263 | Private  | Morris,'Robert James  | NU  | Morris, M*>y Ann   | 391.Military Hospital, Lewisham, London | England   | Peterboro  | Nov. 12, 1915 |
+| 7 | 673 | 1496 | 3871 | 1536 | 1027543 | Corporal  | Mounce, Thomas Martin  | Can. MU  | Mounce,'Mrs. Josephine.     | Pi'cton, Ont/..’.     | England   | Picton   | Sept. S, 1916 |
+| 7 | 673 | 1525 | 3870 | 1565 | 1027300 | Private  | Mulligan, John........    | Nil  | Moatze, Mrps D. J................ | Detroit, Mioh., U.S.A   ..... | U.A.S    | Bowmanville... | Aug. 25, 1916 |
+| 7 | 673 | 1554 | 3870 | 1593 | 1027088 | Sergeant..   | Murchison, Arthur D  | 59th Regt....  | Murchiion. Mrs. Cora......;.;. | Cornwall, Ont.....    | Canada   | BowmanvUle..^ | June 19,-1916 |
+| 7 | 655 | 1583 | 3871 | 1622 | ; 1027601 | Private.......... | Murdock, Robert  | Nil  | Murdock, Mrs, Maggie.........;. | Maynooth.Ont...;;.'.;.. ;.■...  | Canada........: | Belleville   | Jan. 6, 1917 |
+| 7 | 672 | 1607 | 3871 | 1655 | 1027709 | PriVate  | Murphy, John Patrick  | Nil....     | Murjjh^ ^Mtt^Florence B.. ... | ©Jace Biy;-C:B., N.S ; i   | Canada......... | Ottawa..; I | Mar. 13, 11917 |
+| 7 | 673 | 1639 | 3871 | 1679 | 1027548 | Private  | Murray, Robert Arthur  | Nil......  | Muriw.'Mrs;Fiorence E......... | Eort.-flope, Ont....V.   | Canada........4 | Cobourg. ; | Dec. 8, ’1916 |
+| 7 | 673 | 1666 | 3872 | 1714 | 1027642 | Private  | Myatt, Percy..   | Nil.;   <:?:■ | M^^llttr^eimetta..........-. | Pitotbn; Ont...      | Canada........ J | Picton..... J | [Jan. 26, 1917 |
+| 7 | 672 | 1698 | 3871 | 1737 | 1027301 | Private  | Nash, Russell Dean  | NU ,<?; |  | NRt’»t*ted,;...*.... V............ | Ganada........J | Bowmanville... | Aug. 25, 1916 |
+| 7 | 670 | 1724 | 3871 | 1766 | 1027446 | Private  | Nash, Thomas;.’   | Imp. Forces....., | ash', Mrs. Loliiisa.. | W^TwineU Rd.; Easton, Bristol, Eng.... | England... ....J | BelleVille j | Nov.6,-1916 |
+| 7 | 655 | 1756 | 3871 | 1799 | ; 1027508 | C.M.S  | Neil, John......   | NU  | NeU, James,;.*-,   , | R. O. S. B. c/o Army P. O., London, Eng | Scotland........ | BellevUle—.. j | Nov. 20, 1916 |
+| 7 | 655 | 1784 | 3871 | 1825 | 31027488 | Private  | Nicol, John.. .  | NU   | Niool, George....    | Coltown, Aberdeen, Scot.....        | Scotland........ | Bowmanville...] | Nov.-15,, 1916 |
+| 7 | 672 | 1814 | 3871 | 1856 | 1027164 | Corporal  | O’Brien, Thomas  | NU  | Marnion.-^Irs. Mary  | 923 Gertrude St., Verdun, P.Q...   | England.... | Bowmanville.. j | July >8, 1916 |
+| 7 | 672 | 1842 | 3872 | 1882 | 1027323 | Private  | O’Callaghan, John  | Nil  | O’Callaghan; Mrs. Catherine  | 10 Sherwood St., Liverpool, Eng.  | Ireland  | Newcastle    | Sept. ’ 5, 1916 |
+| 7 | 671 | 1871 | 3872 | 1911 | 1027497 | Private  | O’Connor, John Joseph  | Nil  | 0’Connor,Mra.Mary  | 7 Warwick St., South Port, Lancs, Eng.. | England  | Belleville  | Nov. 19, 1916 |
+| 7 | 672 | 1896 | 3872 | 1940 | 1027366 | Private  | O’Connor, Peter  | NU  | O’Connor, Mrii-Mary Ann:   | 40 Flax St., Belfast, Ire   | Ireland  | Colborne....  | Sept. 20, 1916 |
+| 7 | 672 | 1928 | 3872 | 1968 | 1063065 | Private  | O’Gorman, Reginald Peter  | Nil  | Bullen, Mrs. Constance  | Not stated  | England  | Peterboro  | Deo. 18,. 1916 |
+| 7 | 673 | 1957 | 3872 | 1998 | 1027291 | Private  | O’Hara, Norman William  | Nil  | O’Hara, Mrs Agnes  | 190 Belgrave Ave., Montreal, Que  | Canada;  | Bowmanville... | Aug. 18, 1916 |
+| 7 | 673 | 1986 | 3872 | 2027 | 1063010 | Private  | O’Hara, Thomas Henry  | C.F.A  | O’Hara, Mrs. Thomas.  | 191 Brock St., Peterboro, Ont     | Canada:... i'i.. | Peterboro  | Aug. 24, 1916 |
+| 7 | 674 | 2015 | 3873 | 2056 | 1027625 | Private..  | O’Leary, Joseph Patrick  | Nil....  | Walker, Mrs. Johanna  | 204 Franklin Ave., Toronto, Ont  | Ireland  | Belleville  | Jan. 18, 1917 |
+| 7 | 674 | 2044 | 3873 | 2084 | 1027561 | Private  | O’Rourke, James Edward  | Nil  | O’Rourke, Mrs. Beatrice  | Picton, Ont  | Canada  | Picton  | Dec. 12, 1916 |
+| 7 | 674 | 2073 | 3873 | 2114 | 1027539 | Private  | Orr, Leo Frank  | Nil  | Orr, James F  | 7 Grove St., BellevUle, Ont  | Canada  | Belleville  | Dec. 5, 1916 |
+| 7 | 674 | 2102 | 3873 | 2141 | 1063132 | Private  | Parcels, Charles Arthur.... ........ | NU....:,..   | Parcels, Mrs. Sarah Elizabeth. | Norwood, Ont. | Canada  | Peterboro  | Feb. 17, 1917 |
+| 7 | 674 | 2131 | 3873 | 2171 | 1027146 | Private  | Park, Walter Forbes  | NU  | Park, Mrs. Maria T Frederick St., Sunderland, Eng |  | England  | IBowmanville... | July 7, 1916 |
+| 8 | 586 | 515 | 2695 | 540 |  | •if.U-1 | :(■ ». j |  |  | *\#* i t |
+| 8 | 1404 | 521 | 3183 | 557 |  |  |  | Former Corps. |  | ■ i j Address of Next bf Kin. | O&tintry of |
+| 8 | 592 | 516 | 1144 | 569 |  | ‘K1*;4 | io. i tu f •’ |
+| 8 | 1782 | 553 | 3680 | 589 |  |  |  |  | « /} « ‘ | :' -K ii r* !J ‘ ■ ' | Birth. |  | / jJ. n*h- |
+| 8 | 590 | 570 | 3681 | 607 |  | jl.I-.A8, | iO If*1 • |  |  |  |  | .. Place. | p. Date. ; •; j p |
+| 8 | 849 | 626 | 3676 | 667 |  |  | .0,: '" i; . i <’ ■ ' ^ ^ 7 | (vl:j |  |  |  |  | . ' ' 1 O' | i »i) - |
+| 8 | 469 | 658 | 3674 | 702 |  |  | Pixil'rXiexandei Thompson... | mi......... | 1027489 | Paul, Mrs. Julia A...   | 144 Hampton Ave.-, Montreal, P.Q...... | Bowmanville... | Nov.' 14;' | 1916 |
+| 8 | 469 | 698 | 3673 | 733 |  |  | Pajroe^ Francis ‘Harold  | Nil,  | 1027617 | Payne,'Mrs! A.' L. .         | 677 Boliol Dansluty, Toronto; Ont  | England?  | Cobourg...;  | Jan. 13, | 1917 |
+| 8 | 484 | 725 | 3674 | 763 |  |  | Payton,' Herbert.  | Nif:  | 195f87 | Pay ton, William      | 320 King St., Peterboro, Ont..   | Canada.';....... | Peterboro  | Sept: 21, | 1915 |
+| 8 | 468 | 756 | 3673 | 793 |  |  | Peacock; yfilliam Kells  | Nil.  | 1027334 | Peacock, Mre. E. K    | Canton, Ont.'....    | Canada..    | Port Hope  | Sept. 9j | 1916 |
+| 8 | 468 | 786 | 3675 | 817 |  |  | Peers, John James  | Can. Mil.... | 1063014 | Peers, Mrs; Ada...      | 56> Fleet St., Gorton, Manchester, Eng... | England.  | Peterboro    | Oct.' 5, | 1916 |
+| 8 | 839 | 812 | 3681 | 853 |  |  | Pherrill,' Frank M...  | Nil....  | Pherriiri Mre; Frances E . .. -. | 74 Shannon St., Toronto, Ont  | Canada.   | Bowmanville... | J<fly % | 1916' |
+| 8 | 467 | 842 | 3675 | 876 |  |  | Phillips,'Albert Cluey  | C.F.A  | 1027419 | Phillips, Mrs. MatUda............ | Campbellford, Ont    | Campbellford... | Oct- 18, | 1916 |
+| 8 | 467 | 870 | 3674 | 904 |  |  | Phillips, George Benson  | CJ.A  | 1027388 | Phillips, Mis. Elena Pearl  | Campbellford, Ont   | Canada.   | Campbellford... | Sept. 28; | 1916 |
+| 8 | 467 | 894 | 3675 | 936 |  |  | Phillips, William...    | 57th Regt... | 1027073 | Phillips, Mrs. Phillis Constance.. | 129 George St.,:Peterboro, Ont  | England  | Bowmanville... | June 15,, | 1916 |
+| 8 | 466 | 926 | 3675 | 961 |  |  | Pilgrim, Hugh..1.:.  | Nil  | 1063119 | Pilgrim, Harry.r.v.........  | C/o:Patrick Sweeney, Douro, Ont  | England  | Peterboro  | Feb. 6, | 1917 |
+| 8 | 466 | 956 | 3674 | 990 |  |  | Pilkey, Clifford Grant  | Nil...,. | 1063053 | AWing Corporal. | Pilkej',, Luth'er... ‘...;  | Claremont,' Ont   :...;. | Canada:  | Peterboro...  | Dec,' 6, | 1916 |
+| 8 | 466 | 982 | 3683 | 1021 |  |  | Plant, Reginald Sydney  | Nir...".... | 1027283 | Lance-Corporal.. | Plant, ^Mra, vEli*abeth Anne  | Hastings, Ont:..;... '  | Canada  | Roseneath  | July 31, | 1916' |
+| 8 | 466 | 1016 | 3675 | 1048 |  |  | Pollock, Thomas MacDonald | Nil......... | 1027116 | Sergeant  | Pollock, Mrs. Grace Adair....... | 214 Osier Ave., Toronto, Ont  | Scotland  | Bowmanville... | Jufae 28j | 1916 |
+| 8 | 466 | 1042 | 3676 | 1078 |  |  | Powell, Edmund.'IS'!.*- | Nil.'..:'.'.... | 1027064 | Private..1.  | Davies, Mrs,. V/m.      | 48 High St., Trelewis, Glamorgan, Wales | Wales':;:;  | Bowmanville... | June 12, | 1916 |
+| 8 | 465 | 1071 | 3685 | 1109 |  |  | Prater, William George  | Nil.*  | 1027308 | Private.   | Prater, John W yj.il'i;............ | Colbprne.Ont.;.,'..'.   | Canada.  | Bowmanville... | Aug. 20,' | 1916* |
+| 8 | 466 | 1103 | 3675 | 1139 |  |  | Price, Charles...' rhi  | Nil.,  | 102.7513 | Private.'.....,,.. | Biirnham,)George.      | Cobourg, Ont r.i    | England  | Cobourg.   | A tig.' 20,, | 1916 |
+| 8 | 466 | 1130 | 3686 | 1168 |  |  | Prime, Daivid'Miklel.   | NiL,  | 1027720 | Private.'.;;..... | Prjme,llrs.Agnes.->..  | Carleton Place, Ont  | England.   | Ottawa;.;  | Mat! 22,. | 191!"' |
+| 8 | 467 | 1157 | 3684 | 1193 |  |  | Primcau,' William 'Alphonse.. | Nu.;  | 1063105 | Corporal  | Prim eau,'Mrs., Caroline  | 212J Charlotte St., Peterboro, Ont  | Canada: .i ... | Peterboro  | Ian/ 24J. | 1917: |
+| 8 | 467 | 1188 | 3675 | 1219 |  |  | Prophet, Samuel Charles  | Nil,  | 1027724 | Private..    | Prophet, Samuel.         | Pr O, Box 902, Peterboro, Ont  | Canada;  | Peterboro  | April 16; | loir |
+| 8 | 467 | 1216 | 3684 | 1251 |  |  | Pjimer, George Albert  | Nit;  | 1063078 | Private..   | Pymer, Mrs; Elizabeth  | Cordova Mines, Ont  | Canada:  | Peterboro  | Jatf;; 41,. | 1916- |
+| 8 | 467 | 1244 | 3686 | 1277 |  |  | Quinney, Wesley  | Nil. ... | 1027058 | Private.;  | Quinney, Mrs. Mary Louis  | BowmanvUle, Ont  | Canada  | Bowmanville... | June 10, | ms ’ |
+| 8 | 467 | 1273 | 3676 | 1306 |  |  |  | 57th'Regt... | 1063025 | Private... | Rae,.Willian».. ■ • *•»-    | R. R, No. 8, Peterboro, Ont  | Canada, i  | Peterbdro.v.'. ::. | Oct.1 2S,' | 1916 |
+| 8 | 466 | 1302 | 3676 | 1337 |  |  | Ramsey ;;Thomas..  | Nil.'.  | 1027629 | Private | Ramsey,' Mrs.. Hazel  | Belleville, Ont..    | Canada.  | Belleville.  | Jan.1 20, | 1917 |
+| 8 | 466 | 1331 | 3686 | 1365 |  |  | Ratcliffe;, John James  | nu:  | 1027221 | Private | Ratcljffe, Florence.      | Notstated.   ... | England;  | Graftort.iK  | Sept. 19,> | 19161 |
+| 8 | 466 | 1360 | 3676 | 1396 |  |  | Read, Hiram Stanley  | Nil;.  | 1Q27208 | Oi-R'^ | R6ad,- Mr»i,Muriel............... | 415 Eigin St., .Ottawa, Ont   | U.S.A..    | Bowmanville... | July" 25;' | ' 1916 |
+| 8 | 465 | 1388 | 3677 | 1426 |  |  | Readey,, Anwill Romein  | Nil:!.  | 1027493 | Prrw | Readey ,^frs.; Wil|iam.     | Hillier,iOnt..i,/:: jr.swi.pvl O’. />?  | Carikda.i,  | Belleville;;   | Nov. 210 | 1916 |
+| 8 | 465 | 1415 | 3677 | 1459 |  |  | R&rdorf.'Chyipl-.-i-: | Nil.,  | 1027449 | Privi | Reardon, rMrs.' Theresa,   | IjMoscow Dr., Liverpool, Eng.    | England-. | BellevUle.:’;!'... | No^i 6} | 1916 |
+| 8 | 464 | 1439 | 3678 | 1485 |  |  | Relf,-James,.,;,     : — | Nil;[  | lQ273f!l | Reli^MrsvEt^aL-ifcv.A..... | Hawkhurst, Kent, JJng:V     | Englaftd  | Brighttjtf.VK  | Sept; 25, | 1916 |
+| 8 | 464 | 1475 | 3688 | 1511 |  |  | RHirid,, Joseph,,,,    | Nil;'.. . | 1027227 | Kh indAnnie,, j v.-f ...-.,,... .■.. | 37 Hallewell Rd., Birmingham, Eng.... | Englaiid.'....;.. | J^wm&nville':.. | Aug: 3f | 1916ft |
+| 8 | 464 | 1498 | 3688 | 1543 |  |  | Richfads.rCh^^^ivin,’... . | tCtliRegt... | 1063101 | Private-,  | Richards; Chyles 3¥...•./........ | MlU: Brook, Onto t:::............... | Gatiada?..'   | Peteftxiro..  | Jan; 28',. | 1&1T-: |
+| 8 | 464 | 1525 | 3686 | 1569 |  |  | Robbins, Isaac,L.“J. .?V .. | 1027612 | Private?!?  | Robbins, Mrs, Martha.   | Bancroft, Qat&iWtH'AtM.'....'  | CanHda;>.'  | Belleville/:..^'.; | Dec’. 30.' | 1916' |
+| 8 | 465 | 1508 | 3688 | 1596 |  |  | Robbins, Sanford Wesley..... | ifcS:: | 1027472 | Private.’;......... | Rpbbins^Mrs.iAinie,*-.- ........ | Madoc, Ont:.]..:. i. | Gaiiada?.    | Bdlleville'.V. | Nov. 13, | 1916¬ |
+| 8 | 464 | 1583 | 3690 | 1625 |  |  | Ro&rfadii,!Lachie.'.T7.... | Nil;,  | 1027478 | private;*;,,  | Kijbert8on,JMr9. Catherine..   | 22Eaglesham St., Glasgow, Scotland... | Scotland  | Belleville/. .. | Nov. 12; | 19161 |
+| 8 | 465 | 1617 | 3688 | 1652 |  |  | Rodgere,- Charles Edward.... | Nil.;  | 1063141 | Private.;....... | Rodgers, John.,. . , :... | Clarina, Ont,.... wKfK*.. .'Wiriwit.’.... | Canadafi....... | Peterbord.;  | Feb. 23, | I9l7rf |
+| 8 | 465 | 1647 | 3678 | 1680 |  |  | Rpdgers, Jarpes Wesley  | Nilh  | 1063087 | Private;';....... | Rfaidgersr John., .. | Clarina, Ont.., .       | Canada  | Peterboro;.  | Jan: 12, | 1917 |
+| 8 | 465 | 1677 | 3679 | 1710 |  |  |  | Nil.,.  | 1027331 | Lance-Corporal.. | Rooney, Mrs. Anwe..;...    | 53 ;North;Dingle, Birkdale, Lancs., Eng. | England  | Port'Hope  | S^pt: 9; | 1916 |
+| 8 | 465 | 1669 | 3678 | 1744 |  |  | mEffiateb:: | nu;,   | 1027423 | Private;':.,.  | Rose,MrS;,‘Alicf         | Campbellford, Ont.v.'.iii......... | England  | Campbellford... | Oct. 21, | 1916 |
+| 8 | 463 | 1735 | 3692 | 1771 |  |  | Rousselle', John Alexander  | Nil.;,...,.. | 1063152 | PriWte.;...  | ^luasellejiMrs. Josephine  | 77f Smith St.; Peterboro, Ont......  | Peterboro..;.-;.. | Mar; Si | 191t>’ |
+| 8 | 464 | 1763 | 3692 | 1795 |  |  | Rowe' Albert James.. A .  | Nil......... | 1063007 | Lance-Corporal. | iwe,Mr4.A.'J...        | P.O. Box 592, Lakefield, Ont  | Canada.   | Peterbofo.   | Sept; 15 V | 1916’- |
+| 8 | 464 | 1785 | 3691 | 1825 |  |  | RpwS Stanley Ailin'..  | Nil   | 1027569 | Private.';,...... | Rowe, Mrs. R. J. . .'.      | R.R. No. 3,.Port Hope, Ont  | Canada:..   | Port Hope:. | Dec. 13? | *1916^ |
+| 8 | 464 | 1822 | 3678 | 1853 |  |  | Rowell/ Glen Raymond  | U.S. Navy. | 1027551 | Rowell, Charles  ..... | 3049-East 92ndr St.; Chicago, 111., U.S.A. | u.srAi-va...... | Cobourg.; U.''.c: V. | Dec:- 9,- | 1916 |
+| 8 | 463 | 1823 | 3692 | 1884 |  |  | Rowlands, JohnT.'. | Nil....:.... | 1027009 | ISSS<;c:,::: | Rowlands, Robert    | Bettws Abergale,, Denbigh, Wales  | Wales.;.  | BowmanvUle... | May 23, | 1916- |
+| 8 | 463 | 1878 | 3691 | 1911 |  |  | Rupert, RobertiLiiidsay  | NU.,  | 1027578 | Private.:   | Rupert, Mrs. J. M.       | Hillier, Onti,j;?;suw*tSt'.’.V.’.'. ... | Canada.]  | BeUeviUe;...’... | Dec.'23;' | 'l916i |
+| 8 | 478 | 1900 | 3693 | 1940 |  |  | Russell.GeorgeJoseph  | NU.'. ... | 195423 | RUssell, Mrs. Josephine.      | 77J Smith St;; Peterboro; Ont....... | Canada..    | Peterboro...;'... | DoeJ 13& | 191S - |
+| 8 | 478 | 1895 | 3678 | 1977 |  |  | Russell, Philip Leo   | nu;  | 195424 | ttsfe:::::: | Russell.Mrs.Josephine    | 77i Smith-St., Peterboro, Ont........... | Canada;1  | Peterboro....... | De*;- 13;' | 1915 |
+| 8 | 463 | 1965 | 3678 | 2001 |  |  | Sage, ’William Webster  | NUi;..-  | 1063160 | sage;;Nelfl6ri.>K,‘.v-..      | R.R.'^o. 5,-Peterboro, Ont............. | Canada;;.  | Peterboro;. | Mar.- 20,f | 1917 |
+| 8 | 463 | 1961 | 3679 | 2033 |  |  | St-’Peters,1 jSephV'.  | NU,.   | 1063039 | Steass | St.Peters.Mrs.Martha........-.. | 461‘iGeorge St., Peterboro, Ont   | Canada   | Peterboro'....... | Nov.'2011 | 1916 |
+| 8 | 463 | 2024 | 3695 | 2058 |  |  | Salttirri, James'Watson  | 1063084 | Private!., | Saltern, Mrs, Rachel A.-.i.....— | Clarina, Oiit.,..|/.uzsv.. ,... . ..'.. | Canada.  | Peterbord*. | » .r; » , | 1917’ |
+| 8 | 462 | 2048 | 3696 | 2094 |  |  | Saltern, William John, i,  | NiJ.,..  | 1063117 | Privft^, ...... | .lteni. Mrs. Elsie Violet.: . | Havelock, Ont;    | Canada..  | Peterboro  | Feb. 5; | 1917* |
+| 8 | 834 | 2073 | 3678 | 2119 |  |  | Sanders, Omer,...  | Nil:'  | .nders, William.. | Havelock, Ont..     | Canada  | Peterboro....... | Nov. 11, | 1916 |
+| 8 | 1329 | 2150 | 2284 | 2179 |  |  |  | '   | ro“' KOP6U' ■ " " | h O' i |
+| 9 | 672 | 356 | 3784 | 391 | 1027098 | Private   | Sanders, William George  | 48th Regt.............. | ers, Mrs. Clara Amelia.,.. | Gull Lake, Sask..................................... | Canada.,:...... | BowmanvUle... | June 17, |
+| 9 | 672 | 385 | 3784 | 419 | 1027533 | Private   | Sarles, Roy M..t   | Nil....  | Sarles, Michael. -iirf'. . | Frankford, Ont    ’....    | Canada......... | BeUeviUe.  | Dec. 1, |
+| 9 | 636 | 413 | 3784 | 449 | i3 1027036 | Sergeant  | Scott, Edwin Talbot . | 3rd Kegt   | Scott, Mrs. G. Wi. .... . .. | 864 Champagneur Ave., Montreal, P.Q.....  | Canada......... | BowmanvUle... | June 1, |
+| 9 | 637 | 444 | 3785 | 478 | g1027592 | Lance-Sergeant... | Scott, Kenneth Wellesley  | Nil ,.... | Scott, Emery.................. | Picton, Ont   ,        | Canada.....;... | BeUeville    | Dec. 30, |
+| 9 | 636 | 471 | 3785 | 505 | f1027399 | Private  | Seeney, William George  | Nil  • • • | Seeney, Mrs. Teresa  .'  | Dartford, Ont. .       | Canada.;....... | BeUeviUe    | Oct. 15, |
+| 9 | 635 | 495 | 3784 | 536 | jt 1027514 | Private   | Sellick, Edmund Charles  | Nil   | Sellick, Mrs. Lucy.    | Bridgewater, Somerset, Eng ,         . . . . | England...:.'..^. | Cobourg :. | Aug. 20, |
+| 9 | 668 | 532 | 3786 | 566 | 1027249 | Corporal   | Sharp, Alfred George  | NU  ,  | Sharp, Mrs. H. J   | 124 Turner St., Ottawa, Ont       | England.    | BowmanvUle... | Aug. 5, |
+| 9 | 670 | 561 | 3631 | 594 | 1027269 | Private . | Shearn, William    | Imp. Forces........... | Shearn, Mrs. Elizabeth T...... | 93 Carr Rd., Loyds Pk., Forest Rd., Walthamstow, |
+| 9 | 2368 | 591 | 3786 | 626 |  |  |  |  |  | Eng     . | England,.,..^?? | BowmanvUle... | Aug. 12, |
+| 9 | 668 | 619 | 3784 | 652 | 1027549 | Private  | Sheridan, Thomas Herbert.. | Nil...,   | Sheridan, Mrs. T. H...     | Windsor, Ont ......   ............ | Canada...,,,,., | BeUeviUe....'.'.. | Dec. 9, |
+| 9 | 669 | 645 | 3785 | 679 | 1027097 | Private    | Silman, Percival William.,... | Nil  | Silman, Mrs. Mary Ann  | R.R. No. 2, Peterboro, Ont    | England......;. | BowmanvUle’/.’. | June 22, |
+| 9 | 668 | 675 | 3785 | 709 | 1027215 | Private   | Simpson, Harry .  | Nil..”....;.   | Simpson, Mrs. Helen. | 9 Topfold, Wortley, Leeds, Eng ......... . | Canada......... | BowmanvUle... | July- 28, |
+| 9 | 669 | 706 | 3785 | 737 | 1063086 | Private    | Simpson, James Brown..,;... | Nil....... ;  | Simpson, James....... | 2222 Esplanade Ave., Montreal, P.Q...... ;. | Canada........ - | Peterboro.....;. | Jan. .11, |
+| 9 | 656 | 731 | 3784 | 773 | ’1027342 | Lance-Corporal.. | Skarrett, William J   | Nil   | Nichols, Gladys G.iUh | 22 Bridge St., Cardiff, Wales     | Wales......:.... | Cobourg....^. | Sept. 13, |
+| 9 | 668 | 761 | 3785 | 796 | 1027148 | Private  | Small, Percy.............:.,. | Nil.............  | Small, Mrs     J-. | 3172 Greenshields, Montreal, P.Q  | England. , .. | Bowmanville: | July ' 8, |
+| 9 | 668 | 793 | 3784 | 824 | 1027007 | Sergeant   | Smart, Walter........;  | Nil..;    | Smart, Mrs. Mabel....  | Bethany, Ont       | Canada  : | BowmanvUle... | May 23, |
+| 9 | 668 | 822 | 3784 | 853 | 1027051 | Private  | Smith, Arthur Ernest ; | Nil....  | Smith, J. F ............ | Cobourg, Ont.          | Canada......... | BowmanvUle... | June 6, |
+| 9 | 668 | 850 | 3788 | 881 | 1027628 | Private    | Smith, Floyd .... | 13th Regt...   | Smith, Mrs. Mai. ..     | 13 Foundry St., BeUevUle, Ont   | Canada.,.   | BeUeville....... | Jan. 20, |
+| 9 | 682 | 880 | 3788 | 911 | 195206 | Private  | Smith, Thomas  | Nil.......  | Smith, Sr., John A........;. ... | 229 Princess St., Peterboro, Ont       | Scotland   | Peterboro..  | Aug. 31. |
+| 9 | 667 | 909 | 3785 | 939 | 1027714 | Private  | Sootheram, John WUliam.... | Nil i  | Sootheram, Ruby   | Westboro, Ont ...     | Canada    | Ottawa   | Mar. 15, |
+| 9 | 668 | 936 | 3785 | 968 | 1027547 | Private..,,....,. | Spargo, George..:Y....... ... | Territorials   -., | Spargo, Mrs. Annie..       | 60 Arundel St., Liverpool, Eng...........»..... | Wales........... | Three Rivers. .. | Dec. 5, |
+| 9 | 420 | 950 | 3785 | 997 | 1063096 | Private...... .. | Speirs, Nelson Victor......... | Nil    | Speirs, WUliam......    | Lang,-Ont        | Canada.,....... | Peterboro—... | Jan. 17, |
+| 9 | 667 | 995 | 3785 | 1026 | 1027252 | Private ..... | Stanley, Arthur Andrew* ..... | Nil   | Stanley, Mrs. Mary Elizabeth. | 85 Ash Gr., Wavertree, Liverpool, Eng...   | England. | BowmanvUle.. ,- | Aug. 7, |
+| 9 | 667 | 1021 | 3784 | 1055 | 1063109 | Private..,...  | Stanley, Frank....  . | U.S. Navy :.. | Stanley, Mrs. Margaret.,.;..... | 730 Grove St., MUwaukee, Wis., U.S.A.:....... | U.S.A i  | Peterboro.    | Jan. 19, |
+| 9 | 668 | 1050 | 3785 | 1087 | 1027251 | Private. | Stevenson, Robert........... | Nil  | Lorang, Mrs. Richard...... .V?. | 149 Alexander St., Montreal, P.Q..,.., :  | Scotland  | Bowmanville... | Aug. 7, |
+| 9 | 667 | 1077 | 3785 | 1117 | 1027456 | Private... | Stewart, Charles.i........... | C.F.A  | Stewart, Mrs. Mary Ethel...... | Campbellford, Ont.....   .......'....., | England....wij, | BelleyiUe....... | Nov. 6, |
+| 9 | 667 | 1106 | 3785 | 1140 | 1027691 | Private   | Stewart, Morley Corbon  | Nil   | Stewart, Elijah       | Trenton, Ont    f  | Canada.. | BeUevUle....... | Sept. 14, |
+| 9 | 667 | 1138 | 3785 | 1170 | 1027130 | Sergeant......... | Stewart, Robert Edward  | 40th Regt  | Stewart, Benjamin   | Baltimore, Md., U.S.A..   | Canada   | BowmanvUle... | July 3, |
+| 9 | 666 | 1167 | 3784 | 1198 | 1027410 | Lance-Sergeant... | Stewart, William Deacon  | Nil  | Stewart, John   | Bradford, Ont..           | Canada.....'.... | Campbellford... | Oct. 5, |
+| 9 | 667 | 1194 | 3785 | 1228 | 1063164 | Sergeant...  | Stirling, Allan  | Australian Defence  | Stirling, Mrs. Elsie...   | Oriental Hotel, Peterboro, Ont    | Tasmania....::. | Peterboro  | Mar. 30, |
+| 9 | 667 | 1225 | 3785 | 1256 | 1027195 | Private........;. | Storing, Charles Walter  | Nil...  | Revoy, Mrs. Myrtle  | Eldorado, Ont    | Canada   | Eldorado  | July 19, |
+| 9 | 667 | 1253 | 3785 | 1285 | 1063156 | Private.. | Sullivan, Percy Roland  | Nil  | Sullivan, Daniel  | Hall’s Bridge, Ont   | Canada......... | Peterboro  | Mar. 13, |
+| 9 | 667 | 1278 | 3785 | 1313 | 1027307 | Private.......... | Tabb, Fred.  | NU   | Tabb, Mrs. Levenia  | Tyrone, Ont....       | Canada  | BowmanvUle... | Aug. 14, |
+| 9 | 667 | 1311 | 3785 | 1344 | 1063058 | Private   | Taylor, Alfred George  | NU  | Taylor, John  | Darlington, Durham, Eng.   V.   | England..,,.... | Peterboro....... | Dec. 8, |
+| 9 | 667 | 1340 | 3785 | 1375 | 1027180 | Private    | Taylor, Edward  | Nil  | Taylor, Thomas :.. | Headley, Surrey, Eng.,...,,..,.  :.... | England.':.. | BowmanvUle... | July 13, |
+| 9 | 667 | 1368 | 3785 | 1400 | 1063116 | Private  | Taylor, Harry Elmo  | NU   | Taylor, George H  | Coe Hill,-Ont,. | Canada.'........ | Peterboro..^.'.'... | Feb. 5, |
+| 9 | 666 | 1397 | 3785 | 1433 | 1027553 | Private   | Thompson, Everett Roy  | Nil....  | Thompson, Robert Wesley..... | Hillier, Ont..........   | Canada....  | Bancroft. | Dec. 2, |
+| 9 | 666 | 1426 | 3785 | 1461 | 1027203 | Corporal   | Thompson, Frederic William | D... | 2nd Regt   .... | Thompson, Mrs. Mary Isabell. | 34;Cornish Rd., Toronto....            | England  | BowmanvUle... | July 22, |
+| 9 | 666 | 1453 | 3786 | 1490 | 1027610 | Private      | Thompson, Henry    | Territorials  | Thompson, Mrs. Mary Ann  | Trenton, Ont,;......'.   | England  | BeUeville  | Jan. 7, |
+| 9 | 666 | 1478 | 3785 | 1517 | 1063030 | Private  | Thompson, William Henry  | 53rd Regt  | Thompson, Mrs. Clara E.,...... | 149 Hart Ave., Peterboro, Ont   | England  | Peterboro  | Nov. 2, |
+| 9 | 665 | 1511 | 3785 | 1551 | 1063085 | Private   | Todd, Fred;,....  | Nil  | Todd? George. ..,      | CentrevUle, Ont,...Vi  ....... | Canada,  | Peterboro.:..... | Dec. 23, |
+| 9 | 664 | 1541 | 3786 | 1574 | 1063150 | Private  | Townshend, George Henry  | Nil .;... | Townshend, Arthur..   | Norwood, Ont.,        | Canada;  | Peterboro  | Mar. 7, |
+| 9 | 665 | 1569 | 3786 | 1602 | 1027626 | Private......., | Trapnell, George Stanley  | NU  | Trapnell, Mrs. Elizabeth  | 1827 Notre Dame St. E., Montreal, P.Q.,,  | England  | Belleville  | Jan. 16, |
+| 9 | 665 | 1599 | 3786 | 1630 | 1027657 | Private ,... | Trotter, Daniel  | NU   | Trotter, Maggie    | 145 Pinnacle St., Bellevillo, Ont  | Canada:   | Belleville  | Jan. 31, |
+| 9 | 665 | 1628 | 3786 | 1659 | 1027439 | Private     | Tuck, Albert Edward  | NU  | Tuck, Harold Wilfred......  | MU1 Brook, Ont.       .  | England  | BeUevUle  | Oct. 16, |
+| 9 | 665 | 1653 | 3786 | 1688 | 1027004 | Sergeant  ... | Van Dyke, Charles Henry  | Territorials  | Van Dyke, Marjorie Ivy  | Liberty St., Bowmanville, Ont...::..     | England  | Bowmanville... | May 22, |
+| 9 | 664 | 1685 | 3786 | 1721 | 1027669 | Private   | Van Hedegen, Raymond  | Nil...  | Van Hedegen, Frank.. .... ifV... | 20 Pond St., St. John, N.B....  | Belgium   | Belleville!  | Feb. 3, |
+| 9 | 624 | 1707 | 3786 | 1747 | 1063167 | f | Private..,.;.,,... | Van NaJtejr, John Wallace  | U.S. Navy  | Van Natter, Mrs. Leona....1.... | 45 Hunter St- Toronto, Ont   ... | U.S.A.*    | PettrWo.il':... | April 3, |
+| 9 | 660 | 1743 | 3160 | 1779 | .1027700 | Private... | Walker, George •. -.-... | Nil.  | Walked Mrs. Margaret j.... | 94 Addington Ave-i NotrejDame de Grace, Montreal,-': |
+| 9 | 786 | 1761 | 3787 | 1804 |  | - f? 4 . | v ■>* v 5 |  | •‘‘'■or i. - | P.Q * * - • • • ■ .. •; •>»• * -   | Scotland..... .<. | Belleville..,..;* | Feb. 19, |
+| 9 | 665 | 1794 | 3786 | 1832 | 1027624 | Private....'.,.,.. | Walker, Keith   | am Mil.  | Walker, Mrs. Grace.. | Yarker, Ont    :....-.            | Canada?.. | BeUevUle.  | Jan. 19, |
+| 9 | 665 | 1828 | 3787 | 1861 | 1027634 | Private.... .. .. | Ward, Ralph      | nu..  | Ward, WUliam....!............ | 52 Tatteridge Rd., High Wycombe, Eng  | England.. S’:.'. | Blackstock  | Jan. 13, |
+| 9 | 665 | 1855 | 3787 | 1891 | 1063040 | Private........ | Way, Walter     , | 15th Regt....,...’..... | Way. Mrs, Eva Pearl.  | Brown ton, Ont          ........ | Canada...;..-.. | Peterboro  | Nov. 22, |
+| 9 | 665 | 1886 | 3788 | 1918 | 1027425 | Private....  | Weaver, John T   | NU   | Weaver; Mrs. Hetty May  | Stirling, Ont...     | Canada...... . . | BeUevUle., | Ont. 25, |
+| 9 | 665 | 1916 | 3787 | 1949 | 1027595 | Private  | Webber, Wallace Richard  | Imp. Forces  | Webber, Mrs. Harriett Jane  | Herkmier Ave., Belleville, Ont  | England.,  | BellevUle.. | Jan. 1, |
+| 9 | 665 | 1945 | 3787 | 1978 | 1063149 | Private.......... | Wells, Arthur Henry J  | Nil.  | Hayward, Mrs. Mary  | Young’s Point, Ont... .„,        | England....... | Peterboro. | Mar. 6, |
+| 9 | 679 | 1974 | 3787 | 2005 | 195799 | Private  | Wells, Frank Arthur J  | Nil   | Wells, Mrs. Eva  | 578 Harvey St., Peterboro, Ont.   | England.. . | Peterboro. | May 9, |
+| 9 | 665 | 2003 | 3787 | 2034 | 1063015 | Private   | Wells, George  | Nil  | Hope, Walter  | Keene, Ont   | England.  | Peterboro. | Oct. 4, |
+| 9 | 665 | 2032 | 3788 | 2062 | 1027435 | Private   | Wheeler, Herbert  | C.F.A »....; | Wheeler, Mrs. Alena.   | 37 Redley Ave., BellevUle, Ont  | Canada    | BellevUle.. | Nov. 1, |
+| 9 | 665 | 2057 | 3787 | 2093 | 1027333 | Lance-Corporal.. | White, Frank  | Nil. | White, Mrs. Catherine    . .s, | 107 Athol St., Liverpool, Eng,   | England  | Port Hope | Sept. 9, |
+| 9 | 665 | 2088 | 3788 | 2120 | 1027207 | Private '  | Wilkins, Emerson Oliver  | NU  | Wilkins, Mrs. M  | Morganston, Ont .-. ;       | Canada  | BowmanvUle... | July 9, |
+| 9 | 665 | 2119 | 3788 | 2152 | 1027405 | Private.......... | Williams, Clarence. | Can. Mi)   | Williams, Dorothy ,. | Grand Rd., Campbellford, Ont  | Canada  | CampbelUord... | Oct. 10, |
+| 10 | 584 | 536 | 3263 | 567 | •Sfc | Rank. | Former Corps. |
+| 10 | 590 | 577 | 2159 | 602 | B |  | r ■ > •*' | •7* > *■ r • |
+| 10 | 584 | 591 | 3702 | 629 | « |  | •/!» |  | Place. | Date. |
+| 10 | 554 | 678 | 3757 | 711 | 1027475 | Williams, /David  | Na....    |  |  | Nov. 13, 1916 |
+| 10 | 553 | 708 | 3757 | 740 | 1063033 |  | Nil  |  |  | Nov. 11, 1916 | Lance-Corporal.. |
+| 10 | 553 | 737 | 3757 | 769 | Lance-Corporal.. | 1027459 |  |  |  | Nov. 8, 1916 |
+| 10 | 553 | 766 | 3757 | 799 | 1063077 |  | Nil. | Wires, Donald.............  |  | Jan. 3, 1917 |
+| 10 | 552 | 794 | 3757 | 820 | 1027572 |  |  |  | Bowmanville.. | Dec. 15, 1916 |
+| 10 | 567 | 824 | 3757 | 851 | 195332 |  | Nil  |  |  | Nov. 12, 1915 |
+| 10 | 552 | 848 | 3757 | 883 | 1027521 |  |  |  |  | Nov. 25,1916 |
+| 10 | 567 | 881 | 3757 | 909 | 195243 | Private  | Nil  |  |  | Sept. 10, 1915 |
+| 10 | 552 | 909 | 3757 | 937 | 1063122 | Private  | Nil  |  |  | Feb. 7, 1917 |
+| 10 | 551 | 938 | 3756 | 966 | 1027643 | Private  | Woods, William..  |  | Belleville  | Jan. 26, 1917 |
+| 10 | 566 | 967 | 3757 | 996 | 195233 | Private  | Worrall, Henry    | Nil  |  | Oct. 20, 1915 |
+| 10 | 551 | 995 | 3757 | 1029 | 1027271 | Private  | Wright, Alfred Roy..*  | Wright, Mrs. Annetta Sophia  | Bowmanville... | Aug. 14, 1916 |
+| 10 | 551 | 1023 | 3756 | 1057 | 1027480 |  |  |  |  | Dec. 25, 1916 | Wright, Samuel  |
+| 10 | 551 | 1051 | 3757 | 1081 | 1027593 |  |  |  |  | Jan. 5, 1917 | Private  | Nil  |
+| 10 | 548 | 1080 | 3757 | 1111 | 2309313 | Private  | Young. Lester Chester  |  |  | Feb. 2, 1917 |
+| 10 | 1422 | 1113 | 3757 | 1144 |  |  | Can. Mil... | Young, Mrs. Elizabeth Bertha  |  | July 22, 1916 |
+| 10 | 550 | 1136 | 3759 | 1171 |  |  |  |  |  | Aug. 6, 1916 | 1027236 | Corporal  | Younson, Robert  | Nil  |
+| 10 | 550 | 1164 | 3757 | 1198 |  |  |  |  |  | Mar. 30, 1917 | 1027723 | Private  | Zouce, Emile... ... .    | Nil  |
+{% endraw %}

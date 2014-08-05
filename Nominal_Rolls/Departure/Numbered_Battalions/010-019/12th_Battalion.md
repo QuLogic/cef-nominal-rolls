@@ -1,0 +1,954 @@
+---
+title: 12th Battalion
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1915.) | CANADIAN EXPEDITIONARY FORCE. | mm;-;- | . =*.., | i’&P: - | V • | - :?■ •• | TWELFTH BATTALION | 1 | | | ■?£ | ■ | J.i r't- | ■- | *•• | ■ v-J;. | jj • ; ’-‘t. -y ■ _ | 1 . ’?4-; | . v | ' /■ ■■ | , | .. | Vi-;/ | •• .'••• r | . ' ’f > • •• | V | 1] | NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED | OFFICERS AND MEN. | 10m. 1-15 | H.Q. 593-3-29. | 73917—1 | " |
+| 2 | 620 | 324 | 3673 | 357 | o n f'R. |  |  |  |  | Country | Taken on St a sy aril |
+| 2 | 849 | 346 | 3275 | 382 | Rank. | Name, Surnamo first. |  | Name of Next of Kin. |  | of |
+| 2 | 776 | 521 | 3528 | 560 | (.(.-Co!..., | , Maeleod, Harry Fulton 71 «t ltegt. |  | .. Maeleod, Mm. II. F, iFrederleton, N.B  |  | Canada... | Valcarticr. |
+| 2 | 772 | 546 | 3672 | 590 | Major  | JSwift, Albert Edward....... |  |  | , Grand Alk^e, Qodbce, I’.Q  | 8th ltegt   (Swift, Mrs. Jessie Guthrie ! 1 OH, | Canada... | Valcarticr, | :UuK. 23 |
+| 2 | 774 | 582 | 3528 | 627 | Major  | [Guthrie, Percy Albert  | 71st It gt jGuthrie, Mm. Margaret E.... . Charlotte St., Fredericton, N.B... |  |  | j Canada... | Valcarticr. |
+| 2 | 775 | 608 | 1905 | 649 | lion. Captain | [Hamilton, Andrew Lornc..... | 77th Wcirtworlii it llitii XIninil-f |
+| 2 | 688 | 643 | 3673 | 699 | I it |  | ton   | Hamilton, Helena   'Canadian Bank of Commerce, Quebec, P.Q... |  | | Canada... | Valcarticr..;Auft. 27 |
+| 2 | 772 | 676 | 3011 | 708 | < upturn  | Lyne-Evamt, Josiah J1!  | Particulars will i»o furnished | v.'hen available     |
+| 2 | 774 | 706 | 3672 | 744 | lion. Cn plain | .jMeAvity, Itonnid Armstrong. | B2nd    | M <■ Avity, Mrs. I'lnn Frances... j 107 Burpee Avenue, St.John, N.B  |  | j( Janada... | Valoarfior. |
+| 2 | 772 | 735 | 3672 | 773 | Cuptrdn  | ^Sutherland, Robert Hugh  A.. M.C.. |  | Sutherland, Robert  River John, N.8     |  | Canada... | Valcartior. | Au«. 20 |
+| 2 | 770 | 760 | 3672 | 833 | Captain...... | jOgiivie, Norman Crnik. | 3rd Pent  | Ogilvie, Mrs. Florence B JPointo Claire, P.Q   |  | Canada... | j Valcarticr. | i^cpt. 28 |
+| 2 | 770 | 796 | 2345 | 837 | Captain.  | [Caulfield, Harry Frowd 8  | Uth Hussars  | Caulfield, Mrs. Geraldine Mar- |
+| 2 | 1937 | 823 | 3528 | 863 |  |  |  |  | 30 Westbourne Gardens, London W., Eng. | guerito  | j England.. | iV’ai car tier, |
+| 2 | 770 | 846 | 3671 | 892 | Captain  | | Van Wart, Horace Ilnmo  | 71 »t Regt  |  | Fredericton, N.B    | Van Wart, Mrs. Wesley... | J Canada... | j Valcarticr. | |Aug. 29 |
+| 2 | 772 | 881 | 3671 | 921 | Lieutenant... | ■ Greening, Edward Owen  | Corps of Guides.............. |  | 0 Park Hill, Richmond, Surrey, Eng  | Hall, Mrs. A  | j ISngland.. | iVnlcartier. | •Aug. 2? |
+| 2 | 770 | 910 | 3671 | 946 | Major  | i Rigby, Percy  | 15th Regt   |  | 1'! Portland Plaeo, London, Eng  | Rigby, Mrs  | i England.. | i YV» earlier, | Aug. 27 |
+| 2 | 769 | 940 | 3672 | 980 | Captain;  | [Dcedes, Harry Granville,  | Regular Army  |  | 151 St. John Street, Fredericton, N.B..... | Dcedes, Beatrice E. B  | I India  | i Valcarticr. | ISr.pt. 20 |
+| 2 | 748 | 970 | 3671 | 1011 | .[Captain  | jSturdee, Harold Edwyn Carter | G2nd Regt       |  | ... 1108 Hazen Street, St. John, N.B  | Sturdce, II. R... | Canada... | {Valcarticr. | ! Sept* 23 |
+| 2 | 749 | 999 | 3671 | 1035 | . ICaptain  | .McWiiiiam, William Leopold.. | 8th Regt  |  | ... il-l St. Ainable St., Quebec, P.Q. | McWiiiiam, Johanna  | Canada... | ; Valcarticr. | !Sept. 29 |
+| 2 | 769 | 1030 | 3671 | 1064 | Captain  | iGowcn, Henry Percy Dalkin.. | 8th P.. it. & C3rd Regt  | Billctt, Mrs. S. G jPt Fraser St., Quebec, I’.Q  |  | Canada... | jValcnrticr. | Sept. 23 |
+| 2 | 769 | 1059 | 3671 | 1095 | Captain  | | Fraser, Charles Kenneth  | South Africa  | Fraser, Lt.-Col. H. R Sherbrooke, P.Q  |  | Canada... | ,Val earlier. | :8cpt. 23 |
+| 2 | 769 | 1089 | 3671 | 1130 | Cifptain  | j Sampson, Harry A  | Can. Militia   | Sampson, Mrs. E. S 'Sherbrooke, P.Q.... |  | Canada... | | Valcarticr. | Sept. 25 |
+| 2 | 769 | 1118 | 3671 | 1158 | Captain . | [Mersercau, Fred Haye3  | R. N. W. M. P  | Mersercau, Mrs. Minny Mnbcl. | Doaktown, N.B   | Canada... | . Valcarticr. | ?cpt. 24 |
+| 2 | 770 | 1148 | 3671 | 1184 | Supy. Captain | McDonald, Harry  | 85th Regt.  | McDonald, J. A  | P. O. Box 1956, Montreal, P.Q  | Canada... | {Valcarticr. | •Sept. 27 |
+| 2 | 771 | 1176 | 3672 | 1215 | Lieutenant.... | Vnndcnberg, John W  | Dutch Army   | Vnndenberg, G. L  | >6(i High Park Ave., Toronto, Ont  | Holland.. | •Vai:; artier. | ;Sept. 20 |
+| 2 | 771 | 1201 | 3672 | 1240 | Lieutenant... | IiOfMivrc, ilcreuie  | Sfith ltegt  | LefMivre, Hubert,    | 304 Fabre Street, Montreal, P.Q  | Canada... | •ValcarUor. | [Sept. 25 |
+| 2 | 769 | 1235 | 3672 | 1272 | Lieutenant... | Winslow, Jasper Andrew.. | 17tii Hussars  | Winslow, J. J. Fraser  | Fredericton, N.B  | Canada... | jVatcart ier. | |8cpfc. 25 |
+| 2 | 771 | 1264 | 3672 | 1300 | Lieutenant... | iKey-Jones, Win. Henry.. | Nil  | Key-Jones, Violet  | Fulford Hall, York, Eng  | England.. | jVaicartier. | iSept. 7 |
+| 2 | 767 | 1294 | 3672 | 1329 | Lieutenant... | 1 Ryder, E. Stewart  | 71st Regt  :. | Ryder, Geo. P., Capt  | St. Stephen, N.B   | Canada... | Valcarticr. | 'Sept. 2il |
+| 2 | 769 | 1322 | 3672 | 1362 | Lieutenant... | | Eason, Frank  | 71st Regt  | Mason, Mrs. T. J  | 10 Cowan Ave., Toronto. Ont  | j Canada... | Vatcartior. | Sept. 2.3 |
+| 2 | 767 | 1352 | 3673 | 1389 | Lieutenant... | Roberts, T iCan. Miiitia... |  | Itoberts, Mrs. Frances  | Box 258, I'redericton, N.B  | Canada... | | Valcarticr. | Sept. £8 |
+| 2 | 767 | 1382 | 3527 | 1417 | Lieutenant... | Welsh, R. Havelock :02nd Regt  |  | Welsh, Mrs. Annie P   | 152 Charlotte Street, St. John, N.B... | {Canada... | jA'alcarticr. |
+| 2 | 767 | 1411 | 3527 | 1448 | Lieutenant... | iMorgan, Cuthbcrt J  | C2nd Regt  | O'Regan, Mrs. F. L    | 270 Rockland ltd., St. John, N.B  | j Canada*.. | 'Valcarticr. |
+| 2 | 769 | 1441 | 2969 | 1475 | Lieutenant... | Mersercau, Cecil Rhodes  | 3rd ltegt.... | Mersercau, Mrs. J. G Chatham, N.B.........  |
+| 2 | 767 | 1466 | 3673 | 1508 | Lieutenant.... | Sterling, Robert A  | Argyll <fc Suth. High, (Terr.). | Stirling, Jessie (Glemlhanan, Dunoon, Seot _.  |  | | Scotland., | ,IValcarticr. | Sept. 29 |
+| 2 | 767 | 1494 | 3674 | 1538 | Lieutenant... | MeNaliy, Theodore Hand  | Nil. | McNally, Mrs. James G *22i Brunswick St., Fredericton, N.B... | jMcNally, 1 'leodore Rand  Nil   McNally, Mrs. James u lirunswiek bt., J'rertencton, JN.ii  | iCanada... | , | Valcarticr. | Sept. 30 |
+| 2 | 3162 | 1528 | 3675 | 1554 |  |  |  |  |  | Canada... | Valcarticr. | Sept. 20 |
+| 2 | 3153 | 1552 | 3674 | 1586 |  |  |  |  |  | (Canada... | ,i Valrnrf icr. | Sept. 26 |
+| 2 | 3154 | 1584 | 3675 | 1617 |  |  |  |  |  | ‘Canada... | .{Valcarticr. | Sept. 20 |
+| 2 | 769 | 1614 | 3674 | 1654 | Lieutenant... |  |  |  |  Montmngny, P.Q | 8th Regt  | Stewart, Robert Percy  | Stewart, Jas. D...\.. | Canada... | I Valcarticr. | Sejit. 21 |
+| 2 | 3162 | 1641 | 3675 | 1671 |  |  |  |  |  | Canada... | Valcarticr. | iSept. 28 |
+| 2 | 766 | 1648 | 2853 | 1683 | Lieutenant... |  | 53rd Regt  | Bowen, Edward Hugh  | Bowen, Mrs. F. W. W. | .. [Sherbrooke, P.Q  |
+| 2 | 766 | 1671 | 3675 | 1714 | Lieutenant... |  | 8th Regt  | Crawford, Ian Laurie  | Crawford, Mrs. W. L. |  Chaudii’re Basin, P.Q  | Canada... | Valcarticr. | iScnt. 25 |
+| 2 | 766 | 1701 | 3675 | 1743 | Lieutenant... |  | Can. Militia  | Adams, Milton K  | Adams, Alex. A  |  [.">93 Parliament St., Toronto, Ont.. | •Canada.. 4 | Valcarticr. | ’.Sept. 25 |
+| 2 | 745 | 1731 | 3675 | 1784 | . [Lieutenant... | Sansom, Ernest William ."1st Regt  |  | Sansom, Mrs. J. F | .. 'Stanley, N.B......... | {Canada... | Valcarticr. | 'Sept. 25 |
+| 2 | 3156 | 1758 | 3676 | 1793 |  |  |  |  |  | (Canada... | Valcarticr. | ISept. 25 |
+| 2 | 744 | 1760 | 2986 | 1812 | .(Lieutenant... | MncDonald, Eric 171st Regt  |  | Mae Donald, J. II. (Rev. Dr.).|89 Germain St., St. .Whn, N.B  |
+| 2 | 3156 | 1789 | 3675 | 1816 |  |  |  |  |  | •Ireland... | Valcarticr. | ■Sent,. 24 |
+| 2 | 745 | 1796 | 2986 | 1845 | . j Lieu tenant... | Blake, Arthur luist F ast Yorks  |  | Blake, Fir Henry, G. C. M. G. Myrtle Grove, Voughal, Cork, Ire  |
+| 2 | 3220 | 1812 | 3675 | 1846 |  |  |  |  |  | I | Valcarticr. | ISept. 27 |
+| 2 | 745 | 1824 | 3017 | 1867 | . [Lieutenant... | Locke, Phillip Joseph. |6th R. Warwicks Regt  |  | liOeke, Mrs. Bridget  !< -rawford Bay, B.C    |
+| 3 | 805 | 743 | 2858 | 781 |  | Name, Surname first. |  | Name of -Next o! Kin. |
+| 3 | 649 | 910 | 3637 | 957 | 225-11 Private  | .[Adams, George H     | Mil  | .1 Vork, llis. Calvin  | 1 f(.ul I on, Maine, U. S. A    | Canada... | j Valcarticr. | Sept. 23 |
+| 3 | 3116 | 940 | 3638 | 977 |  |  |  |  |  | [England.. | j Valcarticr. | :Scpt. 23 |
+| 3 | 649 | 946 | 2993 | 987 | 23231'L.-Corporal  | . 'Adams, Victor  | •53rd .Regt  | .•Adams, Mrs. W  | 0 Wilbraham PI. Sloanc St., London, Eng  |
+| 3 | 3117 | 971 | 3637 | 1003 |  |  |  |  |  | , Canada... | I Valcarticr. | [Sept. 2a |
+| 3 | 649 | 980 | 2990 | 1016 | 22701 Private  | . [Addison, Joseph  | S. A. C. C  | ,iAddison, Mrs. Joseph  | ,21S$ Waterloo St., St. John, N.B  |
+| 3 | 650 | 1001 | 3637 | 1047 | 23097 [L.-Corporal, | . Aldridge, Arthur  | Imp. Forces  | . |Aldridge. Mrs. S  | |34 Hereford St.', Walsall, ling    | 1 England.. | ■ Valcarticr. | Sept. 29 |
+| 3 | 649 | 1030 | 3637 | 1076 | 23132: Private  | ■ i Alexander, I'1  | ■HI P. 10. I. L. I  | . Alexander, Mrs. Wm  | [Cardigan, P. E. I  | [Canada... | [Valcarticr. | 'Sept. 25 |
+| 3 | 651 | 1061 | 3636 | 1108 | 22K33!Privale  | .'Allan, Creswell, John  | Nil  ... | .[Allen, Dorothy  | [Cumberland, Ont  | : Canada... | ; Valcarticr. | [Sept. 29 |
+| 3 | 651 | 1086 | 3637 | 1135 | 23350 l,.-Corpornl.... | .iAllen, K. C. Frank  | 102nd Regt  | . | Allen, Mrs  | • Ingato House Beeeles, SulTolk, Eng  | [India  | [Valcarticr. | ’Sept. 22 |
+| 3 | 3118 | 1119 | 3637 | 1155 |  |  |  |  |  | ilreland... | [Vale arlier. | Sept. 27 |
+| 3 | 651 | 1127 | 2993 | 1164 | 22003] Private  | . Allen James  | .Scottish Horse.   | .Allen Thomas  | 4 Ballymoney St, Ballymena, Ire  |
+| 3 | 652 | 1149 | 3637 | 1191 | 23478 Herg( nut  | .[Allen, Ronald  | 73rd ltegt  | . Allen, Robert  | ■ Chatham, N.B  | [Canada... | i\ alcartier. | Sept. 23 |
+| 3 | 651 | 1179 | 3637 | 1228 | 220C i [Private.... | .Alike, Nicholas  | Nil   | . [Alike, Harry  | 11fosmer, B.C  | [Canada... | ; Valcarticr. | i Sept. 20 |
+| 3 | 653 | 1208 | 3638 | 1250 | 22705 1'rivate.... | .lAhvard, Win. Alex  | 02nd Fusiliers  | ,'Alward, Mr. James  | , !211 Sydney St., St. John, N.B  | ('nnada.. ■ | [Valcarticr. | Sept. 28 |
+| 3 | 3124 | 1238 | 3637 | 1270 |  |  |  |  |  | (‘an ad a... | Vuhurt icr. | {Sept. 22 |
+| 3 | 652 | 1247 | 2992 | 1284 | 233130 Private  | Anderson, Allan Wm  | . 102nd ltegt  | . [Trcmayno, Mrs. F. G  | Sutton West, Ont  |
+| 3 | 653 | 1265 | 3636 | 1309 | 23301 Private  | . Anderson, Claus P  | .[Nil  | . Anderson, Mrs. K  | 'Trail, B.C   | Sweden... | jVahartier. | Sept. 27 |
+| 3 | 651 | 1293 | 3637 | 1346 | 23180,Corporal  | .lAnderson, Enoch M  | ,j?3rd ltegt  | .|Andor«on, C. J  | , Bergdalen, No. 3B, Linkoping, Sweden  | [Sweden... | I Valcarticr. | iSept. 25 |
+| 3 | 650 | 1326 | 3637 | 1373 | 23083 Corporal  | . Anderson, John  | . It. C. E  | .[Anderson, Mrs. John  | ,211 John St., Quebec., P.Q    | 1 England. ■ | Valcarticr. | [Sept. 23 |
+| 3 | 3118 | 1358 | 3637 | 1397 |  |  |  |  |  | [ England.. | i Valcarticr. | Sept. 23 |
+| 3 | 650 | 1365 | 2992 | 1406 | 225-12{Privalc... | Andrews, John Geo  | Nil | . j Andrews, Mrs. J  | Victoria ltd., Islam, Manchester, Eng  |
+| 3 | 3117 | 1387 | 3639 | 1427 |  |  |  |  |  | [Canada... | [ VnlcarUer. | Sept. 23 |
+| 3 | 648 | 1390 | 2993 | 1430 | 22706 Private  | J Appleby, Joseph 11  | .. 02nd Fusiliers  | .,Appleby, John I’’  | | New Glasgow, N.S  |
+| 3 | 3126 | 1412 | 3639 | 1447 |  |  |  |  |  | Canada... | Valcarticr. | |3ept. 28 |
+| 3 | 649 | 1421 | 2993 | 1459 | 23222 Private  | . jArclmmbuult, Louis Geo. | .. jsth Royal Scots  | . I.Vrchnmbault, Addle  | .102 Notre Dame St. West, Montreal, P.Q  |
+| 3 | 648 | 1446 | 3637 | 1492 | 234 071A r m. Corpora!, | ..Ashby, Gerald  | .. :4th Imp. ltegt.  | .[Ashby, Mrs  | South Slocan, B.C  | [Canada... | Valcarticr. | Sept. 27 |
+| 3 | 3126 | 1476 | 3638 | 1505 |  |  |  |  |  | Canada... | Valcarticr. | Sept. 25 |
+| 3 | 647 | 1483 | 2992 | 1522 | 23488 Private  | . Ashford, William  | . ,|NU  | .{Ashford, Clara E., Mrs  | Newcastle, N.B   |
+| 3 | 647 | 1506 | 3638 | 1546 | 23622 Private  | . Ashworth, Joseph  | .. |8th Connaught Bangers  | .{Ashworth, Mrs. Sarah  | 1 New Aberdeen, C.B  | ■ Canada... | Valcarticr. | [Sept. 23 |
+| 3 | 645 | 1538 | 2262 | 1572 | 22643 Private  | .‘Atkinson, Charles  | .. Particulars will bo furnished | when available  |
+| 3 | 3108 | 1565 | 3639 | 1596 |  |  |  |  |  | ,: England.. | Valcarticr. | .[Sept. 20 |
+| 3 | 646 | 1571 | 2994 | 1605 | 22707 Private  | .!Atkinson, Syd:.ey 11  | .. '62nd Fusiliers  | . i Atkinson, Mrs. S. II  | [SO Broad St., St. John, N.B    |
+| 3 | 3127 | 1595 | 3639 | 1622 |  |  |  |  |  | Canada... | Valcarticr. | ;Sept. 29 |
+| 3 | 646 | 1601 | 2991 | 1635 | 22834 Private  | . Auger, Ovii.i Joseph  | .. 154 tli Regt  | . I Auger, Alfred  | 12 Oliver St., Sherbrooke, P.Q...  |
+| 3 | 647 | 1625 | 3639 | 1667 | 22835 Private  | . Auger, Wilired  | !54th Regt  | . [Auger, Alfred  | ;12 Oliver St., Sherbrooke, P.Q  | Canada... | Valcarticr. | Sept. 29 |
+| 3 | 646 | 1654 | 3638 | 1691 | 23021 Private  | . Auger, Forttmat  | Nil  | . i Auger, Joseph  | 2500 Blvd. Rosemount, Montreal, P.Q  | . Canada... | Valcarticr. | Sept. 23 |
+| 3 | 648 | 1684 | 3639 | 1720 | 23020 Private  | - Audettc, Arthur  | Nil  | . iAudette, Leon  | 120 St. Philippe St., Montreal, P.Q  | [Canada.., | . 1 Valcarticr. | Sept. 23 |
+| 3 | 647 | 1713 | 3639 | 1751 | 23357 Lance-Corporal | Aylmer, Basil A  | 2nd Field Batt  | . I Aylmer, Lord  | ■ Queen's Bay, Kootenay Lake, B.C  | , [Canada... | .[Valcarticr. | . Sept. 22 |
+| 3 | 646 | 1740 | 3639 | 1785 | 23363 [Private  | Bacchus, Noel Leonard... | Terr, Force  | . [Bacchus, Charles E  | Bank House, Wimbourne, Dorset, Eng  | . i 1;, ;land. • | .[Valcarticr. | . [Sept. 22 |
+| 3 | 646 | 1778 | 2263 | 1810 | 230981 Private  | . Baictte, Angelo  | Particulars will be furnished | iwhen available  |
+| 3 | 646 | 1804 | 3640 | 1840 | 23232:Private  | . Bailey, Thomas S  | 7th Hussars  | .[Bailey, A. A  | Eaton Corner, P.Q ,  | Canada... | .[Valcarticr. | Sept. 20 |
+| 3 | 645 | 1828 | 3639 | 1869 | 2253! Xancc-Corporal. | . Bailey, Cecil 11  | 71st Regt  | . iBaiicy, C. It  | St. Stephen, N.B  | U.S.A.... | .! Valcarticr. | , Sept. 23 |
+| 3 | 645 | 1858 | 3638 | 1902 | 23302 .Private  | , Bayley, Albert Ed.,.  | Artists & II. A. C  | . Bayley, K. II  | [Ellesmere, Surd ridge Ave., Bromley, Kent, E | , {England.. | . [Valcarticr. | ■Sept. 22 |
+| 3 | 644 | 1890 | 3640 | 1929 | 22718.Private  | , Hailey, Edwin  | 02nd Regt  | .{Bailey, William    | jltus^lls Foundry, Derby, Eng  | . England.. | . [Valcarticr. | ■ Sept. 29 |
+| 3 | 643 | 1922 | 3639 | 1958 | 23099 Private  | , 'Baird, Alexander  | 1st Regt. C. G. A..  | . Baird, Mrs. Robert  | 11 West Muir St., Park Head, Glasgow, Scot. | , ’Scotland., | .[Valcarticr. | , Sept. 23 |
+| 3 | 643 | 1949 | 3638 | 1990 | 23239’Private  | ■ [Baker, George Fred  | Nil  | .'Baker Mr  | Lennorville, P.Q  | , | Canada... | .,Valcarticr. | ’Sept. 23 |
+| 3 | 642 | 1982 | 3639 | 2024 | 22544 Private  | Bali, George  | 71st Regt _.  | . jBail, Mrs. Sarah  | ■ 5 Clark St., Stafford, Eng  | , [ England.. | . 'Valcarticr. | , Sept. 20 |
+| 3 | 642 | 2010 | 3494 | 2048 | 23191 'Private  | [Balser, William  | Particulars will be furnished | [when available  |  | 1  | ,|  |
+| 3 | 641 | 2037 | 3639 | 2083 | 23235 Private  | [Banks, Henry    | Nil   | . [Rigby, Mrs. It  | 0 Island St., Sherbrooke, P.Q  | [England.. | . Valcarticr. | Sept. 25 |
+| 3 | 641 | 2073 | 3639 | 2112 | 234fl3jPrivata  | [Burden, Norman  | 74th Regt  | . Barden, Frank.    | , Susses:, N.B    | Canada... | .[Valcarticr. | Sept. 20 |
+| 3 | 640 | 2097 | 3639 | 2137 | 23241 [Private  | (Barlow, Edward  | Nil    | , 'Barlow, Anne  | >04 Weston Heath, Shifnal, Salop, Eng  | Engl. nd.. | . ] Valcarticr. | Sept. 2o |
+| 3 | 640 | 2131 | 3638 | 2164 | 23400, Private  | ■ Barnes, Morley  | Hussars   | Barnca, Titus  | Sussex, N. B    | ’Canada... | .> Valcarticr. | Sept. 25 |
+| 3 | 639 | 2159 | 3639 | 2201 | 23245 Bugler  | Barnett, Archie  | ll.C.D  | 'Barnett, Miss F  | .[Otwell Lodge, Malvern, Worcestershire, Er.g.. | England,. | . [Valcartjer. | 'Sept. £3 |
+| 3 | 638 | 2190 | 3637 | 2226 | 23102;Private  | Barsto, Harold  | 82nd Regt  | {-Barsto, Mrs. George  | llnliburton, P.1C.I   | ,’Canada... | .1 Valcarticr. | Sept. 2> |
+| 3 | 638 | 2217 | 3637 | 2258 | 23369'Privatc  | [Basford, Fred. Chiu  | ■I Northampton ltegt  | iUusfmd, Frederick Charles | , Portland St., Northampton, Eng  | ■ England.. | .[Valcarticr. | Sept. 22 |
+| 3 | 637 | 2252 | 3637 | 2287 | 22844 Private  | BfcU hlor, Charles W  | Nil   | 'Batchlor, Alfred  | 13 Corn Exchange Passage, Birmingham, Eng | , [Ireland... | ., Valcarticr, | ’Sept. 29 |
+| 3 | 637 | 2278 | 3637 | 2320 | 22645|Private  | Bute man, Walter  | i71st Regt  | Bateman, Mrs. Richard  | [St. Stephen, N.B    | [Canada... | . IValcartier. | Sept. 23 |
+| 3 | 637 | 2311 | 3638 | 2345 | 22712 Pi l\ ate  | -Bates, Hugh  | 'Nil  | Bates, Mr. Joel  | .113 Bowland St., Glasgow, Scot  | ! Scotland., | . Valcarticr. | Sept. 23 |
+| 4 | 789 | 176 | 3840 | 220 | 23073 Ai m. Corporal. | jBalhe, William It    | .18th Regt  | Bathe, Maudh M  | 130 St. l’alriek St,, Quebec, P.Q   |  England. | Valcarticr. | . Sept. 29 |
+| 4 | 790 | 206 | 3841 | 246 | 22563: Private  | jl’.eairsto, Frank.  | . 21st ltegt  | Bcuin-lo, Mr. Johnson... | IFrodciiolon, N,!t  |  Canada.. | Vnlcnrt icr. | . Sept'. 20 |
+| 4 | 790 | 237 | 3840 | 274 | 22546 Private   | Beatty, Ernest M  | .'Nil  | Beatty, ‘I’nlc'dm  | I’rcdericlou, N.B  |   U.S.A... | Ynlcnrtier. | .ISept. 21 |
+| 4 | 791 | 270 | 3838 | 313 | 22547 I’rivnto  | I Scully, George M  | .Nil  | [Beatty. ir.'Mn B........ | Fredcricton, NB      | .,... [Canada., | Vnlcnrt icr | . 'Sept. 23 |
+| 4 | 791 | 299 | 3839 | 341 | 22.1M t'rivuto  | |Beattv, Henry I')........,... | .inn Regt    | i'eiitt.v, i' r Mtirid  | ,;'170 Mcdlinm St.., Fredericton, N.B....  |  Canada,. | Vnlcarticr | .{Sept,. 20 |
+| 4 | 791 | 332 | 3837 | 371 | 23018 Cor|>oml  | {Beaudry, l,oiiin Philippe  | • lit. C. H  | Beaudry, P  | {1222 des Pirnhlcn, Montreal, P.Q  |  Canada.. | Vnlrati icr | .{Sept. 23 |
+| 4 | 791 | 358 | 3836 | 408 | 23242 Private  | II ioatilicu, Armnnd   | .{Nil   | Beaulieu, ICrnest  | 501 Lnsnllo R<l., Verdun, P.Q..,.,..  | ..... (Canada.. | Valcnrlier. | .[Sept. 23 |
+| 4 | 790 | 394 | 3836 | 432 | 23243jl*rlvftto  | 'Beaulieu, Henry  | . ;87lh ltegt  | illcaulieu, Frnneis  | [321 Queen St., Quebec, P.Q  |  Canada., | Valenrt icr. | . {Sept. 25 |
+| 4 | 851 | 423 | 3835 | 468 | 0 Private   | jBenutimiil., Harry.'.      | .{Nil    | Rcniiimnil., Mw. II  | .;S\viiveiiey. Oimbridun, lOng     | ,,,.. ICnglnnd. | Valeftrl iei-. | . .'Sept. 32 |
+| 4 | 791 | 454 | 3834 | 494 | 22710 Private  | 'Beckwith, John .  | .Nil  | I.cl I., Mrs. Sadie.,  | [183 Briusef St., HI. John, N.B.....  |  ( -anada.. | Vnlcnrt iof. | .{Sept. 28 |
+| 4 | 791 | 485 | 3833 | 555 | 23100 l’rivnlc  | j Bedard, Albert.      | .Nil  | Bedftrd, O    | j 100 St. Jacques St., Quebec, P.Q    |  j Canada.. | Valcnrlier. | .iSept. 23 |
+| 4 | 791 | 515 | 2387 | 552 | 2310'.! l’rivnlc  | [Bei.rsto, Alfred....!  | • Particulars will be furnished | when available.  |
+| 4 | 791 | 519 | 3833 | 590 | 22843 rrlvau»,..;l..i | j Belanger, Alfred... | .{It. S. Arty  | Belnngcr, < leorgiim  | !S(„ Alexis dcs Monts, Co. Mn^kinonge, P.Q   |  {('nnacja.. | Valcarticr, | [jsepL 'ik |
+| 4 | 792 | 575 | 3832 | 618 | 23(121 .l’rivnlc  | Belanger, Wilfrid  | .{Nil -  | Belanger, Mrs. Wilfrid... | [212 Poupart St., Montreal, P.Q  |  i( 'anada.. | Valcarticr. | {Sept. 27 |
+| 4 | 791 | 609 | 3833 | 645 | 23237' l’rivnlc  | Bclislc, Joseph  | . '20t.h Drags  | Greenwood, Mrs  | {333 Deinontigny St., Montreal, P.Q  |  ('anada.. | Valcarticr. | {Sept. 25 |
+| 4 | 792 | 640 | 3832 | 679 | 23027': Private  | I Benoit, Arthur ...,. | Nil  | Benoit, M  | {80 Rue du Solid, Anvers, Belgium  |  [Belgium.. | Vnlcarticr. | {Sept. 25 |
+| 4 | 792 | 672 | 3831 | 710 | 23238 Tiivnto  | Bentley, r<eslie 10  | 53rd Regt  | Bentley, May  | I Bournemouth, Kn^....,  |  | ICngland., | Ynlcnrtier. | Sept. 25 |
+| 4 | 792 | 696 | 3831 | 738 | 23(120 l’rivnlc  | Dcrnrd, Albert  | Nil  ;   | Berard, Frank   | Bedford, Co. Minsisscjuoi, l’.Q  |   U. S. A.. | | Vnlcarticr. | [Sept. 20 |
+| 4 | 793 | 727 | 3831 | 766 | 23028 l’rivnlc  | Berat'd, Delphi*  | Nil  | P.erard. Mm. L. A  | St,. Mathias, Go. Rouvillc, P.Q    |  :(‘anada.., | j Vnlcarlier. | [Sept. '20 |
+| 4 | 792 | 758 | 3830 | 798 | 2302fl{ Private  | iBernier, Hector....  | Nil  | Bernier, Alphortsn  | Lotbini&re, P.Q    |  [Canada... | i Valenrt icr. | Sept. 23 |
+| 4 | 792 | 791 | 3830 | 832 | 23470 Sergeant  | [Berry, Jus. Balfour  | 11. G. R  | Berry, Mr, George.  | Auchtcrinuchly, Fifeshire, Scot  |  {Scotland. | [Vnlcnrt icr. | Sept. 23 |
+| 4 | 793 | 821 | 3830 | 858 | 23233: l’rivnlc  | !Berwick, Willard L  | 53rd Regt  | Berw ick, Mrs. R, 1C  | 10 MorkiU ltd., East. Sherbrooke, P.Q  |  ! Canada... | Vnlcarlier. | Sept. 23 |
+| 4 | 793 | 853 | 3828 | 888 | 2340.') I’rivnto  | 'Betts, Magnus  | Nil  | Betts, F. D  | Doaktown, Northumberland, N.B  |  Canada... | Valcarticr. | I Sep I. 23 |
+| 4 | 793 | 882 | 3830 | 918 | 23489{Privatc  | {Bickerton, 1 lerbert  | Nil  | Biekcrton, Tsinh  | Sackville, N.B   |  Canada... | Valcarticr. | {Sept. 20 |
+| 4 | 794 | 914 | 3830 | 948 | 22838. l’rivnlc..-.  | {Bickford, Norman  | Nil    | Bickford, William Chr | {St. Mary’s Island, Scilly Isles, Eng  |  England.. | Valcarticr. | [Sept. 29 |
+| 4 | 794 | 939 | 3828 | 983 | 23305 l’rivnlc  | Bicklcy, lCllis    | Royal Welsh Fusiliers  | Bicklcy, Mrs. J  | Gobowcn, Shropshire, Eng  | .... [England.. | Valcarticr. | | Sept. 22 |
+| 4 | 795 | 974 | 3828 | 1013 | 23103 l’rivnlc  | {Biggs, Henry XI  | Nil  | Biggs, Mrs. IS  | {4 Aubrey Road, Bcdminslcr, Bristol, Eng  |  (England.. | Valcarticr. | iSept. 23 |
+| 4 | 795 | 1004 | 3827 | 1037 | 22909 l’rivnlc  | Bind, Alfred  | Can. Militia  | Binet, Phileon  | ,’St. Marie dc Bcauce, P.Q   |  , Canada... |  Valcarticr. | iSept. 23 |
+| 4 | 795 | 1030 | 3827 | 1069 | 228301 Private  | Birdseye, Roger Wm  | Nil....-  | Birdseye, Ada U. | :42G Lincoln Ave., Orange, N.J., U.S.A  | .... {Canada... | .... i Vnlcarticr. | ISept. 28 |
+| 4 | 796 | 1061 | 3826 | 1099 | 22837 Private  | Bishop, Arthur I.  | Nil  | Bishop, George William. | [Portneuf, I’.Q  |  {Canada... |  ! Valcarticr. | {Sept. 28 |
+| 4 | 796 | 1092 | 3826 | 1158 | 2323Private  | {Blackburn, Charles  | , j53rd Regt  | Bultenvorth, Mrs. G.. | |98 Summer Lane, Barnsley, Yorkshire, Eng.. .. |  j England.. |  jValcartier. | Sept. 25 |
+| 4 | 797 | 1119 | 2386 | 1156 | 22052iPn’r Sergeant.. | ;Blair, Charles E  | [Particulars will be furnished | when available  |
+| 4 | 798 | 1142 | 3825 | 1194 | 2294 2 {Private  | jBlair, Stewart C  | .{8th Regt  | Blair, Joe,...,  | |200 St. Cyrille St., Quebec, P.Q  |  Canada... |  [Valcarticr. | Sept. 29 |
+| 4 | 797 | 1180 | 3825 | 1221 | 228301 Private  | [Blais, Edward  | . |Stlx Regt.  | Blais, Tb6ophile  | iChflteauvcrt Farm, St. Foye ltd., Quebcc, P.Q. |  [Canada... | .... Valcarticr. | Sept. 20 |
+| 4 | 797 | 1212 | 3824 | 1248 | 23364 Private  | Blakeman, Harry  | . {0th Warwicks  | Blakeman, John  | 5 Strand St.., Warwick, Eng  |  England.. | ,... {Valcarticr. | Sept. 22 |
+| 4 | 798 | 1237 | 3824 | 1275 | 231011 l’rivnlc  | {Blanchard, Arthur  | , (Nil  | Blanchard, Mr  | Thetford Mines, P.Q  |  {Canada... | .... Valcarlicr. | Sept. 28 |
+| 4 | 799 | 1271 | 2386 | 1305 | 237I8; I’rivato  | Blanchette, Paul  | .{Particulars will be furnished | when available  |
+| 4 | 798 | 1300 | 3824 | 1339 | 22971 IPrivalo  | {Blayr.cy, David J  | .'Nil   | Blayncy, Thomas  | Cranbrook, B.C  |  [Scotland.. | ....! Valcarticr. | Sept. 20 |
+| 4 | 799 | 1330 | 3824 | 1366 | 23031 l’rivnlc  | [Blaxall, Joseph  | . |85th Regt    | X.arcau, Mr  | 1S05 Clarke St., Montreal, P.Q  |  Canada... | .... Valcnrlier. | Sept.. 20 |
+| 4 | 799 | 1360 | 2386 | 1390 | 22839! I'rivate  | Blaxcll, James  | . Particulars will be furnished | when available  |
+| 4 | 799 | 1388 | 3823 | 1424 | 23492 | Private  .. | Bloomfield, George  | . G. A    | Bloomfield, Mrs  | Hampton, N.B 'England. | .... {Vnlcarticr. | Sept. 25 |
+| 4 | 800 | 1420 | 3822 | 1454 | 22518 | Private  | Bloomfield, Wm. G....  | . Imperial Scrvicc   | iBloomfield, Mrs. Jessie., | Hampton, N.B    ICngland. | ... .iVnlcartior. | Sept. 21 |
+| 4 | 800 | 1449 | 3823 | 1491 | 22974 | Private    | Blondin, Osias  | .{Nil  | .Blondin, Jos  | Plantagcnct, Ont.  j Canada.. | .... iValcarticr. | Sept. 20 |
+| 4 | 800 | 1479 | 2385 | 1510 | 23009 | Private  | Blouin, Joseph      | .{Particulars will bo furnished | when available  |
+| 4 | 800 | 1507 | 3822 | 1550 | 23197 | Private  | Blue, Donald 1! '. | .{Nil  | Blue, M rs. Mary  | Campbell ton, N.B     {Canada.. |  {Valcarticr. | Sept. 23 |
+| 4 | 801 | 1536 | 3297 | 1572 | 23300 | Privntc  | Board, Herbert, It  | .’Nil  | Board, Captain  | Royal Flying Corps, Central Flying School, UpavonJ |
+| 4 | 2552 | 1567 | 3822 | 1600 |  |  |  |  | Wills  ICngland. |  | ....!Vnlcarticr. | Sept. 22 |
+| 4 | 802 | 1593 | 3776 | 1632 | 225-1(1) Privnlc  | Boby, Jack M  | Nil  Boby, Mrs. 1C. B  |  | 2G Reading ltd., Ipswich, Suffolk, Eng :ICngland. |  | .... I Valcarticr. | Sept. |
+| 4 | 802 | 1627 | 3821 | 1668 | 23371 j Private........ | Bolton, Reginald R  | [Royal Navy {Bolton, Mrs  |  | Saskatoon, Sank    ICngland. |  | .... Valcnrlier. | Sept. 27 |
+| 4 | 802 | 1654 | 3821 | 1692 | 22708 Private  | Bonnevie, Hypolitc  | {R. C. It {Bonnevie, Domthilde... |  | 00 South Commons, Lynn, Mnss., U.S.A Canada.. |  | ..{Valcnrlier. | Sept. 28 |
+| 4 | 802 | 1684 | 3820 | 1720 | 2271.'';Piivn(c  | Boone, George W  | (Nil... Boone, Mrs. Fannie  |  | 417 Hay market St., St.John, N.B 'Canada.. |  | ,... iValcarticr. | Sept. 28 |
+| 4 | 803 | 1715 | 3822 | 1756 | 231051 Privnlc  | Boucher, Lucien  | [53rd ltegt Boucher, Mrs. L  |  | 30, 2nd Ave. East, Sherbrooke, P.Q {Canada.. |  |  'Valcarticr. | Sept. 25 |
+| 4 | 803 | 1743 | 3854 | 1785 | 23023; Privntc  | Boulanger, Arthur  | (Nil  [Boulanger, Mrs. Joseph., |  | St. Nicholas, Lidgo, Belgium 1 Belgium. |  | .... {Vnlcarticr. | Sept.. 20 ' |
+| 4 | 804 | 1770 | 3820 | 1809 | 23101'Private  | Boulanger, Donahl  | 9th ltegt (Boulanger, Joseph  |  | St. Charles, P.Q Canada.. |  | .... I Valcarticr. | Sept. 20 |
+| 4 | 804 | 1800 | 3820 | 1842 | 227141 Privnlc  | 'Boulanger, Rosairo Gcxleon, | Nil Boulanger, J  |  | Thetford Mines, P.Q   |Canada.. |  |  {Valcarticr. | Sept. 29 |
+| 4 | 805 | 1831 | 3820 | 1873 | 232 tr Private.  | .{Boulich, Anthony  | A. S. C [Boulich, Mrs. A  |  | 97 Chambly St., Montreal, I’.Q Canada.. |  | .... {Valcarticr. | Sept. 25 |
+| 4 | 805 | 1863 | 3819 | 1897 | 23630 Private  | . iBourbonnais, Edward  | Nil Bourbonnais, X  |  | Em brun, Ont  i Canada.. |  |  {Valcarticr. | Sept. 23 |
+| 4 | 805 | 1889 | 3820 | 1935 | 229001 Private........ | . |Bourdage, Joseph  | Nil.       Boul-iInge. Jos  |  | Tracadic, N.B [Canada.. |  | .... | Valcarticr. | Sept. 2ti |
+| 4 | 806 | 1918 | 3820 | 1957 | 22973' Privntc  | . {Bourdon, Louis  | Nil     Bourdon, John Baptiste. |  | Bonfield, Ont Canada.. |  | .... {Valcarticr. | Sept. 25 |
+| 4 | 807 | 1952 | 2387 | 1982 | 23490 Privnlc  | .'Bourgeois, Mark F  | Particulars will be furnished when available  |
+| 5 | 658 | 913 | 3254 | 953 | Reg. | Name, Surname! first. |  | Name of Next of Kin. |  | of |
+| 5 | 666 | 1084 | 3656 | 1127 | 23025 Private  | Bourque, Joseph  | Cadets  | Bourque, Ovide  | St. Ang&lo do I,aval, Nicolet, P.Q  | .... Canada.. | I Valcarticr. | .{Sept. 25 |
+| 5 | 667 | 1118 | 3655 | 1156 | 2i!"r>7! Private   | liowyer, William  | 11. Berks Militia  | Bowycr, John  | Taglium, B.C  | .... {England., | ! Valcarticr. | . [Sept. 22 |
+| 5 | 666 | 1147 | 3656 | 1184 | 225.ri0!l'rivato  | Boyd, Edwin J  | 07th ltegt  | Irwin, Charles   | St. Stephen, N.B  | .... Canada.. | ; Valcarticr. | . [Sept. 28 |
+| 5 | 667 | 1175 | 3656 | 1215 | 22972; I’rivato  | Bradshaw, John If  | Nil   | Bradshaw, Mary  | 1 Wyatt St., Sallord, Manchester, Eng  | ,... England., | : Valcarticr. | . Sept. 20 |
+| 5 | 667 | 1200 | 3656 | 1243 | 22901 11 .unco-Corporal. | Braik, John  | It. G. A  | jiirailt, Peler  | lloropitt, Now Zealand  | .... Scotland. | ; Valcnrlier. | .Sept. 25 |
+| 5 | 667 | 1234 | 3655 | 1276 | 22651 il’rivutc  | Brainier, Arthur Gordon  | [71st Regt  | Brander, A. G  | Burton, N. B  | .... England.. | Valcarticr. | ..Sept. 20 |
+| 5 | 666 | 1261 | 3656 | 1303 | 22907 [Private  | Bratt, Sydney Wilson  | (Can. Naval Reserve  | Bratt, David  | Wilfrid House, South St., Dudley, Worcs., 1 | ng.. | .... England. | ! Valcarticr. | . Sept. 20 |
+| 5 | 666 | 1293 | 3655 | 1328 | 22700 Private  | Brennan, William J  | !02nd Regt  | Roberts, G. L      | 250 St. James St., St. John, N.B..  | .... Canada.. | Vaicarlier. | .■Sept. 28 |
+| 5 | 666 | 1322 | 3655 | 1358 | 22552! Private  | Brewer, Alfred B  | 71st ltegt  | Brewer, Alfred B  | Burtts Corner, York Co., N.B  | .... Canada.. | Valcarticr. | .‘.Sept. 24 |
+| 5 | 667 | 1350 | 3655 | 1387 | 2251)5? Private  | IBrewer, John L  | ;G'2nd Regt  | Brower, Mrs. Annie A  | P. O. Box 475, Fredcricton, N.B  | .... Canada.. | i Valcarticr, | .[Sept. 20 |
+| 5 | 667 | 1380 | 3656 | 1419 | 22070) Private  | |Brewsler, George G  | Nil  | Brewster, Mrs.Sarah....... | Wellington House, Whitehaven, Cumberland | , Eng | .... England. | Valcartier. | . Sept. 25 |
+| 5 | 668 | 1408 | 3656 | 1446 | 22!)!! I! Private:  | {Bridgoford, Thomas Arthur... | Sth ltegt  | Bridgoford, Mary Gabriel.. | 131 -Vest 142nd St., New York, U.S.A  | .... Canada.. | Valcarticr. | . .Sept. 29 |
+| 5 | 669 | 1438 | 3656 | 1478 | 2270311 .ancc-Corporal | [Briggs, David Henry      | 02nd ltegt  | liri,Mrs. J. II  | King's Co., N.B  | .... Canada.. | Valcnrlier, | . Sept. 28 |
+| 5 | 665 | 1468 | 3656 | 1508 | 22905( Private  | [Briggs, Tracey W  | Cailets   | Briggs,B  | Thetford Minos, P.Q  | .... Canada.. | Valcarticr, | . 'Sept. 20 |
+| 5 | 667 | 1501 | 2280 | 1532 | 33050 I .unco-Corporal | iliriejly, Walter  | Particulars will bo furnished | when available  |
+| 5 | 667 | 1529 | 2283 | 1561 | 23608 [Private  | .iBrisebois, Gustave  | Particulars will bo furnished | when available    |
+| 5 | 988 | 1584 | 3129 | 1636 |  | j yard '.  | Legion of Frontiersmen  | Broadwood, C. G.'. | 19 St. Mary’s, Abbotls Terrace, Kensington, London, |
+| 5 | 2424 | 1602 | 3654 | 1643 |  |  |  |  |  | {England.. | Valcarticr. | . | Sept. 22 |
+| 5 | 668 | 1637 | 3655 | 1683 | 22845'Private  | .jBrouard, Arthur  | Nil   | Brouard, Oniel  | ,c/o. Etienne Brouard, Shawinigan, P.Q  | (Canada... | Valcarticr, | . Sept. 29 |
+| 5 | 668 | 1668 | 3655 | 1708 | 23100 Private.. | .jBrown, Charles  | Brighton Rifles  | Brown, Mrs. F. E  | .{57 Coleridge St., Hove, Sussex, Eng  | ■England, | Valcarticr. | .[Sept. 23 |
+| 5 | 669 | 1698 | 3656 | 1737 | 23107 Private...... | . Brown, Henry    | ] Nil    | Brown, Mrs. F. E  | . 57 Coleridge St., Hove, Sussex, Eng  | England.. | . Valcartier, | . Sept. 23 |
+| 5 | 668 | 1726 | 3657 | 1763 | 22500 Private  | . IBrown, Uobert  | ■71st Regt  | Brown, Mrs. Prudence  | . 30 Shore St., Fredericton, N.B    | Canada.. | ,i Valcartier, | . Sept. 20 |
+| 5 | 669 | 1756 | 3656 | 1801 | 23230 Private  | .(Brown, Ronald  | ! Nil  | Brown, Mrs. E _.... | . [Marswood, Port Patrick, Wigtonshixe, Scot  | England. | .{Valcartier. | . Sept. 25 |
+| 5 | 669 | 1785 | 3655 | 1828 | 22'J5G Private  | .(Bruce, Ronald B  | I Rangoon Mtd. Rifles  | Bruce, Charles Frederick., | .jThe Ridge Earls' Ave., Folkestone, Kent, Eng  | England., | . 'Valcartier, | . Sept. 23 |
+| 5 | 669 | 1815 | 3656 | 1860 | 22239 Private  | .[Buchan, Alexander  | [Sth Kings Liverpool Regt  | Buchan, Elizabeth  | .{15 Birchrield Itoad, Walton, Liverpool, Eng  | England., | . Valcartier, | .'Sept. 28 |
+| 5 | 668 | 1843 | 3656 | 1881 | 22554 Private,. | . iBuchanan, W. Arthur  | Nil  | Buchanan, Miss M. E  | . j Williamsburg, Yoik Co., N.B  | Canada.. | .Valcarticr, | .{Sept. 20 |
+| 5 | 669 | 1873 | 3654 | 1912 | 23105 Private.. | .'Buckley, John    | Nil  | Buckley, A  | Genoa, P.Q  | Canada.. | . (Valcartier. | . Sept. 27 |
+| 5 | 669 | 1903 | 3655 | 1942 | 22555 Lance-Corporal. | . jBuda, Arnold O  | Nil  | Budd, Mrs. Ellen  | Dufferin, Charlotte Co., N.B  | Canada.. | .{Valcartier. | . [Sept. 23 |
+| 5 | 668 | 1931 | 3656 | 1969 | 23494 Corporal.  | . iBunnell, Albert L  | Sth llussars      | , Albert E  | Sussex, N.B .’    | Canada.. | . i Valcartier. | . [Sept. 23 |
+| 5 | 667 | 1962 | 3656 | 2000 | 23181 Private      | Bunnell, Geo. Allen  | Sth Hussars.,    | Bunnell, Albert...  | Sussex, N.B  | Canada.. | . I Valcartier. | .{Sept. 23 |
+| 5 | 668 | 1992 | 3656 | 2030 | 22550 Pri". ate  | Burdon, Walter McF  | 71st Regt  | Burdon, Mrs. Edith  | 292 St. John St., Fredericton, N.B  | (Canada.. | . Valcartier, | ..Sept. 28 |
+| 5 | 667 | 2018 | 3656 | 2060 | 22840 Private  | Burke, John  | Sth Regt   | Burke, Mary Anno  | 307 Champlain St., Quebec, P.Q  | I Canada.. | . Valcarticr. | ..Sept. 23 |
+| 5 | 667 | 2048 | 3656 | 2088 | 22711! Private  | {Burloek, Charles L....t  | 62ad Regt   | Burloek, Mrs. Francis  | Sussex, King’s Co., N.B  | fCunada... | . (Valcartier. | . [Sept. 20 |
+| 5 | 665 | 2077 | 3656 | 2116 | 22908 Private  | -Burnell, Thomas W  | Manchester Territorials  | Burnell, II    | ,02 Carlton St., Manchester, Er.g  | | Wales | . Valcartier. | .'Sept. 20 |
+| 5 | 665 | 2109 | 3655 | 2146 | 23246{Private  | {Burns, J   | Nil  | Burns, Jack  | Lunar St., Rockterry, Eng  | [England.. | . Valcartier. | . Sept. 23 |
+| 5 | 665 | 2138 | 3654 | 2176 | 23108[Private  | ■ Burns, Thomas  | ■82nd Regt  | W'ollridgB, Miss V   | No. 242 Grafton St., Charlottetown, P.E.I  | Scotland. | . Valcarticr. | . Sept. 23 |
+| 5 | 665 | 2171 | 2268 | 2211 | 22941 { Private  | jBurc3, William....;  | iPi.iiieula.rs will be furnished | when available  |
+| 5 | 666 | 2192 | 3654 | 2236 | 2:5210Private..,  | Burrows, Arthur   | ■No.2 Gen. Hospital, A.M.C... | Burrows, Mrs. Charles.... | 3 Town St., Sandiacre, Derby, Eng  |   {England.. | . Valcartier. | . .Sept. 23 |
+| 5 | 665 | 2227 | 3654 | 2268 | 22532 Corporal  | ■Burtt, Osborn G  | |71st Regt  | Burtt, J. E  | . Zealand Station, York Co., N.B   | .......{Canada... | . Valcarticr, | . Sept. 23 |
+| 5 | 664 | 2255 | 3652 | 2299 | 22341 Private  | |Butler, Ben. Oswald  | ’Nil  | (Butler, Mrs. B. O  |  |  [England.. | . Valcarticr. | . a ■. t. -fi |
+| 5 | 665 | 2289 | 3653 | 2331 | 22823 Sergeant  | IByrne, Robert E  | 8th Re-gt    | jByrne, Mary A  | . 1332 Champlain St., Quebcc, P.Q  |  I Canada... | . Valcartier. | .[Sept. 29 |
+| 5 | 664 | 2319 | 3653 | 2360 | 22842 Private  | ’Byrne, Walter  | 18th Regt  | [Byrne, Mary    | . 332 Champlain St., Qucbec, P. Q  |  Canada. | . Valcartier. | . Sept. 23 |
+| 5 | 665 | 2345 | 3655 | 2386 | 220011 Arm. Corpora!.. | jCadicux, Louis R   | 104tl; ltegt  | Cadieux, Oscar  | ,)06 Versailles St., Montreal, P.Q  |  (Canada... | . Valcarticr. | .{Sep.t. 20 |
+| 5 | 665 | 2375 | 3655 | 2413 | 23109 Private  | iCairns, William  | , let. Argyle Highlanders  | [Cairns, Katherine  | . Janesville, Richmond, P.Q  |  {Scotland. | . [Valcartier. | . Sept. 23 |
+| 5 | 664 | 2402 | 3654 | 2443 | 228 16 Privaie  | Calder, Themas B  | Nil  | ICalder, Agne3    | . i4 Cathrin Ave., Ruther Glen, Scot  |  {Scotland. | . {Valcartier. | .iSept. 28 |
+| 5 | 664 | 2432 | 3654 | 2475 | 23500 Private.   | iCaldwcll, John  | ,2£tL Dragoons  | (Caldwell, John   | .’Apohaqui, N.B  |  {Canada... | . 'Valcartier. | .’Sept. 20 |
+| 5 | 664 | 2463 | 3654 | 2500 | 22S82|Private  | Caincion, Andrew  | INil  | iCameron, James  | .{New Aberdeen, Cape Breton  |  ! Canada... | . {Valcartier. | . Sept. 25 |
+| 6 | 772 | 140 | 3742 | 175 | 22722 Private  | ICameron, Hector.... | . Brighton Engineer Co  | ICameron, Mrs. L  | Lepreau, Charlotte Co., N.B   | Canada  | Valcarticr.. | Sept. 28 |
+| 6 | 773 | 168 | 3742 | 211 | 22557 i Private  | Cameron, Morton A.. | .{71st Regt  '.... | [Cameron, A. M  | St. Stephen, N.B    |   | Canada  | Valcarticr.. | Sept. 26 |
+| 6 | 773 | 195 | 2313 | 233 | 22723jPrivate  | Carlson, Christian... | .{Particulars will be furnished | when available  |
+| 6 | 773 | 217 | 3741 | 261 | 23110iPrivate  | Garrifcre, Joseph E  | .'Nil •  | Carricre, A. H  | i.3 Gillespie St., Sherbrooke. P.Q  | Canada  | Valcarticr.. | Sept. *23 |
+| 6 | 771 | 256 | 3741 | 293 | 23638; Private  |  [Carrifcre, Joseph  | ,lNil  | ICarriSre, Arthur  | 13 Gillespio St., Sherbrooke, P.Q  | .... . Canada  | Valcartier.. | Sept. 25 |
+| 6 | 771 | 288 | 3740 | 325 | 23370: Private  | .., . Carter, Harold Wm.. | .[Nil  | Carter, Charles W  | Winlaw, B.C    |  ; Kngland  | Valcartier.. | Sept. 22 |
+| 6 | 770 | 311 | 3739 | 361 | 22f'3flj Private  |  jCartlidge, Albert  | .'Mil   | Cartlidge, William  | Fernie, B.C   | . . . . . | ICngland  | Valcarticr.. | Sept. 25 |
+| 6 | 770 | 347 | 3740 | 388 | 23G33i Private  | .... [Castonguay, Felix  | .[Nil  | Castonguay, Mrs. A.... | 221 do LC'vis St., Montreal, P.Q   | • . • • • | Canada  | Valcartier.. | Sept. 26 |
+| 6 | 698 | 377 | 3738 | 412 | w | 23111 Private  | Chabot, Joseph A  | Nii      | Chabot, Alfred........ | Britannia Mills, P.Q  | Canada  | Valcarticr.. | Sept. 23 |
+| 6 | 769 | 408 | 3739 | 440 | 22G54 ■ Private  | Chalu, L. Arthur  | oth Co. Dublin Territorials.... | Not stated  | Not stated  |   | China  | Valcartier.. | Sept. 26 |
+| 6 | 768 | 436 | 3738 | 470 | 2295!!. Corporal  | Chambers, Walter.... | R. C. II  | Chambers, George F... | Pembroke, Ont  | • < • 4 • | Canada  | Valcartier.. | Sept. 26 |
+| 6 | 767 | 465 | 3738 | 500 | 232601 Private  | Compagnot, Eugene.. | Mil  | Tabaga, G  | Lake Mcgaiitic, P.Q  | Canada  | Valcartier.. | Sept. 26 |
+| 6 | 767 | 493 | 3737 | 529 | 23252! Private  | Chandler, Albert  | 53rd Regt...;  | Chandler, Mrs. A  | 53 Coinmon Villa, The Commons, Epsom, Surrej | Eng. | England  | Valcartier.. | Sept. 25 |
+| 6 | 766 | 525 | 3738 | 560 | 2255S! Private  | Chandler, Richard.... | 71st Regt  | Chandler, Mrs. E. N... | Mill town, N.B  |   | Canada  | Valcartier.. | Sept. 23 |
+| 6 | 765 | 555 | 3737 | 591 | 23248’! Private  |  Chapman, Charles  | Royal Navy  | Chapman, Charles  | 3 Hubert ltd., Haydons Rd., Wimbledon, Eng.. |   | England  | Valcarticr.. | Sept. 23 |
+| 6 | 765 | 584 | 3737 | 629 | 23251) Private  |  jChapman, George F.. | 53rd Regt   | Chapman, Edward  | 74 Melbourne St., Sherbrooke, P.Q  | England  | Valcartier.. 'Sept. 25 |
+| 6 | 764 | 614 | 3737 | 654 | 23210] Private  | . .{Chapman, John  | Nil  | Harrison, Mrs. J  | Sampson City, Florida, U.S.A  | Canada  | Valcartier.. | Sept, 25 |
+| 6 | 765 | 644 | 3737 | 680 | 23250'Private  | Chapman, Oscar B  | 53rd Regt  | Chapman, Henry E  | Marbleton, P.Q  | Canada  | Valcartier. .jSept. 23 |
+| 6 | 765 | 675 | 3736 | 714 | 2363f>[ Private  | Charette, Cyprien  | Nil  | Charette, A   | Barrington, P.Q  |  iCanada  | Valcartier.. | Sept. 23 |
+| 6 | 764 | 704 | 3736 | 738 | 23251! Private  | Charron, Lorenzo  | Nil  | Charron, George  | St. Edwidge dc Clifton, P.Q    |  Canada  | Valcarticr.. | Sept. 23 |
+| 6 | 764 | 734 | 3737 | 773 | 23502jPrivfcte  | Charters, David I  | 74th Regt    | Charters, David H— | Sflekville, N.B  |  Canada  | Valcartier.. | Sept. 25 |
+| 6 | 764 | 765 | 3737 | 799 | 22550! Private  | Chase, Hartley  | ,71st Regt...    | Chase, Mrs. Edward... | Fredericton, N.B  |  ! Canada  | Valcarticr.. | Sept. 26 |
+| 6 | 764 | 793 | 3738 | 831 | 22070; Private  | Chedgey, Thos. Geo.. | Volunteers  | Chedgey, Charles  | High St., Cannington, Somerset, Eng  |  ; Canada  | Valcartier.. | Sept. 26 |
+| 6 | 761 | 822 | 3738 | 861 | 23634 Private  | Chevalier, Adolphe... | | Nil  | Chevalier, Mme. A  | 769 Dorchester, E. Montreal, P.Q  |  ! Canada  | Valcartier.. | Sept. 20 |
+| 6 | 762 | 852 | 3737 | 894 | 22727 Private  | Chittiek, William  | Nil _  | Chittiek, Mrs. John  | Studholm, King’s Co., N.B  |  iCanada  | Valcartier.. | Sept. 28 |
+| 6 | 762 | 886 | 2307 | 917 | 231! 2 Private  | Cinq-Mars, Paul  | , Particulars will be furnished | when available  |
+| 6 | 763 | 910 | 3738 | 945 | 23256 Private  | Choat, William  | Nil  | Choat, Emma  |  |  ! England  | Valcarticr.. | Sept. 25 |
+| 6 | 762 | 941 | 3738 | 982 | 22853; Private  | .. Clare, Ed ward  | 22nd Cheshire Regt  | Clare, Thomas  | . jxiuniicy , oj,nK.c> | Eng. | England i Valcartier.. | Sept. 28 |
+| 6 | 762 | 970 | 3737 | 1004 | 227211 Private  | ,.. iClark, Christopher..., | I Nil  | Clark, Mrs. Rebecca... | .'Kingstown, St. Yincc |   | B. \Y. I  | Valcartier.. | Sept. 28 |
+| 6 | 761 | 998 | 3738 | 1041 | 225841 Private  | ... iClark, William J  | ! Royal Navy  | Clark, John  | .jNo. 1 Sutherland St., | England  | Valcarticr.. | Sept. 28 |
+| 6 | 762 | 1029 | 3739 | 1062 | 23250 Privato  | ... Clark, Charles  | i R. C. R  | ■Clark, Mrs. W  | . .38 Grccnhill Grove, Jtauhoi i »rn, i»nwu, | England  | Valcarticr.. | Sept. 26 |
+| 6 | 762 | 1056 | 3738 | 1094 | 2 Private  | ... IClark, Leonard  | INil   | Clark, Mrs. G  | . Ashbrook, Cannon Park, Edgwarc, Middlesex, | g  | England  | Valcarticr.. | Sept. 22 |
+| 6 | 762 | 1091 | 2306 | 1120 | 23657 Privato. | ... Clarkson, H.vrv E.... | Particulars will be furnished | when available  |
+| 6 | 761 | 1116 | 2307 | 1155 | 23503(Private. | ...[Clay, Henry George.. | Particulars will be furnished | when available  |
+| 6 | 761 | 1146 | 3739 | 1182 | 22520 | i Sergeant  | ... jClayrlon, Fred. John.. | 31st Regt. Foot-Imperial Forces | Claydon, Edith Jane... | . Prince William Station, York Co., N.B  | England  | Valcarticr.. | Sept. 23 |
+| 6 | 761 | 1176 | 3739 | 1209 | 23378 | Private  | Clooton, Alfred Jos.... | Nil   | Cleeton, John  | . Rossland, B.C  | England  | Valcartier.. | Sept.. 22 |
+| 6 | 760 | 1205 | 3738 | 1238 | 22«3.r | Private  | C16mcnt, F-dward  | Nil  | Lortie, Mrs  | . !126 Rivard, Montreal, P.Q  | Canada  | Valcarticr.. | Sept. 23 |
+| 6 | 760 | 1234 | 3739 | 1268 | 23111 | Privato  | Clormont,, Phillipc.... | Nil   | Clermont, Mr  | . iShawinignn Falls, P.Q  | Canada  | Valcarticr.. | Sept. 28 |
+| 6 | 759 | 1264 | 3738 | 1297 | 23377 | Private  | Clifford, Colin  | Mounted Police, S.A  | (Mifford, Percy  | I Box 209, Johannesburg, S. Africa  | S. Africa  | Valcarticr.. | Sept. 22 |
+| 6 | 758 | 1291 | 3740 | 1326 | 22981 | Private  | Clifford, Frank  | (Canadian Militia   | Clifford, James  | ICngland  | v alcartior.. | Sept. 23 |
+| 6 | 760 | 1326 | 3210 | 1357 | 22720 | Private  | Clifford, Joseph C.... | Particulars will be furnished | when available  |   |
+| 6 | 758 | 1342 | 3740 | 1386 | 231131 Private  | Clifford, Thomas  | K. R. It. Imperial  | Holiday, Bridget  |  | ng... | England  | Valcarticr.. | Sept. k |
+| 6 | 758 | 1380 | 3741 | 1416 | 22817 Private  | (Hint, Albert Henry.., | Sth R. U  | ('lint,, Henrietta  | jSl Esplanade, Quebec...P.Q. |  j Canada  | Valcarticr.. | Sept. 28 |
+| 6 | 758 | 1410 | 2307 | 1447 | 235011 Private  | Cochran, Hamilton... | Particulars | when available  |
+| 6 | 759 | 1440 | 3741 | 1478 | 236371 Private  | Coderea, Richard  | Nil  | Coderea, M  | . jBotochany, floumania   | Iloumnnin.... | Vnlcarticr.. | Sept. 25 |
+| 6 | 756 | 1469 | 3741 | 1502 | 2309) ■ Private  | ( ‘oleman, William  | K. O. S. B  | Coleman, Elizabeth  | . 0 Green Ave. Rond, Old Lancs, Eng  | England  | Vnlcarticr.. | Sept. 28 |
+| 6 | 757 | 1499 | 3741 | 1533 | 23115! Private  | < lollet, Arthur I,  | 82nd Regt  | Collett, W  | . Victoria, P.E.I  | (-annda  | Valcar!icr.. | Sept. 23 |
+| 6 | 756 | 1528 | 3741 | 1562 | 232571 Private  | < 'oilier, Percy  | N il  | Collier, W.    | . Junction Rond, T/crk, StafTs, Eng  | England  | Vnlcarticr.. | Sept. 23 |
+| 6 | 755 | 1556 | 3741 | 1595 | 2 2855] Private  | Collins, John James... | |SIII Regt  | Woods, Mrs. Jane  | .►12 Michael St., Quebec, P.Q    | Ireland  | Vnlcarticr.. | Sept. 20 |
+| 6 | 756 | 1585 | 3741 | 1623 | 2337*: Private  | Coomber Harry A.... | jt-tlh Middlesex It. Vols.. | Cousins, Mrs  | . jNutlcy Terrace, Hampstead. London, Eng  | England  | Val< artier.. | Sept. 22 |
+| 6 | 756 | 1616 | 3742 | 1650 | 232171 Private  | Conlon, Thomas  | No. 6 Co., G. A. S. C.... | Conlon, Mrs. James  | .[25 Victoria BIdg*., Emmott St., Stepney, Lond | » Eng | England  | Valcarticr.. | Sept. 23 |
+| 6 | 756 | 1644 | 3742 | 1680 | 23060! Private  | (‘onway, John Joseph. | ;Nil  | Conway, Mary  | . ill) Herbert St., Qucbcc, P.Q  | ('anada  | Valcarticr.. | .■-epL. 28 |
+| 6 | 756 | 1674 | 3743 | 1709 | 236-10 Private  | Ccoke, Thomas  |  | Cooke, Mrs. Ella .’ | . 09 Forfar St., Montreal, P.Q  | Canada  | Valcartier.. | Sept. 26 |
+| 6 | 755 | 1704 | 3743 | 1741 | 23116|Private  | Cooke, Joseph  |  | Cooke, Mrs. Mary J.... | . Brnmptonville, P.Q  | Canada  | Valcarticr.. | Sept. 2H |
+| 6 | 755 | 1733 | 3744 | 1768 | 22848 Private  | Cooper, Charles  | 187th Regt  | Cooper, Thomas  | . 120 O’Connell St., Qucbcc, P.Q  | Canada  | 'Valcarticr.. | Sept. 2S |
+| 6 | 754 | 1762 | 3744 | 1797 | 23373 Private  | Cooper, William J  | Nil  | Nil  |  |  i England  | Valcartier.. | ■Sept. 26 |
+| 6 | 754 | 1766 | 3743 | 1827 | 23372 Private  | Cooper, John G. W.... | ,17th Hussars  | Franklin, Mrs. Charles. | !.r»0 Church ltd., Hendon, London, Eng  |  | England  | ■Valcarticr.. | 'Sept. 22 |
+| 6 | 754 | 1821 | 3744 | 1856 | 22985: Private  | Cooper, William  | Nil  | Cooper, Mrs  | .jSouth Bnllmorc, Peterhead, Aberdeen, Scot... |  j Scot land  | Valcartier.. | Sept. 22 |
+| 6 | 753 | 1850 | 3744 | 1886 | 23606! Private  | Copp, Hiram A  | {12th Bat  | Copp, Mrs. Georgina A. | . Chatham, N.B   |  ('anada  | Valcartier.. | j.Scnt. 23 |
+| 6 | 753 | 1881 | 3746 | 1914 | 22717'Privale  | Corbin, Harold J  | 'Jersey Militia  | ( urbin, Mrs. John  | .’Vino (Cottage, St. Saviour, Jersey, Channel I si: | s,... .England  | Valcarticr.. | Sept. 28 |
+| 7 | 872 | 741 | 2960 | 785 |  | Rank. | Name, Surname first. | Corps (if any). | Name of Next of Kin. |
+| 7 | 720 | 767 | 3683 | 800 | No. |  |  |  |  |  | Birth. | Place, j Date. |
+| 7 | 716 | 917 | 3162 | 960 | 23258 Privato  |  | Cork, Herbert Foster  | Nil ;  | iCork, I'\ L.   | J.ont'licUl House, llueknoll, Now lid., Hanley, StulYs, |
+| 7 | 3188 | 947 | 3656 | 978 |  |  |  |  |  |  | India  | .! Valcartier. | Sept. |
+| 7 | 716 | 985 | 2346 | 1017 | 23540: Privato  |  | •ormicr, Edgar  | Particulars will be furnished | when available ;.... |
+| 7 | 3189 | 1005 | 3702 | 1042 |  |  |  |  |  |  | Scotland. | . | Valcartier. | . 'Sept. 28 |
+| 7 | 717 | 1016 | 3115 | 1056 | 22979' Private  |  | 'orner, Otto II  | Nil  | j Corner, W  | Brooksidc, Inverness, Scot   |
+| 7 | 3189 | 1036 | 3701 | 1071 |  |  |  |  |  |  | Canada.. | . j Valcartier. | . iSept. 23 |
+| 7 | 717 | 1040 | 3120 | 1082 | 23111)! Privato  |  | 'orney, Arthur  | 4th Battery  | jCorney, S. G   | .. iSimnvside, P.1S.I.    |
+| 7 | 3190 | 1068 | 3702 | 1098 |  |  |  |  |  |  | Wales  | , I Valenrt ier. | Sept. 25 |
+| 7 | 717 | 1075 | 3115 | 1108 | 22984 Private .... |  | ’orrison, Cecil Daniel. | Nil  | iCorrison, Francis Edward | Ningo, Man   |
+| 7 | 717 | 1097 | 3702 | 1135 | 229831 Private  |  | ’orrigan, John  . | Nil  | Corrigan, William  | Ardl«*Vr B.C   | Scotland. | Valcartier. | .'Sept. 25 |
+| 7 | 717 | 1127 | 3186 | 1170 | 22724 j Private  |  | Goughian, Walter... .. | Nil  | Goughian, Peter (Chief | of | | |
+| 7 | 3182 | 1156 | 3701 | 1205 |  |  |  |  |  |  | j( 'anada.. | . ‘Valcartier. | .ISept. 28 |
+| 7 | 717 | 1185 | 3697 | 1223 | 230711 Private  |  | Colette, Kmilc  | Particulars will be furnished | |when available  |  |  |  | .1  |
+| 7 | 717 | 1216 | 3701 | 1253 | 23G32iPri vate  |  | Courc.ic, Georges  | Nil  | iCoureic, Joseph  | Richmond, P.Q    | :(’anada.. | .Valcartier | LSept. 27 |
+| 7 | 717 | 1242 | 3701 | 1283 | 2271,Si Private  |  | Coutts, Andrew  | Nil  | < Coutts, Mrs. Mary  | •12 Cannon St., St. John, N.B   | Scotland. | . j Valcartier. | . ;S« pt. 2S |
+| 7 | 717 | 1275 | 3702 | 1312 | 22719, Private  |  | Coutts, James  | Nil  | I Coutts, Mrs. John  | Hibernia, Queens Co., N.B   | ‘Scotland. | . j Valcartier. | . j Sept.. 2S |
+| 7 | 718 | 1304 | 3701 | 1339 | 22860; Private  |  | (Couture, Napoleon  | Nil  | !Couture, Kmnia  | Arctic Centro, Rhode Island, U.S;A  | ] Canada.. | . i Valcartier. | .iSept. 2S |
+| 7 | 717 | 1332 | 3701 | 1378 | 23030 Pri\ air  |  | Couture, Kugcne  | Nil  | j Couture, F. J  | Rimouski, P.Q -  | |Canada.. | . [Valcarticr. | . Sept. 23 |
+| 7 | 717 | 1364 | 3703 | 1400 | 2298GjPrivate  |  | Cox, Thomas  | 17 th Bat  | |Cox, George  | I Sydney, Cape Breton    | Canada.. | .; Valcartier. | . Sept. 23 |
+| 7 | 718 | 1393 | 3701 | 1435 | 22560! Private  |  | Craig, Leonard  | 71»t Regt  | ! Kirch, Mrs. John 10  | iLionville Parish, St. Mary, N.B  | Canada.. | Valcartier. | . | Sept. 24 |
+| 7 | 718 | 1424 | 2342 | 1456 | 23504] Private  |  | Craigs, Walter Ray  | Particulars will be furnished | when available  |
+| 7 | 718 | 1454 | 3796 | 1490 | 23220! Lance-Corporal |  | Crawford, Harry Geo  | 53rd Regt  | Crawford, G. F  | Lonnoxville, P.Q    | Canada.. | Valcartier. | . j Sept. 25 |
+| 7 | 717 | 1483 | 3703 | 1516 | 23083 'Sergeant  |  | Creighton, Wilden C  | R. C. R  | Creighton, Mrs. M  | 52 St. Michael St., Quebec, P.(2  | C 'anada.. | Valeariier. | .ISept. 28 |
+| 7 | 718 | 1510 | 3702 | 1545 | 22725- Private  |  | Cripps, George D  | Nil  | Cripps, Mrs. Margaret  | iChatharn, N.B   | Canada.. | Vah'arl ier. | . jSept. 2S |
+| 7 | 717 | 1542 | 3702 | 1574 | 23117* Private  |  | Crockett, Parker H  | 82nd Regt  | Crockett, George  | I York, P.K.I..   | Canada.. | Valcarti«*r. | Sept. 2s |
+| 7 | 718 | 1572 | 3702 | 1605 | 2297S11 ,ance-( ’orporal |  | Croft, Cyril  | O Dicers’ T. C......... | Rev. Ot.ho Burney Croft.... | South Cadbury Rectory, Somerset, Eng  . | t 'anada.. | Valcartier. | ISept. 23 |
+| 7 | 718 | 1601 | 3703 | 1633 | 229771 Private  |  | Crook, Alfred  | Nil  | Crook, John  | lloueside, P.O., Hamilton, Out  | England. | Valcartier | . Sept. 23 |
+| 7 | 718 | 1630 | 3703 | 1664 | 231181 Privato  |  | Crosby, William C  | Nit  | (Jrosby, W. O  | (Iharlottetown, P.E. I  | Canada.. | Valcartier. | .‘Sept. 2s |
+| 7 | 718 | 1657 | 3705 | 1691 | 23505' Privato  |  | (-rossman. Frank  | 7-11h Sussex Mil. Regt. | Crossman, Wm. B  | Sackville, N.B  | U.S.A. | Valcartier | Sept. 25 |
+| 7 | 718 | 1688 | 3704 | 1721 | 2325:;: Private  |  | ('rothers. George..   | 53ill Uegt  | Crothers, Mrs. 10  | Lennoxville, P.Q      | U.S.A.. | Valcartier | . Sept. 23 |
+| 7 | 718 | 1719 | 3703 | 1753 | 2335'J! I .ancc-C 'orporal |  | t Jrowther, Benjamin   | Manchester ltegt,.... | ('row iher, (i. W  | Manchester, Eng    | England | Valcartier. | . Sept. 22 |
+| 7 | 718 | 1744 | 3703 | 1782 | 23255 private |  | (-rump, Albert   | 53rd Regt  | Crump, T.   | 128 Dudy St., Burton-on-Trent, Eng  | lOngland. | I Valcart ier | Sept. 25 |
+| 7 | 718 | 1777 | 3704 | 1811 | 2272ti | Privato  | (’alien, ('hnrles.   | Nil    | Cullen, Mrs. Mary  | Itougheu, Coalmjaml, Tyrone, Ire  | Ireland. | I Valenrt ier. | Wept. 28 |
+| 7 | 718 | 1807 | 3704 | 1847 | 23338 | Sgl. Sergeant • . | (-unningham, ('lias. S  | 02ml Uegt  | (Junningham, Mrs. Jane  | 41 Guilford St., St. John West, N.B   | Canada.. | j V’aleart ier | iSept. 30 |
+| 7 | 717 | 1835 | 3705 | 1871 | 22X51 | I .anee-Corpornl | < 'uiininghani, Harold \Vilb< | 02nd Regt  | (unninglium, I’loronee  | 08 City ltd., St. John, N.B  | (‘anada.. | ! Valcnrlier. | . S«.*pt. 20 |
+| 7 | 717 | 1867 | 3704 | 1900 | 22501 | Private  | Cuthbertson, Sam. A  | Nil   | Cuthbertson, Jane  | Inverness, Western Tanellavo, lluggtcrn, Beardy, | Scotland. | Valcart ier. | Sept. 20 |
+| 7 | 717 | 1896 | 3703 | 1931 | 22728 | Privntc  | (VM6, Ernest  | Nil  | CM, \j    | 'l’hetford Mines, P.Q      | Canada.. | Valcartier. | . Sept. 30 |
+| 7 | 716 | 1926 | 3703 | 1963 | 22853 | Private  | C6I6, Kdounrd  | Nil...,  | C6t6, Emil.  | Riviere ilu Jvoup, P.Q  | Canada.. | f Valcart ier. | . Sept. 29 |
+| 7 | 717 | 1956 | 3702 | 1989 | 22852 | PrivaU*  | (.’616, George l-'redk  | S‘.)ih Regt  | (VUft, Deivina  | Rimouski, P.C^.      | (’anada. | Valcart icr. | . Sept. 29 |
+| 7 | 716 | 1985 | 3557 | 2018 | 23121 | Private  | 1 )aley, John Dima I  | Nil    | Du ley, Mr..  | 73 Kriu St., Si. John, N.B    | Canada . | ; Valcart lei . |
+| 7 | 715 | 2016 | 3102 | 2049 | 23109 | Private  | Daley, Thomns    | Connaught. Rangers... | Stewart, Mrs. 10.     | It High St., Chorlton-on-Mendloek, Mancheste |
+| 7 | 2511 | 2046 | 3702 | 2079 |  |  |  |  |  |       | Ireland.. | ! Valcart ier | Sept. 28 |
+| 7 | 715 | 2073 | 3702 | 2114 | 22X57 Private  |  | I )’Amour, Julia  | It. C, | R. | 1 ),Amour, 1/oonoro. | liowell, Mass., U S.A    | (’anada., | . | Valcartier. | St'pt, 2S |
+| 7 | 715 | 2100 | 3702 | 2139 | 23050 Private  |  | i )anemihe, Thomas  | Nil... | 1 )ancau.se, Anne M. A....... | Si. Paschal, Kamouraska, P.Q  | < Hmada.. | . [Valenrt ier. | Sept. 2(1 |
+| 7 | 715 | 2132 | 3701 | 2176 | 225021Private  |  | 1 )ando, Perey Henry  | Nil... | Dando, Mrs. William   | SO Davisville Ave., '1‘oroato, Ont  | Wait* .. | . j Valcartier. | • JSepl. 2.1 |
+| 7 | 714 | 2162 | 3701 | 2199 | 23018 Private  |  | fD’Aoust, Romeo  | Nit... | Daoust, George  | 2113 St. Andr6, Aylmer, P.Q  | Canada.. | .Valcart ier | Sept. 2:i |
+| 7 | 715 | 2192 | 3700 | 2231 | 22503 Private  |  | 11 >areus, Solomon Jno  | Nil... | Dan.'UH, Mrs, Ethel  | (Fredericton, N.ii   | Ireland... | . I Valcartier. | /Sept. 2.1 |
+| 7 | 713 | 2216 | 2341 | 2254 | 220531 Act.-Sergeant.., |  | 'Darnell, William  | Nil. | Darnell, Margaret  |
+| 7 | 2388 | 2226 | 3701 | 2262 |  |  |  |  |  | Wingham, Ont        | England.. | . |Valcart ier. | . :Sept. 2ti |
+| 7 | 713 | 2253 | 3701 | 2292 | 23227 1 ance-Corporal. |  | 11 Javidson, Albin  | 53 rd | Regt. | I )nvidson* Susie  | 50 Prospect Street, Sherbrooke, P.Q   | 'anadu.. | . Valcaiticr. | . i Sept. 25 |
+| 7 | 712 | 2284 | 3700 | 2329 | 22000 Private  |  | j 1 >avin, 1 )nvid 11  | Nil. | t WlwalJadcr, Mrs       | \ lVays Terraco, Cowley, Midvlle>e\, 10ug  | • England . | . jVideartlcr. | . Sept. 2:i |
+| 7 | 713 | 2309 | 2340 | 2341 | 22992; Private...,  |  | i Daw.soii. Peter  | Nil. | Dawson, Fred...   |
+| 7 | 2386 | 2318 | 3701 | 2352 |  |  |  |  |  | <\o TIkuihis Dawson, 15 Wood St ., Tyldesley, Ka | i lOngland.. | . Valcart ier. | . Sept. 28 |
+| 8 | 691 | 104 | 3672 | 143 | 23507: Private.. |  | . Dawson, Michael  | 74 th Regt  | jMcNaulty, Mary  | .; Douglas Avenue, St.John, N.B Canada  |  | Valcartier | .’Sept. 26 |
+| 8 | 691 | 133 | 2330 | 161 | 22046 Private.. |  | . Davit*, Win. Jos. Pat.... | Particulars will be furnished | when available  |
+| 8 | 690 | 153 | 3673 | 194 | 23642 j Private.. |  | . Dcchantal, Ernest  | 65 th Regt  | Dechan tel, Mme. E  | ;912 Bordeaux St., Montreal, P.Q    | Canada  | Valcartier | ! Sept. 26 |
+| 8 | 690 | 191 | 3672 | 223 | 226911 Col .-Serge |  | ant | . DcFallot, Carl  | 2nd Ilegt  | Cartwright, Mrs. James S  | ;Stcllcnbcrg, Kenilworth, Cape Town, S.A  | Russia  | Valcartier | .'Sept. 28 |
+| 8 | 690 | 220 | 3671 | 252 | 23122 Private.. |  | . Delaney, William C  | Nil  | [Delaney, Annie   | I Kensington, P.E.I.    | Canada  | Valcartier | . Sept. 23 |
+| 8 | 691 | 248 | 3672 | 284 | 23379; Private.. |  | . jDonnehy, Charles  | 2nd llegt   | Dennchy, Dr. G  | ;St. Lucia, West Indies,   | Canada  | Valcarticr | .|Sept. 22 |
+| 8 | 691 | 280 | 3672 | 314 | 2364 6; Private.. |  | . J)ccary, George*.. *  | Nil  | Decary, J  | '335 Bourbonnierc, Maisonncuvc, Montreal, P.Q  | Canada  | Valcartier | . Sept. 20 |
+| 8 | 690 | 310 | 3672 | 347 | 22091‘Private.. |  | . [ i Jcscharme, Raymond.. | Nil   | Doscharme, E  | ISt. Boniface, Man.      | Canada  | Valcarticr | ..Sept. 28 |
+| 8 | 690 | 342 | 3671 | 377 | 231231 Private.. |  | . jDcscouteaux, Arthur  | 3-1 til Regt  | Pelletier, Mrs. E  | Sherbrooke, P.Q   | Canada  | Valcarticr | . Sept. 2S |
+| 8 | 690 | 369 | 3670 | 403 | 23649! Private.. |  | Desjardins, Sylvio  | Nil    | Desjardins, M  | •’50 Chambord, Montreal, P.Q  | Canada  | Valca: tier | . jSept. 23 |
+| 8 | 621 | 399 | 3671 | 432 | KiV | 22807 Arm.-Serg | cant | Dcsjarlais, Jos. Omer... | 51th Regt.     | Desjarlais, Hubert  | 00a Peel Street, Sherbrooke, P.Q  | Canada  | ! Valcarticr | .’Sept. 2E> |
+| 8 | 690 | 428 | 3671 | 467 | 23511! Private.. |  | Dequciteville, Alfred... | Nil  | Pa^n, Mrs. T  | LaChampagnc, St. MiHino, Jersey, Channel Islands | Channel Isds | ,j Valcartier | .ISept. 20 |
+| 8 | 690 | 460 | 3670 | 494 | 23124; Private.. |  | Dcs Roche, Joseph  | 82nd Regt  | Dcltoche, Alphonsus  | Rustico, P.E.I  | Canada  | ' Vnlcarticr | .'Sept. 2S |
+| 8 | 690 | 485 | 3670 | 525 | 22504j Private.. |  | Dcvoo, John W  | Ii. C, R  | Devoo, William  | .Cariboo, Maine, U.S.A  | Canada  | | Valcarticr, | . 'Kppt. 23 |
+| 8 | 689 | 515 | 3672 | 557 | 23508'Private.. |  | Dewar, Leslie    | 73rd Regt  | Dewar, Mrs. Margaret  | jCampbcllton, N.B    | Canada  | ;Valcartier, | . ISept. 20 |
+| 8 | 691 | 549 | 3672 | 580 | 23500 Private.. |  | Dewar, Oliver  | Nil     | Dewar, Angus  | iCampbellton, N.B *   | Canada  | I Valcarticr, | . Sept. 20 |
+| 8 | 689 | 573 | 3671 | 610 | 23131 Private.. |  | Duvar, Robert II  | 23rd Regt  | Duvar, Mrs. E. H  | I Fortune Cove, P.E.I    | Canada  | i Valcart icr | .'Sept. 20 |
+| 8 | 689 | 606 | 3671 | 647 | 221*87 Private.. |  | Dickson, John   | 11th Hussars  | .Johnson, Mrs. E  | North View Lea ltd., HarpenJen, Eng   | England  | | Valcartier | . .Sf’pt. 20 |
+| 8 | 689 | 638 | 3671 | 669 | 233821 Private.. |  | Dickinson, Wm. 8  | Nil      | Dickinson. Eliza, Mrs  | I Furnace Place, Asknm in Furnacc, Lancs, Eng  | England  | ! Valcartier | . Sept. 22 |
+| 8 | 689 | 664 | 3671 | 704 | 22858j Private.. |  | Dillon, Michael Jos  | Kings Liverpool, Eng  | Dillon, Nellie %  | j79 St. Nazaire St., Qucbcc, P.Q  | England  | | Valcart icr | JSepl. 29 |
+| 8 | 688 | 697 | 3672 | 727 | 23261 Private.. |  | Dionne, Ovita  | Nil..      | Dionne, Mr   | 108 St. Martin St., Montreal, P.Q  | Canada  | Valcartier | . * Sept. 26 |
+| 8 | 689 | 729 | 2340 | 758 | 235 10; Private.. |  | Dixon, Henry  | Particulars will be furnished | when available  |
+| 8 | 689 | 755 | 3670 | 789 | 22730 Private.. |  | Donnell, James L  | Nil  | Donnell, J. A  | jCaerwys, Flintshire, N. Wales  | England  | .! Valcarticr.. Sept. 14 |
+| 8 | 689 | 781 | 3671 | 816 | 227Ci> Private.. |  | . Donohue, John Jos  | Nil    | Donohue, Frank L  | 20 Brussells St., St. John, N.B  | Canada  | . iValcartier.. 'Sept. 28 |
+| 8 | 775 | 813 | 3672 | 852 |  | Private.. | Donovan, Mich. Jos  | R. Munster Fusiliers .*  | Donovan, John  | ;Shannon St., Bnndon, Co. Cork, Ire  | Ireland.    | .! Valcarticr.. jSept. 28 |
+| 8 | 688 | 845 | 3340 | 881 | 23125 j Private.. |  | . | Douvillc, Eloi  | Nil  | Douville, Miss Alice  | : Black Lake, P.Q  | Canada  |
+| 8 | 689 | 873 | 3671 | 906 | 22859! Private.. |  | . iDoo, Louis John  | Nil   | Doo, Agnes    | 33 Payne Ave., West Brighton, Sussex, Eng  | England  | . j Valcartier. | . .Sept. 29 |
+| 8 | 688 | 903 | 3672 | 934 | 22945 Private.. |  | . Doyle, Michael A  | Sth Regt  | Doyle, Kathleen  | •33 St . Mieliael St.. Quebec, P.Q   | Canada  | . Valcartier. | .(Sept. 20 |
+| 8 | 689 | 929 | 3674 | 963 | 23263! Private.. |  | Dorman, Chas. Iiy  | Nil. i  | Dorman, Sarah M  | 101 Drummond Rd  | England  | . .Valcarticr. | .1 Sept. 25 |
+| 8 | 688 | 960 | 3673 | 992 | 23S8J Private.. |  | Douglas, John  | ‘51st Vol. Batt., Black Watch.. | Douglas, Miss I  | Strath tay, Perthshire, Scot  | Scotland  | ,. Valcartier. | . ;Sept. 22 |
+| 8 | 689 | 985 | 3669 | 1020 | 23013! Private.. |  | Dufort, Oscar  | Nil  | Dufort , D  | 335 Prefontaine St., Montreal, P.Q    | Canada  | . I Val earlier. | . Sept. 21 |
+| 8 | 689 | 1018 | 3673 | 1050 | 23120 Private.. |  | Duffy, Charles  | ♦Nil  | 1 >uffy, Annie.  | < 'hnrlot.tetown, P.E.I  | '(.’anada  | ,.' Valcart ier. | .iSrpt. 23 |
+| 8 | 689 | 1047 | 3673 | 1081 | 22X61 Private.. |  | 1 )ufrcsne, Jacques T  | ; Nil  | Duftesne, Henri  | Molson’s Bank, Upper 'Town, Quebec, P.Q  | < 'anada  | ..' Vat car I ier. | . jScpt. 29 |
+| 8 | 690 | 1078 | 3673 | 1109 |  | Private.. | 23044 | Dugre, Joseph Art  | ;S(»I ll Rcgl  | Diijytf, M. T..  | . 47 Nol.re Dame St., Trois Rivieres, P.Q  | ('anada  | , .«Valcarticr. | . Sept. 24 |
+| 8 | 690 | 1107 | 3674 | 1138 |  | Private.. | 22989 | Duggan, Rich, lien  | Nil    | Duggan, 'l’errier  | .17 St. Lawri’r.fc St., Quebec, P.Q  | . ('anada  | ..: Valcartier. | . Sept. 2:8 |
+| 8 | 690 | 1137 | 3674 | 1172 |  | Private.. | 22S00 | Dunbar, Fredk. Art  | U.S.A. Army  | Bennett, C. F  | . 77 Allen Place, llart., Conn., U.S.A  | .! Canada  | .. | Valcart ier. | . Sept. 29 |
+| 8 | 690 | 1164 | 3674 | 1202 |  | Private.. | 233S0 | i Dunbar, William  | Nil ...  | |Dunbar, Mrs. A  | . Trail, B.C  | . i ’anada  | . .IValcartier. | . Sept. 2’J |
+| 8 | 690 | 1193 | 3675 | 1231 |  | Private.. | 23262 | ! Duncan, William  | Nil   | [Duncan, John  | . Box, 97, Scott si own, P.(2   | . Scotland  | .. j Valenrt icr. | .’Sept. 25 |
+| 8 | 690 | 1221 | 3674 | 1254 |  | Private.. | 23127 | 1 Duncan,. Oliver  | 07th Regt  | >MoKen*ie, Mrs. James  | . Glae6 Bay, C.B  | . ('anada  | . j Valcart ier. | . Sept. 28 |
+| 8 | 691 | 1251 | 3675 | 1291 |  | Private.. | 23177 | ' Dunhill, Edgar  | 74th Regt  | | Dunhill, Robert  | Titusville, Kings Co.. N.B  | , ICngland  | . .IValcartier. | .»pt. 25 |
+| 8 | 690 | 1281 | 3676 | 1314 |  | Private.. | 22990 | j Dunn, William John  | Nil  | Dunn, Andrew  | Box 1147, Fernic, B.C'  | Ireland  | .. iValcartier. | . Sep!. 25 |
+| 8 | 691 | 1312 | 3675 | 1344 | 23383! Private.,. |  | Dunnett, W illiam  | Royal Scots    | i Dunnett, Francis  | Sydney, N.S.W., Australia   | . (Scotland  | ..; Valcart ier. | . Sept. 22 |
+| 8 | 690 | 1338 | 3671 | 1378 | 23710' Private.. |  | Dupre, Heni i  | ! Particulars will be furnished | |when available  |  |  |  | .1  |
+| 8 | 690 | 1365 | 3677 | 1401 | 23130 Private.. |  | Duplcssts, 11 arold  | 62nd Uegt.. | IDuplessis, Mrs. J. A  | iJaskillcn, N.B  .  | . (-anada  | .. I Valcart icr | . Sept. 2S |
+| 8 | 690 | 1401 | 3676 | 1431 | 23128 Private.. |  | Dupuis, Arthur  | 82nd Regt.    |  | St. Marie, Beaucc, P.Q   | Canada  | .. Valenrt if r. | . s.-p. 2s |
+| 8 | 691 | 1427 | 3631 | 1461 | 23129 Private.. |  | Dupuis, Alphonse  | 80th Regt  | i Dupuis, N    | St. Marie, Beauce, P.Q  | . !( 'anada  | ..! Valcart ier. | .'Sep!. |
+| 8 | 690 | 1454 | 3678 | 1494 | 23645(Private.. |  | Dupuis, Horace  | Nil  | j Dupuis, Mine. Em  | !299 Papineau St., Montreal, P.Q.   | ('anada  | .. * Valcart ier. | . iSepl. 20 |
+| 8 | 691 | 1487 | 3677 | 1524 | 23651 [Private.. |  | Durocher, Oscar  | U.S. Army  | jDurocher, Mrs. O    | , ;215 Cadieux St., Montreal, P.Q :...   | .jU.S.A  | \ • 1 ■ | .'Sept. 20 |
+| 8 | 691 | 1514 | 3678 | 1551 | 230 llj Private.. |  | Duseigne, Armand  | ‘Nil  | 11>useignc, George   | , Stc. Rose du Lac, Man  | Belgium  | .. j Valcart ier. | . jSep'. 20 |
+| 8 | 692 | 1546 | 3678 | 1578 | 23017! Private.. |  | Dutillicn, Pierre M  | iNil  | Grom bag, Mine  | . 85 Rue de Namur, Bruxelles, Belgium  | I Belgium  | .. - Valcartier. | . .Sept. 20 |
+| 8 | 691 | 1572 | 3678 | 1607 | 23133! Private.. |  | Karle, John  | ! Nil  | Karl, John  | . Riviere du Loup, P.Q  | .! Canada  | .. j Valcart if,r | .'Sept. 23 |
+| 8 | 692 | 1602 | 3678 | 1641 | 23514' Private.. |  | Easterbrook, Parker  | •74 th Regt  | Kasterbrook, George.  | . Sackville, N.B   | . Canada.. | .. [Valcarticr. | . Sept. 2S |
+| 8 | 692 | 1631 | 3679 | 1669 | 229951 Private.. |  | Katon, Richard Garter. | ' Nil  | Eaton, Isabella Maria Mrs. | , 32 Seymour Ave., Montreal, P.Q  | . j Can ad a.. | .. Valcarticr. | Sep!. 28 |
+| 8 | 691 | 1661 | 3677 | 1702 | 23220jScrgeant. |  | lEdgcll, Geoffrey S  | 53rd Regt  | Ed gel 1, Mrs. S  | II Melbourne St., Sherbrooke, P.Q  | .;(’anada.. | .. • Val ear I icr. | . ISept. 2." |
+| 8 | 692 | 1689 | 3679 | 1728 | 22996 Private.. |  | i )<Igley, Wm. John  | Nil  | Edgley, Alexander  | , iUG Third St., Qucbcc, P.Q    | . ‘.(.'anada . | .. j Valcartier. | . jScpt. 23 |
+| 8 | 691 | 1723 | 3680 | 1762 | 22733] Private.. |  | .Edwards, Frederick J.. | 62nd Regt  | Edwards* Mrs. Clara  | . |No. 1 White St., St. John, N.B  | . | Engl and. | . .jValcarticr. | . Sept. 30 |
+| 8 | 691 | 1752 | 3680 | 1784 | 22565»Privatc.. |  | ■ Edwards, Phillip S  | Nil   | Edwards, Mrs. R  | , i Forest Fach near Swansea, Wales  | . |England. | .. IValcartier. | . iSept- 23 |
+| 8 | 692 | 1780 | 3681 | 1816 | 227311 Private.. |  | jKllick, Joseph  | 6th Regt., Servia... | 1'Jliek, Anna  | . -Belgrade, Servia  | . (Servia... | .. iValcartier, | . [Sept. 28 |
+| 8 | 691 | 1808 | 3635 | 1845 | 23512-Private.. |  | Ellis, Alfred   | Nil....  | Ellis, Flossie, Miss  | I Woolworth, London, Eng   | . England. | .. j Vat ear tier. | . Sent. |
+| 8 | 691 | 1835 | 3682 | 1873 | 22093 Private.. |  | !Elnctsky, Constantine.. | Nil  | Elnctsky, Martha  | . Baranooka.. Woolhoob., Russia  | .! Russia... | .. 'Valcartier | . ;Scpt. 20 |
+| 9 | 640 | 760 | 3234 | 792 | Reg. | Hank. | Name, Surname first. |  | Name of Next of Kin. |  | of |
+| 9 | 649 | 930 | 3632 | 970 | 23053 | Private  | fimond, Alexander  | 50th Regt  | fiinond, Mrs. A    | 770 Pk. Lafontaine, Montreal, P.Q  | U.S. A  | Valcartier.. jScpt. • 27 |
+| 9 | 649 | 958 | 3632 | 997 | 22095 Sergeant  |  | lOmslie, Jas. Gordon  | Nil  | Kmslie, Mins Isabella  | 19 Montpelier Pk., Edinburgh, Scot  | Scotland  | Valcartier. .1 Sept. 28 |
+| 9 | 649 | 994 | 3632 | 1026 | 23513 L’rivatc  |  | Knglclmrl, Benjamin  | Nil  | Englehart.Mrs.Henry  | Wares Brook, N.B  | Canada  | Valcartier.. | Sept. 2J |
+| 9 | 648 | 1019 | 3633 | 1055 | 22994 | Private  | Hus lace, George  | Naval Reserve  | Spiadler, Miss A  | 13 Flast Woodbine St., Sunderland, Eng  | Ireland  | Valcarticr.. | Sept. 20 |
+| 9 | 648 | 1048 | 3632 | 1085 | 22732 | Privato  | Evans, Robert  | 62nd Regt  | Evans, William J  | 96 Wentworth St., St. John, N.B  | Canada  | Valcarticr.. | Sept. 2S |
+| 9 | 648 | 1082 | 3633 | 1113 | 23080 | Private  | Everitt, Albert  | Nil  | Everitt, J. H    | Monckton, England.    | England  | v cucartier.. Sept. 2.} |
+| 9 | 649 | 1108 | 3634 | 1143 | 23339 | Private  | Estabrooks, Geo. XI  | 62nd Regt   | Estabrooks, Mrs. II  | 1S2 Winslow St., St. John West, N.B  | Canada  | valcartier.. | Sept. 30 |
+| 9 | 648 | 1137 | 3633 | 1172 | 235J 7 | Private  | Fairley, Chester  | Nil   | Fairley, John C   | Hanover St., Campbellton, N.B  | Canada  | Valcarticr.. | Sept. 23 |
+| 9 | 649 | 1167 | 3633 | 1202 | 2305G | Privato  | Falardeau, Oscar  | Canadian Militia  | Falardeau, R  | Herman, Young Co., Bridge, St. Quebec, P.Q  | Canada  | Valcartier.. | Sept. 23 |
+| 9 | 648 | 1196 | 3634 | 1231 | 22802 | I’rivato  | Fanning, Wm. John  | 8th Regt  | Fanning, Matilda  | 21 St. Patrick St., Quebec, P.Q  | Canada  | Valcartier.. | Sept. 29 |
+| 9 | 648 | 1225 | 3634 | 1261 | 22731 | Private  | Farquharson, Wm  | Nil  | Farquharsoa, Mrs. W. M  | 79 Codogan ltd., Glasgow, Scot  | Scotland  | Valcartier.. | Sept. 28 |
+| 9 | 649 | 1254 | 3633 | 1290 | 235 US | I’rivato  | Karror, Claude  | Nil  | Fai rer, John  | Campbelltown, N.B  | (’anada  | Valcartier.. | Sept. 23 |
+| 9 | 647 | 1282 | 3636 | 1319 | 23207 | Privato......... | Faulkner, Albert  | Nil  | Wilson, Mrs. T. C  | Stanley St., Sherbrooke, P.Q  | lOngland  | Valcartier.. | Sept. 25 |
+| 9 | 647 | 1313 | 3635 | 1350 | 22950 | C.-Sorgoant  | Fawcett, Herbt. Wilson  | Can. Carr. Arty    | Fawcett, Mrs. Emma  | No. 4 Francis St., Quebec, P.Q  | England  | Valcartier.. | Sept. 25 |
+| 9 | 647 | 1349 | 2277 | 1376 |  |  |  |  | when available  | 23131 Private  | Felix, Thomas    | Particulars will bo furnished |
+| 9 | 647 | 1366 | 3635 | 1407 |  |  |  |  |  |  |  | Valcarticr.. | Sept. 29 | 22827 | L.-Sergeant  | Fellows, Wm. Alfred  | 8th Regt  | Follows, Emily  | 33 St.* Cyrilie St.',' Quebec P.Q.'. ’.'.'.'.'.'.'.'.'. ’.'.'.'.'.'.'.'.'. | Canada.  |
+| 9 | 647 | 1401 | 3635 | 1437 |  |  |  |  |  | 0 Third Street, Limoilou, P.Q  | 22867 Private  | Ferguson, John  | 9th Regt  | Ferguson, Desange  | Canada  | Valcartier.. | Sept. 29 |
+| 9 | 647 | 1431 | 3635 | 1467 | 23135 Privato  |  | Ferguson, Patrick  | 4th Kings Own  | Collins, S. J...,   | 43 Steel St., Liverpool, Eng  | lOngland  | Valcarticr.. | Sept. 23 |
+| 9 | 648 | 1460 | 3635 | 1496 |  |  |  | U. F. A  | 22800. Privato  | Pernio, Frank  | Fernie, Frances  | 5 Howard St., Central, Groat. Yarmouth, Norfolk, Eng | England  | Valcartier.. | Sept. 28 |
+| 9 | 647 | 1488 | 3636 | 1525 | 23520‘1’rivate  |  | Filion, Joseph  | 54th Regt........  | Filion, Theodore  | Sherbrooke, P.Q  | Canada  | Valcartier.. | Sept. 26 |
+| 9 | 647 | 1518 | 3635 | 1555 | 22500 Privato  |  | Fillimore, John      | Nil  | Fillimore, William  | 84 North St., Winnipeg, Man  | U.S.A  | Valcartier.. | Sept. 23 |
+| 9 | 647 | 1548 | 3635 | 1584 | 22097'Private  |  | Finch, Gerald W  | Nil  | Finch, Mr. K...   | 208 Wood Ave., Wostmount, Montreal, P.Q  | Canada  | Valcartier.. | Sept. 20 |
+| 9 | 646 | 1577 | 3633 | 1613 | 22507|Private  |  | Finley, Alfred Edgar   | 71st Regt    | Finley, Alfred 13., Sr   | 0117 Iienley Sir., Birmingham, Eng  | England  | Valcartier.. | Sept. 23 |
+| 9 | 647 | 1606 | 3634 | 1642 |  |  |  |  |  | Hingeston St., Birmingham, Eng    | 22568 Privato.,,...... | Finley, Sidney.   | Nil   | Finley, Charles  | England  | Valcarticr.. | Sept. 23 |
+| 9 | 647 | 1635 | 3634 | 1671 | 22697 C. ,li. Sergeant.. |  | Finley, Harold D  | 02nd Regt      | Finley, Mrs. M   | 127 Duke SI., Si. John, N.B..,..'  | Canada...,... | Valcarticr,. | Sept. 28 |
+| 9 | 647 | 1664 | 3634 | 1701 | 23515 | Private  | Finno, Joseph    | 73rd Regt  | Finno, James  | Black River, N.B    | Canada  | Valcarticr.. | Sept. 25 |
+| 9 | 646 | 1694 | 3634 | 1731 | 22735;Piivate.  |  | Fisher, Charles  | 62nd Regt ,.,.  | Fisher, Mrs. M. E   | Rolling Dam, Charlotte Co., N.B  | U.S.A  | Valcartier.. | Sept. 28 |
+| 9 | 646 | 1723 | 3634 | 1759 |  |  |  | A.M.C    | 23200; Private  | Fisher, Frank    | Fisher, James II..  | 32 Victoria Pk. Av., Toronto, Ont    | England  | Valcarticr.. | Sept. 23 |
+| 9 | 646 | 1752 | 3634 | 1790 | 23519; I’rivato  |  | Fisher, Henry W  | Royal Fusiliers  | Fisher, Henry;  | 2 Gordon Rd., Hounslow, Middlesex, Eng    | England  | Valcarticr.. | Sept. 25 |
+| 9 | 645 | 1782 | 3634 | 1819 | 22049IQ. M. Sergeant. |  | Filion, Richard Chadwick.., | Roy. Lancaster Rcgl  | Filion, Margaret   | It. F. D, No. 2 Fredericlon, N.U  | England  | Valcartier.. | Sept. 20 |
+| 9 | 644 | 1813 | 3634 | 1849 |  |  |  |  |  | Kenduskeag, Maine, U.S.A    | 23380|PrivutO.!  | Kit*, George J  | Nil  | Kit*, Mrs. A. G  | U.S.A  | Valcartier.. | Sept. 22 |
+| 9 | 644 | 1842 | 3634 | 1885 | 23208j Privato  |  | Fitzgerald, Maurice  | Nil     | Fitzgerald, John  | 0 Princess St., Abergavenny, Wales.....  | Wales....,  | Valcarticr.. | Sept. 23 |
+| 9 | 645 | 1871 | 3634 | 1908 | 23002 [Lance-Corporal. |  | Fitzpatrick, Jos. A  | Nil  | Fitzpatrick, Mrs. M. J  | Osceola, Out  | Canada  | Valcartier.. | Sept. 23 |
+| 9 | 644 | 1902 | 3634 | 1941 | 22803 Private  |  | Fletcher, Russell Holmes  | 8th Regt.   | Fletcher, Alice..’  | 95 St. Foyo Rd., Quebec P.Q    | Canada  | Valcartier.. | Sept. 29 |
+| 9 | 644 | 1931 | 3634 | 1970 | 22824 j Sergeant  |  | Fletcher, Ernest Raymond.... | Sth Regt   | Fletcher, Alice, Johnson  | 95 St. Foyo Rd., Quebec P.Q     | Canada....... | Valcartier.. | Sept. 29 |
+| 9 | 644 | 1960 | 3636 | 1998 |  |  | Flynn, John Paul  | 22998 I’rivalo  | Nil  | Flynn, Mra. M   | Uatlicorsoy, Co. Cork, Ire   | Ireland  | Valcart ier,. | Sept. 20 |
+| 9 | 643 | 1991 | 3634 | 2028 | 23)30] I’rivalo  |  | Foley, 1 Jaiiicl.     | 12th Fusiliers..,   | Connors, Mary  | 5 Francis St., Tralee, Kerry, Ire     | Ireland  | Valcartier,. | Sept. 23 |
+| 9 | 643 | 2022 | 3635 | 2057 | 2320-1 | Privntc  | Foley, Janies    | Nil  | Foley, Mrs. M    | 30 Addison ltd., Blackburn, Lancashire, Eng   | England,..,.. | Valcartier.. | Sept. 20 |
+| 9 | 642 | 2050 | 3635 | 2088 | 23385 | Private  | Foot, Pere.ival Win  | E. Surrey Vols    | Foot . George li  | 2 Woodlands Rd,, Barnes, London, S.W., Eng  | England  | Vnlcarlier.. | Sept.. 22 |
+| 9 | 642 | 2079 | 3634 | 2114 | 23381 | I’rivato. | Kurd, Arthur George..,,  | Nil.      | Ford, It.  | Leigh, Kent, Kng.         | England...... | Valcartier.. | Sejxt. 22 |
+| 9 | 642 | 2109 | 3635 | 2145 |  |  |  |  |  | Assiens, Denmark     | 23017 | 'orjxjral  | Ford, Thomas ..,..  | Danish Fife Guards   | Therkihisen, Mrs  | Denmark  | Valcarticr.. | Sept. 23 |
+| 9 | 641 | 2138 | 3635 | 2175 | 23213 | I’rivalo  | Ford, Herbert Kdwin  | Nil  | Ford, C. VV..  | St. Lambert, Apts. Montreal, P.Q  | Canada  | Valcartier.. | Sept. 2S |
+| 9 | 641 | 2168 | 3635 | 2205 | 23265jPrivato  |  | Fournier, Edouard  | Nil  | Fournier, Guillaume   | Lake Megan lie, P.Q  | Canada  | Valcarticr.. | Sept. 25 |
+| 9 | 641 | 2199 | 3635 | 2239 | 23Q90;Private  |  | Fournier, Frank      | R. C. R  | Fournier, Andrew  | GaspS Basin, P.Q.     | Canada,,..,.. | Vnlcarticr,. | Sept. 28 |
+| 9 | 639 | 2231 | 3634 | 2268 | 23137 Private  |  | Fournier, ilonry    | Nil  | Fournier, Alf.    | Quebec, P.Q..      | U.S.A  | Valcartier.. | Sept. 23 |
+| 9 | 639 | 2263 | 3634 | 2299 | 22730 Private., i |  | Fraser, James  | G. A  | Fraser, Mrs. Jessie  | Balbeg, Bunloit, Inverness, Scot    | Scotland  | Valcarticr.. | Sept. 28 |
+| 9 | 639 | 2292 | 3634 | 2328 | 23510 Pri vate ! |  | 1‘Yaser, James j Sell)    | Nil  | Fraser, William  | Prince William St., Campbellton, N.B..,.  | Canada  | Valcarticr.. | Sept. 23 |
+| 9 | 638 | 2322 | 3634 | 2358 | 22804,Private 1 |  | L'Vench, Lewis  | Sth Regt  | Hudson, Eliza  | Trcogmssmere, Liverpool, Eng   | England  | Valcartier.. | Sept. 2S |
+| 10 | 733 | 169 | 2321 | 199 | 23720, Privntc  | . Frenette, Joseph  | Particulars will bo furnished | j when available  |
+| 10 | 733 | 198 | 3707 | 234 | 236515; Private  | .jFrerot, Fernand  | Nil  | IFrfirot, M. F  | ;23 Court St. Croix, Montivior, Paris, France  | France  | Valcarticr. | . Sept. 23 |
+| 10 | 733 | 227 | 3706 | 257 | 236541 Privato  | .! Prick, Louis  | 85th Uegt  | IFrick, Louis L  | 10 Visitation St. Montreal, P.Q  | Canada  | Valcarticr. | . Sept. 23 |
+| 10 | 732 | 251 | 3707 | 297 | 23865! Privato  | . Fritze, Waiter  | Nil .  | [Frit*#, Ed  | 7 Canadian Rd., Lijnoilou, P.Q  | England  | Valcarticr. | . Sept. 29 |
+| 10 | 818 | 284 | 3707 | 326 |  | , Gnanon, Lewis Albert  | Nil _  | Gagnon, Herbert  | Now Mills. N.B  | Canada  | Valcarticr. | . Sept. 23 |
+| 10 | 731 | 315 | 3706 | 358 | 227'iV.i'rivatc  | . j Gallagher, Bernard  | Durham Light Infantry.. | Gallagher, Mra. Mary  | Jarrow-ott-Tyno, Co. Durham,_ Eng  | England  | Valcarticr. | . Sept. 2S |
+| 10 | 731 | 346 | 3707 | 387 | 22!)nflj Private  | . j Gallagher, John  | Nil..  | Gallagher, Nellie  | 75 Endbornc Road, Alntree, Liverpool, Eng  | England  | Valcartier. | .[Sept. 26 |
+| 10 | 731 | 375 | 3706 | 419 | 23!It.'-: Private..  | • j Gallon, John   | [British Army  | “Mother".....  | 95 China Street, Liverpool, Eng    | England...... | Valcarticr. | . [Sept. 28 |
+| 10 | 729 | 404 | 3704 | 440 | 23524 Private  | . I Galloway, Fred   | Territorials  | Kelly, Clara  | Loggievilte. N.B  | South Wales.. | Valcarticr. | .[Sept, 23 |
+| 10 | 728 | 437 | 3705 | 478 | 23388 Private  | .[Garamor, Abraham.  | Royal Engineers  | Gammer, Mrs. C  | 289 Broad St., Mile. End, Glasgow, Scot  | Scotland  | Valcarticr. | . 'Sept. 22 |
+| 10 | 728 | 464 | 3704 | 497 | 23001 Private  | .'Gammon, Lee...,  | Nil  | Gammon, Allan  | Wheaton Settlements, N.B  | Canada  | Valcarticr. | . Sept. 23 |
+| 10 | 726 | 493 | 3705 | 533 | 22744 Private  | .[Gunter, Hubert Saa  | Nil  | jGantor, Mrs. William  | 74 Chapel St., St. John, N.B    | Canada  | Valcartier. | .‘Sept. 29 |
+| 10 | 727 | 525 | 3705 | 567 | 22745j Private  | . j Gardner, Charles A  | Nil  | Gardner, Mrs. A  | Swan St., Boxford, Suffolk, Eng  | England  | Valcarticr. | .'Sept. 29 |
+| 10 | 726 | 553 | 3705 | 590 | 23002] Private  | JGarenu, Raoul  | Nil :. | Gareau, Edward  | S3 Main St., Malone, N.Y., U.S.A  | Canada iValcartier. |  | .[Sept. 26 |
+| 10 | 725 | 584 | 3704 | 618 | 23270!Privatc  | • Gaskins, Walter H  | 53rd Regt  | Gaskins, Mrs. S  | 59 Arden St., Earlsdon, Coventry, Eng  | England  | Valcarticr. | .[Sept. 26 |
+| 10 | 725 | 616 | 3703 | 647 | 23389iPrivate.   | . Gateby, Frances Joseph.., | Nil  | Gateby, Francis Joseph  | 112 Villa Street, Birmingham, Eng  | England  | Valcarticr. | .■Sept. 23 |
+| 10 | 725 | 643 | 3704 | 683 | 23530 Private  | . jGaudet, Francis  | :22nd Regt-  | “Mother”  | Miscouehe, P.E.I  | [Canada  | Valcarticr. | . !Sept. 28 |
+| 10 | 724 | 672 | 3703 | 716 | 23657 Private  | .(Gauthier, Arthur  | 85th Regt  | Marcotte, Mrs  | 527 Dorion St. Montreal, P.Q  | j Canada  | Valcartier. | /Sept. 23 |
+| 10 | 724 | 705 | 3704 | 738 | 2325c.Sergt. M. G.... | Gauvroau, Loo  | 8th Regt . .  | Gauvreati, Margaret M  | 29 Lachevrotiere St., Quebec, P.Q  | Canada  | Valcarticr. | .(Sept. 28 |
+| 10 | 723 | 731 | 3704 | 766 | 23140rPrivate  | Gonest, Odilion  | Nil  | Gcnest, Mrs.  | 65 Chambly St., Montreal, P.Q  | Canada  | Valcarticr, | . Sept. 29 |
+| 10 | 722 | 765 | 3705 | 796 | 22S68;Private  | Genois, Alexander  | Sth Regt  | Genois, Alma  | 151 Kirouac St., Quebec, P.Q  | ; Canada  | Valcarticr. | . [Sept. 28 |
+| 10 | 723 | 789 | 3704 | 831 | 22825jLancc-Corporal. | Gibaut, Alfred  | 8 th Regt   :  | Gibaut, Alice  | 83 La Chevrotiere St., Quobee, P.Q  | I Canada  | Valcartier. | .[Sept. 29 |
+| 10 | 722 | 819 | 3705 | 855 | 22701[ 1 .ance-Corporal. | Gibbs, Edward Percy  | North Staffs  | Gibbs, Mrs. H  | 49 Emu ltd., Battersea, S.W., London, Eng  | England  | Valcartier. | .ISept. 28 |
+| 10 | 722 | 852 | 3705 | 884 | 23141 (Private  | Gigucre, Arthur  | 54th Regt  | Gigucre, Ferdinand  | Sherbrooke, P.Q  | Canada  | Valcarticr. | .ISept. 23 |
+| 10 | 720 | 876 | 3707 | 912 | 73522 Private  | Gilbert, Grantlcv  | 74th Sussex Regt  | Gilbert Lilian Miss  | St.Johns, N.B  | ; England  | Valcarticr. | .[Sept. 26 |
+| 10 | 720 | 907 | 3706 | 941 | 22742 Private  | GUI, John W  | 62nd Fusiliers  | Gill, Mrs. Albert  | Constcnt Estate, Kingstown, St. Vincent, B.W.I  | B.W.I  | Valcartier. | . Sept. 28 |
+| 10 | 720 | 936 | 3706 | 972 | 23142;Privnte  | Gillis, Harold  | 36th P. E. I. Regt  | Gillis, John J. Mrs  | Summerside, P.E.I  | ! Canada  | Valcarticr. | .(Sept. 23 |
+| 10 | 720 | 967 | 3390 | 1006 | 22947ISan.-Scrgeant... | Giltinan, Joseph  |  | d | Particulars will be furnis | when available  | j  |
+| 10 | 719 | 997 | 3707 | 1029 | 22871 Private  | Glass, Kenneth  | Q. O. R  | Glass, Margaret  |  | (Canada....... | Valcarticr. | 32 Grand A116e, Quebec, P.Q     | . ;Sopt. 29 |
+| 10 | 719 | 1022 | 3707 | 1059 | 23660'PrivatO  | Gliddon, George    | Nil   | Gliddon, Ernest  |  | 1 England  | Valcarticr. | 15 C6te St., Quebec Road, Montreal, P.Q  | . (Sept. 23 |
+| 10 | 720 | 1058 | 2329 | 1086 | 23531; Private  | Godsoe, Stanley  | Particulars will be furnished | when available  |
+| 10 | 720 | 1080 | 3707 | 1117 | 23050; Private  | Golding, George  | 85th Regt  | Golding R. J  |  | ; Knglnncl  | Valcarticr. | 50 School Road, Tylehurst, near Reading, Berks, En; | -.[Sept. 23 |
+| 10 | 720 | 1112 | 3708 | 1146 | 23658: Private  | Golding, Harry  | Fusiliers  | Golding, Mary Mrs  |  | I England  | Valcarticr. | 370 7th Avenue, Rosemount, Montreal, I’.Q  | . Sept. 23 |
+| 10 | 719 | 1140 | 3707 | 1176 | 23390 Private  | Goodail, Harry Hornsby.. | Nil  | Goodail, Mrs. A. H  |  | ; England  | V al car tier. | 18 Gcdling Grove, Nottingham, Eng  | . Sept. 27 |
+| 10 | 719 | 1174 | 3707 | 1204 | 22730: Private  | Gorman, Louis W   | 62nd Fusiliers  | Gorman, Mrs. James  |  | Canada  | Valcartier. | 80 Broad St., St. John, N.B  | . Scot. 28 |
+| 10 | 719 | 1203 | 3708 | 1234 | 23000, Private  | Gosselin, Peter Albcrni.... | Nil  | Gosselin, Alfred..;  |  | Canada  | Valcarticr. | River Blanc, Co. Matane, P.Q  | . Scot. 26 |
+| 10 | 718 | 1227 | 3708 | 1262 | 22509. Private  | Gough, Percy J  | Nil  | Gough, Mrs. James  |  | Canada  | Valcarticr. | Fredcricton, N.B  | . Sept. 24 |
+| 10 | 718 | 1257 | 3708 | 1292 | 22570 Private  | Graham, Kverott  | 73rd Regt  | Graham, Mrs. Everett  |  | Canada  | Valcarticr. | Harcourt, Kent Co., N.B  | . Sept. 23 |
+| 10 | 718 | 1288 | 3709 | 1322 | 22737! Private  | Graham, James Knox  | Nil  | Graham, 1!  |  | Scotland  | Valcartier. | 110 Sliakespear St., Glasgow, Soot  | . Aug. 28 |
+| 10 | 717 | 1319 | 3709 | 1351 | 22738 Private  | Graham, John W   | 5th Regt  | Graham, Mr. John  |  | England  | Valcarticr. | 24 South End, Wigton, Cumberland, Eng  | . Sept. 28 |
+| 10 | 717 | 1347 | 3709 | 1381 | 22S69I Private  | Grant, Benj. Disraeli  | 8th Regt  | Grant, Sophia  |  | Ireland  | Valcarticr. | 43 Grande AIKje, Quebec, P.Q  | . Sept. 29 |
+| 10 | 717 | 1378 | 3710 | 1409 | 232711 Private  | Grant, George 13  | 7th Hussars  | Grant, Miss A  |  | Scotland  | Valcarticr. | Bishop’s Crossing, P.Q  | . Sept. 23 |
+| 10 | 717 | 1407 | 3711 | 1438 | 23209 Private  | Gray, Arthur Frank  | 53rd Regt  | Gray, Mrs. W  |  | England  | Valcarticr. | Scmhill, Scmley, Dorset, Eng  | . Sept. 26 |
+| 10 | 716 | 1435 | 3711 | 1467 | 23528 .Private  | Gray, Cheslcy  | Nil   | Gray, Quoenie Mrs  |  | Canada  | Valcartier. | ‘Mill Bank, N.B  | JScpt. 25 |
+| 10 | 717 | 1465 | 3712 | 1497 | 22710 Private  | Gray, Prank  | Nil   | Kcirst'- id, Miss Bertha... . |  | Scotland  | Valcnrticr. | .Snider Mountain, Kings County, N.B  | . ;Sept. 26 |
+| 10 | 717 | 1489 | 3711 | 1533 | 22571' Private  | Grearson, Henry 1  | Nil  | I Douglas, Mrs. John  |  | Canada  | Valcarticr. | j Wilton Grove. St. John, N.B  | . [Sept. 23 |
+| 10 | 715 | 1520 | 3711 | 1557 | 22741] Private  | Greer, Byron  | Nil    | Greer, Mrs. Minnie  |  | Canada  | Valcart t<;r. | 1.7-0 George Waller, ITr.mpl.on, King’s Co., N.B  | .[Sept, 2S |
+| 10 | 717 | 1551 | 3711 | 1612 | 23146; Private  | ]Gr6goirc, S..   | 5Gth Batt  | Grtgoirc, Etienne:  |  | | Canada  | Valcarticr. | jThetford Mines, Megantic Co., l’.Q  | .[Sept. 28 |
+| 10 | 715 | 1583 | 2330 | 1615 | 22919 Privato  | [Grenier, Henri  | Particulars will bo furnished | when available  |
+| 10 | 715 | 1599 | 3711 | 1647 | 231-13'Private  | iGroor, John  | 55 th Regt  | Greer, C  |  | [Scotland  | Valcarticr. | (New Orbiston, Lanirk-'hirc, Scot  | [iSepV. 29 |
+| 10 | 715 | 1638 | 3711 | 1676 | 22572, Private  | iGrifTin, Harry  | Nil  | Griffin, Mrs. L   |  | : England  | Valearf i«xr. | 16 Great Place, Blnckheath, Kent, Eng  | . I Sept. 23 |
+| 10 | 715 | 1666 | 3712 | 1704 | 236l2Scrgcant  | (Griffith, John Jacob  | 85th Regt  | Griffith, A. Arthur  |  | 'Canada  | Valcartier. | [l70 Lagauehctifire West, Montreal, P.Q  | .[Sept. 25 |
+| 10 | 715 | 1698 | 3712 | 1737 | 23 W Privato  | (Griffiths, Richard Alfred. | 54th Dorset Regt  | Griffiths, G. P  |  | | England  | Valcarticr. | 8 Burnberry ltd., Balaam, S.W. London, Eng  | . ISepI. 22 |
+| 10 | 714 | 1724 | 3712 | 1764 | 22698! Corporal  | 'Griggs, Douglas V  | 5th Buff's   | (Griggs, Mrs. Elizabeth A. |  | • England  | Vale artier. | [High St., Cranbrook, Kent Co., Eng  | , -Sept.. 2$ |
+| 10 | 716 | 1754 | 3713 | 1793 | 23523. Private  | (Grimes, Wm. George  | 74th Sussex Regt  | Grimes, John  |  | ! ICngland  | Valcarticr. | [Mnrston Green, nr. Birmingham, Eng  | .‘Sept. 25 |
+| 10 | 714 | 1784 | 3712 | 1819 | 22573; Private  | [Grindlay, Walter  | Nil  | MeLellon, Mrs  |  | England  | > Vnlcarlier. | 62 Doncaster St., Glasgow, Scot.    | .[Sept. 23 |
+| 10 | 716 | 1813 | 3712 | 1851 | 22821 Col .-Sergeant... | [Gudgeon, Stephen Kd  | Q. O. R  | Gudgeon, Catherine  |  | j England  | i Valcart ier. | •14 Highbury Grove, London N., Eng  | . Sept. 20 |
+| 10 | 715 | 1840 | 3712 | 1882 | 23527 Private  | j Guidry, Odon  | 73rd Regt  | Guidry, Cccile  |  | ’(’anada  | ! Valcarticr. | Campbellton, N.B.    | .'Sept. 23 |
+| 10 | 714 | 1871 | 3712 | 1909 | 23350:1 .nncr-Scrgennt. | ;Gtiiile, Krnost Kdwd   | Sth M. It  | Guille, Harold  |  | I England  | iValcartier. | Granito Siding, B.C  | . Srpt. 22 |
+| 10 | 714 | 1903 | 3712 | 1936 | 23520 Privato    | 'Guimond, Ernest  | Nil  | Guimond, Louse Mrs  |  | Canada  | iValcartier. | (.Vmpbollton, N.B  | . Sept. 23 |
+| 11 | 699 | 891 | 3753 | 934 | Uog. | Name, Surname1 (ir,t. |  |  |  | Country | Taken ox Stkexcth |
+| 11 | 1617 | 918 | 3344 | 949 |  |  |  | Name of Next of Ivin. |  | of |
+| 11 | 1498 | 1084 | 3749 | 1133 |  |  | Sth Uegt  | . Cunnip, Margaret....... |  | Canada  | ">50 Champlain St.. Quebec, P.Q. | . Valcartier | .!.Sept. 20 |
+| 11 | 1498 | 1126 | 3748 | 1163 |  |  | 73rd Regt  | . llae.quoil, Mrs. Eliza  |  | England | I^coville, St. Owens, Jersey, Eng.. | . Valcartier. | .[Sept. 23 |
+| 11 | 1503 | 1153 | 3747 | 1198 |  |  | Nil  | . (Haines, Mrs. J. I,  |  | C'anada  | |30 Autumn St., Si. John, N.B  | . IValcartier. | .[Sept. 2N |
+| 11 | 1502 | 1187 | 3746 | 1222 |  |  | Nil  | .; llaines, Catharine  | 12 Morrison Bldgs., Commercial Koud, London, Eng.lOngland. |  | . Valcartier. | .-Sept. 2> |
+| 11 | 1501 | 1216 | 3747 | 1253 |  |  | I a.p. «fc Can. Perm. Forces... | .Nil  | : N il England.. |  | . ‘Valcarticr | .|Sept. 20 |
+| 11 | 1490 | 1247 | 3746 | 1281 |  |  | | Kootenay Uiflos  | . Hall, Elizabeth  | Tilmanstone, Kent, Eng... 'England.. |  | . Valcarticr | Sent. 22 |
+| 11 | 1491 | 1277 | 3746 | 1311 |  |  | l53rd Uegt  | . Hall, Mrs. W..  | 10 Stanley Ave., Sherbrooke, P.Q !Scotland. |  | . Valcartier | .Sept. 2") |
+| 11 | 1500 | 1309 | 3746 | 1342 |  |  | 1st liatt. Scots Guards  | . Hall, Fred,  | Parkgate, Yorkshire, Eug   ‘England.. |  | Valcarticr. | Sept. 20 |
+| 11 | 711 | 1328 | 3744 | 1370 | 2257-1 Privnlc  | . (Hallett, Arden Hoy  | Nil  | . Hallett, Josiah  | Millville, York Co., N.B   ?Canada... |  | . Valcart ie | . Sept. 23 |
+| 11 | 711 | 1359 | 3743 | 1406 | 22575 Privato  | llailc.-lt, Ureoly liudd  | 71st Uegt  | , 'Hallett, Josiah  | Millville, N.B  Canada... |  | . Valcartier. | • (Sept. 23 |
+| 11 | 711 | 1390 | 3743 | 1431 | 2287.1 Private  | .: liaUiitai), Jus. Chris  | Sth ltegt      | . Mulligan, Margaret  | 18 Plessis St., Quebec, P.Q Canada... |  | .' Valcarticr. | .'Sept. 20 |
+| 11 | 712 | 1421 | 3742 | 1460 | 23272 Private  | (Hamilton, James 11  | [Stanslead Dragoons  .... | : Hamilton,Mrs. H, D.. .. | Dixville, P.Q Canada... |  | . Valcarticr. | .jScpt. 20 |
+| 11 | 712 | 1451 | 3742 | 1492 | 231-I5 Privato  | . 11 anion, 1 Jennis I '.  | (Nil  | . Hanlon, Mrs. John  | Reading St., Fairville, St.John, N.B .Canada... |  | . |Valcartier. | . Sept. 23 |
+| 11 | 711 | 1482 | 3741 | 1519 | 22752 Private  | . j 11 anion, I iarry  | (Nil  | . Hanlon, Mrs. Henry  | Alma, Albert Co., N.B Canada... |  | . (Valcarticr. | . Sept. 30 |
+| 11 | 712 | 1512 | 3741 | 1549 | 220G7 Private  | . (Hanlon, Walter  | (7.1st l tegt  | .’Hunter, Miss M. A  | 1121 Regent St., Fredcricton, N.B  U.S.A  |  | . IValcartier. | . Sept. 20 |
+| 11 | 712 | 1541 | 3738 | 1578 | 22570|Privatc  | (Hanson, Earle  | [87th Uegt  | . Hanson, Beatrice  | ‘ Aroostook, Junct., N.B  -Canada... |  | .! Valcart ier. | . 'Sept. 24 |
+| 11 | 712 | 1571 | 3736 | 1609 | 22577 Private  | (Hanson, HodlcyC...  | 71st Uegt  | . Hanson, Mr. Alfred  | jBurlta Corner, York Co., N.li  < 'anada... |  | .Valcartier. | . Sept. 21 |
+| 11 | 713 | 1597 | 3738 | 1643 | 2287i| Private  | (Hanson, John  | H. C. It    | . Hanson, Mary  | |89 Shefiieid St., St. John, N.B C anada... |  | . ‘Valcartier. | . ISept. 20 |
+| 11 | 713 | 1634 | 2304 | 1665 | 22078! Private  | . Hanson, Lawson  | Particulars will be furnished | wbcn available  |
+| 11 | 714 | 1656 | 3738 | 1705 | 23UU7 [Private  | .Harper, Archie A  | Nil  | Harper, James  | jiiheiiii’fefordV N.B.’anada. V. |  | . iValcartier. | . Sept. 20 |
+| 11 | 713 | 1693 | 3737 | 1726 | 23005 Private  | . Harris, William  | O. M. Police  | lloare, Elizabeth  | 1-1 Ifnrdley St., Bootle Lanes, Eng  England.. |  | . I Valcari ier. | . Sept. 20 |
+| 11 | 714 | 1720 | 3736 | 1760 | 232v’!i [Private  | .(Harris, William Augustus  | Nil  | Harry, Mrs. William  | (1162 Luton ltd., Chatham. Eng :  England.. |  | . IValcartier | . ISept. 25 |
+| 11 | 715 | 1751 | 3736 | 1788 | 23218; Private  | II.iverson, Arthur Elijah  | Hoyai Arty. (Imp.) K.C.tt..., | Haverson, Mary J. Mi's. | 07 Kichclieu St., Quebec, P.Q   India  |  | . Valcarticr. | Sept. 20 |
+| 11 | 715 | 1781 | 3734 | 1817 | 2327-1 i Private  | . [ Harrison, < 'ameton  | 53rd llegt  | Harrison, Mrs. L. J  | jlOG Prospect St., Sherbrooke, p.Q Canada .. |  | . Valcarticr. | . Sept. 23 |
+| 11 | 715 | 1811 | 3733 | 1845 | 23308; Private  | , Harrison, John lienry  | Nil  | Harrison, Ada Mrs...... | 3 Northumberland Street, Nottingham, Eng  England.. |  | . Valcarticr | . Sept. 22 |
+| 11 | 715 | 1837 | 3732 | 1876 | 23093 fwc-Curpoi | j Hart, Henry 1)  | Kith Scottish Light Drags — | llart, H. B  | i2-S Kingywood ltd., Wimbledon, Surrey, Eng  England.. |  | .IValcartier. | ..Sept. 23 |
+| 11 | 716 | 1868 | 3733 | 1908 | 22820; Sergeant  | ..Hawkins, Stanley JI  | Nil  | Hawkins, Mary  | Pasqua. Sank    lOngland.. |  | , Valcartier. | . Sept. 20 |
+| 11 | 716 | 1896 | 3732 | 1934 | 23530 Private  | . Heard, Alfred  | Nil    | Heard, Mrs. U.     | I OH ('arter Si., Walworth ltd., London, Eng England.. |  | .(Valcartier | I Sept. 20 |
+| 11 | 716 | 1925 | 3731 | 1965 | 23003 Private  | . lleason, Joseph   | Nil  | Heasoti, Mrs. Marie  | *i Kiehmond St., Cross Lane, Salford, Manchester, Eng England.. |  | ,j Valcartier. | Sept. 23 |
+| 11 | 717 | 1957 | 3731 | 1995 | 231-18 .Private  | . IK-bert, IJeetor A  | 51th ltegt  | Ilf'bert, Mrs. T. A  | Box 73, Granby, P.Q  Canada... |  | Valcartier. | .iSept. 28 |
+| 11 | 717 | 1987 | 3731 | 2026 | 23140-Private  | . Hedlund, lidding  | Swedish Army  | tlcdluud, Henry  | Stockholm, Sweden Sweden... |  | iValcartier. | . Sept. 23 |
+| 11 | 717 | 2016 | 3730 | 2057 | 23150; Private  | . j Henderson, A. Cecil....  | 82nd liatt  | Henderson, Harry,  | Union Hoad, P.E.I..    Canada... |  | Valcartier. | . Sept. 23 |
+| 11 | 718 | 2046 | 3729 | 2086 | 23270; Private  | . Henry ,Joseph  | Nil   | Ujrdsell, Herbert  | Bishops College, Lcnnoxville, P.Q  England.. |  | j Valcartier. | Sept. 23 |
+| 11 | 717 | 2076 | 3729 | 2122 | 22875j Private  | .jllonshnll, llurry  | Cadet    | Henshall, Mary  | 21 Ita!ci;<h St., Stretford, Manchester, Eng    lOngland.. |  | j Valcartier. | Sept. 20 |
+| 11 | 1958 | 2104 | 3727 | 2139 |  |  |  | Heppull, Mru  | 33 Sherburne Terrace, Consott, Durham Co., Eng England.. |  | Valcartier. | Sept. 27 |
+| 11 | 717 | 2114 | 1938 | 2149 | 23302 Private  | . | Heppell, Ivor Win  | T. V. I. S. A  |
+| 11 | 717 | 2133 | 3729 | 2175 | 2300S Private  | . i 1 lowion, James Nevun  | Nil  | Ilewton, James  | Satslt au Keeollot, Montreal, P.Q   [Canada.... |  | IValcartier. | Sept. 20 |
+| 11 | 1957 | 2162 | 3726 | 2199 |  |  |  | Hieks, Arthur Joseph.. | :: Hill, ltd. 8t. Goorge, Briatol, Rug  England.. |  | Valcartier. | Sept. 22 |
+| 11 | 718 | 2174 | 1937 | 2207 | 23300 Private  | . t Hicks, Francis James  | U. G. A  |
+| 11 | 1958 | 2190 | 3727 | 2225 |  |  |  | IJildcbcrt, Arme  | WaMiiioH, Bflj^ufue     Belgium.,, |  | j Valcartier. | Sept. 23 |
+| 11 | 718 | 2204 | 1936 | 2234 | 23301 Private  | . i llildcbert, Leon    | Nil  |
+| 11 | 718 | 2221 | 3725 | 2264 | 23100 Private  | Hilt, llaiold Ernest Ostler... . | tth Devon. I1’- E  | Hill, William H. 1)  | \shcombe House, Sidmouth, Devon, Eng  England... |  | Valcartier. | Sept. 22 |
+| 11 | 1499 | 2251 | 3725 | 2288 |  |  | 3rd Kings L. ltegt  | Ashwilh, Mrs. J  | 21 Victoria St., Cloughfold, Manchester, Eng  England... |  | ■Valcartier. | Sept. 28 |
+| 11 | 717 | 2280 | 3725 | 2331 | 22876 Private  | (11:11, James.        | 8th ltegt    | Hill, Margaret  | 1)8 St. Gabriel, Si. Qucbcc P.Q   ICngland,.. |  | Valcarticr,. | •Sept, 20 |
+| 11 | 718 | 2311 | 3724 | 2357 | 22582 I anee-Corpoi | il ; 1 Etchings, William  | Nil    | 11 itehings, Elizabeth.... | St. Stephen, N.B.      * ,Canada. |  | Valcartier.. | ISept. 23 |
+| 11 | 718 | 2344 | 3366 | 2384 | 23000 Private  | . fllixoii, James Joseph  | Nil  | Not 8Utled  | Not stated     J  |
+| 11 | 717 | 2376 | 3205 | 2424 | 225.S0 Private  | .(Hodges, Arthur J  | Nil,,.    | Hodges, Mrs. Ada  | 112 Campbell Bldgs., Westminster Bridge ltd., London,! |
+| 11 | 2435 | 2401 | 3723 | 2442 |  |  |  |  | Eng j England... |  | Valcartier. | Sept. 23 |
+| 11 | 1500 | 2433 | 3364 | 2469 |  |  | 53|-d llegt  | IlotTondcn, Cliurles  | New Midden, Surrey, Eng   jlOngland... |
+| 11 | 1505 | 2456 | 3722 | 2496 |  |  | It. M. It  | 1 lolland, Sarah Mrs  | •10 Botolph St., Norwich. Eng         lOngland... |  | Videal t icr. | Sept. 22 |
+| 11 | 717 | 2477 | 3724 | 2526 | 233 ISSorgoi'nt.,.. | 11 lollainl, Joseph  | 53rd llegt  | 1 hillings, M i s. I 'm mu... | U Stephenson How, Leeds, Eng    lOngland... |  | Valcartier. | Sept. 2$ |
+| 12 | 665 | 154 | 3643 | 186 | 23397 Privato  | . I Holmes, Harry    | Nil.  |  [Holmes, T. W  | East Trington, Brough East Yorks, Eng I England.. |  | ,. fValcartier. | . Sept. 22 |
+| 12 | 665 | 179 | 3643 | 217 | 22581 Private  | . iHomewood, John  | 67th Regt... i  |  J Homewood, John  | (51 Tanner St., Bermondsey, London, S. E. Eng lEnglnnd.. |  | ,. Valcartier. | . iSept. 23 |
+| 12 | 665 | 212 | 3643 | 249 | 2339S Private  | .iHope, Pat. Douglas  | Med. Staff Corps  | .... ] Hope, Lidy Mrs  | ■ Marysville, 3. C     :Ireland... |  | ,. Valcarticr. | . Sept.. IS |
+| 12 | 665 | 239 | 3644 | 281 | 22750 Private  | . illopey, Edmund E  | Sth Regt    |  j Hopcy, Cieorge. A  | J25 Ashmoat Street, Dorchester .Mass., U.S.A. iU-S.A  |  | . .iValcartier. | . Sept. 20 |
+| 12 | 666 | 271 | 3643 | 311 | 233P1 Private  | .: Moran, George  | 5th Loyal North Lancs  | . Uornft, Thomas  | [Janitor, Public School, Nelson, B. C ‘England.. |  | .[Valcarticr. | . Sept. 22 |
+| 12 | 665 | 302 | 3644 | 344 | 2267S Private  | , • Horncastlo, J. Roy  | Nil   |  jHoriicastle, Mrs. John. | j Fredericton, N. B |Canada.., |  | .iValcartier. | . Sept. 2fj |
+| 12 | 665 | 330 | 3642 | 373 | 22740 Privnte  | . j Horner, Joseph  | Nil,  | .... I Horner, Mr  | |3t Palace Gates Road, Wood Green, London. N. Eng..-England.. |  | . (Valcarticr. | . (Sept. 28 |
+| 12 | 664 | 363 | 3643 | 401 | 22975 A.-Corporal... | .1 Ilorsefield, Alan G  | Legion of Frontiersmen  | ... Hors field, Sarah Mrs.., | Meanwood, Leeds, Yorkshire, Eng j England.. |  | .iValcartier. | .;Sept. 26 |
+| 12 | 663 | 392 | 3641 | 426 | 22800, Private  | . Horton, Wm. Atward  | 83rd Uegt  | ... Horton, Mary  | Shawenegan Falls, P. Q   [England.. |  | .Valcarticr. | . |Sept. 20 |
+| 12 | 663 | 424 | 3125 | 457 | 23275 Private  | . Horwood, Alfred    | ft. C. R  | ...;Horwood, Mrs. II  | Symiga Cottage, Spenser Wood, near Reading Berks,j |
+| 12 | 2356 | 450 | 3641 | 484 |  |  |  |  | Eng    England.. |  | . j Valcarticr. | . Sept. 25 |
+| 12 | 661 | 478 | 3641 | 523 | 22655>Privnte  | . ;Ho\fe, John  | Nil  jHowc, Mrs. Bertha.... |  | St. Marys, N. B Canada... |  | j Valcartier. | .[Sept. 2f> |
+| 12 | 661 | 509 | 3641 | 548 | 22747; Lance-Corporal. | J Howard, Alfred  | 2nd V. B. Sherwood Foresters.;Howard, Mrs. Lilly.... |  | JO Off Hasland Road, Chesterfield, Derbyshire, Eng..(Canada... |  | . iValcartier. | .[Sept. 20 |
+| 12 | 661 | 538 | 3639 | 577 | 2.'!.!fi2: Privato  | . j Howard, Dennis B   | O. T. C |Howard, Mrs  |  | c/o. Bank of Montreal, Spokane .Washington, U.S.A...: Roorbce.. |  | . 1 Valcarticr. | . Sept. 27 |
+| 12 | 660 | 568 | 3640 | 611 | 23278|Private  | .; Huddt Leslie C  | 53rd Rc^t  . I Reynolds, Mrs. F  |  | ;27 Ridgw'ay Road, Fishponds, Bristol, Eng {England.. |  | . Valcarticr. | . Sept. 25 |
+| 12 | 659 | 590 | 3640 | 644 | 23529 Private  | jllughes, Harry   | Inniskilhng Dragoons [Hughes, Mra. E  |  | 137 Raby Street, Mo.-.s Lane, E. Manchester, Eng  England.. |  | . Valcarticr. | . jScpt. 18 |
+| 12 | 660 | 623 | 3639 | 666 | 22877 Lancc-Oorporal. | Hughes, William *Jno  | Sth Regt.......   f Hughes, Mary  |  | Riviere du Loup, P. O., P.Q.   Canada... |  | . | Valcartier. | . iSept. 28 |
+| 12 | 659 | 656 | 3640 | 697 | 23401 Private  | Illume, Henry Titos...,  | Nil.   ‘Hume, J   |  | c/o. D. Hendry, Grande Prairie, Alta...  Canada... |  | . Valcartier. | . Sopt. 18 |
+| 12 | 659 | 686 | 3640 | 729 | 23280 Private  | ] Humphrey:*, Ernest   | 53rd Regt .Humphrey’s, I'M  |  | Napton Road, Southam, Warwickshire, Eng  England.. |  | . Valcartier. | . Sept. 25 |
+| 12 | 659 | 714 | 3364 | 754 | 2338! Pvivat e  | Humphrey, Harry  | 4th Regt Humphrey, John  |  | 10 Obbs Cottages, Tandiidge Lane, South Godstone, |  | i r |
+| 12 | 2339 | 744 | 3639 | 781 |  |  |  |  | , Surrey, .Eng   England.. |  | .jValcarticr. | . Sept. 18 |
+| 12 | 659 | 772 | 3639 | 811 | 22878 Private  | Hunt, Arthur John  | R. C. R    | Pearson, Eliza.  | Pearsonville, NB Canada... |  | . IValcartier. | Sept. 29 |
+| 12 | 657 | 803 | 3639 | 845 | 23004! Private  | Hunt, John Walter   | English Territorials  | Hunt, G. J ;  | 141 Princess Street. St. John, N. B   England.. |  | . IValcartier. | Sept. 23 |
+| 12 | 657 | 837 | 3113 | 872 | 225S3 Private  | Hunter, Robert   | 42nd Highlanders  | Hunter, Mrs. Bridget  | c/o. David Foster, Killeshandra, Darncross, Co. |
+| 12 | 2354 | 861 | 3640 | 895 |  |  |  |  | Cavan, Ire     (Scotland.. |  | .1 Valcarticr. | . Sept. 28 |
+| 12 | 657 | 890 | 3640 | 932 | 22748iPrivate.     | Hunter, Rufus ..... | 71st Regt  | Hunter, Mrs. Frank  | St. Stephen, N.B      j Cano da.. |  | .; Valcartier. | . Sept. 26 |
+| 12 | 657 | 920 | 3639 | 958 | 2o478lScrgeant  | Iluntingford, Ralph—  | 74th Regt  | Huntingford, Minn is Mrs..., | Sunny Brae, N. B   lOngland.. |  | .: Valcartier. | . (Sept. 23 |
+| 12 | 657 | 950 | 3639 | 984 | 23305 Private  | Hurrell, Edward  | 48th Batt  | Hurrell, Mrs. S  | Shield Row, Tantobie, Durham, Eng..     lOngland.. |  | . | Valcartier. | .rSept. IS |
+| 12 | 657 | 977 | 3639 | 1015 | 23346 Sergcnnt  | 1 hirst, Jaivies  | 2nd V. B. Manch. Regt  | Hurst, Margaret  | ; Redcliffc, Smithy Bridge. Rochdale, Lancashire, lOng. lOngland. |  | . j Valcartier. | , JScpt. 22 |
+| 12 | 656 | 1005 | 3640 | 1048 | 22879j Private  | Hustwick, William  | 1th Batt. Gordon High  | Hustwick, William  | •135 View Terrace*, Aberdeen. Scot     j Scot-1 and. |  | . i Valcarticr. | . iSept. 20 |
+| 12 | 656 | 1034 | 3638 | 1074 | WOOD? Private*  | Ironside, Wemyss  | Nil  | Ironside, James Symington. | •223 McGregor Ave., Sault Sic. Marie, Ont 'Canada... |  | . Vnlcarticr. | JScpt. 23 |
+| 12 | 655 | 1065 | 3268 | 1105 | 23531 Privato   | Irving, K  | | Nil .  | I Irving, U. P  | j Hichihucto, N. B    lOanada... |
+| 12 | 656 | 1094 | 3638 | 1138 | 228S2j Private  | Isaacs, Ernest  | |8th Regt  | Isaacs, William  | 23 William Street, Lisson Grove, London, Eng • lOngland.. |  | . Valcartier. | .(Sept. 20 |
+| 12 | 656 | 1127 | 3269 | 1169 | 230 lOj Privato  | Jackson, Reginald  | jSth Regt  | Jackson, Edwin  | |36 Garden, Qucbcc, P.Q [Canada... |
+| 12 | 655 | 1158 | 2277 | 1190 | 225S5} Private  | James, Thomas Wm  | jParticulars will be furnished | iwhen available  |
+| 12 | 655 | 1165 | 3639 | 1220 | 22S32JI .anee-Corpornl. | I James, Robert   | R. F. A  | James, Mary Alice  | ; 105 Champlain Street, Quebec, P.Q  |  j,... , England  | . Valcart ier. | ;)S0||V.'2S |
+| 12 | 654 | 1211 | 3640 | 1258 | 23.535! Privntc  | jJardine, John  | Nil  | ■ Jardino, Mrs. John  | *('hat ham, N.B    |  :C -anada  | . Valcartier. | . Sept . 26 |
+| 12 | 654 | 1240 | 3639 | 1276 | 22883 Private  | (Jefferson, Bertram D  | 17th I). V. It. C. 11  | Jefferson, I)r. ft.. P  | 176 H ox ton St., Ijondon, N. lOng  |  i lOngland  | . Valcnrlier. | .'Sept.. 20 |
+| 12 | 2976 | 1265 | 3639 | 1300 |  |  |  |  |  |  |( 'anada  | . (Valcartier. | .iSept. 23 |
+| 12 | 655 | 1274 | 2959 | 1308 | 23151‘Private  | •Jenkins, Louis L  | 82nd ltegt    .. | .Jenkins, Ernest  | . Pownall, Prince Edward Island     |
+| 12 | 654 | 1298 | 3639 | 1337 | 23011 .Private  | •Jenkins, William   | Must Surrey Uegt  | Jenkins, Helena  | 15 Artillery Street., Quebec P.Q  |  ! lOngland  | . V alrartier. | .(Sept. 23 |
+| 12 | 654 | 1328 | 3640 | 1372 | 23 tO:’’ Private., | jJenscn, A If. Christian Marinin? | ■:j Nil....... .'  | jJensen, N. P  | Burmcistergado 22nd Street, Copenhagen, C. | Denmark' Denmark — | . Valcartier. | . Sept. 28 |
+| 12 | 654 | 1357 | 3640 | 1394 | 2353*2! Private., | Jimuio, William  | ! Nil  | 'Jimmo, .Louis  | lOscuminac, N. B   |  .Canada  | . Valcartier. | Sept. 23 |
+| 12 | 654 | 1385 | 3640 | 1427 | 22753i Private. | ;John, C ’harles   | Nil  | ; Sonia, Elisabeth  | !Weymouth Bridge, N. S  |  U.S. A  | .Valcartier. | . Sept. 28 |
+| 12 | 654 | 1414 | 3640 | 1459 | 225861 Private. | Johnson, C -hnrles  | 71 si. Regt...  | j Pollock, Mrs. J. Sarah  | I Halifax, N. S.        |  !('anada  | Valcarticr. | . Sept. 23 |
+| 12 | 654 | 1444 | 3641 | 1486 | 2258? Privato.. | jJohnston, Krederick  | 71st. Regt  | Johnson, Mrs. James...... | 10 King Street, Mill 'Town, Maine, I .S.A — |  U.S. A  | . Valcartier. | f Sept. 23 |
+| 12 | 653 | 1464 | 3641 | 1512 | 22588| Private. | Johnston, Harry (»  | 07th C. L. F...   | Johnston, W illiam I1'  | Dubec Junction, N.B  |  ;('anada  | . (Valcartier, | . I Sept. 23 |
+| 12 | 653 | 1502 | 3641 | 1542 | 22580 | > Private  | Johnson, Martin S  | Mil :  | j Johnson, Thomas  | Bartibog Bridge, N.B  |  ,(’anada  | Valeartier. | .•Sept. 23 |
+| 12 | 653 | 1528 | 3641 | 1570 | 23152 | Private  | (.Johnston, Willinm  | Nil •  | i.Iohnston, Mary   | .25 Cumberland St.. Belfast., Ire  |  | Ireland  | . Vnlcarticr. | '•Sept. 23 |
+| 12 | 653 | 1557 | 3641 | 1606 | 23281 | Private  | jJolin. Abiml  | U. S. A. Cavalry  | lolin. George  | East Angus, P.Q  |  U. S. A  | . Valcarticr. | JScpl. 23 |
+| 12 | 653 | 1585 | 3642 | 1629 | 2275! | Lance-Sergeant. | j.Ionos, Idriss George  | Nil  | Hill, T  | jNcwcastlc, N.B     |  ; Wales  | . • Valcartier. | . |Sept. 28 |
+| 12 | 652 | 1618 | 3642 | 1660 | 23155 | Private  | j Jones, George  | Nil   | MacLaehlin, Marshall  | .Covered Bridge, Fredericton, N.B  |  (Canada  | . 'Valcarticr. | .iSept. 23 |
+| 12 | 652 | 1645 | 3643 | 1688 | 22590 | * Private  | [Jones, John J.     | Hat Regt  | Jones, Mrs. J. J  | ISt. John Street, Fredericton, N.B  |  'U.S. A  | . Valcartier. | jSe.pt. 26 |
+| 12 | 651 | 1676 | 3642 | 1717 | 227 | Private  | !Jones, Coo. Cameron  | Nil    | Jones, Mclbourn  | |Beulah, King’s Co., N.B  |  Canada  | .;Valcarticr. | . ISept. 28 |
+| 12 | 651 | 1699 | 3642 | 1751 | 23403) Private  | jJones, William Henry  | 2nd Glos. Terr. 24th Regt. | Jones, Emma  | : Hardwick House, Tewkesbury, Glouccstersh | ire, Eng..-England  | . ;Valcartier. | . j Sept. 18 |
+| 12 | 651 | 1736 | 2279 | 1777 | 225911 Private  | !Jones, Samuel  | Particulars will be furnished | when available  |
+| 12 | 650 | 1754 | 3644 | 1806 | 23230 j Lance-Corporal. | ’Jones, Wm. Sydney  | 53rd Regt  | Jones, Mrs. T  | . iSherbrooke, P.Q ^  |  Canaria  | . Valcartier. | ; Se'pL 25 |
+| 12 | 650 | 1792 | 3643 | 1840 | 233101 Sergeant  | [Jones, (’has. Percival  | ]2nd Middlesex G. A  | .|Jones, Mrs   | . >5 Southbridge Place, Croydon, Surrey, Eng |   England  | . Valcartier | . 'Sept. 27 |
+| 12 | 650 | 1820 | 3644 | 1854 | 230121 Private  |  |  |  |  |  Canada  | . Valcartier | . .jScpt. 26 |
+| 12 | 970 | 1832 | 2967 | 1863 |  | iJoule, John Trafford  | {Nil  | . Joule, Alfred James  | . Baynes Lake, B.C  |
+| 12 | 650 | 1851 | 3643 | 1899 | 236621Private .    | jJungblut, Ernest  | iNil  | . |Jungb!ut Michel  | . Grevcnmachcr, Luxembourg  |  j Luxembourg | .. Valcartier | , .‘Sept. 23 |
+| 12 | 649 | 1876 | 3644 | 1912 | 22851 Private...   |  |  |  |  |  ! Greece  | . Valearlior | .'Sept. 29 |
+| 12 | 982 | 1892 | 2967 | 1922 |  | Kaehafamas. James  | Nil  | .1 Kaehafamas, William  | . Sparta, Greece  |
+| 13 | 686 | 850 | 3382 | 898 | iU'g. | Rank. | Name, Surname first. |  | Name of Next of Kin. |  | of I |
+| 13 | 693 | 1038 | 2350 | 1073 | 220S0 | Privato  | Kavanagh, Alex  | Particulars will be furnished | when availuble  |
+| 13 | 692 | 1060 | 3681 | 1102 | 228S5 | Privato  | Keating, Daniel  | Sth ltegt  | Keating, Edmond  | ;14 St. Patrick Street, Quebec, P.Q  | Canada  | IValcartier. | 'Sept. 29 |
+| 13 | 693 | 1086 | 3681 | 1132 | 23151 | Private  | Keens, Austin  | Nil....   | | Keens, A. 15  | Moulin Beaupr6, Tcmiscouata Co., P.Q  | Canada  | IValcartier. | Sept. 23 |
+| 13 | 692 | 1118 | 3680 | 1159 | 225S2 | Private  | Kelly, Alan  | Nil...  | j Kelly, llavelock  | | Stanley  |  | IValcartier. | 'Sept. 20 |
+| 13 | 692 | 1148 | 3679 | 1189 | 22583 | Private  | Kelly, Janies 1)  | 71st Regt  | Kelly, Mrs. Bedford  | i Upper Kingsclear, York Co., N.B  | Canada  | IValcartier. | Sept. 2.i |
+| 13 | 692 | 1175 | 3680 | 1217 | 23081 | Col .-Sergeant... | Kelly, Edward I,  | Connaught Rangers  |  | Nil  | Ireland  | (Valcartier. | 'Sept. 29 |
+| 13 | 692 | 1207 | 3680 | 1247 | 23084 | Sergeant  | Kelly, Osborne Thomas  | 11. C. R  | Kelly, Reuben.,    | Kouehibouguae Beach, Kent Co., N.B  | | Canada  | Valcartier. | Sept. 20 |
+| 13 | 692 | 1235 | 3679 | 1276 | 22884 Sergeant... |  | Kelly, .lolm Dennison  | U. S. A. Army   | Provost, Emile  | i!ox 174 Joliette, P.Q  | 'South Wales. | Valcartier. | | Sept. 20 |
+| 13 | 691 | 1266 | 3679 | 1322 | 2201s | Sergeant. | Kelly, Thomas John  | 8 th Regt    | Kelly, Joseph  | 112 Saxony Road, Liverpool, Eng  | | England  | Valcartier. | Sept. 27 |
+| 13 | 691 | 1302 | 2348 | 1334 | 22750 | Corporal  | Kelly. Clarence K  | Particulars will be furnished | when available  |
+| 13 | 691 | 1325 | 3679 | 1363 | 23282 | Privato  | Kensit. Edward Albert  | 53rd Regt  | Kensit, Alice J  | Pioneer Telephone Co., Okmalgeo, Okla., U.S.A  | England  | Valcartier. | Sept. 25 |
+| 13 | 690 | 1353 | 3679 | 1392 | 23535 | Private  | . Kcoughan. James  | Nil  | Halt, Mrs. Agnes  | W'ater St., Chatham, N.B  | Canada  | Valcartier. | Sept. 23 |
+| 13 | 690 | 1390 | 2349 | 1421 | 22757 | Private. | Kerley, Peter  | Particulars will be furnished | when availabe  |
+| 13 | 690 | 1396 | 3679 | 1458 | 22962 | Lance-Corporal. | Ketteringhom, Edwin Albro. | 6th Norfolk Regt  | Ketteringham, Edwin Alboro | Wramplingham, Norfolk, Eng  | J England  | Valcartier. | Sept. 25 |
+| 13 | 690 | 1448 | 2349 | 1477 | 23732 Private  |  | Kettle, A  | Particulars will be furnished | when available    |
+| 13 | 690 | 1470 | 3680 | 1508 | 235: | Privato  | King, Bernard  | It. C. A  | King, Edward  | New Castle, N.B    | Canada  | Valcarticr. | Sept. 20 |
+| 13 | 689 | 1499 | 3678 | 1536 | 22584 | Privato  | King, James  | Nil  | N il  | Nil  | Scotland  | Valearlior. | Sept. 23 |
+| 13 | 689 | 1528 | 3678 | 1566 | 22685 | Private  | King, Lee  | 71st Regt  | Foulton, Mrs. J  | Fredcricton, N.B  | Canada  | Valcarticr. | Sept. 23 |
+| 13 | 689 | 1557 | 3679 | 1595 | 22001' | Private  | King, Robert  | 71st Regt   | McCIuy, Mrs. 1’  | Fredericton, N.B.      | Canada  | Valcartier. | Sept. 20 |
+| 13 | 689 | 1587 | 3679 | 1624 | 2353:. | Private  | Kinnear, William  | 74th Regt  | Kinnear, Arthur  | Sackville, N.B  | ('anada  | Valcarticr. | Sept. 25 |
+| 13 | 689 | 1615 | 3678 | 1653 | 23008 | Arm. Corporal. | Kipling, Harold,  | Nil  | Kipling, Mrs, John  | 15 Joachim St., Quebec, P.Q  | t 'anada  | Valcarticr. | Sept. 28 |
+| 13 | 688 | 1644 | 3678 | 1681 | 23101 | Private..   | Kirby, Howson  | Nil...  | Kirby, A  | Nelson, B.C      | F.nglnnd  | Valcartier. | Sept. 22 |
+| 13 | 688 | 1673 | 3679 | 1711 | 22C0S | Privato  | Kitchen, Ellwood  | 7lat ltegt  | Kitchen, Mrs. June  | Fredericton, N.B     | ('anada  | Valcarticr. | Sept. 20 |
+| 13 | 689 | 1703 | 3678 | 1740 | 2*283 | Private...  | Knapp, William II  | Nil    | Knapp, Mrs. A. H  | lJrompton, P.Q.   | Canada  | Valcarticr. | Sept. 23 |
+| 13 | 688 | 1732 | 3679 | 1769 | 22880 | Privato  | Knight, Charles  | Sth Regt     | Knight, Agnes.    | 20 Burton St., Limoilou, P.Q  | Canada  | Valcarticr. | Sept. 20 |
+| 13 | 688 | 1769 | 2348 | 1798 | 22887 | Privato  | Knight, Rupert.   | Particulars will be furnished | when available  |
+| 13 | 688 | 1778 | 3678 | 1829 | 225Uti | Privato.     | Knox, William         | Nil  | Knox, J      | 3 llarvey Terraco, Loehwinnoch, Scot   | Scotland  | Valcartier. | So'pV. 2:i |
+| 13 | 687 | 1823 | 3129 | 1858 | 23-105 | Private  | Krcmpcaux, Charles  | Nil...  | Krcmpcaux, Charlotte  | Birehbnnk, Christchurch Hoad, Hampstead, London |
+| 13 | 2423 | 1847 | 3679 | 1885 |  |  |  |  |  | Eng   | Kuglnnd  | Valcartier. | Sept. 1.8 |
+| 13 | 686 | 1877 | 3678 | 1915 | 23403 Private  |  | ICublor, Walter R  | If). T. C  | Kubler, S  | Rcdhill, Surrey, Eng..,',...   | England  | Valcartier. | Sept. 20 |
+| 13 | 686 | 1908 | 3677 | 1954 | 23287 Private..,. |  | LaberCe, Arthur O  | 120th ltegt  | |Labor6c, Mra, P. S  | Rock Island, P.Q  | Canada  | Valcartier. | Sept. 20 |
+| 13 | 3166 | 1937 | 3677 | 1965 |  |  |  |  |  |  | Canada  | Valcarticr. | Sept. 25 |
+| 13 | 686 | 1942 | 3048 | 1982 | 23284 Private.... |  | Labb£, Joseph  | INil...  | |Labb6, Tuncrfcde  | Thetford Mines, P.Q......'     |
+| 13 | 685 | 1966 | 3677 | 2004 | 22800 Privato  |  | LabW1, Michael Holland  | 8l.li ltegt.    | Lnhbt, Johanna  | Conroy St., Quebec, P.Q     | ( Simula. | Valcartier. | Sept. 29 |
+| 13 | 685 | 1996 | 3675 | 2035 | 234!!!) Lance-Corporal |  | .jLacharitf!, Morris  | 54tl. ltegt i  | Lae!iarit6, God6on.   | |Ball Street, Sherbrooke, P.Q      | Canada  | Valcarticr. | Sept. 27 |
+| 13 | 684 | 2025 | 3677 | 2062 | 23004 i’rivato  |  | . I Luc hat, Krnest  | 85th ltegt  | I.achat, Mhic. I   | :8 Hue Lcschat, Genoa, Switzerland   | Switzerland.. | Valcarticr. | Sept. 20 |
+| 13 | 683 | 2055 | 3676 | 2099 | 23150 Privato  |  | ,]Lncken, William Jos  | |17th ltuuHar*  | Laclten, Win,,.,   | 1003 Briand Chftteau, Montreal, I’.Q  | Canada  | Valcarticr. | Sept. 23 |
+| 13 | 684 | 2084 | 3677 | 2123 | 23157; PrivaU'  |  | , j Lacroix, Joseph,      | lltii ilussurH    | Lacroix, Mrs. J     | Danville, P.Q        | Canada  | Valcartier. | Sept. 25 |
+| 13 | 682 | 2113 | 3676 | 2151 | 230721 Private  |  | ,! Laguc6, Kuebne  | 01 l.ll Uegt '.  | Lagnc6, Mrs. W    | St. Sauveur du Quebec, P.Q    | Canada  | Valcartier. | Sept. 23 |
+| 13 | 682 | 2142 | 3677 | 2186 | 2301 !ij Private  |  | , jLnjoic, Alcido,  | Nil    | Lajoie, Marie Hose  | 1052 Bordeaux, Montreal, P.Q  | U. S. A  | Vnlcarticr. | Sept. 25 |
+| 13 | 682 | 2171 | 3675 | 2210 | 231581 Private  |  | . Laioio, O.      | Nil  | Lnjoic, Adolphc  | Roxton Pond, P.Q     | Canada  | Valcartier. | Sept. 23 |
+| 13 | 681 | 2200 | 3676 | 2241 | 23 i5y Private  |  | .iLalimc, Lou in <.ie G.,  | 84th Uegt  | Lalimc, B      | St. Hyacinthc, P.Q...          | Canada  | Vnlcarticr | iSept. 23 |
+| 13 | 680 | 2228 | 3676 | 2274 | 23073 Private  |  | .!L»mouroux, Henri  | U. S. A. Cavalry  | r«;noweux, Rev. P. !i. T  | Bedford, Mass., U.S.A  | Canada  | Valcarticr | I Sept. 23 |
+| 13 | 680 | 2265 | 3676 | 2307 | 22801] Privato  |  | .iLampIough, Sydney  | Nil.    | Lamplough, Mary  | Portnouf, P.Q  | Canada  | Valcartier | ;Svpt. 2,1 |
+| 13 | 679 | 2294 | 3677 | 2333 | 23205: Private  |  | . Langford, Elmer G  | 5th Co. A. S. C  | Langford, Airs. Wm  | Montmorency Falls, P.Q..  | Canada  | Valiartier | [Sept. 28 |
+| 13 | 679 | 2314 | 3677 | 2362 | 23401: Private  |  | .iLanghorno, Francis Uatold... | Bedford Terr. Engineers  | Langhorne, Harold S  | it. A. li. D. Crosvenor ltd., London S.W., Eng  | India  | Vidcjirtier | iSept. 18 |
+| 13 | 679 | 2352 | 3632 | 2396 | 225'.)'.ij Private  |  | . Langley, John LOdw      | K. C. R..  | Langley, Edward     | Wnrtory Lane, Birmingham, F.ng  | lOngland  | Valcarticr | Sept. |
+| 13 | 679 | 2377 | 3677 | 2419 | 230701 Privato  |  | . Lnnglois, (1 ration... | Nil.,  | LanglolH, J. O   | Amqul, P.Q    | t 'aiuula  | Valcartier | Sept. 23 |
+| 13 | 677 | 2415 | 2341 | 2446 | 23723|Piivate  |  | Langlois, Desire. | Particulars will be furnished | when available   |
+| 14 | 738 | 254 | 3717 | 377 | 23543 Private’.... | .iLangtou, Jerry  | I Nil....  | Lvigton, Mary  | ILoggievillc, N.B    |  ! Canada.. | Valcartier. | . ISept. 20 |
+| 14 | 739 | 284 | 3715 | 323 | Smi'Privatc.... | iLftngton, Edwin Ralph  | I’ith Uegt  | L-mgton, Martha  | Bcrgorville, P.Q     |  : Canada.. | Valcarticr. | .'Sent. 21* |
+| 14 | 739 | 314 | 3714 | 352 | 22337 jPrivato.... | .[Lapointe, C16ment  | 2nd Batt  | Lapointe, Mrs. Clement  | Manchester, New Haven, U.S.A.  |  I U.S. A... | Valcarticr. | .[Sept. 23 |
+| 14 | 739 | 348 | 3716 | 382 | 232S9; Private  | .ILavalite, Joseph  | ft. C. II  | Lavallce, Aloye  | Compton, P.Q  |  ICanada.. | Valcartier. | JSc,>t.. 25 |
+| 14 | 739 | 377 | 3714 | 415 | 2.'j0ti!i Private  | . Laverdifcre, Joseph  | Nil  | Laverdifcre, C     | j Hospice Gamclin. Montreal, P.Q  |  'Canada.. | Valcartier., | Sept- 27 |
+| 14 | 737 | 401 | 3714 | 447 | 23G0s!Privntc  | Laverdure, Ed wuril  | It.C.ll.I. & R.C.G.A  | Laverdure, E   | [Charlemagne, P.Q    |  j Canada.. | Valcarticr.. | Sept. 2;l |
+| 14 | 738 | 437 | 3715 | 477 | 23013: Private  | Lawlor, John Joseph  | Nil  | Lawlor, Henry....  | 17 Dciapcc Street, Outremoat, Montreal, P.Q... | ... [Canada.. | Valcartier. | Sept. 20 |
+| 14 | 737 | 465 | 3713 | 505 | 22598; Privntc  | . Lawrie, James G..   | Nil   | Lawrie, Mrs. Lottie  | Fredericton, N.B    |  ; Canada.. | Valcartier.. | Sept. 23 |
+| 14 | 736 | 496 | 3714 | 533 | 22/Gt Private  | . Lawson, Lowell. F  | Sth Hussars  | Lawson, Mr. R. E  | Fairville, St. John, l’.Q   |  [Canada.. | Valcartier. | . ISept. 20 |
+| 14 | 736 | 524 | 3715 | 566 | 23400 Private  | jLaycoek, Samuel  | Nil  | Laycook; Thomas   | -SO Chapel Street, Rawinarsh, Yorkshire, Eng.. |  England. | Valcartier. | JScpt. 18 |
+| 14 | 735 | 552 | 3713 | 596 | 232SS! Private  | j T.earmonth, Loiter L  | Nil   | Learmonth, Abbee    | East Angus, P.Q  |  [Canada.. | Vaicartier | . Sept. 23 |
+| 14 | 735 | 585 | 3714 | 625 | 22S03I Private  | jLearmonth, Okili Massey  | Q. O. G. A  | Learmonth. Martha ;. | 43 Murray Avenue, Quebec, P.Q    |  : Canada.. | Valcarticr. | . I Sept. 20 |
+| 14 | 735 | 612 | 3713 | 651 | 231.55 Private  | jLebcau, Albert Jo?  | loth U. S. Cavalry  | Chanv6re, Marie Louise.... | 30 Cawdlcw Street, Central Falls, Rhode I sland, | U.S.A.jU.8.A... | Valcarticr | Sept. 23 |
+| 14 | 735 | 645 | 2337 | 686 | 234*2) Lance-Sergeant. | (Leblanc, Arthur P  | Particulars will bo furnished | when available  |
+| 14 | 735 | 672 | 3714 | 709 | 23676,: Private  | [Lebrun, Wilfrid  | 85th Regt  | Lebrun, Olivier   | 551 Champlain, Montreal, I’ Q. |  Canada. | Valcartier. .ISept. 25 |
+| 14 | 734 | 705 | 3713 | 746 | 232S61 Private  | jLcduc, Victor  | Nil :   | Lcduc, Ernest  | Adamsville, P.Q  |   U.S.A.., | Valcarticr. . Sept. 27 |
+| 14 | 734 | 733 | 2338 | 765 | 235171 Private  | iLccman, Edward  | Particulars will be furnished | when available  |
+| 14 | 734 | 757 | 2338 | 795 | 23721'private  | Lcfebvrc, Hyaciathc  | Particulars will be furnished | when available.   |
+| 14 | 734 | 782 | 3714 | 830 | 2.3 ViI] i’rivato  | Lcgcre, Vincent Joseph  | 73rd Rest    | Legere, Peter  | Bridgetown, New Castle, N.B  | Canada... | Valcarticr. | ! [Sept’.'23 |
+| 14 | 733 | 823 | 3714 | 857 | 232S5 Private  | Leraay, Caro'us  | 15th P. A  | Lemay, Lcnora  | Granby, Shcfford, P.Q  | Canada... | Valcartier. | 'Sent.. 25 |
+| 14 | 732 | 850 | 3715 | 886 | 23GS5 Private  | Lemay, Eugene   | Nil    | Lemay, Mrs. G. G  | 317 St. Denis, Montreal, P.Q   | Canada... | Valcartier. | , 'Sept. 20 |
+| 14 | 733 | 881 | 3715 | 917 | 23666'Privatc  | Lemay, Alfred   | 65th Kcgt   | I Lemay, Mrs. G  | 3 Gonzague Av., Montreal, P.Q  | Canada... | Vnlcarlier. | ‘.Sept. 25 |
+| 14 | 734 | 910 | 3713 | 945 | 230l7(Privalo  | LeMesurier, Chas. Stuart. ... | Nil  | Stuart, G. G. (ICC.)  | Quobee, P.Q    | India  | Valcarticr. | Sept. 21 |
+| 14 | 733 | 940 | 3715 | 973 | i’2';.V2:C. P. Sergeant... | LeMesurier, Garnet Wolscley, | Canadian Militia  | LeMesurier, W. J  | 53 Lachevroti&rc Street, Quebec P.Q  | Canada... | Vnlcarticr. | Sept. 23 |
+| 14 | 733 | 969 | 3715 | 1002 | 23(>71| Private  | Lemieux, Harry  | Nil  | Lemieux, Mrs. G  | 03 Gazelais, Montreal, P.Q  | Canada... | Valcart ier. | .[Sept. 25 |
+| 14 | 733 | 998 | 3716 | 1036 | 2320-1 [Private  | Lcmoil, Ernest G  | 18th Regt   | Lemoil, E  | “Dcscartcs,” French Navy  | [France  | Valcartier. | JScpt. 28 |
+| 14 | 733 | 1022 | 3717 | 1064 | 22750! Privato  | Lenihan, John C  | 02nd ltegt  | I.onihan, Mrs. P. F  | Ill Queen St., St. John, N.B.  | [( anada... | Valcarticr. | . Sept. 30 |
+| 14 | 734 | 1056 | 3718 | 1090 | 22758! Private  | Lennox, Charles  | , Nil  | Lennox, Mrs. J  | 122 Cawdor Road, Bishop Briggs, Glasgow, Scot.  | | Scotland.. | Valcartier. | . Sept. 28 |
+| 14 | 723 | 1086 | 3719 | 1123 | ■23010 Private  | 1 .eazo, Jain  | I Mil  | Lcnzo, Joe  | St. Angelo do Briolo, Messina, Italy  | ,| U.S. A.... | Valcartier. | JScpt. 20 |
+| 14 | 734 | 1112 | 3717 | 1150 | 23015’Private  | Lesage, Napoleon Paul  | Nil  | Lesage, V  | Pont Rouge, P.Q  | . Canada... | Valoartior. | JScpt. 2ti |
+| 14 | 734 | 1142 | 3718 | 1180 | 23G07j Privato     | LeScouarnec, Norbert  | 86th Rogt  | LeSrouarnec, Mrs. Francis. | Three Rivers, P.Q    | , I Canada... | Valcart ier. | . Sept. 2'1 |
+| 14 | 732 | 1172 | 3165 | 1208 | 22955Cook Sergeant. | Lewis, Joseph  | R. A. M. C  | Lewis, Joseph J  | 2 Abingcr Road, Bath Road, Bedford Park, London, |
+| 14 | 3203 | 1205 | 3719 | 1235 |  |  |  |  |  | England.. | Val- | Sept. 2ti |
+| 14 | 733 | 1233 | 3718 | 1266 | 22SSS Private  | Lewthwaite, Cornelius Willi | ltli Manchester Uegt  | Lewthwaite, Mary  | Cambridge Villa, Sale, nr. Manchester, Eng  | (England.. | j Valcart ier, | . Sept.. 20 |
+| 14 | 732 | 1258 | 3718 | 1296 | 23407! Private  | Levy, Arthur Ijouis........ | Artists Rifles  | Levy, Mrs. Florence  | Flmside, Woodstock Rond, I<ondon, Eng  | England., | iValcartier. | . Sept. 22 |
+| 14 | 732 | 1291 | 3718 | 1326 | 2320:*-Private  | Levesque, Alfred F.    | Nil  | Levesque, Priscilla  | St. Gabriel, Rimoushi, P.Q    | .''..'-anada... | [Valcnrlier | JScpt. 23 |
+| 14 | 732 | 1322 | 2344 | 1352 | 23722 Private  | Ijovesque, Charles  | Particulars will be furnished | when available  |
+| 14 | 732 | 1350 | 2344 | 1382 | 23280 Private  | Lavnlle, Joseph.   | Parti aln’s will bo furni-hed | when available  |
+| 14 | 732 | 1373 | 3718 | 1414 | 22408. Private  | Liddicoat, William  | I). (J. 1,. I  | Liddicoat, W  | . (lover Valley, St. Au.Mil, ('onnvMll, Eng.. |  j England. | . iValcartier. . Sept. 27 |
+| 14 | 732 | 1404 | 3720 | 1441 | 22570 Private  | Lifford, Joseph  | 71 Ft Regt ;  | Lifford, Mr-S. Ellen  | .'272 Regent Street, Fredericton, N.B  |  1 Canada.. | . i Valrarfier.. jSepl. 2ft |
+| 14 | 732 | 1437 | 3719 | 1473 | 22058.Corporal  | Lingard, Arthur  | 20th Lanes. Pus  | Lingard, William  | . [Newton I Tenth, Manchester. Eng  |  [England. | . i Valenrt ier. .Sept. 20 |
+| 14 | 732 | 1466 | 3719 | 1504 | 23011 Private  | Llewelling. Harold P.  | Can. Militia  | ■ Jewelling, Frederick  | .(Liverpool, ICng  |  Wales  | . Valcartier.. jSept. 2;i |
+| 14 | 732 | 1492 | 3719 | 1533 | 23221 .Corporal  | Lloyd, William Henry...., | Middlesex ltegt. & Ilusjars.., | Lloyd, Mrs. W  | .JIG West Parade, Rhyl, North Waljs  |   : Ingl: n 1. | . K'alrartier . !Sej:t. 21 |
+| 14 | 732 | 1526 | 3718 | 1560 | 22760 Sergeant  | Lodge, Frederick  | Nil..  | Ijodgc, Prank  | .!C9 Union St. \V.t St. John, N.B  |   Canada.. | J Vnlcarticr.. jSe.pt. 2S |
+| 14 | 732 | 1556 | 2344 | 1592 | 23538 Private  | i Long, Edward.     | Particulars will be furnished | when available  |
+| 14 | 732 | 1580 | 3674 | 1623 | 230:10 Private  | . Long, William  | Nil  | Williams, Mrs. Jenny  | .jS Greyhound Lane, Strentlmm Common, London, Eng. England |  | . Valcartier. | . [Sept. |
+| 14 | 732 | 1614 | 2344 | 1645 | 2353!) Private  | Long,Irven  | Particulars will bo furnished | when available  |
+| 14 | 732 | 1643 | 3721 | 1679 | 23003 Lame-Corporal. | Logeot, Armand  | Nil  | |Logeot, licet. Mrs  | .iMontagnc du Nord, France  | Belgium. | Valcarticr.. Sept. 23 |
+| 14 | 732 | 1672 | 2331 | 1704 | 2^511 Private   | Lorctte, Joseph  | .. Particulars will bo furnished | ■ when available  |
+| 14 | 724 | 1700 | 2331 | 1731 | ‘234S4 I .ancc-( ’orporal. | Lorctte, William  | ... I Particulars will bo furnished | I when available  |
+| 14 | 730 | 1731 | 3721 | 1765 | 22601 Private......... | liOve, Cecil J. D    | ... 71st & 74 th Regt  | Love, Mrs. J. M  | 434 George Street. ?•' red eric ton, N.B   1 Knr.land. |  | Valcart ter. | jScpt. 20 |
+| 14 | 730 | 1761 | 3721 | 1793 | 22536'Corporal  | I Lovely, Urucc  | .. |N. W. Kent Regt  | 1 lovely, Mrs. C  | 23 Clhapet Plnce, Lnnc llicl'.mond Surrey, Eng.... iJv.ijdand, |  | Vnlcarticr. | . Sept. 23 |
+| 14 | 730 | 1790 | 3723 | 1828 | 23018: Privato  | Lukka, Harry  | .. .INil  | Lukka, (!eo  | 275 Bleury St., Montreal, P.Q [Greece.., |  | Valcartier. | , Sept. 20 |
+| 14 | 730 | 1816 | 2344 | 1849 | 235101 Private  | I Lund, Daniel •  | Particulars will be furnished | when available  |
+| 14 | 730 | 1842 | 3722 | 1885 | 235451 Private  | Lutes, Stanley  | 7-lth Regt  | Lutes, Mnrvin  | Berry’s Mills, N.B.    |   .](’anada.. | Vral ear tier. | , Sept. 25 |
+| 14 | 730 | 1876 | 3719 | 1911 | 23674 Privato  | i f.y in burner, Albert  | Nil  | Lymburnor, Mrs. A  | 74 Hamilton, Montreal, P.Q  |  •. ICnnnda.. | Valcartier. | Sept. 2t |
+| 14 | 729 | 1906 | 3723 | 1944 | 23f.12t Private  | Lynch, Joseph  | Nil  | Lynch, Margaret.  | Chatham, N.B  |  j( ’antula.. | Valcarticr. | Sept. 23 |
+| 14 | 728 | 1932 | 3723 | 1977 | 22SIM Private  | [Lynch, Luke     | Sth Regl  | j Lynch, Elizabeth -. | l.r»0J I^oekwell Avn., (^uehoc.... P.Q. |  (.'annda.. | Valcartier. | •Sept.. 2ft |
+| 14 | 729 | 1964 | 3721 | 2001 | 234()!!j Privato  | Lyons, Thomas  | Mi!   | [ Holmes, Airs  | Tnghun, 15.(1     |  .('anfula.. | Vnlcarl.in . | . :^< pt. 27 |
+| 14 | 729 | 1992 | 3723 | 2030 | 23201)] Private  | Mackcy, Thomas  | Royal Dublin Fusiliers........ | iSliieldx, Theresa  | I I'pper l.ectlmnd St., Dublin, Ire.. |  (Ireland.. | . Val<!artier. | .ISept. 23 |
+| 15 | 669 | 726 | 3260 | 766 | Hr*. | Name, Surname first. |  | Name of Next of Kin. |  | of |
+| 15 | 675 | 908 | 2214 | 939 | 23101 Private  | Muck ins, Charles  | Particulars will be furnished | when available  |
+| 15 | 674 | 931 | 3110 | 972 | 23293 Private  | Madden, Fred. II  | British Army  | Worthington, Mrs  | ii Dorrien Road, Haynes Park, Wimbledon, London |
+| 15 | 3150 | 962 | 3660 | 994 |  |  |  |  |  | England.. | Valcarticr. | Sept 23 |
+| 15 | 675 | 990 | 3659 | 1032 | 22950 Private  | . I Maguire, Frank  | 01st Uegt  | Maguire, Isabelle  | New Carlyle, P.Q t  | Canada... | I Valcartier. | Sept. 2'J |
+| 15 | 674 | 1018 | 3659 | 1059 | 22602 | Private  | . j Maguire, Janies  | Nil   | Maguire, Annie  | No. 4 Tow, Liverpool, Eng  | Ireland... | | Valcartier. | Sept. 24 |
+| 15 | 674 | 1051 | 3660 | 1088 | 22774 | - Private  | Mahoney, Joseph P  | 02nd ltegt    | James, Mrs. R  | 1078 Saratoga Street, East Boston, U.S.A  | Canada... | j Valcarticr. | Sept. 30 |
+| 15 | 674 | 1077 | 3659 | 1116 | 23028 Private  | . Malcolm, Ernest  | Nil  | Malcolm, William  | 25 Fenwick Avenue, Cranbrook, B.C.  | Scotland.. | j Valcarticr. | Siipt. 25 |
+| 15 | 674 | 1110 | 3659 | 1145 | 22773 Private  | :M anderson, ltobt. F  | 12th Field Batt  | iMcCallum, Mrs. John, | New Castle, Miramichi, N.B  | Canada   | iValcartier. | Sept. 28 |
+| 15 | 673 | 1140 | 3659 | 1176 | 23550; Private  | . | Mau'n, John W. D  | /3rd ltegt  | j Mann, Gertrude Mrs... | Chatham, N.B  | ! Newfoundland | ■ Valcartier. | Sept. 23 |
+| 15 | 673 | 1169 | 3659 | 1205 | 230'J0jBugler  | .(Manning, Edwin A  | llth Can. Hussars  | Manning, Mrs. A. M... | 44 Leader St., Chelsea, London, Eng  | . j England.. | IValcartier. | jSept. 23 |
+| 15 | 673 | 1193 | 3658 | 1235 | 23086] Bugler  | j Mansfield, Joseph  | Nil  | Mahon, Mary  | 20 St. Cortinne, Viauvillc, P.Q  | , England.. | iValcartier. | Sept. 23 |
+| 15 | 673 | 1228 | 3659 | 1264 | 22604; Sergeant  | iManson, Candlish G  | 02nd Fusiliers  | j Manson, Mrs. James... | 110 Macklenburg St., St. John, N.B.   | , Canada... | Valcarticr. | Sept. 2S |
+| 15 | 672 | 1251 | 3660 | 1292 | 22800 Private  | I Mantle, William  | 0th Stall. Batt., It. F. A  | Mantle, Eliza  | 37 North Street, Dudley, Gloucestershire  | England.. | IValcartier | I Sept. 28 |
+| 15 | 672 | 1284 | 3660 | 1322 | 22603 Private  | Manner, Francis Everett.... | 67th ltegt  | ■ Spike, Mrs. Chas  | Carlingford, N.B    | . Canada... | .! Valcartier. | Sept. 2ti |
+| 15 | 672 | 1315 | 3660 | 1356 | 22000 Private  | Marehant, Joseph Stanley... | Sth It. R _  | IMarehant, Alfred  | 36 Laurier Ave. West, Montreal, P.Q  | . j Canada... | . j Valcartier. | Sept. 2'J |
+| 15 | 671 | 1349 | 2211 | 1385 | 22604 Private  | Markey, John   | Particulars will be furnished | jwhcn available  |
+| 15 | 670 | 1376 | 3661 | 1418 | 22701 Private  | Markham, G. Harold  | Can. Militia  | j Markham, Mrs. Lily.. | Morecambe, Eng    | , Canada... | .!Valcarticr. | Sept. 20 |
+| 15 | 671 | 1406 | 3660 | 1440 | 22828 Corporal  | Marquis, George Arthur  | 8th R. it  | Marquis, Marie  | 33 Scott St., Qucbcc, P.Q  | , |Canada. . | Valcarticr. | Sept. 29 |
+| 15 | 671 | 1435 | 3660 | 1472 | 22778 Corporal  | Marr, John D  | Nil   | Marr, John  | 72 Brussels St., St. John, N.B  | j Canada... | ■ Valcarticr. | Sept. 28 |
+| 15 | 670 | 1461 | 3660 | 1497 | 23087 Corporal  | Marshall, James L  | R. C. G. A  | Marshall, A,  | Covchead Road, Lot 34, P.E.I  | , | Canada... | . ] Valcartier. | Sept. 23 |
+| 15 | 669 | 1493 | 3660 | 1528 | 23417 Private  | Marshall, Charles  | Nil........... .  | 1 Marshall, Mrs  | Askanwn-Furuess, Eng  | England.. | . IValcartier. | •Sept. 27 |
+| 15 | 669 | 1516 | 3514 | 1565 | 23171 Private .... | Martel, ICrnest  | Particulars will be furnished | j when available  |  |  | .(  |
+| 15 | 668 | 1542 | 3659 | 1586 | 2321 61 Private  | Martel, Joseph J  | /7th Batt. Coast Art., U.S.A.. | Gordon, Mrs. A  | St. Basile, Portneuf Co., P.Q.    | Canada.. • | . IValcartier. | Sept. -2.i |
+| 15 | 754 | 1583 | 3660 | 1616 | Private  | Martin, Raymond Benj  | f>3rd Regt  | Martin, J. M  | Lennoxvillr, P.Q..    | U.S.A.... | j Valcartier. | Sept. 2") |
+| 15 | 669 | 1612 | 3659 | 1658 | 23200 j Private  | Martin, Joseph   | (Jan. Militia  | Martin, Octave.   | 800 Albert St., Montreal P.Q..'  | U.S.A.... | . j Valcartier. | Sept. 23 |
+| 15 | 668 | 1642 | 2212 | 1671 | 23725’Private  | Martin, Alphonse  | Particulars will bo fiiriiislicil | when available..  |
+| 15 | 668 | 1660 | 3660 | 1706 | 23418] Private  | Martindale, James  | in 1 C'umberUuul Yeomaury... | Mart indale, (Jeorgc.... | Moore Row, Cumberland, Eng..,   | lOngland.. | iValcartier. | . Sept.'. ’is |
+| 15 | 667 | 1697 | 3660 | 1739 | 22777lPrivate  | Mascoll, Thomas  | Nil  | Clark, Mrs. Rebecca.. | Richmond Hill, Kingstown, St. Vincent, B.W. | B.W.I.... | .{Valcartier | . Sept. 2.S |
+| 15 | 667 | 1731 | 3660 | 1763 | 23112' Private  | Matheson, James  | Nil  | Matheson, Norman.. . | Northsliore, St. Anne’s, Victoria Co., N.S.. | Canada... | Valcartier | JSept. 18 |
+| 15 | 666 | 1756 | 3658 | 1795 | 235581Private  | May, Edward   | Nil        | | May, Susan  | Duke Street, Chatham, N.B.    | ('anada... | j Valcart ier | .ISept. 2.1 |
+| 15 | 666 | 1786 | 3658 | 1822 | 23410 Private  | Maynard, Hubert Keg  | /xi» Kssex Territorial:!......... | ;Maynard, Albert  | 1)1 Maynard Road, Walthamstow, London, Eng | Kngland.. | IValcartier | .jSepf. IS |
+| 15 | 666 | 1821 | 3659 | 1855 | 23025; Private  | Mnad, Daniel  | Nit  ... | ; Hennessey, Mrs  | 20 Snow fields, Bermondsey. Eng  | lOngland.. | .Valcartier | .jSept, 2.i |
+| 15 | 665 | 1844 | 3659 | 1883 | 22772} Private  | Medford, Fredk. A.. | Nil  | iMedford, Ella  | Redemption East State, St. Vincent, B.W.I, | {B.W.I.... | | Valcartier | JSept. 30 |
+| 15 | 665 | 1879 | 3659 | 1922 | 2354S! Private  | Meehan, James  | ....INil  | I Meehan, Mrs. T  | SOU Harrison Ave,, (-ohip.ihu*. Ohio, U.S.A. | j U.^.A.... | IValcartier. | .'Sept. 21! |
+| 15 | 665 | 1904 | 3658 | 1942 | 23033 i Private  | Meiarkey, Hugh..... | ....'Nil  | I Meiarkey, Hugh  | Coal Creek, Fcrnie, B.C   | 'Scotland.. | iValcartier. | JSept. 25 |
+| 15 | 664 | 1939 | 3658 | 1971 | 23413? Private  | Mellon, Wm. Gordon | .. ..mint & 85th Uegt  | Mellon, Miss I4] I la  | 125 James Street, Hamilton, Ont  | Canada.,. | Valcartier. | . Sept. IS |
+| 15 | 664 | 1968 | 3659 | 2004 | 23211! Private  | Merrier, Arthur  | ..., 55tli Regt  | (lagnon, Em61ic. | Thetford Mines, P.Q    | it ‘anada... | I Valcartier. | .;Sept. 23 |
+| 15 | 664 | 1997 | 3658 | 2041 | 23085j Private  | Merrier, George  | .,.. ‘Can. Militia  | Mercier, Joseph  | Notre Dame Levis, (-arriAre Street  | [Canada... | ■ Valcartier. | . |Sept. 20 |
+| 15 | 662 | 2025 | 3657 | 2062 | 230S7) Private  | Mminicr, Arlh. | . ...l20th A. M. C  | Meunier, Ambroise.... | St. Roch, L’Aohigan, P.O    | I Canada.., | (Valcartier. | , Sept. 23 |
+| 15 | 663 | 2058 | 3657 | 2089 | 234i6 Private........ |  | Nil | Merry, Dan. Bilsoij  | Merry, (5<k>. L.,  | Trail. B.C     | (Canada.,. | ‘Valcartier, | . ISept. 22 |
+| 15 | 662 | 2088 | 3657 | 2124 | 23355: i janec-Corporal | Merry, Norman Cut hbert Rose Nil. |  | Murry, Mrs. 10  | W'haleybridge, Cheshire, Kinj  | {Scotland •. | Valcartier. | JSept. IS |
+| 15 | 662 | 2114 | 3656 | 2150 | 22614 Private  | ■Metcalf, Wm. il  Nil. .   |  | jUice, Mrs. Thursa  | ., Dennysvillc, Maine, I’.S.A,  | U.S.A.... | Valcartier. | JScpt. 23 |
+| 15 | 661 | 2145 | 3656 | 2185 | 23C821 Private  | jMethot, Arthur j Nil  |  | jMcthot, Octave  | . Perce, P.Q  | (Canada... | Valcartier | JSept. 27 |
+| 15 | 661 | 2176 | 3656 | 2213 | 23172; Private  | •Myers, Warren  ;S2nd ltegt  |  | j Myers, Margaret     | Mi. Albion, P. E. I   | Canada... | i Valcarticr | .jScpt. 23 |
+| 15 | 658 | 2205 | 2217 | 2237 | 23100: Private  | Michaud, John  1 Particulars will be furnished |  | when available  |
+| 15 | 659 | 2238 | 2218 | 2268 | 22902- Lance-Corporal. | Michaud, Thomas 'Sth Regt  i.... |  | Michaud, Marie  |
+| 15 | 2316 | 2221 | 3656 | 2280 |  |  |  |  | .jio d’Aiquiilon St., Quebec, P.Q   | Canada.... | .: Valcartier.. Sept. 2D |
+| 15 | 2314 | 2285 | 3657 | 2335 |  |  |  |  | . Dwars St. 6, Harlingen. Netherlands  | • Netherlands | .! Valcartier. JScpt. 25 |
+| 16 | 651 | 270 | 3630 | 320 | 'J3fi70jHug!or  | . Miles, Frederick  | 185th Regt . ....  | Mathew, Mrs  | ! 17 Flam borough, Stepney, London, Eng. | England. | .j Valcartier. | Sept. 25 |
+| 16 | 66 | 303 | 2258 | 342 | 236SRj Private  | . Miller, -! )h  | [Particulars will b.c furnished | when available ..... |
+| 16 | 650 | 323 | 3628 | 372 | 23 CSS; Privato. | . -Miller, John  |  | Miller, Alexander    | .’632 Manitoba Ave., Winnipeg, Man   | U.S.A  | J Vulcartiur. | Sept. 2G |
+| 16 | 651 | 355 | 3627 | 395 | 22010* Private  | . jMiller, Kenneth  | kii:::: | Sharp, Mrs. R. H  | .;Woodstock, N.B  | Canada  | . j Valcartier. | Sept. 2i |
+| 16 | 650 | 388 | 3627 | 426 | 23552 Private  | .: Miller, Stanley  | 73rd 11 | Milter, Mrs. Margaret  | JSt. Andrew Street, Chatham, N.B...  | Canada  | .! Valcartier. | Sept. 20 |
+| 16 | 60 | 420 | 3626 | 463 | 23415lPrivate  | . j Mol loci, Dolfo   | Nil. | Mel loci, P..  | . Bonillo. Catazord, Rcalc, Carabinieri...... | ?pain.  | . | Valcarticr. | Sept. 27 |
+| 16 | 649 | 452 | 3626 | 490 | 22954j Sergeant  | . .Milne, James   | n. c. u  | Milne, David  | . IThorold, Ont :••••;  | Canada.... | .iValcartier. | Sept. 25 |
+| 16 | 649 | 481 | 3625 | 539 | 22895 Private  | . [Minchin, Robert S  | 11. A. M. C...   | Minchin, Charles O  | . jEmsworth, Hampshire, Eng. | England... | .Valcartier. | Sept. 29 |
+| 16 | 648 | 512 | 2254 | 550 | 23724jTrivatc  | . .Miner, G.    | Particulars will be furnished | when available  |
+| 16 | 649 | 529 | 3623 | 580 | 23834 Private  | . |Mitchell, George  | Nil    | Mitchell, George  | . jiia South State St., Syracuse, N.Y., U.S.A | Canada  | . | Valcartier. | Sept. 2 i |
+| 16 | 647 | 568 | 3624 | 603 | 236S3 Private  | . Mitchell, Henri  | Nil    | Mitchell, Mme. II  | .{Cor. Panct and Logan, Montreal, P. Q  | Canada  | .! Valcartier. | iSept. 20 |
+| 16 | 649 | 597 | 3623 | 635 | 230271J .an cc-Corporal | I Mitchir.son, Thom as  | K. O. Y. L. I  | Raymond, Mrs. E. A  | .(Roebuck Road, Gisborne, New Zealand.... | Canada  | .1 Valcarticr. | .iSf?pt. 25 |
+| 16 | 647 | 632 | 2252 | 667 | 33060! Private  | .[Mock, Richard Ira  | Particulars will be furnished | when available  |
+| 16 | 647 | 648 | 3624 | 691 | 22779; Private  | 'MofTord, Cuthbert  | B. W. I. Militia  | MofTord, Clara  | .(Joseph’s Land, Calligna P. O. St. Vincent, I | B.' W.‘ indies | Valcarticr. | ,|Scpt. 25 |
+| 16 | 647 | 686 | 3623 | 720 | 23020 Private  | Montgomery, Win. John... | Nil  | Montgomery, Janet Mrs.... | . Arnprior, Ont .    | Canada  | Valcarticr. | . JScpt. 25 |
+| 16 | 647 | 717 | 3622 | 753 | 23167 Private  | jMoon, Stanley 11  | Nil   | Moon, M rs. E  | 120 Toronto Road, Tilbury Docks. Essex, I: | England.... | Valcartier, | . Sept. 2.1 |
+| 16 | 648 | 746 | 3623 | 779 | 23204 Private  | Moore, Thomas  | Nil    | Moore, Miss M  | . 28 Kent Gardens, Ealing, W. Middlesex, Ei |  | Valcartier. | . jScpt. 25 |
+| 16 | 647 | 774 | 3622 | 811 | 23615-Corporal  | Moran, Thomas  | Nil....     | Moran, Mrs. J..,  | .112 Citric Road, Dublin, Ire  | Ireland  | t Valcartier, | . Sept. 23 |
+| 16 | 647 | 804 | 3623 | 846 | 23035] Private  | Morgan, Chas. Henry  | Canadian Militia  | Morgan, William  | . Not known  | England | i Valcarticr. | . 'Sept. 20 |
+| 16 | 647 | 830 | 3621 | 869 | 23100 Private  | Morin, Leon   < | 92nd Regt  | I Morin, Mr    | . St. Joseph, Beauce, P.Q  | Canada  | (Valcarticr. | .‘Sept. 2-5 |
+| 16 | 646 | 863 | 3622 | 901 | 23549! Private  | Morris, Richard  | 73rd Regt  | Morris, George  | . Chatham, N.B ,  | Canada  | j.Valcartier. | . Sept. 23 |
+| 16 | 646 | 888 | 3620 | 927 | 22615 Private  | Morris, Henry.    | E. Lancs. Militia  | Morris, Robert  | . I Marysville, N.B  | England  | ! Valcarticr. | . Sept. 21 |
+| 16 | 645 | 921 | 3621 | 956 | 23411 Private  | Morrison, John  | R. N. R  | Morrison, Mrs. Maggie,  | . 112 North Dell, Stornoway, Scot  | Scotland.... | Valcartier. | .(Sept. IS |
+| 16 | 646 | 949 | 3622 | 985 | 23678 Private  | Mouvet, Lucien  | Nil •  | Mouvet, Mrs. Lucien  | .! Villers, Meuse, France    | France  | Valcarticr. | . jScpt. 20 |
+| 16 | 646 | 980 | 3621 | 1014 | 23419 Private  | Mudge, Montague Frank.. | Nil  | Mudgc, Charles  | . Grand Forks, B.C  | England.... | Valcarticr, | .Sept. IS |
+| 16 | 646 | 1009 | 3621 | 1044 | 2322C < V>rix>rnl  | Muir, Andrew.   ... | 93rd Uegt  | Muir, Mrs. D  | . East Angus, P.Q  | Scotland | Vat car tier. | .(Sept. 25 |
+| 16 | 647 | 1038 | 3621 | 1073 | 230S0. Pri vale.   | Mtiller, Joseph    | Nil   | Muller, (‘harlos  | .jZnrtebrick, Lorraine  | Lorraine  | Valcarticr. | . Sept. 27 |
+| 16 | 646 | 1068 | 3621 | 1102 | 2309511 ,anco-Corpor*»l | Munroe, Hamilton  | Nil....,  | Munroe, Mrs. F  | . 1910 Sherbrooke St., Montreal, P.Q  | Canada  | Valcarticr. | . Sept. 2.< |
+| 16 | 646 | 1097 | 3621 | 1133 | 23414} Privato  | Munroe, Adam David  | Nil  | Munroe, Mrs  | . jEmbro, Oat  | ('anada  | Valcarticr. | . Sept. 23 |
+| 16 | 645 | 1127 | 3621 | 1161 | 23550 Private  | Munroe. Ernest   | 73rd Uegt     | Munroe, Annie Mrs  | . I Campbell town, N.B  | Canada... . | Valcartier. | . iSept. 25 |
+| 16 | 646 | 1152 | 3617 | 1191 | 23170; Privato  | Murphy, William  | Particulars will be furnished | when available    |  |  |  | .1  |
+| 16 | 646 | 1184 | 3621 | 1220 | 22829 v orporal  | Murphy, Thos. Geo  | tOth Q. O. C. H  | Murphy, Mary McNeil  | . i Riviere du Loup, P.Q  | Canada  | i Valcartier. | .jSept. 29 |
+| 16 | 646 | 1214 | 3622 | 1252 | 23034 (Private  | Murray, Alexander  | Nil  | Murray, Margaret A  | .{Martintown, R.R. No. 2, Ont  | Canada  | I Valcarticr. | .jSept. 21 |
+| 16 | 646 | 1243 | 3621 | 1287 | 22775 Private  | Murray, Poniard  | | Nil   _  | Murray, P  | . 110 Queen Street  | Canida  | (Valcarticr. | . (Sept. 29 |
+| 16 | 646 | 1275 | 2250 | 1307 | 33C68| Private  | . |Murray, Frank Jos  | Particulars will be furnished | when available  |
+| 16 | 645 | 1300 | 3622 | 1342 | 23551 Private  | .[Murray, Ilarvoy S   | iNil  | Murray, Maggie  | .;Campbelltown, N• 1*  | (‘anndn  | 1 Valcartier. | . Sept. 25 |
+| 16 | 644 | 1329 | 3621 | 1366 | 22770 Privntc  | Murray, Peter  | 102nd Uegt :  | Murray, Mrs  | .12 White St., St. John, N.B  | (‘anada  | I Valcartier. | .(Sept. 2S |
+| 16 | 644 | 1352 | 3623 | 1397 | 2320(ij Private  | Murray, Robert  |  | Mcl/cod, Mrs. Donald  | , .139 S. Wellington St., S. S. Glasgow, Soot. | Scotland  | j Valcartier. | . 'Sept. 23 |
+| 16 | 643 | 1377 | 3623 | 1425 | 235501 Private  | McAllister, Harvard  | I !11!!'!! 1'!!!! ’ 11!!! 11! ’ ! 11 | Me Mlisbcr, Jano  | .1 Dorchester, N.B   | <’anada  | Valcartier. | .jSept. 25 |
+| 16 | 643 | 1417 | 3623 | 1460 | 2270'ij Private  | McArthur. William C  | ! Newfoundland JI igli  | McArthur, Mrs. D  | . j06 Wallace St., Coatbridge, Scot  | Scotland  | j Valcartier. | . (Sept. 20 |
+| 16 | 643 | 1445 | 3623 | 1483 | 2302!) Privntc.  | McAulcy, Malcolm A  | Nil   | Me.Auloy, Mrs. D  | . jGrnnbrook, B.C *  | ('anada  | , J Valcartier. | . (Sept. 20 |
+| 16 | 643 | 1475 | 3623 | 1513 | 23121 i Private  | MeBcat h, (leorge  | jtlh Batt. Royal Scots,.  | MeBeath, James  | . | Elgin, Murrayshire, Scot  | Scot land  | Valcar! ier. | .•Sept. IS |
+| 16 | 643 | 1501 | 3623 | 1541 | 22R9fij Private  | Me( lallum, Archibald S... | Soots Guards  | Voting, Jessie,   | .i-l Colgrain Terrace, SpringhtiMi, Glasgow, Scot.. | ('anada  | , | Vnloart ier | • {Sept-. 29 |
+| 16 | 643 | 1532 | 3618 | 1571 | 2321)1 [ Privnlc  | McC Jarley, Charles G  | 53rd ltegt  | McCarloy, Miss May  | .10 Baetlinv Houses, Terry Hill, Durham, | England | ! Valcart jer. | . iSopf. . . |
+| 16 | 644 | 1562 | 3623 | 1600 | 231GOj Private   | MeC Jarthy, Jeremiah  | It. M. A... '  | Beal, Mrs. E  | . |7 Beacoiisiiold Road, Acton Green, London W., 1 | 1 rehind .... | |Va1cartior. | • Sept. 2S |
+| 16 | 642 | 1586 | 3622 | 1629 | 23703 Private  | McCollum, Ernest  | 02ml Fusiliers    | McCollum, Mrs. Katherine. | . j 128 Erin Street, St. John, N.B  | ('anada  | , IValcartier. | [Sept. US |
+| 16 | 642 | 1620 | 3622 | 1666 | 23423 Private.... | McOoneghy, John Wes tie y | 15th L. 11  | McCJonogh.v, Jatncd  | . IBracside, Ont  | Scotland  | iValcartier. | Sept. IS |
+| 16 | 642 | 1649 | 3624 | 1687 | 23031 j Private  | MeCool, Cims. Justin  | Nil  | MeCool. Charles Arthur— | . Ottawa, Ont   | Canada  | j Valcartier. | Sept-. 20 |
+| 16 | 642 | 1672 | 3624 | 1716 | 23207 O. li. Oorpl.... | McCord, Geo>Rankinc.... | Nil  | McCord, MarjOrio. M  | .iLansdowne Ave., Sackvillc. N.B  | Canada  | ; Valcartier. | !Sept. 20 |
+| 16 | 641 | 1707 | 3624 | 1745 | 22N07I Private  | McCormick, Jr.. Jos  | Nil  | MoCorm iek, M iehacl  | St. Phillips, St. John’s W., Newfoundland | Canada  | .; Valcartier. | Sept. 29 |
+| 16 | 640 | 1736 | 3624 | 1773 | 23030 Private     | MeCosh. Allen Percival... | Nil  | MeCosh, John  | Barrie, Ont    | Canada  | . iValcartier. | [Sept. :1~) |
+| 16 | 641 | 1765 | 3625 | 1804 | 2270S! I5 rivati'  | iMcDonald, Alexander  | Nil   | McDonald, Wm  | 71 Wallace Ave., Hamilton, Ont  | Scotland  | (Valcarticr. | Sept. 30 |
+| 16 | 640 | 1795 | 3626 | 1837 | 220.S1 | Private. | [McDonald, Edward  | 71st llogt  | Me.Donald, Annie  | Fredcricton, N.B  | Canada. | Valcartier. | . Sept. 20 |
+| 16 | 640 | 1824 | 3626 | 1865 | 23557 | Private. | \ M ac I )onald, Ed ward  | Nil..    | Me Donald, Edward  | Sackvillc, N.B  | Canada  | Valcarticr. | . Sept. 20 |
+| 16 | 640 | 1860 | 2252 | 1890 | 22000 | Private  | McDonald, John D  | Particulars will be furnished | when available   |
+| 16 | 640 | 1883 | 3628 | 1925 | <)0 | Sergeant-  | jMaoDonald, George  | Imperial Armv  | Ma* Donald. Mrs. D. C  | 201 Woodstock R.oad, Fredericton, N.B . | Canada  | Valcarticr..(Sept. 20 |
+| 16 | 639 | 1905 | 3628 | 1951 | 2?'m\ | Private  | Mol)onald, James  | 11. E  | Me. 1 )onnld, John  | 29S Argyle St., Glasgow, Scot  | Scotland... | Valcartier. .(Sept. 20 |
+| 16 | 639 | 1942 | 3627 | 1979 | 2310! | Private  | ! Mo Donald, John  | Nil  | McDonald, W. J  | St. Margarets, P. 10.1   | Canada  | Valcart ier . (Sept.. 25 |
+| 16 | 639 | 1972 | 3627 | 2010 | 2310 | Private  | ' Mo i )on;dd. Maloolm  | Nil  | McDonald. Mrs. Neil  | Loch Cilphcid, Argyllshire, Scot  | Scotland . | Valcartier.. (Sept. 29 |
+| 16 | 638 | 1998 | 3630 | 2038 | 22761)] Private.. | McDonald, Thom a* Jardrn< | Nil , • | McDonald, Donald A  | Jardinvi!!-, N.B....'  | Canada  | •Valcarl icr.. Sept. 30 |
+| 17 | 881 | 723 | 3308 | 757 |  | Name, Surname (lr.it. |  | Name of Next of Kin. |  | .if |
+| 17 | 709 | 894 | 3554 | 932 | ' 22005 Private  | jMaeDonald, ?Valtcr....... | ,73rd Uegt  | MacDonald, Jas  | Blackville, N.H..    | Canada  | Valcartier |
+| 17 | 723 | 927 | 3553 | 968 | 23553 Private  | [McDonald, Whitney  | 73rd Regt  | McDonald, Christina Mrs.... | Loggieville, N.B       | Canatla  | Valcartier |
+| 17 | 723 | 957 | 3553 | 994 | 23077 Private  | ; McGuire, Joseph  | 85th Kogt  | McGuire, Mrj. J  | Smiths Falls, Ont    | U.S. A  | Valcartier |
+| 17 | 723 | 991 | 3076 | 1022 | 23-122 Private.'.  | iMelvor, Murdoch  | Cameron Militia and lt.N.R. | Mclvor, Mary Mrs  | 38 Arnol, Stornaway, Lewis, Scot  |
+| 17 | 723 | 1018 | 3076 | 1056 | 22528 Sergeant  | IMcICay, Christopher A.... | 71st Uegt  | McKay, Mrs. Mary Elizabeth. | St. Stephen, N.B '  |
+| 17 | 723 | 1045 | 3552 | 1080 | 22771 Private  | McKee, Thomas Maxwell. | :02nd Fusiliers  | .iMcKce, Mrs. Wm. E  | 34 Celebration Street, St. John, N.B  | Canada  | Valcarticr |
+| 17 | 723 | 1075 | 3553 | 1115 | 22704 [Private  | McNeil, Rudolph..,,.  | 71st ltegt .- | .|McNeil, Mrs. T. A  | Fair ville, N.B   | Canada  | Valcartier |
+| 17 | 723 | 1104 | 3553 | 1147 | 23202 Private  | McKenna, Peter Josc;>h... | 'Nil  | .[McKenna, Kathleen Weldon.. | 304 Wellington St., Sherbrooke, P.Q  | Ireland  | Valcartier |
+| 17 | 723 | 1134 | 3553 | 1168 | 22808'Privute  | McKenzie, Chas. Henry... | Nil  | . Me Kenzie, Josephine  | Lot 8, U’Leary, P.E.I  | Canada  | Valcarticr |
+| 17 | 724 | 1163 | 3552 | 1198 | 2302: | McKeown, Robert J  | Nil  | McKeown, Mary  | St. Patricks Convent, Montreal, P.Q  | Canada  | Valcartier |
+| 17 | 728 | 1192 | 2363 | 1227 | 22003 I’rivalo  | MoiOlroy, James  | Particulars will be furnished | ' when available  |
+| 17 | 723 | 1221 | 3554 | 1256 | 23554 Private  | McKinnon, Archibald  | Nil  | Lucas, Mrs. P. II...  | Sussex, N.B *.  | Canada  | Valcartier |
+| 17 | 722 | 1255 | 3077 | 1285 | 22705 Private  | MacKinnon, Uruce  | Nil ;  | MacKinnon, Thomas C   | 1S7 Brussels St., St. John, N.B  |
+| 17 | 722 | 1279 | 3554 | 1315 | 23103 Private  | McLaren, John   | 37th C. F. A  | I McLaren, N  | Forest Hill, P.E.I  | | Canada  | Valcartier |
+| 17 | 722 | 1311 | 3553 | 1345 | 22007 Private  | McLaughlin, Ueryl  | 71st ltegt  | McLaughlin, Mrs. Holmes.... | St. Stephen, N.B...  | Canada  | ! Vnlcarticr |
+| 17 | 722 | 1340 | 3553 | 1374 | 22008 Private  | McLaughlin, Chester  | 71st Regt    | McLaughlin, Mrs. It  | St. Stephens, N.B  | Canada  | 1 Valcartier |
+| 17 | 722 | 1374 | 2374 | 1402 | 22000 Private '. | McLaughlan, Wm  | Particulars will be furnished | when available  |
+| 17 | 721 | 1399 | 3554 | 1434 | 22707 Private  | McLaughlin, George  | Nil  | McLaughlin, Mrs. Wm. P  | 10 Hazcn Street, St. John, N.B  | Canada  | iValcartier |
+| 17 | 722 | 1426 | 3554 | 1463 | 22012 Private  | Sic Lay, Edward  | Nil  | McLay, Edward  | Moore’s Mills, Charlotte Co., N.B    | (Canada  | j Valcdrtier |
+| 17 | 721 | 1458 | 3554 | 1494 | 23358 (Corporal  | McLean, Angus  | 11. L. I  | McLean, Angus .  | c/o Standard Bank, Cape Town, S. Africa  | [Scotland  | iValcartier |
+| 17 | 721 | 1487 | 3554 | 1526 | 23421 [Private  | Mac Lean, Alexander  | Fineastlo Horse  | McLean, Coliu  | 109A. Chatham St., Montreal P.Q  | | Scotland  | Valcartier |
+| 17 | 720 | 1516 | 3554 | 1550 | 23024 Private  | McLean, Alexander  | Nil  | McLean, Samuel  | River Dennis, Cape Breton, N.S...1   | Canada  | Valcartier |
+| 17 | 721 | 1546 | 3554 | 1584 | 234X3 Corporal  | [McLean, Gordon A   | 73rd Uegt  | McLean, Mrs. George......... | Grand Falls, N.B   | •Canada  | Valcarticr |
+| 17 | 721 | 1575 | 3554 | 1608 | 22030 Private  | 'McLean, Daniel  | Nil .....'  | McQuillam, Elizabeth  | 2 Canal Street, Paisley, Scot  | Scotland  | Valcarticr |
+| 17 | 721 | 1604 | 3555 | 1638 | 23120 Private  | MoLellan, Iiruce  | Nil  | McLcllan, Alban  | Lot 18, Indian River, P.E.I   | Canada  | Valcartier |
+| 17 | 721 | 1633 | 3554 | 1669 | 227011 Private  | McMahon, Howard   | Nil.:    | McMahon, Mra. J. 11  | 42 Mill Street, St. John, N.B  | Canada. .*... | Valcartier |
+| 17 | 720 | 1663 | 3554 | 1697 | 22070 Private  | McMillan, Harry  | 73rd ltegt  | McMillan, Mrs. Edith.'.  | Campbellton, N.B     | Canada  | Valcarticr |
+| 17 | 721 | 1692 | 3555 | 1725 | 22011 Private  | McManamin, Frank ... | 4th C. M. R  | McManamin, Mrs. I'd ward... | Fredericton, N.B    | Canada  | Valcartier |
+| 17 | 720 | 1725 | 2364 | 1758 | 22537 Lance-Corporal | Me.Nairn, Addison L  | Particulars will be furnished | when available  |
+| 17 | 721 | 1750 | 3554 | 1791 | 23032 i’rivato  | |McNally, Stephen j  | Middlesex Regt  | McNally, John  | 70 Carlisle Street, London, N.W., ICng  | England  | Valcartier |
+| 17 | 719 | 1780 | 3554 | 1817 | 23200 Private  | |McNamara, Thomas  | 8lh Royal Rifles   | Raiuhard. Mrs. Alfred  | f>09 Si. John Street, Quebec, P.Q..    | Canada  | Vnlcarticr |
+| 17 | 720 | 1810 | 3554 | 1847 | 22'JOl Private  | IMacRae, Donald 1''  | Nil ;  | Maeltac, May   | Lee km cl m, Garve, Ross-shirc, Scot  | Scotland  | Valcarticr |
+| 17 | 719 | 1840 | 3554 | 1876 | 22013 Private  | McWha, Albert M  | 71st Regt,.„    | McWha, Katherine   | St. Stephen, N.B  | C'anada  | Valcarticr |
+| 17 | 719 | 1869 | 3554 | 1906 | 23000 Private  | iNadreau, Louis,  | 85th ltegt      | JfarnoiM, Mine  | O-SO Bordeaux, Montreal, P.Q  | (-anada  | Valcartier |
+| 17 | 719 | 1899 | 3554 | 1935 | 22017 Private  | I Nash, Krnest.  | 71st Regt  | Nash, Mrs. Julia  | Walsall, Staffordshire, Eng.   | ICngland | Valcnrlier |
+| 17 | 718 | 1929 | 3554 | 1964 | 23030 Private  | I Newman, Alfred '. | Nil  | McMahon, George.    | '427 Champlain St., Quebec P.Q   | lOngland.... | Valcartier |
+| 17 | 718 | 1958 | 3555 | 1999 | 23500 Private,   | Niolml, iloyd  | Nil,..;    | Niehol, Marjorie Mrs  | Glen T/evis, Restigouche', P.Q  | (-anada  | Valcartier |
+| 17 | 718 | 1992 | 2374 | 2024 | 23550 Private..  | Nickerson, Cecil  | Particulars will bo furnished | when available.,  |
+| 17 | 718 | 2018 | 3554 | 2058 | 23427 Private  | Nikitoyitch, Michael  | Nil    | Nilcitovitch, Javlo.... s,..., | Savnik, Montenegro,     ,  | Montenegro. | Valcartier |
+| 17 | 717 | 2049 | 3553 | 2084 | 23420 Private  | N'ikitovitch, Zuriiia  | Nil   | Niki tov i tell, Hat 1 o v an  | Savnik. Montenegro,    | Montenegro, | Vnlcarlier |
+| 17 | 716 | 2078 | 3554 | 2114 | 23301'Private  | Noble, .'iru'pli     | 53rd ltegt         | Noble, Mm. ft   | '.58 Bin’ll Hi,, Victoria Mat;*, Sherbrooke, P.Q ,, | England..., | Valcartier |
+| 17 | 716 | 2110 | 2373 | 2145 | 23720 Private  | Noel, Napoleon.  | Particulars will bo furnished | when available  |
+| 17 | 715 | 2137 | 3554 | 2173 | 23037 Private.,  | Normand, Phillipe.,  | Nd  | Normand, Marie Jeanne  | Chicoutimi, P.Q  | Canada  | Valcartier |
+| 17 | 715 | 2167 | 3553 | 2202 | 23300 Private  | Norwood, John V  | R.A.M.O. & Sth Midd. Regt.. | Norwood, Mrs. C  | 0 South Western Terraco, Isleworth, Middlesex, | ICngland.... | Valcartier |
+| 17 | 715 | 2198 | 3554 | 2237 | 227,SO; Private  | Nut I all, Jack  | 02nd Regt   | Nuitall, Mrs. J. T  | M0 City Road, St. John, N.B  | Canada  | Valcartier |
+| 17 | 714 | 2228 | 3554 | 2267 | 23011 [Sergeant  | Normundin, Clodomir...,, | 05th A 85th Regts   | Husseau, Mrs. A  | 822 Craig East, Montreal, P.Q  | Canada  | Valcarticr |
+| 17 | 714 | 2260 | 3554 | 2304 | 23fll0|Col.-Scrgeunt,., | Normandin, Leopold  | u. c. u  | jjiuttseau, Mrs. A  | 822 Craig East, Montreal, P.Q.     | Canada  | Valcartier |
+| 17 | 713 | 2290 | 2328 | 2326 | 230731 Privato  | Norris, James   | Particulars will be furnished | 'when available  |
+| 18 | 709 | 210 | 3687 | 262 | 23430jPrivate  | Oat Is, Francis, John.. x... | .. }E. Surrey Terr  | Oatte, C  | Beechwood. Wnllinglon, Surrey, l'.ng  | Scotland. | . Valcartier. | .jScpt. 2/ |
+| 18 | 710 | 242 | 3693 | 287 | 22781 'Private  | O’Brien, Charles  | .. R. C. G. A  | O’Brien, Mrs. R. H  | 1 Si Britain Street, St. John, N.B  | Canada... | . Valcarticr. | . jrfept. 30 |
+| 18 | 709 | 273 | 3693 | 318 | 22C18 Private  | O’Brien, John Hasob  | Nil...  | O’Britu, Frederick  | St. Stephens, N.B    | Canada... | . iValcartier. | .jScpt. 24 |
+| 18 | 3179 | 304 | 3693 | 334 |  |  |  |  |  | Canada... | . 'Valcartier. | . Sept. 26 |
+| 18 | 710 | 310 | 3134 | 348 | *v.:- Private  | O’Brien* Wm. James  | Nil  | Nrifon, Gcorgio E  | Gleason Road, St. James, N.B    |
+| 18 | 796 | 327 | 3691 | 379 | Privato  | Ockcndcn, Ernest P  | Nil  | Ockcndcn, Mrs. A  | Hove, Eng....    | England.. | . j Valcarticr. | .’Sept. 23 |
+| 18 | 708 | 364 | 3691 | 410 | 22830iI^ance-Corporal | O’Connor, Arthur Frank.. | .... 8th Regt  | O’Connor, Patrick  | 394 Champlain Si., Qucbcc, P.Q  | Canada... | . - Valcartier. | . |Sept. 29 |
+| 18 | 3179 | 393 | 3692 | 424 |  |  |  |  |  | U. S. A... | . Valcartier. | . |Sept. 26 |
+| 18 | 708 | 405 | 1899 | 440 | 32534 Private* | O'Dell, William  | .... jP3rd Regt  |
+| 18 | 707 | 423 | 3691 | 476 | 22904 Private  | Odgers, Richard  | .INil... | Odgers, John..  | Johnstown, Pa., U.S.A  | Canada... | . iValcartier. | . jScpt. 29 |
+| 18 | 707 | 461 | 2254 | 494 | 23727] Private  | O’Donnell, .John..,.  |  ‘Particulars will bo furnished | when available   |
+| 18 | 707 | 480 | 3690 | 526 | 235CI | Private  | O’JCcefe, Arthur  | ....Hth C. M. R  | O’Keefe, Mrs. Bridget  | CampbelltowTi, N.B  | Canada... | . IValcartier. | Sept. 26 |
+| 18 | 705 | 512 | 3690 | 552 | 235621Private  | O’Keefe, Daniel  | Nil    | O’Keefe, Bridget     | O'Leary St., Campbellton, N.B    | Canada... | . j Valcartier. | Sept. 23 |
+| 18 | 705 | 542 | 3691 | 584 | 22620; Private  | Oldenburg, Maurice....... | 71st ltegt  | Bonnar, Mrs. James  | Marysville, N.B     | Canada... | . iValcartier. | Sept. 26 |
+| 18 | 704 | 571 | 3689 | 613 | 22905 Private  | Oliver, Theo, Ilenry  | [8 th Regt  | Oliver, Marina  | 1 Stanislas Strpct, Q".ebcc P.Q  | Canada... | . Valcarticr. | Sept.. 29 |
+| 18 | 704 | 601 | 3690 | 648 | 234'29| Private  | Oliver, Wm. Evelyn  | Nil  | Oliver, Mrs . | Greenwood, B.C   | Canada... | .IValcartier. | Sept. 27 |
+| 18 | 703 | 632 | 3690 | 674 | 23426'Private  | . (Oliver, Sidney  | ■45th Regt. & 3rd Drags  | Oliver, Mary Eileen  | Greenwood, B.C  | England.. | . iValcartier. | !Scpt. 18 |
+| 18 | 703 | 668 | 3257 | 702 | 22951'Private  | . Orkney, Donald Duke.... | Particulars will be furnished | when available  |  | I  |
+| 18 | 703 | 679 | 3690 | 728 | 23038! Private  | ■Osborne, .Ins. Arthur  | Nil. | Conley, Mrs. Agnes  | Stirling, Ont   | ( anada... | . iValcartier. | ! jScpt. 25 |
+| 18 | 703 | 717 | 3690 | 764 | 221)06 [Private  | . tOswnld, 10 d gar  | Oth Butt. Lnncs. Fusiliers. | Oswald, Dora  | 15 Allen Ave., Valley field, P.Q  | [England.. | . jValcarticr. | . I Sept. ?(* |
+| 18 | 702 | 749 | 3689 | 789 | 2317-11 Private  | .'Ouellette, Ernest  | 51th Regt  | Ouellette, Joe  | 10B St. Louis St., Sherbrooke, P.Q  | !a nada... | . iValcartier. | JScnt. 23 |
+| 18 | 702 | 780 | 3690 | 817 | 23G91 i Private  | .'Ouellette, Omer  | Nil.; | Ouellette, M    | 2128 Valois St., Montreal, P.Q  | Canada... | . jValcarticr. | JScpt. 27 |
+| 18 | 702 | 810 | 3690 | 846 | 23039‘Private  | Oulfon, Thos. Edwin  | Nil.. | Oulton, Kate    | Dorchester, N.B   | Canada... | . Valcartier. | . Sept. 26 |
+| 18 | 701 | 839 | 3690 | 882 | 22621 (Private  | Owen, David Middleton.. | (52nd Regt. | Owen, Richard  | Minto, N.B  | | Wales  | . Valcartier. | jSept. 28 |
+| 18 | 701 | 869 | 3689 | 908 | 226221 Private  | Page, Elijah..  | Nil   | Page, John  | Woodstock, N.B    | j England.. | . iValcartier. | . iSept. 23 |
+| 18 | 701 | 896 | 3690 | 935 | 2356.31 Private  | Pammcntcr, George.,  | Eng. Terr  | Pammentcr, C. E  | '06 Coronation Road. New Town, Cambridge, Eng.... | England.. | . Valcartier. | . iSept. 25 |
+| 18 | 702 | 928 | 3690 | 966 | 231.75] Private  | (Paquet, Adclard  | Nil. | Paquet, Eliza  | 171 St. Germain St., Qucbcc P.Q  | Canada... | . iValcartier. | . [Sept. 25 |
+| 18 | 701 | 957 | 3689 | 993 | 23692 Private  | iParent, Raymond  | Nil  | Planondon, Mmc. R  | St. Hyacinthc, P.Q   | Canada... | . iValcartier. | . Sept. 27 |
+| 18 | 701 | 987 | 3690 | 1022 | 23222' A r m .-Corpora I.. | Parfitt, Charles  | '6th E.S.R. & 53rd Regt  | Parfitt, Thomas M  | 28 Grange Road, Kingston, Surrey, Eng  | England.. | . IValcartier. | •Sept. 26 |
+| 18 | 700 | 1016 | 3689 | 1053 | 22623 Privato  | Parsons, Ernest  | 07 th ltegt  | Parsons, David  | [Woodstock, N B  | Canada... | . jValcarticr. | .[Sept. 23 |
+| 18 | 701 | 1046 | 3689 | 1096 | 234 36) Private  | Par ton, Thomas   | Nil, | Parton, Alfred  | Med lock Street, Droylsten, Manchester, Eng  | England.. | . jValcarticr. | . Sept. IS |
+| 18 | 699 | 1079 | 1463 | 1107 | 23043 Private  | Passmore, Frank Franks I | 'Men |
+| 18 | 1060 | 1099 | 3689 | 1139 |  | Leonard.;    | ..Nil  | Bo.ves, Mrs. J. M  | Cranbrook,B.C  |  Canada.., | . JValcarticr. | . jSept. 25 |
+| 18 | 699 | 1134 | 3688 | 1172 | 23432 Private  | Paterson, Daniel  | ..lit. N. R  | Robertson, Mrs. A  | Beaumont, B.C    |  {Scotland. | . Valcartier. | Sept. IS |
+| 18 | 700 | 1159 | 3688 | 1203 | 23433'Private  | Paterson, George  | Nil  | [Paterson, James  | 23 Polwarth Gardens. Edinburgh, Scot  |  jScotland. | . Valcarticr. | :;<ept. -.’2 |
+| 18 | 699 | 1189 | 3688 | 1233 | 23217 (Sergeant  | Patterson, John..*  | Br. Armv  | ! Patterson, John  | 21 Joan St., Wallsend-on-Tyne, Northumberland, | Eng.. ICngland.. | . jValcarticr. | .iSept. 25 |
+| 18 | 698 | 1216 | 3688 | 1255 | 22907 {Private  | Patton, Ilarold Rupert  | Q. O. C. 11. Oth Cl. A  | Patton, Ernest  | St. Joseph de I/’vis, P.Q  | .... I Canada.. | . VnlcnrtK'r. | . Sept.. 2!’ |
+| 18 | 699 | 1249 | 3688 | 1287 | 23353|Corpornl  | Paul, James  | ( Jordon Highlanders  | Paul, Jessie Mrs  | .: 13 Caledonian Place, Aberdeen, Scot  |  jScotland. | . jValcarticr. | Sept. 22 |
+| 18 | 698 | 1280 | 3642 | 1324 | 23042(Privato  | Pearce, Chas. ltnpley  | Canadian Militia  | I Pearce, Thomas Edward.. | .134 Leopold St., South Parkdale, Toronto, Ont.. . |  jCannda.. | . jValcai t icr. | JScpt.. |
+| 18 | 698 | 1303 | 3688 | 1353 | 225351 Private  | Pearson, Henry  | Nil.  | Pearson, Elizabeth  | . jl05 Dunslan Road. Duhvich, Ixuidon. S. E. Eng. |  i ICngland.. | .; Valc. rt icr. | iSept. ?S |
+| 18 | 698 | 1339 | 3688 | 1375 | 23604 Private  | Peek, Jack  | Nil  | The Priest  | . iSherbrooko Cathedral, Sherbrooke, P.Q  |  !(Canada.. | . | Valcart if r. | JScpt. 23 |
+| 18 | 818 | 1359 | 3689 | 1405 | rg{  | Pelletier, RcnA Aseher.... | Sth Hegl  | Pelletier, Mrs. O- G  | . 63 D’Autetiil St., Quebec P.Q  |  | Canada.. | JValcarticr. | Js.-pt. 28 |
+| 18 | 763 | 1397 | 3689 | 1435 | 1 Private  | lY’pin, Donat  | Nil  | 1 V'pin, Madame, 1)  | . j00 Dufresne, Montreal, P.Q  |  ,(iannda.. | . IValcartier. | JScpt. 26 |
+| 18 | 697 | 1425 | 3689 | 1462 | 22S02-Privato  | Perring, Thomas James... | 3rd Regt  | Perring, Henrietta  | . :74 Old Market , Bristol, Eng  |  I ingland.. | . Valcartier. | JSept. 26 |
+| 18 | 783 | 1452 | 3689 | 1493 | Privato  | jPcrusso, Lucien  | Nil.....  | Terusso, H  | . iSte. Cecile de Lcvrnrd, Quebec P.Q  |  -anada.. | . IValcartier. | . Sep'. 25 |
+| 18 | 697 | 1482 | 3689 | 1521 | 230G7j Arm .-Corporal.. | ]Peters, Herbert  | Q. O. C. H  | Pet-is, II. I'-,   | .jThetford Minns, P.Q.   |  i( 'anada.. | . jValcarticr. | JScpt. 20 |
+| 18 | 750 | 1510 | 3689 | 1557 | ►7 Private  | 'Peterson, Frank  | 73rd Uegt   | |Peterson, Matilda Mrs  | . (3 Kapelgrand St., Sto kholm, Sweden  |  Sweden.. | . [Valcartier. | .! 1. 25 |
+| 18 | 905 | 1541 | 3689 | 1590 |  | P< terson, St4 phcn  | 71st, Regt    | 1 Peterson, Mr*. Andretv  | . jMilltown, N.B  |  (Canada.. | . iValcartier. | . jSept. 26 |
+| 18 | 695 | 1565 | 3543 | 1608 | 220*25! Private  | j Phillips, Robert  | . jPartieulnrs will bo furnished | [when available  |  |  I  | \  |
+| 18 | 696 | 1595 | 3689 | 1639 | 23131 Private  | i Phillips, George W  |  .Royal Marines  | [Phillips, Mrs. If  | . {1.76 Wynford St., Maryhili, Glasgow, Scot  | .... ’Scotland. | . Valcarticr. | ISept. is |
+| 18 | 782 | 1626 | 3689 | 1667 | Privato  | Phil]   | ....iNil  | I Phil pot, Amy  | ..'Sydney Mines, N.S    |  iCannda.. | . iValcartier. | ‘Sept. 25 |
+| 18 | 695 | 1654 | 3690 | 1702 | 23010; Privato  | Pjgott-, Alfred  | ....INil  | Jl’igott, Arthur Henry  | . Cranbrook, B.C  |   Fngland.. | . jValcarticr. | Sept. 25 |
+| 18 | 695 | 1684 | 3689 | 1729 | 2304!1 Private  | jPiiTKott, David William... | .... |2nd Highland Bgde. 1'. A  | jl’iggott, James   | 3 D'Auteuil St., Quebec P.Q  |  Scotland. | . V alcartier. | Sept. 23 |
+| 18 | 1407 | 1716 | 3689 | 1764 |  |  | . ...|K. F. S  | II 'incock, Harriett, Emma. | Neville House, inversion, Lancashire. Eng  |  j ICngland.. | .; Vah articr. | Sept. 29 |
+| 18 | 1407 | 1749 | 3689 | 1792 |  |  |  ,U. F. A. A- Hth Cam. II  | j Player, Rosetta.  | Melbourne, P.Q  |  ■ ICngland.. | .[Valcartier. | Sept. 27 |
+| 18 | 1406 | 1834 | 3690 | 1876 |  |  | .... 73rd ltegt  | j Poirier, Octave  | Transcona, Man  | (Jana In | .iValcartier.. | Sept. 23 |
+| 18 | 693 | 1868 | 3691 | 1916 | 232!9'Sf‘r^rnnl Cook. | Poling, Thomas  |  |  | 11. 19 Meadow Street, Sherbrooke, P Q.V..... | j( 'ana.la, | . iValcartier.. | Sept . 25 |
+| 18 | 1405 | 1921 | 2877 | 1964 |  |  |  71st. Uegt  | IMillicit., Mrs. Annie  | | Fredcricton, N.B ' |
+| 18 | 691 | 1932 | 3692 | 1978 | 235<)1 Private  | Porter, Fred  |  |  |  | . J( 'anada....... jValcarticr. jSept. 26 |
+{% endraw %}

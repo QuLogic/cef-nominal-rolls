@@ -1,0 +1,546 @@
+---
+title: CMR 10th Regiment (Reinforcing Drafts from)
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | Reinforcing Drafts | from | 10th Regiment Canadian | Mounted Rifles | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 1st Reinforcing Draft | Port: Montreal, P.Q. | Ship: S.S. 11 Northland.” | Date: June 29th, 1915. | 2nd Reinforcing Draft | Port: Montreal, P.Q. | Ship: S.S. “ Elele." | Date: August 23rd, 1915. | 3m-7-17. | 593-2-29. | f Port: Halifax, N.S. | 3rd Reinforcing Draft < Ship: S.S. “Olympic.” | Date: April 28th, 1916. |
+| 2 | 788 | 580 | 3293 | 612 |  | Former Corps. |  |  | Country of |
+| 2 | 1794 | 724 | 3788 | 755 |  |  | Middlemast, Mrs. Isabella. | 2323 Toronto St., Regina, Sask  | England  | Regina  | Feb. | 26 | 1915. |
+| 2 | 604 | 753 | 3787 | 785 | 115006 | Nil  | Armstrong, Joseph Todd... | Quill Plain, Sask  | England  | Regina  | Jan. | 13 | 1915. |
+| 2 | 605 | 783 | 3788 | 814 | 115007 | Nil  | Atkinson, William  | Masham, Yorks, Eng  | England  | Moosomin  | Feb. | 8 | 1915. |
+| 2 | 603 | 811 | 3787 | 843 | 115015 | Nil  | Booth, Mrs. Florence  | Rainow, Crewe, Cheshire, Eng  | England  | Moosomin  | Dec. | 22 | 1914. |
+| 2 | 603 | 841 | 3788 | 872 | 115016 | Nil  | Booth, Mrs. Florence  | Rainow, Crewe, Cheshire, Eng  | England  | Moosomin  | Dec. | 22 | 1914. |
+| 2 | 603 | 870 | 3787 | 901 | 115012 | Nil  | Bulmer, Mrs. C  | Exelby, Bedale, Yorks, Eng  | England  | Regina  | Dec. | 29 | 1914. |
+| 2 | 603 | 899 | 3787 | 930 | 115013 | Nil  | Butterfield, J. G  | P.O. Box 133, Cupar, Sask  | England....;.. | Regina  | Jan. | 5 | 1915. |
+| 2 | 604 | 928 | 3787 | 959 | 115005 | Nil  | Butterfield, J. G  | P.O. Box 133, Cupar, Sask  | England  | Regina  | Jan. | 5 | 1915. |
+| 2 | 603 | 957 | 3787 | 988 | 115014 | Nil  | Burston, William H  | Milverton, Somerset, Eng  | England  | Regina  | Jan. | 26 | 1915. |
+| 2 | 603 | 986 | 3786 | 1017 | 11500S |  | Carr, S  | Mortlach, Sask    | Canada  | Indian Head  | Dec. | 28 | 1914. |
+| 2 | 603 | 1015 | 3786 | 1047 | 115001 |  | Cheyne, C   | Mull West, Longmorn, Elgin, Scot  | Scotland  | Regina  | Jan. | 11 | 1915. |
+| 2 | 603 | 1044 | 3786 | 1076 | 115009 | Nil  | Conway, Mrs. Elizabeth... | 47 Narcissus Rd. W., Hampstead, London, Eng  | England  | Regina  | Dec. | 29 | 1914. |
+| 2 | 603 | 1073 | 3786 | 1104 | 115010 | Nil  | Cowan, Mrs. Thomas  | Francis, Sask  | Canada  | Regina  | Jan. | 21 | 1915. |
+| 2 | 603 | 1103 | 3786 | 1134 | 115011 | Nil  | Chapman, W  | Theodore, Sask  | England  | Regina  | Jan. | 26 | ,1915. |
+| 2 | 603 | 1132 | 3785 | 1159 | 115017 | C.F.A  | Not stated  | Not stated  | England  | Regina  | May | 6 | 1915. |
+| 2 | 603 | 1160 | 3784 | 1191 | 115018 | Nil  | Davies, Mrs. Ellen  | 4 Old Bridge, Haverfordwest, Pembroke, S. Wales  | Wales  | Indian Head  | Dec. | 29 | 1914. |
+| 2 | 604 | 1189 | 3785 | 1220 | 115019 | Nil  | Davis, William H  | Foxleigh, Sask  | Canada  | Regina  | Dec. | 30 | 1914. |
+| 2 | 603 | 1218 | 3784 | 1248 | 115020 | C.G.A  | El lam, Mrs  | 2085 Cartier St., Montreal, P.Q  | England  | Regina  | Feb/ | 16 | 1915. |
+| 2 | 602 | 1248 | 3784 | 1280 | 115021 |  | Gibson, Mrs  | 29 Whitworth Rd., Northampton, Eng  | England  | Regina  | i\lar. | 24 | 1915. |
+| 2 | 603 | 1277 | 3784 | 1307 | 115022 | Nil  | Evans, David  | Pentyrch, Cardiff, Wales  | Wales  | Regina  | Dec. | 29 | 1914. |
+| 2 | 602 | 1306 | 3784 | 1337 | 115003 | Nil  | Fraser, George   | Tate, Sask   | U.S. A  | Regina  .  | Jan. | 5 | 1915. |
+| 2 | 602 | 1334 | 3784 | 1365 | 115023 | Nil  | Oakes, Mrs. H  | Rothsay, Ont    | England  | Regina  | Jan | o | 1915. |
+| 2 | 601 | 1364 | 3784 | 1396 | 115024 |  | Gore, W. J  | c/o Dominion Land Office, Regina, Sask  | Canada  | Regina  | Jan. | 5 | 1915. |
+| 2 | 601 | 1392 | 3784 | 1423 | 115030 | Nil  | Hall, Mrs. Nellie....  | Wilts, Eng  | England  | Moosomin  | Dec. | 17 | 1914. |
+| 2 | 601 | 1420 | 3784 | 1452 | 115026 |  | Hamilton, Mrs. Annie   | “ The Murray,” Montreal, P.Q  | Canada  | Regina  | April | 28 | 1915. |
+| 2 | 601 | 1450 | 3784 | 1482 | 115029 | Nil  | Harper, John  | 491 Horton St., London, Ont  | Canada  | Indian Head  | Dec. | 28 | 1914. |
+| 2 | 602 | 1479 | 3784 | 1510 | 115025 |  | Hill, Mis. G. V...  | Crescent Apts., Regina, Sask  | Canada  | Regina  | May | 18 | 1915. |
+| 2 | 601 | 1509 | 3784 | 1539 | 115027 | Nil  | Horton, Mrs. Annie  | 26 Madeley Rd., Sparkhill, Birmingham, Eng  | England   | Regina  | Jan. | 29 | 1915. |
+| 2 | 601 | 1538 | 3785 | 1569 | 115028 | Nil  | Humphries, A. K  | P.O. Box, 282, Watrous, Sask  | England  | Regina  | Jan. | 11 | 1915. |
+| 2 | 601 | 1567 | 3785 | 1598 | 115031 | Nil  | King, A  | 98 Upper Kent St., Leicester, Eng  | England  | Regina  | Jan. | 5 | 1915. |
+| 2 | 616 | 1595 | 3785 | 1626 | 10327 | Nil  | Kinnaird, Hugh  | Cash City, Mich., U.S.A  | U.S. A  | Indian Head  | Dec. | 29 | 1914. |
+| 2 | 601 | 1624 | 3785 | 1655 | 115033 | Nil  | Luce, Mrs. Lillian  | 624, 9th St., Brandon, Man  | Canada  | Regina  | Jan. | 28 | 1915. |
+| 2 | 601 | 1653 | 3785 | 1684 | 115036 |  | MacKenzie, Mrs. Cathleen.. | Bindal Farm. Portmahomack, Ross, Scot  | Scotland  | Regina  | Dec. | 29 | 1914. |
+| 2 | 601 | 1682 | 3785 | 1714 | 115034 | R.N.W.M.P  | Meyer, Mrs. E   | 5, “C.” Grand Parade, Harringay, London, Eng  | England  | Regina  | April | 28 | 1915. |
+| 2 | 601 | 1711 | 3784 | 1741 | 115035 | Nil  | Morris, Mrs. Annie  | 17 Service St., York, Eng  | England   | Regina  | Dec. | 29 | 1914. |
+| 2 | 600 | 1740 | 3785 | 1772 | 115037 |  | O’Reilly, Mrs. Elizer  | 35 Long St., Devizes, Wilts, Eng  | England  | Indian Head  | Dec. | 29 | 1914. |
+| 2 | 600 | 1769 | 3785 | 1801 | 115038 | G.G.B.G  | Kent, George  | Waverley, Ont  | Canada  | Moosomin  | Jan. | 16 | 1915. |
+| 2 | 600 | 1798 | 3785 | 1829 | 115039 |  | Reeve, Charles  | Grenfell, Sask  | England  | Grenfell  | Dec. | 21 | 1914. |
+| 2 | 600 | 1828 | 3784 | 1859 | 115040 | Nil  | Rolston, Robert  | P.O. Box 825, Regina, Sask  | Canada  | Regina.   | Dec. | 29 | 1914. |
+| 2 | 600 | 1856 | 3784 | 1888 | 115041 |  | Rust, Joseph Walter  | Moosomin, Sask  | England  | Moosomin  | Jan. | 1 | 1915. |
+| 2 | 599 | 1885 | 3784 | 1916 | 115044 | Nil  | Scott, James   | Sunset, Sask  | Canada  | Regina  | Feb. | 2 | 1915. |
+| 2 | 600 | 1916 | 3078 | 1947 | 115042 |  | Sedgwick, B  | Bradbourne Park Farm, Larkfield, Maidstone, Kent, |
+| 2 | 2352 | 1943 | 3784 | 1975 |  |  |  | Eng  | England. | Regina  | April | 28 | 1915. |
+| 2 | 599 | 1973 | 3784 | 2003 | 115043 |  | Selkirk, Mrs.    | London, Eng  | Ireland.. | Regina  | 22 | 1915. |
+| 2 | 600 | 2002 | 3785 | 2032 | 115046 | Nil  | Simmonds, Miss Francis Annie. | Kelliher, Sask  | England. | Regina  | Jan. | 18 | 1915. |
+| 2 | 600 | 2031 | 3784 | 2062 | 115048 |  | Smith, S  | Foxbury, Sask   | England. | Indian Head.. | Dec. | 2y | 1914. |
+| 2 | 599 | 2060 | 3783 | 2091 | 115390 | Nil  | Smith, Mrs. Caroline  | 448 Borough Rd., Birkenhead, Eng  | England. | Regina  | Dec. | 29 | 1914. |
+| 2 | 599 | 2089 | 3784 | 2121 | 115045 | Nil  | Spooner, Samuel Marks  | 15 Salamander St., Shad well, London, Eng  | England. | Moosomin  | Dec. | 19 | 1914. |
+| 3 | 668 | 360 | 3857 | 390 | 115004 | Corporal | Stevens, Claude Ernest  | Territorials. | Stevens, H. J  | 7 Belvoir Rd., Bristol, Eng  | England | Indian Head. | Dec. 23, 1914. |
+| 3 | 669 | 390 | 3857 | 420 | 115002 | Sergeant. | Stoneham, William Bernard | Imp. Forces | Stoneham, Mrs. C | Kensal Rise, London S.W., Eng. | England | Regina  | Dec. 29, 1914. |
+| 3 | 669 | 419 | 3858 | 450 | 115049 | Trooper. | Upex, Andrew Edward  | 16th Horse. | Upex, Mrs. J  | Broadview, Sask   | Canada. | Regina  | April 16, 1915. |
+| 3 | 669 | 449 | 3859 | 478 | 115050 | Trcoper. | Worden, George Billings.. .. | Nil  | Worden, M. M ... | Indian Head, Sask    | Canada. | Indian Head. | Dec. 22, 1914. |
+| 3 | 3413 | 598 | 3856 | 623 |  |  |  |  |  |  |  | Moosomin  | Feb. | 1 | 1915- |
+| 3 | 2370 | 627 | 3856 | 657 |  |  |  |  |  | P.O Box 1873, Winnipeg, Man  |  |  | Feb. | 1 | 1915- |
+| 3 | 665 | 656 | 3857 | 680 | 115051 |  |  |  |  |  |  |  | June | ? | 1915- |
+| 3 | 664 | 685 | 3856 | 714 | 115052 |  |  |  |  |  | England  | Indian Head  | Dec. | 19 | 1914- |
+| 3 | 664 | 714 | 3857 | 745 | 115053 |  |  | Nil  | Brightman, F. E  |  |  |  | Dec. | 19 | 1914. |
+| 3 | 664 | 743 | 3856 | 770 | 115054 |  |  | Nil.... |  |  |  | Moosomin  | Dec. | 18 | 1914. |
+| 3 | 664 | 773 | 3857 | 798 | 115055 |  |  | Nil... |  |  |  | Indian Head  | Jan. | 28 | 1915. |
+| 3 | 664 | 802 | 3857 | 827 | 115056 |  |  | Nil... |  |  |  | Indian Head  | Dec. | 19 | 1914. |
+| 3 | 664 | 831 | 3857 | 860 | 115057 |  |  | Nil  |  |  | England .. |  | Dec. | •19 | 1914. |
+| 3 | 665 | 860 | 3856 | 885 | 115058 |  |  | Nil... |  |  |  | Moosomin  | Jan. | 1f> | 1915. |
+| 3 | 664 | 889 | 3856 | 918 | 115059 |  |  | Nil... |  |  |  | Regina  | Jan. | 28 | 1915. |
+| 3 | 664 | 918 | 3855 | 947 | 115060 |  |  | Nil  |  |  | England  | Indian Head  | Dec. | 21 | 1914. |
+| 3 | 664 | 947 | 3856 | 973 | 115061 |  |  | Nil  |  |  |  | Moosomin  | Dec. | 28 | 1914. |
+| 3 | 665 | 976 | 3854 | 1002 | 115062 |  |  | Nil  |  |  | Canada  | Moosomin  | Dec. | 23 | 1914. |
+| 3 | 665 | 1005 | 3855 | 1034 | 115063 |  | Foster, Herbert James  | S. A.... |  |  |  |  | Feb. | 4 | 1915. |
+| 3 | 665 | 1034 | 3856 | 1060 | 115064 |  |  | Nil  |  |  |  | Indian Head  | Feb. | 2 | 1915. |
+| 3 | 665 | 1062 | 3855 | 1089 | 115065 |  |  | Nil... . |  |  |  | Moosomin  | Dec. | 23 | 1914. |
+| 3 | 666 | 1092 | 3854 | 1121 | 115066 |  | Harle, Thomas Vasey  | S.A. .. | Harle, Mrs T. V  |  |  |  | Jan. | >1 | 1915. |
+| 3 | 665 | 1121 | 3855 | 1150 | 115067 |  |  | Nil  |  | Ayrshire, Scot  |  |  | Mar. | 1 | 1915. |
+| 3 | 665 | 1150 | 3854 | 1176 | 115068 |  |  | Nil.... |  |  |  |  | Dec. | 2, | 1914. |
+| 3 | 665 | 1179 | 3855 | 1206 | 115069 |  |  | Nil.... |  |  |  |  | Nov. 18 | 1914. |
+| 3 | 665 | 1208 | 3855 | 1237 | 115070 |  |  | Nil... |  |  |  | Regina  | Feb. | 10 | 1915. |
+| 3 | 665 | 1237 | 3855 | 1266 | 115071 |  |  |  |  |  |  | Regina  | Jan. | 5 | 1915. |
+| 3 | 664 | 1265 | 3855 | 1292 | 115072 |  |  | Nil... |  |  |  |  | 10 | 1915. |
+| 3 | 664 | 1294 | 3854 | 1324 | 115075 | Trooper  |  | Nil  |  | Barriefield, Ont  |  | Moosomin  | Dec. | 30 | 1914. |
+| 3 | 664 | 1323 | 3853 | 1352 | 115076 | Trooper  |  | Nil  |  | Fleming, Sask...   |  | Moosomin  | Dec. | 18 | 1914. |
+| 3 | 664 | 1352 | 3853 | 1382 | 115073 | Trooper  |  | Nil  |  | Dunleath, Sask  |  |  | Dec. | 19 | 1914. |
+| 3 | 664 | 1380 | 3854 | 1410 | 115082 |  |  |  |  |  |  |  | May | 27 | 1915. |
+| 3 | 664 | 1410 | 3854 | 1440 | 115074 | Trooper  |  | Nil  |  | Boulardarie Is., C.B., N.S  |  | Moosomin  | Jan. | 27 | 1915. |
+| 3 | 664 | 1439 | 3854 | 1471 | 115083 |  |  | Nil... | McKie, R. J  | “ Rhone House,” Castle Douglas, Kircudbright, Scot. |  |  | Jan. | f» | 1915. |
+| 3 | 664 | 1468 | 3854 | 1497 |  |  |  |  |  | Searston, Nfld  | 115077 | Trooper  | May | 4 | 1915. |
+| 3 | 664 | 1497 | 3854 | 1524 | 115078 |  |  | Nil... |  | Not stated  |  |  | Dec. | 29 | 1914. |
+| 3 | 664 | 1526 | 3854 | 1557 | 115080 |  |  | Nil... |  | 10 Hauterville Gdns., Hammersmith, London, Eng— |  | Moosomin  | Jan. | 20 | 1915. |
+| 3 | 664 | 1554 | 3853 | 1581 | 115079 |  |  | Nil... |  |  |  | Moosomin  | Feb. | 23 | 1915. |
+| 3 | 664 | 1584 | 3852 | 1609 | 115081 |  |  |  |  |  |  |  | Dec. | 1 | 1914. |
+| 3 | 664 | 1613 | 3853 | 1640 | 115084 |  |  | Nil  |  |  |  | Grenfell  | April 21 | 1915. |
+| 3 | 664 | 1642 | 3853 | 1668 | 115085 |  |  | Nil.... |  |  |  |  | 17 | 1915. |
+| 3 | 664 | 1671 | 3852 | 1700 | 115086 |  |  | Nil.... |  |  |  | Sewell  | July | 2 | 1915. |
+| 3 | 664 | 1700 | 3852 | 1727 | 115087 |  |  | Nil  |  |  |  | Moosomin  | Dec. | 2? | 1914. |
+| 3 | 664 | 1728 | 3852 | 1758 | 115088 | Trooper  |  | Nil.... |  |  |  | cewell C&mp... | June | 23 | 1915. |
+| 3 | 664 | 1757 | 3852 | 1784 | 115089 | Trooper  |  | Nil  |  |  |  |  | Jan. | 15 | 1915. |
+| 3 | 664 | 1786 | 3852 | 1819 | 115090 | Trooper  |  | Nil  |  | Pulverbatch, Shrewsbury, Salop, Eng  |  | Indian Head  | Dec. | 19 | 1914. |
+| 3 | 663 | 1815 | 3853 | 1841 | 115091 |  |  |  |  |  |  |  | 1 | 1915. |
+| 3 | 663 | 1844 | 3851 | 1870 | 115092 |  |  |  |  |  |  |  | Dec. | 18 | 1914. |
+| 3 | 663 | 1872 | 3852 | 1901 | 115093 | T rooper  |  | Nil  |  |  |  |  | Jan. | 6 | 1915. |
+| 3 | 663 | 1902 | 3852 | 1928 | 115094 |  |  |  |  |  |  |  | Dec. | 23 | 1914. |
+| 3 | 663 | 1930 | 3852 | 1961 | 115095 | Trooper  |  | Nil  |  | Atwater. Sask    | Wales  |  | Dec. | 24 | 1914. |
+| 3 | 663 | 1959 | 3852 | 1987 | 115096 | Corporal  |  | Nil... |  |  |  |  | Dec. | 22 | 1914. |
+| 3 | 662 | 1988 | 3852 | 2020 | 115097 | T rooper  |  | Nil  |  | Regina, Sask    |  |  | May | 19 | 1915. |
+| 3 | 661 | 2018 | 3851 | 2044 | 115098 | T rooper  |  | Nil... |  |  |  |  | IS | 1915. |
+| 3 | 660 | 2047 | 3851 | 2080 | 115099 | Trooper  |  |  |  | 3 McNichol St., Montreal, P.Q  |  |  | 27 | 1915. |
+| 3 | 659 | 2075 | 3851 | 2107 |  |  |  |  |  | Wapella, Sask    | 115100 | Woodhead, William Martin  | Nil  | Woodhead. Robert  | England  | Moosomin  | Dec. | 19 | 1914. |
+| 4 | 745 | 569 | 3257 | 600 |  |  | Former Corps. |  |  | Country of |
+| 4 | 663 | 715 | 3757 | 745 | Major  | Washington, Ferguson Coleman... | 20th Horse. | Washington, Mrs. F. C  | Weyburn, Sask   | Canada. | Yorkton. | Dec. 1, 1914. |
+| 4 | 662 | 744 | 3046 | 774 | Hon.-Captain. | Milne, Alexander  | 99th Regt.. | Milne, Mrs. Isabel Hannah. | Suite 10, Kilmarnock Blk., 459 Balmoral St., Winnipeg, |
+| 4 | 2319 | 773 | 3756 | 801 |  |  |  |  | Man  | Scotland. | Fort, la Prairie. | Mar. | 17, 1916. |
+| 4 | 660 | 802 | 3754 | 833 | Captain | Page, Alexander Spencer  | 16th Horse  | Page, Mrs. Margaret Mary  | 2269 Cornwall St., Regina, Sask  | Canada... | Regina.. ...... | Feb. | 26, 1915 |
+| 4 | 660 | 831 | 3755 | 861 | Captain. . .. | Phillips, Alfred Coyne  | C.A.M.C  | Phillips, Mrs. Annie  | Areola, Sask  | Canada... | Winnipeg  | Nov. | 23, 1915. |
+| 4 | 659 | 860 | 3754 | 890 | Captain | Rosborough, Christopher John.. | 16th Horse  | Rosborough, Mrs. Isabella  | Grenfell, Sask  | Canada... | Regina  | Feb. | 26, 1915. |
+| 4 | 658 | 889 | 3755 | 920 | Captain. . . . | Smith, Howell  | 16t h Horse and S. A... | Smith, Mrs. Jane Syme  | 2340 Cornwall St., Regina, Sask  | Canada... | Regina   | Feb. | 26, 1115. |
+| 4 | 660 | 918 | 3754 | 949 | Lieutenant. | Black, David Young  | 16th Horse  | Black, Mrs. Christina  | Carnearie, Parton, Kirkcudbright, Scot  | Scotland. | Port, la Prairie. | Mar. | 14, 1916. |
+| 4 | 660 | 947 | 3754 | 979 | Lieutenant. | Brown, Frank Raymond  | 16th Horse  | Brown, Archibald  | Wallington, Surrey, Eng  | Spain  | Port, la Prairie. | Jan. | 10, 1916. |
+| 4 | 661 | 976 | 3754 | 1006 | Lieutenant. | Clarke, Charles Edmund  | 60th Regt and S. A.... | Clarke, Mrs. Frances Elizabeth. | Tugaske, Sask  | England.. | Port, la Prairie. | Feb. | 28, 1916. |
+| 4 | 660 | 1005 | 3754 | 1035 | Lieutenant. | Ellis, John Whistler  | 29th Horse and S.A... | Ellis, Mrs. J. W....  | Melfort, Sask  | England.. | Port, la Prairie. | Feb. | 28. 1916. |
+| 4 | 660 | 1034 | 3753 | 1065 | Lieutenant. | Fleming, Edward William  | 16th Horse  | Fleming, Mrs. Annie  | 75 Manor Rd., Liscard, Cheshire, Eng  | England.. | Port, la Prairie. | Jan. | 10, 1916. |
+| 4 | 660 | 1064 | 3753 | 1094 | Lieutenant. | Macklem, John  | 29th Horse  | Macklem, George  | 23 London St., Toronto, Ont  | Canada... | Regina  | Feb. | 14, 1915. |
+| 4 | 659 | 1093 | 3752 | 1123 | Lieutenant.. | Macmillan, Charles Rowat  | ll.N.W.MP. and S.A, | Macmillan, Hugh M  | Elmers, Kirkliston Drive, Belfast; Ire  | Scotland. | Port, la Prairie. | Feb. | 28, 1916. |
+| 4 | 659 | 1122 | 3751 | 1152 | Lieutenant. | Matheson, Frederick Alexander. .. | 60th Regt  | Matheson, Mrs. Jennie  | 435, 13th St., Brandon, Man  | Canada... | Port, la Prairie. | Feb. | 28. 1916. |
+| 4 | 660 | 1151 | 3751 | 1181 | Lieutenant.. | Patterson, William John  | 95th Regt  | Patterson, John  | Grenfell, Sask  | Canada... | Port, la Prairie. | Feb. | 28, 1916. |
+| 4 | 659 | 1180 | 3750 | 1210 | Lieutenant.. | Reece, John Maurice  | 16th Horse  | Reece, Mrs. E. L  | The Mount,” Chalford, Glos., Eng  | England.. | Port la Prairie. | Mar. | 14, 1916. |
+| 4 | 659 | 1209 | 3750 | 1239 | Lieutenant.. | Reeve, Charles James  | 105th Regt  | Reeve, Mrs. Rose Eleanor  | Bulls Hall, Knoddishall, Saxmundham, Suffolk, Eng.. | England.. | Port, la Prairie. | Feb. | 29, 1916. |
+| 4 | 658 | 1238 | 3749 | 1268 | Lieutenant.. | Reeves, Frederick William  | R.N.W.M.P  | Reeves, Mrs. Ida Ellen  | Prince Albert, Sask  | England. . | Port, la Prairie. | Feb. | 28, 1916. |
+| 4 | 658 | 1266 | 3750 | 1297 | Lieutenant.. | Reilly, Haydn Alexander  | 99th Regt  | Reilly, Mrs. W. B    | Calgary, Alta  | Ireland... | Port, la Prairie. | Nov. | 15, 1915. |
+| 4 | 658 | 1297 | 3750 | 1327 | Lieutenant.. | Shaw, James MacDonald  | R.N.W.M.P  | MacDonald, Miss Patricia  | 4 Scar dale Rd., Trinity, Edinburgh, Scot  | Scotland. | Port, la Prairie. | Jan. | 10, 1916. |
+| 4 | 658 | 1326 | 3749 | 1354 | Hon.-Lieut. | Stevenson, Charles Alston  | C.A.V.C  | Stevenson, Mrs. L. E  | Reston, Man  | Scotland. | Regina   | Feb. | 1, 1915. |
+| 4 | 656 | 1355 | 3749 | 1384 | Lieutenant.. | Taylor, Sydney  | 16th Horse and S.A... | Taylor, Mrs. Barbara  | Windthorst, Sask  | England.. | Port, la Prairie. | Jan. | 10. 1916. |
+| 4 | 656 | 1384 | 3749 | 1414 | Lieutenant.. | Turner, Henry James  | 34th Horse  | Turner, Mrs. Sarestha Gomez... | 602 Wardlaw Ave., Winnipeg, Man  | England.. | Grenfell  | April | 20, 1915. |
+| 4 | 558 | 1410 | 3747 | 1442 | 115749 | Trooper.... | Ainsworth, George Herbert  | Nil  | Ainsworth, Mrs. Elizabeth Jane. | Lindeen, Byron Rd., Blackpool, Lancs, Eng  | England.. | Regina  | Dec. | 10, 1915. |
+| 4 | 558 | 1442 | 3748 | 1471 | 115472 | Trooper | Allison, William George  | Nil  | Allison, Mrs Emma  | 10 Market St., East Ham, London, Eng  | England.. | Regina  | May | 20, 1915. |
+| 4 | 558 | 1472 | 3747 | 1500 | 115181 | Trooper | Anderson, Hamilton  | Nil   | Porteous, Mrs. Mary  | Woodlawn, Ont  | Canada... | Regina  | May | 20, 1915. |
+| 4 | 558 | 1499 | 3748 | 1530 | 115799 | Trooper.... | Anderson, Harold  | Nil  | Anderson, Samuel  | Portage la Prairie, Man  | Canada... | Port, la Prairie. | Jan. | 8, 1916. |
+| 4 | 557 | 1530 | 3747 | 1559 | 115964 | Trooper.... | Anderson, Louis Henry  | 34 th Horse  | Anderson, George  | Lurgan, Co. Armagh Ire  | Ireland... | Winnipeg. ...... | Jan. | 4, 1916. |
+| 4 | 556 | 1558 | 3748 | 1587 | 115903 | Trooper | Armstrong, Charles Victor  | Nil  | Armstrong, Mrs. Hannah  | Harrow-on-the-Hill, M’sex, Eng  | England.. | Port, la Prairie. | Feb. | 1, 1916. |
+| 4 | 556 | 1587 | 3746 | 1617 | 115744 | Trooper.... | Armstrong, William Earl  | Nil  | Armstrong, Mary Josephine  | Kincardine, Ont  | Canada... | Regina  | Dec. | 9, 1915. |
+| 4 | 557 | 1616 | 3747 | 1646 | 115552 | Sergeant  | Atkins, Wilfred S  | Nil  | Atkins, R. J. C.     | Burquitlam, B.C  | Canada... | Regina  | June | 3, 1915. |
+| 4 | 556 | 1645 | 3747 | 1675 | 1159S9 | Trooper.... | Atkins, William John  | Nil  | Atkins, Mrs. Harriet  | 21 Nightingale Rd., Bushey, Herts, Eng  | England.. | Davidson...... | Mar. | 22, 1916. |
+| 4 | 556 | 1673 | 3746 | 1705 | 115979 | Trooper.... | Averill, Arthur  | Nil  | Averill, Arthur  | Wolseley Bridge, Staffs, Eng  | England.. | Port, la Prairie. | Mar. | 2, 1916. |
+| 4 | 556 | 1702 | 3746 | 1734 | 115929 | Trooper.... | Ayerst, Henry  | Nil  | Ayerst, Mrs. Gertrude   | 1397, 3rd Ave. E., Owen Sound, Ont  | Canada .. | Port, la Prairie. | Jan. | 22, 1916. |
+| 4 | 555 | 1731 | 3747 | 1763 | 115583 | Trooper  | Ayling, Horace Edward  | Nil  | Ayling, C. A   | Han worth, M’sex, Eng  | England.. | Indian Head  | July | 12, 1915. |
+| 4 | 553 | 1760 | 3746 | 1792 | 781594 | Trooper.... | Aymer, Robert  | Nil  | •Yyrner, Edward  | 936 Lillooet St., Moose Jaw, Sask  | Canada... | Moose Jaw  | Dec. | 29, 1915. |
+| 4 | 555 | 1789 | 3746 | 1821 | 115837 | Corporal  | Bailey, Henry  | Imp. Forces  | Bailey, Mrs. Avis  | Bishopstone, Wilts, Eng  | England.. | Port, la Prairie. | Jan. | 8, 1916. |
+| 4 | 554 | 1819 | 3744 | 1850 | 115745 | Trooper.... | Bailey, William Robert  | Nil  | Bailey, Mrs W. R  | 2266 Albert St., Regina, Sask  | Wales. | Regina  | Dec. | 9, 1915. |
+| 4 | 553 | 1847 | 3745 | 1880 | 115813 | Trooper.... | Bain, Ernest William  | Imp. Forces  | Bain, Mrs. Ethel M  | Moose Jaw, Sask  | Scotland. | Regina  | Jan. | 10, 1916. |
+| 4 | 552 | 1877 | 3745 | 1909 | 115186 | Trooper.... | Baker, John Douglas  | Nil  | Baker, W.    | Portland PI., Bridgwater, Somerset, Eng  | England.. | Regina   | Dec. | 30, 1914. |
+| 4 | 551 | 1905 | 3745 | 1938 | 115920 | Trooper  | Baker, Joseph Herbert  | Nil  | Baker, William  | Windsor, Berks, Eng  | England.. | Port, la Prairie. | Feb. | 7, 1916. |
+| 4 | 552 | 1934 | 3745 | 1967 | 115301 | Trooper.... | Baker, Robert  | 100th Regt  | Baker, Richard *  | Rooska, Ban try, Co. Cork, Ire  | Ireland... | Port, la Prairie. | Jan. | 14, 1916. |
+| 4 | 550 | 1964 | 3745 | 1997 | 115753 | Trooper.... | Baker, Walter    | Imp. Forces  | Baker, William   | Middle Rd., Kingston-by-Sea, Brighton, Sussex, Eng. | England.. | Regina   | Dec. | 14, 1915. |
+| 4 | 550 | 1992 | 3744 | 2026 | 115355 | Trooper | Baldwin, Stephen  | S.A. | Baldwin, Mrs. Grace  | Jansen, Sask  | England.. | Port, la Prairie. | Jan. | 20, 1916. |
+| 4 | 549 | 2022 | 3744 | 2056 | 115548 | Trooper  | Barber, John  | Nil  | Stokes, Mrs  | Anton Gowt, nr. Boston, Lines, Eng  | England.. | Regina  | June | 5, 1915. |
+| 4 | 549 | 2050 | 3744 | 2085 | 115713 | Trooper  | Barber, William James  | Nil  | Barber, Mrs. Isabelle  | Portage la Prairie, Man  | U.S.A. | Port, la Prairie. | Dec. | 1, 1915. |
+| 4 | 549 | 2080 | 3744 | 2114 | 115559 | Trooper  | Barker, Arthur George  | Ceylon Army. | Barker, Mrs. Jean  | 2103 Scart.h St., Regina, Sask  | England. | Regina   | June | 5, 1915. |
+| 4 | 549 | 2109 | 3743 | 2144 | 115703 | Trooper  | Barlow, Edward  | Nil  | Barlow, William  | Sunderland, Durham, Eng  | England. | Port, la Prairie. | Nov. | 22, 1915. |
+| 5 | 633 | 387 | 3821 | 417 | 115731 Trooper  | Barlow, John  | Nil  | Barlow, William  | Sunderland, Durham, Eng  | England.. | Port .la Prairie | /Dec. | 9, 1915. |
+| 5 | 1498 | 416 | 3821 | 445 |  |  | Nil  |  | Grenfell, Sask  | England.. | Grenfell  | Jan. | 11, 1915. |
+| 5 | 1498 | 446 | 3820 | 475 |  |  | Nil  |  | 581 Alverstone St., Winnipeg, Man  | Scotland. | Port, la Prairie. | Jan. | 21, 1916. |
+| 5 | 1498 | 475 | 3820 | 504 |  |  | Nil  |  | Maynooth, Ont  | Canada... | Moosomin...... | Jan. | 1, 1915. |
+| 5 | 1498 | 504 | 3820 | 533 |  |  | Nil  |  | Foresthill, Wimborne, Dorset, Eng  | England.. | Port, la Prairie. | Feb. | 2, 1916. |
+| 5 | 1498 | 534 | 3819 | 562 |  |  | Nil  |  | Pickering, Ont   | Canada... | Indian Head  | Dec. | 23, 1914. |
+| 5 | 1497 | 563 | 3818 | 591 |  |  | Nil  |  | Moosomin, Sask   | Canada... | Camp Hughes.. | Oct. | 13, 1915. |
+| 5 | 2331 | 592 | 3819 | 620 |  |  |  |  | Theodore, Sask   | Canada... | Regina  | Jan. | 26, 1915. |
+| 5 | 1498 | 622 | 3818 | 650 |  |  | Nil  |  | Broadview, Sask  | England.. | Moosomin  | Dec | 19, 1914. |
+| 5 | 1497 | 651 | 3819 | 680 |  |  | Nil  |  | Monery, Crossdoney, Co. Cavan, Ire  | Ireland... | Port, la Prairie. | Feb. | 16, 1916. |
+| 5 | 1497 | 680 | 3818 | 711 |  |  | Nil  | Bell, W. C  | Newport, Salop, Eng  | Wales  | Regina  | Jan. | 15, 1915. |
+| 5 | 1497 | 709 | 3818 | 738 |  |  | Nil  |  | Baring, Sask   | England.. | Grenfell  | Jan. | 11, 1915. |
+| 5 | 1497 | 739 | 3817 | 767 |  |  | Nil  |  | New Washington, Co. Durham, Eng  | England.. | Port, la Prairie. | Jan. | 28, 1916. |
+| 5 | 1495 | 768 | 3817 | 796 |  |  | Can. Mil  |  | 112, 7th St. N.W., Portage la Prairie, Man  | Canada... | Port, la Prairie. | Feb. | 4, 1916. |
+| 5 | 1496 | 797 | 3817 | 825 |  |  | Nil  |  | Goodeve, Sask  | Belgium.. | Port, la Prairie. | Jan. | 12, 1916. |
+| 5 | 1496 | 826 | 3816 | 855 |  |  | Nil  |  | 3339, 18th Ave., Regina ,Sask  | England.. | Sewell  | Aug. | 23, 1915. |
+| 5 | 631 | 855 | 3816 | 886 | 115638 Act.-Corporal  |  | Nil  |  | 2160 Retaliack St., Regina, Sask  | England.. | Regina  | Sep. | 25, 1915. |
+| 5 | 1496 | 884 | 3816 | 913 |  |  | Nil  |  | Indian Head, Sask  | England. | Indian Head  | Dec. | 30, 1914. |
+| 5 | 1496 | 913 | 3816 | 942 |  |  | Nil  |  | Rushington Lane, Totton, Southampton, Eng  | England.. | Port, la Prairie. | Nov. | 22, 1915. |
+| 5 | 1495 | 943 | 3815 | 971 |  |  | R.N.W.M.P  |  | 1060 Garnet St., Regina, Sask  | England.. | Regina  | Jan. | 15, 1916. |
+| 5 | 2329 | 971 | 3815 | 1000 |  |  |  |  | Prenton, Birkenhead, Eng  | England.. | Port, la Prairie. | Nov. | 24, 1915. |
+| 5 | 987 | 1001 | 3816 | 1031 |  | Boyd, David Rutherford F. B. B. | Nil  |  | 26 Sandport St., Kinross, Scot  | Australia. | Moosomin  | Mar. | 9, 1915. |
+| 5 | 630 | 1030 | 3815 | 1060 | 115537 Corporal  |  | R.N.W.M.P  |  | Regina, Sask  | Canada... | Regina  | June | 1, 1915. |
+| 5 | 1495 | 1059 | 3815 | 1088 |  |  | Nil  |  | 865 High Rd., Tottenham, London, Eng  | England.. | Regina  | Dec. | 29, 1914. |
+| 5 | 1495 | 1087 | 3814 | 1117 |  |  | Nil  |  | Cottage Hospital, Wells next the Sea, Norfolk, Eng.. | England.. | Port, la Prairie. | Feb. | 7, 1916. |
+| 5 | 2329 | 1117 | 3814 | 1146 |  |  |  |  | Fleming, Sask  | England.. | Regina  | Apri] | 10, 1915. |
+| 5 | 2328 | 1145 | 3814 | 1175 |  |  |  |  | Biggar, Sask  | Scotland. | Regina  | Dec. | 17, 1915. |
+| 5 | 1494 | 1174 | 3813 | 1204 |  |  | Nil  |  | Verigin, Sask  | Canada... | Regina  | Dec. | 18, 1915. |
+| 5 | 1494 | 1204 | 3813 | 1231 |  |  | Nil  |  | Theodore, Sask. .  | Canada... | Yorkton  | Jan. | 4, 1916. |
+| 5 | 1494 | 1233 | 3813 | 1263 |  |  | Nil  | Brown, Mrs. J. V  | 7 Grove PI., Ealing, M’sex., Eng  | England.. | Indian Head  | Jan. | 5, 1916. |
+| 5 | 1495 | 1262 | 3812 | 1292 |  |  | Nil  |  | 8 Byron St., Cardiff, Glamorgan, Wales  | England.. | Regina  | May | 31, 1915. |
+| 5 | 630 | 1292 | 3812 | 1321 | 115742 Trooper  | Brown, William Arthur  | Nil  |  | Pollington, Yorks, Eng  | England.. | Yorkton  | Dec. | 12, 1915. |
+| 5 | 1494 | 1320 | 3812 | 1349 |  |  | Nil  |  | 270, 1st St. E., North Vancouver, B.C  | Canada... | Regina  | May | 5, 1915. |
+| 5 | 1495 | 1350 | 3811 | 1378 |  |  | Nil  |  | Portage la Prairie, Man  | Canada... | Port, la Prairie. | Jan. | 28, 1916. |
+| 5 | 1494 | 1379 | 3811 | 1407 |  |  | Nil  |  | Forget, Sask  | England.. | Regina  | May | 27, 1915. |
+| 5 | 1494 | 1408 | 3811 | 1436 |  |  | Nil  |  | 1065 Robinson St., Regina, Sask  | England.. | Regina  | Jan. | 18, 1916. |
+| 5 | 1494 | 1437 | 3810 | 1465 |  |  | Nil  |  | 10C5 Robinson St., Regina, Sask  | England.. | Regina    | Jan. | 18, 1916. |
+| 5 | 629 | 1466 | 3810 | 1494 | 115227 Act.-Corporal  | Butler, Hubert J. V  | Nil  |  | Carberry, Man  | Canada... | Moosomin. | Jan. | 5, 1915. |
+| 5 | 1494 | 1494 | 3810 | 1522 |  |  | Nil  |  | 62 Oxford St. W.t Moose Jaw, Sask  | Canada... | Port, la Prairie. | Feb. | 4, 1916. |
+| 5 | 1494 | 1524 | 3809 | 1552 |  |  | Nil  |  | Norgatc, Man  | Canada... | Port, la Prairie. | Dec. | 1, 1915. |
+| 5 | 1494 | 1553 | 3810 | 1580 |  |  | Nil  |  | Tain, Ross, Scot    | Scotland.. | Port, la Prairie. | Dec | 29, 1915. |
+| 5 | 1493 | 1581 | 3809 | 1610 |  |  | Nil  |  | 76 Smith field Ave., Winnipeg, Man  | England.. | Regina  | Jan. | 21, 1915. |
+| 5 | 2327 | 1611 | 3809 | 1639 |  |  |  |  | L’Islet, P.Q  | Canada... | Regina  | Dec. | 15, 1915. |
+| 5 | 1493 | 1639 | 3809 | 1668 |  |  | Nil  |  | 1405 Retaliack St., Regina, Sask  | England.. | Regina  | Jan. | 21, 1916. |
+| 5 | 983 | 1668 | 3809 | 1697 |  | Causey, Frederick George  | S.A.....  |  | Souris, Man  | England.. | Souris  | Sep. | 27, 1915. |
+| 5 | 2325 | 1697 | 3809 | 1726 |  |  |  |  | 34 Havelock St., Wellingborough, Northants, Eng... | England.. | Moosomin.  | Jan. | 30, 1915. |
+| 5 | 1493 | 1727 | 3809 | 1754 |  |  | Nil  |  | Ninga, Man  | Canada... | Port, la Prairie. | Feb. | 18, 1916. |
+| 5 | 1493 | 1755 | 3809 | 1782 |  |  | Nil  |  | 6th St., Midland, Ont  | Canada... | Port, la Prairie. | Nov. | 24, 1915. |
+| 5 | 2327 | 1784 | 3809 | 1813 |  |  |  |  | Holt, Norfolk, Eng  | England.. | Port, la Prairie. | April | 3, 1916. |
+| 5 | 1492 | 1813 | 3809 | 1843 |  |  | Nil  |  | Piapot, Sask  | England.. | Lumsden  | Oct. | 17, 1915. |
+| 5 | 1491 | 1843 | 3807 | 1871 |  |  | Nil  |  | Woodville, Ont  | Canada... | Regina  | Jan. | 10, 1916. |
+| 5 | 1491 | 1872 | 3808 | 1900 |  |  | Nil  |  | Brockville, Ont  | Canada... | Camp Hughes.. | Oct. | 13, 1915. |
+| 5 | 1491 | 1901 | 3808 | 1927 |  |  | Nil  |  | PaJmer, Sask    | Canada... | Port, la Prairie. | Jan. | 7, 1916. |
+| 5 | 627 | 1929 | 3808 | 1958 | 115874 Trooper  |  | Nil  |  | 1945 Qucbcc St., Regina, Sask  | Canada... | Regina.    | Jan. | 21, 1916. |
+| 5 | 1490 | 1959 | 3808 | 1987 |  |  | Nil  |  | Moosomin, Sask  | England.. | Moosomin  | Dec. | 18, 1914. |
+| 5 | 1490 | 1988 | 3808 | 2016 |  |  | Nil  | Cooper, G. H  | Moosomin, Sask  | England.. | Sewell Camp... | July | 28, 1915. |
+| 5 | 1490 | 2017 | 3808 | 2044 |  |  | Nil  | Crealock, B. G  | Burnside,.Man  | Canada... | Port, la Prairie. | Jan. | 6, 1916. |
+| 5 | 1490 | 2046 | 3807 | 2075 |  |  | Nil  | Creasy, Fred  | Hant.horpc, Bourne, Lines, Eng  | England.. | Regina  | May | 17, 1915. |
+| 5 | 1490 | 2075 | 3806 | 2104 |  |  | Nil  | Crippin, Mrs. M  | 7 Fish St., Shrewsbury, Salop, Eng  | England.. | Regina  | June | 5, 1915. |
+| 5 | 626 | 2104 | 3809 | 2133 | 115249 Trooper  | Crouchman, William Charles  | Nil  | Crouchman, Mrs. Lydia  | 83 Lower Hamlet, Forest Gate, London, Eng  | England.. | Regina  | Jan. | 5, 1915. |
+| 6 | 737 | 573 | 3241 | 605 |  |  |  | Former Corps. |  |  | Country of |
+| 6 | 560 | 717 | 3739 | 750 | 115471 | Trooper  |  | Nil  | Crowe, R. M  | Windthorst, Sask  | England.. | Regina  | May | 1915. |
+| 6 | 559 | 746 | 3738 | 780 | 115175 | L.-Corporal  |  |  | Crowlie, Mrs. Mary  | 2023 Broad St., Regina, Sask  | Scotland. | Regina  | Dec. | 1914. |
+| 6 | 559 | 775 | 3739 | 809 | 115892 | Trooper  | Croxford, John Thomas  | Nil  | Croxford, James  | 26 Bookham St., Hoxton, London, Eng  | England.. | Port, la Prairie | Jan. | 1916. |
+| 6 | 559 | 804 | 3738 | 838 | 115791 | Corporal  |  | Nil  | Davies, N. J  | Palmer, Sask   | England.. | Port, la Prairie | Jan. | 1916. |
+| 6 | 559 | 834 | 3738 | 867 | 115075 | Trooper  |  | Nil  | Davis, A  | 4 Park Ave., Oswestry, Salop, Eng  | England.. | Indian Head... | Dec. | 1914. |
+| 6 | 559 | 863 | 3738 | 898 | 115982 | Trooper  |  | Nil  | Davis, Joseph. ..   | Spy Hill, Sask    | Canada... | Port, la Prairie | Mar. | 1916. |
+| 6 | 559 | 892 | 3738 | 926 | 115715 | Trooper  |  | Nil.... | Davis, Mrs. Mary Jane.... | P.O. Box 665, Portage La Prairie, Man  | Canada... | Port, la Prairie | Dec. | 1915. |
+| 6 | 559 | 921 | 3737 | 955 | 115493 | Trooper  | Davy, Dennis  | Nil  | Davy, Mrs. E. F  | 36 Southgrove Rd., Sheffield, Yorks, Eng  | England.. | Regina  | May | 1915. |
+| 6 | 559 | 950 | 3737 | 984 | 115838 | Trooper  | Delamere, Samuel  | Nil  | Delamere, Mrs. M  | Rutland, Sask  | Ireland... | Port, la Prairie | Jan. | 1916. |
+| 6 | 559 | 979 | 3737 | 1013 | 115772 | Trooper  |  | Nil  | Derrick, Augustus  | Merrickville, Ont  | Canada... | Port, la Prairie | Dec. | 1915. |
+| 6 | 558 | 1008 | 3737 | 1042 | 152357 | Trooper  |  | Nil  | Dill, Mrs. Mary  | 238 , 9th St., Brandon, Man  | Canada... | Brandon  | Oct. | 1915. |
+| 6 | 558 | 1037 | 3736 | 1072 | 115865 | Trooper  |  | Nil  | Dockray, William  | Egremont, Cumberland, Eng  | England.. | Regina  | Jan. | 1916. |
+| 6 | 558 | 1067 | 3737 | 1101 | 115146 | Trooper  |  |  | Downing, Mrs. M. A  | Carberry, Man    | England.. | Indian Head... | Dec. | 1914. |
+| 6 | 2304 | 1127 | 3737 | 1155 |  |  |  |  |  | Man  | Canada... | Sewell  | Aug. | 1915. |
+| 6 | 557 | 1153 | 3736 | 1186 | 115261 | Trooper  |  | Nil  | Dixon, Lollah  | 19 Lollard St., Kennington, Rd. London, Eng  | England.. | Grenfell    | Jan. | 1915. |
+| 6 | 557 | 1182 | 3736 | 1216 | 115923 | Trooper  |  | Nil  | Dowsett, John  | 13 Neptune St., Rotherhithe, London, Eng  | England.. | Port, la Prairie. | Feb. | 1916. |
+| 6 | 557 | 1211 | 3735 | 1244 | 115121 | L.-Corporal  |  | Nil  | Dyer, Mrs. W  | Indian Head, Sask  | England.. | Indian Head  | Dec. | 1914. |
+| 6 | 556 | 1241 | 3736 | 1274 | 115458 | Trooper  |  | C.F.A  | Eastwood, Mrs. Lorenza  | 1204 Angus St., Regina, Sask  | England.. | Regina  | May | 1915. |
+| 6 | 556 | 1270 | 3736 | 1302 | 115477 | Act.-Corporal  | Ellam, James  | Nil  | Ellam, Mrs  | 2085 Cartier St., Montreal, P.Q  | England.. | Regina  | May | 1915. |
+| 6 | 556 | 1299 | 3735 | 1332 | 115264 | Trooper  |  | Nil  | Engnes, Ethel  | Weyburn, Sask  | Norway.. | Grenfell....... | Jan. | 1915. |
+| 6 | 555 | 1328 | 3735 | 1361 | 115909 | Trooper  |  | Nil  | Evans, Mrs. Ethel Margaret. | Ray more, Sask  | England.. | Port, la Prairie. | Jan. | 1916. |
+| 6 | 555 | 1357 | 3735 | 1389 | 115520 | Trooper  |  | Nil  | Evans, Lewis T  | Llanerthel, Miel, Monmouth, Eng  | England.. | Regina  | May | 1915. |
+| 6 | 554 | 1386 | 3735 | 1419 | 115232 | Trooper  |  | C.F.A..... | Allen, Mrs  | Disley, Sask  | Scotland. | Regina   | Jan. | 1915. |
+| 6 | 554 | 1415 | 3735 | 1448 | 115166 | Trooper  |  | Nil  | Farquhar, Mrs. B  | Monkstown, Co. Antrim, Ire  | Ireland... | Regina .   | Dec. | 1914. |
+| 6 | 554 | 1444 | 3735 | 1475 | 115396 | Trooper  |  | Nil  | Farr, John C  | Carnduff, Sask  | Canada... | Moosomin  | Mar. | 1915. |
+| 6 | 554 | 1473 | 3735 | 1505 | 115728 | Trooper  |  | Nil  | Favel, Joseph  | Oakville, Man  | Canada... | Port, la Prairie. | Dec. | 1915. |
+| 6 | 554 | 1502 | 3735 | 1533 | 115924 | Trooper  | Felice, Silvio  | Nil  | Felice, Francis  | Zeitun, Malta  | Malta.... | Port, la Prairie. | Jan. | 1916. |
+| 6 | 554 | 1531 | 3735 | 1563 | 115969 | Trooper    |  | L.S.H  | Fennings, Mrs. E. J  | Fakenham, Norfolk, Eng  | England.. | Potr. la Prairie. | Feb. | 1916. |
+| 6 | 554 | 1560 | 3736 | 1591 | 115925 | Trooper  |  |  | Finamore, Mrs. Treshea  | 31 Usher’s Quay, Dublin, Ire  | Ireland... | Port, la Prairie. | Jan. | 1916. |
+| 6 | 554 | 1589 | 3734 | 1620 | 115988 | Trooper  |  |  | Firman, Mrs. Agnes  | Davidson, Sask  | England.. | Davidson  | Mar. | 1916. |
+| 6 | 553 | 1618 | 3736 | 1650 | 115816 | Trooper  |  | Nil  | Fisher, Charles  | New Cottage, Kirton, Ipswich, Suffolk, Eng  | England.. | Regina  | Jan. | 1916. |
+| 6 | 554 | 1647 | 3736 | 1678 | 115502 | Trooper  |  | Nil... . | Fisher, Mrs. E. M  | King David, Winterbourne Down, Bristol, Eng  | England.. | Regina  | May | 1915. |
+| 6 | 553 | 1676 | 3736 | 1707 | 115487 | Act.-Corporal  |  |  | Flood, Bert  | Crediton, Devon, Eng  | England.. | Regina     | May | 1915. |
+| 6 | 553 | 1705 | 3736 | 1736 | 115737 | Trooper  |  | Nil  | Forbes, Daniel  | Tyne Valley, Prince Co., P.E.l  | Canada... | Port, la Prairie | Dec. | 1915. |
+| 6 | 553 | 1734 | 3736 | 1764 | 115265 | Trooper  |  | Nil  | Franks, James  | Tuxford, Sask  | Canada... | Grenfell  | Jan. | 1915. |
+| 6 | 553 | 1763 | 3736 | 1794 | 115817 | T rooper  |  | C.A.M.C... | Fraser, W. J  | North Regina, Sask  | Canada... | Regina  | Jan. | 1916. |
+| 6 | 552 | 1792 | 3736 | 1823 | 115506 | Trooper  |  |  | Scott, Mrs  | Bogside, Lesmahagow, Lanark, Scot  | Scotland. | Regina  | May | 1915. |
+| 6 | 552 | 1822 | 3736 | 1853 | 115868 | Trooper  |  | Nil  | Fraser, William  | Wolseley, Sask   | Canada... | Regina   | Jan. | 1916. |
+| 6 | 552 | 1851 | 3736 | 1882 | 115981 | Trooper  |  | Nil  | Frazier, Mrs. Lillian  | Presque Isle, Me., U.S.A  | U.S.A.... | Port, la Prairie | Mar. | 1916. |
+| 6 | 552 | 1879 | 3737 | 1911 | 115274 | Sergeant  |  |  | Garvey, Mrs. E.G  | 75 Suffolk St., Sunderland, Durham, Eng  | England.. | Moosomin  | Jan. | 1915. |
+| 6 | 552 | 1909 | 3736 | 1939 | 115543 |  |  |  | Wilson, Mrs  | Belfast, Ire  | Ireland... | Regina  | June | 1915. |
+| 6 | 552 | 1939 | 3735 | 1968 | 115818 |  |  |  | Gash, James  | 201 Severn Rd., Cardiff, Glamorgan, Wales  | Wales.... | Regina   | Jan. | 1916. |
+| 6 | 552 | 1967 | 3736 | 1998 | 115913 |  |  | Nil  | Gibson, Mrs. J  | Ray more, Sask..  | Scotland . | Port, la Prairie | Jan. | 1916. |
+| 6 | 552 | 1996 | 3736 | 2027 | 115697 |  |  | Nil... | Leach, Mrs. Clara J  | Portage la Prairie, Man  | England.. | Port, la Prairie | Nov. | 1915. |
+| 6 | 552 | 2025 | 3736 | 2057 | 115719 | Trooper  |  |  | Glenday, Alexander  | Burnside, Man  | Canada... | Port, la Prairie | Dec. | 1915. |
+| 6 | 552 | 2054 | 3736 | 2086 | 115718 |  |  |  | Glenday, Alexander  | Burnside, Man  | Canada... | Port, la Prairie | Dec. | 1915. |
+| 6 | 551 | 2083 | 3736 | 2114 | 115678 |  |  | Nil  | Godfrey, Mrs. L. T  | 30 Rutland Pk., Sheffield, Yorks, Eng  | England.. | Indian Head. . . | Nev. | 1915. |
+| 6 | 552 | 2113 | 3736 | 2144 | 115926 | Trooper  | Goff, Arthur Henry  | Imp. Forces  | Goff, Frederick  | 64 North St., London, Eng  | England.. | Port, la Prairie | Feb. | 1916. |
+| 7 | 1501 | 377 | 3815 | 406 |  |  | S.A  |  | Dumfries, Scot Scotland.... | Moosomin  | Dec. 17 | 1914. |
+| 7 | 642 | 406 | 3813 | 437 | 115231 Trooper  | Goodman, Reginald Cecil  | Nil  |  | 1096 Wolfe Ave., Moose Jaw, Sask England  | Regina  | Jan. 5, | , 1915. |
+| 7 | 2335 | 438 | 3814 | 466 |  |  |  |  | 175 Hargrave St., Winnipeg, Man England  | Sewell  | July 23 | , 1915. |
+| 7 | 639 | 465 | 3813 | 495 | 115740 Trooper   | Goodwin, Alfred Edward  |  |  | 5th Ave., New York, N.Y., U.S.A England  | Regina  | Dec. 11, | 1915. |
+| 7 | 639 | 495 | 3813 | 524 | 115267 Trooper  |  | Nil  |  | Cupar, Sask Canada  | Regina  | Jan. 7, | 1915. |
+| 7 | 1500 | 525 | 3813 | 554 |  |  | Nil  |  | Kelfield, Sask U.S.A  | Port, la Prairie. | Feb. 12, | 1916. |
+| 7 | 638 | 553 | 3813 | 583 | 115845 Trooper  | Graham, George Lome  |  |  | Heward, Sask Canada  | Regina  | Jan. 19, | 1916. |
+| 7 | 638 | 583 | 3813 | 612 | 115775 Trooper  |  |  |  | 1117 Ave. A. N , Saskatoon, Sask Scotland.... | Port, la Prairie. | Dec. 27, | 1915. |
+| 7 | 2331 | 613 | 3812 | 642 |  |  |  |  | 5 Cherry Alley, Milk St., St. Paul’s, Bristol, Eng England  | Regina   | Mar. 5, | 1915. |
+| 7 | 1500 | 642 | 3812 | 671 |  |  | Nil  |  | 110, 10th St., Portage la Prairie, Man England  | Port, la Prairie. | Nov. 18, | 1915. |
+| 7 | 1499 | 671 | 3812 | 700 |  |  | Nil  |  | 20 Cornwallis Cres., Clifton, Bristol, Eng England  | Regina  | May 17, | 1915. |
+| 7 | 1499 | 701 | 3812 | 729 |  |  | Nil  |  | Ash field, Ross, Hereford, Er^ England  | Port, la Prairie. | Jan. 15, | 1916. |
+| 7 | 1498 | 730 | 3812 | 759 |  |  | Nil  |  | 15 West St., Charlton, Kent, Eng England  | Moosomin  | Feb. 22, | 1915. |
+| 7 | 1497 | 759 | 3812 | 788 |  |  | Nil  |  | Ninga, Man Canada  | Camp Hughes.. | Oct. 30, | 1915. |
+| 7 | 1497 | 788 | 3813 | 816 |  |  | Nil  |  | Glen Robertson, Ont Canada  | Regina  | Dec. 10, | 1915. |
+| 7 | 1497 | 818 | 3812 | 846 |  |  | Nil  |  | Swan Lake, Man Canada  | Camp Hughes.. | Oct. 13, | 1915. |
+| 7 | 1497 | 846 | 3811 | 875 |  |  | Nil  |  | Buehanan, Sask Canada  | Yorkton  | Dec. 7', | 1915. |
+| 7 | 2328 | 876 | 3812 | 904 |  |  |  |  | Edzell, Forfar, Scot Scotland  | Regina  | Jan. 10, | 1916. |
+| 7 | 2328 | 905 | 3810 | 933 |  |  |  |  | 5 Hazel View, Darley Dale, Derby, Eng England  | Regina   | Jan. 8, | 1916. |
+| 7 | 1496 | 934 | 3811 | 962 |  |  | Nil  | Harding, John  | Nokomis, Sask U.S.A  | Regina  | Nov. 15, | 1915. |
+| 7 | 1495 | 963 | 3811 | 992 |  |  |  | Harding, Mrs. Gertrude Marshall | S.A  | Spy Hill, Sask England  | Port, la Prairie. | Mar. 14, | 1916. |
+| 7 | 1826 | 992 | 3811 | 1020 |  |  |  | Shields, Mrs. T. H.      | 1337 Lome St., Regina, Sask England  | Regina  | April 29, | 1915. |
+| 7 | 2327 | 1021 | 3811 | 1049 |  |  |  |  | P.O. Box 19, Birtle, Man   I  England   | Port, la Prairie. | Feb. 15, | 1916. |
+| 7 | 2327 | 1050 | 3810 | 1078 |  |  |  |  | Peterboro, Ont Canada   | Indian Head  | Oct. 11, | 1915. |
+| 7 | 632 | 1079 | 3810 | 1108 | 115085 Trooper  |  |  |  | Tracey Farm, Honiton, Devon, Eng England   | Moosomin  | Dec. 22, | 1914. |
+| 7 | 1495 | 1108 | 3810 | 1137 |  |  | Nil  |  | Not stated   England  | Regina  | May 29, | 1915. |
+| 7 | 2327 | 1137 | 3810 | 1166 |  |  |  |  | 76 Lily Rd., South Yardley, Birmingham, Eng England  | Port, la Prairie. | Feb. 15, | 1916. |
+| 7 | 1494 | 1166 | 3810 | 1195 |  |  | Nil  |  | 107 Balmoral PI., Winnipeg, Man Canada  | Port, la Prairie. | Jan. 14, | 1916. |
+| 7 | 1494 | 1195 | 3809 | 1224 |  |  | Nil  |  | 3rd Ave., North Regina, Sask Scotland  | Regina  | Jan. 13, | 1915. |
+| 7 | 1494 | 1224 | 3809 | 1253 |  |  | Nil  |  | Finbagson St., Fraserburgh, Aberdeen, Scot England  | Port, la Prairie. | Jan. 12, | 1916. |
+| 7 | 2327 | 1253 | 3808 | 1282 |  |  |  |  | Yellow Grass, Sask Canada  | Regina  | Jan. 18, | 1916. |
+| 7 | 1494 | 1283 | 3808 | 1312 |  |  | Nil  | Hill, Mrs. Alta May  | Parry Sound, Ont  Canada  | Port, la Prairie. | Jan. 27, | 1916. |
+| 7 | 1490 | 1312 | 3809 | 1340 |  |  | O.T.C., Eng  | Hill, T. E  | Woodlands Rd., Darlington, Durham, Eng England  | Moosomin...... | Jan. 8, | 1915. |
+| 7 | 1492 | 1341 | 3808 | 1369 |  |  | Nil  |  | 508 Empire Ave., Fort William, Ont Canada  | Port, la Prairie. | Jan. 24, | 1916. |
+| 7 | 1492 | 1370 | 3808 | 1398 |  |  | Nil  |  | Whitewood, Sask England  | Port, la Prairie. | Jan. 27, | 1916. |
+| 7 | 1491 | 1399 | 3808 | 1428 |  |  | Nil  |  | 72 High St., Marylebone, London, Eng England  | Regina  | April 20, | 1915. |
+| 7 | 987 | 1428 | 3807 | 1457 |  | Hollingdale, Frederick William... | Nil  | Hollingdale, Mrs. J. E  | Rouleau, Sask England  | Indian Head  | Dec. 29, | 1914. |
+| 7 | 1490 | 1457 | 3808 | 1486 |  |  | Nil  |  | Neasden, Sask England  | Indian Head  | July 12, | 1915. |
+| 7 | 1490 | 1486 | 3807 | 1514 |  |  | Nil  |  | Moosomin, Sask Scotland  | Port, la Prairie. | Jan. 24, | 1916. |
+| 7 | 628 | 1515 | 3807 | 1543 | 115796 Corporal  |  |  | Warburton, Mrs. M. J  | 18 Williams Rd., Burnley, Lancs, Eng England  | Regina  | Jan. 8, | 1916. |
+| 7 | 1489 | 1543 | 3807 | 1572 |  |  | R.N.W.M.P  | Hosking, James F  | Feliskirk, Marazion, Cornwall, Eng England  | Port, la Prairie. | Feb. 14. | 1916, |
+| 7 | 1490 | 1573 | 3806 | 1601 |  |  | Nil  |  | Marazion, Cornwall, Eng England  | Port, la Prairie. | Feb. 25, | 1916. |
+| 7 | 1490 | 1602 | 3804 | 1630 |  |  | Nil  |  | Cwm Uchaf, Efail Isaf, Pontypridd, S. Wales England  | Regina  | May 22, | 1915. |
+| 7 | 1489 | 1631 | 3806 | 1658 |  |  | Nil  |  | Broadview, Sask Canada  | Port, la Prairie. | Feb. 4, | 1916. |
+| 7 | 1489 | 1660 | 3806 | 1689 |  |  | Nil  |  | Camley, Temple Cloud, Bristol, Eng England  | Regina  | June 6, | 1915. |
+| 7 | 1489 | 1689 | 3806 | 1718 |  |  | Nil  |  | Camley, Bristol, Eng England  | Indian Head.... | Nov. 5, | 1915. |
+| 7 | 627 | 1718 | 3805 | 1746 | 115776 Trooper |  | Nil  |  | Wist.hurton, Chatton, Northumberland, Eng England  | Port, la Prairie | Dec. 29, | 1915. |
+| 7 | 1488 | 1747 | 3806 | 1776 |  |  | Nil  |  | Welwyn, Sask England  | Moosomin  | Dec. 19, | 1914. |
+| 7 | 1488 | 1776 | 3805 | 1803 |  |  | Nil  |  | Grenfell, Sask Canada  | Port, la Prairie. | Jan. 18, | 1916. |
+| 7 | 1488 | 1805 | 3804 | 1833 |  |  | Nil  | Ingram, Mrs. Mary  | Bushnell, 111., U.S.A Ireland  | Regina  | Dec. 29, | 1914. |
+| 7 | 1819 | 1833 | 3805 | 1862 |  |  |  | Izard, W. E  | Mechanical Transport Army Service Corps, B.E.F. . .. England  | Regina   | May 25, | 1915. |
+| 7 | 1488 | 1862 | 3805 | 1892 |  |  | Nil  | Jackson, Mrs. Margaret  | Hollywood, Man Scotland  | Port, la Prairie. | Feb. 22, | 1916. |
+| 7 | 1487 | 1892 | 3804 | 1921 |  |  | Nil  | Jackson, Mrs. M  | Hollywood, Man Scotland  | Port, la Prairie. | Dec. 31, | 1915. |
+| 7 | 2321 | 1921 | 3803 | 1949 |  |  |  |  | Aldbrough, Hull, Yorks, Eng England...... | Regina  | May 31, | IS 15. |
+| 7 | 1487 | 1949 | 3804 | 1978 |  |  | Nil  | Jamieson, Mrs. B  | 3 Park Terr., Govan, Glasgow, Scot Scotland  | Sewell  | July 13, | 1915. |
+| 7 | 2378 | 2007 | 3802 | 2035 |  |  |  |  | Sask Canada  | Port, la Prairie. | April 5, 1916. |
+| 7 | 626 | 2036 | 3803 | 2066 | 115542 Act.-Corporal.. . |  | Nil  | Johns, Mrs. Florence  | 1818 Lome St., Regina, Sask Canada  | Regina  | June 2, 1915. |
+| 7 | 1486 | 2065 | 3803 | 2094 |  |  | Nil  | Johns, Mrs. Nellie   | 18l8 Lome St., Regina, Sask Canada  | Port, la Prairie. | Mav 11,1915. |
+| 7 | 626 | 2094 | 3802 | 2125 | 115928'Trooper  | Jone«, Archibald  | Nil  | Jones, John  | Hillsborough, Co. Down, Ire Ireland  | Port, la Prairie. | Feb. 3, 1916. |
+| 8 | 606 | 571 | 3274 | 618 | M |  | Former Corps. |  |  | Country of |
+| 8 | 591 | 731 | 3770 | 764 | 115473 | Trooper. | Jones, Archibald  | Nil.... | Jones, Mrs. Annie  | 1405 Retaliack St., Regina, Sask  | England. | Regina  | May 19 | 1915. |
+| 8 | 590 | 760 | 3771 | 793 | 115707 | Trooper. | Jones. George William. | Nil.... | Jones, Charles Henry  | 162 Wilford Grove, Nottingham, Eng  | England. | Port, la Prairie. | Nov. 24 | 1915. |
+| 8 | 591 | 790 | 3769 | 821 | 115297 | Trooper. | Jones, Robert David.. | Nil.... | Jones, H. M  | Randolph, Wis., U.S.A  | England. | Regina   | Jan. 11 | 1915. |
+| 8 | 590 | 819 | 3769 | 851 | 115823 | Trooper. | Jones, Thomas  | C.F.A. | Jones, Mrs. Mary Ann  | 20 Regina Rd., Walton, Liverpool, Eng  | England. | Regina   | Jan. 8 | 1916. |
+| 8 | 591 | 848 | 3064 | 880 | 115904 | Trooper. | Karagianis, Edward... | Nil.... | Karagianis, Mrs. Blanche. | Room 1, Oddfellows Blk., 416, 21st St. E., Saskatoon, |
+| 8 | 2341 | 878 | 3771 | 907 |  |  |  |  | Sask  | Wales. ... | Port, la Prairie. | Jan. | 1916. |
+| 8 | 589 | 905 | 3768 | 938 | 115824 | Trooper.... | Keil, Charles  | Imp. Forces. | Keil, Charles  | 24 Lanel St., Rothes, Moray, Scot  | Scotland.. | Regina      | Jan. | 1916. |
+| 8 | 588 | 935 | 3769 | 967 | 115946 | Trooper.... | Kelly, Frank  | Nil  | Kelly, Mrs Hannah.. | 1531 Donald St., Fort William, Ont  | England.. | Port, la Prairie. | Feb. | 1916. |
+| 8 | 588 | 963 | 3769 | 995 | 115954 | Trooper. ... | Kerr, David  | Nil  | Kerr, James  | Saltcoats, Sask  | Canada... | Port, la Prairie. | Feb. | 1916. |
+| 8 | 588 | 993 | 3770 | 1025 | 115846 | Trooper. ... | Kilborn, Charles Bernard  | Nil  | Kilborn, Alfred H  | Burton Latimer, Northants, Eng  | England.. | Port, la Prairie. | Jan. | 1916. |
+| 8 | 587 | 1021 | 3770 | 1054 | 115437 | Trooper.... | Kincaid, Hubert George   | S.A  | Urquhart, Miss M  | 1131 Clifton Ave., Moose Jaw, Sask  | Ireland... | Regina  | May | 1915. |
+| 8 | 587 | 1050 | 3770 | 1082 | 115676 | Trooper. ... | King, Walter   | Nil  | King, Mrs. A  | Wawanesa, Man  | Germany. | Regina  | Nov. | 1915. |
+| 8 | 586 | 1079 | 3770 | 1112 | 115825 | Trooper.... | Kinnear, Thomas W   | Nil  | Kinnear, Peter  | Broughty Ferry, Forfar, Scot  | Scotland. . | Regina  | Jan. | 1916. |
+| 8 | 586 | 1108 | 3769 | 1141 | 115060 | Corporal  | Kivell, Clarence Ariel  | Nil  | Kivell, Merrill  | Kennedy, Sask  | Canada... | Moosomin  | Dec. | 1914. |
+| 8 | 585 | 1136 | 3769 | 1170 | 115001 | Trooper.... | Kivell, Edgar Evan  | Nil  | Kivell, Merrill  | Kennedy. Sask  | Canada... | Moosomin   | Dec. | 1914. |
+| 8 | 585 | 1166 | 3770 | 1197 | 115916 | Trooper.... | Kivell, Merrill Cuthbert  | Nil  | Cook, Mrs. Emma.... | Hazel Bank. Sask  | Canada... | Regina   | Nov. | 1915. |
+| 8 | 585 | 1195 | 3770 | 1227 | 115575 | Trooper. ... | Knight, Charles  | Nil  | Knight, N  | McConnell, Man    | Canada... | “Sewell   | June | 1915. |
+| 8 | 584 | 1224 | 3769 | 1257 | 115S97 | Trooper.... | Lacell, Harold  | Nil  | Lacell, Mrs. A. B  | 255 Beverley St., Winnipeg, Man  | Canada... | Port, la Prairie. | Jan. | 1916. |
+| 8 | 583 | 1254 | 3770 | 1286 | 115336 | Trooper.... | Lane, George  | Nil  | Lane, Mrs. Mary Ann. | Burnham, Bucks, Eng  | England.. | Moosomin   | Feb. | 1815. |
+| 8 | 582 | 1282 | 3768 | 1315 | 115387 | Trooper.... | Lane, Richard  | Nil  | Lane, Mrs. Mary  | Burnham, Bucks, Eng  | England.. | Moosomin  | Feb. | 1915. |
+| 8 | 582 | 1311 | 3769 | 1344 | 115160 | Trooper.... | La veil, John Thomas  | Nil  | Lavell, Mrs. Martha.. | Wakefield, Yorks, Eng  | England.. | Moosomin   | Dec. | 1914. |
+| 8 | 582 | 1340 | 3768 | 1373 | 115762 | Trooper. ... | Lawrance, John Nicholson. ... | Nil  | Lawrance, Joseph  | Birtle, Man  | England.. | Regina   | Dec. | 1915. |
+| 8 | 582 | 1369 | 3769 | 1402 | 115361 | L.-Sergeant. | Lea, Hector Frederick  | Nil  | Lea, Frederick  | 2 George St., Wellingborough, Noithants, Eng  | England.. | Moosomin   | Jan. | 1915. |
+| 8 | 581 | 1398 | 3769 | 1431 | 115169 | Trooper.... | Leach, George  | Nil.......... | Leach, Mrs. A  | Malden Rd., Hampstead, London, Eng  | England.. | Regina  | Dcc. | 1914. |
+| 8 | 582 | 1426 | 3769 | 1460 | 115582 | Corporal  | Lee, Peter Robertson  | Territorials.. | Lee, James  | 73 High St., Lanark, Scot  | Scotland.. | Sewell Camp... | July | 1915. |
+| 8 | 582 | 1456 | 3769 | 1489 | 115416 | Trooper.  | Lees, John  | Nil  | Lees, James  | Kirkland, Winchburgh, West Lothian, Scot  | Scotland. . | Moosomin  | Mar. | 1915. |
+| 8 | 581 | 1484 | 3770 | 1519 | 115940 | Trooper   | Lemon, Richard     | Nil  | Lemon, William B  | Torquay, Devon, Eng  | England.., | Saskatoon  | Nov. | 1915. |
+| 8 | 581 | 1513 | 3769 | 1547 | 115735 | Trooper  | Lengfield, Frederick William. | Nil  | Lengfield, William  | 130 Mullins St., Montreal, P.Q  | Canada  | Yorkton  | Dec. | 1915. |
+| 8 | 581 | 1542 | 3768 | 1576 | 115055 | Trooper.... | Lloyd, Joseph Resoliere  | Nil  | Lloyd, Mrs. Ada  | Moosomin, Sask  | England.., | Moosomin  | Dec. | 1914. |
+| 8 | 582 | 1571 | 3058 | 1605 | 115136 | Trooper. . .. | Logan, Sheraton Bernard  | Nil  | Logan, Thomas  | 6 Parkside Terr., Roker Bath Rd., Sunderland, Dur¬ |
+| 8 | 2337 | 1604 | 3768 | 1634 |  |  |  |  | ham, Eng  | England  | Indian Head.... | Dec. | 1914. |
+| 8 | 582 | 1628 | 3769 | 1663 | 115943 | Trooper  | Lohman, John Burgess  | Nil  | Lohman, Stuart  | Kenora, Ont  | U.S.A  | Port, la Prairie. | Feb. | 1916. |
+| 8 | 580 | 1658 | 3769 | 1692 | 115693 | Trooper  | Love, Edward Albert  | 20th Horse.. | Bowers, Mrs. Harry  | Govan: Sask  | England  | Port, la Prairie | Nov. | 1915. |
+| 8 | 579 | 1686 | 3767 | 1722 | 115968 | Trooper  | Love, Fred James  | Nil  | Love, Mrs. Frances Louisa. | Ninga, Man  | Canada  | Port, la Prairie. | Feb. | 1916. |
+| 8 | 578 | 1715 | 3768 | 1751 | 115973 | Trooper  | Love, George Stanley  | Nil  | Love, Mrs. Frances Louisa. | Ninga, Man    | Canada  | Port, la Prairie. | Feb. | 1916. |
+| 8 | 578 | 1745 | 3769 | 1780 | 115354 | Sergeant  | Maben, Walter  | Nil  | Maben, Walter  | Bwiewalls, Gordon, Berwick, Scot  | Scotland  | Regina      | Jan. | 1915. |
+| 8 | 577 | 1774 | 3769 | 1808 | 115779 | Trooper  | Macdonald, Neil Joseph  | Nil  | Macdonald, John  | Clermont, Prince Co., P.E.I  | Canada  | Port, la Prairie. | Jan. | 1916. |
+| 8 | 577 | 1803 | 3769 | 1838 | 115948 | Trooper  | MacDougall, William  | 97th Regt... | MacDougall, Peter  | Bel wood, Ont  | Canada  | Port, la Prairie. | Feb. | 1916. |
+| 8 | 576 | 1832 | 3769 | 1868 | 115936 | Trooper  | Macpherson, Angus Jeane  | Nil  | Cunningham, Mrs. Ellen... | 329 Ogden St., Fort William, Ont  | U.S.A  | Port, la Prairie. | Feb. | 1916. |
+| 8 | 576 | 1861 | 3769 | 1896 | 115629 | Trooper  | Malcolm, Hugh  | Territorials.. | Malcolm, John  | 166 Sauchie Hall St., Glasgow, Scot  | Scotland  | Regina..  | Aug. | 1915. |
+| 8 | 576 | 1891 | 3769 | 1926 | 115321 | Trooper   | Mann, John Edwin  | Nil  | Mann, John R. D  | Invermay, Sask  | Canada  | Moosomin  | Jan. | 1915. |
+| 8 | 575 | 1919 | 3769 | 1954 | 115479 | Sergeant  | Marsh, Frederick  | 105th Regt.. | Marsh, George  | 5 Park Ave., Blackburn, Lancs, Eng  | England  | Regina  | Mar. | 1915. |
+| 8 | 576 | 1948 | 3769 | 1983 | 115432 | Trooper  | Marshall, Hubert Hawker.... | Imp. Forces. | Marshall, Miss E. F  | 71 Barton St., Gloucester, Eng  | England  | Regina   | April | 1915. |
+| 8 | 575 | 1978 | 3770 | 2012 | 115758 | Act.-Corporal. | Maston, Reuben Clayton D... | Nil  | Phillips, Mrs. Susie  | 358 Assiniboine Ave., Winnipeg, Man  | Canada  | Port, la Prairie. | Dec. | 1915. |
+| 8 | 576 | 2007 | 3769 | 2041 | 115932 | Trooper  | McArthur, Hector Sillars  | Imp. Forces. | McArthur, Archibald  | Cheviot, Sask  | Scotland  | Port, la Prairie | Feb. | 1916. |
+| 8 | 576 | 2036 | 3769 | 2072 | 115324 | Trooper  | McArton, Wilfred Chance  | Nil  | McArton, Mrs. Annie  | Paisley, Ont  | Canada  | Grenfell  | Jan. | 1915. |
+| 8 | 576 | 2065 | 3769 | 2099 | 115123 | S.Q -M.S  | McCallum, Douglas Raeburn. | 27th Horse. . | McCallum, Mrs. D. B  | Palmer, Sask  | Canada  | Indian Head... | Dec. | 1915. |
+| 8 | 576 | 2095 | 3769 | 2129 | 115359 | Trooper  | McCloskey, Robert  | Territorials.. | McCloskey, Robert  | 711 Govan Rd., Glasgow, Scot  | Scotland  | Regina  | Feb. | 1915. |
+| 8 | 577 | 2124 | 3770 | 2158 | 115339 | Trooper  | McDonald, Donald  | Imp. Forces. | McDonald, Alexander  | Kinhaird, Strathpeffer, Ross, Scot  | Scotland  | Regina  | Feb. | 1915. |
+| 9 | 639 | 369 | 3823 | 398 | 11530? | Trooper  | McFadyen, James Roy  | Nil  | McFadyen, Mrs. John  | Souris, Man  |  | Souris  | Jan. 10,1916. |
+| 9 | 640 | 398 | 3824 | 427 | 115759 | Trooper  | McGeough, James  | Nil  | McGeough, Patrick  | Armagh, Ire  |  | Port, la Prairie. | Dec. 21, 1915. |
+| 9 | 639 | 428 | 3823 | 457 | 115139 | Trooper  | McIntosh, Albert John  | Nil  | McIntosh, John  | Tacoma, Wash., U.S.A  |  | Indian Head  | U.S.A  | Jan. 5, 1915. |
+| 9 | 639 | 457 | 3823 | 486 | 115154 | L.-Sergeant. | McKay, John   | Imp. Forces. | McKay, Mrs. Elizabeth. | 32 Bel voir St., Belfast, Ire  |  |  | Dec. 29, 1914. |
+| 9 | 639 | 487 | 3822 | 516 | 115558 | Trooper  | McKay, William   | Nil  | McKay, Mrs. E  | Queen St., Regina Jet., Sask  |  |  | June 7, 1915. |
+| 9 | 640 | 515 | 3822 | 545 | 115748 | Trooper  | McKenzie, Duncan Roy  | Nil  | McKenzie, Mrs. M  | 322, 5th Ave. N.W., Moose Jaw, Sask  |  | Regina  | Dec. 9, 1915. |
+| 9 | 640 | 544 | 3821 | 574 | 115917 | Trooper  | McKenzie, Hector John  | Nil  | McKenzie, Mrs. Donald. | Uptergrove, Ont  |  | Port, la Prairie. | Canada ,, —.. | Feb. 4, 1916. |
+| 9 | 640 | 574 | 3821 | 604 | 115385 | Trooper  | McKenzie, Robert John  | Nil  | McKenzie, John  | Newton Stewart, Wigtown, Scot  |  | Port, la Prairie. | Jan. 21, 1916. |
+| 9 | 641 | 603 | 3821 | 633 | 115777 | Trooper  | McKeown, Leslie   | Nil.......... | McKeown, Enoch  | Flaxcombe, Sask  |  | Port, la Prairie. | Dec. 30, 1915. |
+| 9 | 640 | 631 | 3821 | 663 | 115622 | Trooper  | Me Knight, Jack Alexander. | Territorials.. | Me Knight, James  | Dalrymple, Ayr, Scot  |  | Sewell  | Aug. 19, 1915. |
+| 9 | 640 | 661 | 3120 | 692 | 115606 | Trooper  | McLaughlin, Norton  | 41st Regt  | McLaughlin, Mrs. Mary. | Suite 7, Sec. A., Maple Leaf Apts., 915 Coryden Ave., |
+| 9 | 640 | 719 | 3820 | 750 | 115355 | Corporal  | McLeish, George Leslie  | Nil  | McLeish, Frank  | Fruitfield, Coupar Angus, Forfar, Scot  |  |  | Jan. 26, 1915. |
+| 9 | 640 | 748 | 3821 | 779 | 115455 | Trooper  | McMaster, John  | Nil  | McMaster, Mrs. Mary  | 3024, 13th Ave., Regina, Sask  |  |  | May 22, 1915. |
+| 9 | 640 | 777 | 3819 | 809 | 115480 | Trooper  | McMorrin, William  | Nil  | McMorrin, James  | 2 Tacoma Ave., Toronto, Ont  |  |  | May 22, 1915. |
+| 9 | 640 | 805 | 3820 | 838 | 115555 | Trooper  | McMurchie, Archibald Bannatyne | Imp. Forces. | McMurchie, William  | Drumore Cottage, Campbelltown, Argyll, Scot  |  |  | June 4, 1915. |
+| 9 | 640 | 834 | 3819 | 867 | 115654 | Trooper  | McRae, Harold Villard  | Nil  | McRae, George Bingey  | Nappan, Cumberland Co. N.S  |  |  | Oct. 30, 1915. |
+| 9 | 639 | 863 | 3820 | 896 | 115960 | Trooper  | Mercer, Arthur  | Nil  | Mercer, Mrs. Alice  | Horse Lake, Sask  |  | Kelliher  | Nov. 6, 1915. |
+| 9 | 640 | 892 | 3819 | 925 | 115635 | Trooper  | Miller, Cyril George V  | Nil  | Willey, Mrs. Susan Amy  | 50 Porter Grange Ave., Southend-on-Sea, Essex, Eng... |  |  | Sept. 9, 1915. |
+| 9 | 640 | 922 | 3819 | 955 | 115395 | R.Q.-M.-Sergt... | Milne, Ernest Richard B  | 16th Horse. . | Milne, Amy Helen  | Fleming, Sask  |  |  | Mar. 4. 1915. |
+| 9 | 639 | 950 | 3819 | 984 | 115616 | Sergeant  | Milne, Robert  | Territorials.. | Milne, William  | Gowla Lodge, Cashel, Co. Galway, Ire  |  | Sewell Camp... | Aug. 3, 1915. |
+| 9 | 639 | 979 | 3819 | 1013 | 115632 | Trumpeter  | Mitchell, David  | Nil  | Mitchell, James E  | Dunsmuir, Cal., U.S.A  |  | Sewell Camp... | Sept. 11, 1915. |
+| 9 | 638 | 1008 | 3820 | 1042 | 115475 | Trooper  | Monteith, William  | 20th Horse.. | Monteith, Mrs  | Zephyr, Ont  |  |  | May 20, 1915. |
+| 9 | 638 | 1037 | 3819 | 1071 | 115675 | Trooper  | Moreland, Francis Joseph  | Nil  | Moreland, Mrs. Caroline G. | Beckenham, Kent, Eng t  |  |  | Nov. 9,1915. |
+| 9 | 638 | 1066 | 3819 | 1100 | 115571 | Trooper  | Morrison, George Andrew  | 16th Horse.. | Morrison, Andrew Thomas. | Wapella, Sask  |  |  | June 7,1915. |
+| 9 | 638 | 1095 | 3819 | 1129 | 115681 | Trooper  | Munro, Charles William  | S.A. | Munro, Dr. Henry Ross. ... | Pictou, N.S  |  | Regina  | Nov. 11, 1915. |
+| 9 | 638 | 1124 | 3818 | 1158 | 115401 | Sergeant  | Munro, James  | Territorials. | Munro, Mrs. Jessie  | 161 Brownhill Rd., Catford, London, Eng  |  | Indian Head  | Mar. 10,1915. |
+| 9 | 637 | 1152 | 3819 | 1187 | 115150 | Sergeant  | Myers, Joseph Albert  | Territorials. | Myers, Miss Jessie E  | Palmer, Sask...  |  | Indian Head.... | Dec. 28, 1914. |
+| 9 | 637 | 1181 | 3818 | 1216 | 115994 | Trooper  | Neal, Charles Henry  | Can. Mil  | Neal, Mrs. Susan  | Greatworth, Northants, Eng  |  | Port, la Prairie. | April 10, 1916. |
+| 9 | 637 | 1210 | 3818 | 1245 | 115792 | Trooper  | Neil, William  | Nil  | Neil, James  | Rokeby, Sask .  |  | Port, la Prairie. | Jan. 5, 1916. |
+| 9 | 636 | 1239 | 3817 | 1274 | 115053 | Sergeant  | Nelham, James John A  | Nil  | Nelham, Wilfred  | Royal Horse Artillery, " V.” Bty., Merut, India  |  |  | Dec. 19, 1914. |
+| 9 | 636 | 1269 | 3079 | 1304 | 115664 | Trooper  | Newby, Harry  | Nil  | Newby, George Kendal  | c/o James Benson, 80 Dewar St., Blackburn, Lancs., |
+| 9 | 2390 | 1296 | 3817 | 1327 |  |  |  |  |  | Eng  |  | Lloyd minster... | May 3, 1915. |
+| 9 | 635 | 1325 | 3817 | 1361 | 115689 | Trooper  | Norris, William Cavan  | Nil  | Norris, Mrs. L. J  | Deloraine, Man  |  |  | Oct. 29, 1915. |
+| 9 | 635 | 1354 | 3817 | 1390 | 115827 | Trooper  | O’Neill, Thomas  | Nil  | O’Neill, Michael  | Leeds, Yorks., Eng  |  | Regina   | Jan. 11, 1916. |
+| 9 | 635 | 1383 | 3817 | 1419 | 115858 | Trooper  | Overton, Albert Edward  | Nil  | Overton, Mrs. Nellie  | Portage la Prairie, Man  |  | Port, la Prairie. | Jan. 20, 1916. |
+| 9 | 635 | 1412 | 3815 | 1448 | 115694 | Trooper  | Paget, Isadore  | Nil  | Paget, Mrs. Isabel  | Jasmin, Sask  |  | Port, la Prairie. | Not stated  | Nov. 18, 1915. |
+| 9 | 635 | 1441 | 3816 | 1477 | 115711 | Trooper  | Paisley, Herbert Donton  | 18th Horse.. | Paisley, Thomas  | Ridgeway, Man   |  | Port, la Prairie. | Nov. 29, 1915. |
+| 9 | 634 | 1470 | 3816 | 1506 | 11.5461 | Trooper.  | Palmer, George  | Nil  | Palmer, Mrs. L  | 2860 Garnet St., Regina, Sask  |  | Regina ......... | May 19, 1915. |
+| 9 | 635 | 1498 | 3816 | 1535 | 115984 | Trooper  | Partridge, Henry George  | Nil  | Loseby, Mrs. William  | Stanford-on-Soar, Leicester, Eng  |  | Port, la Prairie. | Mar. 20, 1916. |
+| 9 | 634 | 1527 | 3816 | 1564 | 115490 | Trooper  | Paxton, Robert  | Nil.......... | Paxton, Mrs. J  | Sintaluta, Sask  |  | Camp Hughes.. | Oct. 22, 1915. |
+| 9 | 634 | 1556 | 3816 | 1593 | 115870 | Trooper  | Payne, Arthur James  | Territorials.. | Payne, Mrs. Keziah  | 1820 York St., Regina, Sask  |  |  | Jan. 19, 1916. |
+| 9 | 635 | 1585 | 3816 | 1623 | 115370 | Trooper  | Pearson, Sydney  | Nil  | Pearson, George  | Globe Farm, Esterhazy, Sask  |  |  | Feb. 10, 1915. |
+| 9 | 634 | 1614 | 3815 | 1652 | 115341 | L.-Corporal. | Peel, Harry Wilson  | 16th Horse. . | Peel, Mrs. Mary Lillian.... | Manitou, Man *  |  |  | Feb. 6,1915. |
+| 9 | 1500 | 1643 | 3815 | 1675 |  |  |  | Nil  | Pelky, Mrs  | Bathurst, Gloucester Co., N.B  |  |  | Feb. 16,1915. |
+| 9 | 634 | 1653 | 1452 | 1681 | 115358 | Trooper  | Pelky, John .  |
+| 9 | 635 | 1672 | 3816 | 1710 | 115656 | Trooper.  | Percy, Edward David  | Nil  | Smith, Miss Mary : | 4 Coronation Sq., King’s Lynn, Norfolk, Eng  |  |  | Oct. 30, 1915. |
+| 9 | 635 | 1700 | 3816 | 1739 | 115525 | Trooper  | Perdue, Charles  | Nil  | Perdue, John  | La Vallee, Ont .  |  |  | June 1, 1915. |
+| 9 | 635 | 1730 | 3816 | 1768 | 115586 | Trooper  | Piggott, Thomas Rowland  | Nil  | Whitmore, Mrs. S  | Guilden Morden, Cambridge, Eng  |  | Indian Head  | July 12, 1915. |
+| 9 | 635 | 1758 | 3815 | 1797 | 11.5882 | Trooper  | Pinkstone, Reginald Hannaford. | Nil  | Pinkstone, W. R  | Warsh Barton, Topsham, Devon, Eng  |  | Port, la Prairie. | Jan. 20, 1916. |
+| 9 | 635 | 1787 | 3815 | 1827 | 115661 | Trooper  | Pitt, George Henry  | Nil  | Pitt, Mrs. F. J  | Beverley, Sask  |  | Camp Hughes.. | Nov, 9, 1915. |
+| 9 | 1498 | 1817 | 3815 | 1850 |  |  |  | Imp. Forces. | Plews, Thomas  | Leeds, Yorks, Eng  |  | Port, la Prairie. | Jan. 3, 1916. |
+| 9 | 635 | 1827 | 1451 | 1856 | 115783 | Trooper  | Plews, Alfred  |
+| 9 | 633 | 1846 | 3815 | 1885 | 323937 | Trooper  | Pocock, Archie Harold  | Nil  | Pocock, Albert Avery  | Handsworth, Sask  |  |  | Mar. 29, 1916. |
+| 9 | 636 | 1874 | 3816 | 1914 | 115564 | (Trooper  | Pocock, Hubert John  | C.F.A  | Pocock, Albert A  | Handsworth, Sask  |  |  | June 5, 1915. |
+| 9 | 636 | 1903 | 3816 | 1943 | 115360 | Trooper  | Poulter, Howard Frank  | Nil  | Poulter, George  | Birmingham, Eng  |  | Port, la Prairie. | Jan. 20, 1916. |
+| 9 | 636 | 1932 | 3814 | 1972 | 115907 | T rooper  | Prescott, Harold Melville  | Nil  | Leffler, W. E  | Bank of England. London, Eng  |  | Port, la Prairie. | Jan. 24, 1916. |
+| 9 | 636 | 1961 | 3815 | 2001 | 115955 | T rooper  | Prichard, Charles Henry  | 99th Regt. . . | Prichard, Arthur  | 23 Stadium St., King’s Rd., Chelsea, London, Eng.... |  | Port, la Prairie. | Feb. 3, 1916. |
+| 9 | 637 | 1990 | 3815 | 2030 | 115393 | Trooper  | Prockter, Charles Henry  | Nil  | Prockter, Henry Flint  | Fen wood, Sask  |  | Port, la Prairie. | Jan. 21,1916. |
+| 9 | 636 | 2019 | 3815 | 2059 | 115394 | Trooper  | Prockter, Colin Arthur  | Nil  | Prockter, H. F  | Fen wood, Sask .••••.   |  | Port, la Prairie. | Jan. 21, 1916. |
+| 9 | 1830 | 2048 | 3815 | 2081 |  |  |  |  | Provis, Miss Emily  | Ballvward Manor, Kilbride, Co. Dublin, Ire  |  | Regina  | Freland  | Feb. 17,1915. |
+| 9 | 637 | 2061 | 1450 | 2089 | 115331 | Trooper  | Provis, John  |
+| 9 | 637 | 2077 | 3815 | 2118 | 115395 | T rooper  | Purdue, Albert Bernard  | Nil. | Purdue, Arthur Wellington. | Fishers Farm, nr. Newbury, Berks., Eng  |  | Port, la Prairie. | England  | Jan. 25, 1916. |
+| 10 | 767 | 563 | 3275 | 596 |  |  | Former Corps. | Country of |
+| 10 | 586 | 707 | 3770 | 734 | 115721 |  |  |  | N. Battleford... | Dec. | 29 | 1914. |
+| 10 | 585 | 737 | 3769 | 766 | 115987 |  | Nil  | Isle of Man  | Port, la Prairie. | Mar. | 18 | 1916. |
+| 10 | 585 | 766 | 3769 | 794 | 115958 |  |  | England  | Port, la Prairie. | Jan. | 27 | 1916. |
+| 10 | 583 | 794 | 3770 | 825 | 115459 |  | Nil . | England  | Regina  | May | 24 | 1915. |
+| 10 | 586 | 824 | 3769 | 851 | 115898 |  |  | Canada  | Moosomin  | Jan. | 1915. |
+| 10 | 584 | 853 | 3768 | 880 | 115898 |  |  | Canada  | Port, la Prairie. | Jan. | 26 | 1916. |
+| 10 | 583 | 882 | 3768 | 909 | 115260 |  |  |  | Moosomin  | Jan. | 7 | 1915. |
+| 10 | 583 | 911 | 3768 | 940 | 115944 |  | Nil... . |  | Port. la Prairie.. | Feb. | 7 | 1916. |
+| 10 | 583 | 940 | 3766 | 969 | 115391 |  | Nil  | England  | Camp Hughes.. | Oct. | 2? | 1915. |
+| 10 | 581 | 969 | 3767 | 997 | 115323 |  | Nil | Canada  | Grenfell  | Jan. | 9 | 1915. |
+| 10 | 580 | 999 | 3766 | 1028 | 115504 |  | Nil... | Canada  |  | May | 27 | 1915. |
+| 10 | 582 | 1027 | 3765 | 1057 | 115317 |  | Nil.... | Scotland  | Grenfell  | Jan. | 18 | 1915. |
+| 10 | 581 | 1056 | 3765 | 1085 | 115567 |  | Nil... |  | Regina  | June | 5 | 1915. |
+| 10 | 581 | 1085 | 3765 | 1114 | 115938 |  | Nil... |  | Port, la Prairie. | Jan. | 19 | 1916. |
+| 10 | 580 | 1114 | 3765 | 1141 | 115975 |  |  | Canada  | Port, la Prairie. | Feb. | 26 | 1916. |
+| 10 | 581 | 1143 | 3765 | 1172 | 115315 |  | Nil... | Canada  | Regina  | Jan. | 18 | 1915. |
+| 10 | 579 | 1172 | 3764 | 1203 | 115692 | Trooper  | Nil   | U.S.A  | Port, la Prairie. | Nov. 18 | 1915. |
+| 10 | 578 | 1202 | 3763 | 1230 | 115683 |  | Nil... | Canada  | Regina  | Nov. 15 | 1915. |
+| 10 | 579 | 1230 | 3764 | 1259 | 115970 |  | Nil... | Canada  | Port, la Prairie. | Feb. | 19 | 1916. |
+| 10 | 578 | 1259 | 3763 | 1288 | 115918 |  | Nil  | Scotland  | Port, la Prairie. | Feb. | 3 | 1916. |
+| 10 | 577 | 1288 | 3763 | 1317 | 115563 |  | Nil... | England  | Regina  | June | 5 | 1915. |
+| 10 | 577 | 1319 | 3762 | 1347 | 115570 |  | Nil... . | U.S.A  |  | May | •17 | 1915. |
+| 10 | 576 | 1348 | 3763 | 1375 | 115446 |  | Nil... |  |  | May | 14 | 1915. |
+| 10 | 576 | 1375 | 3763 | 1404 | 115071 |  | Nil... |  | Indian Head  | Dec. | 22 | 1914. |
+| 10 | 575 | 1405 | 3763 | 1433 | 115725 |  | Nil... |  |  | Aug. | 9 | 1915. |
+| 10 | 574 | 1433 | 3763 | 1462 | 115246 |  | Nil... | Canada  | Regina  | Jan. | 5 | 1915. |
+| 10 | 575 | 1463 | 3762 | 1491 | 115906 |  |  | England  | Regina  | Jan. | 18 | 1916. |
+| 10 | 574 | 1491 | 3763 | 1520 | 115215 |  | Nil... | England  | Moosomin  | Jan. | 4 | 1915. |
+| 10 | 574 | 1521 | 3763 | 1549 | 115465 |  | Nil... | England  | Regina  | May | 18 | 1915. |
+| 10 | 574 | 1549 | 3762 | 1578 | 115360 |  |  | England  | Camp Hughes.. | Oct. | 5 | 1915. |
+| 10 | 574 | 1579 | 3761 | 1606 | 115829 |  |  | Scotland  | Regina  | Jan. | 12 | 1916. |
+| 10 | 573 | 1607 | 3762 | 1636 | 115839 |  |  | England  | Port, la Prairie. | Jan. | 8 | 1916. |
+| 10 | 572 | 1636 | 3761 | 1665 | 115933 |  | Nil  | Canada  | Port, la Prairie. | Jan. | 22 | 1916. |
+| 10 | 572 | 1665 | 3761 | 1695 | 115939 |  | Nil.... |  | Port, la Prairie. | Feb. | 7 | 1916. |
+| 10 | 571 | 1694 | 3760 | 1723 | 115811 |  | Nil. . | England  | Port, la Prairie. | Jan. | 14 | 1916. |
+| 10 | 571 | 1724 | 3760 | 1751 | 115126 |  |  | England  | Regina  | Jan. | 5 | 1915. |
+| 10 | 571 | 1752 | 3762 | 1783 | 115380 | S. Q.-M. Sergt... |  | England  | Moosomin  | Feb. | 16 | 1915. |
+| 10 | 570 | 1782 | 3760 | 1813 | 115365 |  | Nil.... | England  | Regina  | Feb. | 8 | 1915. |
+| 10 | 570 | 1810 | 3760 | 1842 | 115770 |  | Nil... | Scotland  | Port, la Prairie. | Dec. | 28 | 1915. |
+| 10 | 569 | 1839 | 3759 | 1868 | 115726 |  | Nil... | Scotland  | Port, la Prairie. | Dec. | 7 | 1915. |
+| 10 | 569 | 1869 | 3760 | 1894 | 115384 |  |  |  |  | Feb. | 13 | 1915. |
+| 10 | 568 | 1898 | 3760 | 1926 | 115871 |  | Nil... | Canada  | Regina  | Jan. | 21 | 1916. |
+| 10 | 567 | 1926 | 3760 | 1955 | 115986 |  | Nil... | England  | Port, la Prairie. | Mar. | 24 | 1916. |
+| 10 | 567 | 1955 | 3760 | 1986 | 115685 | Trooper  | Nil  | England  | Port, la Prairie. | Nov. 13 | 1915. |
+| 10 | 566 | 1984 | 3761 | 2015 | 115668 | Trooper  | C.F.A.. | Canada  | Camp Hughes.. | Nov. 10 | 1915. |
+| 10 | 566 | 2014 | 3759 | 2041 | 115390 |  |  |  | Regina  | Feb. | 2 | 1915. |
+| 10 | 567 | 2043 | 3760 | 2072 | 115326 |  | Nil... |  | Regina  | Jan. | 26 | 1915. |
+| 10 | 566 | 2072 | 3760 | 2103 | 115756 | Trooper  | Nil  | England  | Port, la Prairie. | Dec. | 13 | 1915. |
+| 10 | 566 | 2101 | 3760 | 2135 | 115733 | Trooper  | Nil  | England  | Port, la Prairie. | Dec. | 9 | 1915. |
+| 11 | 1551 | 388 | 3868 | 417 |  | Nil  | Chichester, Sussex, Eng  | England  | Regina  | Jan. 21, 1916. |
+| 11 | 1552 | 418 | 3868 | 447 |  | Nil  | Ryanton, Man  | England  | Port, la Prairie, | Dec. 9, 1915. |
+| 11 | 1552 | 447 | 3868 | 476 |  | Nil  | Dubuc, Sask  | Canada  | Port, la Prairie, | Jan. 21, 1916. |
+| 11 | 1552 | 476 | 3866 | 505 |  | Nil  | Ewloe Barn Farm, Ewloe, Chester, Eng  | Wales  | Sewell Camp.., | July 24, 1915. |
+| 11 | 1552 | 505 | 3867 | 535 |  | Nil  | Chatham St., Belleville, Ont  | Canada  | Port, la Prairie. | April 14, 1916. |
+| 11 | 1553 | 534 | 3867 | 564 |  | Nil  | Ridgeway, Va., U.S.A  | U.S.A  | Regina  | Dec. 10, 1915. |
+| 11 | 1553 | 564 | 3867 | 594 |  | Nil  | Hay field, Man  | Scotland  | Souris  | Nov. 16, 1915. |
+| 11 | 2437 | 622 | 3866 | 651 |  |  | Eng   | England., | Regina  | Jan. 7, | 1915. |
+| 11 | 1553 | 651 | 3866 | 680 |  | Nil  | Shoot-up-hill, London N.W., Eng  | England.. | Indian Head... | Dec. 23, | 1914. |
+| 11 | 1043 | 680 | 3866 | 711 | Talkington. T. W  | Nil  | Broadview, Sask  | England.. | Camp Hughes. | Aug. 10, | 1915. |
+| 11 | 2381 | 709 | 3866 | 739 |  |  | 3 Ramsgate , Louth, Lines, Eng  | England.. | Regina  | May 27, | 1915. |
+| 11 | 1552 | 738 | 3866 | 768 |  | Nil  | c/o James McLean, Edgeley, Sask  | England.. | Regina  | Jan. 13, | 1916. |
+| 11 | 2382 | 768 | 3865 | 797 |  |  | Hazelwood, Sask  | Canada.. | Grenfell  | Dec. 30, | 1914. |
+| 11 | 1551 | 797 | 3866 | 825 |  | Nil  | High Dykes, Strathaven, Lanark, Scot  | Scotland. | Port, la Prairie, | Jan. 1. | 1916. |
+| 11 | 1551 | 826 | 3866 | 855 |  | Nil  | 1916 Smith St., Regina, Sask  | Canada.. | Regina  | May 24, | 1916. |
+| 11 | 1550 | 855 | 3865 | 885 |  | Nil  | Francis, Sask  | Canada.. | Regina  | Oct. * 2, | 1915. |
+| 11 | 1550 | 884 | 3865 | 913 |  | Nil  | Cliburn, Westmoreland, Eng  | England.. | Port, la Prairie, | Mar. 21, | 1916. |
+| 11 | 1550 | 913 | 3865 | 942 |  | Nil  | Strassburg, Sask  | Scotland. | Regina  | Jan. 26, | 1915. |
+| 11 | 1550 | 942 | 3865 | 971 |  | Nil  | London Rd., Wrentham, Suffolk, Eng  | England.. | Regina  | Dec. 15, | 1915. |
+| 11 | 1550 | 972 | 3865 | 1000 |  | Nil  | Hadleigh, Suffolk, Eng  | England.. | Regina  | April 7, | 1915. |
+| 11 | 1549 | 1001 | 3865 | 1030 |  | Nil  | Farrinseer, Cornafean, Co. Cavan, Ire  | Ireland... | Regina  | May 29, | 1915. |
+| 11 | 1549 | 1030 | 3865 | 1059 |  | Nil  | Moosomin, Sask  | Canada... | Port, la Prairie. | Feb. 2, | 1916. |
+| 11 | 1549 | 1059 | 3865 | 1087 |  | Nil  | Lynthorpe, Sask  | Canada... | Moosomin  | Feb. 13, | 1915. |
+| 11 | 1548 | 1088 | 3862 | 1116 |  | Nil  | Mosstower, Roxburgh., Scot  | Scotland. | Port, la Prairie, | Jan. 4. | 1916. |
+| 11 | 1549 | 1117 | 3865 | 1144 |  | Nil  | Ham iota, Man  | Canada... | Port, la Prairie. | Feb | 1916. |
+| 11 | 2380 | 1146 | 3864 | 1175 |  |  | Horninglow Cross, Burton-on-Trent, Staffs, Eng.. | England.. | Port, la Prairie. | Jan. 24, | 1916. |
+| 11 | 2377 | 1176 | 3864 | 1203 |  |  | Cully ton, Sask  | Canada... | Davidson...... | Mar. 24, | 1916. |
+| 11 | 1546 | 1204 | 3863 | 1232 |  | Nil  | Tweed, Ont    | Canada.., | Port, la Prairie, | Jan. 17, | 1916. |
+| 11 | 1546 | 1233 | 3863 | 1261 |  | Nil  | Kenard’s House, South Petherwin, Cornwall, Eng | England.. | Regina  | Jan. 11, | 1916. |
+| 11 | 1546 | 1262 | 3863 | 1290 |  | Nil  | Palmer, Sask  | Canada.., | Indian Head  | Dec. 19, | 1914. |
+| 11 | 1546 | 1291 | 3863 | 1319 |  | Nil  | Altrincham, Cheshire, Eng  | England.. | Camp Hughes. | Nov. 9, | 1915. |
+| 11 | 1545 | 1320 | 3863 | 1348 |  | Nil  | 113 Grosvenor Ave., Sault Ste. Marie, Ont  | Canada.. | Port, la Piairic | Jan. 12, | 1916. |
+| 11 | 2377 | 1349 | 3862 | 1378 |  |  | Ignace, Ont  | Canada.., | Sewell  | July 2, | 1915. |
+| 11 | 1544 | 1378 | 3862 | 1407 |  | Nil  | Summerberry, Sask  | Canada.. | Port, la Prairie. | Feb. 14, | 1916. |
+| 11 | 1544 | 1407 | 3860 | 1435 |  | Nil  | Summerberry, Sask  | Canada... | Regina   | Dec. 15, | 1915. |
+| 11 | 1036 | 1436 | 3861 | 1464 | Weatherhead, James Ernest  | Nil  | Cape Chin, Ont  | Canada... | Regina  | Jan. 10, | 1916. |
+| 11 | 1035 | 1464 | 3861 | 1495 | Weatherhead, Sydney Francis. . .. | Nil  | 75 Lever St., City Rd., London, Eng  | England.. | Regina  | Jan. 19, | 1916. |
+| 11 | 1035 | 1494 | 3860 | 1523 | Wells, John Matthew  | Nil  | Moosomin, Sask   | Canada... | Port, la Prairie. | Jan. 17, | 1916. |
+| 11 | 1034 | 1523 | 3859 | 1552 | Wicks, William D  |  | Castle Acie, Norfolk, Eng  | England.. | N. Batt.leford... | Jan. 6, | 1915. |
+| 11 | 1033 | 1551 | 3859 | 1581 | Williams, Alexander  | Nil  | 11 Pomona Ave., Belfast, Ire  | Ireland... | Port, la Prairie. | Jan. 25, | 1916. |
+| 11 | 1033 | 1580 | 3859 | 1610 | Williamson, Charles  | Nil  | R.R. No. 2, Woodville, Ont  | Canada... | Port, la Prairie. | Jan. 26, | 1916. |
+| 11 | 1542 | 1609 | 3858 | 1639 |  | Nil  | 3 Eastview, nr. Thurstonland, Huddersfield, Yorks,Eng | England.. | Indian, Head  | July 12, | 1915. |
+| 11 | 2374 | 1638 | 3858 | 1668 |  |  | Sec. 12 x 35 x 24, Baliol, Kerrobert, Sask  | England.. | Sewell  | July 28, | 1915. |
+| 11 | 677 | 1667 | 3858 | 1697 |  | [mp. Forces  | Queen St., Regina, Sask  | England.. | Regina  | Dec. 30, | 1914. |
+| 11 | 1538 | 1697 | 3857 | 1726 |  | Territorials and S.A.. | Beau field, Sask  | England.. | Port, la Prairie. | Jan. 13, | 1916. |
+| 11 | 676 | 1724 | 3857 | 1756 |  |  | Exford, Dunster, Somerset, Eng  | England.. | Regina  | Jan. 18, | 1916. |
+| 11 | 2429 | 1784 | 3856 | 1813 |  |  | Eng .  | England. | Port, la Prairie. | Jan. 10, 1916. |
+| 11 | 2372 | 1810 | 3856 | 1842 |  |  | 6 Victor Rd., Teddington, M’sex, Eng  | England. | Regina  | Mar. 22, 1915. |
+| 11 | 1538 | 1840 | 3856 | 1871 |  | Nil  | 1175 Rae St., Regina, Sask  | England. | Regina  | Jan. 22, 1916. |
+| 11 | 1538 | 1869 | 3856 | 1900 |  | Nil  | 1269 Winnipeg St., Regina, Sask  | England. | Regina  | Jan. 5, 1915. |
+| 11 | 672 | 1898 | 3856 | 1929 |  | Nil  | Stoughton, Sask  | Canada.. | Regina  | Jan. 26, 1915. |
+| 11 | 2373 | 1928 | 3855 | 1958 |  |  | 1095 Wolfe Ave., Moose Jaw, Sask  | England. | Regina  | Jan. 15,1915. |
+{% endraw %}

@@ -1,0 +1,1764 @@
+---
+title: 35th Battalion & 1st 2nd RD
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1915.) | JOHN BORYSIUK | 13205 - 123rd Street | Edmonton — Alberta — Canada | Canadian Expeditionary | Force | 35th BATTALION | ‘Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port I Montreal. | Ship: S.S. " Metagama." | Date: October, 16th, 1915. |
+| 2 | 565 | 509 | 3314 | 550 | Jz |  |  |  | Name of Next of Kin. |  | Country of |
+| 2 | 664 | 651 | 3754 | 690 |  | Lieut.-Col. | McCordick, Frank Case  | 19th Regt. | McCordick, Mrs. May B.... | Cor. Yate <t Adam Sts., St. Catharines, Ont. | Canada.. | Toronto... | Nov. 13, 1914. |
+| 2 | 663 | 680 | 3752 | 719 |  | Major  | Dunham, Frederick Harold.. | 12th Regt. | Dunham, Mrs. Norma J.... | 32 Oakmount Blvd., Toronto, Ont  | Canada.. | Toronto... | April 20, 1915. |
+| 2 | 663 | 709 | 3752 | 748 |  | Major  | Gow, Walter  | 21st Regt.. | Gow, Alexander  | Windsor, Ont  | Canada.. | Toronto... | April 10, 1915. |
+| 2 | 661 | 738 | 3752 | 777 |  | Major  | Wansbrough, Cuthbert Cole. | 2nd Regt.. | Wansbrough, Mrs. Gertrude. | c/o Mrs. Glover, Southfield. E. Yorks, Eng. . | England. | Toronto... | April 22, 1915. |
+| 2 | 661 | 767 | 3753 | 806 |  | Major  | Baillie, William  | 12th Regt. | Baillie, M. A. J  | 349 Bathurst St., Toronto, Ont  | Canada.. | Toronto... | April 20, 1915. |
+| 2 | 661 | 803 | 2282 | 835 |  | Major  | Outerbridge, Leonard Cecil.. | 10th Regt. | Outerbridge, Dorothy |
+| 2 | 2028 | 825 | 3752 | 857 |  |  |  |  | Winnifred  | 102 Bedford Rd.. Toronto, Ont  | U.S.A.... | Toronto... | April | 20, 1915. |
+| 2 | 658 | 854 | 3751 | 892 |  | Captain. ... | Rogers, William Thomas  | 12th Regt. | Rogers, Mrs. Lilian Jane  | c/o Mrs. A. Rogers, 71 Crawford St., Toronto, Ont. | Canada... | Toronto... | April | 20, 1915. |
+| 2 | 658 | 883 | 3751 | 921 |  | Captain.... | Parsons, Harold Stuart  | 2nd Regt.. | Parsons, Miriam Eva  | 23 Admiral Rd., Toronto, Ont  | Canada... | Toronto... | April | 22, 1915. |
+| 2 | 658 | 912 | 3751 | 950 |  | Captain.... | Harcourt, Richard MacKenzie. | 10th Regt. | Harcourt, Mrs. Kathleen  | 165 Jameson Ave., Toronto, Ont  | Canada... | Toronto... | April | 22, 1915. |
+| 2 | 658 | 941 | 3752 | 978 |  | Captain.... | Geary, George Reginald  | 2nd Regt.. | Geary, Mrs. Mary F  | Alexandra Apts., University Ave., Toronto, Ont.. | Canada... | Toronto.. . | April | 20, 1915. |
+| 2 | 660 | 970 | 3752 | 1007 |  | Captain. ... | Turnbull, Alan  | 48th Regt. | Turnbull, James  | Queen's Hotel, Toronto, Ont  | Canada... | Toronto.. . | April | 20, 1915. |
+| 2 | 659 | 998 | 3752 | 1036 |  | Captain.... | Jackson, Thomas Franklin  | 19th Regt. | Jackson, M. L  | 45 Maple St., St. Catharines, Ont  | Canada... | Toronto... | April | 20, 1915. |
+| 2 | 659 | 1027 | 3752 | 1066 |  | Captain.... | Brown, Francis Frederick M... | 12th Regt. | Brown, Mrs. Clorinda May.. | 54 Alberta Ave., Toronto, Ont  | Canada... | Toronto... | April | 20, 1915. |
+| 2 | 659 | 1056 | 3752 | 1093 |  | Captain. ... | Mills, Stanley Gordon  | C.A.M.C.. | Mills, George Gordon  | 89 Glen Rd., Toronto, Ont  | Canada... | Toronto... | April | 20, 1915. |
+| 2 | 659 | 1085 | 3751 | 1122 |  | Captain. ... | Plunkett, Merton Wesley  | Nil | Plunkett, Mrs. Robert  | Orillia, Ont  | Canada... | Niagara... | Oct. | 13, 1915. |
+| 2 | 659 | 1114 | 3751 | 1151 |  | Captain. ... | Pugsley, Ernest Edgar  | 12th Regt. | Pugsley, Urban  | 3900 Quebec St. South, Vancouver, B.C  | Canada... | Niagara.. . | Oct. | 12. 1915. |
+| 2 | 661 | 1143 | 3751 | 1181 |  | Lieutenant.. | Saunders, Robert Porteous  | 10th Regt. | Saunders, Mrs. A. J. H  | 65 Chestnut Park Rd., Toronto, Ont  | Canada... | Toronto... | April | 20, 1915. |
+| 2 | 661 | 1171 | 3751 | 1209 |  | Lieutenant.. | Ince, William Campbell  | 10th Regt. | Ince, William  | 94 Prince Arthur Ave., Toronto, Ont  | Canada... | Toronto... | April | 22, 1915. |
+| 2 | 660 | 1203 | 3520 | 1237 |  | Lieutenant.. | McTaggart, Harry James  | Can. Mil.. | McTaggart, Mrs. Alice  | 14 Pearson Ave., Toronto, Ont  | Canada... | Niagara-on |
+| 2 | 659 | 1258 | 3752 | 1296 |  | Lieutenant.. | Baroum, Harold Grafton. . . | 2nd Regt... | Bamum. Mrs. Martha C  | 524 Ontario St., Toronto, Ont  | Canada... | Toronto.. | April 20, 1915. |
+| 2 | 659 | 1287 | 3752 | 1324 |  | Lieutenant. | Sime, Adam Watson  | 2nd Regt... | Sime, Thomas Watson  | 212 Heath St. W., Toronto, Ont  | Scotland.. | Toronto. . | April 21, 1915. |
+| 2 | 658 | 1316 | 3751 | 1354 |  | Lieutenant.. | Pote, Claude. Savery  | 109th Regt. | Pote, Mrs. H. B  | 121 Woodlawn Ave. W., Toronto, Ont. | England.. | Toronto.. | April 20, 1915. |
+| 2 | 657 | 1345 | 3752 | 1383 |  | Lieutenant.. | McGhie, William Gordon... | 19th Regt. . | McGhie. C. G  | St. Catharines, Ont  | Canada.. | Toronto.. | April 22, 1915. |
+| 2 | 656 | 1373 | 3752 | 1411 |  | Lieutenant.. | Saer. Edward Harold  | 12th Regt. . | Saer, Mrs. Agnes  | 311 Avenue Rd., Toronto, Ont  | U.S.A.... | Niagara.. | Oct. 12, 1915. |
+| 2 | 656 | 1402 | 3753 | 1440 |  | Lieutenant.. | Snively, Schuyler Crosby... | 4Sth Regt. . | Alexander, Mrs. Murray  | 15 R.oxborough St. E., Toronto, Ont... | U.S.A.... | Niagara.. | Sept. 7, 1915. |
+| 2 | 656 | 1434 | 3521 | 1469 |  | Lieutenant.. | Smallpiece, Victor Norman. | 2nd Regt... | Smallpiece, W. R  | 174 Rox boro ugh St. E., Toronto, Ont.. | Canada... | Niagara-on |
+| 2 | 655 | 1491 | 3478 | 1527 |  | Lieutenant.. | Christie, Wrilliam Lee  | 2nd Regt. | Christie, R. J. | 29 Queen’s Park, Toronto, Ont  | Canada.. | Niagara |
+| 2 | 655 | 1546 | 3755 | 1585 |  | Lieutenant.. | Woods, John Robinson. | 2nd Regt. | Woods, J. W   | Gordon, Mackay & Co., Toronto, Ont. | Canada.. | Niagara. . . | Sept. 7, 1915. |
+| 2 | 655 | 1578 | 3522 | 1614 |  | Lieutenant.. | Bolt£, F61ix Olivier  | 2nd Regt. | Duncan, Mrs. Elsie. | 14 W’illcocks St., Toronto, Ont  | Canada.. | Niagara-on |
+| 2 | 3392 | 1603 | 3757 | 1631 |  |  |  |  |  |  |  | the-Lake | May | 29, 1915. |
+| 2 | 655 | 1633 | 3756 | 1671 |  | Lieutenant.. | Beatty, Percy Wood  | 10th Regt  | Beatty, Ottilie Marjorie. . . . | 69 Lowther Ave.r Toronto, Ont  | Canada... | Toronto | May | 21, 1915. |
+| 2 | 656 | 1661 | 3757 | 1700 |  | Lieutenant.. | Douglas, John Harvey  | 109th Regt  | Douglas, W. M  | 59 Maitland St., Toronto, Ont  | Canada... | Niagara | June | 30, 1915. |
+| 2 | 656 | 1690 | 3758 | 1728 |  | Lieutenant.. | McArthur, Alexander Stanley. | 10th Regt  | McArthur, Mrs. A  | 54 Rathnelly Ave.. Toronto, Ont  | Canada... | Niagara | Sept. | 16, 1915. |
+| 2 | 656 | 1719 | 3758 | 1757 |  | Lieutenant.. | Matthews, Arnold Cotton  | 10th Regt  | Matthews, WiJmot D  | 89 St. George St., Toronto, Ont  | Canada... | Niagara | Sept. | 7, 1915. |
+| 2 | 656 | 1747 | 3758 | 1786 |  | Lieutenant.. | Tidy, Philip Charles  | 48th Regt  | Tidy, Charles James  | 79 King St. W..Toronto, Ont  | Canada... | Niagara | Sept. | 8, 1915. |
+| 2 | 656 | 1777 | 3759 | 1815 |  | Lieutenant.. | Heighington, Wilfred  | R.M. Coll  | Heighington, Clara  | 3 Edgedale Rd., Toronto, Ont  | Canada... | Niagara | Sept. | 30, 1915. |
+| 2 | 657 | 1805 | 3758 | 1844 |  | Lieutenant.. | Upton, Herbert Marshall  | 2nd Regt  | Pearson, Lydia  | “ Burlington Crescent, Toronto, Ont  | Canada... | Niagara | Sept. | 7, 1915. |
+| 2 | 657 | 1835 | 3759 | 1871 |  | Lieutenant.. | Woods, William Blakney  | 2nd Regt  | Woods, Bertha Mason  | 40 Hawthorne Ave., Toronto, Ont  | Canada... | Niagara | Oct. | 1, 1915. |
+| 2 | 658 | 1863 | 3759 | 1901 |  | Lieutenant.. | Sykes, Hugh Harding  | 2nd Regt  | Sykes, Sydney B   | Hawthorne Ave., Toronto, Ont  | Canada... | Niagara | Oct. | 4, 1915. |
+| 2 | 659 | 1892 | 3760 | 1927 |  | Lieutenant.. | Greene, Philip Weston  | Nil  | Greene, Rev. Richard W\ E. | Toronto, Ont   | Canada... | Niagara | Oct. | 1, 1915. |
+| 2 | 660 | 1921 | 3759 | 1958 |  | Lieutenant.. | Keith, David Lumsden  | Can. Mil  | Keith, George  | 232 Poplar Plains Rd., Toronto, Ont  | Canada... | Niagara | Oct. | 1, 1915. |
+| 2 | 661 | 1950 | 3759 | 1986 |  | Lieutenant.. | Colley, Thomas Bellasyse. ... | Can. Mil  | Colley, Rev. A. N  | Gt. Baddow Vicarage, Chelmsford, Eng. . . . | England.. | Niagara | Oct. | 5, 1915. |
+| 2 | 561 | 1979 | 3759 | 2015 | 404480 | Private  | Abbiss, Frank  | Nil  . | Abbiss, Mrs. Ellen, | 466 High Road, Streatham, London, Eng. . . | England.. | Toronto | April | 12, 1915. |
+| 2 | 561 | 2008 | 3759 | 2044 | 404481 | Private  | Abemethy, Thomas  | Nil I Abemethy, Mrs. Margaret |  | Cherry Hill, Stewartstown, Co. Tyrone, Ire, | Ireland... | Toronto | April | 9, 1915. |
+| 2 | 561 | 2037 | 3759 | 2072 | 405188 | Private  | Adam, Robert  | Nil lAdam, Duncan |  | Kennedy St., Wishaw, Scot  | Scotland.. | Niagara | June | 26, 1915. |
+| 3 | 609 | 356 | 3795 | 389 | 404658 | Private.... | Adams, Alfred Ernest  | Nil  | Adams. Mrs. Minnie Helena | Second Ave., Fairbank P.O., Toronto. Ont. | England.. | Toronto. | Aug. | 21, 1915. |
+| 3 | 608 | 385 | 3795 | 419 | 404483 | Private ... | Adams, .Allred John   | Imp. Forces. | Adams, Mrs. M. H  | Second Ave.. Fairbank P.O., Toronto, Ont. | England.. | Toronto. | April | 12, 1915. |
+| 3 | 608 | 415 | 3797 | 448 | 4042S5 | Private.... | Adams, Charles Frederick. | 2nd Regt | Adams, Mrs. W. F  | 64 Rosemount Ave.. Toronto, Ont  | Canada... | Toronto | May | 13, 1915. |
+| 3 | 608 | 445 | 3798 | 477 | 404659 | Private.... | Adams, George  | Nil. | Mahaaney, Margaret. . .. | 239 Brunswick Ave., Toronto, Ont  | Ireland .. | Toronto. | Aug. | 25. 1915. |
+| 3 | 608 | 474 | 3798 | 504 | 404666 | Private  | Adams, Harold  | C.A.M.C. | Adams, Robert William . | Milliken P.O., Ont  | Canada.. | Toronto. | Aug. | 20. 1915. |
+| 3 | 607 | 504 | 3799 | 535 | 405316 | Bandsman. | Adams, William Charles... | Nil  | Adams, Mrs. Elsie May... | 100 Niagara St., St. Catharines, Ont  | England.. | Niagara. | Sent. | 7, 1915. |
+| 3 | 607 | 532 | 2354 | 562 | 40425J | C. S.-M ... | Addison, Frank Gibson.... | 2nd Regt | Addison. Mrs. Irene |
+| 3 | 2072 | 561 | 3800 | 591 |  |  |  |  | Harrison  | 61 Triller Ave., Toronto, | Cana/la.. | Toronto. | April | 9, 1915. |
+| 3 | 606 | 590 | 3798 | 621 | 405016 | Corporal. . . | Aitken, David  | 5th Regt. | Jamieson. Mrs. 3 . .  | VYolbgarth, Scot  | Scotland. | Toronto. | April | 5, 1915. |
+| 3 | 606 | 619 | 3800 | 649 | 404661 | Private.. | Alexander, Willium George. | Nil  | Alexander, Mrs. Elizabeth | Port Credit P.O., Ont  | England.. | Toronto. | Aug. | 17, 1915. |
+| 3 | 605 | 648 | 3799 | 677 | 404099 | L.-Corporal. | Allan. Fiti Robert  | Nil  | Allan, G. A   | 189 Dunn Ave., Toronto, Ont  | Canada.. | Toronto. | April | 19, 19 i 5. |
+| 3 | 604 | 677 | 3527 | 709 | 404484 | Private  | All bright, William  | Nil  | Allbright, Mrs. Helen  | 50 Grafton St., Northampton, Eng... | England. | Niagara |
+| 3 | 3443 | 705 | 3798 | 732 |  |  |  |  |  |  |  | Camp. | June | 0, 1915. |
+| 3 | 605 | 734 | 3792 | 764 | 404021 | Private..... | Alien, James Aron  | Nil  | Allen, Mrs. Theresa... | 82 Shaftesbury Ave., Toronto. Ont. | Canada.. | Niagara. | June | 24, 1915 |
+| 3 | 607 | 762 | 3801 | 794 | 13900' | Private  | Allen, John  | Imp. Forces. | Allen, Mrs. Catherine. | 125 Drayton Ave., Toronto, Ont. .. | England. | Toronto. | July | 21, 1915. |
+| 3 | 606 | 792 | 1441 | 819 | 192433 | Private  | Allingham, William  |
+| 3 | 604 | 820 | 3801 | 850 | 404286 | Private  | Allman, Thomas  | Nil. | Allman, Mrs. Grace  | 31 Broad St.. Newcastle. StafTs, Eng  | England.. | Toronto.. | April | 8, 1915. |
+| 3 | 604 | 849 | 3802 | 878 | 404662 | Private  | Allward. Gordon  | Nil. | All ward. Mrs. E  | 21 Garden Ave., Toronto, Ont  | Canada.. | Toronto.. | Aug. | 13. 1915. |
+| 3 | 603 | 878 | 3802 | 907 | 404487 | Private  | Anderson. George .Albert. . . | Nil. | Anderson, Mrs. A  | 84 Bird Ave., Toronto, Ont  | England.. | Toronto . | May | 11, 1915. |
+| 3 | 603 | 902 | 3802 | 937 | 404063 | L.-Corporal. | Anderson, Lome .Alexander. MM | Ni.. | Anderson, Mrs. Margaret F. | 13 Norton Ave., Toronto, Ont  | Canada... | Toronto.. | Aug. | 1, 1915. |
+| 3 | 602 | 935 | 3802 | 966 | 4040G9 | Private  | Anderson, William Wybrants  | Nil. | Anderson, Mrs. L  | 331 Ossington Ave., Toronto, Ont  | Ireland.. | Toronto.. | April | 19, 1915. |
+| 3 | 604 | 964 | 3802 | 995 | 138516 | Private  | Arbic. Isadore   | 9th Horse. | .Arbic, Mrs. Mary  | Brace bridge P.O.. Ont  | Canada... | Toronto. . | July | 30, 1915. |
+| 3 | 602 | 992 | 3802 | 1023 | 404287 | Private  | Arland. Chester Blair  | Nil. | Arland. Mrs. Mary Jane  | 162 Close Ave., Toronto, Ont  | Canada... | Toronto.. | .April | 19, 1915. |
+| 3 | 601 | 1021 | 3802 | 1052 | 404288 | Private  | Armstrong, Francis Albert  | Nil. | Armstrong, Mrs. C. E  | 5 Cameron Place, Toronto. Ont  | Canada... | Toronto . | April | 8, 1915. |
+| 3 | 600 | 1051 | 3801 | 1082 | 405232 | Private  | Arnold, Joseph  | Nil. | Arnold, Miss Theresa  | c/o LUy Brackpool, Turner’s Hill, Sussex, Eng  | England.. | Toronto.. | Aug. | 19, 1915. |
+| 3 | 600 | 1080 | 3802 | 1109 | 404486 | Private  | Arrowsmith, William Frederick... | Nil. | Arrowsmith, Mrs. Sarah.. | 67 Church St., Fenton, Stoke-on-Trent, Eng  | England.. | Niagara . | June | 30, 1915. |
+| 3 | 600 | 1108 | 3802 | 1140 | 404031 | Private  | Arthur, James   | Nil. | Black, Mrs. Amy  | 16 Hightield St., Cheetham, Manchester, Eng  | England.. | N lagara . | July | 2, 1915. |
+| 3 | 599 | 1138 | 3528 | 1169 | 404071 | Private  | Arthur, John  | Nil. | Arthur, Mrs. Agnes  | 131, 20th St., New York W., New Jersey, U.S.A... | Scotland. | Niagara |
+| 3 | 3443 | 1166 | 3801 | 1194 |  |  |  |  |  |  |  | Camp. . | June | 9, 1915. |
+| 3 | 597 | 1194 | 3801 | 1226 | 405002 | J^ergeant.... | .Arthur, William Stewart  | Nil  | Arthur, James  | •Symbistin. Whalsay by Lerwick, Shetland, Scot.. | Scotland. | Toronto.. | April | 5, 1915. |
+| 3 | 597 | 1224 | 3801 | 1255 | 4044S8 | Private  | .Ash, John  | Imp. Forces. | Ash, Mrs. Beatrice Maud. .. | 20 Lippincott St., Toronto, Ont  | England.. | Niagara . | June | 11, 1915. |
+| 3 | 597 | 1253 | 3801 | 1285 | 404 605: | Private  | Aspinwall, Joseph Edward  | Nil  | Aspinwall, Joseph  | I Midland Place. Toronto, Ont  | England.. | Toronto.. | Aug. | 15, 1915. |
+| 3 | 597 | 1282 | 3802 | 1314 | 404G67 | Private  | Atherley, Richard  | Can. Mil | Atherley. Mrs. Caroline  | 121 Arthur St., Toronto, Ont  | Canada... | Toronto. . | Aug. | 20, 1915. |
+| 3 | 596 | 1311 | 3802 | 1342 | 404608 | Private  | Atkins, Frederick James  | Nil. | Atkins, William Henry  | Byron Villas, Battersea, London, Eng  | England.. | Toronto. . | Aug. | 23, 1915. |
+| 3 | 596 | 1340 | 3802 | 1370 | 404669 | Private   | Atkins, James Loyal  | Nil. | Atkins. Mrs. Isabella....... | 237 Earlcourt Ave., Toronto, Ont  | Canada.. | Toronto.. | Aug. | 23, 1915. |
+| 3 | 597 | 1368 | 3804 | 1398 | 404482 | Private   | Atkinson, James  | Nil. | Atkinson. Mrs. Lillian  | 264 Gledhiil Ave., Toronto, Ont  | England., | Toronto. . | May | 11, 1915. |
+| 3 | 597 | 1396 | 3803 | 1429 | 404071 | Private  | Auld, John  | Nil.. | Auld. Mrs. M  | 21S Laughton Ave., Toronto, Ont  | Ireland . | Toronto. . | April | 19, 1915. |
+| 3 | 598 | 1426 | 3804 | 1458 | 404985 | Private:.... | Austin, William  | Nil. | Austin, Mrs. Rose Sophia.. . | 65 Sellers Ave., Toronto, Ont  | England. | Toronto. , | Aug. | 25, 1915. |
+| 3 | 597 | 1455 | 3804 | 1485 | 404670 | Private | Austin. William Henry  |  | Adkin, Frederick  | 119 Arthur St.. Toronto, Ont  | England., | Toronto., | Aug. | 17, 1915. |
+| 3 | 598 | 1484 | 3805 | 1515 | 404671 | Private  | Avis. Walter   | Nil  | Avis, Walter   | II Viney Road, Cambridge, Eng  | Canada.. | Toronto.. | Aug. | 16, 1915. |
+| 3 | 599 | 1510 | 3804 | 1545 | 404457 | Private  | Bailey, Francis Walter D.CM | Nil  | Bailey, Mrs. Catherine. . . . | 196 Arayaud Park Road, St. Margarets, M'sex, Eng. | England. | Toronto. , | April | 12, 1915. |
+| 3 | 599 | 1540 | 3804 | 1574 | 404672 | Private — | Bailey, Frederick  | Nil  | Bailey, Mrs. Sarah  | 32 Berryman St., Toronto, Ont  | Canada.. | Toronto. | Aug. | 17, 1915. |
+| 3 | 599 | 1570 | 3804 | 1603 | 404673 | Private  | Bailey, John James  | Nil  | Bailey, John  | 63 Augusta Ave., Toronto, Ont  | England. | Toronto | Aug. | 20, 1915. |
+| 3 | 599 | 1598 | 3804 | 1632 | 404674 | Private  | Bailey, Richard  | 10th Rejrt. | Bailey, Sadie  | 724 Euclid Ave., Toronto, Ont  | England. | Toronto., | Aug. | 19, 1915. |
+| 3 | 599 | 1627 | 3531 | 1661 | 404493 | Private  | Bailey, William Ralph.  | 10th Regt. | Bailey, Mrs. Bridget  | 60 Darling Ave., Toronto, Ont  | Canada.. | Niagara |
+| 3 | 3448 | 1655 | 3805 | 1682 |  |  |  |  |  |  |  | Camp | June | 9, 1915. |
+| 3 | 599 | 1684 | 3805 | 1716 | 404656 | Drummer. | Bain. John ?  | Ni!  | Bain, Mr*. Ethel  | 40 Lewis St., Toronto, Ont  | Canada.. | Toronto. | April | 19, 1915. |
+| 3 | 600 | 1712 | 3805 | 1746 | 404289 | Private.. . | Baker, Abbie  | Nil  | Baker, Mrs. M  | 140 Peter St., Toronto, Ont    | Russia... | Toronto. | April | 8, 1915. |
+| 3 | 599 | 1742 | 3805 | 1776 | 404G75 | Private  | Baker. Alfred  | Nil  | Baker, Percy  | 202 Rookery Road, Handsworth, Birmingham. Eng | England. | Toronto. | Aug. | 19. 1915. |
+| 3 | 599 | 1771 | 3805 | 1803 | 40467C | Private  | Baker. Arthur Charles  | Nil  | Baker, Mrs Sarah  | 24 Gresham Ave. W., Toronto, Ont  | England. | Toronto. | Aug. | 3, 1915. |
+| 3 | 599 | 1799 | 3806 | 1834 | 404676 | Private  | Baker, George Edgar  | 10th Regt. . | Baker, George  | 26 Hambro Road, Streatham, London, Eng . | England. | Toronto. | Aug. | 16. 1915. |
+| 3 | 600 | 1827 | 3806 | 1862 | 404679 | Private  | Baker, Herbert  | 2nd Regt... | Baker, Herbert  | 113 Cambridge Ave., Toronto, Ont  | England. | Toronto. | Aug. | 23. 1915. |
+| 3 | 599 | 1856 | 3806 | 1892 | 404 68C | Corporal... | Baker. Richard  | Territorials. | Baker, Mrs. Anna Marie | 77 G wynne Ave., Toronto. Ont  | England. | Toronto. | Aug. | 17, 1915. |
+| 3 | 600 | 1885 | 3807 | 1918 | 404682 | Private  | Ballard. Frederick Austin., | Nil  | Ballard, Mrs. Silena Martha | 30 Essex St., Reading, Eng  | England. | Toronto. | Aug. | 21, 1915. |
+| 3 | 599 | 1914 | 3807 | 1950 | 4046S3 | Private  | Banks, George Henry  | Nil  | Banks, Mrs. Elizabeth — | 70 Dewson St., Toronto, Ont  | England. | Toronto. | Aug. | 21, 1915. |
+| 3 | 600 | 1942 | 3807 | 1979 | 404119 | Sergeant  | Bannister, Frank  | 2nd Regt .. | Bannister, Mrs. Henrietta... | 30 Burgess Ave., Toronto, Ont  | England. | Toronto. | April | 8, 1915. |
+| 3 | 599 | 1972 | 3806 | 2008 | 404685 | Private..... | Barnes, Reginald Thomas. | 2nd Regt .. | Barnes, John James.... | 314 Bathurst St., Toronto, Ont  | England. | Toronto. | Aug. | 21, 1915. |
+| 3 | 599 | 2001 | 3807 | 2036 | 404501 | Bandsman. | Barratt, George .Albert.... | 53rd Regt. . | Whitty, Mrs .  | 18 Claremont Place, Toronto, Ont  | England. | Niagara. | June | 11, 1915. |
+| 3 | 598 | 2029 | 3808 | 2066 | 404291 | Private.. .. | Barrett. Harold Boyd  | 2nd Regt... | Barrett, Mrs. Emily... | 63 Walmer Road. Toronto. Ont    | Canada.. | Niagara. | Sept. | 7, 1915. |
+| 3 | 599 | 2058 | 3807 | 2095 | 404458 | C.S.M  | Barry, John  | S. A  | Barry, Mrs. Nancy.... | 165 Sammon Ave., Todmorden P.O., Ont  | England. | Toronto. | April | 12, 1915. |
+| 4 | 624 | 544 | 3373 | 598 | I* |  |  | Name of Next of Kin. |  | Country of |
+| 4 | 623 | 707 | 3811 | 740 | 405000 |  |  | Barth. Mrs.,Winnifred Louise | 35 Prestholm Ave., Todmorden P.O.. Ont. | England | Toronto.... | .April | 1915. |
+| 4 | 623 | 736 | 3811 | 771 | 4C53Gfe | Private  | Basinger, Archibald Edwin  | Basinger, Mrs. E  | 30 Rutland Ave.. Toronto, Ont  | England | Toronto... | April | 1915. |
+| 4 | 623 | 768 | 3540 | 798 | 404196 | Batch, George  | S.A  | Batch. Mrs. F  | Chingford, Essex, Eng  | Eng. and. | Niagara |
+| 4 | 622 | 826 | 3596 | 857 | 40429C |  |  | Bate, John Wesley. | Brougham, Ont. | Cana* la.. | Niagara-on- |
+| 4 | 3452 | 854 | 3812 | 878 |  |  |  |  |  |  | t he-Lake | June | 1915. |
+| 4 | 621 | 882 | 3811 | 914 | 4041 lg |  |  | Bateson, Mrs. S. D  | 90 Winchester St., Toronto, Ont... | Canad.i.. | Toronto.... | \pril | 1915. |
+| 4 | 621 | 913 | 3811 | 945 | 40510C | Bathurst. William  |  | Bathurst, Mrs. Mary Jane. | Glennevis, Ont  | Canada.. | Niagara... . | June | 1915. |
+| 4 | 621 | 942 | 3811 | 973 | 4C468C |  | Nil  | Bauckhara, Charles  | 19 Algonquin Ave., Toronto, Ont.. | Canada . | Toronto.... | Aug. | 1915. |
+| 4 | 621 | 971 | 3811 | 1003 | 4C4687 |  |  | Baxter, Mrs. Mary  | 643 Queen St. East, Toronto. Ont. | England. | Toronto.... | Aug. | 1915. |
+| 4 | 620 | 1001 | 3811 | 1032 | 4C46S8 |  | Nil  | Bazley, Thomas.    | 618 Eastern Ave., Toronto, Ont. . . | Canada. | Toronto.... | Aug. | 1915. |
+| 4 | 621 | 1029 | 3594 | 1061 | 404292 | Bazley, John  | Nil  | Baxley, Mrs. Mary  | 618 Eastern Ave., Toronto, Ont... | Canada.. | Niagara-on- |
+| 4 | 619 | 1088 | 3540 | 1118 | 4C4507 |  | Nil  | Beton, Caroline. | 8 Osgoode Mansions, Toronto. Ont. | Australia. | Niagara |
+| 4 | 3453 | 1116 | 3812 | 1144 |  |  |  |  |  |  | Camp.. | June | 30. | 1915. |
+| 4 | 618 | 1144 | 3812 | 1177 | 4051S9 | Beamish. Herbert Melville  | Nil  | Beamish, Henry  | 1 Ontario St., Toronto. Ont  | Canada  | N iagara.. | Jure | 15. | 1915. |
+| 4 | 618 | 1174 | 3812 | 1206 | 405191 |  |  | Beaney, Miss Mary  | 1 Borden Lane. Sittingbourne. Kent. Eng. | England  | N iacara.. | July. | 6, | 1915. |
+| 4 | 618 | 1203 | 3813 | 1234 | 404689 | Beard, John Price  | Nil  | Beard, Mrs. Edna  | Buxton Road, Bakewell, Derby, Eng  | England  | Toronto.. | Aug | 21, | 1915. |
+| 4 | 617 | 1233 | 3814 | 1262 | 405101 | Private  |  | Beattie, Mrs. Katherine. | Insch. Aberdeen. Scot  | Scot land  | X uurara.. | June | 9. | 1915. |
+| 4 | 617 | 1261 | 3814 | 1293 | 404293 | Private  | Beck, Frederick  | Beck, Mrs. Jennie  | 125 Manning Ave.. Toronto, Ont  | England  | Niagara.. | June | 5, | 1915. |
+| 4 | 616 | 1290 | 3815 | 1320 | 404233 | Private  | Beck, Joseph Alexander  | Beck, Mrs. Elizabeth. . | "5 Markham St.. Toronto. Ont.   | Canada  | Toronto.. | Aug. | 23. | 1915. |
+| 4 | 616 | 1320 | 3814 | 1348 | 404690 | Private  | Nil  | Beckett. Mrs. Sarah. | 1305 Gerrard St. East, Toronto, Ont  | Canada  | Toronto. . | Aug | 17, | 1915. |
+| 4 | 615 | 1349 | 3815 | 1381 | 404691 | Private  | Bedford, Ernest  | Nil  | Bedford, Mrs. Georgina.. | 2636 Yonge St.. Toronto. Ont  | England  | Toronto.. | April | 1915. |
+| 4 | 614 | 1367 | 3815 | 1407 | 404282 | Bugler  | Beecraft. William Ray.  | Beecraft. Arthur E. | 244 Jarvis St., Toronto. Ont  | Canada  | Toronto.. | \pril | 19,' | 1915. |
+| 4 | 612 | 1407 | 3815 | 1436 |  | Behan, James Jeremiah  | 405018 | Corporal  | Behan, Mrs. J  | 136 Dovercourt Road. Toronto. Ont  | Canada  | N iagara.. | June | 1915. |
+| 4 | 611 | 1425 | 3814 | 1467 | 404988 | Private  | Bell, Albert Roy  | Bell, Mrs. Mary Ann  | 189 Cowan Ave., Toronto. Ont  | Canada  | N iagara.. | :ept. | 30* | 1915. |
+| 4 | 610 | 1464 | 3815 | 1493 | 405295 | Private  | Bell, Alexander  | Nil  | Not stated  | Not stated  | Scotland  | SmithsFalls | July | 5. | 1915. |
+| 4 | 610 | 1493 | 3598 | 1526 | 405102 | Private  | Beli, Andrew  | Bell, Mrs. Janet  | 101 Kirkland St., Glasgow, Scot  | Scotland  | X iagara-on- |
+| 4 | 3452 | 1523 | 3814 | 1547 |  |  |  |  |  |  | the-Lake | June | 9, | 1915. |
+| 4 | 609 | 1550 | 3815 | 1583 | 4C4692 | Private  | Bell, Frederick J  | Bell, Maud . . . . . . . | 19 Uxbridge Ave.. West Toronto, Ont. | England... | Toronto... | Aug. | 13, | 1915. |
+| 4 | 609 | 1580 | 3816 | 1612 | 404010 |  | S.A   | Bell, Mrs. Christina. | 10 Luttrell Ave., Toronto. Ont  | Scotland... | Toronto... | April | 10, | 1915. |
+| 4 | 611 | 1609 | 3817 | 1640 | 139511 | Private  |  | Bell, Mrs. Martha. . | 16 Eugene St., Barrie. Ont  | Canada.... | Toronto... | July | 16. | 1915. |
+| 4 | 608 | 1638 | 3817 | 1670 | 404693 | Private  | Bell. W’illiam Alfred  | Bell. Mrs. Mary Ann. | 189 Cowan Ave.. Toronto. Ont  | Canada... | Toronto... | Aug. | 23, | 1915. |
+| 4 | 608 | 1667 | 3599 | 1697 | 404294 | Private   | Nil  | Beiiisle, A  | Combermcre, Ont   | Canada... | Ni;igara-on- |
+| 4 | 3454 | 1693 | 3819 | 1721 |  |  |  |  |  |  | the-Lake | June | If. | 1911. |
+| 4 | 608 | 1724 | 3819 | 1757 | 405235 | Private  | Nil  | Bennett. Roy  | Sault St. Marie. Ont  | Canada  | Toronto.. | Aug. | 15. | 1915. |
+| 4 | 612 | 1752 | 3810 | 1787 | 13902C | Private  |  | Hodgkiason. Mary E  | Church Lane, Chapel-en-le-Frith, Eng  | England  | Toronto.. | July | If, | 1915 |
+| 4 | 610 | 1777 | 3819 | 1813 | 404500 | Private  | Bennett, Thomas Edward . . r*JP] | Bennett, Robert  | Acton, Ont  | Canada  | N iagara.. | June | 15. | 1915. |
+| 4 | 610 | 1809 | 3820 | 1842 |  | Benneworth, Frederick  | 405220 | Sergeant  | Nil  | Benneworth, Mrs. Elizabeth | 29 Frizzell Ave.. Toronto, Ont  | England  | Toronto.. | April | 12. | 1915. |
+| 4 | 612 | 1840 | 3821 | 1871 | 404022 |  | Nil.. | Bessell, Mrs  | 50 Barseth Road. Nunhead, London. Eng   | England...... | Niagara.. | June | 24. | 1915. |
+| 4 | 612 | 1868 | 3821 | 1899 | 405331 | Private  |  | Bickle, G. T  | 25 Yarmouth Gardens, Toronto, Ont  | Canada  | Niagara.. | Sept. | 20. | 1915. |
+| 4 | 613 | 1897 | 3820 | 1930 | 4C4694 | Private  | Nil  | Billings, Mrs. Dolly  | Trenton. Ont  | Canada  | Toronto.. | Aug. | 20. | 1915. |
+| 4 | 614 | 1926 | 3821 | 1959 | 404695 | Private  | Nil  | Bingham, Mrs. Isabella  | 193 Marlborough Ave., Toronto, Ont  | Canada  | Toronto.. | Aug. | 13. | 1915. |
+| 4 | 614 | 1955 | 3820 | 1987 | 405030 |  |  | Birrell, Mrs  | Livingston Cleish. Kinross. Scot  | Scotland  | Toronto.. | April | 5. | 1915. |
+| 4 | 614 | 1984 | 3820 | 2016 | 405029 | Private  | Nil  | Birreil, David  | Iivingston, Kinross. Scot.     | Scotland  | Toronto.. | May | 12. | 1915. |
+| 4 | 615 | 2012 | 3820 | 2043 | 404295 | Private  | Nil  | Bruce well, Edmund  | 9 Montrose Ave., Toronto, Ont  | England  | Toronto.. | April | 8. | 1915. |
+| 4 | 614 | 2041 | 3820 | 2073 | 405103 | Private  |  | Bishop, Benjamin  | Cupids, Newfoundland  | Newfoundland. | N iagara.. | June | 5. | 1915. |
+| 4 | 614 | 2070 | 3820 | 2102 | 405104 | L.-Corporal  | Blackman, Albert  | Blackman, John  | Delson Junction, near St. Constant, Montreal, P.Q | England  |  | June | 9, | 1915. |
+| 4 | 614 | 2099 | 3820 | 2132 | 453724 | Private  | Blackman, Thomas  | Nil  | Blackman John ThomasR.J. | St. Constant, P.Q  | England  | Toronto.. | Sept. | 10, | 1915. |
+| 5 | 654 | 423 | 3832 | 456 | 4C449C | Private  | Blair, Percy  |  | C.A.S.C.... | Blair. Mrs. E  | 54 Avenue Road, Toronto, Ont  | Canada... | Toronto. | April | 12, 1915. |
+| 5 | 653 | 453 | 3832 | 487 | 4C5318 | Bandsman  | Blarney, \N illiara  |  | Territorials | Blarney, Jame3  | Hotel Road, Fowey, Cornwall, Eng  | England. | Niagara. | Sept. | 7, 1915. |
+| 5 | 656 | 482 | 3832 | 514 | 138128 | Private  | Blanche, John  |  | Nil  | Blanche, Robert  | Arthur St., Edinburgh, Scot  | Scotland. | Toronto. | Aug | 18. 1915. |
+| 5 | 652 | 511 | 3832 | 544 | 404505 | Private  | Bogie, David Ritchie  |  | Nil  | Bogie, Mrs. Ann  | 34 Joamont Ave., Fairbank, Toronto, Ont  | Scotland. | N iagara | June | 11, 1915. |
+| 5 | 651 | 541 | 3832 | 571 | 404113 | Priva te  | Bolton, Frederick W  |  | Nil  | Bolton, Mrs. Hannah  | 58 Lewis St., Toronto, Ont  | Canada. . | Niagara | June | 11. 1915. |
+| 5 | 651 | 569 | 3832 | 601 | 405C31 | Private  | Bolton, Richard  |  | Nil  | Bolton, Mary Ellen  | 39 Ascott Ave., Toronto, Ont. .    | England. | Toronto. | April | 5, 1915. |
+| 5 | 650 | 599 | 3833 | 632 | 404478 | L.-Corporal  | Bo re ham, Reginald Harold. |  | Nil  | Boreham, Mrs. T  | 33 Coppermill Lane, Lower Tooting, London, Eng. | England.. | Toronto. | April | 12, 1915. |
+| 5 | 650 | 627 | 3833 | 660 | 405017 | Corporal  | Borrette, Roecoe Douglas. . |  | 48th Regt | Borrette, Mrs. Adeline H... | 44 Tyndall Ave., Toronto, Ont  | Canada... | Toronto. | April | 5, 1915. |
+| 5 | 649 | 657 | 3833 | 689 | 40515C | Private  | Boulger, James  |  | G.G.B.G... | Boulger, Ella  | 13 Macauley Ave., Toronto. Ont  | Ireland.. | N iagara | June | 11, 1915. |
+| 5 | 649 | 685 | 3834 | 722 | 405224 | Corporal  | Bourke, Henp' McQuater.. |  | 2nd Regt | Bourke, Mrs. Martha  | 48 Grove Park, Rathgar. Dublin, Ire  | Ireland.. | Toronto. | April | 19. 1915. |
+| 5 | 648 | 718 | 2315 | 745 | 405157 | Private..  | Bourne, Bertie  |  | Nil  | Bourne, Mrs. Olive |
+| 5 | 2110 | 743 | 3835 | 774 |  |  |  |  |  | Gertrude  | 34 Ford St., Toronto, Ont  | England | Niagara .. | June | 11, | 1915. |
+| 5 | 648 | 772 | 3835 | 805 | 405158 | Private  | Bowering, Georpe  |  | Nil  | Bowering, Mrs. Barbara . .. | 23 Munro St.. Toronto, Ont  | Canada. | N iagara . | June | 15. | 1915. |
+| 5 | 647 | 801 | 3835 | 833 | 404296 | Private  | Bowerman, Reginald  |  | Nil   | Bowerman, Mabel  | 58 Brandon Ave., Toronto, Ont  | England. | Toronto... | April | 19, | 1915. |
+| 5 | 647 | 830 | 3835 | 864 | 404492 | Private  | Bowers, Charles James. . |  | Royal Nav. | Bowers, Mrs. Ella  | 39 Humbert St., Toronto, Ont  | Ireland.. | Toronto... | May | 15, | 1915. |
+| 5 | 646 | 860 | 3606 | 892 | 4C4297 | Private  | Bowman, George McLeod. |  | 2nd Regt | Bowman, Mrs. C. J  | 50 Medland Crescent, Toronto, Ont. | Canada.. | Niagara-on |
+| 5 | 3478 | 887 | 3836 | 913 |  |  |  |  |  |  |  |  | the-Lake | June | 12, | 1915. |
+| 5 | 645 | 917 | 3835 | 950 | 4C4G98 | Private  | Boyatt, Herbert Ewart .. |  | Nil  | Williams, Mrs. Ann  | Albert Road, Abergavenny, Monmouth, Wales.. | Wales . . | Toronto. . | Aug | 16, | 1915. |
+| 5 | 645 | 945 | 3836 | 980 | 404052 | Private  | Brabrook, Edward John.. |  | 2nd Regt | Stephens, Mrs. A  | 26 Guildford Road, Brighton, Eng  | England. | N iagara... | Sept. | 7, | 1915. |
+| 5 | 644 | 975 | 3836 | 1009 | 404696 | Private  | Bradford. Henry Andrew |  | Imp. Forces | Bradford, Mrs. Florence.... | 180 Munro St., Toronto, Ont  | England. | Toronto .. | Aug. | 21, | 1915. |
+| 5 | 644 | 1004 | 3828 | 1038 | 405032 | Private  | Bradley, Edgar  |  | Imp. Forces | Bradley, Robert James  | Southport, Eng  | England. | Toronto... | April | 5, | 1915 |
+| 5 | 643 | 1033 | 3835 | 1067 | 405236 | Private  | Bradshaw, Albert Ernest. |  | Imp. Forces | Bradshaw, Mrs. Alice  | 65 Boultbee Ave., Toronto, Ont  | England. | Toronto... | Aug. | 21. | 1915. |
+| 5 | 642 | 1062 | 3835 | 1096 | 405033 | Private  | Bramwell, Clarence  |  | Nil  | Bramwell, John  | Queen St., Tideswell, Derby Eng  | England. | Toronto .. | April | 5, | 1915. |
+| 5 | 641 | 1091 | 3835 | 1126 | 404 502 | Private  | Brandow, Bert  |  | Nil | Berry, Mrs  | 77 Pine Crest Road, Toronto, Ont  | Canada.. | iagara . | June | U. | 1915. |
+| 5 | 640 | 1120 | 3835 | 1159 | 405225 | Corporal  | Branton, Charles Toyne. . |  | R.C.R  | Wilhelm, Bessie B  | 628 Lawrence Road, N.E. Canton. Ohio, U.S.A.. .j | Engiund. | iagara .. | July | 6. | 1915. |
+| 5 | 639 | 1149 | 3834 | 1183 | 4047GC | Private  | Brennan, John Joseph  |  | Nil  | Brennan, James  | Joar Island, Kilbeggan. Westn:eath, Ire  | Ireland . | Toronto .. | Aug. | 20. | 1915. |
+| 5 | 640 | 1178 | 3835 | 1212 | 4C4491 | Private  | Brevitt, John  |  |  | Brevitt, Mrs. L  | 51 Fraser St., Bilston, Staffs, Eng  | England. | Toronto. . | April | 12, | 1915. |
+| 5 | 640 | 1209 | 3620 | 1241 | 404298 | Private  | Brewer, Gordon  |  | Nil. | Brewer, Mrs. Etta  | 392 Lake Shore Road, Toronto, Ont  | Canada.. | iagara-on- |
+| 5 | 3477 | 1236 | 3836 | 1261 |  |  |  |  |  |  |  |  | the-Lake | Tune | 12. | 1915. |
+| 5 | 642 | 1264 | 3836 | 1301 | 140024 | Private  | Briggs, George  |  | 9th Horse. . . | Briggs, Joseph  | 48 Victoria St., Accrington, Eng | England.. . | Toronto ... | July | 28, | 1915. |
+| 5 | 638 | 1293 | 3837 | 1328 | 405034 | Private..  | Broad. Albert  |  | Nil.. | Broad, Edward  | Cobham, Surrey. Eng  | England.. | Toronto ... | April | 9. | 1915. |
+| 5 | 639 | 1323 | 3837 | 1358 | 404701 | Private  | Broadbridge, Barnaba.- |  | Territorials.. | Broadbridge, Mrs. Emily.. | 148 Christie St., Toronto, Ont  | E: ^land . | Toronto ... | Aug. | 19. | 1915. |
+| 5 | 639 | 1351 | 3838 | 1385 | 404503 | Private  | Brodie, James  |  | Nil  | Brodie, John  | Orillia. Ont   | Scotland. . | Niagara | June | U. | 1915. |
+| 5 | 638 | 1381 | 3618 | 1415 | 4051C5 | Private  | Brough,John  |  | Nil  | Brough, Mrs. Margaret ... | 43 Booth Ave., Toronto, Ont  | Canada... | N ingara-on- |
+| 5 | 3481 | 1409 | 3838 | 1434 |  |  |  |  |  |  |  |  | t he-Lake | June | 9, | 1915. |
+| 5 | 640 | 1432 | 3839 | 1472 | 4C4702 | Private  | Brown, | Albert  | Nil  | Brown, Mrs. Phoebe........ | 10 Hugo Ave., Toronto. Ont | Eng und.. | Toronto.. | Aug. | 19. | 1915. |
+| 5 | 641 | 1467 | 3839 | 1500 | 404704 | Private  | Brown, | George Andrew.. | Nil  | Dalton, Sarah  | Davenport Road, Toronto, Ont | Canada... | Toronto . | Aug. | 21. | 1915. |
+| 5 | 641 | 1496 | 3840 | 1530 | 405035 | Private  | Brown, | Gilbert Charles.. | Nil  | Brown, Mrs. .Alice Mary. . . | 267 Lansdowne Ave., Toronto, Ont | England.. . | Toronto... | April | 5. | 1915. |
+| 5 | 642 | 1524 | 3840 | 1559 | 405036 | Private  | Brown, | Herbert William | 48th Regt. . . | Brown, Mrs. Sarah  | 340 Berkeley St., Toronto, Ont  | Canada... | Toronto . | April | 26. | 1915. |
+| 5 | 642 | 1553 | 3840 | 1587 | 405037 | Private  | Brown, | John Donaldson. | Nil  | Brown, Isabella Robertson.. | 88 Osier St., Toronto, Ont  | Scotland . . | Toronto .. | April | 5, | 1915. |
+| 5 | 642 | 1582 | 3840 | 1616 | 405C03 | Sergeant  | Brown, | Robert George. | 48th Regt | Brown, James  | 182 Jones Ave., Toronto. Ont. | Scotland. . | Toronto. . . | April | 5. | 1015. |
+| 5 | 641 | 1611 | 3841 | 1645 | 404261 | Curporal  | Brown. | Thomas  | C.G.A  | Brown, Mrs. L  | 27 Westwood Ave., Toronto, Ont . | Englan i... | Toronto. .. | April | 9. | 1915. |
+| 5 | 641 | 1641 | 3614 | 1674 | 404299 | Private   . |  | William Henry. . | 2nd Regt | Olafe, B  | R.R. No. 2, Rockwood, Ont | England.. | Niagara-on |
+| 5 | 3484 | 1669 | 3842 | 1693 |  |  |  |  |  |  |  |  | the-Lake | June | 13. | 1915. |
+| 5 | 641 | 1698 | 3842 | 1732 | 404 504 | Private  |  |  | 12th Regt | Browne. John  | 233 Wilton Ave., Toronto. Ont . | Canada. , | Niagara . | June | 11. | 1915. |
+| 5 | 642 | 1726 | 3843 | 1761 | 405192 | Private  | Bruce, Francis Sinclair. |  | 48th Regt | Bruce, William  | 14 Bexley Terrace, W ick. Scot | Scot land | N iagara . | July | C. | 1915. |
+| 5 | 642 | 1755 | 3843 | 1791 | 405038 | Private.     | Bryant, Frederick W |  | Nil..  | Bryant. Mrs. Frederick. | 139 Li^gar St.. Toronto, Ont | England. | Toronto | April | 5. | 1915. |
+| 5 | 642 | 1784 | 3844 | 1819 | 404273 | Corporal  | Buckingham, Thomas . |  | Territorials. | Buckingham. Mrs. S  | Chapel-en-le-Frith. Derby, Eng | England. | Toronto . | April | 12, | 1915. |
+| 5 | 643 | 1813 | 3843 | 1848 | 4045,06 | Private  | Bud way, Frank W  |  | 12th Regt | Bud way, Mrs. Julia  | 374 Berkeley St.. Toronto, Ont .. | Canada. | N iagara | June | 11. | 1915. |
+| 5 | 643 | 1842 | 3845 | 1878 | 405223 [Corporal  |  | Bullard, Victor  |  | Nil  | Bullard, Henry  | Kingston, Jamaica   | England | Toronto | April | 5. | 1915. |
+| 5 | 643 | 1871 | 3844 | 1905 | 404705! Private  |  | Bulloch, Jack Leonard |  | Nil  | Jevons, Gertrude  | 109 Campbell Ave. W., Toronto. Ont | England | Toronto . | Aug | 25, | 1915. |
+| 5 | 643 | 1900 | 3845 | 1935 | 404006 | Sergeant  | Bullock, Arthur Gordon. |  | Nil  | Bullock. Mrs. Almira E  | 2246 Bloor St. West. Toronto, Ont. | England | Toronto . | April | 9, | 1915. |
+| 5 | 644 | 1929 | 3845 | 1962 | 404706 | Private  | Bullock, Walter  |  | Nil  | Bullock, Walter  | 29 Gough Road, Birmingham. Eng | England. | Toronto . | Aug. | 23, | 1915. |
+| 5 | 647 | 1959 | 3628 | 1993 | 14C59'i | Private    | Burd, Charles Phillips... |  | 2nd Drag | Burd, Mrs. Sarah  | Welland, Ont  | Canada.. | Niagara on- |
+| 5 | 3487 | 1986 | 3846 | 2013 |  |  |  |  |  |  |  |  | the-Lake | Aug | 23, | 1915. |
+| 5 | 643 | 2015 | 3846 | 2052 | 405039 | Corporal  | Burgess, Charles Dykes. |  | Nil   | Burgess, Mrs. Winnifred  | 63 Regent St.. Toronto, Ont........ | England. | Toronto | April | 5, | 1915. |
+| 5 | 643 | 2044 | 3847 | 2080 | 40519C | Private  | Burgess, Leonard  |  | Royal Navj | Burgess, Mrs. Edna  | Stouffville, Ont  | England. | Niagara | June | 24, | 1915. |
+| 5 | 643 | 2075 | 3573 | 2111 | 404495 | L.-Corporal  | Burland, Leonard  |  | 10th Regt | Burland, John William  | 3 St. Stephens Terrace, York, Eng | England. | Niagara |
+| 5 | 3489 | 2101 | 3848 | 2130 |  |  |  |  |  |  |  |  | Camp | June | 9. | 1915. |
+| 5 | 643 | 2130 | 3848 | 2169 | 404473 | Corporal  | Bumard, Arthur Edwin. |  | Imp. Forces | Bumard, Mrs. E  | 191 Mutual St., Toronto, Ont  | ! England. | Toronto. .. | April | 12. | 1915. |
+| 6 | 618 | 568 | 3380 | 608 | J* |  |  | Name of Next of Kin. |  | Country of |
+| 6 | 625 | 598 | 3764 | 644 | S |  |  |  |  |  | Place. | Date. |
+| 6 | 616 | 718 | 3818 | 749 | 404301 |  | Nil. | Burns, Mrs. E  | 3 Palmerston Gardens, Toronto, Ont.. | Canada.. | Toronto  | April | 8, 1915. |
+| 6 | 2029 | 748 | 3819 | 778 |  |  |  | Burns, Mrs. Elizabeth  | 444 Roxton Road, Toronto, Ont  | Canada... | Niagara.... | June | 5, 1915. |
+| 6 | 1489 | 776 | 3819 | 809 |  |  | Nil  | Burns, Mrs. Marguet  | Aberdeen, Scot  | Scotland. | Toronto.... | April | 19, 1915. |
+| 6 | 614 | 806 | 3819 | 836 | 404707 |  | Nil  | Burns, William  | 2S Union St., Stonehouse, Devon, Eng. | England.. | Toronto.... | Aug. | 13, 1915. |
+| 6 | 613 | 835 | 3819 | 867 | 405004 |  |  | Burroughs, Mrs. Elizabeth. | 11 Sproatt Ave., Toronto, Ont  | England.. | Toronto.... | April | 15, 1915. |
+| 6 | 612 | 865 | 3819 | 895 | 404259 |  |  | Burstow, Mrs. E. \\  | 37 Leuty Ave., Toronto, Ont  | England.. | Toronto.... | May | 13, 1915. |
+| 6 | 612 | 894 | 3818 | 922 | 404498 |  | Nil  | Burt, Mrs. William  | 9a McDonnell Ave., Toronto, Ont  | Canada... | Niagara.... | June | 11. 1915. |
+| 6 | 612 | 923 | 3545 | 953 | 40449' |  | Nil  | Burt, Georgina  | 13 Garden Crescent, Plymouth, Eng. . . | England.. | Niagara |
+| 6 | 612 | 980 | 3544 | 1010 | 404494 |  | Nil  | Butcher, Mrs. Charlotte... | E. Block, Peabody’s Building, London. Eng. | England.. | Niagara |
+| 6 | 3458 | 1009 | 3819 | 1037 |  |  |  |  |  |  | Camp.... | June | 9, 1915. |
+| 6 | 611 | 1038 | 3818 | 1067 | 405234 |  |  | Butler, Robert  | 129 Brock Ave., Toronto, Ont.. | England.. | Toronto.... | Vug. | 21, 1915. |
+| 6 | 611 | 1067 | 3545 | 1097 | 404499 |  |  | Button, Mrs. Louisa  | S3 Castle St., Cambridge, Eng | England.. | Niagara |
+| 6 | 3458 | 1095 | 3819 | 1123 |  |  |  |  |  |  | Camp.... | June | 30, 1915. |
+| 6 | 611 | 1124 | 3819 | 1155 | 404709 |  |  | Buzzo, Mrs. Emily  | S Donegal Terrace, Stoke, Davenport, Eng. | England.. | Toronto  | Aug. | 21, 1915. |
+| 6 | 610 | 1152 | 3820 | 1182 | 405238 |  |  | Cade, Mrs. Pearl  | Ill Sherbourne St., Toronto, Ont  | Canada... | Niagara.... | June | 15. 1915. |
+| 6 | 613 | 1180 | 3819 | 1213 | 139539 |  | Nil  | Smith, Mrs. Mao’ Ann.... | 103 Sherbourne St., Toronto, Ont  | Canada... | Toronto | July | 13, 1915. |
+| 6 | 610 | 1209 | 3821 | 1240 | 405195 |  |  | Glenn, Mrs. Annie  | 295 Berkeley St., Toronto, Ont  | England.. | Niagara... | July | 20. 1915. |
+| 6 | 610 | 1239 | 3548 | 1271 | 404511 |  | Nil  | Callaghan, Mrs. Charlotte | 203 Hamilton St., Toronto, Ont  | Scotland. | Niagara |
+| 6 | 3459 | 1267 | 3822 | 1295 |  |  |  |  |  |  | Camp.... | June | 0. 1915. |
+| 6 | 609 | 1296 | 3822 | 1327 | 405040 | Callan, William Herbert  | Nil  | Callan, Mrs. Pearl  | 139 Lisgar St.. Toronto, Ont  | Canada... | Toronto.... | April | 5, 1915. |
+| 6 | 608 | 1325 | 3822 | 1358 | 404303 |  | Nil  | Cambridge, Solomon  | 176 Bucknall New Road, Hanley, Staffs, Eng. | England.. | T oronto... | A pril | 18. 1915. |
+| 6 | 608 | 1354 | 3822 | 1385 | 405041 |  | Nil.... | Cameron, James  | 350 Oakwood Ave., Toronto, Ont  | U.S.A.... | Toronto.... | May | 12, 1915. |
+| 6 | 607 | 1383 | 3823 | 1417 | 404710 | Campbell, Archibald L  | Nil  | Nugent, Mrs. Sarah  | Whitby, Ont  | Canada... | Toronto.... | Aug. | 17. 1915. |
+| 6 | 606 | 1413 | 2397 | 1445 | 405042 | Campbell, James  | Nil  | Campbell, Mrs. Georgina |
+| 6 | 2076 | 1439 | 3823 | 1473 |  |  |  | May.   | 6S Dupont St., Toronto, Ont  | Scotland. | Toronto... | Vpril 5, 1915. |
+| 6 | 605 | 1469 | 3823 | 1504 | 405106 | L.-Corporal  | Campbell, James Archibald  | Campbell, Mrs. Dorothy. . | 413 Gerrard St. East, Toronto, Ont. | Scotland. | N iagara... | June 9, 1915. |
+| 6 | 605 | 1499 | 3592 | 1532 | 404305 | Private  | Campbell, Peter  | Nil  | Campbell, Robert  | 19 Virtue St., Toronto, Ont  | Canada... | Niagara-on |
+| 6 | 3460 | 1526 | 3822 | 1551 |  |  |  |  |  |  | the-Lake | June 12, | 1915. |
+| 6 | 605 | 1555 | 3823 | 1590 | 404510 | Private  | Nil  | Campbell, Mrs. Eleanor. .,. | Port Moody, B.C  | Canada.. | Toronto.. | llav 14. | 1915. |
+| 6 | 604 | 1584 | 3823 | 1619 | 404712 | Capper, George  | Nil  | Capper, Mrs. A. L  | 136 Fairview Ave., Toronto, Ont  | England.. | Toronto.. | April 12, | 1915. |
+| 6 | 604 | 1613 | 3824 | 1645 | 405107 | Private  | Carlin, Alexander  | Nil  | Cuthbert, Mrs. Janet  | 9 School Row, Hill of Be;ith, Fife, Scot  | Scotland. | Niagara.. | June 5, | 1915. |
+| 6 | 603 | 1642 | 3825 | 1675 | 404714 |  |  | Carlton, Mrs. Florence  | 21 Tay Ave., Fairbank N.W., Toronto, Ont | England. | Toronto.. | Aug. 17. | 1915. |
+| 6 | 604 | 1670 | 3826 | 1705 | 404033 | Private  | ^arman, Harold Edward  | Carman, Henry Dean  | 706 Logan Ave., Toronto, Ont  | Canada... | Niagara.. | June 26. | 1915. |
+| 6 | 604 | 1699 | 3825 | 1734 | 405193 | Carnegie, Hugh  | Nil  | Carnegie, Mrs. Sarah Anne.. | 3S5 Queen St. West. Toronto, Ont  | Canada... | Niagara.. | June 15. | 1915. |
+| 6 | 603 | 1727 | 3826 | 1762 | 405108 | Carr, Joseph  | C.A.S.C  | Private  | Carr, John  | Beleek Manor, Ballina, Co. Mayo, Ire  | Ireland.. | Toronto. . | April 27, | 1915. |
+| 6 | 604 | 1757 | 3825 | 1790 | 404713 |  |  | Carroll, Mrs. Martha  | 192 Rushton Road, Toronto, Ont  | Canada... | Toronto.. | Aug. 21. | 1915. |
+| 6 | 604 | 1786 | 3825 | 1820 | 404518 | Private  | Carss, William  | Nil  | Carss, James  | Chathill, Northumberland, Eng   | England.. | N iagara.. | June 5. | 1915. |
+| 6 | 604 | 1814 | 3825 | 1849 | 405239 | Private  | Cartwright, Edward Daniel  | Imp. Forces  | Cartwright, Mrs. Sarah  | 41 Wyatt Ave., Toronto, Ont   | England .. | Toronto.. | Aug. 21. | 1915. |
+| 6 | 605 | 1843 | 3825 | 1877 | 404715 | Private  | Cavill, Richard  | Nil  | Cavill, Richard  | $7 Caroline St., Stockport, Ei g  | England.. | Toronto.. | Aug. 17, | 1915. |
+| 6 | 605 | 1874 | 2424 | 1908 | 404716 | Private  | Nil  | Chapman, Mrs. Elizabeth |
+| 6 | 2073 | 1900 | 3825 | 1936 |  |  |  | Rachel  | 21 Queen St., Broadwater, Worthing, Sussex, Eng | England | T oronto | Aug. 25, | 1915. |
+| 6 | 605 | 1931 | 3594 | 1965 | 404306 | Private  | Chapman, George  | Jordin, Mrs  | London, Eng   | England | Niagara-on |
+| 6 | 3459 | 1958 | 3825 | 1984 |  |  |  |  |  |  | the Lake | June 12, | 1915. |
+| 6 | 604 | 1989 | 3169 | 2021 | 4C4717 |  | Nil  | , William. | 7th Concession Vespa R.M., Barrie, Simcoe Co., |
+| 6 | 2482 | 2015 | 3824 | 2047 |  |  |  |  | Ont    | Canada  | Toronto  | Aug. 26,' | 1915. |
+| 6 | 604 | 2044 | 3824 | 2078 | 405231 | L.-Corporal  | Chatterton, Edward John  | Nil  | Chatterton. Mrs. E. A. D. | 239 Beatrice St., Toronto, Ont  | England  | Toronto... | April 12, | 1915. |
+| 6 | 604 | 2075 | 3597 | 2108 | 4C4307 |  |  | Chesney, Mrs. Sarah  | 11 Oxford St., Toronto, Ont  | England.   | Niagara-on- |
+| 7 | 614 | 325 | 3797 | 358 | 40973 | 3 Private  | Chute, | Erneet  | Nil. | Chute, | Mrs. W  | Port Burwell, Ont  | Canada... | Niagara.. . | Sept. | 15. 1915. |
+| 7 | 614 | 355 | 3799 | 388 | 40510< | Private  | Clark. | Alexander James.. | Nil. | Clark, | William J  | 5V£ Sword St., Toronto, Ont  | Sootland.. | N iagara.... | June | 15, 1915. |
+| 7 | 615 | 384 | 3799 | 415 | 40472 | Private  | Clark, | Ernest William... |  | Clark, | Mrs. Florence  | 98 River St., Toronto, Ont  | Canada... | Toronto. ... | Aug. | 23. 1915. |
+| 7 | 614 | 413 | 3799 | 444 | 40472 | Private  | Clark, | Henry George  | 12th Regt. | Clark, | Mrs. Susan Amelia.. | 29 Northview Terrace, Toronto, Ont  | England.. | Toronto.... | Aug. | 25. 1915. |
+| 7 | 612 | 442 | 3800 | 474 | 40(71 | Private  | Clark, | Lloyd Virgil  | Nil  | Clark. | Mrs. Florence E.... | 2V^ Palmerston Ave., Toronto, Ont  | U.S.A.... | Toronto.... | Aug. | 16, 1915. |
+| 7 | 612 | 472 | 3800 | 502 | 40472C |  | Clark, | Robert Jesse.... | Nil  | Clark. | Mrs. Julia  | 19 Perth Ave., Toronto, Ont  | England.. | Toronto.... | Aug. | 17, 1915. |
+| 7 | 611 | 500 | 3800 | 532 | 40516 | Private  | Clark. | William John. . . | 2nd Regt. | Clark, | William John  | 5V£ Sword St., Toronto, Ont  | Scot! md. | N iagara.... | June | 12. 1915. |
+| 7 | 610 | 530 | 3800 | 560 | 40471f | Private  | Clarke | , Frank Carlyle. | Nil  | Clarke. | Miss Caroline.... | 9 Ellerbeok Ave., Toronto, Ont  | Canada... | Toronto.... | Aug. | 21, 1915. |
+| 7 | 612 | 559 | 3801 | 590 | 13904 |  | Clarke, | George  | 9th Horse. | Clarke, | Mrs. Mary Ann.... | High St., Walsham-le-Willows, Suffolk, Eng.. | England.. | Toronto.... | July | 17, 1915. |
+| 7 | 608 | 588 | 3525 | 618 | 404517 | Private  | Clarke, | John Richard  | Nil  | Roots, | Mrs. Geneva  | 1S9 Fraser Ave., Fairbank, Toronto, Ont  | England.. | Niagara |
+| 7 | 606 | 646 | 3526 | 677 | 404516 | Private  | Clarke, Wallis  |  | Nil. | Jackson, James. |  | 48 We3t Lodge Ave., Parkdale, Toronto, Ont. | England.. | Niagara |
+| 7 | 3438 | 675 | 3801 | 703 |  |  |  |  |  |  |  |  |  | Camp.... | June | 15, 1915. |
+| 7 | 604 | 703 | 3801 | 735 | 401723 | Private  | Clarkson. James T.. |  | Nil  | Westhook, May  |  | Seletta, N.B  | Canada... | Toronto  | Aug. | 17, 1915. |
+| 7 | 604 | 733 | 3802 | 765 | 405109 | Private  | Clegg, William  |  | 4Sth Regt. | Clege, Mrs. Maude Mary. . . |  | 210 Bloor St. East, Toronto, Ont  | Canada... | Niagara.... | June | 9. 1915. |
+| 7 | 603 | 762 | 3801 | 791 | 401724 | Private  | Clifford, George.. . |  | Nil  | Clifford. Mrs. Adelaide  |  | 120 Shuter St., Toronto, Ont  | Canada... | Toronto.... | Aug. | 17, 1915. |
+| 7 | 603 | 790 | 3801 | 821 | 405005 | Sergeant  | Clow, Charles.  |  | Nil  | Parker, Alice  |  | 94 Savemake Road, Hampstead, London, Eng. | England.. | Toronto.... | April | 5. 1915. |
+| 7 | 602 | 820 | 3802 | 851 | 405162 | Private  |  |  | Nil  | Cobb. Mrs. George  |  | Richmond Hill P.O., Ont  | Canada... | Toronto.... | April | 19, 1915. |
+| 7 | 602 | 849 | 3524 | 879 | 404512 | Private  |  |  | Nil  | Cobban, Mrs. Annie  |  | 1037 Gerrard St. East, Toronto, Ont  | Scotland. | Niagara |
+| 7 | 3438 | 877 | 3801 | 905 |  |  |  |  |  |  |  |  |  | Camp  | June | 9, 1915. |
+| 7 | 602 | 906 | 3802 | 936 | 405242 | Private  | Cooker. Thomas  |  | Nil  | Cocker, Ethel  |  | 141 Curaon St., Toronto, Ont  | England. | Toronto.... | Aug. | 13, 1915. |
+| 7 | 601 | 934 | 3801 | 965 | 405044 |  | Coe, William Robert. |  | Territorials. | Coe. Mrs. H. A. M  |  | 5 Norval St., W, Toronto, Ont.... | England. | Toronto  | April | 5, 1915. |
+| 7 | 601 | 965 | 3525 | 994 | 404515 | Private  | Coker, Ralph  |  | Nil  | Coker, Mrs. Alice Ellen. |  | 61 Bowmore Road, Toronto, Ont. | England. | Niagara |
+| 7 | 3437 | 993 | 3802 | 1021 |  |  |  |  |  |  |  |  |  | Camp  | June | 0, 1915. |
+| 7 | 601 | 1021 | 3802 | 1053 | 404651 | Corporal  | Coleman, Frederick Charles  |  | Nil  | Parker, Alice  |  | 41 Coleridge Ave.. Toronto, Ont  | England. | Toronto.... | April | 9, 1915. |
+| 7 | 603 | 1051 | 3802 | 1080 | 140044 | Private  | Collier, Ernest    |  | 9th Horse. .. | Collier. Mr3. Isabella  |  | 73 Auburn Ave., Toronto, Ont  | England. | Toronto. ... | July | 23, 1915. |
+| 7 | 600 | 1079 | 3801 | 1111 | 40)308 |  | Collis, Ernest Albert  |  | 2nd Regt | Collis, Mrs. Elizabeth  |  | Munro St., Toronto, Ont  | Canada.. | Toronto.... | April | 19. 1915. |
+| 7 | 598 | 1108 | 3801 | 1140 | 40502S | Drummer  | Collis, William G  |  | 2nd Regt.... | Collis. Mrs. E  |  | 36 Munro St., Toronto, Ont  | Canada.. | Toronto.... | April | 19. 1915. |
+| 7 | 598 | 1136 | 3802 | 1174 | 401309 | Private  | Comber, Edward  |  | Nil  | Kilkenny, Mrs. A...;  |  | 69 Charles St., Leeds, Eng  | Ireland.. | Toronto ... | April | 12, 1915. |
+| 7 | 599 | 1166 | 3802 | 1197 | 404725 |  | Commeford, Clifford Gordon ... |  | 2nd Regt.... | Henderson, Mrs. Lillian  |  | 226 Concord Ave., Toronto, Ont  | Canada. | Toronto.... | Aug. | 24, 1915. |
+| 7 | 598 | 1195 | 3803 | 1226 | 405110 |  | Conlon, Benjamin  |  | 48th Regt... | Wilson, Mrs. Georgo.   |  | 11 Smith St., Lisburn, Tyrone, Ire  | Ireland. | Niagara ... | June | 9, 1915. |
+| 7 | 599 | 1223 | 3803 | 1255 | 404310 |  | Connolly, Clarence Milton  |  | 2nd Regt  | Connolly. Robert  |  | 784 Ossington Ave., Toronto, Ont..,  | Canada. | Niagara.... | July | 6, 1915. |
+| 7 | 597 | 1251 | 3803 | 1283 | 404311 | Private  | Connor, Archibald  |  | Territorials.. | Connor, Mrs. J..   |  | 127 John St., Toronto, Ont  | Scotland. | Toronto.. . | April | 8. 1915. |
+| 7 | 597 | 1281 | 3803 | 1313 | 404726 | Private  | Conway, Henry  |  | Nil  | Conway. Mrs. Elizabeth.... |  | Drimcoggy, Ballcnrobe, Co. Mayo, Ire  | Ireland. | Toronto.. | Aug. | 17. 1915. |
+| 7 | 597 | 1310 | 3803 | 1341 | 404072 | Private  | Cook, Frank .Arthur  |  | Nil  | Cook, Miss A1 ice  |  | High Wycombe, Eng  | England.. | Toronto ... | May | 12, 1913. |
+| 7 | 596 | 1339 | 3804 | 1371 | 405327 | Bandsman  | Cook, Robert Joseph  |  | 10th Regt. . . | Cook, Mary Elizabeth  |  | 270 Sackville St.. Toronto, Ont  | Canada | N iagara.... | Sept. | 18. 1915. |
+| 7 | 595 | 1367 | 3804 | 1399 | 405045 | Private  | Cook, Walter  |  | Nil  | Cook. Alice  |  | 19 Waddington St., Bingley, Yorks, Eng  | England. | Toronto.... | April | 5, 1915. |
+| 7 | 595 | 1396 | 3804 | 1436 | 405216 | Private  | Cooke. John Henry utga |  | 10th Regt... | Cooke, Mrs. Annie  |  | 496 Brock Ave., Toronto, Ont  | Ireland. | Toronto.... | Aug. | 17, 1915. |
+| 7 | 595 | 1423 | 3804 | 1460 | 404312 | Private  | Cooney, Cornelius Vincent. .1*1^0 |  | Nil  | Cooney, Mrs. M  |  | 262 Macdonell Ave., Toronto, Ont  | Canada... | Toronto.... | April | 12, 1915. |
+| 7 | 596 | 1454 | 3805 | 1486 | 405244 | Private  | Cooney, John Thomas  |  | il.. | Cooney, Mrs. Mary Ann. . .. |  | 252 MacDonald Ave.. Toronto, Ont   | Canada... | Toronto.... | Aug. | 23, 1915. |
+| 7 | 594 | 1483 | 3805 | 1515 | 40519-1 | Private  | Cooper, Harry  |  | Nil.. | Cooper. Mrs. E  |  | 70 Rosethorn Ave., Toronto, Ont  | England.. | Niagara.... | June | 24. 1915. |
+| 7 | 592 | 1512 | 3805 | 1543 | 404313 | Private  | Corbett, James Frederick  |  | Nil.. | Corbett, Mrs. Mary  |  | 41 Ferrier Ave., Toronto, Ont  | Canada... | N iagara.... | June | 26, 1915. |
+| 7 | 593 | 1540 | 3805 | 1571 | 404073 | Private  | Corbett, William Thomas  |  | Nil.. | Corbett, Mrs. Minnie  |  | 157 Simpson Ave.. Toronto, Ont  | Canada. . | Toronto.... | April | 19. 1915. |
+| 7 | 596 | 1569 | 3806 | 1601 | 40504G | Private  | Cormack, Jame3 *  |  | Nil.. | Cormack, Mrs. James  |  | 6S Kennedy St., St. Clair Ave., Toronto, Ont. .. . | Scotland. | Toronto.... | April | 5, 1915. |
+| 7 | 593 | 1596 | 3806 | 1630 | 404076 | Private  | Cormack, William  |  | Imp. | F orces. | Cormack. Mrs. Bella  | 614 Richmond St. West, Toronto, Ont  | Scotland.. | Toronto.... | April | 19, 1915. |
+| 7 | 593 | 1627 | 3806 | 1656 | 4 04519 | Private  | Corrick, William Strath  |  | ~ A. | Corrick, Mrs. Annie.    |  | Coleman P.O., Toronto, Ont  | England.. | Toronto.... | May | 22, 1915. |
+| 7 | 592 | 1656 | 3806 | 1688 | 401727 | Private  | Cottingham, Thomas Henry  |  | 9th Horse. . . | Cottingham, Mrs Alice  |  | 11 Shudell Ave., Toronto. Ont   | England.. | Toronto | Aug. | 17. 1915. |
+| 7 | 592 | 1685 | 3807 | 1716 | 405047 | L.-Corporal  | Coutts, James  |  | Nil  | Coutts, James.     |  | Burn of Guinea, Auchin Clae, Scot  | Scotland.. | Toronto.... | April | 5. 1915. |
+| 7 | 593 | 1714 | 3808 | 1746 | 404728 | Private  | Cowper. Archibald McLean  |  | Nil  | Cowper, John  |  | 93 Morrison St., Edinburgh, Scot  | Scotland.. | Toronto.... | Aug. | IS. 1915. |
+| 7 | 592 | 1742 | 3808 | 1776 | 404074 | Private  | Cox, Ivor John H  |  | Imp. Forces. | Cox, Mrs. W   |  | 157 Ashdale Ave.. Toronto, Ont  | England.. | Toronto.... | April | 19. 1915. |
+| 7 | 594 | 1771 | 3808 | 1804 | 4047291 Private  |  | Coxill. Sidney  |  | Nil  | Coxill. Miss Eliza  |  | 146 Fa we Park Road, Wandsworth, London. Eng. | England.. | Toronto. ... | Aug. | 20. 1915. |
+| 7 | 593 | 1800 | 3808 | 1830 | 404730 | Private  | Crabbe, William Barker  |  | Nil  | Crabbe. Mrs. Elizabeth  |  | Norwich, Ont   | Canada... | Toronto.... | Aug. | 19, 1915. |
+| 7 | 594 | 1828 | 3809 | 1862 | 405048 | Private  | Cracknell, Benjamin  |  | Nil  | Cracknell, Mary May  |  | 95 Merrill Ave., Toronto, Ont  | Canada... | Toronto.... | April | 5. 1915. |
+| 7 | 594 | 1857 | 3809 | 1891 | 404731 | Private  | Craib, Alexander Cameron  |  | Nil  | Craib, Mrs. Margaret  |  | 173 Fern Ave., Toronto, Ont  | Scotland. | Toronto.... | Aug | 21. 1915. |
+| 7 | 594 | 1888 | 3530 | 1920 | 404514 | L.-Corporal  | Craig, James  |  | Nil  | Craig, James  |  | 81 Columbine Ave., Toronto, Ont  | Ireland... | Niagara |
+| 7 | 3444 | 1915 | 3810 | 1943 |  |  |  |  |  |  |  |  |  | Camp.... | June | 30. 1915. |
+| 7 | 593 | 1944 | 3809 | 1974 | 404732 | Private   | Cranston. Frederick. |  | Nil  | Cranston, Charles. . . |  | Carwillia, Bailieborough, Co. Cavan, Ire. | Ireland. | Toronto. | Aug. | 19. 1915. |
+| 7 | 592 | 1973 | 3810 | 2003 | 404733 | Private  | Crawford. James. . .. |  | Territorials. | Boothe. Isabel  |  | 74 Montrose Ave., Toronto. Ont  | Ireland. | Toronto. | Aug | 20. 1915. |
+| 7 | 594 | 2004 | 3531 | 2035 | 404513 | Private  | Creagen, Henry  |  | 10th Regt.. | Creagen, Mrs. Maria. |  | 583 Dufferin St., Toronto, Ont  | Ireland. | Niagara |
+| 8 | 794 | 569 | 3360 | 600 |  |  |  |  | Name of Neit of Kin. |  | Country of |
+| 8 | 604 | 713 | 3799 | 745 | 404314 | Private  | Crevier. Wilfred  | Nil  | Crevier, Mrs. Mary  | 118 Garden Ave., Toronto, Ont.. | Canada... | Toronto.. | April 12. 1915. |
+| 8 | 603 | 739 | 3800 | 773 | 404476 | Corporal  |  | Nil  | Critchly, Mrs. D  | 105 Dawes Road, Toronto, Ont. | England.. | Toronto.. | April 12. 1915. |
+| 8 | 604 | 771 | 3799 | 801 | 404075 |  |  |  | Crockford, Mrs. Maria. | 79 Bolton Ave., Toronto, Ont... | England.. | Toronto.. | April 19. 1915. |
+| 8 | 605 | 797 | 3799 | 831 | 140051 |  |  |  | Croft, Miss Emily  | Welshpool, Wales  | Wales.... | Toronto.. | July 28. 1915. |
+| 8 | 602 | 829 | 3529 | 861 | 405323 |  |  |  | Crombie, Mary Brown.. | 330 Bartlett Ave., Toronto, Ont. | U.S.A.... | Niagara |
+| 8 | 3444 | 858 | 3799 | 885 |  |  |  |  |  |  |  | Camp., | Sept. 8, | 1915. |
+| 8 | 601 | 886 | 3800 | 917 | 404500 |  |  | Nil  | Crothcrs, John  | Colin View, Mercer St., Lisburn, Ire  | Ireland... | Toronto.. | April 12, | 1915. |
+| 8 | 600 | 915 | 3801 | 945 | 404315 | Private  |  | Nil  | Crouch, Mrs. Alice  | 212 First Ave., Toronto, Ont  | England., | Toronto.. | April 8, | 1915. |
+| 8 | 600 | 944 | 3802 | 976 | 405243 | Private  |  | Nil  | Trowbridge, Florenoe  | 95 Cronyn Ave., Toronto, Ont  | Ireland... | Toronto.. | Aug. 21. | 1915. |
+| 8 | 599 | 973 | 3801 | 1006 | 404049 | Private  |  | Nil  | Croxier, Christopher  | 411 Westlake Ave., Toronto, Ont  | Canada... | Niagara.. | June 12, | 1915. |
+| 8 | 600 | 1001 | 3802 | 1033 | 404120 |  |  |  | Cruickshank, Mrs. E  | 465 Yonge St., Toronto, Ont  | Scotland. | Toronto.. | April 8, | 1915. |
+| 8 | 600 | 1031 | 3802 | 1062 | 404735 |  |  | Nil  | Cubbon, Elizabeth  | 353 Morley Ave., Toronto, Ont  | England.. | T oronto.. | Aug. 16, | 1915. |
+| 8 | 600 | 1059 | 3803 | 1093 | 405163 | Private  | Cummins, Oliver  |  | Cummins, Mrs. Margaret. . | Calkill, Mountjoy, Omagh, Tyrone, Ire  | Ireland... | Niagara. | June 11, | 1915. |
+| 8 | 599 | 1086 | 3803 | 1121 | 405111 |  |  |  | Dale, John Henry    | Gilford, Ont  | Canada... | N iagara. | June 9, | 1915. |
+| 8 | 598 | 1115 | 3803 | 1148 | 405010 |  |  | Nil  | Dance, Mrs. James William | 25 Osborne St., East Toronto, Ont  | England. | Toronto.. | April 5, | 1915. |
+| 8 | 598 | 1145 | 3803 | 1177 | 404258 |  |  | Nil  | Dane, Mrs. Maude Ella.  | 92 Vanauley St., Toronto, Ont  | England . | Toronto.. | April 12. | 1915. |
+| 8 | 597 | 1173 | 3803 | 1207 | 4G4737 | Private  | Darby, Allen  |  | Davies, Mr?. Edward Gray | 79 Lister St., Toronto, Ont  | Canada.. | Toronto.. | Aug. 17, | 1915. |
+| 8 | 596 | 1202 | 3804 | 1237 | 405336 | Bandsman  | Daughton, Thomas Brown  | Nil  | Daughton, Sophia  | 401 Willard Ave., Toronto, Ont  | England.. | Niagara | Oct. 5, | 1915. |
+| 8 | 596 | 1231 | 3805 | 1265 | 404521 |  |  |  | Davenport, C  | 42 Erlesdale Ave., Toronto, Ont  | England.. | Toronto.. | May. 10, | 1915. |
+| 8 | 596 | 1263 | 3156 | 1294 | 405049 |  |  | Nil  | Davey, Amelia  | 6 Saltwood Grove, Liverpool St., Walworth, Lon¬ |
+| 8 | 2464 | 1289 | 3805 | 1322 |  |  |  |  |  | don, Eng  | England.. | Toronto.. | April | 5, 1915. |
+| 8 | 597 | 1318 | 3807 | 1351 | 139561 |  |  |  | Davidson, Thoma3  | 4 Dawson Ave., Toronto, Ont  | Scotland. | Toronto.. | July | 17. 1915. |
+| 8 | 594 | 1347 | 3806 | 1382 | 40519C |  |  |  | Davidson, Mrs. Agnes.. | 134 McRoberts Ave., Toronto, Ont..  | Scotland. | N iagara... | June | 24. 1915. |
+| 8 | 594 | 1376 | 3807 | 1410 | 404316 |  |  | Nil  | Davidson, Mrs. M  | 4 Bolton Ave., Toronto, Ont   | Canada . | Toronto.... | April | 8, 1915. |
+| 8 | 593 | 1405 | 3806 | 1437 | 405247 |  |  |  | Davidson, Alexander... | 2 Skene Place, Aberdeen, Scot  | Scotland. | Niagara.... | July | 6, 1915. |
+| 8 | 594 | 1433 | 3807 | 1467 | 404111 |  |  | Nil   | Davidson, James  | 28 Earl Grey Crescent, Toronto, Ont  | Scotland. | Toronto. | April | 5. 1915. |
+| 8 | 592 | 1463 | 3806 | 1497 | 404738 |  |  |  | Davies, Mrs. Davina... | 106 Geary Ave., Toronto, Ont  | Wales | Toronto. | Aug. | 23. 1915. |
+| 8 | 593 | 1492 | 3806 | 1525 | 404053 |  |  | Nil  | Davies, Mrs. E  | Brook Cottage, Mountfield, Shrewsbury, Eng  | Enzland.. | Toronto.... | May | 5. 1915. |
+| 8 | 593 | 1519 | 3806 | 1553 | 404077 |  |  |  | Davies, Mrs. Catherine. | 217 St. Helen Ave., Toronto, Ont  | Wales.... | Toronto. | April | 19, 1915. |
+| 8 | 593 | 1549 | 3806 | 1584 | 405248 |  |  |  | Davis, Berry   | 120 St. David St., Toronto, Ont  | England.. | Toronto | Aug. | 14, 1915. |
+| 8 | 592 | 1578 | 3806 | 1611 | 404471 |  |  |  | Davis, Mrs. Jane  | 183 Salmon Ave., Todmorden, Ont  | England.. | Toronto. | April | 12, 1915. |
+| 8 | 593 | 1607 | 3805 | 1641 | 404522 |  |  |  | Davis, Mrs. Jessie  | 21 Simooe Park, Toronto Island, Ont  | England.. | Toronto  | April | 15, 1915. |
+| 8 | 594 | 1636 | 3806 | 1669 | 404318 |  |  | Nil  | Davis, Mrs. Ada  | 17 Harvie Ave., Toronto, Ont  | England.. | Toronto. | April | 8, 1915. |
+| 8 | 595 | 1665 | 3806 | 1698 | 404739 | Private  | Dawes, James Thomas  | Nil  | Dawes, Mrs. K. Maud.. | 305 Sumach St., Toronto, Ont  | England.. | Toronto. | Aug. | 17, 1915. |
+| 8 | 596 | 1694 | 3807 | 1727 | 404740 | Private  |  |  | Dawson, Robert E  | 14 Birch Ave., Toronto, Ont  | England.. | Toronto. | Aug.. | 16. 1915. |
+| 8 | 595 | 1723 | 3807 | 1758 | 404741 |  |  | Nil  | Hingley, W. H  | 33 Gowan Ave., Todmorden, Ont  | England.. | Toronto | Aug. | 14, l'J15. |
+| 8 | 599 | 1751 | 3807 | 1786 | 140057 | Private  |  |  | Dawson, Mrs. Mary. . | 14 Birch Ave., Toronto, Ont  | England. | Toronto.... | July | 28, 1915. |
+| 8 | 596 | 1781 | 3806 | 1813 | 404742 |  |  | Nil  | Dawson, Mrs. Jane  | 9 Smith St., Toronto, Ont  | England. | Toronto | Aug. | 17. 1915. |
+| 8 | 596 | 1811 | 3533 | 1843 | 404525 |  |  |  | Sutton, Emma  | 14 Stacy Rd., Norwich, Eng  | England. | Niagara |
+| 8 | 3447 | 1839 | 3806 | 1867 |  |  |  |  |  |  |  | Camp  | June | 9. 1915. |
+| 8 | 597 | 1867 | 3807 | 1901 | 404003 |  | Dean, Arthur Henry  |  | an, Mrs. Rosa  | 61 Geneva St., St. Catharines, Ont  | England.. | Toronto.... | April | 19, 1915. |
+| 8 | 597 | 1896 | 3806 | 1931 | 405164 |  |  | Nil   | Deane, Dorothy  | 31 Lindrop St., Fulham, London, Eng  | England. | Niagara.... | July | 12. 1915. |
+| 8 | 597 | 1925 | 3806 | 1958 | 404520 |  |  |  | Deane, Mrs. Esther  | Reacarrigee, Clonakilty, Ire    | Ireland.. | Toronto.... | April | 12, 1915. |
+| 8 | 597 | 1954 | 3807 | 1988 | 404319 |  |  |  | Deeves, Mrs. Margaret. | Grange, Kilcooley, Thurles, Co. Tipperary, Ire. | Ireland... | Toronto. | April | 12, 1915. |
+| 8 | 596 | 1983 | 3807 | 2015 | 404320 |  |  | Nil  | Dellcr, Mrs. Emma  | Rear of 24 Eastern Ave., Toronto. Ont  | England.. | Toronto.... | April | 8, 1915. |
+| 8 | 596 | 2012 | 3806 | 2044 | 404321 |  |  | Nil  | Dcller, Mrs. Emma  | Rear of 24 Eastern Ave., Toronto, Ont  | England.. | Toronto. | April | 8, 1915. |
+| 8 | 595 | 2041 | 3807 | 2075 | 401252 | C. Q.-M. Bergt  |  |  | Dempster, Mrs. E. E.. | 123 Montrose Ave., Toronto, Ont  | Canada.. | Toronto. | April | 19, 1915. |
+| 8 | 596 | 2069 | 3807 | 2103 | 405322 |  |  |  | Dennis, Mrs. E  | 5 Wellesley Ave., Toronto, Ont  | England.. | Toronto.... | April | 10. 1915. |
+| 8 | 596 | 2099 | 3807 | 2132 | 404645 | Drummer  | Devers, Robert  |  | Devers, Mrs. M. A  | 59 Marlborough Ave., Toronto, Ont  | Ireland... | Toronto  | April | 12, 1915. |
+| 9 | 627 | 350 | 3809 | 389 | 4053261 Bandsman  | Devonshire, Alfred James  |  | Devonshire, Margaret.. . | 162 Pape Ave., Toronto, Ont  |  |  | Sept. 18. 1915. |
+| 9 | 626 | 385 | 3003 | 426 | 404274 L.-Corporal  | Dewars, Frank  | Nil  | Dewars, Mrs. Mary  | 7 Roden Place, Toronto, Ont  |
+| 9 | 625 | 409 | 3811 | 446 | 404744 Private  | Dickie, Edwin Archibald  | Nil  | Dickie, John Barclay.... | 91 St. John’s Rd., Toronto, Ont  |  |  | Aug. | 21, 1915. |
+| 9 | 625 | 438 | 3810 | 476 | 404054 Private  |  |  | Dickson, Mrs. E. J  | 158a Hampton Rd., Twickenham, Eng. | British Guiana.. | Toronto.... | May. | 18, 1915. |
+| 9 | 624 | 467 | 3811 | 505 | 404078 Private  | Dickson. John Joseph  | Nil  | Dickson. Mrs. J. J  | 166 Niagara St.. St. Catharines, Ont... | Canada  | N iagara.... | Sept. | 7, 1915. |
+| 9 | 622 | 560 | 3018 | 592 | 404464 Sergeant  |  |  | Dinwiddy, Mrs. N  | 55 St. Nicholas St., Toronto, Ont   |
+| 9 | 2023 | 583 | 3812 | 621 |  |  |  | Diion, Mrs. Queenie V  | 38 Ontario St., Toronto, Ont  |  | Niagara.... | July | 7, 1915. |
+| 9 | 620 | 641 | 3812 | 679 | 404034 Private  |  |  | Doidge, James    | 42 William St.. Plymouth, Devon, Eng. | England  | N iagara.... | June | 24, 1915. |
+| 9 | 619 | 675 | 3598 | 708 | 404323 Private  |  |  | Dolby, Mrs. Mary  | Sutton West, York, Ont  |  | N iagara-on- |
+| 9 | 619 | 698 | 3813 | 733 | 40452$ L.-Corporal  |  |  |  |  |  | the-Lake. | June | 12, 1915. |
+| 9 | 2077 | 735 | 2894 | 762 |  |  |  | Elizabeth  | 7 Duvernet Ave., Toronto, |
+| 9 | 617 | 762 | 2870 | 793 | 404523 Private  |  | Nil  | Jamieson, David  | Glasgow, Scot  |
+| 9 | 1490 | 793 | 2869 | 823 |  |  | Nil  | Donaldson, Miss Helen  | S Methuen Ave., Toronto, Ont |
+| 9 | 3455 | 814 | 3814 | 841 |  |  |  |  |  |  | the-Lake. | June | 12, 1915. |
+| 9 | 983 | 841 | 3078 | 881 |  | Dormer, John JXCM | Nil  | Dormer, John  | 38 St. Dunstan Rd., Hanwell, London, Eng.. |
+| 9 | 614 | 872 | 3815 | 911 |  | Doughty, Edward  | Nil  | 404747 Private  | Doughty, Mrs. Elizabeth... | 62 Condor Ave., Toronto, Ont  | England  | Toronto.... | Aug. | 18, 1915. |
+| 9 | 615 | 900 | 3816 | 939 |  | Douglas, Bruce Donald  | Nil  | 40405C Private  | Douglas, W. A  | Col borne, Ont.  | Canada  | N iagara.... | July | 7, 1915. |
+| 9 | 615 | 936 | 3078 | 969 |  | Douglas, Edgar  | Nil  | 405197 Private  | Douglas, Mrs. S  | Schomberg, King Twp., Ont.     |
+| 9 | 615 | 965 | 3078 | 997 | 40474S Private  | Douglas, John Atherton  | Nil  | Douglas, Mrs. Gertrude  | 22 St. Mary St., Toronto, Ont  |
+| 9 | 614 | 994 | 3078 | 1026 | 404740 Private  | Douse, Hubert Burleigh  | Nil  | Douse, John George  | Lefroy, Ont  |
+| 9 | 615 | 1023 | 3076 | 1053 | 404750 Private  |  | Nil  | Dower, William  | Carharrack, Cornwall, Eng.  |
+| 9 | 614 | 1050 | 3601 | 1084 | 404324 Private  | Dowling, Albert Charles  | Nil  | Dowling, Mrs. Emma  | 137 Parnell Rd., London, E.t Eng  |  | Niagara-on- |
+| 9 | 3454 | 1075 | 3816 | 1102 |  |  |  |  |  |  | the-Lake. | June | 12, 1915. |
+| 9 | 614 | 1109 | 3162 | 1139 | 404751 Private  | Down, Charles William  |  | Down, Mrs. Ellen.. | Streetsville, Ont  |
+| 9 | 614 | 1137 | 3600 | 1170 | 404325 Private  | Downey, Robert Victor  | Nil  | Downey, Beatrice. | 27 Dewsbury Rd., Dollis Hill, London, N.W., Eng. |  | Niagara-on- |
+| 9 | 613 | 1196 | 2925 | 1226 | 404009 Pioneer Sergt  | Drake, Edwin  |  | Drake, Mrs. A. B  | 25 Eaton Ave., Toronto, Ont  |
+| 9 | 612 | 1224 | 3412 | 1257 | 405324 Bandsman  |  | Nil  | Droog, Ganna  | 193 Cedarvale Ave., Toronto, Ont. | Holland  |
+| 9 | 3457 | 1248 | 3819 | 1279 |  |  |  |  |  |  | Camp.... | Sept. | 9, 1915. |
+| 9 | 611 | 1283 | 3166 | 1313 | 404326 Private  |  |  | Watson, Mrs. Jessie. | Nicol, New Elgin, Scot  |
+| 9 | 611 | 1334 | 3821 | 1370 | 404459 C. Q.-M. Sergt.... |  |  | Duck. Mrs. E  | 20 Gough Ave., Toronto, Ont  | England  | Toronto.... | April 12, 1915. |
+| 9 | 611 | 1397 | 3414 | 1428 | 404327 Private  |  | Nil  | Dudley, Mrs. Sarah Jane  | 02 Pine Crest Rd., Toronto. Ont  | Canada  |
+| 9 | 612 | 1421 | 3821 | 1457 | 405302 Private  |  |  | Duguid, Mrs. Jessie  | Barry Hill, Fyvie, Aberdeen, Scot  |  |  | July | 13, 1915. |
+| 9 | 613 | 1456 | 3160 | 1487 | 404752 Private  | Duncan, Alexander  | Nil  | Munroe, Mrs. Maggie  | Home Farm, Aden House, Mintlaw, Aberdeen,Soot |
+| 9 | 1484 | 1486 | 3166 | 1515 |  |  | Nil  | Duncan, Gertrude  | 129 Simpson Ave., Toronto, Ont  |
+| 9 | 614 | 1514 | 3166 | 1543 | 404753 Private  |  |  | Dunham, Mrs. Emma  | Aurora, Ont   |
+| 9 | 981 | 1543 | 3154 | 1573 |  | Dunk, John William  | Nil  | Dunk, Mrs. Edith Rose  | 69 Marjory Ave., Toronto, Ont  |
+| 9 | 614 | 1566 | 3823 | 1602 |  | Dunn, James   | 404755 Private  | Dunn. William  | Drumcoo, Co. Monaghan, Ire  |  |  | Aug. | 21, 1915. |
+| 9 | 615 | 1595 | 3822 | 1629 | 404/56 Private  | Dunn, \\alter Ernest lYlrj. |  | Dunn, William Watson  | 206 Gardener Ave., Todmorden, York Co., Ont.., | Canada  | Toronto.... | Aug. | 26, 1915. |
+| 9 | 1486 | 1631 | 3155 | 1660 |  |  | Nil.... | Dyson, Mrs. Eva  | 152 Gowan Ave., Todmorden, Ont  |
+| 9 | 3462 | 1653 | 3825 | 1683 |  |  |  |  |  |  | Camp  | June | 9, 1915. |
+| 9 | 615 | 1682 | 3824 | 1716 | 404757 Private  |  |  | Eades, Mrs. Ellen Jane. | 44 Belmont St., Toronto, Ont  |  |  | Auk. | 17, 1915. |
+| 9 | 615 | 1715 | 3038 | 1744 | 404024 Private  |  |  | East. Mrs. E. M  | 12 Gerrard Ave., Toronto, Ont  |
+| 9 | 615 | 1740 | 3825 | 1776 | 405051 Private  |  | Nil  | Easton, Mary Ann  | 9 Orchard St., Huntingdon, Eng  | England  | Toronto.... | April 5, 1915. |
+| 9 | 616 | 1772 | 3550 | 1804 | 404529 Private  |  |  | Edwards, Mrs. Jane... . | 5 Beverley Rd., Chiswick, London, Eng. | England  | Niagara |
+| 9 | 980 | 1832 | 2991 | 1862 |  | Elliott, William David   | Nil  | Elliott. Mrs. Isabella. ... | 620 Wellington St., W\, Toronto, Ont. . |
+| 9 | 615 | 1855 | 3826 | 1892 |  | Ellis, Ernest Adolphus MM | 40475S Private  | Ellis, Mrs. Mary Edna... | 142 Sumach St., Toronto, Ont  |  |  | Aug. | 23, 1915. |
+| 9 | 615 | 1890 | 2992 | 1919 | 404253 Sergeant  |  |  | Elton, Mrs. Ellen R  | 725 Palmerston Ave., Toronto, Ont  |
+| 9 | 616 | 1919 | 2993 | 1948 | 404328 Private  |  | Nil  | Elton, Mrs. Ellen R  | 725 Palmerston Ave., Toronto, Ont.... |
+| 9 | 616 | 1942 | 3826 | 1978 | 404057 Sig. Sergt  |  |  | English, Randall  | 28 Grenville St., Toronto, Ont  |  |  | Mav | 18, 1915. |
+| 9 | 617 | 2000 | 3827 | 2035 | 404330 Private  |  | Nil  | Epworth, Mrs. Jane  | R.R. No. 3, Brampton, Ont  | Canada  | Toronto  | May | 22, 1915. |
+| 9 | 616 | 2032 | 3609 | 2064 | 404331 Private  | Esler, Henry  |  | Esler, Mrs. Annie Mooney.. | Fallaghloon, Maghera, Co. Derry, Ire. |  | Niagara-on- |
+| 9 | 3463 | 2058 | 3827 | 2084 |  |  |  |  |  |  | t he-Lake. | June | 12, 1915. |
+| 10 | 796 | 590 | 3373 | 624 |  |  |  |  | Name of Next of Kin. | Country of |
+| 10 | 608 | 732 | 3812 | 767 | 404110 | Private  | Evans, Thomas Josiah. | 12th Regt. |  |  |  | April 19, | 1915. |
+| 10 | 608 | 762 | 3813 | 792 | 404332 | Private  | Evans, Walter Merritt. | Nil  |  |  |  | May 13, | 1915. |
+| 10 | 611 | 791 | 3813 | 821 | 138561 | Private  | Eve, Albert Lewis  | 9th Horae. |  |  |  | July 20, | 1915. |
+| 10 | 609 | 819 | 3814 | 849 | 404333 | Private  | Ewers, James  | Nil  |  |  |  | April 19, | 1915. |
+| 10 | 608 | 852 | 1631 | 882 | 404530 | Private  | Fall, Herbert  | 10th Regt. |
+| 10 | 3455 | 877 | 3814 | 906 |  |  |  |  |  |  | Camp. | June 9, | 1915. |
+| 10 | 608 | 907 | 3813 | 947 | 404759 | Private  | Farrell, Robert Kjtiui | Nil  |  |  |  | Aug. 17, | 1915. |
+| 10 | 608 | 934 | 3814 | 967 | 404760 |  | Farrow, John Richard MM. | Nil  |  |  |  | Aug. 18. | 1915. |
+| 10 | 608 | 963 | 3813 | 995 | 405249 | Private  | Farrow, Walter   | Territorials. |  |  |  | July 6, | 1915. |
+| 10 | 608 | 993 | 3813 | 1023 | 404761 | Private  | Fenton, Robert W  | T erritori&ls. |  |  |  | Aug. 19, | 1915. |
+| 10 | 608 | 1022 | 3814 | 1052 | 405053 | Private  | Field, Andrew  | Nil   |  |  |  | April 5, | 1915. |
+| 10 | 607 | 1050 | 3814 | 1080 | 405250 | Private  | Finch, Albert Bertie  | Territorials. |  |  |  | May 20, | 1915. |
+| 10 | 608 | 1082 | 1658 | 1113 | 404080 | Private  | Firman, Charles Albert  | 2nd Regt  |
+| 10 | 3454 | 1108 | 3815 | 1134 |  |  |  |  |  |  | the-Lake. | June 12, | 1915. |
+| 10 | 608 | 1137 | 3815 | 1173 | 405329 | Bandsman  | Fisher, James Albert S.... | 2nd Regt... | Fisher, Mrs. Dorothy Annie. |  |  | Sept. 24, | 1915. |
+| 10 | 608 | 1166 | 3815 | 1201 | 405054 |  | Fitzgerald, John  | Nil  | Fitzgerald. Mrs. M  |  |  | April 5, | 1915. |
+| 10 | 608 | 1195 | 3814 | 1229 | 405055 | I..-Corporal  | Flanagan, Ambrose  | a  | Flanagan, Mrs. Ambrose.... |  |  | April 5, | 1915. |
+| 10 | 608 | 1224 | 3816 | 1256 | 404763 | Private  | Flanagan, Walter Thomas. | Nil  |  |  |  | Aug. 17, | 1915. |
+| 10 | 608 | 1253 | 3816 | 1288 | 401534 | Private  | Flood, Walter  | 109th Regt. |  | England. 1 |  | June 5, | 1915. |
+| 10 | 608 | 1286 | 1645 | 1313 | 401334 | Private  | Forbes, Arthur Robert.... | Nil  |
+| 10 | 608 | 1335 | 3598 | 1375 | 401335 | Private  | Forbes, Irving Douglas.. ..MM | Nil  |  |  | <iagara-on- |
+| 10 | 3454 | 1369 | 3817 | 1395 |  |  |  |  |  |  | the-Lake. | June 12, | 1915. |
+| 10 | 609 | 1390 | 3815 | 1433 | 404:70 | L.-Corporal  | Forbes. Stephen Alexander.. MM | 2nd Regt. | Forbes, Mrs. Lily Louisa— |  |  | May 13, | 1915. |
+| 10 | 608 | 1427 | 3818 | 1458 | 405056 | Private  | Ford, Bertie C  | Nil  |  |  |  | April 5, | 1915. |
+| 10 | 607 | 1457 | 3819 | 1486 | 404704 | Private  | Ford, Ernest  | Nil  |  |  |  | Aug. 19, | 1915. |
+| 10 | 609 | 1488 | 1614 | 1518 | 405112 |  | Ford, Thomas Joseph  | Nil  |
+| 10 | 3455 | 1514 | 3821 | 1543 |  |  |  |  |  |  | Camp  | July 2, | 1915. |
+| 10 | 608 | 1542 | 3821 | 1573 | 405057 | Private  | Ford, Walter  | Nil  |  |  |  | April 5. | 1915. |
+| 10 | 609 | 1572 | 3821 | 1608 | 405019|Corporal  |  | Ford, William John  | Territorials. |  |  |  | May 30, | 1915. |
+| 10 | 609 | 1601 | 3822 | 1634 | 4U4oj6 | rrivate  | Forrest, Carlyle Spencer  | Nil  |  |  |  | May 14, | 1915. |
+| 10 | 609 | 1630 | 3822 | 1660 | 404766 |  | Forster, Edward  | Nil   | Forster. Mrs. Hannah Viola. |  |  | Aug. 13, | 1915. |
+| 10 | 609 | 1660 | 3823 | 1692 | 401707 | Private  | Forsyth, Louis Lloyd  | Nil  | Forsyth. Mrs. Mary Ann.... |  |  | Aug. 17, | 1915. |
+| 10 | 609 | 1686 | 3823 | 1721 | 405251 |  | Fowle, Frank *  | 10th Regt.. |  |  |  | Aug. 21. | 1915. |
+| 10 | 609 | 1718 | 3823 | 1751 | 405252 |  | Fox, Wilfred  | 36th Regt.. | Fox, Mrs. Martha  |  |  | Aug. 25, | 1915. |
+| 10 | 609 | 1746 | 3824 | 1778 | 40476S | Private  | Frame. Morley De Witt  | Nil  | Frame, Mrs. Mary Coleman |  |  | Aug. 17, | 1915. |
+| 10 | 610 | 1775 | 3825 | 1805 | 404532 | L.-Corporal  | Franklin, James William  | Nil  | Franklin, Mrs. Mabel Irene.. |  |  | May 22, | 1915. |
+| 10 | 609 | 1805 | 3825 | 1836 | 40505S | Private  | Frazer, John Georee  | Nil  | Frazer,Major William Henry | Canada  |  | May 5, | 1915. |
+| 10 | 610 | 1834 | 3823 | 1866 | 401533 |  | Freeman. Charles Henry  | 10th Regt.. | Freeman. Mrs. Margaret.... | England  |  | June 5, | 1915. |
+| 10 | 609 | 1864 | 1647 | 1891 | 404531 | Private  | Freer, Edward  | Nil  |
+| 10 | 610 | 1912 | 3549 | 1951 | 405165 | Private  | Frisby, Harry. | Nil. |  |  | C iagara |
+| 10 | 3461 | 1948 | 3825 | 1976 |  |  |  |  |  |  | Camp... | June 15, | 1915. |
+| 10 | 613 | 1978 | 3825 | 2007 | 1382S4 | Private  | Fry,John  | Nil   |  |  |  | Aug. 23, | 1915. |
+| 10 | 610 | 2007 | 3826 | 2038 | 404 0S1 | Private  | Furlong, John  | Nil    | Furlong. Mrs. Eleanor Han-is | Wales  |  | April 19, | 1915. |
+| 10 | 609 | 2035 | 3825 | 2066 | 404035 | Private  | Fyfe, Harry   | Territorials. |  |  |  | July 6, | 1915. |
+| 10 | 610 | 2065 | 3826 | 2095 | 404012 | Private  | Gage, John Benjamin  | Nil  |  |  |  | April 5, | 1915. |
+| 10 | 609 | 2095 | 3827 | 2123 | 405254 | Private  | Garbutt, Norman Allen. | Nil  |  |  |  | Aug. 14, | 1915. |
+| 11 | 587 | 248 | 3568 | 281 | 404337 Private Gan-ington, Percival |  |  | NU. | Carrington, Alfred. | 28 Alwen 3t., Wordsley, Eng. | England.. | Niagara-on- |
+| 11 | 3426 | 278 | 3782 | 304 |  |  |  |  |  |  |  | t he-Lake | June | 12. 1915. |
+| 11 | 588 | 306 | 3782 | 339 | 404770 | Private  | Garside, Bertram  | NU  | Garside, Mrs. Adelaide... | 303 Maria St. W., Toronto, Ont  | England.. | Toronto.... | Aug. | 19, 1915. |
+| 11 | 588 | 333 | 3783 | 369 | 404255 | Sergeant  | Gareton, James  | Imp. Force* | Gareton, Mrs. Eliza Jane.... | 52 Dover St., Belfast, Ire | Ireland... | Toronto.... | AprU | 9. 1915. |
+| 11 | 588 | 365 | 3784 | 399 | 404986 | Private  | Gatward, Charles William G. | 2nd Regt | Gatward, Mrs. E. A  | 258. Harbord St., Toronto, Ont  | England.. | Toronto.... | April | 10. 1915. |
+| 11 | 588 | 394 | 3783 | 427 | 404771 | Private  | Gaunt. Samuel Edward  | 12th Regt | Gaunt, Mrs. Charlotte  | 135 Seneca St., Fairbank. Toronto, Ont.. | England.. | Toronto.... | Aug. | 23. 1915. |
+| 11 | 588 | 423 | 3784 | 457 | 404650 | L.-Corporal.... | Gendron, Francis Arthur  | 12th Regt | Gendron, Mrs. Mary Ann... | 35 Vernon St., Toronto, Ont  | Canada... | Toronto.... | April | 12. 1915. |
+| 11 | 588 | 453 | 3784 | 486 | 404772 | Private  | George, William Henry  | NU  | George, William  | 74 Dupont St., Toronto, Ont  | Canada... | Toronto.... | Aug. | 17, 1915. |
+| 11 | 588 | 482 | 3785 | 516 | 405059 | Private  | Geme, Hugh  | Nil  | Gerrie, William  | Seggihole, Arnage by Auchnagatt, Scot.. | Scotland.. | Toronto.... | April | 19, 1915. |
+| 11 | 587 | 511 | 3785 | 542 | 404339 | Private  | Gibbons. John  | Nil  | Gibbons, Mrs. F   | 123Lippinoott St., Toronto, Ont   | Canada... | Toronto.... | April | 8. 1915. |
+| 11 | 587 | 540 | 3785 | 571 | 40404 | C.S.M  | Gibbs, Ernest  | NU  | Gibbs, Mrs. Charlotte  | 423 Gunns Rd., West Toronto, Ont  | England.. | Toronto.... | AprU | 12. 1915. |
+| 11 | 589 | 569 | 3786 | 600 | 140084 | Private  | Gibson, Arthur  | 9th Horse | Gibson, Herbert  | 603 Berkeley St., Toronto, Ont  | Canada... | Toronto.... | Aug. | 2. 1915. |
+| 11 | 585 | 597 | 3787 | 633 | 404649 | Sergeant  | Gilbert, Albert  | NU  | Gilbert, Mrs. Mary Eva  | 418 Symington Aye., Toronto, Ont  | England.. | Toronto  | April | 12, 1915. |
+| 11 | 584 | 627 | 3514 | 659 | 404341 | Private  | Gillon, Edward  | NU. | Gillon, William  | 16 Louisa Rd., Birmingham, Eng  | England.. | Niagara |
+| 11 | 584 | 684 | 3788 | 718 | 404535 | L.-Corporal. | Gibson, Percy Lestock H. | Can. Navy | Gibson, Mrs. G. A  | 33bYi Queen St. E., Toronto, Ont... | Canada... | Toronto.... | April 12, 1915. |
+| 11 | 584 | 713 | 3789 | 747 | 405060 | Private  | Gincell, William Alfred... | NU  | Gingell, William Alfred  | 31 Grant St., Toronto, Ont  | Canada... | Toronto  | AprU 5, 1915. |
+| 11 | 585 | 743 | 3570 | 775 | 404340 | Private  | Girdler, Daniel Francis... | NU  | Girdler, C. W  | 812 Dovercourt Rd., Toronto, Ont. | England.. | Niagara-o li¬ |
+| 11 | 584 | 800 | 3790 | 834 | 404773 | Private., | Godward. Philip Willoughby. | Nil  | Godward, Mrs. Elizabeth... | 135 Withrow Ave., Toronto, Ont. | Canada... | Toronto  | Aug. 17, 1915. |
+| 11 | 585 | 829 | 3790 | 863 | 404342 | Private., | Goodfellow, James  | 2nd Regt | Goodfellow, Mrs. L   | 45 Abingdon St., Belfast, Ire.. .*.. | Ireland.., | Niagara.. | Sept. 7, 1915. |
+| 11 | 584 | 858 | 3790 | 891 | 404774 | Private. | Goodman, Louis Montague  | NU  | Goodman, Mrs. Alice Violet | Taylor St., Toronto, Ont  | England.. | Toronto.. | Aug. 21, 1915. |
+| 11 | 583 | 885 | 3574 | 921 | 404344 | Private., | Gordon, George  | 2nd Regt | Gordon, Mrs. M  | 92 Markham St., Toronto, Ont... | Scotland. | Niagara-on- |
+| 11 | 584 | 945 | 3790 | 979 | 404343 | Private  | Gordon, Gladstone  | 12th Regt | Gordon, Mrs. Lucy. | Newmarket, Ont  | Canada... | Toronto  | April 19, 1915. |
+| 11 | 584 | 974 | 3791 | 1009 | 405012 | L.-Sergeant. | Gordon, James DavidBon.... ,w | NU  | Gordon, Mina  | 870 Ossington Ave., Toronto, Ont. | Scotland.. | Toronto  | April 5, 1915. |
+| 11 | 584 | 1002 | 3571 | 1037 | 404345 | Private  | Gordon, John Lawrie MM, | NU  | Gordon, John  | 19 Fife St., Keith, Scot  | Sootland.. | Niagara-on- |
+| 11 | 581 | 1061 | 3515 | 1092 | 404536 |  | Gordon, Thomas Wardle  | Nil. | Gordon, Driver  | 131st Field Co., Sutton Camp, Eng.. | England.. | Niagara |
+| 11 | 3428 | 1090 | 3791 | 1118 |  |  |  |  |  |  |  | Camp.... | June 30, | 1915. |
+| 11 | 583 | 1119 | 3792 | 1150 | 405314 | Bandsman.. | Graham, Bertram  | NU  | Graham, Mrs. Leonora  | 32 Banff Ave., Toronto, Ont  | England.. | Toronto.... | Aug. 19, | 1915. |
+| 11 | 582 | 1148 | 3793 | 1180 | 404538 |  | Graham, Frank  | Territorials | Graham, Mrs. Emily Maud. | 36 Camden St., Toronto, Ont  | England. | T oronto.... | April 12, | 1915. |
+| 11 | 582 | 1176 | 3793 | 1209 | 404346 | Private.... | Graham, Leslie Philip S... | 12th Regt | Graham, Mrs. H. H  | 6S6 Jones Ave., Toronto, Ont  | Canada.. | Toronto.... | April 8, | 1915. |
+| 11 | 582 | 1205 | 3793 | 1239 | 405061 | Private  | Graham, Norman Wesley. | NU  | Graham, Mrs. Olive.    | 420 Parliament St., Toronto, Ont  | Canada.. | Toronto.... | April 5, | 1915. |
+| 11 | 582 | 1235 | 3794 | 1266 | 404776 | Private.... | Grainger, Robert   | NU  | Grainger, Mrs.Ruth Olive M. | 25 Christie St., Toronto, Ont  | England. | Toronto... | Aug. 17, | 1915. |
+| 11 | 582 | 1263 | 3796 | 1295 | 404082 | Private  | Gray, Andrew John  | NU  | Gray, Mrs. Florence M  | 876 Yonge St., Toronto, Ont  | Canada.. | Toronto... | Apnl 28, | 1915. |
+| 11 | 582 | 1293 | 3795 | 1324 | 405114 | Private.... | Gray, Frank Russell  | 48th Regt | Gray, Muriel  | 191 University Ave., Toronto, Ont  | England. | N iagara... | June 9, | 1915. |
+| 11 | 582 | 1323 | 3796 | 1353 | 404539 | Private  | Green, Charles  | Nil  | Green, Mrs. Mary  | 21 Northview Terrace, Toronto, Ont  | England. | Toronto... | May 11, | 1915. |
+| 11 | 582 | 1351 | 3797 | 1381 | 404347 | Private.... | Green, William James.... | NU  | Green, Mrs. W. J  | 3 Bushell Ave., Toronto, Ont  | England. | Toronto... | April 19. | 1915. |
+| 11 | 582 | 1380 | 3797 | 1411 | 405253 | Private  | Greig, William S  | NU  | Greig, Mrs. Lydia  | Clinton, Ont  | Canada.. | Toronto.... | AprU 20. | 1915. |
+| 11 | 582 | 1409 | 3798 | 1440 | 401777 | Private.... | Grogan, Charles  | NU. | Grogan, Charles  | 296 Rhodes Ave., Toronto, Ont  | Canada.. | Toronto.... | Aug. 20, | 1915. |
+| 11 | 582 | 1438 | 3798 | 1470 | 404011 | Private  | GroundseU. Archibald.... | NU  | Groundsell, Henry J. W  | Drive, South Born, Sussex, Eng  | England. | Toronto.... | April 10, | 1915. |
+| 11 | 584 | 1467 | 3799 | 1498 | 405166 | Private.... | Groves, Allan W  | Can. Eng... | Groves, William E  | 36 Albany Ave., Toronto, Ont  | Canada.. | N iagara... | June 11, | 1915. |
+| 11 | 583 | 1496 | 3798 | 1528 | 405200 | Private... | Gunn, Joseph  | Nil  | Gunn, Mrs. Mary  | 123 Argyle St., Leicester, Eng  | England. | Niagara... | July 30, | 1915. |
+| 11 | 583 | 1525 | 3799 | 1556 | 404778 | Private  | Habart, Henry Edmund.. | NU  | Habart, Robert  | Brampton, Ont  | Canada.. | Toronto... | Aug. 17, | 1915. |
+| 11 | 583 | 1554 | 3799 | 1585 | 404348 | Private.... | Hadden, George  | 2nd Regt | Hadden, Mrs. Ellen  | Lanater, Calragh, Dungannon, Tyrone, Ire. | Ireland.. | Niagara-on- | June 12, | 1915. |
+| 11 | 583 | 1611 | 3523 | 1642 | 404541 | Private. | Haines, John. | Territorials | Haines, Mrs. Annie. | 311 Osier St., Toronto, Ont  | England. | Niagara |
+| 11 | 584 | 1669 | 3800 | 1700 | 139601 Private... |  | Hale, Charles  | Imp. Forces | Hale, Mrs. Mary Ann... | Halton Brick Yard, Terra Cotta, Halton, Ont. | England. | Toronto.... | Julv 16, 1915. |
+| 11 | 581 | 1698 | 3802 | 1729 | 405227|Corporal ■ |  | Hall, Arthur  | Imp. Forces | Hall, Mrs. Alice  | 42 Boultbee Ave., Toronto, Ont   | England. | Niagara.... | July 6, 1915. |
+| 11 | 580 | 1727 | 3802 | 1758 | 401350 | Private. | Hall, Frank Leslie... | Nil  | Hall, Mrs. E  | 22 Oliver St., Nottingham, Eng  | England. | Toronto.... | April 12, 1915. |
+| 11 | 581 | 1756 | 3803 | 1786 | 405311 | Bandsman.. | Hall. Herbert  | NU  | Hall, Mrs. Sarah  | R. R. No. 4, St. Catharines, Ont  | Canada.. | Niagara.... | Sept. 3, 1915. |
+| 11 | 580 | 1785 | 3803 | 1816 | 405115 | Private...., | Hall, Leslie Hubert.. | 48th Regt | Hall, Mrs. Martha Jane. | 159 Brunswick Ave., Toronto, Ont  | Canada.. | Niagara  | June 9, 1915. |
+| 11 | 580 | 1813 | 3805 | 1845 | 404349 | Private  | Halliday, Andrew... | NU  | Halliday, Mrs. Annie... | 34 Hayter St., Toronto, Ont  | England. | Toronto.... | April 8, 1915. |
+| 11 | 579 | 1832 | 3526 | 1875 | 404512 | Private  | Halls, William John. | NU  | Halls, Mrs. Victoria.... | Myrtle Ave., Toronto, Ont  | Canada.. | Niagara |
+| 11 | 579 | 1899 | 3805 | 1930 | 405216 | Private.. | Halstead, Arthur  | NU. | Halstead, Mrs. Annie  | 126 Robina Ave., Toronto, Ont. | England.. | Niagara  | July 2, 1915. |
+| 11 | 578 | 1929 | 3805 | 1961 | 404779 | Private.. | Hamer, James  | NU. | Hamer, Mrs. Lilly  | 20 Chesley Ave., Toronto, Ont. | England.. | Toronto  | Aug. 23, 1915. |
+| 11 | 576 | 1957 | 3806 | 1989 | 405218 | Private. | Hamilton, Andrew Sime. | NU. | Hamilton, Mrs. Elizabeth. | 131 Salem Ave., Toronto, Ont. | Scotland. | Toronto  | Sept. 10, 1915. |
+| 12 | 588 | 594 | 3344 | 629 | .EZ |  |  |  | Name of Next of Kin. |  | Country of |
+| 12 | 588 | 736 | 3786 | 770 | 4 040S3 | Private  | Hamilton, Charles  | NU  | Hamilton, Mrs. M  | 329 Grace St., Toronto. Ont  | Canada  | Toronto. | April | 19, 1915. |
+| 12 | 588 | 765 | 3787 | 799 | 405269 | Private  | Hamilton, Leonard  | Nil  | Hamilton, William  | 18 Brownlow Terrace, Lurgan, Armagh, Ire  | Ireland  | N iacara. | July | 6, 1915. |
+| 12 | 589 | 793 | 3788 | 830 | 404272 | Private  | Hammond, Stacey  | Imp. Forces. | Hammond, Mrs. E  | 223 Markham St., Toronto, Ont  | England  | Toronto. | April | 9, 1915. |
+| 12 | 588 | 823 | 3789 | 859 | 404351 | Private  | Hann, John Wesley  | Imp. Forces. | Hann, Mrs. C  | 71 Woody Crest Ave., Toronto, Ont  | England  | Toronto. | April | 12, 1915. |
+| 12 | 588 | 852 | 3788 | 886 | 40522C | Corporal  | Hardman, John  | Territorials.. | Hardman, Mrs. Ellen F  | 211 Nairn Ave., Toronto, Ont  | England  | Niagara. | June | 24, 1915. |
+| 12 | 588 | 881 | 3789 | 914 | 4052G0 |  | Hards, James Bowman  | NU  | Hards, Mrs. Ellen  | S77 Lansdowne Ave., Toronto. Ont  | Canada  | Toronto. | May | 12. 1915. |
+| 12 | 588 | 910 | 3789 | 945 | 404 4 05 | Sergeant  | Hardy, Wilfred  | Territorials.. | Hardy, Mrs. Ann Todd  | Hutton Ave., West Hartlepool, Eng  | England  | Toronto. | April | 12. 1915. |
+| 12 | 588 | 940 | 3789 | 974 | 404780 |  | Hardy, William  | Nil  | Hardy, Mrs. Elizabeth  | 101 Major St., Toronto, Ont  | Canada  | Toronto. | Aug. | 17, 1915. |
+| 12 | 587 | 968 | 3789 | 1002 | 404984 |  | Harkness, Lewis Dixon.... . | Nil  | Harkness, Mrs. Ethel Ann.. | 14 Bradd St., Toronto, Ont  | England  | Toronto. | Aug. | 17, 1915. |
+| 12 | 587 | 998 | 3789 | 1031 | 404781 | Private  | Harkness, William MW. | NU  | Harkness, Susanah  | Upper Colinhurst, Ecclefechan, Scot  | Scotland  | Toronto. | Aug. | 14, 1915. |
+| 12 | 587 | 1030 | 3143 | 1061 | 405257 | Private  | Harlow, Charles Henry  | NU  | Harlow, Eliza   | Barton Turns, Bart on-under-Need wood, Burton-on- |
+| 12 | 2468 | 1055 | 3791 | 1088 |  |  |  |  |  | Trent, Eng  | England  |  | April 5, 1915. | Toronto.... |
+| 12 | 586 | 1084 | 3790 | 1119 | 404543 | Private  | Harper, George William... | S.A  | Burgoyne, Carrie  | 105 Jersey Ave:, Toronto, Ont  | England  |  | June 11, 1915. | N iagara.... |
+| 12 | 586 | 1112 | 3789 | 1148 | 404544 | L.-Corporal  | Harper, Robert Edward... | Nil  | Harper, John A  | 437 Brock Ave.. Toronto. Ont  | Canada  |  | April 12, 1915. | Toronto.... |
+| 12 | 586 | 1142 | 3791 | 1178 | 404782 | L.-Corporal  | Harris. Bert Gilmour  | 79th Regt. | Harris, Mrs. Sarah  | Woodbridge, York Co., Ont  | Canada  |  | Aug. 18, 1915. | Toronto.... |
+| 12 | 586 | 1171 | 3791 | 1204 | 404084 | Private  | Harris, Frank  | Nil  | Harris, Mrs. Edna  | 117 O’Hara Ave., Toronto, Ont   | Canada  |  | AprU 19, 1915. | Toronto.... |
+| 12 | 586 | 1201 | 3567 | 1233 | 404352 | Private  | Harris, Frederick Gordon. | Nil  | Harris, Mrs. F. J  | St. Mary's, Ont   | Canada  | Niagara-on- |
+| 12 | 587 | 1261 | 3140 | 1294 | 404545 | Private  | Harris, William Charles. | 12th Regt... | Harris, Mrs. Nellie  | Fern wood Park Ave., Balmy Beach, Toronto, |
+| 12 | 2468 | 1288 | 3792 | 1317 |  |  |  |  |  | Ont  | Canada.... | Niagara  | June | 1915. |
+| 12 | 586 | 1317 | 3792 | 1350 | 40025* | Private  | Harrison. William  | NU  | Harrison, Mrs. Ellen  | 138 Broadhead St., Old Forge, Pa., U.8.A  | England... | Niagara.... | June | 1915. |
+| 12 | 586 | 1346 | 3792 | 1379 | 404353 | Private  | Harrott. Albert  | NU  | Harrott. Mrs. E. J  | 151 Cambridge Ave.. Toronto, Ont  | England... | Toronto  | April | 1915. |
+| 12 | 586 | 1375 | 3793 | 1410 | 405110 | Private  | Harrower, John  | Imp. Forces. | Hnrrower, Francis S  | 54a Drysdale St., Alloa, Soot  | Scotland. . | Niagara.... | June | 1915. |
+| 12 | 586 | 1403 | 3794 | 1439 | 405062 |  | Hart, Harry-  | Imp. Forces. | Hart, Mrs. E. A  | 4 Plato St., Bolton, Lancs, Eng  | England... | Toronto.... | April | 1915. |
+| 12 | 586 | 1433 | 3794 | 1467 | 404783 |  | Harvey, George Henry. |  | Harvev, Mrs. Daisy  | 25 Beaconsfield Ave., Toronto, Ont  | England... | Toronto  | Aug. | 1915. |
+| 12 | 586 | 1462 | 3794 | 1496 | 404784 | Private  | Harvey, Urbane John.. |  | Harvey, Mrs. Rosa  | 292 Salem Ave., Toronto, Ont  | England... | Toronto  | Aug. | 1915. |
+| 12 | 586 | 1491 | 3795 | 1525 | 4M785I Private  |  | Haslam, Bethel  | Territorials. | Haslam, Mrs. Elizabeth ... | 3 Queen St., Humber Bay P.O., Ont  | England... | Toronto  | Aug. | 1915. |
+| 12 | 586 | 1520 | 3795 | 1554 | 4047S6 |  | Haggard, John  | NU  | Hassard, Joseph  | Drumcrow, Fermanagh, Ire  | Ireland  | Toronto  | Aug. | 1915. |
+| 12 | 586 | 1551 | 3569 | 1585 | 404354 |  | Hawke, Clifford  | 2nd Regt... | Hawke, James E  | 15 Alexander St., Toronto, Ont  | Canada  | N iagara-on- |
+| 12 | 3431 | 1577 | 3796 | 1603 |  |  |  |  |  |  |  | the-Lake. | June | 1915. |
+| 12 | 586 | 1607 | 3795 | 1641 | 404085 | Private  | Hawkey, Herbert  | Nil  | Hawkey, Mrs. H  | 13 St. Vincent St., Toronto, Ont  | Canada  | Toronto.... | April | 1915. |
+| 12 | 586 | 1635 | 3796 | 1668 | 404546 | Private  | Hawkins, James  | Nil  | Hawkins, Mrs. Anne  | Jubilee Terrace, Menston, Yorks, Eng. | England  | Niagara.... | June | 1915. |
+| 12 | 586 | 1664 | 3797 | 1700 | 404787 | Private  | Hawley, Ernest Alfred  | 12th Regt. | Hawley, Amos Augustus ... | Burv, P.< | Canada  | T oronto  | Aug. | 1915. |
+| 12 | 587 | 1694 | 3797 | 1728 | 405319 | Bandsman  | Hayes, Frederick  | Nil  | Hayes, Mrs. Elizabeth Ellen | 213 First Ave., Toronto, Ont  | England  | Toronto.... | Aug. | 1915. |
+| 12 | 587 | 1722 | 3798 | 1756 | 404277 | L.-Corporal  | Hays, Robert C  | Nil  | Hays, Mrs. Hattie  | Goderich, Ont   | Canada  | Toronto.... | April | 1915. |
+| 12 | 587 | 1751 | 3800 | 1787 | 404789 | Private  | Hayward, William  | th Regt. | Hayward, Mrs. Mary  | 12 Grev Ave.. Mount Dennis. Ont  | Wales  | Niagara. . . | Sept. | 1915. |
+| 12 | 586 | 1780 | 3800 | 1814 | 405063 | 1..-Corporal  | Headon, Andrew Robert  | Nil  | Headon, Mrs. Mary  | R. R. No. 1, Brunner, Ont   | Canada  | Toronto. .. | April | 1915. |
+| 12 | 587 | 1809 | 3800 | 1843 | 40479C | Private  | Healey, Daniel Patrick  | Nil  | Healey, Mrs. Nora  | 9 Ladybarn Ave., Manchester, Eng. . . | Ireland   | Toronto... . | Aug. | 1915. |
+| 12 | 587 | 1838 | 3802 | 1872 | 404791 | Private  | Hearn, John  |  | Hearn, Mrs. Phyllis  | 167 Beaconsfield Ave., Toronto, Ont.. | England  | Toronto.... | Aug. | 1915. |
+| 12 | 587 | 1867 | 3799 | 1901 | 404792 | Private  | Heatly, James  | NU  | Heatly, Mrs. Mary Ann. .. | 206 De Grassi St., Toronto, Ont  | Scotland   | Toronto.... | Aug. | 1915. |
+| 12 | 588 | 1896 | 3801 | 1931 | 404 355 | Private  | Hebden, James Alfred  | 2nd Regt. | Hebden, Mrs. Ellen Kate... | 155 Broadview Ave., Toronto, Ont.... | Canada   | Toronto.... | April | 1915. |
+| 12 | 588 | 1926 | 3574 | 1958 | 404350 | Private  | Helm, Henry Paul  | NU  | Helm, Mrs. J  | 122 Briar Hill Ave., N. Toronto, Ont.. | Canada  | N iagara-on- |
+| 12 | 3435 | 1953 | 3801 | 1978 |  |  |  |  |  |  |  | the-Lake | June | 1915. |
+| 12 | 588 | 1982 | 3802 | 2016 | 404050 | Private  | Hempsecd, James  | Nil  | Hempseed, Rita Nicol... | 36 Seymour Ave., Toronto, Ont | Scotland   | Niagara . . | June | 1915. |
+| 12 | 588 | 2011 | 3803 | 2046 | 4M117 | Private   | Henderson, Alexander  | 4Sth Regt. . | Henderson, David  | 260 Rhodes Ave., Toronto, Ont. . . | Scotland   | N iagara.... | July | 1915. |
+| 12 | 588 | 2041 | 3801 | 2075 | 405118 | Private  | Henderson, Harold  | 4&th Reg^. . | Henderson, Frederick  | Airmyn Rd., Goole, Yorks, Eng... | England  | Niagara.. | June | 1915. |
+| 12 | 588 | 2069 | 3805 | 2102 | 404547 | Private  | Hendry. Reginald  | NU  | Hendry, Mrs. Rhoda.... | 45 Kenilworth Ave., Toronto, Ont. | England  | N iagara.... | June | 1915. |
+| 12 | 588 | 2098 | 3801 | 2130 | 405299 | Private  | Henry, James  | Territorials. | Henry, Mrs. Jane  | 35 O’Hara Ave., Toronto, Ont  | Scotland   | Toronto. | April | 1915. |
+| 12 | 590 | 2127 | 3805 | 2161 | 138597 | Private  | Her.thall, Harry Collinson  |  | Henshall. Mrs. Maud .... | 182 Sackville St., Toronto, Ont.... | England  | Toronto. ... | July | 1915. |
+| 13 | 2106 | 371 | 3830 | 402 |  |  |  |  | Cartney  | 134b Winchester St., Toronto. Ont  | England. | Toronto  | May 20. | 1915. |
+| 13 | 651 | 401 | 3830 | 432 | 405201 | Private  | Herbert, Harry  | Nil | McCarthy, Mrs  | Crescent Rd., Brentwood, Eaaei, Eng  | England.. | Niagara.... | June 24. | 1915. |
+| 13 | 651 | 430 | 3831 | 461 | 404116 | L.-Corporal. | Herd, Samuel  | NU.... | H*»rd. Mrs. Je3sie  | 24 Ladvnine’s Square, Markinch, File, Scot. | Scotland. | N iagara ... | June 26. | 1915. |
+| 13 | 651 | 459 | 3831 | 491 | 405004 | Private  | Hewett, Reginald Gregor  | NU. | Hewett, Mrs. Violet May... | 49 Kennedy Ave., Swansea. Ont  | Canada.., | Toronto. ... | April 5, | 1915. |
+| 13 | 651 | 488 | 3831 | 519 | 404548 | Private   | Hewitt, Harry  | 13th Regt | Hewitt. Mrs.Gertrude Helen | 266 Simcoe St., Toronto, Ont  | England.. | Toronto  | May 4. | 1915. |
+| 13 | 651 | 518 | 3831 | 549 | 404269 | Corporal | Hewitt. \NUliam Hamilton  | S. A  | Hewitt. Mrs. Mary  | 41 HUlsboro Ave., Toronto, Ont  | Canada.. | Toronto.... | Aug. 21. | 1915. |
+| 13 | 651 | 547 | 3831 | 577 | 40533-S | Bandsman... | Hicks, Ernest Edward  | NU  | Hicks, Thomas  | Chippawa. Ont  | Canada.. | N iagara.... | Oct. 8, | 1915. |
+| 13 | 651 | 576 | 3831 | 607 | 404794 | Private  | Hides, Alfred Harry  | NU. | Hides, Mrs. Margaret Ann.. | 21 Old St., Newchurch. Lancs, Eng  | England | Toronto.... | Aug. 24. | 1915. |
+| 13 | 649 | 605 | 3831 | 636 | 404705 | Private  | Higgins. William John   | NU. | Higgins, Mrs. Florence Mary | Louisa St., Mimico, Ont  | England. | Toronto.... | Aug. 20. | 1915. |
+| 13 | 649 | 634 | 3832 | 665 | 404796 | Private  | Hill, Arthur Edward   | NU. | Hill, Mrs. Irene  | 108 Barton Ave., Toronto. Ont  | England.. | Toronto.... | Aug. 17, | 1915. |
+| 13 | 649 | 664 | 3562 | 694 | 404541* | C orporai | Hili, Bertram Bryant  | NU.. | HiU, Mrs. Ada Matilda.. | 5 Haldon View, Exeter, Eng  | England.. | Niagara |
+| 13 | 3477 | 692 | 3834 | 721 |  |  |  |  |  |  |  | Camp.... | June 9. | 1915. |
+| 13 | 648 | 721 | 3833 | 753 | 404797 Frivate. |  | Hill, Edgar  | NU. | Hill, Mrs. Sarah.... | 9 Seymour Ave., Toronto, Ont. | England. | Toronto.... | Aug. 20. | 1915. |
+| 13 | 648 | 750 | 3834 | 783 | 405024!Bugler... |  | Hill, Janies Charles. | NU. | Hill, Mrs. Robena.. | 131 Bathurst St., Toronto, Ont. | England. | Toronto | April 5, | 1915. |
+| 13 | 648 | 780 | 3564 | 810 | 404550) Private.. |  | Hill, Robert  | NU. | Maxwell, Mrs  | 314 WUton Ave., Toronto, Ont., | Ireland... | Niagara |
+| 13 | 3478 | 807 | 3835 | 837 |  |  |  |  |  |  |  | Camp.... | June 15, | 1915. |
+| 13 | 648 | 836 | 3836 | 869 | 405065' Private  |  | Hill, Roland Harry  | Nil  | Hill, Lear  | 54 Bleaches Rd., Blackheath, Birmingham, Eng... | England. | Toronto.... | AprU 5, | 1915. |
+| 13 | 647 | 865 | 3836 | 899 | 4047981 L.-Corporal  |  | Hill, Sydney Walter  | 2nd Regt | HiU. Mrs. Mabel.  | 10 Park Ave., Toronto, Ont  | England. | Toronto.... | Aug. 21, | 1915. |
+| 13 | 647 | 891 | 3837 | 928 | 4 04 8001 Private  |  | H ink ley. Albert James  | 12th Regt | Hinkley. Mrs. Edith Mary-- | 12 Follia Ave., Toronto, Ont  | England. | Toronto.... | Aug. 23, | 1915. |
+| 13 | 647 | 923 | 3837 | 955 | 4 0480i 'Private  |  | Hirst, Alfred Henry  | NU  | Hirst, Mrs. Francis  | 124 Harrison St., Toronto, Ont  | England. | Toronto.... | Aug. 14, | 1915. |
+| 13 | 646 | 952 | 3837 | 989 | 404652 Bugler  |  | Hobson, Wilfred iJVi | Nil  | Hobson. Ada  | 41 Dingwall Ave., Toronto, Ont  | England. | Toronto.... | April 5, | 1915. |
+| 13 | 645 | 980 | 3838 | 1016 | 4048041 Private  |  | Hobson. William . ...iVjfyl | Can. Eng | Hob»on, Mrs. Sarah Jane... | 28 Bushell Ave., Toronto. Ont  | Canada.. | Niagara | Sept. 4. | 1915. |
+| 13 | 644 | 1010 | 3838 | 1043 | 41*4805 (Private  |  | Hockridge, George Philip   |  | Hockridge. Mrs. Emma. . .. | 1142 Dufferin St., Toronto, Ont  | England. | Toronto  | Aug. 19. | 1915. |
+| 13 | 642 | 1039 | 3838 | 1071 | 404S0C i Private  |  | Hodgins, Alexander   | C.A.M.C... | Hodgins, Mrs. Laura  | 71 Winnifred Ave., Toronto, Ont  | Canada.. | Toronto.... | Aug. 18, | 1915. |
+| 13 | 643 | 1068 | 3838 | 1100 | 404 1 07! Private  |  | Hogben, Frederick William  | Nil  | Hogben, Mrs. Edith  | Brabourne Lees, Kent, Eng  | England. | Toronto.... | April 5, | 1915. |
+| 13 | 642 | 1097 | 3839 | 1128 | 404551!L.-Corporal  |  | Holbrook. Harold   | NU  | Holbrook, Mrs. Margaret... | 63 Ward St., Toronto, Ont  | England. | Toronto.... | AprU 12, | 1915. |
+| 13 | 640 | 1125 | 3839 | 1159 | 404552 Private  |  | Holbrook, Stanley  | NU  | Holbrook. Mrs. Margaret... | 63 Ward St., Toronto, Ont  | England. | Toronto.... | April 12, | 1915. |
+| 13 | 640 | 1154 | 3840 | 1188 | 4053101 Private  |  | Holden, William Joseph   | 19th Regt | Holden, Mrs. Ethel  | 8 Page St., St. Catharines, Ont  | Canada.. | Niagara... | Aug. 31. | 1915. |
+| 13 | 639 | 1182 | 3840 | 1216 | 40455t I Private  |  | Holder, Charles Percy   |  | Holder, Mrs. Hannah  | 58 Brandon Ave., Toronto, Ont  | England. | Toronto... | April 19, | 1915. |
+| 13 | 639 | 1212 | 3841 | 1246 | 4043561 Frivate  |  | Holder, James Robert  | Nil  | Holder. Mrs. C. M  | l0J/£ Grenville Ave., Toronto, Ont  | England. | Toronto... | AprU 12, | 1915. |
+| 13 | 639 | 1240 | 3841 | 1278 | 404350! Private  |  | Hood, George unu | Nil  | Hood, John  | 74 Moscow Ave., Toronto, Ont  | Ireland.. | Toronto  | April 8, | 1915. |
+| 13 | 639 | 1269 | 3840 | 1301 | 404807'Private  |  | Hood. Samuel MJM | Nil  | Hood, John   | 72 Moscow Ave., Toronto, Ont  | Ireland.. | Toronto.... | Aug. 19, | 1915. |
+| 13 | 638 | 1301 | 3570 | 1333 | 40455cI Private.  |  | Hooker, Albert Edward  | 10th Regt | Hooker, Mrs. Sarah  | 12 Maiden Lane. Dartford, Kent, Eng  | England. | Niagara |
+| 13 | 3484 | 1327 | 3842 | 1357 |  |  |  |  |  |  |  | Camp  | June 9. | 1915. |
+| 13 | 639 | 1356 | 3842 | 1390 | 405119iPrivnte  |  | Hooker, George Allan  | 109th Regt | Hooker. Frank   | 322 Barton St., HarnUton, Ont  | Canada  | Niagara.... | June 5. | 1915. |
+| 13 | 639 | 1385 | 3843 | 1418 | 4043601 Private  |  | Hooper. Ernest  | Nil  | Hooper, WUliam   | Painswick P.O., Ont  | Canada  | Toronto... | AprU 12, | 1915. |
+| 13 | 639 | 1414 | 3843 | 1447 | 4052011 Private  |  | Houghton, Frank  | NU  | Houghton. Mrs. Rosa Janet | 25 Shudell Ave., Toronto, Ont  | England  | Toronto... | Aug. 19. | 1915. |
+| 13 | 640 | 1442 | 3844 | 1476 | 4050071 L.-C'orporal... |  | House, Hubert Allen M M | Nil. | House, Helen  | TwUlingate, Newfoundland  | Newfoundland. | Toronto... | April 5, | 1915. |
+| 13 | 640 | 1471 | 3844 | 1505 | 4042$ c* Bugler  |  | Houtby, Charles  | NU. | Houtby, Mrs. H  | 37 Cumberland St., Toronto, Ont   | England  | Toronto... | April 19, | 1915. |
+| 13 | 640 | 1496 | 3844 | 1535 | 404806 (Private  |  | Howl, Arthur Samuel  | Nil. | Howl, Samuel  | Oakley House. Lees wood, near Mold, Flint, Wales. | WaTea  | Toronto.... | Aug. 25. | 1915. |
+| 13 | 640 | 1529 | 3844 | 1563 | 4(4811; Private  |  | Hudson, Edward Henry  | Nil. | Hudson, Mrs. Hannah .... | 209 Sackville St., Toronto, Ont  | England  | Toronto  | Aug. 23, | 1915. |
+| 13 | 640 | 1558 | 3843 | 1593 | 4 04 SOv; Private  |  | Hudson, Ernest  | 9th Horse | Hudson, Mrs. Beatrice . .. | 31 Fanning St., Toronto, Ont  | Canada  | Toronto | Aug. 23, | 1915. |
+| 13 | 639 | 1586 | 3843 | 1621 | 4 04554! Private  |  | Hudson, John George  | Imp. Forces | Hudson. Mrs. EmUy  | 1 Jesse St., Cross Lane. Leeds, Yorks, Eng  | England  | Toronto  | April 12, | 1915. |
+| 13 | 639 | 1615 | 3844 | 1650 | 40*UH Private  |  | Huke, William Reginald  | Nil  | Huke, Mrs. Florence  | Wangford, Suffolk, Eng  | England  | N iagara.... | June 24, | 1915. |
+| 13 | 638 | 1645 | 3845 | 1679 | 4041011Sergeant. ... |  | Humme, Powell M  | 43rd Regt | Humme, Mrs. Camille  | 104 Sherwood Apts., Seattle, Wash., U.S.A..... | Canada  | Toronto... | April 19, | 1915. |
+| 13 | 639 | 1676 | 3615 | 1708 | 404270 L.-C‘orporal.. |  | Humphreys. John Herbert  | Territorials | Humphreys, Mrs. Nellie... | 133 Dovercourt Rd., Toronto, Ont  | England  | Niagara-on |
+| 13 | 727 | 1701 | 3845 | 1729 |  | I |  |  |  |  |  | the-Lake | June 14, | 1915. |
+| 13 | 638 | 1731 | 3845 | 1766 | 404 OS r.J private  |  | Hunt, I^eonard  | Territorials | Hunt, Mrs. E  | Ashford Rd.. Maidstone, Kent, Eng  | England.. . | Toronto... | April 20, | 1915. |
+| 13 | 638 | 1759 | 3846 | 1794 | 404087 Private  |  | Hunt, Thomas  | 9th Horse | Hunt. John  | Macdonald Ave., Mimico, Ont  | England . | Toronto... | April 12. | 1915. |
+| 13 | 638 | 1789 | 3846 | 1826 | 404301; Private  |  | Hunt, Vomer Kingsborough. | 2nd Regt | McGeary, Mrs. J. T  | 210 Spadina Rd., Toronto, Ont.  | Canada.... | Toronto... | May 11. | 1915. |
+| 13 | 639 | 1817 | 3846 | 1853 | 404555 i L.-Corporal... |  | Hunt, William Edward  | Nil  | Hunt. Mrs. Clara  | 8 Poplar St., Smethwick, Birmingham, Eng. | England.. . | Toronto... | April 12, | 1915. |
+| 13 | 638 | 1846 | 3846 | 1884 | 4048illPrivate  |  | Hunter. Samuel  | 10th Regt | Hunter, Mrs. Sarah  | 53 Wright Ave., Toronto. Ont  | Scotland... | Toronto... | Aug. 16, | 1915. |
+| 13 | 639 | 1875 | 3845 | 1910 | 40*812! Private  |  | Hutchinson, Samuel  |  | Hutchinson, Mrs. Lixtie . .. | 380 Harbord St., Toronto, Ont  | Ireland.... | Toronto... | Aug. 19, | 1915. |
+| 13 | 638 | 1903 | 3845 | 1943 | 404813 j Private  |  | Huvek. Garrett  |  | King, .Arthur  | R.R. No. 1, Thorold, Ont  | U.S.A  | Toronto... | Aug. 20, | 1915. |
+| 13 | 639 | 1933 | 3847 | 1970 | 404814 ■ Private  |  | Hyde, James  | NU. | Hyde. Mrs. Elizabeth T. .. | 142 Cawthra Ave., Toronto, Ont  | England... | Toronto... | Aug. 19, | 1915. |
+| 13 | 638 | 1965 | 3630 | 1999 | 404303 Private  |  | Ingram, Alexander Rough. . . | NU. | Ingram, W  | Inverurie, Aberdeen, Scot  | Scotland.. | N iagara-on- |
+| 13 | 3484 | 1991 | 3847 | 2017 |  |  |  |  |  |  |  | t he-Lake | June 12, | 1915. |
+| 13 | 638 | 2020 | 3846 | 2055 | 405120'Private  |  | Irvine. Malcolm Clacher. | Nil  | Irvine, Mrs. M. | 86 Dumbiedykes Rd., Edinburgh, Scot. | Sootland. | Niagara... | June 9, | 1915. |
+| 13 | 639 | 2046 | 3846 | 2084 | 4043c-i: Private  |  | Irwin, Roy John  | Nil  | Irwin, Mrs. A.. | P.O. Box M4, Newmarket, Ont  | Canada.. | Toronto... | May 22, | 1915. |
+| 14 | 624 | 538 | 3382 | 577 | Jz |  |  |  | Name of Next ol Kin. |  | Country of |
+| 14 | 623 | 691 | 3826 | 721 | 404088 | Private. | Jackes, Norway Baldwin. | ND. | Jackes, Stuart G. | 485 Summerhili Ave., Toronto, Ont.-.. | Canada... | Toronto.. | May 17. 1915. |
+| 14 | 623 | 720 | 3552 | 750 | 404557 | Private., | Jackson, Edward  | Nil. | Jackson, Albert.. | 6 Druid St., Everton, Liverpool, Eng.. | England.. | Niagara |
+| 14 | 3464 | 750 | 3826 | 778 |  |  |  |  |  |  |  | Camp.. | June 9, | 1915. |
+| 14 | 622 | 777 | 3826 | 808 | 405303 | Private.... | Jackson, James  | Nil  | Jackson, Mrs. Elizabeth. .. | General P.O., Toronto, Ont   | Scotland.. | Niagara.. | Aug. 31. | 1915. |
+| 14 | 623 | 806 | 3827 | 837 | 404257 | Sergeant.... | Jackson, Robert Moore... | Nil  | Jackson, Mrs. Elizabeth.... | 1525 Queen St. W., Toronto, Ont  | Canada... | Toronto.. | April 8, | 1915. |
+| 14 | 623 | 835 | 3828 | 866 | 404815 | Private  | Jackson, Thomas  | NU  | Jackson, Mrs. Elizabeth.... | 5 Dunedin St., Toronto, Ont  | England.. | Toronto.. | Aug. 21, | 1915. |
+| 14 | 622 | 864 | 3827 | 894 | 40427S | Private  | Jacobs, John  | Nil  | Robertson, Jennie  | 112 Crawford St., Toronto, Ont  | Canada... | Toronto.. | April S. | 1915. |
+| 14 | 621 | 894 | 3827 | 924 | 404816 | Private  | Jagger, Hubert  | Can. Eng  | Jagger, Mrs. Hugo  | 139 Vitzroy Rd., Bradford, Yorks, Eng  | England.. | Niagara.. | Sept. 4 | 1915. |
+| 14 | 624 | 923 | 3828 | 953 | 139611 | Private  | James, Albert William  | 9th Horse... | Spooner, Mrs. Julia  | 10 Mare St., Hackney, London, Eng  | PIngland.. | Toronto.. | July 15, | 1915. |
+| 14 | 621 | 951 | 3828 | 981 | 405121 | Private  | Jardine, William Henry... | 12th Regt... | Jardine, Mrs. Dora Edith... | 10 Hogarth Ave., Toronto, Ont  | Canada... | Toronto.. | April 19, | 1915. |
+| 14 | 621 | 980 | 3828 | 1010 | 405068 | Private  | Jeffery, Edward James... | NU  | Jeffery, Mrs. Lucy  | 15 MUan St., Toronto, Ont  | England.. | Toronto.. | May 10, | 1915. |
+| 14 | 620 | 1009 | 3829 | 1039 | 405122 | Private  | Jeffrey, Robert    | Territorials.. | Jeffrey, Mrs. Mary R  | 24 Graham St., Tollcross, Glasgow, Soot  | Scotland.. | Niagara.. | June 0, | 1915. |
+| 14 | 622 | 1038 | 3828 | 1068 | 404559 | Private  | Jenkins, Robert  | 109th Regt.. | Jenkins, Mrs. Elizabeth  | 18 Tatis Ave., Belfast, Ire  | Ireland... | Toronto.. | May 18, | 1915. |
+| 14 | 622 | 1067 | 3829 | 1096 | 404817 | Private  | Jephson, Thomas  | NU  | Jephson, Mrs. Clara  | 205 Dovercourt Rd., Toronto, Ont  | England.. | Toronto.. | Aug. 18, | 1915. |
+| 14 | 623 | 1095 | 3829 | 1125 | 404365 | Private  | Jerrom, Alfred  | NU....'  | Jerrom, Mrs. M  | 45 St. Clair Gardens, Toronto, Ont  | England.. | Toronto.. | April 19, | 19)5. |
+| 14 | 620 | 1124 | 3829 | 1154 | 404818 | Private  | Joel, Ernest  | NU  | Joel, Miss Nellie  | Manor Farm. Horfield. Eng  | England.. | Toronto.. | Aug. 16, | 1915. |
+| 14 | 620 | 1153 | 3830 | 1183 | 404819 | Private  | Johnson, Bert  | NU  | Johnson, Edward  | 26 Grove Park Walk, Harrogate, Eng  | England.. | Toronto.. | Aug. 21, | 1915. |
+| 14 | 620 | 1182 | 3829 | 1212 | 404560 | Private  | Johnson, John  | Imp. Forces. | Johnson, John  | Embleton, Lesbury, Northumberland, Eng. | England.. | Toronto.. | May 13, | 1915. |
+| 14 | 619 | 1211 | 3830 | 1240 | 404366 | Private  | Johnson, James Dunlop... | NU  | Speakman, LUian  | 11 Alberta Ave., HamUton, Ont  | Canada... | Toronto.. | April 12, | 1915. |
+| 14 | 619 | 1240 | 3831 | 1269 | 404521 | Private  | Johnston, John Stevenson.. | Nil  | Johnston. James  | 46 Pape Ave., Toronto, Ont  | Canada... | Toronto.. | Aug. 27, | 1915. |
+| 14 | 619 | 1268 | 3831 | 1297 | 405262 | Private  | Johnston, Robert  | NU  | •Skelly, Mrs. Jennie  | 178 Strachan Ave., Toronto, Ont  | Ireland... | Toronto.. | Aug. 21, | 1915. |
+| 14 | 619 | 1294 | 3832 | 1326 | 404522 | Private  | Johnston, William Robert. | Nil  | Johnston, Mrs. Elizabeth... | 860 Bathurst St., Toronto, Ont  | Canada... | Toronto.. | Aug. 17, | 1915. |
+| 14 | 619 | 1326 | 3832 | 1357 | 404820 | Private  | Johnstone, David   | Imp. Forces. | Johnstone, Mrs. Jessie  | 1 IS Greenlaw Ave., Toronto, Ont  | Scotland., | Toronto.. | Aug. 21, | 1915. |
+| 14 | 618 | 1355 | 3834 | 1386 | 404037 | Private  | Jones, Alfred William  | Nil. | Jones, Mrs. Lucy  | 142 Tyrrel Ave., Toronto, Ont  | England.. | Niagara. | July 6, | 1915. |
+| 14 | 618 | 1384 | 3833 | 1415 | 404367 | Private  | Jones, Ernest  | Imp. Forces. | Jones, Mrs. A  | 208 George St., Toronto, Ont  | England.. | Toronto.. | April 9, | 1915. |
+| 14 | 618 | 1412 | 3833 | 1443 | 404013 | Private  | Jones, George  | NU  | Jones, Mrs. M  | 305 Salmon Ave., Toronto, Ont  | England.. | Toronto.. | April 12, | 1915. |
+| 14 | 618 | 1442 | 3834 | 1471 | 404368 | Private  | Jones, Harry Ruttan  | NU  | Jones, Mrs. Sarah Norris. | 272 Avenue Rd., Toronto, Ont  | Canada... | Toronto.. | May 18, | 1915. |
+| 14 | 617 | 1470 | 3834 | 1499 | 405296 | Private  | Jones, Thomas  | NU  | Jones, James  | DrummiUer, Co. Down. Ire  | Ireland... | Niagara.. | July 7, | 1915. |
+| 14 | 618 | 1499 | 3835 | 1531 | 404468 | L.-Sergeant. | Judges, Walter Edward | 10th Regt... | Judges, Mrs. Louisa  | 4 Ivy Ave., Toronto, Ont  | England.. | Toronto.. | April 12, | 1915. |
+| 14 | 620 | 1528 | 3836 | 1558 | 135504 | Private  | Kahler, Albert Edward... | NU  | Kahler, Mrs. Jane  | 39 Dingwall Ave., Toronto, Ont  | England.. | Toronto.. | July 26, | 1915. |
+| 14 | 618 | 1557 | 3836 | 1588 | 405123 | Private  | Kahler, Walter Henry O... | Territorials.. | Kahler, Mrs. Jane  | 39 Dingwall Ave., Toronto, Ont  | England.. | Niagara.. | June 9, | 1915. |
+| 14 | 618 | 1585 | 3836 | 1618 | 404014 | Private - | Keeler. Charles Percy   | Imp. Forces. | Keeler, Amy Mabel  | 316 Harbord St., Toronto, Ont  | England.. | Toronto.. | April 10, | 1915. |
+| 14 | 617 | 1614 | 3837 | 1645 | 404089 | Private  | Kell. Henry William  | Territorials.. | Kell, Mrs. Cecilia  | 10 Denmark Rd., Twickenham, M’sez, Eng. | England.. | Niagara.. | June 5. | 1915. |
+| 14 | 618 | 1643 | 3837 | 1674 | 404523 | Private  | Kelly, William  | NU  | Kelly, Mrs. Mary : | Slatebogie, Co. Derry. Ire  | Ireland... | T oronto.. | Aug. 17, | 1915. |
+| 14 | 617 | 1672 | 3838 | 1705 | 405325 | Private  | Kemp, George Victor  | 2nd Regt  | Kemp, Mrs. Elizabeth  | 56 West Lodge Ave., Toronto, Ont  | Canada... | Niagara.. | Sept. 14. | 1915. |
+| 14 | 618 | 1700 | 3838 | 1732 | 405124 | Private  | Kemp, James Francis  | Territorials.. | Kemp, James Francis  | 1 Kidman St., Liverpool, Eng  | England.. | Niagara.. | June 16, | 1915. |
+| 14 | 618 | 1729 | 3838 | 1761 | 405001 | C. Q.-M. S. . | Kemp, Kenneth  | Nil  | Kemp, Mrs. Kenneth  | 404 Clinton St., Toronto. Ont  | Scotland. | Toronto. | April 5, | 1915. |
+| 14 | 621 | 1758 | 3838 | 1791 | 139127 | Private  | Kemp, William Henry  | C.A.S.C  | Kemp, Mrs. Elizabeth.... | 56 West Lodge Ave., Toronto, Ont  | Canada... | Toronto., | July 28, | 1915. |
+| 14 | 618 | 1789 | 3560 | 1819 | 404501 | Private  | Kenchen, Clarence Lloyd. | NU  | Kenchen, Mrs. Matilda... | 586, 13th St.W., Owen Sound, Ont  | Canada... | Niagara |
+| 14 | 3471 | 1815 | 3839 | 1844 |  |  |  |  |  |  |  | Camp. | June | 30, 1915. |
+| 14 | 617 | 1845 | 3840 | 1877 | 404524 | Private  | Kendall, George   | NU  | Kendall, Mark  | Dearnhouse, Scissett, Yorks, Eng  | England   | Toronto. | Aug. | 14, 1915. |
+| 14 | 617 | 1874 | 3841 | 1906 | 404825 | Private  | Kennedy, Frederick William | NU  | Kennedy, Mrs. May J  | 1 Defries St., Toronto, Ont  | Canada  | Toronto. | Aug. | 19, 1915. |
+| 14 | 619 | 1903 | 3841 | 1936 | 405168 | Private   | Kennedy, William  | 12th Regt. | Kennedy, Mrs  | 1230 Lansdowne Ave., Toronto, Ont... | Scotland  | N iagara. | June | 11, 1915. |
+| 14 | 618 | 1931 | 3841 | 1964 | 404370 | Private   | Kennelly, A. Edgar  | Nil. | Kennelly, Mrs. Marian V  | 488 Euclid Ave., Toronto, Ont  | Canada  | Toronto. | April | 19, 1915. |
+| 14 | 618 | 1960 | 3842 | 1995 | 405125 | Private  | Kenneth, Charles | 4Sth Regt.. | Kenneth, Mrs. Ellen Muir... | 10 Fenwick Ave., Toronto, Ont  | Scotland  | Niagara. | June | 9, 1915. |
+| 14 | 618 | 1984 | 3841 | 2023 | 404279 | L.-Corporal. | Kertland, Sidney WUliam.. MM. | Nil  | Kertland, Mrs. E. M  | 39 Summerhili Gardens, Toronto, Ont. | England  | Toronto. | April | 8. 1915. |
+| 14 | 618 | 2016 | 3841 | 2050 | 405069 | Private   | Ketch, Albert Harold W .MfVT | Nil  | Dodd, Mrs. J. N  | 108 Durand St., Sarnia, Ont   | Canada  | Toronto. | May | 10, 1915. |
+| 14 | 618 | 2047 | 3842 | 2082 | 405126 | Private  | Ketcheson. Edgar Edward  | 109th Regt. | Ketcheson. WUliam Albert.. | Frankford, Ont  | Canada  | Niagara. | June | 5, 1915. |
+| 14 | 617 | 2076 | 3842 | 2109 | 405312 | Bandsman.., | Kiddell, WUliam  | Ni!  | Kiddell, Mrs. Mary  | 32 Lowell Ave., St. Catharines, Ont  | Wales  | Niagara. | Sept. | 3. 1915. |
+| 15 | 618 | 277 | 3807 | 309 | 404058 | L.-Corporal.. | King, Sydney  | Nil  | King, Mrs. Edith  | 40 Moscow Ave., Toronto, Ont  | England. | Toronto.... | April 16, 1915. |
+| 15 | 618 | 308 | 3808 | 338 | 404826 | L.-Corporal.. | King, William  | Imp. Forces. | King, Mrs. Ada Florence., | 23 Mechanics’ Ave., Toronto, Ont. | England. | Toronto.... | Aug. 19,1915. |
+| 15 | 619 | 335 | 3809 | 368 | 404038 | Private  | King, William  | Territorials.. | King, James  | 25 The Paddock, Bristol, Eng  | England. | Niagara.... | July 6, 1915. |
+| 15 | 618 | 366 | 3535 | 396 | 404562 | Private  | Kirk, Oscar Howe. | NU  | Kirk, Joseph H  | East River, St. Mary’s, N.S  | Canada.. | Niagara |
+| 15 | 618 | 423 | 3809 | 454 | 404563 | Private.. | Kirk, Robert Thompson.. | 109th Regt. | Kirk, Mrs. Eleanor.. | 19 Tennyson St., Belfast, Ire  | Ireland.. | Toronto... | May 18, 1915. |
+| 15 | 618 | 452 | 3810 | 483 | 404371 | Private.. | Koomas, Stephen  | Nil  | Koomas, Mrs. N. ... | Mokron, Greecc  | Greece. . | Toronto.... | April 9. 1915. |
+| 15 | 618 | 481 | 3810 | 514 | 405169 | Private . | Lamb, Ernest  | 48th Regt.. | Lamb, Mrs. Frank... | 48 Eglinton Ave. W., Toronto, Ont | Canada.. | Niagara.... | June 15, 1915. |
+| 15 | 618 | 512 | 3535 | 542 | 404565 | Private., | Lambert, Charles Henry. | NU  | Lambert, Mrs. Alice. | Room 173-196 John St., Toronto, Ont. | England. | Niagara |
+| 15 | 617 | 560 | 3536 | 601 | 404566 | Private., | L*mont, Robert David... | G.G.B.G. | Laraont, Mrs. Mary. | Lindsay, Ont  | Canada.. | Niagara |
+| 15 | 616 | 627 | 3809 | 659 | 405264 | Private.. | Lamont, Roderick  | Territorials.. | Laraont, Mrs. May  | 156 Niagara St., St. Catharine*, Ont. | Scotland. | Hamilton.., | April 17, 1915. |
+| 15 | 617 | 656 | 3811 | 687 | 405263 | Private.. | Lancaster, Leon  | Imp. Forces. | Lancaster, Emma   | Lorne Park P.O., Ont  | England.. | Toronto... | Aug. 19, 1915. |
+| 15 | 615 | 686 | 2365 | 716 | 40482S | Private.. | Langley, Frederick George. | NU  | Langley, Mrs. Elisabeth |
+| 15 | 2079 | 714 | 3812 | 746 |  |  |  |  | Cooper   | 37 Ravensdean Ave., Toronto, Ont. | England.. | Toronto... | Aug. 17, 1915. |
+| 15 | 615 | 743 | 3588 | 775 | 404372 | Private.. | Lanning, Albert Edward.... | 2nd Regt.. | Lanning, Mrs. Margaret.. | 8 Apple Grove Ave., Toronto, Ont. | England.. | Niagara-on- |
+| 15 | 614 | 800 | 3814 | 832 | 405127 | Private.. | Larkin, Francis William. | NU  | Larkin, Mrs. J.   | 1 Cromwell Rd., Camberley, Surrey, Eng. | Ireland.. | Niagara... | June 9, 1915. |
+| 15 | 614 | 830 | 3538 | 862 | 40456' | Private.. | Larkin, James  | 10th Regt. | Larkin, Mrs. Alice Annie.. | 102 Albany Ave., Toronto, Ont   | England., | Niagara |
+| 15 | 614 | 888 | 3538 | 919 | 404568 | Private.. | Laahm&r, Jonas.. | Nil  | Lash mar, Thomas., | 452 Brock Ave., Toronto, Ont. | England. | Niagara |
+| 15 | 613 | 946 | 3539 | 979 | 40456? | Private.. | Latta, James. | ^th Horse. | Spence, Mrs. | 6 Delaney Crescent, Toronto, Ont. | Scot land. | Niagara |
+| 15 | 3453 | 974 | 3815 | 1002 |  |  |  |  |  |  |  | Camp.... | June 9, | 1915. |
+| 15 | 611 | 1003 | 3815 | 1034 | 405070 | L.-Corporal.. | Laurie, William  | Nil  | Laurie, Mrs. Jessie  | Dumfries, Scot  | Scotland  | Toronto.... | April 5, | 1915. |
+| 15 | 611 | 1029 | 3814 | 1065 | 404467 | Sergeant  | Lavender, Herbert Charles. MM1 | Imp. Forces. | Lavender, Mrs. J  | 104 Sussex Ave., Toronto, Ont   | England  | Toronto.... | April 12, | 1915. |
+| 15 | 612 | 1061 | 3815 | 1093 | 404829 | Private  | Laviolette, Thomas Hugh   | NU  | Laviolette, Mrs. Margaret... | Sutton, Ont  | Canaca  | Toronto.... | Aug. 17, | 1915. |
+| 15 | 610 | 1089 | 3815 | 1121 | 404373 | Private  | Lawrence, John William  | NU  | LawTence, Mrs. Nellie  | 622 Weston Rd., Toronto, Ont  | England  | Toronto  | April 5, | 1915. |
+| 15 | 614 | 1118 | 3816 | 1152 | 138628 | Private  | Leary, Sidney Alick   | NU  | Leary, May  | 54 Waverley Place, Ixrndon, Eng  | England   | Toronto... | July 13, | 1915. |
+| 15 | 611 | 1147 | 3817 | 1180 | 404831 | Private  | Ledger, Albert  | 2nd Regt.... | Ledger. Mrs. Kathleen  | 6151 Dundas St., Toronto, Ont  | England  | Toronto... | Aug. 21, | 1915. |
+| 15 | 610 | 1176 | 3817 | 1208 | 404832 | Sergeant  | Lee, Henry   | Imp. Forces. | Chatfield, Mrs. Jane  | 27 Salisbury Rd., Bex hill-on-Rea, Sussex, Eng  | England  | T oronto.... | Aug. 23, | 1915. |
+| 15 | 610 | 1205 | 3817 | 1238 | 404833 | Private  | Legier, Harry    | NU. | Legier, George  | 207 Fairview Ave., Toronto, Ont  | Canada  | Toronto  | Aug. 19, | 1915. |
+| 15 | 610 | 1234 | 3818 | 1267 | 404570 | Private  | Lennon, Thomas  | Royal Navy. | Lennon. Dalia..  | Thomas St., Dublin, Ire  | England  | Toronto... | May. 13, | 1915. |
+| 15 | 610 | 1262 | 3818 | 1296 | 405221 | Sergeant  | Lingle, Charles William  | U.S. Army.., | Lingle, Mrs. Lilian  | 56 Cecil St., Toronto, Ont...  | U.S.A  | Toronto  | April 12, | 1915. |
+| 15 | 610 | 1292 | 3543 | 1323 | 404571 | Private  | Linklater, Thomas  | Territorials.., | Cameron, Mrs. Thomas  | Hazel Bank, Mance Rd., Wish aw, Lanark, Scot. | Ireland  | Niagara |
+| 15 | 610 | 1349 | 3820 | 1382 | 404375 | Private... | Litteljohn, Aubrey Melville.., | 2nd Regt. | Litteljohn, Mrs. Alice  | 683 Ossington Ave., Toronto. Ont  | Canada.. | Toronto... | Mav 12, 1915. |
+| 15 | 611 | 1378 | 3820 | 1411 | 404460 | Sergeant.. | Little, Andrew Armstrong  | NU. | Little, Mrs. Ellen  | Rear of 35 Bismarck Ave., Toronto, Ont  | England. | Toronto... | AprU 12, 1015. |
+| 15 | 611 | 1407 | 3820 | 1440 | 405170 | Private... | Lloyd, Frederick T. William. | 109th Regt. | Lloyd, Mrs. Beatrice Maude | 6 St. Clair Gardens, Toronto, Ont  | England. | Niagara... | June 5, 1915. |
+| 15 | 611 | 1435 | 3821 | 1468 | 404376 | Private... | Loader, Stanley James  | NU. | Loader. Mrs. Flora  | 12 Hillingdon Ave., Toronto, Ont  | England. | Toronto... | April 12, 1915. |
+| 15 | 611 | 1465 | 3590 | 1498 | 404377 | Private... | Lobb, James Melville  | 2nd Regt. | Lobb, Mrs. James   | c/o W. L. Taite, Northvale, N.J., U.S.A  | Canada.. | Niagara-on |
+| 15 | 612 | 1523 | 3545 | 1556 | 404572 | Private. | Lockwood, Donald James. | NU  | Lockwood, Mrs. Lydia Jane | Mill Village, N.S  | Canada.. | Niagara |
+| 15 | 611 | 1581 | 3589 | 1615 | 40437S | Private. | Long, Harry  | 53rd Regt. | Long, Mrs. Mary A....... | 3 Minto St., Sherbrooke, P.Q. | Canada.. | Niagara-on |
+| 15 | 3458 | 1609 | 3820 | 1635 |  |  |  |  |  |  |  | the-Lake | June 12, | 1915. |
+| 15 | 610 | 1638 | 3821 | 1672 | 404001 | B. S.-M  | Longstreet, Selby Brittan. | R.C.R... | Longstreet,Mrs. Alice Maude | 202 Merton St., Toronto, Ont  | Canada  | Toronto... | April 19, | 1915. |
+| 15 | 610 | 1667 | 3822 | 1701 | 404379 | Private   | Lough, Robert  | 2nd Regt. | Lough, Thomas J  | 49 Havelock St.. Toronto, Ont  | Ireland  | Toronto... | May 13, | 1915. |
+| 15 | 611 | 1696 | 3821 | 1729 | 4043S0 | Private  | Lovatt, Reginald  | NU  | Lovatt, Mrs. Pearl  | 409 Parliament St., Toronto, Ont  | Canada  | Toronto... | April 19. | 1915. |
+| 15 | 610 | 1725 | 3822 | 1758 | 404G53 | Bugler  | Love, Walter George  | NU  | Love, Mrs. Jessie V  | 449 Lansdowne Ave., Toronto, Ont  | Canada  | Toronto... | April 12, | 1915. |
+| 15 | 610 | 1755 | 3822 | 1788 | 404835 | Private  | Love, William Charles  | 12th Regt. | Love, Mrs. Sarah  | 83 Ilford Rd., Toronto, Ont  | Ireland  | Toronto... | Aug. 18, | 1U15. |
+| 15 | 610 | 1783 | 3822 | 1816 | 404574 | L.-Corporal.. | Low, Thomas Dick  | NU  | Low, Mrs. Elizabeth  | Momington. Dunedin, N.Z  | New Zealand.. | N iagara... | June 5, | 1915. |
+| 15 | 610 | 1811 | 3822 | 1845 | 404573 | Corporal | Lowe, Arnold Lewis  | NU. | Lowe, Mrs. Alice Caroline | 24 Chaucer Rd., Walthamstow, London, Eng. | England  | Toronto... | April 12, | 1915. |
+| 15 | 610 | 1841 | 3823 | 1875 | 404836 | Private  | Lucas, Arthur William  | 12th Regt. | Lucas, John James  | Picton P.O., Ont  | Canada  | Toronto... | Aug. 23, | 1915. |
+| 15 | 609 | 1869 | 3822 | 1903 | 404381 | Private  | Luck, Thomas Allred  | NU  | Luck, Mrs. T. A  | Rear of 259 Niagara St., Toronto, Ont  | England  | Toronto... | April 12, | 11*15. |
+| 15 | 610 | 1898 | 3822 | 1932 | 404472 | Sergeant  | Luxton, William John  | Nil  | Luxton, J. D  | 19 Brook Rd., Ely, Cardiff, S. Wales  | England  | Toronto... | April 12, | 1915. |
+| 15 | 609 | 1927 | 3822 | 1962 | 404059 | Private.  | Lyford, Alfred  | 2nd Regt. | Lyford, Mrs. L  | 217 Sumach St., Toronto, Ont  | England  | Toronto... | April 19, | 1915. |
+| 15 | 609 | 1957 | 3823 | 1991 | 404382IPrivate.. |  | Lyons, Michael. | Nil  | Lyons, Margaret  | 190 Queen St. W., Toronto, Ont  | Canada  | Toronto... | May 12, | 1915. |
+| 15 | 608 | 1986 | 3822 | 2021 | 405135!Private (Macaulay, Alexander |  |  | NU  | Macaulay, William  | Castlerock, Londonderry, Ire  | Ireland  | Niagara... | Jan. 24, | 1915. |
+| 16 | 630 | 572 | 3381 | 610 | iz |  |  |  | Name of Next of Kin. |  | Country of |
+| 16 | 630 | 724 | 3821 | 751 | 405079 | Private  |  | NU  |  |  |  |  | May | 12. 1915. |
+| 16 | 629 | 753 | 3822 | 784 |  |  |  |  |  |  |  |  | Aug. | 404S45 | Nil  | 260 Logan Ave., Toronto. Ont  | 16, 1915. |
+| 16 | 629 | 782 | 3823 | 809 |  |  |  |  |  |  |  |  | April | 5, 1915. | 405075 | Nil  |
+| 16 | 629 | 810 | 3823 | 842 |  |  |  |  |  |  |  |  | Jill V | 405204 | Prhate  | Nil  | McCann, PhUip  | 2. 1915. |
+| 16 | 629 | 839 | 3822 | 870 |  |  |  |  | McColm, HUda Florence— | 404 060 |  |  | April 26, 1915. |
+| 16 | 629 | 868 | 3822 | 897 |  |  |  |  |  |  |  |  | ADril 12. 1915. | 404580 | Nil  | Toronto.... |
+| 16 | 629 | 893 | 3823 | 929 | 404399 |  | McConney, Edmond Mayers.MM |  |  | St. Stephens, Bi'.rbadoes, W. Indies  | B.W.I  | N iagara.... | June | 12. 1915. |
+| 16 | 629 | 927 | 3822 | 956 | 404648 | C. Q.-M. S  |  | Nil  |  |  |  |  | ADril 12. 1915. |
+| 16 | 631 | 955 | 3822 | 983 | 135534 |  |  | Nil  |  |  |  | Toronto.... | July | 26. 1915. |
+| 16 | 628 | 985 | 3822 | 1012 | 405202 |  |  | Nil  |  |  |  |  | June | 24. 1915. |
+| 16 | 628 | 1013 | 3822 | 1047 | 404016 |  |  | Nil  | McCurdy, Mrs. L. J  |  |  |  | ADril 10. 1915. |
+| 16 | 628 | 1043 | 3822 | 1071 | 405136 |  | McDonagh, Francis Xavier  | Nil  |  |  |  | Niagara  | June | 16, 1915. |
+| 16 | 627 | 1070 | 3822 | 1103 | 405128 |  |  |  | Macdonald, Mrs. Agnes  |  |  | Toronto.... | April | 5. 1915. |
+| 16 | 628 | 1100 | 3822 | 1128 | 405078 |  |  | Nil  |  |  |  | Toronto.... | April | 5, 1915. |
+| 16 | 628 | 1158 | 3822 | 1190 | 404837 |  |  | Nil  | MacDougall, Mrs. Elizabeth |  |  | N ia«ara.... | Sept. | 4, 1915. |
+| 16 | 627 | 1188 | 3822 | 1219 |  |  |  |  | McDougall, Mrs. Christina.. | 404846 | Private  | McDougall, Joseph  | Nil  | 34 Hillsboro Ave., Toronto, Ont  | U.S.A  | Toronto... | Aug. | 16, 1915. |
+| 16 | 627 | 1217 | 3822 | 1246 |  |  |  |  | McDowell, Mr?. M  | 405020 |  |  | 5. 1915. |
+| 16 | 627 | 1245 | 3822 | 1277 |  |  |  |  | McGill Mrs. Hugh .. | 4(4400 |  | Toronto.... | April 19. 1915. |
+| 16 | 627 | 1275 | 3823 | 1305 | 404847 |  |  | NU  | McGorman, Mrs. Elizabeth. |  |  | Toronto.... | Auff. | 23. 1915. |
+| 16 | 627 | 1303 | 3823 | 1335 | 405080 | Private  | McGovern, Archibald McQueen... |  |  | 11a Gallowgatc St., Rothesay, Scot  |  | Toronto.... | April 5. 1915. |
+| 16 | 626 | 1331 | 3824 | 1364 | 404581 |  |  |  |  |  |  | Toronto. ... | April 12, 1915. | Pnvate  | McGrath, Thomas  | McGrath, Mrs. E  | 176 Berkeley St., Toronto Ont    |
+| 16 | 3437 | 1390 | 3824 | 1417 |  |  |  |  |  |  |  | Niagara ... | Oct. | 4. 1915. |
+| 16 | 625 | 1416 | 3825 | 1449 | 404582 |  |  | NU  |  |  |  | Niagara.... | June | 11.'1915. |
+| 16 | 625 | 1447 | 3825 | 1478 | 404268 |  |  | NU. .. |  |  |  | Toronto.... | April | 9, 1915. |
+| 16 | 625 | 1476 | 3826 | 1507 | 405081 |  |  | NU. |  |  |  | Toronto.... | April | 5, 1915. |
+| 16 | 625 | 1506 | 3825 | 1532 | 404402 |  |  |  |  |  |  | Toronto.... | April 19, 1915. |
+| 16 | 626 | 1534 | 3826 | 1567 | 404112 | Private  | McIntyre, George  | NU  | McIntyre. Mrs. Marian  | 774 Pape Ave., Toronto, Ont  | England  | Toronto.... | April 10, 1915. |
+| 16 | 624 | 1567 | 3176 | 1597 | 4vOvOu | Private  |  | Can. Mil  | Macintyre, John  | 115b Harrison St., Toronto, Ont  |
+| 16 | 624 | 1592 | 3826 | 1617 | 405171 |  |  |  |  |  |  | Toronto | Mav | 31, 1915. |
+| 16 | 624 | 1621 | 3828 | 1646 | 4044 01 |  |  |  |  |  |  | Toronto.... | April 12, 1915. |
+| 16 | 624 | 1650 | 3828 | 1683 | 404848 | Private .  | McKay, John  | NU  | McKay, Alexander  | 78 Princess St., Govan. Glasgow, Soot  | Scotland  | N iagara.... | Sept. | 1, 1915. |
+| 16 | 624 | 1679 | 3828 | 1712 | 404849 | Private !  | McKay, William   | NU  | McKay, Mrs. Lizzie Wilson. | 259 Dunraven Drive, SUverthorne, Toronto, Ont... | Scotland  | Toronto | Aug. | 20, 1915. |
+| 16 | 624 | 1707 | 3829 | 1740 | 404403 | Private  | McKegney, William Ernest  |  | McKegnev, Mrs. M  | 262 Woodstock Rd., Belfast, Ire  | U.S.A  | N iagara ... | June | 30, 1915. |
+| 16 | 625 | 1736 | 3830 | 1769 | 405172 |  |  |  |  |  | Canada  | Niagara.... | June | 11, 1915. | Private  | MacKenzie, John  | NU  | MacKenxie, Alexander  |
+| 16 | 625 | 1765 | 3830 | 1796 | 405266 |  |  |  |  |  |  | N iagara  | June | 24. 1915. | NU |
+| 16 | 625 | 1794 | 3829 | 1825 | 4G50&2 |  |  | NU |  |  |  | Toronto.... | Mav | 10, 1915. |
+| 16 | 625 | 1822 | 3830 | 1856 | 405083 |  | McKinstry, Lindsay  | Nil  |  |  |  | Toronto | April | 5, 1915. |
+| 16 | 624 | 1880 | 3830 | 1912 | 404Sol |  |  |  |  |  |  |  | Aug. | NU. | Scotland  | Toronto | 16, 1915. |
+| 16 | 3439 | 1910 | 3829 | 1936 |  |  |  |  |  |  |  | Niagara | Aug. | 4, 1915. |
+| 16 | 625 | 1939 | 3829 | 1973 | 404S52 |  | McMenemy, James  | NU | McMenemy, Samuel  |  | Ireland  | Toronto  | Aug. | 14. 1915. |
+| 16 | 3439 | 1967 | 3828 | 1994 |  |  |  |  |  |  |  | N iagara.... | June | 11, 1915. |
+| 16 | 625 | 2001 | 2016 | 2029 | 404404 |  | McNally, Cecil Willard  | NU  |
+| 16 | 3436 | 2025 | 3829 | 2051 |  |  |  |  |  |  |  | Toronto.... | Aug. | 25, 1915. |
+| 16 | 625 | 2031 | 2436 | 2059 | 404854 |  |  | NU   | Me Naught on, Mrs. Elizabeth |
+| 16 | 627 | 2060 | 2435 | 2088 | 140147 |  |  |  | McNeiUy.Mrs.AnnieMcLeod | NU  |
+| 16 | 3436 | 2082 | 3828 | 2107 |  |  |  |  |  |  |  | Toronto  | July | 28. 1915. |
+| 16 | 3439 | 2111 | 3829 | 2137 |  |  |  |  |  |  |  | Niagara  | June | 12, 1915. |
+| 16 | 625 | 2118 | 1481 | 2147 | 404405 | Private  | McPhail, Frank Fraser  |
+| 17 | 623 | 324 | 3809 | 364 | 404853 | Private. | McQueen, Sidney John Collis. | 2nd Regt. | McQueen, Mrs. Annie  | 90 Heathfield Rd., Croydon, Surrey, En*. | England  | Toronto... | Aug. 18, 1915. |
+| 17 | 623 | 353 | 3812 | 394 | 404406 | Private. | McRae, George William  | 2nd Regt. | McRae, Mrs. Elisabeth.... | Bay St., Gravenhurst, Ont  | Canada  | Niagara... | July 5, 1915. |
+| 17 | 623 | 390 | 2330 | 421 | 405084 | Private. | McRobbie, Charles  | Nil  | McRobhie, Catharine |
+| 17 | 2080 | 411 | 3808 | 447 |  |  |  |  | McPherson  | Inverurie, Aberdeen, Soot  | Scotland  | Toronto.. | April 5, | 1915. |
+| 17 | 623 | 440 | 3812 | 487 | 404469 | Corporal.... | MeTighe, Patrick... .  | Nil  | MeTighe, Mrs. Julia  | 22 Wood Quay, Galway, Ire  | Ireland  | Toronto.. | April 12, | 1915. |
+| 17 | 622 | 469 | 3809 | 509 | 404060 | L.-Corporal. | Me Wan, Hugh Currie  | NU  | McVean, Mrs. Mary  | F 2 Athelma Apts., Toronto, Ont  | Canada  | Toronto.. | AprU 19, | 1915. |
+| 17 | 623 | 499 | 3811 | 536 | 405130 | Private  | Macrae, William  | NU......  | Macrae, Mrs. B  | 22 Balfour St., Dundee, Scot  | Scotland  | Niagara.. | June 9, | 1915. |
+| 17 | 624 | 527 | 3811 | 572 | 405131 | Private  | Madeley, Ashton Bernard k. , | Territorials  | Madeley, Mrs. Amy  | 320 Morley Ave., Toronto, Ont  | England  | Niagara.. | July 6, | 1915. |
+| 17 | 623 | 556 | 3813 | 595 | 404643 | Bugler  | Mallion, William Caleb SeldonD4t£ | NU  | Mallion, Mrs. A  | Oak Cott., Woodbine Ave., Toronto, Ont  | England  | Toronto.. | April 12, | 1915. |
+| 17 | 624 | 585 | 3812 | 626 | 404839 | Private  | Manning, Arthur William  | NU  | Manning, Arthur  | 135 Dynevor Rd., Fairbank, Ont  | England  | Toronto.. | Aug. 21, | 1915. |
+| 17 | 624 | 614 | 3815 | 656 | 404383 | Private  | Marchington, Frederick  | 2nd Regt  | Marchington, Mrs.Sarah Ann | "84 Pape Ave., Toronto, Ont  | England... | Niagara.. | June 12, | 1915. |
+| 17 | 624 | 643 | 3814 | 684 | 404384 | Private  | Marchington, Harry  | NU  | Marchington,Mrs. Sarah Ann | 784 Pape Ave., Toronto, Ont  | England... | Niagara.. | June 12, | 1915. |
+| 17 | 622 | 672 | 3816 | 719 | 404385 | Private  | Marcoux, Joaeph  | 2nd Regt  | Marcoux, Mrs. M....._  | 97 Parliament St., Toronto, Ont  | Canada.... | Niagara.. | June 12, | 1915. |
+| 17 | 622 | 701 | 3816 | 741 | 405200 | Private  | Marrison, William John  | NU  | Marriso.i, Mrs. Christina.... | 7 Agne* Place, Toronto, Ont    | England... | Niagara.. | July 6, | 1915. |
+| 17 | 622 | 730 | 3817 | 771 | 404007 | Shoe.-Sergt. | Marsh, Henry | Imp. Foroes  | Marsh, Mrs. H  | 201 Cedarvale Ave., Toronto, Ont  | England... | Toronto.. | April 5, | 1915. |
+| 17 | 621 | 758 | 3817 | 800 | 405071 | Private   | Marsh, John  | NU  | Marsh, Mrs. Helen  | 201 Cedarvale Ave., Toronto, Ont  | England... | Toronto.. | AprU 5, | 1915. |
+| 17 | 621 | 787 | 3817 | 831 | 404592 | Private  | Marshall, Herbert   | NU  | Marshall, M. Elizabeth.... | 100 Morrison Ave., Earlscourt, Toronto, Ont  | England... | Toronto.. | April 12, | 1915. |
+| 17 | 620 | 817 | 3817 | 857 | 404385 | Private  | Marshall, Karl Haskett MM | NU   | Marshall, Joseph  | 118 Runnymede Rd., Toronto, Ont  | Canada.... | Toronto.. | May 20, | 1915. |
+| 17 | 621 | 845 | 3818 | 886 | 405073 | Private  | Martin, Henry  | Territorials  | Martin, Mrs. F  | 36 Mary Arches St., Eieter. Devon, Eng  | England... | Toronto.. | April 5, | 1915. |
+| 17 | 620 | 875 | 3818 | 916 | 404840 | Private  | Martin. James Bright  | NU  | Martin, Mrs. Florence  | 12 Virgin Place, Toronto, Ont  | Canada  | Toronto.. | Aug. 20, | 1915. |
+| 17 | 620 | 903 | 3819 | 945 | 405072 | Private  | Martin. Wilfred Allan JMW | NU  | Martin, G. E  | 83 Charles St., Toronto, Ont    | Canada.... | Toronto.. | May 12, | 1915. |
+| 17 | 619 | 932 | 3820 | 973 | 404386 | Private  | Mask ell, Joseph   | NU  | Maskell, Matthew   | 5 Broad St., Bromsgrove, Worca, Eng  | England... | Toronto.. | April 12, | 1915. |
+| 17 | 619 | 962 | 3820 | 1003 | 404576 | Private  | Mason, Albert Edward QCM MM. | NU  | Mason, Mrs. Sarah Annie... | 30 Rochdale Ave., Toronto, Ont  | England... | Niagara.. | June 9, | 1915. |
+| 17 | 617 | 991 | 3820 | 1034 | 40438' | Private  | Mason. James Richard  | Imp. Force*  | Mason, Mrs. Anna.       | 5 Lefevra Rd., London, E., Eng  | England... | Niagara.. | June 12, | 1915. |
+| 17 | 617 | 1020 | 3820 | 1061 | 4045781 Private.. |  | Masson, William  | NU  | Masson, Mrs. Alexander  | 2 Catterline, Stonehaven, Scot  | Scotland .. | Toronto.. | May 18. | 1915. |
+| 17 | 620 | 1049 | 3820 | 1091 | 140135|Private... |  | Mathews, Arthur  | NU  | Mathews, Mrs. Elizabeth... | 9 Mount Ellen Ave., Toronto, Ont  | Canada.... | Toronto.. | July 23, | 1915. |
+| 17 | 616 | 1078 | 3821 | 1118 | 4042G4]0orporal. |  | Mathews, Arthur Thomas  | NU  | Mathews, Mrs. Lillian Ellen | 238 Bathurst St., Toronto, Ont  | England... | Toronto.. | April 12, | 1915. |
+| 17 | 615 | 1107 | 3821 | 1146 | 405074 Private. |  | Matthew-s, Leonard  |  | Matthews. Rose  | Beatrice P.O., Muskoka, Ont   | Canada  | Toronto.. | April 5, | 1915. |
+| 17 | 616 | 1136 | 3821 | 1178 | 404389 | L.-Corporal  | Mattock. Robert  | 2nd Regt  | Mattock. Robert Southwood | Legar House, HUlsdown, Meath, Ire  | England... | Niagara.. | June 14, | 1915. |
+| 17 | 616 | 1166 | 3822 | 1205 | 404579 | Private  | Maw, Edward  | NU  | Maw, Mrs. F. E  | 523 Sherburn St., Winnipeg, Man  | Canada... . | Niagara. | June 11, | 1915. |
+| 17 | 615 | 1195 | 3822 | 1233 | 404843 | Private  | Maxwell, William  | NU  | Maxwell, Mrs. Annie  | 12 Bridgeman St., Toronto, Ont  | Scotland... | T oronto.. | Aug. 17, | 1915. |
+| 17 | 615 | 1224 | 3822 | 1262 | 404577 | Private  | May, James  | NU  | May, Mrs. Ada Alice  | 35 Blancford St., Toronto, Ont  | England.. . | Niagara. | June 30, | 1915. |
+| 17 | 616 | 1253 | 3824 | 1293 | 4 (*4842 | Private  | Maycock, John Herbert  | 12th Regt  | Maycock, John Herbert.... | 114 Cumberland St.. Toronto, Ont  | Canada.... | T oronto.. | Aug. 17, | 1915. |
+| 17 | 616 | 1282 | 3824 | 1322 | 404844 | Corporal  | May hew, Athol Douglas  | Imp. Forces  | Mayhew, Mrs. Dorothy... | 26 Glenviile Ave., Wychwood, Toronto. Ont  | England  | T oronto. | Aug. 17, | 1915. |
+| 17 | 616 | 1311 | 3825 | 1348 | 404855 | Private  | Meade, Charles  | NU  | Meade, Mrs. Louisa  | 575 St. CUrens Ave., Toronto, Ont  | England  | Toronto. | Aug. 23, | 1915. |
+| 17 | 617 | 1339 | 3825 | 1377 | 404108 | Private | Mee, James William  | NU  | Mee, Martha.   | 1477 Yonge St.. Toronto, Ont  | England  | Toronto. | May 7, | 1915. |
+| 17 | 617 | 1368 | 3824 | 1408 | 404391 'Private. |  | Mee, Robert James  | 2nd Regt  | Mee, Mrs. William  | Fordwich, Ont  | Canada  | N iagara. | Sept. 7, | 1915. |
+| 17 | 618 | 1405 | 2434 | 1435 | 404U87 Private. |  | Meeking, Stanley Durham  | Nil  | Meeting, Mrs. Mary Ida |
+| 17 | 2085 | 1426 | 3826 | 1461 |  |  |  |  | Durham  | 22 Roxton Rd., Toronto, Ont  | Canada  | N iagara.. | Sept. 30, | 1915. |
+| 17 | 618 | 1455 | 3827 | 1493 | 4G485Ci | Private  | Meighan, James  | NU  | Meighan, Mrs. Annie... | Main St., Market HU1, Armagh, Ire  | Ireland  | Toronto.. | Aug. 18, | 1915. |
+| 17 | 618 | 1484 | 3828 | 1522 | 405007 | Sergeant  | Mellor, Thomas  | NU  | Mellor, Joseph  | 30 Wennington Rd., Southport, Lancs, Eng  | England  | N iagara.. | June 5, | 1915. |
+| 17 | 618 | 1513 | 3828 | 1550 | 404 S57 | Private  | Metizies, Robert  | Territorials  | Menties, Mrs. Annie Grace.. | 23 Delaney Cres., Toronto, Ont  | Scot land  | Toronto.. | Aug. 4, | 1915. |
+| 17 | 618 | 1541 | 3828 | 1581 | 405268 | L.-Corporal  | Mercer, Joseph Alfred  | Imp. Forces  | Mercer, Mrs. E  | 73 Salem Ave., Toronto, Ont  | England  | Toronto.. | April 12. | 1915. |
+| 17 | 618 | 1570 | 3830 | 1608 | 404583 | Private  | Mesher, Robert William  | NU  | Mesher, Mrs. A  | 8 Bradmore Chbrs., Hammersmith, London, Eng | England  | Toronto.. | April 12. | 1915. |
+| 17 | 618 | 1599 | 3830 | 1646 | 404392 | Private  | Messer, Arthur Jophies nAkr | 2nd Regt  | Messer, Mrs  | 84 Briscor Bid*., Brirton, Eng  | England  | Niagara.. | June 12, | 1915. |
+| 17 | 617 | 1628 | 3830 | 1668 | 404383 | Private  | Menes, Arthur JVIM | Nil  | Brooks, Mrs. F  | G8 University Ave., Toronto, Ont  | England  | Toronto.. | April 8, | 19i5. |
+| 17 | 619 | 1656 | 3830 | 1697 | 404394 | Private  | Middleton, Ralph Eustace  | NU  | Middleton, Mrs. Margaret E. | IS Plassey Rd., Catford, S.E., London, Eng  | England  | Toronto.. | April 9, | 1915. |
+| 17 | 618 | 1686 | 3831 | 1726 | 404584 | Private  | Midglev, Emmanuel  |  | Midgley,Mrs.Annie Margaret | 17 Ferrier Ave., Toronto, Ont  | England  | Niagara.. | June 9, | 1915. |
+| 17 | 618 | 1714 | 3832 | 1753 | 405298' | Private  | Millar, Robert Fraser McIntosh... | Nil  | MUlar, Katherine  | Bridge-of-Dee, Aberdeen, Scot  | Scotland  | Toronto.. | April 5, | 1915. |
+| 17 | 619 | 1744 | 3831 | 1782 | 404858 | Private  | Miller, John  | NU  | Miller, Mrs. Bella Martha... | 194 Simcoe St., Toronto, Ont  | England  | N iagara.. | Sept. 4, | 1915. |
+| 17 | 620 | 1773 | 3834 | 1814 | 401395 | Private  | Miller, Silas   | NU  | Briggs, Mrs. Ellen  | 4 North St., Kingsley, Norfolk, Eng  | England  | Toronto.. | April 12, | 1915. |
+| 17 | 620 | 1802 | 3832 | 1843 | 405133 | Private  | Mills. Edward MW | 48th Regt  | Mills, Mrs. Ellen  | 28 Magdalen St., Eieter, Eng  | England... | Niagara. | June 9, | 1915. |
+| 17 | 620 | 1831 | 3833 | 1871 | 404859 | Private  | Mills, George  | Nil  | Mills, Mrs. Helen Amelia. | MUliken, Ont   | England... | Toronto. | Aug. 17, | 1915. |
+| 17 | 620 | 1860 | 3833 | 1898 | 404S60 | Private  | Mills, Harold Ernest  | NU  | MUls, Mrs. B. E  | 235 Euclid Ave., Toronto, Ont  | England... | Toronto. | Aug. 13, | 1915. |
+| 17 | 620 | 1888 | 3832 | 1928 | 404390 | Private  | Millsap, William Elvin  | NU  | Millsap, Alma  | 7 Ridout St., Toronto, Ont  | Canada.... | Toronto. | May 12, | 1915. |
+| 17 | 620 | 1917 | 3834 | 1956 | 404861 | Private  | Milne. William  | NU  | Milne, James  | 1 Firhill Place, Aberdeen, Scot..   | Scotland... | Toronto. | Aug. 17, | 1915. |
+| 17 | 620 | 1946 | 3834 | 1987 | 404585 | Private  | Mi'.ner. Harry   | NU  | Milner, WUliam  | 76 Dawes Rd., East Toronto, Ont  | England... | Toronto. | May 22, | 1915. |
+| 17 | 620 | 1975 | 3835 | 2015 | 404862 | Private  | Mitchell, Edward Arthur  | NU  | Brice, Gladys  | New Market, Ont  | England... | Toronto. | Aug. 17, | 1915. |
+| 17 | 620 | 2004 | 3834 | 2045 | 405205 | Private  | Mochrie, John  | 45th Regt  | Mochrie, James  | 19 The Cresoent, Acton, Ont  | Scotland... | Niagara. | June 24, | 1915. |
+| 17 | 622 | 2033 | 3835 | 2073 | 405076 | Private  | Moir, James  | NU  | Moir, Mrs. Mary  | Fetterangus, Mintlaw, Aberdeen, Scot  | Scotland... | Toronto. | April 5, | 1915. |
+| 18 | 820 | 528 | 3373 | 557 |  |  |  |  | Name ol Next of Kin. |  | Country of |
+| 18 | 633 | 672 | 3812 | 702 | 406270 | Private  | Monk, William John.. | Nil  | Monk, Mrs. Maria  | 3 Lower Brents, Faversham, Kent. Eng  | England.... | Toronto.. | Aug. 21. | 1915. |
+| 18 | 634 | 691 | 3813 | 731 | 405132 | Private  | Moon, James  | 9th Hors^. .. | Moon, Isabella  | Glenview, Uplawmoor, Renfrew, Soot  | Scotland  | iagara.. | June 9, | 1915. |
+| 18 | 633 | 730 | 3813 | 760 | 404458 | Private  | Mooney, Alfred  | Territorials.. | Mooney, Miss Blanche  | Clanfield, near Homdene. Hants, Eng  | England  | Toronto.. | Sept. 8, | 1915. |
+| 18 | 633 | 759 | 3813 | 788 | 40507: | Private  | Moore, Alfred  | NU  | Moore, W. J  | 100 Spruce St., Toronto, Ont  | Canada  | Toronto.. | April 5, | 1915. |
+| 18 | 633 | 788 | 3813 | 818 | 404586 | Private  | Moore, James Henry  | Imp. Forets. | Moore, Mrs. Lettie  | 294 Euclid Ave., Toronto, Ont  | England  | Toronto.. | April 12, | 1915. |
+| 18 | 633 | 816 | 3813 | 848 | 405265 | Private  | Moore, William Joseph  | NU   | Moore, Mr3.MarionInaGray. | 121 SummerhUl Ave., Toronto, Ont  | Canada  | Toronto.. | May 20, | 1915. |
+| 18 | 632 | 845 | 3814 | 876 | 404091 | Private  | Moorcroft, William Salisbury | Territorials.. | Moorcroft, Mrs. Katherine.. | 1170 Davenport Rd., Toronto, Ont  | England | Toronto.. | April 19, | 1915. |
+| 18 | 632 | 874 | 3814 | 905 | 404397 | Private  | Moorhouse, Philip Chester... | NU  | Moorhouse. Mrs. Nora  | 15 Castlefield Ave., Toronto, Ont  | England  | Toronto.. | April 19, | 1915. |
+| 18 | 631 | 903 | 3814 | 934 | 404863 | Private  | Morris, Albert  | NU  | Etherington, Winnifred A ... | 114 HamUton St., Toronto, Ont  | England | Toronto.. | Aug. 17, | 1915. |
+| 18 | 631 | 932 | 3814 | 962 | 404 5SS | Private  | Morris, Charles Stuart  | 48th Regt. .. | Morris, Alfred N  | 210 Wallace Ave., Toronto, Ont  | Canada  | Niagara.. | June 30, | 1915. |
+| 18 | 631 | 961 | 3815 | 992 | 405222 | Corporal  | Morris, David William  | Nil  | Morris, William Morgan. . . . | 13 Colum Rd., Cardiff, Wales  | Wales  | Toronto.. | April 5, | 1915. |
+| 18 | 630 | 990 | 3815 | 1021 | 404587 | Private  | Morris, William Walter  | NU  | Morris, Mrs. Sophia  | 743 Keele St., Toronto. Ont  | Canada  | Niagara.. | June 5, | 1915. |
+| 18 | 630 | 1018 | 3816 | 1049 | 404589 | Private  | Morton, Charles Henry...... | R.C.D  | Morton, Mrs. H  | 135 Euclid Ave., Toronto. Ont   | Canada  | Niagara.. | June 9. | 1915. |
+| 18 | 629 | 1047 | 3815 | 1079 | 404865 | Private  | Mowat, William  |  | Mowat, Mrs. Margaret  | Backless. Freswick by W'ick, Caithness, Soot  | Scotland  | Toronto.. | Aug. 16, | 1915. |
+| 18 | 629 | 1076 | 3815 | 1108 | 404590 | Private  | Mo wry, Edgar  | 57th Regt. .. | Stinson, Mrs. F  | 351 Reed St., Peterboro. Ont  | Canada  | N iagara.. | July 6, | 1915. |
+| 18 | 631 | 1104 | 3817 | 1137 | 140589 | Private  | Mulholland, Frederick Alexander.. | 44th Batt — | MulhoUand, Mrs. Agnes  | North Main St., Welland, Ont  | Canada | Niagara.. | Aug. 23, | 1915. |
+| 18 | 629 | 1133 | 3817 | 1166 | 404275 | Corporal  | Munro, John • | NU  | Munro, Mrs. E  | Trowbridge, Ont  | Scotland  | Toronto.. | April 19, | 1915. |
+| 18 | 628 | 1159 | 3817 | 1193 | 405134 | Private   | Munro, Robert Watson JTiW.. | NU  | Munro, John Kirk.    | Belle Vernon, Pa., U.S.A  | Scotland  | Niagara.. | June 24, | 1915. |
+| 18 | 628 | 1191 | 3817 | 1224 | 404398 | Private  | Murdock, Vernon Mansfield  | 2nd Regt | Murdock, Mrs. Carrie  | 177 Rushton Rd., Toronto, Ont  | Canada  | Toronto.. | April 12, | 1915. |
+| 18 | 628 | 1220 | 3818 | 1252 | 404591 | Private  | Murphy, Arthur Lewis  | 48th Regt... | Murphy, Irene  | 61 St. James Ave., Toronto, Ont  | Canada  | N iagara.. | June 15, | 1915. |
+| 18 | 627 | 1248 | 3818 | 1282 | 405309 | Private  | Murphy, John  | Imp. Forces. | Dei cy, Mrs. Morgan  | Athlone. Ire  | Ireland  | N iagara.. | June 30, | 1915. |
+| 18 | 626 | 1279 | 3819 | 1311 | 405269 | Private  | Murr, Charles William  | NU  | Murr, Mrs. Evelyn  | 258 North Lisgar St.. Toronto, Ont  | England | Toronto.. | Aug. 23. | 1915. |
+| 18 | 625 | 1308 | 3818 | 1340 | 405000 | C.S.M  | Neill, William  | 48th Regt.. . | Neil;. Mrs. Katherine  | 10 Whiteside Place, Toronto, Ont  | Scotland  | Toronto.. | April 15, | 1915. |
+| 18 | 624 | 1337 | 3819 | 1369 | 404S66 | Private  | Nelson, Robert Thomas  | NU  | Nelscn. WUliam  | Drumkill, Monaghan Co., Ire  | Ireland  | Toronto.. | Aug. 16, | 1915. |
+| 18 | 625 | 1366 | 3820 | 1398 | 404407 | Private  | Netherton, Edward Clarke  | O.T.C  | Nethtrton, Mrs. W. E  | Not stated  | Ireland  | N iagara.. | Aug. 12, | 1915. |
+| 18 | 624 | 1395 | 3820 | 1427 | 404 4 08 | Private  | Newton, Frederick  | Nil  | Newtcn, Mrs. Maria  | 58 Yorkville Ave., Toronto, Ont  | Canada  | Toronto.. | April 12, | 1915. |
+| 18 | 623 | 1424 | 3819 | 1456 | 405337 | Bar.dsman  | Nicholls, Andrew Thomas  | 12th Regt... | Nicholls. Martha  | 211 Symington Ave., Toronto, Ont  | England.... | N Lagan*.. | Oct. 7, | 1915. |
+| 18 | 622 | 1452 | 3821 | 1485 | 404061 | Private  | Nichols, Ernest  | 2nd Regt.... | NichoU. F. G  | 616 Gerrard St. E., Toronto, Ont  | England.... | Toronto.. | May 18, | 1915. |
+| 18 | 622 | 1481 | 3820 | 1514 | 404868 | Private  | Nightingale, George  | NU  | Nightingale. Mrs. Annie. .. . | 71 Lansdowne Ave., Toronto. Ont  | Canada  | Toronto.. | Aug. 19, | 1915. |
+| 18 | 622 | 1511 | 3821 | 1543 | 4050S6 | Private  | Nimnio, John  | 48th Regt... | Niinmo, Mrs. Elizabeth.... | 665 Bathurst St., Toronto, Ont  | Ireland  | Toronto.. | May 5, | 1915. |
+| 18 | 622 | 1540 | 3821 | 1571 | 404869 | Private  | Noble, Sidney Harold  | NU  | Noble, George   | 238 Sackville St., Toronto. Ont  | Canada | Toronto.. | Aug. 18, | 1915. |
+| 18 | 622 | 1568 | 3821 | 1601 | 405321 | Band Sergeant  | Norburn, Sidney Thomas  | NU  | Norburn. Mrs. I»uise  | York House.Raleigh Rd.,Hornsey,London,N.,Eng | England.... | Toronto.. | April 5, | 1915. |
+| 18 | 621 | 1597 | 3822 | 1629 | 404593 | Private  | Norrie, William *  | NU  | Norrie, Mrs. Christina  | 12G High St., New Pitsligo. Aberdeen, Scot  | Scotland  | N iagara.. | June 9, | 1915. |
+| 18 | 621 | 1627 | 3822 | 1659 | 404 4 09 | Private  | Norris, George Ernest Frederick.. | 2nd Regt.... | Norris, Mrs. H  | 10 Denison Ave., Toronto, Ont  | England.... | Niagara. . | June 12, | 1915. |
+| 18 | 620 | 1655 | 3822 | 1688 | 404870 | Sergeant  | Nunn, Frederick •s.v*-*-*- | Imp. Forces. | Nunn, Mrs. Sarah  | Wood Ditton, Newmarket, Eng   | England | Toronto. | Aug. 16, | 1915. |
+| 18 | 621 | 1679 | 3823 | 1717 | 404871 | Private  | Oakley, William Quin. | NU  | Oakley, Eliza  | 10 Hibernia Ave.. Toronto. Ont  | England | Toronto . | Aug. 13, | 1915. |
+| 18 | 621 | 1714 | 3823 | 1745 | 404594 | Private  | Old. Ernest George  | 36th Batt  | Old. Mrs. Elma May  | 07 Lvnd Ave., Toronto, Ont  | England | Niagara.. | June 30, | 1915. |
+| 18 | 622 | 1742 | 3822 | 1774 | 404410 | Private  | Oldham, Robert  | NU   | Garlick. Mrs. Elizabeth Ann | j 170 Slulock Ave. W., Toronto, Ont  | England | Toronto.. | April 12, | 1915. |
+| 18 | 622 | 1773 | 3823 | 1802 | 404595 | Private | Oliver, Roy  | NU  | Oliver. Mrs. Charlotte.. | 89 Cottier St., Toronto, Ont  | Canada  | Niagara.. | June 11. | 1915. |
+| 18 | 622 | 1800 | 3823 | 1832 | 40459G1 Private. |  | O’Reilly, Charles Hugh  |  | O’Reilly, James  | Hasting", Ont  | Canada  | Toronto. | April 12, | 1915. |
+| 18 | 622 | 1830 | 3824 | 1861 | 404597 | L.-Corporal. | Osborne, Edgar Ralph  | NU  | Osborne. Mrs. Gertrude E.. | 107 Ladbroke Rd., London W., Eng  | England | Niagara. | June 5, | 1915. |
+| 18 | 622 | 1859 | 3824 | 1890 | 405137 | L.-Corporal. | O'Shaughnessy, Robert  | Nil  | O’Shaughnessy. Annie  | 56 Stanley Rd., Fulham. London. Eng  | England.... | Niagara | July 7, | 1915. |
+| 18 | 622 | 1889 | 3824 | 1920 | 404002 | Private  | Osman. Frank Walter  | 4-Sth Regt. | Osman. Frank Walter  | 53 Woody Crest Ave., Toronto, Ont  | England.... | Toornto.. | May 20, | 1915. |
+| 18 | 623 | 1918 | 3825 | 1948 | 40401 | Private  | Osmond, John  | Nil  | Osmond, Mrs. Alice  | 10 PaUton Crescent, Davisville, Ont  | England  | Toronto.. | April 10, | 1915. |
+| 18 | 622 | 1947 | 3825 | 1977 | 401598 | Private  | Ouimet, Alphonse  | NU  | Ouimet, Mrs. Elizabeth  | 249 Jarvis St., Toronto, Ont  | Canada  | Niagara. | June 30, | 1915. |
+| 18 | 625 | 1975 | 3825 | 2007 | 140106 | Private  | Owen, William Ernest  | NU  | Owen, Mrs. Harriet  | 100 St. John’s Rd.. Faversham, Kent. Eng  | England.. .. | Toronto. | July 30, | , 1915. |
+| 18 | 622 | 2005 | 3825 | 2035 | 404600 | Private  | Owens, Charles Richard  | NU. | Owens, Mrs. Elizabeth  | Hamer Hill, Blackley, Manchester, Eng :  | England | Niagara. | June 11, | 1915. |
+| 18 | 622 | 2034 | 3824 | 2065 | 405273 | Private  | Paine, George Frederick  | NU. | Paine, Julin S  | 220 George St., Toronto, Ont  | Canada  | Toronto. | Aug. 20 | , 1915. |
+| 18 | 622 | 2063 | 3824 | 2093 | 404603 | Private  | Painter, John   | NU. | Painter, Mrs. C  | 88 Trinity St., Toronto, Ont  | England | Niagara | June 11 | 1915. |
+| 19 | 620 | 282 | 3797 | 319 | 4048741 Private  | Pargeter, Alfred WTUliam  | NU  | Pargeter, Thomas  | Harville. Hawthorn. West Bromwich, Staffs, Eng. | England.. | Toronto.. | Aug. | 19. 1915. |
+| 19 | 621 | 312 | 3798 | 348 | 404S75 Private  | Parker, Frederick  | NU. | Parker, Mrs. Annie  | 16 Corwell Ave.. Toronto, Ont  | Canada... | Toronto.. | Aug. | 19, 1915. |
+| 19 | 621 | 340 | 3798 | 379 | 40487C Private  | Parker, Henry  |  | Parker, Mrs. Mary Ann.. | 48 Matilda St. East. Toronto, Ont  | England.. | Toronto.. | Aug. | 25, 1915. |
+| 19 | 621 | 369 | 3798 | 407 | 404877 Private  |  | Nil | Parker, Mrs. Sarah Jane. | 38 Quemeby Rd., Nottingham, Eng  | England.. | Toronto.. | Aug. | 23, 1915. |
+| 19 | 620 | 399 | 3798 | 436 | 404878 L.-Corporal  | Parker, Walter  |  | Parker, Mrs. Charlotte. . | 25 Napier St., Toronto. Ont  | Canada... | Toronto.. | Aug. | 19, 1915. |
+| 19 | 620 | 428 | 3798 | 466 |  | Parkcs, Harry  | 405271 Private  | Parkcs, Mrs. Margaret... | 4 Bank St.. Toronto. Ont  | England.. | N iagara.. | June | 15, 1915. |
+| 19 | 990 | 457 | 3798 | 502 |  | Parkin, John WUhe **** |  | Parkin. Mrs. Mary  | 42 Brock Crescent. Toronto, Ont  | England.. | N iagara.. | June | 5, 1915. |
+| 19 | 621 | 486 | 3799 | 523 | 405272 Private  |  | NU  | Parr, William Walter  | 17 Marquis Rd., Stroud Green, London, Eng  | England.. | N iagara.. | June | 15, 1915. |
+| 19 | 622 | 515 | 3799 | 551 | 40499C Private  | Patton. Norman Edwin  | Cr.n. MU  | Patton. John R  | 91 Wheeler Ave., Toronto, Ont  | Canada... | N iagara.. | Sept. | 15, 1915. |
+| 19 | 2023 | 544 | 3799 | 581 |  |  |  | Paul, Mrs. Jane  | 320 Beresford Ave., Toronto, Ont  | England.. | Toronto.. | A.pril | 12, 1915. |
+| 19 | 620 | 573 | 3800 | 609 | 404602 Corporal  |  |  | Paul. Mrs. Eliza Ann  | Not stated  |  | Toronto. . | April | 12, 1915. |
+| 19 | 620 | 602 | 3800 | 641 | 404411 L.-Corporal  | Paul, William Robb  |  | Paul, Mrs. Jenny  | 32 Auburn Ave., Toronto, Ont  | Scotland.. | Toronto.. | April | 12, 1915. |
+| 19 | 990 | 631 | 3800 | 670 |  | Payne, George  | Nil  | Payne, Alfred    | 32 Gladstone Ave.. Toronto, Ont  | England.. | Toronto.. | Aug. | 20, 1915. |
+| 19 | 620 | 660 | 3801 | 699 |  | Payne, William  | NU  | 404882 Private  | Payne, Mrs. Alice  | Eastburv, nr. Lamboum, Berks, Eng  | England.. | Toronto.. | Aug. | 23, 1915. |
+| 19 | 618 | 689 | 3801 | 727 | 404412 Private  | Peake, Percival Francis *. |  | Peake, Mrs. Margaret  | 382 Balliol St., N. Toronto. Ont  | England.. | Toronto.. | May | 12, 1915. |
+| 19 | 2019 | 718 | 3802 | 755 |  |  |  | Pearson, Mrs. Hannah  | __ Arlington Ave., Toronto, Ont  | England.. | Toronto. . | Aug. | 18, 1915. |
+| 19 | 617 | 746 | 3802 | 784 | 405275 Private  | PeUow, Norman  | Nil  | Pel low, Albert  | 421 Roselawn Ave., Toronto, Ont  | Canada... | N iagara.. | Aug. | 31, 1915. |
+| 19 | 617 | 774 | 3802 | 813 | 405087 L.-Corporal  | Penn, Frank Morton  | NU   | Penn. Frank M.  | 73 Laughton Ave., Toronto, Ont  | England.. | Toronto.. | April | 5. 1915. |
+| 19 | 616 | 803 | 3803 | 843 | 405277 Private  | Perry, Sydney  |  | Perry, Mrs. Lillian  | 32 Duvemt St., Toronto, Ont  | England.. | Toronto.. | Aug. | 24, 1915. |
+| 19 | 616 | 832 | 3803 | 870 |  | Pethick. Melville  | 405176 Private  | NU  | Pethick, Mrs. Sarah  | 94 Northcote Ave., Toronto, Ont....  | Canada... | Niagara. . | June | 15, 1915. |
+| 19 | 616 | 860 | 3805 | 900 | 404008 L.-Corporal  | Petter, John  |  | Petter, Mrs. Margaret  | 286 Pape Ave.f Toronto, Ont  | England.. | Toronto.. | April | 26, 1915. |
+| 19 | 617 | 899 | 2364 | 929 | 404885 Private  |  | NU  | Phillips, Mrs. Catherine |
+| 19 | 2078 | 919 | 3806 | 955 |  |  |  | Harriet ........ | 109 Pembroke St., Toronto. Ont  | England.. | Toronto.. | Aug. 17, | 1915. |
+| 19 | 614 | 948 | 3806 | 988 | 405276 Bandsman  |  |  | Phipps, Mrs. Catherine  | 43 Jesmond Ave., Toronto, Ont  | England.. | Toronto.. | Aug. 21, | 1915. |
+| 19 | 613 | 977 | 3805 | 1016 | 404886 Private  | Pike, Alfred  |  | Pike, Mrs. A. J..  | Stour Provost, Dorset, Eng   | England.. | Toronto.. | Aug. 14, | 1915. |
+| 19 | 613 | 1005 | 3806 | 1044 | 404413 Private  |  | Nil  | Plowman, Mrs. Alice  | 37 Berryman St., Toronto, Ont   | Canada... | T oronto.. | April 19, | 1915. |
+| 19 | 611 | 1035 | 3806 | 1073 | 405088 Private  |  | NU   | Pond, Mrs. Mary  | 213 Beatrice St., Toronto, Ont   | Canada... | Toronto.. | April 5, | 1915. |
+| 19 | 611 | 1064 | 3807 | 1103 | 404414 Private  | Pooley, Ernest  | NU  | Pooley, Mrs. Elizabeth  | Chapel Terrace, St. Blazey, Cornwall, Eng  | England.. | Toronto. . | April 12, | 1915. |
+| 19 | 610 | 1093 | 3807 | 1133 | 404478 L.-Corporal  | Porter, Andrew  |  | Porter, Mrs. Sarah Jane  | Castlederg, Co. Tyrone, Ire  | Ireland... | Toronto.. | May 11, | 1915. |
+| 19 | 609 | 1122 | 3808 | 1159 | 40488* Private  |  |  | Porter, James  | 274 Front St. E., Toronto. Ont  | Canada... | Toronto.. | Aug. 16, | 1915. |
+| 19 | 609 | 1149 | 3912 | 1188 | 40513S Private  |  | NU  | Porter, John ^....  | 488 Kingston Rd., Toronto, Ont   | England.. | Niagara.. | July 2, | 1915. O |
+| 19 | 609 | 1179 | 3808 | 1218 | 404102 Sergeant  |  |  | Porter, Mrs. Ethel Eliza  | 12 Whitesides Place, Toronto, Ont  | England.. | Toronto.. | AprU 22, | 1915. |
+| 19 | 609 | 1208 | 3808 | 1244 | 404419 Private  |  |  | Postlethwaite, Isaac  | 28 Chepstow Villas, Bays water, London, Eng. | England.. | Toronto.. | April 8, | 1915. |
+| 19 | 609 | 1237 | 3808 | 1274 | 404888 Private  |  | NU  | Potter, Selina Emma  | 225 Seaton St., Toronto. Ont  | England.. | Toronto.. | Aug. 14, | 1915. |
+| 19 | 608 | 1266 | 3809 | 1302 | 404889 Private  |  | NU  | Potts. William  | 206 Balsam Ave., Toronto, Ont  | England.. | Toronto.. | Aug. 25, | 1915. |
+| 19 | 609 | 1295 | 3809 | 1331 | 404890 Private  |  | NU  | Powell, Mrs. Elizabeth  | 68 McGill St., Toronto, Ont  | England.. | Toronto.. | Aug. 16, | 1915. |
+| 19 | 610 | 1323 | 3810 | 1361 | 405139 Private  |  |  | Powell, William Elgin  | Courtviile, Half-Way-Tree. Jamaica, B.W.I... | B.W.I.... | Niagara.. | June 15, | 1915. |
+| 19 | 610 | 1351 | 3810 | 1390 | 404415 Private  |  | NU  | Powell, Mamy  | 31 Alcorne Ave., Toronto, Ont  | Ireland... | Toronto.. | April 27, | 1915. |
+| 19 | 610 | 1381 | 3811 | 1418 | 40441C Private  |  |  | Prevost, Mrs. Amy  | 903 St. Catherine St., Montreal, P.Q  | Canada... | Niagara.. | June 12, | 1915. |
+| 19 | 610 | 1410 | 3811 | 1446 | 404604 Private  |  |  | Price, Mrs. Christa Bella  | 614 Indian Rd., Toronto, Ont  | Canada... | Niagara.. | June 11, | 1915. |
+| 19 | 609 | 1438 | 3811 | 1476 | 404S92 Private  |  | NU  | Primrose, Mrs. Nora Quinn. | 102 Eastern Ave., Toronto, Ont  | Scotland.. | Toronto.. | Aug. 17, | 1915. |
+| 19 | 1482 | 1467 | 3812 | 1504 |  |  | NU  | Proctor, Mrs. A  | 34 Cox well Ave., Toronto, Ont  | Scotland.. | Toronto.. | AprU 8, | 1915. |
+| 19 | 610 | 1496 | 3813 | 1533 | 404G05 Private  |  | NU  | Prowse, James H  | 1070 Shaw St., Toronto, Ont  | Canada... | Toronto.. | Mav 14, | 1915. |
+| 19 | 609 | 1525 | 3813 | 1563 | 404417 Private  |  |  | Pullar, Mrs. Katherine  | Thorold, Welland Co., Ont  | Scotland.. | Niagara.. | July 20, | 1915. |
+| 19 | 609 | 1554 | 3813 | 1593 | 404418 Private  |  |  | P.yper, Mrs. A  | 11 Durmont Place, Toronto, Ont  | Scotland.. | Niagara.. | June 12, | 1915. |
+| 19 | 609 | 1582 | 3813 | 1622 | 4041C5 Private  |  | NU  | Queerie, Mrs. H  | 36 Elm St., Toronto, Ont  | Canada... | Niagara.. | Sept. 7, | 1915. |
+| 19 | 607 | 1612 | 3814 | 1650 | 404893 Private  |  |  | Raines, Mrs. Mary  | 347 Rhodes Ave., Toronto, Ont  | Canada... | Toronto.. | Aug. 17, | 1915. |
+| 19 | 607 | 1640 | 3816 | 1681 | 404466 Sergeant  | Ralph, Harold Edmund Flower... |  | Ralph, Mrs. Harriet  | 27 Shudell Ave.,* Toronto, Ont    | England.. | Toronto.. | AprU 12, | 1915. |
+| 19 | 608 | 1670 | 3816 | 1718 |  | Ralston, James Alfred mv* | 404894 Private  | NU  | Ralston, Walter  | Lefroy, Ont  | Canada... | Toronto.. | Aug. 20, | 1915. |
+| 19 | 608 | 1698 | 3817 | 1737 | 404093 Private  |  | NU  | Ramsden. William  | 51,yn Anne St., Toronto, Ont  | England.. | Niagara.. | May 26, | 1915. |
+| 19 | 2080 | 1756 | 3817 | 1792 |  |  |  | Gordon  | 2 Bow St., London, Eng   | England.. | Niagara. | Sept. | 7, 1915. |
+| 19 | 607 | 1785 | 3817 | 1824 |  | Rankin, Robert Mitchel  | 404895 Private  | Rankin, Mrs. Flora  | West Main St., Darvel, Ayrshire, Scot. | Scotland., | Toronto. | Aug. | 24, 1915. |
+| 19 | 607 | 1814 | 3818 | 1855 | 404606 Private  | Ranscombe, Joseph  | Nil  | Ranscombe, Mrs. Maude  | 32 Robert St., Toronto, Ont  | England.. | Niagara. | June | 9, 1915. |
+| 19 | 606 | 1843 | 3817 | 1882 | 404806 Private  |  |  | Reeves, Mrs. Charlotte L... | 45 Hastings Ave., Toronto, Ont  | Canada... | Toronto. | Aug. | 17, 1915. |
+| 19 | 1483 | 1872 | 3818 | 1911 |  |  | NU  | Reeves, Mrs. Emily M  | 118 Bert mount Ave., Toronto, Ont  | England. | Toronto. | April | 12, 1915. |
+| 19 | 606 | 1901 | 3818 | 1939 | 404420 Private  |  | Nil  | Reid, Mrs. Martha  | 130 Yorkville Ave.. Toronto, Ont  | Canada... | Toronto. | April | 12. 1915. |
+| 19 | 606 | 1930 | 3818 | 1970 | 405300 Private  | Reid, Lewis.....  |  | Reid, Mrs. Margaret  | 176 Erskine Ave., Toronto, Ont  | Scotland. | Toronto. | May | 10, 1915. |
+| 19 | 606 | 1959 | 3819 | 1997 | 40460S Private  |  | NU  | Reid, W. J  | 1541 Dundas St., Toronto, Ont  | Canada... | N iagara. | June | 15, 1915. |
+| 19 | 606 | 1988 | 3818 | 2027 | 404421 Private  | Richards, Frederick Charles  | NU  | Richards, John Edward. ... | 597 Concord Ave., Toronto, Ont  | England. | Toronto. | May | 13, 1915. |
+| 20 | 634 | 564 | 3385 | 600 | £z |  |  |  | Name of Next of Kin. |  | Country of |
+| 20 | 629 | 711 | 3824 | 744 | 405279 |  |  |  | Richards, Mrs. Mary Jane.. | 18 Albert St., Toronto, Ont  | Wales.... | Niagara... | July | 6, 1915. |
+| 20 | 629 | 741 | 3825 | 772 | 401898 |  |  | Nil  | PJchardson, William  | Raunds, Northants, Eng  | England.. | Toronto... | Aug. | 7, 1915. |
+| 20 | 630 | 769 | 3826 | 801 | 405313 |  |  |  | Richardson, Frederick  | Tacklenay, Hastings, Eng  | England.. | Niagara... | Sept. | 7, 1915. |
+| 20 | 628 | 793 | 3826 | 830 | 405089 |  | Richardson, Nesbit AlaianderMM | Nil  | L&wlings, Mrs  | 191 Coxwell Ave., Toronto, Ont  | England.. | Toronto... | April | 5, 1915. |
+| 20 | 629 | 828 | 3825 | 859 | 4!X266 |  |  | Nil  | Ridge, Mrs. Annie Elizabeth | Woodbum, Ont  | Canada... | Toronto... | April | 9, 1915. |
+| 20 | 628 | 857 | 3825 | 889 | 404899 |  | Riley, Arthur  | Nil  | Riley, Mr*. Mary Jane  | 17 Dawson Ave., Toronto, Ont  | England.. | Toronto... | Aug. | 19, 1915. |
+| 20 | 628 | 886 | 3825 | 918 | 401900 | Private  |  |  | Riley, Mrs. Ellen Kirkup... | 146 Jarvis St., Toronto, Ont  | Canada... | Toronto... | Aug. | 19. 1915. |
+| 20 | 628 | 914 | 3825 | 947 | 405307 |  |  |  | Ritchie, Mrs. Lily  | 48 Oxford St., Toronto, Ont  | Canada... | Niagara... | July | fl, 1915. |
+| 20 | 628 | 943 | 3824 | 975 | 401094 |  |  | Nil  | Ritchie, William  | Greenwood St., Calderhead, Shotts, Scot  | Scotland.. | Toronto... | April | 19, 1915. |
+| 20 | 627 | 972 | 3825 | 1004 | 401064 | L.-Corporal  | Rivers, Rupert Elwyn  |  | Rivers, Mrs. Eliza  | Sealorth, Ont  | Canada... | Toronto... | April | 19, 1915. |
+| 20 | 628 | 1002 | 3824 | 1033 | 401422 |  |  |  | Robb, Mrs. Jemima  | 418 Margueretta St., Toronto, Ont  | Canada... | Toronto... | April | 9, 1915. |
+| 20 | 629 | 1031 | 3824 | 1061 | 404423 |  |  | Nil  | Roberts, Mrs. M  | 31 King St., Oldham, Lancs, Eng  | England.. | Toronto... | April | 8, 1915. |
+| 20 | 628 | 1059 | 3824 | 1090 | 405013 |  | Roberts, William  | Nil  | Roberts, Rebecca   | 140 Peter St., Toronto, Ont  | England.. | Toronto... | April | 5, 1915. |
+| 20 | 629 | 1089 | 3825 | 1120 | 404903 |  |  |  | Robertson, Mrs. Georgina... | 117 Laughton Ave., Toronto, Ont  | Scotland. | Toronto... | Aug. | 23, 1915. |
+| 20 | 630 | 1115 | 3824 | 1148 | 405207 |  |  |  | Robertson, Mrs. Lillian  | 102 McCaul St., Toronto, Ont  | Scotland. | Niagara... | pJuly | 2, 1915. |
+| 20 | 629 | 1143 | 3824 | 1178 | 405021 |  |  | Nil  | Robertson, Agnes  | 100 Main St., Camelon, Falkirk. Sterling, Soot  | Sootland. | Toronto... | April | 5, 1915. |
+| 20 | 629 | 1175 | 3825 | 1206 | 404904 |  |  | Nil  | Robinson. Mrs. Florence.... | 183 Symington Ave., Toronto, Ont  | England.. | Toronto... | Aug. | 19. 1915. |
+| 20 | 629 | 1203 | 3825 | 1234 | 404095 |  |  | Nil  | Robinson, \V  | 523 Parliament St., Toronto, Ont  | Canada.. | Niagara... | Sept. | 9, 1915. |
+| 20 | 629 | 1233 | 3825 | 1262 | 401905 |  |  | Nil  | Robinson. Mrs. Charlotte.. | Newmarket, Ont  | England.. | Toronto... | Aug. | 17. 1915. |
+| 20 | 629 | 1262 | 3826 | 1294 | 404475 | L.-Corporal  | Robinson, William Henry  |  | Robinson, Mrs. Margaret.. . | 177 Earlscourt Ave., Toronto, Ont  | Canada... | Toronto... | April | 12, 1915. |
+| 20 | 630 | 1288 | 3826 | 1322 | 405025 |  | Roper, Thomas Frederick Llovd-.. | Nil  | Roper, Eliza Ann  | 16 Kingsley Ave., Toronto, Ont  | England.. | Toronto... | April | 5, 1915. |
+| 20 | 629 | 1317 | 3827 | 1350 | 401609 |  | Rose, Florenzz JYfrl | Nil  | Rose, Mrs. M. E  | 39 Earlsdale Ave., Toronto, Ont  | Canada... | Toronto... | April | 12, 1915. |
+| 20 | 628 | 1349 | 3826 | 1380 | 404424 |  |  | Nil  | Rostron. Mrs. Annie  | Humber Bay P.O., Ont  | England.. | Toronto... | April | 12, 1915. |
+| 20 | 628 | 1378 | 3827 | 1409 | 404906 |  |  | Nil  | Roth well, Mrs. Hanna  | 61 Nanser St., Sallord, Lancs. Eng  | England.. | Toronto... | Aug. | 19. 1915. |
+| 20 | 628 | 1407 | 3828 | 1438 | 401425 | Private  | Rouse, Norman Allan  | Nil  | Rou«e, John L  | 1215 King St. W., Toronto, Ont  | Canada... | Toronto... | April | 8, 1915. |
+| 20 | 629 | 1436 | 3829 | 1467 | 405090 |  |  | Nil  | Routledge, Isabella  | 195 Sackville St., Toronto, Ont  | Scotland.. | Toronto... | April | 5, 1915. |
+| 20 | 628 | 1464 | 3828 | 1495 | 401420 |  |  |  | Rowell, Ada  | 53 Blake St., Toronto, Ont  | England.. | Niagara... | June | 12, 1915. |
+| 20 | 628 | 1493 | 3829 | 1525 | 40126-5 |  | Rowland, John Wesley  | Nil  | Rowland, Mrs. Sarah  | 28 Price St., Toronto, Ont  | Canada... | Toronto... | April | 8, 1915. |
+| 20 | 628 | 1520 | 3829 | 1554 | 405177 |  | Roy, David V.vJTl | Nil  | Roy, Mrs. George  | 100 High St., Rothes, Morayshire, Scot  | Scotland.. | Niagara  | June | 11, 1915. |
+| 20 | 628 | 1551 | 3828 | 1581 | 405208 |  |  |  | RuSett, Charles  | Barrie, Ont  | Canada... | Niagara... | June | 24, 1915. |
+| 20 | 628 | 1580 | 3829 | 1611 | 40530G |  |  |  | Russell, Mrs. Mazie  | 259 Salem Ave., Toronto, Ont  | Canada... | Toronto... | May | 15, 1915. |
+| 20 | 628 | 1609 | 3830 | 1641 | 405091 |  | Russell, Hnrry  | Nil  | Russell, Mrs. Harry  | 17 St. Albans St., Toronto, Ont  | England.. | T oronto... | April | 5. 1915. |
+| 20 | 627 | 1638 | 3831 | 1669 | 405315 |  |  | Nil  | Russell, Mrs. Krase.;  | Baden, Ont  | Canada... | Niagara... | Sept. | 7, 1915. |
+| 20 | 626 | 1667 | 3830 | 1698 | 404618 |  |  | Nil  | Ryall, W. W  | 6 Hanson Rd., Oakwood, Toronto, Ont  | England.. | Toronto... | April | 12. 1915. |
+| 20 | 627 | 1695 | 3830 | 1727 | 401907 |  |  | Nil  | Ryall, Mrs. Ada  | 6 Hanson Rd., Toronto, Ont  | England.. | Toronto... | Aug. | 17, 1915. |
+| 20 | 627 | 1724 | 3831 | 1757 | 405280 |  |  | Nil  | Ryan, Jane   ... | Kearney, Ont  | Canada... | Toronto... | Aug. | 14. 1915. |
+| 20 | 627 | 1753 | 3831 | 1785 | 4CK90S |  |  | Nil  | Ryan. Mrs. Susan  | 437 Salem Ave., Toronto, Ont  | Canada... | Toronto... | Aug. | 18, 1915. |
+| 20 | 627 | 1783 | 3831 | 1815 | 401909 |  |  |  | Ryland, Mrs. Annie  | Pitchoombe, Strand, Gloa, Eng  | England.. | T oronto... | Aug. | 25, 1915. |
+| 20 | 628 | 1811 | 3830 | 1843 | 404910 |  |  |  | Peel, Mrs. Annie  | North Bay, Ont  | England.. | Toronto... | Aug. | 20, 1915. |
+| 20 | 628 | 1840 | 3831 | 1871 | 404461 |  |  |  | Sambridge, Mrs. G. E  | 1742 St. Clair Ave. West, Toronto, Ont  | England.. | Toronto... | April | 12, 1915. |
+| 20 | 628 | 1869 | 3831 | 1901 | 404427 |  |  |  | Sandell, Mrs. Agnes  | 134 Wentworth Dwell., Gladstone St., London, Eng. | England.. | Niagara... | June | 12. 1915. |
+| 20 | 629 | 1898 | 3832 | 1931 | 404054 |  |  |  | Saunders, Mrs. Harriet  | Oakleigh, Hurstmonceux, Sussex, Eng  | England.. | Toronto... | April | 8, 1915. |
+| 20 | 629 | 1927 | 3832 | 1960 | 401428 |  |  |  | Saunders, Mrs.MargaretMary | 728H Gerrard St. East, Toronto, Ont  | Canada... | Toronto... | April | 12. 1915. |
+| 20 | 629 | 1956 | 3831 | 1989 | 404911 |  |  |  | Savage, Herald  | 113^ King St. W., Toronto, Ont  | Canada... | Toronto... | Aug. | 23, 1915. |
+| 20 | 628 | 1984 | 3832 | 2019 | 404912 |  |  |  | Savin, Mrs. Kezia  | 42 Cherry St., Toronto, Ont  | Canada... | Toronto... | Aug. | 16, 1915. |
+| 20 | 628 | 2013 | 3832 | 2047 | 404913 |  |  |  | Sayer, Mrs. Marie Charlotte | 112 Hamilton St., Toronto, Ont  | England.. | Toronto... | Aug. | 19, 1915. |
+| 20 | 629 | 2043 | 3830 | 2076 | 404039 |  |  | Nil  | Scaldwell, Mrs. Sarah  | Stoke-Bruern, Northants, Eng  | England.. | Niagara... | June | 24. 1915. |
+| 20 | 628 | 2072 | 3831 | 2105 | 404914 |  |  | Nil  | Scarff, Mrs. Sarah  | Ashford, Kent, Eng  | England.. | Toronto... | Aug. | 18, 1915. |
+| 20 | 630 | 2100 | 3831 | 2134 | 140182 | Private  |  | NU  | Scholes, Adam Arthur  | 512 Wellington St. West, Toronto, Ont  | Canada... | Toronto... | July | 29. 1915. |
+| 21 | 610 | 238 | 3789 | 280 | 404544 | Bugler   | Scott, George Henry  |  | NU  | Scott, Mrs. Elizabeth  | 299 Torrens Ave., Toronto, Ont  | England  | Toronto. | April | 5, 1915. |
+| 21 | 610 | 268 | 3789 | 307 | 404612 | Private   | Scott, Norman Alexander  |  | 20th Regt  | Scott, Mrs. Jessie Margaret. | 2 Douglas Terrace. Broughty Ferry, Forfar, Scot... | Scotland  | Niagara. | June | 5. 1915. |
+| 21 | 609 | 297 | 3791 | 336 | 405141 | Private  | Scott, Robert Frederick  |  | Imp. Forces  | Scott, Mrs. Eleanor  | 56 Malvern Ave. East. Toronto, Ont  | England  | N iagara. | June | 9, 1915. |
+| 21 | 610 | 326 | 3791 | 367 | 404613 | Private   | Seale, George  |  | Nil  | Seale, Mrs. Alberta  | BosoobeU, St. Peter, Barbadoea, B.W.I  | B.W.I  | Niagara. | June | 30, 1915. |
+| 21 | 609 | 355 | 3791 | 393 | 404915 | Private  | Searl, William Thomas John  |  | NU  | Searl, Mrs. Isabel  | 33 Homesdale Rd., Toronto, Ont  | England  | Toronto. | Aug. | 21, 1915. |
+| 21 | 610 | 384 | 3791 | 425 | 404267 | Corporal  | Sefton, Frank H. Catbell  |  | 2nd Regt  | Sefton. F. H  | 1433 King St. West, Toronto, Ont  | Canada...  | Niagara. | June | 12, 1915. |
+| 21 | 610 | 413 | 3791 | 453 | 405142 | Private  | Serrurier, Frederick Oscar Henry |  | S. A  | Serrurier, Mrs. Mabel  | 20 Ashland Ave., Toronto, Ont  | South Africa... | Niagara. | June | 9. 1915. |
+| 21 | 610 | 442 | 3791 | 483 | 404916 | Private  | Seymour, Samuel George  |  | NU    | Seymour, Mrs. May Mabel.. | 592 Jones Ave., Toronto. Ont  | England  | Niagara. | Sept. | 4, 1915. |
+| 21 | 610 | 472 | 3791 | 510 | 405230 | L.-Corporal.. | Sliaino, Edward  |  | Territorials  | Shaine, Mrs. Elizabeth  | 104 Kings Rd., Bootle, Liverpool, Eng  | England  | Niagara. | June | 24, 1915. |
+| 21 | 610 | 501 | 3791 | 538 | 40517* | Private  | Shelburne, Josiah Ernest  |  | NU  | Shelbourne. Eliza  | i5 Wallace Ave., Toronto, Ont  | England  | Niagara. | June | 11, 1915. |
+| 21 | 609 | 530 | 3790 | 568 | 404042 | Private  | Sheldrake, Charles Frederick.... |  | Nil  | Sheldrake, Mrs. Edith May | 200 Spadina Ave., Toronto, Ont  | England  | Niagara. | July | 6, 1915. |
+| 21 | 608 | 559 | 3790 | 598 | 405092 | Private   | Shephard, Thomas  |  | NU  | Shephard, Mary Jane  | 12 Glenvale Ave., Fairbank, Ont  | England  | Toronto. | April | 5, 1915. |
+| 21 | 607 | 589 | 3790 | 627 | 404917 | Private  | Shepherd, Arthur Leonard  |  | 10th Regt  | Shepherd. Joseph Henry  | 78 Annette St., Toronto, Ont  | Canada  | ToroL'to. | Aug. | 19. 1915. |
+| 21 | 607 | 617 | 3791 | 656 | 404026 | Trans.-Sergt.. | Shepherd, David  |  | NU  | Shepherd, Mrs. C...:  | 129 Seneca St., Toronto, Ont  | Scotland  | Toronto. | AprU 10. 1915. |
+| 21 | 607 | 646 | 3791 | 685 | 404655 | Bugler  | Shepherd, Gordon Frederick.... |  | R.C.R  | Shepherd, Mrs. Ellen  | 14 Geary Ave., Toronto, Ont   | Channel Islands | Niagara. | 8, 1915. |
+| 21 | 606 | 677 | 3145 | 714 | 404106 | Private  | Shingles, William  |  | Imp. Forces  | Shingles. Miss Florence  | Cor. Westchester <5c Grantham Sta., St. Catharines |
+| 21 | 2489 | 702 | 3791 | 734 |  |  |  |  |  |  | Ont  | England.. | Toronto. | Nov. 12. 1914. |
+| 21 | 606 | 731 | 3791 | 771 | 404429 | Private  | Shoesmith, Alfred  |  | Imp. Forces. | Shoesmith, Mrs. S  | 4 Seaview Cott., Icklesham, Suasex, Eng  | England.. | Toronto. | AprU 12, 1915. |
+| 21 | 606 | 761 | 3792 | 799 | 404918 | Private  | Short, Matthew Brown. |  | NU  | Short, Mrs. Jeanie  | 77 King St., Ayr, Ayrshire, Scot  | Scotland. | Toronto. | Aug. | 20, 1915. |
+| 21 | 606 | 789 | 3793 | 827 | 404614 | Private  | Shortt, James Percival. |  | NU  | Shortt, James | 401 Quebec Ave., Toronto, Ont  | Canada... | Niagara. | June | 5, 1915. |
+| 21 | 605 | 819 | 3793 | 857 | 404919 | Private  | Shular, Elmer Earl  |  | NU  | Shular, Mrs. Belle | Owen Sound, Ont.  | Canada... | Toronto. | Aug. | 23, 1915. |
+| 21 | 605 | 847 | 3793 | 889 | 405304 | Private   | Shuter, Edgar George.. |  | 48th Regt. .. | Shuter, Albert W | 1115 Davenport Rd., Toronto, Ont  | Canada... | Niagara. | June | 31, 1915. |
+| 21 | 605 | 876 | 3793 | 915 | 405093 | Private   | Sidnell, Herbert  |  | NU  | Sidnell, Mrs. Annie  | 48 Park St., Trowbridge, Eng  | England.. | Toronto. | AprU | 5, 1915. |
+| 21 | 604 | 906 | 3792 | 944 | 405281 | Private  | Silvera, Roland Vincent |  | NU  | Silvera, Mrs. Eliza  | 263 Rhodes Ave., Toronto, Ont  | B.W.I.... | Toronto. | Aug. | 17, 1915. |
+| 21 | 603 | 935 | 3792 | 977 | 4052S2 | Private  | Silvera, Sydney Arthur  |  | 12th Regt. . . | Silvera, Mrs. Terezena E | 263 Rhodes Ave., Toronto, Ont  | B.W.I.... | Toronto. | 17. 1915. |
+| 21 | 604 | 964 | 3791 | 1005 | 404920 | Private   | Simmons, George  |  | NU  | Simmons, Mrs Sarah  | 1205 Dovercourt Rd., Toronto, Ont  | England.. | Toronto. | Aug. | 21, 1915. |
+| 21 | 604 | 993 | 3791 | 1032 | 404921 | Private  | Simonds, James  |  | NU  | Simonds. Mrs. Clara  | 60 Campbell Ave.. Toronto, Ont  | Canada... | Toronto. | Aug. | 23. 1915. |
+| 21 | 603 | 1022 | 3792 | 1062 | 404615 | Private  | Simpson, Alexander Smith  |  | NU  | Simpson, Mrs. Annie  | East StoneyhUl, Cruden, Aberdeen, Scot  | Scotland.. | N iagara. | June | 15, 1915. |
+| 21 | 604 | 1051 | 3792 | 1093 | 404430 | Private  | Simpson, Cairo  |  | 2nd Regt  | Not stated  | Not stated  |  | Niagara. | June | 12, 1915. |
+| 21 | 603 | 1080 | 3792 | 1121 | 404616 | Private  | Simpson, Henry Williamson  |  | Nil  | Simpson, Mrs. Eleanor.. . | 33 East Rd. Egremont, Cumberland, Eng  | England.. | N iagara. | June | 26. 1915. |
+| 21 | 603 | 1109 | 3792 | 1150 | 404431 | Private  | Sinclair, Charles Henry  |  | NU  | Sinclair. Mrs. Margaret. . | 5 Osier Ave. W., Toronto, Ont  | Canada.. | Toronto. | AprU | 8, 1915. |
+| 21 | 603 | 1138 | 3792 | 1179 | 404432 | Private  | Sinclair,Henry Clarence Frederick |  | 48th Regt. .. | Sinclair, George  | 64 King St., PiccadUlv, London, Eng  | England.. | Niagara. | June | 16 1915. |
+| 21 | 603 | 1167 | 3791 | 1208 | 405011 | L.-Sergt  | Sinclair, James   |  | Nil  | Sinclair, Jane  | 2 RaUway Cottage, Gollanficld, Inverness, Scot.. . | Scotland. | Toronto. | AprU | 5, 1915. |
+| 21 | 602 | 1196 | 3792 | 1238 | 4W922 | Private  | Skelton. William Owen  |  | Nil  | Skelton. Mrs. G^rgina Doris | 29 Northview Terrace, Toronto, Ont  | England.. | Toronto. | 17, 1915. |
+| 21 | 602 | 1225 | 3792 | 1263 | 404617 | Private   | Skene, William  |  | NU  | Skene. Sirs. Annie  | 9 Donald Bldgs., George St., Huntley, Scot  | Scotland. | Niagara. | June | 30. 1915. |
+| 21 | 604 | 1254 | 3793 | 1293 | 405219 | C.S.M  | Slatter, Albert John  |  | 12th Regt... | Slatter, Mrs. Alice  | 243 Morley Ave., Toronto, Ont  | England. | Niagara. | Aug. | 31. 1915. |
+| 21 | 604 | 1282 | 3794 | 1323 | 405254 | Sergeant.   | Slatter. Percy Hubert  |  | 12th Regt... | Slatter, Mrs. F.   | 19 Moscow Ave., Toronto, Ont  | Engiand. | Toronto. | April 12, 1915. |
+| 21 | 604 | 1311 | 3794 | 1351 | 404433 | Private  | Slighte. Percival  |  | Can. MU.... | Slighte, Mrs. Katherine  | Peterboro, Ont  | Canada.. | Toronto. | AprU 19, 1915. |
+| 21 | 605 | 1340 | 3794 | 1381 | 4044341 Private. |  | Smale, William Henry  |  | 12th Regt. .. | Smale. Mrs. J   | 18 Hayter St.. Toronto, Ont  | England. | Toronto. | April 19, 1915. |
+| 21 | 604 | 1370 | 3796 | 1409 | 4052091 Private. |  | Smallwood, Jame9  |  | ~’il  | Smallwood, Mrs. Elizabeth | 7S0 King St. W., Toronto, Ont  | England. | Niagara. | June | 24, 1915. |
+| 21 | 604 | 1397 | 3795 | 1436 | 404622 Private. |  | Smart, John Edward  |  |  | Smart, Mrs. L  | 228 Berkeley St., Toronto, Ont  | England. | Toronto. | April 12, 1915. |
+| 21 | 605 | 1431 | 3148 | 1468 | 404433 Private. |  | Smith, Frederick Arthur  |  | 2nd Regt.... | Smith, Joseph  | The Myrtles, Upperachney, Darby Dale, Matlock |
+| 21 | 2492 | 1457 | 3796 | 1490 |  |  |  |  |  |  | Eng   | England.... | Niagara. | June | 12, 1915. |
+| 21 | 605 | 1486 | 3796 | 1526 | 404616 | Private. | Smith, | Frederick Charles.. | 10th Regt. . . | Smith, Watson  | 59 Murray St., Toronto, Ont  | England  | N iagara. | June | 9, 1915. |
+| 21 | 604 | 1515 | 3796 | 1552 | 404096 | Private. | Smith, | Frederick William. | Nil  | Denger, Mary Jane  | 21 Parchment St., Chichester, Eng  | England. ... | N iagara. | June | 20, 1915. |
+| 21 | 607 | 1543 | 3797 | 1583 | 139GS> | Private. | Smith, | George GUbert.... | Nil  | Smith, Mrs. Mary Ann. . . . | 104 Sherbourne St., Toronto, Ont  | Canada  | Toronto. | July | 13, 1915. |
+| 21 | 605 | 1573 | 3796 | 1617 | 414923 | Private. | Smith, | George Harold  | NU  | Varley, Annie  | 32 Homesdale Rd., Fairbank, Toronto, Ont  | England... . | Toronto. | 26, 1915. |
+| 21 | 604 | 1601 | 3797 | 1639 | 401436 | Private. | Smith, | Harrison WUliam.. | NU  | Smith, Mrs. C. J  | Newmarket, Ont  | Canada  | Toronto. | May | 22, 1915. |
+| 21 | 604 | 1630 | 3797 | 1671 | 40; 041 | Bugler... | Smith, | James  | Can. MU  | Smith, .Allan K  | 70 Brookside Ave. W.. Toronto, Ont  | England.... | Toronto. | AprU 12, 1915. |
+| 21 | 604 | 1660 | 3797 | 1699 | 405284 | Private. | Smith, | James  | Imp. Forces. | Smith, Mrs. Hannah  | 5 Grant St., Ianston, Buckie, BanfT, Scot  | Scotland  | Toronto. | Aug. | 23, 1915. |
+| 21 | 603 | 1695 | 2408 | 1727 | 404924 | Private.. | Smith, | John  | Territorials.. | Johnson. Mrs. Mary- Wilhol- |
+| 21 | 2073 | 1718 | 3798 | 1751 |  |  |  |  |  | mina .  | 22 High Markland St., Leeds. Eng  | England  | Toronto. | IS, 1915. |
+| 21 | 602 | 1747 | 3799 | 1788 | 405229 L.-Corporal. |  | Smith, John Campbell.. |  | Territorials.. | Smith, Mrs. WUhelmina.. . | 759 Manning Ave., Toronto, Ont  | Scotiand  | Niagara. | June | 24, 1915. |
+| 21 | 603 | 1776 | 3800 | 1815 | 404925! Private  |  | Smith, John William. .., |  | Territorials.. | Smith, Mrs. Mary  | 121 Blackthorn Ave., Toronto, Ont  | England  | Toronto. | 18, 1915. |
+| 21 | 604 | 1805 | 3800 | 1845 | 404437! Private  |  | Smith. Walter  |  | 2nd Regt  | Smith. Elizabeth  | Plymouth, Eng  | Engiand  | N iagara. | June | 12, 1915. |
+| 21 | 604 | 1834 | 3799 | 1872 | 4053011 Private  |  | Smith, Samuel  |  | NU  | Smith. Mrs. Mary  | 26 High St., Dumfries, Scot  | Scotland  | Toronto. | 18, 1915. |
+| 21 | 603 | 1863 | 3799 | 1904 | 404047, Sergt  |  | Smith, William  |  | Imp. Forces. | Smith, Mary  | 38 Broughton St., King St., Salford, Eng. | Ireland  | Niagara. | June | 12, 1915. |
+| 21 | 606 | 1892 | 3799 | 1932 | 140191 i Private  |  | Smythe. George Henry. |  | Nil  | McLeod. Miss Mary  | 598 Huron St., Toronto. Ont  | Ireland  | Toronto. | July | 24. 1915. |
+| 21 | 604 | 1921 | 3800 | 1959 | 40*)2S3! Private  |  | Sparks, Charles Robert. |  | NU  | Sparks, Mrs. Bertha May.. | 12 Gresham Ave. W., Toronto, Ont  | Canada  | Toronto. | 14, 1915. |
+| 21 | 604 | 1950 | 3799 | 1989 | 40492? I Private  |  | Sparks, Christie   |  | Nil  | Spark3, Mrs. Mary  | 30 Daisy Ave., Toronto, Ont  | Canada  | Toronto. | Aug. | 19, 1915. |
+| 22 | 641 | 565 | 3371 | 598 | 2 |  |  | Name of Next of Kin. |  | Country of |
+| 22 | 616 | 600 | 3757 | 633 | e |  |  |  |  |  | Place. | Date. |
+| 22 | 606 | 708 | 3810 | 743 | 40143S | Private  | Spencer. Frank Dermott  | Royal Navy. | Spencer, Violet  | Kent P.O., Eng  | England. | Toronto. | AprU 8, 1915. |
+| 22 | 606 | 738 | 3810 | 772 | -40492S | Piivate  | Spruit, Joseph  | Spruit, Mrs. Martha Ann  | 67 Fairview Ave., Toronto, Ont. | England. | Toronto. | Aug. 19, 1915. |
+| 22 | 607 | 766 | 3810 | 799 | 404027 | Private  | Staines, George  | NU. | Staines, Mrs. J  | Winglands, Sutton Bridge, Eng.. | England. | Toronto. | AprU 10, 1915. |
+| 22 | 610 | 796 | 3811 | 827 | 401929 | Private  | Stathara, William Percival  | NU. | Statham, Mrs. Charlotte— | 656 Ontario St., Toronto, Ont... | Canada.. | Toronto. | Aug. 18, 1915. |
+| 22 | 613 | 829 | 2421 | 858 | 138693 | Private  | Steele, Christopher William....... | NU   | Not stated  |
+| 22 | 609 | 854 | 3810 | 886 | 405143 | Private  | Steplien, John  | NU  | Stephen, Alexander  | 19 Christie St., Toronto, Ont  | Scotland  | Niagara.. | June | 5. 1915. |
+| 22 | 610 | 884 | 3810 | 915 | 404931 | Private  | Stevens, William Alfred  | Royal Navy. | Stevens, John WUliam  | 15 Port Hall St., Brighton, Sussex, Eng  | England  | Toronto.. | Aug. | 25, 1915. |
+| 22 | 610 | 913 | 3810 | 944 | 404019 | Private  | Stevenson, Henry  | 109th Regt... | Stevenson, Mrs. Jemima.... | Sunbeam House, Groomsport, Bangor, Ire  | Ireland  | Toronto.. | May |   15, 1915. |
+| 22 | 609 | 935 | 3810 | 973 | 404932 | Private  | Stewart, Arthur Epps  | NU  | Stewart, Mrs. Lucy  | 22 Cunningham St., Toronto, Ont  | Canada  | Toronto., | Aug. 20, 1915. |
+| 22 | 610 | 970 | 3810 | 1001 | 405210 | Private  | Stewart, Charles  | NU  | Thrush, Nellie  | 56 Manning Ave., Toronto, Ont  | Canada  | Niagara.. | July 30, 1915. |
+| 22 | 613 | 999 | 3809 | 1029 | 141778 | Pri vate  | Stewart, Edward  | Nil  | Stewart, Mrs. Charlotte M.. | Welland South, Ont  | Scotland  | WeUand.. | 27, 1915. | July |
+| 22 | 612 | 1028 | 3811 | 1059 | 140194 | Private  | Stewart, Roy Henry  | Nil  | Stewart, Mrs. Annie  | Woodbridge, Ont  | Canada  | Toronto.. | 23, 1915. | July |
+| 22 | 610 | 1057 | 3810 | 1087 | 404913 | Private  | Still, Frederick K  | NU  | Still, John   | StreetsviUe, Ont    | England  | Toronto.. | 18, 1915. | Aug. |
+| 22 | 609 | 1086 | 3811 | 1116 | 401934 | Private  | Stittle, Bert  | Nil  | Stittle, Mrs. Amabel Edith. | 170 Commodore Ave., Toronto, Ont   | England  | Toronto.. | 17, 1915. | Aug. |
+| 22 | 610 | 1115 | 3811 | 1145 | 4042G2 | Corporal  | Stonehouse, Chester Edward  | NU  | Stonehouse, Mrs. M. E  | 90 Huntley St., Toronto, Ont  | Canada  | Toronto.. | 8, 1915. | April |
+| 22 | 609 | 1141 | 3812 | 1175 | 404439 | Private  | Stott, Christopher    | NU  | Stott, Hannah  | 27 Coleridge Ave., Newcastle, Eng  | England  | Toronto.. | April 12, 1915. |
+| 22 | 609 | 1172 | 3811 | 1203 | 401440 | Private  | Street, Frederick James  | NU  | Street, Mrs. E .  | Blewbury, Berks, Eng  | England.   | Toronto.. | April 8, 1915. |
+| 22 | 610 | 1198 | 3812 | 1234 | 405180 | Private  | Stringer, John William  | 109th Regt... | Stringer, Mrs. Harriet  | 28 Cornwall St., Toronto, Ont     | England    | Niagara.. | June 5, 1915. |
+| 22 | 610 | 1231 | 3916 | 1261 | 405094 | Bandsman  | troud, William Arthur  | NU  | Stroud, Mrs. M. E  | 12 Wayland Ave., Toronto, Ont  | England  | Toronto.. | April 5. 1915. |
+| 22 | 609 | 1259 | 3917 | 1291 | 4014G2 | Sergeant  | Stuart, David  | Can. MU  | Stuart, George  | 16 Posnett St., Belfast, Ire  | Ireland  | Toronto.. | April 12, 1915. |
+| 22 | 610 | 1290 | 3813 | 1319 | 401010 | Private  | Stuart, Duncan McLean  | Nil  | Stuart, Mrs. D. McL  | 2S4 Pape Ave., Toronto, Oat  | Canada  | Niagara.. | June 24, 1915. |
+| 22 | 610 | 1319 | 3812 | 1354 | 404020 | Private  | Stuckey, Norman uu. | Nil  | Stuckey, Mrs. Ethel E  | 9S Gladstone Ave., Toronto, Ont  | Canada  | Niagara.. | June 30, 1915. |
+| 22 | 609 | 1345 | 3813 | 1378 | 405095 | ftivate  | Studholme, Sydney MM. | NU  | Studholme, Emma  | 4 Victoria Ave., Birmingham, Eng  | England  | Toronto.. | 5, 1915. | AprU |
+| 22 | 609 | 1377 | 3814 | 1408 | 405096 | Private  | Styles, Wilfred Edward  | Can. Mil.... | Styles, Emma  | Wytham, Oxford, Eng  | England  | Toronto . | 5, 1915. | AprU |
+| 22 | 609 | 1406 | 3814 | 1436 | 401936 | Private  | Styles, William  | T erritorials.. | Styles, Mrs. Agnes  | 215 Naira Ave., Toronto, Ont  | England  | Toronto.. | 17, 1915. | Aug. |
+| 22 | 608 | 1435 | 3814 | 1465 | 404937 | Private  | Sutcliffe, Thomas Henry  | NU  | Sutcliffe, Mrs. Sarah Jane... | 175 Lippincot St., Toronto, Ont  | England  | Toronto.. | 16, 1915. | Aug. |
+| 22 | 608 | 1464 | 3815 | 1494 | 404441 | Private  | Sutherland, John George  | Nil  | Sutherland, Mrs. Janet. | 816 Euclid Ave., Toronto, Ont  | Scotland  | Niagara.. | 12. 1915. | June |
+| 22 | 607 | 1493 | 3815 | 1524 | 405144 | Private  | Swartman, Jacob  | 4St h Regt... | Swartman, Mrs. Nora. | Waubaushene. Ont   | Canada  | Niagara.. | 9, 1915. | June |
+| 22 | 607 | 1522 | 3815 | 1552 | 404260 | Sergeant  | Swift, Rowland  | Imp. Forces. | Swift, Mrs. Annie  | 34 Falkland Rd., Hornsey, London, Eng  | England  | Toronto.. | 8, 1915. | April |
+| 22 | 606 | 1551 | 3816 | 1581 | 404938 | Private  | Swigtjer, Gordon Norman  | 9th Horse... | Swigger, Christopher.. | 49 Saulter St., Toronto, Ont  | Canada  | Toronto.. | 23, 1915. | Aug. |
+| 22 | 606 | 1580 | 3817 | 1610 | 404263 | Corporal  | Switzer, Arthur Whaley  | NU. | Switzer, Mrs. Mary  | R.R. No. 1, Science HU1, Ont  | U.S.A  | Toronto.. | 8, 1915. | April |
+| 22 | 606 | 1609 | 3816 | 1640 | 401442 | Private  | Symmonds, WilliAm  | 58th Regt. | Symmonds, Harry. . .. | 82 Chesson Rd., West Kensington, London, Eng. .. | England  | Toronto.. | 18, 1915. | May |
+| 22 | 605 | 1638 | 3816 | 1667 | 404939 | L.-Corporal  | Tanton, William Herbert  | NU  | Tanton, Annie Elizabeth  | 24 Gresham Ave. W„ Toronto, Ont  | England  | Toronto.. | 25, 1915. | Aug. |
+| 22 | 605 | 1661 | 3816 | 1697 | 405145 | Private  | Tarplee, Frank George  | NU. | Tarplee, Mrs. Ethel  | 43 Wright Ave., Toronto, Ont  | England  | N iagara.. | 9, 1915. | June |
+| 22 | 606 | 1696 | 3816 | 1725 | 404940 | Corporal  | Tarrant, Samuel  | Territorials.. | Tarrant, Mrs. Helen... | 3 Royal Ave. W., Toronto, Ont  | England  | Toronto.. | 25, 1915. | Aug. |
+| 22 | 603 | 1719 | 3817 | 1755 | 4 04043 | Private  | Taylor, Albert Samuel  | Imp. Forces. | Taylor, Mrs. Nellie.... | 8 Seneca St., Toronto, Ont  | England  | N iagara.. | 11, 1915. | Sept. |
+| 22 | 606 | 1754 | 3817 | 1783 | 405146 | Private  | Taylor, Edward Thomas  | 4Sth Regt. . | Taylor, John  | 115 Wykeham Rd., Reading, Eng  | England  | Niagara.. | 9, 1915. | June |
+| 22 | 606 | 1782 | 3818 | 1812 | 405014 | Sergeant  | Taylor, Frederick William  | Can. MU | Taylor, Mrs. M  | 14 Grove Ave.. Toronto, Ont  | England  | Toronto.. | April | 5, 1915. |
+| 22 | 606 | 1806 | 3818 | 1841 | 404623 | Private  | Taylor, Henry Eugene  | Nil  | Taylor, Mrs. Nellie.... | 6a Burns St., Nottingham. Eng  | England........ | N iagara.. | June | 9, 1915. |
+| 22 | 607 | 1836 | 3818 | 1870 | 405286 | Private  | Taylor, Herbert Edward  | NU  | Taylor, Mrs. A  | 102 Logan Ave., Toronto, Ont  | England  | Toronto. | AprU | 8, 1915. |
+| 22 | 607 | 1870 | 3818 | 1899 | 401941 | Private  | Taylor, Moses  | NU  | Rhodes, Mrs. Sarah... | 643 Queen St. East, Toronto, Ont  | England  | Toronto. | Aug. |   7, 1915. |
+| 22 | 607 | 1899 | 3818 | 1929 | 405027 | Drummer  | Taylor, Percy  | 2nd Regt  | Taylor, Mrs. P  | 148 Queen St. East, Toronto, Ont  | Canada  | T oronto. | AprU 19, 1915. |
+| 22 | 607 | 1928 | 3819 | 1957 | 404005 | Drummer-Sergt. | Taylor, Rupert WarTen  | 2nd Regt  | Taylor, Mrs. Jessie Warren.. | 2204 Queen St. East, Toronto, Ont  | Canada  | Toronto. | April 19, 1915. |
+| 22 | 607 | 1957 | 3818 | 1986 | 4042S1 | Bugler  | Taylor, Warde Robertson  | NU  | Taylor, Mrs. J. W  | 2204 Queen St. East, Toronto, Ont  | Canada  | T oronto. | AprU 19, 1915. |
+| 22 | 607 | 1986 | 3818 | 2015 | 405181 | I*rivate  | Taylor, William Alfred  | C.A.M.C  | Taylor, John Henry... | 36 Arthur St., Windsor, Ont  | England  | Niagara. | June 15, 1915. |
+| 22 | 608 | 2014 | 3817 | 2044 | 404097 | Private  | Thair, Albert  | 9th Horse... | Thair, Mrs. Susan  | 11 Valley Rd., Little York East, Toronto, Ont... | England  | Niagara. | June 5, 1915. |
+| 22 | 610 | 2044 | 3818 | 2072 | 138710 | Private  | Thomas. Orville Leslie  | NU  | Thomas, George O.... | Burlington, Ont  | Canada  | Toronto. | July 12, 1915. |
+| 22 | 607 | 2073 | 3818 | 2102 | 404122 | Sergeant  | Thompson, Bruce  | NU  | Thompson, Mrs. Mary Alice | 621 Huron St., Toronto, Ont  | Canada  | Toronto. | May 12, 1915. |
+| 23 | 638 | 276 | 1482 | 306 | 404943 | Private. | Thompson. Frederick George Alex |
+| 23 | 1061 | 301 | 3824 | 336 |  |  | ander  | NU  | Thompson, Mrs. Mary...... | 93 McGee St., Toronto, Ont   | Canada... | Toronto.. | Aug. | 19, 1915. |
+| 23 | 637 | 330 | 3825 | 365 | 404121 | Private... | Thompson, Vernon Douglas  | 2nd Regt | Thompson, F  | 2200 Queen St. East, Toronto, Ont  | Canada... | Toronto. | April | 19, 1915. |
+| 23 | 636 | 359 | 3825 | 395 | 404624 | Private... | Thompeon, Walter Henry   | Imp. Foroes | Thompeon, Mrs. Agnes Mary | 144 Hope Ave., Earlscourt, Toronto, Ont  | England.. | Toronto. | April | 12, 1915. |
+| 23 | 637 | 388 | 3826 | 421 | 405182 | Private... | Thomson, Alexander  | Nil  | Thomson, John  | 110 Wellesley St., Toronto, Ont  | Scotland. | N iagara.. | June | 11. 1915. |
+| 23 | 637 | 417 | 3825 | 450 | 404044 | Private... | Thomson, Jack  | Nil  | Thomson, Mrs. Jennie  | Fern bank Cottage, Dalmellington, Ayr, Soot  | Scotland. | Toronto. | Aug. | 17, 1915. |
+| 23 | 638 | 446 | 3827 | 479 | 404 6 25 | Private... | Thornton, Charles Wilfred  | Can. Mil | Thornton, Mrs. Alice  | Upper Mill, Yorks, Eng  | England.. | Niagara | June | 5, 1915. |
+| 23 | 638 | 475 | 3826 | 509 | 404626 | Private... | Tillett, Arthur  | Nil  | Tillett, Mrs. Agnes  | 18 Robina Ave., Toronto, Ont  | England.. | Niagara. | June | 9, 1915. |
+| 23 | 637 | 504 | 3828 | 537 | 404946 | CorporaL. | Todd, Gordon  | Imp. Forces | Todd, Mrs. Phoebe  | 15 Wood St., Lancester, Eng  | England.. | Niagara. | Sept. | 1, 1915, |
+| 23 | 638 | 533 | 3827 | 566 | 404443 | Private... | Todd, John  | NU  | Todd, Mrs. E. A  | 630 Weston Rd. West, Toronto, Ont  | England.. | Toronto. | April | 12, 1915. |
+| 23 | 637 | 562 | 3827 | 595 | 405097 | Private... | Tootell, Sidney  | Territorials | Tootell, Mrs. B  | 29 Coombe St., Exeter, Devon, Eng  | England.. | Toronto. | April | 5, 1915. |
+| 23 | 638 | 591 | 3829 | 626 | 404627 | Private .. | Topple, Arthur  | Nil  | Topple, Frank  | 13 Inkerman St., Toronto, Ont  | England.. | Niagara. | June | 11, 1915. |
+| 23 | 637 | 620 | 3828 | 654 | 404444 | Private... | Torrance, Alexander  | NU  | Torrance, Mra. A....  | 527 Young St., Middletown, Ohio, U.S.A  | Scotland. | Toronto. | April | 12, 1915. |
+| 23 | 637 | 654 | 2430 | 683 | 40494 | Private... | Townshend, Earl John  | NU  | Townshend, Mrs. Elixabeth |
+| 23 | 2095 | 678 | 3829 | 709 |  |  |  |  | Alice   | 5 Hector Ave., Mt. Dennis, Ont  | England. | Toronto. | Aug. | 23, 1915. |
+| 23 | 636 | 707 | 3829 | 741 | 404948 | Private  | Tracey, William  | NU  | Curran, William  | Whitby, Ont  | Canada.. | Toronto. | Aug. | 24, 1915. |
+| 23 | 636 | 736 | 3829 | 769 | 404949 | Private  | Train, Vaughan  | Nil  | Jewell, Lillian  | 52 Tressilian St., Plymouth, Eng  | England. | Toronto. | Aug. | 19, 1915. |
+| 23 | 636 | 765 | 3829 | 800 | 404992 | Private  | Trangmar, James  | 12th Regt | Trangmar, Daisy' May  | 20 Yarmouth Rd., Toronto, Ont  | England. | N iagara. | Oct. | 9, 1915. |
+| 23 | 637 | 795 | 3830 | 827 | 404950 | Private  | Tremblett, Alfred Charles  | Nil  | Tremblett, Mrs. Mary Ann.. | 23 Delaney Ave., Toronto, Ont  | England. | Toronto. | Aug. | 18, 1915. |
+| 23 | 635 | 823 | 3830 | 856 | 404951 | Private  | Tremblett, William Henry  | NU  | Tremblett, Bertha May. ... | Milton Heights, Ont  | England. | Toronto. | Aug. | 25, 1915. |
+| 23 | 635 | 852 | 3830 | 886 | 404445 | Private  | Trimble, Allan  | 48th Regt | Trimble, W. J  | 152 Ratholme Rd., Toronto, Ont  | Canada.. | Toronto. | May | 17, 1915. |
+| 23 | 635 | 881 | 3829 | 915 | 404446 | Private  | Truax, Alfred  | 2nd Regt | Truax, Mrs. Margaret  | 26 Homewood Ave., Toronto, Ont  | Canada.. | Niagara. | June | 12, 1915. |
+| 23 | 635 | 910 | 3830 | 944 | 405287 | Private  | Trueman, Frederick  | Nil  | Trueman. George  | 3055 North 24th St., Philadelphia, U.S.A  | England. | Toronto. | Aug. | 21, 1915. |
+| 23 | 635 | 939 | 3830 | 973 | 405285 | Private  | Tucker, Richard  | Royal Navy | Wilkes, Mrs. L....  | 19 Connaught Ave., Toronto, Ont  | England. | Toronto. | May | 13, 1915. |
+| 23 | 634 | 968 | 3830 | 999 | 405147 | Private  | Tucker, Robert  | NU  | Tucker, Mrs. Annie.    | 50 Terrance St., Todmorden, Ont  | England, | Niagara. | June | 15, 1915. |
+| 23 | 633 | 997 | 3830 | 1030 | 404952 | Private  | Turkington, William Henry  | Nil  | Turkington, Mrs. Annie  | 1777 Dundas St., Toronto, Ont  | [reland.. | Toronto. | Aug. | 18, 1915. |
+| 23 | 633 | 1027 | 3829 | 1058 | 404953 | Private  | Turner, Harry  | Nil  | Turner, Mrs. Elizabeth  | Stockport, Eng  | England. | Toronto. | Aug. | 16, 1915. |
+| 23 | 633 | 1055 | 3829 | 1086 | 404628 | Private  | T umer, Henry  | S.A  | Street, Ann  | 159 Hamilton St., Toronto, Ont  | England. | Toronto. | Mar. | 18, 1915. |
+| 23 | 632 | 1085 | 3831 | 1116 | 404989 | Private  | Twining, Thomas  | NU  | Twining, Mrs. Florence  | c/o Rev. E. Larke, Mapleton, Minnesota, U.S.A... | England. | Niagara. | Sept. | 15, 1915. |
+| 23 | 631 | 1114 | 3936 | 1145 | 404284 | Bugler   | Unsworth, Joseph Stanley  | Can. Mil | Unsworth, Mrs. Jennie  | 96 Dearbourne Ave., Toronto, Ont  | Canada.. | Toronto. | April | 19, 1915. |
+| 23 | 632 | 1143 | 3830 | 1175 | 404447 | Private  | Cnwin, Harry Wallace..-  | 2nd Regt | Unwin, Mrs  | R.R. No. 1, Bath, Ont  | England. | N iagara. | June | 12, 1915. |
+| 23 | 632 | 1172 | 3831 | 1204 | 405015 | L.-Sergeant. | L'pfield, Charles Henry  | 48th Regt | Upfield, Charles  | 15 Caer Howell St., Toronto, Ont  | England. | Toronto. | April | 5, 1915. |
+| 23 | 632 | 1201 | 3831 | 1233 | 404046 | Private. | Van Wyck, Hewlett  | 19th Regt | Van Wyck, Daniel  | 103 Welland Ave., St. Catharines, Ont  | Canada.. | Niagara. | Sept. | 7, 1915. |
+| 23 | 632 | 1229 | 3831 | 1262 | 404028 | Private  | Venables, Charles Edward  | 12th Regt | Venables, Mrs. F  | 239 Palmerston Ave., Toronto, Ont  ... | Canada.. | Toronto. | April | 19, 1915. |
+| 23 | 632 | 1258 | 3832 | 1290 | 404629 | Private  | Waddington, Cyril  | Territorials | Waddington, Ben Cowper... | 12J Bertmount Ave., Toronto, Ont  | England. | Niagara. | June | 30, 1915. |
+| 23 | 632 | 1287 | 3833 | 1318 | 405289 | Private  | Wadsworth, Stephen  | C.A.S.C  | Wadsworth, Mrs. Mary  | 55S College St., Toronto, Ont  | England. | Niagara. | June | 15, 1915. |
+| 23 | 632 | 1317 | 3832 | 1348 | 405183 | Private  | Wagg. John Myers  | Can. Mil | \Vugg, Mrs. Hetta  | 1 j Macaulay Ave., Toronto, Ont  | England. | N iagara. | June | 11, 1915. |
+| 23 | 633 | 1341 | 2442 | 1377 | 405148 | Private  | Wakeiey, Arthur James  | Nil  | Wakeiey, Arthur James Wal¬ |
+| 23 | 2095 | 1374 | 3834 | 1405 |  |  |  |  | lace  | Burnhamthorpe P.O., Ont  | England ;.. | Niagara.. | June 5, | 1915. |
+| 23 | 633 | 1403 | 3833 | 1436 | 404271 | Corporal  | Wakling, George  | 2nd Regt | Brewer, Nellie  | 103 Morse St., Toronto, Ont  | England  | Toronto.. | April 8, | IS 15. |
+| 23 | 633 | 1432 | 3833 | 1463 | 405290 | Private  | Walden, Clarence. - | NU  | Walden, Madge   | Rochford, Essex, Eng  | England.  | Toronto.. | Aug. 14, | 1915. |
+| 23 | 634 | 1454 | 3834 | 1491 | 404955 | Private  | Wallace, Adam DC M MM.T. | NU  | Wallace, Mrs. Mary Jane | Bolton, Peel Co., Ont  | Canada  | Toronto. . | Aug. 23, | 1915. |
+| 23 | 633 | 1490 | 3835 | 1522 | 404448 | Private  | WaUace. Earl  | 2nd Regt | Stockdale, Mrs. A  | 143 Manning Ave., Toronto, Ont  | Canada  | Niagara.... | June 12, | 1915. |
+| 23 | 632 | 1519 | 3834 | 1551 | 405305 | Private  | Walt, Charles Aubrey  | 2nd Regt | W’alt, Mrs. A  | 258 Dunn Ave., Toronto, Ont  | Canada  | Toronto.... | April 19, | 1915. |
+| 23 | 631 | 1548 | 3835 | 1580 | 404449 | Private  | Ward, Bertram William  | 2nd Regt | Ward, Mrs. Jean   | 307 Rhodes Ave., Toronto, Ont  | Canada  | Toronto. . | May 18, | 1915. |
+| 23 | 633 | 1577 | 3834 | 1610 | 40495C | Private  | Ward, Charles WUliam  | 12th Regt | Ward, Mrs. Pollie  | 163 Bee St., Todmorden, Toronto, Ont. | England  | Toronto.. | Aug. 23, | 1915. |
+| 23 | 632 | 1607 | 3834 | 1636 | 405214 | Private  | Ward, James  | NU  | Ward, Mrs. Sarah Ann.. | 129 Marlborough Ave., Toronto. Ont. .. | England  | Niagara.. | June 24, | 1915. |
+| 23 | 632 | 1635 | 3836 | 1666 | 404630 | L.-Corporal | Warman, Frank  | Territorials | Warman, Mrs. Ann  | Albury P.O., nr. Ware, Herts, Eng  | England  | Toronto.. | April 28, | 1915. |
+| 23 | 632 | 1664 | 3836 | 1695 | 405149 | Private  | Wason, John  | NU  | Wason. Margaret Noble. | 10 Elm Place, Leith, Scot  | Scotland  | Niagara.. | July 20, | 1915. |
+| 23 | 632 | 1693 | 3836 | 1724 | 405213 | Private  | Waterfield, Charles  | Nil  | Waterfield, Albert  | 33 Argyle St., Toronto, Ont  | England  | Niagara.... | June 15, | 1915. |
+| 23 | 631 | 1722 | 3836 | 1752 | 404958 | Private  | Waters, William  | Nil  | Waters, John  | 77 Hamburg Ave., Toronto, Ont  | Canada  | Toronto... | Aug. 19, | 1915. |
+| 23 | 631 | 1752 | 3836 | 1784 | 404631 | Private  | Watkinson, Geonre Legge  | 10th Regt | Watkinson, Mary  | 173 Balsam Ave., Toronto, Ont  | Canada  | N iagara... | Auk. 4, | 1915. |
+| 23 | 630 | 1780 | 3837 | 1810 | 404450 | Private  | Watson, Albert Ernest  | NU  | Watson, William W  | Bank of Nova Scotia, Toronto, Ont | Newfoundland. | Toronto... | May 18, | 1915. |
+| 23 | 630 | 1808 | 3837 | 1840 | 404256 | Sergeant  | Watson, George Victor  | Can. MU | Watson, Mrs. Mary  | 80 Madison Ave., Toronto, Ont  | Canada  | Toronto. .. | April 8, | 1915. |
+| 23 | 631 | 1838 | 3838 | 1871 | 404280 | L.-Corporal.. | Watson, John Bertram  | 2nd Regt | Watson, Mrs. Marie M. . . | 265 Howland Ave., Toronto, Ont  | Canada  | Toronto... | April 19, | 1915. |
+| 23 | 631 | 1866 | 3839 | 1897 | 404 C32 | Private  | Watson, Thomas James  | Nil  | Watson, Mrs. I .  | 147 Symmington Ave., Toronto. Ont... | Canada  | Toronto... | April 12, | 1915. |
+| 23 | 631 | 1896 | 3841 | 1929 | 405215 | Private  | Watterson, Walter George  | Nil  | Watterson, Mrs. Matilda. | 83 Rosethorne Ave., Toronto, Ont  | Ireland  | N iagara.... | July 6, | 1915. |
+| 23 | 630 | 1924 | 3840 | 1957 | 404451 | Private  | Watts, Frederick William  | NU  | Penny, Mrs  | 110 Peter St., Toronto, Ont  | England   | Toronto.... | April 12, | 1915. |
+| 23 | 631 | 1954 | 3840 | 1986 | 404061 | Private  | Watts, WUliam  | Imp. Forces | Watts, Harry    | Redhill, Surrey, Eng  | England  | T oronto.... | Aug. 16, | 1915. |
+| 23 | 631 | 1983 | 3840 | 2017 | 40515C | Private  | Waylett, Frederick George  | NU  | Waylett, Mrs. Emily. . .. | 11 Poulette St., Toronto, Ont  | England  | Niagara.... | June 5, | 1915. |
+| 24 | 602 | 555 | 3359 | 607 | Jl |  |  |  | Name of Next of Kin. |  | Country of |
+| 24 | 3240 | 608 | 3740 | 638 |  |  |  |  |  |  | Birth. | Place. | Date. |
+| 24 | 599 | 722 | 3794 | 753 | 4C4633 | Private  | Wear, Frank  | Nil  | Wear, Mrs. Agnes Scott... | 16 East Road. Egremont, Cumberland, Eng. | England  | N iagara | lune | 1915. |
+| 24 | 599 | 746 | 3795 | 780 | 404065 | Private  | Webb, Ernest Arthur rlPJ | NU  | Webb, WUliam James  | 1196 DufTerin St., Toronto, Ont  | Canada  | Toronto. | May | 1915. |
+| 24 | 598 | 780 | 3795 | 809 | 4M008 | Pay Sergeant.... | Webb, Henry Alfred  | 48th Regt  | Webb, Mrs. Annie E  | 1051 DufTerin St., Toronto, Ont  | England  | Toronto. | May | 1915. |
+| 24 | 597 | 809 | 3794 | 838 | •405008 | Sergeant  | Webber, Bertram Robert  | 48th Regt  | Webber, Mrs. Emma  | Ill Bartlett Ave., Toronto, Ont  | Newfoundland.. | Toronto | AprU | 1915. |
+| 24 | 597 | 838 | 3795 | 868 | 404470 | L.-Sergeant  | Webster, Edward  | Nil   | Webster, WUliam  | 357 Ossington Ave., Toronto, Ont  | Canada  | Toronto. | AprU | 1915. |
+| 24 | 596 | 863 | 3794 | 896 | 404962 | Private  | Webster, James MM | Nil  •  | Wesbter, Mrs. Christinp.... | 114 Boult bee St., Toronto, Ont. ..  | Scotland  | Niagara | Sept. | 1915. |
+| 24 | 596 | 897 | 3793 | 924 | 404965 | Private  | Weir, Ernest  | Nil  | Weir, Mrs. Annie  | 429 Woodbine Ave., Toronto, Ont  | Canada  | Toronto | Aug. | 1915. |
+| 24 | 596 | 925 | 3794 | 954 | 405151 | Private  | Weir, James  | Nil  | Weir, Mrs. Katherine  | 36 Gladstone Ave., Toronto, Ont..  | Ireland  | Niagara. | June | 1915. |
+| 24 | 596 | 954 | 3794 | 984 | 404964 | Private  | Welton. Harry Nightingale  | Nil  | Welton, George Mansford. | 76 Laws St., Toronto, Ont  | Canada  | Toronto. | Aug. | 1915. |
+| 24 | 595 | 982 | 3793 | 1012 | 404463 | Sergeant  | West, Edwin Stanley  | Nil  | West, Mrs. E. E  | 57 Oak St., Toronto. Ont   | England  | Toronto. | AprU | 1915. |
+| 24 | 594 | 1011 | 3793 | 1041 | 404965 | Private  | West, George  | NU  | W’est, Mrs. EmUy Walker. | Newmarket, York Co., Ont  | Canada  | Toronto. | Aug. | 1915. |
+| 24 | 594 | 1040 | 3794 | 1070 | 404635 | Private  | West, Stephen  | Nil   | West, Mrs. Amelia  | 73 Darrel Rd. East Dulwich, Eng  | England  | N iagara | June | 1915. |
+| 24 | 594 | 1068 | 3794 | 1098 | 405332 | Private  | West, Vernon Elton  | Nil  | West, Mrs. Henrietta  | Cheddon Rd., Taunton, Eng  | England  | N iagara | Sept. | 1915. |
+| 24 | 597 | 1098 | 3795 | 1126 | 138998 | Private  | Wharrard, Horace  | Nil  | W'harrard, Walter  | “"0 Gladstone Ave., Toronto, Ont  | England  | Toronto. | Aug. | 1915. |
+| 24 | 593 | 1127 | 3795 | 1155 | 404966 | Private  | Wharrard, James  | Nil  | Wharrard, Mrs. Jane Ann. | 0 Gladstone Ave.. Toronto, Ont  | England  | Toronto. | Aug. | 1915. |
+| 24 | 593 | 1156 | 3795 | 1192 | 404967 | Private  | Wheeler, John uu | Nil  | Wheeler, Mrs. Sarah  | 303 Spadina Ave., Toronto, Ont  | England  | Toronto. | Aug. | 1915. |
+| 24 | 592 | 1181 | 3796 | 1213 | 404968 | Private  | Whit com be, Paul MM | Nil  | WTiitcombe, Mrs. Ida  | 155 Heward Ave., Toronto, Ont  | Canada  | Toronto | Aug. | 1915. |
+| 24 | 592 | 1212 | 3796 | 1242 | 405098 | Private  | White, Frank  | Nil  | White, Thomas.    | 104 Chalvey Crescent, Slough, Eng  | England  | Toronto | April | 1915. |
+| 24 | 591 | 1242 | 3796 | 1270 | 404969 | Private  | White. William Alexander  | NU  | White, Florence  | 25 Bedford Rd., Toronto, Ont  | England  | Toronto | Aug. | 1915. |
+| 24 | 591 | 1271 | 3796 | 1301 | 404018 | Private  | Whitelaw, Archibald  | Nil  | Whitelaw, Mrs. EmUy.... | 274 Springburn Rd., Glasgow, Scot  | Scotland  | Niagara | June | 1915. |
+| 24 | 592 | 1300 | 3796 | 1329 | 405184 | Private  | Wilcocks. Leonard  | *il  | WUcocks, Mrs. Annie  | 7 Egerton St., Heywood, Eng  | England  | Niagara | June | 1915. |
+| 24 | 591 | 1329 | 3796 | 1358 | 405185 | Private  | Wilkinson, David  | Cil  | Wilkinson, Mrs. Minnie  | 891 Keele St., Toronto. Ont  | England  | N iagara | June | 1915. |
+| 24 | 591 | 1358 | 3797 | 1387 | 404970 | Private  | Wilkinson, Frederick  | il  | Wilkinson, Mrs. Annie  | 14 Sproatt Ave., Toronto, Ont  | England  | Toronto. | Aug. | 1915. |
+| 24 | 590 | 1385 | 3796 | 1416 | 404452 | Private  | Williams, Clifford Victor I Nil |  | W'Uliams, Mrs. E.H  | c/o Bank of Commerce. Goderich. Ont  | Canada  | Toronto | April | 1915. |
+| 24 | 589 | 1415 | 3797 | 1446 | 404045 | Private  | Williams, Ernest Herbert Victor. . Nil |  | W’illiams, James  | 16 Fajama Place, Mt. Dennis, Ont  | England  | Niagara. | July | 1915. |
+| 24 | 589 | 1445 | 3796 | 1474 | 4 04971 | Private  | Williams, John  Nil. |  | Williams, Mrs. Alice  | 66 Ea.«tmount Ave., Toronto, Ont  | England  | Toronto. | Aug. | 1915. |
+| 24 | 588 | 1472 | 3796 | 1505 | 405026 | Bugler  | Williams, Roy   2nd Regt. |  | Williams, Marjory M  | 24 Arthur St., Toronto, Ont...’  | U.S.A  | Toronto. | May | 1915. |
+| 24 | 589 | 1505 | 2369 | 1532 | 404972 | Private  | Williamson, Harold Victor Nil. |  | WUliamson, Mrs. Clara |
+| 24 | 2061 | 1530 | 3796 | 1560 |  |  |  |  | Esther  | 118 Spadina Rd., Toronto, Ont  | Canada  | Toronto | Aug. | 1915. |
+| 24 | 588 | 1560 | 3796 | 1590 | 404044 | Private  | Williamson, John Robb  | Nil   | Williamson, Mrs  | 688 Ontario St.. Toronto, Ont  | Scotland  | N iagaru | June | 1915. |
+| 24 | 588 | 1588 | 3796 | 1621 | 404019 | Private  | Williamson, William David ....... | 48th Regt  | WUliamson, George  | 8a MUldenhall Rd., Clapton. London, Eng.. . . | England  | Toronto | April | 1915. |
+| 24 | 587 | 1618 | 3795 | 1648 | 405099 | Private  | WiUox, John  | Nil....  | Anderson, Mias Jeannie  | Denend Udny, Aberdeen. Scot  | Scotland  | N iagara | June | 1915. |
+| 24 | 587 | 1647 | 3796 | 1678 | 404973 | Private  | Wills, Robert  | Imp. Forces  | Wills, Mrs. Ada E  | ft Shaw St. North, Toronto, Ont.  | England  | Toronto. | Aug | 1915. |
+| 24 | 588 | 1676 | 3796 | 1706 | 405186 | Private  | Wilson, Charles Munroc  | Nil  | Wilson, Mrs. Jane  | 21 Marvfield, Edinburgh, Soot  | Scotland  | N iagara | June | 1915. |
+| 24 | 588 | 1704 | 3795 | 1735 | 404637 | Private  | Wilson, Edward Lawrence  | Nil  | W'Uson, Denis  | la Ford St., Detroit, Mich., U.S.A  | Canada  | Niagara | June | 1915. |
+| 24 | 588 | 1733 | 3795 | 1765 | 404114 | Private   | Wilson, Henry Norman  | Nil  | WUson, Patrick Thomas... | 176 Argyle St., Toronto, Ont  | Canada  | Niagara. | June | 1915. |
+| 24 | 587 | 1761 | 3796 | 1794 | 405022 | L.-Corporal  | Wilson, John Bennett  | Nil   | WUson, James  | 215 Stockport Rd., Gee Croas, Hyde. Eng... . | England  | Toronto | April | 1915. |
+| 24 | 587 | 1791 | 3795 | 1824 | 404636 | I'rivate  | WUson, Robert Montgomery  | Nil  | WUson, Robert James  | 32 Camden St., Belfast, Ire  | Ireland  | N iagara | June | 1915. |
+| 24 | 585 | 1820 | 3796 | 1851 | 404974 | Private  | Wilson, Thomas William  | Nil  | Wilson, Mrs. Sarah  | Lough rev, Cookstown, Tyrone, Ire  | Ireland  | Toronto | Aug | 1915. |
+| 24 | 587 | 1848 | 3796 | 1881 | 405023 | L.-Corporal  | Wilson, WUliam Daniel  | Nil  | Wilson, William  | Maxwell St., Dumfries, Scot  | Scotland  | Toronto | April | 1915. |
+| 24 | 587 | 1878 | 3795 | 1910 | 404975 | L.-Corporal  | Winter, John Thomas  | Imp. Forces    | Winter, Mrs. LUlian  | 945 Queen St. West, Toronto, Ont  | England  | Toronto | Aug | 1915. |
+| 24 | 587 | 1906 | 3795 | 1938 | 404453 | Private  | Win ton, Harold  | Nil  | Winton, Mrs. Lucy  | 387 Danforth Ave., Toronto, Ont  | England    | Toronto | AprU | 1915. |
+| 24 | 587 | 1935 | 3795 | 1969 | 404639 | Private  | Wiener, Alexander  | 10th Regt  | Wisner, Jane  | Tobcrmore, Co. Derry, Ire  | Ireland  | Niagara | Aug. | 1915. |
+| 24 | 591 | 1964 | 3795 | 1995 | 140215 | Private  | Witham, Thomas  | Nil  | W’itham, Mrs. Ada  | 394 Adelaide St. West, Toronto, Ont  | England  | Toronto | Aug. | 1915. |
+| 24 | 587 | 1993 | 3795 | 2024 | 405153 | Private  | Wood, Alfred  | Nil  | Wood, Mrs. Millie   | 21 Amroth Ave., Toronto, Ont  | England  | N iagara | June | 1915. |
+| 24 | 586 | 2022 | 3794 | 2056 | 4C4976 | Private  | Wood, George  |  | Wood, Peter  | 9S Fulton Ave., Toronto, Ont  | Scotland  | Toronto | Aug. | 1915. |
+| 24 | 587 | 2045 | 3794 | 2083 | 405154 | Private  | Woodhouse, Frederick Romaine... | Nil!.'.’;!!!!!!!!!!!!!.’!!!!!!!!!!!!!!! | Binninton, Mrs. E  | 415 Runnymeade Rd.. Toronto, Ont  | Canada  | N iagara | June’" | 1915. |
+| 24 | 586 | 2080 | 3794 | 2111 | 404977 | Private  | Woods, James  | Nil  | Woods, Mrs. Elixabeth  | 39 Blake St., Toronto, Ont  | England ....... | Toronto | Aug. | 1915. |
+| 24 | 586 | 2109 | 3795 | 2143 | 404978 | Private  | Wool/enden, John  | 2nd Regt  | Woolfenden, Mrs. Selina.... | 62 Methuen Ave., Toronto, Ont  | England  | Toronto | Aug. | 1915. |
+| 25 | 617 | 664 | 3819 | 702 | 404640 | Private  | Worsfold, Ernest George  | NU. | Worsfold, Mrs. Sophia  | Eastwood Rd., Bramley, Surrey, Eng  | England  | Niagara. | June | 9, 1015. |
+| 25 | 616 | 693 | 3819 | 730 | 404657 | Drummer  | Worsley, Robert  | Nil. | Worsley, Mrs. Agnes  | Kearney P.O.. Ont    | Canada  | Toronto. | May | 22, 1915. |
+| 25 | 615 | 722 | 3819 | 758 | 404979 | Private  | Worth, William  | Nil. | Worth, Abel  | Marhamchurch. nr. Bude, Cornwall, Eng  | England  | Niagara. | Sept. | 1, 1915. |
+| 25 | 614 | 751 | 3820 | 787 | 405293 | Private  | Wright, Arthur.   | NU  | Wright, Robert  | 65 Ennerdale Rd., Earlscourt, Toronto, Ont  | England  | Toronto. | Aug. | 18. 1915. |
+| 25 | 614 | 780 | 3820 | 816 | 405292 | Private  | Wright. Frank  | Nil  | Wright, William  | 12 Hiawatha Rd., Toronto, Ont  | England  | Toronto. | Aug. | 17, 1915. |
+| 25 | 613 | 809 | 3819 | 846 | 404455 | Private  | Wright, Frank  | NU  | Wright, W'alter  | 108 Westfield Rd., Kings Heath, Birmingham, Eng. | England  | N iagara. | Sept. | 7, 1915. |
+| 25 | 613 | 838 | 3820 | 875 | 404109 | Private  | Wright, George Henry  | NU  | Wright, George Henry  | 1 Commercial St., Jersey, Channel Islands  | Channel Islands | Toronto. | May | 25. 1915. |
+| 25 | 612 | 868 | 3820 | 904 | 404980 | Private  | Wright, Percy John  | NU  | Wright, Robert  | Corsham, W'iJts, Eng  | England  | Toronto. | Aug. | 25, 1915. |
+| 25 | 611 | 897 | 3820 | 933 | 404454 | Private  | Wright, William  | 2nd Regt | Wright, William  | 143 St. George St., Smethwick. Staffs, Eng  | England  | N iagara. | June | 12. 1915. |
+| 25 | 611 | 926 | 3819 | 962 | 404981 | Private  | Wyllie, Frederick Norman  | NU  | Wyllie, Mrs. Jennie  | 525 Spruce St. East, Sault Ste. Marie, Mich., U.S.A. | Canada  | Toronto. | Aug. | 23, 1915. |
+| 25 | 610 | 954 | 3819 | 990 | 404456 | Private  | Yeates, Joseph Henry  | Territorials | Yeates, Mrs. E  | 78 Cumberland St., Toronto, Ont  | England  | Toronto. | April | 12. 1915. |
+| 25 | 611 | 982 | 3820 | 1021 | 404C02 | B.Q.-M.S   | Young, Henry  | S. A. | Young, Mrs. Margaret Louise | 43 Havelock St., Toronto, Ont  | Canada  | Toronto. | April | 10. 1915. |
+| 25 | 609 | 1012 | 3820 | 1049 | 405187 | Private  | Young, Morris James  | 51st Regt | Young, Mrs. Jennie  | Sudbury, Ont  | Canada  | N iagara. | June | 5. 1915. |
+| 25 | 608 | 1041 | 3821 | 1083 | 404982, | Private  | Young, Stanley Herbert  | Nil  | Young, Walter | | c/o Percy Young. 17 Harbord St., Toronto, Ont. .. | England  | Toronto. | Aug. | 19, 1915. |
+| 25 | 608 | 1069 | 3820 | 1108 | 405320 | Bandsman  | Youngman, Byam George William | NU  | Youngman, Mrs. Louie  | Forest Croft. Thornhill, Ont  | England  | N iagara. | Sept. | 3, 1915. |
+| 25 | 608 | 1100 | 3164 | 1137 | 4C4983 | Private ; | Yule, John Brown  | Imp. Forces | Patterson, Mrs. Margaret . .. | 175 Spruce St., Richmond Hill, Long Island, N.Y., |
+| 25 | 2485 | 1126 | 3819 | 1160 |  |  |  |  |  | U.S.A   | Scotland  Niaenra |  | Sept. 4.1915. |
+| 26 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 35th BATTALION | (1st Reinforcing Draft) | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Montreal. | Ship: S.S. " Metajama." |
+| 27 | 632 | 589 | 3394 | 622 | .52 |  |  |  | Name of Next of Kin. |  | Country of |
+| 27 | 729 | 732 | 3831 | 768 |  | Major   | Smith, Harry Eden  | 2nd Regt.. | Smith, Mrs. H. Eden  | 4 Sultan St., Toronto. Ont   | England  | Toronto. | April | 1915. |
+| 27 | 731 | 761 | 3831 | 797 |  | Lieutenant. | Crawford, John Knox  | 10th Regt. | Crawford, Mrs. M. M  | 21 Millerfield Place, Edinburgh, Scot  | Scotland  | Toronto. | April | 1915. |
+| 27 | 730 | 790 | 3831 | 826 |  | Lieutenant. | Davison. John Arnold  | 48th Regt. | Davison, Mrs. Annie Cora.. | 110 Crescent Rd., Toronto. Ont  | Canada  | Toronto. | April | 1915. |
+| 27 | 729 | 820 | 3831 | 855 |  | Lieutenant. | Mackenzie, George Lawrem | 12th Regt. | Mackenzie, G. A  | 46 Admiral Rd., Toronto, Ont  | Canada  | Toronto. | April | 1915. |
+| 27 | 728 | 849 | 3831 | 884 |  | Lieutenant. | Platt, Henry Errol B  | 2nd Regt.. | Piatt, Mrs. Arthur L  | London Mutual Fire Insurance Co., Toronto, | Canada  | Toronto. | May | 1915. |
+| 27 | 629 | 877 | 3831 | 913 |  | Private  | 404001 | Adam, George  | 10th Regt. | Adam, Mrs. K  | 6 Seventh St., New Toronto. Ont  | Scotland  | T oronto. | April | 1915. |
+| 27 | 628 | 906 | 3831 | 941 |  | Private  | 404002 | Agar, Joseph Matthew  | Nil  | Agar, Mrs. Joseph  | NoblHon, Ont  | Canada  | Toronto. | April | 1915. |
+| 27 | 628 | 935 | 3832 | 967 |  | Private  | 404004 | AJdred, Charles William... | Nil  | Aldred, Mrs. Jessie  | 142 B-*ech Ave., Toronto, Ont  | England  | Toronto. | April | 1915. |
+| 27 | 628 | 964 | 3832 | 998 |  | Private  | 404003 | Allcock, Sidney Charles. . . | Nil  | Allcock, Samuel Thoma*.. | 216 Wobourn Ave., Bedford Park, Toronto, Ont. . | England  | Toronto. | April | 1915. |
+| 27 | 627 | 993 | 3833 | 1028 |  | Private  | 404005 | Andrew. Bernard Montague | 2nd Regt.. | Andrew, John M  | P.O. Box 772, Vancouver. B.C  | England  | T oronto. | April | 1915. |
+| 27 | 626 | 1021 | 3833 | 1055 |  | Private  | 404000 | .Andrews, Arthur William.. | Nil  | Andrews, Miss Irene  | 54 Park Rd., Rvde. I. of W., Eng  | England  | Toronto. | April | 1915. |
+| 27 | 626 | 1050 | 3832 | 1084 |  | Private  | 404007 | Ann is, Cecil   | Nil  | Annis, I.evi G  | Highland Creek, Ont  | Canada  | Toronto. | April | 1915. |
+| 27 | 627 | 1079 | 3832 | 1114 |  | Private  | 404008 | Ashton, Harry  | Nil  | Ashton. Mrs. Ruth..    | 33 Hocken Ave., Toronto, Ont    | England  | Toronto. | April | 1915. |
+| 27 | 627 | 1111 | 3179 | 1141 |  | Private  | 404001* | Attficld, William  | Nil  | Attfield, Edward  | Springfield Station Road, llampden Park, Sussex |
+| 27 | 2513 | 1136 | 3833 | 1171 |  |  |  |  |  | Eng   | England.. . | Toronto | April | 1915. |
+| 27 | 628 | 1166 | 3834 | 1206 | 4040JO | Private  | Bailey, Albert Thomas. .. | Nil. | Bailey, Mrs. Albert T. ... | 88 Wallace Ave., Toronto, Ont ^  | Canada.... | Toronto. | April | 1915. |
+| 27 | 628 | 1195 | 3833 | 1228 | 404011 | Private  | Baldwin, Samuel Thomas | Nil. | Baldwin, Miss Ethel  | 43 Grosvenor Road, Tunbridge Wells, Kent, Eng | England.. . | Toronto. | April | 1915. |
+| 27 | 627 | 1224 | 3833 | 1259 | 404012 | Private  | Barker, John Ernest  | Nil. | Barker, Mrs. Emily  | 747 Pape Ave., Toronto. Ont  | England... | Toronto | April | 1915. |
+| 27 | 627 | 1252 | 3834 | 1286 | 404013 | Private  | Barlow, Hcnrv John  | Nil. | Barlow, Mrs. Christina. .. | 214 John-St., Toronto, Ont  | England. . | Toronto. | April | 1915. |
+| 27 | 627 | 1281 | 3834 | 1314 | 404014 | Private  | Barnetson, Albert  | Nil  | Barnetson. Mrs. Ellen Milne | 118 Park St., Aberdeen, Scot   | Scot land. . | Toronto | April | 1915. |
+| 27 | 627 | 1310 | 3835 | 1345 | 404015 | Private  | Barr, Matthew Semple... | Nil  | Barr, William  | 52 Ballgreen St., St rat haven, Lanark., Scot  | Scotland. . | Toronto | April | 1915. |
+| 27 | 627 | 1340 | 3834 | 1373 | 404016 | Private  | Barrett, George Arthur... | Nil  | Barrett, Mrs. Emma  | 1379 Davenport Rd., Toronto, Ont  | England.. | Toronto | April | 1915. |
+| 27 | 627 | 1369 | 3834 | 1403 | 404017 | Private  | Barron, Colin  | Nil  | Barron, Joseph  | Mill-of-Boyndc. Banff. Scot...   | Scotland. . | Toronto. | April | 1915. |
+| 27 | 626 | 1397 | 3834 | 1432 | 404018 | Private. | Bembridpe, Alfred  | Nil  | Bembridge. Mrs. E  | lOTithebaru Rd., Southport, Eng  | England.. | Toronto | April | 1915. |
+| 27 | 626 | 1426 | 3835 | 1460 | 4040191 Private  |  | Benfield, Henry  | Nil  | Clipston, Florence  | Leicester, Eng     | England... | Toronto. | April | 1915. |
+| 27 | 625 | 1455 | 3836 | 1489 | 404020 | Private. | Bickers, Frank  | Imp. Forces | Bickers. Ernest  | Barion Camp. Rawal Pindi, India  | England... | Toronto. | April | 1915. |
+| 27 | 625 | 1484 | 3835 | 1518 | 404021 | Private  | Bickerton, Abraham  | Nil | Bickerton, Mrs. Dinah  | Withcnton, Chcs., Eng.     | England.. | Toronto. | April | 1915. |
+| 27 | 625 | 1513 | 3836 | 1547 | 404022 | Private  | Binns, Frank  |  | Binns, Mrs. Anna  | 510 Wellington St. W., Toronto, Ont  | England.. . | Toronto. | April | 1915. |
+| 27 | 624 | 1541 | 3836 | 1576 | 404023 | Sergeant  | Bishop, William Joseph... | Imp. Forces | Bishop, Mrs. J  | 52 Cliff St., Mount Dennis. Ont  | England.. . | Toronto. | April | 1915. |
+| 27 | 624 | 1570 | 3836 | 1606 | 404024 | Private  | Blandford, Charles Edward |  | Blandford. Mrs. Elise  | Spanficld Apts., Bloor & Bartlett Sts., Toronto, Ont. | England... | Toronto. | April | 1915. |
+| 27 | 624 | 1599 | 3836 | 1634 | 404025 | Private  | Bodkin, Joseph  |  | Bodkin, Mrs. Bell  | 371 Bathurst St., Toronto, Ont  | Canada.... | Toronto. | April | 1915. |
+| 27 | 624 | 1628 | 3836 | 1661 | 404026 | Private  | Bolton, Maurice Richard. . | Nil  | Bolton, William  | Low Bentbain. Lancs, Eng  | England... | Toronto | April | 1915. |
+| 27 | 623 | 1657 | 3836 | 1692 | 404027 | Private  | Booth. Daniel Taylor  | Imp. Forre | Booth, Mrs. V  | 116 Ivy Ave., Toronto, Ont  | England... | Toronto. | April | 1915. |
+| 27 | 623 | 1686 | 3836 | 1721 | 404028 | Private  | BoitLII, Wilfred  | Nil  | Borriil. Mrs. Mary  | Keelby, Lines, Eng.  | England.. | Toronto. | April | 1915. |
+| 27 | 623 | 1714 | 3837 | 1750 | 404028 | Private  | Bourke, William John  | 30th Regt | Pugh, Elizabeth  | 20 Kingsley Ave. \V., Toronto, Ont..   | Ireland | Toronto. | April | 1915. |
+| 27 | 623 | 1743 | 3837 | 1779 | 404030 | Private  | Bradley, James  | Nil  | Bradley, Mrs. Maggie  | 108 Clementine St., Belfast, Ire  | Ireland.. .. | Toronto. | April | 1915. |
+| 27 | 623 | 1772 | 3836 | 1807 | 404031 | Private  | Brine. Arthur George  | Imp. Force | Brine, Mrs. R. M  | 52 Brookfield St., Toronto, Ont..   | England... | Toronto. | April | 1915. |
+| 27 | 623 | 1801 | 3836 | 1837 | 404032 | Private  | Broddy, Clayton Brown... | Nil  | Broddy, J. C.    | 156 Bedford Park Ave., Toronto. Ont  | Canada | Toronto | April | 1915. |
+| 27 | 623 | 1830 | 3835 | 1864 | 4040331 Private.. |  | BufTham, John Robert  |  | Buffham, Henrietta  | 36 Plymouth Rd., Cannington, Bridgewater, Eng.. | England.. . | Toronto | April | 1915. |
+| 27 | 623 | 1859 | 3835 | 1894 | 404034 | Private  | Bundy, Frank  | Nil... | Bundy, Harry  | 106 Ilighfield Rd., Toronto, Ont  | England .. | Toronto. | April | 1915. |
+| 27 | 623 | 1888 | 3835 | 1923 | 404035 | Private  | Callaghan, Joseph  | Nil... | Callaghan, Mrs. Marion  | 25 McDonald Ave., Fairbank, York, Ont  | England... | Toronto. | April | 1915. |
+| 27 | 623 | 1917 | 3834 | 1950 | 40403G | Private.L.   | Cameron, Robert B  | Nil... | Cameron, Robert B  | 284 Campbell Ave., Toronto, Ont  | Scotland. . | Toronto. | April | 1915. |
+| 27 | 623 | 1946 | 3834 | 1980 | 404037 | Private  | Campbell, Macrae  | Nil... | Campbell, Herbert D  | 25 Jarvis St., Toronto, Ont  | Canada— | Toronto. | April | 1915. |
+| 27 | 624 | 1974 | 3834 | 2009 | 40403S | Corporal  | Carpenter, Albert Edward. | Nil. | Carpenter, Albert Mark  | c/o Mrs. R. Rye, Bethcsda P.O., Ont  | England.. . | Toronto. | April | 1915. |
+| 27 | 623 | 2003 | 3833 | 2038 | 404035 | Private  | Carway, Thomas Edmund. | Nil  | Carway, P  | 999 Queen St. W., Toronto, Ont  | Ireland... | Toronto. | April | 1915. |
+| 27 | 623 | 2032 | 3833 | 2067 | 404010 | Private  | Chapman, John Alfred  | Nil | Chapman, John C  | 27 North cote St., Toronto, Ont  | England... | Toronto. | April | 1915. |
+| 27 | 623 | 2061 | 3833 | 2096 | 404041 | Private  | Chisholm, Reginald  | Nil | Chisholm, Mr3. Mary Eva.. | 17 Bloomfield Ave., Toronto, Ont  | Canada.... | Toronto. | April | 1915. |
+| 27 | 622 | 2090 | 3833 | 2126 | 404042) Private. |  | Clelland, David  | Nil | Clelland, Miss .Agnes... | 5 St. Monique Ave., Montreal, P.Q  | Scotland. . | Toronto. | April | 1915. |
+| 27 | 622 | 2119 | 3834 | 2155 | 404 <M3: Private.. |  | Clough,John  | Imp. Forcca | Clough, Mrs. E  | 32 Cliff St., Mount Dennis, Ont  | England... | Toronto. | April | 1915. |
+| 28 | 639 | 275 | 3827 | 302 | 4G4044 Private  |  |  |  |  |  | Toronto.... | AprU 12. 1915. |
+| 28 | 999 | 303 | 3825 | 334 |  | Coleman, John Walter  | Nil  | Coleman. Mrs. Elizabeth. .. |  |  | Toronto... . | April 12. 1915. |
+| 28 | 1507 | 361 | 3826 | 391 |  |  | Nil.   |  |  | Malta  | Toronto. . .. | April 8, 1915. |
+| 28 | 1000 | 477 | 3828 | 511 |  | Crickmore, Sydney M  | Nil.      |  | 2S2 Sheldrake Blvd., N. Toronto, Ont  |  | Toronto. . . . | AprU 5, 1915. |
+| 28 | 637 | 597 | 2342 | 627 | 404054 Private  |  | Nil  | Cummlag, Mrs. Bella |
+| 28 | 997 | 650 | 3828 | 683 |  | Curtis, Roy  | Nil. |  | 742 Huron St.. Toronto, Ont  |  | Toronto.... | April 12, 1915. |
+| 28 | 999 | 679 | 3828 | 713 |  | Davison, Hugh  |  | Davison, Mrs. Anna  | 22 Walpole Ave., Toronto, Ont  |  | Toronto.... | April 12, 1915. |
+| 28 | 1505 | 708 | 3828 | 738 |  |  |  |  |  |  | Toronto  | April 12. 1915. | Nil... | 1046 Dca Lrables St., Montreal, P.Q  |
+| 28 | 634 | 737 | 3828 | 771 |  |  |  |  |  |  | Toronto.... | April 8. 1915. | 197 Shaw St.. Toronto, Ont  | 40405S Private  | Day, Alexander  | Nil  | Day, Mrs. Elizabeth  | Canada  |
+| 28 | 635 | 766 | 3828 | 799 |  |  |  |  |  |  | Toronto.. .. | April 8. 1915. | Howe End. Far Sawrey, Windermere, Eng  | 404059 Private  | Dixon. Henry Einar  | Na  | Dixon, George  | England  |
+| 28 | 997 | 795 | 3828 | 829 |  |  |  |  |  |  | Toronto.. . . | April 12. 1915. | Duly, Charles Frederick  | Duly Mrs. B .. | England  |
+| 28 | 1502 | 824 | 3828 | 854 |  |  | Nil. |  | Ballvhenry, Carnmoney, Co. Antrim, Ire  |  |  | April 12, 1915. |
+| 28 | 631 | 911 | 3828 | 943 | 404G63 Private  | Dutton, Horace  | Nil  | Collins. Mrs. E  | Meaford, Ont  | England  | Toronto.... | April 5, 1915. |
+| 28 | 631 | 940 | 3828 | 975 | 404064 Sergeant  | Edie, Donald Roy  | 10th Regt  | Edie, Mrs. Ellen Jane  | 293 Spadina Ave., Toronto, Ont  | Canada  | Toronto.... | April 8. 1915. |
+| 28 | 631 | 969 | 3828 | 1001 | 404065 iSenpwt  | Ellis, Arthur William  |  | Ellis, Mrs. Margaret  | 15 Spencer Ave., Toronto, Ont  |  | Toronto.... | \pril 8. 1915. |
+| 28 | 2452 | 998 | 3827 | 1028 |  |  |  |  | Hopton, Thetford. SufFolk, Eng  |  | Toronto.... | April 5, 1915. |
+| 28 | 629 | 1028 | 3827 | 1059 | 404007 Corporal  | Ewart, Jonathan Edward  |  | Ewart, Mrs. Helena  | 168 Sbanly Ave., Toronto, Ont  | England  | Toronto.... | April 5, 1915. |
+| 28 | 1494 | 1086 | 3827 | 1116 |  |  | Nil |  | 7 Town Hill. Lingfield. Surrey, Eng  | England  | Toronto ... | April 19. 1915. |
+| 28 | 3191 | 1114 | 3827 | 1141 |  |  |  |  |  | England  | Toronto | April 12, 1915. |
+| 28 | 987 | 1143 | 3826 | 1175 |  | Fee, William  | Nil  |  | 33S Bartlett Ave., Toronto, Ont   |  | Toronto.... | April 12, 1915. |
+| 28 | 625 | 1173 | 3175 | 1204 |  | Fenn, Wilfred Herbert  |  |  | 6703 Washington Park Blvd., Kansas City, Miss.. | 404072 Private  | Fenn, Arthur Ernest   |
+| 28 | 2507 | 1200 | 3826 | 1228 |  |  |  |  | U.S.A  |  | Toronto. .. | April 19, 1915. |
+| 28 | 624 | 1258 | 3826 | 1293 |  | Ferday, Joseph Henry  | Nil  | 414074 Private  | Ferday, Joseph Clatot | 67 Rhodes St., Bradford, Manchester, Eng  | England  | Toronto.... | April 5. 1915. |
+| 28 | 623 | 1288 | 3826 | 1322 |  | Fielding. James Henry  | Nil  | 404075 Private  | Fielding. Mrs. Clara  | 208 Campbell Ave., Toronto, Ont  | England  | Toronto... | April 19. 1915. |
+| 28 | 623 | 1317 | 3827 | 1349 |  | Fitzpatrick, James  | Nil  | 404076 Private  | Greenaway, Mrs.  | 8 Eleanor Cross Rd.. Waltham Cross, Eng  | England  | Toronto.... | April 12, 1915. |
+| 28 | 988 | 1350 | 2429 | 1377 |  | Flanagan. Howard  | Nil  | Flanagan. Mrs. Lill  |
+| 28 | 622 | 1374 | 3827 | 1407 |  | Flynn, William  | Nil  | Flynn. Mrs. Edna  | 404078 Private  | 22 Trinity Square. Toronto. Ont  | England  | Toronto | April 12. 1915. |
+| 28 | 622 | 1403 | 3827 | 1435 |  | Fowler. Arthur  | Territorials  | Fowler, Mrs. E. M  | 404079 Private  | 4X Humbert St., Toronto, Ont  | England  | Toronto.... | April 12. 1915. |
+| 28 | 622 | 1431 | 3827 | 1464 |  | Fox, Frederick Jesse  | Nil  | Fox, Mrs. Lucie  | 404080 Private  | 1030 Logan Ave.. Toronto. Ont  | Engiand  | Toronto.... | April 9, 1915. |
+| 28 | 621 | 1460 | 3827 | 1492 |  | Freeman. Donald  |  | Freeman. Mrs. G  | 404081 Private  | 107 Mutual St., Toronto, Ont  | Newfoundland.. | Torouto.... | April 12. 1915. |
+| 28 | 621 | 1487 | 3828 | 1521 |  |  | Nil  | 404082 Private  |  | England  | Toronto.... | April 5. 1915. |
+| 28 | 620 | 1518 | 3827 | 1552 | 4C4G83 Private  | Gazzard. Harry  | Territorials  | Gazzard. Mrs. R  | 56 Enncrdale Rd.f Earlscourt, Toronto, Ont  | England  | Toronto... | April 12, 1915. |
+| 28 | 619 | 1547 | 3828 | 1580 | 404084 Private  | 3eorge, Charles  | Nil .  | Price, Mrs. Rhodn  | 610 Kittitas St., Kittitas, Wash., U.S.A  | England  | Toronto. .. . | April 12, 1915. |
+| 28 | 620 | 1576 | 3828 | 1611 | 4C4085 Private  | 3ibson, George Adam  |  | Gibson. Mrs. Margaret  | Kerdv, Co. Armagh. Ire.. ...  | Ireland  | Toronto.... | April 12, 1915. |
+| 28 | 619 | 1605 | 3827 | 1638 | 4040S6 Private  | Glegg, John  |  | Glegg, Mr*. Margaret  | Church St., Stenhousemuir, Stirling, Scot  | Scotland  | Toronto.... | April 5, 1915. |
+| 28 | 3192 | 1692 | 3828 | 1719 |  |  |  |  |  | Encland  | Toronto.... | April 12. 1915. |
+| 28 | 617 | 1721 | 3828 | 1752 |  | joode. William Norton  |  | Goode. Mr*. Hannah  Earls Barton. Northants. Eng  |  | England  | Toronto ... | April 12. 1915. | 4040S9! Private  | Nil  |
+| 28 | 617 | 1750 | 3827 | 1785 |  | Moulding. James  |  | Goulding. George ,9 Ridley Gardens, Toronto, Ont  |  | Engiand  | Toronto.. . | April 8, 1915. | 40401**Private  | Nil  |
+| 28 | 988 | 1779 | 3827 | 1815 |  | Tiracie. Robert Love  |  | Gracie. Mrs. Elizabeth . ..) 121 Hogarth Ave.. Toronto, Ont  |  |  | Toronto. . . | April 5. 1915. | Nil  |
+| 28 | 3191 | 1808 | 3827 | 1835 |  |  |  |  |  | Enpland  | Toronto... | April 12. 1915. |
+| 28 | 1490 | 1838 | 3826 | 1870 |  |  |  |  |  | F^ngland  | Nil. | Gray, Mrs. E   | Toronto... | April 12. 1915. |
+| 28 | 616 | 1866 | 3826 | 1899 |  |  |  | 3rear. Florence Emily.. .. | 404094 Private  | Grear, William  | 4S1 Spadina Ave., Toronto, Ont  | Scotland   | Toronto.... | April 5. 1915. |
+| 28 | 615 | 1896 | 3827 | 1926 |  |  |  | Green, Mrs. Marv  | 404095 Private  | 3reen, Arthur R  | 251 Lansdowr.e Ave., Toronto, Ont  | Scotland  | Toronto... | Aoril 5. 1915. |
+| 28 | 615 | 1902 | 3827 | 1955 |  |  |  | Markle. Mrs. W. J  | 404096 Private  | Nil.’ | 50 Bismarck Ave., Toronto, Ont  | U.S.A  | Toronto.... | April 12. 1915. |
+| 28 | 615 | 1954 | 3826 | 1987 |  |  |  |  | Halesowen, Worcester, Eng  | England  | Toronto.... | April 5. 1915. | 404097 Private..  | 3rove, George F.      | Grove, W  |
+| 29 | 804 | 554 | 3378 | 587 |  |  |  |  | Name of Next of Kin. |
+| 29 | 616 | 699 | 3815 | 729 | 404099 | Private  | Guy, George Henry  | Nil  . .. |  |  | Toronto.... | April 12, 1915. |
+| 29 | 616 | 729 | 3815 | 759 | 404100 |  | Hackett, Alfred  | Nil  |  |  |  | April fi, 1915. |
+| 29 | 616 | 758 | 3815 | 787 |  |  | Haincy, James  | Nil  | 404101 |  | Toronto.... | April 12, 1915. |
+| 29 | 616 | 787 | 3816 | 816 | 404102 | Private  | Haley, Thomas David  |  |  |  | Toronto.... | April 12, 1915. |
+| 29 | 615 | 816 | 3815 | 844 | 404103 |  | Hamilton, Edward  | Nil  |  |  | Toronto.... | April 12, 1915. |
+| 29 | 616 | 845 | 3816 | 876 | 404104 |  | Hamilton, Nelaon  |  |  |  | Toronto.... | April 5, 1915. | Hamilton, Mrs. Marv  | 62 Hayden St., Toronto, Ont  |
+| 29 | 614 | 874 | 3816 | 903 | 404105 | Private  | Hancox, George  |  |  |  | Toronto  | April 5, 1915. | 583 Ontario St.. Toronto, Ont  |
+| 29 | 614 | 903 | 3816 | 934 | 40410C | Private  | Hanson, William  |  |  |  | Toronto.... | April 12, 1915. | Hanson. Mrs. Martha  | 6 Dupont St., Toronto, Ont  |
+| 29 | 614 | 933 | 3169 | 963 | 404107 |  | Harkins, Patrick  |  | Harkins, Mrs. Winnie  | Rve, Falcarragh, Donegal, Ire  |
+| 29 | 614 | 961 | 3816 | 991 | 404108 |  | Harris, James  | Nil  |  | 11 Suffolk Place,Bull St.,Edgware Rd..London,Eng | Toronto  | May 8. 1915. |
+| 29 | 614 | 990 | 3816 | 1020 | 404109 |  | Harrison, George  | C.A.S.C  |  |  |  | April 5, 1915. |
+| 29 | 614 | 1019 | 3817 | 1050 |  |  | Hastings, Walter Henry  | Nil  | 404110 | Private  | 15 Poplar Road, Oxford, Eng  | Toronto.... | April 5, 1915. |
+| 29 | 613 | 1048 | 3817 | 1078 | 404111 | Private  | Hawes. Edward Charles P  |  |  |  | Toronto.... | April 9, 1915. | Hawes, Mrs. M. L  |
+| 29 | 614 | 1077 | 3818 | 1106 | 404112 |  | Hawkin, Harold  | Nil   |  |  | Toronto.... | April 12, 1915. |
+| 29 | 613 | 1106 | 3818 | 1138 | 404113 | Private  | Hentig, John Gordon  |  |  |  | Toronto.... | April 8, 1915. | Hentig, Mrs. J. D  | 202 Shaw St.. Toronto, ODt   |
+| 29 | 613 | 1134 | 3818 | 1166 | 404114 |  | Hill, William Rowland  |  |  |  | Toronto  | April 12, 1915. | 74 Dean St., Marlow, Rucks, Eng  |
+| 29 | 612 | 1164 | 3818 | 1196 |  |  | Hine, George  | 404115 | Private  |  |  | April 12. 1915. | Hine, Mrs. Agnes  | 27 Gough Ave., Toronto, Ont  |
+| 29 | 612 | 1193 | 3600 | 1225 | 404116 |  |  |  |  | 1974 Queen St. E., Toronto, Ont  | Toronto  |
+| 29 | 612 | 1222 | 3818 | 1254 | 404117 | Private  | Hopcraft, Joseph  |  | Hopcraft, Mrs. Alice  | 61 Huron St.. Toronto, Ont  | Toronto.... | April 12, 1915. |
+| 29 | 612 | 1251 | 3818 | 1278 | 404118 | Private  | Hopkinson. Frederick  |  |  |  | Toronto.... | April 12, 1915. |
+| 29 | 612 | 1280 | 3819 | 1313 | 404119 |  | Ilorder, Alfred  |  |  |  | Toronto  | AprU 5, 1915. | Horder, Miss Mary  | 7 Chesterfield St., Mayfair, London, Eng  |
+| 29 | 612 | 1309 | 3818 | 1339 | 404120 | Private  | Horgnn, Timothy  |  |  |  | Toronto.. .. | April 12, 1915. |
+| 29 | 611 | 1338 | 3818 | 1368 | 404121 |  | Hough, Thomas  | Nil  |  |  | Toronto. ... | April 12, 1915. |
+| 29 | 611 | 1367 | 3819 | 1399 |  |  | Huetson, William Joseph J  | 404122 | Private  |  | Toronto.... | April 12, 1915. | Huetson, Mrs. Elixa  | IS Hadley Rd., Toronto, Ont  |
+| 29 | 610 | 1398 | 3169 | 1425 | 404123 | Private  |  |  |  | 31 Golden Ave., Toronto, Ont  |
+| 29 | 610 | 1425 | 3818 | 1458 | 404124 |  | Hughes, Reginald Ingriss  |  | Hughes, Francis George. . .. | 26 Dorval Mansions, Clapham, London, Eng  |  | April 12, 1915. |
+| 29 | 610 | 1453 | 3818 | 1484 |  |  | Humphreys, William Edward  | 404125 | Private  |  | Toronto.... | April 12, 1915. |
+| 29 | 609 | 1482 | 3818 | 1512 |  |  | Irwin, Hamilton  | 40412G | Private  | Nil  | Toronto.... | April 9. 1915. |
+| 29 | 610 | 1511 | 3819 | 1542 | 404127 | Private  |  |  |  |  | Toronto.... | April 5, 1915. | Jones, Mrs. Bertha  | 55 St. Clair Gardens, Toronto, Ont   |
+| 29 | 610 | 1540 | 3818 | 1568 | 404128 |  | Jones, Eric Gerrard  |  |  |  | Toronto.... | April 12, 1915. |
+| 29 | 610 | 1569 | 3818 | 1601 | 404129 | Private  | Jones, William  | Nil  |  |  | Toronto.... | April 8, 1915. | Jones, Harold  |
+| 29 | 609 | 1600 | 3172 | 1631 | 404130 | Private  | Jutsum, Stanley Ralph  | Nil  |  | Ty Cerrig, Tremont Rd., Llandrindod WTells, |
+| 29 | 609 | 1655 | 3820 | 1687 | 404131 | Private  | King, Herbert Edward  | Nil  |  | Easton, Wickham Market, Suffolk, Eng.  |  | April 12, 1915. |
+| 29 | 609 | 1684 | 3820 | 1717 | 404132 |  |  | Nil  |  | Rectory Cott., Brington, Huntingdon, Eng  | Toronto.... | April 12, 1915. |
+| 29 | 609 | 1713 | 3821 | 1743 | 404133 | Private  | I-akin, Thomas  |  |  |  |  | April 12, 1915. |
+| 29 | 609 | 1742 | 3821 | 1769 | 404135 |  |  |  |  |  |  | AprU 19, 1915. |
+| 29 | 609 | 1771 | 3821 | 1802 | 404134 | Private  | Lavender, William  | S.A  |  |  | Toronto.... | April 12, 1915. |
+| 29 | 609 | 1829 | 3820 | 1857 | 404137 |  |  |  |  |  | Toronto.... | April 12. 1915. |
+| 29 | 609 | 1858 | 3820 | 1891 | 404138 |  |  |  |  |  | Toronto.... | April 12, 1915. | Leno, Mrs. Mary  |
+| 29 | 609 | 1888 | 3820 | 1919 | 404139 | C. Q.-M. Sergt  | Leonard, Thomas D’Arcy  |  |  |  |  | April 9, 1915. |
+| 29 | 609 | 1917 | 3820 | 1944 |  | Private  | 404140 |  |  |  |  | AprU 8, 1915. |
+| 29 | 608 | 1945 | 3819 | 1972 | 404141 |  |  |  |  |  | Toronto  | April 12, 1915. |
+| 29 | 608 | 2003 | 3819 | 2036 | 404164 |  |  | Nil  | McDougall, Mrs. Mary Jane. |  | Toronto.... | AprU 12. 1915. |
+| 29 | 609 | 2033 | 3819 | 2065 | 404165 |  |  | Nil    | McGuigan, Mrs. A  |  | Toronto.... | April 12, 1915. |
+| 29 | 608 | 2062 | 3819 | 2091 | 404166 |  |  | Nil  |  |  |  | AprU 12, 1915. |
+| 29 | 607 | 2091 | 3818 | 2121 | 404144 |  | MacMillan, Donald B  | Nil  | MacMillan, Mrs. Donald  |  | Toronto.... | April 5. 1915. |
+| 30 | 623 | 317 | 3812 | 351 | 404145 | Private.. | MacNaughton, Angus A.... | Nil. | MacNaughton, Mra. Mary... | 4 Ardrosa Place. Inverness, Scot. | Scotland. | Toronto.... | April 9. | 1915. |
+| 30 | 623 | 346 | 3811 | 378 | 404167 | Private.. | McKee. Robert  | NU. | McNee, John  | Wallace St., Dumbarton, Scot... | Scotland. | Toronto.... | April 12, | 1915. |
+| 30 | 623 | 381 | 2372 | 410 | 404143 | Private.. | Mackenzie, Norman Lyon. | NU. | Mackenzie. Mra. Francis |
+| 30 | 2089 | 404 | 3812 | 437 |  |  |  |  | Emily  | 32 Ballifcary Rd., Inverness, Soot  | Scotland. | T oronto. | April 12. | 1915. |
+| 30 | 623 | 432 | 3812 | 465 | 404146 | Private.. | Madden. Frederick  | Nil. | Madden. Mrs. A  | Roscrea, Co. Tipperary, Ire  | Ireland. . | Toronto. | April 12. | 1915. |
+| 30 | 623 | 461 | 3812 | 497 | 404147 | Private.. | Mair, William Craig  | Nil. | Mair, Mrs. J  | 5 Temple Ave., Toronto, Ont.  | Scotland. | Toronto. | .April 12. | 1915. |
+| 30 | 623 | 490 | 3812 | 525 | 404148 | Private.. | Mangham. Michael  | NU. | Mangham, Miss M  | Leeds, Eng  | England.. | Toronto. | April 19. | 1915. |
+| 30 | 622 | 520 | 3812 | 554 | 404149 | Corporal. | Marshall Albert Wright. | Nil. | Marshall, Mra. R. A  | 9 Coleridge Ave., Toronto, Ont  | England.. | Toronto. | April 12, | 1915. |
+| 30 | 622 | 549 | 3812 | 580 | 404150 | Private... | Marshall, Clarence  | Nil. | Marshall, Mrs. Martha  | 31 River St., Toronto, Ont   | Canada... | Toronto. | April 12, | 1915. |
+| 30 | 622 | 578 | 3813 | 609 | 404151 | Private.. | Marshall. Edward  | Nil. | Marshall. Mrs. Martha Jane. | 18 Meadow Lane, Portadown, Co. Armagh, Ire. | Ireland. .. | Toronto. | April 12. | 1915. |
+| 30 | 621 | 606 | 3812 | 641 | 404152 | Priva:e... | Masaev, John Henry  | NU. | Massey, Mra. Elizabeth  | Nether, Alderley, Ches.. Eng  | England.. | Toronto. | April 8. | 1915. |
+| 30 | 620 | 636 | 3813 | 669 | 404153 | Private... | May, Ernest...  | NU  | May, Mra. Ernest  | 105 Barrington Ave., E. Toronto, Ont  | England.. | Toronto. | April 5. | 1915. |
+| 30 | 620 | 664 | 3812 | 699 | 404154 | Private... | May, William  | Imp. Forces. | Packham, Mra. George  | 137 Morrison Ave., Toronto. Ont.  | England.. | Toronto. | April 8. | 1915. |
+| 30 | 620 | 694 | 3813 | 725 | 404155 | Private... | Merritt, James Thomas... | Nil  | Merritt, Mrs. H  | 60 Beaumont Rd., Acton, Cheswick, Eng  | England.. | Toronto. | April 8, | 1915. |
+| 30 | 620 | 728 | 2315 | 755 | 404156 | Private... | Millard, Conrad Norman. | Nil  | Millard, Mrs. Louisa |
+| 30 | 2115 | 751 | 3814 | 784 |  |  |  |  | Charlotte  | 243 King St. W., Toronto, Ont... | Canada.... | Toronto. | April 8. | 1915. |
+| 30 | 619 | 780 | 3814 | 813 | 40415' | Private  | Morgan, Albert   | NU  | Morgan, Mrs. Sarah  | 251 Weston Rd., W. Toronto, Ont | Wales... | T oronto. | April 12. | 1915. |
+| 30 | 619 | 809 | 3815 | 843 | 404158 | Private  | Morris, George  | Nil  | Morris, Mrs. Mary  | 276 King St. E., Toronto, Ont... | England... | Toronto. | April 19, | 1915. |
+| 30 | 619 | 838 | 3815 | 872 | 404159 | Private  | Morrison, William  | Territorials. | Morrison, Mra. Mary  | 269 Salem Ave., Toronto, Ont... | Scotland.. | Toronto. | April 12, | 1915. |
+| 30 | 619 | 867 | 3816 | 899 | 404160 | Private  | Morton. Arthur  | Nil  | Morton, Mra. S  | 13 Barkins Court, Belper, Derby | England... | Toronto. | April 8, | 1915. |
+| 30 | 618 | 896 | 3817 | 931 | 404101 | Private  | Moses, William Henry  | Nil  | Moses, Mrs. Florence  | 6 Cedarvale.Ave., Toronto, Ont  | England... | Toronto. | April 12, | 1915. |
+| 30 | 618 | 925 | 3817 | 958 | 404162 | Private  | Mudge, Charles Allred  | NU  | Mudge, Charles  | Grand Forks, B.C  | England... | Toronto. | April 8, | 1915. |
+| 30 | 618 | 954 | 3816 | 988 | 404163 | Private  | Mulvey, Frank  | Nil  | Mulvey, Mrs. Julia  | 91 Dovercourt Rd., Toronto, Ont  | Canada.... | Toronto. | April 9, | 1915. |
+| 30 | 618 | 983 | 3816 | 1015 | 404168 | Private  | Nash, Harold  | NU  | Nash, David.   | 14 New Road, Woodston, Peterborough, Eng  | England... | Toronto. | April 12, | 1915. |
+| 30 | 617 | 1012 | 3816 | 1044 | 404169 | Private  | Nash, Richard John K  | Nil  | Nash, Miss Leila  | 11043 , 82nd St., Edmonton, Alta...  | Canada.... | Toronto. | April 8, | 1915. |
+| 30 | 617 | 1040 | 3817 | 1074 | 404170 | Private  | Nevett, Harold liell  | NU  | Nevett, Mrs. Clara  | 74 Harrow Rd., Boumbrook, Birmingham, Eng... | England... | Toronto. | April 12. | 1915. |
+| 30 | 616 | 1069 | 3816 | 1105 | 404171 | Private  | Olson, Carl  | 33rd Regt... | Olson, Mrs. C  | 277 Erie Terrace, Toronto, Ont  | England... | Toronto. | April 5, | 1915. |
+| 30 | 615 | 1098 | 3816 | 1132 | 404172: | Private  | O’Neill, Garret  | NU  | O’Neill, Mrs. A  | 229 Sumach St., Toronto, Ont  | Canada.... | Toronto. | April 5, | 1915. |
+| 30 | 615 | 1127 | 3815 | 1160 | 404173 | Corporal  | Orsborn, Victor Ellwood  | NU  | Orsborn, Mrs. Jane  | 1051 Davenport Rd., Toronto, Ont  | England... | Toronto. | April 12, | 1915. |
+| 30 | 615 | 1157 | 3816 | 1192 | 404174 | Private  | Pakenliam. Charles Reginald  | NU  | Pakenham. Mrs. Ellen  | 20 Mutual St., Toronto, Ont  | Ireland  | Toronto. | April 12, | 1915. |
+| 30 | 615 | 1185 | 3817 | 1221 | 404175 | Private  | Peck, Robert Henry  | 2nd Regt | Peck, Mra. Annie  | 61 Dunfield Ave., Toronto, Ont  | England... | Toronto. | April 8. | 1915. |
+| 30 | 614 | 1214 | 3816 | 1246 | 404176 | Private  | Peddie, William  | Nil  | Pedriic, John  | Minmore Farm, Glenlivet. Scot  | Scotland.. | Toronto. | April 5. | 1915. |
+| 30 | 614 | 1243 | 3816 | 1275 | 404177 | Private  | Pettitt, WUliam  | Nil  | Pettitt. Thomas  | 27 Lincoln St., Kingsthorpe, Northampton, Eng... | England... | Toronto. | April 12, | 1915. |
+| 30 | 614 | 1272 | 3817 | 1307 | 404178 | Sergeant  | Pope. Allred James  | Imp. Forces. | Pope, Mrs. M. L  | Bethesda P.O., Ont.... .  | England... | Toronto. | April 12. | 1915. |
+| 30 | 614 | 1302 | 3817 | 1337 | 404179 | Private  | Purser, Donald Edwy  | Nil  | Purser, Charles  | Great Bridge P.O., West Bromwich, Eng  | England... | Toronto. | April 5. | 1915. |
+| 30 | 615 | 1330 | 3817 | 1362 | 404180 | Private  | Raeside, James  | NU  | Raeside, William  | Pine Grove P.O., Ont  | Scotland. . | Toronto. | April 6. | 1915. |
+| 30 | 615 | 1358 | 3819 | 1391 | 404181 | Private  | Preside, Robert  | il  | Raeside, William  | Pine Grove P.O., Ont  | Scot land. . | Toronto. | April 5, | 1915. |
+| 30 | 615 | 1388 | 3818 | 1423 | 404182 | Private  | Rundell. George A  | 10th P.egt... | Rand ell, Miss Eva  | 28 Oberstein Rd., Battersea. London, E.C., Eng... | Canada.... | Toronto. | April 12, | 1915. |
+| 30 | 615 | 1417 | 3818 | 1450 | 404183 | Private  | Rason. Benjamin James  | Nil  | Rason, Margaret  | 391 Clendenan Ave., W. Toronto, Ont  | Canada.... | Toronto. | April 5, | 1915. |
+| 30 | 615 | 1446 | 3818 | 1480 | 404184 | Private  | Redden, George Edmund  | Nil  | Redden. Mrs. Robert W.... | Water St., Windsor, N.S  | Canada... . | Toronto. | April 19, | 1915. |
+| 30 | 615 | 1475 | 3818 | 1506 | 4041S5 | Private  | Reeve. Walter  | NU  | Reeve. Miss Elizabeth  | 513 Cadogan Place, London, Eng  | England... | Toronto. | April 5. | 1915. |
+| 30 | 615 | 1503 | 3819 | 1535 | 404186 | Private  | Reid, Richard  |  | Reid. Henry .  | Grange Cottage. Owens. Co. Cork, Ire  | Ireiand | Toronto. | April 5. | 1915. |
+| 30 | 615 | 1532 | 3818 | 1567 | 404187 | Private  | Keyrolds, George  |  | Reynolds. Mrs. Caroline.... | 52 Bellevue Ave., Toronto, Ont  | England... | Toronto. | April 12, | 1915. |
+| 30 | 616 | 1561 | 3818 | 1595 | 404188 | Private  | Richards, George  | Imp. Forces. | P.oberts. Mrs. K  | I Back Marine Terrace, Penzance, Cornwall, Eng.. | England.. . | Toronto. | April 12. | 1915. |
+| 30 | 615 | 1590 | 3818 | 1624 | 404189 | Private  | Robinson, Hector Roy  | Nil  | Robinson. Mrs. E  | 141 Harrison St., Toronto, Ont  | ('anada | Toronto. | April 9, | 1915. |
+| 30 | 615 | 1619 | 3819 | 1653 | 404190 | Private  | Robinson. Thomas Sydney  | Territorials.. | Robinson. James  | 15 Pennington St., Hull, Yorka, Eng  | Engiand.. | Toronto. | April 8, | 1515. |
+| 30 | 615 | 1647 | 3819 | 1683 | 404191 | Private  | Rogers, George  | 2nd Regt  | Rogers, M rs. Annie  | Stavner, Ont  | Canada.... | Toronto. | April 8, | 1915. |
+| 30 | 614 | 1677 | 3819 | 1712 | 404192 | Corporal  | Rowe. William Henry  | Nil  | Rowe Edith  | 90 Cambridge Ave., Toronto, Ont  | Ireland | Toronto. | April 5, | 1915. |
+| 30 | 614 | 1705 | 3820 | 1738 | 404193 | Private  | Sargent, Frecerick  | Nil  | Sargent, Mrs. E  | 237 Chisholm Ave., Toronto, Ont  | England... | Toronto. | April 9, | 1915. |
+| 30 | 614 | 1734 | 3820 | 1766 | 404194 | Private  | Seliwood, Archibald  | Nil  | Sell wood. Mrs. N  | Brixton. London. Eng  | England... | Toronto. | April 8, | 1915. |
+| 30 | 614 | 1763 | 3820 | 1797 | 404195 | Private  | Selzcr, George  | Ni!  | Selzer. Mrs. Jennie  | 141 Adelaide St. E., Toronto. Ont  | v ’anada.... | Toronto. | April 9, | 1915. |
+| 30 | 614 | 1792 | 3820 | 1826 | 404190 | Private  | Seymour, Benjamin  | Nil  | Seymour, Mrs. Annie  | 19 Thorburn St., Liverpool, Eng  | England... | Toronto. | April 5, | 1915. |
+| 30 | 614 | 1821 | 3821 | 1854 | 404197 | Private  | Sharland, Thomas  |  | Sharland. Mrs. Sylvia  | 175 Barrington Ave., Toronto, Ont  | Canada.... | Toronto. | April 12, | 1915. |
+| 30 | 613 | 1850 | 3820 | 1885 | 404198 | Private  | Shepherd, George  |  | Shepherd, Mrs. Lizzie  | Fernhill Heath. Worcs., Eng  | Engiand... | T oronto. | April 8, | 1915. |
+| 30 | 613 | 1879 | 3821 | 1914 | 404199 | Private  | Shepherd. Harry  |  | Shepherd. Mrs. E  | Fernhill Heath. Worcs., Eng  | England... | Toronto. | April 8. | 1915. |
+| 30 | 613 | 1908 | 3822 | 1939 | 404200 | Private   | Silvester. Thomas F  | NU.. | Silvester. Mrs Ada  | 187 Close Ave.. Toronto. Ont  | England... | Toronto. | April 8. | 1915. |
+| 30 | 612 | 1937 | 3820 | 1968 | 404201 | Private   | Simons, Wiliiam John  | Nil.. | Jenkins. Mrs. Laurel  | Rosemont P.O., Ont  | England... | Toronto. | April 8, | 1915. |
+| 30 | 612 | 1966 | 3821 | 1998 | 404202 | Private  | Slater, William Thomas  |  | Slater. Blanche  | Chevinside, Belper. Derby, Eng  | England... | Toronto. | April 5. | 1915. |
+| 30 | 612 | 1995 | 3821 | 2031 | 404203 | Private   | Smith, Cecil  | Nil. | Smith. Mrs. Mary Ann  | f462 King St., Aberdeen, Scot   | Scotland.. | Toronto. | April 5, | 1915. |
+| 30 | 612 | 2024 | 3821 | 2058 | 404204 | Private  | Sowereby, George  |  | Sowersby, Annie Elizabeth. | (Station Rd., Belton. Doncaster, Lines, Eng  | England... | Toronto. | April 5. | 1915. |
+| 31 | 650 | 536 | 3396 | 570 | t'Z |  |  | Name of Next of Kin. |  | Country of |
+| 31 | 646 | 543 | 3781 | 610 | P |  |  |  |  |  | Place. | Date. |
+| 31 | 639 | 678 | 3830 | 714 | 40420') | Private., | Spencer, Thomas  | Nil  | Spencer, Mrs. Annie  | 22 Oxford St., Wellingborough, Eng  | England  | Toronto.. | April | 12. 1915. |
+| 31 | 639 | 708 | 3831 | 743 | 40420*5 | Private.. | Stanley, Arthur  | NU  | Stanley, Mrs. Mao' Jano. | 34 Park Rd., Sittingbourne, Kent, Eng.. | England  | Toronto.. | April | 8, 1915. |
+| 31 | 638 | 737 | 3830 | 773 | 404207 | Private.. | State, Charles Henry G  | NU  | State, Mrs. Thersia  | 47 Heaton Rd., Peckham, London, Eng. | England  | Toronto.. | AprU | 5, 1915. |
+| 31 | 637 | 766 | 3830 | 798 | 40420* | Private. | Statham, Frank Ernest  | NU  | Statham, Mrs. EUcn  | Ascot, Berks, Eng  | England  | Toronto.. | April | 12, 1915. |
+| 31 | 636 | 795 | 3831 | 828 | 40420.' | Private.. | Statham, Thomas James F  | Nil  | Statham, Mrs. EmUy.... | 42 Prince Arthur Ave., Toronto, Ont... . | England  | Toronto.. | AprU | 12, 1915. |
+| 31 | 636 | 825 | 3830 | 859 | 404210 | Private.. | Steer, Thomas Armstrong  | R.C.R | Steer, Mrs. Margaret. . . . | 22 Herbert Ave., Toronto, Ont  | Canada  | Toronto.. | May | 5, 1915. |
+| 31 | 635 | 854 | 3831 | 884 | 40421! | Private.. | Stevens, Richard  | NU  | Stevens, Mrs. Theresa. . . | 19 South Rd., Horsell, Woking, Eng  | England  | Toronto.. | April | 5, 1915. |
+| 31 | 634 | 883 | 3830 | 917 | 404212 | Private.. | Stewart, Hiram Lyman  | NU  | Stewart. Mrs. Eliza Ann. | Mill Brook, Ont  | Canada   | Toronto.., | April | 9, 1915. |
+| 31 | 633 | 912 | 3831 | 944 | 404211 [Private. | Stickley, Frederick Charles  | NU  | Stickley, Mrs. Eliza  | 914 Davenport Rd., Toronto, Ont  | Newfoundland. | Toronto.. , | April | 5, 1915. |
+| 31 | 633 | 941 | 3829 | 971 | 404214! Private.. | Stiver, Arthur Edward  | NU  | Stiver, Mra. I  | Unionville, Ont  | Canada   | Toronto... | April | 12, 1915. |
+| 31 | 633 | 969 | 3829 | 1002 | 404215 Private.. | Sykes, Henry  | S.A. . . . | Sykes, Mra. Bessie  | 13 Blevins Place, Toronto, Ont  | England  | Toronto.. | April | 19, 1915. |
+| 31 | 632 | 999 | 3828 | 1029 | 404216 Private.. | Tanti, Emmanuel  | Nil  | Tanti, Vincent  | Malta   | Malta  | Toronto.. | April | 8, 1915. |
+| 31 | 632 | 1027 | 3829 | 1059 | 404217 | Private. | Taylor, Arleigh W  | Nil  | Taylor, Mrs. Jennie  | 166 Pacific Ave., Toronto, Ont  | Canada  | Toronto. . | April | 12, 1915. |
+| 31 | 630 | 1060 | 2342 | 1088 | 404218 | Private. | Taylor, Frederick James  | NU  | Taylor, Mra. Victoria |
+| 31 | 2097 | 1085 | 3828 | 1116 |  |  |  | Regina  | 42 Westminster Ave., W. Toronto, Ont   | Canada.  | Toronto . | April 12, | 1915v |
+| 31 | 630 | 1114 | 3829 | 1147 | 404219 | Corporal. . | Tetlow, Robert  | Nil  | Tetlow, W. D  | 20 Church Plain, Great Yarmouth, Norfolk, Eng. | England  | Toronto. . | AprU 8, | 1915. |
+| 31 | 629 | 1139 | 3829 | 1174 | 404220 | Private  | Thompson, Arthur  | Nil  | Thompson, Mrs. A. E  | 919 Lansdowne Ave., Toronto. Ont  | England  | Toronto.. | April 12, | 1915. |
+| 31 | 628 | 1172 | 3828 | 1203 | 404221 | Private.... | Thompson, William  | Nil  | Thompson, Mrs. Helen. . . | 25 Clive Rd., Barry Island, S. Wales  | England  | Toronto.. | AprU 8, | 1915. |
+| 31 | 627 | 1201 | 3828 | 1233 | 404222 | Private.... | Thomsett, Harry James. | Nil  | Thomsett, Mrs. C  | 35 Docl Ave., Toronto, Ont  | Engiand  | Toronto.. | April 12, | 1915. |
+| 31 | 627 | 1230 | 3828 | 1261 | 404223 | Private.... | Tripp, John Edward..... | Nil  | Tripp, Mrs. J. E  | 12 Victoria Blvd., Mount Dennis. Ont  | Canada  | Toronto.. | April 15, | 1915. |
+| 31 | 626 | 1259 | 3827 | 1288 | 404250 | Private. | Tunnah, Robert. | Nil  | Tunnah, Mrs. Rose  | 9 Bcllair St., Toronto, Ont  | England.... | Toronto. . | April 5. | 1915. |
+| 31 | 626 | 1288 | 3826 | 1320 | 404224 | Private  Valentine, John Rhodes. | Imp. Forces | Valentine. Mrs. Lottie. . .. | 23 Fairbank Ave., Toronto, Ont  | England  | Toronto.. | April 12. | 1915. |
+| 31 | 626 | 1317 | 3826 | 1346 | 404225 | Private | V’ance, Frederick Wilfred. | Nil  | Vance, Mrs. M  | 48 Grant St., Toronto, Ont  | Canada  | Toronto.. | April 12. | 1915. |
+| 31 | 625 | 1346 | 3826 | 1376 | 4042G6 | Private... | Wade, Leo Martin   | Nil  | W’ade. Mrs. Margaret  | 183 Dowling Ave., Toronto, Ont  | Canada   | Toronto.. | AprU 12, | 1915. |
+| 31 | 624 | 1375 | 3825 | 1409 | 404227|Private... | Walinck, Aleiander  | Nil  | Walinck, Janet  | 114 Spring Gardens. Abbey Hill. Edinburgh, Scot | Scotland . . . . | Toronto.. | April 5. | 1915. |
+| 31 | 623 | 1404 | 3825 | 1436 | 404228iCcrporal. | Walker, Charles  | Nil  | Walker, T  | Wetwang. Malton, Yorks, Eng  | England  | Toronto.. | April 8. | 1915. |
+| 31 | 623 | 1434 | 3824 | 1465 | 404229 | Wardle, Henry  | Private. | Nil  | Wardle, Mra. Jane  | 69 Cecil St., Toronto, Ont    | England  | Toronto.. | April 8, | 1915. |
+| 31 | 622 | 1462 | 3824 | 1491 | 404230 | Waters, Wilfred James  | Private | Nil  | Waters, Mra. Maria  | 22 Gladstone Rd., Boscombe, Hants., Eng  | England  | Toronto.. | April 5. | 1915. |
+| 31 | 621 | 1491 | 3824 | 1523 | 404231 | Watson, George  | Private. | Nil  | Watson, Mr®. J  | 64 Onslow Drive, Glasgow, Scot  | Scotland  | Toronto.. | April 12. | 1915. |
+| 31 | 621 | 1520 | 3823 | 1552 | 404232 | Watson, Wiliam Henry  | Private. | Nil  | Watson. Mrs. J. G  | Huntsville, Ont  | Ireland  | Toronto | April 5, | 1915. |
+| 31 | 619 | 1549 | 3824 | 1580 | 404233 | Welch, John  | Private. | Nil  | Welch, Mra. Maggie  | 31 Park Parade, Belfast. In*  | Ireland  | Toronto . | April 12. | 1915. |
+| 31 | 619 | 1577 | 3824 | 1608 | 404234 | Welling?, William Charles | Private., | Nil  | Wellings, Mra. E  | 7 Castle Ross Cottage, Killarney, Ire  | Ireland  | Toronto. . | April 12, | 1915. |
+| 31 | 619 | 1606 | 3824 | 1637 | 404235 | Private Whitlam. Albert  | Nil  | Whitlam, PhUlip  | 26 Vansittart St.. Newton, London, Eng.  | England  | Toronto. . | April 5. | 1915. |
+| 31 | 618 | 1636 | 3824 | 1664 | 404236 | Private i Whittaker, Cecil Geddcs. . . | Nil  | Whittaker, J. G  | CootchUl, Co. Cavan. Ire  | Ireland  | Toronto | April 8, | 1915. |
+| 31 | 618 | 1665 | 3824 | 1696 | 404237 | Private  Wickham. Robert Graydor. | Nil  | Wickham. Mrs. E  | 51 Alberta Ave., Toronto, Ont   | Canada  | Toronto | April 1‘J, | 1915. |
+| 31 | 618 | 1693 | 3824 | 1723 | 40423S | Private  jWilshire, Jack WUliam  | Nil  | Wilshire. James XV.  | Blythwood Rd., N. Toronto, Ont  | Canada  | Toronto. . | April 5. | 1915. |
+| 31 | 617 | 1715 | 3825 | 1758 | 404239 | Private (Wilson, James  | Nil  | Wilson, Mrs. Mary Jane. | Waterton, Ont  | Scotland. . . | Toronto . | April 12. | 1915. |
+| 31 | 617 | 1751 | 3824 | 1784 | 404240 | Private  j Wilson. Robert  | Nil  | Wilson, Miss M   | Armagh, Ire    | Ireland  | Toronto . | April 12. | 1915. |
+| 31 | 616 | 1780 | 3825 | 1810 | 404241 | Private  Winger, Arnold  | NU  | Winger, Edith  | Humber Bay, Ont  | Canada ... | Toronto . | April 5. | 1915. |
+| 31 | 616 | 1809 | 3824 | 1838 | 404242 | Private  Winzar, Charles Robert. | Nil  | Winzar, Mrs. Martha  | Curry Rivel, Taunton, Somerset. Eng  | England  | Toronto. . | April 12, | 191.0. |
+| 31 | 615 | 1838 | 3824 | 1869 | 404243 | Private jWood. Louis Pearson. . . . | 48th Regt. . | Wood, Mra. M. F  | 803 Shaw St., Toronto, Ont.   | Scotland. . | Toronto. . | April 8. | 1915. |
+| 31 | 615 | 1867 | 3823 | 1897 | 404244 | Private. | Wood, Sidney. | NU  | Wood, Charles  | 17 Brookfield St., Toronto, Ont  | England  | Toronto. . | April 5. | 1915. |
+| 31 | 615 | 1896 | 3822 | 1926 | 404245 | Private. | Wright, Arthur Ernest  | Imp. Forces. | Wright, Mrs. R  | 50 Markham St., Toronto. Ont  | England.. . | Toronto. . | AprU 12. | 1915. |
+| 31 | 614 | 1925 | 3823 | 1955 | 404246 | Private. | Wulfen, Francis Ven  | Dutch Army | Stanlenhoef, Wed. R  | 132 Groe St., Hilversam, Holland  | Holland  | Toronto | May 19. | 1915. |
+| 31 | 613 | 1954 | 3823 | 1982 | 404247 | Private. | Yates, James Patrick  | Territorials... | Yates, Mra. E  | Humber Bay P.O., Ont  | England  | Toronto . | April 12. | 1915. |
+| 31 | 613 | 1983 | 3822 | 2011 | 404248 | Private.. | Yeates, R.obert Richard... | Nil  | Yeates, W  | 71 Bloor St. W\, Toronto. Ont  | England. . | Toronto.. | April 12. | 1915. |
+| 31 | 612 | 2012 | 3822 | 2042 | 404249 | Private.. | Young, James  | NU  | Young, Mra. EmUy  | 2S8 Lippincott St., Toronto, Ont  | Canada  | Toronto.. | AprU 12. | 1915. |
+| 32 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 35th BATTALION | (2nd Reinforcing Draft) | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Montreal. | Ship: S.S. “ Heiperiao." | Date: August 17th, 1915. |
+| 33 | 768 | 570 | 3345 | 602 |  |  |  |  | Name of Next of Kin. |  | Country of |
+| 33 | 587 | 614 | 3731 | 638 | ■ |  |  |  |  |  |  | Place. | Date. |
+| 33 | 948 | 713 | 3785 | 748 |  |  | .Ardagh, Arthur Halford  |  | Ardagh, A  | Orillia, Ont  | Canada  | Toronto. | April | 20, 1915. |
+| 33 | 678 | 743 | 3786 | 775 |  | Lieutenant. - | Band, Percy Carruthers  | Nil  | Band. C. W  | v'anderbilt Hotel, N.Y., U.S.A  | Canada  | Toronto. | April | 20, 1915. |
+| 33 | 1457 | 772 | 3785 | 804 |  |  |  | Nil.. . | Gairdner, Mrs. L  | 338 Wellesley St., Toronto, Ont  | Canada  | Toronto. | April | 20, 1915. |
+| 33 | 1457 | 801 | 3785 | 833 |  |  |  | Nil  | Walker. Mrs. Blanche D.. | .Alexandra Apt., Toronto, Ont  | Canada  | Toronto. | April | 22. 1915. |
+| 33 | 946 | 830 | 3785 | 862 |  |  |  | Nil  | Willis, George Clarence  | Willis, W. D.....  | Sutton West, Ont  | Canada  | Toronto. | April | 20. 1915. |
+| 33 | 579 | 859 | 3784 | 891 | 404251 |  | .Allatt, Norman  | NU   | Allatt, Mrs. Annie  | 30 Victoria Park Ave., Toronto, Ont  | England  | Toronto. | April | 12, 1915. |
+| 33 | 579 | 885 | 3785 | 920 |  |  | .Allcock, Samuel Thomas. . MM | 404252 | Private  | Allcock, Samuel Thomas | 216 Woburn Ave., Bedford Park, Toronto, Ont. . .. | England  | Toronto. | May | 18, 1915. |
+| 33 | 580 | 917 | 3784 | 948 | 404253 | Private  |  | Nil.... | Archibald, Andrew  | R.R. No. 4, Seaforth, Ont  | Canada  | Toronto. | April | 23, 1915. |
+| 33 | 579 | 946 | 3784 | 977 | 404254 | Private  | Atkinson, Robert  |  | Atkinson. William  | 117 Essex Ave., Toronto, Ont  | Ireland  | Toronto. | April | 12, 1015. |
+| 33 | 580 | 974 | 3784 | 1008 | 404255 | Private  | Ayres, Joseph Henry  | NU.... | Ayres, Mrs. S  | Bridge St., Brackley, Northants, Eng  | Engiand  | Toronto. | April | 12, 1915. |
+| 33 | 580 | 1003 | 3784 | 1037 | 404256 | Private  | Bagshaw, Joseph C  | Nil. . | Bagshaw, Janet  | 101 Mcdonell Ave., Toronto, Ont  | England  | Toronto. | April | 5, 1915. |
+| 33 | 579 | 1033 | 3785 | 1068 | 404257 | Private  | Bagshaw, Walter  | Nil. . | Bagshaw, Mary Ann  | 8 Lamberts Yard, Leeds. Eng  | England  | Toronto. | April | 5, 1915. |
+| 33 | 580 | 1062 | 3784 | 1093 | 40425S |  |  | Nil. | Baker, Mrs. J. Y  | 144 Garden Ave., Toronto, Ont  | Canada  | Toronto. | April | 19, 1915. |
+| 33 | 580 | 1091 | 3785 | 1123 | 404259 | Private  | Barnett, James Ferguson  | Nil. .. | Barnett, A  | 194 Ranlcigh Ave., Toronto, Ont  | Scotland.... | Toronto. | April | 8, 1915. |
+| 33 | 579 | 1119 | 3785 | 1153 | 404260 | Private  | Bateup. Ernest  |  | Bateup, Mrs. Louie  | 1 Alexander Terrace, Mayfield, Sussex, Eng  | England  | Toronto. | April | 12, 1915. |
+| 33 | 579 | 1148 | 3785 | 1180 | 404261 | Private  | Beck. Richard  |  | Beck, Mrs. Elizabeth  | 48 Ginn is Bid?., Vauxhall, London, Eng  | England  | Toronto. | April | 12, 1915. |
+| 33 | 579 | 1177 | 3786 | 1209 | 404262 | Private  | Beer, Frederick George  | Nil. .. | Beer, Mrs. A  | Broad Clyst, Devonshire, Eng   | England  | Niagara. | June | 12, 1915. |
+| 33 | 579 | 1206 | 3786 | 1239 | 404263 |  |  | NU..  | Bennett, John  | Parkstone, Dorset, Eng  | England  | Toronto. | April | 12, 1915. |
+| 33 | 579 | 1235 | 3786 | 1274 |  |  |  | NU    | 404264 | Private  | Bishop, Albert  k.. | Bishop, Mrs. Alice  | Wetherden, r.r. Stowmarket, Suffolk, Eng  | England  | Toronto. | April | 12, 1915. |
+| 33 | 579 | 1262 | 3786 | 1298 |  |  |  | Nil  | 404265 | Private  | Bishop, Harry  MM | Bishop, John  | Bunvell, Cambs., Eng  | England  | Toronto. | April | 5, 1915. |
+| 33 | 578 | 1293 | 3786 | 1325 | 404266 |  | Black, William Hugh.   |  | Black, Charles Hall  | 50 Peter St., Toronto, Ont i  | Canada  | Toronto. | April | 8, 1915. |
+| 33 | 578 | 1322 | 3785 | 1354 |  |  | Blain, Harrv  | 404267 | L.-Corporal  | Blain. Mrs. Ellen Teresa. | I Read St., Swindon. Wilts., Eng  | Canada  | Toronto. | April | 12, 1915. |
+| 33 | 577 | 1351 | 3785 | 1384 | 40426$ | Private  | Blcnkinsopp, Robert  |  | Blcnkinsopp, Mrs. Mary. | ?ark Hcuse, WalL>end-on-Tyne. Eng  | England  | Toronto. | April | 12, 1915. |
+| 33 | 578 | 1381 | 3785 | 1414 | 404209 | Private  | Blore. Walter  | Nil  | Blore. Mrs. Mary Ann. . . | Jl Elm Grove, Blue Bell Hill, Notts., Eng  | England  | T oronto. | May | 12, 1915. |
+| 33 | 577 | 1409 | 3785 | 1440 | 404270 | Private  |  |  | Boxall, Mrs. Emma  | 'A Millicent St., Toronto, Ont  | England  | Toronto. | April | 9, 1915. |
+| 33 | 576 | 1438 | 3786 | 1470 | 404271 | Sergeant  | Boxall, Walter George  | NU  | Boxall, Lotta Volda Jean. | .’41 Hilton Ave.. Toronto. Ont  | Canada  | Toronto. | April | 5, 1915. |
+| 33 | 577 | 1467 | 3785 | 1500 | 404272 | Private  |  | NU.... | Boyd, A  | 55 Crook St., Hamilton, Ont  | Scotland.. . . | Toronto. | April | 19, 1915. |
+| 33 | 576 | 1496 | 3785 | 1529 | 404273 |  | Bracken, Christopher  | Nil  | Bracken, Mrs. I  | ooa Galley Ave., Toronto, Ont  | Canada  | Toronto. | April | 9, 1915. |
+| 33 | 576 | 1525 | 3784 | 1558 |  |  |  | Nil... | 404274 | Private  | Bracken, Mrs. Isabella... | •^6a Galley Ave., Toronto, Ont  | Canada  | Toronto. | April | 9, 1915. |
+| 33 | 577 | 1553 | 3785 | 1587 | 404275 |  | Bradley, Joseph John  | NU  | Bradley, Mrs. Lavina— | 154 Brunswick Ave., Toronto, Ont  | England  | Toronto. | April | 19, 1915. |
+| 33 | 576 | 1582 | 3786 | 1616 |  |  |  | NU  | 404276 | Private  | Golien, Mrs. Annie  | 78 Wright Ave., Toronto, Ont  | Canada  | Toronto. | April | 19, 1915. |
+| 33 | 576 | 1611 | 3786 | 1643 | 404277 | Private  |  | Nil  | Breen, Mrs. H  | Baden St., Toronto, Ont  | Canada  | Toronto. | April | 19, 1915. |
+| 33 | 576 | 1640 | 3786 | 1671 | 404 27S |  |  | Nil. | Broadhead, Mrs. Elizabeth | ) Ravenil Rd., West Toronto, Ont  | England  | Niagara. | June | 5, 1915. |
+| 33 | 578 | 1669 | 3786 | 1702 | 404279 |  |  | Nil.... | Brooks, Mrs. Rose Agnes | 32 Irwin Ave., Toronto, Ont  | England  | Toronto. | April | 12, 1915. |
+| 33 | 577 | 1698 | 3787 | 1730 | 404280 |  | Brown, Andrew Robinson  | Nil. | Brown, James   | 17 South Castle St.. St. Andrews, Scot  | Scotland.. . . | Toronto. | April | 5, 1915. |
+| 33 | 576 | 1727 | 3787 | 1758 | 4042-81 |  |  |  | Brown. Mrs. Martha.... | 16 Anson Rd.. of! Oak wood, Toronto, Ont  | England  | Niagara. | June | 5, 1915. |
+| 33 | 577 | 1756 | 3788 | 1788 | 404282 | Private  | Buchanan, Alexander  | NU  | Buchanan, Walter  | 024 Dupont St., Toronto, Ont  | Scotland | Toronto. | April | 17, 1915. |
+| 33 | 577 | 1784 | 3788 | 1820 | 404283 |  | Buchanan, David    | Nil. | Campbell. Mrs. A  | 155 Essex St., Toronto, Ont  | Scotland | Toronto. | April | 15, 1915. |
+| 33 | 577 | 1813 | 3788 | 1848 | 4042S4 | Private  |  | Nil.... | Buckely, Mrs. H  | 407 Salem Ave., Toronto, Ont  | Canada  | Toronto. | April | 12, 1915. |
+| 33 | 578 | 1846 | 3129 | 1876 | 404285 | Private  |  | NU  | Buckley, Mrs. J  | Primrose House, High Crompton, nr. Oldham |
+| 33 | 2466 | 1870 | 3788 | 1903 |  |  |  |  |  | Lancs., Eng  | England. | Toronto. | April 8, 1915. |
+| 33 | 578 | 1900 | 3788 | 1933 | 404286 | Private  |  | Nil  | Bussell, Mrs. Margaret. | Toolin, Lisnaskea, Fermanagh, Ire  | Ireland.. | Toronto. | April 12. 1915. |
+| 33 | 578 | 1929 | 3788 | 1961 | 404287 |  |  | NU   | Butler, Mrs. May  | 373 Roncesvalles Ave., Toronto, Ont  | Canada.. | Toronto. | AprU 12, 1915. |
+| 33 | 577 | 1953 | 3788 | 1990 | 404288 | Private... 5C.HT. | Butterfield. George Lewis DCM-M£ | NU  | Butterfield, Marv E... | 191 Mutual St., Toronto, Ont  | England. | Toronto. | April 19, 1915. |
+| 33 | 578 | 1986 | 3787 | 2019 | 404289 | Private  |  | NU  | Buttimer, Mrs. Clara. | Dunmanway, Co. Cork, Ire  | Ireland.. | Toronto. | April 8, 1915. |
+| 33 | 579 | 2014 | 3788 | 2047 | 404290 | Private  |  | NU  | Doran, Annie  | 2467a Hutchison St., Montreal, P.Q  | Canada.. | Toronto. | April 17, 1915. |
+| 33 | 579 | 2044 | 3787 | 2077 | 404291 | C. Q.-M. Sergt  |  |  | Campbell, Herbert D. | 213 Cottingham St., Toronto, Ont  | Canada.. | Toronto. | Nov. 11, 1915. |
+| 33 | 578 | 2073 | 3787 | 2105 |  | Private  | 404292 | NU  | Tankard, Mrs. J  | 284 Kewatin Ave., Toronto, Ont  | Canada.. | Toronto. | May 22, 1915. |
+| 33 | 578 | 2099 | 3788 | 2135 | 404293 | Private  | Caroline, Austin Aubrey  | NU  | Caroline, Mrs. M. G... | 103 Chondoa Ave., Toronto, Ont  | Canada.. | Toronto. | I April 8. 1915. |
+| 34 | 615 | 320 | 3798 | 366 | 404294 | Private  | Carter, Sidney Charles r.... | Nil  | Carter, Mrs. Mary Ann. ... | 129 Ham boro Rd., S treat ham, London, Eng. | England... | Toronto. | . AprU | 1915. |
+| 34 | 616 | 349 | 3798 | 389 | 404285 | Private  | Carter, Thomas vMM? | Imp. Forces | Carter, Mra. Alioe Maude.. | 74 Badgerow Ave., Toronto, Ont  | England... | Toronto. | . April | 1915. |
+| 34 | 617 | 378 | 3799 | 418 | 404296 | Private  | Clarke, Thomaa Garrison.. PC r | NU  | Clarke, Ella. | 45 Charles St., W’est Toronto, Ont  | Canada.... | Toronto. | . AprU | 1915. |
+| 34 | 617 | 408 | 3799 | 448 | 404207 | Private  | Clayton, Reuben  | Nil  | NU. | England... | Niagara. | . June | 1915. |
+| 34 | 617 | 436 | 3799 | 476 | 404298 | Private  | Clow, Joseph Edward  | Imp. Forces | Clow, Mrs. F | 391 Me Roberts Ave., Toronto, Ont. | England... | Toronto. | . AprU | 1915. |
+| 34 | 616 | 465 | 3799 | 504 | 404289 | Private  | Cobb, Charles  | NU  | Cobb, George | Richmond HiU, Ont  | Canada.... | Toronto. | . April | 1915. |
+| 34 | 616 | 495 | 3800 | 533 | 404300 | Private  | Coleman, William  | Imp. Forces | Coleman, Mra. Marion | 395 Neagher Ave., Toronto, Ont  | England... | Niagara. | . June | 1915. |
+| 34 | 615 | 524 | 3800 | 562 | 404301 | Private  | Coles, James Harold  | NU  | Coles, Alberta, | 53 MUlicent St., Toronto, Ont  | England... | Toronto. | . April | 1915. |
+| 34 | 614 | 554 | 3799 | 591 | 404302 | Private  | Colquhoun, Alexander  | NU  | Colquhoun, Anna Bella | 122 Uxbridge Ave., Toronto, Ont  | Scotland... | Toronto. | . April | 1915. |
+| 34 | 613 | 582 | 3798 | 619 | 404303 | Private  | Cooney, James Michael  | R.C.R  | Cooney, Mrs. Mary  | 262 Macdonell Ave., Toronto, Ont  | , Canada.... | Toronto. | . April | 1915. |
+| 34 | 612 | 611 | 3800 | 649 | 404304 | Private  | Cooper, Albert Richard  | NU  | Cooper, R | 67 Branston Rd., Fairbank, Ont  | England... | Toronto. | . AprU | 1915. |
+| 34 | 612 | 641 | 3801 | 677 | 404305 | Private  | Coull, John  | Territorials | Coull, John | 3 W’att St., Dundee, Scot  | Scotland.. | Toronto. | . May | 1915. |
+| 34 | 613 | 669 | 3801 | 706 | 404306 | Private  | Coulson, William Cecil  | Nil. | Coulson, Mrs. Lottie | 84 Dunluce Ave., Belfast, Ire  | Ireland.... | Toronto. | . April | 1915. |
+| 34 | 613 | 698 | 3800 | 734 | 404307 | Private  | Coulthard, Richard  | T erritorials | Coulthard, Mra. C... | 44 Shaftesbury Ave.. Toronto, Ont  | England.. . | Toronto. | . April | 1915. |
+| 34 | 612 | 727 | 3801 | 767 | 404308 | Private  | Cox, Ernest George   | NU  | Cox, Mra. Mary | 80 Shepard St., Northfleet, Kent, Eng  | England... | Toronto. | . April | 1915. |
+| 34 | 612 | 756 | 3800 | 795 | 404309 | Private  | Craib, William MM. | Nil  | Craib, Mrs. Martha, | 173 Fern Ave., Toronto, Ont  | Scotland.. | Toronto. | . April | 1915. |
+| 34 | 612 | 785 | 3800 | 821 | 404310 | Private  | Crpcker, Leslie James  | NU  | Crocker, Samuel | 231 Annette St., Toronto, Ont  | England... | Niagara. | . June | 1915. |
+| 34 | 611 | 813 | 3800 | 853 | 404311 | Private  | Crowe, Robert  | 2nd Regt | Crowe, Mra. Robert | 54 The Maples, Bain Ave., Toronto, Ont  | England... | N iagara. | . June | 1915. |
+| 34 | 610 | 843 | 3800 | 880 | 404312 | Private  | Cullington, Mark William  | NU  | Cullington, Mra. Alice Jane.. | 85 Winchester St., Toronto, Ont  | Canada.... | Toronto. | . April | 1915. |
+| 34 | 609 | 872 | 3802 | 912 | 404313 | C. S.-Major.. | Curlew, George  | 10th Regt | Curlew, Mrs. M. E. C  | 109 Gowan Ave., Todmorden, Ont  | Newfoundland.. | Toronto. | . AprU | 1915. |
+| 34 | 610 | 901 | 3802 | 937 | 404314 | Private  | Dailey, Victor Percival   | Nil  | Dailey, Richard  | 547 Ossington Ave., Toronto, Ont  | Canada  | Toronto. | . April | 1915. |
+| 34 | 610 | 929 | 3801 | 970 | 404315 | Private  | Darlington, Fred. George  | NU  | Darlington, Mrs. Maude... | 50 Garnock Ave., Toronto, Ont  | Canada  | Toronto. | . April | 1915. |
+| 34 | 609 | 958 | 3800 | 998 | 404316 | L.-Corporal.. | Davenport, William  | Imp. Forces | Davenport, Mra. Bertba.... | 165 Seaton St., Toronto, Ont  | England  | Niagara. | . June | 1915. |
+| 34 | 609 | 988 | 3800 | 1028 | 404317 | Private  | Davenport, William Thomas... | 48th Regt | Davenport, Mrs. Mary Ann. | 2 Nut St., Bolton, Lancs., Eng  | England........ | N iagara. | . June | 1915. |
+| 34 | 608 | 1017 | 3801 | 1054 | 404318 | Private  | Davidson, Robert L  | NU  | Davidson, Mra. E... | 592 College St., Toronto, Ont  | Canada  | Toronto. | . AprU | 1915. |
+| 34 | 607 | 1046 | 3800 | 1084 | 404319 | Private  | Davie, James  | NU  | Davie, William  | So. TeUoford, Old Meldrum, Aberdeen, Scot  | Scotland  | Toronto. | . AprU | 1915. |
+| 34 | 606 | 1075 | 3800 | 1114 | 404320 | Corporal  | Davies, Arthur John  | Nil  | Davies, Mrs.'C. L... | 257 Beech Ave., Toronto, Ont  | Wales  | Toronto. | . AprU | 1915. |
+| 34 | 605 | 1104 | 3800 | 1142 | 404321 | Private  | Davis, Edwin  | NU  | Davis, Joseph | 57 Talbot St., Rishton, Lancs., Eng  | England  | Toronto. | . April | 1915. |
+| 34 | 604 | 1134 | 3801 | 1171 | 404322 | Private  | Denman, Alfred James  | NU  | Denman, Mrs. Ethel | 26 Alma Ave., Toronto, Ont  | England  | Toronto. | . April | 1915. |
+| 34 | 605 | 1162 | 3800 | 1201 | 404323 | Private  | Devereux, Percy  | T erritorials | Devereux, WUliam... | Christchurch, N.Z  | New Zealand... | T oronto. | . April | 1915. |
+| 34 | 605 | 1191 | 3801 | 1228 | 404324 | Private  | Dickson, William  | NU  | Dickson, Robert | Ballv Aigin, Crossgar, Down, Ire  | , Ireland  | Toronto. | . April | 1915. |
+| 34 | 604 | 1220 | 3801 | 1259 | 404325 | Private  | Dixon, John.   | 2nd Regt | Dixon, Mrs. Sarah  | 407 Westmoreland Ave., Toronto, Ont  | Ireland  | T oronto. | . April | 1915. |
+| 34 | 604 | 1249 | 3800 | 1288 | 404326 | Private  | Domey, Frank  | Imp. Forces | Dorney, Beatrice Ada | 3 St. Marks Rd., Toronto, Ont  | England  | T oronto. | . April | 1915. |
+| 34 | 604 | 1278 | 3801 | 1315 | 404327 | Private  | Dunsheath, Robert Ernest  | NU  | Dunsheath, Mra. Robert E.. | 170 Quebec Ave., Toronto, Ont  | Canada  | Toronto. | . April | 1915. |
+| 34 | 603 | 1307 | 3796 | 1345 | 404328 | Private  | Elford, Stanley  | NU  | Elford. Mrs. E | 6 Lawton Ave., Toronto, Ont  | England  | Toronto. | . April | 1915. |
+| 34 | 602 | 1336 | 3801 | 1372 | 404329 | Private...;.. | Ellen, Ernest William  | NU  | Ellen, Leonard | 52 McPherson Ave., Toronto, Ont  | England  | T oronto. | . April | 1915. |
+| 34 | 600 | 1365 | 3802 | 1404 | 404330! Private.. | Elliott, Aaron  | 2nd Regt | Elliott, Miss A. M | 279 Major St., Toronto, Ont  | Canada  | Toronto. | . AprU | 1915. |
+| 34 | 602 | 1394 | 3802 | 1432 | 404331 | Private.. | Essex, Harry Hampton    | NU  | Essex, Robert H | Fruitland, Ont  | Canada  | Toronto. | . May | 1915. |
+| 34 | 603 | 1423 | 3803 | 1459 | 404332 | Private.. | Fairbrother. Thomaa  | Nil  | Fairbrother, Mra. Emma... | 189 Emmerson Ave., Toronto, Ont  | England  | Toronto. | . April | 1915. |
+| 34 | 602 | 1452 | 3803 | 1490 | 404333 | Private.. | Fallows, Sidney Nettleton  | NU  | Fallows, H. C | Hudson’s Bay Co., Kenora, Ont  | England  | Toronto. | . AprU | 1915. |
+| 34 | 602 | 1480 | 3803 | 1519 | 404335 | Private... | Ferguson, Roy Garnett  | NU  | Ferguson, Mrs. Mary | 648 Wellington St., West Toronto, Ont  | Canada  | Niagara. | . June | 1915. |
+| 34 | 601 | 1513 | 3146 | 1550 | 4C4336 | Sergeant. | Ferguson, William Moncrief.... | NU  | Ferguson, Mra. Mary | Wemyss Villa, North Ave., Cam bus Lang, Lanark, |
+| 34 | 2483 | 1538 | 3804 | 1570 |  |  |  |  | Scot  | Scotland. | Toronto. | . AprU | 1915. |
+| 34 | 599 | 1568 | 3803 | 1605 | 404337 | Private... | Fickling, Richard  | NU  | Cox, Mrs. Mary | 94 Galt Ave., Toronto, Ont  | England.. | Toronto. | . AprU | 1915. |
+| 34 | 600 | 1596 | 3804 | 1635 | 404334 | Private... | Finch. Lewis Melvin  | 2nd Regt | Lottridge, Mra. A. M | 171 Alexander St., Rochester, N.Y., U.S.A  | Canada.., | Niagara. | . June | 1915. |
+| 34 | 599 | 1625 | 3804 | 1664 | 404335 | Private... | Fletcher, A. G  | 10th Regt | Fletcher, Mra. Ethel. | 71 Empire Ave., Toronto, Ont  | Canada... | Niagara. | . June | 1915. |
+| 34 | 599 | 1654 | 3804 | 1692 | 4C4339 | Private... | Forbes, Benjamin  | NU  | Forbes, Alexander... | 6 Goodwood Ave., Toronto, Ont  | Scotland. | Toronto. | . April | 1915. |
+| 34 | 600 | 1683 | 3804 | 1721 | 404340 | Private... | Foster, Edward James  | Nil  | Foster, George | Mervin, Sask  | U.S.A.. | Toronto. | . April | 1915. |
+| 34 | 598 | 1713 | 3803 | 1750 | 404341 | Pi i vate... | Fradley, William  | NU  | Fradley, Mrs. A | Industrial Bldgs., Bristol, Eng  | England.. | Toronto. | . April | 1915. |
+| 34 | 598 | 1742 | 3803 | 1780 | 404342 | Private... | Francey, George  | NU  | Francey, Mrs. Jane. | Kells, Co. Antrim, Ire  | Ireland... | Toronto. | . AprU | 1915. |
+| 34 | 598 | 1770 | 3803 | 1807 | 4C4343 | Private... | Francis, Frederick Russell. | NU  | Francis, Mrs. Annie | 57 Boston Ave., Toronto, Ont  | Canada... | Toronto. | . May | 1915. |
+| 34 | 597 | 1799 | 3803 | 1836 | 404344 | Private... | Fraser, Donald  | Nil  | Fraser, Ann | Achbuye, Abriachan, Scot  | Scotland. | Toronto. | . April | 1915. |
+| 34 | 597 | 1828 | 3803 | 1865 | 404345 | Private... | Fraser, Robert  | NU. | Fraser, Mrs. I | Quarrie Hill, Dudwick Ellon, Aberdeen, Scot.... | Scotland. | Toronto. | . AprU | 1915. |
+| 34 | 597 | 1857 | 3803 | 1897 | 404346 | Private... | Fulton, William Albert  | 48th Regt | Fulton, Mrs. Minnie. | 41 Chester Ave., Toronto, Ont  | Ireland... | Niagara. | . June | 1915. |
+| 34 | 596 | 1886 | 3802 | 1925 | 404347 | Private... | Ga^'e, William  | NU  | Gage, Mrs. Marjorie | 5 Caer HoweU St., Toronto, Ont  | Canada... | Toronto. | . April | 1915. |
+| 34 | 595 | 1915 | 3803 | 1955 | 404348 | Private... | Garbett. Ernest George   | NU  | Garbett, Mra. Alioe. | 5 Paling Cottage, Malvern, Wrorca., Eng  | England.. | Toronto. | . AprU | 1915. |
+| 34 | 596 | 1945 | 3803 | 1982 | 404349 | Private... | Gate, William Hayden  | NU  | Gate, Mrs. C | 275 Delaware Ave., Toronto, Ont  | Canada... | Toronto., | . April | 1915. |
+| 34 | 596 | 1973 | 3804 | 2011 | 404350 | Private... | Gillespie, Archibald James. | Nil  | GUlespie, Jennie | 825 Lansdowne Ave., Toronto, Ont  | Canada... | Toronto.. | AprU | 1915. |
+| 34 | 595 | 2003 | 3803 | 2038 | 404351 | Private... | Gillions, Frank. | NU. | GUlions, Misa Mary Ethel... | 7 Alexander Place, Bedford, Eng  | England.. | Toronto. | . AprU | 1915. |
+| 34 | 595 | 2032 | 3802 | 2071 | 404352 | Private.. | Gledhill, Herbert E |C.M.R.... | Gledhill, E | W’inchester Hotel, Toronto, Ont  | Canada... | Niagara. | , June | 1915. |
+| 35 | 800 | 565 | 3364 | 599 |  |  |  |  | Name of Next of Kin. |  | Country of |
+| 35 | 613 | 709 | 3808 | 743 | 404353 | Private., | Gordon, William Hunter  | 48th Regt. | Gordon, James   | Fisherie, Turriff, Aberdeen, Scot  | Sootland  | Niagara. | June 12, | 1915. |
+| 35 | 612 | 737 | 3807 | 772 | 404354 | Private.. | Gorrell, Richard  | NU  | Gorrell, Eleanor  | 164 Vaughan Rd., Toronto, Ont  | England  | Toronto. | AprU 5, | 1915. |
+| 35 | 612 | 765 | 3808 | 802 | 404355 | Private. | Gould, Albert Hugh John  | Nil  | Gould, Louise  | Pontypool, Ont  | Canada  | Toronto. | April 5, | 1915. |
+| 35 | 612 | 794 | 3808 | 830 | 404356 | Private.. | Grant, Charles  | NU  | Grant, Mra. C  | 19 Cornfield Terr., Hastings, Eng  | England  | Toronto. | April 12, | 1915. |
+| 35 | 611 | 824 | 3806 | 859 | 40435: | Private.. | Hale, Corrie  | NU  | Hale, Mrs. Minnie.. | Markham Rd., Scarboro, Ont  | U.S.A  | Toronto. | April 8, | 1915. |
+| 35 | 612 | 852 | 3807 | 888 | 40435S | Private.. | Hamm, Herbert Bramwell.... | NU  | Hamm,Mrs. Mary Elizabeth | 392 Roxton Rd., Toronto, Ont   | Canada    | Toronto. | April 19, | 1915. |
+| 35 | 611 | 881 | 3807 | 917 | 404359 | Private.. | Hare, Alfred  | Nil  | Hare, Mrs. E   | 7 Golden BaU, Norwich, Norfolk, Eng  | England  | Toronto. | April 12, | 1915. |
+| 35 | 610 | 910 | 3806 | 947 | 4C4360 | Private.. | Harris, George Crosby  | NU  | Harris, Mrs. Elixabeth. | 105 Galt Ave., Toronto, Ont  | Canada  | Toronto. | AprU 12. | 1915. |
+| 35 | 610 | 940 | 3807 | 976 | 404361 | Private.. | Hatchwell, Norman George... | Nil  | HatchweU, James D. B | Macduff, Banff, Scot  | Scotland  | Niagara. | June 12, | 1915. |
+| 35 | 609 | 968 | 3805 | 1006 | 404362 | Private.. | Havelock, Henry  |  | Havelock, Mrs. Annie... | 13 Edgington Rd., Streatham, London, Eng.. | England  | Toronto. | April 12, | 1915. |
+| 35 | 608 | 995 | 3806 | 1032 | 404363 | Private.. | Hawthornwaite, James  | NU , | Hawthornwaite, Mrs. Nellie | R M.D. No. 2, Weston, Ont  | England   | Toronto. | April 12, | 1915. |
+| 35 | 608 | 1026 | 3806 | 1063 | 404364 | Private.. | Hekking, Alphonse  | 22nd Regt  | Hekking, H  | Breda, Holland  | Holland  | Toronto. | April 19, | 1915. |
+| 35 | 608 | 1054 | 3806 | 1092 | 404365 Private.. |  | Hewlett, Raymond Claude.... | NU , | Hewlett, Mrs. Ellen  | 11 Wheeler Ave., Toronto, Ont  | Canada  | Toronto. | AprU 8, | 1915. |
+| 35 | 609 | 1084 | 3806 | 1120 | 404360 | Private  | Hinton, Herbert Owen  | Imp. Forces... | Hinton, Mrs. M  | 421 Dufferin St., Toronto, Ont  | England   | Toronto. | AprU 12, | 1915. |
+| 35 | 608 | 1113 | 3806 | 1148 | 4C4307 | Private  | Hiret, Rowland  | Nil  | Hirst, Mrs. Emma  | The Uskcrs. Deepcar, nr. Sheffield, Eng  | England   | Toronto.. | April 8, | 1915. |
+| 35 | 607 | 1141 | 3806 | 1179 | 404308 | Private  | Hodge, Leonard  | Nil  | Hodge, Mrs. Kate Rose— | Humber Bay P.O., Ont...    | England  | Toronto.. | AprU 12, | 1915. |
+| 35 | 607 | 1170 | 3807 | 1209 | 404369 | Corporal .. | Hodgson, Ralph  | Ni!  | Hodgson, George T  | 16 King St. W„ Toronto, Ont  | England  | Toronto., | AprU 12, | 1915. |
+| 35 | 606 | 1197 | 3806 | 1237 | 404370 | Private  | Houghting, Thomas Henry Brown | NU  | Houghting, Mrs. Ellen  | Mount Dennis P.O., Ont  | England  | Toronto. | April 12, | 1915. |
+| 35 | 606 | 1228 | 3806 | 1265 | 404371 | Private  | Hounsell, Harry Walter  | Aust. Defence. | Hounsell, Mrs. EmUy  | Bedford Park P.O.. Toronto, Ont  | England  | Toronto.. | April 9, | 1915. |
+| 35 | 606 | 1257 | 3805 | 1295 | 4C437 | Sergeant.... | Hunt, Henry  | NU  | Hunt, Mrs. Ann Jane  | 11 Roden Place, Toronto, Ont  | Engiand  | Toronto. . | AprU 12, | 1915. |
+| 35 | 605 | 1286 | 3805 | 1321 | 40437 | Private  | Irwin, Robert  | NU  | Irwin, Mrs. Maude  | 56J^ Argyle St., Toronto, Ont  | Canada  | Toronto.. | April 5, | 1915. |
+| 35 | 606 | 1314 | 3806 | 1349 | 404374 | Private  | Jackson, Alan  | Nil  | Jackson, Mrs. Elizabeth... | 1525 Queen St., Toronto, Ont  T  | Canada  | Toronto.. | April 9, | 1915. |
+| 35 | 604 | 1343 | 3805 | 1378 | 4C4375 | Private  | Jamieson, William Brodie.. | NU  | Jamieson, Elixabeth  | 101 High St. E., Loch Winnoch, Renfrew, Scot.... | Scotland  | Toronto.. | AprU 5, | 1915. |
+| 35 | 604 | 1372 | 3806 | 1409 | 404370 | Private  | Jessop. John £.CM. | Territorials  | Jessop, Norman A  | 26 Clare Rd., Liverpool, Eng.    | England   | Toronto.. | April 8, | 1915. |
+| 35 | 604 | 1401 | 3805 | 1436 | 40437 | Private  | Johnson, Frederick J  | Territorials  | Johnson, Mrs. E  | 2 Epping Rd., Sydney, Australia  | England  | Toronto.. | AprU 5, | 1915. |
+| 35 | 603 | 1430 | 3805 | 1465 | 404378 | Private  | Johnson, Michael  | Nil  | Johnson, John  | Coaileusre, Batlyshannon, Donegal, Ire  | Canada  | Niagara.. | June 15, | 1915. |
+| 35 | 603 | 1458 | 3806 | 1497 | 404379 | Bugler  | Johnson, Reginald John  | Territorials.... | Johnson, Mrs. W. G  | 72 Epping Rd., Sydney, Australia  | England  | Toronto.. | April 5, | 1915. |
+| 35 | 603 | 1487 | 3806 | 1523 | 404380 | Private  | Jones, John Edwin  | NU  | Jones, J. E  | 16 Victoria Park Ave., Toronto, Ont  | Wales  | Toronto. . | April 12, | 1915. |
+| 35 | 603 | 1516 | 3805 | 1553 | 404381 | Private  | Joynson, James  | Imp. Forces... | EUis, Mrs. H...  | 242 Price St., Birkenhead, Cheshire, Eng  | England  | Toronto.. | April 12, | 1915. |
+| 35 | 603 | 1545 | 3806 | 1584 | 4043S2 | Private  | Kean, Arthur Kennedy  . | NU  | Kean, Mrs. Maria  | Whitby, Ont  | Canada  | Toronto.. | May 22, | 1915. |
+| 35 | 603 | 1574 | 3805 | 1611 | 404383 | Private  | Kelly, Joseph MM . | Nil  | Kelly, Mrs. Sarah  | Omagh, Co. Tyrone, Ire  | Ireland  | Toronto.. | April 19, | 1915. |
+| 35 | 602 | 1602 | 3806 | 1641 | 404384 | Private  | Kerr, Robert MM.. | 10th Regt  | Kerr, Robert '.  | 19 Fenwick Ave., Toronto, Ont  | Ireland  | Niagara.. | June 8, | 1915. |
+| 35 | 602 | 1631 | 3805 | 1668 | 404385 | Private  | Kerr, W. A  | C.M.R  | Kerr, W  | 361 Carlaw Ave., Toronto, Ont  | Canada  | Toronto.. | May 12. | 1915. |
+| 35 | 601 | 1657 | 3805 | 1706 | 404386 | Private  | Kyle, Edwin A laia' | NU  | Kyle, Mrs. E  | 123 Mutual St., Toronto, Ont  | Canada  | Toronto.. | April 5, | 1915. |
+| 35 | 601 | 1686 | 3805 | 1728 | 404387 | Private  | Lacey, Ivan Arnold MM- | NU  | Lacey, Mrs. I  | 27 Seneca Ave., Toronto, Ont  | Canada  | Toronto.. | April 12, | 1915. |
+| 35 | 600 | 1717 | 3804 | 1758 | 40438S | L.-Corporal. | Laurie, William  | NU  | Laurie, William  | 6 Sullivan St., Toronto, Ont  | Scotland  | Toronto.. | April 12, | 1915. |
+| 35 | 600 | 1747 | 3805 | 1786 | 404389 | 'ergcant  | Lawson, William Penman  | Imp. Forces... | Lawson, Stephen '.... | 106 Holyrood Rd., Edinburgh, Scot.  | Scotland  | Toronto.. | AprU 12, | 1915. |
+| 35 | 600 | 1776 | 3804 | 1812 | 404390 | Private  | Lee, James  | NU  | Lee, Mrs. Margaret  | Box 346, Bracebridge, Ont  | England  | Toronto.. | April 12. | 1915. |
+| 35 | 600 | 1803 | 3804 | 1843 | 404391 | Private  | Lee, Ralph D  | 10th Regt  | Lee, Mrs. Eleanor  | 586 Manning Ave., Toronto, Ont  | Canada  | Niagara . | Aug. 5. | 1915. |
+| 35 | 599 | 1833 | 3805 | 1872 | 404392 | Private  | Lewis, Joseph George  | NU  | Lewis, Margaret  | 18 GUdersleeve Place, Toronto, Ont  | Wales  | Toronto.. | April 5, | 1915. |
+| 35 | 600 | 1860 | 3805 | 1899 | 404393 | Private  | Lowcock, Edward  | NU  | Lowcock, WUliam  | 74 Lingholme Rd., St. Helens, Lancs., Eng  | England  | Toronto.. | April 5. | 1915. |
+| 35 | 600 | 1891 | 3804 | 1928 | 404406 | Private  | McCann, Thomas MM. | NU  | McCann. Mrs. Bridget  | Meigh P.O., Newry, Co. Armagh, Ire  | Ireland  | Toronto.. | AprU 12, | 1915. |
+| 35 | 601 | 1920 | 3804 | 1956 | 404410 | Private  | McCurdie, William  | Nil  | McCurdie, Mrs. Catherine.. | Rear 52 Tecumseh St., Toronto, Ont  | Scotland  | Toronto.. | AprU 12, | 1915. |
+| 35 | 601 | 1949 | 3803 | 1985 | 404411 | Private  | McDonald, James Gavan  | NU  | McDonald, Mrs. Maria.  | Bradford, Ont  | Canada  | Toronto.. | AprU 12. | 1915. |
+| 35 | 600 | 1978 | 3802 | 2016 | 404394 | Private  | MacDowall, Walter P  | NU  | MacDowall. Mrs. Annie  | 57 HamUton St., Toronto, Ont  | Canada  | Niagara.. | June 15, | 1915. |
+| 35 | 600 | 2007 | 3801 | 2044 | 404412 | Private  | McFarlane, Robert  | NU  | McFarlane, Mrs. Robert  | 7 Strathcona Garden, Todmorden, Toronto, Ont... | Scotland  | Toronto.. | AprU 5. | 1915. |
+| 35 | 600 | 2035 | 3800 | 2073 | 404395 | Private  | MacKenxie, Leslie V  | Territorials  | MacKenxie, Mrs. Emma.... | We3ton Hotel, Bombay, India  | India  | N iagara.. | June 21, | 1915. |
+| 35 | 600 | 2065 | 3801 | 2103 | 404413 | Private  | McLeod, Colin Campbell  | Imp. Forces... | McLeod. Mrs. Sarah  | 4 Bowman St., Toronto, Ont  | Scotland  | N iagara.. | June 9, | 1915. |
+| 35 | 599 | 2093 | 3802 | 2131 | 404414 | Private  | McNickle, Robert  | NU  | McNickle, James  | CulvhUlion, Tyrone. Ire  | Ireland  | Toronto.. | AprU 12, | 1915. |
+| 36 | 674 | 327 | 3865 | 359 | 40439G | L.-Corporal.. | Maltby, William Lawrence. | Nil  |  |  | Toronto.... | April 8, 1915. |
+| 36 | 674 | 357 | 3866 | 390 | 404397 | Private.  | Manning, George , | Nil  |  |  | Toronto.... | April 5, 1915. |
+| 36 | 674 | 384 | 3867 | 416 | 404398 | Private  | Mansfield, Fred j | Nil  |  |  | Toronto.... | April 19, 1915. | Mansfield, Mrs. Margaret. .. |
+| 36 | 673 | 415 | 3867 | 445 | 404399 | Private  | Martin, Woodruff Brownlow | 2nd Regt.. |  |  | Toronto.... | April 8, 1915. |
+| 36 | 673 | 444 | 3867 | 474 | 404400 | L.-Corporal. | Martindale, Samuel  | 10th Regt. |  |  | Toronto.... | Mav 22. 1915. |
+| 36 | 673 | 473 | 3866 | 503 | 40440! | Private  | Martindale, William Eld gar.. | 10th Regt. |  |  | Toronto.... | .April 12, 1915. |
+| 36 | 673 | 503 | 3866 | 530 | 404402 | Private  | Mason, Frederick William... | Nil  |  |  |  | April 12, 1915. |
+| 36 | 673 | 532 | 3867 | 560 | 404403 | Private  | Maynard. Frederick Howard | 48th Regt. |  |  |  | April 8 1915. |
+| 36 | 672 | 556 | 3865 | 589 | 404404 | Private  | Meade, Cornelius  | 2nd Regt.. |  |  | Niagara.... | June 12, 1915. |
+| 36 | 672 | 587 | 3867 | 617 | 4044 C5 | Private  | Meakes, Ernest Ronald  | NU  |  |  | Toronto.... | .April 10, 1915. | Meakes, Mrs. E. E  |
+| 36 | 672 | 618 | 3867 | 646 | 4044OC | Private  | M inskip, Bert  | NU  |  |  | Toronto  | AprU 12, 1915. |
+| 36 | 672 | 645 | 2405 | 676 | 404406 | Private  | Moorcroft, Percy W  | S.A  | Moorcroft, Mra. Minnie |
+| 36 | 672 | 732 | 3868 | 761 | 404407 | Private  | Moore, Alexander David  | NU  |  |  | Toronto.... | April 8, 1915. |
+| 36 | 672 | 761 | 3867 | 792 | 404416 | Private  | Nunn, George William  | NU  |  |  | Toronto.... | AprU 12, 1915. |
+| 36 | 671 | 789 | 3868 | 818 | 404416 | Private  | Nuttall, Herbert  | NU  |  |  | Toronto.... | April 5, 1915. | 108 Spadina Ave., Toronto, Ont  |
+| 36 | 671 | 818 | 3868 | 847 | 404417 | Private  | O'Brien, John  | NU  |  |  | Toronto.... | AprU 19.1915. | O’Brien, Mrs. Gertie  | 124 Morse St., Toronto, Ont  |
+| 36 | 671 | 848 | 3868 | 877 | 404418 | Private  | Orme, William  | NU  |  |  |  | .April 12, 1915. |
+| 36 | 672 | 873 | 3868 | 906 | 404419 | Private  | Packham, Sidney  | Nil  |  |  |  | April 12, 1915. |
+| 36 | 671 | 905 | 3869 | 936 | 40442C | Private  | Pattiaon. Lloyd Everton  | NU  | Pattison, Mrs. M. A  |  | Toronto  | AprU 12, 1915. |
+| 36 | 668 | 933 | 3869 | 965 | 404421 | Private  | Peace, George Malcolm  | Nil  |  |  |  | April 8, 1915. |
+| 36 | 671 | 963 | 3869 | 994 | 404422 | Private  | Pearce, George Thomas  | NU  |  |  |  | April 19, 1915. |
+| 36 | 670 | 991 | 3868 | 1022 | 404423 | Private  | PhUp, Charlee  | Nil  |  |  | Toronto.... | April 12, 1915. |
+| 36 | 670 | 1020 | 3869 | 1051 | 404424 | Private  | Philips, Thomas  | Nil  |  |  | Toronto. | .AprU 10, 1915. |
+| 36 | 670 | 1049 | 3869 | 1079 | 404426 | Private  | Phillips, Frank  | NU  |  |  | Toronto.... | AprU 12,1915. |
+| 36 | 669 | 1078 | 3869 | 1108 | 40442P | Private  | Plumbtree, Thomas Charles. | Nil  |  |  | Toronto.... | AprU 12, 1915. |
+| 36 | 669 | 1106 | 3869 | 1139 | 404427 | L.-Corporal  | Pomphrey, Thomas  | NU  |  |  | Toronto.... | April 5, 1915. | Pomphrey, Marion Reid.... |
+| 36 | 669 | 1135 | 3869 | 1166 | 404428 | Private  | Porteous, John Ramage  | Nil  |  |  | Toronto  | April 12, 1915. |
+| 36 | 668 | 1164 | 3869 | 1196 | 404429 | Private  | Porter, Harvey Maxwell  | NU  |  |  | Toronto.... | April 8, 1915. |
+| 36 | 668 | 1193 | 3869 | 1222 | 404430 | Private  | Powell, Willinm  | NU  |  |  | Toronto  | May 22, 1915. | Powell, Mrs. Annie Beatrice |
+| 36 | 668 | 1219 | 3869 | 1252 | 404431 | Private  | Quail, Thomas  | NU  |  |  | Toronto  | AprU 5, 1915. |
+| 36 | 668 | 1250 | 3869 | 1282 | 404432 | Private  | Raggett, Percy Mortimer  | NU  |  |  | Toronto.... | April 12, 1915. | Raggett, Mrs. Elizabeth.... |
+| 36 | 669 | 1278 | 3869 | 1308 | 404433 | Private  | Ranee, Frank Edward  | Nil  |  |  | Toronto.... | April 8, 1915. |
+| 36 | 669 | 1308 | 3870 | 1337 | 404434 | Private  | Reid, Alexander  | NU  |  |  | Toronto.... | April 12, 1915. |
+| 36 | 669 | 1337 | 3870 | 1369 | 4C4435 | Private  | Eevie, Robert Peden  | 10th Regt. |  |  | Toronto.... | April 12. 1915. |
+| 36 | 670 | 1366 | 3869 | 1395 | 404436 | Private  | Reynolds, Edward James.... | Nil  |  |  |  | April 12. 1915. |
+| 36 | 669 | 1395 | 3870 | 1423 | 404437 | Private  | Rhem, William  | NU  |  |  | Toronto.... | April 8, 1915. |
+| 36 | 670 | 1423 | 3870 | 1452 | 404435 | Private  | Richardson. Edward Smith. | Nil  |  |  | Toronto.... | April 8, 1915. |
+| 36 | 670 | 1451 | 3870 | 1484 | 404439 | Sergeant  | Ritchie, William Wyse  | 2nd Regt.. |  |  | Toronto.... | April 19, 1915. |
+| 36 | 669 | 1481 | 3870 | 1509 | 404440 | Private  | Robb, John  | NU  |  |  | Toronto.... | April i, 1915. |
+| 36 | 670 | 1509 | 3870 | 1540 | 404441 | L.-Corporal  | Roberts. Frederick Alfred... | NU  |  |  | Toronto.... | April 8, 1915. | 75 Hounslow Heath Rd., Toronto, Ont  |
+| 36 | 669 | 1539 | 3869 | 1571 | 404442 | Private  | Roberts, George  | 48th Regt. |  |  | Toronto.... | AprU 9, 1915. | 303 Battersea Park Rd., Battersea, London, Eng.. |
+| 36 | 669 | 1567 | 3868 | 1597 | 404443 | Private  | Roberts, Reginald James.... | Nil  |  |  | Toronto.... | AprU 8, 1915. | Roberts, Mrs. E. C  |
+| 36 | 669 | 1596 | 3868 | 1627 | 4C4444 | Private  | Roberts, WUliam Harry  | NU  |  |  | Toronto  | AprU 8, 1915. |
+| 36 | 669 | 1627 | 3224 | 1656 | 404445 | Private  | Robertson, John Cameron. . . | NU  |  | Yewbank, Port Elphinston, Inverurie, Aberdeen, |
+| 36 | 669 | 1682 | 3868 | 1712 | 404446 | Private  | Rodda, William  | Nil.   |  |  | Toronto.... | May 12, 1915. |
+| 36 | 670 | 1712 | 3868 | 1742 | 404447 | Private  | Rogera, Francis Richard. | NU  |  |  | Toronto.... | May 29, 1915. | Rogers, Mrs. Alice Maude... | Ardrossan Farm, Itham, Pa., U.S.A  |
+| 36 | 670 | 1740 | 3867 | 1771 | 40444H | Private  | Rutter, WUliam Joseph.. | Nil  |  |  | Toronto.... | April 12, 1915. |
+| 36 | 671 | 1770 | 3867 | 1800 | 404449 | Private  | Salloway, George M  | Nil  |  |  |  | April S, 1915. | Mansville Rd., Bonymaen, Swansea, South Wales. |
+| 36 | 670 | 1801 | 2483 | 1828 | 404450 | Private  | Samuels. John Jacob  | Nil  | Samuels, Mrs. A  |
+| 36 | 670 | 1827 | 3865 | 1857 | 404451 | Private  | Scott, Edward  | NU  |  |  |  | July 30, 1915. |
+| 36 | 670 | 1855 | 3865 | 1889 | 4044 5 2 | Private  | Seaton, Allan  | Royal Navy. |  |  |  | April 12, 1915. |
+| 36 | 670 | 1885 | 3866 | 1915 | 404453 | Private  | Shaw, Walter  | Nil  | Shaw, Mra. W. H . |  | Toronto  | AprU 12, 1915. |
+| 36 | 671 | 1914 | 3864 | 1944 | 404454 | Private  | Sim kins, Herbert  | NU  |  |  | Toronto.... | April 12, 1915. | Simkins, Mrs. Elizabeth  |
+| 36 | 670 | 1942 | 3864 | 1974 | 404465 | L.-Corporal.. | Skinner, William Arthur. | NU....:.. |  |  | Toronto.... | April 19, 1915. |
+| 36 | 671 | 1970 | 3863 | 2003 | 404456 | Private  | Smith, Alfred George.... | NU  |  |  | Toronto.... | AprU 12. 1915. |
+| 36 | 671 | 1999 | 3863 | 2031 | 40445 | Private  | Smith, Sydney James... | NU  |  |  | Toronto.... | April 5. 1915. |
+| 36 | 670 | 2029 | 3863 | 2059 | 404468 | Private  | Smith, Thomas John.... | G.G.B.G. |  |  | Toronto.... | AprU 12, 1915. |
+| 37 | 812 | 632 | 3377 | 667 |  |  |  |  | Name of Next of Kin. |  | Country of |
+| 37 | 633 | 670 | 3756 | 701 | !? |  |  |  |  |  |  | Place. | Date. |
+| 37 | 624 | 774 | 3812 | 810 | 404459 | Privat e.. | Smith, William  | NU  | Smith, Mrs. Emma  | 19 Port Holl St., Brighton, Eng ,  | England... | Toronto. | April | 9, 1915. |
+| 37 | 623 | 804 | 3811 | 839 | 404460 | Private.. | Southorn, Norman  | Nil  | Southorn, Mrs. Alice  | 12 Keele St., Toronto. Ont  | Canada  | Toronto. | AprU | 12, 1915. |
+| 37 | 622 | 832 | 3811 | 869 | 404461 | Private.. | Sparrow, Robert   | NU  | Sparrow, E  | 116 CampbeU Ave., Toronto, Ont  | Canada  | Toronto. | May | 12, 1915. |
+| 37 | 622 | 862 | 3811 | 900 | 4C4462 | Private.. | Speers, George  | 10th Regt... | Speers, WUliam  | Shanaghan, Kahtbridge, Banbndge, Co. Down, Ire | Ireland  | Niagara. | Aug. | 4, 1915. |
+| 37 | 621 | 891 | 3812 | 928 | 404463 | Private.. | Spiers, Robert  | NU  | Spiers, Mrs. Agnes  | 44 Stephanie St., Toronto, Ont  | England  | T oronto.. | AprU | 12, 1915. |
+| 37 | 623 | 920 | 3811 | 957 | 404464 | Private... | Spracklin, Walter Chnrchill  | 2nd Regt  | Spracklin, Mrs. EmUie  | 807 Sbaw St., Toronto, Ont  | Newfoundland | Niagara. | June | 12, 1915. |
+| 37 | 622 | 949 | 3811 | 986 | 404465 | Private.. | Square, Robert  | Nil  | Square, Mrs. M  | 80 Caroline Ave., Toronto, Ont  | Scotland  | Toronto. | AprU | 12, 1915. |
+| 37 | 622 | 979 | 3810 | 1015 | 404466 | Private.., | Stephens, Walter George  | NU  | Stephens, Mrs. A  | 44 Greene Rd., Poole, Dorset, Eng  | England  | T oronto.. | AprU | 12, 1915. |
+| 37 | 622 | 1007 | 3810 | 1043 | 404467 | Bugler  | Stevenson, James Wilson  | NU  | Stephenson, Mrs. Alice  | 47 Curron St., Toronto, Ont..  | England  | Toronto.. | April | 12, 1915. |
+| 37 | 622 | 1036 | 3810 | 1073 | 404468 | Private.., | Stovold, William Charles  | Imp. Forces. | Stovold. Mrs. E  | Wycombe, 17 Bishops Rd., High gate, London, Eng | England  | Toronto. | AprU | 12, 1915. |
+| 37 | 621 | 1065 | 3809 | 1102 | 404469 | Private... | Street, C. Charles  | 2nd Regt-... | Street, Miss  | 17 Lowther Ave., Toronto, Ont  | Canada  | Niagara.. | June | 11. 1915. |
+| 37 | 622 | 1094 | 3809 | 1131 | 404470 | Private... | Surridge, William  | NU  | Surridge, Mrs. Elixabeth  | Bosanquet Rd., Hoddesdon, Herta., Eng  | England  | Toronto.. | April | 12, 1915. |
+| 37 | 621 | 1123 | 3809 | 1160 | 404471 | Corporal. | Sutherland. George  | NU  | Sutherland,George Patterson | 7 Paton St., Galashiels, Selkirk, Scot  | Scotland  | Toronto.. | April | 5, 1915. |
+| 37 | 621 | 1152 | 3808 | 1188 | 404472 | Private... | Tarn,-, Walter Edward  | 9th Horse. .. | Tarry, Annie Violet  | 4 Sullivan St., Toronto, Ont  | England  | Toronto.. | May | 10, 1915. |
+| 37 | 619 | 1181 | 3809 | 1218 | 404473 | Private... | Taylor, Douglas  |  | Taylor, Mrs. Ann  | 39 Aberdeen Ave., Toronto, Ont  | Scotland  | Toronto.. | April | 5, 1915. |
+| 37 | 619 | 1211 | 3809 | 1247 | 404474 Private. |  | Taylor, Eric Ernest Herbert  | NU  | Taylor, Daisy  | 3 Crescent Gardens. Belfast. Ire  | Ireland  | Toronto.. | May | 22, 1915. |
+| 37 | 618 | 1239 | 3809 | 1276 | 404475 Private. |  | Taylor, George  | 88th Regt. .. | Taylor, Miss F  | “ The LUies,” Medstead, Alton, Hants., Eng  | England  | Toronto.. | ^.pril | 12, 1915. |
+| 37 | 618 | 1268 | 3809 | 1306 | 404476 Private |  | Thexton, Arthur Gordon  | 48th Regt... | Thexton, George  | Whitby, Ont  | Canada  | Toronto.. | April | 15, 1915. |
+| 37 | 618 | 1297 | 3809 | 1333 | 404477 | Private.. | Thompson, Allan B  | NU  | Thompson, Mrs. S. A  | 90 Hogarth Ave., Toronto, Ont  | Canada  | Toronto.. | April | 5, 1915. |
+| 37 | 617 | 1326 | 3809 | 1362 | 404478 | Private.. | Thompson, Frederick  | Imp. Forces. | Thompson, Thomas  | 42 Baywater Rd., Leeds, Eng ...... | England  | Niagara.. | June | 11, 1915. |
+| 37 | 616 | 1355 | 3808 | 1391 | 404479 | Private.. | Thompson, Richard Paiin  | Nil  | Thompson, F. H  | Matheson, Ont  | Canada  | Toronto.. | April | 12, 1915. |
+| 37 | 615 | 1384 | 3808 | 1420 | 404480. | Private... | Topp, John  | Nil  | Topp, Mrs Mary E  | 147 Balmoral Ave., Toronto, Ont  | Canada  | Toronto.. | AprU | 8, 1915. |
+| 37 | 616 | 1414 | 3808 | 1447 | 4C4481 | Private... | Tuck, Donald Albebrook  | NU  | Tuck, Mrs  | 47 Winchester St., Toronto, Ont  | England  | Niagara.. | June | 5. 1915. |
+| 37 | 614 | 1443 | 3808 | 1478 | 404482 | Private... | Tupper, Frederick James  | N’U  | Tupper, Emily  | 7 Eldon Rd., Worthing, Sussex, Eng  | England  | Toronto.. | April | 5, 1915. |
+| 37 | 613 | 1472 | 3808 | 1507 | 404483 | Corporal. | Turvuand. Aubrey D. A  | Nil  | McAllum. Mrs. Berthn  | 414 Huron St., Toronto, Ont  | Canada  | Toronto.. | April | 8, 1915. |
+| 37 | 613 | 1501 | 3807 | 1534 | 404484 | Private... | Verner, William Stuart   | Nil  | Verner, Mrs. E. J  | 24 Leuty Ave., Toronto, Ont  | Canada  | Toronto.. | April | 8, 1915. |
+| 37 | 612 | 1529 | 3807 | 1563 | 404485 | Private... | Ward, James Albert  | Nil  | Ward, Mrs. Mabel T  | 181 Quebec Ave., Toronto, Ont  | U.S.A  | Toronto.. | April | 19, 1915. |
+| 37 | 612 | 1558 | 3806 | 1594 | 404486 | Private... | Warren, Alfred Joseph  | NU  | Warren, Mrs. Florence  | 305 Harvie Ave., Toronto, Ont  | England  | Toronto.. | April | 12. 1915. |
+| 37 | 611 | 1585 | 3807 | 1624 | 404487 | Private... | Watkins, Ernest George MM. | NU  | Wyatt, Mrs. F  | 375 Kingston Rd., Toronto, Ont  | England  | Toronto.. | AprU | 12, 1915. |
+| 37 | 612 | 1617 | 3808 | 1652 | 404488 | Private... | Watson, George  | 48th Regt. .. | Watson, G  | 13 Baird Ave., Toronto, Ont  | Scotland  | Toronto.. | May | 11, 1915. |
+| 37 | 612 | 1645 | 3808 | 1680 | 404489 | Private... | Weir, Joseph  | Nil  | Weir, James  | Mintlaw, Aberdeen. Scot  | Scotland  | Toronto.. | April | 5, 1915. |
+| 37 | 613 | 1675 | 3808 | 1709 | 404490 | Private... | Westwood, Walter  | NU  | Westwood, Charles  | 327 HamUton St., Montreal, P.Q  | England  | Toronto.. | April | 12, 1915. |
+| 37 | 612 | 1709 | 2391 | 1739 | 404491 | Private... | Whitehurst, George  | NU  | Whitehurst, Mrs. Beatrice |
+| 37 | 2080 | 1732 | 3808 | 1766 |  |  |  |  | May  | 267 Augusta Ave., Toronto, Ont  | England. | Toronto.... | April | 19, 1915. |
+| 37 | 612 | 1761 | 3808 | 1795 | 404492 | Private. | Whiteman, Russell James... | NU  | Whiteman, James  | 13 Trow Ave., Stratford, Ont  | Canada . | Toronto.... | April | 19, 1915. |
+| 37 | 613 | 1791 | 3808 | 1824 | 404493 | Private. | Wilkinson, Albert  | Nil  | Wilkinson, Mrs. J  | 96 Edwin Ave., Toronto, Ont  | England. | Toronto.... | April | 12, 1915. |
+| 37 | 613 | 1819 | 3808 | 1853 | 404494 | Private. | Williams, Frederick  | NU  | Williams, Harry  | 12 St. Budeaux Terrace, Devonport, Eng. | England. | Toronto.... | April | 12, 1915. |
+| 37 | 613 | 1849 | 3807 | 1881 | 404495 | Private. | Williams, H. G  | NU  | Williams, Mrs. Elixabeth... | 6 Dufferin St., Toronto, Ont  | Canada.. | Niagara.... | July | 4, 1915. |
+| 37 | 613 | 1877 | 3808 | 1913 | 404496 | Private. | Wilson, Reginald  | Nil  | Wilson, Mrs. Sarah Ann  | Newmarket, Ont  | England. | Toronto.... | April | 12, 1915. |
+| 37 | 613 | 1906 | 3807 | 1941 | 404497 | Private. | Winton, David  | NU  | Winton. Mrs. C  | Tobermore, Co. Derry, Ire  | Ireland.. | Toronto  | April | 12, 1915. |
+| 37 | 611 | 1936 | 3808 | 1970 | 404498 | Private. | Woodward, Daniel  | NU  | Charon, Flora  | 32 Madeline Ave., Toronto, Ont  | England. | Toronto  | AprU | 12, 1915. |
+| 37 | 611 | 1964 | 3808 | 1998 | 404499 | Private., | Woodwards, Robert James. | Nil  | Woodwards, Mrs. F  | 32 Madeline Ave., Toronto, Ont  | England. | Toronto  | AprU | 12. 1915. |
+| 37 | 611 | 1994 | 3808 | 2028 | 4045001 | Private., | Yewman, Frank  | NU  | Yewman, Mrs. Julia  | 7 Baden St., Toronto, Ont  | Canada.. | Toronto.... | April | 12, 1915. |
+{% endraw %}

@@ -1,0 +1,187 @@
+---
+title: 251st Battalion
+---
+
+{% raw %}
+| | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  | (ISSUED WITH MILITIA ORDERS, 1918.) | Canadian Expeditionary | Force | 251st BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. 11 Metagama." | 593-2-29. Date: October 6th, 1917. |
+| 2 | 565 | 532 | 3245 | 565 | .zZ |  | Former Corps. |  |  | Country of |
+| 2 | 2256 | 676 | 3743 | 709 |  |  |  |  | 177 Inkster Ave„ Winnipeg, Man   | Ireland  | Winnipeg  | Oct. | 1910. |
+| 2 | 2256 | 706 | 3744 | 736 |  |  |  |  | Estevan, Sask  | England... | Winnipeg  | Oct. | 1916. |
+| 2 | 2252 | 735 | 3743 | 767 |  |  |  |  | 20 Brandon Court. Winnipeg, Man  | England... | Winnipeg  | Oct. | 1916. |
+| 2 | 905 | 764 | 3744 | 797 |  | Nicholson, Murray Stewart  |  |  | Clarendon Hotel, Winnipeg, Man  | Canada  | Winnipeg  | Oct. | 1916. |
+| 2 | 532 | 794 | 3744 | 827 | 1081392 | Private  | Aitken, Forbes  | Nil  | Aitken, Ferguson  | 567 Simcoe St., Winnipeg, Man  | Scotland... | Winnipeg  | April | 1917. |
+| 2 | 531 | 823 | 3744 | 854 | 1031355 | Private  | Allard, William  | Nil  | 149 Front St., Woonsocket, R.I., U.S.A  | Canada.... | Brandon  | \pril | 1917. |
+| 2 | 530 | 853 | 3744 | 883 | 1084231 | Private  | Archibald, Prescotte Samuel  | Nil  | Elva, Man  | Canada  | Winnipeg  | Nov. | 1916. |
+| 2 | 531 | 882 | 3744 | 913 | 10S4177 | Ash, Harold Joseph  | Nil  |  | Stoppington, Alta  | England... | Winnipeg  | Oct. | 1916. |
+| 2 | 526 | 910 | 3745 | 941 | 1034391 |  | Nil  |  | SOS Tenth St., Bronson, Man  | Canada  | Winnipeg  | April | 1917. |
+| 2 | 529 | 940 | 3744 | 972 | 1034309 | Private  | Nil  |  | 3 Jubilee Ave., Liverpool, Eng  | England... | Winnipeg  | Jan. | 1917. |
+| 2 | 528 | 969 | 3744 | 999 | 1034138 | Private  | Beluk, Dan  | Nil   | Gen. Del., Moose Jaw, Sask  | Russia  | Winnipeg  | Oct. | 1916. |
+| 2 | 529 | 1000 | 3744 | 1030 | 1034214 | Private  | Boal, Robert  | Nil  | >r. Logan & Rosser Rd., Winnipeg, Man  | Canada.... | Winnipeg  | ov. | 1916. |
+| 2 | 528 | 1027 | 3745 | 1059 | 1034291 | Private  | Bowers, Hedlev Frederick  | Can. Mil  | Granges, Salt Spring Island, B.C  | Canada.... | Winnipeg  | Dec. | 1916. |
+| 2 | 528 | 1057 | 3745 | 1087 | 1034318 |  | Nil  |  | \lmonte, Ont    | Canada.... | Winnipeg  | Jan. | 1917. |
+| 2 | 527 | 1086 | 3744 | 1118 | 1031039 | Bowling, Harold  | Nil  |  | 1459 Bannatyne Ave., Winnipeg, Man  | England... | Winnipeg  | Oct. | 1916. |
+| 2 | 526 | 1115 | 3745 | 1146 | 10342>7 |  | Nil... |  | Portage la Prairie, Man  | Canada.... | Winnipeg  | Nov. | 1916. |
+| 2 | 526 | 1146 | 3745 | 1176 | 10S4007 | Private  | Brooks, Henry Alfred   | Nil  | 1375 Cathedral St., Winnipeg, Man  | England... | Winnipeg  | Sept. | 1916. |
+| 2 | 524 | 1173 | 3745 | 1205 | 1034373 | Private  | Brown, Harris Eiwin  | Nil  | Brown, Mra. Ellen  | Napinka. Man  | Canada.... | Winnipeg  | Mar. | 1917. |
+| 2 | 523 | 1202 | 3745 | 1237 | 1034162 | Sergeant  | Brown, Issac Logan  | Nil  | Brown, Mrs. Bridget  | 223 Hill St., Norwood, Man  | Scotland.. | Winnipeg  | Oct. | 1916. |
+| 2 | 523 | 1232 | 3745 | 1264 | 1034253 | Private  | Brown, Riley  ... | Nil  | Brown, Levi  | Lenore, Man  | England... | Winnipeg  | Nov. | 1916. |
+| 2 | 522 | 1261 | 3745 | 1293 | 1031252 | Act.-Sergeant  | Browne. John Wilkiison  | Nil  | Browne, Samuel  | Ashern, Man  | Ireland  | Winnipeg  | Nov. | 1916. |
+| 2 | 522 | 1291 | 3746 | 1322 | 10313 >1 | L.-Corporal  | Nil    |  | Napinka, Man  | Canada.... | Winnipeg  | Feb. | 1917. |
+| 2 | 521 | 1320 | 3745 | 1352 | 10*4270 | Private  | Burnett, Guy Kirkland  | Nil  | Coulter, Man  | Canada.... | W innipeg  | Dec. | 1916. |
+| 2 | 521 | 1349 | 3746 | 1381 | 1031392 | Private  | Brvan, R^yCiioEorl  | Nil  | S'lmmerberry, Sask.       | Canada  | Winnipeg  | Dec. | 1916. |
+| 2 | 521 | 1378 | 3745 | 1410 | 1034334 |  |  |  | Marquette, Man  | Canada  | Winnipeg  | Mar. | 1917. |
+| 2 | 521 | 1407 | 3746 | 1437 | 1034310 | Private  | Nil.....    |  | Pembroke, Ont  | Canada.... | Winnipeg  | Jan. | 1917. |
+| 2 | 519 | 1436 | 3745 | 1467 | 10341S2 | Private    | Chaboyer, Maxiem  | Nil  | 3t. Laurent, Man   | Canada  | Winnipeg  | Nov. | 1916. |
+| 2 | 519 | 1465 | 3746 | 1497 | 1034370 | Private  | Chaboyer, William  | Nil  | Chaboyer, Ambrose  | St. Laurent. Man  | Canada  | Winnipeg  | Mar. | 1917. |
+| 2 | 518 | 1493 | 3745 | 1526 | 103410J | Private  | Clarke, John  | Nil  | Ciarke, Mrs. Elizabeth  | Merchants Hotel, Portage la Prairie, Man  | Canada  | Winnipeg  | Oct. | 1916. |
+| 2 | 519 | 1523 | 3746 | 1556 | 1034151 | Private  | CJoe, Charles  | Nil  | Coe, Obet  | ^ipshild. Foeshill, Sittingbourne, Kent, Eng  | England... | Winnipeg  | Oct. | 1916. |
+| 2 | 517 | 1552 | 3746 | 1585 | 1934153 | Private  | Coe, Georg? Robert  | Nil   | C3e, Obet  | Bipchild, Foeshill, Sittingbourne, Kent, Eng  | England... | Winnipeg  | Oct. | 1916. |
+| 2 | 516 | 1581 | 3746 | 1613 | 1931192 | Private  | Nil  |  | ainsborough, Sask  | Canada  | Winnipeg  | May | 1917. |
+| 2 | 516 | 1611 | 3747 | 1640 | 1031351 | L.-Corperal  | Nil... |  | Minnedosa, Man  | Scotland... | Winnipeg  | Feb. | 1917. |
+| 2 | 516 | 1640 | 3748 | 1672 | 1034353 | Private  | Connolly, Benjamin  | Nil  | CDnnolly, John  | Truro, Colchester Co., N.S   | Canada  | Winnipeg  | Feb. | 1917. |
+| 2 | 517 | 1669 | 3746 | 1701 | 1>34241 | Vst.-Sergeant  | Cosa;rov§, Maxwell Lei?h  | Nil   | Cosgrove, Mrs. A^ie May  | Napinka, Man   | Canada  | Winnipeg  | Nov. | 1916. |
+| 2 | 515 | 1699 | 3746 | 1731 | 1031331 |  |  |  | ►St El^in Ave., Winnipeg, Man  | Italy  | Winnipeg  | Jan. | 1917. |
+| 2 | 514 | 1727 | 3747 | 1756 | 1034312 | Private  | Ouseff, Jo?    | Nil  | Yorkton, Sask  | Canada  | Winnipeg  | Feb. | 1917. |
+| 2 | 514 | 1757 | 3746 | 1788 | 10342.92 | Private  | Dahl, Join   | Nil   | Portage la Prairie, Man  | Canada.... | Winnipeg  | Dec. | 1916. |
+| 2 | 512 | 1787 | 3747 | 1818 | 1034310 | ?rivate  | Davey, Wilfred Neville  | Nil    | 33 Hawthorne Rd., Willesden Green, London, Eng  | England... | Winnipeg  | Jan. | 1917. |
+| 2 | 511 | 1815 | 3747 | 1847 | 1031394 | Private  | Davies. William Il3nry  | Nil    | 3 Bridge St., Cardiff, Glamorgan, Wales  | Wales  | Winnipeg  | April | 1917. |
+| 2 | 511 | 1845 | 3747 | 1874 | 103139?) | Drivate  | D J3^arlie, Jneph.   | Nil  | Fairford, Man  | Canada  | Winnipeg  | May | 1917. |
+| 2 | 512 | 1874 | 3747 | 1903 | 103193*) | Private  | D3.sjarlais, Bintist?    | Nil  | St. Laurent, Man  | Canada  | Winnipeg  | Oct. | 1916. |
+| 2 | 630 | 1903 | 3747 | 1933 | 5 rivals  | D mmvii, Ai Lhui GiVuaiu......... |  | D»bby.i. ft. J  | M:lita. Mar.. |  | Xfpjitn | Nov. | 1916. |
+| 2 | 522 | 1932 | 3748 | 1962 | 87.5432 | Djcharme, E lwarl  | Nil  |  | Pin wood, Ont  | Canada  | Winnipeg  | April | 1916. |
+| 2 | 523 | 1961 | 3747 | 1993 | 521992 | 3 ). Srgt.-Mijor.. | Dumas, R'isaall    | S. A  | 353 McGee St., Winnipeg, Man | Eigiand... | Camp Hughes. | July | 1916. |
+| 2 | 510 | 1989 | 3745 | 2022 | l'JJI‘)24 | Private  | Duncan, MUto.i Eiward  | Nil  | D mean. Mr-. A ia A  | ■Suite 27, Steel I>ioi:k, Winnipeg. Man | U.S. A  | Winnipeg  | 1916. |
+| 2 | 510 | 2019 | 3748 | 2051 | 1031324 | Private  | Raves. Roy  | Nil  | vj ives, Mr-?. Margaret  ... | 131 Langevin St., Winnipeg. Man | Canada  | Winnipeg  | ■Ian. | 1917. |
+| 2 | 509 | 2048 | 3747 | 2080 | 1044414 | Private  | Ehcnger, Max  | Nil  | ■/:ians»°r. Z vm n.l  | Beausejour, Man  | '(.’anada  | Winnipeg  | May | 1917. |
+| 2 | 508 | 2069 | 3747 | 2111 | 1031273 | Private  | ?>v, Ei-TMt Si li?y ! | Nil  | rV.~-y. M ’s. L > lisa   | V >. 9 Osborne Torr., Thrupp Strand, Gloucester. Eng. | England. . | Winnipeg  | Dor. | 1916. |
+| 3 | 2322 | 405 | 3814 | 432 |  |  |  |  |  | Red cl i if, Alta    | Canada  | Winnipeg  | Mar. | 9, 1917. |
+| 3 | 598 | 410 | 2243 | 439 | ios«ss | Private  | Fairbairn, Lloyd Hruce.. | Nil. | Fairbairn, William John  |
+| 3 | 598 | 435 | 3814 | 469 | 1084105 | Aft.-Sergeant. | Farrell, Richard Wesley. | Nil. | Farrell. Mrs. Mary Jane  | 538 Castle Ave., Elmwood, Winnipeg, Man  | Canada  | W innipeg  | Oct. | 14, | 1916. |
+| 3 | 598 | 464 | 3813 | 498 | 1084304 | Private  | Ferguson, Peter Henry... | Nil. | Ferguson, Mrs. Annie  | Keyes. Man  | Canada  | Y\ innipeg  | Dee. | 27 | 1916. |
+| 3 | 597 | 493 | 3814 | 526 | 1984232 | Private  | Fiddler, Alexander  | Nil. | Fiddler, Levina  | Portage la Prairie, Man    | Canada  | Winnipeg  | Nov. | 18, | 1916. |
+| 3 | 3366 | 522 | 3813 | 550 |  |  |  |  |  |  |  | Winnipeg  | Mar. | 23, 1917. |
+| 3 | 598 | 526 | 2243 | 557 | 1084377 | Private  | Folster. William George. | Nil. | Folster, Henry George  |
+| 3 | 599 | 552 | 3813 | 583 | 1084164 | Private  | Fowell, Herbert  | Nil. | Fowell, Mrs. Elizabeth F  |  |  | Winnipeg  | Oct. | 28. | 1916. |
+| 3 | 1275 | 582 | 3805 | 612 |  |  |  |  | Fulton, Mr.-. Vr.nic H | Dauphin, Man. | Canada  | \\ inn ineir | Sept.. | :m | 101K |
+| 3 | 599 | 611 | 3814 | 644 | 1084315 | L.-Corporal. | Furley, Arthur Rawdon H. | Nil. | Furtey, Mildred  | Beverly High Rd., Newland, Hull, Eng  | England  | Winnipeg  | Jair. | 6, | 1917. |
+| 3 | 598 | 640 | 3814 | 674 | 1084309 | Private  | Gngnis, Joseph Arsene  | Nil. | Gagne, Mrs. Sarah Lekyline. ., | Suite 7, Thelma Mansion Apts., Winnipeg, Man  | Canada  | Winnipeg  | Nov. | 8, | 1916. |
+| 3 | 601 | 670 | 3813 | 704 | 1084251 | Private  | Gallagher, James Patrick., | Nil. | Quisley, Mrs. Mary Bridget  | 175 Boundry St., Beacon Lane, Liverpool, Eng  | England  | Winnipeg  | Nov. | 27, 1916. |
+| 3 | 601 | 700 | 3814 | 730 | 1084040 | Private  | Gardner, Frank  | Nil. | Gardner, William  |  |  | Winnipeg  | Oct. | 2, | 1916. |
+| 3 | 602 | 726 | 3814 | 761 | 10.84310 | Private  | Gardner, Thomas Henry.. | Nil. | Gardner, Mrs. Alice   |  |  | Winnipeg  | Jan. | 12, 1917. |
+| 3 | 602 | 758 | 3815 | 789 | 1084028 | Sergeant  | Gat.eson, George  | Can, | Mil. | Gateson, Mrs. Florence Edith. |  | Winnipeg  | Sept. | 30, | 1916. |
+| 3 | 602 | 787 | 3813 | 817 | 1084044 | Private  | Gellatly, David Hutton. .. | Nil  | Gellatly, David  |  |  | Winnipeg  | Oct. | 2, | 1916. |
+| 3 | 603 | 817 | 3813 | 847 | 1084094 | Private  | Gillespie, Archie  | Nil  | Gillespie, Mrs. Effie  | 370 Beverley St., Winnipeg, Man  | Canada  |  | Oct. | 12, 1916. |
+| 3 | 603 | 846 | 3079 | 876 | 1084077 | Private  | Gosling, George  | Nil  | Benstead, Mrs. Emma  | 19 Wilitampton St.. Croply St., Hoxton, London, N., |
+| 3 | 3364 | 875 | 3814 | 903 |  |  |  |  |  |  |  | Winnipeg  | Oct, | 10, | 1916. |
+| 3 | 605 | 905 | 3816 | 936 | 1084356 | Private  | Gunn. William Brett  | Nil  | Gunn, Mrs. Margaret  |  |  |  | f eb. | zvt | 1917. |
+| 3 | 606 | 934 | 3814 | 962 | 1084408 | Private  | Hawkins, John Swan.    | Nil  | Hawkins, John  |  | U.S.A  | Winnipeg  | May | 28, 1917. |
+| 3 | 606 | 962 | 3815 | 995 | 1084323 | Aet.-Sergeant | Hayman, William Frank  | 5th Regt... | Hayman. Mrs. Georgina  |  |  | Winnipeg  | Jan. | 15. 1917. |
+| 3 | 619 | 993 | 3815 | 1021 | 261105 | Co. Sergt.-Major. | Henderson, George  | U.S. Army. | White, Thomas  | 171 Ballard St., Seattle, Wash., U.S.A  | U.S.A  |  | Oct. | 12, 1916. |
+| 3 | 607 | 1021 | 3815 | 1050 | 1084037 | Sergeant  | Herbert, Frank Hamilton  | Nil  | Herbert, A  |  |  | Winnipeg  | Oct. | 27. 1916. |
+| 3 | 606 | 1051 | 3815 | 1079 | 1084221 | Private  | Hinds, George  | Nil  | Camp, Nellie  |  |  | Winnipeg  | Nov. | 15, 1916. |
+| 3 | 607 | 1080 | 3816 | 1110 | 1084296 | Sergeant  | Hood. Horace Stanley  | Nil  | Hood, Mrs. Mary  | 317 St. Joseph Blvd., Montreal, P.Q  | U.S.A  | Winnipeg  | Dec. | 19, | 1916. |
+| 3 | 607 | 1109 | 3816 | 1138 | 1084397 | Private | Horsley, Bert  | Nil  | Horsley, John  |  |  | Winnipeg  | May | 1, | 1917. |
+| 3 | 607 | 1138 | 3816 | 1166 | 1084427 | Private  | Howell, Lorne Martin  | Nil  | Howell, John D  |  |  | Winnipeg  | June | 12, 1917. |
+| 3 | 607 | 1167 | 3816 | 1195 | 1084031 | Private  | Hughes, Frederick Shipley  | Nil  | Hughes, Evan  |  |  | Winnipeg  | Sept. | 29, 1916. |
+| 3 | 609 | 1196 | 3815 | 1224 | 1084003 | Private  | Jonasson, Thomas Egill  | Nil  | Jonasson. Jonas  |  | U.S.A  | Winnipeg  | Sept. 23, 1916. |
+| 3 | 608 | 1225 | 3816 | 1254 | 1084184 | Private  | Jones, Christopher William  | Nil  | Jones, Edward  |  |  | Winnipeg  | Nov. | 2, | 1916. |
+| 3 | 608 | 1254 | 3816 | 1284 | 1084317 | Private  | Jones, Ernest  | Nil  | Jones, Evelyn  |  |  | Winnipeg  | Jan. | 8, | 1917. |
+| 3 | 609 | 1281 | 3816 | 1310 | 1084417 | Private  | Johnson, Mundi  | Nil  | Johnson, Mrs. Rose *.... |  |  |  | June | 1. 1917. |
+| 3 | 621 | 1311 | 3816 | 1339 | 913174 | Private...  | Johnson, Valdemar R  | Nil  | Gudnm, Gummindina  |  |  |  | Mar. | 20, 1916. |
+| 3 | 608 | 1341 | 3816 | 1372 | 1084418 | Private  | Iveays, Albert Rose  | Nil  | Keays, Mrs. Margaret Elizabeth. |  |  | Winnipeg  | June | o. | 1917. |
+| 3 | 608 | 1369 | 3817 | 1399 | 1084212 | Corporal  | Kelly, Victor Lyle  | Nil  | Kelly, Frank  |  |  | Brandon  | Nov. | 9, | 1916. |
+| 3 | 609 | 1397 | 3816 | 1429 | 1084274 | Private..  | Kendall, William John  | Territorials.. | Wills, Mrs. Annie  |  |  | Winnipeg  | Dec. | 6, | 1916. |
+| 3 | 608 | 1427 | 3817 | 1458 | 1084156 | Private  | Keymer, Roy  | Nil  | Keymer, James  |  |  | Winnipeg  | Oct. | 25, | 1916. |
+| 3 | 608 | 1456 | 3817 | 1490 | 1084216 | Private  | Kirty, George Arthur  | Nil  | Kiely, Patrick    | Emerald, Queen’s Co., P.E.I ,  | Canada  | Winnipeg  | Nov. | 4, | 1916. |
+| 3 | 622 | 1485 | 3817 | 1517 | 523983 | Sergeant  | Kilpatrick, Hugh  | Territorials. | Kilpatrick, Mrs. Elizabeth  | B64 Morley Ave., Fort Rouge, Winnipeg, Man  | Scotland  |  | June | /, | 1916. |
+| 3 | 609 | 1514 | 3818 | 1544 | 1084398 | Private  | Kirk, Allan  | Nil  | Kirk, Samuel   |  |  |  | May | 1, 1917. |
+| 3 | 621 | 1542 | 3818 | 1574 | 913016 | Private  | Knud sen, Knud Tomson  | Nil  | Knudsen, Mrs. Johanna Jessan  |  |  | Winnipeg  | Feb. | 21, | 1916. |
+| 3 | 608 | 1572 | 3817 | 1603 | 1084305 | Private  | Kreuter, Alfred Julius  | Nil  | Kreuter, Justus    |  |  | Winnipeg  | Dec. | 22, | 1916. |
+| 3 | 621 | 1601 | 3818 | 1632 | 913510 | Private  | Kristjanson, Baldur  | Nil  | Kristjanson. Gudmundson  |  |  | W innipeg  | May | 25, | 1916. |
+| 3 | 609 | 1630 | 3818 | 1662 | 1084372 | Private  | Larway, John Dickenson  | Nil  | Larway, Thomas  |  | Canada  | Winnipeg  | Mar. | 9, 1917. |
+| 3 | 608 | 1659 | 3818 | 1691 | 1084259 | Private  | Lasfargues, Fernand  | Nil  | Lasfargues. Ambroise  |  |  | Winnipeg  | Dec. | 5, | 1916. |
+| 3 | 621 | 1688 | 3818 | 1721 | 913653 | Private  | Lawson, Lawrence  | Nil  | Lawson. Sarah  |  | England  | Camp Hughes.. | Aug. | 4 | 1916. |
+| 3 | 608 | 1717 | 3818 | 1750 | 1084401 | Private  | Lazo. Joseph  | Nil  | Lazo, Mrs. Antonia Hormiga  |  | Canary Island.. | Muelle St., Catalina, Las Palmas, Gran Canaria  | May | 21, | 1917. |
+| 3 | 609 | 1746 | 3818 | 1780 | 1084366 | Private  | Leclair, Alfred Jones  | Nil  | Leclair, George  |  |  | Winnipeg  | Mar. | 9, | 1917. |
+| 3 | 609 | 1778 | 3818 | 1808 | 1084118 | Private  | Lecusson. Armand   | Nil  | Lecusson, Mrs. Victorine  |  |  | Winnipeg  | Oct. | 18, 1916. |
+| 3 | 609 | 1807 | 3818 | 1839 | 1084231 | Act.-Sergeant... | Leigh, Arthur Robert...  | Nil  | Leiirh, Mrs. Margaret  | Butterworth, Transkai, S. Africa  | England  | Winnipeg  | Nov. | 20. 1916. |
+| 3 | 609 | 1836 | 3819 | 1866 | 1084435 | Private  | Le Masurier, Ray  | Nil...,  | Le Masurier. Fred W  | Napinka. Man  | U.S.A  |  | June | 28, 1917. |
+| 3 | 609 | 1865 | 3819 | 1896 | 1084333 | Sergeant  | Lennox, Bertram Albert  |  | Lennox, Mrs. Florence M  |  |  | Winnipeg  | Dec. | 4 | 1916. |
+| 3 | 609 | 1894 | 3818 | 1926 | 1084010 | Private  | Lester, Glen Ruby  | Can. Mil. | Lester, Godfrey N.  | Dalton City, 111., U.S.A  | U.S.A  | W innipeg  | Sept. 26, 1916. |
+| 3 | 622 | 1923 | 3820 | 1955 | 29484!) | Private  | Linn, Charles Eugatues  | Nil  | Linn, John  |  | U.S.A  | Bagley, Sask  | Port la Prairie. . | Dec. | 28, 1916. |
+| 3 | 610 | 1951 | 3820 | 1985 | 1084271 | Private  | Lodwick, Dc |  | Lodwick, Christopher  |  |  | Winnipeg  | Dec. | 4 | 1916. |
+| 3 | 609 | 1981 | 3820 | 2013 | 1084340 | Sergeant  | LoefRer, Edward Paul... |  | Loeffler, William. .   | Bellevue St., Detroit, Mich., LT.S.A  | U.S.A....  | Winnipeg  | Feb. | 2 | 1917. |
+| 3 | 610 | 2010 | 3820 | 2044 | 1084268 | Sergeant  | Lowing, Bertram Arthur |  | Lowing, Mrs. Ellen Mary  | 408 Hampton St., St. James, Winnipeg, Man  | England  |  | Dec. | 1, 1916. |
+| 3 | 609 | 2039 | 3820 | 2071 | 10.84421 | Private  | MacDonald, David Arm it |  | MacDonald, Donald  |  |  | Winnipeg  | April 26, 1917. |
+| 3 | 608 | 2068 | 3821 | 2101 | 1084406 | Private  | Mackie, Frank John  |  | Mackie, John  | Annandale, Minn., U.S.A  | U.S.A  |  |  | US | 1917. |
+| 3 | 608 | 2097 | 3821 | 2131 | 10S424? | Private  | Mailing, William  |  | Mailing, Eliza  | 3 North Cote Rd., West Croydon, Surrey, Eng  | England  | Brandon  | Nov | 17, 1916. |
+| 3 | 608 | 2127 | 3821 | 2159 | 10S42S7 | Private  | Mainland, John Johnstone |  | Mainland, Mrs. Sarah Anne  |  | Scotland  | Winnipeg  | Dec. | 6 | 1916. |
+| 4 | 611 | 519 | 3278 | 574 | si |  | Former Corps. |  |  | Country of |
+| 4 | 611 | 583 | 3718 | 609 | o |  |  |  |  |  | Place. | Date. |
+| 4 | 587 | 682 | 3773 | 715 | 871063 |  |  |  | 468 Glasgow Ave., Fort Rouge, Winnipeg, Man  | England  |  | Feb. 4,1916. |
+| 4 | 575 | 740 | 3774 | 778 | 1084407 |  |  | Kennedy, Mrs. A. W   | Mancelona, Mich., U.S.A  | U.S.A  |  | May 28,1917. |
+| 4 | 587 | 770 | 3774 | 804 | 820657 |  | Nil |  |  | Canada  | Fort Frances... | April 29, 1916. |
+| 4 | 574 | 799 | 3775 | 831 | 1084423 |  | Can Mil |  |  | England  |  | June 8, 1917. |
+| 4 | 575 | 828 | 3776 | 865 |  |  |  |  |  | Scotland  | 1084265 | Nil | McAuley, Donald  | Nov 29, 1916. |
+| 4 | 575 | 857 | 3775 | 891 | 1084421 |  | Nil |  |  | Canada  |  | April 26,1917. |
+| 4 | 574 | 886 | 3775 | 921 | 1084350 | Private  | McGinnis, Howard  | Nil  | McGinnis, Charles  | Canada  | Winnipeg  | Feb. 12, 1917. |
+| 4 | 574 | 915 | 3775 | 950 | 1084019 |  |  |  |  | Canada  |  | Sept. 25,1916. | Private  | Mclvor, Albert  | Mclvor, Albert  |
+| 4 | 574 | 944 | 3775 | 981 | 1084307 |  |  |  |  | Canada  |  | July 3, 1917. | Private  | Mclvor, Donald  | Nil  | Mclvor, Mrs. Mary Ann  |
+| 4 | 586 | 974 | 3776 | 1008 | 892398 |  |  |  |  | Canada  |  | Aug. 1, 1916. | Private  | McLean, Allan  | McLean, Findlav  | 442 Higgins Ave., Winnipeg, Man  |
+| 4 | 575 | 1002 | 3776 | 1036 | 1084336 |  |  |  |  | Canada  |  | Jan. 29,1917. | McLennan, James Clarence  | Nil  | Winnipeg  |
+| 4 | 589 | 1032 | 3777 | 1065 | 187287 |  |  |  | 1288 Alexander Ave., Winnipeg. Man  | Scotland  |  | Nov 10,1915. |
+| 4 | 575 | 1060 | 3776 | 1091 | 1084439 |  |  |  |  | Scotland  | Winnipeg  | July 8. 1917. |
+| 4 | 574 | 1090 | 3777 | 1124 | 10.84082 | Private  | Nil... |  | 372 Edmonton St., Winnipeg, Man  | U.S.A  |  | Oct. 17, 1916. |
+| 4 | 574 | 1119 | 3776 | 1151 | 1084374 |  | Nil |  |  | Scotland  |  | Mar. 9,1917. |
+| 4 | 574 | 1153 | 3315 | 1181 | 1084346 |  | Nil |  |  | Canada  |
+| 4 | 574 | 1177 | 3776 | 1209 | 1084229 |  | Nil |  |  |  | W innipeg  | Dec. 6, 1916. |
+| 4 | 574 | 1205 | 3776 | 1239 | 1084441 | Private  | Nil... |  | 730 Ash burn St., Winnipeg, Man  | England  | St. Charles Cp.. | July 28, 1917. |
+| 4 | 574 | 1264 | 3776 | 1297 | 1084367 |  | Nil |  |  | U.S.A  | Winnipeg  | Mar. 9,1917. |
+| 4 | 574 | 1294 | 3776 | 1327 | 1084173 |  | Nil | Wood, Mrs. Joan  |  |  | Winnipeg  | Oct. 30,1916. |
+| 4 | 574 | 1322 | 3777 | 1354 | 1084361 |  | Nil |  |  |  |  | Feb. 23,1917. |
+| 4 | 573 | 1352 | 3776 | 1384 | 1084025 | Sergeant  |  |  |  | Scotland  |  | Sept. 29, 1916. |
+| 4 | 573 | 1380 | 3777 | 1414 | 1084369 | Private  | Nil... |  |  |  | Winnipeg  | Mar. 13, 1917. |
+| 4 | 572 | 1411 | 3777 | 1442 | 1084187 | Act.-Sergeant... | Nil  |  |  |  |  | Nov. 2, 1916. |
+| 4 | 587 | 1440 | 3777 | 1472 | Private  | 187363 | Nil... |  |  | England  |  | May 8, 1916. |
+| 4 | 584 | 1469 | 3778 | 1499 | 425770 | Private  |  |  |  |  | Winnipeg  | Oct. 25,1916. |
+| 4 | 572 | 1498 | 3776 | 1529 | 1000500 | Private  | Nil  |  |  |  | Port, la Prairie. | Jan. 26,1916. |
+| 4 | 572 | 1526 | 3777 | 1558 | 1084322 | Private  | Nil  |  |  |  | Winnipeg  | Jan. 8,1917. |
+| 4 | 571 | 1556 | 3777 | 1587 | 1084185 | Private  | Nil.. |  |  |  |  | Nov. 3. 1916. |
+| 4 | 584 | 1585 | 3777 | 1616 | 276443 | Sergeant  | Ripstein, Charles K  | Nil  |  |  | (’amp Hughes.. | June la, 1916. |
+| 4 | 570 | 1614 | 3777 | 1644 | 1084294 | Private  | Nil... |  |  |  | Winnipeg  | Dec. 14, 1916. |
+| 4 | 570 | 1643 | 3777 | 1676 | 1084332 | Private  | Roddam, Joseph  | Nil  |  | England  | Winnipeg  | Jan. 25,1917. |
+| 4 | 569 | 1673 | 3777 | 1702 |  |  |  |  |  | U.S.A  | 1084249 | Private  | Rothwell, Clarence  | Nil  | Nov. 21, 1916. |
+| 4 | 569 | 1704 | 2269 | 1733 | 1084226 | Private  | Secord, John Arlingting  | Secord, Mrs. Jane  |
+| 4 | 569 | 1731 | 3777 | 1765 | 1084248 | Sergeant  | Sheane, James Elmer  | Nil  | 334 Linwood Ave., St. James, Winnipeg, Man  |  | W innipeg  | N«v. 24, 1916. |
+| 4 | 567 | 1759 | 3777 | 1788 | 1084387 | Private  |  |  |  |  |  | April 12, 1917. |
+| 4 | 567 | 1789 | 3778 | 1820 | 1084312 | Skelton, Harry Floyd  | Nil  |  |  |  | Winnipeg  | Jan. 5, 1917. |
+| 4 | 567 | 1818 | 3777 | 1847 | 1084395 |  | Nil  |  |  |  |  | April 30. 1917. |
+| 4 | 566 | 1848 | 3777 | 1878 | 1084078 | Private  | Smith, Frederick  |  |  |  | Winnipeg  | Oct. 10. 1916. |
+| 4 | 566 | 1876 | 3777 | 1910 | 1084326 |  | Nil  |  | Elmsleigh House. Gosport. Hants. Eng  | England  |  | Jan. 17,1917. |
+| 4 | 565 | 1908 | 3778 | 1940 |  |  |  |  | 32 Blackpool Alley, Liverpool, Eng  | England  | 1084382 | Private  | Smith, John  | Nil  | Smith, (.icorge  | Brandon  | April 0. 1917. |
+| 4 | 565 | 1935 | 3777 | 1962 | 1084362 |  | Nil    |  |  |  |  | Feb. 20. 1917. |
+| 4 | 565 | 1964 | 3777 | 1995 | 1084410 | Sprenger, Antonius Gustaaf  | Nil  | Sprenger, Max Wilhelm  | 52 Schietbaanlaan, Rotterdam. Holland  | Holland  | Winnipeg  | Mav 28.1917. |
+| 4 | 565 | 1994 | 3778 | 2027 | 1084404 |  |  |  |  | England  |  | May 23, 1917. | 533 Lipton St.. Winnipeg. Man  |
+| 4 | 563 | 2052 | 3778 | 2086 | 1084128 | Private  | Tasker, John  | Nil  | Tasker, Mrs. Florence  | 252 Ferry Rd., St. James. Winnipeg. Man  | England  | Winnipeg  | Oct. 19,1916. |
+| 4 | 563 | 2081 | 3778 | 2116 | 1084416 | Private   | Taylor, Raymond Eric S  | Nil  | Taylor. Mr . Eth< I Asdaile  | 71 Stud Icy Grange 1M., Hamvcil. M sox. Eng.  | England   | Winnipeg  | May 28,1017. |
+| 5 | 631 | 435 | 3827 | 472 | 024548 | Sergeant. | Thomas, Harold Edmund... | Nil  | Thomas, Mrs. Edith Emily. | |7 Marlborough Mansions, Calgary, Alta  | Wales  | May | 20, 1915. |
+| 5 | 618 | 462 | 3827 | 498 | 1084030 | Private... | Thompson, William Edward. | U.S. Army. | Bird, John 0  | 153 Steel Blk., Winnipeg, Man    ,...  |  | Sept, | 30, 1916. |
+| 5 | 617 | 494 | 3827 | 525 | 1084255 | r xi vaie  | Tmutman, Anthony  | Nil  | Txautmfctii, Ju&t-iph  | Toe's water, Ont  | CaiJiuia.  |  | SO, 1910. |
+| 5 | 632 | 523 | 3827 | 555 | 186848 | Private  | Thornquist, Julius Bior  | Nil   | Thornquist, Charles Edwin.. | St. Jeinarp, Eldsberga, Halmstad, Sweden  |  | Mar. | 5, 1916. |
+| 5 | 616 | 552 | 3827 | 585 | 108414 | Co. Sergt.-Major, | Vincent, Charles  | Nil   | Vincent, Mrs. Mary C  | 130 Stanier St., Elmwood, Winnipeg, Man  | Canada.     | Oct. | 21, 1916. |
+| 5 | 615 | 582 | 3827 | 614 | iusizui | Private  | Waiton, Nestor  | Nil,  | Gossa, Mrs. Ida  | Lappeenranta, Finland     |  | Nov. | y, iyio. |
+| 5 | 615 | 612 | 3827 | 642 | 1084205 | Private  | Watson, Herbert  | Nil  | Muir, George  | Roland P.O., Man  .. .. |  | Dec. | 15, 1916. |
+| 5 | 615 | 640 | 3828 | 672 | 1084089 | Co. Q.-M. Sergt.. | WTeed, Henry Warren  | 100th Regt., | Weed, Mrs. Bettie L   | 315 Lorne Ave., Brandon, Man  | U.S.A  | Oct. | 11, 1916. |
+| 5 | 614 | 670 | 3828 | 702 | 1084275 | Private  | WTest, Thomas Edwin....  | Nil  | WTest, Mrs. Lucie  | 25 Dunrorson Rd.. Wrest Kirby, Cheshire, Eng  |  | Dec. | 6, 1916. |
+| 5 | 612 | 698 | 3828 | 731 | 1084430 | Private  | Westweil. Jack  | Nil  | Burley, Mrs. E  | 329 Pacific Ave., Winnipeg, Man  |  | June | 16.1917. |
+| 5 | 613 | 728 | 3829 | 759 | 1084437 | Private  | Wharf, Abraham Charles  | Nil  | Wharf, Abraham  | Point du Bois, Man  |  | June | 28.1917. |
+| 5 | 625 | 758 | 3829 | 790 | 718575 | Private  | White, Edgar James   | Nil  | Sutherland, Mrs. Robert  | Deepdale, Man    |  | Feb. | 14.1916. |
+| 5 | 612 | 788 | 3829 | 817 | 1084384 | Private  | Wilson, Royal Frederick   | Nil  | Wilson, Mrs. Hattie  | Carnduff, Sask. ....  |  | April | 17.1917. |
+| 5 | 611 | 816 | 3829 | 848 | 1084314 | Corporal  | Wilton, Albert  | Nil  | Wilton, Mrs. Kathleen  | 583 Warsaw Ave., Winnipeg, Man  |  | Jan. | 6, 1917. |
+| 5 | 611 | 845 | 3829 | 878 | 1084122 | Private  | Wood, Alfred  | 79th Regt... | Wood, Mrs. Alice Hannah.... | 7 Pharo Blk., Simcoe St., Winnipeg, Man  |  | Oct. | 16, 1916. |
+| 5 | 609 | 875 | 3828 | 905 | 10842«8 | Private  | Wright, Albert Ernest  | Nil  | Wright, Mrs. Oliver  | Lavenham, Man.   | Canada  | Dec. | 14, 1916. |
+| 5 | 609 | 903 | 3829 | 936 | 1084217 | Sergeant  | Young, Hugh Andrew  | Nil  | Young, Mrs. Florence  | Hazelridge, Man     |  | Nov. | 13, 1916. |
+| 5 | 608 | 933 | 3829 | 966 | 1084128 | Private  | Zettergren, Dave  | Nil .. | Zettergren, Mrs. Margaret... | Gypsumville, Man   |  | Oct. | 18, 1916. |
+{% endraw %}
