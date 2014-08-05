@@ -1,93 +1,16 @@
-<!DOCTYPE html>
-<html>
+---
+title: CEF Nominal Rolls
+---
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="CEF Nominal Rolls : Processing and analyzing the CEF Nominal Rolls">
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>CEF Nominal Rolls</title>
-  </head>
-
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/QuLogic/cef-nominal-rolls">View on GitHub</a>
-
-          <h1 id="project_title">CEF Nominal Rolls</h1>
-          <h2 id="project_tagline">Processing and analyzing the CEF Nominal Rolls</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/QuLogic/cef-nominal-rolls/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/QuLogic/cef-nominal-rolls/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <p>Thanks to the members of the <a href="http://cefresearch.ca/">CEFSG</a>, the Nominal
-Rolls of the <a href="http://en.wikipedia.org/wiki/Canadian_Expeditionary_Force">Canadian Expeditionary
-Force</a> are
+Thanks to the members of the [CEFSG](http://cefresearch.ca/), the Nominal
+Rolls of the [Canadian Expeditionary
+Force](http://en.wikipedia.org/wiki/Canadian_Expeditionary_Force) are
 available in digital format for researchers to peruse. Unfortunately, unlike
-the <a href="http://www.awm.gov.au/people/roll-search/nominal_rolls/first_world_war/">Australian Nominal
-Rolls</a>,
-they are images, and thus not easily searchable or readable by computer.</p>
+the [Australian Nominal
+Rolls](http://www.awm.gov.au/people/roll-search/nominal_rolls/first_world_war/),
+they are images, and thus not easily searchable or readable by computer.
 
-<p>This repository contains code for processing and analyzing the Nominal Rolls,
+This repository contains code for processing and analyzing the Nominal Rolls,
 and hopefully will become a simpler way to browse or search (if everything goes
-according to plan.)</p>
+according to plan.)
 
-<p>Note: Actual Nominal Rolls are not contained in this repository because they
-would far exceed GitHub's hosting quota. Please <a href="http://cefresearch.ca/wiki/index.php/Nominal_Rolls">see the CEFSG
-site</a> for information on
-obtaining the PDFs.</p>
-
-<h2>
-<a name="requirements" class="anchor" href="#requirements"><span class="octicon octicon-link"></span></a>Requirements</h2>
-
-<p>Nominal Rolls are stored locally using <a href="https://git-annex.branchable.com/">git
-annex</a>, but due to their size, are not
-available here. You will need to download them yourself from the CEFSG site
-above if you wish to analyze them.</p>
-
-<p>Scripts are written in Python and may require the following:</p>
-
-<ul>
-<li><a href="http://lxml.de/">lxml</a></li>
-<li><a href="http://scikit-learn.org/">scikit-learn</a></li>
-<li><a href="http://www.reportlab.com/opensource/">ReportLab</a></li>
-</ul><p>Most of these can be installed via your package manager or Python distribution.</p>
-
-<h2>
-<a name="available-scripts" class="anchor" href="#available-scripts"><span class="octicon octicon-link"></span></a>Available Scripts</h2>
-
-<p><code>abbyy2pdf.py</code> converts an ABBYY XML file into a PDF. This script is merely a
-test to see what sort of results the OCR process produced. It is not intended
-to produce a professional PDF. Characters may be the wrong size or off the
-baseline, but the result should give a general idea of the result.</p>
-
-<p><code>abbyy2csv.py</code> converts an ABBYY XML file into a CSV. This script uses the
-clustering algorithms of scikit-learn to partition the text data into rows and
-columns, and produces a tabular CSV result. The defaults parameters will
-likely produce terrible results, though.</p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">CEF Nominal Rolls maintained by <a href="https://github.com/QuLogic">QuLogic</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
-  </body>
-</html>

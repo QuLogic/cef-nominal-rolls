@@ -1,9 +1,6 @@
 ---
 title: About
-layout: page
 ---
-
-# CEF Nominal Rolls
 
 Thanks to the members of the [CEFSG](http://cefresearch.ca/), the Nominal
 Rolls of the [Canadian Expeditionary
