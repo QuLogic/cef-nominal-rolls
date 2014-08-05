@@ -39,26 +39,40 @@ for dirpath, dirnames, filenames in os.walk('Nominal Rolls'):
                                     name.replace(' ', '_'))
                 f.write('  * [' + name + '](' + path + ')\n')
 
-    else:
-        index = os.path.join('web',
-                             dirpath.replace(' ', '_'),
-                             'index.html')
-        with open(index, 'wt') as f:
-            f.write('---\n')
-            f.write('title: ' + dirpath.split('/')[-1] + '\n')
-            f.write('---\n')
-            f.write('\n')
+    index = os.path.join('web',
+                         dirpath.replace(' ', '_'),
+                         'index.html')
+    with open(index, 'wt') as f:
+        f.write('---\n')
+        f.write('title: ' + dirpath.split('/')[-1] + '\n')
+        f.write('---\n')
+        f.write('\n')
 
-            for name in sorted(dirnames):
-                path = name.replace(' ', '_')
-                f.write('  * [' + name + '](' + path + ')\n')
+        has_files = False
 
-            for name in sorted(filenames):
-                if name[-3:] != 'csv':
-                    continue
+        for name in sorted(dirnames):
+            has_files = True
+            path = name.replace(' ', '_')
+            f.write('  * <i class="fa fa-fw fa-folder"></i> [')
+            f.write(name)
+            f.write('](')
+            f.write(path)
+            f.write(')\n')
 
-                path = name[:-3].replace(' ', '_') + 'html'
-                f.write('  * [' + name[:-4] + '](' + path + ')\n')
+        for name in sorted(filenames):
+            if name[-3:] != 'csv':
+                continue
+
+            has_files = True
+            path = name[:-3].replace(' ', '_') + 'html'
+            f.write('  * <i class="fa fa-fw fa-file-text-o"></i> [')
+            f.write(name[:-4])
+            f.write('](')
+            f.write(path)
+            f.write(')\n')
+
+        if not has_files:
+            f.write('Nothing available here!\n')
 
     for name in dirnames:
         path = os.path.join('web',
@@ -90,6 +104,7 @@ for dirpath, dirnames, filenames in os.walk('Nominal Rolls'):
             with open(new_path, 'wt') as f:
                 f.write('---\n')
                 f.write('title: ' + name[:-4] + '\n')
+                f.write('wide: wide\n')
                 f.write('---\n')
                 f.write('\n')
 
