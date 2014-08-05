@@ -97,10 +97,19 @@ for dirpath, dirnames, filenames in os.walk('Nominal Rolls'):
                     continue
 
                 f.write('{% raw %}\n')
-                f.write('| ' * ncols + '|\n')
-                f.write('| --- ' * ncols + '|\n')
+                f.write('| Page | Bounds ' + ('| ' * (ncols - 5)) + '|\n')
+                f.write('| --- ' * (ncols - 3) + '|\n')
                 for row in lines:
                     f.write('| ')
-                    f.write(' | '.join(row))
+
+                    # Page and bounds
+                    f.write(row[0])
+                    f.write(' | ')
+                    f.write('<br>'.join(row[1:5]))
+                    f.write(' | ')
+
+                    # Cells
+                    f.write(' | '.join(row[5:]))
+
                     f.write(' |\n')
                 f.write('{% endraw %}\n')
