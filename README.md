@@ -45,3 +45,6 @@ baseline, but the result should give a general idea of the result.
 clustering algorithms of scikit-learn to partition the text data into rows and
 columns, and produces a tabular CSV result. The defaults parameters will
 likely produce terrible results, though.
+
+`csv2web.py` converts the CSV files into a format suitable for publishing on
+GitHub.
