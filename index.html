@@ -14,6 +14,13 @@ This repository contains code for processing and analyzing the Nominal Rolls,
 and hopefully will become a simpler way to browse or search (if everything goes
 according to plan.)
 
+## News
+
+{% for post in site.posts %}
+  * [{{ post.title }}]({{ baseurl }}{{ post.url }})
+    <small>{{ post.date | date: "%Y-%m-%d"}}</small>
+{% endfor %}
+
 ## Statistics
 
   * Available files:

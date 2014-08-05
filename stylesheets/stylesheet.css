@@ -255,13 +255,18 @@ form {
   padding: 20px;
 }
 
+small {
+  color: #666;
+  font-size: 80%;
+}
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
 
 #content {
   display: inline-block;
-  min-width: 660px;
+  min-width: 760px;
   text-align: initial;
 }
 
@@ -369,7 +374,6 @@ Full-Width Styles
   display: inline-block;
   background: #f2f2f2;
 }
-
 
 /*******************************************************************************
 Small Device Styles
