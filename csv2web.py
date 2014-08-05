@@ -88,10 +88,14 @@ for dirpath, dirnames, filenames in os.walk('Nominal Rolls'):
         if name[-3:] == 'csv':
             orig_path = os.path.join(dirpath, name)
             ncols = 0
+            first = None
             lines = []
             with open(orig_path, 'rt') as csvfile:
                 reader = csv.reader(csvfile)
                 for row in reader:
+                    if not first and not row[1]:
+                        first = row[5:]
+                        continue
                     ncols = max(ncols, len(row))
                     clean_row = [x.replace('|', '&#124;') for x in row]
                     lines.append(row)
@@ -108,9 +112,17 @@ for dirpath, dirnames, filenames in os.walk('Nominal Rolls'):
                 f.write('---\n')
                 f.write('\n')
 
+                if first:
+                    f.write('## Cover Page Information\n')
+                    f.write('{% raw %}\n')
+                    f.write('<br>\n'.join(first))
+                    f.write('\n')
+                    f.write('{% endraw %}\n')
+
                 if not ncols:
                     continue
 
+                f.write('## Tables\n')
                 f.write('{% raw %}\n')
                 f.write('| Page | Bounds ' + ('| ' * (ncols - 5)) + '|\n')
                 f.write('| --- ' * (ncols - 3) + '|\n')
