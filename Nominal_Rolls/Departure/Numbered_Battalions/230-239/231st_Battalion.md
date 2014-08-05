@@ -3,10 +3,29 @@ title: 231st Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 231st BATTALLION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION: | Port:—Halifax, N.S. | Ship:—S.S. “Northland.” | Date:—April IX, 1917. | f Port:—Halifax, N. S. | Detail j Ship:—S.S. “ Canada.” | [ Date:—April, 18, 1817. | 3m.-9-I7. | 593-2-29. | 27433—1 |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+231st BATTALLION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION:<br>
+Port:—Halifax, N.S.<br>
+Ship:—S.S. “Northland.”<br>
+Date:—April IX, 1917.<br>
+f Port:—Halifax, N. S.<br>
+Detail j Ship:—S.S. “ Canada.”<br>
+[ Date:—April, 18, 1817.<br>
+3m.-9-I7.<br>
+593-2-29.<br>
+27433—1
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 691<br>595<br>3208<br>627 |  |  |  | FormertCorf)s. |  |  | Country of |
 | 2 | 609<br>740<br>3702<br>772 |  | Lt. Col..,  | Loach, Francis Easton  | 2nd Regimimt  | Leach, Mrs. Daisy  | 1747 Balaclava St., Vancouver, B.C... | Canada...,,  | Vancouver  | Mar. 22 | 1916 |
 | 2 | 607<br>769<br>3702<br>801 |  | Major r  | Fleck, John Gordon   | Can. Eng. .r.    | Fleck, Mrs. Margaret Winifred’ • • • | 1620 Burnaby St., Vancouver, B.C  | Canada  . -. | Vancouver  | Mar. 23 | 1916 |

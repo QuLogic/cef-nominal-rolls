@@ -3,10 +3,23 @@ title: 13th Battalion and 3rd Brigade HQ(2)
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+3rd Infantry Brigade Headquarters<br>
+and<br>
+13th Battalion<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+lOm-2-15.<br>
+H.Q. 503-2-2S
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 3rd Infantry Brigade Headquarters | and | 13th Battalion | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | lOm-2-15. | H.Q. 503-2-2S |
 | 2 | 393<br>569<br>3150<br>601 | .Sis |  |  |  | Name of Next of Kin. |  | Country of |
 | 2 | 820<br>745<br>2816<br>776 |  | William, V.C., D.S.O 7. | 13th L.Horse  |  | Turner, Mrs. Harriet Augusta | !G Ste. Ursula St., Quebec, P.Q  |
 | 2 | 478<br>776<br>2820<br>807 | Lt.-Colonel. ... | Hughes, Garnet B V | 50th Regt.   |  | Hughes, Mrs Irene B  | 1009 Chamberlain St., Victoria, B.C  |

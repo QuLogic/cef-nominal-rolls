@@ -3,10 +3,24 @@ title: 219th Battalion B&W
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+219th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+*<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. "Olympic."<br>
+Date: October 12th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 219th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | * | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. "Olympic." | Date: October 12th, 1916. |
 | 2 | 464<br>585<br>3146<br>628 | *'Z | Rank. |  | Former Corps. | Name of Next of Kin. |  | Countiy of |
 | 2 | 542<br>743<br>3645<br>776 |  | Lt. Col  | Muirhcad. William Harry.... |  | Jiruce, Mrs. 0. A. C  | St. John's. NU<1  |  | llal ifai  | May 12, 1916. |
 | 2 | 542<br>773<br>3645<br>809 |  | Major  | Jtoacoe, Murray iOafun  | K.C.U  | Uoscno, Mtb. Joan W  | eio \¥m. Stairs, Ron A Morrow, Ltd., Halifax, N.S  | Canada  | Halifax  | April 25, 1U16. |

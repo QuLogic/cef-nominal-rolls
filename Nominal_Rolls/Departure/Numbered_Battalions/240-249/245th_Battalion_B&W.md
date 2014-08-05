@@ -3,10 +3,23 @@ title: 245th Battalion B&W
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+245th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Pori: Halifax, N.S.<br>
+ito.ij.iT. Ship: S.S. "Justicia."<br>
+SV3-2-20. Dates May 3rd, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 245th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Pori: Halifax, N.S. | ito.ij.iT. Ship: S.S. "Justicia." | SV3-2-20. Dates May 3rd, 1917. |
 | 2 | 341<br>643<br>2610<br>672 | Sank. |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 268<br>774<br>3060<br>805 | Lieut.-Colonel., | Ballantyne, Charles Golquhoun... | 13tfc Drags.... | -Ballantyne. Mrs. Ethel Maud. | 578 Mountain St., Montreal, P.Q    | Canada., | Montreal | Sept. | 1916. |
 | 2 | 270<br>801<br>3060<br>831 | Major  | Bond, William Langley  | 1st Regt  | Bond, Lt.-Colonel, Frank  | 247 Bishop St., Montreal, P.Q   | Canada., | Montreal. | July | 1916. |

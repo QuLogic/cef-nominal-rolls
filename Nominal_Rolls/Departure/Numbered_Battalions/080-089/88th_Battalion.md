@@ -3,10 +3,24 @@ title: 88th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS. 1915.)<br>
+I<br>
+Canadian Expeditionary<br>
+Force<br>
+88th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. "Olympic."<br>
+Date: May 31.t, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS. 1915.) | I | Canadian Expeditionary | Force | 88th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. "Olympic." | Date: May 31.t, 1916. |
 | 2 | 611<br>469<br>3108<br>503 |  |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 516<br>614<br>3599<br>650 |  | Lieut .-Colonel | Cullia, Harold Joseph R  | S.A  | Collin, Mrs. Frances Elisabeth 0. | 1344 Minto St., Victoria, B.C  | England.. |  | Jan. | 14, | 191«. |
 | 2 | 514<br>644<br>3600<br>679 |  | Major  | Harrison, Benjamin Hutchinson. | S. A.  | Harrison, Mr*. Gladys  | 1605 Wilmot PI., Victoria, B.C  | England. | Victoria  | Jan. | 6, 1916. |

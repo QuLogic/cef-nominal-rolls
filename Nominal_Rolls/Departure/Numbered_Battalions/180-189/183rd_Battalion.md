@@ -3,10 +3,28 @@ title: 183rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 183rd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | f Port: Halifax, N.S. | 14 Officers, 335 Other Ranks < Ship: S.S. 11 Saxonia." | I Date: October 3rd, 1916. | 3m-2-17. | 593-2-29. | f Port: Halifax, N.S. | 13 Officers, 431 Other Ranks <! Ship: S.S. “ Missanabie.” | Date: October 3rd, 1916. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+183rd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+f Port: Halifax, N.S.<br>
+14 Officers, 335 Other Ranks < Ship: S.S. 11 Saxonia."<br>
+I Date: October 3rd, 1916.<br>
+3m-2-17.<br>
+593-2-29.<br>
+f Port: Halifax, N.S.<br>
+13 Officers, 431 Other Ranks <! Ship: S.S. “ Missanabie.”<br>
+Date: October 3rd, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 543<br>566<br>3242<br>611 | .§ I |  |  | Former Corps. |  |  | Country of |
 | 2 | 549<br>601<br>3689<br>644 | i |  |  |  |  |  |  | Place. | Date. |
 | 2 | 642<br>719<br>3743<br>758 |  | Lieut.-Colonel  | Edgecombe, William Thomas.. | Can. Mil  | Edgecombe, Mrs. Elizabeth Lydia | 127 Home St., Winnipeg, Man  | Newfoundland. | Winnipeg  | Jan. 15, | 1916. |

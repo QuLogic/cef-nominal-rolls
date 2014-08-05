@@ -3,10 +3,27 @@ title: 205th Battalion 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Kxpeditionary<br>
+Force<br>
+205th BATTALION<br>
+1st and 2nd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+[ Port: Halifax, N.S.<br>
+1st Reinforcing Draft < Ship: S.S. “ Saxonia.”<br>
+Date: March 28th, 1917<br>
+Port: Halifax, N.S.<br>
+2nd Reinforcing Draft Ship: S.S. "Olympic.''<br>
+Date: April 29th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Kxpeditionary | Force | 205th BATTALION | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | [ Port: Halifax, N.S. | 1st Reinforcing Draft < Ship: S.S. “ Saxonia.” | Date: March 28th, 1917 | Port: Halifax, N.S. | 2nd Reinforcing Draft Ship: S.S. "Olympic.'' | Date: April 29th, 1917. |
 | 2 | 627<br>500<br>3300<br>549 | .1^ |  | Former Corps. |  |  | Country of |
 | 2 | 711<br>665<br>3797<br>694 | Lieutenant  | Awrey, Le Roy Eat on  |  |  |  |  |  | April 1, 19 lo. |
 | 2 | 611<br>752<br>3797<br>780 | 240290 |  |  |  |  |  |  | April 5, 1916. | Private  | Adams, Cedric Henry  | Nil  |

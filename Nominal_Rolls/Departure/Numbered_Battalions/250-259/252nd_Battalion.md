@@ -3,10 +3,26 @@ title: 252nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 252nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 3m-9-13. | .'>93-2-2'.). | EMBARKATION | Port: Halifax, N. S. | Ship: S.S. “Olympic.” | Date: June 2, 1917. | 27444—1 |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+252nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+3m-9-13.<br>
+.'>93-2-2'.).<br>
+EMBARKATION<br>
+Port: Halifax, N. S.<br>
+Ship: S.S. “Olympic.”<br>
+Date: June 2, 1917.<br>
+27444—1
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 1064<br>477<br>2765<br>507 |  | Former Corps. | Name of Next of Kin. |
 | 2 | 864<br>618<br>3692<br>654 |  |  |  |  |  | i, 1916 | Thomson, George James  | 13th Regt  | Thomson, Mrs. Ethelwyn. | 254 Herkimer St., Hamilton, Ont  | Canada... |
 | 2 | 866<br>676<br>3692<br>711 |  |  |  |  |  | i, 1916 | Hoar, Wilbert John  | 46th Regt  | Hoar, John Dyre  | Bowmanville, Ont  | Canada... |

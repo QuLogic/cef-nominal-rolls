@@ -3,10 +3,39 @@ title: 137th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA- ORDERS, 1917.) | -*7--:: . | <r . .. | jt*»- :• | ’ U | & |r | ■ v . i! . | Canadian | Force | . - “> -i.. | .• • :• ■■ - | “ ' •“ -‘/ S’, “i- *• * '* | - >. | .V: | •f •- | 137th BATTALION | : '/fi. | . . * : | - | i ■ •,, ■ ■ §|g:;; 3$ 1gj$|vfff :::ij&M*'■■; ’11:H | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | . EMBARKATION | . ... - '.. . ... * Port: Halifax, N.S. | 3ra-t-17. .•**' Ship: S.S. "Olympic." | 593.2-2->: • • 1 Dale: August 21st, 1916. |
+(ISSUED WITH MILITIA- ORDERS, 1917.)<br>
+-*7--:: .<br>
+<r . ..<br>
+jt*»- :•<br>
+’ U<br>
+& |r<br>
+■ v . i! .<br>
+Canadian<br>
+Force<br>
+. - “> -i..<br>
+.• • :• ■■ -<br>
+“ ' •“ -‘/ S’, “i- *• * '*<br>
+- >.<br>
+.V:<br>
+•f •-<br>
+137th BATTALION<br>
+: '/fi.<br>
+. . * :<br>
+-<br>
+i ■ •,, ■ ■ §|g:;; 3$ 1gj$|vfff :::ij&M*'■■; ’11:H<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+. EMBARKATION<br>
+. ... - '.. . ... * Port: Halifax, N.S.<br>
+3ra-t-17. .•**' Ship: S.S. "Olympic."<br>
+593.2-2->: • • 1 Dale: August 21st, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 465<br>520<br>3214<br>574 | .pi |  |  | Former Corps. |
 | 2 | 566<br>682<br>3716<br>719 |  | Lieut.-Colonel... | Morfitt, Georgo W.    | 103rd Rcgt  | Morfitt, Mrs. Annio Johnctta... | 333, 23rd Avc. W., Calgary, Alta   Canada  | Calvary  | July | 22, 1916. |
 | 2 | 565<br>713<br>3716<br>748 |  | Major  | Robic, Harry James   | 103rd Rcgt  | Robic, Mrs. Edith J  | 1125, 13th Avc. W., Calgary, Alta England..., | ’ulgary....... | Nov. | 25, 1915. |

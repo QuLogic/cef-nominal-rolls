@@ -3,10 +3,34 @@ title: 138th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | - > l* | "i : | JOHN feORYSlUK | 13205 * 123rd Street | Edmonton — Alberta — Canada | Canadian Expeditionary | =.L!:■!I!■;:I^1!!H:!?iETorc^’-!1 WI:1 :|]i i . - fv | ; • : I; • . : •- _ it; | - •' " : * *“’s | i | M | 138th BATTALION | ■ § | , . - - - -:'i - t... | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | "S | EMBARKATION | . r. . . . . Port: Halifax, N.S. | Ship: S.S. "Olympic.” | V)J3-3». Date: August 22nd, 1916. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+- > l*<br>
+"i :<br>
+JOHN feORYSlUK<br>
+13205 * 123rd Street<br>
+Edmonton — Alberta — Canada<br>
+Canadian Expeditionary<br>
+=.L!:■!I!■;:I^1!!H:!?iETorc^’-!1 WI:1 :|]i i . - fv<br>
+; • : I; • . : •- _ it;<br>
+- •' " : * *“’s<br>
+i<br>
+M<br>
+138th BATTALION<br>
+■ § | , . - - - -:'i - t...<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+"S<br>
+EMBARKATION<br>
+. r. . . . . Port: Halifax, N.S.<br>
+Ship: S.S. "Olympic.”<br>
+V)J3-3». Date: August 22nd, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 424<br>623<br>3173<br>657 | .§55 |  |  | Former Corps. |  |  | Country of |
 | 2 | 523<br>767<br>3676<br>804 |  | Lieut.-Colonel.... | Belcher, Bobcrt.   | C.F.A   | Belchor, Mrs. Maggio  | 0846, 10'/"fh St., Edmonton, Alta  | England. | Edmonton.. | Nov. | 23,1915. |
 | 2 | 521<br>801<br>3673<br>836 |  | Major   | Millar, Henry Irwin..;  | 35th Horso /. | Millar, Mrs. Kathleen  | Edmonton, Alta  | Canada.. | Wetaskwin., | Nov. | 23, 1915. |

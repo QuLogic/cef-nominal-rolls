@@ -3,10 +3,26 @@ title: 153rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+153rd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+5m-9-17.<br>
+593-2-29<br>
+EMBARKATION<br>
+Port: Halifax, N. S.<br>
+Ship: S.S. “Olympic.”<br>
+Date: Ap:il. 29th 1917.<br>
+27090—1
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 153rd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 5m-9-17. | 593-2-29 | EMBARKATION | Port: Halifax, N. S. | Ship: S.S. “Olympic.” | Date: Ap:il. 29th 1917. | 27090—1 |
 | 2 | 717<br>560<br>3246<br>591 | Rank. | Former Corps. |  |  | Country of |
 | 2 | 649<br>704<br>3743<br>738 | Lt.-Colonel  |  | Pritchard, William H  | Fergus, Ont  | Canada  | Hespeler  | Mar. | 19, 1916 |
 | 2 | 1742<br>732<br>3744<br>766 |  |  | Grieve, Mrs. John  | R. R. No. 3, Rockwood, Ont  | Canada  | Guelph  | Mar. | 20, 1916 |

@@ -3,10 +3,30 @@ title: 57th Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 57th BATTALION | and | • i • | Reinforcing Draft | fa | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | j Port: Haliiax, N.S. | 57th Battalion < Ship: S.S. “Olympic.” | ^ Date: June 2nd, 1916. | ' ( " 1 f Port: Quebec, P.Q. | Jm-8-17 Reinforcing Draft ' Ship: S.S. “ Corsican.*' | 593-2-29. [ Date: July 21st, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+57th BATTALION<br>
+and<br>
+• i •<br>
+Reinforcing Draft<br>
+fa<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+j Port: Haliiax, N.S.<br>
+57th Battalion < Ship: S.S. “Olympic.”<br>
+^ Date: June 2nd, 1916.<br>
+' ( " 1 f Port: Quebec, P.Q.<br>
+Jm-8-17 Reinforcing Draft ' Ship: S.S. “ Corsican.*'<br>
+593-2-29. [ Date: July 21st, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 877<br>589<br>3521<br>625 | .Bz |  | Former Corps. |  |  | Country of |
 | 2 | 961<br>744<br>4019<br>775 | Major  | Renf.ud, Alexander Logie H  | 64 th Regt..... | Renaud, Mrs. Kathleen de Courcy | 95 Durocher St., Montreal, P.Q  | Canada.. | Quebec. | Mar. 22, | 1916. |
 | 2 | 960<br>775<br>4018<br>805 | Captain  | de Morir.ni, Jacques Lewie R... | 4th Rcgt. .x... | de Morinni, Mrs. Clara Stanton. .. | British Vice-Consulate, Buffalo, N.Y., U.S.A  | Belgium. | Quebec. | Mar. 22, | 1916. |

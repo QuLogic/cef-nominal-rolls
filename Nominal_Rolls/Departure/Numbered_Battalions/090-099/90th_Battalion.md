@@ -3,10 +3,22 @@ title: 90th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+Canadian Expeditionary<br>
+I Force<br>
+1<br>
+I<br>
+90th BATTALION<br>
+I<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+i
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | Canadian Expeditionary | I Force | 1 | I | 90th BATTALION | I | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | i |
 | 2 | 575<br>584<br>3077<br>615 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 484<br>726<br>3582<br>759 |  | Lieut.-Colonel  | Munro, William Aird...  | 90th | Regt  | Munro. Mrs. Albertioe Merchants Bank. Winnipeg, Man. |  | Winnipeg  | Nov. 29, 1915. |
 | 2 | 485<br>757<br>3339<br>790 |  | Major  | Black, Norman John  | 00 th | Regt  | Black, Mrs. Margaret C c/o J.T. Haigley, Barrister, Winnipeg, Man. | a. | Not stated.. . |

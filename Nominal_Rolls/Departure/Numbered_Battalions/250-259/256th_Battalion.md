@@ -3,10 +3,32 @@ title: 256th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 256th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 256th Battalion | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “ Missanabie." | Date: March 28th, 1917. | 3m-9-17. | 593-2-29. | I Port: | 5 Officers, 138 Other Ranks (Detail) | Ship: | Date: | Halifax, N.S. | S.S. “Northland.’’ | April 18th, 1917. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+256th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+256th Battalion<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “ Missanabie."<br>
+Date: March 28th, 1917.<br>
+3m-9-17.<br>
+593-2-29.<br>
+I Port:<br>
+5 Officers, 138 Other Ranks (Detail) | Ship:<br>
+Date:<br>
+Halifax, N.S.<br>
+S.S. “Northland.’’<br>
+April 18th, 1917.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 617<br>513<br>3282<br>557 | .§! |  | Former Corps. |  |  | Country of |
 | 2 | 625<br>558<br>3720<br>590 | 8? |  |  |  |  |  | Place. | Date. |
 | 2 | 697<br>665<br>3775<br>705 | Lieut.-Colonel... | McConnell, Walter Adam 109th Regt |  | McConnell, Mrs. Sarah. | 433 Indian Rd., Toronto, Ont. | Canada. | Toronto. | Jan. 1,1917. |

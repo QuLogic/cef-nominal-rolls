@@ -3,10 +3,32 @@ title: 45th Battalion & 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 45th BATTALION | also | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | ♦ | EMBARKATION | [ Port: Halifax, N.S. | 45th Battalion < Ship: S.S. “Lapland.” | Date: April 1st, 1916. | (Port: Montreal. | Ship: S.S. “ Grampian." | Date: June 1st, 1915. | I Port: Montreal. | Ship: S.S. “ Missanabie.” | Date: September 4th, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+45th BATTALION<br>
+also<br>
+1st and 2nd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+♦<br>
+EMBARKATION<br>
+[ Port: Halifax, N.S.<br>
+45th Battalion < Ship: S.S. “Lapland.”<br>
+Date: April 1st, 1916.<br>
+(Port: Montreal.<br>
+Ship: S.S. “ Grampian."<br>
+Date: June 1st, 1915.<br>
+I Port: Montreal.<br>
+Ship: S.S. “ Missanabie.”<br>
+Date: September 4th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 863<br>510<br>3341<br>542 |  |  | Former Corps. |  |  | Country of |
 | 2 | 775<br>655<br>3831<br>686 | Lieut.-Colonel... | Clarke, Francis Joseph....   | S. A  | Clarke, Mrs. Edith Mary  | 1911 Rosser Ave., Brandon, Man  | England  | Brandon  | Nov. | 15 | 1914. |
 | 2 | 774<br>679<br>3832<br>715 | Major  | Cousens, Bertram Anthony  | 90th Regt... | Cousens, Mrs. Agnes  | Montpelier, Mopperley Plains, Nottingham, Eng.... | England  | Sewell  | Feb. | 1 | 1915. |

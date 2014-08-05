@@ -3,10 +3,22 @@ title: 163rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+163rd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. " M.ctagama.'*
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 163rd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. " M.ctagama.'* |
 | 2 | 744<br>570<br>2834<br>602 |  |  |  | Former Corps. |
 | 2 | 665<br>706<br>3756<br>746 |  | Lieut.-Colonol... | Dos Rosiers, Marie Joseph H  | 14th Regt. C.E.F  | Des Rosiers, Aime  | .521 Victoria Ave., Westmount, P.Q  | Canada  | Bermuda  | Oct. 11, 1916. |
 | 2 | 663<br>735<br>3756<br>773 |  | Major  | Asselin, Olivar  | Can. Mil  | Asselin, Mrs. Alice Ls BDuthillier.. | l34oSt. Joseph Blvd., Montreal, P.Q  | Canada  | Montreal  | Dec. 14, 1915. |

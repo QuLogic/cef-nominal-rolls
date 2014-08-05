@@ -3,10 +3,23 @@ title: 127th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+127th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Fort: Halifax, N.S.<br>
+3m-1-17, Ship: S.S. “Olympic.”<br>
+593-2-29. Date: August 21st, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 127th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Fort: Halifax, N.S. | 3m-1-17, Ship: S.S. “Olympic.” | 593-2-29. Date: August 21st, 1916. |
 | 2 | 794<br>550<br>3306<br>581 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 707<br>692<br>3803<br>726 |  | Lieut.-Colonel  | Clarke, Frederick Fieldhouse  | 12 th Regt  | Clarke, Mrs. A. V  | 137 Sheldrake Blvd., Toronto, Ont  | Canada... | Toronto  | Nov. | 12, 1915. |
 | 2 | 706<br>721<br>3803<br>755 |  | Major  | Agnew, John  | 12th Regt  | Agnew, Mrs. Elizabeth Dickenson | 15 Glencairn Ave., Toronto, Ont  | Canada... | Toronto  | Mar. | 1, 1916. |

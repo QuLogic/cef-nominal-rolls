@@ -3,10 +3,26 @@ title: 223rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 223rd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N. S. | Ship: S.S. “Justida." | Date: May 3, 1917. | 3m-9-17. | 593-2-29. | 27430—1 |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+223rd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N. S.<br>
+Ship: S.S. “Justida."<br>
+Date: May 3, 1917.<br>
+3m-9-17.<br>
+593-2-29.<br>
+27430—1
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 719<br>560<br>3223<br>591 |  | Former Corps. | Name of Next of Kin. | Country of |
 | 2 | 3513<br>702<br>3713<br>727 |  |  |  |  |  | Mar. | 23 | 1916 |
 | 2 | 3514<br>731<br>3713<br>756 |  |  |  |  |  | Mar. | 25 | 1916 |

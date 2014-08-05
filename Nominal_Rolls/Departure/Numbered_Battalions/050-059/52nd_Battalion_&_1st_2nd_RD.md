@@ -3,10 +3,34 @@ title: 52nd Battalion & 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 52nd BATTALION | also | 1st 'and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: St. John, N.B. | Ship: S.S. “California." | Date: November 23rd, 1915. | Port: Montreal, P.Q. | 1st Reinforcing Draft ^ Ship: S.S. "Scandinavian.” | Date: June 17th, 1915. | 52nd Battalion | 3m-5-17. | 593-2-29. | I Port: Montreal, P.Q. | Ship: S.S. “Missanabie.” | Date: September 4th, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+52nd BATTALION<br>
+also<br>
+1st 'and 2nd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: St. John, N.B.<br>
+Ship: S.S. “California."<br>
+Date: November 23rd, 1915.<br>
+Port: Montreal, P.Q.<br>
+1st Reinforcing Draft ^ Ship: S.S. "Scandinavian.”<br>
+Date: June 17th, 1915.<br>
+52nd Battalion<br>
+3m-5-17.<br>
+593-2-29.<br>
+I Port: Montreal, P.Q.<br>
+Ship: S.S. “Missanabie.”<br>
+Date: September 4th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 718<br>602<br>3364<br>651 | il |  | Former Corps. |  |  | Country of |
 | 2 | 805<br>762<br>3855<br>795 | Lieut.-Colonel.. | Hay, Archibald Walter  | 8 th Regt  | Hay, Mrs. Jessie Amelia... | 28 Artillerie St., Quebec, P.Q  | Canada. | Port Arthur. | April | 20.1915. |
 | 2 | 804<br>791<br>3855<br>824 | Major  | Allan, John William  | 90th Regt. and S.A... | Allan, Mrs. M. F  | 281 River Ave., Fort Rouge, Winnipeg, Man  | Canada. | Port Arthur. | April | 1, 1915. |

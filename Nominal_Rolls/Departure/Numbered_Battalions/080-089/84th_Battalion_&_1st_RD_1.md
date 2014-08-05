@@ -3,10 +3,34 @@ title: 84th Battalion & 1st RD 1
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | Canadian Expeditionary | Force | CD | 00 | I | 84th BATTALION | and | Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | j Port: Halifax, N.S. | 84th Battalion j Ship: S.S. “ Empress of Britain.1 | ( Date: June 18th, 1916. | I Port: Montreal. | Ship: S.S. "Corsican." | Date: September 25th, 1915. | h:i | * '2 ' rl '< | i-vfsS1 | m |
+Canadian Expeditionary<br>
+Force<br>
+CD<br>
+00<br>
+I<br>
+84th BATTALION<br>
+and<br>
+Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+j Port: Halifax, N.S.<br>
+84th Battalion j Ship: S.S. “ Empress of Britain.1<br>
+( Date: June 18th, 1916.<br>
+I Port: Montreal.<br>
+Ship: S.S. "Corsican."<br>
+Date: September 25th, 1915.<br>
+h:i<br>
+* '2 ' rl '<<br>
+i-vfsS1<br>
+m
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 449<br>657<br>3091<br>695 | Jz •-** |  |  | Former Corps. |  |  | Country of |
 | 2 | 544<br>808<br>3599<br>843 | Li—-• .U/net. |  | Stewart, William Thomas   | i 09 th Regt | Stewart. Mrs. Amy Golda   | 5 Edgedale Rd.. Toronto, Ont   | Ireland. | Toronto  | July | 28. 1915. |
 | 2 | 567<br>838<br>3599<br>873 | ttfjr |  | Harvey, Valent in** Vyvian  | 100th Regt | Harvey, Mrs. Florence Ada.... | c o Royal Bank* Royal Bank Bldg.. Toronto, | England. | Niagara Camp | Sept. | 10, | 1915. |

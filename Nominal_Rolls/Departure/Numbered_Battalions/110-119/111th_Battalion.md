@@ -3,10 +3,23 @@ title: 111th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+111th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+10m-l2-16. Ship: S.S. “Tuscania.”<br>
+593-2-29. Date: September 25th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 111th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 10m-l2-16. Ship: S.S. “Tuscania.” | 593-2-29. Date: September 25th, 1916. |
 | 2 | 826<br>615<br>3330<br>647 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 737<br>758<br>3820<br>791 |  | Lieut.-Colonel.. | Clarke, James Drury  | 29th Regt  | Clarke, Mrs. Hazel G  | 73 West Main St. N., Galt, Ont  | Canada... | Galt  | Dee. | 21, 1915. |
 | 2 | 737<br>787<br>3822<br>821 |  | Major  | Johnston, Lafayette William. | 29 th Regt  | Johnston, Mrs. Francis  | 6 Peck St., Galt, Ont  | Canada... | Galt  | Jan. | 18, 1916. |

@@ -3,10 +3,23 @@ title: 251st Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1918.)<br>
+Canadian Expeditionary<br>
+Force<br>
+251st BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. 11 Metagama."<br>
+593-2-29. Date: October 6th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1918.) | Canadian Expeditionary | Force | 251st BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. 11 Metagama." | 593-2-29. Date: October 6th, 1917. |
 | 2 | 565<br>532<br>3245<br>565 | .zZ |  | Former Corps. |  |  | Country of |
 | 2 | 2256<br>676<br>3743<br>709 |  |  |  |  | 177 Inkster Ave„ Winnipeg, Man   | Ireland  | Winnipeg  | Oct. | 1910. |
 | 2 | 2256<br>706<br>3744<br>736 |  |  |  |  | Estevan, Sask  | England... | Winnipeg  | Oct. | 1916. |

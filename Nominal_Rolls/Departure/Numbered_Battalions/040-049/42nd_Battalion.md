@@ -3,10 +3,31 @@ title: 42nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | v | 4 | i | r | Canadian Expeditionary | Force |  —•-£r~ -~T* 1 ,r*'’*%?■***? | * | ! -k | / | ! 42nd BATTALION | , Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Montreal. | Ship: S.S. “Hesperian.” | Date: June 10th, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+v<br>
+4<br>
+i<br>
+r<br>
+Canadian Expeditionary<br>
+Force<br>
+ —•-£r~ -~T* 1 ,r*'’*%?■***?<br>
+*<br>
+! -k<br>
+/<br>
+! 42nd BATTALION<br>
+, Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Montreal.<br>
+Ship: S.S. “Hesperian.”<br>
+Date: June 10th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 877<br>561<br>3381<br>589 |  |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 690<br>536<br>3820<br>642 | | |  |  |  |  |  |  | Place. | Date. |
 | 2 | 791<br>705<br>3873<br>736 |  | Lieut.-Col  | Cantlie, George Stephen  | 5th Regt... | Cantlie, Mrs. Beatrice M  | 502 Sherbrooke St. W., Montreal, P.Q  | Canada.. | Montreal. | June | 6, 1915. |

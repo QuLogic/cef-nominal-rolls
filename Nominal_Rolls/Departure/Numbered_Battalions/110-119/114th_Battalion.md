@@ -3,10 +3,29 @@ title: 114th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | V?il||&-|||f ■, ;. v/< .;s:: '. .; ■ | ’ 'i P^T^^^y-Y4- ' '' ■'■/■'!■'*; ' | • ■£&$?*<*:& -" ' ' : ; ■':■:.■■■ ■ | -'-A | i >P::M. | <§'4 < | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 114th BATTALION ’ | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 10m-2-17. Ship: S.S. “ Coronia." | 593-2-29. Date: October 31st, 1916. |
+V?il||&-|||f ■, ;. v/< .;s:: '. .; ■<br>
+’ 'i P^T^^^y-Y4- ' '' ■'■/■'!■'*; '<br>
+• ■£&$?*<*:& -" ' ' : ; ■':■:.■■■ ■<br>
+-'-A<br>
+i >P::M.<br>
+<§'4 <<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+114th BATTALION ’<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+10m-2-17. Ship: S.S. “ Coronia."<br>
+593-2-29. Date: October 31st, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 566<br>546<br>3263<br>592 | Jl |  |  | Former Corps. |  |  | Country of |
 | 2 | 666<br>703<br>3753<br>734 |  | Lieut.-Colonel. | Thompson, Andrew Thorburn | 37th Regt  | Thompson, Mrs. Violet Isabel.... | Cayuga, Ont  | Canada.. | Cayuga  | Feb. | 1916. |
 | 2 | 665<br>732<br>3753<br>763 |  | Major  | Cowles, John Percy  | 37th Regt. | Cowles, Mrs. Esther Gertrude... | Dunnville, Ont  | Canada.. | Cayuga  | Nov. | 1915. |

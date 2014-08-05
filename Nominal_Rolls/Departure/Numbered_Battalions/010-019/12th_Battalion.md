@@ -3,10 +3,46 @@ title: 12th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | CANADIAN EXPEDITIONARY FORCE. | mm;-;- | . =*.., | i’&P: - | V • | - :?■ •• | TWELFTH BATTALION | 1 | | | ■?£ | ■ | J.i r't- | ■- | *•• | ■ v-J;. | jj • ; ’-‘t. -y ■ _ | 1 . ’?4-; | . v | ' /■ ■■ | , | .. | Vi-;/ | •• .'••• r | . ' ’f > • •• | V | 1] | NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED | OFFICERS AND MEN. | 10m. 1-15 | H.Q. 593-3-29. | 73917—1 | " |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+CANADIAN EXPEDITIONARY FORCE.<br>
+mm;-;-<br>
+. =*..,<br>
+i’&P: -<br>
+V •<br>
+- :?■ ••<br>
+TWELFTH BATTALION<br>
+1<br>
+|<br>
+■?£<br>
+■<br>
+J.i r't-<br>
+■-<br>
+*••<br>
+■ v-J;.<br>
+jj • ; ’-‘t. -y ■ _<br>
+1 . ’?4-;<br>
+. v<br>
+' /■ ■■<br>
+,<br>
+..<br>
+Vi-;/<br>
+•• .'••• r<br>
+. ' ’f > • ••<br>
+V<br>
+1]<br>
+NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED<br>
+OFFICERS AND MEN.<br>
+10m. 1-15<br>
+H.Q. 593-3-29.<br>
+73917—1<br>
+"
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 620<br>324<br>3673<br>357 | o n f'R. |  |  |  |  | Country | Taken on St a sy aril |
 | 2 | 849<br>346<br>3275<br>382 | Rank. | Name, Surnamo first. |  | Name of Next of Kin. |  | of |
 | 2 | 776<br>521<br>3528<br>560 | (.(.-Co!..., | , Maeleod, Harry Fulton 71 «t ltegt. |  | .. Maeleod, Mm. II. F, iFrederleton, N.B  |  | Canada... | Valcarticr. |

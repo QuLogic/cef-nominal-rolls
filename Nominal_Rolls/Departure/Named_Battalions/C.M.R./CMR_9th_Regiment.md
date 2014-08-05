@@ -3,10 +3,24 @@ title: CMR 9th Regiment
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+9th Regiment Canadian<br>
+Mounted Rifles<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: St. John.<br>
+10M-1-16 Ship: S.S. " Califonia."<br>
+H. Q. 593-2-29 Date: November 23rd, 1915.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 9th Regiment Canadian | Mounted Rifles | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: St. John. | 10M-1-16 Ship: S.S. " Califonia." | H. Q. 593-2-29 Date: November 23rd, 1915. |
 | 2 | 768<br>590<br>3254<br>622 |  |  |  | Former Corps. | Name of Next of Kin. |  | Birth. |
 | 2 | 671<br>736<br>3777<br>768 |  | Lieut.-Col.. | Hodson, George Cuthbert... | S.A   | Hodson, Mrs. Elsie Douglas.. | Lloydminster, Sask  | England. | Lloydminster... | Dec. | 17 | 1914. |
 | 2 | 671<br>763<br>3776<br>797 |  | Major  | Aikin, James Alexander  | 29th Horse... | Aikin, Mrs. Olive M  | 744 Spadina Crescent, Saskatoon, Sask  | Canada.. | Saskatoon  | May | 1 | 1915. |

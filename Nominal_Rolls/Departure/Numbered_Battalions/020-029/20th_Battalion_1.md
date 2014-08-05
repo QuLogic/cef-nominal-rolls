@@ -3,10 +3,20 @@ title: 20th Battalion 1
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+20th BATTALION<br>
+• ‘<br>
+:<br>
+■ ■ •.<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+rvrr i */T__<br>
+i
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | 20th BATTALION | • ‘ | : | ■ ■ •. | Nominal Roll of Officers, Non-Commissioned | rvrr i */T__ | i |
 | 2 | 1569<br>716<br>2895<br>751 |  |  |  |  | Name of Next of ICin, |
 | 2 | 621<br>873<br>1580<br>904 |  | Lt.-Col   |  | 12th Regt., | Allan, John Alfrod Walker,. |
 | 2 | 1949<br>888<br>3460<br>923 |  |  |  |  |  |  |  | Toronto | Canada.. | Uorke, Joseph Albert.....,, | o/o Robertson College, Edmonton, Alta '. |

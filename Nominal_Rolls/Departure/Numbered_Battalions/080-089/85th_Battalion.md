@@ -3,10 +3,23 @@ title: 85th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+85th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: HaJifax. N.S.<br>
+Ship: S.S. "Olympic.”<br>
+Date: October 12th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 85th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: HaJifax. N.S. | Ship: S.S. "Olympic.” | Date: October 12th, 1916. |
 | 2 | <br><br><br> | ■ |
 | 3 | 701<br>581<br>3206<br>610 |  | Hank. |  | Former Corps. |  |  | Country of |
 | 3 | 628<br>727<br>3624<br>759 |  | *ieut.-Colonel. | Phinney. Earle Caleb  | 03rd Regt. | Phinney, Mrs. Mabel Allan S  | 94 Shirley St., Halifax, N.S  | Canada.. | Halifax... | fan. | 6, |

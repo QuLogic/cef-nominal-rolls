@@ -3,10 +3,32 @@ title: 187th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | I | I | I | I | (ISSUED WITH MILITIA ORDERS, 1917.) | JOHN BORYSIUK | 13205 - 123rd Street | Edmonton — Albert* — Canada . ■ | Canadian Expeditionary | Force | . • ♦ • ■ | 187th BATTALION : | • v ’• . • ’ 1 • ' | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | • EMBARKATION | Port: Halifax, N.S. | om-5-17. Ship: S.S. 11 Olympic.” | J93-2-29. Date: December 16th, 1916. |
+I<br>
+I<br>
+I<br>
+I<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+JOHN BORYSIUK<br>
+13205 - 123rd Street<br>
+Edmonton — Albert* — Canada . ■<br>
+Canadian Expeditionary<br>
+Force<br>
+. • ♦ • ■<br>
+187th BATTALION :<br>
+• v ’• . • ’ 1 • '<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+• EMBARKATION<br>
+Port: Halifax, N.S.<br>
+om-5-17. Ship: S.S. 11 Olympic.”<br>
+J93-2-29. Date: December 16th, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 357<br>721<br>3080<br>754 | .52 |  | Former Corps. |  |  | Country of |
 | 2 | 439<br>871<br>3582<br>905 | Lieut.-Colonel. | Robinson, Luke White  | 16 th Horse    | Robinson, Mrs. Mary Josephin  | 527,13th Avo. E., Calgary, Alta    | Scotland  | Sarcee Camp.. | July | 12, 1910. |
 | 2 | 441<br>902<br>3583<br>935 | Major  | McMorris, George  | P.P. C. 1,1  | McMorris, Mrs  | Great Shcmoguc, Westmoreland Co., N.B  | Canada  | Hed Deer  | June | 19, 1916. |

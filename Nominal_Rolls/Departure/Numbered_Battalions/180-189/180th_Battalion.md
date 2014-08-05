@@ -3,10 +3,25 @@ title: 180th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS. 1917.)<br>
+Canadian Expeditionary<br>
+. Force<br>
+180th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+■■ f<br>
+393-2-29.<br>
+EMBARKATION<br>
+Fort: Halifax, N.S.<br>
+Ship: S.S. " Olympic.”<br>
+Date: November 14th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS. 1917.) | Canadian Expeditionary | . Force | 180th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | ■■ f | 393-2-29. | EMBARKATION | Fort: Halifax, N.S. | Ship: S.S. " Olympic.” | Date: November 14th, 1916. |
 | 2 | 787<br>587<br>3294<br>622 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 696<br>765<br>1789<br>794 |  | Major  |  | G.G.B.G  | Grover, George Alexander  |
 | 2 | 696<br>875<br>3783<br>910 |  | Major  |  |  |  |  |  |  | Mar. 4, 1916. | 109th Rcgt | Sharp, Mrs. Charlotte Phoebe  |

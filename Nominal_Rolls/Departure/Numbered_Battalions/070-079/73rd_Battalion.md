@@ -3,10 +3,22 @@ title: 73rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+Canadian Expeditionary<br>
+Force<br>
+73rd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+I Ora-8-16. Ship: S.S. "Adriatic.'*<br>
+SW-a-29. Date; March 31st, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | Canadian Expeditionary | Force | 73rd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | I Ora-8-16. Ship: S.S. "Adriatic.'* | SW-a-29. Date; March 31st, 1916. |
 | 2 | 302<br>720<br>2677<br>748 |  |  |  | Former Corps. |
 | 2 | 218<br>859<br>3140<br>889 |  | Lieut.-Colonel—. | Davidson, Feere  | 5th Regt. . .. | Davidson, Harriet Louise... | 7 Selkirk A vs., Montreal, P.Q Canada ... | Montreal. . | Dec. | 2. 1915. |
 | 2 | 217<br>887<br>3140<br>920 |  | Major  | Brown, John Hector Innca  | S. A  | Brown Doris Emily  | 137 Grant St., St.Johns. P.Q .  Scotland | Montreal. . | Jan. | 15, 1916. |

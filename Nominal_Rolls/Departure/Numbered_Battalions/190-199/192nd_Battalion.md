@@ -3,10 +3,23 @@ title: 192nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+192nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-9-l7. Ship: S.S. “Empress of Britain."<br>
+593-2-29. Date: November 1st, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 192nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-9-l7. Ship: S.S. “Empress of Britain." | 593-2-29. Date: November 1st, 1916. |
 | 2 | 519<br>634<br>3026<br>669 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 437<br>777<br>3515<br>813 |  | Lieut.-Colonel | Lyon, Henry Edward  | 23rd Horse  | Lyon, Mrs. Ophelia C  | Blairmore, Alta  | Canada  | Blairmore  | Feb. | 1 | 1916. |
 | 2 | 436<br>807<br>3515<br>843 |  | Major  | Lancaster, Clement Edward  | 23rd Horse  | Lancaster, Mrs. Grace  | /25, 12th Ave. W., Calgary, Alta  | England  | Blairmore  | April | 8 | 1916. |

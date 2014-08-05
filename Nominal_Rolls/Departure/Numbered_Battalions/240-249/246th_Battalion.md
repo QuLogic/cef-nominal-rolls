@@ -3,10 +3,30 @@ title: 246th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+246th BATTALION<br>
+and<br>
+Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+Jm-8-17.<br>
+593-2-29<br>
+EMBARKATION<br>
+( Port: Halifax, N.S.<br>
+246th Battalion I Ship: S.S. “Olympic.”<br>
+Date: June 2nd, 1917.<br>
+( Port: Halifax, N.S.<br>
+Reinforcing Draft < Ship: S.S. “ Metagama.”<br>
+Date: March 25th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 246th BATTALION | and | Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | Jm-8-17. | 593-2-29 | EMBARKATION | ( Port: Halifax, N.S. | 246th Battalion I Ship: S.S. “Olympic.” | Date: June 2nd, 1917. | ( Port: Halifax, N.S. | Reinforcing Draft < Ship: S.S. “ Metagama.” | Date: March 25th, 1917. |
 | 2 | 792<br>519<br>3303<br>552 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 710<br>665<br>3806<br>694 |  | Lieut.-Colonel. .. |  | R.O  |  |  | Canada  |  | Aug. 4, 1916. |
 | 2 | 2315<br>693<br>3806<br>724 |  |  |  |  |  |  |  |  | Aug. 4, 1916. | Dunrobin, R.R. No. 3, Scotsburn, Pictou Co., N.S.. . . | Aldershot  |

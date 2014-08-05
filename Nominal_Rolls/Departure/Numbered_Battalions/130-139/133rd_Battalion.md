@@ -3,10 +3,23 @@ title: 133rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+133rd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men,<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+I0m-i-i7. Ship: S.S. “Lapland.”<br>
+593-2-29. Date: October 30th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 133rd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men, | EMBARKATION | Port: Halifax, N.S. | I0m-i-i7. Ship: S.S. “Lapland.” | 593-2-29. Date: October 30th, 1916. |
 | 2 | 717<br>619<br>3226<br>649 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 629<br>763<br>3721<br>795 |  | Lieut.-Coloncl  | Pratt, Arthur Clarence  | 100th Regt. | Pratt, Mrs. Alice Bertha  | 60 Walker Ave., Toronto, Ont  | Canada  |  | 1915. |
 | 2 | 629<br>793<br>3722<br>824 |  | Major  | Aiken, Leslie Fletcher  | 39th Regt.. | Aiken, Mrs. Mary Helen  | Simcoe, Ont  | Canada  |  | 1915. |

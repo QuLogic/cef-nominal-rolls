@@ -3,10 +3,24 @@ title: 82nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+Canadian Expeditionary<br>
+Force<br>
+EMBARKATION<br>
+Port: Halifax, N S.<br>
+Ship: S.S. "Empress of Britain.”<br>
+Date: May 20th, 1916.<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+82nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+59.M-29,
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | Canadian Expeditionary | Force | EMBARKATION | Port: Halifax, N S. | Ship: S.S. "Empress of Britain.” | Date: May 20th, 1916. | (ISSUED WITH MILITIA ORDERS, 1917.) | 82nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 59.M-29, |
 | 2 | 289<br>464<br>2974<br>495 | .52 |  |  | Former Corps. |  |  | Country of |
 | 2 | 389<br>611<br>1971<br>640 |  | Lieut.-Colonel.... | Lowry, W'lliam Arthur    | 10th Bn.C.E.F. A3.A | Lowry, Mrs. Clara  |
 | 2 | 388<br>640<br>1473<br>670 |  | Major  | Snelgrove, Harold Proctor  | 40th Regt. 6c 10th Bn. |

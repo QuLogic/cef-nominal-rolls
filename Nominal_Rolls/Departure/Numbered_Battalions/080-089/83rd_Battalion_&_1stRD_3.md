@@ -3,10 +3,42 @@ title: 83rd Battalion & 1stRD 3
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | lit | V» - 11 »0 »!*• < *0 I"; o *0 *iT <0 <) i ‘O O 'O O *0 O »C lO if! O d iO to t 'O tC 'X> *C »rj *0 iO iO iO >" ‘O O >C O *C >C ift ® >C »0 iO ^ C "O C© © © «5 | !v«!7*5?r'-?'c^^ri,?v5’j>cjsi’^cis»c5c^s5iocaoc>c»~>^?>i3l>39c7»o»oioscj»«?,-cse» ca cr. c> r. o> c» o ^ r> c. cr» c-> o o oi cr> o» | 1 • -, / — ’ rt ■ 11' -r .0 -r . o’ -r t - -r /; — —* c» c i ‘ **•’ ci o> tc o’ c-t — co <3» — -« © © C4 »C — —• i - c-» oc ci cr. sc *~ ro ^ ci so co © £- -r *~ | ... ... £ j 14 Cl •—«•—< Cl •— C« —< —" CO C 3 C5 *-i CI —• Mr*flC4r- —4 •— »-**-**—••—< C l CO *“• C J CM r-I >—< | i 'j t * tc u £_ ci u. ^ ti a tii *: i a • u. u >. ^ ?i ti ~j£ r:j6 tk ti u >, si * ti ti J six «3 s3 S' | ■ - • ;« 3 ?•• rj 3 - 3 :1 -3 .3 .1 O 3 S 3 3*3 3 5 3 3 5 o § a; t 3 3-g 3 a a 3^ 3 0.3 2 5 3 ~ ^ 5 3 j? ° 3 ~ ? | :C;QCCC3 33C | OOOOOOOOOOOOOOQCC* | coccocoooooocoopc | ccaccccccecccccca; | O 1 0000000 3 O O C O DOC' | -•. V-fc^-^^^^^SoScDs^oco^ocoSccooocoocco^cocsoccoocccoeocoooS | H_h Hi- H hhHhHHHHhhhHHHhhH | -f ro or. I - fT> <m | r - to © to cfc | -** CO -* -* e-> 50 | c» cj cr" <r> —• | r- I- tr> t- *- (- | ■*-4 *-« «D *-# <c Ml | "* | ."MM | Ml | | l I | ijp *■ | , | |^S; | $ Tf' “i*' | V-' ^ ?! r&/ |
+lit<br>
+V» - 11 »0 »!*• < *0 I"; o *0 *iT <0 <) i ‘O O 'O O *0 O »C lO if! O d iO to t 'O tC 'X> *C »rj *0 iO iO iO >" ‘O O >C O *C >C ift ® >C »0 iO ^ C "O C© © © «5<br>
+!v«!7*5?r'-?'c^^ri,?v5’j>cjsi’^cis»c5c^s5iocaoc>c»~>^?>i3l>39c7»o»oioscj»«?,-cse» ca cr. c> r. o> c» o ^ r> c. cr» c-> o o oi cr> o»<br>
+1 • -, / — ’ rt ■ 11' -r .0 -r . o’ -r t - -r /; — —* c» c i ‘ **•’ ci o> tc o’ c-t — co <3» — -« © © C4 »C — —• i - c-» oc ci cr. sc *~ ro ^ ci so co © £- -r *~<br>
+... ... £ j 14 Cl •—«•—< Cl •— C« —< —" CO C 3 C5 *-i CI —• Mr*flC4r- —4 •— »-**-**—••—< C l CO *“• C J CM r-I >—<<br>
+i 'j t * tc u £_ ci u. ^ ti a tii *: i a • u. u >. ^ ?i ti ~j£ r:j6 tk ti u >, si * ti ti J six «3 s3 S'<br>
+■ - • ;« 3 ?•• rj 3 - 3 :1 -3 .3 .1 O 3 S 3 3*3 3 5 3 3 5 o § a; t 3 3-g 3 a a 3^ 3 0.3 2 5 3 ~ ^ 5 3 j? ° 3 ~ ?<br>
+:C;QCCC3 33C<br>
+OOOOOOOOOOOOOOQCC*<br>
+coccocoooooocoopc<br>
+ccaccccccecccccca;<br>
+O 1 0000000 3 O O C O DOC'<br>
+-•. V-fc^-^^^^^SoScDs^oco^ocoSccooocoocco^cocsoccoocccoeocoooS<br>
+H_h Hi- H hhHhHHHHhhhHHHhhH<br>
+-f ro or. I - fT> <m<br>
+r - to © to cfc<br>
+-** CO -* -* e-> 50<br>
+c» cj cr" <r> —•<br>
+r- I- tr> t- *- (-<br>
+■*-4 *-« «D *-# <c Ml<br>
+"*<br>
+."MM<br>
+Ml<br>
+| l I<br>
+ijp *■<br>
+,<br>
+|^S;<br>
+$ Tf' “i*'<br>
+V-' ^ ?! r&/
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 1052<br>466<br>3179<br>495 |  |  |  |  |  | Country of |
 | 2 | 485<br>614<br>3445<br>646 |  |  |  |  |  | Canada.. | 780 Park Ave., New York, N.Y., U.S.A  | Toronto  | Suydam, Hendrick  | Nil..  | Suydam, John Henry  | 171693 Private  |
 | 2 | 485<br>643<br>3446<br>674 |  |  |  |  |  | England. | 471 Caledonia Ave., Fair bank, Ont  | Toronto....... | Swan, Mrs. Margaret  | Territorials | Swan, Arthur .Alban  | 171851 Private  |

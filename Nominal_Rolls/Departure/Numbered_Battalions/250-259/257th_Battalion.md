@@ -3,10 +3,24 @@ title: 257th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+257th BATTALION<br>
+/<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: St. John, N.B.<br>
+3m-io-i7, Ship: S.S. “Missanabie.”<br>
+593-2-29. Datei February 17th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 257th BATTALION | / | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: St. John, N.B. | 3m-io-i7, Ship: S.S. “Missanabie.” | 593-2-29. Datei February 17th, 1917. |
 | 2 | 598<br>558<br>3277<br>587 | .5^ |  | Former Corps. |  |  | Country of |
 | 2 | 678<br>701<br>3782<br>732 | Lieut.-Colonel. . | Martin, Lawrence Thomas. | 43rd Regt  | Martin, Mrs. Catherine  |  |  | Ottawa  | Dec. la, 1910. |
 | 2 | 677<br>730<br>3782<br>759 | Major Fraser, Evan Eugene. |  | 44 th Regt  |  |  |  | Niagara Falls... | Feb. S, 1917. |

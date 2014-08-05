@@ -3,10 +3,29 @@ title: 9th Battalion & 4th Brigade HQ
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | JOHN BORYSfUK | 13205 - 123rd Street | Edmonton — Alberta — Canada | CANADIAN EXPEDITIONARY FORCE. | 4th infantry brigade, | HEADQUARTERS’ STAFF | AND | / | 9th battalion, s | Oi | NOMINAL ROLL OF OFFICERS, NON-COMMISSIONFD | OFFICERS AND MEN. | 10m-3-15 | H.Q. 593-2-29 • | 77824—1 |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+JOHN BORYSfUK<br>
+13205 - 123rd Street<br>
+Edmonton — Alberta — Canada<br>
+CANADIAN EXPEDITIONARY FORCE.<br>
+4th infantry brigade,<br>
+HEADQUARTERS’ STAFF<br>
+AND<br>
+/<br>
+9th battalion, s<br>
+Oi<br>
+NOMINAL ROLL OF OFFICERS, NON-COMMISSIONFD<br>
+OFFICERS AND MEN.<br>
+10m-3-15<br>
+H.Q. 593-2-29 •<br>
+77824—1
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 736<br>758<br>3224<br>790 | Rank. | Name (Surname first). |  | Name of Next of Kin. |  | of |
 | 2 | 664<br>940<br>3094<br>970 | Lieut.-Colonel. | Cohoe, John Edward  | 5th Inf. Brig — | Cohoe, Mrs. Clara J..  | Welland, Ont  |
 | 2 | 664<br>970<br>3092<br>1000 | Major  | Mersereau, Chalmers Jack.... | C. of G  | Mersereau, Mrs. Carrie A  | Hampton, N.B  |

@@ -3,10 +3,63 @@ title: 2nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | ■ . ... . ■ ■ | ■ ' ‘ • , J . . | VHfc*' | •5# | (ISSUED WITH MILITIA ORDERS, 1915.) | r | t | ‘ A-* • , ■ * I | • <■ ' f . | . | • '.'V | %M' r | * v* | f I,;’- | f | C‘» | 1 | * ( | t | I. * | i.* i | I | y. | CANADIAN EXPEDITIONARY FORCE. | M, | ' - v t ‘ ■* | . v^' '> | ►>*:*' ;v | - ■ -i ■ ■ | I | p., ; | r i | S ■ | ! | w | t ’■* | v.v | SECOND BATTALION | >1 • | <1 • | g | H ■ | * , | t | r | 10m 2-15 | H.Q 593-3-29. | 74044—1 | NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED | OFFICERS AND MEN. |
+■ . ... . ■ ■<br>
+■ ' ‘ • , J . .<br>
+VHfc*'<br>
+•5#<br>
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+r<br>
+t<br>
+‘ A-* • , ■ * I<br>
+• <■ ' f .<br>
+.<br>
+• '.'V<br>
+%M' r<br>
+* v*<br>
+f I,;’-<br>
+f<br>
+C‘»<br>
+1<br>
+* (<br>
+t<br>
+I. *<br>
+i.* i<br>
+I<br>
+y.<br>
+CANADIAN EXPEDITIONARY FORCE.<br>
+M,<br>
+' - v t ‘ ■*<br>
+. v^' '><br>
+►>*:*' ;v<br>
+- ■ -i ■ ■<br>
+I<br>
+p., ;<br>
+r i<br>
+S ■<br>
+!<br>
+w<br>
+t ’■*<br>
+v.v<br>
+SECOND BATTALION<br>
+>1 •<br>
+<1 •<br>
+g<br>
+H ■<br>
+* ,<br>
+t<br>
+r<br>
+10m 2-15<br>
+H.Q 593-3-29.<br>
+74044—1<br>
+NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED<br>
+OFFICERS AND MEN.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 793<br>808<br>3388<br>843 | Reg. | Rank. | Name, Surname first. | Name of Neit of Kin. |  |  | of |
 | 2 | 879<br>1014<br>2928<br>1049 | j Lieut.-Colonel. | Watson, David  | 8th Regt Watson, Mrs. Mary Browning.. 35 Ste. Ursule St., Qucbec, P.Q |
 | 2 | 886<br>1041<br>3002<br>1077 | Lieut.-Colonel. | Rogers, Charles Herman  | 40th Regt Rogers, Mrs. Bertha W |Grafton, Ont  |

@@ -3,10 +3,33 @@ title: 59th Battalion & 1st 2nd RD 1
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 59th BATTALION | and Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION: | ( Port: Halifax, N.S. | 59th Battalion < Ship: S.S. "Olympic." | [ Date: April 1st, 1916. | Port: Montreal, P.Q. | Ship: S.S. “Scandinavian." | Date: August 27th, 1915. | 1st Reinforcing Draft | 10m-9-16. | H.Q. 593-2-29. | I Port: Montreal, P.Q. | Ship: S.S.“Missanabie." | Date: Nov. 13th, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+59th BATTALION<br>
+and Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION:<br>
+( Port: Halifax, N.S.<br>
+59th Battalion < Ship: S.S. "Olympic."<br>
+[ Date: April 1st, 1916.<br>
+Port: Montreal, P.Q.<br>
+Ship: S.S. “Scandinavian."<br>
+Date: August 27th, 1915.<br>
+1st Reinforcing Draft<br>
+10m-9-16.<br>
+H.Q. 593-2-29.<br>
+I Port: Montreal, P.Q.<br>
+Ship: S.S.“Missanabie."<br>
+Date: Nov. 13th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 712<br>510<br>3379<br>556 | .§ I |  |  | Former Corps. |  |  | Country of |
 | 2 | 719<br>566<br>3817<br>589 | ■ |  |  |  |  |  |  | Place. | Date. |
 | 2 | 808<br>665<br>3869<br>702 |  | Lieut.-Colonel | Dawson, Herbert John  | 14th Regt  | Dawson, Mrs. Ethel Irene  | c/o Mrs. Noel Kent, 250 King St., Kingston, Ont  | England  | Brockville. | Feb. 14,1916. |

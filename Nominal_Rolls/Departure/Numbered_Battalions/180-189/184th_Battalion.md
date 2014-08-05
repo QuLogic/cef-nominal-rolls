@@ -3,10 +3,22 @@ title: 184th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+Canadian Expeditionary<br>
+Force<br>
+184th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-4-l7. Ship: S.S. “ Empress of Britain.”<br>
+593-2-29. Date: October 31st, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | Canadian Expeditionary | Force | 184th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-4-l7. Ship: S.S. “ Empress of Britain.” | 593-2-29. Date: October 31st, 1916. |
 | 2 | 742<br>562<br>3249<br>594 |  |  | Former Corps. |  |  | Country of |
 | 2 | 1432<br>705<br>3746<br>739 |  |  | 10th Regt  | Sharpe, Mrs. Ida Jane  | Manitou, Man  | Canada  | Camp Hughes.. | June | 1916. |
 | 2 | 1759<br>735<br>3745<br>770 |  |  |  | Aikins, Mrs. Myrtle Chalmers.... | 69 Langside St., Winnipeg, Man  | Canada  | Winnipeg  | May | 1916. |

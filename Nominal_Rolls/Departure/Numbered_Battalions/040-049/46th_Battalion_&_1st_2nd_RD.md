@@ -3,10 +3,23 @@ title: 46th Battalion & 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+46th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax.<br>
+10m-l-16 Ship: S.S. "Lapland.”<br>
+H.Q. 593-2-29. Date: October23rd, 1915.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 46th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax. | 10m-l-16 Ship: S.S. "Lapland.” | H.Q. 593-2-29. Date: October23rd, 1915. |
 | 2 | 891<br>528<br>3364<br>559 |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 799<br>671<br>3852<br>704 | Lieut.-Col  | Snell, Herbert  :  | 60th Regt   | Snell, Mrs. Jessie Margaret— | 1116, 1st Ave., N.W. Moose Jaw, Sask  | England  | Moose Jaw  | Feb. | 1, 1915. |
 | 2 | 799<br>700<br>3854<br>734 | Major  | George, Francis William..;  | 23rd Horse  | George, Mrs  | Macleod, Alta  | England  | Winnipeg  | Feb. | 25.1915. |

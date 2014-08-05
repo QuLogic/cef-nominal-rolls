@@ -3,10 +3,35 @@ title: CMR 10th Regiment (Reinforcing Drafts from)
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | Reinforcing Drafts | from | 10th Regiment Canadian | Mounted Rifles | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 1st Reinforcing Draft | Port: Montreal, P.Q. | Ship: S.S. 11 Northland.” | Date: June 29th, 1915. | 2nd Reinforcing Draft | Port: Montreal, P.Q. | Ship: S.S. “ Elele." | Date: August 23rd, 1915. | 3m-7-17. | 593-2-29. | f Port: Halifax, N.S. | 3rd Reinforcing Draft < Ship: S.S. “Olympic.” | Date: April 28th, 1916. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+Reinforcing Drafts<br>
+from<br>
+10th Regiment Canadian<br>
+Mounted Rifles<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+1st Reinforcing Draft<br>
+Port: Montreal, P.Q.<br>
+Ship: S.S. 11 Northland.”<br>
+Date: June 29th, 1915.<br>
+2nd Reinforcing Draft<br>
+Port: Montreal, P.Q.<br>
+Ship: S.S. “ Elele."<br>
+Date: August 23rd, 1915.<br>
+3m-7-17.<br>
+593-2-29.<br>
+f Port: Halifax, N.S.<br>
+3rd Reinforcing Draft < Ship: S.S. “Olympic.”<br>
+Date: April 28th, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 788<br>580<br>3293<br>612 |  | Former Corps. |  |  | Country of |
 | 2 | 1794<br>724<br>3788<br>755 |  |  | Middlemast, Mrs. Isabella. | 2323 Toronto St., Regina, Sask  | England  | Regina  | Feb. | 26 | 1915. |
 | 2 | 604<br>753<br>3787<br>785 | 115006 | Nil  | Armstrong, Joseph Todd... | Quill Plain, Sask  | England  | Regina  | Jan. | 13 | 1915. |

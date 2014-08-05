@@ -3,10 +3,23 @@ title: 135th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+135th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, NS.<br>
+3m-i-i7. Ship: S.S. “Olympic.”<br>
+593-2-2') Date: August 21st, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 135th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, NS. | 3m-i-i7. Ship: S.S. “Olympic.” | 593-2-2') Date: August 21st, 1916. |
 | 2 | 583<br>578<br>3263<br>608 | .52 | Former Corps. |  | Country of |
 | 2 | 680<br>723<br>3760<br>749 |  |  |  |  |  | Nov. 22, | 1915. |
 | 2 | 3317<br>780<br>3760<br>805 |  |  |  |  | Parkhill  | Nov. | 1915. |

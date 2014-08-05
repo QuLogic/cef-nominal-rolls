@@ -3,10 +3,30 @@ title: 41st Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | i - & • <-/ / | y - C !i h (y | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 41st BATTALION | and | Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men, | EMBARKATION | j Port: Quebec. | 41st Battalion < Ship: S.S. " Saxonia." | [ Date: October 18th, 1915. | I Port: Quchec. | lOm.o.U’ Reinforcing Draft < Ship: S.S "Scandinavian. | Soj-?-;o Date: June 17th, 1915. |
+i - & • <-/ /<br>
+y - C !i h (y<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+41st BATTALION<br>
+and<br>
+Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men,<br>
+EMBARKATION<br>
+j Port: Quebec.<br>
+41st Battalion < Ship: S.S. " Saxonia."<br>
+[ Date: October 18th, 1915.<br>
+I Port: Quchec.<br>
+lOm.o.U’ Reinforcing Draft < Ship: S.S "Scandinavian.<br>
+Soj-?-;o Date: June 17th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 973<br>505<br>3449<br>537 |  |  | Former Corps. |  |  | Country of |
 | 2 | 862<br>650<br>3939<br>686 | i Lieut -Colonel.... | Archambeault, Louis Henri. | . o5th Regt. | ! Archambeault. Mrs. L. II . | 22 Maple Ave. Montreal, P.Q  | Canada.. .. | St. John's..... | ec. 14. 1914 |
 | 2 | 862<br>682<br>3241<br>722 | 5 Major   | Calder, Robert Louis  | . SUth Regt. | Calder, Mrs. May Lament. | c/o City <fe District Savings Bank, 176 St. James St. |

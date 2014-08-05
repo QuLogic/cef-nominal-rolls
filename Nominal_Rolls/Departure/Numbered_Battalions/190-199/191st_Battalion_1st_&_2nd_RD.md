@@ -3,10 +3,29 @@ title: 191st Battalion 1st & 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 191st Battalion | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | [Port: Halifax, N.S. | 1st Reinforcing Draft < Ship: S.S. “ Saxonia.” | Date: March 28th, 1917. | 3m-ll-17 | 593-2-29 | Port: Halifax, N.S. | 2nd Reinforcing Draft • Ship: S.S. "Olympic.” | Date: June 2nd, 1917. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+191st Battalion<br>
+1st and 2nd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+[Port: Halifax, N.S.<br>
+1st Reinforcing Draft < Ship: S.S. “ Saxonia.”<br>
+Date: March 28th, 1917.<br>
+3m-ll-17<br>
+593-2-29<br>
+Port: Halifax, N.S.<br>
+2nd Reinforcing Draft • Ship: S.S. "Olympic.”<br>
+Date: June 2nd, 1917.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 811<br>507<br>3299<br>537 |  |  | Former Corps. |  |  | Country of |
 | 2 | 651<br>551<br>3740<br>574 | 9 |  |  |  |  |  | Place. | Date. |
 | 2 | 726<br>650<br>3793<br>684 | Captain...,  | Bennett, William Gordon  | 103rd Regt... | Bennett, Mrs. Ruth  | Harley, Ont  | Canada  | Calgary  | July | 4, | 1916. |

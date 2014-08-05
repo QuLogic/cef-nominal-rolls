@@ -3,10 +3,23 @@ title: 87th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+BOTH) WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+87th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. "Emprast of Britain."<br>
+Date: April 23rd, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | BOTH) WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 87th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. "Emprast of Britain." | Date: April 23rd, 1916. |
 | 2 | 529<br>460<br>3033<br>489 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 439<br>601<br>2824<br>631 |  | Lieut .-Colonel... | Reiford, Irving Putman. | 1st Regt. | Reiford, Mrs. Oliva Canon. | clo The Crown Trust Co., 145 St. James St., Montreal. |
 | 2 | 2098<br>629<br>3393<br>661 |  |  |  |  |  | P.Q  | Canada  | Montreal | Sspt. |

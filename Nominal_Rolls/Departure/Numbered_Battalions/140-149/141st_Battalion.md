@@ -3,10 +3,26 @@ title: 141st Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+141st BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+I Port: Halifax, N.S.<br>
+141st Battalion < Ship: S.S. "Olympic."<br>
+( Date: April 29th, 1917.<br>
+I Port: Halifax, N.S.<br>
+1 Officer, 47 Other Ranks (Detail) < Ship: S.S. " Justicia.”<br>
+I Date: May 3rd, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 141st BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | I Port: Halifax, N.S. | 141st Battalion < Ship: S.S. "Olympic." | ( Date: April 29th, 1917. | I Port: Halifax, N.S. | 1 Officer, 47 Other Ranks (Detail) < Ship: S.S. " Justicia.” | I Date: May 3rd, 1917. |
 | 2 | 785<br>589<br>3289<br>622 |  |  | Former Corps. |  |  | Country of |
 | 2 | 627<br>612<br>3733<br>658 | I |  |  |  |  |  | Place. | Date. |
 | 2 | 701<br>733<br>3786<br>769 |  |  |  |  |  |  | Fort Frances.. . | Dec. | 15, 1915. | Lieut.-Colonel.. | McKenzie, David Croal  | 98 th Regt... | McKenzie, Miss Margaret D  | Fort Frances, Ont  |

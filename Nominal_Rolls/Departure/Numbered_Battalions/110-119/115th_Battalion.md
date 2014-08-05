@@ -3,10 +3,37 @@ title: 115th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | ' ■ «■ | v >..?*: ■ | ■ ■ b >•» ‘ | o or | ' 1 | So | $ ; | c*i ^ ■ | ■> - | •» .■- .*. | v£. •» •• | - t: | 'K '• | Force | W | 115th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | J0I4J-16. | 59&*2»., ■:>'r | EMBARKATION | . Port: Halifax, N.S. | Ship: S.S. “Olympic." | Datfc: July 23rd, 1916. |
+' ■ «■<br>
+v >..?*: ■<br>
+■ ■ b >•» ‘<br>
+o or<br>
+' 1<br>
+So<br>
+$ ;<br>
+c*i ^ ■<br>
+■> -<br>
+•» .■- .*.<br>
+v£. •» ••<br>
+- t:<br>
+'K '•<br>
+Force<br>
+W<br>
+115th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+J0I4J-16.<br>
+59&*2»., ■:>'r<br>
+EMBARKATION<br>
+. Port: Halifax, N.S.<br>
+Ship: S.S. “Olympic."<br>
+Datfc: July 23rd, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 781<br>619<br>3294<br>654 |  |  |  | Former Corps. |
 | 2 | 690<br>798<br>1776<br>830 |  | Major  | Jones, Frederick Caverhill  | 3rd Regt. and S.A.... |
 | 2 | 689<br>822<br>3789<br>866 |  | Major.  | Kennedy, Leander  |  |  |  |  | Feb. 26,1916. | Kennedy, Mrs. May M  | Centreville, Carleton Co., N.B  |

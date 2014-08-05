@@ -3,10 +3,75 @@ title: 152nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | ' | ,> •. - s. | • I? >"•; )£* > & 3i | •'/f • | ■. p- -u-:.s •••' •* ■■■■ "• r* ■ | . . ' |   ' • . | Force | V. | • | y . | ■ | i- 7. v - | f wr.| --. | - | ■«mi | . a&A | V-' ’■ | ■1 * ■^V'- «••«***■'' ■ | •Ssii!-' | Vi. .* -v | . | c .w—^ <x. i.. | - -y'j; ' . | — - ;* . »**v r * | - 2 • v \ y: < . | . • -v,: • r' >•■ :■ dU'1 •. | ■ ■ .'. ' ■: | • •;. vj: ■;.. | • £■■':’ * v$* *•• | “> i j - “ ;* v ''" | •^^K; : ■ | , ■; cfjfi'Ai# | .. . 2 | i-H | i | 152nd BATTALION | -ffiS;. .V | .rA-v | i?vf- | Nominal Roll of Officers, Non-Commissioned | • v: - ,-, r-. ■ . s | . Officers and Men. | 1- | • -U ^ | fj#": ,£ | ■ | ,v. . -p -. ' | . | 10m-1-17. | 593-2 29. | . : . - ir::. : ; | ;■ ’-Vi | ■ ?r;:r ->'v | . I ■> ■ | EMBARKATION | 'Port: Halifax, N.S. | Ship: S.S. “ Missanabie.” | Date: October 3rd, 1916. | ! I | 3 |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+'<br>
+,> •. - s.<br>
+• I? >"•; )£* > & 3i<br>
+•'/f •<br>
+■. p- -u-:.s •••' •* ■■■■ "• r* ■<br>
+. . '<br>
+  ' • .<br>
+Force<br>
+V.<br>
+•<br>
+y .<br>
+■<br>
+i- 7. v -<br>
+f wr.| --.<br>
+-<br>
+■«mi<br>
+. a&A<br>
+V-' ’■<br>
+■1 * ■^V'- «••«***■'' ■<br>
+•Ssii!-'<br>
+Vi. .* -v<br>
+.<br>
+c .w—^ <x. i..<br>
+- -y'j; ' .<br>
+— - ;* . »**v r *<br>
+- 2 • v \ y: < .<br>
+. • -v,: • r' >•■ :■ dU'1 •.<br>
+■ ■ .'. ' ■:<br>
+• •;. vj: ■;..<br>
+• £■■':’ * v$* *••<br>
+“> i j - “ ;* v ''"<br>
+•^^K; : ■<br>
+, ■; cfjfi'Ai#<br>
+.. . 2<br>
+i-H<br>
+i<br>
+152nd BATTALION<br>
+-ffiS;. .V<br>
+.rA-v<br>
+i?vf-<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+• v: - ,-, r-. ■ . s<br>
+. Officers and Men.<br>
+1-<br>
+• -U ^<br>
+fj#": ,£<br>
+■<br>
+,v. . -p -. '<br>
+.<br>
+10m-1-17.<br>
+593-2 29.<br>
+. : . - ir::. : ;<br>
+;■ ’-Vi<br>
+■ ?r;:r ->'v<br>
+. I ■> ■<br>
+EMBARKATION<br>
+'Port: Halifax, N.S.<br>
+Ship: S.S. “ Missanabie.”<br>
+Date: October 3rd, 1916.<br>
+! I<br>
+3
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 570<br>539<br>3271<br>610 | Jl |  | Former Corps. |  |  | Country of |
 | 2 | 667<br>718<br>3762<br>755 |  | Nellea, Stephen Bell | 95th Regt.   | Nelles, Mrs. Josephine E.  | Charlottetown, P.E.I   | Lieut.-Colonel.... | Canada... | Regina  | June | 7.1916. |
 | 2 | 667<br>748<br>3761<br>786 |  | Mclnnis, Walter Soott............ | 95 th Regt  | Mclnnis, Mrs. Thurza Hilda... | 1503 Victoria Ave., Regina, Sask...  | Major............ | Canada... | Camp Hughes.. | Sept. | 27.1916. |

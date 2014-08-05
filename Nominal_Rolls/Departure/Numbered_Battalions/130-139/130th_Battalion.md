@@ -3,10 +3,23 @@ title: 130th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+130th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+10m-12-l6. Ship: S.S. "Lapland."<br>
+593-2-29. Date: September 23rd, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 130th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 10m-12-l6. Ship: S.S. "Lapland." | 593-2-29. Date: September 23rd, 1916. |
 | 2 | 844<br>557<br>3346<br>587 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 755<br>700<br>3839<br>733 |  | Lieut.-Colonel.., | de Hertel, John Edward  | 42nd Regt  | de Hertel, Mrs. Susan R  | Perth, Ont  | Canada  | Perth  | April 6 | 1916. |
 | 2 | 754<br>729<br>3838<br>761 |  | Major   | Moffatt, William Jeffrey  | 79th Regt   | Moffatt, Mrs. Mildred Ethel.... | Pembroke, Ont  | Canada  | Pembroke  | Feb. 8 | , 1916. |

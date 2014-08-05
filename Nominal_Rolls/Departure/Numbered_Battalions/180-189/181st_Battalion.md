@@ -3,10 +3,23 @@ title: 181st Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+181st BATTALION<br>
+Nommal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-9-l7. Ship: S.S. “Grampian.”<br>
+593-2-29. Date: April 18th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 181st BATTALION | Nommal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | Port: Halifax, N.S. | 3m-9-l7. Ship: S.S. “Grampian.” | 593-2-29. Date: April 18th, 1917. |
 | 2 | 342<br>468<br>3009<br>508 | a o |  | Former Corps. |  |  | Country of |
 | 2 | 418<br>619<br>3505<br>653 | Lieut.-Colonel... | Beaubier, David Wilson  | Can. Mil  | Beaubier, Mrs. Lucy Ellen  | 436, 12th St., Brandon, Man  | Canada  | Brandon  | Jan. | 1916. |
 | 2 | 419<br>649<br>3505<br>682 | Major  | Newcombe, Harold Kenzie... | 32nd Horse  | Newcombe, Mrs. Eleanor A  | c/o J. A. Clare, Neepawa, Man  | Canada  | Camp Hughes.. | June | 1916. |

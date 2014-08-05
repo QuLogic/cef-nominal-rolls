@@ -3,10 +3,23 @@ title: 203rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+203rd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-4-i7. Ship: S.S. ‘‘Grampian.”<br>
+593-2-29.  Date: October 26th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 203rd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-4-i7. Ship: S.S. ‘‘Grampian.” | 593-2-29.  Date: October 26th, 1916. |
 | 2 | 684<br>502<br>3208<br>540 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 595<br>643<br>3688<br>686 |  | Lieut.-Colonel. | Hansford, Jeffery Ellery  | 90th Regt. | Hansford, Mrs. Frances  | 586 Broadway Ave., Winnipeg, Man  | Canada   | Winnipeg. | Feb. 10,1916. |
 | 2 | 595<br>673<br>3687<br>715 |  | Major.   | Billman, Thomas Howard  | 90th Regt. | Billman, Mrs. Gertrude  | 414 Victor St. , Winnipeg, Man  | England   | Winnipeg. | Mar. 18, 1916. |

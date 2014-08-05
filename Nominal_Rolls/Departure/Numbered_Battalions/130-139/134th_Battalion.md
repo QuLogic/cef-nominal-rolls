@@ -3,10 +3,25 @@ title: 134th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+j<br>
+134th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+593-2-29.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “Scotian."<br>
+Date: August 8th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | j | 134th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 593-2-29. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “Scotian." | Date: August 8th, 1916. |
 | 2 | 590<br>554<br>3287<br>597 | .§1 |  |  | Former Corps. |  |  | Country of |
 | 2 | 687<br>712<br>3787<br>743 |  | Lt.-Col  | Miller, Armour Adamson  | 48 th Regt.. | Miller, Mrs. Helen B  | 55 Farnham Avc., Toronto, Ont  | Canada... | Toronto  | Jan. | 14 | 1916. |
 | 2 | 686<br>742<br>3787<br>774 |  | Major  | Allan, Frank Sutherland  | 48th Regt.. | Allan, Mrs. Abbic Lcnore  | 51 Bay St., Toronto, Ont  | Canada... | Toronto  | Jan. | 14 | 1916. |

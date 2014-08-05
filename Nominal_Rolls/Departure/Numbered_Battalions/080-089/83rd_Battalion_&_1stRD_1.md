@@ -3,10 +3,41 @@ title: 83rd Battalion & 1stRD 1
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | m0*: | ' » . V | aSSUED WITH MILITIA ORDERS, 1917.) | w. | Canadian Expeditionary | Force | 83rd BATTALION | and | Reinforcing Draft | m | to | GO | I | .if | P | it. | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 83 rd Battalion | EMBARKATION | Port: Halifax, NS. | Ship: S.S. “Olympic." | Date: April 28th, 1916. | Port: Montreal. | Reinforcing Draft i Ship: S.S. “Corsican." | | Date: September 25th, 1915 | ®P | 8§?Ii |
+m0*:<br>
+' » . V<br>
+aSSUED WITH MILITIA ORDERS, 1917.)<br>
+w.<br>
+Canadian Expeditionary<br>
+Force<br>
+83rd BATTALION<br>
+and<br>
+Reinforcing Draft<br>
+m<br>
+to<br>
+GO<br>
+I<br>
+.if<br>
+P<br>
+it.<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+83 rd Battalion<br>
+EMBARKATION<br>
+Port: Halifax, NS.<br>
+Ship: S.S. “Olympic."<br>
+Date: April 28th, 1916.<br>
+Port: Montreal.<br>
+Reinforcing Draft i Ship: S.S. “Corsican."<br>
+| Date: September 25th, 1915<br>
+®P<br>
+8§?Ii
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 618<br>653<br>3125<br>685 |  |  | Former Corps. |  |  | Country of |
 | 2 | 533<br>798<br>3624<br>831 |  |  |  |  |  |  | 1S15. | Lieut.-Colonel | Pellatt, Reginald .. | 2nd Regt. | PeUatt, Mrs. Reginald. | Casa Loma, Walmer Rd. Hill, Toronto, Ont.... | Canada. |
 | 2 | 533<br>829<br>2908<br>861 | Major,  | Curry, Walter Eyre. | 2nd Regt. | Curry, James W  | Crown Life Bldg., cr. Queen and Victoria | Sts. |

@@ -3,10 +3,33 @@ title: 213th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 213th BATTALION | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | f Port: | 1st Reinforcing Draft < Ship: | Date: | Halifax, N.S. | S.S. “ Olympic." | December 15th, | 1916. | 3m-9-17. | 593-2*29. | 2nd Reinforcing Draft | Halifax, N.S. | S.S. "Grampian." | January 26th, 1917. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+213th BATTALION<br>
+1st and 2nd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+f Port:<br>
+1st Reinforcing Draft < Ship:<br>
+Date:<br>
+Halifax, N.S.<br>
+S.S. “ Olympic."<br>
+December 15th,<br>
+1916.<br>
+3m-9-17.<br>
+593-2*29.<br>
+2nd Reinforcing Draft<br>
+Halifax, N.S.<br>
+S.S. "Grampian."<br>
+January 26th, 1917.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 744<br>554<br>3248<br>589 |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 636<br>700<br>3044<br>734 | J | Clemett, .Sidney William. —'  | 36th Regt. | Clemett, Lucy. | c/oGeorge F. Corts, 251 W. 129th St., New York, N.Y., |
 | 2 | 1293<br>727<br>3744<br>757 |  |  |  |  | U.S.A  | England..... | Toronto  | June | 1, 1916, |

@@ -3,10 +3,41 @@ title: 218th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | i * - | Canadian | A - • * | :<  | ‘I. '*1 | ~ . t | !i> | «Tv-? | IV’ j.it | .i f.r'l | ) | •i- ! | ':r :• | i | 218th BATTALION: | ..... .. | • - - -. «*. | •1 •. if | •4 ; : g | 5) •’ •• V vit . r - ' • ' . . ■ |   T -• •*'<.-* /•,*»• '■ ^ I | Nominal Roll of Officers, Non-Commissioned ' | Officers and Men. | - ' , . ? •' • .. . •• ... , embarkation | . : '• r. : .v. -'' Port: Halifax, N. S. -*>« | 3m-9-17. ‘ '  ■ ~ _  Ship: - S.S. *‘Southland." | 595-2-29. ■ " '■ Date: February 17th, 1917. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+i * -<br>
+Canadian<br>
+A - • *<br>
+:< <br>
+‘I. '*1<br>
+~ . t<br>
+!i><br>
+«Tv-?<br>
+IV’ j.it<br>
+.i f.r'l<br>
+)<br>
+•i- !<br>
+':r :•<br>
+i<br>
+218th BATTALION:<br>
+..... ..<br>
+• - - -. «*.<br>
+•1 •. if<br>
+•4 ; : g<br>
+5) •’ •• V vit . r - ' • ' . . ■<br>
+  T -• •*'<.-* /•,*»• '■ ^ I<br>
+Nominal Roll of Officers, Non-Commissioned '<br>
+Officers and Men.<br>
+- ' , . ? •' • .. . •• ... , embarkation<br>
+. : '• r. : .v. -'' Port: Halifax, N. S. -*>«<br>
+3m-9-17. ‘ '  ■ ~ _  Ship: - S.S. *‘Southland."<br>
+595-2-29. ■ " '■ Date: February 17th, 1917.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 642<br>627<br>3197<br>661 | Rank. |  | Former Corps. |  |  | Country of |
 | 2 | 558<br>779<br>3703<br>813 | Lieut.-Coloncl. | Cornwall, James Kennedy.... | 101st RoSt ;. | Cornwall, Mrs. Evelyn. | J7th St., Villa Avo., Edmonton, Alta... | Canada., | Edmonton. | Mar. 10,1910. |
 | 2 | 557<br>813<br>1632<br>845 | Major  | Douglas, Thomas ClifTord.'... | 19ch Drags I. |

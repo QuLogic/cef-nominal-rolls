@@ -3,10 +3,68 @@ title: 235th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | 'UPkv<r9 | (ISSUED WITH MILITIA ORDERS, 1917.) | -K-. | : o : v | ; Co w- s. X ~« | ; 15 » ? | i.Vv- I- | III Ee | •. 'J l | t ■*- | n | 1 | ! N | H * | |} N | U: t* I | *? : ri Ct - - . *.r - - " .. • | 4- •' /-v; Ilf.;. ; S ;> :i i;• | ■ i | 1 • <jis | S.?;-.*-. » -4 § &§ > | a.-/- 7 •*• i .: • * j 7 / | ~ £TT r. | •.••’ ;i; £ - 5# w. > ~ ;t‘ ^ tf* ~”v :•"* | v, -v j: v*" V,S vV; Vv~ | & | ; Nominal Roll of Officers, Non-Commissioned | Officers and Men. | t »" | ij | I! a. | 1 i W. | ’! tv/ | iA>-j «. | £ « • < < | ■' » . V J— | e. t. 3* r v | TTb it u | X a X £. | ; X. ; -. '- | ' • V x 5 | •■» s i»2: | XaaKSSti | je ?! f? * c, | 5m-9-l7» > | 27089- ] | , _x ; y | M | ' ■ 5 ! P | EMBARKATION | - Port: Halifax,"N. S. | • 1,. ^ W j j | Ship:':S.S. “Metagama.” | Date: May. 3rd, 1917.;! | ,-r:5:.111v 17 H |
+'UPkv<r9<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+-K-.<br>
+: o : v<br>
+; Co w- s. X ~«<br>
+; 15 » ?<br>
+i.Vv- I-<br>
+III Ee<br>
+•. 'J l<br>
+t ■*-<br>
+n<br>
+1<br>
+! N<br>
+H *<br>
+|} N<br>
+U: t* I<br>
+*? : ri Ct - - . *.r - - " .. •<br>
+4- •' /-v; Ilf.;. ; S ;> :i i;•<br>
+■ i<br>
+1 • <jis<br>
+S.?;-.*-. » -4 § &§ ><br>
+a.-/- 7 •*• i .: • * j 7 /<br>
+~ £TT r.<br>
+•.••’ ;i; £ - 5# w. > ~ ;t‘ ^ tf* ~”v :•"*<br>
+v, -v j: v*" V,S vV; Vv~<br>
+&<br>
+; Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+t »"<br>
+ij<br>
+I! a.<br>
+1 i W.<br>
+’! tv/<br>
+iA>-j «.<br>
+£ « • < <<br>
+■' » . V J—<br>
+e. t. 3* r v<br>
+TTb it u<br>
+X a X £.<br>
+; X. ; -. '-<br>
+' • V x 5<br>
+•■» s i»2:<br>
+XaaKSSti<br>
+je ?! f? * c,<br>
+5m-9-l7» ><br>
+27089- ]<br>
+, _x ; y<br>
+M<br>
+' ■ 5 ! P<br>
+EMBARKATION<br>
+- Port: Halifax,"N. S.<br>
+• 1,. ^ W j j<br>
+Ship:':S.S. “Metagama.”<br>
+Date: May. 3rd, 1917.;!<br>
+,-r:5:.111v 17 H
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 570<br>518<br>3254<br>565 | M: |  | Former Corps. | Next of Kin. |  | Country of |
 | 2 | 655<br>672<br>3745<br>709 | Lieut.-Colonel... | Scobell, Sidney Brandage. | 19th Regt   | Scobell,Mrs. Amy..;...  | 2 Lake St., St. Catharines, Ont  | CanadaV;.-...... | Bowmanville.. | May 8, 1916 |
 | 2 | 653<br>705<br>2438<br>739 | Major.   | Cunningham-Dunlop, Charles James. | 15th Regt. and S. | A. Cunningham-Dunlop, Mrs. Mabel | iTpy 1 • ■ |

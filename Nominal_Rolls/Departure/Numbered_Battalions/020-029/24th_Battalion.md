@@ -3,10 +3,21 @@ title: 24th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+24th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Montreal.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 24th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Montreal. |
 | 2 | 732<br>664<br>3401<br>699 | .§2 |  |  | Former Corps. |  |  | Country of |
 | 2 | 830<br>813<br>3334<br>845 |  | Lieut .-Col. | Gunn, John Alexander  | 3rd Regt. | Gunn, Isabella E. | 510 Roslyn Ave., Westmount, P.Q    | Canada.. |
 | 2 | 829<br>841<br>3333<br>873 |  | Major  | Alexander, Ronald O'Kedan. | R.C.R... | Alexander, J. A... | 24 Lawn Crescent, Kew Gardens, Surrey, Eng...  | Ceylon.. |

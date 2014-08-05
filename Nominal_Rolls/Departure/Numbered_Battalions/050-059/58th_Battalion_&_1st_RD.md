@@ -3,10 +3,32 @@ title: 58th Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 58th BATTALION | and | Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 58th Battalion | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “ Saxonia." | Date: November 22nd, 1915. | IOm-8-16. | 593*2-29. | Reinforcing Draft | Port: Montreal. | Ship: S.S. “Hesperian." | Date: August 17th, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+58th BATTALION<br>
+and<br>
+Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+58th Battalion<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “ Saxonia."<br>
+Date: November 22nd, 1915.<br>
+IOm-8-16.<br>
+593*2-29.<br>
+Reinforcing Draft<br>
+Port: Montreal.<br>
+Ship: S.S. “Hesperian."<br>
+Date: August 17th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 838<br>456<br>3326<br>488 |  |  | Former Corps. |  |  | Country of |
 | 2 | 663<br>501<br>3767<br>525 | B |  |  |  |  |  |  | Date. |
 | 2 | 752<br>601<br>3820<br>635 | Lieut-.-Colonel... | Genet, Harry Augustus  | 38th Regt. | Genet, Mrs. Fannie Lucy.. | 173 Chatham St., Brantford, Ont   | England. | Niagara  | June 20, 1915. |

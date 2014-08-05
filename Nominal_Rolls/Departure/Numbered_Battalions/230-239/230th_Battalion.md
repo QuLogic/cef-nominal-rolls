@@ -3,10 +3,35 @@ title: 230th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 230th BATTALION | 1st, 2nd and 3rd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 1st Reinforcing Draft | EMBARKATION | Port; Halifax, N.S. | Ship: S.S. “Scandinavian.' | Date: January 23rd, 1917. | 3m-11-17. | 593-2-29. | 2nd Reinforcing Draft | 3rd Reinforcing Draft | I Port: Halifax, N.S. | < Ship: S.S. “Grampian.” | i Date: January 26th, 1917 | f Port: Halifax, N.S. | | Ship: S.S. “Ausonia.” | Date: March 3rd, 1917. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+230th BATTALION<br>
+1st, 2nd and 3rd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+1st Reinforcing Draft<br>
+EMBARKATION<br>
+Port; Halifax, N.S.<br>
+Ship: S.S. “Scandinavian.'<br>
+Date: January 23rd, 1917.<br>
+3m-11-17.<br>
+593-2-29.<br>
+2nd Reinforcing Draft<br>
+3rd Reinforcing Draft<br>
+I Port: Halifax, N.S.<br>
+< Ship: S.S. “Grampian.”<br>
+i Date: January 26th, 1917<br>
+f Port: Halifax, N.S.<br>
+| Ship: S.S. “Ausonia.”<br>
+Date: March 3rd, 1917.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 897<br>587<br>3393<br>618 |  |  | Former Corps. |  |  | Country of |
 | 2 | 811<br>731<br>3887<br>764 | Captain  | Andresen, Arnt. Christian  | 70 th Regt.. | Andresen, Mrs. B  | 135 Concord St., Ottawa, Ont  | Norway.. | Brockville  | Jan. | 1917. |
 | 2 | 812<br>761<br>3886<br>791 | Lieutenant  | Caldwell. Thomas Damase... | 70th Regt.. | Caldwell, Mrs. Ada Marie  | 257 Wilbrod St., Ottawa, Ont  | Canada.. | Brockville  | Jan. | 1917. |

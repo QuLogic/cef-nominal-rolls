@@ -3,10 +3,23 @@ title: 239th Battalion (3rd CRT)
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+239th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-7-i7. ShiP: ss- " Olympic.'1<br>
+593-2-29. Date: December 16th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 239th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-7-i7. ShiP: ss- " Olympic.'1 | 593-2-29. Date: December 16th, 1916. |
 | 2 | 801<br>484<br>3314<br>516 |  |  | Former Corps. |  |  | Country of |
 | 2 | 2379<br>659<br>3809<br>686 |  |  |  |  | B.C   |  |  | June | 22 | 1916. |
 | 2 | 3365<br>688<br>3809<br>716 |  |  |  |  |  |  | Valcartier  | Sept. | 2 | 1916. |

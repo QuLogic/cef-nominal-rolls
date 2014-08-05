@@ -3,10 +3,27 @@ title: 75th Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+75th BATTALION<br>
+also<br>
+Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+j Port: Halifax.<br>
+75th Battalion i Ship: S.S. “ Empress of Britain.<br>
+i Date: March 29th, 1916.<br>
+j Port: Montreal.<br>
+Reinforcing Draft < Ship: S.S. "Scandinavian.”
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 75th BATTALION | also | Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | j Port: Halifax. | 75th Battalion i Ship: S.S. “ Empress of Britain. | i Date: March 29th, 1916. | j Port: Montreal. | Reinforcing Draft < Ship: S.S. "Scandinavian.” |
 | 2 | 1943<br>634<br>3291<br>658 |  |  |  |  |  | Birth. |
 | 2 | 749<br>778<br>3815<br>807 | j Lieut.-Colonel | B e e k ett. S a m u e 1 G u s ta v u s  | 9th Horse. | Beckett, Mrs. Florence Ethel. | 401 Brunswick Ave., Toronto, Ont. | Canada  | Toronto  | July | 11, | 1915. |
 | 2 | 758<br>807<br>3595<br>838 | Major  | Baynes-Reed, William Leonard. | 2nd Regt. | Bavnes-Reed. Norah May. . | 156 Kingston Rd., Toronto, Ont... | Canada  | Niagara-on-the- |

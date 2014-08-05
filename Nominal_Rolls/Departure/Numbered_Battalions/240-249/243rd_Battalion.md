@@ -3,10 +3,26 @@ title: 243rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+243rd Battalion<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+3m-9-17.<br>
+593-2-29.<br>
+27443—1<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “Olympic.'<br>
+Date: June 2, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 243rd Battalion | Nominal Roll of Officers, Non-Commissioned | Officers and Men | 3m-9-17. | 593-2-29. | 27443—1 | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “Olympic.' | Date: June 2, 1917. |
 | 2 | 748<br>526<br>3220<br>556 |  |  | Former Corps. |  |  | Birth. |
 | 2 | 665<br>670<br>3750<br>702 | Major  | Smith, Gavin Graham  | 3th Bn. C.E.F  | Smith, Mrs. Mary H  | P.O. Bdx 396, Battleford, Sask  | Scotland.. | Valcartier  | Aug. | 30 | 1914 |
 | 2 | 666<br>699<br>3750<br>732 | Hon. Captain  | Agnew, Thomas David  | 52nd Regt. and S.A.. | Agnew, Mrs. Mabel Alberta  | 504 20th St. W., Prince Albert, Sask  | Canada... | Prince Albert... | Julv | 4, | 1916 |

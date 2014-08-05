@@ -3,10 +3,25 @@ title: 182nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | Canadian Expeditionary | Force | 182nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. »» | * •* • ' • | N | EMBARKATION | Port: Halifax, N.S. | .lin-lj-17. ' ‘ Ship: S.S. “Josticia." | 593-2-29. Date: May 3rd, 1917. | i - |
+Canadian Expeditionary<br>
+Force<br>
+182nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men. »»<br>
+* •* • ' •<br>
+N<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+.lin-lj-17. ' ‘ Ship: S.S. “Josticia."<br>
+593-2-29. Date: May 3rd, 1917.<br>
+i -
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 561<br>577<br>2810<br>612 | Jz |  | Former Corps. |
 | 2 | 3040<br>720<br>3728<br>748 |  |  |  |  |  | Canada.. | Whitby  | Mar. 7, | 1916. |
 | 2 | 642<br>727<br>2891<br>756 | Lieut.-Colonel.. | Cockburn, Angus Alesander  | 34th Regt    | Cockburn, Mrs. Phoebe Georgii.a. | 195 Roxton Rd., Toronto, Ont  |

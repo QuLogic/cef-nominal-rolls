@@ -3,10 +3,36 @@ title: 38th Battalion & 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 38th BATTALION | also | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 38th Battalion | EMBARKATION | Port: Halifax. | Ship: S.S. "Caledonian." | Date: August 8th, 1915. | 10tn-6-16. | H.Q. 593-2.29. | 1st Reinforcing Draft | 2nd Reinforcing Draft | Montreal. | 5.5. “Northland." | May 29th, 1915. | Montreal. | 5.5. " Missanabie." | June 24th, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+38th BATTALION<br>
+also<br>
+1st and 2nd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+38th Battalion<br>
+EMBARKATION<br>
+Port: Halifax.<br>
+Ship: S.S. "Caledonian."<br>
+Date: August 8th, 1915.<br>
+10tn-6-16.<br>
+H.Q. 593-2.29.<br>
+1st Reinforcing Draft<br>
+2nd Reinforcing Draft<br>
+Montreal.<br>
+5.5. “Northland."<br>
+May 29th, 1915.<br>
+Montreal.<br>
+5.5. " Missanabie."<br>
+June 24th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 887<br>620<br>3348<br>652 |  | Former Corps. |  | Country of |
 | 2 | 798<br>764<br>3837<br>796 |  |  |  |  | Ottawa  | Feb. | 1 | 1915. |
 | 2 | 3156<br>793<br>3837<br>818 |  |  |  | Canada  | Ottawa  | Feb. | 1 | 1915. |

@@ -3,10 +3,40 @@ title: 22nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | ■'it. (ISSUKD WITH MILITIA ORDERS, 1915) | Vi-*. | JOHN BORYSIUK | 13205 - 123rd Street | Edmonton — Alberta — Canada | Canadian Expeditionary | Force I | ' V ' | I* | v-c • | 22nd BATTALION | tj *■*- | •( | • | ‘ ' i *> | I | Nominal Roll of Officers, Non-Commissioned | i | Officers and Men\>. | A? s„. | _l.tr _ | M'isr-'fir:?. | £ ••••; -'V 4 ... | < i v‘T:jt’c | .Port; litfcUkt-l ; ■ , ■./ | SUly: &.S, "BwW. " V*®# | D.t*; AUy Xbtk, l*H. 4 "'*# |
+■'it. (ISSUKD WITH MILITIA ORDERS, 1915)<br>
+Vi-*.<br>
+JOHN BORYSIUK<br>
+13205 - 123rd Street<br>
+Edmonton — Alberta — Canada<br>
+Canadian Expeditionary<br>
+Force I<br>
+' V '<br>
+I*<br>
+v-c •<br>
+22nd BATTALION<br>
+tj *■*-<br>
+•(<br>
+•<br>
+‘ ' i *><br>
+I<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+i<br>
+Officers and Men\>.<br>
+A? s„.<br>
+_l.tr _<br>
+M'isr-'fir:?.<br>
+£ ••••; -'V 4 ...<br>
+< i v‘T:jt’c<br>
+.Port; litfcUkt-l ; ■ , ■./<br>
+SUly: &.S, "BwW. " V*®#<br>
+D.t*; AUy Xbtk, l*H. 4 "'*#
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 672<br>466<br>3172<br>499 |  |  | Former Corps. |  |  | Country of |
 | 2 | 493<br>504<br>3614<br>534 | If |  |  |  |  |  | Place. | Date. |
 | 2 | 579<br>608<br>3671<br>651 | Colonel  | jGaudct, Fr6d£ric Mondelet | . R.C.A. . . | •Ciaudct, Mrs | , I! ’7 Cr-uide A!l£e, Quebec, P Q  | ‘Canada.. |  | Oct. | 1914. |

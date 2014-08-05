@@ -3,10 +3,28 @@ title: 217th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+217th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+3in-9-l7.<br>
+V\er ')<br>
+yj , EMBARKATION<br>
+’S^'V' \—Port: Halifax, N.S.<br>
+S”) Ship: S.S. "Olympic."<br>
+593-2-29. Date: June 2nd, 1917.<br>
+■* \1\,V U) '<br>
+) I<br>
+:)). i-'
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 217th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 3in-9-l7. | V\er ') | yj , EMBARKATION | ’S^'V' \—Port: Halifax, N.S. | S”) Ship: S.S. "Olympic." | 593-2-29. Date: June 2nd, 1917. | ■* \1\,V U) ' | ) I | :)). i-' |
 | 2 | 489<br>522<br>2993<br>554 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 404<br>666<br>3487<br>699 |  | I ietit.-Colonel... | Gillis, Archibald Beaton  | Can. Mil  | Gillis, Mrs. Margaret  |  |  | Moosomin  | April 3, 1916. |
 | 2 | 403<br>696<br>3487<br>727 |  | Major  |  |  | Cooke, Mrs. A. E  |  |  |  | Mar. 1. 1916. | Cooke, John rl homas  | 16th Horse  | Moosomin  |

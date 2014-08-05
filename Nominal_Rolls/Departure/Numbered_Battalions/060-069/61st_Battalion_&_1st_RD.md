@@ -3,10 +3,29 @@ title: 61st Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | Canadian Kxpeditionary | Force | 61st BATTALION | and | Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men, | EMBARKATION | I Port: Halifax. | 61st Battalion < Ship: S.S. “Olympic." | ^ Date: April 5th, 1916. | 10m-9-16. | 593-2-29. | Port: Montreal. | Reinforcing Draft j Ship: S.S. “ Metagaina.” | [ Date: September 11th, 1915. |
+Canadian Kxpeditionary<br>
+Force<br>
+61st BATTALION<br>
+and<br>
+Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men,<br>
+EMBARKATION<br>
+I Port: Halifax.<br>
+61st Battalion < Ship: S.S. “Olympic."<br>
+^ Date: April 5th, 1916.<br>
+10m-9-16.<br>
+593-2-29.<br>
+Port: Montreal.<br>
+Reinforcing Draft j Ship: S.S. “ Metagaina.”<br>
+[ Date: September 11th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 684<br>520<br>3355<br>559 | Jfc |  |  | Former Corps. |  |  | Country of |
 | 2 | 785<br>674<br>3150<br>706 |  | Lieut.-Colonel | Murray, Francis John. | 103th Regt. and S.A. | Murray, Mrs. Florence A  | Suite 101, Kenmore Apts., 314 Broadway Ave., Winni¬ |
 | 2 | 2434<br>700<br>3846<br>734 |  |  |  |  |  | peg, Man.  | England  | Winnipeg. | June | 1 | 1915. |

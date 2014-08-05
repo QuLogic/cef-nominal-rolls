@@ -3,10 +3,27 @@ title: 209th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+Canadian Expeditionary<br>
+Force<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+209th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+a<br>
+; «flJT .<br>
+H.Q. S93-2-29.<br>
+3m-l-17.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “ Caronia.”<br>
+Date: November 1st, 1916-
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | Canadian Expeditionary | Force | (ISSUED WITH MILITIA ORDERS, 1917.) | 209th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | a | ; «flJT . | H.Q. S93-2-29. | 3m-l-17. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “ Caronia.” | Date: November 1st, 1916- |
 | 2 | 788<br>892<br>3316<br>923 |  |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 699<br>1039<br>3817<br>1071 |  | Lieut.-Coloncl.. | Smyth, Willinm Oswald  |  | 27th Horse * | Smyth, Mrs. Francos Lcta.. | Swifl Current, Snsk    | Canada  | Swift Current.. | Feb. | 4, 1015. |
 | 2 | 699<br>1068<br>3816<br>1100 |  | Major  | Macdonald, Alexander Farquhar |  | 27th Horso   | Macdonald, P. J  | Swift Current, Snsk  | Canada  | Swift Current.. | Fob. | 15, 1910. |

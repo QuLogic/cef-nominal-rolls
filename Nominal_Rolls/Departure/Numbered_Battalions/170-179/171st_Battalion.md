@@ -3,10 +3,26 @@ title: 171st Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 171st BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | 3m 9-17. | 593-2 29. | 27086—1 | EMBARKATION. | Port: Halifax, N.S. | Ship: S.S. “ Mauretania” | Date: Nov. 24th, 1916. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+171st BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+3m 9-17.<br>
+593-2 29.<br>
+27086—1<br>
+EMBARKATION.<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “ Mauretania”<br>
+Date: Nov. 24th, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 671<br>538<br>3178<br>573 |  |  | Former Corps. |  |  | Country of |
 | 2 | 489<br>581<br>3619<br>604 | w |  |  |  |  |  | Place. | Date. |
 | 2 | 568<br>681<br>3673<br>717 | Lieut.-Colonel., | Price, Sir William  | R.O  | Price, Lady Amelia Blanche.. | 145 Grande A116e, Quebec, P.Q  | Chili.... | Quebec  | Mar. | 13, | 1916 |

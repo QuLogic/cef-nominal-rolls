@@ -3,10 +3,23 @@ title: 255th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+255th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-9-17. Ship: S.S. “Olympic.”<br>
+593-2-29. Date: June 6th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 255th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-9-17. Ship: S.S. “Olympic.” | 593-2-29. Date: June 6th, 1917. |
 | 2 | 799<br>561<br>3287<br>591 |  |  |  | Former Corps. |  | Country of |
 | 2 | 1465<br>792<br>3782<br>819 |  |  |  | C.A.M.C  |  |  |  | Tiilv | 25 | 1916. |
 | 2 | 596<br>1081<br>3784<br>1111 | 1096279 |  |  | Nil  | 105, 153rd St., Now York, N.Y., U.S.A  | U.S.A  |  | Mar. | 26 | 1917. |

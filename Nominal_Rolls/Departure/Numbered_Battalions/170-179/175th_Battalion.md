@@ -3,10 +3,25 @@ title: 175th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+; " 'i<br>
+I ' •<br>
+: i|<br>
+j i!<br>
+Nominal Roll of Officers, Non-Commissioned i<br>
+Officers and Men. •• i !!<br>
+it<br>
+: . ' ' embarkation;1*<br>
+P°rt: Halifax, N.S. |j<br>
+3m-4-17. t Ship: S.S. “ SaxoniaJ"<br>
+593-2-29. Date: October ;ird, ;lj916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | ; " 'i | I ' • | : i| | j i! | Nominal Roll of Officers, Non-Commissioned i | Officers and Men. •• i !! | it | : . ' ' embarkation;1* | P°rt: Halifax, N.S. |j | 3m-4-17. t Ship: S.S. “ SaxoniaJ" | 593-2-29. Date: October ;ird, ;lj916. |
 | 2 | 727<br>598<br>3236<br>633 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 640<br>741<br>3733<br>777 |  | Lieut.-Colonel.... | Spencer, Nelson  |  | Spencer, Mrs. Martha Alberta.... | Medicine Hat, Alta  | Canada  | Medicine Hat.. | Jan. | 10, 1916. |
 | 2 | 640<br>770<br>3734<br>807 |  | Major  |  |  | Mort, Mrs. Sarah Ellen  | Mort, Algernon Joseph  | C.M.R., C.E.F  | Irvine, Alta  | England  | Medicine Hat.. | May | 17, 1916. |

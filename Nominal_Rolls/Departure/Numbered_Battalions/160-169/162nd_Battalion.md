@@ -3,10 +3,23 @@ title: 162nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+162nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-5-17. Ship: S.S. “ Caronia."<br>
+593-2-29. Date: October 31st, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 162nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-5-17. Ship: S.S. “ Caronia." | 593-2-29. Date: October 31st, 1916. |
 | 2 | 603<br>582<br>3270<br>615 | m |  | Former Corps. |  |  | Country of |
 | 2 | 685<br>726<br>3764<br>758 | Lieut .-Colonel.... | Arthurs, James  | 23rd Regt  | Arthurs, Mrs. Elizabeth Priscilla.. | Powassan, Ont  | Canada.. | Parry Sound  | Jan. | 1916. |
 | 2 | 686<br>755<br>3765<br>788 | Major  | Musgrove, George Henry  | Ust Regt and S.A. | Musgrove, Mrs. Eva F  | Hanover, Ont  | England. | Parry Sound  | Mar. | 1916. |

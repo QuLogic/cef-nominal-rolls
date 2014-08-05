@@ -3,10 +3,24 @@ title: 168th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+i<br>
+168th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.SJ<br>
+3m-l-l7. ■ Ship: S.S. “Lapland."<br>
+593-2-29. Date: October 30th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | i | 168th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.SJ | 3m-l-l7. ■ Ship: S.S. “Lapland." | 593-2-29. Date: October 30th, 1916. |
 | 2 | 592<br>639<br>3105<br>670 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 502<br>782<br>3596<br>814 |  | Lieut.-Colonel | McMullen, William Thomas.. | 22nd Regt  | McMullen, Mrs. Helen  | 119 Vansittart Ave., Woodstock, Ont  | Canada Woodstock Jan. 20, 1916. |
 | 2 | 501<br>808<br>3594<br>843 |  | Major | Gibson, Thomas  | C.A.M.C  | Gibson, Mrs. Clara Annie  | 88 Roxborough Drive, Toronto, Ont  | Canada Ingersoll Feb. 7, 1916. |

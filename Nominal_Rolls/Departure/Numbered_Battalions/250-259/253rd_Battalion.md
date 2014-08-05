@@ -3,10 +3,23 @@ title: 253rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+253rd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Port; Halifax, N. S.<br>
+Ship: S.S. “Olympic”<br>
+Date: April 29th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 253rd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | Port; Halifax, N. S. | Ship: S.S. “Olympic” | Date: April 29th, 1917. |
 | 2 | 821<br>514<br>2890<br>544 |  |  | Former Corps. | Name of Next of Kin |
 | 2 | 729<br>678<br>3791<br>714 | Lieut.-Colonel | [Campbell, Percy Gerald C... | ! 14 th Regt  | ! Campbell, Mrs. Evelyn A, | 57 George St., Kingston, Ont. | France  | Kingston. . .. | Nov. | 1, | 1916 |
 | 2 | 729<br>711<br>3792<br>753 | Major  | J Sutherland, Robert Dundas.. | i 14th Regt  | ; Sutherland, Mrs. Edith Annie | .1 63 West St., Kingston, Ont.... | Canada  | Kingston.. . . | Nov. | 1, | 1916 |

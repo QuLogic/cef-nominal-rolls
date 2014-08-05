@@ -3,10 +3,24 @@ title: 118th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Kxpeditionary | Force | 118th BATTALION | * | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Jm-4-17. Ship: S.S. "Scandinavian.1 | 59J-2-29, Date: January 23rd, 1917. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Kxpeditionary<br>
+Force<br>
+118th BATTALION<br>
+*<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Jm-4-17. Ship: S.S. "Scandinavian.1<br>
+59J-2-29, Date: January 23rd, 1917.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 571<br>532<br>3244<br>572 | •Sz |  | Former Corps. |  | Country of |
 | 2 | 671<br>684<br>3734<br>716 | Lieut.-Colonel... | Lochead, William Merton O  |  |  |  |  | May | 11, 1916. |
 | 2 | 672<br>714<br>3731<br>744 | Major  | Gregory, Walter Herbert  |  |  |  |  | Feb. | 7, 1916. |

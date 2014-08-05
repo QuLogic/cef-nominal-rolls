@@ -3,10 +3,23 @@ title: 148th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+148th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-l-l7. Ship: S.S. “Laconia.”<br>
+593-2-29. Date: September 26th, 1916
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 148th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-l-l7. Ship: S.S. “Laconia.” | 593-2-29. Date: September 26th, 1916 |
 | 2 | 1862<br>518<br>3264<br>546 |  |  |  |  |  |  | Country of |
 | 2 | 1775<br>663<br>3758<br>694 |  |  |  |  | Magee, Mrs. Madeline Leslie S. | Room 39, Royal Insurance Bldg., Montreal, P.Q   | Canada. | Montreal. | Nov. 30, 1915. |
 | 2 | 3071<br>721<br>3757<br>750 |  |  |  |  |  |  | England  | Valcartier. | Sept. | 21, 1914. |

@@ -3,6 +3,7 @@ title: 3rd Battalion (Royal Regiment of Canada - Battle Royal Extract)
 wide: wide
 ---
 
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

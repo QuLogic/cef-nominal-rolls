@@ -3,10 +3,25 @@ title: CMR 5th Regiment
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917,)<br>
+, ✓<br>
+\ -<br>
+Canadian Expeditionary<br>
+Force<br>
+5th REGIMENT<br>
+Canadian Mounted Rifles<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men,<br>
+EMBARKATION.<br>
+Port: Quefcec, P.Q./<br>
+Ship: S.S, *' Hesperian.’
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917,) | , ✓ | \ - | Canadian Expeditionary | Force | 5th REGIMENT | Canadian Mounted Rifles | Nominal Roll of Officers, Non-Commissioned | Officers and Men, | EMBARKATION. | Port: Quefcec, P.Q./ | Ship: S.S, *' Hesperian.’ |
 | 2 | 279<br>750<br>2645<br>781 | Rank. |  | Former Corps. |  |  | Country of |
 | 2 | 198<br>890<br>3111<br>922 | Lieut.-Colonel..,. | Baker, George Harold   | 13th Drags  | Baker, Miss Effie    | Bolton Centre, P.Q   | Canada  | Sherbrooke.. | June | 2, 1915. |
 | 2 | 198<br>918<br>3109<br>951 | Major. | Draper, Denis Cbolbum  | 13th Drags.  | Draper, J. C   | Sutton Jot,, P.Q.      | Canada....,. | Sherbrooke  | June | 1, 1915, |

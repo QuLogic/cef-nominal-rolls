@@ -3,10 +3,23 @@ title: 193rd Battalion B&W
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+193rd BATTALION<br>
+Nominal Roll, of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+itji-s-17. Ship: S.S. “ Olympic.”<br>
+. Date: October 12th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 193rd BATTALION | Nominal Roll, of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | itji-s-17. Ship: S.S. “ Olympic.” | . Date: October 12th, 1916. |
 | 2 | 607<br>502<br>3097<br>536 | Knnk. |  | Former Corps. |  |  | Birth. |
 | 2 | 534<br>648<br>3624<br>684 | Liout.-Colonol | Langford, Hubert John S,.. | H.C.R  | Langford, Mrs. Betty Almon. | c/o Bank of Montreal, Vancouver, B.C  | India  | Aldershot  | June | 7.1916. |
 | 2 | 534<br>679<br>3624<br>714 | Major  | (.eGnllum, Jiuiic:! Philip.... | 70th Rcgt. & | LeGnllnis, Mrs. Margaret J.. | Truro, Colchester Co., N.S  | Canada  | Truro  | Feb. | 14, 1910. |

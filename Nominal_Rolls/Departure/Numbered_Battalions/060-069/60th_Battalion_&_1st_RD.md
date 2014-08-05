@@ -3,10 +3,30 @@ title: 60th Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 60th BATTALION | (and Reinforcing Draft) | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | (Port: Montreal. | Ship: S.S. 11 Scandinavian." | Date: November 6th, 1915. | 10m-6-lS. | H.Q. 593-2-29. | Reinforcing Draft | Port: Montreal. | Ship: S.S. "Scandinavian." | Date: August 27th, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+60th BATTALION<br>
+(and Reinforcing Draft)<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+(Port: Montreal.<br>
+Ship: S.S. 11 Scandinavian."<br>
+Date: November 6th, 1915.<br>
+10m-6-lS.<br>
+H.Q. 593-2-29.<br>
+Reinforcing Draft<br>
+Port: Montreal.<br>
+Ship: S.S. "Scandinavian."<br>
+Date: August 27th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 865<br>493<br>3356<br>521 |  |  |  |  |  | Country of |
 | 2 | 776<br>638<br>3850<br>667 |  | Lt.-Colonel. | Gascoigne, Frederick, Arthur de L. 3rd Regt. | Carrique, Mrs. W. J   | 804 Dorchester St. W., Montreal, P.Q  | England  | Valcartier  | Sept. | 3 | 1915. |
 | 2 | 776<br>667<br>3849<br>697 |  | Major  | Evans, William Bernard 3rd Regt  | Evans, Mrs. Jean Helen  | 82 St. Mathew St., Montreal, P.Q  | Canada  | Valcartier  | Sept. | 3 | 1915. |

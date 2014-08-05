@@ -3,10 +3,23 @@ title: 177th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+177th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Porti Halifax, N. S.<br>
+Ship: S.S. “Metagama”<br>
+Date: May 3, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 177th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | Porti Halifax, N. S. | Ship: S.S. “Metagama” | Date: May 3, 1917. |
 | 2 | 853<br>643<br>2940<br>672 |  |  |  | Former Corps. | Name of Next of Kin |
 | 2 | 775<br>799<br>3831<br>830 |  | Lieut. Colonel. | McPhee, John Bingham  | 35th Regt  | McPhee, Mrs. Eva Hamlin... | 23 Cliff Rd., Toronto, .Ont 1 Canada. |  | Barrie  | Mar. 8, | 1916 |
 | 2 | 774<br>833<br>3831<br>866 |  | Major   | Kortiriglit. Francis Herbert... | 9th Horse.... | Kortright, Mrs. Yvonne  | c-o Blaekstock, Galt & Gooderham, Toronto, Ont. | B. W. I.. . | Barrie   | May 29, | 1916 |

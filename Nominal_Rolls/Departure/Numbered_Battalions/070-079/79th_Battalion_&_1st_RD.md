@@ -3,10 +3,33 @@ title: 79th Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | p | II,      -- | (ISSUED WITH MILITIA ORDERS, 1917.) | \ ' | Exp editionary | Force | 79th BATTALION | and | Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | [ Port: Halifax, N.S. | 79th Battalion j Ship: S.S. “ Lapland.” | Date: April 24th, 1916. | lOm-12-16. | S93-2-29. | I Port: Montreal. | Ship: S.S. “Corsican.” | Date: September 25th, 1915. |
+p<br>
+II,      --<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+\ '<br>
+Exp editionary<br>
+Force<br>
+79th BATTALION<br>
+and<br>
+Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+[ Port: Halifax, N.S.<br>
+79th Battalion j Ship: S.S. “ Lapland.”<br>
+Date: April 24th, 1916.<br>
+lOm-12-16.<br>
+S93-2-29.<br>
+I Port: Montreal.<br>
+Ship: S.S. “Corsican.”<br>
+Date: September 25th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 554<br>521<br>3054<br>551 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 464<br>665<br>3545<br>696 |  | Lieut.-Colonel.. | Clingan, George  | 12th Drags  | Clingan, Mrs. R. N. I  | Virden, Man  | Canada  | Brandon  | Sept. | 2, 1915. |
 | 2 | 464<br>694<br>3545<br>725 |  | Major  | Carlisle, George Harold  | 99th Regt  | Carlisle, Janet A  | 534 Louise Ave., Brandon, Man  | Canada  | Brandon  | June | 5, 1915. |

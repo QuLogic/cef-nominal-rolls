@@ -3,10 +3,23 @@ title: 197th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+197th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-9-17. Ship: S.S. “Scandinavian.”<br>
+593-2-29. Date: January 26th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 197th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-9-17. Ship: S.S. “Scandinavian.” | 593-2-29. Date: January 26th, 1917. |
 | 2 | 749<br>553<br>3244<br>584 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 667<br>698<br>3739<br>728 |  | Lieutenant  | Corbet, James Douglas  | 90th Regt  |  |  | Canada  | Winnipeg  | May | 1 | 1916. |
 | 2 | 666<br>727<br>3739<br>757 |  | Lieutenant  | Cruikshank, Charles Gordon  |  |  |  | Canada  | Winnipeg  | May | 11 | 1916. |

@@ -3,10 +3,22 @@ title: 50th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+50th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+10-m-12-lS.<br>
+H.Q. 593-2-29.<br>
+EMBARKATION<br>
+Port: Halifax.<br>
+Ship: S.S. 11 Orduna."<br>
+Date: October 27th, 1915.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | 50th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 10-m-12-lS. | H.Q. 593-2-29. | EMBARKATION | Port: Halifax. | Ship: S.S. 11 Orduna." | Date: October 27th, 1915. |
 | 2 | 1216<br>546<br>3336<br>581 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 746<br>690<br>3833<br>728 |  | Lieut.-Col  | Mason, Edward George  | 103rd Regt... |  |  |  | Calgary... | Nov. | 17, 1914. |
 | 2 | 746<br>720<br>3834<br>756 |  | Major  | Parry, James Lewis K  | Can. Reserve. |  |  |  | Calgary... | Nov. | 17, 1914. |

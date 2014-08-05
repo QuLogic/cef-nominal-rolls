@@ -3,10 +3,26 @@ title: 149th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+149th BATTALI<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+-f<br>
+3m-9-17.<br>
+593-2-29.<br>
+EMBARKATION<br>
+•Port: Halifax, N.S.<br>
+Ship: S.S. "Lapland."<br>
+Date: March 28th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 149th BATTALI | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | -f | 3m-9-17. | 593-2-29. | EMBARKATION | •Port: Halifax, N.S. | Ship: S.S. "Lapland." | Date: March 28th, 1917. |
 | 2 | 761<br>568<br>3261<br>600 |  |  | Former Corps. |  |  | Country of |
 | 2 | 678<br>710<br>3754<br>743 |  |  |  | Macvicar, Mrs. Ursula M  | 178 Forsyth St., Sarnia, Ont  | Canada.. | Camp Borden. . | Sept. | , 1916. |
 | 2 | 1767<br>738<br>3754<br>772 |  |  |  | Dunfield, Dr. John  | Petrolia, Ont  | Canada.. | Camp Borden... | Sept. | i, 1916. |

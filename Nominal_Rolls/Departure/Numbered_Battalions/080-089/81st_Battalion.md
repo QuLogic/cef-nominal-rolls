@@ -3,10 +3,23 @@ title: 81st Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Can ad 1 an Exp edi tio n a ry<br>
+Force<br>
+81st .BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+io.h-9-16. ShiP: S.S. “Olympic."<br>
+593-2-29. Date: April 28th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Can ad 1 an Exp edi tio n a ry | Force | 81st .BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | io.h-9-16. ShiP: S.S. “Olympic." | 593-2-29. Date: April 28th, 1916. |
 | 2 | 579<br>617<br>3102<br>648 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 488<br>763<br>3601<br>795 |  | Lieut.-Colonel | nelson, Berkeley Henry  | 19th Regt.. | Belson, Mrs. H  | 17 Springhurst Ave., Toronto, Ont   | England.. | Toronto Dec. | 28. 1915. |
 | 2 | 486<br>794<br>3600<br>824 |  | Major  | Bradley, Georgo Richard   | 19th Regt.. | Bradley, Mrs. Ada Alice.. | 11 Becchor St., St. Catharines, Ont  | Canada... | Toronto  Dec. | 23. 1915. |

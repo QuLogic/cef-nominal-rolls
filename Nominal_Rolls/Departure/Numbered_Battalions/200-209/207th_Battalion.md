@@ -3,10 +3,24 @@ title: 207th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+207th BATTALION<br>
+v* •»<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+  Port: Halifax, N.S.<br>
+3ni-9-17. Ship: S.S. “Olympic."<br>
+5M-2-29. Date: June 2, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 207th BATTALION | v* •» | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION |   Port: Halifax, N.S. | 3ni-9-17. Ship: S.S. “Olympic." | 5M-2-29. Date: June 2, 1917. |
 | 2 | 727<br>616<br>3226<br>651 |  |  |  | Former Corps. |
 | 2 | 641<br>880<br>2215<br>911 |  |  | MacLachlan, John Gordon  | Captain  | MacLachlan, D. VV  |
 | 2 | 640<br>906<br>2216<br>939 |  | Captain  | McEiroy, Francis Chevers  |  | McEiroy, William  |

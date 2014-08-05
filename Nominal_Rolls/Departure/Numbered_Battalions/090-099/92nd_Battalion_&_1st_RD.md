@@ -3,10 +3,29 @@ title: 92nd Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+92nd BATTALION<br>
+and<br>
+Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+ - Officers and Men.<br>
+EMBARKATION<br>
+[ Port: Halifax, N.S.<br>
+92nd Battalion j Ship: S.S. " Empres* of Britain."<br>
+Date: May 20th, 1916.<br>
+lnHS-17.<br>
+[ Port: Halifax, N.S.<br>
+Reinforcing Draft j Ship: S.S. "Lapland.”<br>
+I Date: November 27th, 1915.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 92nd BATTALION | and | Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned |  - Officers and Men. | EMBARKATION | [ Port: Halifax, N.S. | 92nd Battalion j Ship: S.S. " Empres* of Britain." | Date: May 20th, 1916. | lnHS-17. | [ Port: Halifax, N.S. | Reinforcing Draft j Ship: S.S. "Lapland.” | I Date: November 27th, 1915. |
 | 2 | 563<br>646<br>3064<br>680 |  |  | Former Corps. |  |  | Country of |
 | 2 | 475<br>791<br>3560<br>825 | Lieut.-Colonel  | Chisholm, George Thomson  | 48th | Regt | Chisholm, Mrs. Margaret.. | 35 Bins* arth Rd., Toronto, Ont  | Scotland  | Toronto Aug. | 1915. |
 | 2 | 474<br>820<br>3560<br>854 | Major  | Lash, John Francis  | 48th | Regt | Lash, Mrs. Grace C. B . . . . | 59 Admiral Rd., Toronto, Ont  | Canada  | Toronto Aug. | 1915. |

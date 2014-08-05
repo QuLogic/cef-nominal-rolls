@@ -3,10 +3,23 @@ title: 146th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+146th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+. Port: Halifax, N.S.<br>
+I0m-i-i7. Ship: S.S. 11 Southland.”<br>
+503-2-29. Date: September 25th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 146th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | . Port: Halifax, N.S. | I0m-i-i7. Ship: S.S. 11 Southland.” | 503-2-29. Date: September 25th, 1916. |
 | 2 | 332<br>466<br>3038<br>518 | Jz |  |  | Former Corps. |  |  | Country of |
 | 2 | 433<br>632<br>3534<br>663 |  | Lieut.-Colonel... | Ix>w. Charles Adamson  | R.O  | Low, Mrs. Phoebe Carlotta P  | Aylmer West, Ont  | Canada  | Barrie field  | Oct. | 27,1915. |
 | 2 | 432<br>661<br>3533<br>693 |  | Major  | Ferguson, Frederick Stratton.. | 47th Regt  | Ferguson, William  | Inverary, Ont  | Canada   | Kingston  | April | 11, 1916. |

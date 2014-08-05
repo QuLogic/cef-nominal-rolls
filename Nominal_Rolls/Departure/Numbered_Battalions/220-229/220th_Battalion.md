@@ -3,10 +3,26 @@ title: 220th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 220th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 3m-9.l7. | 593-2-29. | EMBARKATION | Port: Halifax, N. S. | Ship: S.S. “Grampian.” | Date: Jan 26th, 1917. | 27083—1 |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+220th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+3m-9.l7.<br>
+593-2-29.<br>
+EMBARKATION<br>
+Port: Halifax, N. S.<br>
+Ship: S.S. “Grampian.”<br>
+Date: Jan 26th, 1917.<br>
+27083—1
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 554<br>563<br>3209<br>602 | Ik |  |  | Former Corps. |  |  | Country of |
 | 2 | 3029<br>706<br>3739<br>734 |  |  |  |  |  |  | Canada.. | Toronto  | Nov. 22, 1916. |
 | 2 | 640<br>715<br>3001<br>746 |  | Lieut.-Colonel   | Brown, Benjamin Hinchcliffe. | 12 th Regt. | Brown, Mrs. Lydia.....  | 481 Clinton St., Toronto, Ont  |

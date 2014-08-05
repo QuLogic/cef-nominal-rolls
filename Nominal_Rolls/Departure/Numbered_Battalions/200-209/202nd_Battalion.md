@@ -3,10 +3,85 @@ title: 202nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS. 1917.) | ‘ • • ••• .,-V '• - - • A.:' - . ; • . 'T' . ' {.« | , i .y * •» -*.— •«.* • • . / " .V r | » • •. •• ^ T • v ■ - - • . —•v ~ '• ■ * ,»tJo | • •.: :.. j"..’ * ; ■   ->/ • ; r ; y : | U ste ■ '?■ 'V-i' 2 . L -.' ' . ? •• •" | */• | JOHN BORYS1UK | 13205 - 123rd Street = | : :i _ . | . i .. i | | • r. ■ • • | 1 • | ** ’*•" | tV ci V | - ‘if'v • | -.Li - -. -H | ■; ik; | '• l '' '** •'!* »f> | 1“ r. * : ■ 4^' • ; | vr, -r | ■iy-T | •••:i. -• :v. ' | r, t . ?. . : | ■ '• | V* | V:\' | . t1' *v • . | - C . :/ • | iF' | . I . > | ‘. .n' ,» - ' ' | . » *■' • *** | ■ : | ■ • w. — . | ti -■> .v r; *• * | :i v!'r .• | ' •' ) • | ' 'V -i | - . • • > • . | ■. • v>%< . • | V- | : i,‘. | '4 | v ,iV ' . | v | "* !*-. ■ | i * ... . ?; ; .. ** " •*, v • «*».£•}r v'' • : | .... - *■ ■* - • . .... ■- , . . | ’;.,44k ■: • • ■ ■■•: . ii • j '■ | ■ ’ - ■■ ■: . ■ | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | f. | ; a v yv;;V'■••• v *’’- | ■ :<•* r.:‘ | ■ V* %-^4v^ -v. | V | i | | / - j | '■ ■ ’ '"V *?* i | ' I | 3 m-4-17. | 593-2-29. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “ Mauretania.** | Date: November 23rd,. 1916. | .t . | i ’ | . 'V, | ‘■■ir.y |
+(ISSUED WITH MILITIA ORDERS. 1917.)<br>
+‘ • • ••• .,-V '• - - • A.:' - . ; • . 'T' . ' {.«<br>
+, i .y * •» -*.— •«.* • • . / " .V r<br>
+» • •. •• ^ T • v ■ - - • . —•v ~ '• ■ * ,»tJo<br>
+• •.: :.. j"..’ * ; ■   ->/ • ; r ; y :<br>
+U ste ■ '?■ 'V-i' 2 . L -.' ' . ? •• •"<br>
+*/•<br>
+JOHN BORYS1UK<br>
+13205 - 123rd Street =<br>
+: :i _ .<br>
+. i .. i |<br>
+• r. ■ • •<br>
+1 •<br>
+** ’*•"<br>
+tV ci V<br>
+- ‘if'v •<br>
+-.Li - -. -H<br>
+■; ik;<br>
+'• l '' '** •'!* »f><br>
+1“ r. * : ■ 4^' • ;<br>
+vr, -r<br>
+■iy-T<br>
+•••:i. -• :v. '<br>
+r, t . ?. . :<br>
+■ '•<br>
+V*<br>
+V:\'<br>
+. t1' *v • .<br>
+- C . :/ •<br>
+iF'<br>
+. I . ><br>
+‘. .n' ,» - ' '<br>
+. » *■' • ***<br>
+■ :<br>
+■ • w. — .<br>
+ti -■> .v r; *• *<br>
+:i v!'r .•<br>
+' •' ) •<br>
+' 'V -i<br>
+- . • • > • .<br>
+■. • v>%< . •<br>
+V-<br>
+: i,‘.<br>
+'4<br>
+v ,iV ' .<br>
+v<br>
+"* !*-. ■<br>
+i * ... . ?; ; .. ** " •*, v • «*».£•}r v'' • :<br>
+.... - *■ ■* - • . .... ■- , . .<br>
+’;.,44k ■: • • ■ ■■•: . ii • j '■<br>
+■ ’ - ■■ ■: . ■<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+f.<br>
+; a v yv;;V'■••• v *’’-<br>
+■ :<•* r.:‘<br>
+■ V* %-^4v^ -v.<br>
+V<br>
+i |<br>
+/ - j<br>
+'■ ■ ’ '"V *?* i<br>
+' I<br>
+3 m-4-17.<br>
+593-2-29.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “ Mauretania.**<br>
+Date: November 23rd,. 1916.<br>
+.t .<br>
+i ’<br>
+. 'V,<br>
+‘■■ir.y
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 507<br>612<br>3253<br>652 | .iz | Rank. |  | Former Corps. |  |  | Country of |
 | 2 | 658<br>652<br>3702<br>690 |  | ll |  |  |  |  |  | Place. | Date. |
 | 2 | 609<br>765<br>3758<br>801 |  |  |  |  |  |  | Canada^.... | Lieut.-Colonel. | Bowen. Peter Edwin.,   | 19thDrags.    | Bowen, Mrs. Annie  | 10010, 83rd Ave., N.E. Strathcona, Alta.    | Feb. | 5, 19 | 6. |

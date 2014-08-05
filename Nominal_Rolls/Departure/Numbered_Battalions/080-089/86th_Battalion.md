@@ -3,10 +3,25 @@ title: 86th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+. . ^<br>
+Canadian Expeditionary<br>
+Force<br>
+86th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax.<br>
+lOm-9-16. Ship: S.S. "Adriatic.”<br>
+5912-29. Date: May 19 th, 1916.<br>
+I
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | . . ^ | Canadian Expeditionary | Force | 86th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax. | lOm-9-16. Ship: S.S. "Adriatic.” | 5912-29. Date: May 19 th, 1916. | I |
 | 2 | 166<br>758<br>2856<br>794 | Iz |  |  | Former Corps. |  |  | Country of |
 | 2 | 249<br>910<br>3349<br>943 |  | Lieut.-Colonel. | Stewart, Walter Wilson  | 13 th Regt. | Stewart, Margaret  | 54 Homewood Ave., Hamilton, Ont  | U.S.A  | Niagara.. | Oct. | 28.1915. |
 | 2 | 250<br>940<br>3350<br>973 |  | Major  | Brownlee, James Herbert  | 31st Regt. | Brownlee, Mrs. Nora  | 366, 11th St. E., Owen Sound, Ont  | Canada  | Niagara.. | Oct. | 28, 1915. |

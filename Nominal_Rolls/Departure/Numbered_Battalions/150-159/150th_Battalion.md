@@ -3,10 +3,23 @@ title: 150th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+150th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax. N.S.<br>
+3m-10-17. Ship: S.S. “Lapland.”<br>
+593-2-29. Date: Sept. 29th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 150th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax. N.S. | 3m-10-17. Ship: S.S. “Lapland.” | 593-2-29. Date: Sept. 29th, 1916. |
 | 2 | 585<br>576<br>3249<br>613 | .£fc |  | Former Corps. |  |  | Country of |
 | 2 | 593<br>620<br>3687<br>644 | 0) |  |  |  |  |  | Place. | Date. |
 | 2 | 668<br>719<br>3740<br>756 | Lieut.-Colonel... | Barrfi, Hercule  | 65th Regt. | Gervais, Mrs. R6gina  | 1256 St. Hubert St., Montreal, P.Q  | Canada  | Montreal  | Dec. | 8, 1915. |

@@ -3,10 +3,23 @@ title: 172nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+172nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-2-17. Ship: S.S. “Mauretania.”<br>
+593-2-29. Date: October 25th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 172nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-2-17. Ship: S.S. “Mauretania.” | 593-2-29. Date: October 25th, 1916. |
 | 2 | 729<br>567<br>3240<br>597 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 639<br>711<br>3734<br>743 |  | Liout.-Colonel. | Vicars, John Richard O  | 102nd Regt  | Vicars, Mrs. Beatrice Julia  | Kamloops, B.C  | Ireland  | Kamloops.. | May | 31 | 1916. |
 | 2 | 638<br>740<br>3733<br>772 |  | Major  | Allen, Cecil Crowder  | 102nd Regt  | Allen, Mrs. Beatrice W  | Kelowna, B.C  | England  | Victoria  | May | 26 | 1916. |

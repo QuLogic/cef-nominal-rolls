@@ -3,10 +3,23 @@ title: 140th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+140th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-8-17. Ship: S.S. "Corsican."<br>
+591-2-29. Date: September 25th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 140th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-8-17. Ship: S.S. "Corsican." | 591-2-29. Date: September 25th, 1916. |
 | 2 | 589<br>541<br>3243<br>589 | a i |  |  | Country of |
 | 2 | 661<br>702<br>3739<br>733 | Lieut.-Colonel... Beer, Lewis Herbert L.S.H., | Beer, Mrs. Winifred G  | 335 Chapel St., Ottawa, Ont  |  | Valcartier C'p.. | . 13,1916. |
 | 2 | 660<br>732<br>3740<br>764 | Major Carter, Albert Desbrisay 26th Bn | Carter, Mrs. Ettie  | Pointe de Bute, Westmoreland Co., N.B  |  | St. John  | 19, 1916. |

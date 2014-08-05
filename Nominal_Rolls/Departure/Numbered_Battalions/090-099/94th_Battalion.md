@@ -3,10 +3,23 @@ title: 94th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+94th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-6-l7. Ship: S.S. “Olympic.”<br>
+59.V2-N. Date: June 28th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 94th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-6-l7. Ship: S.S. “Olympic.” | 59.V2-N. Date: June 28th, 1916. |
 | 2 | 822<br>696<br>3294<br>729 |  |  | Former Corps. |  |  | Country of |
 | 2 | 736<br>837<br>3788<br>874 | Lieut.-Colonel.. | Machin, Harold Arthur C  R.C.R. & S.A.... |  | Machin, Mrs. Ida F  | Kenora, Ont  | U.S.A  | Port Arthur. | Jan. 4 | 1916. |
 | 2 | 735<br>867<br>3788<br>904 | Major  | Bowie, George Shepherd G.G.F.G. & S.A. |  | Bowie, Mrs. Jessie Augusta  | Rainy River, Ont  | Canada  | Rainy River. | Dec. 10 | 1915. |

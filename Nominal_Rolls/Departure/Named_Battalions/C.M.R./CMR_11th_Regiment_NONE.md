@@ -3,8 +3,7 @@ title: CMR 11th Regiment NONE
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | |
-| --- | --- | --- |
-| 1 | <br><br><br> | /1/d / fr» Qrr\% |
+/1/d / fr» Qrr\%
 {% endraw %}

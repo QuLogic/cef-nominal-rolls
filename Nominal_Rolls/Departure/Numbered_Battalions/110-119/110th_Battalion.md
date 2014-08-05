@@ -3,10 +3,23 @@ title: 110th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+110th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+I0m-12-16. Ship: S.S. “ Caronia."<br>
+593-2-29. Date: October 31st, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 110th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | I0m-12-16. Ship: S.S. “ Caronia." | 593-2-29. Date: October 31st, 1916. |
 | 2 | 549<br>578<br>3241<br>633 | M |  |  | Former Corps. |  |  | Country of |
 | 2 | 650<br>744<br>3735<br>777 |  | Lieut. Colonel.... | Youngs, John Lant  | 28th Regt... | Youngs, Mrs. Mary Jane  | 240 Birmingham St., Stratford, Ont  | Canada  | Camp Borden.. | Oct. | 27,1916. |
 | 2 | 651<br>774<br>3734<br>806 |  | Major ". | Black, Redmond Delamere  | 24 th Regt... | Black, Mrs. Grace  | Dresden, Ont  | Canada  | Stratford  | Jan. | 10, 1916. |

@@ -3,10 +3,23 @@ title: 72nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+(Canadian £xpeditionary<br>
+Force<br>
+72nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+lOm-9-16. ' Ship: S.S. “ Empress of Britain."<br>
+393-2-29 Date: April 23rd, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | (Canadian £xpeditionary | Force | 72nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | lOm-9-16. ' Ship: S.S. “ Empress of Britain." | 393-2-29 Date: April 23rd, 1916. |
 | 2 | 623<br>537<br>3139<br>566 |  | Rank. |  | Former Corps. |  |  | Country of |
 | 2 | 536<br>683<br>3639<br>713 |  | Lieut.-Colonol.... | Clark, John Arthur  | 2nd Regt  | Clark, Jean Abercrombie MacG... | 1041 Georgia St., Vancouver, B.C  | Cr-.-dn | Vancouver  | Dec. | 28, 1915. |
 | 2 | 534<br>712<br>3638<br>751 |  | Major  | Gorst, ITonry l’ercy  | 72nd Regt  | Gorst., Mrs. Emily Florence  | 58 Englesca Lodge, Beach Ave., Vancouver, B.C  | Ei | id. | Vancouver  | Dec. | 28, 1015. |

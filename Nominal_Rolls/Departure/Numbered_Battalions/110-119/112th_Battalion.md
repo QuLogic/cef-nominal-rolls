@@ -3,10 +3,25 @@ title: 112th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+t<br>
+t<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+112th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-l-l7. Ship: S.S. “Olympic.”<br>
+593-2-29. Date: July 23rd, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | t | t | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 112th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-l-l7. Ship: S.S. “Olympic.” | 593-2-29. Date: July 23rd, 1916. |
 | 2 | 634<br>544<br>3157<br>576 |  | Rnnk. |  | Former Corps. |  |  | Country of |
 | 2 | 546<br>689<br>3513<br>722 |  | Lieut.-Colonel. | Tremain, Hadley Brown  | 31st Rcgt  | Tremain, Mrs. Alice  | Windsor, Hants Co., N.S  | CamuU  | Windsor  | July |
 | 2 | 543<br>718<br>3512<br>752 |  | Major   | Bremner, William Frederick D | 81st Regt  | Bremner, Mrs. Maria  | Castle Frederick, Falmouth, Hants Co., N.8.... | Canada....  | Windsor   | July |

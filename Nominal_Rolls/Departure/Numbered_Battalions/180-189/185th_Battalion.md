@@ -3,10 +3,23 @@ title: 185th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+185th. BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men,<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3.X-7-17. Ship: S.S. ‘‘Olympic."<br>
+593-2-29. Date: Octobcr 12th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 185th. BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men, | EMBARKATION | Port: Halifax, N.S. | 3.X-7-17. Ship: S.S. ‘‘Olympic." | 593-2-29. Date: Octobcr 12th, 1916. |
 | 2 | 700<br>529<br>3201<br>559 | Rank. |  | Former Corps. |  |  | ('ountrv of |
 | 2 | 615<br>676<br>3698<br>710 | 1.t.-Colonel... | 1 )av, Prank Parker    | 29 th Drags  | Day, Mrs. Mabel Killan  | 5 South St., Halifax, N.S  | Canada.. | Halifax... | •Inn. | r.. | 1010. |
 | 2 | 614<br>705<br>3699<br>744 | Major  | Harrington. (.Jordon Sidney | DOtli Regt  | Harrington. Mrs. Catherine A. | Halifax, N.S  | Canada.. | Halifax... | {.Inn. | U. | ptlti. |

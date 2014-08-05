@@ -3,10 +3,34 @@ title: 33rd Battalion & 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 19i5 > | JOHN BORYSIUK | 13205 - 123rd Street | Edmonton — Alberta — Canada | Canadian Expeditionary | Force | 33rd BATTALION | also | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | : Port: Halifax, N.S. | 33rd Battalion i Ship: S.S. "Lapland." | | Date: April 1st, 1916. | | Port: Montreal. | 1st Reinforcing Draft ' Ship: S.S. "Scandinavian." | ! Date: July 17th, 1915. | f Port: Montreal. | |0m716 2nd Reinforcing Draft \ Ship: S.S. "Hesperian.” | ll.Q. 593-2-2*>. ( August 17th, 191S. |
+(ISSUED WITH MILITIA ORDERS, 19i5 ><br>
+JOHN BORYSIUK<br>
+13205 - 123rd Street<br>
+Edmonton — Alberta — Canada<br>
+Canadian Expeditionary<br>
+Force<br>
+33rd BATTALION<br>
+also<br>
+1st and 2nd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+: Port: Halifax, N.S.<br>
+33rd Battalion i Ship: S.S. "Lapland."<br>
+| Date: April 1st, 1916.<br>
+| Port: Montreal.<br>
+1st Reinforcing Draft ' Ship: S.S. "Scandinavian."<br>
+! Date: July 17th, 1915.<br>
+f Port: Montreal.<br>
+|0m716 2nd Reinforcing Draft \ Ship: S.S. "Hesperian.”<br>
+ll.Q. 593-2-2*>. ( August 17th, 191S.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 713<br>378<br>3419<br>425 | s ® | ,;Z | Former Corps. |  |  | Country of |
 | 2 | 810<br>529<br>3917<br>568 | Lt.-Colonel  |  | 33rd Regt. | Wilson, Alexander  | Wilson, Mrs. M. E.   | 791 Hellmuth Ave., London, Ont. | Canada.. | London. | Oct. | 22, 1915. |
 | 2 | 807<br>558<br>3917<br>599 | Major  |  | S. A  | Ashplant, William Norman  | Ashplant, Henry Brinsmead  | 307 Waterloo St., London, Ont — | England. | London. | Oct. | 22.1915. |

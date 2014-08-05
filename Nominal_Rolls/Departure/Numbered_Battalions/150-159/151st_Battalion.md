@@ -3,10 +3,34 @@ title: 151st Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | ) tmth militia orders, 19170 | > ■> >' v.i » v | \ , • | V ,,, | jL. ■ ’ : ! 'Y'J'l - | |«! | V' J i . | W; ' ft " ! | :iU\ | I I 1 | i | • . * | nv | Force | 151st BATTALION | Nfominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. "California." | Date: October 3rd, 1916 |
+) tmth militia orders, 19170<br>
+> ■> >' v.i » v<br>
+\ , •<br>
+V ,,,<br>
+jL. ■ ’ : ! 'Y'J'l -<br>
+|«!<br>
+V' J i .<br>
+W; ' ft " !<br>
+:iU\<br>
+I I 1<br>
+i<br>
+• . *<br>
+nv<br>
+Force<br>
+151st BATTALION<br>
+Nfominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. "California."<br>
+Date: October 3rd, 1916
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 547<br>267<br>3061<br>297 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 368<br>302<br>3500<br>337 | t |  |  |  |  |  |  | Place. | Date. |
 | 2 | 459<br>414<br>3552<br>442 |  | Lieut.-Colonel... | Arnott. John Wilson.  |  |  | 11611, 94th St., Edmonton, Alta... | Canada . | Strathcona. | Dec. | 20, 1915. |

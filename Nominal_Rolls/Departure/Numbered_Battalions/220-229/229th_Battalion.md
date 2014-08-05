@@ -3,10 +3,26 @@ title: 229th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, .1917.) | Canadian Expeditionary | Force | 229th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | Port: Halifax, N.S. | Ships S.S. “Northland.” | Date: April 18, 1917. | 3m-9-17. | 593-2-29. | 27432—1 |
+(ISSUED WITH MILITIA ORDERS, .1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+229th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ships S.S. “Northland.”<br>
+Date: April 18, 1917.<br>
+3m-9-17.<br>
+593-2-29.<br>
+27432—1
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 688<br>522<br>3195<br>555 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 606<br>665<br>3687<br>703 |  | Lieut.rColonel.... | Pickett, Henry Davidson.  | 60 th Regt  | Pickett, Mrs. Louisa Isabella  | 1053 Clifton Ave., Moose Jaw, Saak  | Canada...  | Moose Jaw...... | Mar. | 13, 1916 |
 | 2 | 605<br>694<br>3686<br>730 |  | Major.!.....  | Johnson, Archie Laughton.*.  | 60 th Regt  | Johnson, Mrs. Myrtle Meredith B. | Strathroy, Ont *  | Canada...  | Moose Jaw  | May | 25, 1916 |

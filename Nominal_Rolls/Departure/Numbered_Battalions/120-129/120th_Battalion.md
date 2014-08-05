@@ -3,10 +3,24 @@ title: 120th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+120th BATTALION<br>
+• . . ; . . . . ■ . . ’ ’ r<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION1<br>
+Port: Halifax, N.S.<br>
+3m-l2-l6. Ship: S.S. “Empress of Britain."<br>
+593-2-29. Date: August 14th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 120th BATTALION | • . . ; . . . . ■ . . ’ ’ r | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION1 | Port: Halifax, N.S. | 3m-l2-l6. Ship: S.S. “Empress of Britain." | 593-2-29. Date: August 14th, 1916. |
 | 2 | 593<br>546<br>3291<br>589 | Jl |  |  | Former Corps. |  |  | Country cf |
 | 2 | 689<br>702<br>3567<br>733 |  | I.ieut.-Colonel. | Fearman, George Douglas  | 13th Regt | Fearman, Mrs. Charlotte Emma.. | 365 Hess St. S., Hamilton, Ont  | Canada  | Hamilton  |
 | 2 | 689<br>729<br>3783<br>762 |  | Major  | Black, George William  | 13th Regt | Black, Mrs. Rosemary Ella  | Rideau Apts., Hamilton, Ont  | Canada  | Hamilton  | Jan. | 5.1916. |

@@ -3,10 +3,26 @@ title: 211th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+211th BATTALION<br>
+Nominal Roll of Officers, Nofi-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N. S.<br>
+Ship: S.S. “Olympic”<br>
+HJate: Dec. 20th, 1916.<br>
+3m-9-17.<br>
+593-2-29.<br>
+27088—1
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 211th BATTALION | Nominal Roll of Officers, Nofi-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N. S. | Ship: S.S. “Olympic” | HJate: Dec. 20th, 1916. | 3m-9-17. | 593-2-29. | 27088—1 |
 | 2 | 735<br>516<br>3216<br>546 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 640<br>661<br>3740<br>691 |  | Lieut.-Colonel... ■ | Sage, Warren Morrill  | 103rd Regt.. | Sage, Mrs. W. M  | 114 18th Ave. W., Calgary, Alta  | U. S. A  |  | April | 21, | 1915 |
 | 2 | 639<br>689<br>3010<br>722 |  | Major  | Clark, Laurence Erastus..... | 13th Regt.. | Clark, Mrs. Winnifred L. | Emescliffe Apts., Slierboume & Wesley Sts., Toronto, |

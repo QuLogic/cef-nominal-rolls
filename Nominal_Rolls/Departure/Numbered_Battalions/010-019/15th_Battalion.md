@@ -3,10 +3,21 @@ title: 15th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+CANADIAN EXPEDITIONARY FORCE<br>
+FIFTEENTH BATTALION<br>
+NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED<br>
+OFFICERS AND MEN.<br>
+. OTTAWA<br>
+GOVKIINMKNT PjUNTINC RrREAU<br>
+1915
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | CANADIAN EXPEDITIONARY FORCE | FIFTEENTH BATTALION | NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED | OFFICERS AND MEN. | . OTTAWA | GOVKIINMKNT PjUNTINC RrREAU | 1915 |
 | 2 | 875<br>496<br>3860<br>557 | Rep. |  |  |  |  |  | i | (*ounti y | Taken on Strength |
 | 2 | 880<br>555<br>3458<br>595 | No. | Rank. | Name, Surname l'irst. j |  |  | Name of Next of Kin. |  | of |
 | 2 | 885<br>727<br>3860<br>769 | 27010 Signaller  |  | Laird, W illiam  | .(Nil   |  Laird. Mrs J   |  | 20 MiwKli in Avc., Toronto, Ont..   | Seotland.... | . Yalcart ier. | Sept. 22 |

@@ -3,10 +3,26 @@ title: 208th Batalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+208th Battalion<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION.<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “ Justicia.’’<br>
+Date: May 3rd, 1917.<br>
+3m 9->7.<br>
+593t 29.<br>
+27087—1
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 208th Battalion | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION. | Port: Halifax, N.S. | Ship: S.S. “ Justicia.’’ | Date: May 3rd, 1917. | 3m 9->7. | 593t 29. | 27087—1 |
 | 2 | 723<br>593<br>3240<br>629 |  |  | Former Corps. |  | Country of |
 | 2 | 556<br>648<br>3667<br>685 | « |  |  |  |  | Place. | Date. |
 | 2 | 641<br>788<br>3737<br>820 | tlt •   |  |  |  |  |  | Mar. | 17, 1916 |

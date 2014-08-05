@@ -3,10 +3,24 @@ title: 36th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+36th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Montreal.<br>
+Ship: S.S. “ Corsican.’*<br>
+Date: June 19th, 1915.<br>
+4
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 36th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Montreal. | Ship: S.S. “ Corsican.’* | Date: June 19th, 1915. | 4 |
 | 2 | 636<br>542<br>3387<br>582 | JiR |  |  |  | Name of Next of Kin. |  | Country of |
 | 2 | 735<br>696<br>3822<br>727 |  | Liout .-Colonel... | Ashton, Ernest Charles. | 38th Regt. | Ashton, Mrs. Helen Margaret | 122 Darling St., Brantford, Ont. | Canada. | Hamilton.. | May 13, 1915. |
 | 2 | 735<br>725<br>2447<br>756 |  | Major  | Ashton, Alfred Nelles... | 38th Regt. | Ashton, Mrs. Clara Caroline |

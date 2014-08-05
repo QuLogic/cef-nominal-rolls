@@ -3,10 +3,30 @@ title: 8th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+vtfv-r v,<br>
+^ '* ‘'V ■ ''<br>
+** * \<br>
+• f' ,<br>
+;<br>
+!■<br>
+/<br>
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+CANADIAN EXPEDITIONARY FORCE<br>
+:vV<br>
+8th BATTALION.<br>
+V ' 1<br>
+NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED<br>
+OFFICERS AND MEN.<br>
+I0m-4-15.<br>
+[}. 593-2.29.<br>
+78173—1
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | vtfv-r v, | ^ '* ‘'V ■ '' | ** * \ | • f' , | ; | !■ | / | (ISSUED WITH MILITIA ORDERS, 1915.) | CANADIAN EXPEDITIONARY FORCE | :vV | 8th BATTALION. | V ' 1 | NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED | OFFICERS AND MEN. | I0m-4-15. | [}. 593-2.29. | 78173—1 |
 | 2 | <br><br><br> | { .»<V ; | r> f • >-«•: * • , e i »- C | # tjk'tf' ■:UV :> | ‘^ ■ 1 ..... ' • j.'•*»••. A +"*jV | •'"V-S* - / •* ■: | • i7?Kc~- • * | • VsVr'JK *' '.W ' ‘ * | V ,\ c':. | r »*•’ | k *;1 5- | .: £ | MS :* ;r < | ■ • ; ■ | ■•'V. | ?- . | ■*'.■ &u» | ■ >v | y*\'J '^V—; $ | - - 'W/- r„ , -3 ? | ~rot^J <yclA\'/e^JeA. ■: / / £ 3 | ' o//>^ ■ * y | / d-ts/ ^ytiuS-wj-lA /£ o2 6 7 | if * ii | ■ iV ■ ris^v "■ v;^ ^ -V | ’■> ^•• • - • v • ■ • -L ■. y, .■: s r v - . '• •■• ;v ••••;. ; *.v, •■ ,*< .> »«**, | 4w •■ ■ ■ >■• • . ., ■ ■ ■ - . • .• • •• •••.• • • .. •v '•.« . •: • .;• " •'- •-• *.<• • *■ ■ . 1' ■ ••'•4 • • | :w■ ^ *■*■■■” • •i3* “ ^ | ;A ' • • >• v- ’ jts?, ’• ....•,< ■••/■':' * ■-• ■ ■ . ■ | 'V:V* . ■ •Mi*'.'-; •■.'"■ ’:’i: •>■' -. | r„'.u ■■ ■ ••••v.Mi-Vv. ' - •• | K •...• ., .. • , ;viV-- v. . ..- ■• . t. V,-j. - .. | •' .. :•.-. •>.-.■•. .. •' . i • ' ••/ ; ' v . . ', • f | ":V ’ ; '• V ■ | '■ \ ' r . . - . ' • •• . • i t. * | - ■ . ■ ” • •• •• , V!. ■ -. "' • '■ : ■ - >■’< ’ *■ •• ' •• | , ” . & •? ■■ ■ , ■■•'-. ■ '■ - | ' * ... I , MM ' | 03 | . ■ •; • f . >• v" | * i • H* ••; . -'ii V; ■ V- 'rlA | ■ •••;00. • | • .. -'i 5 | :* • • T ■.■’. .W' , . ; • r tj-ir. i’. 4;«* | - V • i. '' | :.t r Vi ‘ • a.-\ • | •-■ • t ■ | *" :'’'V | .-i: ’ | j • | •- • - >’« • . > ' •• •/.. \- | *. s • • ■ ,. Vfy -•' * i • • | ■y*"■■•••■■■'■ :;s / ^ | -i v1'.• V ^ ' ■ . . . • V -w:.;. ,v^ v:. | -• ■: | ^ ft ■>*£. | ^ ...... , . - . •'r . -." *»i. » » • . » | .V• „■ • / • ' • ' * > : >'•- i-:i ■ ' | • • • ’ , ' *’• * 4 ’ > ■ ',5 ■' •■ ’• . !• ••"*'• •• •' ?' ’ •■" • ^ '■ ' .'' | •v ' •' v "•• . *><?&':, ' • ' v, ■ • - • - - | ' ■ •• • ■' ... k | I.?-.,-. '■• ’ •; ^ S . •• . / | ■i. ' - | » Svj. -• | cnj(\'r£^ dPi(\L | _ tl fn Aj b £ l: ft <b i£ | Vol’ll (SAN LUU iM | ' ■ V - * - ..' . ’ r • ■ | / . * ' V-. |
 | 3 | 1116<br>604<br>3536<br>639 | Rank. | Name (Surname first). |  | Name of Next of Kin. |  | of |
 | 3 | 1043<br>781<br>3289<br>816 | Lt .-Colonel  | Lipsett, Louis James  | Perm. Force  | .. Lipsett, Mrs   | ‘The Cottage,” near Merthyr Tydvil, Wales.. |

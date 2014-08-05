@@ -3,10 +3,23 @@ title: 125th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 191?.)<br>
+125th<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men. ii<br>
+3m-I*17.<br>
+593-2-2?.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.ii<br>
+Ship: S.S. " Scandinavian.'<br>
+Date: August 7th, 1*916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 191?.) | 125th | Nominal Roll of Officers, Non-Commissioned | Officers and Men. ii | 3m-I*17. | 593-2-2?. | EMBARKATION | Port: Halifax, N.S.ii | Ship: S.S. " Scandinavian.' | Date: August 7th, 1*916. |
 | 2 | 566<br>524<br>3268<br>594 | M |  |  | Former Corps. |
 | 2 | 664<br>706<br>3764<br>735 |  | Lieut.-Colonel— | Cutcliffe, Mostyn Elton B  |  |  | Mar. | 3,1916. |
 | 2 | 664<br>736<br>3765<br>763 |  | Major  |  |  |  | Jan. | 10, 1916. |

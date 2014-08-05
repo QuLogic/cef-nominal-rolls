@@ -3,10 +3,26 @@ title: CMR 6th Regiment
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+><br>
+PK is<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+6th REGIMENT<br>
+Canadian Mounted Rifles<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Quebec, P.Q.<br>
+3w.ij.17. ' Ship: S.S. "Herschel.<br>
+SW-2-29. Date: July 17th, 1915.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | > | PK is | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 6th REGIMENT | Canadian Mounted Rifles | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Quebec, P.Q. | 3w.ij.17. ' Ship: S.S. "Herschel. | SW-2-29. Date: July 17th, 1915. |
 | 2 | 706<br>572<br>3200<br>602 |  |  | Former Corps. |  |  |  | Country of |
 | 2 | 551<br>613<br>3640<br>639 | <D |  |  |  |  |  |  | Place. | Date. |
 | 2 | 629<br>712<br>3694<br>748 | Lieut.-Coloncl  | Iiyan, Robert Holden  | 14 th Huss. and S | A.. | Ryan. James W  | Kentvillc, King’s Co., N.S  | Canada. | Kentville.. | Feb. | 1915. |

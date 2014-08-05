@@ -3,10 +3,22 @@ title: 5th Batallion & 2nd Brigade HQ
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+2nd Infantry Brigade Headquarters :<br>
+and<br>
+5th Ba ttalion > .<br>
+: f.ff; : P •<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 2nd Infantry Brigade Headquarters : | and | 5th Ba ttalion > . | : f.ff; : P • | Nominal Roll of Officers, Non-Commissioned | Officers and Men. |
 | 2 | <br><br><br> |  |
 | 3 | 616<br>478<br>3187<br>510 |  |  |  | Name of Next of Kin. |  | Country of |
 | 3 | 525<br>624<br>3619<br>655 | Lieut.-Colonel. | Currie, Arthur William.. | Can. Militia. | Currie, Lucy Sophia..... | 1114 Alston St., Victoria, B.C. | Canada. | Val cartier.. | Sept. 25, 1914. |

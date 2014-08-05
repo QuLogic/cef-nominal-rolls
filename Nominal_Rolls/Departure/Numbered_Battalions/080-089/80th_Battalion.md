@@ -3,10 +3,25 @@ title: 80th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 80th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 10m-9-16. | 593-2-29. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “Baltic.” | Date: May 20th, 1916. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+80th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+10m-9-16.<br>
+593-2-29.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “Baltic.”<br>
+Date: May 20th, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 373<br>431<br>3054<br>496 | u |  |  | Former Corps. |  |  | Country of |
 | 2 | 458<br>610<br>3554<br>641 |  | Lieut.-Colonel.. | Ketcheson, William Gilbert  | 49th Regt. . . | Ketcheson, Mrs. Hannah Elizabeth | R.F.D. No. 1, Foxboro, Ont  | Canada  | Barrifield  | Oct. | , 1915. |
 | 2 | 457<br>640<br>3552<br>676 |  | Major  | Alger, Harry Herbert .  | 49 th Regt... | Alger, Mrs. Alberta C  | Stirling, Ont  | Canada  | Barriefield C’p | Oct. | , 1915. |

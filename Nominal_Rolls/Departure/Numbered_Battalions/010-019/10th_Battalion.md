@@ -3,10 +3,20 @@ title: 10th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS. 1915).<br>
+CANADIAN EXPEDITIONARY FORCE.<br>
+10th BATTALION<br>
+NOMINAL ROLL OF OFFICERS. NON-COMMISSIONED<br>
+OFFICERS AND MEN.<br>
+10id« S-15.<br>
+H.Q. 593-2-29.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS. 1915). | CANADIAN EXPEDITIONARY FORCE. | 10th BATTALION | NOMINAL ROLL OF OFFICERS. NON-COMMISSIONED | OFFICERS AND MEN. | 10id« S-15. | H.Q. 593-2-29. |
 | 2 | 741<br>901<br>3236<br>940 | Hank. |  | Former Corps. | Name of Next-of-Kin. |  | of |
 | 2 | 3182<br>933<br>3682<br>962 |  |  |  |  |  | Birth. | Date. |
 | 2 | 830<br>1050<br>3742<br>1087 | Lt.-Col. | Hoyle, Russell Lambert... | 15th Horse  | Boyle, Laura Wight Mrs  | Crossfield, Alta  | Canada.. |

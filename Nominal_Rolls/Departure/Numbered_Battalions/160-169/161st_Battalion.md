@@ -3,10 +3,23 @@ title: 161st Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+161st BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-l-17 Ship: S.S. “Lapland."<br>
+593-2-29 Date: October 30th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 161st BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-l-17 Ship: S.S. “Lapland." | 593-2-29 Date: October 30th, 1916. |
 | 2 | 560<br>543<br>3258<br>582 | is |  |  | Former Corps. |  |  | Country of |
 | 2 | 662<br>694<br>3752<br>726 |  | Lieut.-Colonel... | Combe, Hugh Barry  | 33rd Regt. .. | Combe, Mrs. Julia Isabel  | Clinton, Ont  | Canada... | Clinton  | Dec. | 15, 1915. |
 | 2 | 662<br>723<br>3752<br>756 |  | Major  | Campbell, Herbert  | 33rd Regt | Campbell, Mrs. Florence Edna... . | Wingham, Ont  | Canada.. | Wingham  | Dec. | 10, 1915. |

@@ -3,10 +3,25 @@ title: 64th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+Vinr i It 1ft<br>
+1<br>
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+64th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax.<br>
+lOra-S-16. Ship: S.S. ‘‘Adriatic.”<br>
+ssi-2-29. Date: March 31st, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | Vinr i It 1ft | 1 | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 64th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax. | lOra-S-16. Ship: S.S. ‘‘Adriatic.” | ssi-2-29. Date: March 31st, 1916. |
 | 2 | 630<br>544<br>3151<br>575 |  |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 541<br>688<br>3354<br>732 |  | Licut.-Colonel | Campbell. IT. Montgomery. . | C.G.A... | [Campbell, Laura M  | Fox Hill, Apohacjui, Kings Co., N.B.. | Canada  | Halifax.... |
 | 2 | 540<br>723<br>3355<br>754 |  | Major  | Flowers, ilenry  |  | Flowers, Mrs. Annie B  | 250 Smith St., Halifax. N.S  | Canade .... | Sussex  |

@@ -3,10 +3,33 @@ title: 232nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 232nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 3m-9-17. | 595-2-29. | 232nd Battalion | 3 Officers, 164 Other Ranks (Detail) | EMBARKATION | Port: Halifax, N.S. | Ship: S. S. “Northland.” | Date: April 18th, 1917. | f Port: | Ship: | Date: | Halifax, N.S. | S.S. “ Olympic." | June 2nd, 1917. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+232nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+3m-9-17.<br>
+595-2-29.<br>
+232nd Battalion<br>
+3 Officers, 164 Other Ranks (Detail)<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S. S. “Northland.”<br>
+Date: April 18th, 1917.<br>
+f Port:<br>
+Ship:<br>
+Date:<br>
+Halifax, N.S.<br>
+S.S. “ Olympic."<br>
+June 2nd, 1917.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 719<br>578<br>3218<br>610 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 634<br>722<br>3711<br>754 |  | Lieut-Colonel... | Laurie, Reginald Peter  | 52nd Regt   | Laurie, Mrs. Maud Georgina  | 124 East 19th St., Prince Albert, Sask  | Canada.. | Prince Albert... | Feb. | 1, 1915. |
 | 2 | 634<br>751<br>3711<br>785 |  | Major.   | Haffner, Edward Brian  | 100th Regt..;  | Haffner, Alberta T. G   | 900 Grosvenor Ave., Winnipeg, Man  | Canada.. | N. Battleford... | Mar. | 28, 1916. |

@@ -3,10 +3,26 @@ title: 242nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+242nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N. S.<br>
+Ship: S.S. “Mauretania.”<br>
+Date: Nov. 23rd, 1916.<br>
+3m-9.!7.<br>
+593-2-29.<br>
+27434—1
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 242nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N. S. | Ship: S.S. “Mauretania.” | Date: Nov. 23rd, 1916. | 3m-9.!7. | 593-2-29. | 27434—1 |
 | 2 | 545<br>505<br>3228<br>553 | Si |  |  | Former Corps. |  |  | Country uf |
 | 2 | 632<br>667<br>3723<br>699 |  | Lieut.-Colonel... | White, John Burton  | 17th Hussars  | White, Mrs. Margaret Jane  | 500 Prince Albert Ave., Westinount, P.Q... | Canada  | O ttawa  | Mar. | 16, | 1916 |
 | 2 | 631<br>696<br>3722<br>727 |  | Major  | Donnelly, John Badcnock  | 3rd Rcgt  | Donnelly, Horace  | 8 York St., St. Catherines, Ont  | Canada  | Valcartier... | Sept. | 3, | 1915 |

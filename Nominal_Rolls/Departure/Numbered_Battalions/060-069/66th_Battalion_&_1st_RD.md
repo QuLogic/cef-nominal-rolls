@@ -3,10 +3,54 @@ title: 66th Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH | JM.ILITIA ORDERS, I**5-) | JOHN BORYSIUK | J3205 - 123rd Street | Edmonton — Alberta — Canada | Force | v *. | r | s | CO | qO | «o | I | 66th BATTALION | ' *£**. | 'J * | t . | » | j C | I i::i | t • . *« | * % | * r t* • .Ji , | ■r: u.T-::-' . ^?,U -tf, | ' - v *■ C . *■ •?? 1 . ‘ - | ■ ; . - i>r V | ' • ..... ■ ■ • _ | • || | Nominal Roll of Officers, Non-Commissioned | ~ r V 1| | Officers and Men. ''r | » | 10®-9-16. | 593-2-29. | EMBARKATION | I Port: Halifax, N.S. | Ship: S.S. “Olympic." . | Date: April 28th, 1916. | (Port: Montreal, P.Q. | Ship: S.S. 11 Metagama.” | Date: September 11th, 1915. |
+(ISSUED WITH<br>
+JM.ILITIA ORDERS, I**5-)<br>
+JOHN BORYSIUK<br>
+J3205 - 123rd Street<br>
+Edmonton — Alberta — Canada<br>
+Force<br>
+v *.<br>
+r<br>
+s<br>
+CO<br>
+qO<br>
+«o<br>
+I<br>
+66th BATTALION<br>
+' *£**.<br>
+'J *<br>
+t .<br>
+»<br>
+j C<br>
+I i::i<br>
+t • . *«<br>
+* %<br>
+* r t* • .Ji ,<br>
+■r: u.T-::-' . ^?,U -tf,<br>
+' - v *■ C . *■ •?? 1 . ‘ -<br>
+■ ; . - i>r V<br>
+' • ..... ■ ■ • _<br>
+• ||<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+~ r V 1|<br>
+Officers and Men. ''r<br>
+»<br>
+10®-9-16.<br>
+593-2-29.<br>
+EMBARKATION<br>
+I Port: Halifax, N.S.<br>
+Ship: S.S. “Olympic." .<br>
+Date: April 28th, 1916.<br>
+(Port: Montreal, P.Q.<br>
+Ship: S.S. 11 Metagama.”<br>
+Date: September 11th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 624<br>513<br>3161<br>546 |  |  | Former Corps. |  |  | Country of |
 | 2 | 533<br>657<br>3650<br>694 | Lieut.-Colonel.... | McKinery, John William H. | Can. Mil  | McKinery/Mrs. Gertrude. | c/o Canadian Bank of Commerce, Edmonton, Alta  | Ireland  | Edmonton  | April | 1916. |
 | 2 | 534<br>687<br>3651<br>723 | Major  | Durrand, George  | 90th Regt  | Durrand, Mrs. Bernioe B. | 250,1st Ave. N.E., Edmonton, Alta  | Scotland  | Edmonton  | June | 1915. |

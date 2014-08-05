@@ -3,10 +3,23 @@ title: 6th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915)<br>
+Canadian Expeditionary<br>
+Force<br>
+tu<br>
+Lk<br>
+6th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+10m-3-15<br>
+H.D. 593-2-29
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915) | Canadian Expeditionary | Force | tu | Lk | 6th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 10m-3-15 | H.D. 593-2-29 |
 | 2 | 691<br>754<br>3296<br>787 |  |  |  | Name of Next of Kin. |  | Country of |
 | 2 | 603<br>902<br>3729<br>934 | Lt.-Col  | Paterson, Robert Walter  | 34th Horse  | Paterson, Mrs. Lilly... | 116 Wilmot Place, Winnipeg, Man  | Canada... | Valcartier. | 24, 1914. |
 | 2 | 602<br>926<br>3729<br>963 | Major  | Dingwall, Frederick James  | 34th Horse  | Dingwall, M. C  | Suite 2, Kingswood, Winnipeg, Man  | Canada... | Valcartier. | 25, 1914. |

@@ -3,10 +3,23 @@ title: 11th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+ISSUED WITH MILITIA ORDERS, 1915.<br>
+JOHN BORYSIUK<br>
+13205 ■ 123rd Street<br>
+Edmonton - Alberta - Canada<br>
+Canadian Expeditionary Force<br>
+ELEVENTH BATTALION<br>
+NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED<br>
+OFFICERS AND MEN.<br>
+10m. 2-15.<br>
+H.Q. ,Vi: 1-2-29.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | ISSUED WITH MILITIA ORDERS, 1915. | JOHN BORYSIUK | 13205 ■ 123rd Street | Edmonton - Alberta - Canada | Canadian Expeditionary Force | ELEVENTH BATTALION | NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED | OFFICERS AND MEN. | 10m. 2-15. | H.Q. ,Vi: 1-2-29. |
 | 2 | 584<br>837<br>3204<br>871 | Reg. i | Rank. | Name, Surname first. |  | Name of Next of Kin. |  | of |
 | 2 | 678<br>1048<br>2913<br>1079 |  | Lt.-Coloncl  | Burritt, R  | 100th Rcgt  | Burritt, ELic G  | 93!) Dorchester Ave., Winnipeg, Man  |
 | 2 | 675<br>1072<br>3607<br>1111 |  | Lt.-Coloncl  | Shannon, Kdward G  | ,52nd Rcgt  | Shannon, Mrs. Margaret A | j 143 20th St. W., Prince Albert, Sask  | Canada... | . Yalcartier. | 'Sept. 23 |

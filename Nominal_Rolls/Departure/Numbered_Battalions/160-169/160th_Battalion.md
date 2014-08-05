@@ -3,10 +3,23 @@ title: 160th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+160th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-9-i7. Ship: S.S. 11 Metagama.”<br>
+593-2’2S>' Date: October 19th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 160th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-9-i7. Ship: S.S. 11 Metagama.” | 593-2’2S>' Date: October 19th, 1916. |
 | 2 | 591<br>538<br>3256<br>582 | £& |  | Former Corps. |  |  | Country of |
 | 2 | 675<br>694<br>3749<br>729 | Lieut.-Colonel... | Weir, Adam  | 32nd Rcgt  | Weir, Mrs. Kate J  | Port Credit, Ont  | Canada.., | London  | Aug. 4, | 1916. |
 | 2 | 674<br>722<br>3748<br>758 | Major  | Chadwick, Henry McLean  | 32nd Regt  | Chadwick, Mrs. Kate  | Teeswater, Ont  | Canada... | Walkerton  | June. 9, | 1916. |

@@ -3,10 +3,23 @@ title: 147th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+147th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3X1-1-17. Ship: S.S. “Olympic."<br>
+593-2-29. Date: November 14th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 147th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3X1-1-17. Ship: S.S. “Olympic." | 593-2-29. Date: November 14th, 1916. |
 | 2 | 736<br>588<br>3246<br>619 |  |  |  | Former Corps. | Country of |
 | 2 | 647<br>733<br>3737<br>757 |  | Lieut.-Colonel.... |  |  |  |  | Feb | 3 | 1916. |
 | 2 | 3543<br>763<br>3738<br>786 |  |  |  |  |  |  | Feb | 0 | 1916. |

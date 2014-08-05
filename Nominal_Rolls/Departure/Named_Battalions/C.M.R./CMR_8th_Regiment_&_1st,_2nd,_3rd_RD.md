@@ -3,10 +3,37 @@ title: CMR 8th Regiment & 1st, 2nd, 3rd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1914.) | Canadian Expeditionary | Force | 8th Regiment Canadian | Mounted Rifles | also | 1st, 2nd and 3rd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Montreal. | 8th Regiment C.M.R. ^ Ship: S.S. “ Missanabie.' | Date: October 8th, 1915. | Port: Montreal. | 1st Reinforcing Draft ■! Ship: S.S. “Hesperian." | Date: June 10th, 1915. | Port: Montreal. | 2nd Reinforcing Draft ^ Ship: S.S. "Hesperian." | Date: July 17th, 1915. | 10m-12-16. | 593-2-29. | Port: Montreal. | 3rd Reinforcing Draft =j Ship: S.S. “ Elele." | Date: August 23rd, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1914.)<br>
+Canadian Expeditionary<br>
+Force<br>
+8th Regiment Canadian<br>
+Mounted Rifles<br>
+also<br>
+1st, 2nd and 3rd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Montreal.<br>
+8th Regiment C.M.R. ^ Ship: S.S. “ Missanabie.'<br>
+Date: October 8th, 1915.<br>
+Port: Montreal.<br>
+1st Reinforcing Draft ■! Ship: S.S. “Hesperian."<br>
+Date: June 10th, 1915.<br>
+Port: Montreal.<br>
+2nd Reinforcing Draft ^ Ship: S.S. "Hesperian."<br>
+Date: July 17th, 1915.<br>
+10m-12-16.<br>
+593-2-29.<br>
+Port: Montreal.<br>
+3rd Reinforcing Draft =j Ship: S.S. “ Elele."<br>
+Date: August 23rd, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 767<br>582<br>3274<br>618 |  |  | Former Corps. |  | Country of |
 | 2 | 677<br>727<br>3766<br>762 |  | Munro, John Routh  |  | 230 Clemow Ave., Ottawa, Ont  | Canada  | Ottawa  | Jan. | , 1915. |
 | 2 | 2284<br>760<br>3766<br>791 |  |  |  | 201a Beverley St., Toronto, Ont  | Canada  | Toronto  | Feb. | , 1915. |

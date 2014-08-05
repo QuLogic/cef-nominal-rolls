@@ -3,10 +3,30 @@ title: 95th Regiment 1st RD (Saskatchewan Rifles)
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | \ | ✓ | ( | 95th REGIMENT | 1st Reinforcing Draft | Sas /cal’tkfcWAN. | 44 , | Nominal Roll of Officers, Non-Commissioned | % | Officers and Men. | EMBARKATION | Port: Halil ax, U.S. | 3m-io.,7. Ship: S.S. “ Saionia." | S93-2-29. • Date: March 28th, 1917 |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+\<br>
+✓<br>
+(<br>
+95th REGIMENT<br>
+1st Reinforcing Draft<br>
+Sas /cal’tkfcWAN.<br>
+44 ,<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+%<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halil ax, U.S.<br>
+3m-io.,7. Ship: S.S. “ Saionia."<br>
+S93-2-29. • Date: March 28th, 1917
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 453<br>582<br>2965<br>613 |  |  | Former Corps. |  |  | Country of |
 | 2 | 298<br>626<br>3402<br>650 | a |  |  |  |  |  | Place. | Date. |
 | 2 | 2776<br>726<br>3456<br>753 |  |  |  |  |  | rreland  | Regina  | Aug. 5, 1916. |

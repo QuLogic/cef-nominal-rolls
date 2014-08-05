@@ -3,10 +3,25 @@ title: 143rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+000<br>
+USHT ^<br>
+• Canadian Expeditionary<br>
+• Force<br>
+143rd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+f Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “Southland.”<br>
+593-2 29 Date: February 17th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | 000 | USHT ^ | • Canadian Expeditionary | • Force | 143rd BATTALION | Nominal Roll of Officers, Non-Commissioned | f Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “Southland.” | 593-2 29 Date: February 17th, 1917. |
 | 2 | 510<br>568<br>3007<br>599 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 423<br>714<br>3499<br>744 |  | Lieut.-Colonel... | Powley, Alan Bruce  |  | Powley, Mrs. Eva Constance  |  |  |  | June 3, 19lG. |
 | 2 | 422<br>743<br>3498<br>773 |  | Major  |  |  | Gore Langton, Mrs. Irene Monica. |  |  |  | May 25,1910. | Gore Langton, Norman Eric  | Cobble Hill, B.C  |

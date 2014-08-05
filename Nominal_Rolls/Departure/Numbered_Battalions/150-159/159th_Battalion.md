@@ -3,10 +3,23 @@ title: 159th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+159th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-2-17. Ship: S.S. “ Empress of Britain.”<br>
+593-2-29. Date: October 31st, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 159th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-2-17. Ship: S.S. “ Empress of Britain.” | 593-2-29. Date: October 31st, 1916. |
 | 2 | 836<br>534<br>3337<br>564 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 746<br>677<br>3834<br>709 |  | Lieut.-Colonel  | Armstrong, Ernest Frederick  | 97th Regt  | Armstrong, Mrs. Edna Maud  | P.O. Box 197, Cobalt, Ont  | Canada  | Haileybury  | May | 18, 1916. |
 | 2 | 746<br>706<br>3835<br>737 |  | Major  | Arthur, Robert Hugh  | 97th Regt  | Arthur, Mrs. Anna Louise  | 8 Burlington Cres., Toronto, Ont  | Canada  | Haileybury  | Dec. | 1, 1915. |

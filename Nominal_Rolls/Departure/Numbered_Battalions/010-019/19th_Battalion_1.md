@@ -3,10 +3,30 @@ title: 19th Battalion 1
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (issued with Militia orders, 1915.) | 1 "N | r orce |     | . . ft | - ■ .■ . k . • ■ • ' • *v | w3k . ■ . : v ■ ■ | 19th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | ]Om-7-15. | H Q. 593-2-29. | ■ ‘-.f | kiiMi | gtev- ' i, | . . ■;:*> ••'■>} | •' • v",-1.■ ts? |
+(issued with Militia orders, 1915.)<br>
+1 "N<br>
+r orce<br>
+   <br>
+. . ft<br>
+- ■ .■ . k . • ■ • ' • *v<br>
+w3k . ■ . : v ■ ■<br>
+19th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+]Om-7-15.<br>
+H Q. 593-2-29.<br>
+■ ‘-.f<br>
+kiiMi<br>
+gtev- ' i,<br>
+. . ■;:*> ••'■>}<br>
+•' • v",-1.■ ts?
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 1054<br>791<br>2861<br>822 |  |  | Name of Next of Kin, |
 | 2 | 568<br>936<br>3017<br>967 |  |  |  | 272 Aberdeen Ave., Hamilton, Ont.  \ | . McLaren, Mrs. B. S  | , McLaren, John Inglis  | Lt.-Col  |
 | 2 | 566<br>966<br>3015<br>996 |  |  |  | 12 Ontario Ave., Hamilton, Ont..... ... i.. • • • • • | . Turnbull, Mrs. J. M...... | Turnbull, William Robert. | Major, i... |

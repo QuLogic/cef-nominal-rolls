@@ -3,10 +3,23 @@ title: 155th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS. 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+155th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-1.17, Ship: S.S. “Northland.”<br>
+593-2-29. Date: October 17th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS. 1917.) | Canadian Expeditionary | Force | 155th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-1.17, Ship: S.S. “Northland.” | 593-2-29. Date: October 17th, 1916. |
 | 2 | 745<br>601<br>3330<br>630 |  | Former Corps. | Name of Next of Kin. |
 | 2 | 669<br>750<br>3839<br>778 |  |  |  |  | Belleville  | Jan. 19, 1910. |
 | 2 | 1459<br>840<br>3838<br>870 |  |  |  |  |  | Jan. 17, 1916. | 16th Regt. and S.A... | Picton  |

@@ -3,10 +3,23 @@ title: 144th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+144th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “Olympic.”<br>
+Date: September 18tli, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 144th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “Olympic.” | Date: September 18tli, 1916. |
 | 2 | 594<br>542<br>3306<br>579 | .@fc |  |  | Former Corps. |  |  | Country of |
 | 2 | 692<br>692<br>3803<br>727 |  | Lieut.-Colonel... | Morley, Arthur Willans  | 8th Bn. C.E.F• | Morley, Mrs. Gertrude Marion... | 259 Bell Ave., Winnipeg, Man  | Canada  | Winnipeg  | Nov. 24, 1915. |
 | 2 | 691<br>723<br>3803<br>756 |  | Major    | Codville, Francis Hilary M.. | R.C.D  | Codville, J. J    | 443 Daly Ave., Ottawa, Ont  | Canada  | Valcartier C’p.. | Sept. 24, 1914. |

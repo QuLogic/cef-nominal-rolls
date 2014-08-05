@@ -3,10 +3,21 @@ title: 3rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915)<br>
+CANADIAN EXPEDITIONARY FORCE<br>
+THIRD BATTALION<br>
+10m. 1-15<br>
+II Q. 5(13-3-29.<br>
+NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED<br>
+OFFICERS AND MEN.<br>
+73536—1
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915) | CANADIAN EXPEDITIONARY FORCE | THIRD BATTALION | 10m. 1-15 | II Q. 5(13-3-29. | NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED | OFFICERS AND MEN. | 73536—1 |
 | 2 | 922<br>677<br>3511<br>714 | Reg. | Rank. | Name, Surname Hist. | N»use cf Next of Kin. |  | of |
 | 2 | 3451<br>706<br>3896<br>732 |  |  |  |  |  | Birth. | Placo | Date |
 | 2 | 1015<br>881<br>3912<br>916 | Lt.-Col   | Rennie, Robert  | 2nd Regt  | Real ie, Marion A  | 37 Castle, Frank Rd., Rosedale, Toronto, Ont Canada  |  | Valcartier. J | Sept. 22 |

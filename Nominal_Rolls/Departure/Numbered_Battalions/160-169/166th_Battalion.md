@@ -3,10 +3,26 @@ title: 166th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 191?.) | Canadian Expeditionary | Force | 166th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | « f Port: Halifax, N.S. | 19 Officers, 485 Other Ranks j Ship: S.S. “Olympic." | [Date: October 12th, 1916. | [ Port: Halifax, N.S. | 14 Officers, 374 Other Ranks < Ship: S.S. “ Cameronia.” | [ Date: October 17th, 1916. |
+(ISSUED WITH MILITIA ORDERS, 191?.)<br>
+Canadian Expeditionary<br>
+Force<br>
+166th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+« f Port: Halifax, N.S.<br>
+19 Officers, 485 Other Ranks j Ship: S.S. “Olympic."<br>
+[Date: October 12th, 1916.<br>
+[ Port: Halifax, N.S.<br>
+14 Officers, 374 Other Ranks < Ship: S.S. “ Cameronia.”<br>
+[ Date: October 17th, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 473<br>509<br>3172<br>562 | 11 |  |  | Former Corps. |  |  | Country of |
 | 2 | 572<br>675<br>3666<br>708 |  | Lieut.-Colonel. | Mitchell, William George  | 2nd Regt  | Mitchell, Mrs. Minnie M  | 108 Madison Ave., Toronto, Ont  | Canada  | Toronto  | Jan. | 17, 1916. |
 | 2 | 571<br>704<br>3661<br>737 |  | Major  | Connery, Francis Courtney  | 2nd Regt  | Connery, Mrs. Gertrude Edith  | 541 Palmerston Ave., Toronto, Ont  | Canada  | Toronto  | April | 8, 1916 |

@@ -3,10 +3,26 @@ title: 173rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+173rd BATTALION<br>
+5.<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. "Olympic."<br>
+Date: November 14th, 1916.<br>
+3m-4-17<br>
+593-2-29
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 173rd BATTALION | 5. | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. "Olympic." | Date: November 14th, 1916. | 3m-4-17 | 593-2-29 |
 | 2 | 766<br>534<br>3258<br>567 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 679<br>677<br>3755<br>717 |  | Lieufc.-Colonel  | Bruce, Walter Hamilton  | 91st Regt..  | Bruce, Mrs. Annie Evelyn......... |  | Canada    |  | Mar. | 17 | 1916. |
 | 2 | 679<br>707<br>3755<br>744 |  |  |  |  | Childs, Mrs. Josie Doris ,......... | Major  | Childs, William Henry N  | 91st Regt. and S.A  | Feb. | 14 | 1916. |

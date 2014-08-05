@@ -3,10 +3,28 @@ title: 123rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 123rd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | f Port: Halifax, N.S. | 12 Officers,. 3.69 Other Ranks < Ship:. S. S. “ Cameronia." | DateJ August- 7th, 1S16. | 3m-l-17. | 593-2-29. | ( Port.:.- Halifax, N.S. | Ship: S'.S'. ‘"MTetagama." | Date; August 8th, li916. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+123rd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+f Port: Halifax, N.S.<br>
+12 Officers,. 3.69 Other Ranks < Ship:. S. S. “ Cameronia."<br>
+DateJ August- 7th, 1S16.<br>
+3m-l-17.<br>
+593-2-29.<br>
+( Port.:.- Halifax, N.S.<br>
+Ship: S'.S'. ‘"MTetagama."<br>
+Date; August 8th, li916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 586<br>603<br>3270<br>647 | eg |  | Former Corps. |  |  | Country of |
 | 2 | 675<br>762<br>3763<br>792 | Liout.-Colonel | Kingsmill, Walter Bernard  | 10 th Regt  | Kingsmill, Mrs. Winnifred Sara... | 74 Castle Frank Rd., Toronto, Ont  | Canada  | Toronto  | Jan. | 1916. |
 | 2 | 674<br>791<br>3763<br>825 | Major   | Boone, Charles Armel  | S.A. and 10th Regt | Boone, Mrs. Dorothy Lynn.. | 170 Crescent Rd., Toronto, Ont  | Canada  | Toronto  | Jan. | 1916. |

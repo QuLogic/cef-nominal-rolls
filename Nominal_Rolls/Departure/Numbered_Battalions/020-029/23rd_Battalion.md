@@ -3,10 +3,23 @@ title: 23rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1914.)<br>
+Canadian Expeditionary<br>
+Force<br>
+23rd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax.<br>
+lOm-9-16. Ship: S.S. " Missanabie."<br>
+593-2-29. Date: February 23rd, 1915.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1914.) | Canadian Expeditionary | Force | 23rd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax. | lOm-9-16. Ship: S.S. " Missanabie." | 593-2-29. Date: February 23rd, 1915. |
 | 2 | 852<br>545<br>3336<br>582 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 766<br>691<br>3829<br>729 |  | Lieut.-Colonel... | Bowen, Frederick Chamberlin.. | 53rd Regt | Bowen, Mrs. F. W. W  | Sherbrooke, P.Q  | Canada.. |  | Dec. | 3 | 1914. |
 | 2 | 765<br>721<br>3829<br>758 |  | Lieut.-Colonel... | Fisher, Frank William  | 3rd Regt  | Fisher, Mrs. Moneta Bertha. | 4344 Westmount Ave., Westmount, P.Q  | England. |  | Dec. | 3 | 1914. |

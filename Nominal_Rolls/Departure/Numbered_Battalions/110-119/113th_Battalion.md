@@ -3,10 +3,23 @@ title: 113th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+113th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-l-17. . Ship: S.S. “Tuscania."<br>
+S93-2-29. Date: September 25th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 113th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-l-17. . Ship: S.S. “Tuscania." | S93-2-29. Date: September 25th, 1916. |
 | 2 | 916<br>444<br>3548<br>475 | Hank. |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 788<br>598<br>4063<br>629 | / I Li^ut .-Colonel. | Pryec-Jones. Albert West head .. | iloth Horse  | Prvce-Jones. Mrs. I< | Neuk Roehampton, London, S.W., Eng  | Wales.... | Calgary  | July | 11, 1910. |
 | 2 | 774<br>622<br>4062<br>664 | > Major  | Hardisty, Henry Earl  | ; 101 st Regt  | !Hardisty, H. E  | 470, loth St., Edmonton, Alta  | Canada... | Lethbridge  | Dec. | 22. 1915. |

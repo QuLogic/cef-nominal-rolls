@@ -3,10 +3,23 @@ title: 214th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+214th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+• EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-9-l7. Ship: S.S. “Grampian."<br>
+593-2-29. Date: April 18th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 214th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | • EMBARKATION | Port: Halifax, N.S. | 3m-9-l7. Ship: S.S. “Grampian." | 593-2-29. Date: April 18th, 1917. |
 | 2 | 789<br>787<br>3470<br>829 | e c |  | Former Corps. |  |  | Country of |
 | 2 | 864<br>938<br>3894<br>975 | Lieut.-Colonel. | fleam. John Harvey  | C.M  | Hearn, Mrs. Sarah A  | Wadena, Sask   | Canada... | Wadena  | Nov. 10, |
 | 2 | 864<br>967<br>3894<br>1004 | M ajor   | de Balinhnrd, John Carnatic.. | R.O  | do Bnlinhard, Mrs. Jessio C... | Yorkton, Sask  | England.. | ‘Wadena  | M ay 30, |

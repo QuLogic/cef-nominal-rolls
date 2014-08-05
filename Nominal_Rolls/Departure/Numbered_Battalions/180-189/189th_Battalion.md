@@ -3,10 +3,27 @@ title: 189th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | <SK<vuTy | JOHN BORYSIUK | 13205 - 123rd Street | Ed monton — Alberta — Canada | Canadian Expeditionary | Force | 189th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | KMBAK KATION | I’oit: Halifax, N.S. | Ship: S.S. "Lapland.” | Date: September 27th, 1916. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+<SK<vuTy<br>
+JOHN BORYSIUK<br>
+13205 - 123rd Street<br>
+Ed monton — Alberta — Canada<br>
+Canadian Expeditionary<br>
+Force<br>
+189th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+KMBAK KATION<br>
+I’oit: Halifax, N.S.<br>
+Ship: S.S. "Lapland.”<br>
+Date: September 27th, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 775<br>507<br>3289<br>539 | Hank. |  | Former Corps. |  |  | Country of |
 | 2 | 693<br>653<br>3784<br>686 | L»e*t -Colonel | Piuze, Philippe Auguste... | ,.F.A.... | Pitt*c. Mrs. Anita Chasse  | Fraserville, P.Q  | Canada  | Valcartier.. | Sept. | 20, J0J6. |
 | 2 | 691<br>679<br>3784<br>714 | M ajor  | Fecteau. Joseph Alphonse. | !s9th Regt, | Fecteau, Mrs. Emelio Myrand.. | 19 St. Ansel me St., Quebec, P.Q.. | Canada  | Valcartier. . | June | 27, 1916. |

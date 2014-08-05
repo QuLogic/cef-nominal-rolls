@@ -3,10 +3,23 @@ title: 131st Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.')<br>
+Canadian Expeditionary<br>
+Force<br>
+131st BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-l-l7. ' Ship: S.S. "Caronia."<br>
+593-2-29. Date: October 31st, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.') | Canadian Expeditionary | Force | 131st BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-l-l7. ' Ship: S.S. "Caronia." | 593-2-29. Date: October 31st, 1916. |
 | 2 | 577<br>576<br>3271<br>612 | Jfc |  |  | Former Corps. |  |  | Country of |
 | 2 | 675<br>724<br>3761<br>760 |  | Lieut.-Colonel | Taylor, James Davis  | 104 th Regt  | Taylor, Mrs. Janie Henderson.. | 212, 3rd Ave., New Westminster, B.C  | Canada  | New Westm'ter | May | 1916. |
 | 2 | 674<br>754<br>3761<br>788 |  | Major  | Corbould, Gordon Bruce  | 104th Regt. & S.A. .. | Corbould, Mrs. Maud Agnes... | 217 Queens Ave., New Westminster, B.C  | England  | New Westm'ter | May | 1916. |

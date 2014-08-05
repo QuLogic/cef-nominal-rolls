@@ -3,10 +3,23 @@ title: 69th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+Canadian Kxpeditionary<br>
+Force<br>
+69th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: St. John, N.B.<br>
+10m-8-l6. Ship: S.S. "Scandinavian.”<br>
+593-2-29. Date: April 17th, 1916.<br>
+il.. ■ 7$ >_/ #' At
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | Canadian Kxpeditionary | Force | 69th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: St. John, N.B. | 10m-8-l6. Ship: S.S. "Scandinavian.” | 593-2-29. Date: April 17th, 1916. | il.. ■ 7$ >_/ #' At |
 | 2 | 694<br>659<br>3327<br>690 | z, |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 1029<br>804<br>3307<br>833 |  | Darsereau, Joseph Adolphe  | C.F.A  | Dansereau, C. A  : | “Ritz Carlton,” Montreal, P.Q  | Canada  |
 | 2 | 1849<br>891<br>3308<br>921 |  |  |  | Williams, Mrs. J. B  | “Penrose,” Argyll Rd., Swanage, Dorset, Eng  | India  |

@@ -3,10 +3,24 @@ title: PPCLI Reinforcements JACK
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Kxpeditionary<br>
+Force<br>
+Princess Patricia’s Canadian<br>
+Light Infantry<br>
+(Reinforcements)<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+-6-15.<br>
+. 593-2-29.<br>
+I.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Kxpeditionary | Force | Princess Patricia’s Canadian | Light Infantry | (Reinforcements) | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | -6-15. | . 593-2-29. | I. |
 | 2 | 633<br>645<br>3203<br>677 |  |  | Former Corps (if any). | Name of Next of Kin. |  | Country of |
 | 2 | 1326<br>854<br>3601<br>883 |  |  | Nil  |  |  |  | Winnipeg... | .Ian. 1, 1915. |
 | 2 | 1323<br>1147<br>3603<br>1175 |  |  | S. A  |  |  |  | Winnipeg... | .Ian. 7, 1915. |

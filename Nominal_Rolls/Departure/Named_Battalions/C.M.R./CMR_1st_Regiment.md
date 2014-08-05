@@ -3,10 +3,24 @@ title: CMR 1st Regiment
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+1st Regiment Canadian<br>
+Mounted Rifles<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Montreal.<br>
+Ship: S.S. “Megantic."<br>
+Date: June 12th, 1915,
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 1st Regiment Canadian | Mounted Rifles | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Montreal. | Ship: S.S. “Megantic." | Date: June 12th, 1915, |
 | 2 | 778<br>580<br>3277<br>612 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 691<br>724<br>2277<br>756 |  | Lieut.-Col.. | Sissons, Francis O  | Further particulars wi | 11 be furnished when available  |
 | 2 | 690<br>751<br>3770<br>793 |  | Lieut.-Col.. | Young, Ainslie Lauham  | 12th Drag... | Young, Mrs. Isabel   | Souris, Man ._  | England  | Winnipeg  | Nov. | 8, 1914. |

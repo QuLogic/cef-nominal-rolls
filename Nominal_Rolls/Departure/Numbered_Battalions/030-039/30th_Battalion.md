@@ -3,10 +3,26 @@ title: 30th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.,) | Canadian Expeditionary | Force | 30th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax. | f “ Borderland.” | Ships: S.Ss. < “ Megan tic." | I “ Missanabie." | Date: February 33rd, 1915, | I |
+(ISSUED WITH MILITIA ORDERS, 1915.,)<br>
+Canadian Expeditionary<br>
+Force<br>
+30th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax.<br>
+f “ Borderland.”<br>
+Ships: S.Ss. < “ Megan tic."<br>
+I “ Missanabie."<br>
+Date: February 33rd, 1915,<br>
+I
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 1235<br>523<br>3336<br>553 |  |  | Former Corps. |  |  | Country of |
 | 2 | 1039<br>668<br>3341<br>698 |  | Hall, John Albert  | 88 th Regt  | Hall, Mrs. A  | Longstone, Thoburn P.O., Esquimalt, B.C  | England  |
 | 2 | 1039<br>698<br>3340<br>727 |  | De Salis, Charles Frederick dela F. | S. A  | De Salis, Mrs. F. M   | 10 Magdalen Rd., Hastings, Sussex, Eng  | England  |

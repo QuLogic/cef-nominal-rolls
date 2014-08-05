@@ -3,10 +3,23 @@ title: 89th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+PUtD WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+89th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Pori: Halifax, N.S.<br>
+Ship: S.S. "Olympic."<br>
+Date: June 2nd, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | PUtD WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 89th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Pori: Halifax, N.S. | Ship: S.S. "Olympic." | Date: June 2nd, 1916. |
 | 2 | 310<br>555<br>2994<br>593 | .i'z, |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 408<br>708<br>3487<br>742 | Lieut.-Colonel | Nasmyth, William Wylie  | S. A  | Nasmyth, Mrs. Helen Carlyle.... | 170 Janette Ave., Windsor, Ont  | Canada... | Calgary.. .. | Nov. | 3, 1915. |
 | 2 | 407<br>738<br>3488<br>772 | Major  | Mac Rea, Duncan A  | 101st Regt  | MacRea, Mrs. Janet  | Aylesbury, Sask  | Canada.. | Calgary . .. | Dec. | 1915. |

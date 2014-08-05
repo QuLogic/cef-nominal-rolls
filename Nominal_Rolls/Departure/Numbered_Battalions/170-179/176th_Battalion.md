@@ -3,10 +3,23 @@ title: 176th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+176th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+.Port: Halifax, N.S.<br>
+Ship: S.S. "Olympic."<br>
+Date: April 29th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 176th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | .Port: Halifax, N.S. | Ship: S.S. "Olympic." | Date: April 29th, 1917. |
 | 2 | 604<br>535<br>3268<br>595 | !l | Hank. | Former Corps. |  |  | Country of |
 | 2 | 943<br>705<br>3765<br>742 |  | Sharpe, Donald   | 2nd Drags . | Sharpe, Mrs. Bertha  | Welland, Ont  | Canada. | St. Catharines.. | Jan. | 20 | 1916. |
 | 2 | 942<br>734<br>3765<br>772 |  | Batcheller, George. .   | 24th Horse. | Batcheller, Mrs. George   | Ingersoll, Ont    | Canada. | 3t. Catharines.. | Feb. | 13 | 1916. |

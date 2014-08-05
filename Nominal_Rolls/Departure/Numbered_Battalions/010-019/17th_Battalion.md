@@ -3,10 +3,20 @@ title: 17th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Lx<br>
+Force<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+I0m-4-lS.<br>
+H O- 593-2-29.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Lx | Force | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | I0m-4-lS. | H O- 593-2-29. |
 | 2 | 636<br>581<br>3213<br>613 |  |  |  | Name of Next of Kin. |  | Country of |
 | 2 | 826<br>759<br>3646<br>788 |  |  |  |  |  |  |  | Sept. 22, 1914. | Cameron, Daniel Duncan......... | Salt Springs. N.8  | Vaieart ier.. |
 | 2 | 826<br>789<br>3646<br>817 |  |  |  |  |  |  |  | Sept. 28. 1911. | Murray, Dunicl  | Valcartier.. |

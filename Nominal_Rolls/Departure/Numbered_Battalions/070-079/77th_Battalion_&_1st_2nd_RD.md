@@ -3,10 +3,36 @@ title: 77th Battalion & 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 77th BATTALION | also | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 77th Battalion | 1st Reinforcing Draft | 2nd Reinforcing Draft | Port: | Ship: | EMBARKATION | Halifax, N.S. | 5.5. “ Missanabie.” | June 19th, 1916. | Quebec. | 5.5. “ California.” | October 23rd, 1915. | Halifax, N.S. | 5.5. “ Chaudiere.” | n--.'inlvr 3rd |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+77th BATTALION<br>
+also<br>
+1st and 2nd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+77th Battalion<br>
+1st Reinforcing Draft<br>
+2nd Reinforcing Draft<br>
+Port:<br>
+Ship:<br>
+EMBARKATION<br>
+Halifax, N.S.<br>
+5.5. “ Missanabie.”<br>
+June 19th, 1916.<br>
+Quebec.<br>
+5.5. “ California.”<br>
+October 23rd, 1915.<br>
+Halifax, N.S.<br>
+5.5. “ Chaudiere.”<br>
+n--.'inlvr 3rd
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 764<br>682<br>3247<br>714 | Rank. |  | Former Corps. |  |  | Country of |
 | 2 | 696<br>824<br>3741<br>861 | ieut.-CoIonel.... | Street, D. uglas Richmond  | (J.G | .F.G... | Street, Mrs. Elizabeth B  | 327 Somerset St., Ottawa, Ont  | Canada  | Ottawa.. | July | 1915. |
 | 2 | 691<br>848<br>3741<br>891 | tajor  | Bowie, Kerry William  | G.G | .F.G... | Bowie, Mrs. Helen Louise  | 426 Queen St., Ottawa, Ont  | Canada  | Ottawa.. | Aug. | 1915. |

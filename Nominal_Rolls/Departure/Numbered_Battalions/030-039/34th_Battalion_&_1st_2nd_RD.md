@@ -3,10 +3,35 @@ title: 34th Battalion & 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | > | (ISSUED WITH MILITIA ORDERS, 1915.) | JOHN BORYSIUK | 13205 - 123rd Street | Edmonton — Alberta - Canada | Canadian Kxpeditionary | Force | 34th BATTALION | also | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | I Port: Quebec. | Ship: S.S. " California." | Date: October 23rd, 1915. | f Port Montreal. | 1st Reinforcing Draft j Ship: S.S. “Corsican." | [ Date: June 19th, 1915. | (Port: Montreal. | Ship: S.S. "Hesperian." | Date: August 17th, 1915. |
+><br>
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+JOHN BORYSIUK<br>
+13205 - 123rd Street<br>
+Edmonton — Alberta - Canada<br>
+Canadian Kxpeditionary<br>
+Force<br>
+34th BATTALION<br>
+also<br>
+1st and 2nd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+I Port: Quebec.<br>
+Ship: S.S. " California."<br>
+Date: October 23rd, 1915.<br>
+f Port Montreal.<br>
+1st Reinforcing Draft j Ship: S.S. “Corsican."<br>
+[ Date: June 19th, 1915.<br>
+(Port: Montreal.<br>
+Ship: S.S. "Hesperian."<br>
+Date: August 17th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 782<br>559<br>3312<br>590 |  |  | Former Corps. |
 | 2 | 693<br>704<br>3814<br>736 | Lieut.-Col.. | Oliver, Andrew Joseph  | 29 th Regt  | Oliver, Mrs. Margaret  | Park Ave., Galt, Ont  | Sept. 20, 1915. |
 | 2 | 693<br>736<br>3813<br>764 | Lieut.-Col.. | Douglas, William James  | 32nd Regt  | Douglas, Mrs. Mary  |  | Sept. 22, 1915. |

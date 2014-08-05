@@ -3,10 +3,23 @@ title: 142nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+142nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+• Port: Halifax, N.S.<br>
+JOm-1-17.   Ship: S.S. “Southland."<br>
+593-2-297 Date: October 31st, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 142nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | • Port: Halifax, N.S. | JOm-1-17.   Ship: S.S. “Southland." | 593-2-297 Date: October 31st, 1916. |
 | 2 | 786<br>554<br>3294<br>584 |  |  | Formor Corps. |  |  | Country of |
 | 2 | 695<br>697<br>3790<br>730 | Lieut.-Colonel... | Graham. Charles Milton R  | 7th Regt  | Graham, Mrs. Ida Wells  | 645 Waterloo St., London, Ont  | Canada.. | Camp Borden... | Aug. | 1916. |
 | 2 | 694<br>725<br>3789<br>760 | Major  | Fisher, Frederick St. Clair  | 7th Regt  | Fisher, Col. C. E. H  | Waterloo St., London, Ont    | Canada.. | London  | May | 1916. |

@@ -3,10 +3,26 @@ title: 35th Battalion & 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+JOHN BORYSIUK<br>
+13205 - 123rd Street<br>
+Edmonton — Alberta — Canada<br>
+Canadian Expeditionary<br>
+Force<br>
+35th BATTALION<br>
+‘Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port I Montreal.<br>
+Ship: S.S. " Metagama."<br>
+Date: October, 16th, 1915.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | JOHN BORYSIUK | 13205 - 123rd Street | Edmonton — Alberta — Canada | Canadian Expeditionary | Force | 35th BATTALION | ‘Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port I Montreal. | Ship: S.S. " Metagama." | Date: October, 16th, 1915. |
 | 2 | 565<br>509<br>3314<br>550 | Jz |  |  |  | Name of Next of Kin. |  | Country of |
 | 2 | 664<br>651<br>3754<br>690 |  | Lieut.-Col. | McCordick, Frank Case  | 19th Regt. | McCordick, Mrs. May B.... | Cor. Yate <t Adam Sts., St. Catharines, Ont. | Canada.. | Toronto... | Nov. 13, 1914. |
 | 2 | 663<br>680<br>3752<br>719 |  | Major  | Dunham, Frederick Harold.. | 12th Regt. | Dunham, Mrs. Norma J.... | 32 Oakmount Blvd., Toronto, Ont  | Canada.. | Toronto... | April 20, 1915. |

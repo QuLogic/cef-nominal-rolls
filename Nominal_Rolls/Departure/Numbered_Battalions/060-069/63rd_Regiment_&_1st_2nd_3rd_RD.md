@@ -3,10 +3,40 @@ title: 63rd Regiment & 1st 2nd 3rd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1918.) | Canadian Expeditionary | • * : i | - Force ^-'MM$ | •2 - ' | i« . | CP | 63rd REGIMENT j| » | 1st, 2nd and 3rd Reinforcing Drafts | ; | Nominal Roll of Officers, Non-Commissioned | Officers and Men. - | EMBARKATION | 3tn-U.|7. | 593-2 | 1st Reinforcing Draft | 2nd Reinforcing Draft | 3rd Reinforcing Draft | Port: Halifax, N.S. | Ship: S.S. " JVLissanabie." | Date: January 22nd, 1916. | Port^St. John, N.B. | Ship: S.S. "Missanabie." | Date: February 26th, 1916.'~ | Port: Halifax, N.S. | Ship: S.S. **Empress of Britain.’ | Date: July 15th, 1916. |
+(ISSUED WITH MILITIA ORDERS, 1918.)<br>
+Canadian Expeditionary<br>
+• * : i<br>
+- Force ^-'MM$<br>
+•2 - '<br>
+i« .<br>
+CP<br>
+63rd REGIMENT j| »<br>
+1st, 2nd and 3rd Reinforcing Drafts<br>
+;<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men. -<br>
+EMBARKATION<br>
+3tn-U.|7.<br>
+593-2<br>
+1st Reinforcing Draft<br>
+2nd Reinforcing Draft<br>
+3rd Reinforcing Draft<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. " JVLissanabie."<br>
+Date: January 22nd, 1916.<br>
+Port^St. John, N.B.<br>
+Ship: S.S. "Missanabie."<br>
+Date: February 26th, 1916.'~<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. **Empress of Britain.’<br>
+Date: July 15th, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 429<br>677<br>3134<br>709 | .5/5 |  |  | I'ormer Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 515<br>826<br>3648<br>859 |  | Lieutenant. | Bennett, Carl Norwood  | 63rd Rcgt. | Bonnett, Walter Roy  | 15 Vernon St., Halifax, N.S   ;... | U.S.A  | McNabb’s Is. | Jan. | 3, 1918. |
 | 2 | 515<br>857<br>3648<br>889 |  | Lieutenant. | Macdonald, Roderick Churchill... | 03rd Rcgt. | Macdonald, Roderick  | 377 Brunswick St., Halifax, N.S   | Canada  | McNabb’s Is. | Jan. | 3, 1916. |

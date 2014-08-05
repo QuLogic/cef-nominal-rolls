@@ -3,10 +3,21 @@ title: 14th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+\<br>
+(ISSUED WITH MILITIA ORDERS. 1915).<br>
+CANADIAN EXPEDITIONARY FORCE.<br>
+I<br>
+14 th BATTALION<br>
+NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED<br>
+OFFICERS AND MEN.<br>
+10m. 3-15.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | \ | (ISSUED WITH MILITIA ORDERS. 1915). | CANADIAN EXPEDITIONARY FORCE. | I | 14 th BATTALION | NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED | OFFICERS AND MEN. | 10m. 3-15. |
 | 2 | 946<br>898<br>3022<br>931 | Rank. | Former Corps. |
 | 2 | 820<br>933<br>3756<br>958 | c |  |  |  | Birth. | Place. | Date. |
 | 2 | 906<br>1043<br>3815<br>1079 | Lt.-Col.... |  |  |  |  | Yal cartier.... | Sept. 23 1914 |

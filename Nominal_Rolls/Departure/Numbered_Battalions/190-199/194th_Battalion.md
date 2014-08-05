@@ -3,10 +3,23 @@ title: 194th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+194th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+* Port: Halifax, N.S.<br>
+3m-9-l7. Ship: S.S. “Olympic.”<br>
+593-2*29. Date: November 14th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 194th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | * Port: Halifax, N.S. | 3m-9-l7. Ship: S.S. “Olympic.” | 593-2*29. Date: November 14th, 1916. |
 | 2 | 600<br>536<br>3260<br>586 | II |  | Former Corps |  |  | Country of |
 | 2 | 682<br>696<br>3753<br>732 | Lieut.-Colonel... | Craig, William Caldwell.   | 19th Drags  | Craig, R. L   | Vermilion, Alta  | Canada  | Edmonton.... | Feb. | 12.1916. |
 | 2 | 682<br>725<br>3753<br>761 | Major  | Dawson, Herbert B.....    | 19th Drags 6 | Dawson, Mrs. Helen M  | 412, 2nd Ave. N.E., Edmonton, Alta  | Scotland  | Edmonton  | June | 29, 1915. |

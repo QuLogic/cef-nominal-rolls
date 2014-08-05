@@ -3,10 +3,62 @@ title: 48th Battalion aka 3rd Pioneer
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED .WITH .MILITIA ORDERS, 1915.) | i?7— ^-o^SSSSKfc,: ;..• • | * .•; --S3;S^asSK?*..; • . | • ■■ -*r ,%'r*h ' "■’• . | y \ h.' * *• •*• — »*£vap .. _. . | v » ¥ v. ** | • t t »: -rt *• V f • | 7.t >»3»jfy £•>»*» ••• | *jr>V *•'*• ’-T *. ■.'* | v . john BO«y#i^, | ♦rsf i** -i'iijf.PS?**'??'? ■> • Edmonton | >*’. • • ■ | • ».• - »• .'. * \ | ■ '^-V w w u: U J, ^ | Force | :!'ir | mm .. | >tpf. tL~ | v -3,-. | »3rd | W' | »r'tv > .1, *. | t**. Ps>:\ | :/■ v-v . | ■ : ... 5: '•• *'?.•..» ?** .;.. | : ;fFormerly 48th Battalion) | . •?■■]&:■}.:■ | ■ - | • ^ .'***• <» *- - | :&.■&*}:: | ■ - : : : ,1 | . ... •-• - it ‘.(i iJf.yKir-*.■■ ■• | >..-i<\u\<aaSSkx c= v. - y. ..;..- '. • •/. j >. t» ;; .. | ^ v<t • , --^ib. . | -... . : . .r-_ | • >r.~*r-,lom^-u. -.V.c —      — | ' EMBARKATION | ; !?i? sr >r/:~v Port: Montreal.. | V Ship;.. S.s. •• Gri | i-.ss’ | -V s-.r | Jfev | 'iiw"'-..'- - | Grampian.** | Date: Juljr lit, 1915. | ■■£-*ulr£ | CD | 00 | I |
+(ISSUED .WITH .MILITIA ORDERS, 1915.)<br>
+i?7— ^-o^SSSSKfc,: ;..• •<br>
+* .•; --S3;S^asSK?*..; • .<br>
+• ■■ -*r ,%'r*h ' "■’• .<br>
+y \ h.' * *• •*• — »*£vap .. _. .<br>
+v » ¥ v. **<br>
+• t t »: -rt *• V f •<br>
+7.t >»3»jfy £•>»*» •••<br>
+*jr>V *•'*• ’-T *. ■.'*<br>
+v . john BO«y#i^,<br>
+♦rsf i** -i'iijf.PS?**'??'? ■> • Edmonton<br>
+>*’. • • ■<br>
+• ».• - »• .'. * \<br>
+■ '^-V w w u: U J, ^<br>
+Force<br>
+:!'ir<br>
+mm ..<br>
+>tpf. tL~<br>
+v -3,-.<br>
+»3rd<br>
+W'<br>
+»r'tv > .1, *.<br>
+t**. Ps>:\<br>
+:/■ v-v .<br>
+■ : ... 5: '•• *'?.•..» ?** .;..<br>
+: ;fFormerly 48th Battalion)<br>
+. •?■■]&:■}.:■<br>
+■ -<br>
+• ^ .'***• <» *- -<br>
+:&.■&*}::<br>
+■ - : : : ,1<br>
+. ... •-• - it ‘.(i iJf.yKir-*.■■ ■•<br>
+>..-i<\u\<aaSSkx c= v. - y. ..;..- '. • •/. j >. t» ;; ..<br>
+^ v<t • , --^ib. .<br>
+-... . : . .r-_<br>
+• >r.~*r-,lom^-u. -.V.c —      —<br>
+' EMBARKATION<br>
+; !?i? sr >r/:~v Port: Montreal..<br>
+V Ship;.. S.s. •• Gri<br>
+i-.ss’<br>
+-V s-.r<br>
+Jfev<br>
+'iiw"'-..'- -<br>
+Grampian.**<br>
+Date: Juljr lit, 1915.<br>
+■■£-*ulr£<br>
+CD<br>
+00<br>
+I
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 376<br>523<br>3501<br>599 | 1 |  |  |  |  |  |  | Taum om Brannon. |
 | 2 | 382<br>586<br>3068<br>636 | Jl. | , Jj. TUak. |  |  | Name of Next of Kin. |  | Country of |
 | 2 | 479<br>716<br>3566<br>778 |  |  | Holme., W. J. | Lt-Colooal.. | 102nd'Regtl’.'t't’L | 1234 Pleasant Aye., Oak Bay. Victoria, B.C..;,.... | Canadf)...':; | Shorneliffe. .',.1 | Aug. I,'1911,' |

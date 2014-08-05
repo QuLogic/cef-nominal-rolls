@@ -3,10 +3,26 @@ title: 31st Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Force | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | s EMBARKATION | f Port: Quebec. | 40 Officers, 1033 Other Ranks \ Ship: S.S. “ Carpathis.” | [ Date: May 17th, 1915. | ) Port: Montreal. | lOm-2-17 * Officer, 89 Other Ranks \ Ship: S.S. “Northland.” | 593-2-29. . Date: May 29th, 1915. | I . . ' | * :r;.t |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Force<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+s EMBARKATION<br>
+f Port: Quebec.<br>
+40 Officers, 1033 Other Ranks \ Ship: S.S. “ Carpathis.”<br>
+[ Date: May 17th, 1915.<br>
+) Port: Montreal.<br>
+lOm-2-17 * Officer, 89 Other Ranks \ Ship: S.S. “Northland.”<br>
+593-2-29. . Date: May 29th, 1915.<br>
+I . . '<br>
+* :r;.t
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 677<br>616<br>3207<br>651 |  |  | Former Corps. |  |  | Country of |
 | 2 | 585<br>757<br>3699<br>796 | Licut.-Cok>neI.. | Bell, Arthur Henry.. D50-CM&.. | L.S.H  | Ball. Ellen  | “ Wigivam,” Calgary, Alta  | Ireland  | Calgary... | Nov. 17, | 1914. |
 | 2 | 584<br>791<br>3699<br>826 | Major  | Daly, Patrick Joseph 050- ■ | 103rd Regt  | Daly, Alice Ann  | 711, 12th Ave. V*'., Calgary, Alta   | Ireland  | Calgary... | Nov. 17, | 1914. |

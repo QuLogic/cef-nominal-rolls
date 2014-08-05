@@ -3,6 +3,7 @@ title: 14th Battalion (Royal Montreal Regiment - Honours, Awards & Itinerary)
 wide: wide
 ---
 
+## Tables
 {% raw %}
 | Page | Bounds | | |
 | --- | --- | --- | --- |

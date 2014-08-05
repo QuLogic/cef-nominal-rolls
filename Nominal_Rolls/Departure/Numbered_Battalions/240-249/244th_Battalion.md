@@ -3,10 +3,25 @@ title: 244th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1918)<br>
+Canadian Expeditionary<br>
+Force<br>
+244tk BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Skip : S.S. "Lapland.<br>
+3m-9-17<br>
+Date : MarcL 28, 1917<br>
+i
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1918) | Canadian Expeditionary | Force | 244tk BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | Port: Halifax, N.S. | Skip : S.S. "Lapland. | 3m-9-17 | Date : MarcL 28, 1917 | i |
 | 2 | 678<br>451<br>2793<br>479 |  | Rank. |  | Former Corps |
 | 2 | 522<br>503<br>3624<br>526 | v> |  |  |  |  |  |  | Place. | Date. |
 | 2 | 887<br>630<br>3694<br>664 |  |  | zie      | 3rd Regt. | McRobie, Mrs. Susie  | 647 Grosvenor Ave., Westmount, P.Q Canada |  |  | June | 12, | 1916 |

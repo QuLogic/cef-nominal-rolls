@@ -3,10 +3,26 @@ title: 93rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+93rd BATTALION<br>
+j<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+; I X i 'j ><br>
+,<br>
+i EMBARKATION<br>
+i' -• - Port: Halifax, N.S.<br>
+iom-io-16. ■ Ship: S.S. “ Empresi of Britain.”<br>
+J9J-2-29. . Date: July 15th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 93rd BATTALION | j | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | ; I X i 'j > | , | i EMBARKATION | i' -• - Port: Halifax, N.S. | iom-io-16. ■ Ship: S.S. “ Empresi of Britain.” | J9J-2-29. . Date: July 15th, 1916. |
 | 2 | 615<br>610<br>3092<br>644 |  |  |  | Former Corps |  |  | Country < |
 | 2 | 528<br>754<br>3604<br>788 |  | Lieut.-Colonel.... | Johnston, Thoma.-* James  | .'!rd Drags  | Johnston, Mrs. Fannie A   | R.R. No. 7. Peterboro', Ont  | Canada  | Peterboro’. | Jan. | IS, 1818. |
 | 2 | 525<br>784<br>3604<br>819 |  | Hon. Major  | Davidson, John Cbeyr.e   | 57th Regt  | Davidson, Mrs. F. Maude ... | The Rectory, Peterboro’, Ont  | Canada  | Peterboro’. | Mar. | 0, 1918. |

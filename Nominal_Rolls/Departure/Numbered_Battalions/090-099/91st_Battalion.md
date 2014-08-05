@@ -3,10 +3,25 @@ title: 91st Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+91st BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+If<br>
+Officers and Men.<br>
+KMbarkXxxon<br>
+Port: Halifax?!!^.<br>
+Ship: S.S.<br>
+Dates June 29th,<br>
+' ' s.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 91st BATTALION | Nominal Roll of Officers, Non-Commissioned | If | Officers and Men. | KMbarkXxxon | Port: Halifax?!!^. | Ship: S.S. | Dates June 29th, | ' ' s. |
 | 2 | 435<br>757<br>3517<br>792 | Lieut.-Colonel | Green, William James *  | .A  | Green, Mrs. Olive E  | 40 Roseberry PI., St. Thomas, Out  | Canada.   | St. Thomas.. . | Nov. 2#, 1915. |
 | 2 | 435<br>787<br>3518<br>820 | Major  | Med calf, Alfred Edward  | 25th Regt. | Med calf, Mrs. Alice Maud ... | 44 East St., St. Thomas, Ont  | Canada.  | St. Thomas  | Nov. 25, 1915. |
 | 2 | 433<br>816<br>3517<br>849 | Major  | Stacey, George  | 25th Regt.. | Stacey, Mrs. Mavolian M  . | St. Thomas, Ont  | Canada.  | St. Thomas... | June 12, 1916. |

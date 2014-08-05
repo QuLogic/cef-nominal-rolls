@@ -3,10 +3,26 @@ title: 216th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 216th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men, | EMBARKATION | f Port: Halifax, N.S. | < Ship: S.S. “Scandinavian." | ( Date: April 18th, 1917. | [ Port: Halifax, N.S. | Detail I Ship: S.S. “Justicia.” | ^ Date: May 3rd, 1917. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+216th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men,<br>
+EMBARKATION<br>
+f Port: Halifax, N.S.<br>
+< Ship: S.S. “Scandinavian."<br>
+( Date: April 18th, 1917.<br>
+[ Port: Halifax, N.S.<br>
+Detail I Ship: S.S. “Justicia.”<br>
+^ Date: May 3rd, 1917.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 752<br>580<br>2829<br>614 |  |  | Former Corps. |
 | 2 | 3060<br>717<br>3752<br>745 |  |  |  |  |  | Canada  | Toronto. | Feb. 17, 1916. |
 | 2 | 669<br>725<br>3045<br>758 | Lieut.-Colonel... | Burton, Frank Lindsay  | 9th Horse  | Burton, Mrs. MUdred Maud  | Ill Farnham Ave., Toronto, Ont  |

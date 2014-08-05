@@ -3,10 +3,23 @@ title: 44th Battalion & 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.;<br>
+Canadian Expeditionary<br>
+Force<br>
+44th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax.<br>
+10m-1-16. Ship: S.S. "Lapland.”<br>
+H.Q. S93-2-29. Date: October 23rd, 1915.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.; | Canadian Expeditionary | Force | 44th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax. | 10m-1-16. Ship: S.S. "Lapland.” | H.Q. S93-2-29. Date: October 23rd, 1915. |
 | 2 | 854<br>512<br>3338<br>545 |  |  |  | Former Corps. |  |  | Countiy of |
 | 2 | 765<br>628<br>3834<br>662 |  | Lieut.-Col... | Wayland, Edward Robert. . .. | 96th Regt.. | Wayland, Mrs. Amelia Gertrude. | Fort William, Ont  | England  | Winnipeg  | Nov. | 4, 1914. |
 | 2 | 765<br>657<br>3834<br>690 |  | Hon. Major. | Gillies, Alexander  | S.A  | Gillies, Sarah  | 11 IJlsler Apts., Grange Ave., Toronto, Ont  | Canada  | Winnipeg  | April | 3, 1915. |

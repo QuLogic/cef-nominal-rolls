@@ -3,10 +3,36 @@ title: CMR 12th Regiment & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | I | (ISSUED WITH MILITIA ORDERS, 1917.) * | V v | Canadian Expeditionary | Force | 12th Regiment, Canadian | Mounted Rifles | and | 1st Reinfoidng Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 12th Regiment, Canadian Mounted Rifles | EMBARKATION | Port: Montreal, P.Q. | Ship: S.S. " Missanafiie.” | Date: October Sti, 19i5. | 3m-10-17. | 593-2-29. | 1st Reinforcing Draft | Port: Montreal, P.Q. | Ship: S.S. "Elele.” | Date: August 23rd, 1915. | ita.. |
+I<br>
+(ISSUED WITH MILITIA ORDERS, 1917.) *<br>
+V v<br>
+Canadian Expeditionary<br>
+Force<br>
+12th Regiment, Canadian<br>
+Mounted Rifles<br>
+and<br>
+1st Reinfoidng Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+12th Regiment, Canadian Mounted Rifles<br>
+EMBARKATION<br>
+Port: Montreal, P.Q.<br>
+Ship: S.S. " Missanafiie.”<br>
+Date: October Sti, 19i5.<br>
+3m-10-17.<br>
+593-2-29.<br>
+1st Reinforcing Draft<br>
+Port: Montreal, P.Q.<br>
+Ship: S.S. "Elele.”<br>
+Date: August 23rd, 1915.<br>
+ita..
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 764<br>551<br>3273<br>584 |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 685<br>695<br>3771<br>730 | Lieut.-Colonel... | MacDonald, George  | 15th Horse  | MacDonald, Mrs. Mary  | 120, 6th Ave. E., Calgary, Alta  | Scotland  | Calgary  | Jan. | 2 | 1915. |
 | 2 | 683<br>724<br>3770<br>758 | Major....  | Gaetz, Harold Leonard  | 35th Horse  | Gaetz, Mrs. Elizabeth G  | Red Deer, Alta  | Canada  | Red Deer  | Jan. | 2 | 1915. |

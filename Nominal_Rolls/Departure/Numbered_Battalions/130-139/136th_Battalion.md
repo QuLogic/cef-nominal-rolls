@@ -3,10 +3,23 @@ title: 136th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS. 1917/)<br>
+Canadian Expeditionary<br>
+Force<br>
+136th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+■ Port:. Halifax, N.S.<br>
+3m-l2-i6. Ship : S.S. “ Corsican.”<br>
+593-2-29. Date: September 25th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS. 1917/) | Canadian Expeditionary | Force | 136th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | ■ Port:. Halifax, N.S. | 3m-l2-i6. Ship : S.S. “ Corsican.” | 593-2-29. Date: September 25th, 1916. |
 | 2 | 568<br>586<br>3258<br>627 | .§z |  |  | Former Corps. |  |  | Country of |
 | 2 | 667<br>736<br>3756<br>771 |  | Lieut.-Colonel.... | Smart, Robert Wallace.     | 46th Regt... | Smart, Mrs. G. A  | P.O. Box 651, Port Hope, Ont  | Canada... | Port Hope  | May | 26, 1916. |
 | 2 | 665<br>765<br>3756<br>799 |  | Major  | Anderson, Charles Harrison M  | 46th Regt... | Anderson, Mrs. Lilia Frances  | Bowmanville, Ont  | Canada... | Bowmanville... | Jan. | 20, 1916. |

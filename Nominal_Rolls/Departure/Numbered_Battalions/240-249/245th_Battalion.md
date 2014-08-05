@@ -3,10 +3,23 @@ title: 245th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+245th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+jni-9-iT. Ship: S.S. “Justicia."<br>
+593-2-29. Date: May 3rd, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 245th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | jni-9-iT. Ship: S.S. “Justicia." | 593-2-29. Date: May 3rd, 1917. |
 | 2 | 577<br>486<br>3240<br>516 | £Z |  | Former Corps. |  |  | Country of |
 | 2 | 657<br>632<br>3032<br>661 | Lieut.-Colonel... | Ballantyne. Charles Colquhoun... |  |  | 678 Mountain St., Montreal, P.Q  |
 | 2 | 656<br>720<br>3734<br>748 | Hon. Captain  |  |  |  |  | U.S.A  |  | July 30, 1916. |

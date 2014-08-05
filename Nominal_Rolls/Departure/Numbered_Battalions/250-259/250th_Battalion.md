@@ -3,8 +3,7 @@ title: 250th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | |
-| --- | --- | --- |
-| 1 | <br><br><br> | Ajo |
+Ajo
 {% endraw %}

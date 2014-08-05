@@ -3,10 +3,25 @@ title: 195th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+195th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+3ra-2-17.<br>
+593.2-2?.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “Empress of Britain.<br>
+Date: October 31st, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 195th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 3ra-2-17. | 593.2-2?. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “Empress of Britain. | Date: October 31st, 1916. |
 | 2 | 744<br>565<br>3248<br>599 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 654<br>710<br>3739<br>743 |  | Lieut.-Colonel  | Garner, Albert Coleman    | C. of G. and S.A  | Gamer, Mrs. Margaret Blythe  | 2133 Cameron St., Regina, Sask  | England  | Regina.    | April | 27.1916. |
 | 2 | 653<br>740<br>3738<br>773 |  | Major  | Bradbrooke, Charles Alfred... | C. of G. and S.A  | Bradbrooke, Mrs. Emma Theresa. | Vorkton, Sask    | England  | Regina  | May | 3, 1916. |

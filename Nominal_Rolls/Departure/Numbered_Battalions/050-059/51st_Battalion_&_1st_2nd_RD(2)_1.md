@@ -3,10 +3,124 @@ title: 51st Battalion & 1st 2nd RD(2) 1
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | vr | u . | »     • */ | V- u- .. r J* ■ ■ | -u *■ r» v. :• r. V ' | •- : | ’ * V- | ”• :v ;■ .• ■ / ' ..-•r - .- ■ | ' -. •* : tA, •: -~ r - -v •• | • -v . | ; -j | :v JOHN BORYSIUK | 13205 - 123rd Street | , A ^ -L ' Edmonton - Alborta - Canada. . . | ’: ■ | \ ; • ’ | . ;.-vr :L— ^ - •• ; | : Force r ' | •.. | •-x; | \i ■ 51M- | * . : | 'f S ; | ' - "‘a'-’ | ••'' . »> ■ | -Tt. 1 • ’ ’ | . | ■' • <* : w: ■' - ,:.jr 7 :. ■; vv t;. - , - | '■ • :: • ;• s ; | : \p$r■ : :• ?• i j | T'. k.- :-.'-- ^ :r' r •• 'V, Hi S'! fer-'-S* Wit-.' | i\ • r'H | . | W0S | • -.i-. .,;r. | :' -7 "J ---2 | ?• * • ; | .-^r: > | •:-i.s. | • • -i...; . • | r- | ,, . ;i,v.V'" ' | _ ■; 'y1' \ ■ : . ■ | "V'- - i! *■ v ■ • | ' i * - ' :• | rrai ? V - : i s,i b. ■: • Vvvv ■ . | • - | “ “ :.* | ’•.A'' | -•' -' | CO | If? | V-r - •i.t’ | •mjyrr | • : V: ‘ I: i ■ ;• ?■ v-i- i 1^^ ';vA * | ■ : . ' : “ ‘: . ■. : *L * - - •’ ’ - >• | 51st | , V; v and Reinforcing Drafts ■ ^ ^ | ; " ■' f: |It ; ■ i , -• ?0$A tMM • &'■C | ’ V. - * | ■' - -v,- • : | V;. .v~V | Z*f. | m | : | lis | ■'i | .‘.•C • - ■>, ■ • 4., • | - • >- ,..'J •; • . • • >•!« .v • ■ : •• • , - ; if-./? .fv; | ... • *! • '• ' | ■' vi; • .. | 6- | Nomina) Roll of Officers, N on -Commissioned | Officers and Men. | ■ ■' j : ^ :0:f PS ■ ■■■ | t':0rh | . 'V- '' •- | ■ -. * ■ r v >-■' | ■;s- | V;; 7 | mn, | : : fj:;3 | . ■ - : | -v. f i ■ | '' • »'*; h ' | .'■v ■ ’■ i'l: •- - : >4’.\ '■ | • j >• .*.• ; • r* . | “ *■* or? - :r    | - EMBARKATION | ‘ •• , I Port: Halifax. . | 51st Battalion j Ship: S.S. “Olympic." | ^ ^ v “■ Date: April 1st, 1916. | ? ' / ' - f Port: Montreal. | ■ Is* Reinforcing Draft | ■ • .. . ..•■ ‘ •>' j •’ 1 ~ ' 2nd Reinforcing Draft | ; ,.. ;■ v:'. ;; ' " | 3rd Reinforcing Draft | lOm-8-16. | 593-2-20. | Ship: S.S. “Eagle Point.” | Date: June 14th, 1915. | Port: Montreal. | Ship: S.S. "Metagama." | Date: September 11th, 1915. | : - .ii-6 | Port: St. John, N.B. | Ship: S.S. “ Missanabic." | Date: December 18th, 1915. | t. | t: V |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+vr<br>
+u .<br>
+»     • */<br>
+V- u- .. r J* ■ ■<br>
+-u *■ r» v. :• r. V '<br>
+•- :<br>
+’ * V-<br>
+”• :v ;■ .• ■ / ' ..-•r - .- ■<br>
+' -. •* : tA, •: -~ r - -v ••<br>
+• -v .<br>
+; -j<br>
+:v JOHN BORYSIUK<br>
+13205 - 123rd Street<br>
+, A ^ -L ' Edmonton - Alborta - Canada. . .<br>
+’: ■<br>
+\ ; • ’<br>
+. ;.-vr :L— ^ - •• ;<br>
+: Force r '<br>
+•..<br>
+•-x;<br>
+\i ■ 51M-<br>
+* . :<br>
+'f S ;<br>
+' - "‘a'-’<br>
+••'' . »> ■<br>
+-Tt. 1 • ’ ’<br>
+.<br>
+■' • <* : w: ■' - ,:.jr 7 :. ■; vv t;. - , -<br>
+'■ • :: • ;• s ;<br>
+: \p$r■ : :• ?• i j<br>
+T'. k.- :-.'-- ^ :r' r •• 'V, Hi S'! fer-'-S* Wit-.'<br>
+i\ • r'H<br>
+.<br>
+W0S<br>
+• -.i-. .,;r.<br>
+:' -7 "J ---2<br>
+?• * • ;<br>
+.-^r: ><br>
+•:-i.s.<br>
+• • -i...; . •<br>
+r-<br>
+,, . ;i,v.V'" '<br>
+_ ■; 'y1' \ ■ : . ■<br>
+"V'- - i! *■ v ■ •<br>
+' i * - ' :•<br>
+rrai ? V - : i s,i b. ■: • Vvvv ■ .<br>
+• -<br>
+“ “ :.*<br>
+’•.A''<br>
+-•' -'<br>
+CO<br>
+If?<br>
+V-r - •i.t’<br>
+•mjyrr<br>
+• : V: ‘ I: i ■ ;• ?■ v-i- i 1^^ ';vA *<br>
+■ : . ' : “ ‘: . ■. : *L * - - •’ ’ - >•<br>
+51st<br>
+, V; v and Reinforcing Drafts ■ ^ ^<br>
+; " ■' f: |It ; ■ i , -• ?0$A tMM • &'■C<br>
+’ V. - *<br>
+■' - -v,- • :<br>
+V;. .v~V<br>
+Z*f.<br>
+m<br>
+:<br>
+lis<br>
+■'i<br>
+.‘.•C • - ■>, ■ • 4., •<br>
+- • >- ,..'J •; • . • • >•!« .v • ■ : •• • , - ; if-./? .fv;<br>
+... • *! • '• '<br>
+■' vi; • ..<br>
+6-<br>
+Nomina) Roll of Officers, N on -Commissioned<br>
+Officers and Men.<br>
+■ ■' j : ^ :0:f PS ■ ■■■<br>
+t':0rh<br>
+. 'V- '' •-<br>
+■ -. * ■ r v >-■'<br>
+■;s-<br>
+V;; 7<br>
+mn,<br>
+: : fj:;3<br>
+. ■ - :<br>
+-v. f i ■<br>
+'' • »'*; h '<br>
+.'■v ■ ’■ i'l: •- - : >4’.\ '■<br>
+• j >• .*.• ; • r* .<br>
+“ *■* or? - :r   <br>
+- EMBARKATION<br>
+‘ •• , I Port: Halifax. .<br>
+51st Battalion j Ship: S.S. “Olympic."<br>
+^ ^ v “■ Date: April 1st, 1916.<br>
+? ' / ' - f Port: Montreal.<br>
+■ Is* Reinforcing Draft<br>
+■ • .. . ..•■ ‘ •>' j •’ 1 ~ ' 2nd Reinforcing Draft<br>
+; ,.. ;■ v:'. ;; ' "<br>
+3rd Reinforcing Draft<br>
+lOm-8-16.<br>
+593-2-20.<br>
+Ship: S.S. “Eagle Point.”<br>
+Date: June 14th, 1915.<br>
+Port: Montreal.<br>
+Ship: S.S. "Metagama."<br>
+Date: September 11th, 1915.<br>
+: - .ii-6<br>
+Port: St. John, N.B.<br>
+Ship: S.S. “ Missanabic."<br>
+Date: December 18th, 1915.<br>
+t.<br>
+t: V
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 505<br>585<br>3254<br>622 |  | J y, |  |  | Former Corps. |  |  | Country of |
 | 2 | 606<br>735<br>3759<br>772 |  |  | Lieut.-Colocel. | Harwood, Reginald de Lotbini&re. | 101st Regt.... | Harwood, Mrs. Matilda Helen.... | "The Mansions,” 4C6 Guy St., Montreal, P.Q  | Canada.  | Sarcce Camp... | Oct. | 29, 1915. |
 | 2 | 606<br>763<br>3759<br>802 |  |  | Major  | Elliott, Alan Hugh   | 101st Regt)... | Elliott, Mrs. Gwladys   | 5 Clareston Rd., Tenby, Pembroke, Wales  | Ireland ’.. | Sarcoe Camp... | Oct. | 29. 1915. |

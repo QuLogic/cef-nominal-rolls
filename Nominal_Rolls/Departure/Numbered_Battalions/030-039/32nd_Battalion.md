@@ -3,10 +3,19 @@ title: 32nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+32nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 32nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. |
 | 2 | 857<br>567<br>3413<br>603 |  |  |  | Name of Next of Kin. |  | Country of |
 | 2 | 764<br>712<br>3837<br>746 | Lieut.-Col  | Cowan, Harry James  | S.A  | Cowan, Mrs. Annie I  | Portage la Prairie, Man  | Canada.. | Winn | peg.. | Dec. 29,1914. |
 | 2 | 764<br>740<br>3837<br>775 | Lieut.-Col  | McPherson, Charles Duncan. . | 12th Horse.. | McPherson, Dugald...... | Basswood, Man    | Canada.. | Winn | peg... | Feb. 11, 1915. |

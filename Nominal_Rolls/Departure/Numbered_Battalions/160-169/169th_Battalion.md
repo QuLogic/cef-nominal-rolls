@@ -3,10 +3,29 @@ title: 169th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | * | 169th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “Metagama." | Date: October 19th, 1916. | 3m-9-17. | 593-2-29. | Port: Halifax, N.S. | | Ship: S.S. "Corsican.” | 1 Date: October 26th, 1916. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+*<br>
+169th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “Metagama."<br>
+Date: October 19th, 1916.<br>
+3m-9-17.<br>
+593-2-29.<br>
+Port: Halifax, N.S.<br>
+| Ship: S.S. "Corsican.”<br>
+1 Date: October 26th, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 702<br>576<br>3204<br>606 |  |  | Former Corps. |
 | 2 | 1380<br>750<br>3699<br>774 |  |  | C.F.A. & S.A  |  | Jan. | 18 | 1916. |
 | 2 | 3495<br>779<br>3699<br>801 |  |  |  |  | Jan. | 13 | 1916. |

@@ -3,10 +3,25 @@ title: 39th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+- ' .!<br>
+39th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+><br>
+EMBARKATION<br>
+Port: Montreal.<br>
+10m-12-15 Ship: S.S. “ Missanabie."<br>
+H.Q. 593-2-29. Date: June 17th, 1915.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | - ' .! | 39th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | > | EMBARKATION | Port: Montreal. | 10m-12-15 Ship: S.S. “ Missanabie." | H.Q. 593-2-29. Date: June 17th, 1915. |
 | 2 | 946<br>555<br>3506<br>586 |  |  |  |  | Name of Next of Kin. |  | Country of |
 | 2 | 860<br>700<br>3940<br>733 |  | Lieut.-Col  | Preston, John Alexander V  | 46th llegt. | Preston, Mrs. Charlotte M  | Orangeville, Ont  | Canada.. | Belleville... | Mar. | 22, 1915. |
 | 2 | 860<br>730<br>3940<br>762 |  | Lieut.-Col  | Smart, Robert Wallace  | 46th Regt. | Smart, Mrs. G. A  | P.O. Box 651, Port Hope, Ont  | Canada.. | Port Hope.. | April | 2, 1915. |

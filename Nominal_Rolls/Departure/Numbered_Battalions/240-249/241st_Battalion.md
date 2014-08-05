@@ -3,10 +3,23 @@ title: 241st Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+241st BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+3m-9-17.<br>
+embarkation<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “Olympic.”
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 241st BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 3m-9-17. | embarkation | Port: Halifax, N.S. | Ship: S.S. “Olympic.” |
 | 2 | 766<br>565<br>3255<br>602 |  | Rank. |  | Former Corps. |  |  | Country of |
 | 2 | 672<br>704<br>3749<br>749 |  | rLieut.-Colonei.. | McGregor, Walter Leadhman... | 21st Regt  | McGregor, Mrs. Esther Margaret.. | Ford, Ont  | Canada  | Windsor  | June 2 | 1916. |
 | 2 | 675<br>735<br>3749<br>779 |  | Major   | Kenning, Edward Campbell... | 21st Regt  | Kenning, Mrs. Hazel E     | 170 Victoria Ave., Windsor, Ont  | Canada  | Windsor  | June 16 | 1916. |

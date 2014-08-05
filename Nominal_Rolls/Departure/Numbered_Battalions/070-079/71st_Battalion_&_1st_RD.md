@@ -3,10 +3,31 @@ title: 71st Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Kxpeditionary<br>
+Force<br>
+%<br>
+71st BATTALION<br>
+and<br>
+Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+\ Port: Halifax.<br>
+71st Battalion • Ship: S.S. “Olympic.”<br>
+Date: April 1st, 1916.<br>
+Port: Montreal.<br>
+10:e-9-16.<br>
+593-2-29.<br>
+Reinforcing Draft < Ship: S.S. " Metagama "<br>
+i Date: November 20th, 1915.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Kxpeditionary | Force | % | 71st BATTALION | and | Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | \ Port: Halifax. | 71st Battalion • Ship: S.S. “Olympic.” | Date: April 1st, 1916. | Port: Montreal. | 10:e-9-16. | 593-2-29. | Reinforcing Draft < Ship: S.S. " Metagama " | i Date: November 20th, 1915. |
 | 2 | 435<br>516<br>3139<br>564 | II |  |  | Former Corps. |  |  | Country of |
 | 2 | 533<br>678<br>3641<br>712 |  | Lieut.-Colonol  | Sutherland, Donald Mathoson  | 24th Horse  | Sutherland, Mrs. Jean  | Norwich, Ont  | Canada.... | London Camp. | Oct. | 1915. |
 | 2 | 531<br>708<br>3642<br>741 |  | Major..    | Burgess, Fred Cloy  | 22nd Rcgt  | Burgess, Evelyn L  | Woodstock, Ont  | Canada.... | Ilondon Camp. | Oct. | 1915. |

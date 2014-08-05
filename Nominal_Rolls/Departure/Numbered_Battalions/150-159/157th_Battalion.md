@@ -3,10 +3,23 @@ title: 157th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+157th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-l-17. Ship: S.S. “Cameronia.”<br>
+593-2-29. Date: October 17th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 157th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-l-17. Ship: S.S. “Cameronia.” | 593-2-29. Date: October 17th, 1916. |
 | 2 | 541<br>525<br>3238<br>554 | .525 |  |  | Former Corps. |  |  | Country of |
 | 2 | 641<br>667<br>3732<br>700 |  | Lieut.-Colonel | MacLaren, David Henry  | 35th Regt  | MacLaren, Mrs. Isa F  | Barrie, Ont  | Canada  | Barrie  | Feb. | 1916. |
 | 2 | 640<br>697<br>3732<br>729 |  | Major  | Hedges, William Henry  | 36th Regt  | Hedges, Mrs. Lily Gower  | 76 Constance St., Toronto, Ont  | Canada  | Camp Borden... | Oct. | 1916. |

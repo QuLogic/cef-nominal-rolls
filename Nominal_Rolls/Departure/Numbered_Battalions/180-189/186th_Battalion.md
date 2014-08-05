@@ -3,10 +3,27 @@ title: 186th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+I<br>
+I<br>
+. ! ft*<br>
+0)00 i<br>
+(ISSUED WITH MILITIA ORDERS, 1917.) l-SGHTC? TO(<br>
+Canadian Expeditionary<br>
+Force<br>
+186th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax N.S.<br>
+3m-9-17 Ship: S.S. ‘ Lapland.”<br>
+Svi-2-29. Date: March 28th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | I | I | . ! ft* | 0)00 i | (ISSUED WITH MILITIA ORDERS, 1917.) l-SGHTC? TO( | Canadian Expeditionary | Force | 186th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax N.S. | 3m-9-17 Ship: S.S. ‘ Lapland.” | Svi-2-29. Date: March 28th, 1917. |
 | 2 | 589<br>590<br>3241<br>624 | ,§z |  | Former Corps. |  |  | Country of |
 | 2 | 670<br>736<br>3732<br>769 | Lieut.-Colonel... |  | 24th Regt  |  |  |  | St. Thomas. ... | Dec. 22. 1915. |
 | 2 | 2259<br>794<br>3732<br>823 |  |  |  |  | Blenheim, Ont  | Canada  |  | May 29, 1916. |

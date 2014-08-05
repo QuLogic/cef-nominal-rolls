@@ -3,10 +3,23 @@ title: 139th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+139th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Pori: Halifax, N.S.<br>
+3m-9-l7. Ship: S.S. "Southland.”<br>
+593-2-29. Date: September 27th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 139th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Pori: Halifax, N.S. | 3m-9-l7. Ship: S.S. "Southland.” | 593-2-29. Date: September 27th, 1916. |
 | 2 | 1563<br>593<br>3324<br>627 |  |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 733<br>743<br>2320<br>771 |  | Lieut.-Colonel.. | Floyd, William Herbert  | C.F.A  | Floyd, Misses E. Lillian and Evelyn |
 | 2 | 1891<br>763<br>3814<br>799 |  |  |  |  | M. G  | Cobourg, Ont  | Canada.. | Cobourg  | Mar. | 1916. |

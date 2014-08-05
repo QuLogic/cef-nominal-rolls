@@ -3,10 +3,151 @@ title: 56th Battalion & 1st 2nd RD 1
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | x-x rlvi:r | ■ ; | K ' V:. / * :-;v-\ ■' . | *$ &V/L; | ftJfevinPV:.-r I | ':y ' . ' ' | ^ (ISSUED WITH MILITIA ORDERS. 1917 ) | 7* ./**' 5* ; '    . ' » • - 5 . . | • •‘V*- >• | Vw> ■* | te.: | pi' | *ii -r • , | •rrjSem.-*’ •*' *V | SK- | •>'* 1 *‘r’4*V*3*V,-*v *'w’r | V x. •'W$\ | v--'\ rx.'Y: | JOHN BORYSIUK | 13205-123rd Str.et | Edmonton — Alb«rta - Canada | ■■ | ■ ■ r*‘~~rrr*L'' | <- W- | mm;: miaSfz: ‘ Sppft|£ | { affc ?■».f.; | ■■•-. jr |:V it. ■. '. ■• = • - 1 \r-rWf^ | -«*. *att. :• '<•, ■.i- ■*’ ‘*\v< - ••'.’.*<■ •>£ .* -Lr.r*. .* -?■- ± -• . & : , • ? | •„ * '• ...V. iL.’*-' *• ' »v r V -t jj | - •*» *r | + rf | ■ ;V • | i '.-i;... | V . - | . A •: *. | ' • %t;'" \. V. • | % ' - | . Ci f-r ■ | “■■ '* £■' r* v'^ | •T:r | t | m ■ -■ | r •: | ■ "J‘ ;' ^ | i. •'« ‘ ■ ' • ' w". | v ■ ■ . i ^.-v; ‘v , - -,;v ; ■ | *i 1 ■ f • V*“‘P_' ■ . “T* * ■ ' ~ '* - ^ . | • • \ -r - ' f • '• . • • | . 3 -. ,-v •• • - .• ■■ v.fc | ... •: ^-< | ;»V r&* | * ■*.t* •. s. *■ ■ | 1.'.’ •]'. | i, | ■ •!- | !: "» | ^ ; | 03 | to | i | ; | J. . -V. | x '« > • i -1 | U.4fjwp' " | * '<,;V r v.., .. | WT'* | »Jl . | *A *“ | 56th BATTALION | v iim V. A,'.. *5 | • •   ■ ~ ■ •- also w* | ii- -fvv K;;rr ; | ,rnr.ssr.r't!»*~”vJ” '-iaw*" | ** *■’ ' ’■> r * ' ]m . , ... | 1st and 2nd Reinforcing Drafts | ■ ' . _ ^ ' ’a’-j y— ■• .y.-.--vr;• | .... ........ ... ...... , , , | •a ;*'M: | i .• 4?-- | \ .r | ■ ■ .. | •Nominal Roll of Officers, Non-Commissioned | ’ J- i | Officers and Men | -:-.V | ■ Tr | ,7&p*j%eg | * .i ?‘.V | mi.: | ■ | •s-t. | »' | .. -•rtjH?-**- | ...■ 3 'j'*:' | * >* <: - | y-+'. ‘ | • . 3 ' | . •/ a ' | . M . V ■ \ | • ! 1.. | 3m-5-17. | 593-2-29. : ^ >" | • V* U':^, • | - -x-- - . | 5 6 th Battalion | 1st Reinforcing Draft | . :4. - | ,-.>-. J -.w . ' ; ■ - - <• ^ V | ■' 1 /V^rr   ' | ...,•' 2 mi Reinforcing Draft | - .• ..: | . | ■ . | r- ;v j..;.-...' | r ’ :^V : ' | EMBARKATION | Port: Halifax, N.S. ■_ ^ | Ship: S.S. “Baltic.” | Date: March 20th, 1916.^ | .. > ' U | Port: Montreal, P.Q.< | Ship: S.S. “Elele.” T " | Date: July 5th, 1915. - | V ■ • : ‘ | Port: Montreal, P.Q. o. | Ship: S.S. “ Metagama." | Date r September 11th, 1915. | ■ , ’ "• ■' ' • t ' | ■ .. :,y | .....; apt*- | . - - ’a . | 'U' -b | • j-e>-**... r«»vi rvV 'V* • • -J-. . •: - | .TT:,V.; . . •. •_ v-> < v/ | ' ■ ■ • - • | • »• uffi. ■»«- * vi‘ -T |   .."- r‘ ‘ : ••; ■.• ,. v | «• ..»VJi , ,;vrf . | '-y,-^i-rr-. t»i ./ | ,,,fc .j.... |
+x-x rlvi:r<br>
+■ ;<br>
+K ' V:. / * :-;v-\ ■' .<br>
+*$ &V/L;<br>
+ftJfevinPV:.-r I<br>
+':y ' . ' '<br>
+^ (ISSUED WITH MILITIA ORDERS. 1917 )<br>
+7* ./**' 5* ; '    . ' » • - 5 . .<br>
+• •‘V*- >•<br>
+Vw> ■*<br>
+te.:<br>
+pi'<br>
+*ii -r • ,<br>
+•rrjSem.-*’ •*' *V<br>
+SK-<br>
+•>'* 1 *‘r’4*V*3*V,-*v *'w’r<br>
+V x. •'W$\<br>
+v--'\ rx.'Y:<br>
+JOHN BORYSIUK<br>
+13205-123rd Str.et<br>
+Edmonton — Alb«rta - Canada<br>
+■■<br>
+■ ■ r*‘~~rrr*L''<br>
+<- W-<br>
+mm;: miaSfz: ‘ Sppft|£<br>
+{ affc ?■».f.; | ■■•-. jr |:V it. ■. '. ■• = • - 1 \r-rWf^<br>
+-«*. *att. :• '<•, ■.i- ■*’ ‘*\v< - ••'.’.*<■ •>£ .* -Lr.r*. .* -?■- ± -• . & : , • ?<br>
+•„ * '• ...V. iL.’*-' *• ' »v r V -t jj<br>
+- •*» *r<br>
++ rf<br>
+■ ;V •<br>
+i '.-i;...<br>
+V . -<br>
+. A •: *.<br>
+' • %t;'" \. V. •<br>
+% ' -<br>
+. Ci f-r ■<br>
+“■■ '* £■' r* v'^<br>
+•T:r<br>
+t<br>
+m ■ -■<br>
+r •:<br>
+■ "J‘ ;' ^<br>
+i. •'« ‘ ■ ' • ' w".<br>
+v ■ ■ . i ^.-v; ‘v , - -,;v ; ■<br>
+*i 1 ■ f • V*“‘P_' ■ . “T* * ■ ' ~ '* - ^ .<br>
+• • \ -r - ' f • '• . • •<br>
+. 3 -. ,-v •• • - .• ■■ v.fc<br>
+... •: ^-<<br>
+;»V r&*<br>
+* ■*.t* •. s. *■ ■<br>
+1.'.’ •]'.<br>
+i,<br>
+■ •!-<br>
+!: "»<br>
+^ ;<br>
+03<br>
+to<br>
+i<br>
+;<br>
+J. . -V.<br>
+x '« > • i -1<br>
+U.4fjwp' "<br>
+* '<,;V r v.., ..<br>
+WT'*<br>
+»Jl .<br>
+*A *“<br>
+56th BATTALION<br>
+v iim V. A,'.. *5<br>
+• •   ■ ~ ■ •- also w*<br>
+ii- -fvv K;;rr ;<br>
+,rnr.ssr.r't!»*~”vJ” '-iaw*"<br>
+** *■’ ' ’■> r * ' ]m . , ...<br>
+1st and 2nd Reinforcing Drafts<br>
+■ ' . _ ^ ' ’a’-j y— ■• .y.-.--vr;•<br>
+.... ........ ... ...... , , ,<br>
+•a ;*'M:<br>
+i .• 4?--<br>
+\ .r<br>
+■ ■ ..<br>
+•Nominal Roll of Officers, Non-Commissioned<br>
+’ J- i<br>
+Officers and Men<br>
+-:-.V<br>
+■ Tr<br>
+,7&p*j%eg<br>
+* .i ?‘.V<br>
+mi.:<br>
+■<br>
+•s-t.<br>
+»'<br>
+.. -•rtjH?-**-<br>
+...■ 3 'j'*:'<br>
+* >* <: -<br>
+y-+'. ‘<br>
+• . 3 '<br>
+. •/ a '<br>
+. M . V ■ \<br>
+• ! 1..<br>
+3m-5-17.<br>
+593-2-29. : ^ >"<br>
+• V* U':^, •<br>
+- -x-- - .<br>
+5 6 th Battalion<br>
+1st Reinforcing Draft<br>
+. :4. -<br>
+,-.>-. J -.w . ' ; ■ - - <• ^ V<br>
+■' 1 /V^rr   '<br>
+...,•' 2 mi Reinforcing Draft<br>
+- .• ..:<br>
+. | ■ .<br>
+r- ;v j..;.-...'<br>
+r ’ :^V : '<br>
+EMBARKATION<br>
+Port: Halifax, N.S. ■_ ^<br>
+Ship: S.S. “Baltic.”<br>
+Date: March 20th, 1916.^<br>
+.. > ' U<br>
+Port: Montreal, P.Q.<<br>
+Ship: S.S. “Elele.” T "<br>
+Date: July 5th, 1915. -<br>
+V ■ • : ‘<br>
+Port: Montreal, P.Q. o.<br>
+Ship: S.S. “ Metagama."<br>
+Date r September 11th, 1915.<br>
+■ , ’ "• ■' ' • t '<br>
+■ .. :,y<br>
+.....; apt*-<br>
+. - - ’a .<br>
+'U' -b<br>
+• j-e>-**... r«»vi rvV 'V* • • -J-. . •: -<br>
+.TT:,V.; . . •. •_ v-> < v/<br>
+' ■ ■ • - •<br>
+• »• uffi. ■»«- * vi‘ -T<br>
+  .."- r‘ ‘ : ••; ■.• ,. v<br>
+«• ..»VJi , ,;vrf .<br>
+'-y,-^i-rr-. t»i ./<br>
+,,,fc .j....
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 533<br>481<br>3228<br>527 |  |  | .§1 | Former Corps. |  | Name of Next of Kin. |  | Country of |
 | 2 | 540<br>528<br>3673<br>564 |  |  | * |  |  |  |  | -Place. | Date. |
 | 2 | 619<br>622<br>3724<br>675 |  |  | Lieut.-Colonel... Armstrong, William Charles G  | 103rd‘lS)xt.    | Armstrong, Mrs. Jessie  |  | 1919, 2nd St. E., Calgaiy, Alta   | England. | Calgary | ^pril 21. | 1915. |

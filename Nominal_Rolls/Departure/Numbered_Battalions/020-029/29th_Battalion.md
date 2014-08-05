@@ -3,10 +3,24 @@ title: 29th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+•* 5*<br>
+29th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+1I.Q. 593-2-29<br>
+EMBARKATION<br>
+Pori*. Montreal.<br>
+Ship: S.S. " Missanabie.”
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | •* 5* | 29th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 1I.Q. 593-2-29 | EMBARKATION | Pori*. Montreal. | Ship: S.S. " Missanabie.” |
 | 2 | 315<br>628<br>2547<br>656 |  |  | Former Corps. |  |  | Country of |
 | 2 | 231<br>759<br>2781<br>788 | Lieut.-Colonel. | Tobin, Henry Seymour.    | 72nd Regt... | Robertson, Mrs. H. E  | North Vancouver, B.C  | Canada  | Vancouver  |
 | 2 | 231<br>786<br>2981<br>815 | Major  | Caskey, Thomas Edward  | 32nd Regt... | Caskey, Rebecca  | Chilliwack, New Westminster, B.C  | Canada  | Vancouver  | Nov. | 16, 1914. |

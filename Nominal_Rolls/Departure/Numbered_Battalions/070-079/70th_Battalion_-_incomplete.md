@@ -3,10 +3,26 @@ title: 70th Battalion - incomplete
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian i£xpeditionary<br>
+Force<br>
+70th BATTALION<br>
+■ " .*<br>
+£ •»<br>
+V > *<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Katifax.<br>
+Ship: S.S. 11 LspJind..'*<br>
+Date: A; ril 24th 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian i£xpeditionary | Force | 70th BATTALION | ■ " .* | £ •» | V > * | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Katifax. | Ship: S.S. 11 LspJind..'* | Date: A; ril 24th 1916. |
 | 2 | 621<br>553<br>3126<br>581 |  | Rank. |  | Former Corps. |  |  | Country of |
 | 2 | 533<br>697<br>3623<br>728 |  | Lieut.-Colonel | Towers, Robert Irwin  | 27 th Regt  | Towers, Mrs. Robert  | 500 Dundas St., London, Ont  | Canada... | London... | Dec. | 1, 1915. |
 | 2 | 533<br>727<br>3623<br>757 |  | Major  | iSutler, William  | th Regt  | Butler, Mrs. Lillian  | ^01 Waterloo St., London, Ont...    | England   | London... | Sept. | 6, 11)15. |

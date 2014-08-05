@@ -3,10 +3,29 @@ title: 106th Battalion B&W
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+■0!<br>
+% r- i:<br>
+I r 1-<br>
+I : J<br>
+t k-'<br>
+t<br>
+Force<br>
+/ (TO J—.'<br>
+' * .i-<br>
+106th BATTALION<br>
+Nominal Roll of Officers, Non-Commission* id<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. "Empress of Britain.1
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | ■0! | % r- i: | I r 1- | I : J | t k-' | t | Force | / (TO J—.' | ' * .i- | 106th BATTALION | Nominal Roll of Officers, Non-Commission* id | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. "Empress of Britain.1 |
 | 2 | 817<br>572<br>3306<br>604 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 729<br>715<br>3798<br>748 |  | Lieut.-Colonel.... | Innes, Robert  | 31st Regt  | Innes, Mrs. Charlotte L  | 84 Bronson Ave., Ottawa, Ont.... | Canada  | Truro  | May | 1 | 1916. |
 | 2 | 727<br>744<br>3798<br>781 |  | Major  | Heard, Oliver Godfrey  | 76th Regt.... | Heard, Mary Elizabeth  | Truro, Colchester Co., N.S  | England  | Truro  | May | 1 | 1916. |

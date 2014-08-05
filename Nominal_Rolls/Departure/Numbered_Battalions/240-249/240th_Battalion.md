@@ -3,10 +3,30 @@ title: 240th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | ^::U-■ A'.;;; ^ ’#;• | i?M?-^smj'rif-- -■ •»,'' ; >1 r^Sac;*f | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 240th BATTALION | ■• I | i | i | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. " Megantic." | Date: May 3rd, 1917. | 3m-9-17. | 593-2-29. |
+^::U-■ A'.;;; ^ ’#;•<br>
+i?M?-^smj'rif-- -■ •»,'' ; >1 r^Sac;*f<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+240th BATTALION<br>
+■• I<br>
+i<br>
+i<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. " Megantic."<br>
+Date: May 3rd, 1917.<br>
+3m-9-17.<br>
+593-2-29.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 719<br>616<br>3213<br>649 |  |  | Former Corps. |  |  | Country of |
 | 2 | 637<br>759<br>3706<br>794 | Lieut.-Colonel... | Watt, Edgar John  | 42nd Regt. | Watt, Mrs. Elizabeth Maud. | Perth, Ont  | Canada. | Perth | Nov. 15, 1915. |
 | 2 | 636<br>787<br>3706<br>824 | Major  | Irving, Lennox  | 42nd Regt. | Irving, Annie E  | Huron Rd. Hospital, Cleveland, O., U.S.A. | Canada. | Renfrew.. | July 20, 1916. |

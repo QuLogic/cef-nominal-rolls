@@ -3,10 +3,25 @@ title: 132nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+132nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+H.Q.593-2-29.<br>
+x m-1-17.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “Corsican."<br>
+Date: October 26th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 132nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | H.Q.593-2-29. | x m-1-17. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “Corsican." | Date: October 26th, 1916. |
 | 2 | 746<br>553<br>3254<br>584 |  |  |  | Former Corps. |
 | 2 | 658<br>698<br>3747<br>730 |  | Lieut.-Colonel  | Mersereau, George Williams  |  | Doaktown, Northumberland Co.. N.B  |  | May 19 1916. |
 | 2 | 658<br>727<br>3747<br>757 |  | Major  |  | R.N.W.M.P  |  |  | May 23, 1916. |

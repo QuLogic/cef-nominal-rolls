@@ -3,10 +3,29 @@ title: 62nd Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 62nd BATTALION | and Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | [ Port: Halifax, N.S. | 62nd Battalion < Ship: S.S. "Baltic." | | Date: March 20th, 1916. | Port: Montreal, P.Q. | Ship: S.S. "Scandinavian." | Date: October 1st, 1915. | 10m-9-i6. Reinforcing Draft | 593-2-29. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+62nd BATTALION<br>
+and Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+[ Port: Halifax, N.S.<br>
+62nd Battalion < Ship: S.S. "Baltic."<br>
+| Date: March 20th, 1916.<br>
+Port: Montreal, P.Q.<br>
+Ship: S.S. "Scandinavian."<br>
+Date: October 1st, 1915.<br>
+10m-9-i6. Reinforcing Draft<br>
+593-2-29.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 1562<br>529<br>3311<br>561 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 744<br>672<br>3807<br>703 |  | Lieut.-Colonel.. | Hulme, John Herbert D  | 6th Regt | Hulme, Mrs. Caroline A  | 1834 Haro St., Vancouver, B.C  | Canada  | Vancouver. | Dec. | 1915. |
 | 2 | 742<br>699<br>3806<br>732 |  | Major  | Graham, Alexander  | 6th Regt  | Graham, Mrs. Annie C  | 2900 Scott St., Vancouver, B.C  | Canada  | Vancouver. | Dec. | 1915. |

@@ -3,10 +3,23 @@ title: 204th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+204th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+. EMBARKATION<br>
+Date: Halifax, N.S.<br>
+3m-9-i7. Ship: S.S. “Saponia.”<br>
+593-2*29. Date: March 28th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 204th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | . EMBARKATION | Date: Halifax, N.S. | 3m-9-i7. Ship: S.S. “Saponia.” | 593-2*29. Date: March 28th, 1917. |
 | 2 | 732<br>596<br>3235<br>629 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 651<br>740<br>3728<br>773 |  | Lieut.-Colonel... | Price, William Herbert  | Can. Mil. .. | Price, Mrs. W. H  | i Indian Grove, Toronto, Ont  | Canada. | Camp Borden.. | Oct. lv, 1916. |
 | 2 | 651<br>768<br>3728<br>802 |  | Major  | Glass, James  | S.A  | Glass. Mrs. Annie  | 21 Echo Drive, Ottawa, Ont  | England.. | Toronto  | April 6, 1916. |

@@ -3,10 +3,37 @@ title: 47th Battalion & 1st 2nd 3rd RD 1
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 47th BATTALION | also | 1st, 2nd and 3rd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 10m-9-l6 3rd Reinforcing Draft | 593-2-29. | EMBARKATION | I Port: Montreal. | Ship: S.S. “ Missanabie.” | Date: November 13th, 1915. | I Port: Montreal. | Ship: S.S. “Scandinavian.” | Date: June 17th, 1915. | IPort: Montreal. | Ship: S.S. “Missanabie." | Date: June 24th, 1915. | ■ . ’ v ‘ ' < | Port: Montreal. | Ship: S.S. “Scandinavian." | Date: October 1st, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+47th BATTALION<br>
+also<br>
+1st, 2nd and 3rd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+10m-9-l6 3rd Reinforcing Draft<br>
+593-2-29.<br>
+EMBARKATION<br>
+I Port: Montreal.<br>
+Ship: S.S. “ Missanabie.”<br>
+Date: November 13th, 1915.<br>
+I Port: Montreal.<br>
+Ship: S.S. “Scandinavian.”<br>
+Date: June 17th, 1915.<br>
+IPort: Montreal.<br>
+Ship: S.S. “Missanabie."<br>
+Date: June 24th, 1915.<br>
+■ . ’ v ‘ ' <<br>
+Port: Montreal.<br>
+Ship: S.S. “Scandinavian."<br>
+Date: October 1st, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 912<br>504<br>3387<br>538 |  |  | Former Corps. |  |  | Country of |
 | 2 | 822<br>650<br>3880<br>686 | Lieut.-Colonel. | Winsby, William Norman  | R.C.G.A....'.  | Winsby, Mrs. Edythe Mary.,.... | 1054 Southgate St., Victoria, B.C  | England  | New W’minster. | Nov. | 1915. |
 | 2 | 821<br>679<br>3880<br>722 | Major . | Coote, Andrew Leslie  | 104th Regt  | Coote, Mrs. Fanny   | Chilliwack, B.C  | England. | New W’minster. | Nov. | 1915. |

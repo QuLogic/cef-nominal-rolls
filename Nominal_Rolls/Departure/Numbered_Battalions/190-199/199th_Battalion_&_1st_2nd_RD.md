@@ -3,10 +3,43 @@ title: 199th Battalion & 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917) | 3m-9-17 | 593-2-29 | Canadian Expeditionary | F | orce | 199th BATTALION | also | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-C ommissioned | Officers and Men | EMBARKATION. | fPort: | Halifax, N.S. | 199th Bn. | Ship: | 8.S. “Olympic.” | l-Date: | Dec. 20, 1916. | (Port: | Halifax, N.S. | 1st R.D. j Ship: | S.S. “Scandinavian. | (.Date: | Jan. 23, 1917. | fPort: | Halifax, N.S. | 2nd R.D. j Ship: | S.S. “Missanabie.” | Lpate: | March 28, 1917. |
+(ISSUED WITH MILITIA ORDERS, 1917)<br>
+3m-9-17<br>
+593-2-29<br>
+Canadian Expeditionary<br>
+F<br>
+orce<br>
+199th BATTALION<br>
+also<br>
+1st and 2nd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-C ommissioned<br>
+Officers and Men<br>
+EMBARKATION.<br>
+fPort:<br>
+Halifax, N.S.<br>
+199th Bn. | Ship:<br>
+8.S. “Olympic.”<br>
+l-Date:<br>
+Dec. 20, 1916.<br>
+(Port:<br>
+Halifax, N.S.<br>
+1st R.D. j Ship:<br>
+S.S. “Scandinavian.<br>
+(.Date:<br>
+Jan. 23, 1917.<br>
+fPort:<br>
+Halifax, N.S.<br>
+2nd R.D. j Ship:<br>
+S.S. “Missanabie.”<br>
+Lpate:<br>
+March 28, 1917.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 609<br>537<br>2877<br>571 | Ed | Rank. |
 | 2 | 603<br>567<br>3232<br>595 | "5>£ |  |  |  |  | Birth. |
 | 2 | 698<br>695<br>2267<br>725 | Lieut.-Col.... | Trihey, Henry Judah  | 55th Kegt.. | Trihey, Mrs. Mary Elizabeth |

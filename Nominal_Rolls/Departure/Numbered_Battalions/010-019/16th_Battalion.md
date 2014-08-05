@@ -3,10 +3,18 @@ title: 16th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS. 1915).<br>
+CANADIAN EXPEDITIONARY FORCE.<br>
+16th BATTALION<br>
+NOMINAL ROLL OF OFFICERS. NON-COMMISSIONED<br>
+OFFICERS AND MEN.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS. 1915). | CANADIAN EXPEDITIONARY FORCE. | 16th BATTALION | NOMINAL ROLL OF OFFICERS. NON-COMMISSIONED | OFFICERS AND MEN. |
 | 2 | 972<br>500<br>3046<br>536 |  | Rank. |  | Former Corps. | Name of Next-of-Kin. |
 | 2 | 3283<br>523<br>3773<br>552 |  |  |  |  |  |  | Birth. | Place. | Date |
 | 2 | 935<br>639<br>3824<br>677 |  | Lt. Col.... | f.cckie, Robert Gilmour Edwards. | R. M. C  | Gillies. Margaret (Mrs.) 1359 Davie St., Vancouver, B.C  |  | . Canada  | Valcartier.... | Sept. 15 191 |

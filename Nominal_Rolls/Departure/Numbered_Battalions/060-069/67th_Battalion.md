@@ -3,10 +3,23 @@ title: 67th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+67th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+10m-10-16. Ship: S.S. “Olympic."<br>
+593-2-29. Date: April 1st, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 67th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 10m-10-16. Ship: S.S. “Olympic." | 593-2-29. Date: April 1st, 1916. |
 | 2 | 888<br>612<br>3375<br>642 |  |  | Former Corps. |  |  | Country of |
 | 2 | 795<br>758<br>3861<br>788 | Lieut.-Colonel Ross, Lome |  | 50th Regt  | Ross, Mr3. Katherine H  | 1236 Faithful St., Victoria, B.C  | Canada  | Aug. | in | 1915 |
 | 2 | 795<br>788<br>3861<br>819 | Major | Armour, Stuart Douglas.... | 72nd Regt  | Armour, Douglas  | 1118 Cardero St., Vancouver, B.C  | Canada  | Aug. | 11 | 1915 |

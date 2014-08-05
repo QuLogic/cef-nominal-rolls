@@ -3,10 +3,27 @@ title: 210th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+niMimnnfiiiiiinifi<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+210th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “Carpathia."<br>
+Date: April 11th, 1917.<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “Northland.”<br>
+Date: April 18th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | niMimnnfiiiiiinifi | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 210th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “Carpathia." | Date: April 11th, 1917. | Port: Halifax, N.S. | Ship: S.S. “Northland.” | Date: April 18th, 1917. |
 | 2 | 809<br>378<br>3326<br>410 | Rank. |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 728<br>523<br>3825<br>556 | Lieut. Colonel | Seaborn, Walter Ernest  | 60 th Rcgt  | Seaborn, Mrs. Hester M  | 1106 Clifton Avo., Moose Jaw, Sask  | Canada. | Moose Jaw  | A pril | 8, 1916. |
 | 2 | 727<br>554<br>3825<br>587 | Major  | Maitland, Oliver Mowat  | 60 th Rcgt  | Maitland, W. P  | Tichborne, Ont  | Canada. | Moose Jaw  | May | 3, 1916. |

@@ -3,10 +3,23 @@ title: 129th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+129th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m*4-t7- Ship: S.S. “ Olympic."<br>
+593-2*2?. Date: August 24th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 129th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m*4-t7- Ship: S.S. “ Olympic." | 593-2*2?. Date: August 24th, 1916. |
 | 2 | 596<br>565<br>3289<br>610 | JsS |  |  | Former Corps. |
 | 2 | 695<br>723<br>3787<br>753 |  | Lieut.-Colonel  | Knowles, William Edward S  |  |  | Nov. 13, 1915. |
 | 2 | 695<br>751<br>3787<br>783 |  | Major  | Armstrong, John Hutchinson  |  |  | Dec. 2, 1915. |

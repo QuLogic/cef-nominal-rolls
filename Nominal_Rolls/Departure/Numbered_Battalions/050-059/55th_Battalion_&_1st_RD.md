@@ -3,10 +3,31 @@ title: 55th Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | ''iV : ' ' "r ' ■■■ ' | 55th BATTALION | and Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | , Port: Montreal. | 5M1) Battalion Ship: S.S. " Corsican." | Date: Cclobcr 30th, 1915. | r | Port: Montreal. | tOm-S-16. | S'>S-2-29. | Reinforcing Draft i Siiip: S-S. "Corsican." | Date: June 19th, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+''iV : ' ' "r ' ■■■ '<br>
+55th BATTALION<br>
+and Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+, Port: Montreal.<br>
+5M1) Battalion Ship: S.S. " Corsican."<br>
+Date: Cclobcr 30th, 1915.<br>
+r<br>
+Port: Montreal.<br>
+tOm-S-16.<br>
+S'>S-2-29.<br>
+Reinforcing Draft i Siiip: S-S. "Corsican."<br>
+Date: June 19th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 665<br>664<br>3209<br>698 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 575<br>810<br>3709<br>845 |  | Uout.'-Colonel. | Kirkpatrick, ,7. Renfrew .. | Can. Mil... | Kirkpatrick, Mrs. A. Maud  | Debec Jet.,1 'u.leton Co., N.B  | Canada  | Valcartier  | Sept. | 22, 1914. |
 | 2 | 576<br>840<br>3709<br>874 |  | Major..., | Hull, John Jarvis  | 67 th Regt,. | Bull, Charles P  | Woodstock, N.B  | Canada  | Val car tier....... | Sept. | 28.1814. |

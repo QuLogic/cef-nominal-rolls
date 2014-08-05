@@ -3,10 +3,26 @@ title: 128th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+■: : • ■ ' - • V—|<br>
+• i<br>
+.<br>
+Canadian Expeditionary<br>
+Force<br>
+128th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+• . EMBARKATION<br>
+Port: Halifax, N.S.<br>
+^.j.jj    Ship: S.S. “Grampian.”<br>
+S9M-29. Date: August 15th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | ■: : • ■ ' - • V—| | • i | . | Canadian Expeditionary | Force | 128th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | • . EMBARKATION | Port: Halifax, N.S. | ^.j.jj    Ship: S.S. “Grampian.” | S9M-29. Date: August 15th, 1916. |
 | 2 | 693<br>579<br>3198<br>610 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 604<br>720<br>3692<br>754 |  | Lieut.-Colonel... | Pawlett, Francis    | 9. A . w* | Pawlett, Mrs. Edith Belle  | Yorkton, Sask  | EnglancL,...... | Moose Jaw  | Nov. | 12, | 1915. |
 | 2 | 604<br>749<br>3692<br>788 |  | Major   | Cope man, Leslie *r.y •. | 60th Regt    w | Copeman, Mrs. Flora B  | 370 Hochelaga St. W., Moose Jaw, Sask  | Canada.,l.    | Moose Jaw  | Aug. | 6, | 1915. |

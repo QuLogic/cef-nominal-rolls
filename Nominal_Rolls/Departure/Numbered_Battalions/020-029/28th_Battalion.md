@@ -3,10 +3,23 @@ title: 28th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915)<br>
+Canadian Expeditionary<br>
+Force<br>
+28th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Port: Montreal.<br>
+10m-3-16. Ship: S.S. " Northland."<br>
+H.Q.593-2-29. Date: May 29th, 1915.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915) | Canadian Expeditionary | Force | 28th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | Port: Montreal. | 10m-3-16. Ship: S.S. " Northland." | H.Q.593-2-29. Date: May 29th, 1915. |
 | 2 | 674<br>610<br>3330<br>644 | az |  | Former Corps. |  |  | Country of |
 | 2 | 761<br>753<br>3822<br>789 | Lieut .-Col  | Embury, John Fletcher L..  | 95th Regt  | Embury, Mrs. Dora A  | Regina, Sask  | Canada  | Regina  | Oct. | 24.1914. |
 | 2 | 760<br>782<br>3822<br>818 | Major  | Cross, James Albert    | 95th Regt  | Cross, Mrs. Ida Bell  | Regina, Sask  | Canada  | Regina  | Oct. | 24, 1914. |

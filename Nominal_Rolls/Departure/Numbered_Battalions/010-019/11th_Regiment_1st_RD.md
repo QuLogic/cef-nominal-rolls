@@ -3,10 +3,27 @@ title: 11th Regiment 1st RD
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+JOHN BORYSIUK<br>
+13205 - 123rd Street<br>
+Edmonton — Alberta — Canada<br>
+Canadian Expeditionary<br>
+Force<br>
+Uth REGIMENT<br>
+1st Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. "Olympic.1<br>
+Date: June 2, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | JOHN BORYSIUK | 13205 - 123rd Street | Edmonton — Alberta — Canada | Canadian Expeditionary | Force | Uth REGIMENT | 1st Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. "Olympic.1 | Date: June 2, 1917. |
 | 2 | <br><br><br> | an juawuw*- ^ i v>* | NATIONS WARS | FORMATIONS | TRADITION | V y | BIOCRAPHY COMMERCE ABOUT | SEARCH | " i; | LdNB POKCEf -t | HE [MI'lltL Will\IO\MA | Authors and Contributors this page T.F. Mills | CopyrightNotice Page created 1 August 2000. Corrected and updated 15.06.2005 Disclaimers | The Irish Fusiliers | of Canada | British Columbia, Canada | 1*1 | CONTENTS | ® Titles & Lineage ® Colonel-in-Chief | ® History & War Service ® Honorary Colonels | ® Battle Honours ® Traditions | ® Colours, Standards and Guidons ® Alliances | Badges and Uniforms ® Bibliography | Note: This is a battalion history of the part-time Reserves, which are normally liable for full-time | active service only in an emergency | How to find information about individuals who served in this corps | Titles and Lineage TSSSSr | 1913.08.15 11th Regiment, Irish Fusiliers of Canada | formed with HQ and eight companies at Victoria, BC | 1914 11th Regiment (Irish Fusiliers of Canada) | 1920.03.15 The Irish Fusiliers of Canada | 1920.07.02 reorganised to perpetuate CEF: | • 1st Battalion, perpetuating 121st Battalion CEF | • 2nd (Reserve) Battalion | 1936.06.01 amalgamated with The Vancouver Regiment, to form Irish Fusiliers of Canada | (The Vancouver Regiment) | History (Links) & War Service Introduction to Regiments | History: | ^ [no external sites have been found] | Deployment and Service: | Colour Key: War service Overseas service | Home service | Biography and Gallantry Awards: | 4* [no external sites have been found] |
 | 3 | 895<br>545<br>3426<br>576 |  |  |  | Former Corps. |  |  | Country of |
 | 3 | 816<br>692<br>3869<br>723 |  | Lieutenant | Burge, James McKay  | 11th Regt. and | Burge, Mrs. Alice Maud  | 2950 Renfrew St., Vancouver, B.C  | England  | Vancouver   | .Ian. | 1. 1 |

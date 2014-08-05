@@ -3,10 +3,23 @@ title: CMR 3rd Regiment
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915)<br>
+Canadian Expeditionary<br>
+Force<br>
+3rd Ganadian Mounted<br>
+Regiment<br>
+Nominal Roll of Officers, Non-COmmissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Port: Montreal.<br>
+Ship: S.S. " Megantic."
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915) | Canadian Expeditionary | Force | 3rd Ganadian Mounted | Regiment | Nominal Roll of Officers, Non-COmmissioned | Officers and Men | EMBARKATION | Port: Montreal. | Ship: S.S. " Megantic." |
 | 2 | 590<br>571<br>3331<br>605 | .SS5 |  |  |  | Name of Next of Kin. |  | Country of |
 | 2 | 687<br>714<br>3800<br>749 |  | Lieut.-Col  | Whitaker, Louis James  | 19th Drag. | Whitaker, Miss Florence E.. | 27 Albert Rd„ Heaton Moor, Stockport, Eng. | England. | Medicine Hat. | Dec. | 1914. |
 | 2 | 687<br>743<br>3800<br>777 |  | Major  | Baty, William  | S. A. | Baty, Mrs. Marjory  | Edmonton, Alta   | England. | Medicine Hat. | May | 1915. |

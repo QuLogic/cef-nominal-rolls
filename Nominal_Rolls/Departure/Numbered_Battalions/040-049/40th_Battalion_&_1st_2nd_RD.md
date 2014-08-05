@@ -3,10 +3,35 @@ title: 40th Battalion & 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | ! | Canadian Expeditionary | Force | also | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | [ Port: Quebec. | 40th Battalion \ Ship: S.S. " Saxonia." | ^ Date: October 18th, 1915. | 30m-7-16. | 11.0. 553-2-2 . | 1st Reinfc icing Draft | 2nd Rc'i ' c'ng Draft | Port: Halifax. | Ship: S.S. 'Caledonia.” | Date: June 15th, 1915. | Port: Montreal. | Ship: S.S. “ Missanabie." | Date: October 9th, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+!<br>
+Canadian Expeditionary<br>
+Force<br>
+also<br>
+1st and 2nd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+[ Port: Quebec.<br>
+40th Battalion \ Ship: S.S. " Saxonia."<br>
+^ Date: October 18th, 1915.<br>
+30m-7-16.<br>
+11.0. 553-2-2 .<br>
+1st Reinfc icing Draft<br>
+2nd Rc'i ' c'ng Draft<br>
+Port: Halifax.<br>
+Ship: S.S. 'Caledonia.”<br>
+Date: June 15th, 1915.<br>
+Port: Montreal.<br>
+Ship: S.S. “ Missanabie."<br>
+Date: October 9th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 2055<br>573<br>3445<br>602 |  |  |  |  |  |  | Country of |
 | 2 | 867<br>715<br>3946<br>750 |  | Lt.-Col  | Vincent, Arthur Gustave  | R.O   | Vincent, Mrs. Susannah.. | c o Mips Whitman, Tupperville, Annapolis | England  | Valcartier   | April | 9,1915. |
 | 2 | 865<br>745<br>3947<br>779 |  | Major  | Andrews, Charles Abner  | C.F.A   | Andrews, Edith E  | Mahore Bay, Lunenburg Co., N.S.. | Canada  | Valcartier   | Sept. | 13.1915. |

@@ -3,10 +3,26 @@ title: 174th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+% ■:<br>
+- & ~ / 7 <■)<br>
+(ISSUED WITH MILITIA ORDERS, 1917)<br>
+Canadian Expeditionary<br>
+Force<br>
+174tli BATTALION<br>
+Nominal Roll of Officers, Non-C ommissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m9)7 Skip: S.S. “Olympic.”<br>
+59.1-2-29 Date: April 29, 1917<br>
+X.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | % ■: | - & ~ / 7 <■) | (ISSUED WITH MILITIA ORDERS, 1917) | Canadian Expeditionary | Force | 174tli BATTALION | Nominal Roll of Officers, Non-C ommissioned | Officers and Men | EMBARKATION | Port: Halifax, N.S. | 3m9)7 Skip: S.S. “Olympic.” | 59.1-2-29 Date: April 29, 1917 | X. |
 | 2 | 840<br>550<br>2576<br>577 |  | Former Corps. |
 | 2 | 649<br>701<br>3480<br>732 |  |  |  |  | 1916 | Osier, Hugh Farquharscn.. | 79th Regt  | Os'ler, Mrs. Kathleen  | 485 Wellington Cres., Winnipeg, Man  |
 | 2 | 650<br>731<br>3482<br>761 |  |  |  |  | 1916 | Sinclair, William Henry... | 79th Regt   | Sinclair, Mrs. Estelle K., | 954 McMillan Ave., Winnipeg, Man  |

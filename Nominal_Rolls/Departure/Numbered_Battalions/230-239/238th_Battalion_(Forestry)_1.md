@@ -3,10 +3,23 @@ title: 238th Battalion (Forestry) 1
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+238th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-9-17. Ship; S.S. “Scandinavian.”<br>
+593-2-29. Date: September 13th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 238th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-9-17. Ship; S.S. “Scandinavian.” | 593-2-29. Date: September 13th, 1916. |
 | 2 | 765<br>508<br>3269<br>541 |  |  | Former Corps. |  |  | Country of |
 | 2 | 681<br>654<br>3772<br>687 | Lieut.-Colonel.. | Smyth, William Ross  | Can. Mil  | Smyth, Mrs. Nancy.  | Rydal Bank, Ont  | Scotland. | Ottawa. | June | 1, 1916. |
 | 2 | 681<br>684<br>3772<br>717 | Major  | Campbell, Charles Vincent.. | 51st Regt  | Campbell, Mrs. Martha  | 145 Prin St., Sault Ste. Marie, Ont  | Canada.. | Ottawa. | June | 15, 1916. |

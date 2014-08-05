@@ -3,10 +3,23 @@ title: 126th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+126th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-l-17. Ship: S.S. 11 Empress of Britain.'<br>
+593-2-29. Date: August 14th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 126th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-l-17. Ship: S.S. 11 Empress of Britain.' | 593-2-29. Date: August 14th, 1916. |
 | 2 | 758<br>572<br>3263<br>601 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 668<br>716<br>3758<br>747 |  | Lieut.-Colonel... | Hamilton, Frederick John  | 36 th Regt.. | Hamilton, Mrs. Ethel Mary  | Port Credit, Ont  | Canada... | Toronto  | Mar. | 7, 1916. |
 | 2 | 668<br>741<br>3757<br>777 |  | Major  | Bird, Henry Irvine  | 10th Regt. . | Bird, Thomas A  | 9i* South Drive, Toronto, Ont  | Canada... | Toronto  | Mar. | 8, 1916. |

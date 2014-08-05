@@ -3,10 +3,23 @@ title: 121st Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+121st BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-l-17. Ship: S.S. “ Empress of Britain.”<br>
+593-2-29. Date: August 14th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 121st BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-l-17. Ship: S.S. “ Empress of Britain.” | 593-2-29. Date: August 14th, 1916. |
 | 2 | 591<br>539<br>3283<br>611 | U |  |  | Former Corps. |  |  | Country of |
 | 2 | 687<br>722<br>3777<br>754 |  | Lieut.-Colonel. | McLelan, Archibald Woodbury... | 11th R«gt... | McLelan, Mrs. Marie A  | 2625, 1st Ave. W., Vancouver, B.C  | Canada  | New Westm’ter | Dec. | 1915. |
 | 2 | 686<br>747<br>3777<br>784 |  | Major  | Brown, Albert Malcolm  | 11th Regt... | Brown, Mrs. Edith Elizabeth  | 36th Ave., Kerrisdale, B.C    | England  | New Westm'ter | Dec. | 1915. |

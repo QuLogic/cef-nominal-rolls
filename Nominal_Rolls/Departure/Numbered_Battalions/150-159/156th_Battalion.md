@@ -3,10 +3,23 @@ title: 156th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+156th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3ra-l-l7. Ship: S.S. “Northland."<br>
+593-2-29. Date: October 19th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 156th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3ra-l-l7. Ship: S.S. “Northland." | 593-2-29. Date: October 19th, 1916. |
 | 2 | 764<br>565<br>3267<br>596 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 677<br>707<br>3762<br>740 |  | Lieut.-Colonel... | Bedell, Thomas Casey Dorland . | 56th Regt  | Bedell, Mrs. Laura  | Merrickville, Ont  | Canada  | Brockville— | May | 3, 1916. |
 | 2 | 676<br>736<br>3762<br>769 |  | Major  | Edwards, Herbert Hamilton | 41st Regt  | Edwards, Walter Hamilton  | Ill King St. E., Brockville, Ont    | England  | Brockville... | Dec. | 1915. |

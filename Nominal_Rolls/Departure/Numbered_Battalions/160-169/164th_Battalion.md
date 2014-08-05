@@ -3,10 +3,23 @@ title: 164th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+164th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-y-17. Ship: S.S. “ Carpathia.”<br>
+593-2-29. Date: April 11th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 164th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-y-17. Ship: S.S. “ Carpathia.” | 593-2-29. Date: April 11th, 1917. |
 | 2 | 772<br>550<br>3287<br>588 |  | Rank. |  |  |  |  | Country of | Former Corps. |
 | 2 | 697<br>809<br>3786<br>848 |  | Major  | Walters, Chester Samuel  | 91st Regt  | Walters, Mrs. Annabel Mary  | 38 Melrose Ave., Hamilton, Ont  | Canada  | Camp Borden. . | Sept. 19, 1916. |
 | 2 | 3093<br>838<br>3785<br>864 |  |  |  |  |  |  | Canada  | Milton  | Mar. 30, 1916. |

@@ -3,10 +3,25 @@ title: 27th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | i ■ | 27th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Quebec. | 10m-ll-15. Ship: S.S. “ Carpathia." | H.Q. 593-2-29. Date: May 17th, 1915. | *  |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+i ■<br>
+27th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Quebec.<br>
+10m-ll-15. Ship: S.S. “ Carpathia."<br>
+H.Q. 593-2-29. Date: May 17th, 1915.<br>
+* 
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 885<br>532<br>3420<br>566 |  |  |  |  | Name of Next of Kin. |  | Country of |
 | 2 | 798<br>675<br>3854<br>712 |  | Lieut.-Col. | Snider, Irvine Robinson   | 99th Regt... | Snider, Ellen  | Portage la Prairie, Man  | Canada  | Winnipeg. | Nov. | 4, 1914. |
 | 2 | 797<br>704<br>3853<br>742 |  | Major  | Andros, Ralph Craven  | R.N.W.M.P. | Andros, Mrs. R. C  | Sub. 2 P.O., Victoria, B.C  | Canada  | Winnipeg. | Nov. | 16, 1914. |

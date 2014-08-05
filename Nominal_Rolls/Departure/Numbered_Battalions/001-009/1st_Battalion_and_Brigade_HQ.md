@@ -3,10 +3,38 @@ title: 1st Battalion and Brigade HQ
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | -r It, ■ • • -rX ‘ >r- >• - /- | . ■ ?* k >tv. '• -r> ~ t- * r- | * £ ‘g £;<?. ' * | ^ ' | A ' ; ' ~ . | i ' .. ■’ : -‘-7 = ; T ' | 1st Infantry Brigade Headquarters | * | and | . ; - • ,x • i •*!:*•*>>.• . •; | 1st Battali-on | 4s -t | - ., . :V - '■ ! | . • | . ■ . : f-> | • ‘ ; | :v - . ■ *4! ! | . .> i . <, . r - ’ i* • i I »M* | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 10 m-5-15. | H.Q. 593-2-29. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+-r It, ■ • • -rX ‘ >r- >• - /-<br>
+. ■ ?* k >tv. '• -r> ~ t- * r-<br>
+* £ ‘g £;<?. ' *<br>
+^ '<br>
+A ' ; ' ~ .<br>
+i ' .. ■’ : -‘-7 = ; T '<br>
+1st Infantry Brigade Headquarters<br>
+*<br>
+and<br>
+. ; - • ,x • i •*!:*•*>>.• . •;<br>
+1st Battali-on<br>
+4s -t<br>
+- ., . :V - '■ !<br>
+. •<br>
+. ■ . : f-><br>
+• ‘ ;<br>
+:v - . ■ *4! !<br>
+. .> i . <, . r - ’ i* • i I »M*<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+10 m-5-15.<br>
+H.Q. 593-2-29.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | <br><br><br> |  |
 | 3 | 265<br>230<br>2810<br>262 |  |  |  | Name o{ Next of Kin. |  | Birth. |
 | 3 | 172<br>376<br>2564<br>410 | Lieut.-Col.., | Mercer, Malcolm Smith  | 2nd Regt  .. | Mercer, F. T      | 158 St. Johns Road, Toronto, Ont. ,.. |

@@ -3,10 +3,30 @@ title: 122nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 122nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | i Port: Halifax, N. S. | 122nd Battalion. j Ship: S.S. “Olympic.” | ( Date: June 2nd, 1917. | t Port: Halifax, N. S. | 2 Officers, 50 O. R. (Detail). J Ship: S.S. ‘‘Tunisian.” | [ Date: May 21st, 1917. | f Port: Halifax, N. S. | 3m-9.1T 2 Officers, 50 O. R. (Detail). J Ship: S.S. “Missanabie.” | 593.2-29 ( Date: May 21st, 1917. | *-■ |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+122nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+i Port: Halifax, N. S.<br>
+122nd Battalion. j Ship: S.S. “Olympic.”<br>
+( Date: June 2nd, 1917.<br>
+t Port: Halifax, N. S.<br>
+2 Officers, 50 O. R. (Detail). J Ship: S.S. ‘‘Tunisian.”<br>
+[ Date: May 21st, 1917.<br>
+f Port: Halifax, N. S.<br>
+3m-9.1T 2 Officers, 50 O. R. (Detail). J Ship: S.S. “Missanabie.”<br>
+593.2-29 ( Date: May 21st, 1917.<br>
+*-■
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 573<br>585<br>2857<br>622 | § © |  |  | Former Corps. | Nairre of Next o£ Kin |
 | 2 | 659<br>754<br>3761<br>786 |  | Lieut.-Colonel, | IGrant, Donald McKenzie  | 35 th Regt  | Grant, Mrs. Marguerite.. | Huntsville, Ont  |  | Huntsville... | Nov. | 16, | 1915 |
 | 2 | 659<br>786<br>3759<br>820 |  | Major  | 'Ramsden, George Alexander. | 35th Regt  | Ramsden, Mrs. Margaret., | Midland, Ont.  |  | Gravenhurst. | Mar. | 2, | 1916 |

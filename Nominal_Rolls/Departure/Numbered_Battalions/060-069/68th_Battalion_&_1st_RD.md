@@ -3,10 +3,27 @@ title: 68th Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+68th BATTALION<br>
+and Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+[ Port: Halifax, N.S.<br>
+6Sth Battalion < Ship: S.S. “Olympic.”<br>
+^ Date: April 28th, 1916<br>
+f Port: Montreal, P.Q.<br>
+Reinforcing Draft < Ship: S.S. “Corsican."<br>
+[ Date: Sept. 25th, 1915.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 68th BATTALION | and Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | [ Port: Halifax, N.S. | 6Sth Battalion < Ship: S.S. “Olympic.” | ^ Date: April 28th, 1916 | f Port: Montreal, P.Q. | Reinforcing Draft < Ship: S.S. “Corsican." | [ Date: Sept. 25th, 1915. |
 | 2 | 371<br>508<br>3073<br>544 | ,§S5 |  |  | Former Corps. |  |  | Country of |
 | 2 | 467<br>656<br>3573<br>689 |  | Lieut.-Colonel | Perrett, Thomas Edwin  | 95th | Regt.. | Perrett, Mrs. Jnssio Wright | 2554 ltotnllock St., Regina, Sask. | Canada  | Regina.. | July | 0, 1915. |
 | 2 | 465<br>686<br>3573<br>721 |  | Major  | Anderson, Fre derick Walter G. | 05 th | Regt.. | Anderson, O. C  | 817,15th Ave. W., Calgary, Alta.. | Canada  | Regina.. | Aug. | 17, 1915. |

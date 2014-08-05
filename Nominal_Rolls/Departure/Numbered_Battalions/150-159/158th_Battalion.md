@@ -3,10 +3,23 @@ title: 158th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+158th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+. EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-3-i7. Ship: S.S. 41 Olympic.”<br>
+593-2-29. Date: November 14th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 158th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | . EMBARKATION | Port: Halifax, N.S. | 3m-3-i7. Ship: S.S. 41 Olympic.” | 593-2-29. Date: November 14th, 1916. |
 | 2 | 526<br>570<br>3226<br>612 | is |  |  | Former Corps. |  |  | Count ry of |
 | 2 | 624<br>722<br>3720<br>758 |  | Lieut.-Colonel. | Milne, Charles  | 6th Regt. | Milne, Mrs. Charlotte Maude. | 876 Jervis St., Vancouver, B. C  | Scotland. | Vancouver. | Jan. 11, 1916. |
 | 2 | 624<br>751<br>3718<br>787 |  | Major  | Duncan, George Bruoe. | 6th Regt. | Duncan, Mrs. H. W  | a Aberdeen Terr., Blackheath, London, Eng  | England.. | Vancouver. | Jan. 1, 1916. |

@@ -3,10 +3,34 @@ title: 65th Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+' f a ,<br>
+• t<br>
+l cl ^ j.i c<br>
+iixpeclmonai<br>
+H<br>
+and<br>
+Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+[ Port: HaJifai, K.S.<br>
+CSth Battalion < Ship: S.S. ** Empress oi Eri'.iti<br>
+[ D.iie: June ISih, :?16.<br>
+f<br>
+j Pert: .-»?n‘real.<br>
+Rein'eieSo£ Draft i Shi-D: s-s- “Corsican."<br>
+lfia-S>-14- ' ‘ ; D:.fc: S-.plarabcr 25th, 1915.<br>
+SP3-2-29. I ‘<br>
+I<br>
+i
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | ' f a , | • t | l cl ^ j.i c | iixpeclmonai | H | and | Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | [ Port: HaJifai, K.S. | CSth Battalion < Ship: S.S. ** Empress oi Eri'.iti | [ D.iie: June ISih, :?16. | f | j Pert: .-»?n‘real. | Rein'eieSo£ Draft i Shi-D: s-s- “Corsican." | lfia-S>-14- ' ‘ ; D:.fc: S-.plarabcr 25th, 1915. | SP3-2-29. I ‘ | I | i |
 | 2 | <br><br><br> | iillililii | U\ i ifffllfl|IpsSffilftfllIrpl|ffNiiii | it | rg" a -' ■? 5’i?l Jl^-3 | *"* 3. i: £ ^ *“■£■ = | = ii.; .- 2. .-* ? - ~C :' r 3 - =" - '< - r =• “ = 5 2 s - _ 5 --. 5 | ir’in *=2r5--3 * ;;i>2i5 as.2J* r.r?»r3 | f | ; cc j | • r s " | • ■ 2 | :?T | : 3.“ | 2 | = | ? | HI | ; : f-- | * • E ” | Nil | =.* | 3: | I: | I': | 5 T-: | 5 * | Hf | 3: | MS 02- S-J^- 3 “5 5 V ■•'- • | r3 - - jF-^5.j»- : 2-' < Jxf: | 7 ^ ='S't | •'• 5 = ,■•= | 3-1;? | K^ = £ | * ?? | :* £• | ;. -4 =■£.= j-g-S.g g s. ;■= = j. s | ri- iFni^iFFif"' | .5 • = --.r-- f • | -- - i '. - ;5' ~ - | o c. . r x-^c 3 : | • - a - ■= - | 5 ’ f ' ' 2 'T 7t * *r • | rtr^iiW: | £-='? ;; E.F | r- = =_ = | m rr rrc rrrr;-s 5T? rrfsr?: | rs)jr^p = r!r='=:3-—=33^=3—• | •}: : : g : : : : : R: | Itlrllllfrtllllllil | -E.f-K| ? f f f f HWrClH | mmmmuilmmm | KHKKIZz 1 IMesTD rrr|.rrrr | ' ~”  II | 11 | ' * 2 S' 8 5 > > f I3 a S 9 S > i § e « ; | tscrs-.- — scrsBctir—j; | Tn: | SI: | •r- cs -r o 0 ^ o o 0 o o 000000 -c -. -c ^ | y c* y C5 yi c“ i- ir» — o j- cscn i,-« op?p ~ c*< | >f 2 2'? J's> Jsr *> ? '«!•'=• >* | ? 5.--C i't ^ r ? 5 "= ? ? 5, Cj"= =-?q 3.5 s -5-c? | «c « -c tr o -w ctf soo o o ~ to <c -3 '3 Cb ^ o | O p O* — C-'< y- w*. p c** C5 C,T zn Cl wT 4r> C* i.1 v» t> v» is* c-» *j« | Regimeatal | No. | 1 | 1 | 3. | 2 | 3 | 2. | fe | 2. | I | a | VI | SS | ► | H | H | 1 |
 | 3 | 475<br>260<br>3669<br>296 | 47?70"»j Privet ^  |  | Anderson, Frit'..,, ,   | Nil  | Anderson. i’. A  | IQuoppoI, B.C  .......   |  | iSarkatoon.. | i D»’C. | <!, l'»5. |
 | 3 | 482<br>290<br>3670<br>325 | • ;*■'<»! grant  |  | ArtlriMMM, lin>:li  | Nil  | Amlnj-son, Mm. Anna.... | j407 'J'hompson ChambrMM, Sa*kat<H)n,   |  | ;S«*otlaiid. .. | j< h't. | It., i'.M.'). |

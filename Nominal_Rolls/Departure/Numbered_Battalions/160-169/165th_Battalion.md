@@ -3,10 +3,23 @@ title: 165th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS. 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+165th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-9-l7. Ship: S.S. “Metagama.”<br>
+S93'2'29- Date: March 28th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS. 1917.) | Canadian Expeditionary | Force | 165th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-9-l7. Ship: S.S. “Metagama.” | S93'2'29- Date: March 28th, 1917. |
 | 2 | 724<br>598<br>3217<br>633 |  |  | Former Corps. |  |  | Country of |
 | 2 | 642<br>741<br>3714<br>776 | Lieut.-Colonel... | D’Aigle, Louis C  | Can. Mil  | D’Aigle, David. | Petite Aldouane, Kent Co.,N.B. | Canada. | Moncton. | April 3,1916. |
 | 2 | 642<br>776<br>1624<br>805 | Major  | Boucher, Placide  | 93rd Regt  |

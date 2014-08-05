@@ -3,10 +3,39 @@ title: 53rd Battalion & 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 53rd BATTALION | also | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | lOm-lO-16. | 593-2-29.' | 53rd Battalion | 1st Reinforcing Draft | 2nd Reinforcing Draft | Port: | Ship: | Date: | EMBARKATION | Halifax, N.S. | 5.5. "Empress of Britain." | March 29th, 1916. | Montreal. | 5.5. "Scandinavian." | June 17th, 1915. | Montreal. | 5.5. " Missanabie." | September 4th, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+53rd BATTALION<br>
+also<br>
+1st and 2nd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+lOm-lO-16.<br>
+593-2-29.'<br>
+53rd Battalion<br>
+1st Reinforcing Draft<br>
+2nd Reinforcing Draft<br>
+Port:<br>
+Ship:<br>
+Date:<br>
+EMBARKATION<br>
+Halifax, N.S.<br>
+5.5. "Empress of Britain."<br>
+March 29th, 1916.<br>
+Montreal.<br>
+5.5. "Scandinavian."<br>
+June 17th, 1915.<br>
+Montreal.<br>
+5.5. " Missanabie."<br>
+September 4th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 872<br>562<br>3357<br>594 |  |  | Former Corps. |  |  | Country of |
 | 2 | 694<br>589<br>3794<br>635 | & |  |  |  |  |  | Place. | Date. |
 | 2 | 783<br>708<br>3846<br>741 | Lieut.-Colonel... | Dennistoun, Robert Maxwell  | 57th Regt.. | Dennistoun, Mildred...'  | 166 Roslyn Rd., Winnipag, Man  | Canada  | Valcar. ier  | Sept. 25, 1914. |

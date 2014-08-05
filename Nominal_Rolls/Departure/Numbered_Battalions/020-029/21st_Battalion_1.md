@@ -3,10 +3,22 @@ title: 21st Battalion 1
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+V 'ISSUED WITH MILITIA ORDERS, 1915)<br>
+VS* ^<br>
+21st BATTALION<br>
+Nominal RcU of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Port; Montreal.<br>
+Ship: S.S. "Metagama.<br>
+Date: May 6th, 1915,
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | V 'ISSUED WITH MILITIA ORDERS, 1915) | VS* ^ | 21st BATTALION | Nominal RcU of Officers, Non-Commissioned | Officers and Men | EMBARKATION | Port; Montreal. | Ship: S.S. "Metagama. | Date: May 6th, 1915, |
 | 2 | 630<br>349<br>3201<br>384 |  |  |  | Name of Next of Kin. |  | ('omit ry of |
 | 2 | 541<br>494<br>3644<br>529 |  | Hughes, William St. Pierre. ... | 14 th Regt. . | Lieut.-Col.. | Hughes, Mrs. Jessie \\.... | 155 Stewart St., Ottawa, Ont.    | Canada... | Kingston. | Nov. | 11, 1914. |
 | 2 | 542<br>524<br>3644<br>558 |  | lien nett, Charles Corbishley... | S. A  | Major  | Bennett, Ethel May  | e/o Royal Bank of Canada, Kingston, Ont.... | Canada... | Kingston. | Nov. | 1, 1914. |

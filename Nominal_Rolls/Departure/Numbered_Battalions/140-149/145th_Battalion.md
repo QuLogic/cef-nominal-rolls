@@ -3,10 +3,28 @@ title: 145th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | •■SA | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | Umcers and Men, | ; • s.£ . • | . i v K' - J: V •*••• ' x ■., 1 ~ & X ft • tv ?"t •. ' v |    - r* -,■* 'w wi.-y C'-' V > i. K | * ■ | r. . ... ... f | : •’ ii | V-: | t EMBARKATlbN | ,   , ..Port: Halifax, N.S. | 7. Ship: S.S. " Tuscania." | 593-2-29.; ’ • ' Date: September 25th, 1916. |
+•■SA<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+Umcers and Men,<br>
+; • s.£ . •<br>
+. i v K' - J: V •*••• ' x ■., 1 ~ & X ft • tv ?"t •. ' v<br>
+   - r* -,■* 'w wi.-y C'-' V > i. K<br>
+* ■<br>
+r. . ... ... f<br>
+: •’ ii<br>
+V-:<br>
+t EMBARKATlbN<br>
+,   , ..Port: Halifax, N.S.<br>
+7. Ship: S.S. " Tuscania."<br>
+593-2-29.; ’ • ' Date: September 25th, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 570<br>561<br>3269<br>610 | Jl |  |  | Former Corps. |  |  | Country of |
 | 2 | 2551<br>626<br>3710<br>656 |  |  |  |  |  |  |  | Place. | Date. |
 | 2 | 646<br>611<br>3129<br>681 |  | • |  |  | '<f |  | • -, |

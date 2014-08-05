@@ -3,10 +3,368 @@ title: 85th Battalion (Manual Typed Roll - Unknown Source)
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | Bartlett JT Pte | Bellanger V/ Pte | Boutilier EGE Pte | Bowers JWA Pte | Brin .mail BHH Pte | Brown FW Pte | Bulme LC Pte | Cahill WW Cpl | Collins RC L/Cpl | MacLeod GR | Diprose W1I | Dorey EW | Ennis EJ | Foley MJ Pte | Fraser RB L/Cpl | Me Aulay JR CQMS | Pace PB Pte | Hardy C L/CpL | Harris H Pte | kellock Sgt | liline TJ Pte | matter CW | 85 CAN 1 i.F ;N-i | 222000 | 222001 | 222002 | 222005 | 222004 | 222005 | 222006 | 222007 | 222008 | 222009 | 222010 | 222011 | 222012 | 222013 | 222014 | 2 a® 15 | 222016 | 222017 | 222013 | 222019 | 222020 | 222021 | 222022 | 222023 | 222024 | 222025 | 222026 | 222027 | 222 ■28 | 2 2 20 '/o | 222030 | 2220 31 | 222032 | 22203? | 222034 | 222035 | 222036 | 222037 | 222038 | 222039 | 222040 | 222041 | 22204? | 222043 | 222044 | 222045 | 222046 | 22204/ | 2P204a | 222049 | 222050 | 222051 | 222052 | 222053 | 222054 | 222055 | 222056 | 222057 | 222058 | 222059 | 222060 | 222061 | 222062 | 222063 | 222064 | 2220 65 | 222066 | 2220 67 | 2.220 68 | 2220 69 | 222070 | 222071 | 222072 | 222073 | 222074 | 222075 | 222076 Moors KJ Pte | 222077 Morgan CG Pte | 222078 | 222079 | 222080 | Sgt | S«t | Sgt | Ci | uuo | 222081 | 222082 | 222083 | 222084 | 222085 | 222086 | 2220 87 | 222088 | 222089 | 222090 | 222091 | 2220Q2 | 222093 | 222094 | 222095 | 222096 | 222097 | 222098 | 222099 | 222100 | 222101 | 222102 | 222103 | 222104 | 222105 | 222106 | 222107 | 222108 | Hayward FA Pte | Horne GW Sgt MM | Mulealiy CR Pte | Kir patric. HW | Murphy E Pte | McDonald GE Pte | SgtBUdeG 222109 | 222110 | Iviclnnis JR Pte | Collins C | Mason SL Pte | Annand C D Pte | Bced JA Sgt MM | Bonnoll RG L/Cpl | Burrowo A Pte | Campbell ,JH Sgt | Carew FJ Pte | Gofty A Pte | Colling C Pte | Davidson JW L/Cpl | Davis KS Cpl | Demeu JC Sgt | DeWbll* TAS Pte | Gates IMS L/Cpl MI | Gay GL Pte | Glancy JW Cpl | Hamilton BM Sgt | Hopkins RE Cpl | Jackson J Pte | Jodrey W Pte | 222111 | 222112 | 222113 | 222114 | 222115 | 222116 | 222117 | 222118 | 222119 | MM 222120 | Mclntaggart J | McLean D Pte | Haley GA Sgt | Nelson FA Sgt | French P Pte | McDonald HJ Pte | Robinson JH RSM | Riou A Sgt | Richaftdson AG | Richards L Pte | Pyke GP Pte | Proctor RR Pte | Parlee Cl Pte | Colp BG Cpl | Pte | Rowley | Ryan J | A Pte | Pte | 222121 | 222122 | 222123 | 222124 | 222125 | 222126 | 222127 | 222128 | 222129 | :222130 | 222131 | 222132 | 222133 | 22213i3Ware | 222134 West | Smith WR Pte | Spences WG Pte | Sweet HK | Thompson | Pte | WR Pte | 222147 | 222148 | 222140 | 222150 | 222151 | 222152 | 222153 | 222154 | 222155 | Pte 222156 | 222157 | 22215f | 222158 | 222160 | 222161 | 222162 | 222163 | 222164 | MM | 222165 | 222166 | 222167 | 222168 | 222169 | 222170 | 222171 | 222172 | 222173 | 222174 | L/Sgt222175 | 222176 | 222177 | 222178 | 222179 | 222180 | 222181 | 222182 | 222183 | 222184 | 222185 | 222186 | 222187 | 222188 | 222189 | 222190 | 222191 | 222192 | 222193 | 222194 | 222195 | 222196 | 222197 | 222198 | 222199 | 222200 | 222201 | Colley G Pte | Cur11 MH Sgt | Dauphines SO Pte | Foster OB Pte | Gerrard M Pte | Moore A Pte | Maser RR Pte | Williams SF Sgt | MM | Pender GM Pte | Owen CJ Sgt MSM | Bowran JS Pte | Clark JW Cpl | Harvey CH Pte | Holland JW Pte MR | Holmes FW Cpl | Hornes A Pte | Tart ATI Pte | Kent RF Pte | Lavott | CW | Pte | 222135"Wheaton | 222136 | 222137 | 222138 | 222139 | 222140 | 222141 | 222142 | 222143 | 222144 | 222145 | 222146 | Toomey GW Cpl | Vaughan R Pte | Wadley EJ Sgt | Wainwright EP L/Cpl222202 | 222203 | TE L/Cpl | JP Pte | CH Pte | HS Cpl | JM Pte | Ward | Wood | Yould | Yo ung | JO | LE | Pte | Pte | Wentael E Pte | 222204 | 222205 | $2200 6 | 222207 | 222208 | 22220 9 | 222210 | 222211 | 222212 | 222213 | 222214 | 222215 | 222216 | 222211 | 222218 | 222219 | Firth A | Hamm AL Sgt | Smith T Cpl | Osborne WJ L/GTpl | Butler R Sgt | Hudson WJT Pte | Allen A Pte | Duncan J Pte | Caster S Pte | Thornton J Sgt | Ferguson WD Pte | Lightle JL Pte | Dunbrack CM Pte |
+Bartlett JT Pte<br>
+Bellanger V/ Pte<br>
+Boutilier EGE Pte<br>
+Bowers JWA Pte<br>
+Brin .mail BHH Pte<br>
+Brown FW Pte<br>
+Bulme LC Pte<br>
+Cahill WW Cpl<br>
+Collins RC L/Cpl<br>
+MacLeod GR<br>
+Diprose W1I<br>
+Dorey EW<br>
+Ennis EJ<br>
+Foley MJ Pte<br>
+Fraser RB L/Cpl<br>
+Me Aulay JR CQMS<br>
+Pace PB Pte<br>
+Hardy C L/CpL<br>
+Harris H Pte<br>
+kellock Sgt<br>
+liline TJ Pte<br>
+matter CW<br>
+85 CAN 1 i.F ;N-i<br>
+222000<br>
+222001<br>
+222002<br>
+222005<br>
+222004<br>
+222005<br>
+222006<br>
+222007<br>
+222008<br>
+222009<br>
+222010<br>
+222011<br>
+222012<br>
+222013<br>
+222014<br>
+2 a® 15<br>
+222016<br>
+222017<br>
+222013<br>
+222019<br>
+222020<br>
+222021<br>
+222022<br>
+222023<br>
+222024<br>
+222025<br>
+222026<br>
+222027<br>
+222 ■28<br>
+2 2 20 '/o<br>
+222030<br>
+2220 31<br>
+222032<br>
+22203?<br>
+222034<br>
+222035<br>
+222036<br>
+222037<br>
+222038<br>
+222039<br>
+222040<br>
+222041<br>
+22204?<br>
+222043<br>
+222044<br>
+222045<br>
+222046<br>
+22204/<br>
+2P204a<br>
+222049<br>
+222050<br>
+222051<br>
+222052<br>
+222053<br>
+222054<br>
+222055<br>
+222056<br>
+222057<br>
+222058<br>
+222059<br>
+222060<br>
+222061<br>
+222062<br>
+222063<br>
+222064<br>
+2220 65<br>
+222066<br>
+2220 67<br>
+2.220 68<br>
+2220 69<br>
+222070<br>
+222071<br>
+222072<br>
+222073<br>
+222074<br>
+222075<br>
+222076 Moors KJ Pte<br>
+222077 Morgan CG Pte<br>
+222078<br>
+222079<br>
+222080<br>
+Sgt<br>
+S«t<br>
+Sgt<br>
+Ci<br>
+uuo<br>
+222081<br>
+222082<br>
+222083<br>
+222084<br>
+222085<br>
+222086<br>
+2220 87<br>
+222088<br>
+222089<br>
+222090<br>
+222091<br>
+2220Q2<br>
+222093<br>
+222094<br>
+222095<br>
+222096<br>
+222097<br>
+222098<br>
+222099<br>
+222100<br>
+222101<br>
+222102<br>
+222103<br>
+222104<br>
+222105<br>
+222106<br>
+222107<br>
+222108<br>
+Hayward FA Pte<br>
+Horne GW Sgt MM<br>
+Mulealiy CR Pte<br>
+Kir patric. HW<br>
+Murphy E Pte<br>
+McDonald GE Pte<br>
+SgtBUdeG 222109<br>
+222110<br>
+Iviclnnis JR Pte<br>
+Collins C<br>
+Mason SL Pte<br>
+Annand C D Pte<br>
+Bced JA Sgt MM<br>
+Bonnoll RG L/Cpl<br>
+Burrowo A Pte<br>
+Campbell ,JH Sgt<br>
+Carew FJ Pte<br>
+Gofty A Pte<br>
+Colling C Pte<br>
+Davidson JW L/Cpl<br>
+Davis KS Cpl<br>
+Demeu JC Sgt<br>
+DeWbll* TAS Pte<br>
+Gates IMS L/Cpl MI<br>
+Gay GL Pte<br>
+Glancy JW Cpl<br>
+Hamilton BM Sgt<br>
+Hopkins RE Cpl<br>
+Jackson J Pte<br>
+Jodrey W Pte<br>
+222111<br>
+222112<br>
+222113<br>
+222114<br>
+222115<br>
+222116<br>
+222117<br>
+222118<br>
+222119<br>
+MM 222120<br>
+Mclntaggart J<br>
+McLean D Pte<br>
+Haley GA Sgt<br>
+Nelson FA Sgt<br>
+French P Pte<br>
+McDonald HJ Pte<br>
+Robinson JH RSM<br>
+Riou A Sgt<br>
+Richaftdson AG<br>
+Richards L Pte<br>
+Pyke GP Pte<br>
+Proctor RR Pte<br>
+Parlee Cl Pte<br>
+Colp BG Cpl<br>
+Pte<br>
+Rowley<br>
+Ryan J<br>
+A Pte<br>
+Pte<br>
+222121<br>
+222122<br>
+222123<br>
+222124<br>
+222125<br>
+222126<br>
+222127<br>
+222128<br>
+222129<br>
+:222130<br>
+222131<br>
+222132<br>
+222133<br>
+22213i3Ware<br>
+222134 West<br>
+Smith WR Pte<br>
+Spences WG Pte<br>
+Sweet HK<br>
+Thompson<br>
+Pte<br>
+WR Pte<br>
+222147<br>
+222148<br>
+222140<br>
+222150<br>
+222151<br>
+222152<br>
+222153<br>
+222154<br>
+222155<br>
+Pte 222156<br>
+222157<br>
+22215f<br>
+222158<br>
+222160<br>
+222161<br>
+222162<br>
+222163<br>
+222164<br>
+MM<br>
+222165<br>
+222166<br>
+222167<br>
+222168<br>
+222169<br>
+222170<br>
+222171<br>
+222172<br>
+222173<br>
+222174<br>
+L/Sgt222175<br>
+222176<br>
+222177<br>
+222178<br>
+222179<br>
+222180<br>
+222181<br>
+222182<br>
+222183<br>
+222184<br>
+222185<br>
+222186<br>
+222187<br>
+222188<br>
+222189<br>
+222190<br>
+222191<br>
+222192<br>
+222193<br>
+222194<br>
+222195<br>
+222196<br>
+222197<br>
+222198<br>
+222199<br>
+222200<br>
+222201<br>
+Colley G Pte<br>
+Cur11 MH Sgt<br>
+Dauphines SO Pte<br>
+Foster OB Pte<br>
+Gerrard M Pte<br>
+Moore A Pte<br>
+Maser RR Pte<br>
+Williams SF Sgt<br>
+MM<br>
+Pender GM Pte<br>
+Owen CJ Sgt MSM<br>
+Bowran JS Pte<br>
+Clark JW Cpl<br>
+Harvey CH Pte<br>
+Holland JW Pte MR<br>
+Holmes FW Cpl<br>
+Hornes A Pte<br>
+Tart ATI Pte<br>
+Kent RF Pte<br>
+Lavott<br>
+CW<br>
+Pte<br>
+222135"Wheaton<br>
+222136<br>
+222137<br>
+222138<br>
+222139<br>
+222140<br>
+222141<br>
+222142<br>
+222143<br>
+222144<br>
+222145<br>
+222146<br>
+Toomey GW Cpl<br>
+Vaughan R Pte<br>
+Wadley EJ Sgt<br>
+Wainwright EP L/Cpl222202<br>
+222203<br>
+TE L/Cpl<br>
+JP Pte<br>
+CH Pte<br>
+HS Cpl<br>
+JM Pte<br>
+Ward<br>
+Wood<br>
+Yould<br>
+Yo ung<br>
+JO<br>
+LE<br>
+Pte<br>
+Pte<br>
+Wentael E Pte<br>
+222204<br>
+222205<br>
+$2200 6<br>
+222207<br>
+222208<br>
+22220 9<br>
+222210<br>
+222211<br>
+222212<br>
+222213<br>
+222214<br>
+222215<br>
+222216<br>
+222211<br>
+222218<br>
+222219<br>
+Firth A<br>
+Hamm AL Sgt<br>
+Smith T Cpl<br>
+Osborne WJ L/GTpl<br>
+Butler R Sgt<br>
+Hudson WJT Pte<br>
+Allen A Pte<br>
+Duncan J Pte<br>
+Caster S Pte<br>
+Thornton J Sgt<br>
+Ferguson WD Pte<br>
+Lightle JL Pte<br>
+Dunbrack CM Pte
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | <br><br><br> | 05 CAK | 222220 | 222221 | 222222 | 222225 | 222224 | 22222rj | 222226 | 222227 | 222228 | 222229 | 222230 | 222231 | 222232 | 2222“$ | 222M* | 2222>5 | 222236 | 222237 | 222238 | 222259 | 222240 | 222241 | 222^42 | 222243 | 222244 | 222245 | 222246 | 222247 | 222248 | 222249 | 222250 | 222251 | 222252 | 222253 | 222254 | 222255 | 222256 | 222257 | 222258 | 222259 | 222260 | 222261 | 222262 | 222263 | 222264 | 222265 | 222265 | 222266 | 222267 | 222268 | 222269 | 222270 | 222271 | 222272 | 222273 | 222274 | 222275 | 222276 | 222277 | 222278 | 222279 | 222280 | 222201 | 222282 | 222283 | 222284 | 222285 | 222286 | 222287 | 222280 | 222289 | 222290 | 222291 | INF BN-2 | Ray OH Sgt | Slauenwhite F | Nicoll KG Pte | Colwell CV Sgt | Me Donald DJ Pte | Collins IiL Sgt | Chaisson JC Pte | Crombie J Pte | 222292 Carrighan D Pte | 222293 | Pte 222294 | 222295 | 222296 Chisholm GS Maj | 222297 Colburne HE Pte | 222298 Cooke AL Cpl | 222299 | 222300 Curry JW Pte | 222301 Monette 0J Pte222302373 | 222364 McWilliams W Pte | 222365 Neil J L/Cpl | 222366 | 222367 Templeton W Pte | 222368 Anderson C Pte | 222369 | 222370 | 222371 | 222372 | Atkinson CT L/Cpl | Bryson J Pte | 222302 | 222303 | Derbyshire W Pte 222304 Fulton MH Pte | 222305 | Edwards DJ Pte 222306 Hopton J Pte | Edwards EJ Pte 222397 Hughes E Sgt MM | Ferguson D Pte 222308 | Ferguson M Pte 222309 | Ferguson JA L/Cp22223l0 | 222311 | Fortune DJ Pte 222312 McDonald A Sgt MM&2Bars222384Ferguson DA Dte | 222374 | 222375 | 222376 | 222377 Bullock F Pte | 222378 Bungy W Pte | 222379 | 222380 | 222381 | 222382 | 222383 | Henry CJ Pte | Hickey M Pte | Hyde JW Pte | 222313 McKay N L/Cpl | 222314 | 222315 | 222316 | 222317 Patton FT Pte | 222318 | 222319 Koy A Cpl | 222320 | 222321 White A Pte | 222322 | 222323 Campbell J Pte | 222324 Cann J Pte | 222325 Carter J Pte | 222326 | 222327 Cranton F Pte | 222328 | 222329 Devean M Pte | 222339®Fahey P L/Cpl | 222331 Gadd S CSM MM | 222332 | Me Dougoll JD Pt*J222333 | 222334 Greens J L/Cpl | 222335 McCuish D Pte | 222336 McDonald AR Pte | 222337 McDonald HA Pte | 222338 | 222339 Mclnnis V Pte | 222340 McIntyre N Pte | 222341 | 222342 | 222343 MsrKee J Pte | 222344 McKenzie C Pte | McDonald AJ Pte | McDomald M Pte | McGowan J Pte | Surette XJ Pte | McIntyre AA Pte | McIntosh J Pte | Mclver JC Pte | Mclver A Pte | 222385 Hunter DJ S/Sgt | 222386 | 222387 Lockman R L/Cpl MM | 222388 | 222389 Barr WF Pte | 222389 Leonard J Pte | 222390 Lepine C Sgt | 222391 | 222392 Lewis T Pte | 222393 Luscombe A Pte | 222394 Morrison DJ Sgt | 222395 Mai Hard H Pte | 222396 Lynk M Pte MM | 222397 | 222398 Murray AG Pte | 222399 | 222400 | 222401 Matheson P Pte | 222402 Meecham J Pte | 222403 | 222404 Mudge G Sgt | 222405 Munroe JR Pte | 222406 McAree A CQMS MM | 222407 MeAulay A Pte | 222408 | 222409 McLean RC Sgt | 222410 McLean P Sgt DCM | 222411 McLennan JA Pte | 222412 McLeod D Sgt | 222413 McLeod MJ Pte | 222414 | 222415 | Simms | 222345 Me Vic ar N L/Cpl MH222416 McNeil AR Sgt DCM | 222346 Reeves H Pte 222417 McPhee W Pte | EJ Pte 222347 Riley W Pte 222418 McPherson AG Pte | Soears R L/Cpl 222348 Ross MA Pte 222419 | Taylor J Pte 2223^9 222420 | 222350 Ross AC L/Ggt 222421 | 222351 Sommerville RS Cpl MM 222422 | 222352 Taylqr CJ L/Cpl MM2224?5 | 222353 Walsh JC Sgt DCM 222424 Mclnnis DP L/Cpl | Vickers RH Pte | Wadden H Cpl | Ward J Pte | Wilson F Pte | 222354 Wilson G Pte | 222355 Wilson HC Pte | 222356 Wiseman W Pte | Anderson RC Pte 222357 Woods T Pte | Bickerton IT Cpl MM&BaT | Broods HJ Pte 222358 Young JK Pte | 222359 McLean DA Pte | 222360 McQueen A Pte | Brownell HA Pte | 222361 | 222362 Asnott T CQMS | 222063 | 222425 McKeigan H Pte | 222426 McKinnon A Pte | 222427 | 222428 McLeod MJ Pte | 222429 McLeod GA Sgt | 222430 | 222431 McMillan P Pte | 222432 McNeil JD Sgt AIM | 222433 | 222434 McQuarrie DE Pte | 222435 McRae MJ Sgt |
 | 3 | <br><br><br> | 85 OAi. i NF BN-3 | 222430 hicholson JN Pte 222508 | 222437 222509 | 222438 222510 | 2224'V> Pnnhur R Pto 222511 | 222440 Power K Pte 222512 | 222441 222513 | 222442 Patton RE Pte 222514 | 22244? Paric JM Pte 222515 | 222444 Proctor l'H L/Cpl 222516 | 222445 222517 | 222446 222518 | 22244$ 222519 | 222448 222520 | 222449 Campbell DJ 222521 | 22245^ 222522 | 22245x7 Doncaster R Pte 222523 | 222452 2?2524 | 222453 222525 | 222454 222526 | 222455 Pi.3her 'HJ Pte 222527 | 222456 Forrest F Pto 222528 | 222457 0ib3on HD Pte 222529 | 222458 Ooodwin MAS Pte 222530 | 222459 222531 | 222460 222532 | 222461 Graham A L/Cpi 222533 | 222462 . ,222534 | 222463 222535 | 222464 222536 | 222465 222537 | 222466 Horne B G^l 222538 | 222467 Harrison FN Sgt MSM2539 | 222468 222540 | 222469 222541 | 222470 222542 | 222471 Henwood A Pte 222543 | 222472 Hill A Pte 222544 | 222473 Hunt JE L/Cpl 222545 | 222474 Jackson CO Pte 222546 | 222475 Johnston F L/Cpl 222547 | 222476 Johnstone A WR Cpl222548 | 222477 222549 | 222478 222550 | 222479 Logan JG Cpl 222551 | 222480 222552 | 222481 Maxwell JA Sgt DiM22553 | 222482 222554 | 222433 McKay WR Pte 222555 | 222484 222556 | 222485 222557 | 222436 McNeil HBS Pte 222558 | 222487 Nicholson DJ L/Cpl22559 | 222488 222560 | 222489 Partner A Pte 222561 | 222490 222562 | 222491 Richardson R Pte 222563 | 222402 Rutledge J Pte 222564 | 222403 Scott RH Cpl 222565 | 222494 222566 | 222495 Vance H Pte 222567 | 222496 Webb JC Pte 222568 | 222497 222569 | 222408 Arsenault JS Pte 222570 | 222409 Campbell KC L/Sgt 222571 | 222500 Cameron AJ Pte 222572 | 222501 222573 | 222502 222574 | 222503 222575 | 222504 222576 | 222505 Mo Vicar J Pto 222577 | 222506 222578 | 222507 Ritchie TJ Pte 222579 | 222580 | 222581 | 222532 | 222533 | 222534 | 222585 | 222586 | 222587 | 222588 | 222539 | 222590 | 222591 | 222592 | 222593 | 222594 | 222595 | 222596 | 222597 | 222598 | 222599 | 222600 | 222601 | 222602 | 222603 | 222604 | 222605 | 22 2 60 6 | 222607 | 222608 | 22260 9 | 222610 | 222611 | 222612 | 222613 | 222614 | 222615 | 222616 | 222617 | 222618 | 222619 | 22262© | 222621 | 222622 | 222623 | 22262* | 222625 | 222626 | 222627 | 222628 | 222629 | 222630 | 222631 | 222632 | 222633 | 222634 | 222635 | 222636 | 222637 | 222638 | Matheson DJ Pte 222639 | Mas dm an TM CSM MMj*Bar264o | 222641 | 222642 | 222643 | 222644 | 222645 | 222646 | 222647 | 222648 | 222640 | 222650 | 222651 | Severance E Pte | Anderson RL Pte | Backman WS Capt | Derringer B Pte | Bezanson GE Pte | Hall WG L/Cpl | Harris WB Pte | He bo CA Pte | Knickle FA Pte | Lennox LA Pte | Miller GS Pte | Purcell DR Pte | Silver ME Sgt | Schnare IL L/Cpl | Smith StCF Pte | Young CB Pte | Amos FB CSM MM | Anderson JI Pte | Kendell J Pte | Lowther SN Cpl | McKenzie WE Pte | McKinnon H Pte | McLennan P Pte | Crofton EB Pte | Foote F Pte MM | Gates CW Pte | Gunn W Sgt | Haden E Pte | Hebb CR Pte | Horton JW Pte | McKinley W Pte | McPhcrson A Pte | Norman LA Pte | Quinlan FL Pte | Rhuland JA Cpl | Rhuland WH L/Cpl | Smith EE Pte | Young L Pte | Young SH Pte | Zinck WTR Cpl MM | Banks WL Pte | Brommit W Cpl | Kimber WII L/Cpl | Walsh HE Sgt | Webb AE L/Cpl | Cooper EE CQMS MM | Moore H Pte | Phillips CP L/Cpl | James E Pte | Mac Aulay A Pte | McKay M Pte | Smith J Pte | McDonald P Cpl | Gearley WE Pte | McLean JM Pte | McLean HN Pte | Smith JW Sgt | Ross CF Pte | Morrison A Pte | McDonald JH Cpl | McDonald F Pte |
 | 4 | <br><br><br> | 85 CAN IMF BH-4 | 22265? kiu Lean JH Pte | 2226^3 | 222654 | 222655 | 222656 | 2 22 65 7 X | 222650 | 222659 | 222660 | 222661 | 222662 | 222663 | 222664 | 222665 | 222666 | 2226f? | 222668 | 222669 | 222670 | 222671 | 22267? | Fraser AT Pte | Gladwin NH Cpl | Grant JP Pte | Guptell HH Pte | Battis JS Pte | Black LH RQMS ' | Brennan GJ Pte | Buchanan JF Pte | 222725 | 222726 | 222727 | 222728 | 222729 | 222730 | 222731 | 222732 | 222733 | 222734 | 222735 | 222736 | 222737 | 222738 | 222739 | 222740 | 222741 | 222742 | 222743 | 222744 | 222745 | 222746 | 222747 | 222748 | 222749 | 222750 | 222751 | 222752 | 222753 | 222754 | 222755 | 222756 | Carter | Kamil | Lloyd | Lyono | AE Sgt MM | ;on R Pte | Patton T Pte | Willi | West | ^ms 1C Pte | H Pte | Carr | Arsin | Boudri | J Pte | &ult J Pte | au E Pte | 222685 | 22?686 | 222687 | 222688 | Roddick WJ i’te | Rogers HU SBt | 222689 Sean an AM Pte | 222690 Stallard AW Pte | Stewart FB L/Cpl | Lovelace CB Pte | Lovett GU; L/Cpl | 222673 McCorry AV | 222674 Read SR Pte | 222675 | 222676 Reid DS Sgt | 222677 | 222678 | 222679 | 222680 | 222681 | 1222682 | 222683 Page JH Sgt | 222684 Gordon JF RQMS MSM 222757 | 222758 | 222759 | 222760 | 222761 | 222762 | 2?2763 | 222764 | 222765 | 222766 | 222767 | 222768 | 222769 | 222770 | 222771 | 222772 | 222773 | 222774 | 222775 | 222776 | 222777 | 222778 | 222779 | 222780 | 222781 | 222782 | 222783 | 222784 | 222785 | 222786 | 222787 | 222788 | 222789 | 222790 | 222791 | Baker | Beker | SW L/Cpl | U Pte | Broderick A Pte | Burgess CL Cpl | 222691 | 222602 | 222603 | 222694 | 222695 | 2226Q6 | 222697 | 222698 | 2226oo | 222700 | 222701 | 222702 | 222703 | 222704 | 222705 | 222706 | 222707 | 222708 | 222709 | 222710 | 222711 | 222712 McCully F Pte | 222713 MacLeod M Pte | 222714 | Riley PC Pte | Sullivan CW Pte | Thibideau W Pte | Me Ken | Shack | G | Gillis | Grac ie | Pte | W Pte | R Pte | Jjogan | Wrathja | Me Ne i | Mills OW L/Cpl | Keylo | 222715 | 222716 | 222717 | 222718 | 222719 McPherson RA L/Cpl 222792 Peel IM3 Pte | J Pte | A Cpl MM | Corminr P Pte | Doucette JD Pte | Gaspei1 J Sgt | Gillifc OJ Pte | Leleife D Pte | Moore WJ Sgt | McLellan AD Pte | Campbell A WO MID | Perry M Pte | Watts S Pte | Dorrijfcy G Pte | Livingstone L L/Sgt | McCulflock D Cpl | 222798 | 222799 Miller A Pte | 222800 | 222801 | 222802 | 222803 | 222804 | 222805 | 222806 | 222807 | 222808 | 222809 | 222810 | 222811 | 222812 | 222813 | 222814 | 222815 | 222816 | 222817 | 222818 | Sutton S Pte | McKinnon A Pte | Winchester JH Pte | Leslie EC Sgt | Weir GR Cpl | Sabean LW Pte | Ross ML Pte | Hastings H CSM | ?,ie P Pte | plton SG Pte | CE L/Cpl | 11 WW Sgt | 1 A Pte | r JM Sgt MM' | 222720 | 222721 | 22272? | 222723 | 222724 | A damn TC CSM DCM | Boyd RJ L/Cpl | 222793 | 222794 | MSM 2795 | 222796 | 222707 | Carrighan J Pte | McCoo | 1 P Cpl | 222819 | 222820 | 222821 | 222822 | 222823 | 222824 | 222825 | 222826 | 222827 | 222828 | 222829 | 222830 | 222831 | 222832 | 222833 | 222834 | 222835 | 222836 | 222837 | 222838 | 222839 | £22840 | 222841 | 222842 | 222843 | 222844 | 222845 | 222846 | 222847 | 222848 | 222849 | 222850 | 2?2851 | 222852 | 222853 | 222854 | 222855 | 222856 | 222857 | 222858 | 222859 | 222860 | 222861 | 222862 | 222863 | 222864 | 222865 | 222866 | 222867 | 222868 | 222869 | Connolly WF Pte | Banics AV Sgt MM" | McCormick HA Pte | Merritt FG L/Cpl | Ferguson DW Cpl | Scott MR Pte | Neely R | Scott W C Pte | Butler VC Pte | Bain JT | Barker W CSM MM | Riley FJ Pte | Fielding HD Pte | Harris KP Sgt MM&Bc | Chase A.dec Pte | fhea PH Pte | 00d FR Pte | Ross WW Pte | Travers J Pte | Crittenden JA Pte | McPherson LH CplMM | McDonald C L/Cvl Ml | McGrath RH Pte | Hart JH Pte | McLean ML Sgt | Stewart SM Pte | Isenar W Pte | Barnes LS Pte | Langille CL Pte |

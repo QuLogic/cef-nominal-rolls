@@ -3,10 +3,30 @@ title: 7th Battalion & 2nd Brigade HQ
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | ■ .a ■ JR* . | (ISSUED WITH MILITIA ORDERS 1915). | CANADIAN EXPEDITIONARY FORCE | \ tit | tsXi | w2 | n | i | !nd infantry brigade | HEADQUARTERS | AND | SEVENTH BATTALION | NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED | OFFICERS AND MEN. | 10m. 2-15 « | H.Q. 593-2-29. | 74381—1 |
+■ .a ■ JR* .<br>
+(ISSUED WITH MILITIA ORDERS 1915).<br>
+CANADIAN EXPEDITIONARY FORCE<br>
+\ tit<br>
+tsXi<br>
+w2<br>
+n<br>
+i<br>
+!nd infantry brigade<br>
+HEADQUARTERS<br>
+AND<br>
+SEVENTH BATTALION<br>
+NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED<br>
+OFFICERS AND MEN.<br>
+10m. 2-15 «<br>
+H.Q. 593-2-29.<br>
+74381—1
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 593<br>523<br>3183<br>557 | Reg. | Rank. | Name, Surname first. |  | Name of Next of Kin. |  | of |
 | 2 | 948<br>714<br>3580<br>762 |  |  | erick  | 6th Regt  | HarWIcHarg, Mrs. Jane  | 113 Clifton Hill, St. John's Wood, London, Eng.. | I Ireland... | . 'Valcartier.. Sept. 23 |
 | 2 | 676<br>759<br>3207<br>796 |  | Major  | Odium, Victor W  | C. M. R  | Odium, Mrs. S. E. Tressa  | 2023 Grant St., Vancouver, B.C  | Canada... |

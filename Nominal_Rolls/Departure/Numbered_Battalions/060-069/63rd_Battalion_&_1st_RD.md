@@ -3,10 +3,31 @@ title: 63rd Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force ■ | 63rd BATTALION | -‘ and ; - V | : Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | f>3rd Battalion | EMBARKATION | Port: St. John, N.B. | Ship: S.S. " Metagama." | Date: April 22nd, 1916. | 59J-2-2‘>. | Reinforcing Draft | Port: Montreal. | Ship: S.S. “ Metai'aui*." | Date: September 11th, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force ■<br>
+63rd BATTALION<br>
+-‘ and ; - V<br>
+: Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+f>3rd Battalion<br>
+EMBARKATION<br>
+Port: St. John, N.B.<br>
+Ship: S.S. " Metagama."<br>
+Date: April 22nd, 1916.<br>
+59J-2-2‘>.<br>
+Reinforcing Draft<br>
+Port: Montreal.<br>
+Ship: S.S. “ Metai'aui*."<br>
+Date: September 11th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 451<br>659<br>3194<br>710 | .§£ |  | Former Corps. |  |  | Country of |
 | 2 | 550<br>828<br>3699<br>862 | Licut.-Coloncl., | McLeod, George Brown      | 101st Regt'.  | McLeod, Mrs. Ruby Irene... . | G25, 7th St., Edmonton, Alta    | Canada...;..., |  | Nov. | 21 | 1914. |
 | 2 | 550<br>859<br>3698<br>892 | Major  | Holland, Hickson Rains  | 101st Regt  | Holland, Mrs. George  | 20 Somerville Ave., Westmount, P.Q.....  | Canada—.... |  | June | 29 | 1915. |

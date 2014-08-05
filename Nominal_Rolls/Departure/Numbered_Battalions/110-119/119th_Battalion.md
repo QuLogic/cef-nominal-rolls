@@ -3,10 +3,23 @@ title: 119th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+119th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+I0m-ll-i6. Ship: S.S. “ Metagama."<br>
+5W-2’29 Date: Aug. 8th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 119th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | I0m-ll-i6. Ship: S.S. “ Metagama." | 5W-2’29 Date: Aug. 8th, 1916. |
 | 2 | 590<br>527<br>3283<br>564 | Js |  |  | Former Corps. |  |  | Country of |
 | 2 | 687<br>675<br>3781<br>709 |  | Lieut.-Colonel  | Rowland, Thomas Percival T... | 2nd Regt  | Rowland, Mrs. Anne Winston  | 21 Summit Ave., Sault Ste. Marie, Ont  | Canada  | Toronto  | Nov. | IS | 1915. |
 | 2 | 686<br>705<br>3780<br>738 |  | Major  | Adams, Clarence Thomas  | 97th Regt.... | Adams, Mrs. Amy Ella  | Sault Ste. Marie, Ont  | Canada  | Sault Ste. Marie | Jan. | 28 | 1916. |

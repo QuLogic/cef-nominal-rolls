@@ -3,10 +3,22 @@ title: 222nd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+222nd BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+®ort:^ Halifax, N. S.<br>
+Ship: S.S. “Olympic”
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 222nd BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | ®ort:^ Halifax, N. S. | Ship: S.S. “Olympic” |
 | 2 | 1655<br>577<br>3396<br>607 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 831<br>721<br>3912<br>752 |  | Lieut.-Colonel— | Lightfoot, James  | 106th Regt  | Lightfoot, Mrs. Margaret Adams.. | Suite 12 St. Elmo Apts  | England... | Winnipeg  | Nov. | 15, | 1915 |
 | 2 | 830<br>751<br>3913<br>781 |  | Major  | Ackland, Clifford Maxwell  | 106th Regt  | Ackland, Mrs. Agnes Nairn..  | 256 Cathedral Ave., W'innipeg, Man  | Canada  | Winnipeg  | Dec. | 8, | 1915 |

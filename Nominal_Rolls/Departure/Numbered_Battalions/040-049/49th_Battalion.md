@@ -3,10 +3,28 @@ title: 49th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | SUED WITH MILITIA ORDERS, 1915.) | JOHN BORYSIUK | 13205 - 123rd Street- | Edmonton — Alberta — Canada | Canadian Expeditionary | Force | CB | 5 | 49th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | ,10m-1-16 | EMBARKATION | Port: Montreal. | Ship: S.S. "Metajama.” |
+SUED WITH MILITIA ORDERS, 1915.)<br>
+JOHN BORYSIUK<br>
+13205 - 123rd Street-<br>
+Edmonton — Alberta — Canada<br>
+Canadian Expeditionary<br>
+Force<br>
+CB<br>
+5<br>
+49th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+,10m-1-16<br>
+EMBARKATION<br>
+Port: Montreal.<br>
+Ship: S.S. "Metajama.”
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 782<br>585<br>3310<br>620 |  |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 694<br>734<br>2306<br>770 |  | Lieut.*ColCB.CrtG| | Gricsbach, William AntrobuaU^f? | 18th Drag. | Grieabach, Mrs. Janet Scott |
 | 2 | 1868<br>761<br>3810<br>798 |  |  |  |  | McDonald  | Portsdown Lodge, Golders Green Rd., London, Eng... | Canada  | Edmonton..., | Dcc. | 30, 1914. |

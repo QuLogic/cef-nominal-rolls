@@ -3,10 +3,23 @@ title: 219th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian lixpeditionary<br>
+Force<br>
+219th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+i j; Ship: S.S. "Olympic.”<br>
+Dale: October 12tfc, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian lixpeditionary | Force | 219th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | i j; Ship: S.S. "Olympic.” | Dale: October 12tfc, 1916. |
 | 2 | 1363<br>573<br>3145<br>603 |  |  | Former | Name of Next of Kin. |  | Cotintiy of |
 | 2 | 539<br>718<br>3643<br>757 | Lt. Col. | Muirhead, William Harry.... | .j 10th Refit.. | Bruce, Mrs. C. A. C  | St. John’s, NfJd  | Canada  | Halifax  | M ay | 12, 1910. |
 | 2 | 538<br>746<br>3643<br>788 | Major.. | Roscoo, Mur ray Eaton  | UfcC.B  | R oscne, M rs. Jo an W  | e/o Wm. .Stairs, Bon & Morrow, Ltd., Halifax, | Canada  | Halifax  | April | 25, 1910. |

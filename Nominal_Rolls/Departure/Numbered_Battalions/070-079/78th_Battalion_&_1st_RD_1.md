@@ -3,10 +3,35 @@ title: 78th Battalion & 1st RD 1
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERSt 1915.) | Canadian Expeditionary | Force | 78th BATTALION | and | Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 10m-8-16. | 593-2-29. | 78th Battalion | Reinforcing Draft | Port: | Ship: | Date: | EMBARKATION | Halifax. | 5.5. "Empress of Britain." | May 20th, 1916. | Montreal. | 5.5. “ Corsican." | September 25th, 1915. |
+(ISSUED WITH MILITIA ORDERSt 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+78th BATTALION<br>
+and<br>
+Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+10m-8-16.<br>
+593-2-29.<br>
+78th Battalion<br>
+Reinforcing Draft<br>
+Port:<br>
+Ship:<br>
+Date:<br>
+EMBARKATION<br>
+Halifax.<br>
+5.5. "Empress of Britain."<br>
+May 20th, 1916.<br>
+Montreal.<br>
+5.5. “ Corsican."<br>
+September 25th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 348<br>542<br>3037<br>590 | j! |  |  | Former Corps. |  |  | Country of |
 | 2 | 446<br>693<br>3543<br>730 |  | Lieut.-Colonel. | Kirkcaldy, James  | 99 th Regt.. | Kirkcaldy, Mrs. Rose H  | 225, 7th St., Brandon, Man  | Scotland. . | Winnipeg  | Mar. | 29 | 1916. |
 | 2 | 444<br>722<br>3544<br>758 |  | Major  | Heron, Gordon Ruthven  | 100th Regt. | Weatherbe, Mrs. Philip  | Queen St., Halifax, N.S  | Canada. • • | Winnipeg  | Mar. | 29 | 1916. |

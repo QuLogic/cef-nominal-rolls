@@ -3,10 +3,23 @@ title: 170th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+170th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-2-17. Ship: S.S. "Mauretania.”<br>
+593-2-29. Date: October 25th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 170th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-2-17. Ship: S.S. "Mauretania.” | 593-2-29. Date: October 25th, 1916. |
 | 2 | 696<br>546<br>3203<br>578 |  |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 606<br>689<br>3696<br>727 |  | Lieut.-Colonel... | Reed^ Le Grand ..L;    |  | Reed, Mrs. Ioleen   | c/o Reed, Shaw& McNaught, 85 Bay St., Toronto, Ont | Canada  | Toronto  | Feb. | 25, 1916. |
 | 2 | 876<br>718<br>3696<br>753 |  |  | Francis, Gwyn Llewellyn  |  | Francis, Mrs. Violet Langmuir | 38 Crescent Rd., Toronto, Ont  | Canada  | Toronto  | Feb. | 26. 1916. |

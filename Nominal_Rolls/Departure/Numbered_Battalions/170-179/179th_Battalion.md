@@ -3,10 +3,26 @@ title: 179th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 179th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N. S. | Ship: S.S. “Saxonia” | Date: Oct. 3rd, 1916. | 3m-9-17. | 593-2-29. | 27085- |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+179th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N. S.<br>
+Ship: S.S. “Saxonia”<br>
+Date: Oct. 3rd, 1916.<br>
+3m-9-17.<br>
+593-2-29.<br>
+27085-
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 708<br>567<br>3211<br>598 |  |  | Former Corps. |  |  | Country of |
 | 2 | 540<br>571<br>3645<br>633 | I |  |  |  |  |  | Place. | Date. |
 | 2 | 623<br>709<br>3703<br>744 | Lt. Colonel.... | Reid, John Young  | 79th Regt.. | Reid, Mrs. Georgina R  | 329 Wellington Cresc. Winnipeg, Man  | Canada... | Winnipeg  | Aug. 9, 1916. |

@@ -3,10 +3,29 @@ title: 25th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Kxpeditionary<br>
+. i<br>
+Force<br>
+v.<br>
+v<br>
+25th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+i^nis.<br>
+ii-O-<br>
+U v<br>
+EKBAP"-*TION<br>
+Fort: HyWwt.<br>
+Sh*?« S.S. " Saioaia."<br>
+Da lei JUjr 70th, 1515.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Kxpeditionary | . i | Force | v. | v | 25th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | i^nis. | ii-O- | U v | EKBAP"-*TION | Fort: HyWwt. | Sh*?« S.S. " Saioaia." | Da lei JUjr 70th, 1515. |
 | 2 | 1063<br>628<br>3422<br>658 |  |  | Former Corps. | Name of Next of Kin. |  | Country of |
 | 2 | 980<br>769<br>3890<br>803 | L»eut.-Col... | Le Cain, George A niru^tus... | (19th Regt. | Le Cain, Mrs. B'anche A  | Round Hill, N.S  | Canaria  | Halifax  | Nov. | 13, 1914. |
 | 2 | 979<br>797<br>3890<br>830 | Lieut.-Col... | Sponagle, John Art fly  | C.A.M.C.. | Sponaglo, Mrs. A. M  | Middleton, Annnpolis, Co., N.S  | Canada   | Halifax  | Nov. | 21, 1911. |

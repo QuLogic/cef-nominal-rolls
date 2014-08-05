@@ -3,10 +3,23 @@ title: 248th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+248th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-8-l 7. Ship: S.S. ••Olympic."<br>
+593-2-29. Date: June 2nd, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 248th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-8-l 7. Ship: S.S. ••Olympic." | 593-2-29. Date: June 2nd, 1917. |
 | 2 | 611<br>543<br>3272<br>576 | •S53 |  | Former Corps. |  |  | Country of |
 | 2 | 691<br>685<br>3771<br>720 | Lt.-Colonel  | Rorke, Joseph Hilliard  | 31st Regt. and S.A.. | Rorke, Mrs. Carrie Scott  730, 3rd Ave. E., Owen Sound, Ont. |  | Canada.. | Owen Sound | Feb. | . 1917. |
 | 2 | 689<br>714<br>3772<br>750 | Captain  | Barnett, John David H. \V  | C.A.M.C  | Barnett, Isaac  R.R. No. 1, St. Mary’s, Ont. |  | Canada.. | Toronto.... | Feb. 17 | , 1916. |

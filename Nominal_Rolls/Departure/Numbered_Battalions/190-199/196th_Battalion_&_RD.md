@@ -3,10 +3,33 @@ title: 196th Battalion & RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 196th BATTALLION | AND | REINFORCING DRAFT | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION: | 196th Battalion | Port: Halifax, N.S. | Ship: S.S. “ Southland.” | Date: Nov. 1, 1916. | Reinforcing Draft | 3m.-9-l7. | 593-2-29. | Port: Halifax, N.S. | Ship: S.S. “ Missanabie.” | Date: Aug. 13, 1917. | 27442—1 |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+196th BATTALLION<br>
+AND<br>
+REINFORCING DRAFT<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION:<br>
+196th Battalion<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “ Southland.”<br>
+Date: Nov. 1, 1916.<br>
+Reinforcing Draft<br>
+3m.-9-l7.<br>
+593-2-29.<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “ Missanabie.”<br>
+Date: Aug. 13, 1917.<br>
+27442—1
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 488<br>517<br>3015<br>548 |  |  | Former Corps. |  |  | Country of |
 | 2 | 397<br>661<br>3506<br>696 | ! Lieut .-Col  . (MacKay, Daniel Sayre  |  | !79th Regt | MacKay, Mrs. Catherine Agnes... | P.O. Box 243, Portage la Prairie. Man  | Canada Camp Hughes.. |  | Sept. | 19, 1916 |
 | 2 | 395<br>692<br>3506<br>729 | j Major i Bat email, Reginald John G. |  | O.T.C.... | j Bateman, Godfrey   | 20 Eaton Sq., Monkstown, Dublin, Ire  | Ireland iCamp Hughes.. |  | Sept. | 19, 1916 |

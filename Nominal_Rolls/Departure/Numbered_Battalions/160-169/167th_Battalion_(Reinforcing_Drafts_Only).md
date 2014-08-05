@@ -3,10 +3,28 @@ title: 167th Battalion (Reinforcing Drafts Only)
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | u | ■ | Canadian Expeditionary | Force | 167th BATTALION | 1st and 2nd REINFORCING DRAFTS. | Nominal Roll of Officers, Non-Commissioned | Officers and]Men. | EMBARKATION | Port: Halifax, N. S. | 1st and 2nd R. D; ■{ Ship: S.S. “Metagama.” | Date: Nov. 27, 1916. | 3m*9-17. | 593-2-29. | 27445—1 |
+u<br>
+■<br>
+Canadian Expeditionary<br>
+Force<br>
+167th BATTALION<br>
+1st and 2nd REINFORCING DRAFTS.<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and]Men.<br>
+EMBARKATION<br>
+Port: Halifax, N. S.<br>
+1st and 2nd R. D; ■{ Ship: S.S. “Metagama.”<br>
+Date: Nov. 27, 1916.<br>
+3m*9-17.<br>
+593-2-29.<br>
+27445—1
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 1403<br>593<br>3177<br>623 | Former Corps. |  |  | Country of |
 | 2 | 1344<br>737<br>3667<br>768 |  |  |  |  | !, 1916 | 4th Regt... | Buisson, Dr. E..:    | c/o Hon. P. E. Blondin, Quebec, P.Q  |
 | 2 | 1346<br>767<br>3667<br>797 |  |  |  |  | I, 1916 | Nil   | Armstrong, G .'   | Springwilt Cottage, Eng  |

@@ -3,10 +3,27 @@ title: 254th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | i | Canadian Expeditionary | Force | 254th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N. S. | Ship: S.S. “Olympic.” | Dafe: June 2nd, 1917. | 3m-9-l7. | *) 93-2-29. | 27081—1 |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+i<br>
+Canadian Expeditionary<br>
+Force<br>
+254th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N. S.<br>
+Ship: S.S. “Olympic.”<br>
+Dafe: June 2nd, 1917.<br>
+3m-9-l7.<br>
+*) 93-2-29.<br>
+27081—1
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 564<br>566<br>3205<br>600 | £ o |  | Former Corps. |  |  | Country of |
 | 2 | 556<br>593<br>3651<br>636 | '% |  |  |  |  |  | Place. | Date. |
 | 2 | 641<br>712<br>3728<br>743 | Lieut.-Col. | Allen, Arthur Percival  | 15th Regt.... | Allen, Mrs. Mabel Ailcen  | 277 William St., Belleville, Ont  | Canada  | Belleville  | Nov. | 18, | 1916 |

@@ -3,10 +3,30 @@ title: 26th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | "■S | 4i'Vgv | ?'] | Canadian Expeditionary | Force J | 4- i. ' V** •>. | V..- • .... | nj’ TT': | th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | , ' | EMBARKATION | Port: Halifax. | Ship: S.S. "Caledonia." | H.Q. 593-2-29. Date: June 15th, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+"■S<br>
+4i'Vgv<br>
+?']<br>
+Canadian Expeditionary<br>
+Force J<br>
+4- i. ' V** •>.<br>
+V..- • ....<br>
+nj’ TT':<br>
+th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+, '<br>
+EMBARKATION<br>
+Port: Halifax.<br>
+Ship: S.S. "Caledonia."<br>
+H.Q. 593-2-29. Date: June 15th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 381<br>672<br>3114<br>705 | is: |  |  |  | Name of Next of Kin. |  | Country of |
 | 2 | 368<br>704<br>3490<br>745 | I |  |  |  |  |  |  | Place. | Date. |
 | 2 | 463<br>819<br>3541<br>849 |  | Lieut .-Colonel | McAvity, James Lupton   | 62nd Regt. | McAvity, Mrs. Viola  | 83 Hazen St., St. John, N.B  |  |  | Feb. | 2 | 1915. |

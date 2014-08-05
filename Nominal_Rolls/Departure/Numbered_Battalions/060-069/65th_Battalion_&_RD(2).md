@@ -3,10 +3,33 @@ title: 65th Battalion & RD(2)
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+♦<br>
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+F orce<br>
+65th BATTALION<br>
+and<br>
+Reinforcing Draft<br>
+Nomina.1 Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+65th Battalion<br>
+EMEARKATION<br>
+Port: Halifax, N.S. .<br>
+Ship: S.S. “ Empress of Brit.iln."<br>
+Date: June ISth, 1916.<br>
+ir,a-9-16.<br>
+593-2*29.<br>
+f Port: Montreal.<br>
+Rein'orcing Draft Ship: S.S. “ Corsican.”<br>
+; Date: September 25th,<br>
+1915.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | ♦ | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | F orce | 65th BATTALION | and | Reinforcing Draft | Nomina.1 Roll of Officers, Non-Commissioned | Officers and Men. | 65th Battalion | EMEARKATION | Port: Halifax, N.S. . | Ship: S.S. “ Empress of Brit.iln." | Date: June ISth, 1916. | ir,a-9-16. | 593-2*29. | f Port: Montreal. | Rein'orcing Draft Ship: S.S. “ Corsican.” | ; Date: September 25th, | 1915. |
 | 2 | 678<br>505<br>2766<br>538 |  |  | Former Corps. |
 | 2 | 591<br>646<br>3696<br>682 | I -Colonel | Lang, Norman  | 29th Ilorse.. | Lang, Mr-?. Elizabeth  | Allan, Bask   | Canada.... | .. j Saskatoon.... | July | 7, 1915. |
 | 2 | 579<br>676<br>3697<br>723 | ;x!ijor  | Binnie, Henry James  | 9th Jlorsc.. | Binnic, Mrs. Caroline Ann  | Elstow, Sask  | I England*.. | .. Saskatoon.... | July | 7, 1W5. |

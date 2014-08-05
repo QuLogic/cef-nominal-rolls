@@ -3,10 +3,18 @@ title: 18th Battalion 1
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+Mmm<br>
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+BATTALION<br>
+NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED<br>
+OFFICERS AND MEN.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | Mmm | (ISSUED WITH MILITIA ORDERS, 1915.) | BATTALION | NOMINAL ROLL OF OFFICERS, NON-COMMISSIONED | OFFICERS AND MEN. |
 | 2 | 2244<br>486<br>3464<br>518 |  |  |  |  | of |
 | 2 | 2111<br>702<br>3704<br>736 |  |  |  | Wlglo, Alien M.    | Cnnnda,, | Windsor,,, |
 | 2 | 2112<br>734<br>3711<br>767 |  |  |  | Milligan, lOIIlo M,,  | Scotland | Htratliroy.. |

@@ -3,10 +3,24 @@ title: 226th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+L\AJQf><br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+226th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Pert: Halifax, N.S.<br>
+3m-9*17. Ship: S.S. "Olympic.”<br>
+593-2-29. Date: December 16th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | L\AJQf> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 226th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | Pert: Halifax, N.S. | 3m-9*17. Ship: S.S. "Olympic.” | 593-2-29. Date: December 16th, 1916. |
 | 2 | 939<br>298<br>3466<br>332 |  |  |  | Former Corps. | Name cf Next of Kin. |  | Country of |
 | 2 | 856<br>444<br>3969<br>481 |  | Llout.-Colonol | Gillespie, Robert Alexander  | 100 th Regt  | Gillespie, Mrs. Annin  | !) St.. John's A vo., Winnipeg, Man  |  | Winnipeg  | Nov. | ir., toir.. |
 | 2 | 855<br>474<br>3969<br>510 |  | Mnjor..«  | Krb, Edward 10.   | lOOth Rcgt  | Krb, Mrs. Winifred Isabel N... | 127 Maehray Ave., Winnipeg, Man  | C!.*iaad a  | Winnipeg  | Jan. | i. mm. |

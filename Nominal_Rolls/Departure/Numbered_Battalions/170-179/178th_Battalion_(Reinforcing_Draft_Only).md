@@ -3,10 +3,27 @@ title: 178th Battalion (Reinforcing Draft Only)
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 178th BATTALION | 1st REINFORCING DRAFT. | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N. S. | Ship: S.S. “Metagama.” | Date: Nov. 27, 1916. | 3m9-17. | 593-2-29. | 27440—1 |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+178th BATTALION<br>
+1st REINFORCING DRAFT.<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N. S.<br>
+Ship: S.S. “Metagama.”<br>
+Date: Nov. 27, 1916.<br>
+3m9-17.<br>
+593-2-29.<br>
+27440—1
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 532<br>635<br>3014<br>664 |  |  | Former Corps. |
 | 2 | 1216<br>781<br>3545<br>812 |  |  | R.H.C  | Halifax  | Dec. | 2, | 1916 |
 | 2 | 353<br>810<br>3545<br>841 |  |  | Nil  | 856782 | Oct. | 6, | 1916 |

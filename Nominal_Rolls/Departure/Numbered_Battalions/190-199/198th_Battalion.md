@@ -3,10 +3,30 @@ title: 198th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+■i.<br>
+■<br>
+•wsfc'N fr<br>
+'Ql^-’^'.'.- -y<br>
+.;_•. <■•■' \ ■$*..<br>
+MtenMtitewJ<br>
+^r-<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+198th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARXATION<br>
+Port: Halifax, N.S.<br>
+3m-9 17. Ship: S.S. “ Mcla^araa.”<br>
+593-2-29. Date: March 23th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | ■i. | ■ | •wsfc'N fr | 'Ql^-’^'.'.- -y | .;_•. <■•■' \ ■$*.. | MtenMtitewJ | ^r- | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 198th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARXATION | Port: Halifax, N.S. | 3m-9 17. Ship: S.S. “ Mcla^araa.” | 593-2-29. Date: March 23th, 1917. |
 | 2 | 719<br>748<br>3233<br>780 |  |  |  | Former Corps. |  |  | Country ol |
 | 2 | 629<br>892<br>3732<br>926 |  | Lieut.-Colonel... | Cooper, John Alexander  | 2nd Regt  | Cooper, Mrs. Agnes Massie  | 16 Glen Rd., Toronto, Ont  | Canada  | Toronto  | Feb. i, 1916. |
 | 2 | 628<br>922<br>3732<br>955 |  | Major  | Gunn, Robert Ernest  | 10th Regt  | Cunn, Mrs. Florence Rose  | 9 Rosemount Ave., Toronto, Ont.   | Canada  | Toronto , | Mar. 11,1916. |

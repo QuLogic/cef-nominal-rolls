@@ -3,10 +3,26 @@ title: 225th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 225th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N. S. | Ship: S.S. "Grampian.” | Date: Jan. 26th, 1917. | 3m-9-17. | 593-2-29. | 27082—1 |
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+225th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N. S.<br>
+Ship: S.S. "Grampian.”<br>
+Date: Jan. 26th, 1917.<br>
+3m-9-17.<br>
+593-2-29.<br>
+27082—1
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 723<br>593<br>3227<br>625 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 640<br>737<br>3722<br>770 |  | Captain  | Davy, Robert Nelson  | 31st Horse. | Davy, Mrs. Runa   | 1123 Robson St., Vancouver, B.C  | Canada.. | Calgary  | Dec. f2, 1916 |
 | 2 | 640<br>766<br>3722<br>799 |  | Captain.... | George, Ernest Stuart  | 72nd Regt.. | George, Mrs. Georgina Augusta. | 1517 Comox St., Vancouver, B.C  | Scotland. | Fernie  | April 17, 1916 |

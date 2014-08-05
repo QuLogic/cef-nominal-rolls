@@ -3,10 +3,35 @@ title: 74th Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | \ | \ | \ | V | ' ,\ ■ . " ■ ■ .■ | ■ ■ \ ■■■ | \ • | Canadian Expeditionary | Force | 74th BATTALION | and Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 10m-8-16. | EMBARKATION | !Port: Halifax. ; | Sl»ip: ; S.S. "Empress of Britain.” | Bftte: March 29th, 1916. : | f Port: Montreal. ( | Reinforcing Draft < Ship: S.S. “Scandinavian." | 593-2-29. • I D?Ue: October 1st, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+\<br>
+\<br>
+\<br>
+V<br>
+' ,\ ■ . " ■ ■ .■<br>
+■ ■ \ ■■■<br>
+\ •<br>
+Canadian Expeditionary<br>
+Force<br>
+74th BATTALION<br>
+and Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+10m-8-16.<br>
+EMBARKATION<br>
+!Port: Halifax. ;<br>
+Sl»ip: ; S.S. "Empress of Britain.”<br>
+Bftte: March 29th, 1916. :<br>
+f Port: Montreal. (<br>
+Reinforcing Draft < Ship: S.S. “Scandinavian."<br>
+593-2-29. • I D?Ue: October 1st, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 757<br>622<br>3252<br>653 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 669<br>767<br>3758<br>800 |  | Lieat.-Colonel | McCausland, Alan Joseph. | 36th Regt.. | McCausland, Ruth  | 15 Pacific Ave., Toronto, Ont  |  |  | July | 24, 1915. |
 | 2 | 670<br>796<br>3759<br>836 |  | Major , | Armour, Archibald Douglas.. | 36th Rest.. | Armour, K.C., Edward Douglas. | 103 Avenue Rd., Toronto, Ont  |  |  | July | 21, 1916. |

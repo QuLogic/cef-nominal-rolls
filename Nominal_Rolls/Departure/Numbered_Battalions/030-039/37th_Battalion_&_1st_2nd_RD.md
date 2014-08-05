@@ -3,10 +3,32 @@ title: 37th Battalion & 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | 37th BATTALION | also | 1st and 2nd Reinforcing Drafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | 10m-8-16. | EMBARKATION | [Port: Halifax,N.S. | 37th Battalion < Ship: S.S. "Lapland." | [ Date: November 27th, 1915. | I Port: Montreal. | Ship: S.S. "Hesperian." | Date: June 10th, 1915. | J Port: Montreal. | 2nd Reinforcing Draft < Ship: S.S. "Hesperian." | 593-2-29. I Date: August 17th, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+37th BATTALION<br>
+also<br>
+1st and 2nd Reinforcing Drafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+10m-8-16.<br>
+EMBARKATION<br>
+[Port: Halifax,N.S.<br>
+37th Battalion < Ship: S.S. "Lapland."<br>
+[ Date: November 27th, 1915.<br>
+I Port: Montreal.<br>
+Ship: S.S. "Hesperian."<br>
+Date: June 10th, 1915.<br>
+J Port: Montreal.<br>
+2nd Reinforcing Draft < Ship: S.S. "Hesperian."<br>
+593-2-29. I Date: August 17th, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 653<br>555<br>3330<br>591 | ,§Z |  | Former Corps. |  |  | Country of |
 | 2 | 748<br>700<br>3828<br>735 | Lieut.-Colonel  | Bick, Charles Frederick.. | Can. Mil... | Bick, Mrs. Annie Elizabeth. | Cannington, Ont  | England  | Niagara  | June | 16 | 1915. |
 | 2 | 747<br>730<br>3828<br>766 | Major  | Ansley, Alfred James.... | 97th Regt. | Ansley, Mrs. J. M  | R.R. No. 4, St. Catharines, Ont. | Canada  | Niagara  | June | 26 | 1915. |

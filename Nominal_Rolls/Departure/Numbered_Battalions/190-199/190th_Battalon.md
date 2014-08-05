@@ -3,10 +3,23 @@ title: 190th Battalon
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+190th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Port; Halifax, N. S.<br>
+Ship: S.S. “Justicia”<br>
+Date: May 3rd, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 190th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | Port; Halifax, N. S. | Ship: S.S. “Justicia” | Date: May 3rd, 1917. |
 | 2 | 615<br>600<br>2859<br>629 | a ° |  |  | I-'ormer Corps. |
 | 2 | 609<br>684<br>964<br>711 | S | I | I |
 | 2 | 713<br>755<br>3770<br>790 |  | Lieut-Col  | Watson, George Kelsey W j90tli Regt Watson, Mrs. Ruth Erskine.. |  | 904 Electric Railway Chambers, Winnipeg, Man. | Canada Winnipeg. |  | ■ May 8, | 1916 |

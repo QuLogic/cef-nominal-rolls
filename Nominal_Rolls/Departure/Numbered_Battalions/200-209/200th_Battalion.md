@@ -3,10 +3,25 @@ title: 200th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+200th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+" ' .• • - ? . '? •••; ■;<br>
+it<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-9-l7. Ship: S.S. “Megantic.”<br>
+593-2-29. Date: May 3rd, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 200th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | " ' .• • - ? . '? •••; ■; | it | EMBARKATION | Port: Halifax, N.S. | 3m-9-l7. Ship: S.S. “Megantic.” | 593-2-29. Date: May 3rd, 1917. |
 | 2 | 776<br>610<br>3281<br>641 | Rank. |  | Former Corps. |  |  | Country of |
 | 2 | 702<br>754<br>3780<br>787 | Lieut-Colonel... | Bonny castle, Angus Lorne.., | Nil. | Bonnycastle, Mrs. Ellen Mary.. | 891 McMillan Ave., Winnipeg, Man  | Canada  | Winnipeg  | April | 2 | 1916. |
 | 2 | 701<br>783<br>3780<br>816 | Major  | Berry, Edward George  |  | Berry, Mrs. Elizabeth  | 285 Kensington St., St. James, Man  | England  | Winnipeg  | Mar. | 1 | 1916. |

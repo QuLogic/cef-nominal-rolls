@@ -3,10 +3,31 @@ title: 206th Battalion 1st 2nd RD
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | /-/* | 'f | >o | -(a. | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian | Force | 206th BATTALION | 1st and 2nd Reinforcing ©rafts | Nominal Roll of Officers, Non-Commissioned | Officers and Men, | EMBARKATION | [ Port: Halifax, N.S. | 1st Reinforcing Draft j Ship: S.S. “Caraquet.” | Date: July 28th, 1916. | *( Port: Halifax, N.S. | 2nd Reinforcing Draft < Ship: S.S. “ Chaleur." | ^ Date: August 11th, 1916. |
+/-/*<br>
+'f<br>
+>o<br>
+-(a.<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian<br>
+Force<br>
+206th BATTALION<br>
+1st and 2nd Reinforcing ©rafts<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men,<br>
+EMBARKATION<br>
+[ Port: Halifax, N.S.<br>
+1st Reinforcing Draft j Ship: S.S. “Caraquet.”<br>
+Date: July 28th, 1916.<br>
+*( Port: Halifax, N.S.<br>
+2nd Reinforcing Draft < Ship: S.S. “ Chaleur."<br>
+^ Date: August 11th, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 442<br>783<br>2964<br>821 | Rank. |  | Formor Corps. | Name of Next of T£in. |  | Country of |
 | 2 | 412<br>928<br>3462<br>967 | i tenant. | Harry, C. L. Maurico  | 92nd Rcgt. | Dairy, Mrs. G. W  | SO Scott St.. Quebec, P.Q  | Canada  | Quobco  | April 25,1910. |
 | 2 | 412<br>958<br>3462<br>996 | i tenant., | Uansoroau, Mario Edmond. | 85th Rogt. | Dausoronu, C. A  | Kitz Carlton Holol, Montreal, P.Q  | Canada.   | Montreal.... | Mar. 9, 1910. |

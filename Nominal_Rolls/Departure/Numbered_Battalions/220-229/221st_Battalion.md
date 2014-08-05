@@ -3,10 +3,29 @@ title: 221st Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+t <br>
+Force<br>
+221st BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Port:—Halifax, N.S.<br>
+Ship:—S.S. “ Ausonia.”<br>
+Date:—April 18, 1917.<br>
+[Port:—Halifax, N.S.<br>
+Detail <Sihp:—S.S. “Scandinavian’<br>
+[Date:—April 18, 1917.<br>
+Sui-9-17.<br>
+593-2*29.<br>
+27431—1
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | t  | Force | 221st BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | Port:—Halifax, N.S. | Ship:—S.S. “ Ausonia.” | Date:—April 18, 1917. | [Port:—Halifax, N.S. | Detail <Sihp:—S.S. “Scandinavian’ | [Date:—April 18, 1917. | Sui-9-17. | 593-2*29. | 27431—1 |
 | 2 | 913<br>441<br>3461<br>474 | Uftuk. |  | Former Corps. |  |  | Country of |
 | 2 | 825<br>587<br>3968<br>621 | Lieut.-Col  | McMcnna, Vivian Arthur V  | 34th llorso  | McMeans, T.t.-Col. L  | 10 Wostgalo St., Winnipeg, Man    | Canada.... | Camp Hughes. | Aug. 10, 1010 |
 | 2 | 824<br>616<br>3969<br>650 | Major  | Ln ie. Charles William  | 100th itegt  | I.ntie, Mrs. Rosemary  | Suite 3, Albany 1'lk., (it Edmonton St., Winnipeg, Man... | Ireland.... | Winnipeg  | .In no 3, 1910 |

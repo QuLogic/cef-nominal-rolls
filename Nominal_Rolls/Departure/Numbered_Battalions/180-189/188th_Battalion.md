@@ -3,10 +3,35 @@ title: 188th Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | i<"i i j. | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | ; ■ -i | ' f *• “v . | « i \ a | ii :-•** | [! | ti \V | Nominal Roll of Officers, Non-Commissioned | Officers and Men. ii | 3m-i-i7. | 593-2-29. | 3 | ' V ^ ' ^ | APS'jUS' | 1 i.-.K | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “Olympic.” | Date: October 12th, 1916. |
+i<"i i j.<br>
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+; ■ -i<br>
+' f *• “v .<br>
+« i \ a<br>
+ii :-•**<br>
+[!<br>
+ti \V<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men. ii<br>
+3m-i-i7.<br>
+593-2-29.<br>
+3<br>
+' V ^ ' ^<br>
+APS'jUS'<br>
+1 i.-.K<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “Olympic.”<br>
+Date: October 12th, 1916.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 698<br>569<br>3211<br>597 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 607<br>712<br>3708<br>742 |  | Lieut.-Colonel.... | Donaldson, Samuel James  | R.N.W.M.P  | Donaldson, Mrs. Jessie.... . ...:.. | Prince Albert, Bask  | Canada  | Camp Hughes. | Aug. | 22, 1918. |
 | 2 | 606<br>741<br>3707<br>772 |  | Major  | MoVean, Harold Gordon  | 48th Regt  | MoVean, Mrs. Helen Donaldson | 3120 Rae St., Regina, Sask  | Canada  | Prince Albert. | Mar. | 1, 1916. |

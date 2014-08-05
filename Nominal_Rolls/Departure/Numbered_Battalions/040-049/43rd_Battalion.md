@@ -3,10 +3,34 @@ title: 43rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | 4 I | (ISSUED WITH MILITIA ORDERS, 1915.; | 2Se | aBtsjft | wSfti, - | V$,■ | X | f*m | 43rd BATTALION | ! | 8 | | j Nominal Roll of Officers, Non-Commissioned ^ | Officers and Men. | N | 10m-1-16. | H.Q. 595*2-29. | * | EMBARKATION | Port: Montreal. | Ship: S.S. "Grampian." | Date: June 1st, 1915. |
+4 I<br>
+(ISSUED WITH MILITIA ORDERS, 1915.;<br>
+2Se<br>
+aBtsjft<br>
+wSfti, -<br>
+V$,■<br>
+X<br>
+f*m<br>
+43rd BATTALION<br>
+!<br>
+8 |<br>
+j Nominal Roll of Officers, Non-Commissioned ^<br>
+Officers and Men.<br>
+N<br>
+10m-1-16.<br>
+H.Q. 595*2-29.<br>
+*<br>
+EMBARKATION<br>
+Port: Montreal.<br>
+Ship: S.S. "Grampian."<br>
+Date: June 1st, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 793<br>528<br>3295<br>557 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 707<br>669<br>3787<br>699 |  | Lt.-Col  | Thomson, Robert McDonnell  | 79th Regt  | Thomson, Mrs. Janet Catherine. | 218 Oxford St., Winnipeg, Man  | Canada  | Winnipeg  | Dec. | 18, 1914. |
 | 2 | 704<br>699<br>3788<br>728 |  | Major  | Duncan, David Merritt  | Nil  | Duncan, Mrs. D. M ....,■ | 278 Wellington Crescent, Winnipeg, Man..   | U.S.A  | Winnipeg  | Dec. | 18, 1914. |

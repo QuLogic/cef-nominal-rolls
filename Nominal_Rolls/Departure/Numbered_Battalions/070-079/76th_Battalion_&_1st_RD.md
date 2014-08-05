@@ -3,10 +3,28 @@ title: 76th Battalion & 1st RD
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Kxpeditionary<br>
+Force<br>
+76th BATTALION<br>
+and<br>
+Reinforcing Draft<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+I Port: Halifax.<br>
+76th Battalion j Ship: S.S. “ Empress of Britain."<br>
+[ Date: April 23rd, 1916.<br>
+Orr»-! 1- 16.<br>
+Port: Montreal.<br>
+1?T)n»ff J Ship* S.S. “Scandinavian-.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Kxpeditionary | Force | 76th BATTALION | and | Reinforcing Draft | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | I Port: Halifax. | 76th Battalion j Ship: S.S. “ Empress of Britain." | [ Date: April 23rd, 1916. | Orr»-! 1- 16. | Port: Montreal. | 1?T)n»ff J Ship* S.S. “Scandinavian-. |
 | 2 | 545<br>683<br>3028<br>714 |  |  | Former Corps. |  |  |  | Country of |
 | 2 | 455<br>827<br>3511<br>859 |  |  |  |  | Georgetown, Ont  |  | Canada  | Barrie  | Jan. | 27, 1916 | Lieut.-Colonel.. | Ballantine, James  | 20tb Regt. and | .A | Ballantine, Mrs. M. E  |
 | 2 | 454<br>856<br>3510<br>887 |  |  |  |  | 196 George St., Hamilton, Ont  |  | Canada  | Barrie  | Jan. | 25, 1916 | Major    . | Ballard, George William M. | 13th Regt. . | Ballard, William Henry. . . |

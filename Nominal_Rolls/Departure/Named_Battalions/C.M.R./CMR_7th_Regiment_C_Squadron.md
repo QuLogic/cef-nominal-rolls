@@ -3,10 +3,24 @@ title: CMR 7th Regiment C Squadron
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | C Squadron, 7th Regiment | Canadian Mounted Rifles | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax. | lOm-4-16. ShiP: S’S> "MeganUc." | H.Q.593-2-29. Date: February 23rd, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+C Squadron, 7th Regiment<br>
+Canadian Mounted Rifles<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax.<br>
+lOm-4-16. ShiP: S’S> "MeganUc."<br>
+H.Q.593-2-29. Date: February 23rd, 1915.
+{% endraw %}
+## Tables
+{% raw %}
+| Page | Bounds | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 742<br>577<br>3241<br>610 |  |  | Former Corps. |  |  | Country of |
 | 2 | 1429<br>723<br>3733<br>754 |  |  | G.G.B.G. . | McColl, A. B  | 289 Carlton St., Toronto, Canada  | Canada  | Feb | 15, 1915. |
 | 2 | 1429<br>748<br>3733<br>782 |  |  | G.G.B.G  | Rawlinson, Mrs. Walter L.. | 721 Ossington Ave., Toronto, Ont  | Canada  | 15, 1915. | Feb. |

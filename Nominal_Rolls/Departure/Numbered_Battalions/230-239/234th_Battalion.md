@@ -3,10 +3,25 @@ title: 234th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+234th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. "Scandinavian."<br>
+Date: April 18th, 1917-33<br>
+3m-9-17.<br>
+593-2-29.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 234th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. "Scandinavian." | Date: April 18th, 1917-33 | 3m-9-17. | 593-2-29. |
 | 2 | 612<br>542<br>3260<br>586 | s| |  | Former Corps. |  |  | Country of |
 | 2 | 688<br>701<br>2231<br>732 | Lieut. Colonel... | Morris, William Otter.   |  | No paper   |
 | 2 | 689<br>724<br>3753<br>761 | Hon. Captain  | Armitage, William Robert  | Nil  | Armitage, William James  | 90 Spring Gdns. Rd., Halifax, N.S  | Canada. | West Toronto., | June 30,1916. |

@@ -3,10 +3,23 @@ title: 116th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+116th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m*9-l7. Ship: S.S. " Olympic.”<br>
+593-2-29. Port: July 24th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 116th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m*9-l7. Ship: S.S. " Olympic.” | 593-2-29. Port: July 24th, 1916. |
 | 2 | 767<br>574<br>3261<br>606 |  |  |  | Former Corps. | Country of |
 | 2 | 684<br>718<br>3756<br>747 |  | Lieut.-Colonel... |  |  | Canada.. | Uxbridge  | Feb. | iO, 19iG. |
 | 2 | 3071<br>747<br>3756<br>776 |  |  |  |  | Canada.. | Uxbridge  | Feb. | 9.1916. |

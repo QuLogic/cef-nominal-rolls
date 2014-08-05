@@ -3,10 +3,23 @@ title: 228th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+228th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men,<br>
+EMBARKATION<br>
+Port: St. John, N.B.<br>
+3m-9*17. Ship: S.S. “jMissanabie.”<br>
+593-2-29. Date: February 16th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 228th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men, | EMBARKATION | Port: St. John, N.B. | 3m-9*17. Ship: S.S. “jMissanabie.” | 593-2-29. Date: February 16th, 1917. |
 | 2 | 781<br>583<br>3285<br>618 |  |  |  | Former Corps. |  |  | Country of |
 | 2 | 697<br>727<br>3775<br>760 |  | Lieut.-Colonel... |  | 34th Regt and S. A  |  |  | Canada.. | Toronto  | Feb. | 1917. |
 | 2 | 954<br>756<br>3775<br>789 |  |  |  | C.O.T.C  | Dillabough, James Vidal  | Dillabough, Mrs. Annie Louise  | Canada.., | Toronto  | Jan. | 1917. |

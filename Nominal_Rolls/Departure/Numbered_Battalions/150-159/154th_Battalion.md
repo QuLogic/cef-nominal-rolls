@@ -3,10 +3,23 @@ title: 154th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+154th BATTALION<br>
+Nominal Roil of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-l-l7. Ship: S.S. "Mauretania.”<br>
+593-2-29. Date: October 25th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 154th BATTALION | Nominal Roil of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-l-l7. Ship: S.S. "Mauretania.” | 593-2-29. Date: October 25th, 1916. |
 | 2 | 537<br>545<br>3233<br>626 | h |  |  | Former Corps. |  |  | Country of |
 | 2 | 635<br>738<br>3720<br>771 |  | Lieut.-Colonel... | Macdonald, Alexander George F... | 59 th Rcgt  | Macdonald, Mrs. A. G. F  | Alexandria, Ont  | Canada.. | Cornwall  | Mar. | 24 | 1910 |
 | 2 | 635<br>768<br>3727<br>800 |  | Major  | Magwood, William Herbert.. | 59th Regt  | Magwood, Mrs. May  | Cornwall, Ont  | Canada.. | Cornwall  | April 10 | 1916. |

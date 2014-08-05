@@ -3,10 +3,23 @@ title: 193rd Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Korce<br>
+193rd BATTALION<br>
+Nominal Roll, of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+Ship: S.S. “ Olympic.”<br>
+Date: October 12th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Korce | 193rd BATTALION | Nominal Roll, of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | Ship: S.S. “ Olympic.” | Date: October 12th, 1916. |
 | 2 | 605<br>497<br>3097<br>528 | Rank. |  | Former Corps. |  |  | Birth. |
 | 2 | 532<br>642<br>3624<br>676 | Lieut.-Colonel... Langford, Robert John S. . . |  | R.C.R  | Langford, Mrs. Betty Almon  | c/o Bank of Montreal, Vancouver, B.C.   | India  | Aldershot  | June | 1916. |
 | 2 | 533<br>671<br>3623<br>705 | Major  LcGallnis, James Philip.. . . |  | 70 th Regt. & | LeGallais, Mrs. Margaret J  | Truro, Colchester Co., N.S.   | Canada  | Truro  | Feb. | 1910. |

@@ -3,10 +3,24 @@ title: 215th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 19170<br>
+Canadian Expeditionary<br>
+Force<br>
+215th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+»<br>
+EMBARKATION<br>
+• Port: Halifax, N.S.<br>
+3m-9-17. Ships S.S. “Olympic.”<br>
+593-2*29* Dates April 29th, 1917.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 19170 | Canadian Expeditionary | Force | 215th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | » | EMBARKATION | • Port: Halifax, N.S. | 3m-9-17. Ships S.S. “Olympic.” | 593-2*29* Dates April 29th, 1917. |
 | 2 | 612<br>584<br>3278<br>637 | |l |  | Former Corps. |  |  | Country of |
 | 2 | 695<br>761<br>3775<br>800 | Major  | Joyce, Walter  | 38th Regt. | Joyce, Mrs. Mary E.. | 34 Victoria St., Brantford, Ont  | Canada. | Brantford. | Mar. | 6, 1916. |
 | 2 | 695<br>790<br>3773<br>828 | Major  | Sweet, Edmund  | 38th Regt. | Sweet, Mrs. Edith A. | 62 Dufferin Ave., Brantford, Ont. | Canada. | Brantford. | Mar. | 9, 1916. |

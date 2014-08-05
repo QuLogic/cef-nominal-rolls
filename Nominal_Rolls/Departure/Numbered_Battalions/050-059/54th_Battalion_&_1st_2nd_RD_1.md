@@ -3,8 +3,21 @@ title: 54th Battalion & 1st 2nd RD 1
 wide: wide
 ---
 
+## Cover Page Information
 {% raw %}
-| Page | Bounds | | | | | | | | | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1915.) | Canadian Expeditionary | Force | Nominal Roll of Officers, Non-Commissioned | Officers and Men. • | EMBARKATION | I Fort: Halifax, N.S. | Ship: S.S. “ Saxonia." | Date: November 22nd, 1915. | Port: Montreal. | 1st Reinforcing Draft < Ship: S.S. “Corsican.'* | Date: July 21st, 1915. | I Port: Quebec. | Ship: S.S. “California.” | Date: October 23rd, 1915. |
+(ISSUED WITH MILITIA ORDERS, 1915.)<br>
+Canadian Expeditionary<br>
+Force<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men. •<br>
+EMBARKATION<br>
+I Fort: Halifax, N.S.<br>
+Ship: S.S. “ Saxonia."<br>
+Date: November 22nd, 1915.<br>
+Port: Montreal.<br>
+1st Reinforcing Draft < Ship: S.S. “Corsican.'*<br>
+Date: July 21st, 1915.<br>
+I Port: Quebec.<br>
+Ship: S.S. “California.”<br>
+Date: October 23rd, 1915.
 {% endraw %}

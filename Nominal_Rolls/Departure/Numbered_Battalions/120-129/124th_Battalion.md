@@ -3,10 +3,23 @@ title: 124th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+(ISSUED WITH MILITIA ORDERS, 1917.)<br>
+Canadian Expeditionary<br>
+Force<br>
+124th BATTALION<br>
+Nominal Roll of Officers, Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-l-l7. Ship: S.S. “Cameronia."<br>
+593-2-29. Date: August 7th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | (ISSUED WITH MILITIA ORDERS, 1917.) | Canadian Expeditionary | Force | 124th BATTALION | Nominal Roll of Officers, Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-l-l7. Ship: S.S. “Cameronia." | 593-2-29. Date: August 7th, 1916. |
 | 2 | 800<br>599<br>3313<br>629 |  |  | Former Corps. |  |  | Country of |
 | 2 | 710<br>744<br>3809<br>775 | Lieut .-Colonel.... | Chadwick, William Craven V  | 9th Horse. | Chadwick, Jessie Dorothea  | 132 Church St., Toronto, Ont  | Canada... | Toronto  | Dec. | 3 | 1914. |
 | 2 | 1485<br>774<br>3809<br>804 |  |  | 35th Regt. . | Ardagh, Mrs. Alice C  | 21 Edgar Ave., Toronto, Ont  | Canada... | Toronto  | Dec. | 1 | 1915. |

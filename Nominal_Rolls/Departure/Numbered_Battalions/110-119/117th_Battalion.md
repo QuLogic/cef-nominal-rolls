@@ -3,10 +3,23 @@ title: 117th Battalion
 wide: wide
 ---
 
+## Cover Page Information
+{% raw %}
+^'5S^!e|CC<br>
+Canadian Expeditionary<br>
+Force<br>
+117th BATTALION<br>
+Nominal Roll of Officers* Non-Commissioned<br>
+Officers and Men.<br>
+EMBARKATION<br>
+Port: Halifax, N.S.<br>
+3m-i-l7. Ship: S.S; “ Empress of Britain."<br>
+593-2-29. Date: August 14th, 1916.
+{% endraw %}
+## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <br><br><br> | ^'5S^!e|CC | Canadian Expeditionary | Force | 117th BATTALION | Nominal Roll of Officers* Non-Commissioned | Officers and Men. | EMBARKATION | Port: Halifax, N.S. | 3m-i-l7. Ship: S.S; “ Empress of Britain." | 593-2-29. Date: August 14th, 1916. |
 | 2 | 309<br>539<br>3010<br>583 | M |  | Former Corps. |  |  | Country of |
 | 2 | 405<br>691<br>3461<br>726 | Lt:-Colonel... | Gilbert, Levi Jerome.   | 58th Regt  | Gilbert, Mrs. Melinda V  | Bishop’s Crossing, P.Q  | Canada  | Sherbrooke  | Mar. | 19 |
 | 2 | 404<br>721<br>3461<br>754 | Major.  | Boutelle, James Herbert  | Uth Huss  | Boutelle, Mrs. Alice L  | Danville, P.Q  | Canada  | Sherbrooke  | Nov. | 19 |
