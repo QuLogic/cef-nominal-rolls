@@ -3,6 +3,8 @@ title: 120th Battalion
 wide: wide
 ---
 
+# 120th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

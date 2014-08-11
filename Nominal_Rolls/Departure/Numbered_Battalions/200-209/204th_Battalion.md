@@ -3,6 +3,8 @@ title: 204th Battalion
 wide: wide
 ---
 
+# 204th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

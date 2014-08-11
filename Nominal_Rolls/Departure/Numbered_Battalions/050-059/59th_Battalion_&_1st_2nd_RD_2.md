@@ -3,6 +3,8 @@ title: 59th Battalion & 1st 2nd RD 2
 wide: wide
 ---
 
+# 59th Battalion & 1st 2nd RD 2
+
 ## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |

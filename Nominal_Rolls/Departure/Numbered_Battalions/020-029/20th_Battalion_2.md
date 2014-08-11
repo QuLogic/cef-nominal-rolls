@@ -3,6 +3,8 @@ title: 20th Battalion 2
 wide: wide
 ---
 
+# 20th Battalion 2
+
 ## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |

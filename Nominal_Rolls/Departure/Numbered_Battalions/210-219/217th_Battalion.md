@@ -3,6 +3,8 @@ title: 217th Battalion
 wide: wide
 ---
 
+# 217th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

@@ -3,6 +3,8 @@ title: 151st Battalion
 wide: wide
 ---
 
+# 151st Battalion
+
 ## Cover Page Information
 {% raw %}
 ) tmth militia orders, 19170<br>

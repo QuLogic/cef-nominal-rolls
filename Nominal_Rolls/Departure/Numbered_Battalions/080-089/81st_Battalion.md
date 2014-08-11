@@ -3,6 +3,8 @@ title: 81st Battalion
 wide: wide
 ---
 
+# 81st Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

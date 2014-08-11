@@ -3,6 +3,8 @@ title: 133rd Battalion
 wide: wide
 ---
 
+# 133rd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

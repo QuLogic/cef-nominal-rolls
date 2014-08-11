@@ -3,6 +3,8 @@ title: 256th Battalion
 wide: wide
 ---
 
+# 256th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

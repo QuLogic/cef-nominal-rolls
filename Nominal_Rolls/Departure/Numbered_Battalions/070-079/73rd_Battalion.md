@@ -3,6 +3,8 @@ title: 73rd Battalion
 wide: wide
 ---
 
+# 73rd Battalion
+
 ## Cover Page Information
 {% raw %}
 Canadian Expeditionary<br>

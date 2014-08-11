@@ -3,6 +3,8 @@ title: 65th Battalion & RD(2)
 wide: wide
 ---
 
+# 65th Battalion & RD(2)
+
 ## Cover Page Information
 {% raw %}
 ♦<br>

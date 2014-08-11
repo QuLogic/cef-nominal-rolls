@@ -3,6 +3,8 @@ title: 126th Battalion
 wide: wide
 ---
 
+# 126th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

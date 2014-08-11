@@ -3,6 +3,8 @@ title: 194th Battalion
 wide: wide
 ---
 
+# 194th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

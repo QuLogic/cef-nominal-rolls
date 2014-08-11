@@ -3,6 +3,8 @@ title: 152nd Battalion
 wide: wide
 ---
 
+# 152nd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

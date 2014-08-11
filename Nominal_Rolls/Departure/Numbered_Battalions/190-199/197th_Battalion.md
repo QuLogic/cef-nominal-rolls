@@ -3,6 +3,8 @@ title: 197th Battalion
 wide: wide
 ---
 
+# 197th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

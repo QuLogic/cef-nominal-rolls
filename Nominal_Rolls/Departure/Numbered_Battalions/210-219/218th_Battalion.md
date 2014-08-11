@@ -3,6 +3,8 @@ title: 218th Battalion
 wide: wide
 ---
 
+# 218th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

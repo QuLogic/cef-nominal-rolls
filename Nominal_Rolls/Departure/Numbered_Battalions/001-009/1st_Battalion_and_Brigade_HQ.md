@@ -3,6 +3,8 @@ title: 1st Battalion and Brigade HQ
 wide: wide
 ---
 
+# 1st Battalion and Brigade HQ
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

@@ -3,6 +3,8 @@ title: 157th Battalion
 wide: wide
 ---
 
+# 157th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

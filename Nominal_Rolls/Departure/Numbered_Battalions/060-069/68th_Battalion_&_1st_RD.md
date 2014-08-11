@@ -3,6 +3,8 @@ title: 68th Battalion & 1st RD
 wide: wide
 ---
 
+# 68th Battalion & 1st RD
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

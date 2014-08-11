@@ -3,6 +3,8 @@ title: 230th Battalion
 wide: wide
 ---
 
+# 230th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

@@ -3,6 +3,8 @@ title: 114th Battalion
 wide: wide
 ---
 
+# 114th Battalion
+
 ## Cover Page Information
 {% raw %}
 V?il||&-|||f ■, ;. v/< .;s:: '. .; ■<br>

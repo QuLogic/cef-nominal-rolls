@@ -3,6 +3,8 @@ title: 87th Battalion
 wide: wide
 ---
 
+# 87th Battalion
+
 ## Cover Page Information
 {% raw %}
 BOTH) WITH MILITIA ORDERS, 1915.)<br>

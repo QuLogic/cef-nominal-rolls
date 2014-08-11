@@ -3,6 +3,8 @@ title: 118th Battalion
 wide: wide
 ---
 
+# 118th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

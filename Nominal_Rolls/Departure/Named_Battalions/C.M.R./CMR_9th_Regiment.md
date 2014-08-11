@@ -3,6 +3,8 @@ title: CMR 9th Regiment
 wide: wide
 ---
 
+# CMR 9th Regiment
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

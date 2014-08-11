@@ -3,6 +3,8 @@ title: 75th Battalion & 1st RD
 wide: wide
 ---
 
+# 75th Battalion & 1st RD
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

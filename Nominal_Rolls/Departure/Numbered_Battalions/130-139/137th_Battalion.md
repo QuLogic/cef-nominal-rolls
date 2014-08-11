@@ -3,6 +3,8 @@ title: 137th Battalion
 wide: wide
 ---
 
+# 137th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA- ORDERS, 1917.)<br>

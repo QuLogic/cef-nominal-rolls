@@ -3,6 +3,8 @@ title: 173rd Battalion
 wide: wide
 ---
 
+# 173rd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

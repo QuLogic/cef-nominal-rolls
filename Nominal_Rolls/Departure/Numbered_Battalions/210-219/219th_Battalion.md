@@ -3,6 +3,8 @@ title: 219th Battalion
 wide: wide
 ---
 
+# 219th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

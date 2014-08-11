@@ -3,6 +3,8 @@ title: 95th Regiment 1st RD (Saskatchewan Rifles)
 wide: wide
 ---
 
+# 95th Regiment 1st RD (Saskatchewan Rifles)
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

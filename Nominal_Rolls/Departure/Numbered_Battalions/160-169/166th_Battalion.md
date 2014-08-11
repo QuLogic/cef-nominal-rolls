@@ -3,6 +3,8 @@ title: 166th Battalion
 wide: wide
 ---
 
+# 166th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 191?.)<br>

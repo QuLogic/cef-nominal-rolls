@@ -3,6 +3,8 @@ title: 62nd Battalion & 1st RD
 wide: wide
 ---
 
+# 62nd Battalion & 1st RD
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

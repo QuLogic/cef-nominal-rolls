@@ -3,6 +3,8 @@ title: 55th Battalion & 1st RD
 wide: wide
 ---
 
+# 55th Battalion & 1st RD
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

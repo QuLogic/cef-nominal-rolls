@@ -3,6 +3,8 @@ title: 63rd Regiment & 1st 2nd 3rd RD
 wide: wide
 ---
 
+# 63rd Regiment & 1st 2nd 3rd RD
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1918.)<br>

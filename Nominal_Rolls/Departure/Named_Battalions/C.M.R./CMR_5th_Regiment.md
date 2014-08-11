@@ -3,6 +3,8 @@ title: CMR 5th Regiment
 wide: wide
 ---
 
+# CMR 5th Regiment
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917,)<br>

@@ -3,6 +3,8 @@ title: 3rd Battalion
 wide: wide
 ---
 
+# 3rd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915)<br>

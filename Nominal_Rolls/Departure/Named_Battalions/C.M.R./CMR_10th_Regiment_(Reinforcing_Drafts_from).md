@@ -3,6 +3,8 @@ title: CMR 10th Regiment (Reinforcing Drafts from)
 wide: wide
 ---
 
+# CMR 10th Regiment (Reinforcing Drafts from)
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

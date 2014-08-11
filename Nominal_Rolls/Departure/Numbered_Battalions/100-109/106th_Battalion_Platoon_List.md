@@ -3,6 +3,8 @@ title: 106th Battalion Platoon List
 wide: wide
 ---
 
+# 106th Battalion Platoon List
+
 ## Cover Page Information
 {% raw %}
 -A.. 1-’ >N Authorized 8 Nov 1915 i»eft Can 15 J~i. 16<br>

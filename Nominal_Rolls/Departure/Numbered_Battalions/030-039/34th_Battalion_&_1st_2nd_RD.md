@@ -3,6 +3,8 @@ title: 34th Battalion & 1st 2nd RD
 wide: wide
 ---
 
+# 34th Battalion & 1st 2nd RD
+
 ## Cover Page Information
 {% raw %}
 ><br>

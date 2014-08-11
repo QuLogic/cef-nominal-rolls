@@ -3,6 +3,8 @@ title: 179th Battalion
 wide: wide
 ---
 
+# 179th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

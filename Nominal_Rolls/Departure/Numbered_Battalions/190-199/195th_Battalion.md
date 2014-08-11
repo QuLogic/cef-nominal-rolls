@@ -3,6 +3,8 @@ title: 195th Battalion
 wide: wide
 ---
 
+# 195th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

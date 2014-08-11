@@ -3,6 +3,8 @@ title: 154th Battalion - book version
 wide: wide
 ---
 
+# 154th Battalion - book version
+
 ## Cover Page Information
 {% raw %}
 Canada’s Heroes in<br>

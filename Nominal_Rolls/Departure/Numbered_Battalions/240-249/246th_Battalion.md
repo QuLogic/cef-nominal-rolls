@@ -3,6 +3,8 @@ title: 246th Battalion
 wide: wide
 ---
 
+# 246th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

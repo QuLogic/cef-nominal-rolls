@@ -3,6 +3,8 @@ title: 80th Battalion
 wide: wide
 ---
 
+# 80th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

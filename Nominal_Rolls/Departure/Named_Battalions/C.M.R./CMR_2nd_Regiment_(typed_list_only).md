@@ -3,6 +3,8 @@ title: CMR 2nd Regiment (typed list only)
 wide: wide
 ---
 
+# CMR 2nd Regiment (typed list only)
+
 ## Cover Page Information
 {% raw %}
 c<br>

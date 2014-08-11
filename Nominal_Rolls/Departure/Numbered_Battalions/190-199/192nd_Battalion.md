@@ -3,6 +3,8 @@ title: 192nd Battalion
 wide: wide
 ---
 
+# 192nd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

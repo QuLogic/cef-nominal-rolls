@@ -3,6 +3,8 @@ title: 252nd Battalion
 wide: wide
 ---
 
+# 252nd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

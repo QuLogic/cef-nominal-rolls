@@ -3,6 +3,8 @@ title: 123rd Battalion
 wide: wide
 ---
 
+# 123rd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

@@ -3,6 +3,8 @@ title: 42nd Battalion
 wide: wide
 ---
 
+# 42nd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

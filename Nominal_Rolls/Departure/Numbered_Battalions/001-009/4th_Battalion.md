@@ -3,6 +3,8 @@ title: 4th Battalion
 wide: wide
 ---
 
+# 4th Battalion
+
 ## Cover Page Information
 {% raw %}
 8 • ! ■ >■ >■ ' ■<br>

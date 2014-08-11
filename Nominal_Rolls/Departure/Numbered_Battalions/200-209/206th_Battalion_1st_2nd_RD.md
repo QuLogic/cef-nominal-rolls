@@ -3,6 +3,8 @@ title: 206th Battalion 1st 2nd RD
 wide: wide
 ---
 
+# 206th Battalion 1st 2nd RD
+
 ## Cover Page Information
 {% raw %}
 /-/*<br>

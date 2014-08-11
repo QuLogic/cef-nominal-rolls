@@ -3,6 +3,8 @@ title: 202nd Battalion
 wide: wide
 ---
 
+# 202nd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS. 1917.)<br>

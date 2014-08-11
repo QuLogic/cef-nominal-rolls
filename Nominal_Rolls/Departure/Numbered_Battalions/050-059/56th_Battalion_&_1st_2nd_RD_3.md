@@ -3,6 +3,8 @@ title: 56th Battalion & 1st 2nd RD 3
 wide: wide
 ---
 
+# 56th Battalion & 1st 2nd RD 3
+
 ## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | | | | |

@@ -3,6 +3,8 @@ title: 115th Battalion
 wide: wide
 ---
 
+# 115th Battalion
+
 ## Cover Page Information
 {% raw %}
 ' ■ «■<br>

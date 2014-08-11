@@ -3,6 +3,8 @@ title: 90th Battalion
 wide: wide
 ---
 
+# 90th Battalion
+
 ## Cover Page Information
 {% raw %}
 Canadian Expeditionary<br>

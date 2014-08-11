@@ -3,6 +3,8 @@ title: 191st Battalion 1st & 2nd RD
 wide: wide
 ---
 
+# 191st Battalion 1st & 2nd RD
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

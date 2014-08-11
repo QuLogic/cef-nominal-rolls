@@ -3,6 +3,8 @@ title: 61st Battalion & 1st RD
 wide: wide
 ---
 
+# 61st Battalion & 1st RD
+
 ## Cover Page Information
 {% raw %}
 Canadian Kxpeditionary<br>

@@ -3,6 +3,8 @@ title: 184th Battalion
 wide: wide
 ---
 
+# 184th Battalion
+
 ## Cover Page Information
 {% raw %}
 Canadian Expeditionary<br>

@@ -3,6 +3,8 @@ title: 229th Battalion
 wide: wide
 ---
 
+# 229th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, .1917.)<br>

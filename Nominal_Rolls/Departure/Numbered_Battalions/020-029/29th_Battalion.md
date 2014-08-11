@@ -3,6 +3,8 @@ title: 29th Battalion
 wide: wide
 ---
 
+# 29th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

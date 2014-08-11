@@ -3,6 +3,8 @@ title: 91st Battalion
 wide: wide
 ---
 
+# 91st Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

@@ -3,6 +3,8 @@ title: 93rd Battalion
 wide: wide
 ---
 
+# 93rd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

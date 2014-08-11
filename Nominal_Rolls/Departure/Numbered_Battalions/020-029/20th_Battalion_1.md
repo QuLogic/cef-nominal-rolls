@@ -3,6 +3,8 @@ title: 20th Battalion 1
 wide: wide
 ---
 
+# 20th Battalion 1
+
 ## Cover Page Information
 {% raw %}
 20th BATTALION<br>

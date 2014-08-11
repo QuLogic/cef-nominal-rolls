@@ -3,6 +3,8 @@ title: 85th Battalion
 wide: wide
 ---
 
+# 85th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

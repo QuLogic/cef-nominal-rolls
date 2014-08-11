@@ -3,6 +3,8 @@ title: 43rd Battalion
 wide: wide
 ---
 
+# 43rd Battalion
+
 ## Cover Page Information
 {% raw %}
 4 I<br>

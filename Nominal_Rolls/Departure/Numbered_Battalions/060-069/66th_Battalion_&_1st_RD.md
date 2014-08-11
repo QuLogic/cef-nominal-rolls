@@ -3,6 +3,8 @@ title: 66th Battalion & 1st RD
 wide: wide
 ---
 
+# 66th Battalion & 1st RD
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH<br>

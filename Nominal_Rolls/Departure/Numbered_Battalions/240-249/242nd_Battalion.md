@@ -3,6 +3,8 @@ title: 242nd Battalion
 wide: wide
 ---
 
+# 242nd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

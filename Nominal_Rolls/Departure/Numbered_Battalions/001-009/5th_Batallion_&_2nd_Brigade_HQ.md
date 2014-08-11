@@ -3,6 +3,8 @@ title: 5th Batallion & 2nd Brigade HQ
 wide: wide
 ---
 
+# 5th Batallion & 2nd Brigade HQ
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

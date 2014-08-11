@@ -3,6 +3,8 @@ title: 163rd Battalion
 wide: wide
 ---
 
+# 163rd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

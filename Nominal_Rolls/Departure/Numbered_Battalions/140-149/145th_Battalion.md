@@ -3,6 +3,8 @@ title: 145th Battalion
 wide: wide
 ---
 
+# 145th Battalion
+
 ## Cover Page Information
 {% raw %}
 •■SA<br>

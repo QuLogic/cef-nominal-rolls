@@ -3,6 +3,8 @@ title: 215th Battalion
 wide: wide
 ---
 
+# 215th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 19170<br>

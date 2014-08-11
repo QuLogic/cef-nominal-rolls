@@ -3,6 +3,8 @@ title: 72nd Battalion
 wide: wide
 ---
 
+# 72nd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

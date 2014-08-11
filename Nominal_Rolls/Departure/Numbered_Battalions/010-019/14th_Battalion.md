@@ -3,6 +3,8 @@ title: 14th Battalion
 wide: wide
 ---
 
+# 14th Battalion
+
 ## Cover Page Information
 {% raw %}
 \<br>

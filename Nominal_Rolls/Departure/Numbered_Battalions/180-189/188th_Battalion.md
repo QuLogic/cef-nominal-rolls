@@ -3,6 +3,8 @@ title: 188th Battalion
 wide: wide
 ---
 
+# 188th Battalion
+
 ## Cover Page Information
 {% raw %}
 i<"i i j.<br>

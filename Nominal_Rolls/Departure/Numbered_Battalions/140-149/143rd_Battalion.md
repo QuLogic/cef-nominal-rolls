@@ -3,6 +3,8 @@ title: 143rd Battalion
 wide: wide
 ---
 
+# 143rd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

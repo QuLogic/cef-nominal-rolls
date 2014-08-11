@@ -3,6 +3,8 @@ title: 244th Battalion
 wide: wide
 ---
 
+# 244th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1918)<br>

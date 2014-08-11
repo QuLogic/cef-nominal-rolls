@@ -3,6 +3,8 @@ title: 83rd Battalion & 1stRD 1
 wide: wide
 ---
 
+# 83rd Battalion & 1stRD 1
+
 ## Cover Page Information
 {% raw %}
 m0*:<br>

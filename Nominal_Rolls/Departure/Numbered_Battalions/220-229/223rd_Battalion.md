@@ -3,6 +3,8 @@ title: 223rd Battalion
 wide: wide
 ---
 
+# 223rd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

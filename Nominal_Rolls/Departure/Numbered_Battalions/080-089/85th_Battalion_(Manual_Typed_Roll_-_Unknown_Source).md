@@ -3,6 +3,8 @@ title: 85th Battalion (Manual Typed Roll - Unknown Source)
 wide: wide
 ---
 
+# 85th Battalion (Manual Typed Roll - Unknown Source)
+
 ## Cover Page Information
 {% raw %}
 Bartlett JT Pte<br>

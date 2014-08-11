@@ -3,6 +3,8 @@ title: 5th Battalion (Honours, Awards, Distinctions)
 wide: wide
 ---
 
+# 5th Battalion (Honours, Awards, Distinctions)
+
 ## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | |

@@ -3,6 +3,8 @@ title: CMR 8th Regiment & 1st, 2nd, 3rd RD
 wide: wide
 ---
 
+# CMR 8th Regiment & 1st, 2nd, 3rd RD
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1914.)<br>

@@ -3,6 +3,8 @@ title: 131st Battalion
 wide: wide
 ---
 
+# 131st Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.')<br>

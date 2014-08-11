@@ -3,6 +3,8 @@ title: 125th Battalion
 wide: wide
 ---
 
+# 125th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 191?.)<br>

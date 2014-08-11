@@ -3,6 +3,8 @@ title: CMR 1st Regiment
 wide: wide
 ---
 
+# CMR 1st Regiment
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

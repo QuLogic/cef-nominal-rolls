@@ -3,6 +3,8 @@ title: 18th Battalion 2
 wide: wide
 ---
 
+# 18th Battalion 2
+
 ## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |

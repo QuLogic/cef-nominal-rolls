@@ -3,6 +3,8 @@ title: CMR 7th Regiment C Squadron
 wide: wide
 ---
 
+# CMR 7th Regiment C Squadron
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

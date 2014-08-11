@@ -3,6 +3,8 @@ title: 112th Battalion
 wide: wide
 ---
 
+# 112th Battalion
+
 ## Cover Page Information
 {% raw %}
 t<br>

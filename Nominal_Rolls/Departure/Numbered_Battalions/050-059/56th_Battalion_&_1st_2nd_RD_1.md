@@ -3,6 +3,8 @@ title: 56th Battalion & 1st 2nd RD 1
 wide: wide
 ---
 
+# 56th Battalion & 1st 2nd RD 1
+
 ## Cover Page Information
 {% raw %}
 x-x rlvi:r<br>

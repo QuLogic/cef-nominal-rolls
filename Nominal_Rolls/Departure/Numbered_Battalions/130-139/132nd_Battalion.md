@@ -3,6 +3,8 @@ title: 132nd Battalion
 wide: wide
 ---
 
+# 132nd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

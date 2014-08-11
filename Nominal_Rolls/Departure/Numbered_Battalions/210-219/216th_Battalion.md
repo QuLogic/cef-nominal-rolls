@@ -3,6 +3,8 @@ title: 216th Battalion
 wide: wide
 ---
 
+# 216th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

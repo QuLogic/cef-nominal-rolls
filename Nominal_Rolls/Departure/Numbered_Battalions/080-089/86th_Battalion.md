@@ -3,6 +3,8 @@ title: 86th Battalion
 wide: wide
 ---
 
+# 86th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

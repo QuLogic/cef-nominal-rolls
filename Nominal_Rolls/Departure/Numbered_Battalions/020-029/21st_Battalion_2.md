@@ -3,6 +3,8 @@ title: 21st Battalion 2
 wide: wide
 ---
 
+# 21st Battalion 2
+
 ## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |

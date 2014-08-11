@@ -3,6 +3,8 @@ title: 49th Battalion
 wide: wide
 ---
 
+# 49th Battalion
+
 ## Cover Page Information
 {% raw %}
 SUED WITH MILITIA ORDERS, 1915.)<br>

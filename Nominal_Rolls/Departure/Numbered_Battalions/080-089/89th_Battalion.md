@@ -3,6 +3,8 @@ title: 89th Battalion
 wide: wide
 ---
 
+# 89th Battalion
+
 ## Cover Page Information
 {% raw %}
 PUtD WITH MILITIA ORDERS, 1917.)<br>

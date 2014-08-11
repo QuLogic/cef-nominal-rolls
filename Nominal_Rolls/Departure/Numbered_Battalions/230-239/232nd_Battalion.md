@@ -3,6 +3,8 @@ title: 232nd Battalion
 wide: wide
 ---
 
+# 232nd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

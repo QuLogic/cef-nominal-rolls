@@ -3,6 +3,8 @@ title: 22nd Battalion
 wide: wide
 ---
 
+# 22nd Battalion
+
 ## Cover Page Information
 {% raw %}
 ■'it. (ISSUKD WITH MILITIA ORDERS, 1915)<br>

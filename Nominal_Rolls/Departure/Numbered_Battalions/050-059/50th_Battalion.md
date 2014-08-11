@@ -3,6 +3,8 @@ title: 50th Battalion
 wide: wide
 ---
 
+# 50th Battalion
+
 ## Cover Page Information
 {% raw %}
 50th BATTALION<br>

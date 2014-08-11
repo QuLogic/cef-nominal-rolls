@@ -3,6 +3,8 @@ title: 47th Battalion & 1st 2nd 3rd RD 1
 wide: wide
 ---
 
+# 47th Battalion & 1st 2nd 3rd RD 1
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

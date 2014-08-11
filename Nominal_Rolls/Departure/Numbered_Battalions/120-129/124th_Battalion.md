@@ -3,6 +3,8 @@ title: 124th Battalion
 wide: wide
 ---
 
+# 124th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

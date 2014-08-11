@@ -3,6 +3,8 @@ title: 238th Battalion (Forestry) 2
 wide: wide
 ---
 
+# 238th Battalion (Forestry) 2
+
 ## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |

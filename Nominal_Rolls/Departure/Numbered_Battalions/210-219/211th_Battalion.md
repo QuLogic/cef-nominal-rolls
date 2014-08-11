@@ -3,6 +3,8 @@ title: 211th Battalion
 wide: wide
 ---
 
+# 211th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

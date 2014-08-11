@@ -3,6 +3,8 @@ title: 82nd Battalion
 wide: wide
 ---
 
+# 82nd Battalion
+
 ## Cover Page Information
 {% raw %}
 Canadian Expeditionary<br>

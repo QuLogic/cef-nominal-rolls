@@ -3,6 +3,8 @@ title: 207th Battalion
 wide: wide
 ---
 
+# 207th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

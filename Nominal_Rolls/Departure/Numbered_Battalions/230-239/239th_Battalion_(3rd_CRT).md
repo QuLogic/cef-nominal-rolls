@@ -3,6 +3,8 @@ title: 239th Battalion (3rd CRT)
 wide: wide
 ---
 
+# 239th Battalion (3rd CRT)
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

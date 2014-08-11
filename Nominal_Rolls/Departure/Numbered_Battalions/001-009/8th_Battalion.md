@@ -3,6 +3,8 @@ title: 8th Battalion
 wide: wide
 ---
 
+# 8th Battalion
+
 ## Cover Page Information
 {% raw %}
 vtfv-r v,<br>

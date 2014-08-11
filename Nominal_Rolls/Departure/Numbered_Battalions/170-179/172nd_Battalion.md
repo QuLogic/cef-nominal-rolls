@@ -3,6 +3,8 @@ title: 172nd Battalion
 wide: wide
 ---
 
+# 172nd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

@@ -3,6 +3,8 @@ title: 47th Battalion & 1st 2nd 3rd RD 2
 wide: wide
 ---
 
+# 47th Battalion & 1st 2nd 3rd RD 2
+
 ## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | |

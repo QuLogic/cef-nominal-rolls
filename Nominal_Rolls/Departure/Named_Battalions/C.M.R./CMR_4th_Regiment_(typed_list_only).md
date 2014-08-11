@@ -3,6 +3,8 @@ title: CMR 4th Regiment (typed list only)
 wide: wide
 ---
 
+# CMR 4th Regiment (typed list only)
+
 ## Cover Page Information
 {% raw %}
 4th orient, iind -glf-nflo. c *!.?»;*»<br>

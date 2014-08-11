@@ -3,6 +3,8 @@ title: 208th Batalion
 wide: wide
 ---
 
+# 208th Batalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

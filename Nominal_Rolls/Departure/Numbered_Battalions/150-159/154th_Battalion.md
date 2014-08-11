@@ -3,6 +3,8 @@ title: 154th Battalion
 wide: wide
 ---
 
+# 154th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

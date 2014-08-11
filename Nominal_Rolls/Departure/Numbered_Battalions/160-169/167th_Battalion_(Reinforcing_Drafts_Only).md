@@ -3,6 +3,8 @@ title: 167th Battalion (Reinforcing Drafts Only)
 wide: wide
 ---
 
+# 167th Battalion (Reinforcing Drafts Only)
+
 ## Cover Page Information
 {% raw %}
 u<br>

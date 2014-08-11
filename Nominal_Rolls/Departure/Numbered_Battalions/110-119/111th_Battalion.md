@@ -3,6 +3,8 @@ title: 111th Battalion
 wide: wide
 ---
 
+# 111th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

@@ -3,6 +3,8 @@ title: 203rd Battalion
 wide: wide
 ---
 
+# 203rd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

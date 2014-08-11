@@ -3,6 +3,8 @@ title: 63rd Battalion & 1st RD
 wide: wide
 ---
 
+# 63rd Battalion & 1st RD
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

@@ -3,6 +3,8 @@ title: 182nd Battalion
 wide: wide
 ---
 
+# 182nd Battalion
+
 ## Cover Page Information
 {% raw %}
 Canadian Expeditionary<br>

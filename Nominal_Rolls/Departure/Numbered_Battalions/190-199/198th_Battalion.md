@@ -3,6 +3,8 @@ title: 198th Battalion
 wide: wide
 ---
 
+# 198th Battalion
+
 ## Cover Page Information
 {% raw %}
 ■i.<br>

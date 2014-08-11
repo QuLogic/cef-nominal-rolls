@@ -3,6 +3,8 @@ title: 106th Battalion
 wide: wide
 ---
 
+# 106th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

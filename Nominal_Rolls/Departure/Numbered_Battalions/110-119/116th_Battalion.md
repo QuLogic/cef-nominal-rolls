@@ -3,6 +3,8 @@ title: 116th Battalion
 wide: wide
 ---
 
+# 116th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

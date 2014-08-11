@@ -3,6 +3,8 @@ title: 122nd Battalion
 wide: wide
 ---
 
+# 122nd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

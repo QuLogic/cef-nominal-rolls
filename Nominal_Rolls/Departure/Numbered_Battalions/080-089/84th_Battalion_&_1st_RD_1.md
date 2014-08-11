@@ -3,6 +3,8 @@ title: 84th Battalion & 1st RD 1
 wide: wide
 ---
 
+# 84th Battalion & 1st RD 1
+
 ## Cover Page Information
 {% raw %}
 Canadian Expeditionary<br>

@@ -3,6 +3,8 @@ title: 48th Battalion aka 3rd Pioneer
 wide: wide
 ---
 
+# 48th Battalion aka 3rd Pioneer
+
 ## Cover Page Information
 {% raw %}
 (ISSUED .WITH .MILITIA ORDERS, 1915.)<br>

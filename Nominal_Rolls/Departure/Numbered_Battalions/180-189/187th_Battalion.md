@@ -3,6 +3,8 @@ title: 187th Battalion
 wide: wide
 ---
 
+# 187th Battalion
+
 ## Cover Page Information
 {% raw %}
 I<br>

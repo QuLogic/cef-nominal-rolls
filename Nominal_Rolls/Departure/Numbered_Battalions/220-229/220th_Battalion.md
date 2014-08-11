@@ -3,6 +3,8 @@ title: 220th Battalion
 wide: wide
 ---
 
+# 220th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

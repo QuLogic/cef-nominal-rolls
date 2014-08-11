@@ -3,6 +3,8 @@ title: 127th Battalion
 wide: wide
 ---
 
+# 127th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

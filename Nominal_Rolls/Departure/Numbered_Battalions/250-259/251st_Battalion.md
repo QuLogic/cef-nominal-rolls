@@ -3,6 +3,8 @@ title: 251st Battalion
 wide: wide
 ---
 
+# 251st Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1918.)<br>

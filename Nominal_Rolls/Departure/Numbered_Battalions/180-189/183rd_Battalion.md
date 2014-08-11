@@ -3,6 +3,8 @@ title: 183rd Battalion
 wide: wide
 ---
 
+# 183rd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

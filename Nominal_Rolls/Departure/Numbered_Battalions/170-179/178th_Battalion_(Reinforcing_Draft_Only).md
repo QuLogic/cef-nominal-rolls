@@ -3,6 +3,8 @@ title: 178th Battalion (Reinforcing Draft Only)
 wide: wide
 ---
 
+# 178th Battalion (Reinforcing Draft Only)
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

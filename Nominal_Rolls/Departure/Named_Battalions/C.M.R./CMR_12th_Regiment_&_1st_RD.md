@@ -3,6 +3,8 @@ title: CMR 12th Regiment & 1st RD
 wide: wide
 ---
 
+# CMR 12th Regiment & 1st RD
+
 ## Cover Page Information
 {% raw %}
 I<br>

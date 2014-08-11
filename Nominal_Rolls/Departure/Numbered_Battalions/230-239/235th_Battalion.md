@@ -3,6 +3,8 @@ title: 235th Battalion
 wide: wide
 ---
 
+# 235th Battalion
+
 ## Cover Page Information
 {% raw %}
 'UPkv<r9<br>

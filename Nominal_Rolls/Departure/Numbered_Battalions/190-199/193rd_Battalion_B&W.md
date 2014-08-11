@@ -3,6 +3,8 @@ title: 193rd Battalion B&W
 wide: wide
 ---
 
+# 193rd Battalion B&W
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

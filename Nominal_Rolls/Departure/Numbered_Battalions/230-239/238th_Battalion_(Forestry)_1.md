@@ -3,6 +3,8 @@ title: 238th Battalion (Forestry) 1
 wide: wide
 ---
 
+# 238th Battalion (Forestry) 1
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

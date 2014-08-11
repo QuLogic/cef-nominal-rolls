@@ -3,6 +3,8 @@ title: 21st Battalion 1
 wide: wide
 ---
 
+# 21st Battalion 1
+
 ## Cover Page Information
 {% raw %}
 V 'ISSUED WITH MILITIA ORDERS, 1915)<br>

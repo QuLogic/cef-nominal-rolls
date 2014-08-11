@@ -3,6 +3,8 @@ title: 50th Bn 2nd RD
 wide: wide
 ---
 
+# 50th Bn 2nd RD
+
 ## Cover Page Information
 {% raw %}
 rYTRArT SECTION<br>

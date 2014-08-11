@@ -3,6 +3,8 @@ title: 134th Battalion
 wide: wide
 ---
 
+# 134th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

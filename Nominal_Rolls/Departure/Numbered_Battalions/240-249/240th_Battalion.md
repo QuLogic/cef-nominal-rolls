@@ -3,6 +3,8 @@ title: 240th Battalion
 wide: wide
 ---
 
+# 240th Battalion
+
 ## Cover Page Information
 {% raw %}
 ^::U-■ A'.;;; ^ ’#;•<br>

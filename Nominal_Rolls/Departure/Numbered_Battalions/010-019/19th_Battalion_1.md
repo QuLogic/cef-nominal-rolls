@@ -3,6 +3,8 @@ title: 19th Battalion 1
 wide: wide
 ---
 
+# 19th Battalion 1
+
 ## Cover Page Information
 {% raw %}
 (issued with Militia orders, 1915.)<br>

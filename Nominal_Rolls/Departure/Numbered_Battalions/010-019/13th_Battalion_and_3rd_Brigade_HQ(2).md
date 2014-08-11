@@ -3,6 +3,8 @@ title: 13th Battalion and 3rd Brigade HQ(2)
 wide: wide
 ---
 
+# 13th Battalion and 3rd Brigade HQ(2)
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

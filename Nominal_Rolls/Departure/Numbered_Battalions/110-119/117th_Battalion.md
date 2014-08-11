@@ -3,6 +3,8 @@ title: 117th Battalion
 wide: wide
 ---
 
+# 117th Battalion
+
 ## Cover Page Information
 {% raw %}
 ^'5S^!e|CC<br>

@@ -3,6 +3,8 @@ title: CMR 4th Regiment (Report Appendix Details)
 wide: wide
 ---
 
+# CMR 4th Regiment (Report Appendix Details)
+
 ## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | |

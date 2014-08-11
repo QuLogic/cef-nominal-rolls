@@ -3,6 +3,8 @@ title: 9th Battalion & 4th Brigade HQ
 wide: wide
 ---
 
+# 9th Battalion & 4th Brigade HQ
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

@@ -3,6 +3,8 @@ title: 245th Battalion B&W
 wide: wide
 ---
 
+# 245th Battalion B&W
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

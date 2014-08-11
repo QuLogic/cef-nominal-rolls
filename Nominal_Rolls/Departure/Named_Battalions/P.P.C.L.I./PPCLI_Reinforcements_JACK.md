@@ -3,6 +3,8 @@ title: PPCLI Reinforcements JACK
 wide: wide
 ---
 
+# PPCLI Reinforcements JACK
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

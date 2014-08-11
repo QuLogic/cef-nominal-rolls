@@ -3,6 +3,8 @@ title: 79th Battalion & 1st RD
 wide: wide
 ---
 
+# 79th Battalion & 1st RD
+
 ## Cover Page Information
 {% raw %}
 p<br>

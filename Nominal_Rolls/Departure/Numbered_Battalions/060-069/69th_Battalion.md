@@ -3,6 +3,8 @@ title: 69th Battalion
 wide: wide
 ---
 
+# 69th Battalion
+
 ## Cover Page Information
 {% raw %}
 Canadian Kxpeditionary<br>

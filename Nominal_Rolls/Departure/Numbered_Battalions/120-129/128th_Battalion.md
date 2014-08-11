@@ -3,6 +3,8 @@ title: 128th Battalion
 wide: wide
 ---
 
+# 128th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

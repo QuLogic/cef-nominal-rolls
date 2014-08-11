@@ -3,6 +3,8 @@ title: 78th Battalion & 1st RD 1
 wide: wide
 ---
 
+# 78th Battalion & 1st RD 1
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERSt 1915.)<br>

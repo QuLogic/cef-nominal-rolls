@@ -3,6 +3,8 @@ title: 23rd Battalion
 wide: wide
 ---
 
+# 23rd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1914.)<br>

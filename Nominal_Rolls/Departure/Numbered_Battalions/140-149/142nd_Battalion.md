@@ -3,6 +3,8 @@ title: 142nd Battalion
 wide: wide
 ---
 
+# 142nd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

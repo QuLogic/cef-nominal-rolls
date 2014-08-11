@@ -3,6 +3,8 @@ title: 226th Battalion
 wide: wide
 ---
 
+# 226th Battalion
+
 ## Cover Page Information
 {% raw %}
 L\AJQf><br>

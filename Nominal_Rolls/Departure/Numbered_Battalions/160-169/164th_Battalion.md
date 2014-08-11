@@ -3,6 +3,8 @@ title: 164th Battalion
 wide: wide
 ---
 
+# 164th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

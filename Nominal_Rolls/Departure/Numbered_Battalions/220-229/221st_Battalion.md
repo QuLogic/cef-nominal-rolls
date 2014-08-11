@@ -3,6 +3,8 @@ title: 221st Battalion
 wide: wide
 ---
 
+# 221st Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

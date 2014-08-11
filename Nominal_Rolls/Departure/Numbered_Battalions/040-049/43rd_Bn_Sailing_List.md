@@ -3,6 +3,8 @@ title: 43rd Bn Sailing List
 wide: wide
 ---
 
+# 43rd Bn Sailing List
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.;<br>

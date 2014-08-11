@@ -3,6 +3,8 @@ title: 2nd Battalion
 wide: wide
 ---
 
+# 2nd Battalion
+
 ## Cover Page Information
 {% raw %}
 ■ . ... . ■ ■<br>

@@ -3,6 +3,8 @@ title: 174th Battalion
 wide: wide
 ---
 
+# 174th Battalion
+
 ## Cover Page Information
 {% raw %}
 % ■:<br>

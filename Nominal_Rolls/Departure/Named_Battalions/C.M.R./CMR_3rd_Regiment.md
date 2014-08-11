@@ -3,6 +3,8 @@ title: CMR 3rd Regiment
 wide: wide
 ---
 
+# CMR 3rd Regiment
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915)<br>

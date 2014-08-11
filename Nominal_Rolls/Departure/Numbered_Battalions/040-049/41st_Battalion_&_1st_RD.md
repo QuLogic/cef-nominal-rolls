@@ -3,6 +3,8 @@ title: 41st Battalion & 1st RD
 wide: wide
 ---
 
+# 41st Battalion & 1st RD
+
 ## Cover Page Information
 {% raw %}
 i - & • <-/ /<br>

@@ -3,6 +3,8 @@ title: 18th Battalion 1
 wide: wide
 ---
 
+# 18th Battalion 1
+
 ## Cover Page Information
 {% raw %}
 Mmm<br>

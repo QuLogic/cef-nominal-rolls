@@ -3,6 +3,8 @@ title: 32nd Battalion
 wide: wide
 ---
 
+# 32nd Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

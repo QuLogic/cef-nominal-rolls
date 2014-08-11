@@ -3,6 +3,8 @@ title: 186th Battalion
 wide: wide
 ---
 
+# 186th Battalion
+
 ## Cover Page Information
 {% raw %}
 I<br>

@@ -3,6 +3,8 @@ title: 209th Battalion
 wide: wide
 ---
 
+# 209th Battalion
+
 ## Cover Page Information
 {% raw %}
 Canadian Expeditionary<br>

@@ -3,6 +3,8 @@ title: 78th Battalion & 1st RD 2
 wide: wide
 ---
 
+# 78th Battalion & 1st RD 2
+
 ## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |

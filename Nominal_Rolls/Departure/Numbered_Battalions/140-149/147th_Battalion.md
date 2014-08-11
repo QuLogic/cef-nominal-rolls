@@ -3,6 +3,8 @@ title: 147th Battalion
 wide: wide
 ---
 
+# 147th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

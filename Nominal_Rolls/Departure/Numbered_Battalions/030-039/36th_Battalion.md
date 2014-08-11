@@ -3,6 +3,8 @@ title: 36th Battalion
 wide: wide
 ---
 
+# 36th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

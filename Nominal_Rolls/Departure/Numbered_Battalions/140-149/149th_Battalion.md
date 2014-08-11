@@ -3,6 +3,8 @@ title: 149th Battalion
 wide: wide
 ---
 
+# 149th Battalion
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>

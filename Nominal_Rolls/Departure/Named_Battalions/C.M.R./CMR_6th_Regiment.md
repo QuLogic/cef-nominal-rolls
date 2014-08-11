@@ -3,6 +3,8 @@ title: CMR 6th Regiment
 wide: wide
 ---
 
+# CMR 6th Regiment
+
 ## Cover Page Information
 {% raw %}
 ><br>

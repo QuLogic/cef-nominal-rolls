@@ -3,6 +3,8 @@ title: 44th Battalion & 1st 2nd RD
 wide: wide
 ---
 
+# 44th Battalion & 1st 2nd RD
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.;<br>

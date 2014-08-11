@@ -3,6 +3,8 @@ title: 70th Battalion - incomplete
 wide: wide
 ---
 
+# 70th Battalion - incomplete
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1915.)<br>

@@ -3,6 +3,8 @@ title: 19th Battalion 2
 wide: wide
 ---
 
+# 19th Battalion 2
+
 ## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | | | | |

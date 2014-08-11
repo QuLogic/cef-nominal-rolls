@@ -3,6 +3,8 @@ title: 7th Battalion & 2nd Brigade HQ
 wide: wide
 ---
 
+# 7th Battalion & 2nd Brigade HQ
+
 ## Cover Page Information
 {% raw %}
 ■ .a ■ JR* .<br>

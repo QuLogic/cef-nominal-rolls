@@ -3,6 +3,8 @@ title: 83rd Battalion & 1stRD 2
 wide: wide
 ---
 
+# 83rd Battalion & 1stRD 2
+
 ## Tables
 {% raw %}
 | Page | Bounds | | | | | | | | | | | | |

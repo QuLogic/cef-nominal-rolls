@@ -3,6 +3,8 @@ title: 196th Battalion & RD
 wide: wide
 ---
 
+# 196th Battalion & RD
+
 ## Cover Page Information
 {% raw %}
 (ISSUED WITH MILITIA ORDERS, 1917.)<br>
