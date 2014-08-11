@@ -51,27 +51,35 @@ for dirpath, dirnames, filenames in os.walk('Nominal Rolls'):
         has_files = False
 
         for name in sorted(dirnames):
+            if not has_files:
+                f.write('<ul class="fa-ul">\n')
             has_files = True
             path = name.replace(' ', '_')
-            f.write('  * <i class="fa fa-fw fa-folder"></i> [')
-            f.write(name)
-            f.write('](')
+            f.write('          <li><i class="fa fa-fw fa-folder"></i>')
+            f.write('&nbsp;<a href="')
             f.write(path)
-            f.write(')\n')
+            f.write('">')
+            f.write(name)
+            f.write('</a></li>\n')
 
         for name in sorted(filenames):
             if name[-3:] != 'csv':
                 continue
 
+            if not has_files:
+                f.write('<ul class="fa-ul">\n')
             has_files = True
             path = name[:-3].replace(' ', '_') + 'html'
-            f.write('  * <i class="fa fa-fw fa-file-text-o"></i> [')
-            f.write(name[:-4])
-            f.write('](')
+            f.write('          <li><i class="fa fa-fw fa-file-text-o"></i>')
+            f.write('&nbsp;<a href="')
             f.write(path)
-            f.write(')\n')
+            f.write('">')
+            f.write(name[:-4])
+            f.write('</a></li>\n')
 
-        if not has_files:
+        if has_files:
+            f.write('</ul>\n')
+        else:
             f.write('Nothing available here!\n')
 
     for name in dirnames:
