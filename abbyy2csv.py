@@ -19,6 +19,7 @@ from __future__ import (division, print_function)
 
 import argparse
 import csv
+import logging
 from lxml import etree
 
 import numpy as np
@@ -48,7 +49,11 @@ class Processor:
 
         self.input = input
         self.output = output
-        self.verbose = verbose
+        self.logger = logging.getLogger(__name__)
+        if verbose:
+            self.logger.setLevel(logging.DEBUG)
+        else:
+            self.logger.setLevel(logging.WARNING)
 
         self.row_algorithm = row_algorithm
         self.row_params = row_params
@@ -59,24 +64,21 @@ class Processor:
         self.total_lines = 0
 
     def run(self):
-        if self.verbose:
-            print('Reading file %s ...' % (self.input.name, ))
+        self.logger.debug('Reading file %s ...' % (self.input.name, ))
 
         content = etree.parse(self.input)
         self.writer = csv.writer(self.output)
         for elem in content.iter(PAGE):
             self.processPage(elem)
 
-        if self.verbose:
-            print('Processed %d pages ...' % (self.pages, ))
-            print('Processed %d lines ...' % (self.total_lines, ))
+        self.logger.info('Processed %d pages ...' % (self.pages, ))
+        self.logger.info('Processed %d lines ...' % (self.total_lines, ))
 
     def analyzeCoverPage(self, objs):
         '''
         Analyze a portrait page, which is probably a cover.
         '''
-        if self.verbose:
-            print('Processing cover page ...')
+        self.logger.debug('Processing cover page ...')
         lines = [[self.pages + 1, None, None, None, None] +
                  [x.text for x in objs]]
         return lines
@@ -85,17 +87,18 @@ class Processor:
         '''
         Analyze a normal page and produce lines of cells`.
         '''
-        if self.verbose:
-            print('Processing normal page ...')
+        self.logger.debug('Processing normal page ...')
 
         rows, num_rows, fuzzy_rows = self.getSortedRowClusters(objs)
         cols, num_cols, fuzzy_cols = self.getSortedColumnClusters(objs)
-        if self.verbose:
-            print('    Unique rows & columns:', num_rows, num_cols)
-            if fuzzy_rows:
-                print('    Row results fuzzy; check nothing is missing.')
-            if fuzzy_cols:
-                print('    Column results fuzzy; check nothing is missing.')
+        self.logger.debug('    Unique rows & columns: %d %d' % (
+            num_rows, num_cols))
+        if fuzzy_rows:
+            self.logger.warning('    Row results fuzzy; '
+                                'check nothing is missing.')
+        if fuzzy_cols:
+            self.logger.warning('    Column results fuzzy; '
+                                'check nothing is missing.')
 
         lines = []
         for index in rows:
@@ -267,9 +270,8 @@ class Processor:
 
         self.writer.writerows(lines)
 
-        if self.verbose:
-            print('    Max columns:', max(len(x) for x in lines))
-            print('    New rows:', len(lines))
+        self.logger.info('    Max columns: %d' % (max(len(x) for x in lines)))
+        self.logger.info('    New rows: %d' % (len(lines)))
         self.pages += 1
         self.total_lines += len(lines)
 
@@ -333,23 +335,20 @@ class Main:
                             help='Parameters to use in column algorithm.')
         args = parser.parse_args()
 
+        logging.basicConfig(level=logging.DEBUG if args.verbose else None)
 
-        self.input = args.input
-        self.output = args.output
-        self.verbose = args.verbose
+        row_algorithm = args.row_algorithm
+        row_params = self.parseAlgParams('row',
+                                         args.row_algorithm,
+                                         args.row_params)
+        col_algorithm = args.col_algorithm
+        col_params = self.parseAlgParams('column',
+                                         args.col_algorithm,
+                                         args.col_params)
 
-        self.row_algorithm = args.row_algorithm
-        self.row_params = self.parseAlgParams('row',
-                                              args.row_algorithm,
-                                              args.row_params)
-        self.col_algorithm = args.col_algorithm
-        self.col_params = self.parseAlgParams('column',
-                                              args.col_algorithm,
-                                              args.col_params)
-
-        self.processor = Processor(self.input, self.output, self.verbose,
-                                   self.row_algorithm, self.row_params,
-                                   self.col_algorithm, self.col_params)
+        self.processor = Processor(args.input, args.output, args.verbose,
+                                   row_algorithm, row_params,
+                                   col_algorithm, col_params)
 
     def parseAlgParams(self, kind, algorithm, arg_params):
         '''
@@ -367,19 +366,18 @@ class Main:
                     pass
                 params[key] = val
 
-        if self.verbose:
-            print('Using %s algorithm for %ss with ' % (algorithm, kind),
-                  end='')
-            if params:
-                print(*('%s=%s' % (key, params[key]) for key in params),
-                      sep=',', end='.\n')
-            else:
-                print('default parameters.')
+        msg = 'Using %s algorithm for %ss with ' % (algorithm, kind)
+        if params:
+            msg += ','.join(*('%s=%s' % (key, params[key]) for key in params))
+        else:
+            msg += 'default parameters.'
+        logging.info(msg)
 
         return params
 
     def run(self):
         self.processor.run()
 
-m = Main()
-m.run()
+if __name__ == '__main__':
+    m = Main()
+    m.run()
