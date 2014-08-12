@@ -67,12 +67,21 @@ class Processor:
         self.logger.debug('Reading file %s ...' % (self.input.name, ))
 
         content = etree.parse(self.input)
-        self.writer = csv.writer(self.output)
+        if self.output:
+            self.writer = csv.writer(self.output)
         for elem in content.iter(PAGE):
             self.processPage(elem)
 
         self.logger.info('Processed %d pages ...' % (self.pages, ))
         self.logger.info('Processed %d lines ...' % (self.total_lines, ))
+
+    def processResults(self, lines):
+        '''
+        Process results and place them in CSV.
+
+        Override this method to do other things with the results.
+        '''
+        self.writer.writerows(lines)
 
     def analyzeCoverPage(self, objs):
         '''
@@ -268,7 +277,7 @@ class Processor:
         else:
             lines = self.analyzePage(page_objs)
 
-        self.writer.writerows(lines)
+        self.processResults(lines)
 
         self.logger.info('    Max columns: %d' % (max(len(x) for x in lines)))
         self.logger.info('    New rows: %d' % (len(lines)))
