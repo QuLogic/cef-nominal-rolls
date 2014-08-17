@@ -48,3 +48,13 @@ likely produce terrible results, though.
 
 `csv2web.py` converts the CSV files into a format suitable for publishing on
 GitHub.
+
+Licensing
+---------
+
+Scripts are licensed under the terms of the [GPL v3](gpl-3.0.txt). The CSV
+database is made available under Open Database License whose full text can be
+found at http://opendatacommons.org/licenses/odbl/ or [here](odbl-10.txt). Any
+rights in individual contents of the database are licensed under the Database
+Contents License whose text can be found at
+http://opendatacommons.org/licenses/dbcl/ or [here](dbcl-10.txt).
