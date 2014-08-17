@@ -20,6 +20,8 @@ from __future__ import (division, print_function, unicode_literals)
 import argparse
 import csv
 import logging
+import os
+import shelve
 import sys
 
 import sip
@@ -48,6 +50,7 @@ class QtProcessor(Processor):
                 item.setFlags(item.flags() & ~QtCore.Qt.ItemIsEditable)
                 self.table.setItem(i, j, item)
 
+        self.app.processEvents()
         if self.cancelled:
             raise KeyboardInterrupt
 
@@ -56,7 +59,6 @@ class Main(QtGui.QMainWindow):
     def __init__(self, args):
         super(Main, self).__init__()
 
-        self.input = args.input
         self.verbose = args.verbose
 
         self.row_algorithm = args.row_algorithm
@@ -68,9 +70,31 @@ class Main(QtGui.QMainWindow):
                                               args.col_algorithm,
                                               args.col_params)
 
-        self.processor = QtProcessor(self.input, None, self.verbose,
+        self.processor = QtProcessor(None, None, self.verbose,
                                      self.row_algorithm, self.row_params,
                                      self.col_algorithm, self.col_params)
+
+        # Load cached parameters
+        self.data = shelve.open('cache.db', writeback=True)
+        files = list(self.data.keys())
+        for dirpath, dirnames, filenames in os.walk('Nominal Rolls'):
+            for name in filenames:
+                if name[-3:] == 'xml':
+                    basename = os.path.join(dirpath, name[:-4])
+                    if basename not in self.data:
+                        self.data[basename] = {
+                            'row_algorithm': self.row_algorithm,
+                            'row_params': self.row_params,
+                            'col_algorithm': self.col_algorithm,
+                            'col_params': self.col_params
+                        }
+                        files += [basename]
+        self.files = sorted(files)
+        try:
+            basename = args.start[:-4]
+            self.file_index = self.files.index(basename)
+        except (TypeError, ValueError):
+            self.file_index = 0
 
     def parseAlgParams(self, kind, algorithm, arg_params):
         '''
@@ -99,9 +123,41 @@ class Main(QtGui.QMainWindow):
 
         return params
 
+    def closeEvent(self, e):
+        self.data.close()
+
+    def saveResult(self):
+        '''
+        Save result to CSV and cache parameters in DB.
+        '''
+
+        basename = self.files[self.file_index]
+
+        with open(basename + '.csv', 'w') as output:
+            writer = csv.writer(output)
+            rows = self.table.rowCount()
+            cols = self.table.columnCount()
+            for i in range(rows):
+                line = []
+                for j in range(cols):
+                    item = self.table.item(i, j)
+                    if item:
+                        line.append(item.text())
+                    else:
+                        line.append(None)
+                writer.writerow(line)
+
+        self.data[basename] = {
+            'row_algorithm': self.row_algorithm,
+            'row_params': self.row_params,
+            'col_algorithm': self.col_algorithm,
+            'col_params': self.col_params
+        }
+
     def initUI(self, app):
-        self.setWindowTitle('ABBYY to CSV Conversion')
-        self.setWindowIcon(QtGui.QIcon.fromTheme('x-office-document'))
+        basename = self.files[self.file_index]
+        self.setWindowTitle('%s - ABBYY to CSV Conversion' % (basename, ))
+        self.setWindowIcon(QtGui.QIcon.fromTheme('accessories-text-editor'))
         self.resize(800, 680)
         self.show()
 
@@ -177,12 +233,28 @@ class Main(QtGui.QMainWindow):
         self.col_alg_cb.currentIndexChanged.connect(self._setColAlgorithm)
         self.col_param_sb.valueChanged.connect(self._setColAlgorithm)
 
-        # Exit button
+        # File navigation, Save and Exit buttons
+        toolbar = self.addToolBar('Actions')
+
+        saveAction = QtGui.QAction(QtGui.QIcon.fromTheme('document-save'),
+                                   'Save', self)
+        saveAction.triggered.connect(self.saveResult)
+        toolbar.addAction(saveAction)
+
+        self.prevAction = QtGui.QAction(QtGui.QIcon.fromTheme('go-previous'),
+                                        'Previous', self)
+        self.prevAction.triggered.connect(self._prevFile)
+        toolbar.addAction(self.prevAction)
+
+        self.nextAction = QtGui.QAction(QtGui.QIcon.fromTheme('go-next'),
+                                        'Next', self)
+        self.nextAction.triggered.connect(self._nextFile)
+        toolbar.addAction(self.nextAction)
+
         exitAction = QtGui.QAction(QtGui.QIcon.fromTheme('application-exit'),
                                    'Exit', self)
         exitAction.setShortcut('Ctrl+Q')
         exitAction.triggered.connect(QtGui.qApp.quit)
-        toolbar = self.addToolBar('Exit')
         toolbar.addAction(exitAction)
 
         # Main table view
@@ -194,7 +266,24 @@ class Main(QtGui.QMainWindow):
         self.timer = QtCore.QTimer()
         self.timer.setSingleShot(True)
         self.timer.timeout.connect(self.processXML)
-        self.timer.start(0)
+
+        self.processor.app = app
+        self._refreshFile()
+
+    def _refreshFile(self):
+        self.prevAction.setEnabled(self.file_index != 0)
+        self.nextAction.setEnabled(self.file_index != len(self.files) - 1)
+        basename = self.files[self.file_index]
+        self.setWindowTitle('%s - ABBYY to CSV Conversion' % (basename, ))
+        self.timer.start(1000)
+
+    def _prevFile(self):
+        self.file_index = max(self.file_index - 1, 0)
+        self._refreshFile()
+
+    def _nextFile(self):
+        self.file_index = min(self.file_index + 1, len(self.files))
+        self._refreshFile()
 
     def _setRowAlgorithm(self, unused):
         index = self.row_alg_cb.currentIndex()
@@ -245,16 +334,19 @@ class Main(QtGui.QMainWindow):
         self.alg_tb.setEnabled(False)
         self.cancel.setVisible(True)
         self.processor.cancelled = False
-        self.input.seek(0)
         self.table.clear()
         self.table.setRowCount(0)
         self.table.setColumnCount(0)
 
-        try:
-            self.processor.run()
-        except KeyboardInterrupt:
-            # Processing cancelled. Ignore.
-            pass
+        basename = self.files[self.file_index]
+        with open(basename + '.xml', 'rb') as f:
+            self.processor.input = f
+            try:
+                self.processor.run()
+            except KeyboardInterrupt:
+                # Processing cancelled. Ignore.
+                pass
+            self.processor.input = None
 
         for i in range(min(5, self.table.columnCount())):
             self.table.setColumnHidden(i, True)
@@ -277,23 +369,24 @@ class QtStatusBarHandler(logging.Handler):
 
 parser = argparse.ArgumentParser(
     description='GUI program to convert ABBYY XML files to CSV.')
-parser.add_argument('input', type=argparse.FileType('rb'),
-                    help='Input XML file')
 parser.add_argument('-v', '--verbose', action='store_true',
                     help='Be verbose.')
+parser.add_argument('-s', '--start',
+                    help='Starting input XML file. Must be in Nominal Rolls '
+                         'directory.')
 parser.add_argument('--row-algorithm', '-r', default='affinity',
                     choices=['affinity', 'DBSCAN', 'MeanShift'],
-                    help='Algorithm to use for row clustering.')
+                    help='Default algorithm to use for row clustering.')
 parser.add_argument('--col-algorithm', '-c', default='affinity',
                     choices=['affinity', 'DBSCAN', 'MeanShift'],
-                    help='Algorithm to use for column clustering.')
+                    help='Default algorithm to use for column clustering.')
 parser.add_argument('--row-params', '-rp',
-                    help='Parameters to use in row algorithm.')
+                    help='Default parameters to use in row algorithm.')
 parser.add_argument('--col-params', '-cp',
-                    help='Parameters to use in column algorithm.')
+                    help='Default parameters to use in column algorithm.')
 args, leftover = parser.parse_known_args()
 
-app = QtGui.QApplication(leftover)
+app = QtGui.QApplication(['ABBYY2CSV'] + leftover)
 m = Main(args)
 m.initUI(app)
 sys.exit(app.exec_())
