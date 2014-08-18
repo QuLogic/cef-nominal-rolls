@@ -146,6 +146,8 @@ class Main(QtGui.QMainWindow):
                         line.append(item.text())
                     else:
                         line.append(None)
+                while line and line[-1] is None:
+                    line.pop()
                 writer.writerow(line)
 
         self.data[basename] = {
@@ -235,7 +237,7 @@ class Main(QtGui.QMainWindow):
         self.col_param_sb.valueChanged.connect(self._setColAlgorithm)
 
         # File navigation, Save and Exit buttons
-        toolbar = self.addToolBar('Actions')
+        self.action_tb = toolbar = self.addToolBar('Actions')
 
         saveAction = QtGui.QAction(QtGui.QIcon.fromTheme('document-save'),
                                    'Save', self)
@@ -333,8 +335,11 @@ class Main(QtGui.QMainWindow):
 
     def processXML(self):
         self.alg_tb.setEnabled(False)
+        self.action_tb.setEnabled(False)
         self.cancel.setVisible(True)
         self.processor.cancelled = False
+        self.processor.pages = 0
+        self.processor.total_lines = 0
         self.table.clear()
         self.table.setRowCount(0)
         self.table.setColumnCount(0)
@@ -354,6 +359,7 @@ class Main(QtGui.QMainWindow):
         self.statusBar().clearMessage()
         self.cancel.setVisible(False)
         self.alg_tb.setEnabled(True)
+        self.action_tb.setEnabled(True)
 
 
 class QtStatusBarHandler(logging.Handler):
