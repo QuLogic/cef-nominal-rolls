@@ -1,574 +1,700 @@
-1,481,345,3736,385,4305-11,Private ,"Bcnusolcil, Moses ",Nil  ,"[Beausolcil, Mrs   ","St. Albert, Alta     : ",U.S.A ,Edmonton..,Jan.,"21, 1915."
-1,480,376,3736,407,430283,Private ,"Belcher, Wigmore . ",Nil ,"Belcher, Mrs. Margaret . ","Cavan, Co. Cavan, Ire   ",Ireland....,Edmonton..,Jan.,"8, 1915."
-1,479,401,3735,442,430372,Private ,"Bell, Albert Carman   ",15 th Regt ,Bell. G. A ,"148 Albert St., Kingston, Ont.   ",Canada....,"Edmonton./,",Jan.,"12, 1915."
-1,478,431,3735,467,436399,Private........,"Bell, Robert ",Nil ,"Bell, Benjamin.   ","P.O., Noyes’ Crossing, Alta...... .V.   ;",England ,Edmonton  ,Jan.,"14, 1915."
-1,478,463,3735,495,430215,Private ,"Benton, Roger Alfred....!.......",Nil... ,"Benton, J,....,,    ","tnnisfail, Alta, i    ",Canada..;......,Edmonton....,Jan.,"6, 1915."
-1,477,495,3734,526,430160,Private ,"Bergeron, Allred   ",Nil.  ,"Bergeron, Gedeon.......  ","Drummondville, P.Q....... r...; '......",Canada.  ,Edmonton....,Jaji.,"5, 1915."
-1,476,525,3734,556,436430,Private ,"Blanchard, Thomas.",Nil    ,"Blanchard, Mrs. K..","ID Chargeable Lane, Plaistow, Essex, Eng...",England ,Edmonton....,Jan.,"18, 1915."
-1,477,554,3736,586,430119,Sergwint.......,"Boyce, Charles Arthur..i.... ...;",C.F.A.      ,"Boyco, Florenco Alice........i","638 Keiminck St., Edmonton, Alta ",England ,Edmonton....,Jan.,"5, 1915."
-1,477,585,3734,616,430101,Private ,"Breton, Joseph.....:. .'i..;.;...;.",82nd Regt ,"Breton, Mrs. Isabella. .:","P.O. Box 11, Daysland, Alta.............. i.",Canada ,Edmonton....,Jan.,"4,1916."
-1,476,615,3733,651,43G013,Private ,"Britton, Ernest Edward.........",Nil...;    ,"Britton, J. A   ","Claresholm, Alta..;..",England ,Edmonton....,Jan.,"4, 1915."
-1,475,645,3734,677,436205,Private ,"Broadhead, Lionel Randolph....",Nil   ,"Broadhead, E. H ","Lebouch, Pierremont Avo., Broadstairs, Kent, Eng..",India ,Edmonton....,Jan.,"8, 1915."
-1,474,675,3732,713,430271,Private ,"Brown, John  ","Nil...,...;. ","Brown, Alexander ","78 Queen St., Glasgow, Scot     ",Scotland........,Edmonton....,Jan.,"8, 1915."
-1,473,704,3733,738,430252,Private ,"Brown, Richard George....'. ",Territorials  ,"Brown, Mrs. Margaret Fanny.","10138 Hamilton St., Rivcrdale, Edmonton, Alta ",Wales ,Edmonton....,Jan.,"7, 1915."
-1,472,724,4176,766,430355,Private ,Hryant. Edward Harold..... ... ..,Nil    ,"Bryant, Alfred  ","Keephills, Alta  ",England ,Edmonton....,Jan.,"11, 1915."
-1,473,765,3732,795,430350,"Private..,.....",Bryant. George...; ,Territorials.........,"Bryant, A    ","Keephills, Alta..........",England ,Edmonton....,Jan.,"11,1915."
-1,473,795,3732,825,430753,Private ,"Buchanan, Arthur James ",10th Regt  ,"Buchanan, Thomas  ","Wyovale, Simcoe, Ont..'      ",Canada ,Edmonton....,Feb.,6.1915.
-1,473,820,4172,855,436071,Private ,"Burton, Leonard  ",Nil   ,"Burton, James Thomas.  ","12 Grancs Lano, Ashby, Cheshire, Eng..!    ",England........,Edmonton....,Jan.,"4, 1915."
-1,471,853,3732,883,436373,Private... ,"Butcher, Edward Lawrence.......",Nil  ,"Butcher, Mrs. E ","Sheffield, Eng „ ",England ,Edmonton....,Jan.,"12, 1915."
-1,471,882,3731,913,43G288,Private ,"Caller.v, Patrick Matthias    ",Nil...  ,"Callery, P  ","6 Great Edgorton St., Stookport, Cheshire, Eng ",England ,Edmonton....,Jan.,"7, 1915."
-1,471,911,3731,947,430278,Private ,"Campbell, Neil  ",Nil ,"Campbell, Mrs. N..., ","11144 Namayo Avo., Edmonton, Alta.    ",Scotland....i..,Edmonton....,Jan.,8.1915.
-1,470,940,3730,971,436288,Private ,"Cantin, Joseph Nareisso    ",Nil.......... ,"Cantin, Mary   ","13135, 05th St., Edmonton, Alta........ ",U.S. A  ,Edmonton....,Jnn.,"0, 1915."
-1,469,970,3730,1004,430239,Private  ,"Carter, Alfred Horace  ",Territorials  ,"Rickcr, Mrs. Mary Ann ","P.O., Brisbane, Queensland, Australia.",England... ,Edmonton....,Jan.,"7, 1915."
-1,450,996,3729,1031,< 4301P8,Sergeant  ,"Cosgrove, Charles William........",Nil ,"Stones, Mrs. A...; ","45 Claudo Rd., Liverpool, Eng..............",England........,Edmonton....,Jan.,"fi, 1916."
-1,468,1027,3730,1060,430182,Privato ,"Chaimers, James, i ","Nil...., ","Chalmers, William ","145, 2nd Ave., S. Edmonton, Alta.....1... .....  ",U.S.A ,Edmonton....,Jan.,"6, 1918."
-1,468,1058,3730,1090,430051,Private.. ,"Charles, Peter M ; ; ","Nil,....,.. ","Charles, Mrs. N.   ","Ponnybon. Clarach, nr. Aborystwyth, Wales ",Wales ,Edmonton....,Jan.,4.1916.
-1,468,1084,3729,1119,436328,Private   ,"Charlton, Thomas................",Nil.....i ,"Charlton, Mrs. J.     ","9 Kyle Rd., Sunderland, Durham, Eng  ",England ,Edmonton....,Jan.,11.1915.
-1,467,1114,3729,1149,430135,Privato ,"Clark, Edward Lawrence.........","Nil..,..;  ","Clark, Mrs. L   ","Grays Tavern, Walcot, Bath, Somerset, Eng.    t.",England ,Edmonton....,Jan.,5.1915.
-1,466,1144,3729,1178,430319,Private ,"Clark, John Bowness  ","Nil...,.; ...;","Clark, P. B ","Summerside, P.E.I.    ",Canada.... ,Edmonton....,Jan.,"9, 1915."
-1,467,1178,3728,1209,430307,Private ,"Clarkson, Robert  ",Nil...*. ,"Clarkson, J   ","Lawton, Alta..... 1 >; ",England ,Edmonton....,Jan.,"11, 1916."
-1,466,1203,3837,1238,430018,Private ,"Collins, Lester James ",Nil;.... ,"Clark, Prentice    ","Pino Creek, Alta    i ",Canada.... ,Edmonton....,Jan.,"4, 1915."
-1,466,1238,3837,1270,436111,Private.. ,"Coyle, John  ",Nil ,"Coyle, Mrs. Mary..... ","9734, 90th St., Edmonton, Alta    ",Scotland ,Edmonton....,Jnn.,4.1916.
-1,465,1265,3728,1300,436009,Private ,"Crawford, William  ",Nil ,"Crawford, James  ","Cairn Castle, Larne, Co. Antrim, Ire. ",Ireland ,Edmonton....,Jnn.,". 8,1915."
-1,464,1296,3728,1330,433249,Private ,"Creelman, Henry Stewart..",Nil  ,"Creelman, Charles N  ","Princeport, Colchester, N.S   ",Canada  ,Edmonton....,Jan.,7.1915.
-1,464,1328,3728,1367,430333,Private ,"Crichton, Malcolm..:  ",Royal Navy........,"Crichton, Mrs. Mary  ","15 Knock Rd., Stornoway, Scot   ",Scotland... ,Edjponton....,Jan.,11.1915.
-1,463,1359,3728,1393,436121,Private ,"Critehley, William Albert..",2nd Regt...........,"Critchloy, Mrs. H   ","Unity Lodge, New Lebanon, N.Y., U.S.A  ",England ,Edmonton....,Jan.,"6, 1915."
-1,464,1388,3728,1423,436309,Private.........,"Cullen, William ",101st Regt...........,"Cullen, R  ","Gallagher Flats, Edmonton, Alta. ..ii..  ",Scotland  ,Edmonton....,Jan.,"9, 1916."
-1,463,1418,3727,1451,436161,Private ,"Davies, Ernest..:.'.  ",Nil ,"Davies, D   ","7 Burleigh Rd., S. Liverpool, Eng. ..i....... I: ",England........,Edmonton....,Jan.,"6, 1915."
-1,463,1443,3727,1483,436342,Private.... ,"Delay, John Americas ","Nil....,.;.. ","Delay, Edward ","Plankot, S.D., U.S.A       ",U.S.A..'. ,Edmonton....,Jan.,"11, 1916."
-1,463,1477,3728,1511,430344,Private   ,"Downes, James : ",Nil   ,"Downes, Andrew ","Mile Cross, Newtownards, Co. Down, Irs ",Ireland.........,Edmonton....,Jan.,11.1915.
-1,463,1508,3010,1543,430270,Private ,"Dryhurst, William Henry...",Nil..'....; ,"Clamants, Mrs  ","6 Woodland St., Smithway, Birmingham, Warwick,"
-1,2265,1535,3727,1566,,,,,,Eng     ,England  ,Edmonton ,Jan.,8.1916.
-1,463,1564,3727,1600,430321,Private..,"Dnggnn, Frederick.....  ",Nil  ,"Duggan, J. P.... ","10914, 82nd Avo., Edmonton S., Alta...   ",Canada ,Edmonton ,Jnn.,"9, 1915."
-1,463,1593,3727,1630,436023,Private..,"Dyer, Alfred Robert..;! ",Nil  ,"Dyer, Albert ","Gen. Del., San Francisco, Cal., U.S.A..»  ",England ,Edmonton ,Jan.,"4, 1915."
-1,463,1621,3727,1662,436151,Sergeant.,"Engle, J. Samuel...!  ",Nil  ,"Eagle, Joshua ","39 Briton St., Leicester, Eng........; ",England ,Edmonton ,Jan.,5.1915.
-1,463,1653,3727,1690,430 no,Private..,"Earle, George........... ",101st Regt....,"Earlo, Mrs. Isabel ","N.E. Comor 105t.h Ave. and 111th St.; Edmonton, Alta.",England ,Edmonton ,Jan.,"5, 1915."
-1,462,1682,3726,1719,436102,Private..,"Eckcrsley, Thomas...  ",Nil ,"Eckerslcy, Mrs. E. J..","11919, 56th St., Edmonton, Alta......1, ",England ,Edmonton ,Jan.,14.1915.
-1,463,1712,3725,1748,430007,Private..,"Elliott, Albert...     ",Nil  ,"Elliott, A  ","7th St., Edmonton, Alta....■......V.'..j ",England ,Edmonton ,Jan.,"4, 1915."
-1,463,1742,3726,1778,430091,Private..,"Elliott, Frederick.... ",Nil  ,"Elliott, Alexander....","Corner 7th St. and Columbia Ave., Edmonton, Alta...",England  ,Edmonton ,Jan.,4.1915.
-1,463,1773,3726,1808,436147,Private..,"Evans, William John..... ",Nil.....: ,"Evans, Catherine ","Glylfachogoch, Tregaron, Cardigan, Wales ",England ,Edmonton......,Jan.,"6, 1915."
-1,463,1803,3725,1838,430256,Private..,"Eyre, Arthur Houson :..",Nil  ,"Johnson, Sara ","Redtord, Midhurst, Sussex, Eng. ",England ,Edmonton ,Jan.,7.1915.
-1,462,1833,3726,1867,436311,Privato..,"Fairhcad, John Ernest  ",Nil   ,"Fairhcad, Mrs. Kate..","791, 9th St., Edmonton, Alta   ",England ,Edmonton ,Jnn.,9.1915.
-1,464,1863,3726,1900,430314,Private..,"Fairhcad, Richard     v,.",Nil ,"Fairhead, W. A ","791, 9th St., Edmonton, Alta ;.i..............",England ,Edmonton ,Jan.,"9, 1915."
-1,462,1890,3726,1929,430148,Privato..,"Faulkner, James William fiOAf. jiH",38th Regt.,"Faulkner, J. A ","Beverly Heights, Edmonton, Alta.....;. ",England ,Edmonton ,Jan.,"6, 1915."
-1,461,1920,3726,1957,436185,"Private..,","Fawcett, James  ",Nil ,"Fawcett, Mrs. Jamos..","10635,92nd Avo.,Waltordale Flats, Edmonton S., Alta..",England ,Edmonton ,Jnn.,"6, 1915."
-1,460,1953,3721,1989,436008,"Privato..,","Fazakerlcy, Alfred A ",Nil ,"Fasnkcrloy, Peter ","39 Bank St., Earlostown, Lancs, Eng.;,. ",England ,Edmonton ,Jan.,"4, 1915."
-1,462,1983,3726,2019,430712,Private..,"Ferguson, Alexander Smith ",Nil ,"Marshall, Mrs ","Caledonian Place, Dunblane, Perthshire, Scot ",Scotland ,Castor ,Jan.,"28, 1915."
-1,460,2013,3725,2048,430009,"Private..,","Fernyhough, Richard  ",Nil   ,"Fernyhough, Mary....","Mold, Wales   ",England ,Edmonton ,Jan.,4.1915.
-1,461,2042,3725,2081,436353,Corporal.,"Forbes, Prescott   ",Nil ,"McAuslie, Mrs. H.....","Tyno Valley, Prince, P.E.I.. i! ",Canada ,Edmonton ,Jan.,11.1915.
-1,460,2070,3726,2106,430242,Private...,"Forbes, William David.. ",Nil ,"Reading, Mrs. Jane...","Princeton, Oxford, Ont   ii.1  ",Canada ,Edmonton ,Jan.,"|7,1915."
-1,461,2103,3726,2137,430178,"Private..,","Fox, Charles James      ",Nil  ,"Fox, J...   ","Belfast, Iro.... i        ",Ireland ,Edmonton ,Jan.,"5,1915."
-2,485,626,3236,662,.SS5,,,; Former Corps.,,,Country of
-2,484,773,3738,811,436213,Privato .,"Funkley, George....",Nil.,"Funkley, Peter H......","Tacoma, Wash., U.S.A..  ","u.s.a....::,.",Edmonton ,Jan.,"6,",1915.
-2,483,804,3738,841,436093,"Privato.,  ","Gale, Thomas F  ",Nil-.:.; .:....,"Gale, John......  ","Pyddlc, Hinton, Dorset, Eng.. . ....",England ,Edmonton ,Jan.,"4,",1915.
-2,483,834,3737,871,430020,Private...........,"Gallichan, George Thomas..","Chfln, I. Mil.......","Gallichan, Emery ","24 Sand St., Jersey, Channel Islands, i  ",Channel Islands,,Jan.,"4,",1915.
-2,483,864,3738,901,436334,Private ,"Garrard, Erio George      ",O.T.C  ,"Garrard, C. R. O......","30 Broad St., Pendleton, Manchester, Eng.",England.....,Edmonton ,Jan.,"11,",1915.
-2,484,893,3738,931,436392,Private .'.,"Garrett, Leonard Thomas.",n;i..  ,"Garrett, Jame3 F......","P.O. Box 1435, Edmonton, Alta.",England.....:..,Edmonton ,Jan.,"14,",1915.
-2,484,924,3738,962,436066,Sergeant  ,"Garside, James P........  ",Nil:...,"Garside, Mrs. James P.","9627 Sutherland St., Edmonton, Alta. .................",England ,,Jan.,"4,",1915.
-2,484,955,3738,992,436338,Private   ,"Gavin, Thomas Roger  ",Nil;’.;..:..........,"Gavin, J ","Tornaveen, Aberdeen, Scot.  ",Scotland ,Edmonton ,Jan.,"11,",1915.
-2,485,982,3738,1023,436234,Private    ,"Gibson, Joseph   ,MI^.",Nil..::...  ,"Gibson, Florence.......","Gen. Del., Edmonton, Alta.. i ,'.t ;'.i .",England ,"Edmonton..,...",Jan.,"6,",1915.
-2,483,1016,3737,1053,436117,Private  ,"Gill, Harry    ",Nil... ,"GUI, Joseph ","Digby, Lincoln, Eng  ",England  ,,Jan.,"5,",1915.
-2,483,1046,3738,1083,436254,Private.... ,"Girard, Octave Harman..:. ",Can. Mil...........,"Girard, D... ","St. Paulde Metis, Alta.....i...........",Canada     ,Edmonton ,Jan.,"7,",1615.
-2,483,1076,3738,1114,43639S,Private..'. ,"Grant, Jack  ",Nil.'.  ,"Grant, J. W...........","519 Clara St., Edmonton, Alta.:",Canada     ,,Jan.,"14,",1915.
-2,483,1106,3738,1144,436408,Private     ,"Green, George Henry......",Imp. Forces.......,"Green, John...........","1 Littlejohn, Aberdeen, Scot..,i,,",England  ,,Jan.,"14,",1915.
-2,482,1136,3738,1173,436235,Private ,"Greenwell, William Gibson,",Nil..... . ,"Greenwell, Mrs. M. E..","Gen. Del., Edmonton, Alta.. :...",England    ,,Jan.,"6,",1915.
-2,483,1166,3737,1203,436017,Private ,"Grout, William J ",Nil.;.  ,"Grout, Arthur.'  ","40 Norfolk Rd., Gravesend, Eng  ",England ,,Jan.,"4,",1915.
-2,482,1192,3737,1234,436385,Private ,"Groves, Reginald Harold...MWt",Nil  ,"Groves, C. W....","School House, Risloy, Derby, Eng...1:'.. ",England... ,,Jan.,"13,",1915.
-2,482,1226,3738,1263,436094,Privato ,"Gunn, Norman Matthews",14th Regt.. ,"Smith, Mrs. V...I ","79 Grand Allee, Quebec, P.Q      ",Canada ,,Jan.,"4,",1915.
-2,482,1255,3738,1291,436095,Private ,"Gunn, William Gordon...,",14th Regt.........,"Smith, Mrs. H  ","Royal Temperance Hotel, Edmonton, Alta ",Canada ,,Jan.,"4,",1915.
-2,482,1285,3737,1321,43634S,Corporal  ,"Hackett, Christopher ",Nil    ,"Hackett, Mrs. Jennie...","2447 McKenzie Ave., Edmonton, Alta.   ",England   ,,Jan.,"11,",1915.
-2,481,1314,3738,1349,436243,Private ,"Hardy, Thomas P   „. .....",Nil................,"Hardy, G. A.  ","Rainton, North Farm, Fence Houses, Durham, Eng...",England    ,,Jan.,"7,",1915.
-2,480,1343,3738,1378,430221,Private ,"Harris, Rupert Stanley.DUM. WM","Nil...;.;.,;; ;","Harris, John Arthur....","2030 Otto St., Edmonton, Alta * ",England  ,,Jan.,"0,",1915.
-2,480,1372,3737,1407,430760,Sergeant ,"Hathaway, Joseph Bannard.......",Nil...;..::; ,"Hathaway, Mrs. J. B..","White River Junction, Vt., U.S.A..   ",Canada  ,,Feb.,"6,",1915.
-2,479,1402,3738,1438,430064,Private ,"Hatherly, John S   ",Nil.......... ,"Hatherly, Freda.......","River Hebert, Cumberland, N.S..;...,.............. i",Canada ,,Jan.,"4,",1915.
-2,480,1432,3738,1467,430345,Private ,"Head, Edward Charles     :",nu.,"Head, Mrs. E  ","1 Stanford Rd., Lymington, Hants, Eng...... ",England.,,Jan.,"11,",1915.
-2,479,1461,3737,1496,430130,Private ,Heffernan. William Patrick.......,Nil................,"Heffernan, Daniel......","Jackson St., Woolwich, Kent, Eng.1. ",England...;....,,Jan.,"5,",1915.
-2,466,1491,3738,1526,• 430351,Private   ,"Hierlihy, Thomas Corbett. ..;....",nu.,"Hierlihy, J. II  ","Hebron, Lot 8, Prince, P.E.I...... .  ","Canada.,, ",,Jan.,"U,",1915.
-2,479,1521,3737,1556,430245,Private ,"Hodgson, Walter I....  ",Nil.:.;...  ,"Hodgson, William.....","New Sarepta, Hay Lakes, Alta.. ",England ,,Jan.,"7,",1915.
-2,478,1547,3738,1585,436370,Private ,"Holland, James....’.JrlM","Territorials.;..'.,..","Holland, Samuol :..","Bungalow, Hasland Rd., Chesterfield, Derby, Eng....",England........,,Jan.,"12,",1915.
-2,478,1580,3738,1614,430477,Private...... ,"Holland, James Henry...’.........",Nil..........::....,"Holland, Mrs. J. H....","P.O., Boverly, Alta    ",England ,,Jan.,19.,1915.
-2,477,1609,3738,1649,430137,Private:..........,"Hollingworth, Albert  ",Nil..; I......,"Hollingworth, Xleorgo Ha","Henry ^t., Boverly, Alta..1i...... ",England ,,Jan.,"5,",1915.
-2,477,1639,3737,1674,436257,Private..... ,"Holroyd, Joseph  ","Nil..::.:..,.;......","Holroyd, Sykes ... ","16 Lower Swift Place, Ripponden, Halifax, Yorks, Eng,",England ,,Jan.,"7,",1915.
-2,477,1668,3737,1703,"436325,",Private ,"Hooper, George Willoughby ",C.F.A.......,"Hooper, E. 8  ","P.O., Paddle River, Alta.   ",Canada     ,,Jnn.,"11,",1915.
-2,477,1698,3737,1735,436320,Private..... ,"Hooper, Percival Ralph .’...;",nu ,"Hooper, E. S  ","P.O., Paddle River, Alta ,J.",Canada.  ,,Jan.,"11,",1915.
-2,477,1727,3736,1763,430000,Private.... ,"Hopkins, Walter  ",101st Regt....;.'...,"Hopicins, Edward","St. Athens, Cardiff, Wales.i..... ",Wales...........,,Jan.,"4,",1915.
-2,476,1758,3736,1793,436063,Private.... ,"Horner, Walter   r...",nu ,"Horner, Margaret......","Mosside, Alta     ",England    ,,Jan.,"4,",1915.
-2,477,1788,3737,1823,436402,Sergeant  ,"Hoskins, Ernest R    ",Nil.i.fj...........,"Hoskins, Mrs. E. R..,,","Suite 3, Bathgate Blk., Edmonton, Alta.,   ",England ,,Jan.,"4,",1915.
-2,476,1818,3737,1853,436292,Private ,"Howie, Alexander     ","NU...,  ","Howie, R. ..Ur.......","Vegreville, Alta.     ",Scotland........,Edmonton ,Jan.,"8,",1915.
-2,475,1847,3737,1883,430041,Private ,"Hussey, Henry Aloysius.  ",S.A........,"Hussey, Thomas,,....","23 St. Mary Abbotts Terr., Kensington, London, Eng.",England   ,Edmonton ,Jan.,"4,",1915.
-2,477,1878,3737,1914,436061,Private.. ,"Inwood, Richard  .'.","Territorials..,'...,.","Inwood, G   ","31 Graham Ave., Clydebank, Glasgow, Scot..........",Scotland........,Edmonton—,Jan.,"4,",1915.
-2,474,1906,3738,1943,430208,Private  ,"Irwin, Thomas W...... i.",Nil ;......,"Irwin, Robert J :.","Goshaden, Derry, Ire ...",Ireland.........,Edmonton ,Jan.,"6,",1915.
-2,475,1940,3738,1974,430173,Privato ,"James, Thomas Henry  ",Nil  ,"James, Mrs    ","Forest Heights, Edmonton, Alta.........;:.. . ..:...",England........,Edmonton  ,Jan.,"5,",1915.
-2,474,1970,3738,2006,436097,Private.....'......,"Janion, Joseph William  ","Nil...,!’-.1,..;: ","Janion, D..........","41 Manderville St., Liverpool, Eng......... I,.’.’..'....",England   ,Edmonton......,Jan.,"4,",1915.
-2,474,2001,3737,2037,436087,Privato... r. ,"Jarvis,. David John   ","Nil./.;....',. ","Jarvis, Mrs. T..","12 Broadwynd,Leith, Scot...    . • •. -1, (,, t,i*""","Scotland..,...'..",Edmonton ,Jan.,"4,",1915.
-2,474,2031,3738,2064,436049,Private ,"Jenkins, Thomas William.........",NU................,"Jenkins, WUliam.’.....;","97 Minot Ave. Hnrlesden, London, Eng..;. ...' ",Wales...........,Edmonton ,Jan.,"• 4,",1915.
-2,474,2057,3738,2095,436595,Private... ,"Johns, George Hickman     ",O.T.C...... ,"Hartopp, Mrs. C. K...","54 Victoria Rd., Sherwood, Notts, Eng.. .V.V:.7;.:....",England.   ,Loughecd ,Jan.,"23,",1915.
-2,473,2090,3739,2124,436212,Private.../. ,"Johnson. Ernest...,. ",Nil  . .,"Johnson, George.......","90 Countess Rd., S. Alderson Rd., Sheffield, Eng. . ....",England ,,Jan.,"8,",1915.
-2,473,2115,3739,2152,436054,Private../ .,"Johnson, John Henry 7..’..",Nil................,"Johnson, Annie  ","9760, 70th Ave., S.E. Edmonton, Alta   '.. . ..",England ,Edmonton :.,Jan.,"4,",1915.
-2,473,2147,3739,2183,430200,Private..... ,"Jones, Robert Boydell  ",NU..... ,"Jones, Allred ","86 Me Adam Ave., Winnipeg, Man...:....;.,.....: ",Canada ,Edmonton ,Jun.,"1 7,",1915.
-2,474,2179,3739,2216,436141,Private...........,"Kemp, George W ,....",12th Drags........,"Kemp, John James....","Listowel, Ont...: ,....      ",Canada ,,Jan.,"5,",1915.
-2,473,2209,3739,2243,436080,Private ,"Kinnaird, Hugh  ",Nil ,"Kinnaird, George ","82 Dryburgh Ave., Rutherglen, Glasgow, Scot ",Scotland........,,Jan.,"4,",1915.
-3,397,352,2775,393,436200,Private ,"ICyle, Charles    ",Nil.....' ,"Kylo, D.......'.  ","29 Clyde St., Carluke, Scot..., ;1. H7..... j"
-3,2955,363,3653,401,,,,,,,Scotland ,"Edmonton ,",Jan.,"5, 1915."
-3,398,383,3654,426,430303:,Private ,"Lacoy, Harry.........   ..",Nil..'....:...,"Lacey, George  ","Lancics Rd., Vnnge, Essox, Eng..• .V. I ""HI.,",England ,Edmonton !,Jan.,"■ 9, 1915."
-3,397,411,3654,455,435177,Private.......,"Laffey, Thomas Patrick.",Territorials..,"LafTey, Thomas.  ","Wilkin St., Liverpool, Eng. .II’”I””””",England ,Edmonton ,Jan.,"; 5,1915."
-3,396,442,2940,482,430105,Private.......,"Lafiarnmo, Victor............ *",Nil ;,"Laflamme, Mrs. L. J......","Clarence Creek, Russell, Ont.[ ” ] ]"" ”’ I"
-3,2955,446,3654,481,,,,,,,Canada.... ,Edmonton......,Jan.,"! 5, 1915."
-3,398,475,3654,511,436374,Private...;. 1.,"Lammio, Hugh.... ",Nil ,"Lammie, Mrs. William.","Beverly Heights, Edmonton, Alta.","Scotland.,   ",Edmonton....i.,Jan.,"12, 1915."
-3,398,503,3654,541,430164,Private.......,"Lamontagne, Nioholas. ......",Nil...;......,Not stated  ,Not statedt ” ,Canada    ,Edmonton... J..,Jan.,5.1915.
-3,398,532,3655,570,430100,Privato....!..,"Lang, Matthew.   ","Nil.....;..,.","Lang, Alexander ","283 Sinclair St., Edmonton, Alta...;   ” I”' ”",Scotland ,Edmonton......,Jnn.,"4, 1915."
-3,398,564,3654,604,430100,Private ,"Langfcar, Charles.....; .",Nil..........,"Langfcar, Mrs. Martha....","58 Harrington Hill, Clapton, London, Ene",England........,Edmonton ,Jan. .,4.1915.
-3,397,589,3655,631,430347,Privato ,"Law, James Stephen MM",Nil ,"Law, Mrs. Maggie ","Birtle, Man..;.  iTT. II *"" I *"" I* I",Scotland ,Edmonton ,Jan.;,11.1915.
-3,398,623,3655,660,430029,Privato ,"Lawder, George William  ",Nil ,"Lawder, Mrs     ","Mt. Temple, Blnckrock, Co. Dublin, Ire.. . . . . .j.’",Ireland ,Edmonton ,Jan.,4.1915.
-3,397,649,3655,693,436P39,Private.......,"Leadbctter, William Eric.........",Nil..........,"Leadbctter, Mr... ","Leduo, Aita.  \.      ",England..% ,Edmonton ,Jan.,4.1915.
-3,397,682,3654,723,430375,Private ,"Leary, Bernard   ",Nil ,"I.eary, A   ","128th St., Inglowood, Edmonton, Alta 11111111 III I",England ,Edmonton ,Jan.,12.1915.
-3,396,713,3655,753,436172,Private ,"Liptrot, Robert.... ",Nil ,"Liptrot, Mrs. L..:  ","133 Althea St., Wandsworth Bgo., London, S.wl, Eng.","England.,. ",Edmonton ,Jan.,"5, 1915."
-3,396,742,3655,783,436339,Private ,"Lobb, Thomas Henry     ",Nil ....,"Lobb, Mrs. Sarah Agnes..","SO Clarendon Rd., Morecambe, Lancs, Eng.. I  ",England........,Edmonton ,Jan.,13.1915.
-3,395,774,3655,813,430333,Privato ,"Lord, Walter ;... ",Nil..........,"Lord, Mrs. Alice Violetta","9215, S9th St. S., Edmontor., Alta     i........",England  ,Edmonton ,Jan.,11.1915.
-3,394,804,3655,838,430255,Privato ,"Macaulay, Dougal  ",Nil.... ,"Macaulay, A    ","South Uist, Inverness, Scot.    ",Scotland... ,Edmonton ,Jan.,7.1915.
-3,394,829,3655,867,"43G025,",Privato ,"Macaulay, Robert G.... ",Nil  ,Macaulay. Archibald......,"31 Rosebery St., Abcrdeon, Soot   ",Scotland ,Edmonton ,Jan.,4.1915.
-3,395,861,3656,897,430500,Privato ,"MacDonald, Archibald   ",79th Regt...,"MacDonald, Mrs. M  ","Benbecula, South Uist, Inverness, Scot .'  ",Scotland ,Provost ,Jan.,"20, 1915."
-3,395,891,3656,927,430-104,Privato   ,"Macintosh, Neil Francis.",Nil..  ,"Macintosh, Miss Mary..","623 Hardisty Ave., Edmonton, Alta ”. [ ",Ireland.   ,Edmonton ,Jan.,14.1915.
-3,395,925,3656,956,430074,Privato ,"MacRae, Alexander........... ",Territorials..,"MacRae, R .; ","80 Keith St., Stornoway, Scot...    ",Scotland ,Edmonton ,Jan.,4.1915.
-3,395,954,3655,986,430153,Private ,"Magee, John George............",Nil..... ,"Magee, Mrs. Mildred ","Gen. Del., Edmonton, Alta..   ",Ireland ,Edmonton ,Jan.,"5, 1915."
-3,396,984,2934,1017,4362S9,Private ,"Mannion, John Joseph     ","Nil....,....,","Moran, Mrs. Mary ","10 Chadwick St., ofl Wellington Rd., Stockport, Ches.,"
-3,2199,1013,3657,1047,,,,,,Er.g..; .' VV. ,England ,Edmonton ,Jan.,8.1915.
-3,396,1042,3656,1077,436186,Private ,"Marsh, Ernest.   v...",Nil  ,"Marsh, Eliza ,....","Woodfalls, Salisbury, Wilts, Eng....... f,* ",England ,Edmonton ,Jan.,"5, 1915."
-3,396,1072,3656,1107,436043,Private ,"Marshall, William Richard..,",101st Regt ,"Marshall, Mrs. S    ","290 Brixton Rd., Stockport, Ches, Eng.    ",England ,Edmonton ,Jan.,4.1915.
-3,396,1099,3656,1135,436107,Private ,"Martin, Harold ",Nil   ,"Martin, David ","9334, 104th Ave., Edmonton, Alta ...-.  ",England  ,Edmonton ,Jan.,4.1915.
-3,395,1124,3656,1165,436149,Private ,"Marty, Eloi  ",NU * ._...,"Marty, A ","St. Paul, Minn., U.S.A  ",France ,Edmonton ,Jan.,5.1915.
-3,395,1162,3657,1193,430224,Sergeant ,"Mstheson, John Dalhousie ",Royal Navy ,"Matheson, Mrs. A  ","Outlook, Sask.        ",Scotland ,Edmonton ,Jnn,"6, 1915."
-3,395,1191,3658,1224,430032,Private ,"Mnughan, George  ",Nil   ,"Atkinson, Mrs. J ","Greysouthen, Cumberland, Eng   ",England ,Edmonton ,Jan.,"4, 1915."
-3,394,1221,3764,1253,436301,Private.... ,"Mnxey, Charles Pulley.......",Nil..  ,"Maxey, F. R......... ","28 Cardigan St., Ipswich, Suffolk, Eng. i',,   ",England ,Edmonton ,Jan.,9.1915.
-3,394,1250,3765,1283,436974,Corporal ,"May, James J.    ",U.S. Army ,"May, John.... ","Maplesville, Kentucky, U.S.A....... i,i, a ",U.S.A ,Edmonton ,Feb.,20.1915.
-3,394,1280,3658,1322,430105,Private..... ,"McCluskey, Thomas ",Nil  ,"McCluskey, Mrs. Thomas","Shack 2-1, Scona Rd., Edmonton, Alta.;.   ",England ,Edmonton ,Jan.,"4, 1915."
-3,395,1310,3658,1343,430007,Private.... ,"McConncll, Samuel Garfield.",Nil   ,"McConnell, A ","1653, 6th Avo., New Westminster, B.C..................",Canada  ,Edmonton ,Jan.,"4, 1915."
-3,395,1340,3658,1373,430270,Private ,"Mcltwreith, William ",Nil ,"Mcllwreith, Mrs. W ","Upper Balmoral, Restigouche, N.B.......... ",Canada  ,Edmonton ,Jan.,"8, 1915."
-3,394,1366,3658,1404,430183,Private...... ,"McKoy, Edward ","Nil,... ","McKay, H....  ","10615, 67th Ave., Edmonton, Alta. V.",England ,Edmonton ,Jan.,"5, 1915."
-3,394,1399,3658,1432,436300,Private ,"McLachlin, Herbert Dawson.",Nil ,"McLachlin, Mrs. M  ","1137, 27th St., Edmonton, Alta..... ......: ",Canada.....'...,Edmonton.....,Jnn.,"II, 1915."
-3,395,1424,3659,1463,436359,Private ,"McLachlin, Hugh Francis ",Nil ,"McLachlin, Mrs. M ","1137, 27th St., Edmonton, Alta ; ",Canada  ,Edmonton ,Jnn.,11.1915.
-3,394,1456,3658,1492,436146,Privato ,"McLean, Wendell P....... ",19 th Drags ,"McLean, Mrs. Emily ","318, 1st Ave. S.W., Edmonton, Alta.. .ihii ",U.S.A  ,Edmonton ,Jan.,"6, 1915."
-3,394,1487,3659,1522,430204,Private.... ,"McLeod, Roy Lauchlin ",Nil  ,"McLeod, Angus J ","Glon William, Kings, P.E.I . i ",Canada ,Edmonton ,Jnn.,"8, 1915."
-3,394,1516,3659,1550,430216,Private..;........,"McManus, Frank ",Territorials.,"McManus, Mrs. Mary ","8730, 92nd Ave. A., Edmonton S., Alta.        ",England...'....,Edmonton ,Jan.,"0, 1915."
-3,394,1544,3660,1582,436230,Privato ,"McMurdo, Robert  ","O.T.C ,'. ","McMurdo, Mrs. F. J   ","c/o Meredith Mills, Lincolns Inn, London, Eng ",England ,Edmonton ,Jnn.,"B, 1915."
-3,394,1573,3660,1611,436219,Private ,"McNaughton, George Smith.",20 th Horso ,"Crummer, Mrs. R ","Ardrossan, Alta        <,u, ^ ",U.S.A ,Edmonton ,Jan.,"0, 1915."
-3,394,1603,3660,1639,436107,Private.. ,"McPhce, Robert ",Territorials ,"McPhee, A  ","Beverly, Edmonton, Alta     ",Scotland ,Edmonton ,Jnn.,"14, 1915."
-3,395,1632,3660,1668,430275,Private ,"McPherson, John.'..; ",Nil   ,"McPherson, Naismith...","2054 Lorno St., Edmonton, Alta.......,'i«. ",Scotland ,Edmonton ,Jan.,"8, 1915."
-3,394,1661,3660,1698,436145,Private ,"McPherson, Reuben ",19t.h Drags   ,"McPherson, Mrs. Albert..,","3rd Avo. N. and 4th St. W., Edmonton S.j Alta ",England ,Edmonton ,Jan.,"6, 1915."
-3,394,1689,3661,1727,436366,Privato ,"Meakin, Edward............",Nil...; ' ,"Meakin, Mrs. Jano ","624 Sutherland St., Edmonton, Alta...~;;-i i... ",England ,Edmonton ,Jan.,"11, 1915."
-3,394,1719,3661,1757,436070,Private..*... ,"Meehan, Augustine Joseph....",Nil   ,"Meehan, C. E ","Moncton, Westmoreland, N.B    ",Newfoundland.,Edmonton ,Jan.,"4, 1915."
-3,393,1749,3662,1786,436272,Private ,"Millbank, William Edmund..",Nil..-......     ,"Millbank, C. A. ","Burrows Farm, Toothill, Ongar, Essex, Eng ",England ,Edmonton ,Jnn.,"8, 1915."
-3,393,1778,3662,1817,436287,Private ,"Mills, Charles Edgar ",Nil....... ,"Mills, Mrs. Annie M  ","137 Short St., Edmonton, Alta...........    ",England ,Edmonton.....,Jan.,"8, 1915."
-3,394,1808,3663,1850,435127,Private....!-. ,"Milner, Charles ",Nil ,"Milner, Henry ","Otham, Kent, Eng         ",England ,Edmonton ,Jnn.,"5, 1915."
-3,2145,1837,3662,1873,,,,,,"44 Muirkirk lid., London S.E., Eng.....; t>...........",England ,Edmonton ,Jan.,"22, 1915."
-3,393,1848,2026,1882,436549,Private.. ,"Moore,jJamcs ",Nil....... ,"Moore, John "
-3,393,1867,3663,1910,436312,Private ,"Moore,Thomas ",Nil ,"Moore, John ","44 Muirkirk Rd., London, S.E., Eng.  ",England ,Edmonton...,Jan.,"9, 1915."
-3,394,1895,3664,1941,436497,Private  ,"Morlidge, Gcorgo Ernest ",Can. Mil ,"Morlidge, Mrs. G ","Gen. Del., Edmonton S., Alta   ",England ,Edmonton ,Jan.,"19, 1915."
-3,393,1928,2946,1971,438220,Privato    ,"Mottershead, Ernest ",NU ,"Mottershead, A ","Gen. Del., or Lot 4, Blk. 5, Mount Royai, Edmonton,"
-3,2963,1953,3665,1986,,,,,,,Canada......,Edmonton ,"Jan.,","6, 1915."
-3,2963,1984,3664,2014,,,,,,,Scotland ,Edmonton ,Jan.,"5, 1915."
-3,394,1990,2946,2039,435174,Private..,"Murdoch, Robert Bridgcford.^",Nil ,"Murdoch, George ","Stonehaven, Scot  * vV; "
-3,2962,2014,3665,2044,,,,,,,Canada.   ,Edmonton ,Feb.,"8, 1915."
-3,394,2024,2946,2061,436797,"Private..,","Murphy, Henry xtM",Nil.........,"Murphy, R ","Dauphin, Man   "
-3,2963,2044,3665,2078,,,,,,,England ,Edmonton ,Jan.,"12, 1915."
-3,394,2052,2946,2091,436377,Private..,"Myall, John   ",T crritorials.,"Myall, Mrs. J ","Gen. Del., P.O., Edmonton, Alta.    "
-3,395,2073,3665,2122,436253,Corporal.,"Newsome, Lawrcnco Andrew ",Territorials.,"Newsome, Mrs. L. A.","10508, 115th St., Edmonton, Alta i. .   ",England ,Edmonton ,Jan.,"7, 1915."
-3,395,2104,3665,2151,430339,Private..,"Nicld, Samuel ",Nil ,"Nicld, Mrs. Alice ","Bovorly Heights, Edmonton, Alta   ",England ,Edmonton ,Jan.,"11, 1915."
-4,465,576,3215,641,M,,,,,Country of
-4,463,750,3718,792,436225,Private ,"Nutter, Edmond   NiUY...........","Nutter, A...;    ","289 Brunswick St., Nelson, Lancs, Eng... ",England ,,Jan.,0,1915.
-4,462,775,3717,821,436357,Private ,"O’Grady, Daniel UvM Nil,.;......’....","O’Grady, C   ","P.O. Emmett, Renfrew, Ont.  .   ",Canada ,,Jan.,11,1915.
-4,462,811,3716,852,43G170,Private ,"Oldfield, Charles Robert.. Territorials...","Oldfield, T. O   ","Bowmarlin, London, Eng ",England... ,,Jan.,5,1915.
-4,462,842,3717,884,436223,Private ,"Oliver, Frederick George ,... Territorials ","Oliver, Frederick.   ","Rising Sun, Port Vale, Herts, Eng j    , ",England ,,Jan.,6,1915.
-4,462,872,3717,913,436383,Private ,"Pallott, Harold Eugene.     Chan. Isle. Mil.","Pallott, Mrs. A   ","Roekfield, La Rocque, Jersey, Chan. Isles ",Channel Islands,,Jan.,13,1915.
-4,461,901,3717,942,43G217,Private ,"Pardon, Ernest Humphrey Nil.,; ","Pardon, John   ","Budock, Falmouth, Cornwall, Eng.   ",England ,,Jan.,6,1915.
-4,461,932,3717,972,436144,Corporal ,"Parkes, John Anthony Nil.-,;..........","Parkes, Ellen  ","9427, 99 th St., S. Edmonton, Alta  ",England ,,Jan.,5,1915.
-4,461,962,3717,1001,436171,Private ,"Patch, Walter Henry.....-.,. Nil.;. ","Patch, W.... Y. ","Jersey, Chan. Isles ",Channel Islands,,Jan.,5,1915.
-4,461,991,3718,1032,436336,Private  ,"Pearce, William Charles   w Nil.;.; ","Pearce, Mrs. Mary  ","2 North Parade, Falmouth, Cornwall, Eng ",England ,,Jan.,11,1915.
-4,461,1016,3717,1061,433057,Private ,"Pearson, Allred Nil.,’.. ","Pearson, C ","Tunbridge Wells, Kent, Ehg.  ",England ,,Jan.,4,1915.
-4,462,1051,3717,1090,436006,Privato ,"Pennington, William   Nil... ","Pennington, Peter... ","Hallsden Rd., Heaton Chapel, Stockport, Ches, Eng....",England ,,Jan.,4,1915.
-4,461,1081,3717,1119,436299,Privato ,"Perry, Joseph   „\... Nil  ","Perry, Mrs. J ","1031, 114th St., Edmonton, Alta   ",England ,,Jan.,9,1915.
-4,460,1111,3717,1149,436050,Private ,"Peterson, Robert Talbot . Nil... ","Peterson, Mabel,... ","8819, 88th Avo., Edmonton S., Alta ",England ,,Jan.,4,1915.
-4,460,1140,3717,1179,436240,Private ,"Phillips, Harry ; Nil..1.. ","Phillips, H..... ","50 Commercial Rd., Hazel Grove, Ches, Eng.... ",England ,,Jan.,7,1915.
-4,460,1169,3716,1208,436114,Corporal ,"Porlier, Joseph L... Nil.... ","Porlier, Mrs. Joseph ","Marcelin, Sask..., ",Canada ,,Jan.,5,1915.
-4,459,1199,3716,1239,436346,Private ,"Potts, Alfred   Nil.;.,  ","Potts, William  ","27 Cowely Hill Lane, St. Helen's, Lancs, Eng ",England ,,Jan.,11,1915.
-4,459,1228,3717,1267,436157,Private. ,"Pritchard, Charles Albert Nil... ","Pritchard, William ","Box 4758, Strathcona, Edmonton S., Alta • ",Wales .V. ,,Jan.,5,1915.
-4,457,1258,3716,1297,436200,Private ,"Redfearn, George  Nil..,..........","Redfearn, Agnes ","9425, 98th St., Strathcona, Alta ",England ,Edmonton ,Jan.,8,1915.
-4,455,1287,3716,1326,436CU5,Private ,"Reese, Richard Llewellyn Nil....;;. ","Reese, Mrs  ","11309, 92nd St., Edmonton, Alta ",Wales ,Edmonton ,Jan.,4,1915.
-4,456,1312,3716,1356,436332,Private......,"Revcll, Lawrence   Territorials ","Revcll, Joseph ","294 Birdholmo, Chesterfield, Derbji* Eng   ",England ,,Jan.,11,"191,5."
-4,457,1346,3716,1386,436150,Private ,"Richardson, John Nil..;..... ","Pretty, Mrs. T. V ","108 Howard Rd., Leicester, Eng ",England ,,Jan.,5,1015.
-4,457,1375,3716,1416,436134,Private ,"Richardson, Nicholas Nil....... ","Richardson, G. W   ","123rd St. and Yukon Ave., Edmonton, Alta ",England......,,Jan.,5,1915.
-4,458,1408,3716,1446,436081,Private ,"Ripley, Bertram Nil:,...,.. ","Ripley, Harry  ","6th Ave. N.E., S. Edmonton, Alta ' ",England ,Edmonton ,Jan.,4,1915.
-4,458,1438,3716,1477,436028,Private ,"Itispin, James   Nil.,...,.......","Rispin, Mrs. M,  ","Bevorley, Yorks, Eng.    ; ","England..,.,.",,Jan.,4,1915.
-4,457,1467,3715,1504,436053,Private ,"Roberts, David.  Nil..Yl","Roberts, Thomas....  ","Kenson, Penmark, nr. Cardiff, S.Wales ",Wales ,,Jan.,4,1915.
-4,456,1498,3715,1535,436207,Private......,"Roberts, William \ ........... Nil....... ","Roberts, H ","Mossfields Cottage, Whitchurch, Salop, Eng ",England ,,Jan.,8,1915.
-4,456,1527,3715,1563,431)000,Private ,"Saidler, Thomas Ott , Nil.............","Saidler, Mrs. Grace ","19 Gideon §t., Bathgate, Linlithgow, Scot",Scotland ,,Jan.,4,1915.
-4,456,1557,3716,1592,436037,Private......,"Scott, William A Nil.,...,...,,..","Scott, William  ","Leduc, Alta ;       ",U.S.A ,,Jan.,4,1915.
-4,456,1586,3716,1622,43612S,Private......,"Seabrook, Sidney Robert........ Nil...... ","Seabrook, P. S.* ","Dnyton, Oregon, U.S.A.,.....;..... ",Canada ,,Jan.,S,1915.
-4,456,1617,3716,1651,436154,Private ,"Sheridan, Edwin Joseph.......... Nil....","Sheridan, Ellen.   ","ICemptvillo, Ont............. Y  ",Canada.. ,,Jan.,5,1915.
-4,456,1646,3716,1684,436056,Private. ,"Sloan, Hartley Benjamin.... Nil...' ...","Sloan, Benjamin.   ","Fielding, Sask : YY Y       ",Canada ,,Jan.,4,1915.
-4,456,1676,3717,1714,436263,"Private,' ","Smith, Charles A   Nil..;;.;.. ","Smith, David..  ","Edenbridge, Kent, Eng... Y    i  ",England ,,Jan.,8,1915.
-4,455,1706,3717,1744,436055,Private ,"Smith, Frederick Charles.... SA.............",Smith. Jane Elizabeth ,"11337, 92nd St., Edmonton, Alta  ",England ,,Jan.,4,1915.
-4,455,1737,3717,1774,436369,Privato ,"Smith, Harold   Nil.............","Smith, G ","7 Bank Bldgs., Stonohouse, Glos, Eng ",England ,,Jan.,12,1915.
-4,454,1766,3717,1805,436010,Private ,"Smith, Leonard William   Nil.............","Smith, James..;.'. ","397 Hamilton Ave., Fraser Flats, Edmonton, Alta ",England ,,Jan.,4,1915.
-4,455,1798,3716,1834,436008,Private ,"Smith, Oliver     Nil.............","Smith, Arthur...'1    ","76 Douglas St., Derby, Eng.     ",England......,,Jan.,4,1915.
-4,455,1829,3715,1864,436035,Private ,"Smith, Thomas..'   Nil ","Smith, Mrs. T.......  ","10326, 108th St., Edmonton, Alta ",England ,,Jan.,4,1915.
-4,453,1859,3716,1894,436192,"Private...,,.","Smith, William   Nil... Y...","Smith, A.;.   ","Keith, Banff, Scot................... Y...........",Scotland ,,Jan.,5,1915.
-4,453,1888,3715,1924,436482,Corporal ,"Spiller, Arthur    Nil........... Y","Edmonds, Mrs. J.    ","24 Avenue Rd., Gosport, Hants, Eng...     ",England......,,Jan.,19,1915.
-4,453,1917,3716,1954,436226,Private ,"Stead, Arthur v.vYY Nil  ","Stead, Mrs. Elizabeth ","5 Kempstor St., Lower Broughton, Manchester, Eng...",England......,,Jan.,6,1915.
-4,453,1949,3715,1984,436072,Private......,"Stebbings, Gilbert   101st Regt......","Stebbings, George...","Botesdale, Suffolk, Eng..,...  ",England......,,Jan.,4,1915.
-4,452,1976,3716,2011,436310,Private ,"Stevens. Joseph Emerson   Nil ,...;","Stevens, Charles...,..-,.'.. ","Clover Bar, Alta   Y“. Y   ","Canada....,,.",,Jan.,9,1915.
-4,454,2005,3715,2044,436393,Private ,"Stubbs, Albert Harry    Nil ;.......","Stubbs, Mrs. M.     ","Bearwood Hill Rd., Burton-on-Trent, Staffs, Eng,..,.",England......,,Jan.,14,1915.
-4,454,2038,3715,2071,430044,Private ,"Sutton, John Nil.,..  ","Sutton, John James.      ","4 B. Bourne St., Hastings, Sussex, Ena...   ",England ,,Jan.,4,1915.
-4,453,2068,3715,2104,430222,Private......,"Sweeney, John James.;..;,....... Nil....,,.;.....","Sweeney, M............ i ","34 Potter's Court, Bradford, Yorks. Eng ",England ,,Jan.,G,1915.
-4,453,2093,3715,2133,436125,Private..../.,"Tattersall, William   Nil  ","Tattorsall, Oswald......... ","Wcstmount, Ripon, Yorks, Eng  ","England..,,..",,Jun.,5,1915.
-4,453,2121,3715,2161,430408,Sergeant...'..,"Taylor, John   Mfl Territorial*.....","Taylor, Mrs. M. E  ","P.O. Bonnie Glen, Alta   ",England ,,Jan.,19,1915.
-4,453,2154,3716,2190,436104,Privato ,"Thomas, John   Nil ","Thomas, Mrs. Lucretia.      ","79 Picton St., Maestcg, Glam. S. Wales...............",Wales..' ,,Jan.,7,1915.
-4,453,2184,3717,2221,436250,Private ,Tod. William James. .............. Nil  ,Hunter. Miss    ,"St. Margarets. Bridge of Allan. Stirling, Scot... ",Scotland ,,IJan.,7,1915.
-5,488,349,2061,380,43G211,Private,"Todd, A.... .. ",Nil ,"Todd, Mrs. E  "
-5,2226,356,3744,392,,,,,,"Fort Saskatchewan, Alta..;     ",England...,Edmonton...,Jon.,"0, 1915."
-5,486,378,2062,410,436397,Private,"Topham, James Alexander M",Territorials.,"Topham, Alexander "
-5,2227,387,3745,423,,,,,,"Box 12, Stony Plain, Alta.,.....I..,....;.;,...",England...,Edmonton...,Jan.,"14, 1915."
-5,486,409,2062,440,430313,"Private,","Tree, George ...","Nil .,,","Tree, Mrs. A. E....... .."
-5,2226,417,3743,451,,,,,,"Carlstndt, Alta  ;    ",Canada....,Edmonton. J.,Jan.,"9, 1915."
-5,485,439,1988,470,430341,"Private,","Trickcr, Albert Charles  ","19th Drags.,","Tricker, R  "
-5,2226,446,3744,482,,,,,,"29 Brighton Rd., Surbiton, Surrey, Eng.  ",England...,Edmonton.!.,Jan.,"11, 1915."
-5,485,468,2107,499,436300,"Private,","Triseott, Thomas Hooking...","Nil.....:,.i","Triseott, Edith....."
-5,2227,476,3745,511,,,,,,"P.O. Box 131, Beverly, Edmonton, Alta  ",England...,Edmonton...,Jan.,"9, 1915."
-5,485,497,2107,530,430349,"Private,","Ute, Charles Henry...... i;.",Nil  ,"Utos, Mrs. C. H....1..I..'.."
-5,2226,506,3745,541,,,,,,"8924, 83rd Ave.* Edmonton S., Alta...; ",England...,Edmonton...,Jan.,11.1915.
-5,484,528,2108,558,436208,"Privato,","Vidlcr, Albert Edward. i.;..",Nil..... ,"Vidler, Charles....,......."
-5,2229,535,3744,569,,,,,,"Woodsgate, South St., Faversham. Kent, Eng....",England...,Edmonton...,Jan.,8.1915.
-5,485,556,2107,589,4300.30,Privato,"Walters, Thomas.. t. .Vi ...",Territorials.,"Newey, Mrs..............."
-5,2226,565,3744,599,,,,,,"3 Tower St., Sedglcy, Staffs, Eng. ",England...,Edmonton...,Jnn.,"4, 1915."
-5,484,586,2031,617,430218,Private,"Walters, William.,... .... i’i.!",Nil ,"Walters, Mrs. William"
-5,2227,595,3743,628,,,,,,"995 Jasper Avo. E„ Edmonton, Alta.  ",England.,Edmonton...,Jnn.,"6, 1915."
-5,484,615,2108,648,430244,Privato,"Welsh, Cecil....?...j W .l.V",Nil ,"Welsh, G. W..............."
-5,2228,620,3744,659,,,,,,"Stimlcy Moor Farm, Fence Houses, Durham, Eng",England...,Edmonton...,Jan.,"7, 1915."
-5,484,645,2063,679,436400,Private,"Westington, Dick,.",Territorials.,"Westington, F...; "
-5,2226,654,3746,689,,,,,,"80 Round Hill Crescent, Brighton, Eng ","England.."".",Edmonton...,Jan.,"14, 1915."
-5,484,676,4178,719,430150,Privato,"White, Thomas H ",Nil ,"White, Mrs, Thomas H....","105th St, Lauderdale, Edmonton, Alta  ",England...,Edmonton...,Jan.,"5, 1915.",f-:+
-5,483,707,3745,748,436403,"Private,","Whitlock, John Henry.;.,.,.",Nil...'. ,"Whitlock, Miss Minnio.","Banstead, Surrey, Eng.  , ",England...,Edmonton...,Jnn.,14.1915.
-5,484,737,2106,768,430047,Privato,"Wild, Jervis..",Nil  ,"Wild, Mrs. Margaret "
-5,2228,744,3744,779,,,,,,"14 High Field Rd., Bolton, Lancs, Eng     ",England...,Edmonton...,Jan.,"4, 1915."
-5,483,755,2107,797,436340,Private,"Wilford, George........",MW,Nil ,"Wilford, Arthur.     "
-5,2227,775,3744,810,,,,,,"Gardeners Cottage, _Broughton-in-Furncss, Lancs, Eng.",England...,Edmonton...,Jan.,"11, 1915."
-5,483,796,2107,827,430327,"Privato,","Wilkinson, Edward ; . ..",Nil... ,"Wilkinson, Mrs. M........."
-5,2269,834,3745,865,,,,,,Eng i w,England...,Edmonton...,Jan.,11.1915.
-5,483,854,3745,894,436.503,Privato..,"Willdcy, Lewis John..........","Territorials.,","Willdey, Mrs. L. J... ","Loughecd, Alta. ",England...,Hardisty....,Jan.,"23, 1915."
-5,483,884,2105,913,430008,Private..,"Williamson, Joseph  ",Nit ,"Williamson, Mrs. A.......,"
-5,2224,890,3746,920,,,,,,"9750, 76th Avo., Edmonton S., Alta.    ",Ireland....,Edmonton...,Jnn.,4. 1915.
-5,483,908,3745,949,430124,Private..,"Wingfield, Charles Petor.",Nil V...,"Wingfield, H. J.    ","1022, 10th St., Edmonton,Alta ",Canada....,Edmonton...,Jnn.,"6, 1915."
-5,482,938,3745,981,436014,Privato..,"Wood, Frederick  ",Nil ;;,"Wood, Mrs. L. ","2 Selwyn St., Stoke-on-Trent, Staffs, Eng ",England...,Edmonton...,Jan.,"4, 1915."
-5,481,971,3745,1010,430103,Private..,"Wood, John Jacob ;  ",Nil..........,"Wood, F. L  ","18th Ave. and Maine St.. Edmonton S., Alta...",England....,Edmonton...,Jan.,"5, 1915."
-5,480,1001,3746,1040,436088,Corporal.,"Wood, Roland..........;....,",101st Regt...,"Wood, H.,.,i.:...","1429 Syndicate Ave., Edmonton, Alta ",England...,Edmonton...,Jan.,4.1915.
-5,479,1030,3745,1068,436493,Private..,Yates. Harry   ,Nil ,"Yates, Mrs. Catherine ","P.O., Keystone, Alta ;.. ,■ ",England. ■.,Edmonton...,Jna.,"19, 1915."
-5,578,1208,3742,1247,,Lieutenant.,"Coles, Harry Victor..............",101st Regt.,"Coles, Mrs. M...","1151 Fort Rd., Edmonton, Alt3.;Y ",England.,"Edmonton.,","Jan. 6, 1915."
-5,578,1241,3850,1277,,Lieutenant.,"Guillon, Silas...      ",101st Regt.,"Guillon, Mrs. S.","c/o Convent of Sion, Chapstow Villas, Bayswator,"
-5,2284,1275,3741,1306,,,,,,"London, Eng   i.i.i ",Belgium...,Edmonton..,Jan.,"26, 1015."
-5,579,1301,3743,1335,,Lieutenant.,"Raphael, Frederick George ",101st Regt....,"Raphael, H. W  ","814 Shuter St., Montreal, P.Q... ;.’. ",Canada....,Edmonton..,Jnn.,"1, 1915."
-5,580,1327,3743,1365,,Lieutenant.,"Taylor, Howard ",19th Drags...,"Taylor, Thomas  ","10159, 116th St., Edmonton, Alta..;h. ",Canada ...,Edmonton..,May,"17, 1915."
-5,581,1361,3744,1398,,Lieutenant.,"Walton, Balfour Stewart.   ",7 th Regt ,"Walton, Mrs. Ethel M......","4 Dundonald St., Edinburgh, Scot; 11.-. ",Scotland...,Edmonton..,Jan.,"5, 1915."
-5,479,1391,3761,1423,436980,"Private...,","Anderson, Matthew.,   ",Nil ....,"Anderson, Mrs. Margaret...","312 York St., Edmonton, Alta. V...",Ireland....,Edmonton..,Feb.,"20, 1915. ■"
-5,479,1416,3743,1452,43G977,Privato....,"Arnott, Leo ",Nil  ,"Arnott, Mrs. Agnes ","Brunswick Hotel, Edmonton, Alta.....",U.S.A ,Edmonton..,Feb.,"20, 1915."
-5,479,1443,4174,1482,436680,Private....,"Askwith, George Edward.........",Nil ,"Askwith, Mrs. E  ","26 Gladstone St., Crook, Durham, Eng ",England...,Edmonton..,Jan.,"30, 1915.","• ‘,'h"
-5,479,1480,3744,1512,437049,Private....,"Aspinall, Hugh ",Territorials...,"Aspinall, Mrs. H  ","Fifth & First St. S.E., Edmonton S.; Alta....",England...,Edmonton..,April,"1, 1915."
-5,478,1471,4176,1541,436441,Private....,"Ayers, Robert George.      ",Nil ,"Ayers, James R.     ","Butter Row, Stroud, Glos, Eng. .-..Hi ",England...,Edmonton..,Jan.,"18, 1915.",^ : 1
-5,478,1540,3746,1570,436002,Private....,"Bales, Alfred Benjamin... i»•. i..",Nil ,"Bales, E. William..,.......","17 Magdalen St., Norwich, Eng. .vri>. ",England...,Vogrevillo..,Jan.,"25, 1915."
-5,477,1569,3745,1600,430410,Privato....,"Balfour, William ",Nil ,"Balfour, Jessie    ","38 Scot3toun St., Scotstoun, Glasgow, Scot.....",Scotland...,Edmonton..,Jan.,"14, 1915."
-5,477,1598,3746,1628,430485,"Private...,","Bamber, Norris.  ",Nil ,"Bamber, J. T    ","Sion, Alta  ;'. ii’.V.  ",England...,Edmonton..,Jan.,"19, 1915."
-5,476,1628,3746,1659,430749,"Private.,..","Banks, Edward  ",Nil ,"Banks, I   ","0 Mill Terr., Penrith, Cumberland, Eng... .*..",England...,Edmonton..,Feb.,"4, 1916."
-5,476,1657,3747,1689,430580,Privato....,"Barcroft, Richard...........;....",Territorials...,"Barcroft, Mrs ;.       ","Bury, Lancs, Eng..... .wtifiV. ",England...,Camrojo...,Jan.,"22, 1915."
-5,477,1684,3746,1719,430505,Private....,"Barker, Mark,..v................",NU ,"Barker, W..  .7..","Holmwood, Surrey, Eng.. ..,."". ...ViiV....-....",England...,Edmonton..,Jan.,"22, 1915."
-5,477,1715,3746,1749,43G027,Private....,"Beaton, Edwin.  ",Can. Mil......,"Beaton, Christopher.......","Amherst, Cumberland, N.S.... .••ililri:.    ",Canada....,Edmonton..,Jan.,"27, 1915."
-5,476,1745,3747,1778,436410,"Private...,","Bendall, Herbert Harry..........",NU  ,"Bendnll, C .'.","Ebley, nr. Stroud, Glos., Eng... Yi*;;.........",England...,Edmonton..,Jan.,"18, 1915."
-5,476,1763,4198,1809,436765,Private....,"Bct.tany, Thomas Stanton  ",10th Regt....,"Bettany, D    ","37 Lenty Ave., Toronto, Ont '.i i ",England...,Edmonton..,Feb.,"6, 1915.",•• • '■I.
-5,476,1804,3747,1838,430573,Private....,"Billington, Harold  ",Nil....  ,"Billington, William ","Forest ltd., Torporley, Chester, Eng ",Ehgland...,Edmonton..,Jan.,25.1915.
-5,476,1832,3748,1867,43G917,Private....,"Bilsland, William.........   ",Nil ,"Bilsland, Mrs. Grace  ","22 Dungoyne Gdns., Maryhill, Glasgow, Scot.",Scotland..,Edmonton..,Feb.,"17, 1915."
-5,475,1862,3748,1899,4364 IS,Private....,"Bishop, Charles Lcland ",Nil ,"Bishop, J. S   ","Box 4022, Edmonton S., Alta    ",Canada....,Edmonton..,Jan.,18.1915.
-5,476,1894,3748,1928,430006,Private....,"Blackwell, Frank Tingle  ",Nil ,"Blackwell, Mrs    ","Argylc Rd., WcstclifT-on-Sea, Essex, Eng ",England...,Coronation.,Jan.,27.1915.
-5,476,1901,4177,1958,430773,Sergeant...,"Blatchford, Sydney Ernest ","1st Drags..,..","Blatchford, Mrs. F. M..;","130th St. W., Edmonton, Alta......-j ",England...,Edmonton..,Feb.,"6,1915.",.M
-5,476,1952,3030,1987,43GS12,Private....,"Bolton, Leslie William..... ",Territorials...,"Bolton, Mrs. S. A..< ","1 Enmore Villas, St. George’s Rd.| f arnham,",Sur,"'ey,"
-5,3043,1978,3748,2010,,,,,,,England...,Edmonton..,Feb.,"9, 1915."
-5,475,2009,3749,2047,435419,Private....,"Booth, Clarence Done  ",Nil ,"Booth, C...; ","Oddfellows’ Institute, Charlton, Kent, Eng....",England...,Edmonton..,Jnn.,"15, 1915."
-5,475,2039,3749,2077,436779,Private....,"Boss, Alexander.",Territorials...,"Boss, Mrs. M, H....","9 Curry St., Edmonton, Alta..,,(/>vU........",Scotland..,Edmonton..,Feb.,"8, 1915."
-5,475,2068,4189,2106,430.546,Private....,,Nil ,"Bowe, Peter    ","Islay, Alta    <. .VV;   ",U.S.A ,Edmonton..,Jan.,"22, 1915.",Vf.
-5,475,2091,4191,2139,436724,Private....,"Bowerman, David Lloyd.... WM",Territorials...,"Bowerman, George ","25 Anglesea PI., Clifton, Bristol, Eng. ",England...,Edmonton..,Feb.,3. 1915.,-T
-6,602,539,3164,573,,,,Former Corps.,,,Country of
-6,411,690,3670,722,430045,Privato ,"Boyco, Henn   ",Nil.   ,"Boyce, George ","45 Alexandra Rd., Worthing, Sussex, Eng.,,..;.,. ",England.   ,,Jan.,29,1915.
-6,410,721,3670,751,43GQ'j(i,Private ,"Branson, Frederick ",Nil..Y ,"Branson, Alice  ","P.O., Pakan, Alta :....",England ....,Edmonton ,Jan.,4,1915.
-6,411,751,3670,782,430010,Corporal ,,Nil...Vi;;;  ,"Brazil, Mrs                   ","521 Sutherland St., Edmonton, Alta  ............",Canada.... ,Edmonton ,Jan.,4,1915.
-6,411,780,3670,809,437302,,,"NU., ,7,1...... t; ",,,,,14,1915.
-6,410,808,3670,840,439007,,,Nu.r.isi.... ,,,,,1,1915.
-6,411,840,3671,873,430305,Private ,"Brown, VV. It ","Nii..;.,r. ","Brown, G ","Baumber, Horncastle, Lincs., Eng   ",England ,Edmonton ,Jan.,9,1915.
-6,411,866,3671,901,430803,Private ,"Burchell, Wesley  ","Nil...,.:. ","Burchell, James ","Lovett, Alta    ",Canada ,Edmonton ,FCb.,12,1915.
-6,410,902,3671,926,430557,,,,,,,,?n,1915.
-6,411,931,3671,960,437081,,,,"Callander, Mrs. H. M ",,,,3,1915.
-6,410,962,3671,986,430035,,,,,,,,?R,1915.
-6,410,992,3671,1019,430831,,,"Nil....,.,.,.. ",,,,,Feb.,1(1,1915.
-6,409,1022,3672,1046,43G409,,,,,,,,14,1915.
-6,409,1052,3671,1078,430820,,,Nil ,,,,,Feb.,in,1915.
-6,409,1082,3671,1107,43635S,,,Nil ; ,,,,,n,1915.
-6,409,1111,3671,1140,430793,,,,,"10 York St., St. John’s, Nlld ",,,Feb.,8,1915.
-6,409,1138,3670,1168,430012,,,"Nil.., iii;  ",,,,,Jan.,?R,1915.
-6,409,1169,3671,1194,430U70,,,,,,U.S.A ,,Feb.,?n,1015.
-6,409,1199,3671,1224,430352,,,Nil...... ,,,,,11,1915.
-6,408,1227,3671,1256,437054,,,Nil   ,,,,,April,i,1915.
-6,408,1258,3671,1284,430003,,,Nil ,,,,,?7,1915.
-6,408,1288,3671,1312,430285,,,,,,,,8,1915.
-6,408,1318,3672,1342,43G024,,,,,,,,?7,1915.
-6,406,1347,3671,1379,435011,Private ,"Crawford, James ",Nil  ,"Crawford, Mrs. S ..","4 Glasgow Rd., Spring Wells, Blantyre, Lanark, Scot..",Scotland ,Edmonton ,Jan.,20,1915.
-6,408,1377,3672,1409,430071,Private i.,"Daniel, Arthur ",S. A... ; ,"Daniel, Mrs. A  ","Hardisty, Alta   ",,Hardisty ,Jan.,23,1915.
-6,406,1408,3671,1442,437297,Private ,"Davidson, John ",Nil ■  ,"Davisdon, W. M ","23 Chandos Rd., Charlton C. Hardy, Manchester, Eng..",England ,Edmonton......,May,19,1915.
-6,408,1437,3671,1469,430795,Private ,"Davies, Thomas  ",NTii :   :.,"Davies, Mrs. H ","""Girastad,” Pencader, S. Wales.    ",Wales..    ,Edmonton ,Feb.,8,1915.
-6,408,1466,3671,1498,43*3491,Private   ,"Davis, William Henry. .A........","Nil....:.-, ","Davis, Mrs. M ","Sion, Alta     ",England ,Edmonton ,Jan.,19,1915.
-6,408,1496,3671,1528,430772,Private   ,"Denley, Frederick    ",Nil   ,"Denley, Mrs ","14 Baker St., Pellon Lane, Halifax, Yorks, Eng   ",Eupland ,Edmonton ,Feb.,6,1915.
-6,408,1527,3671,1558,437010,Privato ,"Dennis, Frederick    ",R.C.D   ,"Dennis, Mrs. Emily ","10G22, 112tli St., Edmonton, Alta    ",Ireland ,Edmonton ,Mar.,1,1915.
-6,408,1556,3672,1587,430290,Private   ,"Distumal, Clifford Arthur ",Nil.... ;.....,"Disturnal, F > ","Sedgewick, Alta ",England    ,Edmonton......,Jan.,y,1915.
-6,408,1587,3672,1614,430034,,,Nil,,,,,Jan.,4,1915.
-6,407,1616,3672,1646,430490,,,,,"Mornington Store, Dunedin, N.Z ",New Zealand...,,Jan.,19,1915.
-6,407,1640,3671,1676,430451,,,Nil .;.,,"19 Queens Ave., Barton-on-Humber, Lincs. Eng ",,,Jan.,18,1915.
-6,407,1675,3671,1707,430707,Private ,"Duguid, Frank Morlev ","Nil..,....;..  ","Duguid, Mrs. J ... ","527, 1st Ave., N.E., Edmonton, S., Alta   ",Canada   ,Edmonton ,Feb.,1,1915.
-6,407,1704,3672,1736,430501,Private.... ,"Duke, Albert Ernest ",Nil....:..  ,"Duke, Francis         ","Dyke Parade, Cork, Iro  , ",Ireland i..,Edmonton......,Jan.,20,1915.
-6,407,1733,3672,1766,430949,Privato ,"Duncan, Charles ",Nil....:.:... ,"Duncan, Mrs. M. J.i ","e/o H. Howes, Polieo Station, Edmonton, Alta. ",Scotland ,Edmonton ,Feb.,18,1915.
-6,407,1763,3672,1795,430401,Private..'. ,"Duncan, William W'arren ",Nfl.......,"Duncan, S. W...... i ","Salisbury, Westmoreland Co., N.B   ",Canada ,Edmonton ,Jan.,18,1915.
-6,407,1793,3672,1826,4370-11,Private ,"Dunning, Hiram ",Nil.........  ,"Felix, Mrs. E....    ","West Plains, Mo., U.S.A   ",U.S.A.. ,Edmonton ,Mar.,20,1915.
-6,407,1823,3671,1853,430047,,,Nil,,,,,Jan.,V»,1915.
-6,407,1852,3671,1888,430380,Private ,"Edmond, Geoffrey Powell  ",Nil.'.-....I: ,"Edmond, Dr ","Seymore House, Tctnea, Devon, Eng ......",England  ,Edmonton ,Jan.,13,1015.
-6,407,1882,3672,1916,430-152,Private ,"Brskino, Robert  ",Territorials  ,"Erskine, Andrew ","Shires Mill, New Mills. Derby, Eng  ..........",Scotland........,Edmonton......,Jnn.,18,1915.
-6,407,1910,3672,1946,430555,Private ,"Evans, Thomas Llewellyn ",NU..,"Evans, James.   ","Ravei Llaullwchairn, nr. Nowtown, Wales.., ",Wales ,Edmonton......,Jan.,n,1915.
-6,409,1940,3671,1976,430774,Privato.....-:..;..,"Eves, Charles    ",Nil............,"Eves, Mrs. M  ","10322, 108th St., Edmonton, Alta.....",England  ,"Edmonton...,:.",Feb.,6,1015.
-6,408,1967,3671,2005,43GCG8,Private ,"Fairbairn, Wilbert I^onard.......","Nil.......:;.;:..,'....","Fairbairn, Mrs. W. E    ","Coronation, Alta      .",Canada   ,Coronation. .*...,Jan.,‘H,1015.
-6,407,1998,3670,2034,430511,Privato ,"Fawcett, Rhodes    ",Territorials...........,"Fawcett, Eliznbeth    ","Cor. Fourth & Columbia Aves., Edmonton, Alta......",England........,"Edmonton..,,",Jnn.,20,1915.
-6,408,2027,3671,2063,43G725,Private.........,"Fazan, Gordon  ",NU ,"Fazari, Daniel  ","52 Perryn Rd., East Acton, London, Eng.",England........,Edmonton ,Feb.,3,1915.
-6,408,2056,3671,2094,43GS32,Private / ,"Ferguson, Archie. :....",Territorials  ,"Ferguson, M....  .............","Devillo, Alto ",Scotland.......,Edmonton......,Feb.,10,1915.
-6,407,2087,3671,2124,430700,Privato ,"Fletcher, Joseph ",Nil   ,"Fletcher, Mrs. Mary A.","Gen. Del., W. Edmonton, Alta ",England........,Edmonton ,Feb.,I,1915.
-6,3458,2116,3672,2140,,,,,,,,,Uan.,18,1915.
-6,406,2123,2134,2153,436458,Private ,"Flowers, Pcrcy Frederick",Nil...'..,"Flowers, Mrs. P. F.   "
-7,445,246,3705,280,436439,Private..,"Ford, Herbert.'.   ","Nil..;..,.:  ","Ford, Mrs. Mary   ","Leaman, Alta....      :      ",England...,Edmonton..,"Jan. 18,1915."
-7,445,277,3704,311,430059,Private..,"Fountaine, Frank     ",Nil  ,"Fountains, Thomas S ","Groat Buckhill, Bletcliley, Bucks, Eng ",England...,Edmonton..,"Jnn. 29, 1915."
-7,444,308,3705,342,435317,Private..,"Fowler, William George ",Nil  ,"Fowler, Mrs    ","28 Atterby Terr., Newtown, Stockton-on-Teos, Eng..",England...,Edmonton..,"Jnn. 9, 1915."
-7,444,338,3705,373,436026,Private..,"Fowlie, James.   ",Nil ,"Fowlio, Frank  ","Gamrio, Banff, Scot   ",Scotland..,Edmonton..,"Jan. 4, 1915."
-7,445,367,3704,403,43G052,Private..,"For, Thomas ",Nil   ,"Scrivcn, Mrs. E   ","Beaumaris, Muskoka Lakes, Ont.   ",England...,"Edmonton..,","Tnn. 4, 1915."
-7,444,397,3704,433,430770,Private..,"Fraser, Simon Alexander....",Nil... i   ,"Fraser, Mrs. I ","587 Bcrasford Ave., Winnipeg, Man.    ",Canada....,Edmonton...,"Feb. 6, 1915."
-7,444,424,3703,462,430572,Private..,"Gill, Percy Reginald........,",Nil ,"Gill, Joseph Robert   ","Great Yarmouth, Norfolk, Eng. ,...",England...,"Edmonton..,","Jan. 25, 1915."
-7,444,456,3703,494,437062,Private..,"Goode, Alfred   ","Imp, Forces ....","Goode, Mrs. E...   ","413 Astley St., Dukinfield, Cheshire, Eng..:,........,",England...,Edmonton...,"April 6, 1915."
-7,444,482,3702,522,436830,Private..,"Goodland, George.","Nil.,..  ","Koarlo, Mrs. T.   ","8 High St., Maesteg, Glam, S. Wales.",England...,Edmonton...,"Feb. 10, 1915."
-7,443,515,3702,552,437411,Private..,"Good land, Herbert Victor..,","Nil...., ","Goodland, J.  .. .","Scott’s Farm, IIton, Ilminster, Somersot, Eng.. Lv.:...,",England...,Edmonton...,"Juno 15, 1915."
-7,443,545,3702,581,430962,Private..,"Goodwin, Albert Ernest.....",Nil.,"Goodwin, Charles  ","0 Tudor Terr., Aberdare, Glam, S. Wales....j",England...,Edmonton...,"Feb, 19, 1915."
-7,443,574,3702,612,436660,Privato..,"Gordon, Clarence Earle.:....",Nil ,"Gordon, W. H  ","12210, 95a St., Edmonton, Alta  ","Canada...,",Edmonton..:,"Jan. 29, 1915."
-7,443,603,3702,643,436476.,Private..,"Gould, Leonard Oliver .,",Nil....... ,"Gould, Edgar O;","97 Dickinson St., Rochester, N.Y., U.S.A.,.i.,",Canada....,Edmonton...,"Jan. 19, 1915."
-7,443,634,3701,672,430070,Private..,"Greaves, Harry.       ",Nil   ,"Greaves, Mrs............ r. f...","Pembina Coal Co., Evansburgh, Alta.England",,Edmonton...,"Jnn. 29, 1915."
-7,442,664,3702,702,430386,Privato..,"Grey, James Lockerbie ",Nil......;  ,"Grey, James ","Great West Coal Mine, Clover Bar, Alta..,",Scotland...,Edmonton...,"Jan. 13, 1915."
-7,441,694,3701,738,436594,Private..,"Guthrie, George     ",Nil   ,"Guthrio, Mrs. W. D.... ","Coronation, Alta..'....  ;",Scotland. ..,Hardisty....,"Jan. 23, 1915."
-7,441,721,3701,761,436665,Private..,"Guthrie, William Dyce. ",Nil..   ,"Guthrie, Mrs........ .......","Coronation, Alta  ",Scotland...,Coronation. .,"Jan. 27, 1915."
-7,441,752,3701,792,430934,Private..,"Haining, Robert ",Territorials........,"Haining, Mrs. Georgina ","9263, 110th Ave., Edmonton, Alta....................",England ,Edmonton...,"Feb. 18, 1915."
-7,440,781,3701,821,436888,Private..,"Hamilton, Duncan....... ",Territorials... ,"Hamilton, Thomas.  ","Flush Farm, Campbeltown, Argyll, Scot., ......",Scotland...,Edmonton...,"Feb. 15, 1915."
-7,439,812,3701,850,436596,Private...,"Hardy, Robert   ",Nil    ,"Swift, S.   ","Minburn, Alta.   ",England....,Edmonton...,"Jan. 25, 1915."
-7,439,841,3701,879,436908,Privato..,"Hayman, Edgar Charles..,.",Nil ,"Hayman, Mrs. E. E,    ","71 Sabino St., Lavonder Hill, London, Eng.    ","England..,,","Edmonton..,","Feb. 16, 1915."
-7,439,868,3701,909,435157,"Privato..,","Heaps, Edward  ",Nil  ,"Heaps, Mrs   i......,","400 Cameron Rd., Edmonton S., Alta.     ","England...,",Edmonton...,"Jan. 18, 1915."
-7,439,889,3702,937,430538,"Private..,","Heaps, Thomas ..",Nit  ,"Heaps, Robert   ■.......,","Inglcton, Yorks, Eng...... .Y.\.",England,Edmonton...,"Jan. 21, 1015."
-7,439,928,3701,966,436850,Private..,"Heron, Albert Ernest.   ",C.A.M.C  ,"Heron, Mrs. Thomas.   ","16 Alcina Avo., Toronto, Ont. i.  ",Canada ,Edmonton...,"Feb. It, 1915."
-7,438,957,3701,995,43674G,"Private..,","Hill, Charles ",NU  ,"Hill, Mrs. A ","Bradford, Yorks, Eng............... r:...........","England.,.,",Edmonton...,"Feb. 4, 1915."
-7,438,987,3702,1024,430633,Private...,"Hodgson, Thomas  ",Imp. Forces ,"Wilbraham, Mrs..  ","Mount Pleasant, Derrington, Stafford, Eng...........","England..,,",Edmonton...,"Jan. 28, 1915."
-7,438,1015,3702,1052,436979,"Private..,","Hood, Jesse, William   ",Nil ,"Howl, F   ","11321, 66th St., Edmonton, Alta.,.., ","England.,,","F.dmonton,.,","Feb. 20, Hi 15."
-7,438,1046,3704,1083,436941,Private...,"Hume, James Peter..., ",Nil ,"Cummings, Mrs. Marion ","M»x-.vcllhcugh, Kclso-on-Twced, Roxburgh, Scot....","Scotland.,,","Edmonton,.,","l nl>, IH, llllli."
-7,438,1076,3704,1111,436433,Corporal.,"Humphreys, James Francis..",Territorials........,"Humphreys, Hairy James.....","Bull Inn, Bentley, Farnham, Surrey, Eng  ",England...,Kdmonton...,".Inn. 18, 1016."
-7,440,1105,3705,1139,436809,Private..,"Hunter, Alexander ",Nil.. ,"Hunter, Mrs. David  ","6 Viewforth Terr., Edinburgh, Scot.             ","Scollnnd..,","Edmonton..,","Feb, 9. 1915."
-7,440,1134,3806,1168,436811,Privato..,"Hunter, Frederick Valentine.",TerritAials ,Hunter. Mrs. D. A   ,"253 Columbia Avo., Edmonton, Alta ’. ",England...,Edmonton...,"Feb. 9,1915.'"
-7,439,1165,3706,1199,436579,Private..,"Hutchins, George   ",Territorials ,"Hutchins, Mrs. G ","46 Marborough Rd., Leicester, Eng. ",England...,Edmonton..,"Jnn. 25, 1915."
-7,440,1198,3708,1229,436911,Private..,"Jacklin, Lemuel  .. ",Nil ,"Jacklin, Mrs. L  ","11927 King St., Edmonton, Alta '.  ",Canada ,Edmonton..,"Feb. 16, 1915."
-7,440,1227,3706,1259,436588,Private..,"■Jackson, Clement Stuart ",Nil   ,"Jackson, Mrs ","148 Chatham St., Liverpool, Eng. ",England...,Camrose ,"Jan. 22, 1915."
-7,441,1257,3705,1289,436733,Private..,"Jackson, Hugh.i ",Nil   ,"Jackson, Hugh ,  ","83 Cheviot Ave., Strand town, Belfast, Ire.,,,»,,.","treland...,",Edmonton..,"F«»b. 3, 1915."
-7,545,1286,3711,1317,,PriTs'e..,"Js/tksva, Th<rma3 ,..",Nil.    ,,,,Jvlm'mvnv .,ton. n. 1915.-
-7,444,1310,3711,1346,436-539,Private..,"Jones, Cecil   ",Can. Mil.......,"Jones, II...,..,  ","Id lhn/1 Hi., V'iiVh, Vrfiv,,,,,,,,...• ■.","/ '/V/1«/.v, t f",IMWWt. ■,hK: ?!>!*'?.•
-7,445,1337,3712,1376,436986,Private..,"Jones, Ellis  ",Nil ;,"Jones, Mrs. E. C     ","Biymlerwyn, Grove Park, West Col wyn Bay, N. Wales.","Wales.,,..","1‘Am‘jnOtn,.",,"w, mo."
-7,445,1363,3714,1405,437050,Private..,"Jones, John Evan L..",90th Regt.........,".lones, Mrs. H, ","Llanvetherinc, Monmouth, Wales... rf-i   ",Wales.....,"Edmonton.,","April 1, 1915."
-7,446,1397,3713,1435,436527,Private..,"Jones, Joshua Thomas  ",Nil ,"Davis, Mrs. M  ","Rhydlewis, Sarnau, Honllan, Cardigan, Wales.........",Wales.....,Edmonton..,"Jan. 20, 1915."
-7,445,1425,3714,1465,436646,Private..,"Keogh, Calmar ",Nil ,"Keogh, W. O    ","P.O., Loduc, Alta   r. i ..",Canada ,Edmonton..,"Jan. 29, 1915."
-7,445,1455,3715,1495,436015,Private..,"Keogh, Dermot Patrick....",Nil  ,"Keogh, W. O   ","P.O., Loduc, Alta.   •*,;».,  ",Canada ,Edmonton..,"Jan. 4, 1B15."
-7,445,1484,3715,1524,436507,Privato..,"Kerr, Alexander ",Nil   ,"Kerr, Mrs. A   ",Not known  ....' ,Scotland..,Edmonton..,"Jnn. 20, 1915."
-7,444,1513,3714,1553,436522,Privato..,"Kerr, John   ",Nil...... ,"Kerr, Alexander ","Dennyloanhcad, Stirling, Scot.... i,.-...   ",Scotland..,Edmonton..,"Jnn. 20, 1915."
-7,441,1540,3715,1582,-437310,Private..,"Keyes, John Sherman ",Nil  ,"Keyes, Mrs. John.   ","Woodbridge, Ont   ..'..:.i  ",Canada....,Edmonton..,"Mny 21, 1915."
-7,444,1571,3716,1612,436711,Private..,"King, George Robson ",Nil   ,"King, Mrs. Ada J   i.","2674, 80th St., Dcllon, Edmonton, Alta  ","Scotland. ,",Edmonton..,"Feb. 2,1915."
-7,445,1600,3715,1641,437194,Private..,"ICinnior, Hugh Sterling....,",Nil    ,"Kinnier, Lieut. D. R  ","Craigollachie, Devonshire Park, Birkenhead, Eng ",England...,Edmonton..,"Mny 7, 1915."
-7,445,1629,3715,1669,436920,Private..,"Kinsman, James ",Nil..... :,"Kinsman, Mrs. Annio  ","9527 Currie St., Edmonton, Alta.., v; i    ",Scotland..,Edmonton..,"Feb. 17, 1915."
-7,444,1659,3715,1698,437050,Private..,"Kirk, James Coleman ",S.A  ,"Kirk, Normna ..;.","Antrim, Co. Antrim, Ire.    r;V, ;  ",Ireland..,Edmonton..,"April 1,1915."
-7,445,1688,3716,1727,430.554,Private..,"Laffinere, Alexander ",NU   ,"Laffinero, Isaac ","North Cobalt, Ont  . < .i.. ",Canada....,Edmonton..,"Jnn. 22, 1915."
-7,444,1720,2996,1758,437251,Private..,"Langton, Frank ",Nil  ,"Langton, Alico J   ","“Dufdue,"" Hanger Lano, Ealing Common, London, W„"
-7,2252,1745,3716,1781,,,,,,Eng !U   ,"England..,",Edmonton.,May,"17, 1915."
-7,445,1775,3717,1816,436618,Private..,"Lefeaux, Edgar ",Nil.....   ,"Lefeaux, J. W      ","6 The Gardens, Tilbury, Essex, Eng, k.i ",England...,Edmonton.,Jnn.,"27,1915."
-7,446,1806,3717,1848,430297,Corporal.,"Leipcr, Charles WUliam.",Nil  ,"Lutloy, Mrs. J. B ; ","Toronto, Ont .:   ",Scotland..,Edmonton.,Jnn.,"9, 1915."
-7,444,1835,3716,1876,437195,Private..,"Lewis, Roger  ",Nil ,"Lewis, Alfred  ","Bradley Farm, Bourton. Salop, Eng.,     ",England...,Edmonton.,May,"7, 1915."
-7,445,1865,3717,1905,436484,Private..,"Little, Noel William   ",NU ,"Little, Thomas W ","Ilolmgarth, Menston-in-Wharfcdale, Ijocds, Yorks, Eng.","England..,",Edmonton.,Jan.,"19, 1915."
-7,446,1895,3718,1934,436529,Private..,"London, John Wilson ",Royal Navy.,"London, E. R.:....  ","Box 29, Loughcod, Alta     ;","England..,",Loughced..,Jan.,"18, 1915."
-7,445,1925,3717,1964,436694,Private..,"Lowe, John Robert    i.",Nil ,"Low e, Mary A ","Red Deer, Alta  ",U.S.A ,Edmonton.,Jan.,"30, 1915."
-7,446,1954,3717,1995,436S02,Private..,"MacDonald, Hugh   ",Nil   ,"MacDonald, Mrs. D. R........","R.R. No. 2, Cornwall, Ont  ","Canada...,",Edmonton.,Feb.,"8, 1915."
-7,446,1983,3719,2024,436564,Privato..,"Macintosh, John...      ",Nil   ,"Macintosh, J.      ","Aberfoldy, Perth, Scot ",Scotland..,. Edmonton.,Jnn.,"22, 1915."
-8,56,570,3206,602,i,.ES5,Rank.,,Former Corps.,,,Country of
-8,41,651,3702,753,m,437-14!,Private..,"MacKay, Alick ",Nil.... ...,"MacKay, Mrs. Grace.","Tain, Ross, Scot '.....  ",Scotland..,Edmonton ,June,1915
-8,450,750,3711,783,,43703S,Corporal.,"MacICintosh, William E. C ",31st Regt ,"MacICintosh, WUliam.","Mannville, Alta.    ",Scotland..,Edmonton ,Mar.,1915.
-8,450,780,3711,813,,430728,Private..,"MaeLean, Kenneth ",Territorials.......,"MaeLean, Mrs. A ","1904, 70th St., Edmonton, Alta..,.'.",Scotland..,Edmonton ,Feb.,1915.
-8,449,811,3711,843,,430707,Private..,"MacNaughton, John.  ",103rd Regt.   ,"Gillies, Mrs. M ","Brodick, Arran, Scot    ",Scotland..,Edmonton ,Feb.,1915.
-8,450,842,3711,880,,437030,Private..,"Mandcvillc, Frank Burton....^ ,.",O.T.C. Eng ,"Mandoville, H. M ","54 Castlenau, Barnes, London, Eng ",England...,Edmonton ,Mar.,1915.
-8,56,867,3712,905,i...,430422,Private..,"Manton, Walter Frederick.... MPi","Nil.,.:  ","Manton, George A....","Heaton Moor, Alta       ",England...,Edmonton ,Jan.,1915.
-8,450,901,3711,935,,4304-10,Private..,"Martin, Arthur Howard ,,,.","Nil.:,'...'. ","Martin, Mrs. A. H....","9500, GOth Ave., Edmonton, S., Alta.  ",England...,Edmonton ,Jan.,1915.
-8,450,926,3711,963,,4305S2,Sergeant.,"Martin, William Patrick MM","Royal Navy....,.","Martin, M.  ",2nd Dragoon Guards   ,Ireland ,Camrose ,Jan.,1915.
-8,450,962,3712,993,,430030,Private..,"McAra, John Cameron ",Territorials   ,"•McAra, Peter  ","Chailey, Alta ,.,  ",Scotland..,Edmonton ,Jan.,1815.
-8,450,991,3712,1023,,430938,Private..,"McBain, Alexander ",Territorials ,"McBain, Mrs. M ","33 Brunswick Terr., Brighton, Eng. ",Scotland..,Edmonton......,Feb.,1915.
-8,450,1021,3712,1053,,430030,Private..,"McBratney, Robert ",Can. Mil.... ,"McBratney, Mrs. R...","60, 5th St. N.E., Edmonton S., Alta ",Ireland ,Edmouton.,Jan.,1915.
-8,449,1050,3712,1082,,430489,Private..,"McCardic, Frederick Charles",77 th Regt ,"McCardle, William A.","Assiniboia, Sask   ",England...,Edmonton ,Jan.,1915.
-8,449,1080,3711,1112,,43G8G6,Private..,"McFadycn, John ",Nil:.;. ,"MUlur, Mrs. Mary ","Finnery Cottage, Caldarvan, Dumbarton, Scot..",Scotland..,Edmonton ,Feb.,1916.
-8,450,1107,3711,1142,,43075-1,Private..,"McGonigal, J  ","Nil.,.;.... ...","McGonigal, Mrs. J....","28 Main St., Bainsford, Falkirk, Stirling, Scot...",Scotland..,Edmonton ,Feb.,1915.
-8,450,1134,3710,1172,,435022,Private..,"McGregor, Peter Alexander.,","Nil.',’.-.-  ","McGregor, Andrew...","Pibroch, Alta        ",Scotland..,Edmonton ,Jan.,1915.
-8,449,1168,3710,1200,,430930,Private..,"McGregor, William  ",Territorials ,"McGrogor, Mrs. K....","337 Sinclair St., Edmonton, Alta  ",Scotland..,Edmonton ,Feb.,1915.
-8,450,1197,3710,1230,,430023,Private..,"McIntosh, James .•  ","Nil..., ","McIntosh, John ","Toininthold Farm, Aberfeldie, Perth, Scot......",Scotland..,Edmonton ,Jan.,1915.
-8,50,1227,3710,1260,:!•.. .,430919,Private..,"McMillan, John Duncan......",Nil.-*..;. ,"McMillan, D. A ","Vankleek Hill, Ont     ",Canada....,Edmonton ,Feb.,1915.
-8,450,1257,3819,1295,,437203,Private..,"McPherson, Dan Campbell",Can. Mil....' ,"McPherson, J. R ","McLellan’s Brook, Pictou, N.S . v..",Canada....,Edmonton ,May,1015.
-8,450,1287,3818,1320,,430080,Private..,"McWiUiam, John... ",Nil ,"McWUliam, Alexander","Kirkbean, Dumfries, Soot    ",Scotland..,Holden ,Jan.,1915.
-8,449,1316,3712,1356,,437401,Corporal.,"Messum, Sydney Arthur...",Imp. Forces ,"Messum, Sergeant Fre","Army Pay Corps, Pictermaritzburg^S.A ",England...,Edmonton ,June,1915.
-8,449,1341,3712,1379,,437039,Private..,"Miller, Albert Edward  ",S. A  ,"Miller, Mrs. Lotta ","278 Hamilton Ave., Edmonton, Alta.     ",Canada....,Edmonton......,Mar.,1915.
-8,449,1377,3712,1410,,430834,Private..,"Miller, David ",Nil  ,"Miller, R ; ","164 Pinckston Rd., Townhead, Glasgow, Scot...",Scotland..,Edmonton ,Feb.,1915.
-8,449,1406,3712,1440,,430840,Privato..,"Miller, Henry Genhart ","Nil.*.;.,;.'...... ","Miller, Peter ","Nevis, Alta ;   ",U.S.A ,Edmonton ,Feb.,1915.
-8,448,1433,3712,1470,,436533,Sergeant.,"Mitchell, Albert Stanley ",Nil ,"Mitchcll, Chr.rlca ","440, 8th Ave., N.E., Edmonton, Alta...........",England...,Edmonton ,Jan.,1915.
-8,55,1436,3712,1505,! 5 ■' ■.,430014,Privato..,"Mitchcll, Frank F  ",Nil.:..;'....v.......,"Mitchell, Daisy A....","Edgorton, Alta      ",Malta ,Wainwright.....,Jan.,1915.
-8,448,1495,3713,1530,,43G69G,Private..,"Money, Charles Edward..,..",30th Regt.,"Morris, Edgar      ","38 Wilson St., Edmonton, Alta.     ",England...,Edmonton ,Feb.,1915.
-8,447,1526,3712,1560,,43G049,Private..,"Monypenny, John ",Nil.. ,"Monypenny, Brockett.","Cooking Lake, Alta :        ",England...,Edmonton......,Jan.,1915.
-8,447,1556,3713,1590,,43G042,Private..,"Morton, Albert   ",nu..:;   ,"Morton, George J ","110 Kennedy Rd., Barking, Essex, Eng.  ",England...,Edmonton ,Feb.,1915.
-8,447,1585,3713,1620,,430020,Private..,"Murray, Christopher Desmond....","Nil.,,,.. ","Murray, R. C. .!• ","Lightwood, Konley, Surroy, Eng  ","England..,",Edmonton ,Jan.,1915.
-8,52,1615,3713,1656,4 » • i :,430201,Private..,"Nelson, John Arthur ","Nil..;,.;.: •....","Nelson, Mrs. A. ","0620 Rupert St., Strathcona, Alta,   ",England.:.,Edmonton ,Jan.,1915.
-8,446,1643,3713,1678,,430889,Private..,"Newport, Allan Graham ","Territorials......,.","Newport, William.....","Glencoe, Ont    :.",Canada ,Edmonton ,Feb.,1915.
-8,447,1673,3713,1711,,430775,Private..,"Newport, Gordon   ",Nil  ,"Newport, W'Uliam....",Giencoe. Ont    v ,Canada....,Edmonton ,Feb.,1915.
-8,47,1649,3713,1745,j. ',430700:,Private..,"Olson, Axel .; ",Can. Mil ,"Anderson, O  ","Yomb, Webcrod, Sweden ",Sweden....,Edmonton ,Feb.,1915.
-8,52,1728,3713,1769,4,436844,Private...,"Ormerod, Doctor Young ","19th Regt......,.,","Ormerod, Georgo You","Manchester, Eng     ............  ",England...,Edmonton ,Feb.,1915.
-8,447,1763,3713,1798,,430S40,Private..,"Ott'cn, Richard Jones ",Nil ,"Owen, William.  ","“Gwindy,"" Portmadoe, Carnarvon, N. Wales...",Wale ,Edmonton ,Feb.,1915.
-8,447,1794,3713,1829,,437410,Private...,"Palmer, Charles William ",Nil..... ,"Palmer, Fredorick....","11322, 86th St., Edmonton, Alta ",England...,Edmonton ,June,1915.
-8,446,1824,3713,1859,,43G748,Private..,"Palmer, George Percival.....",NU   ,"Palmer, John ","Walcote, Norwich, Eng   ",England...,Edmonton......,Feb.,1915.
-8,446,1855,3713,1889,,436510,Private..,"Paterson, Patrick  ",Nil  ,"Paterson, H   ","230 High St., Belfast, Ire  ",Ireland....,Edmonton ,Jan.,1915.
-8,446,1885,3712,1920,,436S48,"Private..,","Peake, Samuel Scrag  ",NU...... ,"Nicholson, H  ","372 Stockport Rd., Revelshcino, Manchester, Eng",England...,Edmonton ,Feb.,1915.
-8,446,1914,3712,1953,,430638,Private..,"Phillips, David   ","Nil...', ","Phillips, William......","P.O. Box 584, Edmonton, Alta  ",Wales ,Edmonton ,Jan.,1915.
-8,446,1943,3703,1982,,436199,"Private..,","Potter, Richard Charles..... ruTl","Nil..:,","Potter, Richard......","21 Waddon lid., Croydon, Surrey, Eng.......",England...,Edmonton......,Jan.,1915
-8,50,1977,2986,2008,t ',430783,"Private..,","Preisig, Charles   ",NU..,"Preisig, Mrs. N.","Blakomore ViUa, Blakemore Ra., Streatham,",Su,irrey
-8,48,2001,3712,2034,i -,,i,,,,,"England.,.","Edmonton.,.....",Fob. 8,1915.
-8,50,2009,3712,2066,i,430000,"Private..,","Rabbich, Edward D ",NU....;.....-:..;..,"Rabbich, Ernest John",Tofieid* Aita!II”!!”!!.!!”,Canada....,Tofield..,Jan. 29,1915.
-8,445,2060,3713,2095,,438502,Private...,RadoliiTe. Joseph ,"Nil....;...,.,..;,.","Radcliffo, G. It.......","Corwhin, Ont..:.    ",Canada....,Edmonton ,Jnn. 22,1916.
-8,446,2089,3713,2124,,430757,Private...,"Ralter, George   ","nu.,..:......:;...","Rafter, John  ","Ballyfin, Queens Co., Ire.",Ireland....,Edmonton ,Feb. 5,1915.
-8,445,2118,3713,2154,,436528,Private...,"Rathier, Emile  ",NU   ,"Geoffrey, Mrs. .......","St. Georges, p.q. ..........",Canada....,Edmonton ,Jan. 20,1915.
-8,445,2148,3714,2184,,436301,Private...,"Reid, John : ",Territorials..; ,"Reid, Mrs. M ","3 George St., Peebles, Scot.,.  ",Scotland..,Edmonton ,Jan. 9,1915.
-9,454,232,3706,265,430576,Private.,"Rennie, William Gall.....",101st Regt.,"Rennie, Alexander ","342 Fraser Ave., Edmonton, Alta  :  ",Scotland...,Edmcntorv ,Jan.,1915.
-9,454,263,3705,297,436143,Privato.,"Roberts, David Oswald..",Nil ,"Roberts, D   ","8543 Whyte Ave. E., St.raxhcona, Edmonton S., Alta...",Wales ,Edmonton ,Jan.,1915.
-9,454,294,3705,328,430561,Private.,"Roberts, Robert  ","Nil.....,.;.","Roberts, Robert ","Caolaidd, Llanfairfcchan, Carnarvon, N. Wales    ",Wales......,Edmonton. ,Jan.,1915.
-9,453,325,3705,360,430913,Private.,"Roberts, Thomas ",NU ,"Roberts, Hugh.. ","6 Llewollyn Terr., Gian Conway, Denbigh, Wales ",Wales ,Edmonton......,Feb.,1015.
-9,452,357,3704,389,437306,Privato.,"Rochon, Joseph ",Nil ,"Rochon, Mrs. Elise","145 First St., Edmonton, Alta  ",U.S.A......,Edmonton  ,Juno,1915.
-9,452,386,3704,420,430727,Privato.,"Ross, James     ",Nil ,"Ross, John   ","Aughinsillagh, Derry, Ire   ",Ireland ,Edmonton.../..,Feb.,1915.
-9,451,415,2983,450,430637,Private.,"RoBser, David William...",Nil ,"Rosser, Mrs. Martha","5 Bryn Henley Terr., 4; Porth, Rhondda Valloy, S"
-9,2248,449,3704,476,,,,,,Wales         ,Wales ,Edmonton...'...,Jan.,1915.
-9,451,476,3704,510,430935,Private..,"Rowe, Thomas Hcrotvard........",Nil  ,"Rowe, Simeon.......","Blackwater, Hants, Eng...........,..;!,....... ",England....,Edmonton......,Feb.,1915.
-9,451,506,3704,541,430259,Sergeant.,"Ruflell, Albert.  ","101st Regt....;. ,.","Ruffell, A    ","Roseville, Waihinville Rd., Guildford, Surrey, Eng....",England....,Edmonton ,•Tan.,1915.
-9,449,534,3705,571,430181,Corporal.,"Rule, John    ",Nil.. ,"Rule, Mrs. L. .  ;","Grinden Terr., Whitley Bay, Northumberland, Eng. .",England....,Edmonton.;....,Jan.,1915.
-9,449,566,3704,600,430473,Privato...,"Saker, James.     ",Territorials...'........,"Saker, Mrs. J.   ","11516, 72nd St., Edmonton, Alta.....;   ",England....,Edmonton. ,Jan.,1915.
-9,449,596,3704,631,430632,Corporal.,"Salmon, Robert Swaine.....t.,...",Nil ,"Salmon, Robert Henry","116 Sunnyhill Rd., Streatham, London, Eng......",England ,Edmonton......,Jan.,1915.
-9,449,628,3704,660,437040,Private...,"Shaw, Lester Warren",Nil................,"Shaw, F. M ","Walden, Vt., U.S.A     ",U.S.A ,Edmonton......,Mar.,1915.
-9,449,658,3703,691,430294,Private...,"Shearer, James......... 11........",Nil..,"Shearer, Jessie..,......","18 Robinson St., Greenock, Soot.    ",Scotland...,Edmonton ,Jan.,1915.
-9,449,687,2986,722,430001:,Private...,"Silcock, Richard ....... .V.  ",90th Regt..... . . ..;,"SUcock, Mrs.  ","450 Bolton Rd., Pcndlebury, N. Manchester, Lancs,"
-9,2229,721,3703,751,,,,,,'Eng ;...     ,England....,Edmonton......,Feb.,1915.
-9,448,747,3703,781,430679,"Private ,  ","Simpson, Robert Goulding........",Nil ,"Simpson, George.....","Buck Lake Ranch, Innisfreo, Alta................",England....,Edmonton ,Jan.,1915.
-9,448,777,3703,811,430132,Private ....,"Skelton, William...,  ",Nil  ,"Skelton, Mrs. J ","12S32, 68th St., N. Edmonton, Alta.,.,. ...-.",England....,Edmonton......,Jnn.,1915.
-9,447,806,3702,842,437083,Private ,"Skidmore, Ernest...  ",Nil : ,"Skidmore, Harry S","645, 16th St., I^thbridgo, Alta   ",England....,Edmonton ,May,1915.
-9,448,838,3702,875,437345,Privato.... ,"Skilling, David      ,",16th Regt ,"Goring, Jamos.......","Alexander, Man,,;..'. ....w.... i........",Canada ,Edmonton ,June,1915.
-9,446,863,3702,900,435534,Sergeant.... ,"Slight, Frederick John....., .Mpl",Imp. Foroes ..,"Slight, A. J....,i....",,Eng.,"The Life Boat Arch, Kings Rd., Brighton, Sussex,",England....,Camrose ,Jan.,1915.
-9,446,895,3701,930,436227,"Private., ","Smith, Alan GeOrge   ",Nil ,"Smith, F............","5 Park Row8, Stony Stratford, Eng..............",England....,Edmonton ,Tan.,1915.
-9,445,926,3701,958,430076,Private.... ,"Smith, Clarence V ",Nil  ,"Smith, L. M  ","Ill South Park St., Halifax, N.S....     ",Canada.....,Edmonton i,Jnn.,1015.
-9,445,955,3702,987,430617,Private ,"Smith, George Alfred.......",Nil ,"Smith, Edward ","Pentro, nr. Mold, Flint, N. Wales.......... ",Wales ,Edmonton ,Jan.,1015.
-9,444,981,3702,1019,437351,Private...! ,Stonchowcr. Harry.    MM,"Nil ...,","Stonehewer, Georgo","10 Kirk Rd., Sheffield, Eng..;....",England....,Edmonton ,Juno,1915.
-9,443,1015,3701,1046,430534,Private ,"Stuart, William Laing.",Territorials ,"Stuart, Elizabeth..;.","6 Church St., Huntley, Aberdeen, Scot.  ",Scotland...,Edmonton ,Jnn.,1915.
-9,443,1041,3702,1076,430391,Private ..,"Styles, Charles ",Nil...... ,"Styles, James ","207 Rushmoro Rd., Clapton Park, N.E., London, Eng.",England....,Edmonton ,Jnn.,1915.
-9,442,1073,3701,1105,436015,Private..... ,"Sutton, Cyril Moxey     i;..,",Territorials ,"Sutton, Christina....","11836, 67th St., Edmonton, Alta.., .; : jT: .........",England....,Edmonton ,Jan.,1915.
-9,442,1103,3701,1136,430087,Private..... ,"Sweeney, Myles      ",Nil ,"Sweeney, Daniel ","Munatotton, Co. Donegal, Ire. v.'...7..........",Ireland ,Tofield ,Jan.,1915.
-9,440,1132,3702,1168,436445,Private  ,"Tait, William Young   ",Nil   ,"Tait, J. N .•","4 Sirlie Terr., Dundee, Scot.:   H;:........",Scotland...,Edmonton ,Jan.,1915.
-9,440,1162,3313,1196,436710,Private. I.... ,"Tansley, Herbert Webster ",NU....* ,"Tansley, William ","Sharon, Ont   -..-ivV;.....;.",Canada ,Fort
-9,3279,1194,3702,1220,,,,,,,,Saskatchewan,Jan.,1915.
-9,440,1221,3701,1256,430709,Private ,"Tawse, Charles Forbes.  """,Territorials ,"Tawse, Mrs. M ","337 Sinclair St., Edmonton, Alta..:.7vhi...:...:",Scotland.,Edmonton......,Feb.,1915.
-9,439,1253,3701,1286,436155,Co. Sergt.-Major..,"Tebby, Joseph Charles.... ","Territorials.,.;","Tebby, Mrs. Rose...","11940 Jasper St. W., Edmonton, Alta.   ",England..,Edmonton  ,Jan.,1915.
-9,439,1279,3701,1316,430842,Private ,"Thompson, William ,   ",Nil i. i,"Thompson, George..","Shettlostono, N. Glasgow, Scot ",Scotland.,Edmonton ,Feb.,1915.
-9,439,1313,3701,1346,437452,Private ,"Thomson, William.... ........ ...,",Nil  ,"Kaplin, Isaac ","Calgary, Alta     •",U.S.A....,Edmonton......,June,1915.
-9,438,1340,3702,1376,430540,Private ,"Tomkinson, Georgo William., MM",Royal Navy..,"Tomkinson, Charles","Gladys Villa, Highfield Rd„ Birmingham, Eng..",England..,Edmonton ,Jan.,1915.
-9,438,1368,3702,1404,430014,Private ,"Tourtois, Alfred  ",Nil ,"Brown, Mrs ","Cor. Ottawa & Norris Sts., Edmonton, Alta.....",France...,Edmonton ,Jan.,1915.
-9,438,1400,3702,1435,430425,Private. ,"Turner, William John ",Nil ,"Turner, Mrs. E ","317 ICenncday St., Edmonton, Alta.  \...",Canada...,Edmonton ,Jan.,1915.
-9,438,1431,3702,1465,43700-1,Privato ,"Vaughan, Edgar   ","Nil..., ","Vaughan, W. D ","c/o Stationary Engineers’ Association, Vancouver,",B.C.,"England.,",Edmonton ,Mar.,1915.
-9,438,1458,3702,1494,430969,Private ,"Walker, John     ",Nil ,"Walker, Mrs. E ","Bootle, Liverpool, Eng...;...........i.  ;...",England..,Edmonton ,Feb.,1915.
-9,438,1491,3702,1525,437450,Private ,"Ward, Edward...    ",12th Regt ,"Ward, Joseph ","Kildare, Ire.       ;. i..",Ireland...,"Edmonton....,.",Juno,1915.
-9,438,1521,3703,1554,436689,Privato ,"Ward, Leonard E ",Nil ,"Ward, John ","101 Latchmere Grove, Battersea, London, Eng...",England..,Tofield ,Jan.,1915.
-9,438,1551,3702,1585,437007,Private ,"Ward, Vcm ",95th Regt.....,"Schneider, Mrs. J ","P.O. Box 158, Wilkie, Sask i   ",U.S.A....,Edmonton ,Mar.,1915.
-9,438,1581,3702,1614,430281,Private.....  ,"Waterhouse, L. Arthur   ",Nil ,"Waterhouse, J ","076 Namayo Ave., Edmonton, Alta.: i. ■ ",England..,Edmonton ,Jnn.,1915.
-9,438,1611,3702,1644,430105,Private ,"Wntkins, Evan Robert ",Nil....: ,"Watkins, Georgo.....","Llanerfyl, Welshpool, Montgomery, Wales ",Wales....,Edmonton ,Jnn.,1915.
-9,438,1638,3702,1674,435175,Privato ,"Watson, Earl  ",Nil ,"Watson, W ","635 Syndicate Ave., Edmonton, Alta, riVt.",Canada...,Edmonton ,Jan.,1915.
-9,438,1670,3703,1703,430984,Private ,"Watson, Joshua Dawson... ",Nil  ,"Watson, Thomas H..","210 Morris St., Edmonton, Alta...,; . t’....:..",England..,Edmonton ,Feb.,1016.
-9,439,1700,3703,1733,430558,Private.. ,"Weavers, Frederick Arthur..",Territorials....,"Weavers, Mrs. F. A..","Provost, Alta           ",Englnnd..,Provost ,Jnn.,1015.
-9,438,1727,3702,1763,430851,Privato ,"Webb, Truman Banford ",Nil...; ,"Wobb, Mrs. E. R..,.","10211, 122nd St., Edmonton, Alta.., ,h-$i........",Canada...,Edmonton ,Feb.,1915.
-9,437,1758,3703,1792,430700,Private ,"Weeks, Herbert Edward  ",Nil ,"Weeks, Mrs. E., ","11728 , 85th St., Edmonton, Alta.....,,..,. ",England..,Edmonton ,Feb.,1915.
-9,436,1788,3704,1822,430801,Private ,"Wells, Percy  ",Nil ,"Wells, Mrs. C ","646 Carey St., Edmonton, Alta..... .i.'t.    ",Canada...,Edmonton ,Feb.,1915.
-9,437,1818,3703,1852,430180,Corporal..! » ,"Wells, William.......  ",S.A.....,"Wells, George  ","Ilespeler, Ont   ; ",England..,Edmonton......,Jnn.,1915.
-9,436,1847,3704,1882,430575,Private ,"Weston, Joseph MM",Nil ,"Weston, Miss K ","Nanaimo, B.G ;  ",England..,Edmonton ,Jan.,1915.
-9,435,1877,3703,1911,436286,Private ,"Whitaker, Samuel ",Territorials....,"Whitaker, Mrs. S....","10500, 105t.h St., Edmonton, Alta.   ",England..,Edmonton ,Jnn.,1015.
-9,434,1904,3704,1941,437051,Private ,"White, Georgo Gordon ",Nil ,"White, A  ","277 Union Grove, Aberdeen, Scot;  ",England..,Edmonton ,April,1915.
-9,434,1935,3704,1971,437020,Private ,"Whito, Joseph    ","Imp. Forces,..","White, Mary  ","012 Mulvoy Ave., Fort Rougo, Winnipeg; Man....",Scotland.,Edmonton ,Mar.,1915.
-9,434,1964,3704,1999,436609,Private ,"Whitehead, William ",Nil ,Whitehead. Mrs. M..,"11709, 81st St., Edmonton, Alta  ",England..,Edmonton ,Jan.,1915.
-9,434,1994,3704,2029,436669,Private ,"Wilburn, Mahlon  ",Nil ,"Wilburn, William A..","Contropolifl, Kansas, U.S.A.... ",U.S.A....,Edmonton ,Jan.,1915.
-10,336,611,3088,646,,BY.,,,Former Corps.,,,Country of
-10,336,761,3593,794,,43C8G7,Private ,"Williams, William Rowland",Nil v.v;.,"Williams, Mrs. I...","4 Marion St., Clydach Vale, Rhondda, Glam, Wales",Wales.:..,,Feb.,"12,",1915.
-10,336,791,3593,825,,430865,Private ,"Wills, Stanley Charles...",Nil ,"Wills, Mrs. A......","West End House, Ashburton, Devon, Eng ",Englnnd..,Edmonton ,Feb.,"13,",1915.
-10,335,822,3593,855,,43G553,Private ,"Wilson, James ",lOth Drags;r.'..,"Wilson, Joseph.... .","Coleraine, Derry, Ire ; ..........",Ireland...,Edmonton ,Jan.,"22,",1915.
-10,18,852,3594,884,: r: ■* .. .,410099,Private ,"Wilson, John Morrison...",Nil..  ,"Wilson, Charles ","Station Master, Cullen, Banff, Scot. .  ",Scotland.,Edmonton ,Feb.,"1,",1915.
-10,335,880,3593,915,,430500,Private  ,"Wise, Stanley........","101st Regt.'.:;',"",","Wise, Harry.. .. i..","7 Camden Grovo, Chislehurst, Kent, Eng..;.   ",England..,Edmonton ,Jan.,"20,",1915.
-10,16,911,3594,945,. r' ’ • ....,436590,Private ,"Wood, John      ",Nil.'. ,"Wood, Frank ","Woodstock, Cappoquin, Co. Waterford, Ire..,:.........",Ireland...,Camrose. ,Jan.,"22,",1915.
-10,34,942,3593,974,■ 1 y ‘ ' 1 ■,430041,Private ,"Worton, William ","Territorials.',...","Worton, Edward..,","22 Cradley Rd., Cradley Heath, StaSs, Eng...........",England..,Edmonton.. ....,Jan.,"28,",1915.
-10,19,972,3593,1005,. J . -,43US0G,Privato ,"Wray, Henry ",Imp. Forces: i,"Wray, Mrs. M  ","253 Columbia Avo., Edmonton, Alta ",England..,Edmonton ,Feb.,"8,",1915.
-10,333,998,3593,1035,,437018,Private ,"Yates, Ernest   ",Imp. Foreos. i,"Yates, Thomas ","White Bull Hotel, Longridge, Lancs, Eng....... i. i....",England..,Edmonton ,Mar.,1.,1915.
-10,334,1032,3593,1064,,436424,Privato ,"Yeoman3, Charles..;","Nil ; : ,","Yeomans, Samuel.","Cardiff, Alta.   ",England..,Edmonton ,Jan.,"16,",1915.
-10,333,1062,3593,1095,,436700,Private ,Young. Albert Henry,Nil v.;..,"Young, Mrs ","42 Falconer Rd., Bushey, Herts, Eng.        ",England..,,Feb.,"1,",1915.
-10,7,1263,3595,1299,. .jV,,Lieutenant ,"Mack Jost, Norman Roy.",C.O.T.C   ,"Mack Jost, Mrs. Edith G","20 Welbeck Court, Kensington, London, W., Eng...",England ,Sarcee Camp.,Oct.,29.1915.
-10,335,1293,3702,1329,,437797,Private ,"Banks, Edward ",Imp. Forces.  ,"Banks, Albert ","Arms Hotel, Mare St., Hackney, London, Eng....",England ,Edmonton ,Oct.,"18, 1915."
-10,335,1323,3702,1359,,430316,Private ,"Barrie, George F........",43rd Regt ,"Barrie, Mrs. A ","113 Waverley St., Ottawa, Ont  ",Canada ,Edmonton ,Jan.,"9, 1915."
-10,334,1350,3595,1388,,437283,Private ,"Beet, William ",Nil    ,"Beet, Mrs. Rebecca..,.","14 Sanders Rd., Blackburn, Lancs, Eng....,,, ",England....,Edmonton ,May,"18, 1915."
-10,335,1383,3595,1417,,436684,Private ,"Britton, Gerald ",", Ni! ","Britton, Irvin ","Viking, Alta  ",Canada ,Viking.......,Jan.,"27, 1915."
-10,72,1413,3595,1448,■ - -S- ' -,436523,Private ,"Broomfield, William George",Imp. Forces ,"Broomfield, Mrs. L. E.","North Jaspar Place, Edmonton, Alta  ",England ,Edmonton....,Jan.,"20, 1915."
-10,335,1443,3595,1478,,437301,Private ,"Connolly, James Joseph K.",", S.A ","Guaghty, Mrs. K ","P.O. Box 71, Vegrcville, Alta   ",England.. 1.,Edmonton ,June,"12, 1915."
-10,39,1472,3595,1506,• > - ..,437226,Private ,"Doan, A. Frederick ",. Ni!    ,"Doan, Mrs. Emma ","R.R. No. 2, Tofield, Alta .....,,..",Canada ,Edmonton ,May,"13, 1915."
-10,337,1502,3595,1537,,437185,,"Donnelly, John ","Territorials...,..,,,","Donuellv, Mrs. Theresa","407, 15th Ave., E. Calgary, Alta ",England ,Edmonton ,May,"7, 1915."
-10,336,1529,3594,1568,,437025,Sergeant ,"Fisher, Herbert S.......",". R.N.W.M.P..; . , .","Fisher, William T ","Villiers Rd., Sherwood, Notts, Eng........",England ,Edmonton ,Aug.,"17, 1615."
-10,335,1562,3595,1597,,437524,Private ,"Frazer, John Baptist ",. NU ,"Whitford, Alfred.......","Goodfish Lake, Alta .)",Canada...:.,Edmonton ,Aug.,"14, 1915."
-10,336,1588,3594,1625,,437270,Privato ,"Gill, Gerald Francis.....",. Nil....   ,"Harrington, Mrs ,","Cherry Field, Bath. Larman, Dublin, Ire.",Ireland.....,Edmonton....,May,17.1915.
-10,335,1621,3595,1655,,437419,Private ,"Gunning, John ","105th Regt.:,....","Gunning, Mrs. Charlotte",Belfast. Ire ,Ireland...,Edmonton ,June,"15, 1915."
-10,335,1650,3594,1685,,436714,Private ,"Hanson, Walter Henry...",", 101st Regt..,.....","Hanson, E. L ","Cor. 121st St. & Muskoka Ave., Edmonton, Alta..",Canada..:..,Edmonton....,Feb.,2.1915.
-10,9,1680,3595,1715,-* ■ i : - •,437603,Privato ,"Hardie, Robert L ",Nil  ,"Hardie, William J ","12618. 109th Ave., Edmonton, Alta. ",Canada.....,Edmonton....,Aug.,"23, 1915."
-10,155,1706,3595,1744,,437015,Private ,"Hogan, James P ",Nil  ,"Hogan, Mis3 Celia ","321 Hill St., London, Ont    ..",Canada ,Edmonton ,Aug.,"18, 1915."
-10,9,1739,3596,1774,..<• . .,430912,Private ,"Huxley, James Alexander",. Nil... :....V.. :.....,"Huxley, T. W. H......","Gen. Del., Edmonton, Alta  ..,",Ireland ,Edmonton....,Feb.,"16, 1915."
-10,336,1768,3596,1804,,437873,Private ,"Jones, Albert Edward—",. Royal Navy...,"Jones, Clara Elizabeth.","29 Station St., Barry Dock, S. Wales.... ....",Wales.. ....,Edmonton ,Nov.,"5, 1915."
-10,335,1797,3596,1834,,437793,Private. .,"Kinross, Cecil John ",Nil  ..,"Kinross, James Stirling","Lougheed, Alta    ","England,...",Calgary......,Oct.,21.1915.
-10,335,1827,3596,1866,,437102,Private ,"Leclair, Roger ",", Nil.... ","Leclair, G. L.    ","Quebec, P.Q  ... .v. t!. ",Canada.,Edmonton....,May,"10, 1915."
-10,335,1857,3596,1897,,436900,"Private....., ","Lillis, William ",. Territorials. .....-. .-,"Lillis, Mrs. Mary ","52 Wellington St., Perth, Australia....",Australia...,Edmonton....,Feb.,"15, 1915."
-10,335,1887,3596,1925,,437007,Private : ,Lindsay. James ,NU v.-.v.v..,"Lindsay, Mrs. Catherine","110 Toldbodgate St., Dellminrona, Norway,.,.,,.",Scotland...,Edmonton....,Aug.,"18, 1915."
-10,37,1917,3614,1955,■\ .,437790,Privato  ,"Lockc, Brucc ",". NiL.i,..,,:..;...","Locke, Arthur.. ","Clover Bar Rd., Edmonton, Alta..,,","Canada....,",Edmonton....,Oct.,"15, 1915.."
-10,16,1947,3596,1984,■ ',436143,Private     ,"Marchant, George ",Nil....  ,"Marchant, Florence..,.","128 Cliff St., Edmonton, Alta.",England...,Edmonton....,Jan.,"18, 1915."
-10,335,1976,3596,2013,,437402,"Privato....,1 ","Martin, James ",nu ,"Martin, Robert ","20 Athol St., Belfast, Ire...  »..,. ,••>-.......","Ireland....,",Edmonton....,June,"14, 1915."
-10,10,2004,3596,2046,,,"Private .,.",■ V’,43700S,"Martin, Robert Charles..",Nil... ,"Martin. John...,'..,.....","London, Eng  s’. •, ,,",England...,"Edmonton..,,",April,9.1915.
-10,340,2035,3595,2073,,137310,Private ,"Mathescn, Angus D  ",Nil ,"Matheson, John......,.","Coiling wood w., b.c  ,.; ",Canada ,"Ed inonton..,.",June,"12, 1915."
-10,307,2064,3595,2103,,. 4373U0,Private   ,"Maxiine, Eloy  ","Nil....,..., ..',","Cols:, Mrs.,.....","Fort Saskatchewan, Alta,,,,,","Canada.,...","Edmonton...,",June,"14, 1915."
-10,335,2086,4129,2132,,4370S0,Private ,"McMillan, George  ",Nil ,"McMillan, Angus,......","Cumberland, Ont  i.i.....,","Canada.,.,,","Edmonton..,.",Aug.,24.1915.
-10,334,2123,3595,2161,,437486,Private.' ,"Mitchcll, Arthur ",Nil ,"Rcdford, Mrs. Ruth...","10506,105th St., Edmonton, Alta.I..-...",England ,Calgary....::,July,"29, 1915."
-10,334,2152,3596,2192,,436571,Private   ,"Morin, Joseph Edmond D",Nil  ,"Morin, D. II   ","233 Morris St., Edmonton, Alta....... 1, I.. 1..,,,,",,Edmonton—,Jan.,"23, 1915."
-10,333,2183,3596,2221,,430790,iPrivato... ,"Munro, Murdo   ",Nil  ,"... Munto, J......  ","Point St., Ullapool, Ross, Scot   I.....",Scotland...,Edmonton....,Feb.,"8, 1915."
-11,354,376,3610,410,4373S7 Private  ,"Murchison, Roderick ",,,"ICintail, Kyle of Lochalsh, Ross, Scot.  ",Scotland ,Edmonton...,. June,"14, 1915."
-11,353,407,3611,442,43C552 L.-Sergeant ,"Norris, Arthur ",,,"8739, 92nd Ave., Highland Park, 8. Edmonton, Alta...",England ,Edmonton...,. Jan.,"22, 1916."
-11,730,437,3610,473,,"Oldridge, Eli Thomas  ",Nil  ,,"12441, 85th St., Deltan, Edmonton, Alta ",Channel Isles,Edmonton...,. Jan.,"18, 1915."
-11,2088,467,3611,498,,,,,"485 Commons Rd. S., Edmonton, Alta ",Norway  ,Edmonton...,. May,10.1915.
-11,2906,497,3610,525,,,,,,Canada  ,Edmonton...,Feb.,"17, 1915."
-11,1243,527,3610,557,,,Nil  ,,,England ,"Edmonton.,.",", May",17.1915.
-11,352,557,3611,592,,,Nil Of-i ,43741(j Privato ,"Ross, Joseph   ","Purcell, William  ","Carriok, E. Limavady, Derry, Ire.   ",Ireland ,Edmonton...,June,15. 1915.
-11,351,582,3610,620,,,Nil V... ,436021 Privato ,"Rudd, William   ","Rudd, Mrs. Mary  ","686 Churchill Ave., H.B.R., Edmonton, Alta.","England.....,",Edmonton...,Jan.,27.1915.
-11,351,616,3611,652,,,Nil ; ;V;  ,437090 Privato ,"Schroder, Charles Christopher....","Schroder, Harry..,.   ","Muskegon, Mich., U.S.A     ",U.S.A ,Edmonton...,Aug.,"24, 1915."
-11,351,645,3611,681,,,nu.; ,437235 Private ,"Skcffington, Frank .■...","Skeffington, Peter  ","N. Edmonton, Alta       ",Canada ,Edmonton...,May,"13, 1915."
-11,1242,674,3610,708,,,NU .a ,"Standing, T. G   ",,England ,Edmonton...,Jnn.,"25, 1915."
-11,353,704,3610,738,,,"Territorials;.;,  ","3tewart, Mre. J. H  ",137487 Privato ,"Stov.’art, John Darker ","Banff, Alta     ",Scotland.,Calgary ,Aug.,"2, 1915."
-11,349,733,3610,768,,,S.A ,"Tobin, Mrs. Philomeus G.........",437652 Private ,"Tobin, Hugh J ","39 Stuart St., E. Hamilton, Ont    ",Canada ,Edmonton...,Aug.,"23, 1915."
-11,348,762,3609,797,,,Nil...... i......,"Veal, Mrs. T ",437109 Private..... ,"Veal, Thomas  ","P.O., Brcmner, Alta    ",Canada  ,Edmonton...,May,"7, 1915."
+1,345,481,385,3736,4305-11,Private ,"Bcnusolcil, Moses ",Nil  ,"[Beausolcil, Mrs   ","St. Albert, Alta     : ",U.S.A ,Edmonton..,Jan.,"21, 1915."
+1,376,480,407,3736,430283,Private ,"Belcher, Wigmore . ",Nil ,"Belcher, Mrs. Margaret . ","Cavan, Co. Cavan, Ire   ",Ireland....,Edmonton..,Jan.,"8, 1915."
+1,401,479,442,3735,430372,Private ,"Bell, Albert Carman   ",15 th Regt ,Bell. G. A ,"148 Albert St., Kingston, Ont.   ",Canada....,"Edmonton./,",Jan.,"12, 1915."
+1,431,478,467,3735,436399,Private........,"Bell, Robert ",Nil ,"Bell, Benjamin.   ","P.O., Noyes’ Crossing, Alta...... .V.   ;",England ,Edmonton  ,Jan.,"14, 1915."
+1,463,478,495,3735,430215,Private ,"Benton, Roger Alfred....!.......",Nil... ,"Benton, J,....,,    ","tnnisfail, Alta, i    ",Canada..;......,Edmonton....,Jan.,"6, 1915."
+1,495,477,526,3734,430160,Private ,"Bergeron, Allred   ",Nil.  ,"Bergeron, Gedeon.......  ","Drummondville, P.Q....... r...; '......",Canada.  ,Edmonton....,Jaji.,"5, 1915."
+1,525,476,556,3734,436430,Private ,"Blanchard, Thomas.",Nil    ,"Blanchard, Mrs. K..","ID Chargeable Lane, Plaistow, Essex, Eng...",England ,Edmonton....,Jan.,"18, 1915."
+1,554,477,586,3736,430119,Sergwint.......,"Boyce, Charles Arthur..i.... ...;",C.F.A.      ,"Boyco, Florenco Alice........i","638 Keiminck St., Edmonton, Alta ",England ,Edmonton....,Jan.,"5, 1915."
+1,585,477,616,3734,430101,Private ,"Breton, Joseph.....:. .'i..;.;...;.",82nd Regt ,"Breton, Mrs. Isabella. .:","P.O. Box 11, Daysland, Alta.............. i.",Canada ,Edmonton....,Jan.,"4,1916."
+1,615,476,651,3733,43G013,Private ,"Britton, Ernest Edward.........",Nil...;    ,"Britton, J. A   ","Claresholm, Alta..;..",England ,Edmonton....,Jan.,"4, 1915."
+1,645,475,677,3734,436205,Private ,"Broadhead, Lionel Randolph....",Nil   ,"Broadhead, E. H ","Lebouch, Pierremont Avo., Broadstairs, Kent, Eng..",India ,Edmonton....,Jan.,"8, 1915."
+1,675,474,713,3732,430271,Private ,"Brown, John  ","Nil...,...;. ","Brown, Alexander ","78 Queen St., Glasgow, Scot     ",Scotland........,Edmonton....,Jan.,"8, 1915."
+1,681,4079,722,4186,r.-<
+1,704,473,738,3733,430252,Private ,"Brown, Richard George....'. ",Territorials  ,"Brown, Mrs. Margaret Fanny.","10138 Hamilton St., Rivcrdale, Edmonton, Alta ",Wales ,Edmonton....,Jan.,"7, 1915."
+1,724,472,766,4176,430355,Private ,Hryant. Edward Harold..... ... ..,Nil    ,"Bryant, Alfred  ","Keephills, Alta  ",England ,Edmonton....,Jan.,"11, 1915."
+1,724,4065,758,4176,;* JM
+1,765,473,795,3732,430350,"Private..,.....",Bryant. George...; ,Territorials.........,"Bryant, A    ","Keephills, Alta..........",England ,Edmonton....,Jan.,"11,1915."
+1,785,4078,840,4175,. 4
+1,795,473,825,3732,430753,Private ,"Buchanan, Arthur James ",10th Regt  ,"Buchanan, Thomas  ","Wyovale, Simcoe, Ont..'      ",Canada ,Edmonton....,Feb.,6.1915.
+1,820,473,855,4172,436071,Private ,"Burton, Leonard  ",Nil   ,"Burton, James Thomas.  ","12 Grancs Lano, Ashby, Cheshire, Eng..!    ",England........,Edmonton....,Jan.,"4, 1915."
+1,840,4135,852,4172,■ 1
+1,853,471,883,3732,436373,Private... ,"Butcher, Edward Lawrence.......",Nil  ,"Butcher, Mrs. E ","Sheffield, Eng „ ",England ,Edmonton....,Jan.,"12, 1915."
+1,882,471,913,3731,43G288,Private ,"Caller.v, Patrick Matthias    ",Nil...  ,"Callery, P  ","6 Great Edgorton St., Stookport, Cheshire, Eng ",England ,Edmonton....,Jan.,"7, 1915."
+1,911,471,947,3731,430278,Private ,"Campbell, Neil  ",Nil ,"Campbell, Mrs. N..., ","11144 Namayo Avo., Edmonton, Alta.    ",Scotland....i..,Edmonton....,Jan.,8.1915.
+1,940,470,971,3730,436288,Private ,"Cantin, Joseph Nareisso    ",Nil.......... ,"Cantin, Mary   ","13135, 05th St., Edmonton, Alta........ ",U.S. A  ,Edmonton....,Jnn.,"0, 1915."
+1,970,469,1004,3730,430239,Private  ,"Carter, Alfred Horace  ",Territorials  ,"Rickcr, Mrs. Mary Ann ","P.O., Brisbane, Queensland, Australia.",England... ,Edmonton....,Jan.,"7, 1915."
+1,996,450,1031,3729,< 4301P8,Sergeant  ,"Cosgrove, Charles William........",Nil ,"Stones, Mrs. A...; ","45 Claudo Rd., Liverpool, Eng..............",England........,Edmonton....,Jan.,"fi, 1916."
+1,1027,468,1060,3730,430182,Privato ,"Chaimers, James, i ","Nil...., ","Chalmers, William ","145, 2nd Ave., S. Edmonton, Alta.....1... .....  ",U.S.A ,Edmonton....,Jan.,"6, 1918."
+1,1058,468,1090,3730,430051,Private.. ,"Charles, Peter M ; ; ","Nil,....,.. ","Charles, Mrs. N.   ","Ponnybon. Clarach, nr. Aborystwyth, Wales ",Wales ,Edmonton....,Jan.,4.1916.
+1,1084,468,1119,3729,436328,Private   ,"Charlton, Thomas................",Nil.....i ,"Charlton, Mrs. J.     ","9 Kyle Rd., Sunderland, Durham, Eng  ",England ,Edmonton....,Jan.,11.1915.
+1,1114,467,1149,3729,430135,Privato ,"Clark, Edward Lawrence.........","Nil..,..;  ","Clark, Mrs. L   ","Grays Tavern, Walcot, Bath, Somerset, Eng.    t.",England ,Edmonton....,Jan.,5.1915.
+1,1144,466,1178,3729,430319,Private ,"Clark, John Bowness  ","Nil...,.; ...;","Clark, P. B ","Summerside, P.E.I.    ",Canada.... ,Edmonton....,Jan.,"9, 1915."
+1,1178,467,1209,3728,430307,Private ,"Clarkson, Robert  ",Nil...*. ,"Clarkson, J   ","Lawton, Alta..... 1 >; ",England ,Edmonton....,Jan.,"11, 1916."
+1,1203,466,1238,3837,430018,Private ,"Collins, Lester James ",Nil;.... ,"Clark, Prentice    ","Pino Creek, Alta    i ",Canada.... ,Edmonton....,Jan.,"4, 1915."
+1,1215,3806,1237,3837,to
+1,1238,466,1270,3837,436111,Private.. ,"Coyle, John  ",Nil ,"Coyle, Mrs. Mary..... ","9734, 90th St., Edmonton, Alta    ",Scotland ,Edmonton....,Jnn.,4.1916.
+1,1239,3806,1258,3837,w
+1,1265,465,1300,3728,436009,Private ,"Crawford, William  ",Nil ,"Crawford, James  ","Cairn Castle, Larne, Co. Antrim, Ire. ",Ireland ,Edmonton....,Jnn.,". 8,1915."
+1,1296,464,1330,3728,433249,Private ,"Creelman, Henry Stewart..",Nil  ,"Creelman, Charles N  ","Princeport, Colchester, N.S   ",Canada  ,Edmonton....,Jan.,7.1915.
+1,1328,464,1367,3728,430333,Private ,"Crichton, Malcolm..:  ",Royal Navy........,"Crichton, Mrs. Mary  ","15 Knock Rd., Stornoway, Scot   ",Scotland... ,Edjponton....,Jan.,11.1915.
+1,1359,463,1393,3728,436121,Private ,"Critehley, William Albert..",2nd Regt...........,"Critchloy, Mrs. H   ","Unity Lodge, New Lebanon, N.Y., U.S.A  ",England ,Edmonton....,Jan.,"6, 1915."
+1,1388,464,1423,3728,436309,Private.........,"Cullen, William ",101st Regt...........,"Cullen, R  ","Gallagher Flats, Edmonton, Alta. ..ii..  ",Scotland  ,Edmonton....,Jan.,"9, 1916."
+1,1418,463,1451,3727,436161,Private ,"Davies, Ernest..:.'.  ",Nil ,"Davies, D   ","7 Burleigh Rd., S. Liverpool, Eng. ..i....... I: ",England........,Edmonton....,Jan.,"6, 1915."
+1,1443,463,1483,3727,436342,Private.... ,"Delay, John Americas ","Nil....,.;.. ","Delay, Edward ","Plankot, S.D., U.S.A       ",U.S.A..'. ,Edmonton....,Jan.,"11, 1916."
+1,1477,463,1511,3728,430344,Private   ,"Downes, James : ",Nil   ,"Downes, Andrew ","Mile Cross, Newtownards, Co. Down, Irs ",Ireland.........,Edmonton....,Jan.,11.1915.
+1,1508,463,1543,3010,430270,Private ,"Dryhurst, William Henry...",Nil..'....; ,"Clamants, Mrs  ","6 Woodland St., Smithway, Birmingham, Warwick,"
+1,1535,2265,1566,3727,,,,,,Eng     ,England  ,Edmonton ,Jan.,8.1916.
+1,1564,463,1600,3727,430321,Private..,"Dnggnn, Frederick.....  ",Nil  ,"Duggan, J. P.... ","10914, 82nd Avo., Edmonton S., Alta...   ",Canada ,Edmonton ,Jnn.,"9, 1915."
+1,1593,463,1630,3727,436023,Private..,"Dyer, Alfred Robert..;! ",Nil  ,"Dyer, Albert ","Gen. Del., San Francisco, Cal., U.S.A..»  ",England ,Edmonton ,Jan.,"4, 1915."
+1,1621,463,1662,3727,436151,Sergeant.,"Engle, J. Samuel...!  ",Nil  ,"Eagle, Joshua ","39 Briton St., Leicester, Eng........; ",England ,Edmonton ,Jan.,5.1915.
+1,1653,463,1690,3727,430 no,Private..,"Earle, George........... ",101st Regt....,"Earlo, Mrs. Isabel ","N.E. Comor 105t.h Ave. and 111th St.; Edmonton, Alta.",England ,Edmonton ,Jan.,"5, 1915."
+1,1682,462,1719,3726,436102,Private..,"Eckcrsley, Thomas...  ",Nil ,"Eckerslcy, Mrs. E. J..","11919, 56th St., Edmonton, Alta......1, ",England ,Edmonton ,Jan.,14.1915.
+1,1712,463,1748,3725,430007,Private..,"Elliott, Albert...     ",Nil  ,"Elliott, A  ","7th St., Edmonton, Alta....■......V.'..j ",England ,Edmonton ,Jan.,"4, 1915."
+1,1742,463,1778,3726,430091,Private..,"Elliott, Frederick.... ",Nil  ,"Elliott, Alexander....","Corner 7th St. and Columbia Ave., Edmonton, Alta...",England  ,Edmonton ,Jan.,4.1915.
+1,1773,463,1808,3726,436147,Private..,"Evans, William John..... ",Nil.....: ,"Evans, Catherine ","Glylfachogoch, Tregaron, Cardigan, Wales ",England ,Edmonton......,Jan.,"6, 1915."
+1,1803,463,1838,3725,430256,Private..,"Eyre, Arthur Houson :..",Nil  ,"Johnson, Sara ","Redtord, Midhurst, Sussex, Eng. ",England ,Edmonton ,Jan.,7.1915.
+1,1833,462,1867,3726,436311,Privato..,"Fairhcad, John Ernest  ",Nil   ,"Fairhcad, Mrs. Kate..","791, 9th St., Edmonton, Alta   ",England ,Edmonton ,Jnn.,9.1915.
+1,1863,464,1900,3726,430314,Private..,"Fairhcad, Richard     v,.",Nil ,"Fairhead, W. A ","791, 9th St., Edmonton, Alta ;.i..............",England ,Edmonton ,Jan.,"9, 1915."
+1,1890,462,1929,3726,430148,Privato..,"Faulkner, James William fiOAf. jiH",38th Regt.,"Faulkner, J. A ","Beverly Heights, Edmonton, Alta.....;. ",England ,Edmonton ,Jan.,"6, 1915."
+1,1920,461,1957,3726,436185,"Private..,","Fawcett, James  ",Nil ,"Fawcett, Mrs. Jamos..","10635,92nd Avo.,Waltordale Flats, Edmonton S., Alta..",England ,Edmonton ,Jnn.,"6, 1915."
+1,1953,460,1989,3721,436008,"Privato..,","Fazakerlcy, Alfred A ",Nil ,"Fasnkcrloy, Peter ","39 Bank St., Earlostown, Lancs, Eng.;,. ",England ,Edmonton ,Jan.,"4, 1915."
+1,1983,462,2019,3726,430712,Private..,"Ferguson, Alexander Smith ",Nil ,"Marshall, Mrs ","Caledonian Place, Dunblane, Perthshire, Scot ",Scotland ,Castor ,Jan.,"28, 1915."
+1,2013,460,2048,3725,430009,"Private..,","Fernyhough, Richard  ",Nil   ,"Fernyhough, Mary....","Mold, Wales   ",England ,Edmonton ,Jan.,4.1915.
+1,2042,461,2081,3725,436353,Corporal.,"Forbes, Prescott   ",Nil ,"McAuslie, Mrs. H.....","Tyno Valley, Prince, P.E.I.. i! ",Canada ,Edmonton ,Jan.,11.1915.
+1,2070,460,2106,3726,430242,Private...,"Forbes, William David.. ",Nil ,"Reading, Mrs. Jane...","Princeton, Oxford, Ont   ii.1  ",Canada ,Edmonton ,Jan.,"|7,1915."
+1,2103,461,2137,3726,430178,"Private..,","Fox, Charles James      ",Nil  ,"Fox, J...   ","Belfast, Iro.... i        ",Ireland ,Edmonton ,Jan.,"5,1915."
+1,2213,1809,2289,2151,-5 1 BN
+2,450,1703,501,2545,51st Battalion—1st Reinforcing Draft
+2,583,3350,608,3681,Taken on Strength.
+2,610,493,633,538,a °
+2,626,485,662,3236,.SS5,,,; Former Corps.,,,Country of
+2,626,673,651,760,Rank.
+2,627,1062,652,1159,Name.
+2,630,1802,657,2119,Named Next of Kin.
+2,632,2447,658,2798,Address of Next of Kin.
+2,646,492,685,513,8
+2,658,1389,670,1449,"it1-?, i."
+2,663,3110,688,3199,Birth.
+2,680,3358,705,3445,Place:
+2,687,484,711,508,A
+2,773,484,811,3738,436213,Privato .,"Funkley, George....",Nil.,"Funkley, Peter H......","Tacoma, Wash., U.S.A..  ","u.s.a....::,.",Edmonton ,Jan.,"6,",1915.
+2,804,483,841,3738,436093,"Privato.,  ","Gale, Thomas F  ",Nil-.:.; .:....,"Gale, John......  ","Pyddlc, Hinton, Dorset, Eng.. . ....",England ,Edmonton ,Jan.,"4,",1915.
+2,834,483,871,3737,430020,Private...........,"Gallichan, George Thomas..","Chfln, I. Mil.......","Gallichan, Emery ","24 Sand St., Jersey, Channel Islands, i  ",Channel Islands,,Jan.,"4,",1915.
+2,864,483,901,3738,436334,Private ,"Garrard, Erio George      ",O.T.C  ,"Garrard, C. R. O......","30 Broad St., Pendleton, Manchester, Eng.",England.....,Edmonton ,Jan.,"11,",1915.
+2,893,484,931,3738,436392,Private .'.,"Garrett, Leonard Thomas.",n;i..  ,"Garrett, Jame3 F......","P.O. Box 1435, Edmonton, Alta.",England.....:..,Edmonton ,Jan.,"14,",1915.
+2,924,484,962,3738,436066,Sergeant  ,"Garside, James P........  ",Nil:...,"Garside, Mrs. James P.","9627 Sutherland St., Edmonton, Alta. .................",England ,,Jan.,"4,",1915.
+2,955,484,992,3738,436338,Private   ,"Gavin, Thomas Roger  ",Nil;’.;..:..........,"Gavin, J ","Tornaveen, Aberdeen, Scot.  ",Scotland ,Edmonton ,Jan.,"11,",1915.
+2,982,485,1023,3738,436234,Private    ,"Gibson, Joseph   ,MI^.",Nil..::...  ,"Gibson, Florence.......","Gen. Del., Edmonton, Alta.. i ,'.t ;'.i .",England ,"Edmonton..,...",Jan.,"6,",1915.
+2,1016,483,1053,3737,436117,Private  ,"Gill, Harry    ",Nil... ,"GUI, Joseph ","Digby, Lincoln, Eng  ",England  ,,Jan.,"5,",1915.
+2,1046,483,1083,3738,436254,Private.... ,"Girard, Octave Harman..:. ",Can. Mil...........,"Girard, D... ","St. Paulde Metis, Alta.....i...........",Canada     ,Edmonton ,Jan.,"7,",1615.
+2,1076,483,1114,3738,43639S,Private..'. ,"Grant, Jack  ",Nil.'.  ,"Grant, J. W...........","519 Clara St., Edmonton, Alta.:",Canada     ,,Jan.,"14,",1915.
+2,1106,483,1144,3738,436408,Private     ,"Green, George Henry......",Imp. Forces.......,"Green, John...........","1 Littlejohn, Aberdeen, Scot..,i,,",England  ,,Jan.,"14,",1915.
+2,1122,1277,1151,1329,-v
+2,1136,482,1173,3738,436235,Private ,"Greenwell, William Gibson,",Nil..... . ,"Greenwell, Mrs. M. E..","Gen. Del., Edmonton, Alta.. :...",England    ,,Jan.,"6,",1915.
+2,1166,483,1203,3737,436017,Private ,"Grout, William J ",Nil.;.  ,"Grout, Arthur.'  ","40 Norfolk Rd., Gravesend, Eng  ",England ,,Jan.,"4,",1915.
+2,1192,482,1234,3737,436385,Private ,"Groves, Reginald Harold...MWt",Nil  ,"Groves, C. W....","School House, Risloy, Derby, Eng...1:'.. ",England... ,,Jan.,"13,",1915.
+2,1226,482,1263,3738,436094,Privato ,"Gunn, Norman Matthews",14th Regt.. ,"Smith, Mrs. V...I ","79 Grand Allee, Quebec, P.Q      ",Canada ,,Jan.,"4,",1915.
+2,1255,482,1291,3738,436095,Private ,"Gunn, William Gordon...,",14th Regt.........,"Smith, Mrs. H  ","Royal Temperance Hotel, Edmonton, Alta ",Canada ,,Jan.,"4,",1915.
+2,1285,482,1321,3737,43634S,Corporal  ,"Hackett, Christopher ",Nil    ,"Hackett, Mrs. Jennie...","2447 McKenzie Ave., Edmonton, Alta.   ",England   ,,Jan.,"11,",1915.
+2,1314,481,1349,3738,436243,Private ,"Hardy, Thomas P   „. .....",Nil................,"Hardy, G. A.  ","Rainton, North Farm, Fence Houses, Durham, Eng...",England    ,,Jan.,"7,",1915.
+2,1343,480,1378,3738,430221,Private ,"Harris, Rupert Stanley.DUM. WM","Nil...;.;.,;; ;","Harris, John Arthur....","2030 Otto St., Edmonton, Alta * ",England  ,,Jan.,"0,",1915.
+2,1372,480,1407,3737,430760,Sergeant ,"Hathaway, Joseph Bannard.......",Nil...;..::; ,"Hathaway, Mrs. J. B..","White River Junction, Vt., U.S.A..   ",Canada  ,,Feb.,"6,",1915.
+2,1402,479,1438,3738,430064,Private ,"Hatherly, John S   ",Nil.......... ,"Hatherly, Freda.......","River Hebert, Cumberland, N.S..;...,.............. i",Canada ,,Jan.,"4,",1915.
+2,1432,480,1467,3738,430345,Private ,"Head, Edward Charles     :",nu.,"Head, Mrs. E  ","1 Stanford Rd., Lymington, Hants, Eng...... ",England.,,Jan.,"11,",1915.
+2,1461,479,1496,3737,430130,Private ,Heffernan. William Patrick.......,Nil................,"Heffernan, Daniel......","Jackson St., Woolwich, Kent, Eng.1. ",England...;....,,Jan.,"5,",1915.
+2,1491,466,1526,3738,• 430351,Private   ,"Hierlihy, Thomas Corbett. ..;....",nu.,"Hierlihy, J. II  ","Hebron, Lot 8, Prince, P.E.I...... .  ","Canada.,, ",,Jan.,"U,",1915.
+2,1521,479,1556,3737,430245,Private ,"Hodgson, Walter I....  ",Nil.:.;...  ,"Hodgson, William.....","New Sarepta, Hay Lakes, Alta.. ",England ,,Jan.,"7,",1915.
+2,1547,478,1585,3738,436370,Private ,"Holland, James....’.JrlM","Territorials.;..'.,..","Holland, Samuol :..","Bungalow, Hasland Rd., Chesterfield, Derby, Eng....",England........,,Jan.,"12,",1915.
+2,1580,478,1614,3738,430477,Private...... ,"Holland, James Henry...’.........",Nil..........::....,"Holland, Mrs. J. H....","P.O., Boverly, Alta    ",England ,,Jan.,19.,1915.
+2,1609,477,1649,3738,430137,Private:..........,"Hollingworth, Albert  ",Nil..; I......,"Hollingworth, Xleorgo Ha","Henry ^t., Boverly, Alta..1i...... ",England ,,Jan.,"5,",1915.
+2,1639,477,1674,3737,436257,Private..... ,"Holroyd, Joseph  ","Nil..::.:..,.;......","Holroyd, Sykes ... ","16 Lower Swift Place, Ripponden, Halifax, Yorks, Eng,",England ,,Jan.,"7,",1915.
+2,1668,477,1703,3737,"436325,",Private ,"Hooper, George Willoughby ",C.F.A.......,"Hooper, E. 8  ","P.O., Paddle River, Alta.   ",Canada     ,,Jnn.,"11,",1915.
+2,1698,477,1735,3737,436320,Private..... ,"Hooper, Percival Ralph .’...;",nu ,"Hooper, E. S  ","P.O., Paddle River, Alta ,J.",Canada.  ,,Jan.,"11,",1915.
+2,1727,477,1763,3736,430000,Private.... ,"Hopkins, Walter  ",101st Regt....;.'...,"Hopicins, Edward","St. Athens, Cardiff, Wales.i..... ",Wales...........,,Jan.,"4,",1915.
+2,1758,476,1793,3736,436063,Private.... ,"Horner, Walter   r...",nu ,"Horner, Margaret......","Mosside, Alta     ",England    ,,Jan.,"4,",1915.
+2,1788,477,1823,3737,436402,Sergeant  ,"Hoskins, Ernest R    ",Nil.i.fj...........,"Hoskins, Mrs. E. R..,,","Suite 3, Bathgate Blk., Edmonton, Alta.,   ",England ,,Jan.,"4,",1915.
+2,1818,476,1853,3737,436292,Private ,"Howie, Alexander     ","NU...,  ","Howie, R. ..Ur.......","Vegreville, Alta.     ",Scotland........,Edmonton ,Jan.,"8,",1915.
+2,1847,475,1883,3737,430041,Private ,"Hussey, Henry Aloysius.  ",S.A........,"Hussey, Thomas,,....","23 St. Mary Abbotts Terr., Kensington, London, Eng.",England   ,Edmonton ,Jan.,"4,",1915.
+2,1878,477,1914,3737,436061,Private.. ,"Inwood, Richard  .'.","Territorials..,'...,.","Inwood, G   ","31 Graham Ave., Clydebank, Glasgow, Scot..........",Scotland........,Edmonton—,Jan.,"4,",1915.
+2,1906,474,1943,3738,430208,Private  ,"Irwin, Thomas W...... i.",Nil ;......,"Irwin, Robert J :.","Goshaden, Derry, Ire ...",Ireland.........,Edmonton ,Jan.,"6,",1915.
+2,1940,475,1974,3738,430173,Privato ,"James, Thomas Henry  ",Nil  ,"James, Mrs    ","Forest Heights, Edmonton, Alta.........;:.. . ..:...",England........,Edmonton  ,Jan.,"5,",1915.
+2,1970,474,2006,3738,436097,Private.....'......,"Janion, Joseph William  ","Nil...,!’-.1,..;: ","Janion, D..........","41 Manderville St., Liverpool, Eng......... I,.’.’..'....",England   ,Edmonton......,Jan.,"4,",1915.
+2,2001,474,2037,3737,436087,Privato... r. ,"Jarvis,. David John   ","Nil./.;....',. ","Jarvis, Mrs. T..","12 Broadwynd,Leith, Scot...    . • •. -1, (,, t,i*""","Scotland..,...'..",Edmonton ,Jan.,"4,",1915.
+2,2031,474,2064,3738,436049,Private ,"Jenkins, Thomas William.........",NU................,"Jenkins, WUliam.’.....;","97 Minot Ave. Hnrlesden, London, Eng..;. ...' ",Wales...........,Edmonton ,Jan.,"• 4,",1915.
+2,2057,474,2095,3738,436595,Private... ,"Johns, George Hickman     ",O.T.C...... ,"Hartopp, Mrs. C. K...","54 Victoria Rd., Sherwood, Notts, Eng.. .V.V:.7;.:....",England.   ,Loughecd ,Jan.,"23,",1915.
+2,2090,473,2124,3739,436212,Private.../. ,"Johnson. Ernest...,. ",Nil  . .,"Johnson, George.......","90 Countess Rd., S. Alderson Rd., Sheffield, Eng. . ....",England ,,Jan.,"8,",1915.
+2,2115,473,2152,3739,436054,Private../ .,"Johnson, John Henry 7..’..",Nil................,"Johnson, Annie  ","9760, 70th Ave., S.E. Edmonton, Alta   '.. . ..",England ,Edmonton :.,Jan.,"4,",1915.
+2,2147,473,2183,3739,430200,Private..... ,"Jones, Robert Boydell  ",NU..... ,"Jones, Allred ","86 Me Adam Ave., Winnipeg, Man...:....;.,.....: ",Canada ,Edmonton ,Jun.,"1 7,",1915.
+2,2179,474,2216,3739,436141,Private...........,"Kemp, George W ,....",12th Drags........,"Kemp, John James....","Listowel, Ont...: ,....      ",Canada ,,Jan.,"5,",1915.
+2,2209,473,2243,3739,436080,Private ,"Kinnaird, Hugh  ",Nil ,"Kinnaird, George ","82 Dryburgh Ave., Rutherglen, Glasgow, Scot ",Scotland........,,Jan.,"4,",1915.
+2,2279,1837,2355,2177,-5 1 BN
+2,2379,2033,2451,2241,1 0 T
+3,12,1784,34,1962,***>&&: ■ r
+3,12,3368,31,3797,"""TWVf' *v77^ •"
+3,13,4054,51,4155,n ^
+3,123,4138,148,4152,t
+3,151,4149,182,4160,)
+3,193,4151,212,4161,i
+3,352,397,401,3653,436200,Private ,"ICyle, Charles    ",Nil.....' ,"Kylo, D.......'.  ","29 Clyde St., Carluke, Scot..., ;1. H7..... j",Scotland ,"Edmonton ,",Jan.,"5, 1915."
+3,383,398,426,3654,430303:,Private ,"Lacoy, Harry.........   ..",Nil..'....:...,"Lacey, George  ","Lancics Rd., Vnnge, Essox, Eng..• .V. I ""HI.,",England ,Edmonton !,Jan.,"■ 9, 1915."
+3,411,397,455,3654,435177,Private.......,"Laffey, Thomas Patrick.",Territorials..,"LafTey, Thomas.  ","Wilkin St., Liverpool, Eng. .II’”I””””",England ,Edmonton ,Jan.,"; 5,1915."
+3,442,396,482,3654,430105,Private.......,"Lafiarnmo, Victor............ *",Nil ;,"Laflamme, Mrs. L. J......","Clarence Creek, Russell, Ont.[ ” ] ]"" ”’ I",Canada.... ,Edmonton......,Jan.,"! 5, 1915."
+3,475,398,511,3654,436374,Private...;. 1.,"Lammio, Hugh.... ",Nil ,"Lammie, Mrs. William.","Beverly Heights, Edmonton, Alta.","Scotland.,   ",Edmonton....i.,Jan.,"12, 1915."
+3,503,398,541,3654,430164,Private.......,"Lamontagne, Nioholas. ......",Nil...;......,Not stated  ,Not statedt ” ,Canada    ,Edmonton... J..,Jan.,5.1915.
+3,532,398,570,3655,430100,Privato....!..,"Lang, Matthew.   ","Nil.....;..,.","Lang, Alexander ","283 Sinclair St., Edmonton, Alta...;   ” I”' ”",Scotland ,Edmonton......,Jnn.,"4, 1915."
+3,564,398,604,3654,430100,Private ,"Langfcar, Charles.....; .",Nil..........,"Langfcar, Mrs. Martha....","58 Harrington Hill, Clapton, London, Ene",England........,Edmonton ,Jan. .,4.1915.
+3,589,397,631,3655,430347,Privato ,"Law, James Stephen MM",Nil ,"Law, Mrs. Maggie ","Birtle, Man..;.  iTT. II *"" I *"" I* I",Scotland ,Edmonton ,Jan.;,11.1915.
+3,623,398,660,3655,430029,Privato ,"Lawder, George William  ",Nil ,"Lawder, Mrs     ","Mt. Temple, Blnckrock, Co. Dublin, Ire.. . . . . .j.’",Ireland ,Edmonton ,Jan.,4.1915.
+3,649,397,693,3655,436P39,Private.......,"Leadbctter, William Eric.........",Nil..........,"Leadbctter, Mr... ","Leduo, Aita.  \.      ",England..% ,Edmonton ,Jan.,4.1915.
+3,682,397,723,3654,430375,Private ,"Leary, Bernard   ",Nil ,"I.eary, A   ","128th St., Inglowood, Edmonton, Alta 11111111 III I",England ,Edmonton ,Jan.,12.1915.
+3,713,396,753,3655,436172,Private ,"Liptrot, Robert.... ",Nil ,"Liptrot, Mrs. L..:  ","133 Althea St., Wandsworth Bgo., London, S.wl, Eng.","England.,. ",Edmonton ,Jan.,"5, 1915."
+3,742,396,783,3655,436339,Private ,"Lobb, Thomas Henry     ",Nil ....,"Lobb, Mrs. Sarah Agnes..","SO Clarendon Rd., Morecambe, Lancs, Eng.. I  ",England........,Edmonton ,Jan.,13.1915.
+3,774,395,813,3655,430333,Privato ,"Lord, Walter ;... ",Nil..........,"Lord, Mrs. Alice Violetta","9215, S9th St. S., Edmontor., Alta     i........",England  ,Edmonton ,Jan.,11.1915.
+3,804,394,838,3655,430255,Privato ,"Macaulay, Dougal  ",Nil.... ,"Macaulay, A    ","South Uist, Inverness, Scot.    ",Scotland... ,Edmonton ,Jan.,7.1915.
+3,829,394,867,3655,"43G025,",Privato ,"Macaulay, Robert G.... ",Nil  ,Macaulay. Archibald......,"31 Rosebery St., Abcrdeon, Soot   ",Scotland ,Edmonton ,Jan.,4.1915.
+3,861,395,897,3656,430500,Privato ,"MacDonald, Archibald   ",79th Regt...,"MacDonald, Mrs. M  ","Benbecula, South Uist, Inverness, Scot .'  ",Scotland ,Provost ,Jan.,"20, 1915."
+3,891,395,927,3656,430-104,Privato   ,"Macintosh, Neil Francis.",Nil..  ,"Macintosh, Miss Mary..","623 Hardisty Ave., Edmonton, Alta ”. [ ",Ireland.   ,Edmonton ,Jan.,14.1915.
+3,925,395,956,3656,430074,Privato ,"MacRae, Alexander........... ",Territorials..,"MacRae, R .; ","80 Keith St., Stornoway, Scot...    ",Scotland ,Edmonton ,Jan.,4.1915.
+3,954,395,986,3655,430153,Private ,"Magee, John George............",Nil..... ,"Magee, Mrs. Mildred ","Gen. Del., Edmonton, Alta..   ",Ireland ,Edmonton ,Jan.,"5, 1915."
+3,984,396,1017,2934,4362S9,Private ,"Mannion, John Joseph     ","Nil....,....,","Moran, Mrs. Mary ","10 Chadwick St., ofl Wellington Rd., Stockport, Ches.,"
+3,1013,2199,1047,3657,,,,,,Er.g..; .' VV. ,England ,Edmonton ,Jan.,8.1915.
+3,1042,396,1077,3656,436186,Private ,"Marsh, Ernest.   v...",Nil  ,"Marsh, Eliza ,....","Woodfalls, Salisbury, Wilts, Eng....... f,* ",England ,Edmonton ,Jan.,"5, 1915."
+3,1072,396,1107,3656,436043,Private ,"Marshall, William Richard..,",101st Regt ,"Marshall, Mrs. S    ","290 Brixton Rd., Stockport, Ches, Eng.    ",England ,Edmonton ,Jan.,4.1915.
+3,1099,396,1135,3656,436107,Private ,"Martin, Harold ",Nil   ,"Martin, David ","9334, 104th Ave., Edmonton, Alta ...-.  ",England  ,Edmonton ,Jan.,4.1915.
+3,1124,395,1165,3656,436149,Private ,"Marty, Eloi  ",NU * ._...,"Marty, A ","St. Paul, Minn., U.S.A  ",France ,Edmonton ,Jan.,5.1915.
+3,1162,395,1193,3657,430224,Sergeant ,"Mstheson, John Dalhousie ",Royal Navy ,"Matheson, Mrs. A  ","Outlook, Sask.        ",Scotland ,Edmonton ,Jnn,"6, 1915."
+3,1191,395,1224,3658,430032,Private ,"Mnughan, George  ",Nil   ,"Atkinson, Mrs. J ","Greysouthen, Cumberland, Eng   ",England ,Edmonton ,Jan.,"4, 1915."
+3,1221,394,1253,3764,436301,Private.... ,"Mnxey, Charles Pulley.......",Nil..  ,"Maxey, F. R......... ","28 Cardigan St., Ipswich, Suffolk, Eng. i',,   ",England ,Edmonton ,Jan.,9.1915.
+3,1232,3734,1252,3764,to
+3,1250,394,1283,3765,436974,Corporal ,"May, James J.    ",U.S. Army ,"May, John.... ","Maplesville, Kentucky, U.S.A....... i,i, a ",U.S.A ,Edmonton ,Feb.,20.1915.
+3,1254,3734,1273,3765,O'
+3,1280,394,1322,3658,430105,Private..... ,"McCluskey, Thomas ",Nil  ,"McCluskey, Mrs. Thomas","Shack 2-1, Scona Rd., Edmonton, Alta.;.   ",England ,Edmonton ,Jan.,"4, 1915."
+3,1310,395,1343,3658,430007,Private.... ,"McConncll, Samuel Garfield.",Nil   ,"McConnell, A ","1653, 6th Avo., New Westminster, B.C..................",Canada  ,Edmonton ,Jan.,"4, 1915."
+3,1340,395,1373,3658,430270,Private ,"Mcltwreith, William ",Nil ,"Mcllwreith, Mrs. W ","Upper Balmoral, Restigouche, N.B.......... ",Canada  ,Edmonton ,Jan.,"8, 1915."
+3,1366,394,1404,3658,430183,Private...... ,"McKoy, Edward ","Nil,... ","McKay, H....  ","10615, 67th Ave., Edmonton, Alta. V.",England ,Edmonton ,Jan.,"5, 1915."
+3,1399,394,1432,3658,436300,Private ,"McLachlin, Herbert Dawson.",Nil ,"McLachlin, Mrs. M  ","1137, 27th St., Edmonton, Alta..... ......: ",Canada.....'...,Edmonton.....,Jnn.,"II, 1915."
+3,1424,395,1463,3659,436359,Private ,"McLachlin, Hugh Francis ",Nil ,"McLachlin, Mrs. M ","1137, 27th St., Edmonton, Alta ; ",Canada  ,Edmonton ,Jnn.,11.1915.
+3,1456,394,1492,3658,436146,Privato ,"McLean, Wendell P....... ",19 th Drags ,"McLean, Mrs. Emily ","318, 1st Ave. S.W., Edmonton, Alta.. .ihii ",U.S.A  ,Edmonton ,Jan.,"6, 1915."
+3,1487,394,1522,3659,430204,Private.... ,"McLeod, Roy Lauchlin ",Nil  ,"McLeod, Angus J ","Glon William, Kings, P.E.I . i ",Canada ,Edmonton ,Jnn.,"8, 1915."
+3,1516,394,1550,3659,430216,Private..;........,"McManus, Frank ",Territorials.,"McManus, Mrs. Mary ","8730, 92nd Ave. A., Edmonton S., Alta.        ",England...'....,Edmonton ,Jan.,"0, 1915."
+3,1544,394,1582,3660,436230,Privato ,"McMurdo, Robert  ","O.T.C ,'. ","McMurdo, Mrs. F. J   ","c/o Meredith Mills, Lincolns Inn, London, Eng ",England ,Edmonton ,Jnn.,"B, 1915."
+3,1573,394,1611,3660,436219,Private ,"McNaughton, George Smith.",20 th Horso ,"Crummer, Mrs. R ","Ardrossan, Alta        <,u, ^ ",U.S.A ,Edmonton ,Jan.,"0, 1915."
+3,1603,394,1639,3660,436107,Private.. ,"McPhce, Robert ",Territorials ,"McPhee, A  ","Beverly, Edmonton, Alta     ",Scotland ,Edmonton ,Jnn.,"14, 1915."
+3,1632,395,1668,3660,430275,Private ,"McPherson, John.'..; ",Nil   ,"McPherson, Naismith...","2054 Lorno St., Edmonton, Alta.......,'i«. ",Scotland ,Edmonton ,Jan.,"8, 1915."
+3,1661,394,1698,3660,436145,Private ,"McPherson, Reuben ",19t.h Drags   ,"McPherson, Mrs. Albert..,","3rd Avo. N. and 4th St. W., Edmonton S.j Alta ",England ,Edmonton ,Jan.,"6, 1915."
+3,1689,394,1727,3661,436366,Privato ,"Meakin, Edward............",Nil...; ' ,"Meakin, Mrs. Jano ","624 Sutherland St., Edmonton, Alta...~;;-i i... ",England ,Edmonton ,Jan.,"11, 1915."
+3,1719,394,1757,3661,436070,Private..*... ,"Meehan, Augustine Joseph....",Nil   ,"Meehan, C. E ","Moncton, Westmoreland, N.B    ",Newfoundland.,Edmonton ,Jan.,"4, 1915."
+3,1749,393,1786,3662,436272,Private ,"Millbank, William Edmund..",Nil..-......     ,"Millbank, C. A. ","Burrows Farm, Toothill, Ongar, Essex, Eng ",England ,Edmonton ,Jnn.,"8, 1915."
+3,1778,393,1817,3662,436287,Private ,"Mills, Charles Edgar ",Nil....... ,"Mills, Mrs. Annie M  ","137 Short St., Edmonton, Alta...........    ",England ,Edmonton.....,Jan.,"8, 1915."
+3,1808,394,1850,3663,435127,Private....!-. ,"Milner, Charles ",Nil ,"Milner, Henry ","Otham, Kent, Eng         ",England ,Edmonton ,Jnn.,"5, 1915."
+3,1837,393,1882,3662,436549,Private.. ,"Moore,jJamcs ",Nil....... ,"Moore, John ","44 Muirkirk lid., London S.E., Eng.....; t>...........",England ,Edmonton ,Jan.,"22, 1915."
+3,1867,393,1910,3663,436312,Private ,"Moore,Thomas ",Nil ,"Moore, John ","44 Muirkirk Rd., London, S.E., Eng.  ",England ,Edmonton...,Jan.,"9, 1915."
+3,1895,394,1941,3664,436497,Private  ,"Morlidge, Gcorgo Ernest ",Can. Mil ,"Morlidge, Mrs. G ","Gen. Del., Edmonton S., Alta   ",England ,Edmonton ,Jan.,"19, 1915."
+3,1928,393,1971,2946,438220,Privato    ,"Mottershead, Ernest ",NU ,"Mottershead, A ","Gen. Del., or Lot 4, Blk. 5, Mount Royai, Edmonton,"
+3,1953,2963,1986,3665,,,,,,,Canada......,Edmonton ,"Jan.,","6, 1915."
+3,1964,2188,1990,2946,Alta      
+3,1984,2963,2014,3664,,,,,,,Scotland ,Edmonton ,Jan.,"5, 1915."
+3,1990,394,2039,2946,435174,Private..,"Murdoch, Robert Bridgcford.^",Nil ,"Murdoch, George ","Stonehaven, Scot  * vV; "
+3,2014,394,2061,3665,436797,"Private..,","Murphy, Henry xtM",Nil.........,"Murphy, R ","Dauphin, Man   ",Canada.   ,Edmonton ,Feb.,"8, 1915."
+3,2044,394,2091,3665,436377,Private..,"Myall, John   ",T crritorials.,"Myall, Mrs. J ","Gen. Del., P.O., Edmonton, Alta.    ",England ,Edmonton ,Jan.,"12, 1915."
+3,2073,395,2122,3665,436253,Corporal.,"Newsome, Lawrcnco Andrew ",Territorials.,"Newsome, Mrs. L. A.","10508, 115th St., Edmonton, Alta i. .   ",England ,Edmonton ,Jan.,"7, 1915."
+3,2104,395,2151,3665,430339,Private..,"Nicld, Samuel ",Nil ,"Nicld, Mrs. Alice ","Bovorly Heights, Edmonton, Alta   ",England ,Edmonton ,Jan.,"11, 1915."
+3,2199,2114,2257,2147,N
+3,2227,1807,2295,1959,-5 1
+3,2260,2130,2267,2139,N
+3,2319,2121,2381,2215,0 T
+3,2327,1877,2391,2029,- 1
+4,424,1681,477,2522,51st Battalion—1st Reinforcing Draft
+4,561,3301,589,3662,.. Taken on Stbinoth.
+4,576,465,641,3215,M,,,,,Country of
+4,600,645,626,738,Hank.
+4,603,1040,627,1138,Name.
+4,605,1409,635,1627,Former Corps.
+4,605,1769,634,2114,Name of Next of Kin.
+4,608,2427,636,2783,Address of Next of Kin.
+4,641,3090,668,3199,"Birth. ,"
+4,659,3309,691,3426,", Place."
+4,662,3581,688,3664,Date.
+4,713,941,754,1532,• '■‘Oj’rly. ■ : V -
+4,750,463,792,3718,436225,Private ,"Nutter, Edmond   NiUY...........","Nutter, A...;    ","289 Brunswick St., Nelson, Lancs, Eng... ",England ,,Jan.,0,1915.
+4,775,462,821,3717,436357,Private ,"O’Grady, Daniel UvM Nil,.;......’....","O’Grady, C   ","P.O. Emmett, Renfrew, Ont.  .   ",Canada ,,Jan.,11,1915.
+4,811,462,852,3716,43G170,Private ,"Oldfield, Charles Robert.. Territorials...","Oldfield, T. O   ","Bowmarlin, London, Eng ",England... ,,Jan.,5,1915.
+4,842,462,884,3717,436223,Private ,"Oliver, Frederick George ,... Territorials ","Oliver, Frederick.   ","Rising Sun, Port Vale, Herts, Eng j    , ",England ,,Jan.,6,1915.
+4,872,462,913,3717,436383,Private ,"Pallott, Harold Eugene.     Chan. Isle. Mil.","Pallott, Mrs. A   ","Roekfield, La Rocque, Jersey, Chan. Isles ",Channel Islands,,Jan.,13,1915.
+4,901,461,942,3717,43G217,Private ,"Pardon, Ernest Humphrey Nil.,; ","Pardon, John   ","Budock, Falmouth, Cornwall, Eng.   ",England ,,Jan.,6,1915.
+4,932,461,972,3717,436144,Corporal ,"Parkes, John Anthony Nil.-,;..........","Parkes, Ellen  ","9427, 99 th St., S. Edmonton, Alta  ",England ,,Jan.,5,1915.
+4,962,461,1001,3717,436171,Private ,"Patch, Walter Henry.....-.,. Nil.;. ","Patch, W.... Y. ","Jersey, Chan. Isles ",Channel Islands,,Jan.,5,1915.
+4,991,461,1032,3718,436336,Private  ,"Pearce, William Charles   w Nil.;.; ","Pearce, Mrs. Mary  ","2 North Parade, Falmouth, Cornwall, Eng ",England ,,Jan.,11,1915.
+4,1016,461,1061,3717,433057,Private ,"Pearson, Allred Nil.,’.. ","Pearson, C ","Tunbridge Wells, Kent, Ehg.  ",England ,,Jan.,4,1915.
+4,1051,462,1090,3717,436006,Privato ,"Pennington, William   Nil... ","Pennington, Peter... ","Hallsden Rd., Heaton Chapel, Stockport, Ches, Eng....",England ,,Jan.,4,1915.
+4,1081,461,1119,3717,436299,Privato ,"Perry, Joseph   „\... Nil  ","Perry, Mrs. J ","1031, 114th St., Edmonton, Alta   ",England ,,Jan.,9,1915.
+4,1111,460,1149,3717,436050,Private ,"Peterson, Robert Talbot . Nil... ","Peterson, Mabel,... ","8819, 88th Avo., Edmonton S., Alta ",England ,,Jan.,4,1915.
+4,1140,460,1179,3717,436240,Private ,"Phillips, Harry ; Nil..1.. ","Phillips, H..... ","50 Commercial Rd., Hazel Grove, Ches, Eng.... ",England ,,Jan.,7,1915.
+4,1169,460,1208,3716,436114,Corporal ,"Porlier, Joseph L... Nil.... ","Porlier, Mrs. Joseph ","Marcelin, Sask..., ",Canada ,,Jan.,5,1915.
+4,1199,459,1239,3716,436346,Private ,"Potts, Alfred   Nil.;.,  ","Potts, William  ","27 Cowely Hill Lane, St. Helen's, Lancs, Eng ",England ,,Jan.,11,1915.
+4,1228,459,1267,3717,436157,Private. ,"Pritchard, Charles Albert Nil... ","Pritchard, William ","Box 4758, Strathcona, Edmonton S., Alta • ",Wales .V. ,,Jan.,5,1915.
+4,1258,457,1297,3716,436200,Private ,"Redfearn, George  Nil..,..........","Redfearn, Agnes ","9425, 98th St., Strathcona, Alta ",England ,Edmonton ,Jan.,8,1915.
+4,1287,455,1326,3716,436CU5,Private ,"Reese, Richard Llewellyn Nil....;;. ","Reese, Mrs  ","11309, 92nd St., Edmonton, Alta ",Wales ,Edmonton ,Jan.,4,1915.
+4,1312,456,1356,3716,436332,Private......,"Revcll, Lawrence   Territorials ","Revcll, Joseph ","294 Birdholmo, Chesterfield, Derbji* Eng   ",England ,,Jan.,11,"191,5."
+4,1346,457,1386,3716,436150,Private ,"Richardson, John Nil..;..... ","Pretty, Mrs. T. V ","108 Howard Rd., Leicester, Eng ",England ,,Jan.,5,1015.
+4,1375,457,1416,3716,436134,Private ,"Richardson, Nicholas Nil....... ","Richardson, G. W   ","123rd St. and Yukon Ave., Edmonton, Alta ",England......,,Jan.,5,1915.
+4,1408,458,1446,3716,436081,Private ,"Ripley, Bertram Nil:,...,.. ","Ripley, Harry  ","6th Ave. N.E., S. Edmonton, Alta ' ",England ,Edmonton ,Jan.,4,1915.
+4,1438,458,1477,3716,436028,Private ,"Itispin, James   Nil.,...,.......","Rispin, Mrs. M,  ","Bevorley, Yorks, Eng.    ; ","England..,.,.",,Jan.,4,1915.
+4,1467,457,1504,3715,436053,Private ,"Roberts, David.  Nil..Yl","Roberts, Thomas....  ","Kenson, Penmark, nr. Cardiff, S.Wales ",Wales ,,Jan.,4,1915.
+4,1498,456,1535,3715,436207,Private......,"Roberts, William \ ........... Nil....... ","Roberts, H ","Mossfields Cottage, Whitchurch, Salop, Eng ",England ,,Jan.,8,1915.
+4,1527,456,1563,3715,431)000,Private ,"Saidler, Thomas Ott , Nil.............","Saidler, Mrs. Grace ","19 Gideon §t., Bathgate, Linlithgow, Scot",Scotland ,,Jan.,4,1915.
+4,1557,456,1592,3716,436037,Private......,"Scott, William A Nil.,...,...,,..","Scott, William  ","Leduc, Alta ;       ",U.S.A ,,Jan.,4,1915.
+4,1586,456,1622,3716,43612S,Private......,"Seabrook, Sidney Robert........ Nil...... ","Seabrook, P. S.* ","Dnyton, Oregon, U.S.A.,.....;..... ",Canada ,,Jan.,S,1915.
+4,1617,456,1651,3716,436154,Private ,"Sheridan, Edwin Joseph.......... Nil....","Sheridan, Ellen.   ","ICemptvillo, Ont............. Y  ",Canada.. ,,Jan.,5,1915.
+4,1646,456,1684,3716,436056,Private. ,"Sloan, Hartley Benjamin.... Nil...' ...","Sloan, Benjamin.   ","Fielding, Sask : YY Y       ",Canada ,,Jan.,4,1915.
+4,1676,456,1714,3717,436263,"Private,' ","Smith, Charles A   Nil..;;.;.. ","Smith, David..  ","Edenbridge, Kent, Eng... Y    i  ",England ,,Jan.,8,1915.
+4,1706,455,1744,3717,436055,Private ,"Smith, Frederick Charles.... SA.............",Smith. Jane Elizabeth ,"11337, 92nd St., Edmonton, Alta  ",England ,,Jan.,4,1915.
+4,1737,455,1774,3717,436369,Privato ,"Smith, Harold   Nil.............","Smith, G ","7 Bank Bldgs., Stonohouse, Glos, Eng ",England ,,Jan.,12,1915.
+4,1766,454,1805,3717,436010,Private ,"Smith, Leonard William   Nil.............","Smith, James..;.'. ","397 Hamilton Ave., Fraser Flats, Edmonton, Alta ",England ,,Jan.,4,1915.
+4,1798,455,1834,3716,436008,Private ,"Smith, Oliver     Nil.............","Smith, Arthur...'1    ","76 Douglas St., Derby, Eng.     ",England......,,Jan.,4,1915.
+4,1829,455,1864,3715,436035,Private ,"Smith, Thomas..'   Nil ","Smith, Mrs. T.......  ","10326, 108th St., Edmonton, Alta ",England ,,Jan.,4,1915.
+4,1859,453,1894,3716,436192,"Private...,,.","Smith, William   Nil... Y...","Smith, A.;.   ","Keith, Banff, Scot................... Y...........",Scotland ,,Jan.,5,1915.
+4,1888,453,1924,3715,436482,Corporal ,"Spiller, Arthur    Nil........... Y","Edmonds, Mrs. J.    ","24 Avenue Rd., Gosport, Hants, Eng...     ",England......,,Jan.,19,1915.
+4,1917,453,1954,3716,436226,Private ,"Stead, Arthur v.vYY Nil  ","Stead, Mrs. Elizabeth ","5 Kempstor St., Lower Broughton, Manchester, Eng...",England......,,Jan.,6,1915.
+4,1949,453,1984,3715,436072,Private......,"Stebbings, Gilbert   101st Regt......","Stebbings, George...","Botesdale, Suffolk, Eng..,...  ",England......,,Jan.,4,1915.
+4,1976,452,2011,3716,436310,Private ,"Stevens. Joseph Emerson   Nil ,...;","Stevens, Charles...,..-,.'.. ","Clover Bar, Alta   Y“. Y   ","Canada....,,.",,Jan.,9,1915.
+4,2005,454,2044,3715,436393,Private ,"Stubbs, Albert Harry    Nil ;.......","Stubbs, Mrs. M.     ","Bearwood Hill Rd., Burton-on-Trent, Staffs, Eng,..,.",England......,,Jan.,14,1915.
+4,2038,454,2071,3715,430044,Private ,"Sutton, John Nil.,..  ","Sutton, John James.      ","4 B. Bourne St., Hastings, Sussex, Ena...   ",England ,,Jan.,4,1915.
+4,2068,453,2104,3715,430222,Private......,"Sweeney, John James.;..;,....... Nil....,,.;.....","Sweeney, M............ i ","34 Potter's Court, Bradford, Yorks. Eng ",England ,,Jan.,G,1915.
+4,2093,453,2133,3715,436125,Private..../.,"Tattersall, William   Nil  ","Tattorsall, Oswald......... ","Wcstmount, Ripon, Yorks, Eng  ","England..,,..",,Jun.,5,1915.
+4,2121,453,2161,3715,430408,Sergeant...'..,"Taylor, John   Mfl Territorial*.....","Taylor, Mrs. M. E  ","P.O. Bonnie Glen, Alta   ",England ,,Jan.,19,1915.
+4,2154,453,2190,3716,436104,Privato ,"Thomas, John   Nil ","Thomas, Mrs. Lucretia.      ","79 Picton St., Maestcg, Glam. S. Wales...............",Wales..' ,,Jan.,7,1915.
+4,2184,453,2221,3717,436250,Private ,Tod. William James. .............. Nil  ,Hunter. Miss    ,"St. Margarets. Bridge of Allan. Stirling, Scot... ",Scotland ,,IJan.,7,1915.
+4,2256,1776,2344,2575,-5 1 BN “I OT
+5,16,2372,71,4180,"'f w«^i»»TSpS! »^wrtpp4yw»ii|w». ’ni» <j;ww»*,w*» •' **<» y. ;i>i^w wp ny a ■ «$' t*TMH i"
+5,38,121,65,1062,"y w r , .. ‘ >*. /* • ’* • *'■"
+5,349,488,380,2061,43G211,Private,"Todd, A.... .. ",Nil ,"Todd, Mrs. E  "
+5,356,2226,392,3744,,,,,,"Fort Saskatchewan, Alta..;     ",England...,Edmonton...,Jon.,"0, 1915."
+5,378,486,410,2062,436397,Private,"Topham, James Alexander M",Territorials.,"Topham, Alexander "
+5,387,2227,423,3745,,,,,,"Box 12, Stony Plain, Alta.,.....I..,....;.;,...",England...,Edmonton...,Jan.,"14, 1915."
+5,409,486,440,2062,430313,"Private,","Tree, George ...","Nil .,,","Tree, Mrs. A. E....... .."
+5,417,2226,451,3743,,,,,,"Carlstndt, Alta  ;    ",Canada....,Edmonton. J.,Jan.,"9, 1915."
+5,439,485,470,1988,430341,"Private,","Trickcr, Albert Charles  ","19th Drags.,","Tricker, R  "
+5,446,2226,482,3744,,,,,,"29 Brighton Rd., Surbiton, Surrey, Eng.  ",England...,Edmonton.!.,Jan.,"11, 1915."
+5,468,485,499,2107,436300,"Private,","Triseott, Thomas Hooking...","Nil.....:,.i","Triseott, Edith....."
+5,476,2227,511,3745,,,,,,"P.O. Box 131, Beverly, Edmonton, Alta  ",England...,Edmonton...,Jan.,"9, 1915."
+5,497,485,530,2107,430349,"Private,","Ute, Charles Henry...... i;.",Nil  ,"Utos, Mrs. C. H....1..I..'.."
+5,506,2226,541,3745,,,,,,"8924, 83rd Ave.* Edmonton S., Alta...; ",England...,Edmonton...,Jan.,11.1915.
+5,523,4148,543,4174,H
+5,528,484,558,2108,436208,"Privato,","Vidlcr, Albert Edward. i.;..",Nil..... ,"Vidler, Charles....,......."
+5,535,2229,569,3744,,,,,,"Woodsgate, South St., Faversham. Kent, Eng....",England...,Edmonton...,Jan.,8.1915.
+5,556,485,599,3744,4300.30,Privato,"Walters, Thomas.. t. .Vi ...",Territorials.,"Newey, Mrs...............","3 Tower St., Sedglcy, Staffs, Eng. ",England...,Edmonton...,Jnn.,"4, 1915."
+5,586,484,628,3743,430218,Private,"Walters, William.,... .... i’i.!",Nil ,"Walters, Mrs. William","995 Jasper Avo. E„ Edmonton, Alta.  ",England.,Edmonton...,Jnn.,"6, 1915."
+5,615,484,648,2108,430244,Privato,"Welsh, Cecil....?...j W .l.V",Nil ,"Welsh, G. W..............."
+5,620,2228,659,3744,,,,,,"Stimlcy Moor Farm, Fence Houses, Durham, Eng",England...,Edmonton...,Jan.,"7, 1915."
+5,645,484,679,2063,436400,Private,"Westington, Dick,.",Territorials.,"Westington, F...; "
+5,654,2226,689,3746,,,,,,"80 Round Hill Crescent, Brighton, Eng ","England.."".",Edmonton...,Jan.,"14, 1915."
+5,676,484,719,4178,430150,Privato,"White, Thomas H ",Nil ,"White, Mrs, Thomas H....","105th St, Lauderdale, Edmonton, Alta  ",England...,Edmonton...,Jan.,"5, 1915.",f-:+
+5,707,483,748,3745,436403,"Private,","Whitlock, John Henry.;.,.,.",Nil...'. ,"Whitlock, Miss Minnio.","Banstead, Surrey, Eng.  , ",England...,Edmonton...,Jnn.,14.1915.
+5,737,484,779,3744,430047,Privato,"Wild, Jervis..",Nil  ,"Wild, Mrs. Margaret ","14 High Field Rd., Bolton, Lancs, Eng     ",England...,Edmonton...,Jan.,"4, 1915."
+5,755,483,797,2107,436340,Private,"Wilford, George........",MW,Nil ,"Wilford, Arthur.     "
+5,775,2227,810,3744,,,,,,"Gardeners Cottage, _Broughton-in-Furncss, Lancs, Eng.",England...,Edmonton...,Jan.,"11, 1915."
+5,796,483,827,2107,430327,"Privato,","Wilkinson, Edward ; . ..",Nil... ,"Wilkinson, Mrs. M........."
+5,803,2227,836,3026,"ICclser Cottage, Chiltonmoor, Fenco Houses, Durham,"
+5,834,2269,865,3745,,,,,,Eng i w,England...,Edmonton...,Jan.,11.1915.
+5,854,483,894,3745,436.503,Privato..,"Willdcy, Lewis John..........","Territorials.,","Willdey, Mrs. L. J... ","Loughecd, Alta. ",England...,Hardisty....,Jan.,"23, 1915."
+5,884,483,920,3746,430008,Private..,"Williamson, Joseph  ",Nit ,"Williamson, Mrs. A.......,","9750, 76th Avo., Edmonton S., Alta.    ",Ireland....,Edmonton...,Jnn.,4. 1915.
+5,908,483,949,3745,430124,Private..,"Wingfield, Charles Petor.",Nil V...,"Wingfield, H. J.    ","1022, 10th St., Edmonton,Alta ",Canada....,Edmonton...,Jnn.,"6, 1915."
+5,938,482,981,3745,436014,Privato..,"Wood, Frederick  ",Nil ;;,"Wood, Mrs. L. ","2 Selwyn St., Stoke-on-Trent, Staffs, Eng ",England...,Edmonton...,Jan.,"4, 1915."
+5,971,481,1010,3745,430103,Private..,"Wood, John Jacob ;  ",Nil..........,"Wood, F. L  ","18th Ave. and Maine St.. Edmonton S., Alta...",England....,Edmonton...,Jan.,"5, 1915."
+5,1001,480,1040,3746,436088,Corporal.,"Wood, Roland..........;....,",101st Regt...,"Wood, H.,.,i.:...","1429 Syndicate Ave., Edmonton, Alta ",England...,Edmonton...,Jan.,4.1915.
+5,1030,479,1068,3745,436493,Private..,Yates. Harry   ,Nil ,"Yates, Mrs. Catherine ","P.O., Keystone, Alta ;.. ,■ ",England. ■.,Edmonton...,Jna.,"19, 1915."
+5,1114,3525,1131,3545,!.
+5,1115,1550,1159,2702,51st BATTALION—2nd REINFORCING DRAFT
+5,1208,578,1247,3742,,Lieutenant.,"Coles, Harry Victor..............",101st Regt.,"Coles, Mrs. M...","1151 Fort Rd., Edmonton, Alt3.;Y ",England.,"Edmonton.,","Jan. 6, 1915."
+5,1232,3819,1253,3851,N>
+5,1241,578,1277,3850,,Lieutenant.,"Guillon, Silas...      ",101st Regt.,"Guillon, Mrs. S.","c/o Convent of Sion, Chapstow Villas, Bayswator,"
+5,1255,3818,1272,3850,•J
+5,1275,2284,1306,3741,,,,,,"London, Eng   i.i.i ",Belgium...,Edmonton..,Jan.,"26, 1015."
+5,1301,579,1335,3743,,Lieutenant.,"Raphael, Frederick George ",101st Regt....,"Raphael, H. W  ","814 Shuter St., Montreal, P.Q... ;.’. ",Canada....,Edmonton..,Jnn.,"1, 1915."
+5,1327,580,1365,3743,,Lieutenant.,"Taylor, Howard ",19th Drags...,"Taylor, Thomas  ","10159, 116th St., Edmonton, Alta..;h. ",Canada ...,Edmonton..,May,"17, 1915."
+5,1337,4134,1380,4173,•:i5
+5,1361,581,1398,3744,,Lieutenant.,"Walton, Balfour Stewart.   ",7 th Regt ,"Walton, Mrs. Ethel M......","4 Dundonald St., Edinburgh, Scot; 11.-. ",Scotland...,Edmonton..,Jan.,"5, 1915."
+5,1391,479,1423,3761,436980,"Private...,","Anderson, Matthew.,   ",Nil ....,"Anderson, Mrs. Margaret...","312 York St., Edmonton, Alta. V...",Ireland....,Edmonton..,Feb.,"20, 1915. ■"
+5,1416,479,1452,3743,43G977,Privato....,"Arnott, Leo ",Nil  ,"Arnott, Mrs. Agnes ","Brunswick Hotel, Edmonton, Alta.....",U.S.A ,Edmonton..,Feb.,"20, 1915."
+5,1443,479,1482,4174,436680,Private....,"Askwith, George Edward.........",Nil ,"Askwith, Mrs. E  ","26 Gladstone St., Crook, Durham, Eng ",England...,Edmonton..,Jan.,"30, 1915.","• ‘,'h"
+5,1471,478,1541,4176,436441,Private....,"Ayers, Robert George.      ",Nil ,"Ayers, James R.     ","Butter Row, Stroud, Glos, Eng. .-..Hi ",England...,Edmonton..,Jan.,"18, 1915.",^ : 1
+5,1480,479,1512,3744,437049,Private....,"Aspinall, Hugh ",Territorials...,"Aspinall, Mrs. H  ","Fifth & First St. S.E., Edmonton S.; Alta....",England...,Edmonton..,April,"1, 1915."
+5,1540,478,1570,3746,436002,Private....,"Bales, Alfred Benjamin... i»•. i..",Nil ,"Bales, E. William..,.......","17 Magdalen St., Norwich, Eng. .vri>. ",England...,Vogrevillo..,Jan.,"25, 1915."
+5,1569,477,1600,3745,430410,Privato....,"Balfour, William ",Nil ,"Balfour, Jessie    ","38 Scot3toun St., Scotstoun, Glasgow, Scot.....",Scotland...,Edmonton..,Jan.,"14, 1915."
+5,1598,477,1628,3746,430485,"Private...,","Bamber, Norris.  ",Nil ,"Bamber, J. T    ","Sion, Alta  ;'. ii’.V.  ",England...,Edmonton..,Jan.,"19, 1915."
+5,1628,476,1659,3746,430749,"Private.,..","Banks, Edward  ",Nil ,"Banks, I   ","0 Mill Terr., Penrith, Cumberland, Eng... .*..",England...,Edmonton..,Feb.,"4, 1916."
+5,1636,4077,1665,4084,:
+5,1657,476,1689,3747,430580,Privato....,"Barcroft, Richard...........;....",Territorials...,"Barcroft, Mrs ;.       ","Bury, Lancs, Eng..... .wtifiV. ",England...,Camrojo...,Jan.,"22, 1915."
+5,1672,4113,1699,4179,;>»■>
+5,1684,477,1719,3746,430505,Private....,"Barker, Mark,..v................",NU ,"Barker, W..  .7..","Holmwood, Surrey, Eng.. ..,."". ...ViiV....-....",England...,Edmonton..,Jan.,"22, 1915."
+5,1715,477,1749,3746,43G027,Private....,"Beaton, Edwin.  ",Can. Mil......,"Beaton, Christopher.......","Amherst, Cumberland, N.S.... .••ililri:.    ",Canada....,Edmonton..,Jan.,"27, 1915."
+5,1745,476,1778,3747,436410,"Private...,","Bendall, Herbert Harry..........",NU  ,"Bendnll, C .'.","Ebley, nr. Stroud, Glos., Eng... Yi*;;.........",England...,Edmonton..,Jan.,"18, 1915."
+5,1763,476,1809,4198,436765,Private....,"Bct.tany, Thomas Stanton  ",10th Regt....,"Bettany, D    ","37 Lenty Ave., Toronto, Ont '.i i ",England...,Edmonton..,Feb.,"6, 1915.",•• • '■I.
+5,1802,4064,1818,4195,"• •, ‘ 1"
+5,1804,476,1838,3747,430573,Private....,"Billington, Harold  ",Nil....  ,"Billington, William ","Forest ltd., Torporley, Chester, Eng ",Ehgland...,Edmonton..,Jan.,25.1915.
+5,1832,476,1867,3748,43G917,Private....,"Bilsland, William.........   ",Nil ,"Bilsland, Mrs. Grace  ","22 Dungoyne Gdns., Maryhill, Glasgow, Scot.",Scotland..,Edmonton..,Feb.,"17, 1915."
+5,1862,475,1899,3748,4364 IS,Private....,"Bishop, Charles Lcland ",Nil ,"Bishop, J. S   ","Box 4022, Edmonton S., Alta    ",Canada....,Edmonton..,Jan.,18.1915.
+5,1894,476,1928,3748,430006,Private....,"Blackwell, Frank Tingle  ",Nil ,"Blackwell, Mrs    ","Argylc Rd., WcstclifT-on-Sea, Essex, Eng ",England...,Coronation.,Jan.,27.1915.
+5,1901,476,1958,4177,430773,Sergeant...,"Blatchford, Sydney Ernest ","1st Drags..,..","Blatchford, Mrs. F. M..;","130th St. W., Edmonton, Alta......-j ",England...,Edmonton..,Feb.,"6,1915.",.M
+5,1952,476,1987,3030,43GS12,Private....,"Bolton, Leslie William..... ",Territorials...,"Bolton, Mrs. S. A..< ","1 Enmore Villas, St. George’s Rd.| f arnham,",Sur,"'ey,"
+5,1978,2283,2014,3748,,,,,,Eng   :. ii  ,England...,Edmonton..,Feb.,"9, 1915."
+5,2009,475,2047,3749,435419,Private....,"Booth, Clarence Done  ",Nil ,"Booth, C...; ","Oddfellows’ Institute, Charlton, Kent, Eng....",England...,Edmonton..,Jnn.,"15, 1915."
+5,2039,475,2077,3749,436779,Private....,"Boss, Alexander.",Territorials...,"Boss, Mrs. M, H....","9 Curry St., Edmonton, Alta..,,(/>vU........",Scotland..,Edmonton..,Feb.,"8, 1915."
+5,2068,475,2116,4189,430.546,Private....,"Bowe, Edward •••••vjaj",Nil ,"Bowe, Peter    ","Islay, Alta    <. .VV;   ",U.S.A ,Edmonton..,Jan.,"22, 1915.",Vf.
+5,2091,475,2139,4191,436724,Private....,"Bowerman, David Lloyd.... WM",Territorials...,"Bowerman, George ","25 Anglesea PI., Clifton, Bristol, Eng. ",England...,Edmonton..,Feb.,3. 1915.,-T
+5,2227,1851,2311,2303,-5 1 BN _
+5,2269,2389,2337,2605,2 0 T
+5,2367,2715,2425,2785,m
+6,362,1617,411,2474,51st Battalion—2nd Reinforcing Draft
+6,488,1308,505,1567,. ■■ ■ - ■ •
+6,492,3284,517,3613,Taken on Stiiinqth.
+6,539,602,573,3164,,,,Former Corps.,,,Country of
+6,539,2378,572,2862,Address of Next of Kin. -J / '
+6,544,602,568,688,Rank.
+6,544,992,570,1148,Name. .
+6,544,1730,569,2049,Name of Next of Kin.
+6,572,3040,596,3130,Birth.
+6,582,3277,613,3377,*Place.
+6,588,3505,622,3638,; Date. *
+6,618,1380,643,1483,v.V. - .
+6,690,411,722,3670,430045,Privato ,"Boyco, Henn   ",Nil.   ,"Boyce, George ","45 Alexandra Rd., Worthing, Sussex, Eng.,,..;.,. ",England.   ,,Jan.,29,1915.
+6,721,410,751,3670,43GQ'j(i,Private ,"Branson, Frederick ",Nil..Y ,"Branson, Alice  ","P.O., Pakan, Alta :....",England ....,Edmonton ,Jan.,4,1915.
+6,751,411,782,3670,430010,Corporal ,,Nil...Vi;;;  ,"Brazil, Mrs                   ","521 Sutherland St., Edmonton, Alta  ............",Canada.... ,Edmonton ,Jan.,4,1915.
+6,780,411,809,3670,437302,,,"NU., ,7,1...... t; ",,,,,14,1915.
+6,808,410,840,3670,439007,,,Nu.r.isi.... ,,,,,1,1915.
+6,840,411,873,3671,430305,Private ,"Brown, VV. It ","Nii..;.,r. ","Brown, G ","Baumber, Horncastle, Lincs., Eng   ",England ,Edmonton ,Jan.,9,1915.
+6,866,411,901,3671,430803,Private ,"Burchell, Wesley  ","Nil...,.:. ","Burchell, James ","Lovett, Alta    ",Canada ,Edmonton ,FCb.,12,1915.
+6,902,410,926,3671,430557,,,,,,,,?n,1915.
+6,931,411,960,3671,437081,,,,"Callander, Mrs. H. M ",,,,3,1915.
+6,962,410,986,3671,430035,,,,,,,,?R,1915.
+6,992,410,1019,3671,430831,,,"Nil....,.,.,.. ",,,,,Feb.,1(1,1915.
+6,1022,409,1046,3672,43G409,,,,,,,,14,1915.
+6,1052,409,1078,3671,430820,,,Nil ,,,,,Feb.,in,1915.
+6,1082,409,1107,3671,43635S,,,Nil ; ,,,,,n,1915.
+6,1111,409,1140,3671,430793,,,,,"10 York St., St. John’s, Nlld ",,,Feb.,8,1915.
+6,1138,409,1168,3670,430012,,,"Nil.., iii;  ",,,,,Jan.,?R,1915.
+6,1169,409,1194,3671,430U70,,,,,,U.S.A ,,Feb.,?n,1015.
+6,1199,409,1224,3671,430352,,,Nil...... ,,,,,11,1915.
+6,1227,408,1256,3671,437054,,,Nil   ,,,,,April,i,1915.
+6,1258,408,1284,3671,430003,,,Nil ,,,,,?7,1915.
+6,1288,408,1312,3671,430285,,,,,,,,8,1915.
+6,1318,408,1342,3672,43G024,,,,,,,,?7,1915.
+6,1347,406,1379,3671,435011,Private ,"Crawford, James ",Nil  ,"Crawford, Mrs. S ..","4 Glasgow Rd., Spring Wells, Blantyre, Lanark, Scot..",Scotland ,Edmonton ,Jan.,20,1915.
+6,1377,408,1409,3672,430071,Private i.,"Daniel, Arthur ",S. A... ; ,"Daniel, Mrs. A  ","Hardisty, Alta   ",,Hardisty ,Jan.,23,1915.
+6,1408,406,1442,3671,437297,Private ,"Davidson, John ",Nil ■  ,"Davisdon, W. M ","23 Chandos Rd., Charlton C. Hardy, Manchester, Eng..",England ,Edmonton......,May,19,1915.
+6,1437,408,1469,3671,430795,Private ,"Davies, Thomas  ",NTii :   :.,"Davies, Mrs. H ","""Girastad,” Pencader, S. Wales.    ",Wales..    ,Edmonton ,Feb.,8,1915.
+6,1466,408,1498,3671,43*3491,Private   ,"Davis, William Henry. .A........","Nil....:.-, ","Davis, Mrs. M ","Sion, Alta     ",England ,Edmonton ,Jan.,19,1915.
+6,1496,408,1528,3671,430772,Private   ,"Denley, Frederick    ",Nil   ,"Denley, Mrs ","14 Baker St., Pellon Lane, Halifax, Yorks, Eng   ",Eupland ,Edmonton ,Feb.,6,1915.
+6,1527,408,1558,3671,437010,Privato ,"Dennis, Frederick    ",R.C.D   ,"Dennis, Mrs. Emily ","10G22, 112tli St., Edmonton, Alta    ",Ireland ,Edmonton ,Mar.,1,1915.
+6,1556,408,1587,3672,430290,Private   ,"Distumal, Clifford Arthur ",Nil.... ;.....,"Disturnal, F > ","Sedgewick, Alta ",England    ,Edmonton......,Jan.,y,1915.
+6,1587,408,1614,3672,430034,,,Nil,,,,,Jan.,4,1915.
+6,1616,407,1646,3672,430490,,,,,"Mornington Store, Dunedin, N.Z ",New Zealand...,,Jan.,19,1915.
+6,1640,407,1676,3671,430451,,,Nil .;.,,"19 Queens Ave., Barton-on-Humber, Lincs. Eng ",,,Jan.,18,1915.
+6,1675,407,1707,3671,430707,Private ,"Duguid, Frank Morlev ","Nil..,....;..  ","Duguid, Mrs. J ... ","527, 1st Ave., N.E., Edmonton, S., Alta   ",Canada   ,Edmonton ,Feb.,1,1915.
+6,1704,407,1736,3672,430501,Private.... ,"Duke, Albert Ernest ",Nil....:..  ,"Duke, Francis         ","Dyke Parade, Cork, Iro  , ",Ireland i..,Edmonton......,Jan.,20,1915.
+6,1733,407,1766,3672,430949,Privato ,"Duncan, Charles ",Nil....:.:... ,"Duncan, Mrs. M. J.i ","e/o H. Howes, Polieo Station, Edmonton, Alta. ",Scotland ,Edmonton ,Feb.,18,1915.
+6,1763,407,1795,3672,430401,Private..'. ,"Duncan, William W'arren ",Nfl.......,"Duncan, S. W...... i ","Salisbury, Westmoreland Co., N.B   ",Canada ,Edmonton ,Jan.,18,1915.
+6,1793,407,1826,3672,4370-11,Private ,"Dunning, Hiram ",Nil.........  ,"Felix, Mrs. E....    ","West Plains, Mo., U.S.A   ",U.S.A.. ,Edmonton ,Mar.,20,1915.
+6,1823,407,1853,3671,430047,,,Nil,,,,,Jan.,V»,1915.
+6,1852,407,1888,3671,430380,Private ,"Edmond, Geoffrey Powell  ",Nil.'.-....I: ,"Edmond, Dr ","Seymore House, Tctnea, Devon, Eng ......",England  ,Edmonton ,Jan.,13,1015.
+6,1882,407,1916,3672,430-152,Private ,"Brskino, Robert  ",Territorials  ,"Erskine, Andrew ","Shires Mill, New Mills. Derby, Eng  ..........",Scotland........,Edmonton......,Jnn.,18,1915.
+6,1910,407,1946,3672,430555,Private ,"Evans, Thomas Llewellyn ",NU..,"Evans, James.   ","Ravei Llaullwchairn, nr. Nowtown, Wales.., ",Wales ,Edmonton......,Jan.,n,1915.
+6,1940,409,1976,3671,430774,Privato.....-:..;..,"Eves, Charles    ",Nil............,"Eves, Mrs. M  ","10322, 108th St., Edmonton, Alta.....",England  ,"Edmonton...,:.",Feb.,6,1015.
+6,1967,408,2005,3671,43GCG8,Private ,"Fairbairn, Wilbert I^onard.......","Nil.......:;.;:..,'....","Fairbairn, Mrs. W. E    ","Coronation, Alta      .",Canada   ,Coronation. .*...,Jan.,‘H,1015.
+6,1998,407,2034,3670,430511,Privato ,"Fawcett, Rhodes    ",Territorials...........,"Fawcett, Eliznbeth    ","Cor. Fourth & Columbia Aves., Edmonton, Alta......",England........,"Edmonton..,,",Jnn.,20,1915.
+6,2027,408,2063,3671,43G725,Private.........,"Fazan, Gordon  ",NU ,"Fazari, Daniel  ","52 Perryn Rd., East Acton, London, Eng.",England........,Edmonton ,Feb.,3,1915.
+6,2056,408,2094,3671,43GS32,Private / ,"Ferguson, Archie. :....",Territorials  ,"Ferguson, M....  .............","Devillo, Alto ",Scotland.......,Edmonton......,Feb.,10,1915.
+6,2087,407,2124,3671,430700,Privato ,"Fletcher, Joseph ",Nil   ,"Fletcher, Mrs. Mary A.","Gen. Del., W. Edmonton, Alta ",England........,Edmonton ,Feb.,I,1915.
+6,2116,3458,2140,3672,,,,,,,,,Uan.,18,1915.
+6,2123,406,2153,2134,436458,Private ,"Flowers, Pcrcy Frederick",Nil...'..,"Flowers, Mrs. P. F.   "
+7,246,445,280,3705,436439,Private..,"Ford, Herbert.'.   ","Nil..;..,.:  ","Ford, Mrs. Mary   ","Leaman, Alta....      :      ",England...,Edmonton..,"Jan. 18,1915."
+7,277,445,311,3704,430059,Private..,"Fountaine, Frank     ",Nil  ,"Fountains, Thomas S ","Groat Buckhill, Bletcliley, Bucks, Eng ",England...,Edmonton..,"Jnn. 29, 1915."
+7,308,444,342,3705,435317,Private..,"Fowler, William George ",Nil  ,"Fowler, Mrs    ","28 Atterby Terr., Newtown, Stockton-on-Teos, Eng..",England...,Edmonton..,"Jnn. 9, 1915."
+7,338,444,373,3705,436026,Private..,"Fowlie, James.   ",Nil ,"Fowlio, Frank  ","Gamrio, Banff, Scot   ",Scotland..,Edmonton..,"Jan. 4, 1915."
+7,367,445,403,3704,43G052,Private..,"For, Thomas ",Nil   ,"Scrivcn, Mrs. E   ","Beaumaris, Muskoka Lakes, Ont.   ",England...,"Edmonton..,","Tnn. 4, 1915."
+7,397,444,433,3704,430770,Private..,"Fraser, Simon Alexander....",Nil... i   ,"Fraser, Mrs. I ","587 Bcrasford Ave., Winnipeg, Man.    ",Canada....,Edmonton...,"Feb. 6, 1915."
+7,424,444,462,3703,430572,Private..,"Gill, Percy Reginald........,",Nil ,"Gill, Joseph Robert   ","Great Yarmouth, Norfolk, Eng. ,...",England...,"Edmonton..,","Jan. 25, 1915."
+7,456,444,494,3703,437062,Private..,"Goode, Alfred   ","Imp, Forces ....","Goode, Mrs. E...   ","413 Astley St., Dukinfield, Cheshire, Eng..:,........,",England...,Edmonton...,"April 6, 1915."
+7,482,444,522,3702,436830,Private..,"Goodland, George.","Nil.,..  ","Koarlo, Mrs. T.   ","8 High St., Maesteg, Glam, S. Wales.",England...,Edmonton...,"Feb. 10, 1915."
+7,515,443,552,3702,437411,Private..,"Good land, Herbert Victor..,","Nil...., ","Goodland, J.  .. .","Scott’s Farm, IIton, Ilminster, Somersot, Eng.. Lv.:...,",England...,Edmonton...,"Juno 15, 1915."
+7,545,443,581,3702,430962,Private..,"Goodwin, Albert Ernest.....",Nil.,"Goodwin, Charles  ","0 Tudor Terr., Aberdare, Glam, S. Wales....j",England...,Edmonton...,"Feb, 19, 1915."
+7,574,443,612,3702,436660,Privato..,"Gordon, Clarence Earle.:....",Nil ,"Gordon, W. H  ","12210, 95a St., Edmonton, Alta  ","Canada...,",Edmonton..:,"Jan. 29, 1915."
+7,603,443,643,3702,436476.,Private..,"Gould, Leonard Oliver .,",Nil....... ,"Gould, Edgar O;","97 Dickinson St., Rochester, N.Y., U.S.A.,.i.,",Canada....,Edmonton...,"Jan. 19, 1915."
+7,634,443,672,3701,430070,Private..,"Greaves, Harry.       ",Nil   ,"Greaves, Mrs............ r. f...","Pembina Coal Co., Evansburgh, Alta.England",,Edmonton...,"Jnn. 29, 1915."
+7,664,442,702,3702,430386,Privato..,"Grey, James Lockerbie ",Nil......;  ,"Grey, James ","Great West Coal Mine, Clover Bar, Alta..,",Scotland...,Edmonton...,"Jan. 13, 1915."
+7,694,441,738,3701,436594,Private..,"Guthrie, George     ",Nil   ,"Guthrio, Mrs. W. D.... ","Coronation, Alta..'....  ;",Scotland. ..,Hardisty....,"Jan. 23, 1915."
+7,721,441,761,3701,436665,Private..,"Guthrie, William Dyce. ",Nil..   ,"Guthrie, Mrs........ .......","Coronation, Alta  ",Scotland...,Coronation. .,"Jan. 27, 1915."
+7,752,441,792,3701,430934,Private..,"Haining, Robert ",Territorials........,"Haining, Mrs. Georgina ","9263, 110th Ave., Edmonton, Alta....................",England ,Edmonton...,"Feb. 18, 1915."
+7,781,440,821,3701,436888,Private..,"Hamilton, Duncan....... ",Territorials... ,"Hamilton, Thomas.  ","Flush Farm, Campbeltown, Argyll, Scot., ......",Scotland...,Edmonton...,"Feb. 15, 1915."
+7,812,439,850,3701,436596,Private...,"Hardy, Robert   ",Nil    ,"Swift, S.   ","Minburn, Alta.   ",England....,Edmonton...,"Jan. 25, 1915."
+7,841,439,879,3701,436908,Privato..,"Hayman, Edgar Charles..,.",Nil ,"Hayman, Mrs. E. E,    ","71 Sabino St., Lavonder Hill, London, Eng.    ","England..,,","Edmonton..,","Feb. 16, 1915."
+7,868,439,909,3701,435157,"Privato..,","Heaps, Edward  ",Nil  ,"Heaps, Mrs   i......,","400 Cameron Rd., Edmonton S., Alta.     ","England...,",Edmonton...,"Jan. 18, 1915."
+7,889,439,937,3702,430538,"Private..,","Heaps, Thomas ..",Nit  ,"Heaps, Robert   ■.......,","Inglcton, Yorks, Eng...... .Y.\.",England,Edmonton...,"Jan. 21, 1015."
+7,889,1245,930,1314,mm:
+7,928,439,966,3701,436850,Private..,"Heron, Albert Ernest.   ",C.A.M.C  ,"Heron, Mrs. Thomas.   ","16 Alcina Avo., Toronto, Ont. i.  ",Canada ,Edmonton...,"Feb. It, 1915."
+7,957,438,995,3701,43674G,"Private..,","Hill, Charles ",NU  ,"Hill, Mrs. A ","Bradford, Yorks, Eng............... r:...........","England.,.,",Edmonton...,"Feb. 4, 1915."
+7,987,438,1024,3702,430633,Private...,"Hodgson, Thomas  ",Imp. Forces ,"Wilbraham, Mrs..  ","Mount Pleasant, Derrington, Stafford, Eng...........","England..,,",Edmonton...,"Jan. 28, 1915."
+7,1015,438,1052,3702,436979,"Private..,","Hood, Jesse, William   ",Nil ,"Howl, F   ","11321, 66th St., Edmonton, Alta.,.., ","England.,,","F.dmonton,.,","Feb. 20, Hi 15."
+7,1046,438,1083,3704,436941,Private...,"Hume, James Peter..., ",Nil ,"Cummings, Mrs. Marion ","M»x-.vcllhcugh, Kclso-on-Twced, Roxburgh, Scot....","Scotland.,,","Edmonton,.,","l nl>, IH, llllli."
+7,1076,438,1111,3704,436433,Corporal.,"Humphreys, James Francis..",Territorials........,"Humphreys, Hairy James.....","Bull Inn, Bentley, Farnham, Surrey, Eng  ",England...,Kdmonton...,".Inn. 18, 1016."
+7,1105,440,1139,3705,436809,Private..,"Hunter, Alexander ",Nil.. ,"Hunter, Mrs. David  ","6 Viewforth Terr., Edinburgh, Scot.             ","Scollnnd..,","Edmonton..,","Feb, 9. 1915."
+7,1134,440,1168,3806,436811,Privato..,"Hunter, Frederick Valentine.",TerritAials ,Hunter. Mrs. D. A   ,"253 Columbia Avo., Edmonton, Alta ’. ",England...,Edmonton...,"Feb. 9,1915.'"
+7,1147,3777,1165,3806,to
+7,1165,439,1199,3706,436579,Private..,"Hutchins, George   ",Territorials ,"Hutchins, Mrs. G ","46 Marborough Rd., Leicester, Eng. ",England...,Edmonton..,"Jnn. 25, 1915."
+7,1198,440,1229,3708,436911,Private..,"Jacklin, Lemuel  .. ",Nil ,"Jacklin, Mrs. L  ","11927 King St., Edmonton, Alta '.  ",Canada ,Edmonton..,"Feb. 16, 1915."
+7,1227,440,1259,3706,436588,Private..,"■Jackson, Clement Stuart ",Nil   ,"Jackson, Mrs ","148 Chatham St., Liverpool, Eng. ",England...,Camrose ,"Jan. 22, 1915."
+7,1257,441,1289,3705,436733,Private..,"Jackson, Hugh.i ",Nil   ,"Jackson, Hugh ,  ","83 Cheviot Ave., Strand town, Belfast, Ire.,,,»,,.","treland...,",Edmonton..,"F«»b. 3, 1915."
+7,1286,545,1317,3711,,PriTs'e..,"Js/tksva, Th<rma3 ,..",Nil.    ,,,,Jvlm'mvnv .,ton. n. 1915.-
+7,1286,2350,1317,2959,"V/ht U'rvrn, n, i,,"
+7,1288,1802,1314,2129,"Mm, Thorn** ,,,,,,,,"
+7,1310,444,1346,3711,436-539,Private..,"Jones, Cecil   ",Can. Mil.......,"Jones, II...,..,  ","Id lhn/1 Hi., V'iiVh, Vrfiv,,,,,,,,...• ■.","/ '/V/1«/.v, t f",IMWWt. ■,hK: ?!>!*'?.•
+7,1337,445,1376,3712,436986,Private..,"Jones, Ellis  ",Nil ;,"Jones, Mrs. E. C     ","Biymlerwyn, Grove Park, West Col wyn Bay, N. Wales.","Wales.,,..","1‘Am‘jnOtn,.",,"w, mo."
+7,1363,445,1405,3714,437050,Private..,"Jones, John Evan L..",90th Regt.........,".lones, Mrs. H, ","Llanvetherinc, Monmouth, Wales... rf-i   ",Wales.....,"Edmonton.,","April 1, 1915."
+7,1397,446,1435,3713,436527,Private..,"Jones, Joshua Thomas  ",Nil ,"Davis, Mrs. M  ","Rhydlewis, Sarnau, Honllan, Cardigan, Wales.........",Wales.....,Edmonton..,"Jan. 20, 1915."
+7,1425,445,1465,3714,436646,Private..,"Keogh, Calmar ",Nil ,"Keogh, W. O    ","P.O., Loduc, Alta   r. i ..",Canada ,Edmonton..,"Jan. 29, 1915."
+7,1455,445,1495,3715,436015,Private..,"Keogh, Dermot Patrick....",Nil  ,"Keogh, W. O   ","P.O., Loduc, Alta.   •*,;».,  ",Canada ,Edmonton..,"Jan. 4, 1B15."
+7,1484,445,1524,3715,436507,Privato..,"Kerr, Alexander ",Nil   ,"Kerr, Mrs. A   ",Not known  ....' ,Scotland..,Edmonton..,"Jnn. 20, 1915."
+7,1513,444,1553,3714,436522,Privato..,"Kerr, John   ",Nil...... ,"Kerr, Alexander ","Dennyloanhcad, Stirling, Scot.... i,.-...   ",Scotland..,Edmonton..,"Jnn. 20, 1915."
+7,1540,441,1582,3715,-437310,Private..,"Keyes, John Sherman ",Nil  ,"Keyes, Mrs. John.   ","Woodbridge, Ont   ..'..:.i  ",Canada....,Edmonton..,"Mny 21, 1915."
+7,1571,444,1612,3716,436711,Private..,"King, George Robson ",Nil   ,"King, Mrs. Ada J   i.","2674, 80th St., Dcllon, Edmonton, Alta  ","Scotland. ,",Edmonton..,"Feb. 2,1915."
+7,1600,445,1641,3715,437194,Private..,"ICinnior, Hugh Sterling....,",Nil    ,"Kinnier, Lieut. D. R  ","Craigollachie, Devonshire Park, Birkenhead, Eng ",England...,Edmonton..,"Mny 7, 1915."
+7,1629,445,1669,3715,436920,Private..,"Kinsman, James ",Nil..... :,"Kinsman, Mrs. Annio  ","9527 Currie St., Edmonton, Alta.., v; i    ",Scotland..,Edmonton..,"Feb. 17, 1915."
+7,1659,444,1698,3715,437050,Private..,"Kirk, James Coleman ",S.A  ,"Kirk, Normna ..;.","Antrim, Co. Antrim, Ire.    r;V, ;  ",Ireland..,Edmonton..,"April 1,1915."
+7,1688,445,1727,3716,430.554,Private..,"Laffinere, Alexander ",NU   ,"Laffinero, Isaac ","North Cobalt, Ont  . < .i.. ",Canada....,Edmonton..,"Jnn. 22, 1915."
+7,1720,444,1758,2996,437251,Private..,"Langton, Frank ",Nil  ,"Langton, Alico J   ","“Dufdue,"" Hanger Lano, Ealing Common, London, W„"
+7,1745,2252,1781,3716,,,,,,Eng !U   ,"England..,",Edmonton.,May,"17, 1915."
+7,1775,445,1816,3717,436618,Private..,"Lefeaux, Edgar ",Nil.....   ,"Lefeaux, J. W      ","6 The Gardens, Tilbury, Essex, Eng, k.i ",England...,Edmonton.,Jnn.,"27,1915."
+7,1806,446,1848,3717,430297,Corporal.,"Leipcr, Charles WUliam.",Nil  ,"Lutloy, Mrs. J. B ; ","Toronto, Ont .:   ",Scotland..,Edmonton.,Jnn.,"9, 1915."
+7,1835,444,1876,3716,437195,Private..,"Lewis, Roger  ",Nil ,"Lewis, Alfred  ","Bradley Farm, Bourton. Salop, Eng.,     ",England...,Edmonton.,May,"7, 1915."
+7,1865,445,1905,3717,436484,Private..,"Little, Noel William   ",NU ,"Little, Thomas W ","Ilolmgarth, Menston-in-Wharfcdale, Ijocds, Yorks, Eng.","England..,",Edmonton.,Jan.,"19, 1915."
+7,1895,446,1934,3718,436529,Private..,"London, John Wilson ",Royal Navy.,"London, E. R.:....  ","Box 29, Loughcod, Alta     ;","England..,",Loughced..,Jan.,"18, 1915."
+7,1925,445,1964,3717,436694,Private..,"Lowe, John Robert    i.",Nil ,"Low e, Mary A ","Red Deer, Alta  ",U.S.A ,Edmonton.,Jan.,"30, 1915."
+7,1954,446,1995,3717,436S02,Private..,"MacDonald, Hugh   ",Nil   ,"MacDonald, Mrs. D. R........","R.R. No. 2, Cornwall, Ont  ","Canada...,",Edmonton.,Feb.,"8, 1915."
+7,1983,446,2024,3719,436564,Privato..,"Macintosh, John...      ",Nil   ,"Macintosh, J.      ","Aberfoldy, Perth, Scot ",Scotland..,. Edmonton.,Jnn.,"22, 1915."
+7,2127,1827,2209,2117,51 BN
+7,2185,2365,2249,2581,2 DT
+8,17,1376,59,1466,w:-
+8,392,1656,441,2507,51st Battalion—2nd Reinforcing Draft
+8,519,3325,545,3654,Taken on Strength.
+8,550,460,570,506,2 o
+8,563,58,575,67,i
+8,570,56,602,3206,i,.ES5,Rank.,,Former Corps.,,,Country of
+8,571,1030,596,1126,Name.
+8,572,1770,599,2089,Name of Next ot Kin.
+8,572,2419,598,2769,Address of Next of Kin.
+8,594,459,615,480,B
+8,601,3080,626,3170,Birth.
+8,617,460,632,475,41
+8,617,3329,642,3418,Place.
+8,617,3575,641,3657,Date.
+8,634,453,654,475,K
+8,651,41,753,3702,m,437-14!,Private..,"MacKay, Alick ",Nil.... ...,"MacKay, Mrs. Grace.","Tain, Ross, Scot '.....  ",Scotland..,Edmonton ,June,1915
+8,750,450,783,3711,,43703S,Corporal.,"MacICintosh, William E. C ",31st Regt ,"MacICintosh, WUliam.","Mannville, Alta.    ",Scotland..,Edmonton ,Mar.,1915.
+8,780,450,813,3711,,430728,Private..,"MaeLean, Kenneth ",Territorials.......,"MaeLean, Mrs. A ","1904, 70th St., Edmonton, Alta..,.'.",Scotland..,Edmonton ,Feb.,1915.
+8,811,449,843,3711,,430707,Private..,"MacNaughton, John.  ",103rd Regt.   ,"Gillies, Mrs. M ","Brodick, Arran, Scot    ",Scotland..,Edmonton ,Feb.,1915.
+8,842,450,880,3711,,437030,Private..,"Mandcvillc, Frank Burton....^ ,.",O.T.C. Eng ,"Mandoville, H. M ","54 Castlenau, Barnes, London, Eng ",England...,Edmonton ,Mar.,1915.
+8,867,56,905,3712,i...,430422,Private..,"Manton, Walter Frederick.... MPi","Nil.,.:  ","Manton, George A....","Heaton Moor, Alta       ",England...,Edmonton ,Jan.,1915.
+8,901,450,935,3711,,4304-10,Private..,"Martin, Arthur Howard ,,,.","Nil.:,'...'. ","Martin, Mrs. A. H....","9500, GOth Ave., Edmonton, S., Alta.  ",England...,Edmonton ,Jan.,1915.
+8,926,450,963,3711,,4305S2,Sergeant.,"Martin, William Patrick MM","Royal Navy....,.","Martin, M.  ",2nd Dragoon Guards   ,Ireland ,Camrose ,Jan.,1915.
+8,962,450,993,3712,,430030,Private..,"McAra, John Cameron ",Territorials   ,"•McAra, Peter  ","Chailey, Alta ,.,  ",Scotland..,Edmonton ,Jan.,1815.
+8,991,450,1023,3712,,430938,Private..,"McBain, Alexander ",Territorials ,"McBain, Mrs. M ","33 Brunswick Terr., Brighton, Eng. ",Scotland..,Edmonton......,Feb.,1915.
+8,1021,450,1053,3712,,430030,Private..,"McBratney, Robert ",Can. Mil.... ,"McBratney, Mrs. R...","60, 5th St. N.E., Edmonton S., Alta ",Ireland ,Edmouton.,Jan.,1915.
+8,1050,449,1082,3712,,430489,Private..,"McCardic, Frederick Charles",77 th Regt ,"McCardle, William A.","Assiniboia, Sask   ",England...,Edmonton ,Jan.,1915.
+8,1080,449,1112,3711,,43G8G6,Private..,"McFadycn, John ",Nil:.;. ,"MUlur, Mrs. Mary ","Finnery Cottage, Caldarvan, Dumbarton, Scot..",Scotland..,Edmonton ,Feb.,1916.
+8,1094,1290,1119,1327,•V
+8,1107,450,1142,3711,,43075-1,Private..,"McGonigal, J  ","Nil.,.;.... ...","McGonigal, Mrs. J....","28 Main St., Bainsford, Falkirk, Stirling, Scot...",Scotland..,Edmonton ,Feb.,1915.
+8,1134,450,1172,3710,,435022,Private..,"McGregor, Peter Alexander.,","Nil.',’.-.-  ","McGregor, Andrew...","Pibroch, Alta        ",Scotland..,Edmonton ,Jan.,1915.
+8,1165,57,1182,86,i -•
+8,1168,449,1200,3710,,430930,Private..,"McGregor, William  ",Territorials ,"McGrogor, Mrs. K....","337 Sinclair St., Edmonton, Alta  ",Scotland..,Edmonton ,Feb.,1915.
+8,1197,450,1230,3710,,430023,Private..,"McIntosh, James .•  ","Nil..., ","McIntosh, John ","Toininthold Farm, Aberfeldie, Perth, Scot......",Scotland..,Edmonton ,Jan.,1915.
+8,1227,50,1260,3710,:!•.. .,430919,Private..,"McMillan, John Duncan......",Nil.-*..;. ,"McMillan, D. A ","Vankleek Hill, Ont     ",Canada....,Edmonton ,Feb.,1915.
+8,1257,450,1295,3819,,437203,Private..,"McPherson, Dan Campbell",Can. Mil....' ,"McPherson, J. R ","McLellan’s Brook, Pictou, N.S . v..",Canada....,Edmonton ,May,1015.
+8,1264,3788,1284,3819,co
+8,1287,450,1320,3818,,430080,Private..,"McWiUiam, John... ",Nil ,"McWUliam, Alexander","Kirkbean, Dumfries, Soot    ",Scotland..,Holden ,Jan.,1915.
+8,1287,3788,1307,3818,o
+8,1316,449,1356,3712,,437401,Corporal.,"Messum, Sydney Arthur...",Imp. Forces ,"Messum, Sergeant Fre","Army Pay Corps, Pictermaritzburg^S.A ",England...,Edmonton ,June,1915.
+8,1341,449,1379,3712,,437039,Private..,"Miller, Albert Edward  ",S. A  ,"Miller, Mrs. Lotta ","278 Hamilton Ave., Edmonton, Alta.     ",Canada....,Edmonton......,Mar.,1915.
+8,1377,449,1410,3712,,430834,Private..,"Miller, David ",Nil  ,"Miller, R ; ","164 Pinckston Rd., Townhead, Glasgow, Scot...",Scotland..,Edmonton ,Feb.,1915.
+8,1406,449,1440,3712,,430840,Privato..,"Miller, Henry Genhart ","Nil.*.;.,;.'...... ","Miller, Peter ","Nevis, Alta ;   ",U.S.A ,Edmonton ,Feb.,1915.
+8,1433,448,1470,3712,,436533,Sergeant.,"Mitchell, Albert Stanley ",Nil ,"Mitchcll, Chr.rlca ","440, 8th Ave., N.E., Edmonton, Alta...........",England...,Edmonton ,Jan.,1915.
+8,1436,55,1505,3712,! 5 ■' ■.,430014,Privato..,"Mitchcll, Frank F  ",Nil.:..;'....v.......,"Mitchell, Daisy A....","Edgorton, Alta      ",Malta ,Wainwright.....,Jan.,1915.
+8,1495,448,1530,3713,,43G69G,Private..,"Money, Charles Edward..,..",30th Regt.,"Morris, Edgar      ","38 Wilson St., Edmonton, Alta.     ",England...,Edmonton ,Feb.,1915.
+8,1501,32,1579,188,•iv;K
+8,1526,447,1560,3712,,43G049,Private..,"Monypenny, John ",Nil.. ,"Monypenny, Brockett.","Cooking Lake, Alta :        ",England...,Edmonton......,Jan.,1915.
+8,1556,447,1590,3713,,43G042,Private..,"Morton, Albert   ",nu..:;   ,"Morton, George J ","110 Kennedy Rd., Barking, Essex, Eng.  ",England...,Edmonton ,Feb.,1915.
+8,1570,53,1627,172,I’*:’ 1
+8,1585,447,1620,3713,,430020,Private..,"Murray, Christopher Desmond....","Nil.,,,.. ","Murray, R. C. .!• ","Lightwood, Konley, Surroy, Eng  ","England..,",Edmonton ,Jan.,1915.
+8,1615,52,1656,3713,4 » • i :,430201,Private..,"Nelson, John Arthur ","Nil..;,.;.: •....","Nelson, Mrs. A. ","0620 Rupert St., Strathcona, Alta,   ",England.:.,Edmonton ,Jan.,1915.
+8,1643,446,1678,3713,,430889,Private..,"Newport, Allan Graham ","Territorials......,.","Newport, William.....","Glencoe, Ont    :.",Canada ,Edmonton ,Feb.,1915.
+8,1649,47,1745,3713,j. ',430700:,Private..,"Olson, Axel .; ",Can. Mil ,"Anderson, O  ","Yomb, Webcrod, Sweden ",Sweden....,Edmonton ,Feb.,1915.
+8,1673,447,1711,3713,,430775,Private..,"Newport, Gordon   ",Nil  ,"Newport, W'Uliam....",Giencoe. Ont    v ,Canada....,Edmonton ,Feb.,1915.
+8,1728,52,1769,3713,4,436844,Private...,"Ormerod, Doctor Young ","19th Regt......,.,","Ormerod, Georgo You","Manchester, Eng     ............  ",England...,Edmonton ,Feb.,1915.
+8,1763,447,1798,3713,,430S40,Private..,"Ott'cn, Richard Jones ",Nil ,"Owen, William.  ","“Gwindy,"" Portmadoe, Carnarvon, N. Wales...",Wale ,Edmonton ,Feb.,1915.
+8,1794,447,1829,3713,,437410,Private...,"Palmer, Charles William ",Nil..... ,"Palmer, Fredorick....","11322, 86th St., Edmonton, Alta ",England...,Edmonton ,June,1915.
+8,1824,446,1859,3713,,43G748,Private..,"Palmer, George Percival.....",NU   ,"Palmer, John ","Walcote, Norwich, Eng   ",England...,Edmonton......,Feb.,1915.
+8,1855,446,1889,3713,,436510,Private..,"Paterson, Patrick  ",Nil  ,"Paterson, H   ","230 High St., Belfast, Ire  ",Ireland....,Edmonton ,Jan.,1915.
+8,1885,446,1920,3712,,436S48,"Private..,","Peake, Samuel Scrag  ",NU...... ,"Nicholson, H  ","372 Stockport Rd., Revelshcino, Manchester, Eng",England...,Edmonton ,Feb.,1915.
+8,1914,446,1953,3712,,430638,Private..,"Phillips, David   ","Nil...', ","Phillips, William......","P.O. Box 584, Edmonton, Alta  ",Wales ,Edmonton ,Jan.,1915.
+8,1943,446,1982,3703,,436199,"Private..,","Potter, Richard Charles..... ruTl","Nil..:,","Potter, Richard......","21 Waddon lid., Croydon, Surrey, Eng.......",England...,Edmonton......,Jan.,1915
+8,1967,51,1984,76,• '
+8,1977,50,2008,2986,t ',430783,"Private..,","Preisig, Charles   ",NU..,"Preisig, Mrs. N.","Blakomore ViUa, Blakemore Ra., Streatham,",Su,irrey
+8,2001,48,2034,3712,i -,,i,,,,,I -,"England.,.","Edmonton.,.....",Fob. 8,1915.
+8,2009,50,2066,3712,i,430000,"Private..,","Rabbich, Edward D ",NU....;.....-:..;..,"Rabbich, Ernest John",Tofieid* Aita!II”!!”!!.!!”,Canada....,Tofield..,Jan. 29,1915.
+8,2022,1529,2034,1576,-V >
+8,2024,2942,2040,2948,r
+8,2060,445,2095,3713,,438502,Private...,RadoliiTe. Joseph ,"Nil....;...,.,..;,.","Radcliffo, G. It.......","Corwhin, Ont..:.    ",Canada....,Edmonton ,Jnn. 22,1916.
+8,2089,446,2124,3713,,430757,Private...,"Ralter, George   ","nu.,..:......:;...","Rafter, John  ","Ballyfin, Queens Co., Ire.",Ireland....,Edmonton ,Feb. 5,1915.
+8,2118,445,2154,3713,,436528,Private...,"Rathier, Emile  ",NU   ,"Geoffrey, Mrs. .......","St. Georges, p.q. ..........",Canada....,Edmonton ,Jan. 20,1915.
+8,2148,445,2184,3714,,436301,Private...,"Reid, John : ",Territorials..; ,"Reid, Mrs. M ","3 George St., Peebles, Scot.,.  ",Scotland..,Edmonton ,Jan. 9,1915.
+8,2277,2395,2353,2617,2 or
+9,232,454,265,3706,430576,Private.,"Rennie, William Gall.....",101st Regt.,"Rennie, Alexander ","342 Fraser Ave., Edmonton, Alta  :  ",Scotland...,Edmcntorv ,Jan.,1915.
+9,263,454,297,3705,436143,Privato.,"Roberts, David Oswald..",Nil ,"Roberts, D   ","8543 Whyte Ave. E., St.raxhcona, Edmonton S., Alta...",Wales ,Edmonton ,Jan.,1915.
+9,294,454,328,3705,430561,Private.,"Roberts, Robert  ","Nil.....,.;.","Roberts, Robert ","Caolaidd, Llanfairfcchan, Carnarvon, N. Wales    ",Wales......,Edmonton. ,Jan.,1915.
+9,325,453,360,3705,430913,Private.,"Roberts, Thomas ",NU ,"Roberts, Hugh.. ","6 Llewollyn Terr., Gian Conway, Denbigh, Wales ",Wales ,Edmonton......,Feb.,1015.
+9,357,452,389,3704,437306,Privato.,"Rochon, Joseph ",Nil ,"Rochon, Mrs. Elise","145 First St., Edmonton, Alta  ",U.S.A......,Edmonton  ,Juno,1915.
+9,386,452,420,3704,430727,Privato.,"Ross, James     ",Nil ,"Ross, John   ","Aughinsillagh, Derry, Ire   ",Ireland ,Edmonton.../..,Feb.,1915.
+9,415,451,450,2983,430637,Private.,"RoBser, David William...",Nil ,"Rosser, Mrs. Martha","5 Bryn Henley Terr., 4; Porth, Rhondda Valloy, S"
+9,449,2248,476,3704,,,,,,Wales         ,Wales ,Edmonton...'...,Jan.,1915.
+9,476,451,510,3704,430935,Private..,"Rowe, Thomas Hcrotvard........",Nil  ,"Rowe, Simeon.......","Blackwater, Hants, Eng...........,..;!,....... ",England....,Edmonton......,Feb.,1915.
+9,506,451,541,3704,430259,Sergeant.,"Ruflell, Albert.  ","101st Regt....;. ,.","Ruffell, A    ","Roseville, Waihinville Rd., Guildford, Surrey, Eng....",England....,Edmonton ,•Tan.,1915.
+9,534,449,571,3705,430181,Corporal.,"Rule, John    ",Nil.. ,"Rule, Mrs. L. .  ;","Grinden Terr., Whitley Bay, Northumberland, Eng. .",England....,Edmonton.;....,Jan.,1915.
+9,566,449,600,3704,430473,Privato...,"Saker, James.     ",Territorials...'........,"Saker, Mrs. J.   ","11516, 72nd St., Edmonton, Alta.....;   ",England....,Edmonton. ,Jan.,1915.
+9,596,449,631,3704,430632,Corporal.,"Salmon, Robert Swaine.....t.,...",Nil ,"Salmon, Robert Henry","116 Sunnyhill Rd., Streatham, London, Eng......",England ,Edmonton......,Jan.,1915.
+9,628,449,660,3704,437040,Private...,"Shaw, Lester Warren",Nil................,"Shaw, F. M ","Walden, Vt., U.S.A     ",U.S.A ,Edmonton......,Mar.,1915.
+9,658,449,691,3703,430294,Private...,"Shearer, James......... 11........",Nil..,"Shearer, Jessie..,......","18 Robinson St., Greenock, Soot.    ",Scotland...,Edmonton ,Jan.,1915.
+9,687,449,722,2986,430001:,Private...,"Silcock, Richard ....... .V.  ",90th Regt..... . . ..;,"SUcock, Mrs.  ","450 Bolton Rd., Pcndlebury, N. Manchester, Lancs,"
+9,721,2229,751,3703,,,,,,'Eng ;...     ,England....,Edmonton......,Feb.,1915.
+9,747,448,781,3703,430679,"Private ,  ","Simpson, Robert Goulding........",Nil ,"Simpson, George.....","Buck Lake Ranch, Innisfreo, Alta................",England....,Edmonton ,Jan.,1915.
+9,777,448,811,3703,430132,Private ....,"Skelton, William...,  ",Nil  ,"Skelton, Mrs. J ","12S32, 68th St., N. Edmonton, Alta.,.,. ...-.",England....,Edmonton......,Jnn.,1915.
+9,806,447,842,3702,437083,Private ,"Skidmore, Ernest...  ",Nil : ,"Skidmore, Harry S","645, 16th St., I^thbridgo, Alta   ",England....,Edmonton ,May,1915.
+9,838,448,875,3702,437345,Privato.... ,"Skilling, David      ,",16th Regt ,"Goring, Jamos.......","Alexander, Man,,;..'. ....w.... i........",Canada ,Edmonton ,June,1915.
+9,863,446,900,3702,435534,Sergeant.... ,"Slight, Frederick John....., .Mpl",Imp. Foroes ..,"Slight, A. J....,i....",,Eng.,"The Life Boat Arch, Kings Rd., Brighton, Sussex,",England....,Camrose ,Jan.,1915.
+9,895,446,930,3701,436227,"Private., ","Smith, Alan GeOrge   ",Nil ,"Smith, F............","5 Park Row8, Stony Stratford, Eng..............",England....,Edmonton ,Tan.,1915.
+9,926,445,958,3701,430076,Private.... ,"Smith, Clarence V ",Nil  ,"Smith, L. M  ","Ill South Park St., Halifax, N.S....     ",Canada.....,Edmonton i,Jnn.,1015.
+9,955,445,987,3702,430617,Private ,"Smith, George Alfred.......",Nil ,"Smith, Edward ","Pentro, nr. Mold, Flint, N. Wales.......... ",Wales ,Edmonton ,Jan.,1015.
+9,981,444,1019,3702,437351,Private...! ,Stonchowcr. Harry.    MM,"Nil ...,","Stonehewer, Georgo","10 Kirk Rd., Sheffield, Eng..;....",England....,Edmonton ,Juno,1915.
+9,1015,443,1046,3701,430534,Private ,"Stuart, William Laing.",Territorials ,"Stuart, Elizabeth..;.","6 Church St., Huntley, Aberdeen, Scot.  ",Scotland...,Edmonton ,Jnn.,1915.
+9,1041,443,1076,3702,430391,Private ..,"Styles, Charles ",Nil...... ,"Styles, James ","207 Rushmoro Rd., Clapton Park, N.E., London, Eng.",England....,Edmonton ,Jnn.,1915.
+9,1073,442,1105,3701,436015,Private..... ,"Sutton, Cyril Moxey     i;..,",Territorials ,"Sutton, Christina....","11836, 67th St., Edmonton, Alta.., .; : jT: .........",England....,Edmonton ,Jan.,1915.
+9,1103,442,1138,3810,430087,Private..... ,"Sweeney, Myles      ",Nil ,"Sweeney, Daniel ","Munatotton, Co. Donegal, Ire. v.'...7..........",Ireland ,Tofield ,Jan.,1915.
+9,1118,3778,1138,3810,co
+9,1132,440,1168,3702,436445,Private  ,"Tait, William Young   ",Nil   ,"Tait, J. N .•","4 Sirlie Terr., Dundee, Scot.:   H;:........",Scotland...,Edmonton ,Jan.,1915.
+9,1162,440,1196,3313,436710,Private. I.... ,"Tansley, Herbert Webster ",NU....* ,"Tansley, William ","Sharon, Ont   -..-ivV;.....;.",Canada ,Fort
+9,1194,3279,1220,3702,,,,,,,,Saskatchewan,Jan.,1915.
+9,1221,440,1256,3701,430709,Private ,"Tawse, Charles Forbes.  """,Territorials ,"Tawse, Mrs. M ","337 Sinclair St., Edmonton, Alta..:.7vhi...:...:",Scotland.,Edmonton......,Feb.,1915.
+9,1253,439,1286,3701,436155,Co. Sergt.-Major..,"Tebby, Joseph Charles.... ","Territorials.,.;","Tebby, Mrs. Rose...","11940 Jasper St. W., Edmonton, Alta.   ",England..,Edmonton  ,Jan.,1915.
+9,1279,439,1316,3701,430842,Private ,"Thompson, William ,   ",Nil i. i,"Thompson, George..","Shettlostono, N. Glasgow, Scot ",Scotland.,Edmonton ,Feb.,1915.
+9,1313,439,1346,3701,437452,Private ,"Thomson, William.... ........ ...,",Nil  ,"Kaplin, Isaac ","Calgary, Alta     •",U.S.A....,Edmonton......,June,1915.
+9,1340,438,1376,3702,430540,Private ,"Tomkinson, Georgo William., MM",Royal Navy..,"Tomkinson, Charles","Gladys Villa, Highfield Rd„ Birmingham, Eng..",England..,Edmonton ,Jan.,1915.
+9,1368,438,1404,3702,430014,Private ,"Tourtois, Alfred  ",Nil ,"Brown, Mrs ","Cor. Ottawa & Norris Sts., Edmonton, Alta.....",France...,Edmonton ,Jan.,1915.
+9,1400,438,1435,3702,430425,Private. ,"Turner, William John ",Nil ,"Turner, Mrs. E ","317 ICenncday St., Edmonton, Alta.  \...",Canada...,Edmonton ,Jan.,1915.
+9,1431,438,1465,3702,43700-1,Privato ,"Vaughan, Edgar   ","Nil..., ","Vaughan, W. D ","c/o Stationary Engineers’ Association, Vancouver,",B.C.,"England.,",Edmonton ,Mar.,1915.
+9,1458,438,1494,3702,430969,Private ,"Walker, John     ",Nil ,"Walker, Mrs. E ","Bootle, Liverpool, Eng...;...........i.  ;...",England..,Edmonton ,Feb.,1915.
+9,1491,438,1525,3702,437450,Private ,"Ward, Edward...    ",12th Regt ,"Ward, Joseph ","Kildare, Ire.       ;. i..",Ireland...,"Edmonton....,.",Juno,1915.
+9,1521,438,1554,3703,436689,Privato ,"Ward, Leonard E ",Nil ,"Ward, John ","101 Latchmere Grove, Battersea, London, Eng...",England..,Tofield ,Jan.,1915.
+9,1551,438,1585,3702,437007,Private ,"Ward, Vcm ",95th Regt.....,"Schneider, Mrs. J ","P.O. Box 158, Wilkie, Sask i   ",U.S.A....,Edmonton ,Mar.,1915.
+9,1581,438,1614,3702,430281,Private.....  ,"Waterhouse, L. Arthur   ",Nil ,"Waterhouse, J ","076 Namayo Ave., Edmonton, Alta.: i. ■ ",England..,Edmonton ,Jnn.,1915.
+9,1611,438,1644,3702,430105,Private ,"Wntkins, Evan Robert ",Nil....: ,"Watkins, Georgo.....","Llanerfyl, Welshpool, Montgomery, Wales ",Wales....,Edmonton ,Jnn.,1915.
+9,1638,438,1674,3702,435175,Privato ,"Watson, Earl  ",Nil ,"Watson, W ","635 Syndicate Ave., Edmonton, Alta, riVt.",Canada...,Edmonton ,Jan.,1915.
+9,1670,438,1703,3703,430984,Private ,"Watson, Joshua Dawson... ",Nil  ,"Watson, Thomas H..","210 Morris St., Edmonton, Alta...,; . t’....:..",England..,Edmonton ,Feb.,1016.
+9,1700,439,1733,3703,430558,Private.. ,"Weavers, Frederick Arthur..",Territorials....,"Weavers, Mrs. F. A..","Provost, Alta           ",Englnnd..,Provost ,Jnn.,1015.
+9,1727,438,1763,3702,430851,Privato ,"Webb, Truman Banford ",Nil...; ,"Wobb, Mrs. E. R..,.","10211, 122nd St., Edmonton, Alta.., ,h-$i........",Canada...,Edmonton ,Feb.,1915.
+9,1758,437,1792,3703,430700,Private ,"Weeks, Herbert Edward  ",Nil ,"Weeks, Mrs. E., ","11728 , 85th St., Edmonton, Alta.....,,..,. ",England..,Edmonton ,Feb.,1915.
+9,1788,436,1822,3704,430801,Private ,"Wells, Percy  ",Nil ,"Wells, Mrs. C ","646 Carey St., Edmonton, Alta..... .i.'t.    ",Canada...,Edmonton ,Feb.,1915.
+9,1818,437,1852,3703,430180,Corporal..! » ,"Wells, William.......  ",S.A.....,"Wells, George  ","Ilespeler, Ont   ; ",England..,Edmonton......,Jnn.,1915.
+9,1847,436,1882,3704,430575,Private ,"Weston, Joseph MM",Nil ,"Weston, Miss K ","Nanaimo, B.G ;  ",England..,Edmonton ,Jan.,1915.
+9,1877,435,1911,3703,436286,Private ,"Whitaker, Samuel ",Territorials....,"Whitaker, Mrs. S....","10500, 105t.h St., Edmonton, Alta.   ",England..,Edmonton ,Jnn.,1015.
+9,1904,434,1941,3704,437051,Private ,"White, Georgo Gordon ",Nil ,"White, A  ","277 Union Grove, Aberdeen, Scot;  ",England..,Edmonton ,April,1915.
+9,1935,434,1971,3704,437020,Private ,"Whito, Joseph    ","Imp. Forces,..","White, Mary  ","012 Mulvoy Ave., Fort Rougo, Winnipeg; Man....",Scotland.,Edmonton ,Mar.,1915.
+9,1964,434,1999,3704,436609,Private ,"Whitehead, William ",Nil ,Whitehead. Mrs. M..,"11709, 81st St., Edmonton, Alta  ",England..,Edmonton ,Jan.,1915.
+9,1994,434,2029,3704,436669,Private ,"Wilburn, Mahlon  ",Nil ,"Wilburn, William A..","Contropolifl, Kansas, U.S.A.... ",U.S.A....,Edmonton ,Jan.,1915.
+9,2239,2467,2303,2559,DT
+10,432,1542,480,2395,51st Battalion—2nd Reinforcing Draft
+10,547,345,563,360,A
+10,552,1265,580,1476,• *.:> . •.;»-V.f--1 .
+10,560,3208,585,3535,Taken on Strength.
+10,578,345,591,360,c
+10,592,345,618,390,i' o’
+10,611,336,646,3088,,BY.,,,Former Corps.,,,Country of
+10,611,2302,638,2652,Address of Next of Kin.
+10,613,1645,640,1982,Name of Next of Kin.
+10,616,526,640,612,Rank.
+10,616,915,640,1011,Name.
+10,641,2965,666,3054,Birth.
+10,647,344,665,366,M
+10,648,1385,710,1482,St':
+10,658,3213,683,3300,Place.
+10,658,3456,683,3538,Date.
+10,682,336,703,360,K
+10,761,336,794,3593,,43C8G7,Private ,"Williams, William Rowland",Nil v.v;.,"Williams, Mrs. I...","4 Marion St., Clydach Vale, Rhondda, Glam, Wales",Wales.:..,,Feb.,"12,",1915.
+10,791,336,825,3593,,430865,Private ,"Wills, Stanley Charles...",Nil ,"Wills, Mrs. A......","West End House, Ashburton, Devon, Eng ",Englnnd..,Edmonton ,Feb.,"13,",1915.
+10,822,335,855,3593,,43G553,Private ,"Wilson, James ",lOth Drags;r.'..,"Wilson, Joseph.... .","Coleraine, Derry, Ire ; ..........",Ireland...,Edmonton ,Jan.,"22,",1915.
+10,852,18,884,3594,: r: ■* .. .,410099,Private ,"Wilson, John Morrison...",Nil..  ,"Wilson, Charles ","Station Master, Cullen, Banff, Scot. .  ",Scotland.,Edmonton ,Feb.,"1,",1915.
+10,880,335,915,3593,,430500,Private  ,"Wise, Stanley........","101st Regt.'.:;',"",","Wise, Harry.. .. i..","7 Camden Grovo, Chislehurst, Kent, Eng..;.   ",England..,Edmonton ,Jan.,"20,",1915.
+10,911,16,945,3594,. r' ’ • ....,436590,Private ,"Wood, John      ",Nil.'. ,"Wood, Frank ","Woodstock, Cappoquin, Co. Waterford, Ire..,:.........",Ireland...,Camrose. ,Jan.,"22,",1915.
+10,942,34,974,3593,■ 1 y ‘ ' 1 ■,430041,Private ,"Worton, William ","Territorials.',...","Worton, Edward..,","22 Cradley Rd., Cradley Heath, StaSs, Eng...........",England..,Edmonton.. ....,Jan.,"28,",1915.
+10,972,19,1005,3593,. J . -,43US0G,Privato ,"Wray, Henry ",Imp. Forces: i,"Wray, Mrs. M  ","253 Columbia Avo., Edmonton, Alta ",England..,Edmonton ,Feb.,"8,",1915.
+10,998,333,1035,3593,,437018,Private ,"Yates, Ernest   ",Imp. Foreos. i,"Yates, Thomas ","White Bull Hotel, Longridge, Lancs, Eng....... i. i....",England..,Edmonton ,Mar.,1.,1915.
+10,1032,334,1064,3593,,436424,Privato ,"Yeoman3, Charles..;","Nil ; : ,","Yeomans, Samuel.","Cardiff, Alta.   ",England..,Edmonton ,Jan.,"16,",1915.
+10,1062,333,1095,3593,,436700,Private ,Young. Albert Henry,Nil v.;..,"Young, Mrs ","42 Falconer Rd., Bushey, Herts, Eng.        ",England..,,Feb.,"1,",1915.
+10,1122,1305,1151,1321,\
+10,1151,1400,1195,2540,51st BATTALION—3rd REINFORCING DRAFT
+10,1152,11,1177,159,‘ it. V ** ■'
+10,1175,10,1197,134,"*t- ., ■"
+10,1263,7,1299,3595,. .jV,,Lieutenant ,"Mack Jost, Norman Roy.",C.O.T.C   ,"Mack Jost, Mrs. Edith G","20 Welbeck Court, Kensington, London, W., Eng...",England ,Sarcee Camp.,Oct.,29.1915.
+10,1293,335,1329,3702,,437797,Private ,"Banks, Edward ",Imp. Forces.  ,"Banks, Albert ","Arms Hotel, Mare St., Hackney, London, Eng....",England ,Edmonton ,Oct.,"18, 1915."
+10,1300,3671,1319,3702,CO
+10,1323,335,1359,3702,,430316,Private ,"Barrie, George F........",43rd Regt ,"Barrie, Mrs. A ","113 Waverley St., Ottawa, Ont  ",Canada ,Edmonton ,Jan.,"9, 1915."
+10,1323,3672,1342,3702,to
+10,1350,20,1388,3595,"' \ , ■ ■ ■",437283,Private ,"Beet, William ",Nil    ,"Beet, Mrs. Rebecca..,.","14 Sanders Rd., Blackburn, Lancs, Eng....,,, ",England....,Edmonton ,May,"18, 1915."
+10,1383,335,1417,3595,,436684,Private ,"Britton, Gerald ",", Ni! ","Britton, Irvin ","Viking, Alta  ",Canada ,Viking.......,Jan.,"27, 1915."
+10,1413,72,1448,3595,■ - -S- ' -,436523,Private ,"Broomfield, William George",Imp. Forces ,"Broomfield, Mrs. L. E.","North Jaspar Place, Edmonton, Alta  ",England ,Edmonton....,Jan.,"20, 1915."
+10,1443,335,1478,3595,,437301,Private ,"Connolly, James Joseph K.",", S.A ","Guaghty, Mrs. K ","P.O. Box 71, Vegrcville, Alta   ",England.. 1.,Edmonton ,June,"12, 1915."
+10,1472,39,1506,3595,• > - ..,437226,Private ,"Doan, A. Frederick ",. Ni!    ,"Doan, Mrs. Emma ","R.R. No. 2, Tofield, Alta .....,,..",Canada ,Edmonton ,May,"13, 1915."
+10,1502,337,1537,3595,,437185,,"Donnelly, John ","Territorials...,..,,,","Donuellv, Mrs. Theresa","407, 15th Ave., E. Calgary, Alta ",England ,Edmonton ,May,"7, 1915."
+10,1529,336,1568,3594,,437025,Sergeant ,"Fisher, Herbert S.......",". R.N.W.M.P..; . , .","Fisher, William T ","Villiers Rd., Sherwood, Notts, Eng........",England ,Edmonton ,Aug.,"17, 1615."
+10,1562,335,1597,3595,,437524,Private ,"Frazer, John Baptist ",. NU ,"Whitford, Alfred.......","Goodfish Lake, Alta .)",Canada...:.,Edmonton ,Aug.,"14, 1915."
+10,1588,336,1625,3594,,437270,Privato ,"Gill, Gerald Francis.....",. Nil....   ,"Harrington, Mrs ,","Cherry Field, Bath. Larman, Dublin, Ire.",Ireland.....,Edmonton....,May,17.1915.
+10,1621,335,1655,3595,,437419,Private ,"Gunning, John ","105th Regt.:,....","Gunning, Mrs. Charlotte",Belfast. Ire ,Ireland...,Edmonton ,June,"15, 1915."
+10,1650,335,1685,3594,,436714,Private ,"Hanson, Walter Henry...",", 101st Regt..,.....","Hanson, E. L ","Cor. 121st St. & Muskoka Ave., Edmonton, Alta..",Canada..:..,Edmonton....,Feb.,2.1915.
+10,1680,9,1715,3595,-* ■ i : - •,437603,Privato ,"Hardie, Robert L ",Nil  ,"Hardie, William J ","12618. 109th Ave., Edmonton, Alta. ",Canada.....,Edmonton....,Aug.,"23, 1915."
+10,1706,155,1744,3595,,437015,Private ,"Hogan, James P ",Nil  ,"Hogan, Mis3 Celia ","321 Hill St., London, Ont    ..",Canada ,Edmonton ,Aug.,"18, 1915."
+10,1733,155,1740,161,","
+10,1739,9,1774,3596,..<• . .,430912,Private ,"Huxley, James Alexander",. Nil... :....V.. :.....,"Huxley, T. W. H......","Gen. Del., Edmonton, Alta  ..,",Ireland ,Edmonton....,Feb.,"16, 1915."
+10,1768,336,1804,3596,,437873,Private ,"Jones, Albert Edward—",. Royal Navy...,"Jones, Clara Elizabeth.","29 Station St., Barry Dock, S. Wales.... ....",Wales.. ....,Edmonton ,Nov.,"5, 1915."
+10,1797,335,1834,3596,,437793,Private. .,"Kinross, Cecil John ",Nil  ..,"Kinross, James Stirling","Lougheed, Alta    ","England,...",Calgary......,Oct.,21.1915.
+10,1827,335,1866,3596,,437102,Private ,"Leclair, Roger ",", Nil.... ","Leclair, G. L.    ","Quebec, P.Q  ... .v. t!. ",Canada.,Edmonton....,May,"10, 1915."
+10,1857,335,1897,3596,,436900,"Private....., ","Lillis, William ",. Territorials. .....-. .-,"Lillis, Mrs. Mary ","52 Wellington St., Perth, Australia....",Australia...,Edmonton....,Feb.,"15, 1915."
+10,1887,335,1925,3596,,437007,Private : ,Lindsay. James ,NU v.-.v.v..,"Lindsay, Mrs. Catherine","110 Toldbodgate St., Dellminrona, Norway,.,.,,.",Scotland...,Edmonton....,Aug.,"18, 1915."
+10,1917,37,1955,3614,■\ .,437790,Privato  ,"Lockc, Brucc ",". NiL.i,..,,:..;...","Locke, Arthur.. ","Clover Bar Rd., Edmonton, Alta..,,","Canada....,",Edmonton....,Oct.,"15, 1915.."
+10,1947,16,1984,3596,■ ',436143,Private     ,"Marchant, George ",Nil....  ,"Marchant, Florence..,.","128 Cliff St., Edmonton, Alta.",England...,Edmonton....,Jan.,"18, 1915."
+10,1976,335,2013,3596,,437402,"Privato....,1 ","Martin, James ",nu ,"Martin, Robert ","20 Athol St., Belfast, Ire...  »..,. ,••>-.......","Ireland....,",Edmonton....,June,"14, 1915."
+10,2004,10,2046,3596,,,"Private .,.",■ V’,43700S,"Martin, Robert Charles..",Nil... ,"Martin. John...,'..,.....","London, Eng  s’. •, ,,",England...,"Edmonton..,,",April,9.1915.
+10,2035,340,2073,3595,,137310,Private ,"Mathescn, Angus D  ",Nil ,"Matheson, John......,.","Coiling wood w., b.c  ,.; ",Canada ,"Ed inonton..,.",June,"12, 1915."
+10,2064,307,2103,3595,,. 4373U0,Private   ,"Maxiine, Eloy  ","Nil....,..., ..',","Cols:, Mrs.,.....","Fort Saskatchewan, Alta,,,,,","Canada.,...","Edmonton...,",June,"14, 1915."
+10,2086,335,2132,4129,,4370S0,Private ,"McMillan, George  ",Nil ,"McMillan, Angus,......","Cumberland, Ont  i.i.....,","Canada.,.,,","Edmonton..,.",Aug.,24.1915.
+10,2086,4023,2126,4129,t'/
+10,2123,334,2161,3595,,437486,Private.' ,"Mitchcll, Arthur ",Nil ,"Rcdford, Mrs. Ruth...","10506,105th St., Edmonton, Alta.I..-...",England ,Calgary....::,July,"29, 1915."
+10,2152,334,2192,3596,,436571,Private   ,"Morin, Joseph Edmond D",Nil  ,"Morin, D. II   ","233 Morris St., Edmonton, Alta....... 1, I.. 1..,,,,",,Edmonton—,Jan.,"23, 1915."
+10,2183,333,2221,3596,,430790,iPrivato... ,"Munro, Murdo   ",Nil  ,"... Munto, J......  ","Point St., Ullapool, Ross, Scot   I.....",Scotland...,Edmonton....,Feb.,"8, 1915."
+10,2257,2027,2317,2061,N
+10,2315,2237,2383,2571,- 3 DT
+10,2485,1484,2520,1905,". V-';,. ' • it"
+10,2500,1411,2518,1471,• i -V.
+11,31,161,57,469,!*■»< I inin ’mwii Wiy
+11,376,354,410,3610,4373S7 Private  ,"Murchison, Roderick ",,,"ICintail, Kyle of Lochalsh, Ross, Scot.  ",Scotland ,Edmonton...,. June,"14, 1915."
+11,407,353,442,3611,43C552 L.-Sergeant ,"Norris, Arthur ",,,"8739, 92nd Ave., Highland Park, 8. Edmonton, Alta...",England ,Edmonton...,. Jan.,"22, 1916."
+11,437,730,473,3610,,"Oldridge, Eli Thomas  ",Nil  ,,"12441, 85th St., Deltan, Edmonton, Alta ",Channel Isles,Edmonton...,. Jan.,"18, 1915."
+11,467,2088,498,3611,,,,,"485 Commons Rd. S., Edmonton, Alta ",Norway  ,Edmonton...,. May,10.1915.
+11,497,2906,525,3610,,,,,,Canada  ,Edmonton...,Feb.,"17, 1915."
+11,527,1243,557,3610,,,Nil  ,,,England ,"Edmonton.,.",", May",17.1915.
+11,557,352,592,3611,,,Nil Of-i ,43741(j Privato ,"Ross, Joseph   ","Purcell, William  ","Carriok, E. Limavady, Derry, Ire.   ",Ireland ,Edmonton...,June,15. 1915.
+11,582,351,620,3610,,,Nil V... ,436021 Privato ,"Rudd, William   ","Rudd, Mrs. Mary  ","686 Churchill Ave., H.B.R., Edmonton, Alta.","England.....,",Edmonton...,Jan.,27.1915.
+11,616,351,652,3611,,,Nil ; ;V;  ,437090 Privato ,"Schroder, Charles Christopher....","Schroder, Harry..,.   ","Muskegon, Mich., U.S.A     ",U.S.A ,Edmonton...,Aug.,"24, 1915."
+11,645,351,681,3611,,,nu.; ,437235 Private ,"Skcffington, Frank .■...","Skeffington, Peter  ","N. Edmonton, Alta       ",Canada ,Edmonton...,May,"13, 1915."
+11,674,1242,708,3610,,,NU .a ,"Standing, T. G   ",,England ,Edmonton...,Jnn.,"25, 1915."
+11,704,353,738,3610,,,"Territorials;.;,  ","3tewart, Mre. J. H  ",137487 Privato ,"Stov.’art, John Darker ","Banff, Alta     ",Scotland.,Calgary ,Aug.,"2, 1915."
+11,733,349,768,3610,,,S.A ,"Tobin, Mrs. Philomeus G.........",437652 Private ,"Tobin, Hugh J ","39 Stuart St., E. Hamilton, Ont    ",Canada ,Edmonton...,Aug.,"23, 1915."
+11,762,348,797,3609,,,Nil...... i......,"Veal, Mrs. T ",437109 Private..... ,"Veal, Thomas  ","P.O., Brcmner, Alta    ",Canada  ,Edmonton...,May,"7, 1915."

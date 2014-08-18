@@ -1,769 +1,943 @@
 1,,,,,"(ISSUED WITH MILITIA ORDERS, 1917.)",Canadian Expeditionary,Force,161st BATTALION,"Nominal Roll of Officers, Non-Commissioned",Officers and Men.,EMBARKATION,"Port: Halifax, N.S.","3m-l-17 Ship: S.S. “Lapland.""","593-2-29 Date: October 30th, 1916."
-2,560,543,3258,582,is,,,Former Corps.,,,Country of
-2,662,694,3752,726,,Lieut.-Colonel...,"Combe, Hugh Barry ",33rd Regt. ..,"Combe, Mrs. Julia Isabel ","Clinton, Ont ",Canada...,Clinton ,Dec.,"15, 1915."
-2,662,723,3752,756,,Major ,"Campbell, Herbert ",33rd Regt,"Campbell, Mrs. Florence Edna... .","Wingham, Ont ",Canada..,Wingham ,Dec.,"10, 1915."
-2,662,751,3751,784,,Major ,"Hays, Robert Stanley ",33rd Regt,"Hays, Mrs. Annie M ","Seaforth, Ont  ",Canada..,Clinton ,Dec.,"6, 1915."
-2,661,780,3752,814,,Major ,"Heaman, William John ",33rd Regt,"Heaman, Mrs. Fern Dudley ","Exeter, Ont ",Canada..,Exeter ,Dec.,"11, 1915."
-2,662,809,3752,842,,Major ,"Shaw, John William ",33rd Regt,"Shaw, Mrs. Harriett ","Clinton, Ont ",Canada..,Clinton ,Dec.,"29, 1915."
-2,662,838,3752,872,,Major ,"Sinclair, Norman Tooke ",33rd Regt,"Sinclair, Mrs. J. I ","Wingham, Ont   ",Canada..,Wingham ,Dec.,"10, 1915."
-2,660,867,3751,898,,Captain ,"Allen, Wallace Best ",33rd Regt,"Allen, John L ","484 Talbot St., London, Ont  ",Canada..,Clinton ,Jan.,"4, 1916."
-2,660,895,3752,928,,Captain,"Fairfull, James Kilgour ",Royal Navy.,"Fairfull, Mrs. Elizabeth Ann ","Clinton, Ont  ",Scotland.,London ,July,"6, 1916."
-2,660,924,3752,956,,Captain,"Macpherson, Charles Kenneth.",33rd Regt,"Macpherson, Mrs. Marion ","c/o William Coats, Goderich, Ont..",Canada..,Clinton ,Jan.,"11, 1916."
-2,660,953,3752,986,,Captain,"McTaggart, Malcolm Douglas.",33rd Regt,"McTaggart, Mrs. Edith ","Clinton, Ont .....",Canada..,Clinton ,Dec.,"13, 1915."
-2,660,982,3752,1014,,Captain,"Sturdy, Alfred Fenton ",33rd Regt,"Sturdy, Mrs. O. H ","Goderich, Ont.  . ",Canada..,Goderich ,Dec.,"14, 1915."
-2,660,1010,3752,1044,,Captain,"Town, Percy Charles ",33rd Regt,"Town, Henry ","55 Nightingale St., Hamilton, Ont.",Canada..,Clinton ,Mar.,"16, 1916."
-2,660,1039,3753,1072,,Captain,"Vanstone, Charles Garfield ",33rd Regt,"Vanstone, Mrs. Grace C ","446 Indian Rd., Toronto, Ont  ",Canada..,Wingham ,Dec.,"24, 1915."
-2,661,1068,3753,1100,,Lieutenant ,"ClufT, Francis Nicholas ",33rd Regt. . . .,"ClufT, Noble ","Seaforth, Ont  ",Canada..,Seaforth ,Dec.,"21, 1915."
-2,662,1097,3752,1129,,Lieutenant ,"ClufT, Reginald Alger ",28th Regt,"ClufT, Rev. W. T ","108 Mornington St., Stratford, Ont.",Canada..,Camp Borden...,Aug.,"30, 1916."
-2,661,1126,3753,1158,,Lieutenant ,"Grieve, William Pearson ",33rd Regt.. . .,"Grieve, Dr. John ","Seaforth, Ont ",Canada..,Clinton ,Dec.,"24, 1915."
-2,661,1155,3753,1187,,Lieutenant ,"Hall, Charles Spooner ",33rd Regt,"Hall, Francis Bernard ","R.R. No. 2, Seaforth, Ont ",Canada..,Hensall ,Dec.,"10, 1915."
-2,661,1184,3753,1215,,Lieutenant ,"Hctherington, Isaac ",33rd Regt,"Hctherington, Mrs. Georgina Jane.","R.R. No. 1, Sheppard ton, Ont ",Canada..,Goderich ,Jan.,"1, 1916."
-2,661,1213,3754,1244,,Lieutenant ,"Holmes, Dudley Elwood ",33rd Regt,"Holmes, Dudley ","Wingham, Ont ",Canada..,Wingham ,Dec.,"10, 1915."
-2,661,1241,3754,1272,,Lieutenant ,"Mair, James Knox ",33rd Regt,"Mair, James K ","Clinton, Ont ",Canada..,Clinton ,Dec.,"16, 1915."
-2,660,1270,3754,1302,,Lieutenant ,"McLean, Harry Clarence ",33rd Regt,"McLean, John A ","Wingham, Ont ",Canada..,Wingham ,Dec.,"10, 1915."
-2,660,1300,3754,1330,,Lieutenant ,"O’Neil, William Eail ",33rd Regt,"O’Neil, William T ","Clinton, Ont ",Canada..,Clinton ,Dec.,"16, 1915."
-2,660,1331,3754,1361,,Lieutenant ,"Reid, Dalton Le Roy ",33rd Regt,"Reid, Mrs. J. F ","Seaforth, Ont ",Canada..,Seaforth ,Dec.,"21, 1915."
-2,660,1360,3754,1389,,Lieutenant ,"Scott, Donald Stewart ",33rd Regt,"Scott, Peter ","Brussels, Ont ",Canada..,Clinton ,Jan.,"11, 1916."
-2,660,1388,3754,1418,,Lieutenant ,"Scott, Frank Macdonald ",33rd Regt. . .,"Scott, Mrs. R. A ","Toronto, Ont ",Canada..,Clinton ,Jan.,"10, 1916."
-2,660,1417,3754,1447,,Lieutenant ,"Scott, Walter Frank ",3Srd Regt...,"Scott, Peter ","Brussels, Ont ",Canada..,Clinton ,Dec.,"23, 1915."
-2,660,1446,3754,1476,,Lieutenant ,"Walter, Royland Allen ",33rd Regt,"Walter, W'illiam ","R.R. No. 4, Goderich, Ont ",Canada..,Clinton ,Dec.,"22, 1915."
-2,659,1475,3754,1504,,Lieutenant ,"Wilson, William Bell ",33rd Regt,"Wilson, John McD ","Hensall, Ont . ",Canada..,Hensall ,Dec.,"10, 1915."
-2,560,1503,3753,1533,C54308,Private ,"Adair, William Gordon ",Nil ,"Adair, William J ","Wingham, Ont   ...,.",Canada..,Wingham ,Jan.,"22, 1916."
-2,560,1532,3754,1561,654784,Corporal ,"Adams, John ",Nil ,"Adams, William ","Seaforth, Ont .  ",Canada..,Seaforth ,May,"8, 1916."
-2,560,1560,3755,1592,654374,Private ,"Adams, Thomas ",10th Regt,"Adams, Mrs. Florence May ","Auburn, Ont ",Canada..,Manchester ,Jan.,"28, 1916."
-2,559,1590,3755,1619,654138,Private ,"Agar, Nelson ",Nil ,"Whittard, Mrs. Ben ","Brussels, Ont  ",Canada..,Brussels ,Dec.,"11, 1915."
-2,559,1619,3755,1649,654294,Private ,"Aitchison, Cleveland ",Nil ,"Aitchison, Mrs. George T ","Lucknow, Ont  ,",Canada..,Hensall ,Jan.,"21, 1916."
-2,559,1647,3756,1677,654001,Private ,"Aitchison, Wallace ",Nil ,"Aitchison, Mrs. Elizabeth ","Wingham, Ont ",Canada..,Wingham ,Dec.,"2, 1915."
-2,559,1676,3756,1706,654716,Co. Q.-M. Sergt...,"Allen, John Andrew ",Nil ,"Allen, Robert ","Wingham, Ont ",Canada..,Wingham ,Mar.,"19, 1916."
-2,559,1705,3756,1735,654359,Private ,"Allin, Lome William J ",Nil ,"Allin, Mrs. Elizabeth ","R.R. No. 2, Clinton, Ont ",Canada..,Goderich ,Jan.,"31, 1916."
-2,559,1734,3756,1764,654257,Private ,"Anderson, Clair ",Nil ,"Anderson, Mrs. Minnie ","Wyoming, Ont   ",Canada..,Goderich ,Jan.,"17, 1916."
-2,559,1763,3757,1792,654415,L.-Corporal ,"Anderson, John George ",Nil ,"Anderson, James ","R.R. No. 4, Brussels, Ont ","U.S.A..,",Belgrave ,Feb.,"8, 1916."
-2,559,1791,3757,1822,654139,L.-Sergeant ,"Andrews, Francis William ",Nil ,"Andrews, Mrs. Mary Ellen ","Clinton, Ont ",Canada..,Clinton ,Jan.,"5, 1916."
-2,559,1820,3758,1852,654002,Sergeant ,"Angell, Reginald George ",Nil ,"Angell, Mrs. Myrtle Mary ","Hensall, Ont   ",England.,Hensall ,Dec.,"15, 1915."
-2,559,1849,3758,1880,654621,Private ,"Anger, George Hugh ",Nil ,"Anger, William ","Gorrie, Ont ",Canada..,Wroxeter ,Mar.,"22, 1916."
-2,559,1878,3758,1909,654599,Private ,"Anger, James Alvin ",Nil ,"Anger, William ","Gorrie, Ont ",Canada..,Wroxeter ,Mar.,"21, 1916"
-2,559,1907,3759,1938,654003,Private ,"Appleby, William James C ",Nil ,"Appleby, James ","Clinton, Ont ",Canada..,Clinton ,Dec.,"6, 1915."
-2,559,1936,3759,1967,654307,Private ,"Appleton, David Gordon ",Nil ,"Appleton, Thomas ","Crediton East, Ont ",Canada..,Exeter ,Jan.,"24, 1916."
-2,558,1965,3760,1996,654684,Private ,"Appleton, Thomas Winifred....",Nil ,"Appleton, Mrs. Florence ","Exeter, Ont ",Canada..,Exeter ,Mar.,"27, 1916."
-2,558,1994,3759,2025,654780,Private ,"Armstrong, Lome Wilson ",Nil ,"Armstrong, George ","Varna, Ont ",Canada..,London ,May,"9, 1G16."
-2,558,2022,3760,2053,654622,Private ,"Atkinson, Lewis Patrick ",33rd Regt,"Atkinson, Mrs. Catherine ","Seaforth, Ont ",Canada..,Seaforth ,Mar.,"23, 1916."
-2,558,2051,3760,2081,054851,Private ,"Baker, William Joseph ",Nil ,"Baker, Mrs. Catherine ","Hensall, Ont ",Canada..,Clinton ,May,"21, 1916."
-2,557,2080,3761,2111,654258,Private ,"Balkwill, David Muir ",Nil ,"McCracken, Mrs. A ","Goderich, Ont ",Canada..,Goderich ,Jan.,"17, 1916."
-3,656,454,2251,483,654442,Act.-Corporal...,"Ballantync, Colin MacCarter...",Nil ,"Ballantyne, James "
-3,656,483,2250,511,654005,Private ,"Barker, Joseph Henry ",33rd Regt. ..,"Barker, Mrs. Annie "
-3,656,503,3846,541,654006,L.-Corporal ,"Barkley, William Reynold ",Nil ,"Barkley, George ",,,,Dec. 22. 1915.,U.S.A ,Brussels 
-3,656,541,2249,568,654860,Private ,"Barr, Walter Earl ",Nil ,"Barr, John "
-3,656,570,2249,599,654407,Corporal ,"Barr, William James ",Nil ,"Barr, Mrs. William J "
-3,656,591,3846,628,65456S,Private ,"Barron, William George ",Nil ,"Barron, Alexander ",,,,"Mar. 11, 1916.","R.R. No. 2, Brussels, Ont  ",Canada 
-3,655,619,3846,655,654346,Private ,"Bates, Albert Russell ",Nil ,"Bates, William K ",,,,Jan. 17. 1916.,Canada 
-3,655,657,2248,684,654472,Private ,"Bates, Charles Fred ",Nil ,"Bates, George D "
-3,655,677,3846,712,654458,Private ,"Bates, Harold Leslie ",Nil ,"Bates, William K ",,,,"Feb. 12, 1916.",Canada ,Goderich 
-3,654,707,3847,744,654347,Private ,"Bates, John Henry ",Nil ,"Bates, George D ",,,,"Jan. 7, 1916.",Canada 
-3,654,736,3846,773,654295,Private ,"Batten, Ralph Wellington ",Nil ,"Batten, John ",,,,"Jan. 22, 1916.",Canada 
-3,654,764,3846,802,654726,Private ,"Baxter, George Leslie ",Nil ,"Baxter, Mrs. Charlotte ",,,,"April 4, 1916.",Canada ,Goderich 
-3,654,794,3846,829,654600,Private ,"Beattie, Thomas Alexander.. .",Nil ,"Beattie, Mrs. Elizabeth ",,,,"Mar. 22, 1916.",Canada 
-3,654,823,3846,859,654193,Private ,"Beattie, William Percy ",Nil ,"Beattie, Mrs. E ",,Canada ,,"Jan. 5, 1916."
-3,654,852,3846,888,654670,Private ,"Beere, Wyndham Irbv F ",Imp. Forces.,"Beere, Mrs. Eleanor Mabel.",,,,"Mar. 22, 1916.",South Africa....,Goderich 
-3,653,881,3846,918,654207,Sergeant ,"Bell, Benson Henry ",Nil ,"Bell, Mrs. Henry ",,,,"Jan. 5, 1016.",Canada 
-3,653,909,3845,946,654391,Private ,"Bell, John Harvey ",Nil ,"Bell, Mrs. Jean ",,,,"Jan. 31, 1916.",Canada ,Goderich 
-3,652,939,3845,974,654563,Private ,"Bell, Russell Melton ",U.S. Army..,"Bell, Mrs. Stelle Catherine.",,,,"Mar. 11, 1616.",Canada ,Goderich 
-3,652,973,2259,1003,654208,Private ,"Bell, Wilfrid Laurier ",33rd Regt. . .,"Bell, Mrs. Elizabeth "
-3,652,1003,2258,1032,654624,Private ,"Bellamy, Charles Arthur H ",Nil ,"Bellamy, Mrs. Annie "
-3,652,1025,3847,1060,654178,Private ,"Bennett, William Clarence ",Nil ,"Bennett, Joseph ",,Canada ,Brussels ,"Dec. 31, 1915."
-3,651,1054,3847,1090,654473,Private ,"Bentley, Earl Charles ",Nil ,"Bentley, Jonathan ",,,,"Feb. 21, 1916.",Canada ,Blyth 
-3,651,1082,3847,1118,654789,Private ,"Bentley, Russell Clarence ",Nil ,"Bentley, Jonathan ",,,,"May 10, 1916.",Canada ,Blyth 
-3,651,1111,3847,1146,654474,Private ,"Berriman, George Edward ",Nil ,"Berriman, Mrs. Rose ",,,,"Feb. 18, 1916.",England ,Goderich 
-3,651,1140,3848,1175,654746,Private ,"Berry, William Frank ",Nil.,"Berry, Mabel ",,,,"April 8, 191G.",England ,Goderich 
-3,650,1169,3848,1205,651570,Sergeant ,"Best, John Harries ",33rd Regt. . .,"Best, John Maitland ",,Canada ,Seaforth ,"Mar. 13, 1916."
-3,650,1197,3848,1233,654375,Private ,"Biggin, Francis Willard ",Nil ,"Biggin, John ",,Canada ,Blyth ,"Jan. 29, 1916."
-3,650,1226,3848,1261,654753,Private ,"Birney, William George ",Nil ,"Birney, Charles William",,,,"April 25, 1916.",Canada 
-3,649,1255,3848,1292,654123,Sergeant ,"Bissett, Thomas Harold ",Nil ,"Bissett, Mrs. Thomas ",,Canada ,Exeter ,"Dec. 31, 1915."
-3,649,1284,3848,1318,654733,Private ,"Black, John James ",Nil ,Black. James D ,,Canada ,,"April 8, 1916.",Hensall 
-3,649,1313,3848,1347,65-1140,Private ,"Black, Robert Anderson ",Nil ,"Black, Robert ",,Canada ,Brussels ,"Dcc. 31, 1915."
-3,648,1341,3848,1378,654141,L.-Corporal ,"Black, Roy Melvin ",Nil ,"Black, James ",,,,"Dec. 31, 1915.",Canada ,Goderich 
-3,3161,1371,3848,1397,,,,,,,,,"Mar. 13, 1916.",Canada ,Clinton 
-3,648,1380,2258,1410,654571,L. -Corporal ,"Black, William ",Nil ,"Black, John Wallis "
-3,648,1400,3848,1438,654661,Private ,"Blackwell, David Benjamin . .",Nil ,"Blackwell, George ","R.R. No. 2, Hensall, Ont ",Canada ,Hensall ,"Mar. 24, 1916."
-3,647,1437,2229,1466,654179,Private ,"Bloomfield, Morris Russell. . ..",Nil ,"Bloomfield, Mrs. Emma.."
-3,3161,1457,3849,1489,,,,,,,,,"Dec. 30, 1915.",England ,Exeter 
-3,648,1466,2257,1495,654124,Private ,"Bolton, Albert Sidney ",Nil ,Not stated 
-3,3162,1486,3849,1517,,,,,,,,,"Jan. 17, 1916.",England ,Wingham 
-3,648,1495,2257,1523,654259,Private ,"Bond, Herbert James ",Nil ,"Bond, Sidney "
-3,647,1515,3849,1552,654625,Private ,"Bowra, Frederick William ",Imp. Forces.,"Bowra, Mrs. Rose Amy ",,,,"Mar. 21, 1916.",England 
-3,647,1544,3849,1584,654568,Private ,"Boyce, Frank Harold ",Nil ,"Boyce, James ",,Canada ,,Mar. 4. 1916.
-3,647,1580,2242,1612,654865,Private ,"Boyle, Edgar Bernard ",Nil ,"Boyle, Mrs. Alice "
-3,647,1602,3849,1639,654671,Private ,"Brad win, Albert Milton ",Nil ,"Bradwin, Mrs. Lena ",,,,"Mar. 20, 1916.","Godcrich, Ont ",Canada ,Goderich 
-3,647,1631,3849,1668,654007,Private ,"B ram field, William Valentine.",Can. Mil,"Bramfield, Mrs. Katie....",,,,"Dec. 28, 1915.","Clinton, Ont ",Canada ,Clinton 
-3,647,1660,3850,1697,727161,Private ,"Brandon, Abraham ",Nil ,"Brandon, Mrs. Catherine ",,,,Dec. 7. 1915.,"Bayfield, Ont ",Canada ,Listowel 
-3,648,1689,3850,1725,554521,Private ,"Brandon, Harold Noble ",Nil ,"Brandon, Mrs. Catherine ",,,,"Feb. 29, 1916.","Bayfield, Ont ",Canada ,Clinton 
-3,646,1721,3148,1756,654008,Private ,"Brazier, George William ",Nil ,"Brazier, Mrs. George ","c/o Mrs. E. Fawrant, 82 Hatcham Park Rd., New"
-3,647,1782,2315,1812,354400,Private ,"Brennan, Frederick ",Nil ,"Johnstone, Mrs. James H "
-3,646,1805,3850,1841,054577,Private ,"Bridle, William Thomas ",Nil ,"Bridle, Mrs. Florence Henrietta.",,,,"Mar. 16, 1916.","Goderich, Ont ",England ,Goderich 
-3,646,1834,3851,1871,654475,Private ,"Bright, William Down ",33rd Regt.,"Bright, Mrs. Beatrice....",,,,"Feb. 21, 1916.",Seaforth. Ont ,Canada ,Seaforth 
-3,646,1863,3851,1900,054360,Private ,"Brindley, Allan Jasper ",Nil ,"Brindley, William ",,,,"Jan. 29, 1916.","Goderich, Ont ",Canada ,Goderich 
-3,643,1891,3851,1928,054: 09,Private ,"Brintncll, Clifford ",Nil ,"Brintncll, Donald ",,,,"Jan. 24, 1916."
-3,645,1921,3851,1955,654421,Private ,"Brittain, Frederick James ",Nil ,"Brittain, William ",,,Wroxeter ,"Feb. 9, 1916."
-3,644,1949,3851,1987,054412,Private ,"Brock, George Edward ",Nil ,"Brock, Mrs. Flossie ",,,,"Feb. 8, 1916.",Hensall 
-3,645,1978,3852,2013,054553,Private ,"Brockenshire, Arva Everett ",Nil ,"Brokenshire, Silas",,,,"Mar. 6, 1916."
-3,645,2007,3852,2044,054260,Private ,"Brombley, Charles Edward",Nil ,"Brombley, William ","Londesborough, Ont ",Canada ,Blyth ,"Jan. 18, 1916."
-3,645,2036,3854,2071,054142,Private ,"Brown, Bernard ",Nil ,"Brown, Edward ","Ripley, Ont ",Scotland ,Seaforth ,"Jan. 1, 1916."
-3,645,2065,3852,2102,054009,Private ,"Brown, .Samuel Henry ",Can. Mil..,"Brown, John ",,Canada ,Clinton ,"Dec. S, 1915."
-3,645,2094,3852,2130,054001,L.-Corporal ,"Brunner, Charles Edward ",Nil ,"Brunner, Mrs. John",,Canada ,,"Mar. 21, 1010."
-3,1855,2123,3853,2153,,,,,"Buchanan, Robert ",,,Londesborough.,"May 9, 1916."
-3,645,2151,3853,2186,054443,Private ,"Buchanan, Ward Miles ",Nil ,"Buchanan, Mark ",,,Brussels ,"Feb. 12, 1916.",Canada 
-4,551,559,3242,597,Mz,,,Former Corps.,,Country of
-4,646,712,3737,741,,Private ,,Nil ,,,,"29, 1910."
-4,645,741,3738,771,,Co. Scrgt.-Major..,"Burchell, Fred William ",Nil ,,,,"6, 1916."
-4,645,769,3737,798,,Private ,"Burling, Lome ",Nil ,,,,19. 1916.
-4,645,799,3736,829,,Private ,"Burton, Roy Martin ",Nil ,,,,"10, 1910."
-4,645,827,3736,858,,Private ,"Butcher, Norman Leslie ",Nil ,,,,"16, 1916."
-4,645,856,3736,887,,Private ,"Butler, John Robert ",Nil ,,,,"21, 1916."
-4,547,885,3736,916,G54831,Private ,"Buttrey, Charlie Wesley ",Nil ,,,,"16, 1916."
-4,643,914,3735,944,,Corporal ,"Caldwell, Robert Revnolds ",,"Caldwell, William T ",,,"10, 1916."
-4,644,943,3736,974,,Private ,"Callow, Earnest  ",Nil ,,,,"8, 1916."
-4,1419,1030,3737,1059,,,,Nil ,,,,"2,",1915.
-4,1418,1059,3737,1087,,,,Nil ,,,,"17,",1916.
-4,643,1087,3738,1115,,Private ,,Nil ,,,,"31,",1910.
-4,545,1116,3738,1143,654481,,,Nil ,,,,"21,",1910.
-4,545,1145,3738,1174,G54011,Private ,"Campbell, Hugh ",Nil ,,,,"IS,",1915.
-4,545,1174,3739,1202,G54194,,,Nil ,,,,8.,1916.
-4,1417,1203,3739,1230,,,,Nil ,,,,"13,",1915.
-4,1417,1232,3738,1259,,,,Nil ,,,,"5,",1916.
-4,545,1261,3739,1288,054 602,,,Nil ,,U.S.A ,,"22,",1916.
-4,545,1290,3738,1318,054231,Private ,"Carruth, Frederick Lachlan ",Nil ,,,Wingham ,"13,",1916.
-4,545,1319,3738,1347,654801,Private ,"Carruth, Joseph Hunter ",30th Regt ,"Carruth, Mrs. Emily ",,Wingham ,"15,",1916.
-4,544,1348,3737,1375,654864,,,Nil ,,Canada ,Clinton ,"21,",1916.
-4,544,1377,3736,1403,654013,,,,,Canada ,,"13,",1915.
-4,544,1405,3736,1432,654662,,,Nil ,,,Manchester ,"23,",1916.
-4,543,1435,3734,1461,654427,,,Nil ,,,Wroxeter ,10.,1916.
-4,542,1462,3735,1490,054523,,,Nil...,,,Clinton ,"22,",1916.
-4,542,1491,3734,1517,654014,,,,,,Goderich ,"13,",1915.
-4,541,1521,3734,1546,654276,,,Nil...,,,,"14,",1916.
-4,541,1549,3735,1579,654278,Private ,"Champion, Roy Albert ",Nil ,"Champion, Mrs. Martha ",Canada ,,"14,",1916.
-4,542,1578,3735,1608,654757,Sergeant ,,,"C’hapman, Mrs. Elizabeth J ",Canada ,,21/,1916.
-4,543,1607,3735,1632,654730,,,Nil...,,,,":io,",1916.
-4,543,1635,3736,1660,751752,,,Nil ,,,London ,27.,1916.
-4,544,1664,3737,1693,654603,,,Nil ,"Chisholm, Mrs. Lily  ",,,"21,",1916.
-4,545,1691,3738,1718,654759,,,Nil ,,,Clinton ,"2,",1916.
-4,545,1719,3738,1746,654694,,,Nil ,,,,"22,",1916.
-4,546,1748,3739,1775,654821,,,Nil ,,,Clinton ,15.,1916.
-4,1747,1777,3740,1806,,,,,"(Mark, Mrs. Margaret ",,Seaforth ,II.,1916.
-4,1419,1805,3741,1832,,,,Nil ,,,Hensall ,1916.
-4,1420,1834,3742,1862,,,,Nil...,,,Bayfield ,"25,",1916.
-4,1420,1862,3743,1890,,,,Nil ,,Canada ,Brussels ,"17,",1915.
-4,3298,1891,3743,1917,,,,,,,Hensall ,13.,1916.
-4,545,1920,3743,1949,654801,,,,,England ,,"13,",1916.
-4,1421,1949,3744,1978,,,,Nil ,,England ,Seaforth ,Dec.,"17,",1915.
-4,1422,1978,3744,2005,,,,Nil ,,,Seaforth ,Dec.,"14,",1915.
-4,3053,2007,3745,2034,,,,,,Canada ,Clinton ,April,"3,",1916.
-4,1422,2036,3745,2063,,,,Nil ,,,,Feb.,"2,",1916.
-4,1422,2065,3745,2092,,,,Nil ,,,,Mar.,"20,",1916.
-4,545,2093,3747,2126,054701,Private ,"Colclough, Douglas Oscar ",Nil ,"Colclough, John ",,Blvth ,Mar.,"27,",1916.
-5,663,420,3850,454,654429,Private ,"Cole, Francis Joshua ",33rd Regt..,"McDonald, Mrs. Allen ","Goderich, Ont ",,,Feb,5,1916.
-5,664,450,3851,483,654822,Private ,"Cole, Oliver John ",Nil ,"Cole, Thomas Henry ","R.R. No. 3, Clinton, Ont ",Canada ,,May,14,1916.
-5,663,479,3850,511,654016,Private ,"Cole, Robert Nelson ",Nil ,"Cole, Mrs. Flossie E ","Clinton, Ont ",Canada ,,,11,1915.
-5,663,508,3851,542,654587,Private ,"Coleman, Charles Sidney ",Nil ,"Coleman, Mrs. E ","6 Brandon Rd., YVood St., Walthamstow, Essex, Eng.",England ,,,IS,1916.
-5,662,537,3851,570,654195,Private ,"Collingwood, Ernest ",Nil ,"Collingwood, Mrs. Violet ","Exeter, Ont ",,,,6,1916.
-5,662,566,3851,600,654842,Private ,"Collins, James Wilson M ",Nil ,"Collins, William ","Bruce field, Ont ",,,May,11,1916.
-5,662,595,3850,630,654020,Private ,"Colvin, David ",Nil ,"Colvin, Mrs. Eliza Ann ","Bellyneagh, Moneymore, Co. Londonderry, Ire ",,,Dec.,Ireland ,13,1915.
-5,662,624,3852,657,654017,Private ,"Consigney, Charles ",Nil ,"Consigney, Charles ","Seaforth, Ont ",,,,25,1915.
-5,661,653,3852,687,654238,Private ,"Cook, Mansfield Smith ",Nil ,"Cook, Fred ","Clinton, Ont ",,,,11,1916.
-5,662,683,3852,716,654790,Private ,"Cook, Milton Joshua ",Nil ,"Cook, Joshua ","Clinton, Ont ",,,May,11,1916.
-5,661,711,3851,744,654279,Corporal ,"Cook, Rollo Elmer ",Nil ,"Cook, Mrs. Jane ","Seaforth, Ont ",U.S.A....,,,14,1916.
-5,661,741,3850,774,654021,Private ,"Cook, Willett Glen ",Nil ,"Cook, Frederick ","Clinton, Ont ",,,,16,1915.
-5,660,770,3851,803,654280,Private ,"Cooper, Cecil Wilford ",Nil ,"Cooper, George E ","Clinton, Ont ",,,Jan.,17,1916.
-5,660,799,3844,832,654871,Private ,"Copeland, Chester Russell",Nil ,"Copeland, Mrs. Pearl V ","Wingham, Ont ",,,June,3,1916
-5,660,828,3850,860,654802,Private ,"Corbett, Erie Armstrong ",Nil ,"Corbett, Mrs. Sarah ","R.R. No. 1, Goderich, Ont ",,,May,10,1916.
-5,660,857,3852,890,654022,L.-Corporal ,"Cornish, John Hendall ",Nil ,"Cornish, John ","Elimville, Ont ",,,Dec.,11,1915.
-5,660,886,3852,918,654702,Private ,"Cornish, Richard Hardwick..",Can. Mil. . . .,"Cornish, John ","Elimville, Ont ",,Exeter ,Mar.,20,1916.
-5,659,915,3852,948,654023,Private ,"Cornwall, William Francis....",2nd Regt,"Cornwall, Mrs. Sarah Jane ","Wroxeter, Ont ",,,Dec.,20,1915.
-5,659,944,3852,978,654348,Sergeant ,"Coultes, Charlie Russell ",Nil ,"Coultes, Mrs. George W ","Wingham, Ont ",,Blyth ,Jan.,1916.
-5,659,973,3852,1006,654491,Private ,"Coultes, James Howard ",Nil ,"Coultes, Mrs. Lizzie. .   ","Weston, Ont ",,,Feb.,17,1916.
-5,660,1002,3852,1034,654019,Btn. Q.-M. Sergt..,"Counter, Morley ",Can. Mil....,"Counter, William R ","Clinton, Ont ",,,Dec.,10,1915.
-5,660,1031,3853,1064,654832,Private ,"Coutts, Andrew Donald ",Nil ,"Coutts, Mrs. Mary ","Jamestown, Ont ",,,May,16,1916.
-5,660,1060,3852,1094,654710,Private ,"Cowan, John Alexander ",Nil ,"Cowan, Isaac ","Blyth,Ont ",,,Mar.,Canada ,Blyth ,27,1916.
-5,660,1088,3852,1123,654444,Private ,"Cowan, Walter ",Nil ,"Cowan, David ","Blyth, Ont ",,,Feb,10,1916.
-5,660,1117,3845,1152,654327,Private ,"Cowan, William Edgar ",Nil ,"Cowan, Isaac ","Blyth, Ont ",,Blyth ,,25,1916
-5,659,1146,3852,1180,654791,Private ,"Cowell, Richard Tomlinson...",Nil ,"Cowell, Mrs. Frances Rebecca. .",Wingham. Ont ,,,May,11,1916.
-5,659,1175,3853,1207,654343,"Sergeant, ","Cox, Clarence James ",Nil ,"Cox, Mrs. Olive Jane ","Auburn, Ont ",,,,27,1916.
-5,659,1204,3852,1236,654024,Private ,"Cox, Richard Frederick ",Nil ,"Cox, Richard ","Brussels, Ont ",,Brussels ,,21,1915.
-5,658,1233,3853,1266,654328,Corporal ,"Craig, Joseph Chambers ",Nil ,"Craig, Mrs. Lily ","Goderich, Ont ",,,,r?,1916.
-5,658,1262,3853,1295,65402.',Private ,"Cramer, John ",Can. Mil,"Cramer, John ","Paris, Ont ",,,,23,1915.
-5,657,1291,3853,1325,654239,Corporal ,"Crawford, Frederick ",33rd Regt. ..,"Crawford, Edward ","Londcsborough,Ont ",,,,14,1916.
-5,657,1320,3853,1354,654841,Private ,"Crawford, James Clarence. . . .",Nil ,"Crawford, Charles ","Ixjndesborough, Ont ",,,May,19,1916.
-5,657,1350,3853,1384,654703,Private ,"Crawford, Roy Edward ",33rd Regt. ..,"Crawford, George. .  ","Blyth, Ont ",,Blyth ,,28,1916.
-5,657,1378,3853,1412,654516,Private ,"Crawford, St. Clair ",Nil ,"Crawford, Alexander McDonald.","Wingham, Ont ",,,Feb,28,1916.
-5,656,1407,3853,1440,654026,Sergeant ,"Cree, Lockhart John ",Nil ,"Cree, Mrs. Maggie ","Clinton, Ont ",,,,6,1915.
-5,656,1437,3853,1468,654027,Co. Sergt.-Major..,"Crich, James Onslow ",33rd Regt. . .,"Crich, Mrs. Susan ","Clinton, Ont ",Canada ,,,6,1915.
-5,656,1466,3853,1497,654758,Private ,"Crich, Wilfred Victor ",Nil ,"Crich, Onslow ","Clinton, Ont ",Canada ,Clinton ,April 29,1916.
-5,656,1494,3853,1526,654508,Private ,"Cud more, Lome ",Nil ,"Cudmorc, Mrs. Louisa ","Exeter, Ont ",,,Feb. 25,1916.
-5,655,1524,3852,1556,654361,Private ,"Culbert, Gordon Carroll ",Nil ,"Culbert, John ","Centralta, Ont ",,Exeter ,,31,1916.
-5,655,1553,3846,1585,654626,Private ,"Culbert, Wilson ",Nil ,"Culbert, John ","Central ia, Ont ",,,,21,1916
-5,656,1582,3846,1613,654719,Private ,"Currell, Lloyd William ",Nil ,"Currell, Edward Albert ","Goderich, Ont. * ",,,,27,1916
-5,655,1611,3846,1644,654792,Private ,"Currie, David ",Nil ,"Currie, Mrs. Jemima Hope ","Wingham, Ont ",,,May,11,1916
-5,655,1640,3854,1672,654127,Private ,"Currie, Harold James ",Nil ,"Currie, W. J ","R.R. No. 5, Wingham, Ont ",,,,31,1915.
-5,655,1669,3854,1701,654196,Corporal ,"Currie, Harold Reginald ",Nil ,"Currie, Peter ","Goderich, Ont ",,,,7,1916.
-5,655,1698,3853,1730,654144,L.-Sergeant ,"Currie, James Hilton ",Nil ,"Currie, John T ","R.R. No. 3, Wingham, Ont ",,,Jan.,4,1916.
-5,655,1727,3853,1759,654469,Private ,"Currie, Kenneth ",Nil ,"Currie, Mrs. Agnes ","Bayfield, Ont ",,,Feb.,17,1916.
-5,655,1756,3846,1789,654627,L.-Corporal ,"Curson, James Robert ",Nil ,"Curson, Mrs. Nellie ","Goderich, Ont ",,,Mar.,22,1916
-5,655,1785,3853,1818,654524,L.-Corporal ,"Dftvidson, Leonard Robert",Nil ,"Davidson, William ","Zurich, Ont ",,,Feb,29,1916.
-5,655,1812,3853,1846,654253,Private ,"Davidson, Thomas Alexander.",Nil ,"Davidson, William ","Zurich, Ont ",,,Jan.,1,1916.
-5,654,1842,3852,1876,654863,Private ,"Davis, George Newton ",33rd Regt. . .,"Davis, George ","Clinton, Ont ",,,May,16,1916.
-5,654,1871,3852,1905,654588,Private ,"Day, George Linfred ",Nil   ,"Day, Robert John ","Wingham, Ont ",,,Mar.,18,1916.
-5,654,1900,3853,1934,654711,Private ,"Day, Louis Edgar ",Nil ,"Day, Louis ","Exeter, Ont ",,,Mar.,30,1916.
-5,654,1929,3852,1962,654867,Private ,"Deem, Harold Arthur  ",Nil ,"Deem, Mrs. Martha Irene ","Wingham, Ont ",,,May,27,1916.
-5,654,1958,3852,1992,654589,Private ,"Deem, Sydney ",Nil ,"Deem, William ","Seaforth, Ont ",,,Mar.,20,1916.
-5,653,1987,3845,2021,654312,L.-Corporal ,"Dennison, Alfred Wesley ",33rd Regt. . .,"Dennison, Mrs. Lilian ","Walton, Ont ",,,,24,1916
-5,653,2015,3845,2049,654803,Private ,"Dexter, Harold Lloyd ",Nil ,"Dexter, Mrs. E. J ","Blyth, Ont ",,,May,II,1916
-5,653,2044,3852,2078,654029,Private ,"Dexter, Herbert Manson ",Nil ,"Dexter, Mrs. Emma Jane ","Blyth, Ont ",,,Dec.,28,1915.
-5,653,2073,3843,2107,654591,Private ,"Dick, Ross Thomas ",Nil ,"Dick, Mrs. Elizabeth ","Hay, Ont ",,,Mar.,20,1916
-5,654,2102,3844,2136,654145,Co. Q.-M. Sergt...,"Dick, Thomas Henry ",33rd Regt. .,"Dick, John ","Seaforth, Ont ",,,Dec.,27,1915
-5,654,2131,3853,2165,654720,L.-Corporal ,"Dickinson, Joseph Arthur ",Nil ,"Dickinson, Mrs. Margaret S ","1001 Bathurst St., Toronto, Ont ",Canada ,,April,3,1916.
-6,759,538,3265,567,,,,Former Corps.,Country of
-6,570,681,3759,708,654310,Private ,,Nil ,,Seaforth ,"Jan. 24, 191C."
-6,570,711,3759,736,654712,,,,,,"Mar. 21, 1916.",Nil 
-6,569,768,3759,797,654146,Sergeant. ,"Dougall, Roswell Percival Ingram",Nil ,Canada ,Hensall ,"Jan. 4, 1916."
-6,569,797,3758,823,654190,,,,,,"Jan. 6, 1916.",Nil 
-6,569,826,3759,855,654030,,,,,,"Dec. 6, 1915.",L.-Sergeant ,"Draper, Robert Murray ",Nil ,Canada ,Clinton 
-6,569,855,3759,880,654262,,,,,,"Jan. 17, 1916.",Private 
-6,569,884,3757,912,654232,,,,,,"Jan. 13, 1916.",Corporal ,Nil 
-6,568,913,3759,938,654565,,,,,,"Mar. 10, 1916.",Private ,Nil  
-6,568,942,3758,970,654147,,,,,,"Jan. 3, 1916.",L.-Corporal ,"Dunford, Ernest Russell ",C.A.M.C- ,Canada 
-6,568,971,3759,998,654470,,,,,,"Feb. 19, 1916.",Nil ,Sergeant 
-6,567,999,3758,1028,654336,,,,,,"Jan. 25, 1916.",Corporal ,Belgrave 
-6,567,1029,3758,1054,654592,,,,,,"Mar. 21, 1916.",Nil 
-6,568,1057,3758,1082,654687,,,,,,"Mar. 27, 1916.",Private ,Nil 
-6,567,1086,3758,1114,654436,,,,,,"Feb. 11, 1916.",Private ,"Elliott, Lewis McMann ",Nil ,Goderich 
-6,567,1115,3757,1140,654673,,,,,,"Mar. 24, 1916.",Private ,Nil 
-6,567,1144,3758,1169,654393,Private ,,Nil ,,,"Feb. 3, 1916."
-6,567,1173,3758,1199,654210,,,,,,"Jan. 5, 1916.",Private ,"Ervine, Edward ",Nil ,Goderich 
-6,566,1201,3758,1232,654148,,,,,,"Jan. 1, 1916.",Private ,"Ervine, Robert ",Nil ,Canada 
-6,567,1230,3758,1259,654492,Private ,"Fallis, Robert John ",,Canada ,Wingham ,"Feb. 19, 1916."
-6,566,1259,3758,1286,654031,Private ,"Farrant, James Harold ",,,,"Dec. 27, 1915."
-6,566,1288,3758,1317,654329,,,,,,"Jan. 25, 1916.",Private ,"Fay, Richard ",Nil 
-6,565,1317,3758,1345,654032,,,,,,"Nov. 27, 1915.",Corporal ,"Feagan, William Leonard ",Nil 
-6,564,1347,3757,1373,654033,,,,,,"Dec. 9, 1915.",Private ,"Fearon, Arthur ",U.S. A 
-6,563,1375,3757,1403,654493,,,,,,"Feb. 14, 1916.",Sergeant ,"Ferguson, Samuel Foster ",Nil 
-6,562,1404,3757,1433,654263,,,,,,"Jan. 15, 1916.",L.-Corporal ,"Fetterly, William Marcus G ",Nil ,Wingham 
-6,561,1433,3756,1460,654350,,,,,,"Jan. 31, 1916.",L.-Sergeant ,Nil.
-6,561,1462,3756,1488,654537,,,,,,"Mar. 4, 1916.",Private ,Nil 
-6,560,1490,3756,1519,654423,,,,,,"Feb. 8, 1916.",L.-Corporal ,"Fisher, George "
-6,560,1519,3756,1546,654459,,,,,,"Jan. 24, 1916.",Private ,"Fisher, Robert Percival ",Nil 
-6,560,1548,3756,1576,654034,,,,,,"Dec. 6, 1915.",Private ,"Fisher, Stanley Gordon ",Nil 
-6,561,1576,3756,1604,654833,,,,,,"Mav 17, 1916.",L.-Corporal 
-6,561,1606,3754,1632,654264,Private ,,Nil ,,,"Jan. 14, 1916."
-6,561,1634,3755,1661,654035,,,,,,"Dec. 10, 1915.",Sergeant ,Nil 
-6,560,1663,3755,1690,654036,,,,,,"Dec. 10, 1915.",Corporal ,Nil 
-6,560,1692,3755,1720,694531,,,,,,"Mar. 1, 1916.",Private ,"Ford, Garnet ",Nil 
-6,560,1721,3756,1750,654770,Private ,"Forrest, Charles Barclay ",Nil ,,,"Mav 6, 1916."
-6,559,1750,3756,1778,654297,,,,,,"Jan. 15, 1916.",Private ,"Forrester, Ross ",Nil 
-6,559,1779,3756,1806,730097,,,,,,"Nov. 27, 1915.",Private ,"Forrester, Rov Alexander "
-6,559,1807,3755,1836,654177,,,,,,"Jan. 3, 1916.",Private ,"Forsyth, Ross Frederick "
-6,558,1836,3756,1863,654545,,,,,,"Mar. 4, 1916.",Private ,Nil 
-6,557,1865,3756,1894,654724,,,,,,"April 4, 1916.",Private ,Nil 
-6,557,1894,3755,1921,654834,,,,,,"Mav 17, 1916.",Private 
-6,557,1923,3755,1951,654037,L.-Sergeant ,"Fox, Robert Edward Stuart ",Nil ,,Brussels ,"Dec. 20, 1915."
-6,556,1952,3755,1980,654149,,,,,,"Jan. 4, 1916.",?rivate 
-6,556,1981,3754,2008,645298,Private ,,Nil ,,,"Jan. 24, 1916."
-6,556,2010,3754,2039,654868,,,,,,"May 27, 1916.",Private ,Nil 
-6,555,2039,3754,2067,654430,,,,,,"Feb. 10, 1916.",Private ,Nil 
-6,555,2068,3753,2098,654181,,,,,,"Jan. 5, 1916.",Private ,"Furness, Bert ",Nif ,Canada ,Clinton 
-7,1551,419,3859,454,,,Nil ,"G&mbrill, Mrs. Elsie ","Exeter, Ont : ",England..,,Feb,"2S, 1916."
-7,1552,449,3859,483,,,Nil ,"Garton, Mrs. Edward ","Brussels, Ont ",Canada...,,,"4, 1916.",Brussels ,Mar.
-7,1883,478,3852,514,,,,"Gauley, Mrs. Ella Gertrude ..","Goderich, Ont ",Canada...,,,"4, 1916",May
-7,675,507,3860,543,654823 Co. Q.-M. Sergt...,,Nil ,"Geddes, William James ","Belgrave, Ont ",Canada...,,,15. 1916.,May,Clinton 
-7,1552,536,3859,571,,,Nil ,"Gidlcy, Samuel ","Blyth, Ont ",Canada...,,,"23, 1916.",Blyth 
-7,3179,565,3860,591,,,,,,Canada...,,,"1, 1916.",Feb
-7,1550,571,3164,601,,,C.O.T.C ,"Gillespie, Neil ","Cromarty, Ont "
-7,1883,595,3860,629,,,,"Glazier, William ","Goderich, Ont ",Canada...,,,"14, 1916."
-7,1552,624,3861,657,,,Nil ,"Gliddon, Daniel ","Holmesville, Ont ",Canada..,,,"31, 1916."
-7,1551,653,3861,686,,,Nil ,"Good, John ","Auburn, Ont ",Canada...,,,"13, 1916.",May
-7,1551,682,3861,715,,,Nil ,"Good, John ","Auburn, Ont ",Canada...,,,"15, 1916.",Mar.,Blyth 
-7,1883,710,3854,744,,,,"Goodwin, Mrs. Isaac ","Yaxley, Peterborough, Eng ",England..,,,"11, 1916",Goderich ,Feb.
-7,1551,740,3862,774,,,Nil ,"Goslcigh, Mrs. Thirza ","Clinton, Ont ",Canada...,,,"27, 1915."
-7,1551,768,3862,802,,,Nil ,"Graham, Adam Alexander ...","R. R. No. 1, Gorrie, Ont ",Canada ..,,,"10, 1916.",May
-7,1044,798,3863,833,,"Graham, William Henry Ernest...",,"Graham, Reuben ","Clinton, Ont ",Canada...,,,"7, 1915."
-7,1551,826,3863,861,,,Nil ,"Grant, Mrs. Lydia ","Clinton, Ont ",Canada ..,,,"17, 1916."
-7,1551,855,3864,889,,,Nil ,"Grant, Mrs. Lydia ","Clinton, Ont ",Canada...,,,"10, 1916."
-7,1551,884,3863,918,,,Nil ,"Grealis, Edward ","Clinton, Ont ",Canada...,,,"21, 1916."
-7,3179,913,3863,942,,,,,,England..,,,"11, 1916.",Feb
-7,1551,919,3135,946,,,Nil ,"Grindrod, Mrs. Anna ","Goderich, Ont  "
-7,1882,942,3864,976,,,,"Grisdalc, Mrs. Mary ","Wingham, Ont ",Canada...,,,"22, 1916.",Wingham ,Mar.
-7,1882,970,3864,1004,,,,"Grover, Mrs. L. H ","234 Withrow Ave., Toronto, Ont ",U.S.A..,,,"26, 1916.",Gamp Borden...,Oct.
-7,1882,1000,3865,1034,,,,"Guest, Mrs. Annie ","Wingham, Ont ",Canada...,,,"9, 1916.",Feb
-7,1551,1029,3865,1063,,,Nil ,"Guest, William ","Wingham, Ont   ",Canada...,,,"13, 1915."
-7,1551,1058,3865,1091,,,Nil ,"Gwyn, Elizabeth ","Peterboro*, Ont ",England..,,,"22, 1916."
-7,1551,1088,3865,1120,,,Nil ,"Haggitt, Mrs. G. A ","Blyth, Ont ",Canada...,,,"17, 1916."
-7,1551,1116,3866,1148,,,Nil ,"Haines, Mrs. Mary ","R. R. No. 2, Lucknow, Ont ",Canada...,,Feb,"14, 1916."
-7,1551,1145,3866,1178,,,Nil ,"Haines, Arthur ","Wingham, Ont ",Canada...,,,"3, 1916."
-7,1551,1174,3865,1205,,,Nil ,"Hall, Mrs. Clara Edna ","Wroxeter, Ont ",Canada...,,,"31, 1916."
-7,1551,1204,3866,1234,,,Nil ,"Hall, Mrs. Alice Maud ","R. R. No. 2, Goderich, Ont ",England..,,,22. 1916.
-7,1550,1232,3864,1263,,,Nil ,"Hallam, Thomas ","Auburn, Ont ",England..,,,"27, 1916."
-7,1550,1261,3866,1294,,,Nil ,"Hamm, Alexander ","Blyth, Ont ",Canada...,,,"15, 1916."
-7,1550,1290,3866,1322,,,Nil ,"Handley, Mrs. Louisa E ","Clapham, London, S.W., Eng ",England..,,,"IS, 1916."
-7,1549,1320,3867,1350,,,Nil ,"Haney, George ","Bluevalc, Ont ",Canada...,,,"10, 1916.",May
-7,1548,1349,3867,1379,,,Nil ,"Hanncnt, Mrs. Alice ","Clinton, Ont ",England..,,May,"20, 1916."
-7,1548,1378,3867,1408,,,Nil ,"Hanncnt, Oxlcv ","Clinton, Ont ",England..,,,"22, 1916."
-7,1548,1407,3867,1436,,,Nil ,"Harburn, William ","Hensall, Ont ",Canada...,,,"17, 1916."
-7,1042,1435,3867,1468,,"Harness, Walter Henry ",Nil ,"Harness, Mrs. Elizabeth ","Exeter, Ont ",Canada...,,,"23, 1916.",Feb
-7,1548,1465,3868,1496,,,Nil ,"Hart, Mrs. Jane N ","Egmondville, Ont ",Scotland.,,,"1, 1916."
-7,1547,1493,3867,1523,,,Nil ,"Harvey, Thomas ","Exeter, Ont ",Canada...,,,"22, 1916.",Feb
-7,1547,1523,3868,1552,,,Nil ,"Haskins, Albert ","R. R. No. 1, Clifford, Ont ",Canada...,,,"21, 1916."
-7,1879,1552,3868,1582,,,,Hastic. Matthew ,"Harris ton, Ont ",Canada...,,,"11, 1916.",May
-7,1547,1581,3868,1610,,,Nil ,"Hastie, Alexander ","Wroxeter, Ont ",Canada...,,,"8, 1916."
-7,1546,1610,3868,1638,,,Nil ,"Hastings, Alvin ","New Liskeard, Ont ",Canada...,,,"1, 1916.",May
-7,1546,1639,3868,1667,,,Nil ,"Hayden, Nelson ","R. R. No. 2, Blucvale, Ont   ",Canada...,,May,Wroxeter ,"6, 1916."
-7,1546,1668,3869,1698,,,Nil ,"Haiggins, Mrs ","38 Vicarage Pk., Plum stead, London, Kent, Eng ",England..,,,"3, 1916."
-7,1546,1697,3869,1725,,,Nil ,"Hayward, Mrs. Bertha ","Hensall, Ont ",Canada...,,,"24, 1916."
-7,1546,1726,3867,1754,,,Nil ,"Hayward, Mrs. Alberta Jane..","Hensall, Ont ",Canada..,,,"22, 1916."
-7,1546,1755,3869,1782,,,Nil ,"Heard, Mrs. Isabelle Frances.","Brucefield, Ont ",Canada...,,,"13, 1916."
-7,1546,1784,3869,1814,,,Nil ,"Hefford, Miss Lottie E ","R. R. No. 1, Dungannon, Ont ",England..,,,"22, 1915."
-7,1879,1813,3868,1841,,,,"Helps, Mrs. William ","Wingham, Ont ",Canada...,,,"3, 1916.",Feb
-7,1545,1841,3869,1869,,,Nil ,"Ellis, Mrs. John ","Brussels, Ont ",Canada...,,,"24, 1916.",Brussels ,Mar.
-7,1545,1870,3869,1898,,,Nil ,"Herman, Mrs. Ellen ","Clinton, Ont ",Canada...,,,21. 1915.
-7,668,1900,3869,1930,654794 Private ,"Hewer, Lloyd Bertram ",Nil ,"Hewer, John ","Wingham, Ont ",Canada...,,Mav. 12. 1916.
-7,667,1928,3869,1958,654526 Private ,"Hildebrant, Irwin Andrew ",Nil ,"Hildcbrant, William ","Hensall, Ont ",Canada...,,,"29, 1916."
-7,667,1957,3869,1988,654045 Private ,"Hill, Edwin Byard ",Nil ,"Hill, Mrs. Maud ","Clinton, Ont ",Canada..,,,"6, 1915."
-7,667,1986,3870,2016,654183 Private ,"Hillson, Frederick Richard ",Nil ,Not stated ,Not stated ,England..,,Jan.,"3, 1916."
-7,1545,2015,3870,2042,,,Nil ,"Hinscliffe, Mrs. H ","Wingham, Ont ",Canada..,,,"16, 1915."
-7,667,2044,3870,2074,654241 Private ,"Hirons, James Frederick ",Nil ,"Hirons, George ","Blyth, Ont ",Canada..,,,"10, 1916."
-7,1544,2072,3871,2102,,,Nil ,"Hitchin, Mrs. Esther ","London, Eng ",England..,,,"6, 1915."
-7,667,2101,3870,2131,654807 Private ,"Hoare, Carman Harold ",Nil ,"Hoare, Cornelius ","Clinton, Ont ",Canada..,,May,"13, 1916."
-7,666,2130,3871,2161,654254 Sergeant ,"Hodges, Charles A  ",Territorials ,"Hodges, Mrs. Sarah ","Seaforth, Ont ",England,,Jan.,Seaforth ,"15, 1916."
-8,769,544,3274,576,,,Former Corps.,,,Country of
-8,578,689,3224,719,654,"Hoffman, James Alexander.",Nil ,"Hoffman, Mrs. Elizabeth...","Wroxeter, Ont ",Canada...
-8,577,719,3224,748,654,"Hoffman, Philip George....",Nil ,"Hoffman, Mrs. Mary Ann...","Kentville, Ont ",Canada...
-8,577,748,3234,777,654,"Hogarth, Lucien Victor ",Nil ,"Hogarth, Stephen Joshua. . .","Exeter, Ont ",Canada 
-8,576,777,3234,806,654,"Holland, Benjamin ",Nil ,"Holland, John ","Bay City, Mich., U.S.A ",England...
-8,576,806,3234,836,654,"Holmes, John Elwood ",33rd Regt. .,"Holmes, Dudley ",Wingham r Ont ,Canada 
-8,575,835,3234,864,654,"Hooper, Grant Alexander...",Nil ,"Hooper, Adolphus ","R. R. No. 1, Hay, Ont ",Canada 
-8,575,864,3234,893,654,"Hoover, Robert Harvey....",Nil ,"Hoover, Robert J ","Brussels, Ont ?.,",Canada 
-8,575,893,3234,921,654,"Horne, Albert Frank ",Nil ,"Horne, Mrs. Elsie ","R. R. No. 4, Wingham, Ont ",England...
-8,574,922,3234,950,654,"Horton, Hillary ",Nil ,"Horton, Mrs. Hillary ","Exeter, Ont ",Canada 
-8,574,950,3234,979,654,"Howes, Edward Gordon —",Nil ,"Howes, Edward ","Ste. Therese, P.Q ",Canada 
-8,574,980,3234,1008,654,"Hudson, Joseph Acheson....",Nil ,"Hudson, George ","Hensall, Ont ",Canada 
-8,574,1008,3234,1037,654,"Huffman, Roland ",Can. Mil ,"Huffman, John ","Wingham, Ont  ",Canada 
-8,574,1037,3234,1066,654,"Hunking, Albert Edward. ..",Nil ,"Hunking, Mrs. Martha ","Auburn, Ont ",Canada 
-8,574,1066,3234,1095,054,"Hunking, Harvey ",Nil.... ,"Hunking, Thomas ","Londesborough, Ont ",Canada 
-8,574,1095,3234,1123,654,"Hunking, Norman ",Nil ,"Hunking, Thomas ","13th Con., Londesborough, Hullet Tp., Ont.",Canada 
-8,574,1124,3234,1153,654,"Hunt, Roy ",33rd Regt. .,"Hunt, Charles ","Goderich, Ont ",Canada—
-8,574,1153,3223,1182,G54,"Hunter, George Johnson G..",Nil ,"Clements, Mrs. Jess ","22 West Wynd, Dundee, Scot ",Scotland..
-8,574,1182,3234,1209,654,"Hunter, John Graham ",Nil ,"Hunter, William P ","R. R. No. 3, Exeter, Ont ",Canada—
-8,574,1210,3233,1238,554,"Hurdon, Nicholas Eric ",Nil ,"Hurdon, Nicholas Dyer ","Exeter, Ont ",Canada 
-8,574,1239,3232,1267,554,"Hutton, John Cowan ",Nil ,"Hutton, John ","Stratton, Ont ",Canada 
-8,574,1268,3232,1297,554,"Inglis, George ",Nil ,"McElnair, Mrs. Charles ","R. R. No. 1, Clifford, Ont ",Canada 
-8,574,1298,3231,1326,354,"Ingram, James Angus ",Nil ,"Ingram, George ","Pope, Man ",Canada 
-8,574,1326,3217,1354,354:,"Ireland, George Roy A ",Nil ,"Ireland, Alfred ","Kincardine, Ont ",Canada...
-8,574,1353,3230,1384,354',"Isard, Herbert Henry ",33rd Regt. .,"Isard, James Stephen ","Wingham, Ont ",Canada—
-8,575,1383,3229,1412,354,"Jackson, James Lister ",Nil ,"Jackson, Mrs. Alice ","Palmerston, Ont ",England...
-8,574,1412,3228,1441,3541,"James, Frederick ",Nil ,"James, Mrs. Alice ","R. R. No. 2, Bluevale, Ont ",England.. .
-8,574,1441,3228,1470,3541,"James, Henry George ",Territorials.,"James, Mrs. Geoige ","Goderich, Ont ",England.. .
-8,937,1470,3228,1498,,"Jane, Alfred Herbert ",S.A.,"Jane, Mrs. Gwenthleon ","Goderich, Ont ",England.. .
-8,940,1499,3228,1528,,"Jardine, George Edward ",33rd Regt.,"Jardine, Mrs. Emma ","Goderich, Ont ",Canada 
-8,937,1528,3214,1557,,"Jarman, Albert Wellington...",Nil ,"Jarman, William ","63 Havelock St., Leicester, Eng ",England..
-8,937,1557,3215,1585,,"Jefferson, John Roy ",Nil ,"Jefferson, John ","Auburn, Ont ",Canada...
-8,937,1585,3215,1614,,"Jeffery, William Edward ",Nil ,"Jeffery, William George....","Exeter, Ont ",Canada...
-8,939,1614,3215,1642,,"Johns, Lawrence Earl ",Nil ,"Johns, Henry ","Elimville, Ont ",Canada...
-8,942,1643,3215,1671,,"Johns, Norman Wellington...",Nil ,"Johns, William ","Centralia, Ont ",Canada...
-8,939,1671,3203,1700,,"Johnson, Clarence Albert ",Nil ,"Johnson, James W ","Hensall, Ont ",Canada..
-8,936,1700,3214,1728,,"Johnson, Frank ",Nil ,"Hex, Mrs. Elizabeth ","25 Crowshay Rd., London, Eng ",England..
-8,936,1729,3204,1758,,"Johnson, George Reginald....",Nil ,"Johnson, J. W ","Hensall, Ont ",Canada..
-8,936,1758,3205,1786,,"Johnson, Oliver M ",Nil ,"Johnson, Oliver ","Goderich, Ont ",Canada..
-8,936,1786,3205,1815,,"Johnston, David ",Nil ,"Johnston, John ","Bluevale, Ont ",Canada..
-8,936,1815,3206,1844,,"Johnston, George Carswill...",Nil ,"Johnston, Mrs. Bessie ","Brussels, Ont ",Canada..
-8,934,1843,3207,1873,,"Johnston, Henry Cresswell...",Nil ,"Johnston, William ","Blyth, Ont. ",Canada..
-8,934,1872,3207,1903,,"Johnston, Hiram Wellington..",57th Regt.,"Johnston, Charles ","Norwich, Ont ",Canada..
-8,934,1901,3208,1931,,"Johnston, John Aiken ",Nil ,"Johnston, George ","Bluevale, R.R. No. 2, Ont ",Canada..
-8,934,1930,3207,1959,,"Johnston, Miltcn Alfred ",Nil ,"Johnston, Thomas ","Zurich, Ont ",Canada..
-8,933,1959,3209,1989,,"Johnston, William Lome ",Nil ,"Johnston, George Alexander.","Dungannon, Ont ",Canada..
-8,932,1988,3205,2017,,"Jones, Francis William ",Nil ,"Jones, Mrs. Gertrude May. ..","Clinton, Ont ",England.
-8,932,2017,3209,2046,,"Jones, John Francis ",Nil ,"Robinson, Mrs. Eleanor ","121 Porter St., Preston, Eng ",Wales....
-8,933,2046,3209,2075,,"Jones, William Guy ",Can. Mil...,"Jones, Mrs. Annie May ","Clinton, Ont ",Canada..
-8,935,2075,3210,2104,,"Kellett, George Edward ",Nil ,"Kellett, George ","Elimville, Ont ",Canada..
-9,650,408,3831,443,654198 Corporal ,Nil ,"Kelly, J. W ",Wroxeter ,"Jan. 7, 1916."
-9,650,443,2328,471,654572 Private ,Nil ,"Kemp, Henry Samuel "
-9,650,494,3831,529,654735 Private ,Nil ,"Kerney, Frank ",,"April 7, 1916."
-9,1857,524,3832,557,,,"Kerr, Mrs. Alex Buchanan ",,"Feb. 1, 1916.",Brussels 
-9,1526,612,3832,644,,Nil....,"Kestle, Edward ",,"May 16, 1916."
-9,647,931,3834,962,654479 Private..,,"Lake, John ",,"Feb. 21, 1916.",Brussels 
-9,647,965,2327,992,654353 Private ,Nil ,"Lang, Thomas "
-9,1527,1018,3834,1050,,Nil ,"Lattimore, Mrs. Mary L ",,"Feb. 25, 1916."
-9,1526,1047,3835,1078,,Nil ,"Lawson, Mrs. John ",,"Feb. 22, 1916."
-9,648,1075,3835,1108,654548 L.-Corporal ,Nil ,"Lawson, Mrs. John ",,"Mar. 6, 1916.",Blyth 
-9,1527,1104,3836,1136,,Nil ,"Lawson, John ",,"Mar. 24, 1916."
-9,1527,1133,3836,1166,,Nil ,"Leith, George ",,"Mar. 29, 1916.",Blyth 
-9,1527,1162,3836,1194,,Nil ,"Leppington, Mrs. Susan ",,"Dec. 7, 1915."
-9,1527,1220,3838,1252,,Nil ,"Letson, Mrs. Mary Ann ",,"Dec. 30, 1915."
-9,1527,1249,3838,1281,,Nil ,"Letson, Mrs. Mary ",,"Jan. 11, 1916."
-9,1526,1279,3838,1308,,Nil ,"Littlechild, William ",,"Dec. 31, 1915."
-9,1527,1307,3838,1336,,Nil ,"Lockwood, Frederick ",,"Jan. 3, 1916."
-9,1527,1337,3839,1365,,Nil ,"Love, William ",,"May 11, 1916.",Brussels 
-9,1527,1366,3839,1394,,Nil ,"Lovett, Nellie ",,"Dec. 31, 1915."
-9,1527,1394,3839,1424,,Nil ,"Lowry, Edward Graham ",,"April 26, 1916."
-9,1528,1424,3840,1453,,Nil ,"Lowry, George ",,"Feb. 12, 1916.",Brussels 
-9,1528,1452,3840,1481,,Nil ,"Lutton, Tollerton ",,"Mar. 11,1916."
-9,1020,1481,3840,1511,,Nil ,"Lymburner, M. E ",,"Jan. 5, 1916."
-9,1529,1510,3840,1538,,Nil ,"Lymburner, M. E ",,"Feb. 7, 1916."
-9,1529,1539,3841,1566,,Nil ,"Macdonald, Donald ",,"Mar. 2, 1916."
-9,1530,1597,3842,1624,,Nil ,"MacLaren, Robert ",,"Feb. 17, 1916."
-9,1530,1625,3842,1654,,Nil ,"MacLean, Alexander ",,"April 8, 1916."
-9,1530,1655,3843,1681,,Nil ,"MacLeod, Roderick ",,"Feb. 14, 1916."
-9,1530,1684,3843,1712,,Nil ,"MacPhail, Joseph ",,"Feb. 8, 1916."
-9,1530,1712,3844,1740,,Nil.. .,"MacTavish, Dugald ",,"Jan. 6, 1916."
-9,1863,1741,3844,1768,,,"Mahoney, J ",,"Mar. 23, 1916.",Wroxeter 
-9,1863,1770,3844,1799,,,"Maines, John ",,"Jan. 24, 1916.",Blyth 
-9,1531,1799,3845,1826,,Nil ,"Mallett, Mrs. Lydia ",,"Feb. 24, 1916."
-9,1022,1856,3845,1887,,C.A.M.C ,"Mannall, George ",,"Jan. 31, 1916."
-9,1531,1885,3846,1912,,Nil ,"Manuel, Mrs. A. E ",,"Jan. 22, 1916."
-9,1531,1939,3847,1972,,Nil ,"Marshall, William ",,"April 3, 1916."
-9,1531,1972,3847,1999,,Nil ,"Marshall, Mrs. Elizabeth ",,"Jan. 24, 1916."
-9,1531,2001,3848,2028,,Nil ,"Marshall, Mrs. Elizabeth ",,"Mar. 20, 1916."
-9,1531,2030,3848,2057,,Nil ,"Marshall, Mrs. Clara Evelyn W.",,"Jan. 24, 1916."
-9,1530,2087,3849,2116,,Nil ,"Mason, John ",,"Mar. 27, 1916.",Blyth 
-9,651,2116,3850,2144,654354 Private ,Nil ,"Matthews, Herbert ",,"Jan. 29, 1916."
-10,1860,559,3255,586
-10,559,703,3748,731,654301,Private ,"Mayhew, Albert ",Nil ,Goderich ,"Jan. 18, 1916."
-10,559,732,3748,761,654614,Private ,"McArthur, Elliot Ray ",Nil ,,"Mar. 21, 1916.",Hensall 
-10,559,761,3748,790,654191,Sergeant ,"McArthur, Sidney Ellis ",Nil ,,"Jan. 7, 1916."
-10,559,790,3748,819,654185,Sergeant ,"McArthur, William ",Nil ,,"Jan. 4, 1916."
-10,558,820,3748,848,654615,Private ,"McBride, George Henry ",Nil ,,"Mar. 21, 1916."
-10,558,848,3748,876,654333,Sergeant ,"McCallum, James ",Nil ,,"Jan. 25, 1916.",Belgrave 
-10,559,877,3749,905,654334,Private ,"McCauley, Thomas Michael .",Nil ,,"Jan. 25, 1916."
-10,559,906,3749,933,654775,Private ,"McClinchey, David John ",Nil ,,"Mar. 5, 1916."
-10,558,935,3748,963,654713,Private.,"McClinchey, Wesley ",Nil ,,"Mar. 29, 1916."
-10,559,964,3748,992,654636,Private ,"McCluskey, Joseph, Arthur. ..",33rd Regt...,,Mar. 20. 1916.
-10,558,993,3749,1021,654637,L.-Corporal.,"McCluskey, Harvey Pearson...",Nil ,,"Mar. 21, 1916."
-10,558,1021,3748,1049,654438,Private ,"McClymont, James Melville...",Nil ,,"Feh. 12, 1916."
-10,558,1050,3748,1078,654186,Private ,"McCracken, Lyle Gardener....",Nil ,,Jan. 6. 1916.
-10,557,1080,3748,1107,654638,Private ,"McCreath, Harry Alexander..",Nil ,,"Mar. 23, 1916."
-10,557,1107,3748,1136,654218,Private ,"McCullough, Arthur Walter...",Nil ,,"Jan. 8, 1916."
-10,557,1138,3749,1166,654395,Private ,"McCullough, George Henry...",Nil ,,"Feb. 3, 1916."
-10,557,1167,3749,1194,654507,Private ,"McDonald, Albert Henry ",Nil ,,"Feb. 25, 1916."
-10,557,1195,3750,1223,654158,Private ,"McDonald, George Alexander.",Nil ,,"Jan. 1, 1916."
-10,557,1224,3749,1252,654066,Corporal ,"McDonald, Theodore St. Clair.",Nil ,,"Nov. 30, 1915."
-10,557,1252,3749,1282,654639,Private ,"McDougall, Austin Joseph ",Nil ,,"Mar. 21, 1916."
-10,556,1282,3749,1311,654287,Sergeant ,"McDougall, Neil Gordon ",33rd Regt. .,,"Jan. 19, 1916."
-10,556,1311,3749,1339,654640,Private ,"McDougall, William ",Nil ,,"Mar. 21, 1916."
-10,556,1339,3748,1369,654.498,Private ,"McElroy, Leslie McAll ",Nil ,,"Feb. 23, 1916.",Blyth 
-10,556,1369,3748,1397,654271,Private ,"McEwen, Alpine Finley ",Nil ,,"Jan. 17, 1916."
-10,556,1397,3748,1427,654816,Private ,"McFalls, Elmer ",Nil ,,"May 15, 1916."
-10,556,1425,3748,1455,654067,Private ,"McGarva, Andrew ",Nil ,,"Dec. 18, 1915."
-10,555,1455,3748,1484,654068,Private. ,"McGee, Herbert Joseph ",Nil ,,"Doc. 13, 1915."
-10,555,1483,3748,1512,65<641,Private ,"McGinn, Michael ",Nil ,,"Mar 21, 1916."
-10,554,1508,3748,1541,654449,Private ,"McGratten, Thomas Ernest ",Nil ,,"Feb. 14, 1916."
-10,554,1539,3748,1570,654187,L.-Corporal..,"McGratten, William Harold. ..",33rd Regt. .,,Jan. 5. 1916.
-10,554,1564,3748,1599,654304,Private ,"McGregor, Alfred Charles D..",Nil ,,"Jan. 17, 1916."
-10,553,1599,3749,1627,654484,Private ,"McGuire, Robert ",Nil.  ,,Feb. 15. 1916.
-10,553,1629,3749,1656,054272,Private ,"McIntyre, Alexander Gibson..",Nil ,,"Jan 10, 1916."
-10,553,1658,3749,1686,654070,Private ,"McKay, Gordon William ",33rd Regt. .,,"Dec. 11, 1915."
-10,553,1686,3750,1714,654722,Private ,"McKay, Hugh R   ",Nil ,,"Mar. 25, 1916.",Bayfield 
-10,553,1715,3751,1744,654583,L.-Corporal.,"McKay, John Blain ",33rd Regt. .,,"Mar. 13, 1916."
-10,553,1744,3751,1771,654616,Private ,"McKay, Kenneth ",Nil ,,Mar. 22 1916.
-10,553,1773,3751,1801,654396,Private ,"McKay, William Alexander ",Nil ,,"Feb. 2, 1916."
-10,553,1801,3751,1831,654071,Sergeant ,"McKinley, William ",Imp. Forces.,,"Dec. 18, 1915."
-10,553,1831,3752,1860,654736,Private ,"McKinney, Thomas Leslie ",Nil ,,"April 8, 1916."
-10,553,1860,3751,1888,654404,Private ,"McLaughlin, George Albert ",Nil ,,"Jan. 29, 1916."
-10,553,1888,3752,1917,654288,Private ,"McLauehlin, John Ross ",Nil ,,"Jan. 15, 1916."
-10,553,1917,3752,1945,654595,Private ,"McLeod, James Edmund ",Nil ,,"Msr. 20, 1916."
-10,553,1946,3752,1976,654854,Private ,"McLeod, James Norman ",Nil ,,"May 20, 1916."
-10,553,1975,3752,2004,654220,Private ,"McLeod, John Knox ",Nil.,,"Jan. 10, 1916."
-10,553,2004,3752,2033,654737,Private ,"McLeod, Kenneth ",Nil.,,"April 8, 1916."
-10,552,2033,3744,2060,654597,Private ,"McLeod, Norman ",Nil.,,Mar 20 1916
-10,552,2059,3752,2090,654425,Private ,"McLeod, Ogal ",Nil.,,"Feb. 9, 1916."
-10,551,2091,3752,2119,654499,Private ,"McNamara, Charles ",Nil.,,"Feb. 24, 1916.",Seaforth 
-11,659,409,3834,440,654480,Private ,"McNaught, Wilfred Donald ",Nil ,"McNaught, Raymond Alexander.",,,Feb,22,1916
-11,659,438,3834,468,654714,Private ,"McNaughton, William Middleton.",Nil ,"McNaughton, John ",,,Mar.,30,1916
-11,659,467,3842,497,654576,Private ,"McNevin, Alexander ",Nil ,"McNevin, Joseph ",,,Mar.,ts,1916.
-11,659,497,3843,527,654855,Private ,"McSherry, Wilson ",Nil ,"McSherry, Mrs. Isabella ",,,May,20,1916.
-11,659,526,3843,557,654632,Private ,"Medd, John Roy ",C.A.M.C...,"Medd, John H ",,,Mar.,21,1916.
-11,659,555,3843,586,654466,Private ,"Meahan, Alfred Hope ",Nil ,"Meahan, Mrs. Elizabeth ",,,Feb,17,1916.
-11,659,584,3843,616,654549,Private ,"Meahan, Tony ",Nil ,"Meahan, Mrs. Elizabeth ",U.S.A ,Wroxeter ,Mar.,4,1916.
-11,658,613,3842,644,654390,L.-Corporal..,"Megaw, Francis Riggs ",Nil ,"Megaw, Mrs. Emma Addison....",,,,38,1916.
-11,658,640,3844,672,654827,Private ,"Meyers, John Aaron ",Nil ,"Meyers, Charles ",,,May,It,1916.
-11,658,671,3844,702,654433,Private ,"Millar, Arnold Ray ",Nil ,"Millar, George ",,,Feb,8,1916.
-11,657,699,3844,731,654773,Private ,"Miller, Andrew Thompson ",Nil ,"Miller, John D ",,,May,t,1916.
-11,657,729,3844,758,654870,Private ,"Miller, James Blackader ",Nil ,"Miller, Mrs. Helen May ",,,May,Clinton ,29,1916.
-11,656,758,3843,789,654286,Private ,"Miller, Norman Wellington ",Nil ,"Miller, James ",,,Jan.,Canada ,Clinton ,17,1916.
-11,656,786,3843,817,654215,Private ,"Milligan, Andrew Harvey ",Nil ,"Milligan, John ",,Brussels ,Jan.,10,1916.
-11,656,815,3843,846,654678,Private ,"Mills, William Charles ",Nil ,"Mills, John ",,,Mar.,M,1916.
-11,655,845,3843,875,654367,Private ,"Millson, W'alker Wilbur ",Nil ,"Tokely, Mrs. T ",,,,29,1916.
-11,654,873,3843,905,823028,L.-Corporal..,"Miner, Harry Garnet B ",Nil ,"Miner, John ",,Ix>ndon ,Dec.,1,1915.
-11,655,902,3843,933,654062,Private ,"Miner, John Walter ",7th Regt. ..,"Miner, Mrs. Myrtle ",Canada ,Clinton ,Dec.,24,1915.
-11,655,932,3843,962,654633,L.-Corporal .,"Mitchell, Carl Hollos ",Nil ,"Mitchell, Edward A ",Canada ,Wroxeter ,Mar.,23,1916.
-11,654,960,3843,992,654634,Private ,"Mohring, Roy ",Nil ,"Mohring, Mrs. Berriman ",Canada ,Goderich ,Mar.,21,1916.
-11,654,988,3843,1019,654157,Private ,"Moore, Frank Sanford ",Nil ,"Moore, William ",Canada ,,Dec.,13,1915.
-11,654,1018,3843,1048,654696,Private ,"Moore, Robert James ",Nil ,"Moore, Mrs. Lena ",England ,Dungannon ,Mar.,21,1916.
-11,654,1046,3842,1078,654064,Private ,"Moore, Stanley Herbert ",33rd Regt. .,"Moore, Mrs. Mirian ",,Goderich ,Nov.,M,1915.
-11,654,1075,3842,1107,654065,Corporal ,"Morgan, William Edward ",Nil ,"Morgan, Mrs. Charlotte ",England ,Clinton ,Dec.,6,1915.
-11,653,1104,3842,1134,654812,Private ,"Morrow, Charles ",Nil ,"Dilling, Mrs. John ",U.S.A ,Brussels ,May,11,1916.
-11,653,1133,3842,1163,654471,Private ,"Morrow, Hebert James ",Nil ,"Morrow, Mrs. Annie ",,,Feb,IS,1916.
-11,653,1161,3842,1193,654302,Private ,"Mugford, Jonathan Martin L ",Nil ,"Mugford, Martin ",Canada ,Clinton ,Jan.,19,1916.
-11,652,1190,3842,1222,654184,Private ,"Mugford, Joseph ",Nil ,"Mugford, Martin ",Canada ,Goderich ,Jan.,5,1916.
-11,652,1220,3842,1250,654303,Private ,"Muir, Burton Oliver ",Nil ,"Muir, John ",,,,?0,1916.
-11,652,1248,3842,1280,65421C,Private ,"Mundy, Basil   ",Nil ,"Mundy, Harry ",,Clinton ,Jan.,8,1916.
-11,652,1278,3841,1308,654755,Private ,"Mundy, Theodore Franklin ",Nil ,"Mundy, Harry ",,,,23,1916.
-11,651,1307,3842,1338,654467,Corporal,"Munn, Edgar Wilford ",Nil ,"Munn, Peter ",,,Feb,17,1916.
-11,652,1335,3842,1367,707069,L.-Sergeant..,"Munnings, William Percy ",Nil ,"Munnings, William Robert ",,,Dec.,13,1915.
-11,651,1366,3146,1395,654381,Private ,"Murphy, Stafford Rice ",Nil ,"Murphy, Mary Ann "
-11,3401,1392,3843,1418,,,,,,,Goderich ,Jan.,28,1916.
-11,651,1421,3843,1454,654635,Corporal.,"Murray, John Wellington ",Nil ,"Murray, Mrs. Elizabeth McC.",Canada ,Goderich ,Mar.,20,1916.
-11,650,1450,3843,1481,654448,Private..,"Musgrove, James Elmer ",Nil ,"Musgrove, Thomas ",,Wroxeter ,Feb.,14,1916.
-11,651,1479,3843,1509,654510,Private..,"Musgrove, Thomas Richard.",Nil ,"Musgrove, Ina.  ",,,Feb.,22,1916.
-11,651,1508,3842,1539,654217,Sergeant.,"Mustard, Arthur Roy ",Nil ,"Mustard, Mrs. Elizabeth ",,,Jan.,10,1916.
-11,651,1537,3843,1567,654132,Private..,"Nash, Edward Beverly ",Nil ,"Nash, Thomas ",,Wroxeter ,Dec.,29,1915.
-11,651,1565,3843,1595,654642,Private..,"Nash, Milford Earl ",Can. Mil . . . .,"Nash, Thomas ",,,Mar.,1916.
-11,651,1594,3843,1625,654159,Sergeant.,"Nash, Roland Philips ",30th Regt. . .,"Nash, Thomas ",,,Jan.,3,1916.
-11,651,1623,3843,1653,654342,Private..,"Nediger, Clarence Austin",Nil ,"Nediger, W. J ",,,Jan.,28,1916.
-11,651,1652,3843,1682,654463,Corporal.,"Neelands, Roy Marlowe ",Nil ,"Neolands, Thomas ",,,Feb.,17,1916.
-11,652,1680,3843,1712,654417,Private..,"Neely, Arthur Cecil ",33rd Regt. . .,"Neely, Mrs. Mary ",,,Feb.,9,1916.
-11,651,1709,3843,1740,654244,Private..,"Neely, Charles Franklin ",Nil ,"Neely, Mrs. Mary ",,,Jan.,12,1916.
-11,651,1738,3844,1769,654643,Private..,"Neil, William Ernest ",Nil ,"Neil, Wellington ",,,Mar.,23,1916.
-11,651,1767,3844,1798,654566,Private...,"Newcombe, Harold ",33rd Regt. ..,"Newcombe, Mrs. Martha ",,Goderich ,Mar.,9,1916.
-11,651,1795,3844,1826,654453,Private..,"Newell, John Norman ",Nil ,"Newell, Mrs. George ",,Godcrich ,Feb,14,1916.
-11,651,1824,3844,1856,654160,Private...,"Newton, Herbert Kenneth...",36th Regt. . .,"Newton, William Francis ",,Goderich,Jan.,4,1916.
-11,651,1853,3844,1884,654644,Private...,"Nicholson, Charles Thomas.",Nil ,"Nicholson, Mrs. Grace ",,,,:’l,1916.
-11,651,1882,3844,1914,654382,Private...,"Nivins, Charles Alexander. ..",33rd Regt. . .,"Nivins, James David ",,,Jan.,28,1916.
-11,651,1910,3844,1942,654692,Private...,"Noble, Clarence Jarrett ",Nil ,"Stewart, Mary Ann ",,,Mar.,25,1916.
-11,650,1939,3845,1972,654877,Private...,"Noble, Walter George ",Nil ,"Noble, James ",,,June,12,1916.
-11,650,1968,3844,2000,654529,Private...,"Nunn, Thomas William ",Nil ,"Nunn, Louis IT ",,,Feb.,28,1916.
-11,650,1997,3844,2029,654319,Private...,"O’Brien, Ernest Patrick ",Imp. Forces.,"O’Brien, Mrs. Kate ",,,Dec.,16,1915.
-11,650,2025,3845,2058,654072,Private...,"O’Donnell, Martin ",Nil ,"O’Donnell, Martin ",,,Dec.,6,1915.
-11,650,2055,3846,2088,654706,Private...,"Oke, Edmund Alban ",Nil ,"Oke, William ",,,Mar.,24,1916.
-11,650,2083,3846,2116,654235,Private...,"Orchard, Francis Cicil ",Nil ,"Orchard, Mrs. Sarah ",,,Jan.,11,1916.
-11,649,2112,3846,2144,654133,Private...,"Osman, Alfred ",Nil ,"Osman, Mrs. Amy ",England ,Goderich ,Dec.,31,1915.
-12,772,548,3277,577,,Former Corps.,Country of
-12,580,692,3771,717,65459C,Nil ,,^0,1916.
-12,580,721,3771,745,654874,Nil  ,,29,1916.
-12,579,750,3771,774,654201,Nil ,,10,1916.
-12,578,778,3771,803,654245,Nil ,,Jan.,15,1916.
-12,578,807,3771,832,654728,Nil ,,M ar.,?4,1916.
-12,577,836,3771,861,654454,Nil ,,Feb,15,1916.
-12,576,865,3770,891,654074,Nil ,,Dec.,13,1915.
-12,575,894,3770,920,654075,Nil,,13,1915.
-12,573,923,3770,949,654076,Nil,,16,1915.
-12,573,952,3759,978,654690,Nil ,Canada ,Mar.,25,1916
-12,572,981,3770,1007,654550,Nil ..,,6,1916.
-12,572,1010,3770,1033,654368,,,29,1916.
-12,571,1039,3770,1064,654045,Nil ...,,?\,1916.
-12,571,1067,3770,1093,654077,Nil ,,0,1915.
-12,571,1095,3771,1122,654520,Nil...,,Feb.,»,1916.
-12,570,1125,3771,1151,654320,Nil ,,25,1916.
-12,570,1153,3771,1180,654617,Nil   ,,Mar.,21,1916.
-12,569,1182,3770,1209,654666,Nil ,,Mar.,23,1916.
-12,568,1211,3770,1235,654078,,,Dec.,28,1915.
-12,567,1240,3770,1266,654134,,U.S.A ,Dec.,27,1915.
-12,567,1269,3770,1296,654080,Nil ,,Dec.,11,1915.
-12,566,1298,3770,1324,654732,Nil,,8,1916.
-12,566,1327,3770,1355,654796,Nil...,,May,10,1916.
-12,566,1357,3066,1384,654397,Nil...
-12,3571,1384,3769,1408,,,,Feb,3,1916.
-12,566,1413,3769,1440,654161,Nil,,3,1916.
-12,565,1442,3769,1469,654081,Nil,,28,1915.
-12,565,1471,3769,1499,654761,Nil .,,April,72,1916.
-12,565,1499,3767,1526,654356,Nil,,M,1916.
-12,565,1528,3768,1555,654434,Nil,,Feb,9,1916.
-12,565,1557,3768,1581,654082,,,9,1915.
-12,565,1586,3768,1613,654221,Nil ,Canada ,July,10,1916.
-12,565,1615,3768,1642,654162,Nil...,,31,1915.
-12,565,1643,3768,1670,654246,Nil .,Canada ,Jan.,10,1916.
-12,565,1672,3768,1699,654776,Nil,,8,1916.
-12,564,1700,3769,1725,654647,,,^0,1916.
-12,564,1729,3769,1757,654731,,,April,6,1916.
-12,564,1758,3769,1786,654752,Nil,,April,25,1916.
-12,563,1787,3768,1815,654455,Nil,Canada ,Feb.,14,1916.
-12,563,1816,3768,1845,654618,Nil,,21,1916.
-12,563,1845,3769,1870,654369,,,Jan.,29,1916.
-12,563,1873,3768,1902,654189,Nil,,Jan.,5,1916.
-12,563,1902,3768,1931,654083,Nil,,Dec.,15,1915.
-12,563,1931,3768,1957,654084,,,Dec.,20,1916.
-12,562,1960,3768,1989,654 762,Nil,,April,29,1916.
-12,562,1988,3768,2018,654163,Nil,,Dec.,30,1915.
-12,561,2017,3768,2047,654337,Nil,,Jan.,24,1916.
-12,561,2047,3769,2076,305134,Nil,,Dec.,16,1915.
-12,560,2076,3769,2109,654485,53rd Regt ,,Feb.,22,1916.
-13,1537,432,3847,465,Nil ,"Rivett, Mrs. Roderick ","Dungannon, Ont ",Canada —,Goderich ,May,"9, 1916."
-13,1538,462,3846,494,Nil ,"Yeo, Jennie ","R.R. No. 1, Bluevale, Ont ",Canada ,Wroxeter ,Jan.,"10, 1916."
-13,1537,491,3846,523,Nil ,"Robertson, John Alexander. .","Goderich, Ont ",Canada....,Goderich ,Mar.,"21, 1916."
-13,1030,519,3846,553,C.A.M.C ,"Robertson, John Alexander. .","Goderich, Ont ",Canada—,Goderich ,May,"9, 1916."
-13,1537,549,3847,583,Nil ,"Roles, Thomas ","47a Norfolk Sq., Brighton, Sussex, Eng ",England...,Hensall ,May,"15, 1916."
-13,1536,578,3847,611,Nil ,Rollinson Mrs. Mary ,"Auburn, Ont ",Canada—,Manchester....,April,"8, 1916."
-13,1537,607,3847,640,Nil ,"Ross, Charles ","Oxford St., Goderich, Ont ",U.S.A ,Goderich ,Jan.,"1, 1916."
-13,1535,636,3846,669,Can. Mil,"Rouatt, Mrs. Annie ","Bayfield, Ont ",Canada ,Clinton ,Feb.,"8, 1916."
-13,1536,665,3846,698,Nil ,"Rowland, J. Edward ","R.R. No. 1, Ethel, Ont ",Canada ,Brussels ,Mar.,"22, 1916."
-13,1536,694,3846,727,Nil ,"Rowland, John ","Walton, Ont ",Canada—,Brussels ,Jan.,"3, 1916."
-13,1536,723,3847,756,Nil ,"Ruddock, Mrs. Christiania. .","Port Albert, Ont   ",England...,Goderich ,April,"5, 1916."
-13,1535,752,3846,786,Nil ,"Ruffell, Mrs. E ","‘ March Cottage,’- Midhurst, Sussex, Eng...",England...,Seaforth ,Dec.,"23, 1915."
-13,1535,781,3846,814,Nil ,"Rush, Mrs. Charles ","59 Beatrice Rd., Bermondsey, London, Eng.",England...,Wingham ,Mar.,"24, 1916."
-13,1535,809,3846,843,Nil ,"Russell, Mrs. S. J ","29 Francis St., Berlin, Ont ",India ,Seaforth ,May,"19, 1916."
-13,1534,838,3845,873,Nil ,"Rutledge, William ","Brussels, Ont ",Canada....,Brussels ,Jan.,"17, 1916."
-13,1534,868,3846,901,Nil ,"Ryan, Thomas ","Walton, Ont ",Canada....,Brussels ,Jan.,"10, 1916."
-13,1534,897,3845,931,Nil ,"Salter, William George ","Wingham, Ont ",Canada....,Wingham ,Feb.,"15, 1916."
-13,1534,925,3845,959,Nil ,"Sanderson, Albert ","Wingham, Ont ",Canada....,Wingham ,Dec.,"1, 1915."
-13,1532,954,3845,989,Territorials..,"Sangstcr, Mrs. W ","Dundas St., Stromness, Scot ",Scotland...,Hensall ,Jan.,"18, 1916."
-13,1533,983,3844,1018,Nil ,"Savage, Thomas ","Wroxeter, Ont ",Canada—,Wroxeter ,Mar.,"25, 1916."
-13,1533,1012,3844,1046,Nil ,"Savage, Mrs. James ","Taunton, Somerset, Eng ",England...,Clinton ,May,"13, 1916."
-13,1533,1042,3844,1076,Nil ,"Savage, Thomas Henry ","Wroxeter, Ont ",Canada....,Brussels ,Dec.,"31, 1915."
-13,1530,1071,3844,1103,Can. Mil. . . .,"Scharfer, Adam ","Wingham, Ont ",U.S.A ,Wingham ,Dec.,"2, 1915."
-13,1532,1100,3844,1132,Nil ,"Scott, Thomas G ","Seaforth, Ont ",Canada ,Seaforth ,Dec.,"10, 1915."
-13,1531,1129,3843,1162,Nil ,"Scott, James ","Clinton, Ont  ",Canada ,Clinton ,Jan.,"3, 1916."
-13,1529,1158,3844,1191,C.F.A ,"Scott, Mrs. Emily ","707 Fleet Avc., Winnipeg, Man ",Canada ,Brussels ,May,"17, 1916."
-13,1531,1187,3844,1219,Nil ,"Scott, Mrs. Alma ","R.R. No. 1, Belgrave, Ont ",Canada—,Belgravc ,Jan.,"25, 191d."
-13,656,1216,3843,1249,S. A ,"Seeley, Mrs. Elizabeth ","Brucefield, Ont ",England...,Clinton ,Sept.,"15, 1915."
-13,1531,1245,3843,1276,R.C.R ,"Sewell, Mrs. Beatrice ","Clinton, Ont ",England...,Clinton ,Feb.,"8, 1916."
-13,1530,1274,3842,1305,Nil ,"Shaddick, Thomas ","Hensall, Ont ",Canada ,Hensall ,Jan.,"25, 1916."
-13,1530,1304,3843,1334,Nil ,"Shaddick, Thomas ","Hensall, Ont ",Canada —,Hensall ,Jan.,"24, 1916."
-13,1530,1332,3843,1363,Nil ,"Shannon, Mrs. Ellen ","Goderich, Ont ",Canada ,Goderich ,Mar.,"20, 1916."
-13,1530,1361,3842,1393,Nil ,"Sharpin, James ","14 Rhodes Ave., Toronto, Ont ",Canada ,Wroxeter ,Mar.,"22, 1916."
-13,1529,1390,3843,1421,Nil ,"Shaw, Anson ","R.R. No. 2, Bluevale, Ont ",Canada —,Wroxeter ,May,"6, 1916."
-13,1529,1419,3843,1451,Nil ,"Shephard, Mrs. Mary Jane..","Clinton, Ont ",Canada—,Camp Borden..,July,"8, 1916."
-13,1529,1448,3843,1479,Nil ,"Shephard, Mrs. Christina. . .","Hensall, Ont ",Canada—,Hensall ,Mar.,"23, 1916."
-13,1529,1477,3843,1509,Nil ,"Sherritt, Mrs. Nellie May. . .","Hensall, Ont ",Canada ,Hensall ,Jan.,"3, 1916."
-13,1529,1506,3843,1535,Nil ,"Parish, Mrs. James ","Brussels, Ont ",Canada ,Brussels ,Dec.,"24, 1915."
-13,1529,1535,3843,1565,Nil ,"Sholdice, Adam ","Walton, Ont ",Canada—,Brussels ,Jan.,"22, 1916."
-13,1529,1563,3843,1594,Nil ,"Shropshall, Mrs. Alice ","R.R. No. 1, Wingham, Ont ",England...,Wroxeter ,Feb.,"17, 1916."
-13,1529,1592,3843,1623,Nil ,"Bainbridge, Leah ","Wythburn, Grasmere, Westmorland, Eng.. .",England...,Clinton ,Mar.,"7, 1916."
-13,1529,1621,3843,1651,Nil ,"Simmons, Mrs. Hannah ","R.R. No. 1, Hensall, Ont ",Canada—,Hensall ,Mar.,"16, 1916."
-13,1528,1650,3841,1680,Nil ,"Simmons, Charles ","Gorrie, Ont ",Canada—,Wroxeter ,Feb.,"21, 1916."
-13,1528,1679,3842,1709,Nil ,"Simon, Mrs. Florence ","5 Emmerson Ave., Toronto, Ont ",England...,Clinton ,Feb.,"2, 1916."
-13,1528,1708,3842,1738,Nil ,"Sims, Jonah ","Crediton East, Ont ",Canada—,Exeter ,Mar.,"4, 1916."
-13,1528,1737,3843,1767,Nil ,"Sinclair, Mrs. A ","Brussels, Ont ",Canada ,Brussels ,Feb.,"12, 1916."
-13,1526,1765,3843,1797,6th Regt....,"Sinclair, Mrs. Irene A ","Brussels, Ont ",Canada ,Brussels ,Dec.,"24, 1915."
-13,1528,1795,3843,1824,Nil ,"Sloman, Jacob ","Clinton, Ont ",Canada ,Clinton ,Feb.,"7, 1916."
-13,1528,1823,3842,1854,Imp. Forces.,"Smith, Mrs. Alice Elizabeth","Goderich, Ont ",England...,Goderich ,Mar.,"20, 1916."
-13,1528,1853,3842,1883,Nil ,"Smith, Mrs. Alice Emily. .","Bruce St., Goderich, Ont ",England...,Goderich ,Mar.,"9, 1916."
-13,1528,1881,3842,1911,Nil ,"Smith, Mrs. Marion ","Clinton, Ont ",Canada ,Clinton ,Mar.,"26, 1916."
-13,1528,1911,3842,1940,Nil ,"Smith, John ","Wroxeter, Ont ",Canada ,Wroxeter ,Mar.,"21, 1916."
-13,1528,1940,3842,1969,Nil ,"Smith, Mrs. Jessie ","Seaforth, Ont ",Canada ,Seaforth ,Mar.,"4, 1916."
-13,1528,1969,3841,1998,Nil ,"Smith, John ","Hay, Ont ",Canada ,Exeter ,Dec.,"11, 1915."
-13,1528,1998,3842,2027,Nil ,".Smith, Mrs. Florence ","Seaforth, Ont ",England.. .,Seaforth ,Feb.,"12, 1916."
-13,1528,2027,3841,2055,Nil ,"Snazel, Arthur ","Goderich, Ont ",Canada ,Goderich ,Jan.,"13, 1916."
-13,1528,2056,3842,2085,Nil ,"Snell, James ","R.R. No. 1, Clinton, Ont ",Canada ,Clinton ,Jan.,"24, 1916."
-13,1528,2085,3841,2113,Nil ,"Snell, William ","Blyth, Ont ",Canada ,Clinton ,Dec.,"22, 1915."
-13,1528,2114,3841,2142,Nil ,"Snell, William ","Blyth, Ont ",Canada ,Blyth ,Dec.,"16, 1915."
-13,650,2143,3842,2172,Nil ,"Snelling, George ","Moncton, Ont ",Canada ,Bruasels ,Jan.,"29, 1916."
-14,769,568,3272,600,,,,Former Corps.,,,Country of
-14,577,711,3766,745,0.54371,Private ,"Snelling, William Harvie ",Nil ,"Snelling, George ","Moncton, Ont ",Canada ,Brussels ,Jan.,1016.
-14,577,740,3766,773,054291,Private ,"Snider, Benjamin ",Nil ,"Snider, Mrs. Marie ","Brussels, Ont ",Canada ,Brussels ,Jan.,1916.
-14,577,769,3766,802,0.54081,Private ,"Somers, Albert Archibald ....",Nil ,"Somers, Richard ","Blyth, Ont ",Canada ,Blyth ,Mar.,1916.
-14,577,798,3766,831,054054,Private ,"Somersall, Edward Haughton.",Nil ,"Somersall, Mrs. Mary ","Goderich, Ont ",Canada ,Goderich,Mar.,1916.
-14,577,827,3766,859,054535,Private ,"Southcott, Robert Earl ",Nil ,"Southcott, Mrs. C. A ","Exeter, Ont ",Canada ,Exeter ,Mar.,1916.
-14,577,856,3766,889,054383,Private ,"Spafford, Austin Robert R ",Nil ,"Spafford, Mrs. M ","Blyth, Ont ",Canada ,Blyth ,Jan.,1916.
-14,576,885,3766,918,054090,Private ,"Sparks, Neil Douglas ",Nil ,"Sparks, Alexander ","Hensall, Ont ",Canada ,Clinton ,Dec.,1915.
-14,576,914,3766,947,054051,Private ,"Stacey, Nelson Peter ",Nil ,"Stacey, Jabez ","Coronation, Alta ",Canada ,Exeter ,Mar.,1916.
-14,576,943,3767,976,054829,Private ,"Stafford, Walter Harvey ",Nil ,"Stafford, Benjamin V ","R.R. No. 1, Wroxeter, Ont ",Canada ,Wroxeter. . . .,May,1916.
-14,575,972,3767,1004,054052,L.-Corporal ,"Steels, Frederick ",Nil ,"Steels, Mrs. Philip ","Sheppard ton, Ont ",Canada ,Goderich....,Mar.,1916.
-14,575,1001,3767,1033,054204,Private ,"Steep, Andrew William ",33rd Regt. ..,"Steep, David ","Clinton, Ont ",Canada ,Clinton ,Jan.,1916.
-14,575,1030,3762,1062,054782,Private ,"Stephenson, George Henry ",Nil ,"Stephenson, Mrs. Ida ","Seaforth, Ont ",Canada ,Seaforth ,May,1916.
-14,575,1059,3766,1091,054820,Sergeant  ,"Sterling, John Dempsey ",33rd Regt. . .,"Sterling, John ","Clinton, Ont ",Canada ,Clinton ,May,1916.
-14,574,1088,3767,1119,0547G8,Private ,"Stevens, Louis ",Nil ,"Stevens, Mr ","Londesborough, Ont ",Canada ,Blyth ,May,1916.
-14,574,1117,3767,1149,054098,Private ,"Stewart, David Henry ",33rd Regt. . .,"Stewart, Mrs. Margaret ","Seaforth, Ont ",Canada ,Clinton ,Dec.,1915.
-14,575,1145,3767,1176,054230,Private ,"Stewart, Wilfred.Grant ",Nil ,"Stewart, James ","Exeter, Ont ",Canada ,Exeter ,Jan.,1916.
-14,575,1174,3767,1206,054099,Sergeant ,"Stickles, Orin Andrew ",Nil ,"McGowan, Mrs. Henrietta. ..","Stockdale, Ont ",Canada ,Clinton ,Dec.,1915.
-14,575,1203,3767,1235,054738,Private ,"Stiles, William Henry ",Nil...  ,"Stiles, Mrs. Annie ","Seaforth, Ont ",Canada ,Brussels ,April,1916.
-14,575,1232,3767,1264,054170,Private ,"Stillwell, George Leonard ",Imp. Forces.,"Stillwell, William ","Portsmouth, Hants, Eng ",England.. ..,Wingham —,Jan.,1916.
-14,574,1261,3766,1292,654850,Private ,"Stockall, Peter ",Nil ,"Stockall, William ","Humboldt, Sask ",Canada ,Clinton ,May,1916.
-14,574,1290,3765,1322,054249,Private ,"Stoddart, Herbert Reginald. . .",Nil ,"Stoddart, Mrs. Caroline ","Clinton, Ont ",U.S.A ,Clinton ,Jan.,1916.
-14,573,1319,3765,1350,G5470S,Private ,"Stokes, Frederic William ",Nil ,"Stokes, Mrs. Agnes ","Goderich, Ont ",Canada ,Goderich ,Mar.,1916.
-14,572,1348,3764,1380,054135,Private ,"Stokes, George Wilfred ",33rd Regt. . .,"Stokes, Frederick ","Goderich, Ont ",Canada ,Goderich... .,Dec.,1915.
-14,571,1377,3764,1407,054536,Private ,"Stone, William Charles ",Nil ,"Stone, Mrs. Eleanor Rose....","Hensall, Ont ",England. . . .,Hensall ,Mar.,1916.
-14,571,1405,3762,1437,054100,Sergeant ,"Straiton, John Watson ",33rd Regt. . .,"Straiton, John ","Goderich, Ont ",Canada ,Goderich,Dec.,1915.
-14,570,1434,3762,1465,054817,Private ,"Strang, John Caldwell ",Nil ,"Strang, Henry ","R.R. No. 1, Hensall, Ont ",Canada ,Exeter ,May,1916.
-14,569,1463,3763,1494,G54357,Private ,"Sturdy, Francis Dixon ",33rd Regt. . .,"Sturdy, William John ","Auburn, Ont ",Canada ,Wingham,Jan.,1916.
-14,569,1491,3763,1522,G54402,,"Sullivan, Thomas ",Nil ,"Fielder, George ","61 St. Peters St., Hackney ltd., London, Eng.",England,Brussels ,Feb.,1916.
-14,572,1520,3763,1549,127512,Private ,"Swarts, Jack Bertram ",Nil ,"Swarts, Mrs. Charlotte ","Goderich, Ont ",Canada ,Goderich,Oct.,1915.
-14,570,1548,3763,1580,G54384,Private ,"Taman, John Henry ",Nil ,"Taman, John ","Seaforth, Ont ",'anada ,Seaforth ,Jan.,1916.
-14,570,1577,3763,1607,654418,Private ,"Taman, William James ",Nil ,"Sanderson, Mrs. Thomas ","Goderich, Ont ",'anada ,Goderich... .,Fob.,1916.
-14,571,1606,3764,1636,654513,Private ,"Tasker, Albert Richard ",Nil ,"Sims, Mrs. William ","Myth, Ont ",’anada ,Wingham,Fob.,1916.
-14,572,1634,3764,1665,654410,L.-Corporal ,"Tasker, John Lancelot ",Nil ,"Sims, Mrs. William ","Blyth, Ont ",('anada ,Belgravc,Feb.,1916.
-14,572,1663,3765,1694,654745,Sergeant ,"Tasker, Richard ",nd Regt.,"Tasker, Mrs. lna ","Clinton, Ont ",Canada ,Clinton ,April,1916.
-14,573,1691,3765,1722,654542,Private ,"Taylor, Frederick Charles Cl. .",Nil ,"Scarlett, Robert ","R.R. No. 1, Seaforth, Ont ",England....,Seaforth ,Feb.,1916.
-14,573,1719,3766,1751,654101,Private ,"Taylor, George Ross ",Nil ,"Taylor, William ","White Church, Ont ",Canada ,Wingham....,Dec.,1915.
-14,573,1747,3767,1780,054487,Private ,"Taylor, Ira David ",Nil ,"Taylor, Mrs. Charlotte ","Hay, Ont ",Canada ,Exeter ,Feb.,1916.
-14,573,1776,3768,1809,054399,Private ,"Taylor, James ",Nil ,"Taylor, Mrs. Margaret Annie.","Goderich, Ont ",England,Goderich.. .,Feb.,1916.
-14,572,1805,3768,1837,654102,Private ,"Taylor, James Thomas ",Nil ,"Taylor, George R ","Clinton, Ont ",Canada ,Clinton ,Dec.,1915.
-14,571,1833,3768,1866,G54723,Private ,"Terry, John Edward ",Nil ,"Terry, Edward Ferguson. . . .","Listowel, Ont ",Canada ,Clinton ,Mar.,1916.
-14,571,1862,3769,1895,654171,Private ,"Thamer, George Henry ",Nil ,"Thamer, William ","Walton, Ont ",Canada ,Brussels ,Jan.,1916.
-14,570,1891,3769,1923,654450,Private ,"Thibideau, John Arthur ",Nil ,"Thibideau, Mrs. Lucy May ..","Brussels, Ont ",Canada ,Brussels ,Feb.,1916.
-14,570,1921,3769,1951,054103,Private ,"Thibideau, Steven Howard",Nil ,"Thibideau, Gilbert ","Brussels, Ont ",Canada ,Brussels ,Dec.,1915.
-14,569,1950,3769,1982,654406,Private ,"Thompson, Charles Murray....",Nil ,"Thompson, Dr. E. W ","Clinton, Ont ",Canada ,Clinton ,Feb.,1916.
-14,569,1979,3769,2010,654136,Private ,"Thompson, Ernest ",Nil ,"Thompson, Samuel ","Belgrave, Ont ",Canada ,Wingham ,Dec.,1915.
-14,569,2008,3770,2039,654104,L.-Corporal ,"Thompson, Fred Greene ",Nil ,"Thompson, Charles W ","Clinton, Ont ",Canada ,Clinton ,Dec.,1915.
-14,570,2037,3770,2068,G54543,Private ,"Thompson, Joseph Samuel ",Nil ,"Thompson, Samuel ","Belgrave, Ont  ",Canada ,Wingham ,Mar.,1916.
-14,570,2065,3770,2097,054098,Private ,"Thompson, Wilfred Clarence. . .",Nil ,"Thompson, William ","R. R. No. 1, Ethel, Ont ",Canada ,Brussels....,Mar.,1916.
-14,570,2095,3769,2124,654105,Private ,"Thomson, Thomas ",Nil ,"Thomson, Mrs. Elizabeth....","Wroxeter, Ont ",Scotland...,Wroxeter. ..,Dec.,1915.
-15,1558,431,3863,461,Nil ,"Thuell, William ","Brussels, Ont ",Canada ,,"Dec. 10, 1915."
-15,1558,460,3864,490,Nil....,"Thuell, William ","Brussels, Ont ",,,"Jan. 11, 1916.",Canada 
-15,1558,489,3864,519,Nil.. . .,"Thuell, William ","Brussels, Ont ",,,"Jan. 11, 1916.",Canada ,Brussels 
-15,1559,518,3864,549,Nil....,"Tier nay, James ","Blyth, Ont ",,,"Mar. 23, 1916.",Blyth ,Canada 
-15,1559,547,3864,577,Nil.,"Toms, John ","Bayfield, Ont ",,,"Feb. 8, 1916.",Canada 
-15,1887,578,3864,606,,"Toms, John ","Bayfield, Ont ",,,"Feb. 29, 1916."
-15,1559,607,3864,635,Nil.. .,"Tonkin, William George. ...","Warley Barracks, London, Essex, Eng ",,,"Jan. 29, 1916."
-15,1560,636,3864,664,Nil. ...,"Town, George J ","Wroxeter, Ont ",,,"Mar. 20, 1916."
-15,1560,664,3865,693,Nil.,"Trapnell, >lrs. Isabel ","29 Hampton Court Rd., Bristol, Eng ",,,"Mar. 13, 1916."
-15,1560,693,3865,722,Nil.,"Troyer, Mrs. Sarah A ","Seaforth, Ont ",,,"April 8, 1916."
-15,1560,721,3865,751,Nil ,"Troyer, Charles Edward ","Shaunavon, Sask ",,,"Feb. 15, 1916.",U.S.A 
-15,1560,752,3865,780,Nil ,"Tucker, Mrs. Margaret ","Exmouth, Devon, Eng ",,,"Dec. 10, 1915."
-15,1560,780,3866,808,Nil....,"Tucker, Charles E ","Exeter, Ont ",,,"Jan. 21, 1916."
-15,1054,809,3865,836,Nil....,"Underwood, William ","Gorrie, Ont ",,,"Mar. 24, 1916."
-15,1560,838,3866,865,Nil. ..,"Vanstone, Mrs. Minnie ","Berlin, Ont ",,,"Dec. 27, 1915.",Goderich 
-15,1560,867,3866,895,Nil.. .,"Veal, William Henry ","Elimville, Ont ",,,"May 6, 1916."
-15,1560,896,3866,923,Nil ,"Vickers, Samuel ","R.R. No. 4, Goderich, Ont ",,,"Mar. 27, 1916."
-15,1560,925,3866,953,Nil. .,"Vi dean, Harry ","Goderich, Ont ",,,"Feb. 2, 1916."
-15,1560,953,3866,980,Nil. .,"Vittie, Thomas ","Gorrie, Ont ",,,"Mar. 21, 1916."
-15,1888,982,3866,1010,,"Walker, William ","Exeter North, Ont ",,,"May 8, 1916."
-15,1560,1011,3866,1038,Nil ,"Walker, James ","Centralia, Ont ",,,"Mar. 21, 1916."
-15,1888,1039,3867,1067,,"Waller, Mrs. K. M ","Wroxeter, Ont ",,,"Dec. 20, 1915."
-15,1560,1068,3867,1097,Nil.. .,"Walser, Mrs. Mary ","Goderich, Ont ",,,"Feb. 8, 1916."
-15,1560,1097,3867,1124,Nil ,"Ward, Mrs. Edith ","Goderich, Ont   ",,,"Feb. 14, 1916."
-15,1560,1126,3867,1154,Nil. .,"Ward, Henry ","Moncricff, Ont ",,,May 13. 1916.
-15,1560,1155,3867,1183,Nil.. .,"Warner, Mrs. Mary ","Goderich, Ont ",,,"Jan. 29, 1916."
-15,1561,1183,3867,1211,Nil ,"Wasmann, John F ","Clinton, Ont...  ",,,"Jan. 31, 1916."
-15,1888,1212,3868,1240,,"Watson, Margaret Jane ","Goderich, Ont  ",,,"Mar. 20, 1916."
-15,1889,1240,3868,1269,,"Langsdon, Mrs. Anne ","5 Bourn St., Wilmslow, Cheshire, Eng ",,,"Jan. 8, 1916."
-15,1560,1268,3868,1300,Nil ,Watt* James ,"Blyth, Ont  ",,,"May 15, 1916.",Canada ,Blvth 
-15,1560,1298,3868,1327,Nil....,"Riddell, Mrs. William ","Thornhill, Ont ",,,"May 16, 1916."
-15,1560,1327,3868,1356,Nil ,"Watters, Mrs. Charlotte. . ..","Fordwich, Ont.  ",,,"May 12, 1916."
-15,1560,1356,3868,1385,Nil ,"Wearring, George ","Wroxeter, Ont    ",,,"Mar. 23, 1916."
-15,1560,1384,3868,1415,Nil ,"Webber, Henry George ","56th Bty., C.F.A., Guelph, Ont ",,,"May 26, 1916."
-15,1559,1413,3869,1447,Can. Mil.,"Weber, Mrs. Phoebe ","Zurich, Ont '•*.*•. ",,,"May 5, 1916."
-15,1889,1442,3869,1472,,"Websdaie, Henry ","Hardingham, Norfolk, Eng ",,,"Dec. 11, 1915."
-15,1561,1471,3869,1499,Nil. ...,Weiss. John... ,"Godcrich, Ont  ",,,"Jan. 14, 1916."
-15,1055,1499,3870,1528,Nil ,"Wells, Mrs. Caroline ","Exeter, Ont    ",,,"Jan. 3, 1916."
-15,1560,1529,3870,1558,Nil ,"Whistle, Annie ","Paragon Row, London, Eng  ",,,"Dec. 16, 1915."
-15,683,1556,3862,1586,Nil ,"Wesley, Mrs. Euphemia ","Wroxeter, Ont ",,,"Mar. S, 1916"
-15,1054,1585,3862,1619,Nil ,"West, Mrs. Harriet E ","Exeter, Ont    j.;. .  ",,,"Feb. 22, 1916"
-15,1560,1614,3870,1643,Nil ,"Westcott, Mrs. Annie ","Seaforth, Ont     ",,,"Dec. 8, 1915."
-15,1560,1643,3862,1672,Nil.,"Westcott, Mrs. Annie ","Seaforth, Ont   ",,,"Dec. 14, 1915"
-15,1560,1672,3863,1700,Nil...,"Mitchell, Mrs. W. J ","Wroxeter, Ont ",,,"Jan. 10, 1916"
-15,1560,1701,3863,1729,Nil ,"Mitchell, Mrs. W. J ","Wroxeter, Ont ",,,"Jan 10, 1916"
-15,683,1729,3863,1758,Nil.,"Mitchell, Mrs. W. J ","Wroxeter, Ont   ",,,"Jan. 10, 1916"
-15,1559,1758,3864,1786,Nil ,"Mitchell, Mrs. W. J ","Wroxeter, Ont    ",,,"Feb. 1, 1916"
-15,1560,1787,3872,1818,Nil ,"Westlake, Susan ","Bayfield, Ont      ",,,"Mar. 10, 1916."
-15,1890,1815,3871,1844,,"Mitchell, Mrs. Elizabeth....","Wroxeter, Ont ",,,"Jan. 25, 1916."
-15,1560,1843,3872,1872,Nil ,"Weston, Mrs. Emma ","Goderich, Ont ",,,"Mar. 21, 1916."
-15,1559,1930,3872,1960,Nil ,"White, James ","Benmiller, Ont  ",,,"May 20, 1916."
-15,1559,1958,3872,1988,Nil ,"Whitmore, Franklin ","Varna, Ont  ",,,"Mar. 6, 1916."
-15,1559,1987,3872,2018,Nil ,"Wicker, George Thomas..","“Myrtle Cottage,"" Mayfield, Sussex, Eng ",,,"June 14, 1916."
-15,1559,2016,3872,2047,Nil....,"Morrison, Edmund ","R. R. No. 3, Kippen, Ont ",,,"Jan. 8, 1916."
-15,1558,2045,3873,2076,Nil....,"Wightman, Charles ","Belgrave, Ont ",,,"Mar. 25, 1916."
-15,1559,2073,3872,2104,Nil ,"Wilkcn, Alfred ","Clinton, Ont ",,,"Dec. 11, 1915."
-15,1887,2102,3874,2135,,"Wilkinson, Mrs. Mary Kate.","Wingham, Ont ",,,"May 15, 1916."
-15,681,2131,3874,2161,Nil ,"Wilkinson, Willinni Inman. .","R. R. No. 3, Exeter, Ont ",,,"Jan. 20, 1916.",England ,Exeter 
-16,848,669,3353,700,,,,Former Corps.,,,Country of
-16,659,811,3852,844,654118,Private ,"Williams, Albert Charles ",Nil ,"Williams, Harry George...","Wingham, Ont ",England.,Wingham..,Dec.,"10, 1915."
-16,659,840,3854,873,654756,L.-Corporal.,"Williams, Frank Harold ",Nil ,"Trewin, Mrs. Albert ","Londesborough, Ont ",England.,Clinton ,April,"1, 1916."
-16,658,870,3854,901,654552,Private ,"Williamson, John Charles ",Nil ,"Louttit, Mrs. John ","Ethel, Ont ",Canada..,Brussels...,Feb.,"4, 1916."
-16,658,899,3855,930,654489,Private ,"Willis, Aimer Thomas ",Nil ,"Willis, John ","R. R. No. 1, Exeter, Ont ",Canada..,Exeter ,Feb.,"22, 1916."
-16,657,928,3855,959,654502,Private ,"Willis, John Norman ",Nil ,"Willis, John ","R. R. No. 1, Exeter, Ont ",Canada..,Exeter ,Feb.,"22, 1916."
-16,657,957,3856,989,654764,Private ,"Willoughby, Nicholas Arthur.",Nil ,"Willoughby, Mrs. Ada ","Seaforth, Ont. ",Canada..,Seaforth...,May,"3, 1916."
-16,656,986,3856,1018,654769,Private ,"Winch, Leslie ",28th Regt..,"Winch, Stephen ","Paisley, Ont ",Canada..,Bluevale..,May,"5, 1916."
-16,656,1014,3857,1047,654119,Private ,"Windsor, William Augustus ",Territorials.,"Windsor, George ","33 Goldsmith St., Norwich, Norfolk, Eng",England.,Wingham.,Dec.,"1, 1915."
-16,656,1043,3858,1075,654192,Private ,"Wood, Charles ",Nil ,"Wood, Lydia ","63 Selhurst Rd., South Norwood, Eng. ...",England.,Seaforth..,Jan.,"4, 1916."
-16,656,1072,3858,1104,654387,Sergeant ,"Woodley, John ",Imp. Forces,"Woodley, Mrs. Louisa ","R. R. No. 3, Auburn, Ont ",England.,Goderich.,Jan.,"24, 1910."
-16,656,1101,3858,1132,654747,Private ,"Woods, James Jackson ",Nil.? ,"Woods, Robert ","Elimville, Ont ",Canada..,Exeter ,April,"11, 1916."
-16,655,1130,3859,1161,654252,Corporal ,"Woods, Russell Francis ",Nil ,"Woods, James ","Auburn, Ont ",Canada..,Blyth....,Jan.,"10, 1916."
-16,655,1159,3859,1191,65465S,Private ,"Wray, Gordon ",Nil ,"Wray, John ","R. R. No. 1, Wingham, Ont ",Canada..,Wroxeter.,Mar.,"21, 1916."
-16,655,1187,3860,1219,654659,L.-Corporal..,"Young, Benjamin Franklin ",33rd Regt..,"Young, Mrs. Eva Matilda..","Goderich, Ont ",Canada..,Goderich.,Mar.,"20, 1916."
-16,654,1216,3861,1248,654174,Private ,"Young, Harold Melville ",Nil ,"Young, James ","Hinch St., Goderich, Ont ",Canada..,Goderich.,Jan.,"3, 1916."
-16,655,1245,3861,1277,654660,Private ,"Young, James Emmerson ",33rd Regt..,"Young, Mrs. Eima ","Goderich, Ont ",Canada..,Goderich.,Mar.,"20, 1916."
-16,654,1273,3861,1306,654373,L.-Corporal..,"Yungblut, Jacob ",33rd Regt..,"Yungblut, Mrs. Margaret. .","Goderich, Ont ",Canada..,Goderich.,Jan.,"30, 1916."
+2,377,1952,415,2382,161st BATTALION
+2,506,3382,530,3701,Taken on Strength.
+2,535,570,556,615,c °
+2,543,560,582,3258,is,,,Former Corps.,,,Country of
+2,550,750,572,833,Rank.
+2,551,1133,574,1227,Name.
+2,553,2496,577,2839,Address of Next of Kin.
+2,555,1858,578,2171,Name of Next of Kin.
+2,580,572,594,591,tsD
+2,583,3141,607,3225,Birth.
+2,601,3382,624,3465,Place.
+2,601,3623,623,3698,Date.
+2,694,662,726,3752,,Lieut.-Colonel...,"Combe, Hugh Barry ",33rd Regt. ..,"Combe, Mrs. Julia Isabel ","Clinton, Ont ",Canada...,Clinton ,Dec.,"15, 1915."
+2,723,662,756,3752,,Major ,"Campbell, Herbert ",33rd Regt,"Campbell, Mrs. Florence Edna... .","Wingham, Ont ",Canada..,Wingham ,Dec.,"10, 1915."
+2,751,662,784,3751,,Major ,"Hays, Robert Stanley ",33rd Regt,"Hays, Mrs. Annie M ","Seaforth, Ont  ",Canada..,Clinton ,Dec.,"6, 1915."
+2,780,661,814,3752,,Major ,"Heaman, William John ",33rd Regt,"Heaman, Mrs. Fern Dudley ","Exeter, Ont ",Canada..,Exeter ,Dec.,"11, 1915."
+2,809,662,842,3752,,Major ,"Shaw, John William ",33rd Regt,"Shaw, Mrs. Harriett ","Clinton, Ont ",Canada..,Clinton ,Dec.,"29, 1915."
+2,838,662,872,3752,,Major ,"Sinclair, Norman Tooke ",33rd Regt,"Sinclair, Mrs. J. I ","Wingham, Ont   ",Canada..,Wingham ,Dec.,"10, 1915."
+2,867,660,898,3751,,Captain ,"Allen, Wallace Best ",33rd Regt,"Allen, John L ","484 Talbot St., London, Ont  ",Canada..,Clinton ,Jan.,"4, 1916."
+2,895,660,928,3752,,Captain,"Fairfull, James Kilgour ",Royal Navy.,"Fairfull, Mrs. Elizabeth Ann ","Clinton, Ont  ",Scotland.,London ,July,"6, 1916."
+2,924,660,956,3752,,Captain,"Macpherson, Charles Kenneth.",33rd Regt,"Macpherson, Mrs. Marion ","c/o William Coats, Goderich, Ont..",Canada..,Clinton ,Jan.,"11, 1916."
+2,953,660,986,3752,,Captain,"McTaggart, Malcolm Douglas.",33rd Regt,"McTaggart, Mrs. Edith ","Clinton, Ont .....",Canada..,Clinton ,Dec.,"13, 1915."
+2,982,660,1014,3752,,Captain,"Sturdy, Alfred Fenton ",33rd Regt,"Sturdy, Mrs. O. H ","Goderich, Ont.  . ",Canada..,Goderich ,Dec.,"14, 1915."
+2,1010,660,1044,3752,,Captain,"Town, Percy Charles ",33rd Regt,"Town, Henry ","55 Nightingale St., Hamilton, Ont.",Canada..,Clinton ,Mar.,"16, 1916."
+2,1039,660,1072,3753,,Captain,"Vanstone, Charles Garfield ",33rd Regt,"Vanstone, Mrs. Grace C ","446 Indian Rd., Toronto, Ont  ",Canada..,Wingham ,Dec.,"24, 1915."
+2,1068,661,1100,3753,,Lieutenant ,"ClufT, Francis Nicholas ",33rd Regt. . . .,"ClufT, Noble ","Seaforth, Ont  ",Canada..,Seaforth ,Dec.,"21, 1915."
+2,1097,662,1129,3752,,Lieutenant ,"ClufT, Reginald Alger ",28th Regt,"ClufT, Rev. W. T ","108 Mornington St., Stratford, Ont.",Canada..,Camp Borden...,Aug.,"30, 1916."
+2,1126,661,1158,3753,,Lieutenant ,"Grieve, William Pearson ",33rd Regt.. . .,"Grieve, Dr. John ","Seaforth, Ont ",Canada..,Clinton ,Dec.,"24, 1915."
+2,1155,661,1187,3753,,Lieutenant ,"Hall, Charles Spooner ",33rd Regt,"Hall, Francis Bernard ","R.R. No. 2, Seaforth, Ont ",Canada..,Hensall ,Dec.,"10, 1915."
+2,1184,661,1215,3753,,Lieutenant ,"Hctherington, Isaac ",33rd Regt,"Hctherington, Mrs. Georgina Jane.","R.R. No. 1, Sheppard ton, Ont ",Canada..,Goderich ,Jan.,"1, 1916."
+2,1213,661,1244,3754,,Lieutenant ,"Holmes, Dudley Elwood ",33rd Regt,"Holmes, Dudley ","Wingham, Ont ",Canada..,Wingham ,Dec.,"10, 1915."
+2,1241,661,1272,3754,,Lieutenant ,"Mair, James Knox ",33rd Regt,"Mair, James K ","Clinton, Ont ",Canada..,Clinton ,Dec.,"16, 1915."
+2,1270,660,1302,3754,,Lieutenant ,"McLean, Harry Clarence ",33rd Regt,"McLean, John A ","Wingham, Ont ",Canada..,Wingham ,Dec.,"10, 1915."
+2,1300,660,1330,3754,,Lieutenant ,"O’Neil, William Eail ",33rd Regt,"O’Neil, William T ","Clinton, Ont ",Canada..,Clinton ,Dec.,"16, 1915."
+2,1331,660,1361,3754,,Lieutenant ,"Reid, Dalton Le Roy ",33rd Regt,"Reid, Mrs. J. F ","Seaforth, Ont ",Canada..,Seaforth ,Dec.,"21, 1915."
+2,1360,660,1389,3754,,Lieutenant ,"Scott, Donald Stewart ",33rd Regt,"Scott, Peter ","Brussels, Ont ",Canada..,Clinton ,Jan.,"11, 1916."
+2,1388,660,1418,3754,,Lieutenant ,"Scott, Frank Macdonald ",33rd Regt. . .,"Scott, Mrs. R. A ","Toronto, Ont ",Canada..,Clinton ,Jan.,"10, 1916."
+2,1417,660,1447,3754,,Lieutenant ,"Scott, Walter Frank ",3Srd Regt...,"Scott, Peter ","Brussels, Ont ",Canada..,Clinton ,Dec.,"23, 1915."
+2,1446,660,1476,3754,,Lieutenant ,"Walter, Royland Allen ",33rd Regt,"Walter, W'illiam ","R.R. No. 4, Goderich, Ont ",Canada..,Clinton ,Dec.,"22, 1915."
+2,1475,659,1504,3754,,Lieutenant ,"Wilson, William Bell ",33rd Regt,"Wilson, John McD ","Hensall, Ont . ",Canada..,Hensall ,Dec.,"10, 1915."
+2,1503,560,1533,3753,C54308,Private ,"Adair, William Gordon ",Nil ,"Adair, William J ","Wingham, Ont   ...,.",Canada..,Wingham ,Jan.,"22, 1916."
+2,1532,560,1561,3754,654784,Corporal ,"Adams, John ",Nil ,"Adams, William ","Seaforth, Ont .  ",Canada..,Seaforth ,May,"8, 1916."
+2,1560,560,1592,3755,654374,Private ,"Adams, Thomas ",10th Regt,"Adams, Mrs. Florence May ","Auburn, Ont ",Canada..,Manchester ,Jan.,"28, 1916."
+2,1590,559,1619,3755,654138,Private ,"Agar, Nelson ",Nil ,"Whittard, Mrs. Ben ","Brussels, Ont  ",Canada..,Brussels ,Dec.,"11, 1915."
+2,1619,559,1649,3755,654294,Private ,"Aitchison, Cleveland ",Nil ,"Aitchison, Mrs. George T ","Lucknow, Ont  ,",Canada..,Hensall ,Jan.,"21, 1916."
+2,1647,559,1677,3756,654001,Private ,"Aitchison, Wallace ",Nil ,"Aitchison, Mrs. Elizabeth ","Wingham, Ont ",Canada..,Wingham ,Dec.,"2, 1915."
+2,1676,559,1706,3756,654716,Co. Q.-M. Sergt...,"Allen, John Andrew ",Nil ,"Allen, Robert ","Wingham, Ont ",Canada..,Wingham ,Mar.,"19, 1916."
+2,1705,559,1735,3756,654359,Private ,"Allin, Lome William J ",Nil ,"Allin, Mrs. Elizabeth ","R.R. No. 2, Clinton, Ont ",Canada..,Goderich ,Jan.,"31, 1916."
+2,1734,559,1764,3756,654257,Private ,"Anderson, Clair ",Nil ,"Anderson, Mrs. Minnie ","Wyoming, Ont   ",Canada..,Goderich ,Jan.,"17, 1916."
+2,1763,559,1792,3757,654415,L.-Corporal ,"Anderson, John George ",Nil ,"Anderson, James ","R.R. No. 4, Brussels, Ont ","U.S.A..,",Belgrave ,Feb.,"8, 1916."
+2,1791,559,1822,3757,654139,L.-Sergeant ,"Andrews, Francis William ",Nil ,"Andrews, Mrs. Mary Ellen ","Clinton, Ont ",Canada..,Clinton ,Jan.,"5, 1916."
+2,1820,559,1852,3758,654002,Sergeant ,"Angell, Reginald George ",Nil ,"Angell, Mrs. Myrtle Mary ","Hensall, Ont   ",England.,Hensall ,Dec.,"15, 1915."
+2,1849,559,1880,3758,654621,Private ,"Anger, George Hugh ",Nil ,"Anger, William ","Gorrie, Ont ",Canada..,Wroxeter ,Mar.,"22, 1916."
+2,1878,559,1909,3758,654599,Private ,"Anger, James Alvin ",Nil ,"Anger, William ","Gorrie, Ont ",Canada..,Wroxeter ,Mar.,"21, 1916"
+2,1907,559,1938,3759,654003,Private ,"Appleby, William James C ",Nil ,"Appleby, James ","Clinton, Ont ",Canada..,Clinton ,Dec.,"6, 1915."
+2,1936,559,1967,3759,654307,Private ,"Appleton, David Gordon ",Nil ,"Appleton, Thomas ","Crediton East, Ont ",Canada..,Exeter ,Jan.,"24, 1916."
+2,1965,558,1996,3760,654684,Private ,"Appleton, Thomas Winifred....",Nil ,"Appleton, Mrs. Florence ","Exeter, Ont ",Canada..,Exeter ,Mar.,"27, 1916."
+2,1994,558,2025,3759,654780,Private ,"Armstrong, Lome Wilson ",Nil ,"Armstrong, George ","Varna, Ont ",Canada..,London ,May,"9, 1G16."
+2,2022,558,2053,3760,654622,Private ,"Atkinson, Lewis Patrick ",33rd Regt,"Atkinson, Mrs. Catherine ","Seaforth, Ont ",Canada..,Seaforth ,Mar.,"23, 1916."
+2,2051,558,2081,3760,054851,Private ,"Baker, William Joseph ",Nil ,"Baker, Mrs. Catherine ","Hensall, Ont ",Canada..,Clinton ,May,"21, 1916."
+2,2080,557,2111,3761,654258,Private ,"Balkwill, David Muir ",Nil ,"McCracken, Mrs. A ","Goderich, Ont ",Canada..,Goderich ,Jan.,"17, 1916."
+3,444,3650,472,3846,Feb. 12. 1916.
+3,454,656,483,2251,654442,Act.-Corporal...,"Ballantync, Colin MacCarter...",Nil ,"Ballantyne, James "
+3,474,3651,501,3846,Nov. 29. 1915.
+3,483,656,511,2250,654005,Private ,"Barker, Joseph Henry ",33rd Regt. ..,"Barker, Mrs. Annie "
+3,503,656,541,3846,654006,L.-Corporal ,"Barkley, William Reynold ",Nil ,"Barkley, George ",,,,Dec. 22. 1915.,U.S.A ,Brussels 
+3,532,3649,561,3847,"May 22, 1916."
+3,534,3407,562,3630,Wingham 
+3,541,656,568,2249,654860,Private ,"Barr, Walter Earl ",Nil ,"Barr, John "
+3,562,656,599,3847,654407,Corporal ,"Barr, William James ",Nil ,"Barr, Mrs. William J ",,,,"Feb. 5, 1916.",Blyth 
+3,591,656,628,3846,65456S,Private ,"Barron, William George ",Nil ,"Barron, Alexander ",,,,"Mar. 11, 1916.","R.R. No. 2, Brussels, Ont  ",Canada 
+3,619,655,655,3846,654346,Private ,"Bates, Albert Russell ",Nil ,"Bates, William K ",,,,Jan. 17. 1916.,Canada 
+3,649,655,684,3846,654472,Private ,"Bates, Charles Fred ",Nil ,"Bates, George D ",,,,"Jan. 27, 1916.",Goderich 
+3,677,655,712,3846,654458,Private ,"Bates, Harold Leslie ",Nil ,"Bates, William K ",,,,"Feb. 12, 1916.",Canada ,Goderich 
+3,707,654,744,3847,654347,Private ,"Bates, John Henry ",Nil ,"Bates, George D ",,,,"Jan. 7, 1916.",Canada 
+3,736,654,773,3846,654295,Private ,"Batten, Ralph Wellington ",Nil ,"Batten, John ",,,,"Jan. 22, 1916.",Canada 
+3,764,654,802,3846,654726,Private ,"Baxter, George Leslie ",Nil ,"Baxter, Mrs. Charlotte ",,,,"April 4, 1916.",Canada ,Goderich 
+3,794,654,829,3846,654600,Private ,"Beattie, Thomas Alexander.. .",Nil ,"Beattie, Mrs. Elizabeth ",,,,"Mar. 22, 1916.",Canada 
+3,823,654,859,3846,654193,Private ,"Beattie, William Percy ",Nil ,"Beattie, Mrs. E ",,Canada ,,"Jan. 5, 1916."
+3,852,654,888,3846,654670,Private ,"Beere, Wyndham Irbv F ",Imp. Forces.,"Beere, Mrs. Eleanor Mabel.",,,,"Mar. 22, 1916.",South Africa....,Goderich 
+3,881,653,918,3846,654207,Sergeant ,"Bell, Benson Henry ",Nil ,"Bell, Mrs. Henry ",,,,"Jan. 5, 1016.",Canada 
+3,909,653,946,3845,654391,Private ,"Bell, John Harvey ",Nil ,"Bell, Mrs. Jean ",,,,"Jan. 31, 1916.",Canada ,Goderich 
+3,939,652,974,3845,654563,Private ,"Bell, Russell Melton ",U.S. Army..,"Bell, Mrs. Stelle Catherine.",,,,"Mar. 11, 1616.",Canada ,Goderich 
+3,968,652,1003,3846,654208,Private ,"Bell, Wilfrid Laurier ",33rd Regt. . .,"Bell, Mrs. Elizabeth ",,,,"Jan. 10, 1916."
+3,996,3648,1022,3846,"Mar. 17, 1916."
+3,1003,652,1032,2258,654624,Private ,"Bellamy, Charles Arthur H ",Nil ,"Bellamy, Mrs. Annie "
+3,1025,652,1060,3847,654178,Private ,"Bennett, William Clarence ",Nil ,"Bennett, Joseph ",,Canada ,Brussels ,"Dec. 31, 1915."
+3,1054,651,1090,3847,654473,Private ,"Bentley, Earl Charles ",Nil ,"Bentley, Jonathan ",,,,"Feb. 21, 1916.",Canada ,Blyth 
+3,1082,651,1118,3847,654789,Private ,"Bentley, Russell Clarence ",Nil ,"Bentley, Jonathan ",,,,"May 10, 1916.",Canada ,Blyth 
+3,1111,651,1146,3847,654474,Private ,"Berriman, George Edward ",Nil ,"Berriman, Mrs. Rose ",,,,"Feb. 18, 1916.",England ,Goderich 
+3,1140,651,1175,3848,654746,Private ,"Berry, William Frank ",Nil.,"Berry, Mabel ",,,,"April 8, 191G.",England ,Goderich 
+3,1169,650,1205,3848,651570,Sergeant ,"Best, John Harries ",33rd Regt. . .,"Best, John Maitland ",,Canada ,Seaforth ,"Mar. 13, 1916."
+3,1197,650,1233,3848,654375,Private ,"Biggin, Francis Willard ",Nil ,"Biggin, John ",,Canada ,Blyth ,"Jan. 29, 1916."
+3,1226,650,1261,3848,654753,Private ,"Birney, William George ",Nil ,"Birney, Charles William",,,,"April 25, 1916.",Canada 
+3,1255,649,1292,3848,654123,Sergeant ,"Bissett, Thomas Harold ",Nil ,"Bissett, Mrs. Thomas ",,Canada ,Exeter ,"Dec. 31, 1915."
+3,1284,649,1318,3848,654733,Private ,"Black, John James ",Nil ,Black. James D ,,Canada ,,"April 8, 1916.",Hensall 
+3,1313,649,1347,3848,65-1140,Private ,"Black, Robert Anderson ",Nil ,"Black, Robert ",,Canada ,Brussels ,"Dcc. 31, 1915."
+3,1341,648,1378,3848,654141,L.-Corporal ,"Black, Roy Melvin ",Nil ,"Black, James ",,,,"Dec. 31, 1915.",Canada ,Goderich 
+3,1371,648,1410,3848,654571,L. -Corporal ,"Black, William ",Nil ,"Black, John Wallis ",,,,"Mar. 13, 1916.",Canada ,Clinton 
+3,1400,648,1438,3848,654661,Private ,"Blackwell, David Benjamin . .",Nil ,"Blackwell, George ","R.R. No. 2, Hensall, Ont ",Canada ,Hensall ,"Mar. 24, 1916."
+3,1428,3647,1454,3849,"Jan. 6, 1916."
+3,1437,647,1466,2229,654179,Private ,"Bloomfield, Morris Russell. . ..",Nil ,"Bloomfield, Mrs. Emma.."
+3,1457,648,1495,3849,654124,Private ,"Bolton, Albert Sidney ",Nil ,Not stated ,,,,"Dec. 30, 1915.",England ,Exeter 
+3,1486,648,1523,3849,654259,Private ,"Bond, Herbert James ",Nil ,"Bond, Sidney ",,,,"Jan. 17, 1916.",England ,Wingham 
+3,1515,647,1552,3849,654625,Private ,"Bowra, Frederick William ",Imp. Forces.,"Bowra, Mrs. Rose Amy ",,,,"Mar. 21, 1916.",England 
+3,1544,647,1584,3849,654568,Private ,"Boyce, Frank Harold ",Nil ,"Boyce, James ",,Canada ,,Mar. 4. 1916.
+3,1573,3650,1601,3849,"May 27, 1916."
+3,1576,3406,1598,3631,Exeter 
+3,1580,647,1612,2242,654865,Private ,"Boyle, Edgar Bernard ",Nil ,"Boyle, Mrs. Alice "
+3,1602,647,1639,3849,654671,Private ,"Brad win, Albert Milton ",Nil ,"Bradwin, Mrs. Lena ",,,,"Mar. 20, 1916.","Godcrich, Ont ",Canada ,Goderich 
+3,1631,647,1668,3849,654007,Private ,"B ram field, William Valentine.",Can. Mil,"Bramfield, Mrs. Katie....",,,,"Dec. 28, 1915.","Clinton, Ont ",Canada ,Clinton 
+3,1660,647,1697,3850,727161,Private ,"Brandon, Abraham ",Nil ,"Brandon, Mrs. Catherine ",,,,Dec. 7. 1915.,"Bayfield, Ont ",Canada ,Listowel 
+3,1689,648,1725,3850,554521,Private ,"Brandon, Harold Noble ",Nil ,"Brandon, Mrs. Catherine ",,,,"Feb. 29, 1916.","Bayfield, Ont ",Canada ,Clinton 
+3,1721,646,1756,3148,654008,Private ,"Brazier, George William ",Nil ,"Brazier, Mrs. George ","c/o Mrs. E. Fawrant, 82 Hatcham Park Rd., New"
+3,1747,3652,1773,3850,"Dec. 28, 1915."
+3,1748,3407,1772,3632,Godericli 
+3,1776,647,1812,3850,354400,Private ,"Brennan, Frederick ",Nil ,"Johnstone, Mrs. James H ",,,,"Feb. 3, 1916.",Clinton 
+3,1805,646,1841,3850,054577,Private ,"Bridle, William Thomas ",Nil ,"Bridle, Mrs. Florence Henrietta.",,,,"Mar. 16, 1916.","Goderich, Ont ",England ,Goderich 
+3,1834,646,1871,3851,654475,Private ,"Bright, William Down ",33rd Regt.,"Bright, Mrs. Beatrice....",,,,"Feb. 21, 1916.",Seaforth. Ont ,Canada ,Seaforth 
+3,1863,646,1900,3851,054360,Private ,"Brindley, Allan Jasper ",Nil ,"Brindley, William ",,,,"Jan. 29, 1916.","Goderich, Ont ",Canada ,Goderich 
+3,1891,643,1928,3851,054: 09,Private ,"Brintncll, Clifford ",Nil ,"Brintncll, Donald ",,,,"Jan. 24, 1916."
+3,1921,645,1955,3851,654421,Private ,"Brittain, Frederick James ",Nil ,"Brittain, William ",,,Wroxeter ,"Feb. 9, 1916."
+3,1949,644,1987,3851,054412,Private ,"Brock, George Edward ",Nil ,"Brock, Mrs. Flossie ",,,,"Feb. 8, 1916.",Hensall 
+3,1978,645,2013,3852,054553,Private ,"Brockenshire, Arva Everett ",Nil ,"Brokenshire, Silas",,,,"Mar. 6, 1916."
+3,2007,645,2044,3852,054260,Private ,"Brombley, Charles Edward",Nil ,"Brombley, William ","Londesborough, Ont ",Canada ,Blyth ,"Jan. 18, 1916."
+3,2036,645,2071,3854,054142,Private ,"Brown, Bernard ",Nil ,"Brown, Edward ","Ripley, Ont ",Scotland ,Seaforth ,"Jan. 1, 1916."
+3,2065,645,2102,3852,054009,Private ,"Brown, .Samuel Henry ",Can. Mil..,"Brown, John ",,Canada ,Clinton ,"Dec. S, 1915."
+3,2094,645,2130,3852,054001,L.-Corporal ,"Brunner, Charles Edward ",Nil ,"Brunner, Mrs. John",,Canada ,,"Mar. 21, 1010."
+3,2123,1019,2157,3853,,,"Buchanan, Robert Leslie ",Nil ,"Buchanan, Robert ",,,Londesborough.,"May 9, 1916."
+3,2151,645,2186,3853,054443,Private ,"Buchanan, Ward Miles ",Nil ,"Buchanan, Mark ",,,Brussels ,"Feb. 12, 1916.",Canada 
+4,393,1983,432,2316,161st Battalion
+4,520,3365,544,3544,Taken on £
+4,551,559,571,603,c O
+4,559,551,597,3242,Mz,,,Former Corps.,,Country of
+4,568,736,591,819,Hank.
+4,569,1117,592,1211,Name.
+4,570,1845,595,2154,Name of Next of Kin.
+4,570,2478,594,2818,Address of Next of Kin.
+4,596,559,611,579,u
+4,597,3124,621,3209,Birth.
+4,614,3365,638,3449,Place.
+4,616,3609,639,3685,Date.
+4,712,646,741,3737,,Private ,,Nil ,,,,"29, 1910."
+4,741,645,771,3738,,Co. Scrgt.-Major..,"Burchell, Fred William ",Nil ,,,,"6, 1916."
+4,769,645,798,3737,,Private ,"Burling, Lome ",Nil ,,,,19. 1916.
+4,799,645,829,3736,,Private ,"Burton, Roy Martin ",Nil ,,,,"10, 1910."
+4,827,645,858,3736,,Private ,"Butcher, Norman Leslie ",Nil ,,,,"16, 1916."
+4,856,645,887,3736,,Private ,"Butler, John Robert ",Nil ,,,,"21, 1916."
+4,885,547,916,3736,G54831,Private ,"Buttrey, Charlie Wesley ",Nil ,,,,"16, 1916."
+4,914,643,944,3735,,Corporal ,"Caldwell, Robert Revnolds ",,"Caldwell, William T ",,,"10, 1916."
+4,917,2256,944,2622,"R.R. No. 2, Hensall, Ont."
+4,943,644,974,3736,,Private ,"Callow, Earnest  ",Nil ,,,,"8, 1916."
+4,973,1419,997,1733,Nil 
+4,975,2255,1002,3033,"North Cottage, North St., Alexandria, Dumbarton,"
+4,1005,3675,1027,3738,1916.
+4,1006,3623,1030,3660,"23,"
+4,1030,1419,1059,3737,,,,Nil ,,,,"2,",1915.
+4,1059,1418,1087,3737,,,,Nil ,,,,"17,",1916.
+4,1087,643,1115,3738,,Private ,,Nil ,,,,"31,",1910.
+4,1116,545,1143,3738,654481,,,Nil ,,,,"21,",1910.
+4,1145,545,1174,3738,G54011,Private ,"Campbell, Hugh ",Nil ,,,,"IS,",1915.
+4,1174,545,1202,3739,G54194,,,Nil ,,,,8.,1916.
+4,1203,1417,1230,3739,,,,Nil ,,,,"13,",1915.
+4,1232,1417,1259,3738,,,,Nil ,,,,"5,",1916.
+4,1261,545,1288,3739,054 602,,,Nil ,,U.S.A ,,"22,",1916.
+4,1290,545,1318,3738,054231,Private ,"Carruth, Frederick Lachlan ",Nil ,,,Wingham ,"13,",1916.
+4,1319,545,1347,3738,654801,Private ,"Carruth, Joseph Hunter ",30th Regt ,"Carruth, Mrs. Emily ",,Wingham ,"15,",1916.
+4,1348,544,1375,3737,654864,,,Nil ,,Canada ,Clinton ,"21,",1916.
+4,1377,544,1403,3736,654013,,,,,Canada ,,"13,",1915.
+4,1405,544,1432,3736,654662,,,Nil ,,,Manchester ,"23,",1916.
+4,1435,543,1461,3734,654427,,,Nil ,,,Wroxeter ,10.,1916.
+4,1462,542,1490,3735,054523,,,Nil...,,,Clinton ,"22,",1916.
+4,1491,542,1517,3734,654014,,,,,,Goderich ,"13,",1915.
+4,1521,541,1546,3734,654276,,,Nil...,,,,"14,",1916.
+4,1549,541,1579,3735,654278,Private ,"Champion, Roy Albert ",Nil ,"Champion, Mrs. Martha ",Canada ,,"14,",1916.
+4,1578,542,1608,3735,654757,Sergeant ,,,"C’hapman, Mrs. Elizabeth J ",Canada ,,21/,1916.
+4,1607,543,1632,3735,654730,,,Nil...,,,,":io,",1916.
+4,1635,543,1660,3736,751752,,,Nil ,,,London ,27.,1916.
+4,1664,544,1693,3737,654603,,,Nil ,"Chisholm, Mrs. Lily  ",,,"21,",1916.
+4,1691,545,1718,3738,654759,,,Nil ,,,Clinton ,"2,",1916.
+4,1719,545,1746,3738,654694,,,Nil ,,,,"22,",1916.
+4,1748,546,1775,3739,654821,,,Nil ,,,Clinton ,15.,1916.
+4,1777,1747,1806,3740,,,,,"(Mark, Mrs. Margaret ",,Seaforth ,II.,1916.
+4,1805,1419,1832,3741,,,,Nil ,,,Hensall ,1916.
+4,1834,1420,1862,3742,,,,Nil...,,,Bayfield ,"25,",1916.
+4,1862,1420,1890,3743,,,,Nil ,,Canada ,Brussels ,"17,",1915.
+4,1891,3298,1917,3743,,,,,,,Hensall ,13.,1916.
+4,1920,545,1949,3743,654801,,,,,England ,,"13,",1916.
+4,1949,1421,1978,3744,,,,Nil ,,England ,Seaforth ,Dec.,"17,",1915.
+4,1978,1422,2005,3744,,,,Nil ,,,Seaforth ,Dec.,"14,",1915.
+4,2007,3053,2034,3745,,,,,,Canada ,Clinton ,April,"3,",1916.
+4,2036,1422,2063,3745,,,,Nil ,,,,Feb.,"2,",1916.
+4,2065,1422,2092,3745,,,,Nil ,,,,Mar.,"20,",1916.
+4,2093,545,2126,3747,054701,Private ,"Colclough, Douglas Oscar ",Nil ,"Colclough, John ",,Blvth ,Mar.,"27,",1916.
+5,420,663,454,3850,654429,Private ,"Cole, Francis Joshua ",33rd Regt..,"McDonald, Mrs. Allen ","Goderich, Ont ",,,Feb,5,1916.
+5,450,664,483,3851,654822,Private ,"Cole, Oliver John ",Nil ,"Cole, Thomas Henry ","R.R. No. 3, Clinton, Ont ",Canada ,,May,14,1916.
+5,479,663,511,3850,654016,Private ,"Cole, Robert Nelson ",Nil ,"Cole, Mrs. Flossie E ","Clinton, Ont ",Canada ,,,11,1915.
+5,508,663,542,3851,654587,Private ,"Coleman, Charles Sidney ",Nil ,"Coleman, Mrs. E ","6 Brandon Rd., YVood St., Walthamstow, Essex, Eng.",England ,,,IS,1916.
+5,537,662,570,3851,654195,Private ,"Collingwood, Ernest ",Nil ,"Collingwood, Mrs. Violet ","Exeter, Ont ",,,,6,1916.
+5,566,662,600,3851,654842,Private ,"Collins, James Wilson M ",Nil ,"Collins, William ","Bruce field, Ont ",,,May,11,1916.
+5,595,662,630,3850,654020,Private ,"Colvin, David ",Nil ,"Colvin, Mrs. Eliza Ann ","Bellyneagh, Moneymore, Co. Londonderry, Ire ",,,Dec.,Ireland ,13,1915.
+5,624,662,657,3852,654017,Private ,"Consigney, Charles ",Nil ,"Consigney, Charles ","Seaforth, Ont ",,,,25,1915.
+5,653,661,687,3852,654238,Private ,"Cook, Mansfield Smith ",Nil ,"Cook, Fred ","Clinton, Ont ",,,,11,1916.
+5,683,662,716,3852,654790,Private ,"Cook, Milton Joshua ",Nil ,"Cook, Joshua ","Clinton, Ont ",,,May,11,1916.
+5,711,661,744,3851,654279,Corporal ,"Cook, Rollo Elmer ",Nil ,"Cook, Mrs. Jane ","Seaforth, Ont ",U.S.A....,,,14,1916.
+5,741,661,774,3850,654021,Private ,"Cook, Willett Glen ",Nil ,"Cook, Frederick ","Clinton, Ont ",,,,16,1915.
+5,770,660,803,3851,654280,Private ,"Cooper, Cecil Wilford ",Nil ,"Cooper, George E ","Clinton, Ont ",,,Jan.,17,1916.
+5,799,660,832,3844,654871,Private ,"Copeland, Chester Russell",Nil ,"Copeland, Mrs. Pearl V ","Wingham, Ont ",,,June,3,1916
+5,828,660,860,3850,654802,Private ,"Corbett, Erie Armstrong ",Nil ,"Corbett, Mrs. Sarah ","R.R. No. 1, Goderich, Ont ",,,May,10,1916.
+5,857,660,890,3852,654022,L.-Corporal ,"Cornish, John Hendall ",Nil ,"Cornish, John ","Elimville, Ont ",,,Dec.,11,1915.
+5,886,660,918,3852,654702,Private ,"Cornish, Richard Hardwick..",Can. Mil. . . .,"Cornish, John ","Elimville, Ont ",,Exeter ,Mar.,20,1916.
+5,915,659,948,3852,654023,Private ,"Cornwall, William Francis....",2nd Regt,"Cornwall, Mrs. Sarah Jane ","Wroxeter, Ont ",,,Dec.,20,1915.
+5,944,659,978,3852,654348,Sergeant ,"Coultes, Charlie Russell ",Nil ,"Coultes, Mrs. George W ","Wingham, Ont ",,Blyth ,Jan.,1916.
+5,973,659,1006,3852,654491,Private ,"Coultes, James Howard ",Nil ,"Coultes, Mrs. Lizzie. .   ","Weston, Ont ",,,Feb.,17,1916.
+5,1002,660,1034,3852,654019,Btn. Q.-M. Sergt..,"Counter, Morley ",Can. Mil....,"Counter, William R ","Clinton, Ont ",,,Dec.,10,1915.
+5,1031,660,1064,3853,654832,Private ,"Coutts, Andrew Donald ",Nil ,"Coutts, Mrs. Mary ","Jamestown, Ont ",,,May,16,1916.
+5,1060,660,1094,3852,654710,Private ,"Cowan, John Alexander ",Nil ,"Cowan, Isaac ","Blyth,Ont ",,,Mar.,Canada ,Blyth ,27,1916.
+5,1088,660,1123,3852,654444,Private ,"Cowan, Walter ",Nil ,"Cowan, David ","Blyth, Ont ",,,Feb,10,1916.
+5,1117,660,1152,3845,654327,Private ,"Cowan, William Edgar ",Nil ,"Cowan, Isaac ","Blyth, Ont ",,Blyth ,,25,1916
+5,1146,659,1180,3852,654791,Private ,"Cowell, Richard Tomlinson...",Nil ,"Cowell, Mrs. Frances Rebecca. .",Wingham. Ont ,,,May,11,1916.
+5,1175,659,1207,3853,654343,"Sergeant, ","Cox, Clarence James ",Nil ,"Cox, Mrs. Olive Jane ","Auburn, Ont ",,,,27,1916.
+5,1204,659,1236,3852,654024,Private ,"Cox, Richard Frederick ",Nil ,"Cox, Richard ","Brussels, Ont ",,Brussels ,,21,1915.
+5,1233,658,1266,3853,654328,Corporal ,"Craig, Joseph Chambers ",Nil ,"Craig, Mrs. Lily ","Goderich, Ont ",,,,r?,1916.
+5,1262,658,1295,3853,65402.',Private ,"Cramer, John ",Can. Mil,"Cramer, John ","Paris, Ont ",,,,23,1915.
+5,1291,657,1325,3853,654239,Corporal ,"Crawford, Frederick ",33rd Regt. ..,"Crawford, Edward ","Londcsborough,Ont ",,,,14,1916.
+5,1320,657,1354,3853,654841,Private ,"Crawford, James Clarence. . . .",Nil ,"Crawford, Charles ","Ixjndesborough, Ont ",,,May,19,1916.
+5,1350,657,1384,3853,654703,Private ,"Crawford, Roy Edward ",33rd Regt. ..,"Crawford, George. .  ","Blyth, Ont ",,Blyth ,,28,1916.
+5,1378,657,1412,3853,654516,Private ,"Crawford, St. Clair ",Nil ,"Crawford, Alexander McDonald.","Wingham, Ont ",,,Feb,28,1916.
+5,1407,656,1440,3853,654026,Sergeant ,"Cree, Lockhart John ",Nil ,"Cree, Mrs. Maggie ","Clinton, Ont ",,,,6,1915.
+5,1437,656,1468,3853,654027,Co. Sergt.-Major..,"Crich, James Onslow ",33rd Regt. . .,"Crich, Mrs. Susan ","Clinton, Ont ",Canada ,,,6,1915.
+5,1466,656,1497,3853,654758,Private ,"Crich, Wilfred Victor ",Nil ,"Crich, Onslow ","Clinton, Ont ",Canada ,Clinton ,April 29,1916.
+5,1494,656,1526,3853,654508,Private ,"Cud more, Lome ",Nil ,"Cudmorc, Mrs. Louisa ","Exeter, Ont ",,,Feb. 25,1916.
+5,1524,655,1556,3852,654361,Private ,"Culbert, Gordon Carroll ",Nil ,"Culbert, John ","Centralta, Ont ",,Exeter ,,31,1916.
+5,1553,655,1585,3846,654626,Private ,"Culbert, Wilson ",Nil ,"Culbert, John ","Central ia, Ont ",,,,21,1916
+5,1582,656,1613,3846,654719,Private ,"Currell, Lloyd William ",Nil ,"Currell, Edward Albert ","Goderich, Ont. * ",,,,27,1916
+5,1611,655,1644,3846,654792,Private ,"Currie, David ",Nil ,"Currie, Mrs. Jemima Hope ","Wingham, Ont ",,,May,11,1916
+5,1640,655,1672,3854,654127,Private ,"Currie, Harold James ",Nil ,"Currie, W. J ","R.R. No. 5, Wingham, Ont ",,,,31,1915.
+5,1669,655,1701,3854,654196,Corporal ,"Currie, Harold Reginald ",Nil ,"Currie, Peter ","Goderich, Ont ",,,,7,1916.
+5,1698,655,1730,3853,654144,L.-Sergeant ,"Currie, James Hilton ",Nil ,"Currie, John T ","R.R. No. 3, Wingham, Ont ",,,Jan.,4,1916.
+5,1727,655,1759,3853,654469,Private ,"Currie, Kenneth ",Nil ,"Currie, Mrs. Agnes ","Bayfield, Ont ",,,Feb.,17,1916.
+5,1756,655,1789,3846,654627,L.-Corporal ,"Curson, James Robert ",Nil ,"Curson, Mrs. Nellie ","Goderich, Ont ",,,Mar.,22,1916
+5,1785,655,1818,3853,654524,L.-Corporal ,"Dftvidson, Leonard Robert",Nil ,"Davidson, William ","Zurich, Ont ",,,Feb,29,1916.
+5,1812,655,1846,3853,654253,Private ,"Davidson, Thomas Alexander.",Nil ,"Davidson, William ","Zurich, Ont ",,,Jan.,1,1916.
+5,1842,654,1876,3852,654863,Private ,"Davis, George Newton ",33rd Regt. . .,"Davis, George ","Clinton, Ont ",,,May,16,1916.
+5,1871,654,1905,3852,654588,Private ,"Day, George Linfred ",Nil   ,"Day, Robert John ","Wingham, Ont ",,,Mar.,18,1916.
+5,1900,654,1934,3853,654711,Private ,"Day, Louis Edgar ",Nil ,"Day, Louis ","Exeter, Ont ",,,Mar.,30,1916.
+5,1929,654,1962,3852,654867,Private ,"Deem, Harold Arthur  ",Nil ,"Deem, Mrs. Martha Irene ","Wingham, Ont ",,,May,27,1916.
+5,1958,654,1992,3852,654589,Private ,"Deem, Sydney ",Nil ,"Deem, William ","Seaforth, Ont ",,,Mar.,20,1916.
+5,1987,653,2021,3845,654312,L.-Corporal ,"Dennison, Alfred Wesley ",33rd Regt. . .,"Dennison, Mrs. Lilian ","Walton, Ont ",,,,24,1916
+5,2015,653,2049,3845,654803,Private ,"Dexter, Harold Lloyd ",Nil ,"Dexter, Mrs. E. J ","Blyth, Ont ",,,May,II,1916
+5,2044,653,2078,3852,654029,Private ,"Dexter, Herbert Manson ",Nil ,"Dexter, Mrs. Emma Jane ","Blyth, Ont ",,,Dec.,28,1915.
+5,2073,653,2107,3843,654591,Private ,"Dick, Ross Thomas ",Nil ,"Dick, Mrs. Elizabeth ","Hay, Ont ",,,Mar.,20,1916
+5,2102,654,2136,3844,654145,Co. Q.-M. Sergt...,"Dick, Thomas Henry ",33rd Regt. .,"Dick, John ","Seaforth, Ont ",,,Dec.,27,1915
+5,2131,654,2165,3853,654720,L.-Corporal ,"Dickinson, Joseph Arthur ",Nil ,"Dickinson, Mrs. Margaret S ","1001 Bathurst St., Toronto, Ont ",Canada ,,April,3,1916.
+6,363,2008,402,2339,161st Battalion
+6,488,3389,511,3708,Taken on Strength.
+6,538,759,561,841,Rank.
+6,538,759,567,3265,,,,Former Corps.,Country of
+6,538,1141,561,1234,Name.
+6,540,1866,565,2177,Name of Next of Kin.
+6,540,2502,564,2841,Address of Next of Kin.
+6,566,3148,589,3233,Birth.
+6,582,3389,605,3471,Place.
+6,583,3629,605,3705,Date.
+6,681,570,708,3759,654310,Private ,,Nil ,,Seaforth ,"Jan. 24, 191C."
+6,711,570,736,3759,654712,,,,,,"Mar. 21, 1916.",Nil 
+6,740,570,763,653,654781
+6,741,1444,764,1759,Nil 
+6,768,569,797,3759,654146,Sergeant. ,"Dougall, Roswell Percival Ingram",Nil ,Canada ,Hensall ,"Jan. 4, 1916."
+6,797,569,823,3758,654190,,,,,,"Jan. 6, 1916.",Nil 
+6,826,569,855,3759,654030,,,,,,"Dec. 6, 1915.",L.-Sergeant ,"Draper, Robert Murray ",Nil ,Canada ,Clinton 
+6,855,569,880,3759,654262,,,,,,"Jan. 17, 1916.",Private 
+6,884,569,912,3757,654232,,,,,,"Jan. 13, 1916.",Corporal ,Nil 
+6,913,568,938,3759,654565,,,,,,"Mar. 10, 1916.",Private ,Nil  
+6,942,568,970,3758,654147,,,,,,"Jan. 3, 1916.",L.-Corporal ,"Dunford, Ernest Russell ",C.A.M.C- ,Canada 
+6,971,568,998,3759,654470,,,,,,"Feb. 19, 1916.",Nil ,Sergeant 
+6,999,567,1028,3758,654336,,,,,,"Jan. 25, 1916.",Corporal ,Belgrave 
+6,1029,567,1054,3758,654592,,,,,,"Mar. 21, 1916.",Nil 
+6,1057,568,1082,3758,654687,,,,,,"Mar. 27, 1916.",Private ,Nil 
+6,1086,567,1114,3758,654436,,,,,,"Feb. 11, 1916.",Private ,"Elliott, Lewis McMann ",Nil ,Goderich 
+6,1088,1774,1114,2142,"Elliott, Mrs. Elizabeth. ."
+6,1115,567,1140,3757,654673,,,,,,"Mar. 24, 1916.",Private ,Nil 
+6,1144,567,1169,3758,654393,Private ,,Nil ,,,"Feb. 3, 1916."
+6,1173,567,1199,3758,654210,,,,,,"Jan. 5, 1916.",Private ,"Ervine, Edward ",Nil ,Goderich 
+6,1201,566,1232,3758,654148,,,,,,"Jan. 1, 1916.",Private ,"Ervine, Robert ",Nil ,Canada 
+6,1204,1773,1228,2244,"Ervine, W'illiam John "
+6,1206,2275,1232,3056,"Weston St., Goderich, Ont "
+6,1230,567,1259,3758,654492,Private ,"Fallis, Robert John ",,Canada ,Wingham ,"Feb. 19, 1916."
+6,1259,566,1286,3758,654031,Private ,"Farrant, James Harold ",,,,"Dec. 27, 1915."
+6,1288,566,1317,3758,654329,,,,,,"Jan. 25, 1916.",Private ,"Fay, Richard ",Nil 
+6,1317,565,1345,3758,654032,,,,,,"Nov. 27, 1915.",Corporal ,"Feagan, William Leonard ",Nil 
+6,1347,564,1373,3757,654033,,,,,,"Dec. 9, 1915.",Private ,"Fearon, Arthur ",U.S. A 
+6,1375,563,1403,3757,654493,,,,,,"Feb. 14, 1916.",Sergeant ,"Ferguson, Samuel Foster ",Nil 
+6,1404,562,1433,3757,654263,,,,,,"Jan. 15, 1916.",L.-Corporal ,"Fetterly, William Marcus G ",Nil ,Wingham 
+6,1433,561,1460,3756,654350,,,,,,"Jan. 31, 1916.",L.-Sergeant ,Nil.
+6,1462,561,1488,3756,654537,,,,,,"Mar. 4, 1916.",Private ,Nil 
+6,1490,560,1519,3756,654423,,,,,,"Feb. 8, 1916.",L.-Corporal ,"Fisher, George "
+6,1519,560,1546,3756,654459,,,,,,"Jan. 24, 1916.",Private ,"Fisher, Robert Percival ",Nil 
+6,1548,560,1576,3756,654034,,,,,,"Dec. 6, 1915.",Private ,"Fisher, Stanley Gordon ",Nil 
+6,1576,561,1604,3756,654833,,,,,,"Mav 17, 1916.",L.-Corporal 
+6,1606,561,1632,3754,654264,Private ,,Nil ,,,"Jan. 14, 1916."
+6,1634,561,1661,3755,654035,,,,,,"Dec. 10, 1915.",Sergeant ,Nil 
+6,1663,560,1690,3755,654036,,,,,,"Dec. 10, 1915.",Corporal ,Nil 
+6,1692,560,1720,3755,694531,,,,,,"Mar. 1, 1916.",Private ,"Ford, Garnet ",Nil 
+6,1721,560,1750,3756,654770,Private ,"Forrest, Charles Barclay ",Nil ,,,"Mav 6, 1916."
+6,1750,559,1778,3756,654297,,,,,,"Jan. 15, 1916.",Private ,"Forrester, Ross ",Nil 
+6,1779,559,1806,3756,730097,,,,,,"Nov. 27, 1915.",Private ,"Forrester, Rov Alexander "
+6,1807,559,1836,3755,654177,,,,,,"Jan. 3, 1916.",Private ,"Forsyth, Ross Frederick "
+6,1836,558,1863,3756,654545,,,,,,"Mar. 4, 1916.",Private ,Nil 
+6,1865,557,1894,3756,654724,,,,,,"April 4, 1916.",Private ,Nil 
+6,1894,557,1921,3755,654834,,,,,,"Mav 17, 1916.",Private 
+6,1923,557,1951,3755,654037,L.-Sergeant ,"Fox, Robert Edward Stuart ",Nil ,,Brussels ,"Dec. 20, 1915."
+6,1952,556,1980,3755,654149,,,,,,"Jan. 4, 1916.",?rivate 
+6,1981,556,2008,3754,645298,Private ,,Nil ,,,"Jan. 24, 1916."
+6,2010,556,2039,3754,654868,,,,,,"May 27, 1916.",Private ,Nil 
+6,2039,555,2067,3754,654430,,,,,,"Feb. 10, 1916.",Private ,Nil 
+6,2068,555,2098,3753,654181,,,,,,"Jan. 5, 1916.",Private ,"Furness, Bert ",Nif ,Canada ,Clinton 
+6,2071,1765,2098,2253,"Furness, Mrs. Mossicline "
+7,419,1551,454,3859,,,Nil ,"G&mbrill, Mrs. Elsie ","Exeter, Ont : ",England..,,Feb,"2S, 1916."
+7,449,1552,483,3859,,,Nil ,"Garton, Mrs. Edward ","Brussels, Ont ",Canada...,,,"4, 1916.",Brussels ,Mar.
+7,478,1883,514,3852,,,,"Gauley, Mrs. Ella Gertrude ..","Goderich, Ont ",Canada...,,,"4, 1916",May
+7,507,675,543,3860,654823 Co. Q.-M. Sergt...,,Nil ,"Geddes, William James ","Belgrave, Ont ",Canada...,,,15. 1916.,May,Clinton 
+7,536,1552,571,3859,,,Nil ,"Gidlcy, Samuel ","Blyth, Ont ",Canada...,,,"23, 1916.",Blyth 
+7,565,1550,601,3860,,,C.O.T.C ,"Gillespie, Neil ","Cromarty, Ont ",Canada...,,,"1, 1916.",Feb
+7,595,1883,629,3860,,,,"Glazier, William ","Goderich, Ont ",Canada...,,,"14, 1916."
+7,624,1552,657,3861,,,Nil ,"Gliddon, Daniel ","Holmesville, Ont ",Canada..,,,"31, 1916."
+7,653,1551,686,3861,,,Nil ,"Good, John ","Auburn, Ont ",Canada...,,,"13, 1916.",May
+7,682,1551,715,3861,,,Nil ,"Good, John ","Auburn, Ont ",Canada...,,,"15, 1916.",Mar.,Blyth 
+7,710,1883,744,3854,,,,"Goodwin, Mrs. Isaac ","Yaxley, Peterborough, Eng ",England..,,,"11, 1916",Goderich ,Feb.
+7,740,1551,774,3862,,,Nil ,"Goslcigh, Mrs. Thirza ","Clinton, Ont ",Canada...,,,"27, 1915."
+7,768,1551,802,3862,,,Nil ,"Graham, Adam Alexander ...","R. R. No. 1, Gorrie, Ont ",Canada ..,,,"10, 1916.",May
+7,798,1044,833,3863,,"Graham, William Henry Ernest...",,"Graham, Reuben ","Clinton, Ont ",Canada...,,,"7, 1915."
+7,826,1551,861,3863,,,Nil ,"Grant, Mrs. Lydia ","Clinton, Ont ",Canada ..,,,"17, 1916."
+7,855,1551,889,3864,,,Nil ,"Grant, Mrs. Lydia ","Clinton, Ont ",Canada...,,,"10, 1916."
+7,884,1551,918,3863,,,Nil ,"Grealis, Edward ","Clinton, Ont ",Canada...,,,"21, 1916."
+7,913,1551,946,3863,,,Nil ,"Grindrod, Mrs. Anna ","Goderich, Ont  ",England..,,,"11, 1916.",Feb
+7,942,1882,976,3864,,,,"Grisdalc, Mrs. Mary ","Wingham, Ont ",Canada...,,,"22, 1916.",Wingham ,Mar.
+7,970,1882,1004,3864,,,,"Grover, Mrs. L. H ","234 Withrow Ave., Toronto, Ont ",U.S.A..,,,"26, 1916.",Gamp Borden...,Oct.
+7,1000,1882,1034,3865,,,,"Guest, Mrs. Annie ","Wingham, Ont ",Canada...,,,"9, 1916.",Feb
+7,1029,1551,1063,3865,,,Nil ,"Guest, William ","Wingham, Ont   ",Canada...,,,"13, 1915."
+7,1058,1551,1091,3865,,,Nil ,"Gwyn, Elizabeth ","Peterboro*, Ont ",England..,,,"22, 1916."
+7,1088,1551,1120,3865,,,Nil ,"Haggitt, Mrs. G. A ","Blyth, Ont ",Canada...,,,"17, 1916."
+7,1116,1551,1148,3866,,,Nil ,"Haines, Mrs. Mary ","R. R. No. 2, Lucknow, Ont ",Canada...,,Feb,"14, 1916."
+7,1145,1551,1178,3866,,,Nil ,"Haines, Arthur ","Wingham, Ont ",Canada...,,,"3, 1916."
+7,1174,1551,1205,3865,,,Nil ,"Hall, Mrs. Clara Edna ","Wroxeter, Ont ",Canada...,,,"31, 1916."
+7,1204,1551,1234,3866,,,Nil ,"Hall, Mrs. Alice Maud ","R. R. No. 2, Goderich, Ont ",England..,,,22. 1916.
+7,1232,1550,1263,3864,,,Nil ,"Hallam, Thomas ","Auburn, Ont ",England..,,,"27, 1916."
+7,1261,1550,1294,3866,,,Nil ,"Hamm, Alexander ","Blyth, Ont ",Canada...,,,"15, 1916."
+7,1290,1550,1322,3866,,,Nil ,"Handley, Mrs. Louisa E ","Clapham, London, S.W., Eng ",England..,,,"IS, 1916."
+7,1320,1549,1350,3867,,,Nil ,"Haney, George ","Bluevalc, Ont ",Canada...,,,"10, 1916.",May
+7,1349,1548,1379,3867,,,Nil ,"Hanncnt, Mrs. Alice ","Clinton, Ont ",England..,,May,"20, 1916."
+7,1378,1548,1408,3867,,,Nil ,"Hanncnt, Oxlcv ","Clinton, Ont ",England..,,,"22, 1916."
+7,1407,1548,1436,3867,,,Nil ,"Harburn, William ","Hensall, Ont ",Canada...,,,"17, 1916."
+7,1435,1042,1468,3867,,"Harness, Walter Henry ",Nil ,"Harness, Mrs. Elizabeth ","Exeter, Ont ",Canada...,,,"23, 1916.",Feb
+7,1465,1548,1496,3868,,,Nil ,"Hart, Mrs. Jane N ","Egmondville, Ont ",Scotland.,,,"1, 1916."
+7,1493,1547,1523,3867,,,Nil ,"Harvey, Thomas ","Exeter, Ont ",Canada...,,,"22, 1916.",Feb
+7,1523,1547,1552,3868,,,Nil ,"Haskins, Albert ","R. R. No. 1, Clifford, Ont ",Canada...,,,"21, 1916."
+7,1552,1879,1582,3868,,,,Hastic. Matthew ,"Harris ton, Ont ",Canada...,,,"11, 1916.",May
+7,1581,1547,1610,3868,,,Nil ,"Hastie, Alexander ","Wroxeter, Ont ",Canada...,,,"8, 1916."
+7,1610,1546,1638,3868,,,Nil ,"Hastings, Alvin ","New Liskeard, Ont ",Canada...,,,"1, 1916.",May
+7,1639,1546,1667,3868,,,Nil ,"Hayden, Nelson ","R. R. No. 2, Blucvale, Ont   ",Canada...,,May,Wroxeter ,"6, 1916."
+7,1668,1546,1698,3869,,,Nil ,"Haiggins, Mrs ","38 Vicarage Pk., Plum stead, London, Kent, Eng ",England..,,,"3, 1916."
+7,1697,1546,1725,3869,,,Nil ,"Hayward, Mrs. Bertha ","Hensall, Ont ",Canada...,,,"24, 1916."
+7,1726,1546,1754,3867,,,Nil ,"Hayward, Mrs. Alberta Jane..","Hensall, Ont ",Canada..,,,"22, 1916."
+7,1755,1546,1782,3869,,,Nil ,"Heard, Mrs. Isabelle Frances.","Brucefield, Ont ",Canada...,,,"13, 1916."
+7,1784,1546,1814,3869,,,Nil ,"Hefford, Miss Lottie E ","R. R. No. 1, Dungannon, Ont ",England..,,,"22, 1915."
+7,1813,1879,1841,3868,,,,"Helps, Mrs. William ","Wingham, Ont ",Canada...,,,"3, 1916.",Feb
+7,1841,1545,1869,3869,,,Nil ,"Ellis, Mrs. John ","Brussels, Ont ",Canada...,,,"24, 1916.",Brussels ,Mar.
+7,1870,1545,1898,3869,,,Nil ,"Herman, Mrs. Ellen ","Clinton, Ont ",Canada...,,,21. 1915.
+7,1900,668,1930,3869,654794 Private ,"Hewer, Lloyd Bertram ",Nil ,"Hewer, John ","Wingham, Ont ",Canada...,,Mav. 12. 1916.
+7,1928,667,1958,3869,654526 Private ,"Hildebrant, Irwin Andrew ",Nil ,"Hildcbrant, William ","Hensall, Ont ",Canada...,,,"29, 1916."
+7,1957,667,1988,3869,654045 Private ,"Hill, Edwin Byard ",Nil ,"Hill, Mrs. Maud ","Clinton, Ont ",Canada..,,,"6, 1915."
+7,1986,667,2016,3870,654183 Private ,"Hillson, Frederick Richard ",Nil ,Not stated ,Not stated ,England..,,Jan.,"3, 1916."
+7,2015,1545,2042,3870,,,Nil ,"Hinscliffe, Mrs. H ","Wingham, Ont ",Canada..,,,"16, 1915."
+7,2044,667,2074,3870,654241 Private ,"Hirons, James Frederick ",Nil ,"Hirons, George ","Blyth, Ont ",Canada..,,,"10, 1916."
+7,2072,1544,2102,3871,,,Nil ,"Hitchin, Mrs. Esther ","London, Eng ",England..,,,"6, 1915."
+7,2101,667,2131,3870,654807 Private ,"Hoare, Carman Harold ",Nil ,"Hoare, Cornelius ","Clinton, Ont ",Canada..,,May,"13, 1916."
+7,2130,666,2161,3871,654254 Sergeant ,"Hodges, Charles A  ",Territorials ,"Hodges, Mrs. Sarah ","Seaforth, Ont ",England,,Jan.,Seaforth ,"15, 1916."
+8,371,2018,408,2349,161st Battalion
+8,478,591,492,606,at
+8,507,591,521,605,C
+8,523,591,536,605,0)
+8,539,582,576,3274,J:,,Former Corps.,,,Country of
+8,546,2508,571,2848,Address of Next of Kin.
+8,547,1873,571,2185,Name of Next of Kin.
+8,548,769,570,852,Rank.
+8,548,1151,571,1243,Name.
+8,574,3156,597,3242,Bii th.
+8,575,589,592,610,M
+8,593,590,605,604,o
+8,610,581,630,603,Bh
+8,689,578,719,3224,654,"Hoffman, James Alexander.",Nil ,"Hoffman, Mrs. Elizabeth...","Wroxeter, Ont ",Canada...
+8,719,577,748,3224,654,"Hoffman, Philip George....",Nil ,"Hoffman, Mrs. Mary Ann...","Kentville, Ont ",Canada...
+8,748,577,777,3234,654,"Hogarth, Lucien Victor ",Nil ,"Hogarth, Stephen Joshua. . .","Exeter, Ont ",Canada 
+8,777,576,806,3234,654,"Holland, Benjamin ",Nil ,"Holland, John ","Bay City, Mich., U.S.A ",England...
+8,806,576,836,3234,654,"Holmes, John Elwood ",33rd Regt. .,"Holmes, Dudley ",Wingham r Ont ,Canada 
+8,835,575,864,3234,654,"Hooper, Grant Alexander...",Nil ,"Hooper, Adolphus ","R. R. No. 1, Hay, Ont ",Canada 
+8,864,575,893,3234,654,"Hoover, Robert Harvey....",Nil ,"Hoover, Robert J ","Brussels, Ont ?.,",Canada 
+8,893,575,921,3234,654,"Horne, Albert Frank ",Nil ,"Horne, Mrs. Elsie ","R. R. No. 4, Wingham, Ont ",England...
+8,922,574,950,3234,654,"Horton, Hillary ",Nil ,"Horton, Mrs. Hillary ","Exeter, Ont ",Canada 
+8,950,574,979,3234,654,"Howes, Edward Gordon —",Nil ,"Howes, Edward ","Ste. Therese, P.Q ",Canada 
+8,980,574,1008,3234,654,"Hudson, Joseph Acheson....",Nil ,"Hudson, George ","Hensall, Ont ",Canada 
+8,1008,574,1037,3234,654,"Huffman, Roland ",Can. Mil ,"Huffman, John ","Wingham, Ont  ",Canada 
+8,1037,574,1066,3234,654,"Hunking, Albert Edward. ..",Nil ,"Hunking, Mrs. Martha ","Auburn, Ont ",Canada 
+8,1066,574,1095,3234,054,"Hunking, Harvey ",Nil.... ,"Hunking, Thomas ","Londesborough, Ont ",Canada 
+8,1095,574,1123,3234,654,"Hunking, Norman ",Nil ,"Hunking, Thomas ","13th Con., Londesborough, Hullet Tp., Ont.",Canada 
+8,1124,574,1153,3234,654,"Hunt, Roy ",33rd Regt. .,"Hunt, Charles ","Goderich, Ont ",Canada—
+8,1153,574,1182,3223,G54,"Hunter, George Johnson G..",Nil ,"Clements, Mrs. Jess ","22 West Wynd, Dundee, Scot ",Scotland..
+8,1182,574,1209,3234,654,"Hunter, John Graham ",Nil ,"Hunter, William P ","R. R. No. 3, Exeter, Ont ",Canada—
+8,1210,574,1238,3233,554,"Hurdon, Nicholas Eric ",Nil ,"Hurdon, Nicholas Dyer ","Exeter, Ont ",Canada 
+8,1239,574,1267,3232,554,"Hutton, John Cowan ",Nil ,"Hutton, John ","Stratton, Ont ",Canada 
+8,1268,574,1297,3232,554,"Inglis, George ",Nil ,"McElnair, Mrs. Charles ","R. R. No. 1, Clifford, Ont ",Canada 
+8,1298,574,1326,3231,354,"Ingram, James Angus ",Nil ,"Ingram, George ","Pope, Man ",Canada 
+8,1326,574,1354,3217,354:,"Ireland, George Roy A ",Nil ,"Ireland, Alfred ","Kincardine, Ont ",Canada...
+8,1353,574,1384,3230,354',"Isard, Herbert Henry ",33rd Regt. .,"Isard, James Stephen ","Wingham, Ont ",Canada—
+8,1383,575,1412,3229,354,"Jackson, James Lister ",Nil ,"Jackson, Mrs. Alice ","Palmerston, Ont ",England...
+8,1412,574,1441,3228,3541,"James, Frederick ",Nil ,"James, Mrs. Alice ","R. R. No. 2, Bluevale, Ont ",England.. .
+8,1441,574,1470,3228,3541,"James, Henry George ",Territorials.,"James, Mrs. Geoige ","Goderich, Ont ",England.. .
+8,1470,937,1498,3228,,"Jane, Alfred Herbert ",S.A.,"Jane, Mrs. Gwenthleon ","Goderich, Ont ",England.. .
+8,1499,940,1528,3228,,"Jardine, George Edward ",33rd Regt.,"Jardine, Mrs. Emma ","Goderich, Ont ",Canada 
+8,1528,937,1557,3214,,"Jarman, Albert Wellington...",Nil ,"Jarman, William ","63 Havelock St., Leicester, Eng ",England..
+8,1557,937,1585,3215,,"Jefferson, John Roy ",Nil ,"Jefferson, John ","Auburn, Ont ",Canada...
+8,1585,937,1614,3215,,"Jeffery, William Edward ",Nil ,"Jeffery, William George....","Exeter, Ont ",Canada...
+8,1614,939,1642,3215,,"Johns, Lawrence Earl ",Nil ,"Johns, Henry ","Elimville, Ont ",Canada...
+8,1643,942,1671,3215,,"Johns, Norman Wellington...",Nil ,"Johns, William ","Centralia, Ont ",Canada...
+8,1671,939,1700,3203,,"Johnson, Clarence Albert ",Nil ,"Johnson, James W ","Hensall, Ont ",Canada..
+8,1700,936,1728,3214,,"Johnson, Frank ",Nil ,"Hex, Mrs. Elizabeth ","25 Crowshay Rd., London, Eng ",England..
+8,1729,936,1758,3204,,"Johnson, George Reginald....",Nil ,"Johnson, J. W ","Hensall, Ont ",Canada..
+8,1758,936,1786,3205,,"Johnson, Oliver M ",Nil ,"Johnson, Oliver ","Goderich, Ont ",Canada..
+8,1786,936,1815,3205,,"Johnston, David ",Nil ,"Johnston, John ","Bluevale, Ont ",Canada..
+8,1815,936,1844,3206,,"Johnston, George Carswill...",Nil ,"Johnston, Mrs. Bessie ","Brussels, Ont ",Canada..
+8,1843,934,1873,3207,,"Johnston, Henry Cresswell...",Nil ,"Johnston, William ","Blyth, Ont. ",Canada..
+8,1872,934,1903,3207,,"Johnston, Hiram Wellington..",57th Regt.,"Johnston, Charles ","Norwich, Ont ",Canada..
+8,1901,934,1931,3208,,"Johnston, John Aiken ",Nil ,"Johnston, George ","Bluevale, R.R. No. 2, Ont ",Canada..
+8,1930,934,1959,3207,,"Johnston, Miltcn Alfred ",Nil ,"Johnston, Thomas ","Zurich, Ont ",Canada..
+8,1959,933,1989,3209,,"Johnston, William Lome ",Nil ,"Johnston, George Alexander.","Dungannon, Ont ",Canada..
+8,1988,932,2017,3205,,"Jones, Francis William ",Nil ,"Jones, Mrs. Gertrude May. ..","Clinton, Ont ",England.
+8,2017,932,2046,3209,,"Jones, John Francis ",Nil ,"Robinson, Mrs. Eleanor ","121 Porter St., Preston, Eng ",Wales....
+8,2046,933,2075,3209,,"Jones, William Guy ",Can. Mil...,"Jones, Mrs. Annie May ","Clinton, Ont ",Canada..
+8,2075,935,2104,3210,,"Kellett, George Edward ",Nil ,"Kellett, George ","Elimville, Ont ",Canada..
+9,408,650,443,3831,654198 Corporal ,Nil ,"Kelly, J. W ",Wroxeter ,"Jan. 7, 1916."
+9,411,2357,441,3134,"4 Elleray Rd., Irlamso’-th’-Height, Manchester, Eng.."
+9,436,3634,462,3830,"Mar. 9, 1916."
+9,443,650,471,2328,654572 Private ,Nil ,"Kemp, Henry Samuel "
+9,466,3634,492,3831,"Jan. 22, 1916."
+9,472,1857,500,2329,"Kennedy, Patrick "
+9,494,650,529,3831,654735 Private ,Nil ,"Kerney, Frank ",,"April 7, 1916."
+9,496,3151,521,3374,Canada 
+9,524,1857,557,3832,,,"Kerr, Mrs. Alex Buchanan ",,"Feb. 1, 1916.",Brussels 
+9,553,3634,579,3831,"Jan. 7, 1916."
+9,560,1526,583,1841,Nil 
+9,560,1857,587,2327,"Kerr, Joseph John "
+9,583,3634,608,3832,"Dec. 9, 1915."
+9,589,1526,612,1620,Nil....
+9,589,1857,615,2328,"Kerr, William John "
+9,612,1526,644,3832,,Nil....,"Kestle, Edward ",,"May 16, 1916."
+9,613,3151,637,3374,Canada 
+9,640,1526,673,3832,,Nil ,"Kewenzie, William ",,"Jan. 29, 1916.",Wingham 
+9,669,3634,697,3832,"July 6, 1916."
+9,676,1526,699,1840,Nil 
+9,676,1857,703,2328,"Keyes, W. F "
+9,699,1857,732,3832,,,"King, Albert ",,"Feb. 22, 1916.",Auburn 
+9,728,1526,761,3833,,Nil ,"Kipfer, Menno ",,"Tune 6, 1916."
+9,756,1526,789,3833,,Nil ,"Ball, Mrs. Jessie ",,"Dec. 20, 1915."
+9,786,3634,812,3833,"Jan. 29, 1916."
+9,791,1857,817,2327,"Kitton, Mrs. Lena Maud "
+9,815,1526,846,3833,,Nil ,"Knechtel, Charles ",,"Jan. 21, 1916."
+9,843,3634,870,3833,"Mar. 20, 1916."
+9,849,1857,876,2327,"Knight, William R "
+9,873,1526,905,3834,,Nil ,Knight. James M ,,"Jan. 31, 1916."
+9,902,1525,933,3834,,Nil ,"Laird, Mrs. Isabella Evelen ",,"Jan. 7, 1916."
+9,931,647,962,3834,654479 Private..,,"Lake, John ",,"Feb. 21, 1916.",Brussels 
+9,960,647,992,3834,654353 Private ,Nil ,"Lang, Thomas ",,"Jan. 26, 1916."
+9,989,3634,1015,3834,"June 28, 1916."
+9,994,1856,1021,2326,"Latronico, Mrs. Margaret "
+9,1018,1527,1050,3834,,Nil ,"Lattimore, Mrs. Mary L ",,"Feb. 25, 1916."
+9,1047,1526,1078,3835,,Nil ,"Lawson, Mrs. John ",,"Feb. 22, 1916."
+9,1075,648,1108,3835,654548 L.-Corporal ,Nil ,"Lawson, Mrs. John ",,"Mar. 6, 1916.",Blyth 
+9,1104,1527,1136,3836,,Nil ,"Lawson, John ",,"Mar. 24, 1916."
+9,1108,2360,1136,2729,"R. R. No. 2, Blyth, Ont.."
+9,1133,1527,1166,3836,,Nil ,"Leith, George ",,"Mar. 29, 1916.",Blyth 
+9,1162,1527,1194,3836,,Nil ,"Leppington, Mrs. Susan ",,"Dec. 7, 1915."
+9,1191,3637,1217,3837,"Mar. 22, 1916."
+9,1195,1857,1222,2312,"Leppington, William "
+9,1220,1527,1252,3838,,Nil ,"Letson, Mrs. Mary Ann ",,"Dec. 30, 1915."
+9,1249,1527,1281,3838,,Nil ,"Letson, Mrs. Mary ",,"Jan. 11, 1916."
+9,1279,1526,1308,3838,,Nil ,"Littlechild, William ",,"Dec. 31, 1915."
+9,1307,1527,1336,3838,,Nil ,"Lockwood, Frederick ",,"Jan. 3, 1916."
+9,1337,1527,1365,3839,,Nil ,"Love, William ",,"May 11, 1916.",Brussels 
+9,1366,1527,1394,3839,,Nil ,"Lovett, Nellie ",,"Dec. 31, 1915."
+9,1394,1527,1424,3839,,Nil ,"Lowry, Edward Graham ",,"April 26, 1916."
+9,1424,1528,1453,3840,,Nil ,"Lowry, George ",,"Feb. 12, 1916.",Brussels 
+9,1452,1528,1481,3840,,Nil ,"Lutton, Tollerton ",,"Mar. 11,1916."
+9,1481,1020,1511,3840,,Nil ,"Lymburner, M. E ",,"Jan. 5, 1916."
+9,1483,1020,1511,1511,"Lymburner, Edmund Alexander..."
+9,1510,1529,1538,3840,,Nil ,"Lymburner, M. E ",,"Feb. 7, 1916."
+9,1539,1529,1566,3841,,Nil ,"Macdonald, Donald ",,"Mar. 2, 1916."
+9,1568,3643,1594,3841,"Dec. 31, 1915."
+9,1569,1860,1595,2332,"MacDonald, Daird "
+9,1597,1530,1624,3842,,Nil ,"MacLaren, Robert ",,"Feb. 17, 1916."
+9,1625,1530,1654,3842,,Nil ,"MacLean, Alexander ",,"April 8, 1916."
+9,1655,1530,1681,3843,,Nil ,"MacLeod, Roderick ",,"Feb. 14, 1916."
+9,1684,1530,1712,3843,,Nil ,"MacPhail, Joseph ",,"Feb. 8, 1916."
+9,1712,1530,1740,3844,,Nil.. .,"MacTavish, Dugald ",,"Jan. 6, 1916."
+9,1741,1863,1768,3844,,,"Mahoney, J ",,"Mar. 23, 1916.",Wroxeter 
+9,1770,1863,1799,3844,,,"Maines, John ",,"Jan. 24, 1916.",Blyth 
+9,1799,1531,1826,3845,,Nil ,"Mallett, Mrs. Lydia ",,"Feb. 24, 1916."
+9,1828,1864,1854,2321,"Mann, Richard Charles "
+9,1829,3648,1854,3846,"Dec. 9, 1915."
+9,1856,1022,1887,3845,,C.A.M.C ,"Mannall, George ",,"Jan. 31, 1916."
+9,1858,1022,1885,1513,"Mannall, George Matthew "
+9,1858,2367,1887,2797,"Blaxhall, Suffolk, Eng "
+9,1885,1531,1912,3846,,Nil ,"Manuel, Mrs. A. E ",,"Jan. 22, 1916."
+9,1914,1864,1941,2321,"Marsh, George "
+9,1916,3644,1940,3847,"Jan. 22, 1916."
+9,1939,1531,1972,3847,,Nil ,"Marshall, William ",,"April 3, 1916."
+9,1972,1531,1999,3847,,Nil ,"Marshall, Mrs. Elizabeth ",,"Jan. 24, 1916."
+9,2001,1531,2028,3848,,Nil ,"Marshall, Mrs. Elizabeth ",,"Mar. 20, 1916."
+9,2030,1531,2057,3848,,Nil ,"Marshall, Mrs. Clara Evelyn W.",,"Jan. 24, 1916."
+9,2059,1864,2085,2322,"Martin, Mrs. Ellen Jane "
+9,2060,3651,2085,3849,"Dec. 20, 1915."
+9,2087,1530,2116,3849,,Nil ,"Mason, John ",,"Mar. 27, 1916.",Blyth 
+9,2116,651,2144,3850,654354 Private ,Nil ,"Matthews, Herbert ",,"Jan. 29, 1916."
+9,2118,1022,2141,1512,Matthews. Bruce Herbert 
+9,2118,2370,2143,3149,Not stated 
+10,384,1998,421,2330,161st Battalion
+10,509,3379,532,3697,Taken on Strength.
+10,559,1860,586,3255
+10,559,3103,586,3255,Country of
+10,561,1860,585,2170,Name of Next of Kin.
+10,561,2495,585,2832,Address of Next of Kin.
+10,588,3138,611,3223,Birth.
+10,604,3379,627,3462,Place.
+10,604,3619,627,3695,Date.
+10,703,559,731,3748,654301,Private ,"Mayhew, Albert ",Nil ,Goderich ,"Jan. 18, 1916."
+10,732,559,761,3748,654614,Private ,"McArthur, Elliot Ray ",Nil ,,"Mar. 21, 1916.",Hensall 
+10,761,559,790,3748,654191,Sergeant ,"McArthur, Sidney Ellis ",Nil ,,"Jan. 7, 1916."
+10,790,559,819,3748,654185,Sergeant ,"McArthur, William ",Nil ,,"Jan. 4, 1916."
+10,820,558,848,3748,654615,Private ,"McBride, George Henry ",Nil ,,"Mar. 21, 1916."
+10,848,558,876,3748,654333,Sergeant ,"McCallum, James ",Nil ,,"Jan. 25, 1916.",Belgrave 
+10,848,3063,872,3289,Canada 
+10,877,559,905,3749,654334,Private ,"McCauley, Thomas Michael .",Nil ,,"Jan. 25, 1916."
+10,906,559,933,3749,654775,Private ,"McClinchey, David John ",Nil ,,"Mar. 5, 1916."
+10,935,558,963,3748,654713,Private.,"McClinchey, Wesley ",Nil ,,"Mar. 29, 1916."
+10,964,559,992,3748,654636,Private ,"McCluskey, Joseph, Arthur. ..",33rd Regt...,,Mar. 20. 1916.
+10,993,558,1021,3749,654637,L.-Corporal.,"McCluskey, Harvey Pearson...",Nil ,,"Mar. 21, 1916."
+10,1021,558,1049,3748,654438,Private ,"McClymont, James Melville...",Nil ,,"Feh. 12, 1916."
+10,1050,558,1078,3748,654186,Private ,"McCracken, Lyle Gardener....",Nil ,,Jan. 6. 1916.
+10,1080,557,1107,3748,654638,Private ,"McCreath, Harry Alexander..",Nil ,,"Mar. 23, 1916."
+10,1107,557,1136,3748,654218,Private ,"McCullough, Arthur Walter...",Nil ,,"Jan. 8, 1916."
+10,1108,1767,1135,2254,"McCullough, Mrs. Rella S "
+10,1138,557,1166,3749,654395,Private ,"McCullough, George Henry...",Nil ,,"Feb. 3, 1916."
+10,1167,557,1194,3749,654507,Private ,"McDonald, Albert Henry ",Nil ,,"Feb. 25, 1916."
+10,1195,557,1223,3750,654158,Private ,"McDonald, George Alexander.",Nil ,,"Jan. 1, 1916."
+10,1224,557,1252,3749,654066,Corporal ,"McDonald, Theodore St. Clair.",Nil ,,"Nov. 30, 1915."
+10,1252,557,1282,3749,654639,Private ,"McDougall, Austin Joseph ",Nil ,,"Mar. 21, 1916."
+10,1282,556,1311,3749,654287,Sergeant ,"McDougall, Neil Gordon ",33rd Regt. .,,"Jan. 19, 1916."
+10,1282,2272,1311,2727,"R. R. No. 2, Bayfield, Ont "
+10,1311,556,1339,3749,654640,Private ,"McDougall, William ",Nil ,,"Mar. 21, 1916."
+10,1339,556,1369,3748,654.498,Private ,"McElroy, Leslie McAll ",Nil ,,"Feb. 23, 1916.",Blyth 
+10,1340,1765,1367,2254,"McElroy, W. H "
+10,1369,556,1397,3748,654271,Private ,"McEwen, Alpine Finley ",Nil ,,"Jan. 17, 1916."
+10,1397,556,1427,3748,654816,Private ,"McFalls, Elmer ",Nil ,,"May 15, 1916."
+10,1425,556,1455,3748,654067,Private ,"McGarva, Andrew ",Nil ,,"Dec. 18, 1915."
+10,1455,555,1484,3748,654068,Private. ,"McGee, Herbert Joseph ",Nil ,,"Doc. 13, 1915."
+10,1483,555,1512,3748,65<641,Private ,"McGinn, Michael ",Nil ,,"Mar 21, 1916."
+10,1508,554,1541,3748,654449,Private ,"McGratten, Thomas Ernest ",Nil ,,"Feb. 14, 1916."
+10,1539,554,1570,3748,654187,L.-Corporal..,"McGratten, William Harold. ..",33rd Regt. .,,Jan. 5. 1916.
+10,1564,554,1599,3748,654304,Private ,"McGregor, Alfred Charles D..",Nil ,,"Jan. 17, 1916."
+10,1569,2272,1596,3045,"R. R. No. 2, Bayfield, Ont "
+10,1599,553,1627,3749,654484,Private ,"McGuire, Robert ",Nil.  ,,Feb. 15. 1916.
+10,1629,553,1656,3749,054272,Private ,"McIntyre, Alexander Gibson..",Nil ,,"Jan 10, 1916."
+10,1658,553,1686,3749,654070,Private ,"McKay, Gordon William ",33rd Regt. .,,"Dec. 11, 1915."
+10,1686,553,1714,3750,654722,Private ,"McKay, Hugh R   ",Nil ,,"Mar. 25, 1916.",Bayfield 
+10,1715,553,1744,3751,654583,L.-Corporal.,"McKay, John Blain ",33rd Regt. .,,"Mar. 13, 1916."
+10,1744,553,1771,3751,654616,Private ,"McKay, Kenneth ",Nil ,,Mar. 22 1916.
+10,1773,553,1801,3751,654396,Private ,"McKay, William Alexander ",Nil ,,"Feb. 2, 1916."
+10,1801,553,1831,3751,654071,Sergeant ,"McKinley, William ",Imp. Forces.,,"Dec. 18, 1915."
+10,1831,553,1860,3752,654736,Private ,"McKinney, Thomas Leslie ",Nil ,,"April 8, 1916."
+10,1860,553,1888,3751,654404,Private ,"McLaughlin, George Albert ",Nil ,,"Jan. 29, 1916."
+10,1888,553,1917,3752,654288,Private ,"McLauehlin, John Ross ",Nil ,,"Jan. 15, 1916."
+10,1917,553,1945,3752,654595,Private ,"McLeod, James Edmund ",Nil ,,"Msr. 20, 1916."
+10,1946,553,1976,3752,654854,Private ,"McLeod, James Norman ",Nil ,,"May 20, 1916."
+10,1975,553,2004,3752,654220,Private ,"McLeod, John Knox ",Nil.,,"Jan. 10, 1916."
+10,2004,553,2033,3752,654737,Private ,"McLeod, Kenneth ",Nil.,,"April 8, 1916."
+10,2033,552,2060,3744,654597,Private ,"McLeod, Norman ",Nil.,,Mar 20 1916
+10,2059,552,2090,3752,654425,Private ,"McLeod, Ogal ",Nil.,,"Feb. 9, 1916."
+10,2059,3064,2085,3263,Canada  
+10,2091,551,2119,3752,654499,Private ,"McNamara, Charles ",Nil.,,"Feb. 24, 1916.",Seaforth 
+10,2092,1763,2117,2255,"McNamara, Charles "
+11,409,659,440,3834,654480,Private ,"McNaught, Wilfred Donald ",Nil ,"McNaught, Raymond Alexander.",,,Feb,22,1916
+11,438,659,468,3834,654714,Private ,"McNaughton, William Middleton.",Nil ,"McNaughton, John ",,,Mar.,30,1916
+11,467,659,497,3842,654576,Private ,"McNevin, Alexander ",Nil ,"McNevin, Joseph ",,,Mar.,ts,1916.
+11,497,659,527,3843,654855,Private ,"McSherry, Wilson ",Nil ,"McSherry, Mrs. Isabella ",,,May,20,1916.
+11,526,659,557,3843,654632,Private ,"Medd, John Roy ",C.A.M.C...,"Medd, John H ",,,Mar.,21,1916.
+11,555,659,586,3843,654466,Private ,"Meahan, Alfred Hope ",Nil ,"Meahan, Mrs. Elizabeth ",,,Feb,17,1916.
+11,584,659,616,3843,654549,Private ,"Meahan, Tony ",Nil ,"Meahan, Mrs. Elizabeth ",U.S.A ,Wroxeter ,Mar.,4,1916.
+11,613,658,644,3842,654390,L.-Corporal..,"Megaw, Francis Riggs ",Nil ,"Megaw, Mrs. Emma Addison....",,,,38,1916.
+11,640,658,672,3844,654827,Private ,"Meyers, John Aaron ",Nil ,"Meyers, Charles ",,,May,It,1916.
+11,671,658,702,3844,654433,Private ,"Millar, Arnold Ray ",Nil ,"Millar, George ",,,Feb,8,1916.
+11,699,657,731,3844,654773,Private ,"Miller, Andrew Thompson ",Nil ,"Miller, John D ",,,May,t,1916.
+11,729,657,758,3844,654870,Private ,"Miller, James Blackader ",Nil ,"Miller, Mrs. Helen May ",,,May,Clinton ,29,1916.
+11,758,656,789,3843,654286,Private ,"Miller, Norman Wellington ",Nil ,"Miller, James ",,,Jan.,Canada ,Clinton ,17,1916.
+11,786,656,817,3843,654215,Private ,"Milligan, Andrew Harvey ",Nil ,"Milligan, John ",,Brussels ,Jan.,10,1916.
+11,815,656,846,3843,654678,Private ,"Mills, William Charles ",Nil ,"Mills, John ",,,Mar.,M,1916.
+11,845,655,875,3843,654367,Private ,"Millson, W'alker Wilbur ",Nil ,"Tokely, Mrs. T ",,,,29,1916.
+11,847,2366,874,3143,"1505 Nanaimo St., New Westminster, B.C "
+11,873,654,905,3843,823028,L.-Corporal..,"Miner, Harry Garnet B ",Nil ,"Miner, John ",,Ix>ndon ,Dec.,1,1915.
+11,902,655,933,3843,654062,Private ,"Miner, John Walter ",7th Regt. ..,"Miner, Mrs. Myrtle ",Canada ,Clinton ,Dec.,24,1915.
+11,932,655,962,3843,654633,L.-Corporal .,"Mitchell, Carl Hollos ",Nil ,"Mitchell, Edward A ",Canada ,Wroxeter ,Mar.,23,1916.
+11,960,654,992,3843,654634,Private ,"Mohring, Roy ",Nil ,"Mohring, Mrs. Berriman ",Canada ,Goderich ,Mar.,21,1916.
+11,988,654,1019,3843,654157,Private ,"Moore, Frank Sanford ",Nil ,"Moore, William ",Canada ,,Dec.,13,1915.
+11,1018,654,1048,3843,654696,Private ,"Moore, Robert James ",Nil ,"Moore, Mrs. Lena ",England ,Dungannon ,Mar.,21,1916.
+11,1046,654,1078,3842,654064,Private ,"Moore, Stanley Herbert ",33rd Regt. .,"Moore, Mrs. Mirian ",,Goderich ,Nov.,M,1915.
+11,1075,654,1107,3842,654065,Corporal ,"Morgan, William Edward ",Nil ,"Morgan, Mrs. Charlotte ",England ,Clinton ,Dec.,6,1915.
+11,1104,653,1134,3842,654812,Private ,"Morrow, Charles ",Nil ,"Dilling, Mrs. John ",U.S.A ,Brussels ,May,11,1916.
+11,1133,653,1163,3842,654471,Private ,"Morrow, Hebert James ",Nil ,"Morrow, Mrs. Annie ",,,Feb,IS,1916.
+11,1161,653,1193,3842,654302,Private ,"Mugford, Jonathan Martin L ",Nil ,"Mugford, Martin ",Canada ,Clinton ,Jan.,19,1916.
+11,1190,652,1222,3842,654184,Private ,"Mugford, Joseph ",Nil ,"Mugford, Martin ",Canada ,Goderich ,Jan.,5,1916.
+11,1220,652,1250,3842,654303,Private ,"Muir, Burton Oliver ",Nil ,"Muir, John ",,,,?0,1916.
+11,1248,652,1280,3842,65421C,Private ,"Mundy, Basil   ",Nil ,"Mundy, Harry ",,Clinton ,Jan.,8,1916.
+11,1278,652,1308,3841,654755,Private ,"Mundy, Theodore Franklin ",Nil ,"Mundy, Harry ",,,,23,1916.
+11,1307,651,1338,3842,654467,Corporal,"Munn, Edgar Wilford ",Nil ,"Munn, Peter ",,,Feb,17,1916.
+11,1335,652,1367,3842,707069,L.-Sergeant..,"Munnings, William Percy ",Nil ,"Munnings, William Robert ",,,Dec.,13,1915.
+11,1366,651,1395,3146,654381,Private ,"Murphy, Stafford Rice ",Nil ,"Murphy, Mary Ann "
+11,1366,2364,1395,3146,"c/o M. A. Gilbourne, Mt. Salem, Colorain, Mountrath,"
+11,1392,3401,1418,3843,,,,,,,Goderich ,Jan.,28,1916.
+11,1421,651,1454,3843,654635,Corporal.,"Murray, John Wellington ",Nil ,"Murray, Mrs. Elizabeth McC.",Canada ,Goderich ,Mar.,20,1916.
+11,1450,650,1481,3843,654448,Private..,"Musgrove, James Elmer ",Nil ,"Musgrove, Thomas ",,Wroxeter ,Feb.,14,1916.
+11,1479,651,1509,3843,654510,Private..,"Musgrove, Thomas Richard.",Nil ,"Musgrove, Ina.  ",,,Feb.,22,1916.
+11,1508,651,1539,3842,654217,Sergeant.,"Mustard, Arthur Roy ",Nil ,"Mustard, Mrs. Elizabeth ",,,Jan.,10,1916.
+11,1537,651,1567,3843,654132,Private..,"Nash, Edward Beverly ",Nil ,"Nash, Thomas ",,Wroxeter ,Dec.,29,1915.
+11,1565,651,1595,3843,654642,Private..,"Nash, Milford Earl ",Can. Mil . . . .,"Nash, Thomas ",,,Mar.,1916.
+11,1594,651,1625,3843,654159,Sergeant.,"Nash, Roland Philips ",30th Regt. . .,"Nash, Thomas ",,,Jan.,3,1916.
+11,1623,651,1653,3843,654342,Private..,"Nediger, Clarence Austin",Nil ,"Nediger, W. J ",,,Jan.,28,1916.
+11,1652,651,1682,3843,654463,Corporal.,"Neelands, Roy Marlowe ",Nil ,"Neolands, Thomas ",,,Feb.,17,1916.
+11,1680,652,1712,3843,654417,Private..,"Neely, Arthur Cecil ",33rd Regt. . .,"Neely, Mrs. Mary ",,,Feb.,9,1916.
+11,1709,651,1740,3843,654244,Private..,"Neely, Charles Franklin ",Nil ,"Neely, Mrs. Mary ",,,Jan.,12,1916.
+11,1738,651,1769,3844,654643,Private..,"Neil, William Ernest ",Nil ,"Neil, Wellington ",,,Mar.,23,1916.
+11,1767,651,1798,3844,654566,Private...,"Newcombe, Harold ",33rd Regt. ..,"Newcombe, Mrs. Martha ",,Goderich ,Mar.,9,1916.
+11,1795,651,1826,3844,654453,Private..,"Newell, John Norman ",Nil ,"Newell, Mrs. George ",,Godcrich ,Feb,14,1916.
+11,1824,651,1856,3844,654160,Private...,"Newton, Herbert Kenneth...",36th Regt. . .,"Newton, William Francis ",,Goderich,Jan.,4,1916.
+11,1853,651,1884,3844,654644,Private...,"Nicholson, Charles Thomas.",Nil ,"Nicholson, Mrs. Grace ",,,,:’l,1916.
+11,1882,651,1914,3844,654382,Private...,"Nivins, Charles Alexander. ..",33rd Regt. . .,"Nivins, James David ",,,Jan.,28,1916.
+11,1910,651,1942,3844,654692,Private...,"Noble, Clarence Jarrett ",Nil ,"Stewart, Mary Ann ",,,Mar.,25,1916.
+11,1939,650,1972,3845,654877,Private...,"Noble, Walter George ",Nil ,"Noble, James ",,,June,12,1916.
+11,1968,650,2000,3844,654529,Private...,"Nunn, Thomas William ",Nil ,"Nunn, Louis IT ",,,Feb.,28,1916.
+11,1997,650,2029,3844,654319,Private...,"O’Brien, Ernest Patrick ",Imp. Forces.,"O’Brien, Mrs. Kate ",,,Dec.,16,1915.
+11,2025,650,2058,3845,654072,Private...,"O’Donnell, Martin ",Nil ,"O’Donnell, Martin ",,,Dec.,6,1915.
+11,2055,650,2088,3846,654706,Private...,"Oke, Edmund Alban ",Nil ,"Oke, William ",,,Mar.,24,1916.
+11,2083,650,2116,3846,654235,Private...,"Orchard, Francis Cicil ",Nil ,"Orchard, Mrs. Sarah ",,,Jan.,11,1916.
+11,2112,649,2144,3846,654133,Private...,"Osman, Alfred ",Nil ,"Osman, Mrs. Amy ",England ,Goderich ,Dec.,31,1915.
+11,2114,2364,2139,3144,"Goderich, Ont "
+12,372,2023,410,2352,161st Battalion
+12,498,3407,522,3716,Taken on Strength.
+12,548,772,570,854,Rank.
+12,548,772,577,3277,,Former Corps.,Country of
+12,548,1154,571,1247,Name.
+12,548,1882,572,2190,Name of Next of Kin.
+12,549,2515,572,2852,Address of Next of Kin.
+12,577,3158,601,3243,Birth.
+12,593,3641,616,3718,Date.
+12,594,3401,617,3484,Place.
+12,692,580,717,3771,65459C,Nil ,,^0,1916.
+12,721,580,745,3771,654874,Nil  ,,29,1916.
+12,750,579,774,3771,654201,Nil ,,10,1916.
+12,778,578,803,3771,654245,Nil ,,Jan.,15,1916.
+12,807,578,832,3771,654728,Nil ,,M ar.,?4,1916.
+12,836,577,861,3771,654454,Nil ,,Feb,15,1916.
+12,865,576,891,3770,654074,Nil ,,Dec.,13,1915.
+12,894,575,920,3770,654075,Nil,,13,1915.
+12,923,573,949,3770,654076,Nil,,16,1915.
+12,952,573,978,3759,654690,Nil ,Canada ,Mar.,25,1916
+12,981,572,1007,3770,654550,Nil ..,,6,1916.
+12,1010,572,1033,3770,654368,,,29,1916.
+12,1039,571,1064,3770,654045,Nil ...,,?\,1916.
+12,1067,571,1093,3770,654077,Nil ,,0,1915.
+12,1095,571,1122,3771,654520,Nil...,,Feb.,»,1916.
+12,1125,570,1151,3771,654320,Nil ,,25,1916.
+12,1153,570,1180,3771,654617,Nil   ,,Mar.,21,1916.
+12,1182,569,1209,3770,654666,Nil ,,Mar.,23,1916.
+12,1211,568,1235,3770,654078,,,Dec.,28,1915.
+12,1240,567,1266,3770,654134,,U.S.A ,Dec.,27,1915.
+12,1269,567,1296,3770,654080,Nil ,,Dec.,11,1915.
+12,1298,566,1324,3770,654732,Nil,,8,1916.
+12,1327,566,1355,3770,654796,Nil...,,May,10,1916.
+12,1357,566,1384,3066,654397,Nil...
+12,1357,2286,1384,3066,"c/o Mrs. Wm. O’Connor, Dinzar St., Colchester, Essex,"
+12,1384,3571,1408,3769,,,,Feb,3,1916.
+12,1413,566,1440,3769,654161,Nil,,3,1916.
+12,1442,565,1469,3769,654081,Nil,,28,1915.
+12,1471,565,1499,3769,654761,Nil .,,April,72,1916.
+12,1499,565,1526,3767,654356,Nil,,M,1916.
+12,1528,565,1555,3768,654434,Nil,,Feb,9,1916.
+12,1557,565,1581,3768,654082,,,9,1915.
+12,1586,565,1613,3768,654221,Nil ,Canada ,July,10,1916.
+12,1587,664,1611,920,Private 
+12,1587,3323,1610,3550,Brussels 
+12,1615,565,1642,3768,654162,Nil...,,31,1915.
+12,1643,565,1670,3768,654246,Nil .,Canada ,Jan.,10,1916.
+12,1672,565,1699,3768,654776,Nil,,8,1916.
+12,1700,564,1725,3769,654647,,,^0,1916.
+12,1729,564,1757,3769,654731,,,April,6,1916.
+12,1758,564,1786,3769,654752,Nil,,April,25,1916.
+12,1787,563,1815,3768,654455,Nil,Canada ,Feb.,14,1916.
+12,1788,3322,1811,3550,Brussels 
+12,1816,563,1845,3768,654618,Nil,,21,1916.
+12,1818,2283,1845,3061,"R.R. No. 1, Clifford, Ont "
+12,1845,563,1870,3769,654369,,,Jan.,29,1916.
+12,1873,563,1902,3768,654189,Nil,,Jan.,5,1916.
+12,1902,563,1931,3768,654083,Nil,,Dec.,15,1915.
+12,1931,563,1957,3768,654084,,,Dec.,20,1916.
+12,1960,562,1989,3768,654 762,Nil,,April,29,1916.
+12,1988,562,2018,3768,654163,Nil,,Dec.,30,1915.
+12,2017,561,2047,3768,654337,Nil,,Jan.,24,1916.
+12,2047,561,2076,3769,305134,Nil,,Dec.,16,1915.
+12,2076,560,2109,3769,654485,53rd Regt ,,Feb.,22,1916.
+12,2079,663,2103,916,Private 
+12,2081,938,2109,1422,"Rivers, Wilbert George "
+12,2081,1775,2107,2264,"Rivers, William "
+13,432,1537,465,3847,Nil ,"Rivett, Mrs. Roderick ","Dungannon, Ont ",Canada —,Goderich ,May,"9, 1916."
+13,462,1538,494,3846,Nil ,"Yeo, Jennie ","R.R. No. 1, Bluevale, Ont ",Canada ,Wroxeter ,Jan.,"10, 1916."
+13,491,1537,523,3846,Nil ,"Robertson, John Alexander. .","Goderich, Ont ",Canada....,Goderich ,Mar.,"21, 1916."
+13,519,1030,553,3846,C.A.M.C ,"Robertson, John Alexander. .","Goderich, Ont ",Canada—,Goderich ,May,"9, 1916."
+13,526,1030,553,1520,"Robertson, Frederick Montague..."
+13,549,1537,583,3847,Nil ,"Roles, Thomas ","47a Norfolk Sq., Brighton, Sussex, Eng ",England...,Hensall ,May,"15, 1916."
+13,578,1536,611,3847,Nil ,Rollinson Mrs. Mary ,"Auburn, Ont ",Canada—,Manchester....,April,"8, 1916."
+13,607,1537,640,3847,Nil ,"Ross, Charles ","Oxford St., Goderich, Ont ",U.S.A ,Goderich ,Jan.,"1, 1916."
+13,636,1535,669,3846,Can. Mil,"Rouatt, Mrs. Annie ","Bayfield, Ont ",Canada ,Clinton ,Feb.,"8, 1916."
+13,665,1536,698,3846,Nil ,"Rowland, J. Edward ","R.R. No. 1, Ethel, Ont ",Canada ,Brussels ,Mar.,"22, 1916."
+13,694,1536,727,3846,Nil ,"Rowland, John ","Walton, Ont ",Canada—,Brussels ,Jan.,"3, 1916."
+13,723,1536,756,3847,Nil ,"Ruddock, Mrs. Christiania. .","Port Albert, Ont   ",England...,Goderich ,April,"5, 1916."
+13,752,1535,786,3846,Nil ,"Ruffell, Mrs. E ","‘ March Cottage,’- Midhurst, Sussex, Eng...",England...,Seaforth ,Dec.,"23, 1915."
+13,781,1535,814,3846,Nil ,"Rush, Mrs. Charles ","59 Beatrice Rd., Bermondsey, London, Eng.",England...,Wingham ,Mar.,"24, 1916."
+13,809,1535,843,3846,Nil ,"Russell, Mrs. S. J ","29 Francis St., Berlin, Ont ",India ,Seaforth ,May,"19, 1916."
+13,838,1534,873,3845,Nil ,"Rutledge, William ","Brussels, Ont ",Canada....,Brussels ,Jan.,"17, 1916."
+13,868,1534,901,3846,Nil ,"Ryan, Thomas ","Walton, Ont ",Canada....,Brussels ,Jan.,"10, 1916."
+13,897,1534,931,3845,Nil ,"Salter, William George ","Wingham, Ont ",Canada....,Wingham ,Feb.,"15, 1916."
+13,925,1534,959,3845,Nil ,"Sanderson, Albert ","Wingham, Ont ",Canada....,Wingham ,Dec.,"1, 1915."
+13,954,1532,989,3845,Territorials..,"Sangstcr, Mrs. W ","Dundas St., Stromness, Scot ",Scotland...,Hensall ,Jan.,"18, 1916."
+13,983,1533,1018,3844,Nil ,"Savage, Thomas ","Wroxeter, Ont ",Canada—,Wroxeter ,Mar.,"25, 1916."
+13,1012,1533,1046,3844,Nil ,"Savage, Mrs. James ","Taunton, Somerset, Eng ",England...,Clinton ,May,"13, 1916."
+13,1042,1533,1076,3844,Nil ,"Savage, Thomas Henry ","Wroxeter, Ont ",Canada....,Brussels ,Dec.,"31, 1915."
+13,1071,1530,1103,3844,Can. Mil. . . .,"Scharfer, Adam ","Wingham, Ont ",U.S.A ,Wingham ,Dec.,"2, 1915."
+13,1100,1532,1132,3844,Nil ,"Scott, Thomas G ","Seaforth, Ont ",Canada ,Seaforth ,Dec.,"10, 1915."
+13,1129,1531,1162,3843,Nil ,"Scott, James ","Clinton, Ont  ",Canada ,Clinton ,Jan.,"3, 1916."
+13,1158,1529,1191,3844,C.F.A ,"Scott, Mrs. Emily ","707 Fleet Avc., Winnipeg, Man ",Canada ,Brussels ,May,"17, 1916."
+13,1187,1531,1219,3844,Nil ,"Scott, Mrs. Alma ","R.R. No. 1, Belgrave, Ont ",Canada—,Belgravc ,Jan.,"25, 191d."
+13,1216,656,1249,3843,S. A ,"Seeley, Mrs. Elizabeth ","Brucefield, Ont ",England...,Clinton ,Sept.,"15, 1915."
+13,1219,1024,1246,1512,"Seeley, John Charles "
+13,1221,656,1248,1010,126478 Btn. Sergt.-Major.
+13,1245,1531,1276,3843,R.C.R ,"Sewell, Mrs. Beatrice ","Clinton, Ont ",England...,Clinton ,Feb.,"8, 1916."
+13,1274,1530,1305,3842,Nil ,"Shaddick, Thomas ","Hensall, Ont ",Canada ,Hensall ,Jan.,"25, 1916."
+13,1304,1530,1334,3843,Nil ,"Shaddick, Thomas ","Hensall, Ont ",Canada —,Hensall ,Jan.,"24, 1916."
+13,1332,1530,1363,3843,Nil ,"Shannon, Mrs. Ellen ","Goderich, Ont ",Canada ,Goderich ,Mar.,"20, 1916."
+13,1361,1530,1393,3842,Nil ,"Sharpin, James ","14 Rhodes Ave., Toronto, Ont ",Canada ,Wroxeter ,Mar.,"22, 1916."
+13,1390,1529,1421,3843,Nil ,"Shaw, Anson ","R.R. No. 2, Bluevale, Ont ",Canada —,Wroxeter ,May,"6, 1916."
+13,1419,1529,1451,3843,Nil ,"Shephard, Mrs. Mary Jane..","Clinton, Ont ",Canada—,Camp Borden..,July,"8, 1916."
+13,1448,1529,1479,3843,Nil ,"Shephard, Mrs. Christina. . .","Hensall, Ont ",Canada—,Hensall ,Mar.,"23, 1916."
+13,1477,1529,1509,3843,Nil ,"Sherritt, Mrs. Nellie May. . .","Hensall, Ont ",Canada ,Hensall ,Jan.,"3, 1916."
+13,1506,1529,1535,3843,Nil ,"Parish, Mrs. James ","Brussels, Ont ",Canada ,Brussels ,Dec.,"24, 1915."
+13,1535,1529,1565,3843,Nil ,"Sholdice, Adam ","Walton, Ont ",Canada—,Brussels ,Jan.,"22, 1916."
+13,1563,1529,1594,3843,Nil ,"Shropshall, Mrs. Alice ","R.R. No. 1, Wingham, Ont ",England...,Wroxeter ,Feb.,"17, 1916."
+13,1592,1529,1623,3843,Nil ,"Bainbridge, Leah ","Wythburn, Grasmere, Westmorland, Eng.. .",England...,Clinton ,Mar.,"7, 1916."
+13,1621,1529,1651,3843,Nil ,"Simmons, Mrs. Hannah ","R.R. No. 1, Hensall, Ont ",Canada—,Hensall ,Mar.,"16, 1916."
+13,1650,1528,1680,3841,Nil ,"Simmons, Charles ","Gorrie, Ont ",Canada—,Wroxeter ,Feb.,"21, 1916."
+13,1679,1528,1709,3842,Nil ,"Simon, Mrs. Florence ","5 Emmerson Ave., Toronto, Ont ",England...,Clinton ,Feb.,"2, 1916."
+13,1708,1528,1738,3842,Nil ,"Sims, Jonah ","Crediton East, Ont ",Canada—,Exeter ,Mar.,"4, 1916."
+13,1737,1528,1767,3843,Nil ,"Sinclair, Mrs. A ","Brussels, Ont ",Canada ,Brussels ,Feb.,"12, 1916."
+13,1765,1526,1797,3843,6th Regt....,"Sinclair, Mrs. Irene A ","Brussels, Ont ",Canada ,Brussels ,Dec.,"24, 1915."
+13,1795,1528,1824,3843,Nil ,"Sloman, Jacob ","Clinton, Ont ",Canada ,Clinton ,Feb.,"7, 1916."
+13,1823,1528,1854,3842,Imp. Forces.,"Smith, Mrs. Alice Elizabeth","Goderich, Ont ",England...,Goderich ,Mar.,"20, 1916."
+13,1853,1528,1883,3842,Nil ,"Smith, Mrs. Alice Emily. .","Bruce St., Goderich, Ont ",England...,Goderich ,Mar.,"9, 1916."
+13,1881,1528,1911,3842,Nil ,"Smith, Mrs. Marion ","Clinton, Ont ",Canada ,Clinton ,Mar.,"26, 1916."
+13,1911,1528,1940,3842,Nil ,"Smith, John ","Wroxeter, Ont ",Canada ,Wroxeter ,Mar.,"21, 1916."
+13,1940,1528,1969,3842,Nil ,"Smith, Mrs. Jessie ","Seaforth, Ont ",Canada ,Seaforth ,Mar.,"4, 1916."
+13,1969,1528,1998,3841,Nil ,"Smith, John ","Hay, Ont ",Canada ,Exeter ,Dec.,"11, 1915."
+13,1998,1528,2027,3842,Nil ,".Smith, Mrs. Florence ","Seaforth, Ont ",England.. .,Seaforth ,Feb.,"12, 1916."
+13,2027,1528,2055,3841,Nil ,"Snazel, Arthur ","Goderich, Ont ",Canada ,Goderich ,Jan.,"13, 1916."
+13,2056,1528,2085,3842,Nil ,"Snell, James ","R.R. No. 1, Clinton, Ont ",Canada ,Clinton ,Jan.,"24, 1916."
+13,2085,1528,2113,3841,Nil ,"Snell, William ","Blyth, Ont ",Canada ,Clinton ,Dec.,"22, 1915."
+13,2114,1528,2142,3841,Nil ,"Snell, William ","Blyth, Ont ",Canada ,Blyth ,Dec.,"16, 1915."
+13,2143,650,2172,3842,Nil ,"Snelling, George ","Moncton, Ont ",Canada ,Bruasels ,Jan.,"29, 1916."
+13,2145,650,2168,1003,654370 Private 
+13,2145,1019,2172,1510,"Snelling, Samuel Weslev "
+14,395,2019,433,2351,161st Battalion
+14,517,3403,541,3709,Taken on Strength.
+14,568,769,600,3272,,,,Former Corps.,,,Country of
+14,570,2513,593,2849,Address of Next of Kin.
+14,571,1878,595,2187,Name of Next of Kin.
+14,573,769,596,851,Rank.
+14,573,1151,595,1243,Name.
+14,597,3156,620,3238,Birth.
+14,612,3636,634,3712,Date.
+14,613,3397,636,3480,Place.
+14,711,577,745,3766,0.54371,Private ,"Snelling, William Harvie ",Nil ,"Snelling, George ","Moncton, Ont ",Canada ,Brussels ,Jan.,1016.
+14,740,577,773,3766,054291,Private ,"Snider, Benjamin ",Nil ,"Snider, Mrs. Marie ","Brussels, Ont ",Canada ,Brussels ,Jan.,1916.
+14,769,577,802,3766,0.54081,Private ,"Somers, Albert Archibald ....",Nil ,"Somers, Richard ","Blyth, Ont ",Canada ,Blyth ,Mar.,1916.
+14,798,577,831,3766,054054,Private ,"Somersall, Edward Haughton.",Nil ,"Somersall, Mrs. Mary ","Goderich, Ont ",Canada ,Goderich,Mar.,1916.
+14,827,577,859,3766,054535,Private ,"Southcott, Robert Earl ",Nil ,"Southcott, Mrs. C. A ","Exeter, Ont ",Canada ,Exeter ,Mar.,1916.
+14,856,577,889,3766,054383,Private ,"Spafford, Austin Robert R ",Nil ,"Spafford, Mrs. M ","Blyth, Ont ",Canada ,Blyth ,Jan.,1916.
+14,885,576,918,3766,054090,Private ,"Sparks, Neil Douglas ",Nil ,"Sparks, Alexander ","Hensall, Ont ",Canada ,Clinton ,Dec.,1915.
+14,914,576,947,3766,054051,Private ,"Stacey, Nelson Peter ",Nil ,"Stacey, Jabez ","Coronation, Alta ",Canada ,Exeter ,Mar.,1916.
+14,943,576,976,3767,054829,Private ,"Stafford, Walter Harvey ",Nil ,"Stafford, Benjamin V ","R.R. No. 1, Wroxeter, Ont ",Canada ,Wroxeter. . . .,May,1916.
+14,972,575,1004,3767,054052,L.-Corporal ,"Steels, Frederick ",Nil ,"Steels, Mrs. Philip ","Sheppard ton, Ont ",Canada ,Goderich....,Mar.,1916.
+14,1001,575,1033,3767,054204,Private ,"Steep, Andrew William ",33rd Regt. ..,"Steep, David ","Clinton, Ont ",Canada ,Clinton ,Jan.,1916.
+14,1030,575,1062,3762,054782,Private ,"Stephenson, George Henry ",Nil ,"Stephenson, Mrs. Ida ","Seaforth, Ont ",Canada ,Seaforth ,May,1916.
+14,1059,575,1091,3766,054820,Sergeant  ,"Sterling, John Dempsey ",33rd Regt. . .,"Sterling, John ","Clinton, Ont ",Canada ,Clinton ,May,1916.
+14,1088,574,1119,3767,0547G8,Private ,"Stevens, Louis ",Nil ,"Stevens, Mr ","Londesborough, Ont ",Canada ,Blyth ,May,1916.
+14,1117,574,1149,3767,054098,Private ,"Stewart, David Henry ",33rd Regt. . .,"Stewart, Mrs. Margaret ","Seaforth, Ont ",Canada ,Clinton ,Dec.,1915.
+14,1145,575,1176,3767,054230,Private ,"Stewart, Wilfred.Grant ",Nil ,"Stewart, James ","Exeter, Ont ",Canada ,Exeter ,Jan.,1916.
+14,1174,575,1206,3767,054099,Sergeant ,"Stickles, Orin Andrew ",Nil ,"McGowan, Mrs. Henrietta. ..","Stockdale, Ont ",Canada ,Clinton ,Dec.,1915.
+14,1203,575,1235,3767,054738,Private ,"Stiles, William Henry ",Nil...  ,"Stiles, Mrs. Annie ","Seaforth, Ont ",Canada ,Brussels ,April,1916.
+14,1232,575,1264,3767,054170,Private ,"Stillwell, George Leonard ",Imp. Forces.,"Stillwell, William ","Portsmouth, Hants, Eng ",England.. ..,Wingham —,Jan.,1916.
+14,1261,574,1292,3766,654850,Private ,"Stockall, Peter ",Nil ,"Stockall, William ","Humboldt, Sask ",Canada ,Clinton ,May,1916.
+14,1290,574,1322,3765,054249,Private ,"Stoddart, Herbert Reginald. . .",Nil ,"Stoddart, Mrs. Caroline ","Clinton, Ont ",U.S.A ,Clinton ,Jan.,1916.
+14,1319,573,1350,3765,G5470S,Private ,"Stokes, Frederic William ",Nil ,"Stokes, Mrs. Agnes ","Goderich, Ont ",Canada ,Goderich ,Mar.,1916.
+14,1348,572,1380,3764,054135,Private ,"Stokes, George Wilfred ",33rd Regt. . .,"Stokes, Frederick ","Goderich, Ont ",Canada ,Goderich... .,Dec.,1915.
+14,1377,571,1407,3764,054536,Private ,"Stone, William Charles ",Nil ,"Stone, Mrs. Eleanor Rose....","Hensall, Ont ",England. . . .,Hensall ,Mar.,1916.
+14,1405,571,1437,3762,054100,Sergeant ,"Straiton, John Watson ",33rd Regt. . .,"Straiton, John ","Goderich, Ont ",Canada ,Goderich,Dec.,1915.
+14,1434,570,1465,3762,054817,Private ,"Strang, John Caldwell ",Nil ,"Strang, Henry ","R.R. No. 1, Hensall, Ont ",Canada ,Exeter ,May,1916.
+14,1463,569,1494,3763,G54357,Private ,"Sturdy, Francis Dixon ",33rd Regt. . .,"Sturdy, William John ","Auburn, Ont ",Canada ,Wingham,Jan.,1916.
+14,1491,569,1522,3763,G54402,,"Sullivan, Thomas ",Nil ,"Fielder, George ","61 St. Peters St., Hackney ltd., London, Eng.",England,Brussels ,Feb.,1916.
+14,1520,572,1549,3763,127512,Private ,"Swarts, Jack Bertram ",Nil ,"Swarts, Mrs. Charlotte ","Goderich, Ont ",Canada ,Goderich,Oct.,1915.
+14,1548,570,1580,3763,G54384,Private ,"Taman, John Henry ",Nil ,"Taman, John ","Seaforth, Ont ",'anada ,Seaforth ,Jan.,1916.
+14,1577,570,1607,3763,654418,Private ,"Taman, William James ",Nil ,"Sanderson, Mrs. Thomas ","Goderich, Ont ",'anada ,Goderich... .,Fob.,1916.
+14,1606,571,1636,3764,654513,Private ,"Tasker, Albert Richard ",Nil ,"Sims, Mrs. William ","Myth, Ont ",’anada ,Wingham,Fob.,1916.
+14,1634,572,1665,3764,654410,L.-Corporal ,"Tasker, John Lancelot ",Nil ,"Sims, Mrs. William ","Blyth, Ont ",('anada ,Belgravc,Feb.,1916.
+14,1663,572,1694,3765,654745,Sergeant ,"Tasker, Richard ",nd Regt.,"Tasker, Mrs. lna ","Clinton, Ont ",Canada ,Clinton ,April,1916.
+14,1691,573,1722,3765,654542,Private ,"Taylor, Frederick Charles Cl. .",Nil ,"Scarlett, Robert ","R.R. No. 1, Seaforth, Ont ",England....,Seaforth ,Feb.,1916.
+14,1719,573,1751,3766,654101,Private ,"Taylor, George Ross ",Nil ,"Taylor, William ","White Church, Ont ",Canada ,Wingham....,Dec.,1915.
+14,1747,573,1780,3767,054487,Private ,"Taylor, Ira David ",Nil ,"Taylor, Mrs. Charlotte ","Hay, Ont ",Canada ,Exeter ,Feb.,1916.
+14,1776,573,1809,3768,054399,Private ,"Taylor, James ",Nil ,"Taylor, Mrs. Margaret Annie.","Goderich, Ont ",England,Goderich.. .,Feb.,1916.
+14,1805,572,1837,3768,654102,Private ,"Taylor, James Thomas ",Nil ,"Taylor, George R ","Clinton, Ont ",Canada ,Clinton ,Dec.,1915.
+14,1833,571,1866,3768,G54723,Private ,"Terry, John Edward ",Nil ,"Terry, Edward Ferguson. . . .","Listowel, Ont ",Canada ,Clinton ,Mar.,1916.
+14,1862,571,1895,3769,654171,Private ,"Thamer, George Henry ",Nil ,"Thamer, William ","Walton, Ont ",Canada ,Brussels ,Jan.,1916.
+14,1891,570,1923,3769,654450,Private ,"Thibideau, John Arthur ",Nil ,"Thibideau, Mrs. Lucy May ..","Brussels, Ont ",Canada ,Brussels ,Feb.,1916.
+14,1921,570,1951,3769,054103,Private ,"Thibideau, Steven Howard",Nil ,"Thibideau, Gilbert ","Brussels, Ont ",Canada ,Brussels ,Dec.,1915.
+14,1950,569,1982,3769,654406,Private ,"Thompson, Charles Murray....",Nil ,"Thompson, Dr. E. W ","Clinton, Ont ",Canada ,Clinton ,Feb.,1916.
+14,1979,569,2010,3769,654136,Private ,"Thompson, Ernest ",Nil ,"Thompson, Samuel ","Belgrave, Ont ",Canada ,Wingham ,Dec.,1915.
+14,2008,569,2039,3770,654104,L.-Corporal ,"Thompson, Fred Greene ",Nil ,"Thompson, Charles W ","Clinton, Ont ",Canada ,Clinton ,Dec.,1915.
+14,2037,570,2068,3770,G54543,Private ,"Thompson, Joseph Samuel ",Nil ,"Thompson, Samuel ","Belgrave, Ont  ",Canada ,Wingham ,Mar.,1916.
+14,2065,570,2097,3770,054098,Private ,"Thompson, Wilfred Clarence. . .",Nil ,"Thompson, William ","R. R. No. 1, Ethel, Ont ",Canada ,Brussels....,Mar.,1916.
+14,2095,570,2124,3769,654105,Private ,"Thomson, Thomas ",Nil ,"Thomson, Mrs. Elizabeth....","Wroxeter, Ont ",Scotland...,Wroxeter. ..,Dec.,1915.
+15,431,1558,461,3863,Nil ,"Thuell, William ","Brussels, Ont ",Canada ,,"Dec. 10, 1915."
+15,460,1558,490,3864,Nil....,"Thuell, William ","Brussels, Ont ",,,"Jan. 11, 1916.",Canada 
+15,489,1558,519,3864,Nil.. . .,"Thuell, William ","Brussels, Ont ",,,"Jan. 11, 1916.",Canada ,Brussels 
+15,518,1559,549,3864,Nil....,"Tier nay, James ","Blyth, Ont ",,,"Mar. 23, 1916.",Blyth ,Canada 
+15,547,1559,577,3864,Nil.,"Toms, John ","Bayfield, Ont ",,,"Feb. 8, 1916.",Canada 
+15,578,1887,606,3864,,"Toms, John ","Bayfield, Ont ",,,"Feb. 29, 1916."
+15,607,1559,635,3864,Nil.. .,"Tonkin, William George. ...","Warley Barracks, London, Essex, Eng ",,,"Jan. 29, 1916."
+15,636,1560,664,3864,Nil. ...,"Town, George J ","Wroxeter, Ont ",,,"Mar. 20, 1916."
+15,664,1560,693,3865,Nil.,"Trapnell, >lrs. Isabel ","29 Hampton Court Rd., Bristol, Eng ",,,"Mar. 13, 1916."
+15,693,1560,722,3865,Nil.,"Troyer, Mrs. Sarah A ","Seaforth, Ont ",,,"April 8, 1916."
+15,721,1560,751,3865,Nil ,"Troyer, Charles Edward ","Shaunavon, Sask ",,,"Feb. 15, 1916.",U.S.A 
+15,752,1560,780,3865,Nil ,"Tucker, Mrs. Margaret ","Exmouth, Devon, Eng ",,,"Dec. 10, 1915."
+15,780,1560,808,3866,Nil....,"Tucker, Charles E ","Exeter, Ont ",,,"Jan. 21, 1916."
+15,809,1054,835,1541,"Underwood, William Alexander.. ."
+15,809,1054,836,3865,Nil....,"Underwood, William ","Gorrie, Ont ",,,"Mar. 24, 1916."
+15,838,1560,865,3866,Nil. ..,"Vanstone, Mrs. Minnie ","Berlin, Ont ",,,"Dec. 27, 1915.",Goderich 
+15,867,1560,895,3866,Nil.. .,"Veal, William Henry ","Elimville, Ont ",,,"May 6, 1916."
+15,896,1560,923,3866,Nil ,"Vickers, Samuel ","R.R. No. 4, Goderich, Ont ",,,"Mar. 27, 1916."
+15,925,1560,953,3866,Nil. .,"Vi dean, Harry ","Goderich, Ont ",,,"Feb. 2, 1916."
+15,953,1560,980,3866,Nil. .,"Vittie, Thomas ","Gorrie, Ont ",,,"Mar. 21, 1916."
+15,982,1888,1010,3866,,"Walker, William ","Exeter North, Ont ",,,"May 8, 1916."
+15,1011,1560,1038,3866,Nil ,"Walker, James ","Centralia, Ont ",,,"Mar. 21, 1916."
+15,1039,1888,1067,3867,,"Waller, Mrs. K. M ","Wroxeter, Ont ",,,"Dec. 20, 1915."
+15,1068,1560,1097,3867,Nil.. .,"Walser, Mrs. Mary ","Goderich, Ont ",,,"Feb. 8, 1916."
+15,1097,1560,1124,3867,Nil ,"Ward, Mrs. Edith ","Goderich, Ont   ",,,"Feb. 14, 1916."
+15,1126,1560,1154,3867,Nil. .,"Ward, Henry ","Moncricff, Ont ",,,May 13. 1916.
+15,1155,1560,1183,3867,Nil.. .,"Warner, Mrs. Mary ","Goderich, Ont ",,,"Jan. 29, 1916."
+15,1183,1561,1211,3867,Nil ,"Wasmann, John F ","Clinton, Ont...  ",,,"Jan. 31, 1916."
+15,1212,1888,1240,3868,,"Watson, Margaret Jane ","Goderich, Ont  ",,,"Mar. 20, 1916."
+15,1240,1889,1269,3868,,"Langsdon, Mrs. Anne ","5 Bourn St., Wilmslow, Cheshire, Eng ",,,"Jan. 8, 1916."
+15,1268,1560,1300,3868,Nil ,Watt* James ,"Blyth, Ont  ",,,"May 15, 1916.",Canada ,Blvth 
+15,1298,1560,1327,3868,Nil....,"Riddell, Mrs. William ","Thornhill, Ont ",,,"May 16, 1916."
+15,1327,1560,1356,3868,Nil ,"Watters, Mrs. Charlotte. . ..","Fordwich, Ont.  ",,,"May 12, 1916."
+15,1356,1560,1385,3868,Nil ,"Wearring, George ","Wroxeter, Ont    ",,,"Mar. 23, 1916."
+15,1384,1560,1415,3868,Nil ,"Webber, Henry George ","56th Bty., C.F.A., Guelph, Ont ",,,"May 26, 1916."
+15,1413,1559,1447,3869,Can. Mil.,"Weber, Mrs. Phoebe ","Zurich, Ont '•*.*•. ",,,"May 5, 1916."
+15,1442,1889,1472,3869,,"Websdaie, Henry ","Hardingham, Norfolk, Eng ",,,"Dec. 11, 1915."
+15,1471,1561,1499,3869,Nil. ...,Weiss. John... ,"Godcrich, Ont  ",,,"Jan. 14, 1916."
+15,1499,1055,1524,1542,"Wells, Alfred Edward F "
+15,1499,1055,1528,3870,Nil ,"Wells, Mrs. Caroline ","Exeter, Ont    ",,,"Jan. 3, 1916."
+15,1529,1560,1558,3870,Nil ,"Whistle, Annie ","Paragon Row, London, Eng  ",,,"Dec. 16, 1915."
+15,1556,683,1584,1024,654559 Co. Q.-M. Sergt..
+15,1556,683,1586,3862,Nil ,"Wesley, Mrs. Euphemia ","Wroxeter, Ont ",,,"Mar. S, 1916"
+15,1585,1054,1613,1542,"West, Sydney "
+15,1585,1054,1619,3862,Nil ,"West, Mrs. Harriet E ","Exeter, Ont    j.;. .  ",,,"Feb. 22, 1916"
+15,1614,1560,1643,3870,Nil ,"Westcott, Mrs. Annie ","Seaforth, Ont     ",,,"Dec. 8, 1915."
+15,1643,1560,1672,3862,Nil.,"Westcott, Mrs. Annie ","Seaforth, Ont   ",,,"Dec. 14, 1915"
+15,1672,1560,1700,3863,Nil...,"Mitchell, Mrs. W. J ","Wroxeter, Ont ",,,"Jan. 10, 1916"
+15,1701,1560,1729,3863,Nil ,"Mitchell, Mrs. W. J ","Wroxeter, Ont ",,,"Jan 10, 1916"
+15,1729,683,1751,1037,fi54229 Private 
+15,1729,683,1758,3863,Nil.,"Mitchell, Mrs. W. J ","Wroxeter, Ont   ",,,"Jan. 10, 1916"
+15,1758,1559,1786,3864,Nil ,"Mitchell, Mrs. W. J ","Wroxeter, Ont    ",,,"Feb. 1, 1916"
+15,1787,1560,1818,3872,Nil ,"Westlake, Susan ","Bayfield, Ont      ",,,"Mar. 10, 1916."
+15,1815,1890,1844,3871,,"Mitchell, Mrs. Elizabeth....","Wroxeter, Ont ",,,"Jan. 25, 1916."
+15,1843,1560,1872,3872,Nil ,"Weston, Mrs. Emma ","Goderich, Ont ",,,"Mar. 21, 1916."
+15,1872,2392,1902,3176,"c'o Mrs E. Williams, Hamptworth, Downton, Salis¬"
+15,1874,1889,1901,2288,"Williams, Mrs. J "
+15,1900,3676,1926,3872,"Feb. 1, 1916."
+15,1904,2436,1932,3140,"bury, Wilts, Eng  "
+15,1930,1559,1960,3872,Nil ,"White, James ","Benmiller, Ont  ",,,"May 20, 1916."
+15,1958,1559,1988,3872,Nil ,"Whitmore, Franklin ","Varna, Ont  ",,,"Mar. 6, 1916."
+15,1987,1559,2018,3872,Nil ,"Wicker, George Thomas..","“Myrtle Cottage,"" Mayfield, Sussex, Eng ",,,"June 14, 1916."
+15,2016,1559,2047,3872,Nil....,"Morrison, Edmund ","R. R. No. 3, Kippen, Ont ",,,"Jan. 8, 1916."
+15,2045,1558,2076,3873,Nil....,"Wightman, Charles ","Belgrave, Ont ",,,"Mar. 25, 1916."
+15,2073,1559,2104,3872,Nil ,"Wilkcn, Alfred ","Clinton, Ont ",,,"Dec. 11, 1915."
+15,2102,1887,2135,3874,,"Wilkinson, Mrs. Mary Kate.","Wingham, Ont ",,,"May 15, 1916."
+15,2131,681,2161,3874,Nil ,"Wilkinson, Willinni Inman. .","R. R. No. 3, Exeter, Ont ",,,"Jan. 20, 1916.",England ,Exeter 
+15,2133,681,2156,1034,654306 Private 
+15,2134,1052,2159,1539,Wilkinson. Thomas Harold I 
+16,495,2102,533,2435,161st Battalion
+16,617,3477,642,3800,Taken on Strength.
+16,655,669,677,714,e O
+16,664,661,717,714,i2
+16,669,848,700,3353,,,,Former Corps.,,,Country of
+16,671,2588,695,2927,Address of Next of Kin.
+16,672,848,696,932,Rank.
+16,672,1955,696,2266,Name of Next of Kin.
+16,673,1228,696,1323,Name.
+16,698,3235,722,3320,Birth.
+16,713,3477,736,3560,Place.
+16,713,3718,736,3799,Date.
+16,811,659,844,3852,654118,Private ,"Williams, Albert Charles ",Nil ,"Williams, Harry George...","Wingham, Ont ",England.,Wingham..,Dec.,"10, 1915."
+16,840,659,873,3854,654756,L.-Corporal.,"Williams, Frank Harold ",Nil ,"Trewin, Mrs. Albert ","Londesborough, Ont ",England.,Clinton ,April,"1, 1916."
+16,870,658,901,3854,654552,Private ,"Williamson, John Charles ",Nil ,"Louttit, Mrs. John ","Ethel, Ont ",Canada..,Brussels...,Feb.,"4, 1916."
+16,899,658,930,3855,654489,Private ,"Willis, Aimer Thomas ",Nil ,"Willis, John ","R. R. No. 1, Exeter, Ont ",Canada..,Exeter ,Feb.,"22, 1916."
+16,928,657,959,3855,654502,Private ,"Willis, John Norman ",Nil ,"Willis, John ","R. R. No. 1, Exeter, Ont ",Canada..,Exeter ,Feb.,"22, 1916."
+16,957,657,989,3856,654764,Private ,"Willoughby, Nicholas Arthur.",Nil ,"Willoughby, Mrs. Ada ","Seaforth, Ont. ",Canada..,Seaforth...,May,"3, 1916."
+16,986,656,1018,3856,654769,Private ,"Winch, Leslie ",28th Regt..,"Winch, Stephen ","Paisley, Ont ",Canada..,Bluevale..,May,"5, 1916."
+16,1014,656,1047,3857,654119,Private ,"Windsor, William Augustus ",Territorials.,"Windsor, George ","33 Goldsmith St., Norwich, Norfolk, Eng",England.,Wingham.,Dec.,"1, 1915."
+16,1043,656,1075,3858,654192,Private ,"Wood, Charles ",Nil ,"Wood, Lydia ","63 Selhurst Rd., South Norwood, Eng. ...",England.,Seaforth..,Jan.,"4, 1916."
+16,1072,656,1104,3858,654387,Sergeant ,"Woodley, John ",Imp. Forces,"Woodley, Mrs. Louisa ","R. R. No. 3, Auburn, Ont ",England.,Goderich.,Jan.,"24, 1910."
+16,1101,656,1132,3858,654747,Private ,"Woods, James Jackson ",Nil.? ,"Woods, Robert ","Elimville, Ont ",Canada..,Exeter ,April,"11, 1916."
+16,1130,655,1161,3859,654252,Corporal ,"Woods, Russell Francis ",Nil ,"Woods, James ","Auburn, Ont ",Canada..,Blyth....,Jan.,"10, 1916."
+16,1159,655,1191,3859,65465S,Private ,"Wray, Gordon ",Nil ,"Wray, John ","R. R. No. 1, Wingham, Ont ",Canada..,Wroxeter.,Mar.,"21, 1916."
+16,1187,655,1219,3860,654659,L.-Corporal..,"Young, Benjamin Franklin ",33rd Regt..,"Young, Mrs. Eva Matilda..","Goderich, Ont ",Canada..,Goderich.,Mar.,"20, 1916."
+16,1216,654,1248,3861,654174,Private ,"Young, Harold Melville ",Nil ,"Young, James ","Hinch St., Goderich, Ont ",Canada..,Goderich.,Jan.,"3, 1916."
+16,1245,655,1277,3861,654660,Private ,"Young, James Emmerson ",33rd Regt..,"Young, Mrs. Eima ","Goderich, Ont ",Canada..,Goderich.,Mar.,"20, 1916."
+16,1273,654,1306,3861,654373,L.-Corporal..,"Yungblut, Jacob ",33rd Regt..,"Yungblut, Mrs. Margaret. .","Goderich, Ont ",Canada..,Goderich.,Jan.,"30, 1916."

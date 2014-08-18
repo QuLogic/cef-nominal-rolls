@@ -1,499 +1,591 @@
-1,412,755,3158,794,.=z,,,Former Corps.,,,Birth- !
-1,419,779,3562,813,i,,,,,,,Place. j,Date.
-1,412,887,3161,944,135034j Pri vate ,,"Hancock, Thomas ",Nil ,"Hancock, Mrs. Martha ",Orchard House,,i
-1,2922,904,3615,952,,,,,,,England j,Toronto  !,July,"23,",1915.
-1,2121,943,3617,976,,,,,,"4 Duvernet Ave., Toronto, Ont ",Canada ,Toronto ,Aug.,"27,",1915.
-1,412,956,1991,988,172190! Private ,,"Handy, George ",Nil ,"Handy, Alfred "
-1,2114,972,3616,1009,,,,,,"j30 Gough St., Toronto, Ont ",Canada  ,Toronto,Aug.,23.,1915.
-1,412,986,1991,1016,172199j Private ,,"Hanna, Ephraim Wesley - . .",Nil ,"Hanna, Mrs. Charlotte —"
-1,412,1000,3616,1050,1714721 Private. ..,,"Hanna, Hugh ",Nil ,"Hanna, Mrs. Christina.. ..","|252 Gerrard St., Toronto, Ont ",Ireland ,Toronto iJuly,"31,",1915.
-1,2919,1030,3617,1058,,,,,,,Scotland ?,Toronto ,April,5.,5916.
-1,412,1036,2543,1074,172475; Private. ..,,"iHarcua, Stewart ",Nil ,"Harcus, Mrs. Agnes ","•450 Salem Ave., Toronto, Ont"
-1,2121,1059,3617,1101,,,,,,"3 North View Terr., Toronto, Ont",England.. . .. ■ j,T oronto  ,July,16. 1915.
-1,412,1071,2018,1103,1716271 Private ,,"Hardcastle, George William",Nil ,"Hardcastle, Mrs. Sarah Lou"
-1,411,1089,3618,1132,17238©! Private ,,"Hardy, Arthur William ",Nil ,"Hardy, Mrs. Margaret ","Winterbourne, Ont ",Canada i,Toronto ,Dec.,"1, 1915."
-1,412,1119,3617,1160,171473] Pnvate.. .,,"Hardy, Bert ",Nil ,"Hardy, Mrs. Frances ","37 Eastern Ave., Toronto, Ont. ..",Canada ,T oronto ,Aug.,3.,1915.
-1,411,1149,3618,1189,1714741 Private ,,"Hardy, Norman ",Nil ,"Hardy, Mrs. Frances ...","37 Eastern Ave., Toronto, Ont",(anada ,Toronto ,Aug.,11.,1915.
-1,411,1178,3619,1218,1717311 Private ,,"Hargrave, Charles Arthur .",Nil ,"Hargrave, George ","48 Fenwick Ave., Toronto, Ont. ..",Canada ,Toronto ,Aug.,"17,",1915.
-1,410,1207,3619,1246,172333! Private.,,"Harkins, Charles Cameron .",10th Regt.,"Harkins, Mrs. Jessie ","124 Arthur St., Toronto, Ont  ",Canada  'Toronto,,Oct.,"20,",1915.
-1,410,1236,3618,1276,171976i Sergeant...,,"Harkins, George Thomas. .",Can. Mil,"Harkins, Mrs. Edith ","18 Herbert Ave., Toronto, Ont.. .",Canada ,Toronto  ,Aug.,"17,",1915.
-1,412,1266,3619,1304,172446} Private ,,"Harkins, John ",Nil  ,"Harkins, Mrs. Jessie ","124 Arthur St., Toronto, Ont ",Canada ! Toronto ,,Feb.,10. 1916.
-1,411,1296,3619,1333,171529 Private....,,"Harper, Thomas George.. . .",Nil ,"Harper, Thomas ","17 Brighton Rd., Earley, Reading, Berks",England 1,Toronto ,Aug.,U.,1915.
-1,410,1325,3619,1362,172364! Pri vate ,,"Harper, William Matthew .",i-Oth Regt.,"Harper, Mrs. Annie ","7 Ellsworth Ave., Toronto Ont ",Ireland -Niagara,,Oct.,1.,1915.
-1,410,1355,3619,1391,1720>6jPrivate....,,"Harpley, John  ",Nil ,"Harpley, Mrs. Edith ","Bernice Cres.. Lambton Mills, Ont...",Wales ,Niagara Camp..,"""opt.","7,",1915.
-1,412,1384,3620,1419,171475! Private ,,"Harris, Dac ",Nil ,"Harris, Mrs. Mary Ann E.","311 Sumach St., Toronto, Ont ",England  .Toronto,,Aug.,9.,1915.
-1,411,1414,3620,1450,17173.2} Private,,Harris. George ,Nil ,"Harris, Mrs. George ","474 Greenwood Ave., Toronto, Ont...",England  Toronto ....,,Aug.,14.,1915.
-1,408,1442,3620,1478,6697541 Private....,,"Harris, George James ",Nil ,"Harris, Mrs. Sarah ","Coin Sc. Aldwyns, nr. Fairford, Glos, Eng",England ,Toronto ,Feb.,"14, 1916."
-1,409,1472,3621,1505,172205 Private ,,"Harris, Thomas William ...",Nil ,"Harris, Mrs. Bessie Millar","196a Carlton St., Toronto, Ont .",England ,Toronto ,Aug.,"26,1915."
-1,410,1501,3620,1535,172195 Private....,,"Harrison, George Stanley. .",Nil ,"Harrison, Mrs. Mabel May","238 Hastings Ave., Toronto. Ont ",England   ,Toronto ,Aug.,"21, 1915."
-1,410,1531,3622,1564,171470? Private...,,"Harrison, James  ",Nil........,"Harrison, Mrs. Elisabeth","74 Edward St., Todmorden, Ont ",England ,Toronto ,July,"19, 1815."
-1,411,1560,3620,1596,172035j Private. ..,,"Harrison, Ralph. .   ",Territorials,"Harrison, Mrs. Alice Mary","115 Cronyn Ave., Todmorden, Ont. . .",England  ,Niagara Camp.,Sept.,"7,",1915.
-1,411,1590,3620,1622,172203) Private ,,"Harrison, Ramsden ",Nil ,"Harrison, Maria Louisa.. .","248 Ossington Ave., Toronto, Ont ",England ,T oronto ,\ug,"24,",1915.
-1,411,1619,3620,1654,I71404j Private...,,"Hartman, William Ernest ..",2nd Regt .,"Hartman, Mrs. Mary ","31 Dorval Rd., Toronto, Ont ",Canada ,,"16,",1915.
-1,412,1649,3621,1681,172! 91 Private —,,"Harvey, Jack Smith ",Nil ,"Harvey, John  ","Colquhoun House, Milton, Dumbarton",,T oronto ,Aug.,"25,",1915.
-1,411,1674,3620,1712,i 72192j Corporal. .,,"Hay, John ",2nd Regt.,"Hay, Mrs. Helen  ","5 Adelaide PL, Toronto, Ont. ",,,"7,",1915.
-1,411,1707,3622,1742,I72394j Private....,,"Haynes, William Henry....",Nil.: .,"Barrett, Mrs. Annie ","416 Wilton Ave., Toronto, Ont ",Canada ,T oronto ,Dec.,"7,",1915.
-1,410,1736,3622,1768,172438] Private ,,Hayward. Norman Wadwor,Territorials,"Hayward, Ethel Alice...","4th Ave.. New York, N.Y., U.S.A. . .",England ,Toronto ,Feb.,"7,",1916.
-1,412,1766,3623,1796,171477 Private ,,"! Headon, George ",Nil ,"Headon, Mrs. Elizabeth M","1201 Dufferin St., Toronto, Ont ",England ,Toronto ,July,"31,1915."
-1,412,1796,3622,1830,,Pri vate....,171784,"[Hedges, Charles ",Nil ,"Hedges, Mrs. Frances ","15 O’Brien Ave., Fairbank, Ont ",England ,Toronto ,Aug.,9,1915.
-1,411,1824,3623,1856,,Private.....,171630,"'Helps, Frederick Henry . ..",12th Regt,"Helps, Arthur Edward ","11 Hill Crest Pk., Toronto, Ont ",England ,July,"16, 1915."
-1,409,1854,3622,1885,,Private ,639545,"Hemming, Frederick Henry",Nil ,"Hemming, Mrs. Beatrice.","Crown Inn, Harleston St., Sheffield, E?",England. ,Toronto ,Jan.,"31, 1916."
-1,411,1884,3623,1913,,Private ,172200,"Henderson, Glenn William",Nil ,"Henderson, Albert ","46 Emmerson Ave., Toronto, Ont ",Canada ,T oronto ,Sept.,8.,1915.
-1,412,1913,3623,1943,,Private....,172201,"Henderson, James  ",Nil ,"Henderson, Mrs. Ediih. .","54 Minto St.. Toronto, Ont ",England ,Toronto ,Aug.,16,1915.
-1,409,1941,3623,1972,"171478 L,-Corporal",,"Hendnon, John Joseph ",Nil ,"Burton, Mrs. Mary Ann...","26 Wheeler Ave., Toronto, Ont ",Canada. ......,Toronto ,Aug.,6,1915.
-1,412,1968,3624,2001,171783 j Corporal. .,,"Hendry, William Norman.",36th Regt.,Hendry. Francis ,"Mimico, Ont ",Canada ,Toronto  ,Aug.,14,1915.
-1,412,1999,3624,2029,1724121 Private....,,"Hene, John  ",10th Regt.,"Hene, Mrs. Theresa ","Armour, Ind., U.S.A ",U.S.A ,Toronto ,Jan.,12,1916.
-1,413,2028,3623,2061,172425: Private....,,"Herrington, John Thomas .",Nil ,"Herrington, Mrs. Sarah. ..","218 Nairn Ave., Toronto, Ont ",England  ,Toronto ,Feb.,"1, 1916."
-1,411,2058,3625,2092,172210' Private....,,"Hewson, Clarence Victor....",Nil ,"Hewson, William Robert.","70 Grenville St., Toronto. £)nt  ",Canada ,Toronto ,Sept,1915.
-1,412,2086,3626,2119,172I97j Private....,,"He yes, Joseph ",Nil ,"Heyes, Samuel ","845 Lansdowne Ave., Toronto, Ont....",England ,Toronto ,Aug.,20,1915.
-1,410,2115,3625,2150,171479} Private ,,"Hibbard, Henry Frederick",Nil..,"Hibbard, Mrs. Florence R","109 Car law Ave.. Toronto, Ont ",England..,Toronto ,Aug.,2,1915.
-1,411,2137,3626,2179,17 i78dj Private —,,"Hibbert, Alfred Kilby. vC-H",MM,Nil..,"Hibbert, Mrs. Priscilla . .","16 Davenport Rd., Toronto. Ont ",Canada ,Toronto  ,Aug.,17,1915.
-1,411,2175,3627,2210,1713l3jL.-CorporaJ,,"Higginson, Matthew . ..",Imp.,Forces,"Higginson, Robert ","55, 35th St., Chicago, 111 , U.S.A .....",Ireland ,Toronto ,Aug.,12.1915.
-1,410,2204,3627,2238,17173Gj Sergeant,,"Hill, Charles Meredith. .",Can.,Mil,Hill. Mrs. M. E ,"41 Gladstone Ave., Toronto, Ont ",Canada ,Toronto ,Aug.,"14, 1915."
-1,410,2233,3627,2268,171430 Private..,,"Hili, Herbert Jonathan",Nil..,"Hill, Mrs. Alice ","622 Merton St., Toronto, Ont ",England ,Toronto  ,July,31,1915.
-1,410,2262,3628,2298,171631 Private..,,"Hiil, Thomas Coulthard",Nil..,"Hill, Catherine ","44 Shaftesbury Ave., Toronto, Ont ",England ,f oronto ,! Aug.,11,1915.
-1,409,2291,3628,2328,171787-Private..,,"Hill, William...  ",Nil.,"Hill, Elizabeth ","i624 Jones Ave., Toronto. Ont ",England ,‘Toronto  ,! Aug.,"14,1915."
-2,592,217,3803,248,17l7S3]Private.  ,,"Hiiiyskrd, Walter Henry. .",Terri tori&Ia..,"Hillyard, Mrs. Kate ","136 Woburn Ave-, Toronto, Out ",,... iXosrosto. ..,Aug,"17,1015."
-2,590,240,3802,273,669199' Private ,,"Hiacoek, Arthur Henry.",Nil  ,"Hiseock, Mrs. Annie ","123 Cedarvale Ave., Toronto, Ont ",. I England .,. . . JToT'OEt© . . .,Jan.,"28, 191 S."
-2,594,267,3804,308,1714811L.-Corporal ,,"Hitchborn, Charles ",Nil ,"Hitch bom, Mrs. Elizabeth. ..","356 Jones Ave., Toronto, Ont ",. j England . .,. . . . i Tor-onto. . .,July,31. 1915.
-2,594,295,3803,324,172372. Private ,,"Hitekin, Harry ",Nil ,"Hitchin, William Henry ","11 Grant St., Toronto, Ont ",Canada ..,.. .. rToTosnto . .,Nov.,9. 1915.
-2,592,323,3805,354,6G920G'Private ,,"Hoare, Charles Henry.,",Nil ,"!Hoare, Mrs. Fanny ","17 Barrington Rd., Horsham. Sussex, Eng   ",England..,. ... 'Toronto. .,Jan.,"17, 1918."
-2,595,351,3804,388,171789! Private ,,"Hoare, Herbert ",Nil ,"Hoare, Mrs. Sarah Elizabeth.","71 Uxbridge Ave., Toronto, Ont ",England .,. . . . |Toronto . . .,Aug.,"13, 1815."
-2,595,374,3805,416,171482; Private  ,,"Hodkinson, Frank . ...",Nil ,"j Hodkinson, Miss Phyllis ","152 Southfield St., Nelson, Lan^s. Eng  ",England..,. . . . proronto . ..,Aug,"9, 19)5."
-2,596,406,3805,446,172100; Private ,,"Holden, Janies Herbert.",Nil ,"| Holden, Mrs. Amelia ","102 Walpole Ave., Toronto. Ont ",England..,.. .. [Toronto.,Dec.,"20, 1915."
-2,596,438,3807,473,171263 Sergeant . ,,"Holland, Victor George",Territorials.,•Holland. Mrs. Margaret Jane.,"12 Fairholt Rd. S., Hamilton, Ont ",Ireland. ., {Toronto. ..,j Aug,"12, 1915."
-2,597,466,3806,500,1722111 Private ,,"Holmes, Austin ",Nil ,"Holmes, Mrs. Florence ......","3 Dunedin Ave., Toronto, Ont ",England..,. . . . [Toronto .,i Aug.,"21, 1915."
-2,597,498,3807,531,171123] Private ,,"Holt, James ",12th Regt. .,"Holt, Miss Mary ","121 College Rd., Bradford, Yorks, Eng ",; England .,. s Toronto. .,•July,"16, 1915."
-2,597,527,3808,561,172202; Private ,,"Holtham, Oswald ",Nil ,Holtham Mrs. Alice ,"36 Cott Rd., Walthamstow, London, Eng ",England..,I Toronto. .,jAug.,"16, 1915."
-2,595,553,3809,589,669205; Private ,,"Holweli, Henry George.",Can. Mil,Holweli. Mrs. Jennie ,"Bowmanville, Ont ",Wales. . .,... ('Toronto,iJan.,"25, 1916."
-2,595,583,3809,622,639209; Private ,,"Hooper, AI bin Argar —",Nil ,"Hooper, Mrs. Minnie ","535 Clinton St., Toronto, Ont   ",Canada ..,. .. j Toronto. .,jJan.,"21, 1916."
-2,598,615,3808,650,i 71314j Private ,,"Hopkins, Ernest ",Nil ,"|Hopkins, Mrs. Bessie  ","141 Boston Ave., Toronto, Ont ",England..,. . . . j Toronto . .,;Aug.,"14, 1915."
-2,597,646,3809,681,171907 Private,,"Horloek,- Robert ",Nil ,"j Horloek, Robert ","827 King St. W.f Toronto, Ont ",England .,i Toronto .,•Aug.,"6, 1915."
-2,597,670,3809,708,171315,Private  ,"Hornby, Robert Henry.",Nil. ,"j Hornby, Margaret. ","547 Crawford St., Toronto, Ont  ",Canada...,. ... IT oront o . .,{Aug.,"12, 1915."
-2,598,700,3809,737,172365,L.-Corporal. .,"Horne, Samuel Edwin. .",2nd Regt,Horne. Mrs. Margaret ,"SO Argyle St., Toronto, Ont ",Canada. .,. . . . fNisgjya. .,(Oct.,"6, 1915."
-2,595,733,3809,770,405066,Private.,"Hornett, George  ",Can Mil... .,"Hornett, William  ","Hillsburgh, Ont ",England,. . . . [Tcconto .,| April,"5, 1915."
-2,598,754,3809,801,172203! Private,,"Horreil, Alfred Augustus",Nil... ,"Horreil, Augustus E ","j Harden, Kent, Eng  ",. England..,. ... pForoeto .,I Aug.,"16, 1915."
-2,598,790,3809,825,171908,» Private' ,"Horton, John William..,",Nil ,"Horton, Mrs. Patience ","|243 Prescott Ave., Toronto, Ont ",. 'England. .,.... iToroato,Aug.,"4, 1915."
-2,598,823,3809,860,172193,! L.-Corporal,"Hotchkiss, Herbert ",Nil  ,Hotchkiss. Mrs. Charlotte T..,"j Scarborough, Ont ",.j England,.. fVaKmto jAug.,"18, 5915."
-2,598,850,3810,886,172416,■ Private. . .,"Howard, James Agnew",38th Rogt. .,Howard. Mrs. Bertha ,"82 Charlotte St., Brantford, Ont ",. jCanada,. Toronto i Jan.,"17, 1916."
-2,599,880,3809,917,171483,Private ,"Howarth, Ernest Joseph",Nil ,Howarth. George ,"!92 Windermere Ave., Swansea. Ont ",.[England .,'T oroTito,"9, 1915.",jAug.
-2,599,908,3809,950,172034,| Private  ,"Howe, Joseph ",2nd Regt,"Howe, Mrs. Eliza C ","155 Gowan Ave., Todmorden, Ont ",j England..,. t N sagara Camp.,"7, 1915.",. (Sept.
-2,598,941,3809,979,171316,► Private ,"Howe, Robert James. ..",Nil ,"Howe, John  ","jMaguiresbridge, Co. Fermanagh, Ire ",|Ire!and...,"Tr.,::*.;) ","10, 1915.",!Au*
-2,599,972,3809,1010,172194,: Private ,"Howse, Charles Elmon.",Nil ,"Howse, Mrs. Elizabeth Ann...","21 Mansfield Ave., Toronto, Ont ",. jCanada..,. 'Toroeui  ,"2, 1915.",|Sept.
-2,599,998,3809,1039,1714H4,Private ...,"Hughes, Edward ",Nil ,"jCharles, Mrs.. ","Cottage, Oswestry, Salop, Eng ",. ‘England.,". T"" ,r-_Rf o ","2, 1915.","'Aug,"
-2,599,1026,3810,1070,171903,1 Private ,". .. | Hughes, Frederick ",Nil ,"| Hughes, Mrs. Anna  ","169 Seoliard St., Toronto, Ont ",. j Engl and.,". v'TV-ror,u> ","2, 1915.",. jAug.
-2,598,1060,3810,1096,171632,: Private ,. . .' Hughes. Percy ,Nil ,"! Hughes, Mrs. Mary ","131 Golden Ave.. Toronto, Ont K ",. Canada .,. fToroato ,"11, 1915.",jAug
-2,599,1083,3809,1126,172159,1 L.-Corporal.,. .. i Hughes. Thomas ,MM,Nil ,"| Hughes, Thomas  ","jRhimot-bach, Rhosybol, Rhosgoch, Anglesey, Wales",I Wales . .,"JT, sror.to ","16, 1915.",!Aug
-2,599,1118,3810,1157,17131,Private.,. .. i Hunt. Harry ,Nil ,"! Hunt, Elizabeth ","|204 Pacific Ave., Toronto, Ont ",i England.,T jr.-’nto .,10.1915.,• 'Aug.
-2,599,1148,3810,1181,172053j Private ....,,.. I Hunt. Norman M. R . .,Nil ,"’Waters, Mrs. D ","163 Dupont St., Toronto, Ont ",!Canada,. i Niagara Camp.,7. 1915.,. .S«pt.
-2,599,1176,3810,1214,171793'Private...,,"... j Hunt, Samuel Edward..",9th Horse. .,"•Hunt, Mrs. Mary ","tClaude, Ont  ",. jCanada.,^Toronto ,"14, 1915.",Aug.
-2,596,1206,3810,1241,6995231 Private ,,". , . I Hurley, William ",Nil ,■Hurley Mrs. Amelia ,"|2 Pine Terr., Toronto, Ont ",. | Engl and..,. T-T>r T o  ,31. 1916.,. Jan.
-2,599,1237,3810,1269,172)57 Private ,,". . ! Hur*t, Harold ",Nil ,"i Hurst, James ","i 129 Stacey Ave.. Oshawa, Ont  ",j England. .,. ~ T*.*ri>nto  ,25.1915.,\ug.
-2,601,1265,3811,1307,1720 571 Private ,,".. . | Hyatt, Jesse Mark ",Nil ,"I Hyatt, Mrs. Effie May ","|369 Clinton St., Toronto, Ont",. jCanada,N iHKiira Camp. Spt.,"7, 1915."
-2,600,1296,3811,1330,171635) Private ,,"... | Hyde, David ",Nil ,"S Hyde, Mrs. Elizabeth  ","j290 Berkeley St., Toronto, Ont ",. 'Canada .,.T«jronto ,11. 1915.,■Aug.
-2,600,1326,3810,1364,1720S3| Private ,,"Ibbotson, David Charles",Nil ,"; Parker, Mrs. Elizabeth ","889 Carlaw Ave., Toronto. Ont ",‘Canada,. Xiagar a Camp,7.1915.,opt.
-2,601,1355,3810,1390,172213!Private. ..,,"Irwin, James Ambrose .",Nil  ,"|Irwin, James  ","Box 623, Collingwood, Ont ",.: Canada.,". ,Tt»n>nto ",28.1915.,Aug.
-2,600,1380,3810,1423,173010 Private. ...,,Irwin. Robert James ,Nil ,"Irwin, John ","Streetsvilie, Ont  ",jOanada ., |Toronto. ..,"16, 1915.",jJuly
-2,601,1414,3811,1450,172214 Private ,,"Izsard, Henry Walter ..",Nil ,"jlzzard, Mrs, Harriett  ","540 Kingston Rd.. Toronto, Ont  ",j Engl and, -Toronto. .,1.1915.,l^-pt-
-2,601,1442,3811,1480,171485 j Pri vate  ,,"Jamieson, James ",Nil..... ,"IJaraieson, Mrs. Thomas ","48 McGee St.. Toronto, Ont ",. ‘Scotland, sTceronto ..,"U, 1915.",jAug
-2,601,1473,3812,1511,172358 Private ,,"Jamison, David Joseph",Can. Mil ,"j Jamison, Mrs Jane ","Miliisle, Co. Down, Ire   ",.! Ireland. ., [Toronto. ..,"3, 1915.",jSept.
-2,602,1499,3810,1542,171636] Private ,,farman. Harry ,12th Regt. .,"'Jarman, Richard Henry ","Wittersham, Susses, Eng ",.}England., fToronto .,"16, 1915.",■July
-2,602,1532,3811,1565,171318; Private ,,"Jarvis, James Walter ...",Nil ,"jJarvis, Mrs. Elizabeth ","24 Hanson St., Toronto Ont-",.! England..,.. .. iTuronto. . .,"12, 3915.",Aug
-2,602,1560,3811,1595,1724761 Private ...,,"Jarvis, Joseph Richard.",G.G.B.G..,"!Logan, Mrs. Alice ","57 Winchester St., Toronto, Ont ",Canada, {Toronto. .,"Apr!’ 10, 1916."
-2,603,1588,3811,1625,i 7 U3>8j Private ,,"Jefferies, John Ernest...",Nil ,"I.Jefferies, Mrs. Catherine ","18 Leighton Rd., Cheltenham, Gioe, Eng ",'Wales ,... IToionto jAug.,"3, 1915."
-2,602,1619,3811,1654,171792| Private ,,"Jefferson, Henry' Evans.",Nil ,"■Jefferson, Mrs. Mabel ","17 Widmer St., Toronto, Ont ",Canada,... {Toronto....... Aug.,"14, 1915."
-2,604,1650,3811,1690,172217! Bugler ,,"Jeffery, Ernest  ...",Nil ,"|Jeffery, Mrs. Eva Florence. .","33 Essex St., Toronto. Ont . _ ",England..,.... Toronto jAug.,20.1915.
-2,600,1679,3813,1713,369773! Private ,,"Jeffery, Henry ",Nil.........,"'Jeffery, Mrs. Eliza ","15 Burlington BIdg., West Greenwich, London, Eng",England.., Toronto •Feb.,"15, 1916."
-2,602,1705,3811,1744,17 l4S6j Private. ...,,"Jeffrey, James ",Territorials.,"j Jeff r ey, M rs. Daisy  ",80 Water St.. Toronto. Ont ,Scotland, jToronto jJuly,31. 1915.
-2,602,1735,3812,1774,171487! Private ,,"Jeffries, John ",109th Regt .,"Jeffries, Mrs. Ada ","73 Chester Ave , Scarborough Tsp., Toronto, Ont . .",England..,  S-;*K?.ra Camp.. jSept.,"7, 1915."
-2,603,1768,3813,1804,17201 lj Private ,,"Jenkins, Thomas D ...",45th Regt. . .,"[Jenkins, Mrs. Annie ","63V*> Markham St., Toronto. Ont..   ",Canada ., (Toronto  . .LAug.,"11, 1915."
-2,602,1793,3812,1830,171319| Bugler ,,"Jenkins, Wrilliam John...",Nil  ,"!Jenkins, William ","i 10 Norman Ave., Toronto, Ont   ",England.., tTorooto |Aug,"14, 1915."
-2,603,1827,3813,1862,17191 Ij Private ,,"Jennings, William ",Nil ,Uenning? Eliza ,"1202 Moriey Ave., Toronto, Ont   ",England.,.... Toronto j Aug.,14. 1915.
-2,603,1856,3813,1888,172022! Private ,,"Jenns, Frederick ",Nil ,iJenns. Albert  ,"j66 Bloor St. E., Toronto, Ont ",England..,  jToronto ;Aug.,"14, 1915."
-2,603,1880,3813,1924,171912| Private ,,"Jerome, Alfred  ",Nil ,"jJerome, Mrs. Mary Ann. ","128 Centaur St.. Portsmouth, Hants, Eng ",England., |Torr>ato jAag.,17.1915.
-2,604,1916,3814,1948,171490!Private.....,,Jerram. Norman Valentine,Nil ,Mason. Mrs. Edith ,"117 Duke St., London. S.E., Eng   ",England, {Toronto jAug,4. 1915.
-2,602,1941,3814,1976,539917*Private....,,".. ;Jilks, Dane Albert...",Can. Mil . . .,";Jilks, Mrs. Sarah ","'40 Henderson Ave., Toronto, Ont.  ",ICanada..,... . ’Toronto ..'Feb.,24.1916.
-3,1065,849,3193,880,,,,Former Corps.,,,Country of
-3,488,995,3688,1028,171320,Bugler.,"Jinks, William Albert....",2nd Regt.,"Jinks, H ","47 Seaton St., Toronto, Ont ",Canada...,Toronto ,Aug.,"12, 1915."
-3,489,1025,3688,1057,171257,Sergeant.,". Johnson, Andrew ",Nil ,"Johnson, Miss Maggie ","Maghera, Co. DerTy, Ire.  ",Ireland...,Toronto ,Aug.,"12, 1915."
-3,488,1050,3688,1086,171322,Private..,". Johnson, Charles Henry.",Nil ,"Johnson, Mrs. Mary Frances....","107 Browning Ave., Toronto, Ont ",Wales ,Toronto ,Aug.,12.1915.
-3,489,1083,3688,1116,171637,Bugler.,". Johnson, William Lees...",12th Regt.,"Johnson, Mrs. Eliiabeth ","42 St. Clarens Ave., Toronto, Ont ",England..,Toronto ,July,"16, 1915."
-3,488,1113,3688,1144,172215,Private ,". Johnston, Peter ",S. A ,"Johnston, Mrs. Rachel ","31 Midland PI., Toronto, Ont ",Scotland,Toronto ,Au«:.,"23, 1915."
-3,489,1142,3688,1174,171914,L.-Corporal...,". Johnston, William ",Nil ,"Johnston, Mrs. Warden ","Church St., Mimico. Ont ",Scotland.,Toronto ,Aug.,"4, 1915."
-3,488,1171,3688,1202,172463,Private ,". Johnston, William ",Nil ,"Johnston, Mrs. Catherine ","12 Wright Ave., Toronto, Ont ",Ireland...,Toronto ,Mar.,"10, 1916."
-3,489,1202,3688,1231,171794,Private ,". Jones, Arthur ",Nil ,"Jones, Mrs. Alice ","25 Osborne St., Toronto, Ont ",Canada. .,Toronto ,Aug.,13. 1915.
-3,488,1230,3688,1262,171639,Private ,". Jones, Carrol Hilary ",I2th Regt. ..,"White, Mrs. A ' ","159 Sorauren Ave., Toronto, Ont ",Canada ..,Toronto ,July,"16, 1915."
-3,488,1260,3686,1291,172012,Private ,". Jones, David ",Territorials..,"Jones, Ann ","Hillside Peln, Merthyr Tydvtt, S. Wales ",Walea,Toronto ,Aug.,"11,1915-"
-3,488,1289,3687,1320,171640,Private ,". Jones, Ernest Arthur ",12th Regt...,"Jones, Mrs. Sarah ","117 Ferrier Ave., Toronto, Ont ",England..,Toronto ,July,"10, 1915."
-3,487,1318,3687,1351,172428,Private ,". Jones, Frederick George.",Nil ,"Jones, Mrs. Sarah ","117 Ferrier Ave., Toronto, Ont ",England .,Toronto....,Feb.,"1, 1916."
-3,487,1347,3686,1379,171638,Private ,". Jones, Leslie Charles ",12th Regt...,"Jones, Mrs. Letitia Mary ","1077 Gerrard St. E., Toronto, Ont ",England..,Toronto ,July,"16, 1915."
-3,486,1378,3686,1406,171915,Private.,. Jones. Thomas ,Nil ,"Jones, Mrs. Ann ","310 Kenilworth Ave., Toronto, Ont ",England..,Toronto ,Aug.,14.1915.
-3,486,1407,3685,1438,171987,Private.,"Jordan, Edward ",Imp. Forces,Jordan. Mrs. Mary Ann ,"104 Jones Ave., Toronto, Ont ",England..,Toronto ,Aug.,"13, 1915."
-3,485,1434,3685,1468,172216,Private.,"Judd, Henry Alfred ",Nil.,"Judd, Mrs. Jessie ","147 Argyle St., Toronto, Ont ",England..,Toronto ,^ept.,"3, 1915."
-3,486,1466,3685,1498,171543,"Private Judge, Thomas.",,12th Regt...,"Judge, Mrs. Annie....."" ","431 Queen St. E., Toronto, Ont ",Canada...,Toronto ,Aug.,"11, 1915."
-3,486,1495,3684,1526,171492,Private   ,"Jukes, Arthur",Nil ,"Jukes, Mrs. Annie  ","329*4 Gerrard St., Toronto, Ont ",England..,Toronto ,Aug.,"4, 1915."
-3,487,1519,3685,1554,171491,Private ,"Jukes, William ",Nil ,"Jukes, Mrs. Annie   ...","329>4 Gerrard St., Toronto, Ont ",England..,Toronto ,Aug.,"4, 1915."
-3,485,1554,3685,1585,172218,Private ,"Juniper, Mark Charles  ",Nil ,Juniper. Florence ,"494 Quebec Ave., Toronto, Ont. ",England..,Toronto ,Aug.,"30, 1915."
-3,486,1583,3684,1615,171493,Private ,Kalla?. Roy ,Nil ,"Kailar, Mrs. Irene ","991 Gerrard St., Toronto, Ont ",Canada...,Toronto ,Aug.,"9, 1915."
-3,485,1612,3684,1642,171324,Private ,"Kearns, Patrick ",Nil ,"Kearns, Mrs. Elisa ","223 Manning Ave., Toronto, Ont ",Canada...,T oronto ,Aug.,10.1915.
-3,485,1642,3684,1674,171325,Private ,"Keatiog, William Edward ",Nil ,"Keating, Mrs. Katherine ","68 Fulton Ave., Toronto, Ont ",Canada...,Toronto ,Aug.,12.1915.
-3,485,1671,3684,1702,172219,Private ,"Keen;* !, Albert Charles ",Nil ,"Keenan, Mrs. Margaret ","68 Willow Ave., Toronto, Out ",Ireland...,Toronto ,Aug.,30.1915.
-3,485,1701,3684,1731,171326,Private ,"Kellett, Arthur ",Nil ,"Kellett, Margaret ","535 Wellington St., Toronto, Ont ",England..,Toronto ,Aug.,12.1915.
-3,487,1725,3685,1762,171644,Private ,"Kelly, William Leo ",Can. Mil....,"Kelly, Mrs. Mary ","86 Mitchell Ave . Toronto, Ont ",Canada ..,Toronto ,Aug.,"11, 1915."
-3,486,1759,3684,1791,172226,Private ,"Kent, Albert Henry  ",Nil ,"Spencer, Mrs. Annie.. ","21 Maude Rd., Camberwell, London, Eng....",England..,Toronto ,Aug.,30.1915.
-3,486,1783,3684,1820,172419,Private ,"Kent, William Simpson ",N'il ,"Kent, Mrs. Priscilla ","313 Pacific Ave., Toronto, Ont ",England. .,Toronto  ,Jan.,24.1916.
-3,487,1817,3684,1850,171645,Private ,"Kenyon, Albert ",,"Kenyon, Mrs. Martha Emma. .,","Westlake Ave., Cedarvale, Toronto, Ont ",England..,Toronto ,Aug.,"11, 1^15."
-3,486,1847,3685,1879,171327,Private ,"Kerr, Hayden Douglas ",Can. Mil...,"Kerr, Mrs. Marian ","186 Galley Ave., Toronto, Ont ",Canada...,Toronto ,July,26.1915.
-3,485,1877,3685,1907,171328,Private ,"Kerr, Robert Hamilton ",Nil ,"Kerr, William ","95 Harcourt Ave., Toronto, Ont ",Canada...,Toronto ,Aug.,"12, 1915."
-3,486,1901,3685,1938,171494,Private ,"Kerr, Thomas Davidson ",Nil ,"Kerr, Mrs. Jane ","181 Logan Ave., Toronto, Ont ",Scotland.,Toronto ,Aug.,"9, 1915."
-3,483,1936,3684,1968,669546,Private ,"Keyes, John  ",Nil ,"Cottle, Nellie ","13 Grayton Pk., Highbury, London, N., Eng.",England..,Toronto ,Jan.,"31, 1916."
-3,484,1961,3684,1997,171495,Private ,"Keyworth, William  ",10th Regt.,"Keyworth, Mrs. Eva ","670 Jones Ave., Toronto, Ont ",England..,Toronto ,Aug.,"9, 1915."
-3,484,1994,3684,2027,172223,Private ,"King, Gordon ",Nil ,"King, George Willis ","494 Dur.das St., Toronto, Ont ",CaDada ..,Toronto ,Sept.,"7,1915."
-3,484,2025,3685,2057,172059,Private ,"King, Henry  ",Nil ,"King, Thomas ","Dover, Kent, Eng ",England..,Toronto ,Aug.,14.1915.
-3,484,2054,3684,2086,172220,Private ,"King, William Brice ",Nil ,"King, William Brice ","131 Shanly St., Toronto, Ont  ",Ireland.. .,Toronto ,ept.,"4, 1915."
-3,484,2083,3685,2115,171795,Private ,"King, William John ",Nil ,"King, William ","•55 Pleasant Blvd., Toronto, Ont ",Canada...,Toronto ,Aug.,"13, 1915."
-3,480,2113,3685,2145,669238,Private ,"Kinghorn, John ",Nil ,"Kinghorn, Thomas   ","R.R. No. 3, W'oodville, Ont ",Canada...,Toronto ,Jan.,"29, 1916."
-3,483,2142,3685,2175,171796,Private ,"Kings, James George ",Nil ,"Kings, Harriet   ","2 Westrock, Warwick. Eng ",England..,Toronto ,July,31.1915.
-3,484,2172,3685,2204,171797,L.-Corporal ,"Kirby, Thomas ",Nil ,"Kirby, Mrs. Catherine ","53 Myrtle Ave., Toronto, Ont.  ",Canada ..,Toronto ,Aug.,"17, 1915."
-3,483,2201,3686,2231,171646,Private ,Kirk. Lawrence Frederick ,Nil ,"Kirk, Mrs, Elisabeth ","219 Dundas St., Toronto, Ont ",England..,Toronto ,Aug.,11.1915.
-3,482,2229,3686,2263,172058,Private ,"Knight, Albert ",Nil.,"Knight, Mary Ann ","139 Splott Rd., Cardiff, Wales ",Wales,Niagara Camp.,Sept.,"7, 1915."
-3,482,2260,3686,2293,172221,Private ,"Knight, Harry ",Nil.,"Knight, Mrs. Maria ","Ill Millicent St., Toronto, Ont ",England. .,Toronto  ,Sept.,"1, 1915."
-3,483,2290,3687,2323,17171,Private ,"Koopman, Alfred ",Nil.,"Koopman, Mrs. Emily ","15 Woodlee Rd., Toronto, Ont ",England..,Toronto ,Aug,"17, 1915."
-3,482,2319,3686,2352,172222,Private ,"Kyle, James John ",Nil.,"Scott, John ","357 Resilack St., Moosejaw, Sask ",Scotland.,Toronto ,Sept.,"7, 1915."
-3,482,2349,3686,2381,172369,Private ,La Barge. Joseph Alfred ,Nil.,"La Barge, Mrs. Marie ","Valley field, P.Q ",Canada..,Toronto ,Nov.,"3, 1915."
-3,482,2378,3686,2411,1714961,Private ,"Lackey, David ",Nil.,"Campbell, Mrs. Samuel ","37 Davies Ave., Toronto, Ont ",Canada..,Toronto ,A up.,"4, 1915."
-3,1074,2408,3687,2438,,,,Nil.,"Laidler, Andrew .","Elford, Chathill, Northumberland, Eng ",England..,Toronto ,Aug.,"13, 1915."
-4,572,292,3792,321,172470,Private ,"Laird, John ",Nil ,"Lowe, Mrs. Janet.   ","264 Aird Ave., Montreal, P.Q ",Scotland.,Toronto ,Mar,", 1916."
-4,573,318,3792,347,171498,Private ,"Lamb, David ",Territorials....,"Lamb, Mrs. Georgina ","20 Annfield St., Dundee, Scot ",Scotland.,T or on to   ,Aug,", 1915."
-4,573,344,3792,374,171497,Private ,"Lamb, James ",Imp. Forces. ..,"Lamb, Mrs. Christina. . . .","70 Lewis St., Toronto, Ont ",Scotland.,Toronto ,Aug.,1915.
-4,574,365,3793,404,17 MAH,Bugler   ] *,"Lamb, James Owen ",12 th Regt ,"Lamb, James ","323 Cameron St., Fort William, Ont ",England..,Toronto.   ,July,1915.
-4,574,398,3793,429,171499,Private ,"Langevin, Edmond Francis",Nil ,"Largevin, Mrs. Marie Q...","1289 College St., Toronto, Ont ","Canada..,",Toronto ,Aug.,1915.
-4,575,426,3793,458,172457',Private ,Lappin. Frederick ,Nil   ,"Lappin, Mrs. Annie."" ","1198 DufTerin St., Toronto, Ont ",Canada..,Toronto ,Mar.,1916.
-4,576,454,3794,488,171875,Sergeant ,"Lappin, John ",Territorials ,"Lappin, Mrs. Augusta ","2 Southwell St., Bristol, Eng ",England..,Toronto ,Aug.,1915.
-4,576,482,3795,515,172230,Private ,"Larke, William Stanley....",Nil ,"Larke, Frank William....","Oshawa, Ont ",Canada...,Toronto ,Aug.,1915.
-4,575,512,3794,546,172450,Private ,"Lee, Archibald ",Nil.,"Lee, Mrs. Mary ","8 Weston Rd., Thames Ditton, Surrey,",England..,Toronto ,Feb.,1916.
-4,576,541,3795,576,171501,Private ,"Leonard, Arthur ",Can. Mil ,"Lennard, Mrs. Ettie Maria","212 Queen St. E., Toronto, Ont ",England..,Toronto ,Aug.,1915.
-4,577,572,3795,602,1713J0,Private ,"Leonard, John Alexander...",Nil ,"Leonard, Mrs. Bessie ","70 Blair Ave., Toronto, Ont ",U.S.A....,Toronto ,Aug.,1915.
-4,577,601,3794,634,171649,Private. ,"Lester, Alfred ",Nil ,Lester. Mrs. Catherine ,"454 Main St., E. Toronto, Ont ",England..,Toronto ,Aug.,1915.
-4,577,631,3795,664,171988,Private ,"Lester, William Henry ",Nil ,"Lester, Mrs. Lily ","8 Connaught Ave., Toronto, Ont ",England .,Toronto   ,Aug.,1915.
-4,577,660,3795,693,171332,Private ,"Le Sueur, Charles William .",Chan. Isl. Md.,"Le Sueur, Mrs. Alice ","323 Sumach St., Toronto, Ont ",England..,T oronto ,Aug.,1915.
-4,577,690,3794,723,172013,Private ,"Lickiey, Hugh Mackay....",Nil ,"Lickiey, Mrs. Agnes Fraser","Gravenhurst, Ont ",Scotland.,T oronto  ,Aug.,1915.
-4,577,719,3794,752,172036,Private ,Lind. Kenneth ,Nil ,"Lind, Emma ","Sugarhouse, Low Southampton, Eng. .",England..,1 oronto ,Aug.,1915.
-4,577,749,3794,782,172375,Private ,"Lindsay, Thomas Robert..",Can. Eng ,Lindsay. Mrs. Mary ,"196a Sackvilie St., Toronto, Ont ",Canada ..,[Toronto ,Nov.,1915.
-4,577,778,3794,811,171331,Private ,"Linge, John Arthur ",C.A.M.C ,"Linge, Mrs. Florence Elisa","120 Cheater Ave., Toronto, Ont ",England..,Toronto ,Aug.,1915.
-4,577,808,3794,840,171721,Private ,"Linington, Frank William..",2nd Regt ,"Liningfon, Ernest J ","184 Rushoime Rd., Toronto, Ont ",Canada .,Toronto ,Aug.,1915.
-4,576,837,3794,869,172373,Private ,"Linn, Cyril Verner ",Nil ,"Linn, Mrs. Susie ","11 Dean St., Toronto, Ont ","Canada ,",Toronto  ,Nov.,1915.
-4,577,868,3793,898,171917,Private ,"Linton, Joseph ",Nil..  ,"Linton, Mrs. Thomas ","5 Clara Cres., Bloomfield, Belfast, Ire.",Scotland,T oronto  ,Aug.,1915.
-4,577,897,3793,927,172229,Private. ,"Liacumb, Oscar Albert ",Nil.  ,"Liacumb, Mr  ","22 Canning Ave., Toronto, Ont ",Canada..,Toronto ,Aug.,1915.
-4,576,927,3793,958,172037,Private ,"Liscumb, Tilmen ",2nd Regt ,"Liacumb, Mrs. Mary Elisa","155 Gowac Ave., Todmorden, Toronto,",Canada...,T oronto ,Aug.,1915.
-4,577,956,3793,986,171800,Private ,"Littlewood, Herbert ",Nil ,"Littlewood, Mrs. Elisa ","21 Jesmond Ave., Fairbar.k, Ont ",England..,Toronto ,Aug.,1915.
-4,577,985,3794,1016,171502,Private. ,"Lock, William ",Nil ,"Lock, Mrs. Polly ","76 Water St., Toronto,Ont  ",Canada .,Toronto  ,Aug.,1915.
-4,575,1015,3793,1046,409253,Private ,"Lomas, Ernest ",Nil ,"Lomas, Mrs. Mary Ann...","191 Booth Ave., Toronto, Ont ",Car. ad a,Toronto ,Jan.,1916.
-4,577,1045,3793,1076,172233,Private ,"Long, William Henry ",Nil ,"Long, Charles  ","57 Endean Ave., Toronto. Ont ",England..,Toronto ,Aug.,1915.
-4,577,1074,3793,1103,171802,Pri vafce ,"Lome, Will;.am ",Nil ,"Lonie, Mrs. Ada ","88 Church St., Toronto, Ont ",England .,Toronto  ,July,1915.
-4,577,1104,3793,1133,172234,Private ,"Loose, Thomas   ",Nil ,"Loose, Mrs. Annie ","60 Cumberland St., Toronto, Ont ",England..,Toronto ,Aug.,1915.
-4,578,1132,3793,1163,172065,Private ,"Lowe, David Albert ",12th Regt ,"Lowe, Mrs. Gertrude Harri","88 Ennerdaie Rd., Fair bank, Ont ",England..,Toronto ,July,1915.
-4,577,1162,3793,1194,172231,Private ,"Lowery, Robert Percival..",2nd Regt ,Lowery. John H ,"42 Mountview Ave., Toronto, Ont ",Canada...,Toronto ,Sept.,1915.
-4,577,1188,3793,1222,171503,Pri vate ,"Loso, Frederick ",Can. Mil ,Loso. Mrs. May M ,"138 Ma\ety St., Toronto. Ont ",Canada...,[Toronto  ,Aug.,1915.
-4,578,1220,3792,1249,172387,Private ,"Lumsden, David Low ",Nil ,"Lumsden, Mrs. Grace ..","212 Munro St., Toronto, Ont ",Scotland.,Toronto  ,Dec.,1915.
-4,577,1249,3793,1282,171333,Private ,"Lyford, Henry ",Nil ,Lyford. Mrs. Clara Levina,"19 Woodville Ave., Todmorden, Ont. ..",England..,Toronto ,Aug.,1915.
-4,578,1279,3793,1311,171504,Private ,"Lynn, Robert John ",Nil ,"Lynn, William ","64 Carlaw Ave., Toronto, Ont ",Ireland...,Toronto ,Aug.,1915.
-4,578,1309,3793,1341,172407,Private ,"Lyons, Thomas Robert.,..",29 th Regt ,"Lyons, Mrs. Martha ","Hespeler, Ont..   ",England..,Toronto.......,Jan.,1916.
-4,578,1338,3793,1370,171803,Private ,"Lyons, William Edward. . .",G.G.B.G ,"Lyons, Alfred James ","Hespeler, Ont ",Eng] and,Toronto  ,Aug.,1915.
-4,578,1351,4203,1401,171510,Private ,"Macdonell, George ",Nil ,"Macdonell, Mrs. Sarah ...","74 Bird Ave., Toronto, Ont ",Canada...,Toronto ,Aug.,1915.
-4,578,1396,3792,1428,171264,L.-Sergeant ,"MacGregor, Charles Alexan<i",Nil ,"MacGregor, Mrs. Caroline","158 Bleecker St., Toronto, Ont ",Canada...,Toronto ,Aug.,1915.
-4,577,1425,3792,1455,171342,Private ,"MacKensie, Hector ",Nil ,"M ac Kensie, Donald ",".54 Denton Rd., London, Eng ",Scotland.,Toronto  ,Aug.,1915.
-4,576,1454,3791,1487,65927S,Private ,"Maclam, William James. . .",Nil ,"Maciam, Mrs. Sophia ","52 M''Murray Ave., West Toronto, Ont.",Canada...,Toronto........,Jan.,1916.
-4,577,1483,3792,1516,17180*,Private   ,"Magee, W'illiam ",Nil ,"Magee, Mrs. A ","636 Ontario St., Toronto, Ont ",Canada..,Toronto  ,Aug.,1915.
-4,577,1513,3791,1546,172248,Private  ,"Mahony, Harry ",Nil ,"Mahony, John   ","West Hartlepool, Durham, Eng ",England..,Toronto ,Sept.,1915.
-4,578,1542,3791,1575,172429,Private ,"Mains, Duncan Alexander..",2nd Regt.,"Mains, Mrs. Katherine .. .","39 Marmaduke St., Toronto, Ont ",Caiada...,Toronto ,Jan.,1916.
-4,578,1571,3790,1604,172244,Private . ,"Malcolm, Charles Secor.. .",Nil ,"Malcolm, William ","846 Kingston Rd., Toronto, Ont ",Canada...,Toronto  ,Aug.,", 1915."
-4,578,1600,3789,1634,171505,Private ,"Malcolm, George ",Nil ,"Malcolm, Mrs. Jeannette..","292 Church St., Toronto, Ont ",Scotland.,Toronto ,Aug.,",1915."
-4,578,1630,3790,1661,171805,Private ,"Maniei, Daniel  ",Nil ,Maniei. Mrs. Catherine...,"81 Claremont St., Toronto, Ont ",Canada...,Toronto ,Aug,", 1915."
-4,577,1658,3790,1693,171921,Private ,"Mann, Sylvester ",Nil. ,"Mann, Mrs. Jeannette ","14 Metcalfe St., Toronto, Ont ",Canada ..,*T oronto ,Aug.,", 1915."
-4,575,1688,3790,1722,669704,Private ,Mann. William Henry ,2nd Regt.,"Mann, Mrs. Alice Mary...","2 Rear of 7 Portland St., Toronto, Ont.",England..,T oror to ,Feb.,", 1916."
-4,576,1718,3790,1752,172235,Private   ,Manning. William George..,Nil.,"Manning, Mrs. Alice ","158 St. James Rd., Holloway, London,'",England..,Toronto ,Aug.,1915.
-4,576,1746,3790,1783,171652,Private ,"Mansfield, Harvey George.",12th Regt.,"Mansfield, Mrs. Margaret.","195 Seaton St., Toronto, Ont ",Canada...,'Toronto  ,Aug.,", 1915."
-4,576,1773,3791,1811,171416,"L.-Sergeant., ",Marr. Ainslie  ,10th Regt.,"Marr, Henry ","Station Rd., Turriff, Aberdeen, Scot.,.",Scotland.,Toronto ,Aug.,", 1915."
-4,576,1805,3790,1840,171653,Private ,"Marriotte, Edmund Richard",12th Regt.,"Marriotte, Alfred ","1595 Jackson Blvd., Chicago, 111., U.S.A",Canada...,’Toronto ,Aug.,",1915."
-4,575,1835,3790,1870,172240,Private ,"Marshall, George ",Nil ,"Deamley, Alfred  ","266 Sherbourne St., Toronto, Ont..",England..,oronto  ,Aug.,",1915."
-4,577,1864,3789,1898,171554,Private ,"Marshal!, John Bank.?......",Nil ,"Marsha!!, Mrs. Gwennie...","12 Guest Ave., Toronto, Ont ",Scotland.,Toronto ,Aug.,",1915."
-4,575,1893,3790,1930,171655,Private ,"Martin, George Arthur ",12th Regt.,"Martin, John G ","397 Keele St., Toronto, Ont ",Canada...,Toronto ,Aug.,", 1915."
-4,575,1922,3790,1958,171990,Private ,"Martin, Gordon Matthew..",Nil ,"Martin, Mrs. Mary Jane...","83 Isabella St., Toronto, Ont ",Scotland.,Toronto ,Aug,",1915."
-4,575,1952,3790,1986,171808,Private. ,"Martin, William ",Nil ,"Martin, Louise ","Tullamore, King’s Co., Ire ",Ireland...,Toronto ,Aug.,",1915."
-4,575,1981,3790,2018,172246,Private ,"Marwood, George ",Nil ,"Marwood, Mrs. Mabel....","125 Spruce St., Toronto, Ont ",Ergland..,Toronto ,Aug.,", 1915."
-4,574,2011,3790,2045,172238,Private ,"Mash, John ",Nil ,"Barker, Mrs. Lizsie ","196 Old Fort Rd., Bethnal Green, London, Eng",England..,Toronto ,Aug.,", 1915."
-5,645,627,3159,659,,,,Former Corps.,,,Country of
-5,461,773,3664,811,172236; Private ,,"Mason, Charles ",Nil ,"Mason, Thomas  ","140 .Arundel Ave., Torontd, Ont.",England ,Toronto. . .,Aug.,"17, 1915."
-5,461,804,3664,836,171809! Private ,,"Mason, George Robert ",Nil ,"Mason, Mrs. Louisa ","140 Arundel Ave., Toronto, Ont.",England ,Toronto. ..,Aug.,"14, 1915."
-5,462,833,3663,866,171656! Private ,,"Mason, Sydney Earl ",Nil ,"Mason, Mrs. Maud ","East St., Oadby,-Leicester, Eng",England ,Toronto . .,Aug.,"11, 1915."
-5,461,862,3663,894,172420! Private.. • •,,"Mason, William Charles ",109th Regt,"!Mason, Mrs. Mary ","The Cedar, Watta Rd., Tavistock, Devon",Ireiand ,Toronto ..,Jan.,"24, 1916."
-5,461,892,3663,923,171923! Private ,,"Matthews, Jonas ",Nil ,"'Matthews, Mrs. Rosetta ","23 Gloucester Grove, Fairbank, Ont ",England ,Toronto...,Aug.,7.1915.
-5,462,922,3664,954,172421,Private,"May, Frederick  ",Nil ,"May, Mrs. Bessie ","Trenninick, New Quay, Cornwall, Eng .",England,Toronto..,Jan.,"25, 1916."
-5,461,948,3664,986,171334,Private,"Maylott, Elmer ",Nil ,"|Maylott, Albert.   ",53 Lavina St.. Swansea. Ont . . .,USA ,j Toronto. .,Aug,10.1915.
-5,462,979,3664,1013,171506,Private..,"Maynard, Arthur ",Nil ,"Maynard, Mrs. Ella Laura. ..","26 Frtejam Ave., Mount Dennis,",England ,(Toronto....,Aug.,"7, 1915."
-5,462,1010,3665,1042,171417,Private..,"Me Adam, Robert ",Territorials,"| Me Adam, Mrs. Martha ","105 Ferrier Ave., Toronto, Ont..",Scotland ,I Toronto. .,July,"31, 1915."
-5,461,1040,3664,1070,171509,Private..,"McAllister, James  ",Nil ,"McAllister, Mrs. Isabella ","3a Dawson Ave., Toronto, Ont..",Scotland ,!Toronto ..,Aug.,2.1915.
-5,463,1069,3665,1099,1722561 Private..,,"McAree, Thomas ",Nil ,"McAree, Mrs. Mary Ann ","260 Donegal Rd., Belfast, Ire. . .",Ireland ,.Toronto. ..,Aug.,"24, 1915."
-5,463,1098,3665,1130,171343S Private..,,"McAuley, Alexander ",Nil ,"McAuley, Archibald ","31 Storie St., Paisley, Scot ",Scotland... .,'Toronto. ..,Aug-,"12, 1915."
-5,463,1127,3664,1158,17225-5; Private..,,"McCallum, Ernest Carl ",2nd Regt,"McCallum, Peter James ","44 Dupont St., Toronto. Ont. . . .",Canada ,j Toronto,Sept.,"9, 1915."
-5,463,1156,3664,1189,1715731 Sergeant,,"McCarthy, Ernest Joseph. . .",12th Regt,"McCarthy, Daniel ","32 Fisher St., Toronto. Ont ....",Canada ,iToronto. ..,July,16.1915.
-5,463,1186,3665,1217,172257: Private ,,"McClive, John Charles ",Nil ,"McClive, Mrs. Elizabeth ","143 Spruce St., Toronto, Ont . .",Canada,(Toronto. ..,Aug-,31. 1915.
-5,464,1214,3665,1249,17l252lCo. Q.-M. Se,,"McCollum, Charles Scadding",2nd Regt,"I Kyle, Mrs. C. E ","Lonsdale Apts., 619 Avenue Rd., Toronto",Canada ,'Toronto. . .,Aug.,"28, 1915."
-5,463,1243,3664,1277,171651-Private,,"McCoy, Melvin Charles.",Nil ,"| McCoy, George ","Freelton, Ont ",C anad a ,iToronto. ..,July,"16, 1915."
-5,462,1268,3665,1311,171662,Private...,"Me Cron, George William",DC,M,12th Regt,"jMcCron, Mrs. Eliza ","16 Wayland Ave., Toronto, Ont ",Canada ,; Toronto ..,Aug.,"11, 1915."
-5,460,1303,3665,1336,172388,Private...,"McCrone, Hugh ",Nil ,"I McCrone, Mrs. Annie ","j89 Broadview Ave., Toronto, Ont ",Scotland ,•Toronto. ..,Nov.,"30, 1915."
-5,461,1333,3665,1369,171255,Sergeant.,"McCullagh, William ",Nil ,"j McCullagh, Alexander........","19 Golden Ave., Toronto, Ont ",Ireland ,Toronto . .,Aug.,"12, 1915."
-5,462,1361,3666,1397,172252,Private ..,McCutcheon. John  ,Nil ,"j McCutcheon, Mrs. Christina. .","755 Lansdowr.e Ave., Toronto, Ont ",Scotland ,[Toronto. . .,Aug.,"21, 1915."
-5,462,1386,3665,1424,171344,Private...,"McDonald, John Joseph ",,"Tewbart, Mary ","270 Maria St., Toronto, Ont ",England ,j Toronto .,Aug.,"12, 1915."
-5,462,1421,3666,1455,171575,Sergeant,"McDonald, Robert Hamilton",Nil ,McDonald. Mrs. Elizabeth —,"Dunlargue, Keady. Co. .Armagh, Ire... .",Ireland ,", Toronto. . .",Aug.,"11, 1915."
-5,462,1450,3665,1483,171663,Private...,"Me Dougall, William ",Imp. Forces,"Me Dougall, Mrs. Mary ","7 Waacana Ave., Toronto, Ont ",Scotland .,(Toronto. .,Aug.,11. 1915.
-5,464,1480,3665,1512,171345,Corporal,"McGarry, James ",Territorials.,"McGarry, Mrs. Alice ","285 Augusta Ave., Toronto, Ont ",Scotland ,Toronto . .,Aug.,"10, 1915."
-5,461,1509,3666,1541,609265,Private.,"McGowan, George Frederick.",Nil ,"McGowan, Mrs. Ellen ","91 Kenneth Ave., Toronto, Ont ",Canada ,Toronto ..,Jan.,12.1916.
-5,464,1538,3665,1569,172382,Private.,"McGowan, James Ernest ",Nil ,"McGowan, Miss Mary ","123 Bartlett Ave., Toronto, Ont ",Canada ,Toronto ..,Nov.,"18, 1915."
-5,464,1567,3665,1597,171991,Private.,"McGowan, Matthew ",Nil ,McGowan. Mrs. Mabel ,"251 Gerrard St. E., Toronto, Ont ",Canada ,Toronto. ..,July,"19, 1915."
-5,464,1596,3665,1633,171.511,. Corporal,"McGuffin, Richard ",10th Regt,McGuffin. James—  ,"251 Pape Ave., Toronto, Ont ",Ireland ,jToronto ..,Aug.,"13, 1915."
-5,463,1626,3666,1662,172233,1 Private...,"McIntosh, John ^awson ",Nil ,"McIntosh, Mrs. Jennie ","126 Northcote Ave., Toronto, Ont ",Scotland ,j Toronto. . .,Aug.,20.1915.
-5,465,1655,3666,1688,171512,Private...,"McIntyre, William  ",Nil ,"McIntyre, Miss Maggie ","Billericay, Essex. Eng ",Scotland ,Toronto. ..,Aug.,"7, 1915."
-5,464,1684,3667,1718,171346,"Private..,","McKay, Geoffce Leslie ",Nil ,"McKay, Alexander ","517 Gladstone Ave., Toronto, Ont ",Canada ,JToronto. .,Aug.,"12, 1915."
-5,465,1713,3667,1745,172258,! Private..,Me Kendrick. Arthur William,Nil ,"Me Kendrick, Roy ","196 Sackville St., Toronto, Ont ",Canada ,I Toronto . .,Aug.,"16, 1915."
-5,464,1741,3666,1779,1724311 Private..,,"McKenzie, Albert Victor ",Nil ,"McKenzie, F’rank  ","|88 Hamilton St., Toronto, Ont ",Canada,jToronto. ..,Feb.,"2, 1916."
-5,465,1771,3666,1810,172023)Private..,,"McKenzie, Seecil Edmund.. .",10th Regt.,"McKenzie, Mrs. Sarah Elizabe","13 St. David’s PI., Toronto, Ont ",i Canada ,i Niagara Ca,Sept.,"7, 1915."
-5,464,1802,3666,1839,171513 Private..,,"Me Knight, John ",Nil ,"McKnight, Mrs. Maggie ","215 Ontario St.. Toronto, Ont ",jCanada ,Toronto.. .,Aug.,"7, 1915."
-5,463,1831,3666,1868,171815) Private .,,"Me Knight, Robert ",2nd Regt.,"Me Knight, Mrs. Luelia ","351 Markham St., Toronto, Ont ",■Canada ,jToronto. ..,Aug.,"14, 1915."
-5,461,1860,3666,1895,669338 Private...,,"McLachlan, Guy Henry Rufus",Nil ,McLachlan. Mrs. Ada ,"Ma^netawan, Ont r ",jCanada ,Toronto . .,Feb.,23. 1916.
-5,464,1890,3667,1922,172254,Private .,"McLeod, Hprbert Milton ",Nil ,"McLeod, John Daniel ","Flcsherton, Ont ",Canada ,| Toronto. ..,Sept.,"1, 1915."
-5,464,1919,3665,1952,171919,Private..,"McMullen, William ",Nil ,"McMullen, Mrs. Helen ","28 Peel St., Preston, Lancs, Eng ",England ....,jToronto...,Aug.,"14, 1915."
-5,465,1950,3667,1981,171665,Private..,"McNamara, William ",Nil ,"McNamara, Mrs. Eliza ","151 Weston St., Bolton, Lancs, Eng ",England ,I Toronto. ..,Aug.,"11, 1915."
-5,463,1975,3666,2013,172451,Private..,"McNaughton, Harold Harry",Nil,"McNaughton, Mrs. Mary ","256 Lippincott St., Toronto, Ont ",Canada ,jToronto. . .,Jan.,17.1916.
-5,464,2008,3666,2042,171514,Private..,"McNay, Arthur ",Imp. Forces,"McNay, Mrs. Esther ","30 Rhodes Ave., Toronto, Ont ",England,(Toronto .,July,31. 1915.
-5,461,2039,3667,2070,669275,Private..,McNeil. Joseph Addison. ...,Nil ,McNeil. James  ,"Eimsdale, Prince, P.E.I ",Canada  ,i Toronto .,Jan.,"26, 1916."
-5,464,2065,3667,2104,171920,Private,"McPhail, George Milne ",Nil ,"McPhail, Mrs. Grace F ","3 Lambton Ave., Mount Dennis, Ont ....",Scotland ,[Toronto. ..,Aug.,"14, 1915."
-5,464,2097,3667,2132,171349,Private,"McQueen, Robert ",Nil ,"McQueen, Mrs. Janet ","33 Glasgow St., Maxwelltown, Dumfries,",Scotland  ,jToronto. .,Aug.,"12,1915."
-5,461,2127,3667,2161,669631,Private.,"McWilliams, Dennis Royal. .",Nil ,"McWilliams, Mrs. Edith Ethel","54 Salisbury Ave., Toronto, Ont ",England.,iToronto,Feb.,"9, 1916."
-5,464,2157,3667,2191,171507,Private..,Melross. James Percy ,Nil ,Heath Mrs. Jennie  ,"305 Sackville St., Toronto, Ont  ",Canada ,• Toronto .,i Aug.,"11, 1915."
-5,464,2180,3668,2218,172391 Private,,"Meredith, Elmore Lear ",Nil ,"Meredith, Mrs. Irene ","8 Badgerow Ave., Toronto, Ont ",Canada .,‘Toronto,1 Dec.,"6, 1915."
-6,501,381,3720,408,172247t Pri vat?.,,!Merrick. George Ernest.,Nil..,"Merrick, Mrs. Myrtle ","692 Bathurst St., Toronto, Ont ",Canada .*. . .,Toronto ,Sept.,8. 1915-
-6,502,405,3714,440,172239 Private.,,"jMildenhall, Cecil John..",Nil..,"jMildenhall, Mrs. Beatrice Madge","47^4 Blake St., Toronto, Ont ",England ,T oronto ,Aug.,"18, 1915."
-6,503,434,3714,466,171335,Private.,"I Miller, Irving Henry....",Nil..,"IMiller, Mrs. Caroline ","106 Bastedo Ave., Toronto, Ont ",Canada. * ,T oronto  ,Aug-,12.1915.
-6,504,460,3715,499,172237,Private ,"|Miller, Wilfred..... ",Nil..,"Muff, Ethel ","Ballscourt Cottage, 2H Beilwoods Pk., Toronto,",England ,Toronto ,Aug.,24.1915.
-6,503,488,3715,520,172259,Private ,"Mills, Charles William .",Nil..,"Mills, Sydney ","5 Seafield Terr., Portsmouth, Hants, Eng",England. .  ,Toronto.    ,Aug.,23.1915.
-6,505,515,3715,550,172050,Private ,"!Mills, Harry Ernest . . .",Nil..,"Mills, Mrs. Emily Jane. . . .","'403 Gerrard St., Toronto, Ont ",England ,Toronto........,Aug.,"12, 1915."
-6,505,545,3716,581,171420,"Corporal. . ,","I Milne, David Smith....",48th Regt,"Milne, Mrs. Ellen ","Kirriemuir, Forfar, Scot ",Scotland ,T oronto ,Aug.,7.1915.
-6,504,574,3716,615,172038,Private ,"j Milne, George Cecil ",C.A.M.C.,"Moses, Mrs. Lillian ","7 Logan Ave., Todmorden, Ont ",Canada ,Niagara Camp.,Sept.,7.1915.
-6,506,603,3717,637,171925! Private ,,"I Minor, Arthur ",Nil ,"Minor, Mrs. Mary ","Rr. of 31 Duche.-s St., Toronto, Ont ",Canada ,Toronto ,Aug.,"2, 1915."
-6,505,632,3718,672,171508! Private ,,"|Minter, Ernest John ",Territorials,"Minter, Mrs. Esther E ","65 Bolton Ave., Toronto, Ont ",England ,Toronto........,Aug.,"9, 1915."
-6,505,660,3718,697,1720661 Private.,,"|Mitchell, Albert Edward",Nil ,"Mitchell, Robert W ","c;o Mrs. Lawrence, 405 Carlton St., Toronto, Ont",Ireland ,Niagara Caro p.,Sept.,"7, 1915."
-6,505,690,3718,724,171926,Private ,"Mitchell, Albert Victor.",Nil ,"Mitchell, Mrs. Clara Jessie","141 Argyle St., Toronto, Ont ",England ,Toronto  ,Aug.,14.1915.
-6,505,716,3718,755,1716.57,Private ,,DCW,"Mitchell, George ",12th Regt,"Mitchell, George  ","San Remo, Italy ",! England ,Toronto........,July,"16, 1915."
-6,505,748,3719,782,171658,1 Private ,"Mitchell, W'iliiam Chambers",. Nil ,"Mitchell, Mrs. Jennie ","108 Barton Ave., Toronto, Ont ",'Canada ,Toronto........,Aug.,11.1915.
-6,505,778,3718,814,171811,Private ,"Moloney, Joseph William",. Nil ,"Moloney, John Joseph ","13 Sheridan Ave., Toronto, Ont ",Canada ,Toronto........,Aug.,"17, 1915."
-6,504,807,3718,849,171977; Sergeant ,,"Montgomery, Albert Andrew",. 2nd Res;t.,"Montgomery, Mrs. Elizabeth","152 Pearson Ave., Toronto, Ont ",Canada ,Toronto ,Aug.,"14, 1915."
-6,505,837,3718,875,171413;Sergeant....,,"Montgomery, Clarence ",. Can. Mil..,"Montgomery, Mrs. Martha..","130 Galt Ave., Toronto, Ont. ",Canada ,Toronto ,Aug.,7.1915.
-6,506,866,3718,902,171660' Private ,,"Montgomery, John ",. 12th Regt.,"Montgomery, Mrs. Ann ","120 Bank St., Alexandria, Dumbarton, Scot",Scotland,T oronto ,July,16.1915.
-6,505,896,3718,931,163637! Private ,,"Montgomery, Robert ",. Imp. Force,"Montgomery, Mrs. Ellen....","103 Marlborough Ave., Toronto, Ont ",Ireland ,Toronto ,Aug.,"10, 1915."
-6,505,926,3718,964,172242j Private ,,"|Moore, Charles Christopher",. Nil ,"Moore, Mrs. Isabella ","11 Mark St., Toronto, Ont. ",Canada ,Toronto ,Aug.,17.1915.
-6,502,955,3717,997,201233j Private ,,"I Moore, Edgar Cosgrove ",Nil ,"■Moore, George H ","59 Woodlawn Ave., Toronto, Ont ",Canada ,Toronto ,Oct.,"19, 1915."
-6,505,981,3716,1023,1722431 Private ,,,MW,"j Moore, George Herbert ",Nil ,"|Moore, George  ","|59 Woodlawn Ave.. Toronto, Ont ",'Canada   .,Toronto ,Sept.,"8, 1915."
-6,505,1011,3716,1059,171968;Sergeant ,,"j Moore, Robert Edward E .",2nd Regt.,"Moore, Mrs. Mary Priscilla","! 19 Boustead Ave., Toronto, Ont ",ICanada ,Toronto ,jAug.,"18, 1915."
-6,505,1041,3717,1083,172006 ‘ Private ,,"[Morgan, Alexander Stewart.",12th Regt,"(Morgan, Mrs. Frances Maud.","|5 Bellw'oods Ave., Toronto, Ont ",'Canada ,Toronto ,July,"16, 1915."
-6,504,1073,3716,1108,172245-Private ,,"Morrall, Oswald Boyd ",Nil ,"Morrall, Percy ","j Port Credit, Ont ",Canada ,Toronto. ......,;Aug.,"23, 1915."
-6,503,1099,3716,1141,172422; Private ,,"j Morrison, William Lister ",Nil ,"Morrison, Mrs. Hilda ","Il09 Bond St., Toronto, Ont ",Canada ,T oronto ,'Jan.,"24, 1916."
-6,503,1132,3717,1168,171313; Private ,,"I Morton, Frederick ",Nil ,"Dunlop, Mrs. Elizabeth ","|61 Furley St., Peckham, London, Eng. ...",England ,Toronto ,! Aug-,13.1915.
-6,502,1160,3717,1204,171339* Private ,,iMountain. Charles ,j-N'il ,Mountain. Thomas  ,"65 Claremont St., Toronto, Ont ",; England........,Toronto ,’Aug.,"12, 1915."
-6,503,1191,3716,1227,172249 Private ,,"i Moylan, Edward Joseph. ...",Nil ,"I Moylan, Mrs. Florence ",";7 Markham PI., Toronto, Ont ",jCanada ,Toronto ,iSept.,4.1915.
-6,500,1220,3717,1251,669295: Private ,,"Mulholland, Charles ",Nil ,M u 1 hoi 1 and. And re w ,"136 Rossendale Rd., Pollokshaws, Glasgow",‘Scotland ,Toronto ,;Jan.,"19, 1916."
-6,502,1250,3717,1283,172262 Private ,,"Murdock, Robert ",Nil ,Murdock. Mrs. Margaret... .,"1130 De Grassi St., Toronto, Ont ",'Canada  ,Toronto.  ,Aug.,26.1915.
-6,503,1280,3716,1314,171341 Private ,,"Murphy, Edward Philip. ...",Nil ,"Murphy, Mrs. Canigan ","|2 Sultan St., Toronto, Ont ",Canada ,Toronto ,July,"25, 1915."
-6,503,1307,3716,1344,171340 Private ,,"Murphy, Henry.. ",’Nil ,"Murphy, Jack ",[Not stated ,England ,Toronto... . . .,I Aug.,12.1915.
-6,503,1338,3716,1373,172030 Private ,,Murray. James Watson ,j Territorials,"'Murray, Mrs. James W ",": 15 Markham FI., Toronto, Ont ",'Scotland ,Toronto ,. j A pril,"5, 1915."
-6,503,1364,3716,1402,172241 Private ,,"Murray, John ",Nil ,"Murray, Mrs. Ellen  ","'285 Sackville St., Toronto, Ont ",Canada ,Toronto ,Aug.,16. 1915.
-6,503,1398,3716,1432,172014 Private ,,"Murray, Osmond La Verne.",!12rh Regt,"Murray, William Henry ","P.O. Box 2, Goderich, Ont ",i Canada ,Toronto........,Julv,16.1915.
-6,500,1425,3715,1461,"669635, Private ",,"Myers, Stewart ",M,Nil ,Mvers. Charles Theodore...,"13 Reginald St., Hamilton, Ont ",Canada  ,Toronto ,. jFeb.,7. 1916.
-6,503,1452,3715,1490,171816; Private ,,"Nash, Alfred Ernest",,"Nash, Mrs. Laura  ","jcjo Ed. Fierheller, R.R. No. 2, Gormley, Ont",England ,Toronto ,Aug.,"16, 1915."
-6,503,1486,3715,1521,171515 Private ,,"Neil, Robert ",| Nil ,"!Neil, Mrs. Agnes ",": 146 Cawthra Ave., Toronto, Ont ",Scotland ,Toronto ,Aug.,"11, 1915."
-6,503,1515,3715,1551,1720671 Private ,,"Neill, Thomas ",Nil ,"Neill, Mrs. Sarah ","61 Bright St., Belfast, Ire ",Ireland ,Niagara ......,.Aug.,"31, 1915."
-6,502,1545,3715,1580,171819! Private ,,"Neligan, John ",| Nil ,"Fogarty, Mrs. F ","82 Barton Ave., Toronto, Ont ",Canada ,Toronto ,Aug.,17.1915.
-6,504,1574,3714,1607,17 IS IS- L.-Corporal,,Nelson. Wellington..,Nil ,"Nelson, D. H ","Aurora, Ont   ",Canada ,Toronto. ......,■Aug.,"17, 1915."
-6,503,1600,3714,1640,17LSI7 Private ,,"; Nelson, William",■Nil ,"Nelson, Mrs. Ellen ","|S Vivian St., Toronto, Ont   ",Scotland ,Toronto ,Aug.,"13, 1915."
-6,503,1633,3714,1673,133248'Private....,,"j Newman, William..",'9th Horse,"Newman, Mrs. Susan  ","26 Hastings Ave., Toronto, Ont   ",England ,Toronto ,■July,"22, 1915."
-6,504,1663,3714,1696,171351 Private ,,"jNicholls, Arthur Harold...",Nil ,Nicholls. Mrs. Kate ,">45 Teignmouth Ave., Earlscourt, Toronto,",England ,,;auk.,"12, 1915."
-6,504,1692,3713,1725,17234$ L.-Corporal,,"i Nicholls, George Laclare. .",12nd Regt.,Nicholls. Edward Richard,"175 Ritchie Ave., Toronto, Ont ",Canada ,T oronto  ,;f-'ept.,"24, 1915."
-6,504,1721,3713,1758,172081 Private ,,"} Nicholson, Alfred ",j Territorials,"Nicholson, Mrs. Harriet.. .","! 162 Li3gar St., Toronto, Ont ",England ,Toronto ,i Aug.,17. 1915.
-6,484,1751,3713,1787,-i 72263: Private ,,| Nicholson. WiLHara ,j Nil..,"Nicholson, Mrs. Margaret...",";208 Danforth Ave., Toronto, Ont ",England ,Toronto. . ,Sept.,3.1915.
-6,146,1778,3713,1816,171563!Co. Sergt.-a,,"Nightingale, Ernest Frederick",Imp. Force,"Nightingale, Mrs. Eliza Han","112 Grove Ave., Toronto, Ont ",i England ,,|July,16.1915.
-6,503,1809,3713,1850,172418'Private ,,"Niven, Robert ",jNil ,"McDonald, Mr  ","113 Mechanics Ave., Toronto, Ont ",,T oronto ,Jan.,25.1916.
-6,500,1835,3714,1875,669302 Private ,,"Noad, James Samuel ",Nil ,"Noad, Mrs. Sadie ","jc|o A. E. Noad, Olds, Alta ",Canada ,Toronto ,[Jan.,13.1916.
-6,502,1868,3714,1902,1722651 Private ,,"Noble, George Ferguson. .",! Nil ,"Noble, Mrs. Olive ","49 Victoria Park Ave., Toronto, Ont ",Canada ,Toronto ,Aug.,"30, 1915."
-6,499,1897,3714,1930,6693051 Private ,,Norman. William Charles,;2nd Regt,"Norman, Mrs. Emma Jane..","IClarks Beach, Conception Bay, Nfld ",Newfoundland .,Toronto ,. Jan.,"25, 1916."
-6,502,1925,3714,1959,171928 Private ,,"Nutter, Ernest ",,"Hind, Annie ","!850 Eastern Ave., Toronto, Ont ",Canada ,Toronto ,Aug.,7.1915.
-6,501,1956,3713,1990,171665 Private ,,"Oakes, Frederick ",; 12th Regt,"Morley, Mrs ","j 17 Townsend St., Old Kent Rd., London, Eng",England ,Toronto ,! Aug.,10.1915.
-6,501,1986,3714,2019,172269 Private ...,,"Oakes, John ",Territorials,Oakes. Mrs. Mary ,";P.O. Box 306, Burlington, Ont.  ",England ,T oronto ,iSept.,1.1915.
-6,501,2015,3714,2050,171667 Private .,,"Oat ley, Herbert Frank. . .",i Nil ,"Oatley, Mrs. Edith ","Springfield Cottage, Potterne, Wilts, Eng",.England. .......,Toronto ,jAug.,"11, 1915."
-6,502,2044,3714,2085,171353 Private....,,"O'Brien, Charles ",i Nii ,O'Brien. Mrs. Margaret ,"i356 Wellesley St., Toronto, Ont ",Canada  ,Toronto ,jAug.,12.1915.
-6,500,2074,3713,2106,171822 Private ,,"O’Brien, William Glen....",Nil ,"O’Brien, Mrs. Helen ","38 rear Cornwall St., Toronto. Ont ",U.S.A ,Toronto ,.Aug.,"14, 1915."
-6,500,2103,2998,2142,172347.Sergeant...,,"O’Donovan, Frederick Trevanion",Nil. ,Fox. Mrs. M. E ,"Jc/o F. C. Snider, Imperial Bank Bldgs., Yonge and"
-6,2204,2131,3710,2165,,,,,,"■ Queeu Sts., Toronto, Ont ",Canada.,. Niagai,..'Sept. 8.1915.
-7,708,622,3229,665,,,,Former Corps.,,,Country of
-7,522,769,3730,813,171823,Private ,"Oldham, Alexander  ",Nil ,"Oldham, Mra. Maud ","319 Kenilworth Ave,, Toronto, Ont ",England ...,Toronto...,Aug. 17,", 1915."
-7,523,799,3730,843,172516,Private ,"Oliphant, John ",Imp. Forces ,"Oliphant, Mrs. Jeanne ","165 Renhotd Ave., Toronto, Ont ",Scotland. . .,Toronto.. .,July 31.,", 1915."
-7,522,829,3730,871,171993,L.-Corpora! ,"Oliver, Arthur Stanley ",Nil ,"Oliver, Mrs- France* ","150 Pearson Ave., Toronto, Ont ",Canada ,Toronto...,"Aug. 13,",", 1915."
-7,521,859,3729,900,171517,Private ,"Oliver, James ",Nil ,"Oliver, Mrs. Phoebe ","4 Battenbcrg Ave., Toronto, Ont ",Canada ....,Toronto...,"July 31,",", 1915."
-7,523,888,3729,930,171930,Private ,"Oram, Edward John........",Nil ,"Oram, Mrs. Margaret ","101 Marlborough Ave., Toronto, Ont ",England.. ..,Toronto.. .,"July 31,",", 1915."
-7,520,917,3729,959,171931,Private ,"Oram, Frederick William.,",Nil ,"Oram, Mrs. Margaret ","101 Marlborough Ave., Toronto, Ont....",Lr.giand. „..,Toronto...,"July 31,",", 1W1.5."
-7,521,947,3729,988,17226-S,Corporal ,"Orchard, William Charles.",2nd Regt ,"Orchard, Oriando ","36 Redwood Ave., Toronto, Ont. .",Canada.. ..,Toronto.. .,"Sept. 3,",", 1915."
-7,520,976,3730,1016,171668,Private ,"Ormerod, Arthur ",S. A ,"Ormerod, Mrs. Elizabeth Hannah","108 Empress Cres., Toronto, Ont..",England....,Toronto...,"Aug. 1!,",.1915.
-7,517,1005,3729,1044,725141,Private ,"Ormerod, James ",Nil ,"Ormerod, Arthur ","108 Empress Cres., Toronto, Ont..",England....,Lindsay...,"Jan. 13,",", 1916."
-7,519,1035,3729,1074,172270,Private ,"Osbourne, Arthur ",Nil ,"Osbourne, Charles ","50 Stephanie St., Toronto, Ont....",('anada ,Toronto...,"Sept. 8,",. 1915.
-7,519,1065,3729,1104,172267,Private ,Osmond. Clifford John. ...,Nil ,"Osmond, Thomas John ","Newtown, Parkstone, Dorset. Eng",England....,Toronto...,"Sept. 7,",", 1915."
-7,519,1094,3729,1132,171994,Private ,"Page, Albert John William.",S.A ,"Page, Mrs. Sarah ","107 Erskine Ave., Toronto, Ont. ..",England ,Toronto...,"Aug. 13,",", 1915."
-7,519,1123,3728,1161,171354,Private ,"Painting, Percy Howard...",Nil ,"Painting, Mrs. Frances Elisabeth.","1 Call an PL, Toronto, Ont ",England ,Toronto...,"Aug. 12,",", 1915,"
-7,519,1153,3729,1190,171518,Private ,"Palmer, Edward Archibald",Nil ,"Palmer, Mrs. Annie ","P.O. Box S64, Cobourg, Ont ",C ar.ad a...,Toronto.. .,"Aug. 3,",", 1915."
-7,519,1182,3728,1220,172272,Private ,"Palmer, William John ",Nil ,"Palmer, Mrs. Mary ","611^ Queen St. W\, Toronto, Ont.",Ireland ,Toronto...,"Aug. 19,",", 1915."
-7,518,1211,3727,1248,171932,Private ,"Pape, Harold ",Nil ,"Pape, Mrs Mary.   ","120 Logan Ave., Toronto, Ont ",England.. .,"Toronto ,.","Aug. 7,",", 1915."
-7,518,1241,3728,1277,172028,Private ,"Paris, John   ",Nil ,"Paris, Ada Edith ","1025 Queen St. E., Toronto, Ont...",England.. „.,Toronto...,"Aug. 14,",", 1915."
-7,518,1270,3728,1306,172281,Private ,"Parker, John William ",Nil ,"Little, Mrs. Sarah.  ","P.O. Box 54, Brampton, Ont ","England..,.",Toronto...,"Sept. 7,",1915.
-7,518,1299,3728,1335,171355,Private ,"Parker, Thorold Bruce... .",Nil ,"Parker, Mrs. Marie Elizabeth..","Coleman, East Toronto, Ont ",England.. ..,Toronto...,"Aug. 12,",1915.
-7,518,1328,3727,1364,171356,Private ,"Parkes, Waiter ",Nil ,"Parkes, Mrs. Elizabeth ","73 Uxbridge Ave., Toronto, Ont,..",England ,Toronto...,"Aug. 12,",1915.
-7,518,1358,3727,1393,171519,Private ,"Parkin, Ernest William....",NU ,"Parkin, Emanuel ","73 Morley Ave., Toronto, Ont ",Canada ,Toronto...,"Aug. 7,",1915.
-7,516,1388,3727,1421,669326,Private ,"Parnegi, William James ",Nil ,"Sutherland, William John ","Cookstown, Ont ",Russia ,Toronto...,"Jan. 19,",1916.
-7,518,1416,3727,1451,171933,Private ,"Parrington, Joseph.  ",NU ,"Farrington, Mrs. Helen ","158 Sackville St., Toronto, Ont.. .",Canada ,Toronto...,"Aug. 9,",1915.
-7,516,1446,3727,1481,171520,Private ,"Parsonson, Nelson Harry..",Nil ,"Parsonson, George ","Boston Ave., Toronto, Ont ",Canada  ,Toronto ..,"Aug. 4,",1915.
-7,518,1476,3726,1512,172271,Corporal ,"Paterson, George Clelaad..",2nd Regt ,"Paterson, Andrew ","Lanark, Scot ",Scotland. .,jToronto. . .,"Aug 24,",1915.
-7,517,1505,3726,1539,172068,Private ,"Patmore, Walter Edwia,..",Nil ,"Patmore, Walter James ","533 Eastern Ave., Toronto, Ont...",England.. ..,"Toronto.,.","July 3!,",1915.
-7,517,1534,3726,1568,171966,Private ,"Patten, William Hinde.....",NU ,"Patten, William James.   ","36 Chambers Rd., Soathport, Lanes, Eng",England.. ..,Toronto...,"Aug. 17,",1915.
-7,517,1564,3726,1597,171995,Private.   ,"Patterson, Harold Kenneth",10th Regt ,"Patterson, G W ","60 Arundel Ave., Toronto, Ont...",Canada ,Toronto...,"Aug. 18,",1915.
-7,518,1593,3726,1626,171581,Sergeant ,"Patterson, William ",Can. Eng ,"Patterson, Mrs. Margaret  ","17 Duke St., Newcastle-on-Tyne, Eng",England ,Toronto. ..,"July 16,",1915.
-7,515,1623,3726,1653,669319,Private ,"Paviowsky, Jacob ",Nil ,"Paviowsky, Nicholas ","Govt, of Podolsk, Russia ",Russia ,Toronto...,"Jan. 14,",1916.
-7,515,1652,3726,1684,670070,Private ... ......,"Paxtoa, Samuel ",N'U ,"Paxton, Mrs. Esther ","162H Sydenham St., Toronto, Ont",Ireland,Toronto...,"April 8,",1916.
-7,518,1682,3727,1713,171934,Private ,"Payne, Charles Ronald....",Nil ,"Payne, Mrs. Johanna ","Humber Bay, Ont ",Canada ,Toronto...,"Aug. 14,",1915.
-7,517,1711,3726,1741,172427,Private ,"Payne, Edward ",Nil ,"Payne, Mrs. Mary ","47 Waverley Rd., Toronto, Ont...",England.„...,Toronto...,"Feb. 1,",1916.
-7,518,1741,3725,1771,172274,Private ,"Payne, John Eldred ",Nil ,"Payne, Mrs. L ","60 Belmont St., Toronto, Ont ",England....,Toronto...,"Sept. 2,",1915.
-7,517,1770,3725,1800,171670,Private ,"Payne, Wilfred William ",C.A.M.C ,"Payne, Mrs. Agnes ","Moutray St., Toronto, Ont ",England . ..,Toronto. ..,"Aug. 11,",1915.
-7,518,1799,3725,1830,171935,Private ,"Pearce, Robert John ",Nil ,"Pearce, Miss Ethel ","23 Charles St., Blue Town, Sheerne",England,Toronto ..,"Aug. 14,",1915.
-7,517,1828,3725,1859,172277,Private ,"Pearson, David ",Nil ,"Pearson, Robert . ","5 Fife-end, Kinross, Fife, Scot ",Scotland. . .,Toronto...,"Aug. 20,",1915.
-7,517,1858,3724,1887,171937,Private ,"Peck, Arthur Edward ",Territorials ,"Peck, Mrs. Edith Esther ","Ill Snowdon Ave., Toronto, Ont..",England ,Toronto. ..,"Aug. 7,",1915.
-7,517,1888,3723,1918,172276,"Pt""1 va fit",,,"Pellow, Mrs. Sarah  ","Whitby, Ont ",Canada ,Toronto...,"Aug. 27,",1915.
-7,518,1917,3723,1948,171672,Private   ,"Penfound, Victor Frederick",12th Regt ,"Penfound, Mrs. Nellie ","159 Pape Ave., Toronto, Ont ",Canada ,Toronto...,"Aug. 11,",1615.
-7,518,1939,3722,1978,172010,Private ,"Penstone, Harold Reginald",NTi! ,"Penstone, Harold J ","14S Major St., Toronto, Ont ",Canada ,Toronto. ..,"July 31,",1915.
-7,517,1976,3722,2006,172374,Private ,"Pentney, Charles Henry...",Nil ,"Pentney, Mrs. Eliza Jane  ","419 Danforth Ave., Toronto, Ont..",England. . „.,Toronto ..,"Nov. 8,",1915.
-7,517,2005,3722,2036,171521,Private ,"Perks, Thomas William. . .",N'U ,"Perks, Mrs. Esther ","113 Heward Ave., Toronto, Ont...",England ,Toronto. ..,"Aug. 9,",1915.
-7,517,2035,3722,2065,172069,Private ,"Perrett, Owen ",NU...,"Perrett, Mrs. Maria Pomeroy..","133 Van Horne St., Toronto, Ont..",England ,Niagara Ca,"Sept. 7,",1915.
-7,514,2064,3722,2093,669648,Private. ,"Peterson, Alexander ",Nil ,Peterson. Mrs. Bessie ,"15 Muir Ave., Toronto, Ont ",England....,Toronto...,"Feb. 7,",1916.
-7,516,2093,3722,2124,172011,Private ,"Petherbridge, Frederick Ch",NU ,"Petherbridge, Mrs. Elizabeth..","58 Gamble Ave., Todmorv:en, Ont",England.....,Toronto...,"Aug. 14,",1915.
-7,516,2123,3722,2152,172409,Private ,"Pett, Albert ",Nil ,"Jamieson, Mrs. Rose ","137 Bleecker St., Toronto, Ont....",Canada ,Toronto...,"Jan. 4,",1916.
-7,515,2152,3722,2183,1713.58,Private ,"Pettitt, Albert ",NU ,"Pettitt, Mrs. Elizabeth ","23 Millicent Ave., Toronto, Ont...",England . „.,Toronto...,"Aug. 10,",1915.
-7,516,2182,3722,2214,171938,Private ,"Philip, C -orge.  ",NU ,"Philip, Mrs. Mary B ","226 Crawford St., Toronto, Ont. ..",Scotland „ .,Toronto...,"Aug. %t,",1915.
-8,519,455,3727,493,,171523,Private..,"Philip, Jam am ",Imp. Forcer. .,"Philip, Mrs. Eli*abHh   ","107 Loea» Ave., Toronto. 0«t.,,.,*.. ,* ,,. „..»v*»»",,,|A«*.,"7,1*15."
-8,520,481,3726,519,,171422,Private..,"Philp, Georsje.   ",Nil ,"Philp, Mn. Margaret ","181 AshdaUe Ave., Toronto, Ont..........,",,Tor onto..,Aug.,4.1918.
-8,3258,507,3727,533,,,,,,,,,Toronto..,Ang.,"11, 1915."
-8,522,513,3216,545,,171973,Private..,"Platt, Vincent Verson ",Nil ,"Platt, Mrs. Elizabeth ","Slade Lana, Uttoxeter, Staff*, ............", .Jsad 
-8,3258,534,3727,559,,,,,,,,,Toronto.,Aug.,14.1915.
-8,524,540,3216,572,,171939,"Private.,","Pollock, James ",C.A.M.C ,"Pollock, Mrs. J ","1 Dartlord Rd., Toronto. Ont  ",6oo*land... ..
-8,524,567,3217,599,,171360,Private.,"Pollock, Robert ",Nil ,"Pollock, Mrs. Flora ","36 Straiw® St., Torocto, Ont  ","Scotland,...."
-8,523,595,3011,628,,17240S,Private.,"Poison, John Henry ",N a ,"Poison, Mrs. Emma ","Church Cottager, Cemetery How, CUctos -ofr-Sem,","JI.U VC* jr XVUW, 4"
-8,3260,613,3727,641,,,,,,,,,Torocto..—,Jan.,"5,1916."
-8,525,642,3729,686,,171524,Private ,"Poole, Arthur ",Nil ,"Poole, Mrs. Annie ","305 Mutual St., Toronto, Ont ",,Toronto. ......,Aug,"7, 1915."
-8,525,671,3729,711,,171674,Private ,"Pooley, Edward Charles...",Nil ,"Pooley, Mrs. Mina ","348 Oasingtcn Ave., Toronto, Ont.",,Toronto........,Aug.,11.1915.
-8,526,697,3729,740,,172384,Private ,"Popert, Owen ",NU ,"Popert, Ernest ","22 Spruce HU1 Rd., Toronto, Ont.    ",Cenada ,Toronto........,Nov.,"SO, 1815."
-8,526,727,3729,768,,172273,Private ...,"Porter, George ",S.A ,"Porter, Mrs. Emma Jane ","348 Dupont St., Toronto, Ont  ",Cat...?* ,"Toronto..., ",Sept.,"3, 1015."
-8,526,757,3730,797,,171525,Pri vate ...,"Powell, William Stephen...",Royal Navy.,"Powell, Mrs. Aaak L ","48 Teraclay St., Torooto. Ont...",,Teroeto... .....,Aug.,9.1915.
-8,526,790,3407,825,,171381,Corporal. .,"Powers, Edward Joseph....",82nd Regt ,Powers. Malcolm ,"Tracadie, Qc^ns Co., P , «",CWwds. >...<•,Tosonte..
-8,526,814,3730,856,,172275,Private....,"Press, Albert William ",SH ,"Prese, Mrs. Mary ",123 Fermanagh Terwrtc.,"123 Ferassaagh Am, Torocic. Oai...,„",Toron to........,Sept.,1.1918.
-8,526,844,3730,883,,172415,Private ,"Price, Arthur ",Imp. Forces..,"Price, Mrs. Mary Jane ","508 ParUajseni St., Toronto, 0*t... ",,Toronto........,J*B.,"20,191*."
-8,526,874,3730,912,,171382,Private ,"Price, Joseph  ",Nil ,"Price, Albert . ","71 Saul ter 8t., Torocto,",,Toronto........,Acg,14.1915.
-8,3262,904,3730,933,,,,,,,,,Torocto........,Aug.,17.1915.
-8,525,912,2827,941,,17182*,Private ,"Priestley, Edward ",NU ,"Priestlev, Percy ","12 Sackville PI., Toronto, Os*..   "
-8,525,933,3730,970,,172039,L.-Corpora,"Prior, FYaak ",NU ,"Prior, Mrs. Lewis ","153 Hart/ord St., Toroato, Oct",,Toronto... ,Aug,2.1915.
-8,524,962,3729,1000,,172279,Private..,"Pritchard, George Edward",Nil ,"Pritchard, Edward ","Thornton, Ont  ",Enikad...,Tomato.   ,Sept.,"7, 1915."
-8,525,992,3730,1029,,171827,Private..,"Proctor, Anthony ",MM,NU ,"Proctor, Andrew ","41 Frederick St., South Shields, Durham, Eng  ",EcsUnd ,Toronto........,Aug,9.1915.
-8,60,1002,3730,1058,liHH,171875,Private..,"Prosser, Alfred ",2nd Regt ,Craig. Ellen Elisabeth ,"326 Royce Ave., Toronto, Ont   ",Enfilaad ,Toronto. . - ,Aug.,11.1915.
-8,524,1051,3730,1088,,171383,Private..,"Purvis, Herbert Rogers....",Nil ,"Purvis, Mrs. Lisa G ","437 Lansdowiwp Ave., Toronto, Ont ",Canada........,"Toronto,.......",Aug.,10.1915.
-8,524,1080,3730,1117,,172280,Private..,"Pyburn, Benjamin ",NU ,"Pyburn, Benjamin  ","13 Kippendavie Ave., Toronto, Out ",England ,Torocto........,Aug,24.1915.
-8,524,1110,3731,1146,,171829,Private..,"Pyle, Percy Branwerr ",NU ,"Pyle, Robert  ","1259 Dufferin St., Toronto, Ont ",England ,Toronto.  ,Aug.,14.1915.
-8,523,1139,3731,1175,,172071,Private..,"Pyle, William ",NU.. ,"Pyle, Mrs. Nell ","103 Peterborough Ave., Toronto, Ont ",England ,Toronto... —..,Aug.,7.1915.
-8,524,1168,3731,1204,,172070,Private..,"Quaife, Edward",Territorials...,"Quaife, Emma Agnes ","155 Parliament St., Toronto, Ont ",England ,Toronto........,Aug.,14.1915.
-8,524,1198,3732,1234,,171941,Private,"Queen borough, Sidney ",Nil ,"Queenborough, Arthur  ","16 Welford Rd , Leicester, Eng.  ",England ,Toronto.'..  ,Aug.,"8, 1915."
-8,523,1227,3732,1263,,171526( Private..,,"Rame, Stanley ",NU ,"Rame, Mrs. Margaret  ","85 Lewis St., Toronto, Ont  ",Canada ,Torocto........,Aug,"3, 1915."
-8,523,1255,3733,1291,,171364,Private..,"Rame, William John ",Nil ,"Rame, Charles...  ","85 Lewis St., Toronto, Ont ",Canada ,Toronto........,Aug,12.1915.
-8,34,1269,3733,1322,mrnm,171330,Private .,"Rapley, John Edward ",Nil ,"Rapley, Mrs. Annie J ","25 Empire Ave., Toronto, Ont ",England ,. Toronto ,Aug.,"17, 1915."
-8,62,1301,3734,1351,hmm,171967,Private..,"Rawlinson, George Jones...",Nil ,"Rawlinson, Mrs. Maude ","25 Paton Rd., Toronto, Ont ",England ,T oronto ,Aug.,"14, 1915."
-8,522,1345,3734,1379,,171355,Private..,"Ream an, John Allen ...",NU ,Reaman. Mrs. Alice ,"Severn Bridge, Ont ",Canada ,Toronto ,Aug.,10.1915.
-8,522,1374,3734,1408,,1722S5,Private .,"Reeve, Frederick ",NU ,"Reeve, Charles ","1219 Gerrard St. E., Toronto, Ont ",England ,Toronto ...,Aug.,23.1915.
-8,521,1404,3735,1437,,171942,Private..,"Reeves, James ",Nil.,"Reeves, Mrs. Clara  ","1991 Davenport Rd., Toronto, Ont ",Canada ,Toronto.   ,Aug.,14.1915.
-8,522,1433,3735,1467,,171676,Private.,"Reid, Harold ",,"Reid, Mrs. Alice ","288 Ossington Ave., Toronto, Ont ",Canada ,Toronto  ...,Aug.,11. 1915.
-8,522,1463,3735,1498,,1720*2,Bandmaster,"Reve, Edward ",10th Regt.,"Reve, Mrs. Esther ","1 Lumber vale Ave., Toronto, Ont ",England ,T oronto.......,Aug.,"9, 1915."
-8,521,1492,3736,1527,,171832,Private....,"Revill, Percy Peers ",NU.,"Revill, Margaret ","Castle Inn, Dore «fc Totley, Sheffield, Eng.  ",England ,Toronto.......,Aug.,"14, 1915."
-8,522,1522,3736,1557,,17202?,Sergeant...,"Richards, Joseph ",10th Regt...,"Richards, Mrs. Elizabeth ","201 Mulberry Ave., Wychwood, Toronto, Ont ",England ,Toronto ,Aug,"2, 1915."
-8,522,1551,3735,1585,,172471,Private ,"Richardson, David Hardie",Territorials.,"Richardson, Mrs. Jane ","19 Holmesdale Rd., Fairbank, Toronto, Ont ",Scotland ,Toronto. ,Mar.,"29, 1916."
-8,522,1580,3736,1614,,172284,Private ,"Richardson, Robert ",Nil ,"Richardson, Mrs. Mary Emma .","Beeton, Ont ",England ,Toronto.......,Aug.,"30, 1915."
-8,522,1609,3736,1645,,171527,Corporal. .,"Richardson, Thomas ",Nil ,"Richardson, Mrs. Elisa ","110 Church St., Preston, Eng ",England ,Toronto.   ,July,"31, 1915."
-8,522,1640,3736,1674,,171578,Private ,"Richmond, Christopher. ..",12th Regt. ..,"Richmond, Mrs. Kate  ","66 Dods Ave., Toronto, Ont ",Canada ,T oronto   ,Aug.,"11, 1915."
-8,522,1670,3736,1703,,172237,Private....,"Riley, George ",NU ,"Riley, Mrs. IsabeUe ","49 McGiU St., Toronto. Ont ",England ,Toronto.......,Aug.,28.1915.
-8,534,1699,3736,1731,,91650,Private ,"Ritchie, Arthur ",Nil ,"Ritchie, .Arthur ","h9 Rhodes Ave., Toronto. Ont ",Canada ,Toronto ,Aug,"iO, 1915."
-8,522,1729,3734,1760,,172283,Private ,"Ritchie, William Stuart ",Nil ,Ritchie. Mrs. Agnes ,"421 Pape Ave., Toronto. Ont ",Canada ,Toronto. ,Ai;g.,25. 1915.
-8,92,1734,3736,1791,*1®,669834,Private ,"Robb, Stanley ",Nil ,"Robb, Sirs. Violet ","P.O., Edgeley, Ont ",Canada ,T oronto   ,F*b.,"2?, 1916."
-8,68,1775,3736,1826,sslllfl§J,171833,Pri vate ,"Robbins, Albert Ernest ",Nil ,"Robbins, Mrs. Elisabeth ","214 Hallam St., Toronto, Ont ",England ,Toronto.......,Aug.,"14, 1915."
-8,522,1817,3736,1850,,172072,Private ,"Robbins, John George ",NU..........,"Robbins, Alfred ","214 Hailam St., Toronto, Ont ",England ,X ia^rara Caur. p.,Sept.,"7, 1915."
-8,523,1848,3737,1878,,171339,Private ,"Roberts, Hugh ",Territorial!!..,"Roberts, Mrs. Anne Ellen ","4 Nantfellin Rd., Llanfairfechan, Carnarvon, Wales..",Wales ,Toronto. ,Aug.,"14, 1915."
-8,523,1877,3736,1910,,171720,Co. Sergt.-,"Roberts, Meirion ",Imp. Forces.,"Roberts, Robert ","Llar.dderfel, Merioneth, N. Wales ",Wales ,Toronto ,Aug.,14. 1915.
-8,75,1881,3737,1955,§§ll,171834,Private ,"Roberts, Thomas  ",Imp. Forces.,Roberts. Mrs. Emma ,"563 King St. E., Toronto, Ont ."". ",England ,T oronto ,Ju!v,"31, 1915."
-8,523,1936,3737,1965,,171999,Private ,"Robertshaw, Earl Frederick",NU ,"Robertshaw, Mrs. Rose ","105 Rose Ave., Toronto, Ont ",Canada ,T oronto ,J. ly,16.1915.
-8,523,1965,3737,1998,,171251,Co. Sergt.-!,"Robertson, Alexander Godfre",2nd Regt....,"Robertson, Mrs. Eva L ","105 Howland Ave., Toronto, Ont ",Canada ,T oronto... ,Aug.,12.1915.
-8,524,1994,3737,2026,,172404,Private ,"Robertson, James ",Nil ,"Robertson, Mrs. Agnes ","2 Niddry St., Paisley, Renfrew, Scot ",Scotland ,Toronto. ,Dtc.,31.1915.
-8,522,2024,3737,2056,,171679,Private ,Robertson. James Bolton.,12th Regt. ..,"Thain, Mrs. Mary ","136 Wellington Rd., Aberdeen, Scot ",Scotland ,Toronto ,Aug.,11.1915.
-8,523,2053,3737,2086,,171576,Sergeant...,Robertson. Norman ,12th Regt. ..,"Robertson, Mrs. Agnes ","489 Concord Ave., Toronto. Ont ",Canada ,Toronto ,Aug.,11.1915.
-8,522,2082,3737,2113,,1*2*51,Private ,"Robinson, Charles Victor.",Nil ,"Robinson, Mr?. Annie Louisa R..","75 Ennerdale Rd., Fairbank, Ont ",Canada ,Toronto.  ,Aug.,17.1915.
-8,523,2113,3737,2144,,17H40 Private ,,"Robinson, Clifford   ",Nil ,"Robinson, Mrs. Beatrice ","37 Kenilworth Ave., Toronto, Ont ",England ,Toronto ,Aug.,17.1915.
-8,522,2142,3737,2175,,1722S8,Private...,"Robinson, Clifford Isaac..",Nil ,"Robinson, George Henry ","2 Rowan wood Ave., Toronto, Ont",[Canada ,Toronto   ,Sept,3. 1915.
-8,523,2168,3737,2204,,17183d’Private.,,"Robson, William Albert. .",C.F.A ,"Robson, Mrs. Annie ","274 Berkeley St., Toronto, Ont 'Cana",,Toronto.......,Aug.,13.1915.
-9,725,524,3249,555,,,Former Corps,,,Country of
-9,539,669,3759,701,1713* Uij Corporal. .,"Rodda, Thomas James. ..",... jimp. Forces,"Rodda, Mrs. Florence ","25 Defoe St., Toronto, Ont ",. i England ,Toronto. .,Aug,12.1915.
-9,538,692,3759,729,1723701 Private...,"Rodger, George ",MM Nil ,Rodger. Mrs. Jane ,"Barjovah, Broxburn, Linlithgow, Scot ",[Scotland. . .,Toronto. .,Nov.,"16, 1915."
-9,539,728,3760,760,17Private...,"Rogers, Arthur Vivian....",Nil ,"Rogers, Mrs. Edith Amelia.","27 North View Terr., Toronto, Ont  ",. [England....,Torocto..,Aug.,11.1915.
-9,539,755,3761,793,1722361 Corporal.,Rombough. William John.,2nd Regt.,"Rom bough, Mrs. Lily Julia.","17 RavinaCrec., Toronto. Ont ",. jCanada,jToronto. .,Aug.,31.1915.
-9,539,787,3760,827,I719t.>! Private...,"Rooney, Robert  ",I Nil ,"Rooney, Joseph ","Eaton’s Store, Winnipeg, Man  ",.•Ireland,.Toronto..,Aug.,"7, 1915."
-9,540,815,3761,850,171 U : Private...,"Rose, Harry ",Nil ,"Rose, Mrs. Helen ","567 Jane St., West Toronto, Ont.",. ’ England....,jToionto..,Aug.,13.1915.
-9,536,843,3760,881,799-.>')Jj Private...,"Rosebush, Alvin Jacob . .",I Nil ,"Rosebush, Mrs. Hannah M .","345 Yonge St., Toronto, Ont ",. .< anada ,'Toronto..,Jan.,13.1916.
-9,539,872,3760,914,17-Mih; Private...,"Rosebush, George Walter",Regt,| Rosebush. Mrs. Annie  ,"345 Yonge St., Toronto, Ont ",. j< anada. . ..,Toronto. .,| Dec.,22.1915.
-9,539,905,3761,937,172 »71; I Sigler....,"Roaent hal, H arry ",2nd R’ itt,": Rosenthal, Mrs. Edna  ","229 Palmerston Ave., Toronto. Ont ",jt ’anada.,Toronto. .,lOct.,26. 1915.
-9,539,929,3759,968,171 o-iI Private...,"Ross, James ",,"| Roes, Mrs. Jane   ","W in berg, Leopold St., Nairn, Scot.  ",I Scot land ,Toronto ..,July,18.1915.
-9,539,963,3759,998,172JO; Private...,"Rothery, William ",Nil . .,"[Rothery, Mrs. May ","54 Min to St., Toronto, Ont ",; England ..,Toronto..,Aug.,20.1915.
-9,539,988,3758,1027,17 is 41 Private ..,"Rowland, Edward ",I Nil ,"j Rowland, Joseph ","8 Stand ish St., Tyldesley, Lancs, Eng ",England...,Toronto. .,July,31.1915.
-9,538,1022,3759,1052,171 >2S. Private...,"Rowlands, William Henry",[Nil. ,"Rowlands, Mrs. Margaret E.","528 Queen St. E., Toronto, Ont ",t. ’anada . . .,Toronto..,Aug.,"14, 1915."
-9,539,1051,3759,1080,17.’ )J1 Private...,"Ruddock, William ",Nil ,"! Rudd k, Robert ","14 Benedict St., .Booth, Liverpool, Eng ",; In land. . . .,Toronto. .,Aug.,14.1915.
-9,539,1077,3758,1116,17 l»JS2l Private ..,"Rule, Edgar ",Nil ,"jP*.uie, Mrs. Sarah Revel —","Y.W.C.A.. Harrogate, Yorks, Eng ",England .. .,Toronto..,I Aug.,11.1915.
-9,538,1107,3760,1143,171367. Private...,"Runnalls, Joseph ",Nil. . . .,"jRunnalls, Mrs. Katherine. .","Humber Bay, Ont ",j England ...,‘.Toronto.,Aug.,12.1915.
-9,534,1134,3760,1173,669362j Private ..,"Rusk, Walter Elmer ",Nil ,":Rusk, Mrs. Florence ","144 Jarvis St., Toronto, Ont ","i( ""anada ...",JToronto.,Jan.,"13, 1916."
-9,537,1168,3760,1198,1713'i^: Private...,"Rusling, Charles Nelson .",Nil ,"i Rusling, Clara ","506 Salem Ave., Toronto, Ont ",j England1. .,iToronto .,;Aug.,10.1915.
-9,538,1191,3761,1231,172290; Private...,"Russell, Arthur ",Nil ,"Russell, Robert ","R. R. No. 3, Brampton, Ont ",. j England... .,| Toronto .,Aug.,"30, 1915."
-9,538,1222,3871,1266,171842' Private...,"Russell, Frederick Alexander",. . . j Nil ,"| Russell, Mrs. Isabel'e.","Fort Erie, Ont ",\ 'anada . .,! Toronto..,! Aug.,14.1915.
-9,539,1252,3761,1292,171 683. Pri vate....,".... Russe‘1, John ",,"1 Russell, Mrs. Clara Pearl..",".40 Augusta Ave., Toronto, Ont ",I Canada,jToronto,|Aug.,11.1915.
-9,539,1259,3763,1318,172H'<' Private. VIC,MC |Rutherford. Charles Smith,mmvl! :::,"Rutherford, Mrs. Isabella..","Colbome, Ont  ",[Canada,'Toronto. .,j M ar.,"2,1916."
-9,535,1310,3762,1345,669364; Private...,"Rutledge, Hubert John ",Nil ,"Rutledge, James ","32 Sackville St., Toronto, Ont ",Canada ,(Toronto. . .,IJan.,24.1916.
-9,536,1339,3762,1379,6691)10! Private...,"Ryan, Joseph Patrick ",Nil ,"j Ryan, Mrs. Hannah ","Pembroke, Ont ",Ireland ,I Toronto,jMar.,"7, 1916."
-9,538,1369,3763,1409,1713691 Private ..,"Sabine, William ",I Nil ,"jSabine, Mrs. Harriette ","998 Queen. St. W7., Toronto, Ont ",■( ‘anada . .,j Toronto ...,Aug.,12.1915.
-9,539,1400,3760,1433,171 tVS 4; Corporal. .,Sambrook. Thomas Frederick,S 12th Regt.,"• Sambrook, Mrs. Catherine Ann.","9 Milan St., Toronto, Ont ",j Wales ,! Toronto,IJuiy,16.1915.
-9,537,1428,3763,1461,775175' Private...,"Sargent, Wil'iam ",i Nil ,"Sargent, Mrs. S ",".500 Indian Grove, Toronto, Ont ",i England,jToronto. . .,i Dec.,21.1915.
-9,540,1457,3762,1493,172002' Private ..,"Saunders, Arthur ",i Nil ,"Saunders, Mrs. Ethel ","7 Fenwick Ave., Toronto, Ont ",England.. .,IToronto. . .,| Aug.,"13, 1915."
-9,539,1488,3762,1517,171916! Private ..,"Saxton, Joseph Frederick..",,Hale. Miss Elsie ,"47 Malvern View Terr., Worcester, Eng ",. England .. . .,iToronto. . .,Aug,14.1915.
-9,538,1506,3763,1549,6597021Private...,". Schofield, John ",MM Hit!. Rpgft,"Schofield, Mrs. Margaret. . .","ICO Cambridge Ave., Toronto, Ont ",England,iToronto.. .,! Feb.,14. 1916.
-9,541,1543,3764,1580,17137!: Private. .,".jSchofield, Robert ",Nil ,"Schofield, Harry.    ","209 Gilmour Ave., Toronto, Ont ",England . .,jToronto....,j Aug.,"12, 1915."
-9,538,1576,3764,1608,66976'$! Private...,". jSchofield, William ",Nil.,"Schofield, Mrs. Mary Ellen.",100 Cambridge Ave.. Toronto. Ont ,..; England ,|Toronto. . ..,Feb.,"14, 1916."
-9,541,1604,3765,1643,171530' Private...,"Seabourne, George ",Nil ,"Seabourne, Mrs. Beatrice. . .","|449 Gerrard Ave., Toronto, Ont   ",. .jEngland....,Toronto ...,Aug.,3. 1915.
-9,541,1635,3764,1672,17137.1; Private...,"Searle, Edward Joseph.. .",| Nil ,Searle. Jane Annette ,"(Bella Vista, King's Rd., Paignton, Devon, Eng .",. ; England . .,Toronto,Aug.,12.1915.
-9,541,1658,3765,1695,"171843, Private...","Sedore, Percy Franklin. .",!Nil... .,"Barnes, Mrs. Maggie ","!9 Clinton St., Toronto, Ont ",. jCaradu . .,Toronto,Aug.,"2, 1915."
-9,542,1693,3764,1734,172291 Private...,"Seith, Alexander ",■[Nil ,Seith. Mrs. Jeanie ,"|35 Delaney Cres., Toronto, Ont   ",. I Scotland .,jToronto,Aug.,"25, 1915."
-9,542,1716,3766,1753,1715311 Private ..,"Sewell, Walter Edward . .",! Nil ,"Sewell, Mr*. Matilda Lydia","i 102 Woodbine Ave., Toronto, Ont  ",.. • England .,IToronto . .,Aug.,"9, 1915."
-9,543,1747,3766,1784,172149 Private...,"Shannon, Albert James. . .",■I Nil ,"Shannon, Mrs. Maggie M","!256 Ontario St., Toronto, Ont ",.. |Canada ,(Toronto. . ..,Feb.,15.1916.
-9,542,1776,3766,1819,17 lnS.V Private .,"Shannon, Joseph John ",• I Nil ,"Shannon, Miss Marjorie R",".1764 Bathurst St., Toronto. Ont ",. [Canada.,iToronto. ...,July,16.1915.
-9,542,1807,3767,1845,172 *04 Sergeant..,". . | Shaw, Ernest",'Imp. F rfM.o,Shaw. Mrs. Marie ,".1554 Church St., Toronto, Ont ",.England .,jToronto....,Sept.,"3, 1915."
-9,542,1839,3766,1873,171374* Bugler ,. !Shaw. George William... .,| Nil.. ..,"iShaw, Lillia ",". >196 Brock Ave., Toronto, Ont ",. Canada..,Toronto. . .,Aug.,14.1915.
-9,543,1865,3767,1904,1716^8 Private ..,". . Shaw, William ",. 8.A,". IShaw, Caleb ",";96 Risbygate St., Bury St. Edmunds, Suffolk, Eng",i Eng) and,(Toronto....,Aug.,"11, 1915."
-9,543,1897,3765,1938,17242 ’ Private...,". .jSheard, Abel ",.Nil,'Sheard. Mr*. Martha,". i26 Cornwall St., Toronto, Ont.  ",. .jCanada. ,jToronto,Jan.,"24, 1918."
-9,544,1926,3768,1967,171 ^ Sergeant..,".. Shearer, Alexander Gibbs",. iTerritorials,"(Shearer, Mrs. Emily ",". |1 Yorkville Ave., Toronto, Ont ",.. j Scotland,iToronto . .,Aug.,"11, 1915."
-9,538,1953,3766,1990,669379; Private,. I Sherwood. Thomas ,.'Nil ,"jSherwixnl, Mrs. Anna ....",;622 Rhodes Ave.. Toronto. Ont ,. Engiar.dL . . .,jToronto ...,'Jan.,19.1916.
-9,543,1985,3766,2022,17137 V Private...,.. IShine. Samuel ,■ Nil..,"|Shine, Mr*. Kate ",". 207 Hailam St., Toronto, Ont.",Italy ,Toronto..,A ug.,"12, 1915."
-9,543,2015,3768,2052,172362 Private. .,".. jShipcott, Norman James",. 110th Regt,". ivShipcotl, Robert ",".19 Winnifred Ave., Toronto, Ont .  ",< anad&,;Toronto . .,Aug.,21.1915.
-9,541,2044,3767,2085,17H44 Private,"’Shorten, Charles Thom a?",! Nil,! Shorten. Mrs. Maud  ,".{181 Sumach St., Toronto, Ont",Engl anti .,jToronto....,iAug.,"17, 1915."
-9,542,2074,3766,2105,17117*5 Private,"•Shvets, Vasel. .  ",. Can. MJ,"""hvets, Trotam",Cam-Podolsk. Russia.,Russia .,Toronto,'Aug.,12.1915.
+1,216,728,251,2898,"*****""* ■' **.». . „ .• .. —    . . .... ..... ■ i.w ■■■•■r- «-a.. :.v....«   "
+1,587,1860,625,2172,83rd Battalion
+1,692,3247,715,3561,Taken on Strength.
+1,738,2957,774,3236,Country of [ 
+1,744,2343,771,2686,Address of Next of Kin.
+1,755,412,794,3158,.=z,,,Former Corps.,,,Birth- !
+1,755,1711,781,2021,Name of Next of Kin.
+1,762,598,785,681,Hank.
+1,762,980,785,1073,Name.
+1,779,419,813,3562,i,,,,,,,Place. j,Date.
+1,851,3156,870,3160,I
+1,887,412,944,3161,135034j Pri vate ,,"Hancock, Thomas ",Nil ,"Hancock, Mrs. Martha ",Orchard House,,i
+1,887,2372,916,2904,"SVoolwich, Rd. Bexley Heath, Kent"
+1,890,3158,893,3159,.
+1,904,2922,952,3615,,,,,,,England j,Toronto  !,July,"23,",1915.
+1,924,2178,951,2668,Eng   
+1,943,2121,976,3617,,,,,,"4 Duvernet Ave., Toronto, Ont ",Canada ,Toronto ,Aug.,"27,",1915.
+1,956,412,988,1991,172190! Private ,,"Handy, George ",Nil ,"Handy, Alfred "
+1,972,412,1016,3616,172199j Private ,,"Hanna, Ephraim Wesley - . .",Nil ,"Hanna, Mrs. Charlotte —","j30 Gough St., Toronto, Ont ",Canada  ,Toronto,Aug.,23.,1915.
+1,1000,412,1050,3616,1714721 Private. ..,,"Hanna, Hugh ",Nil ,"Hanna, Mrs. Christina.. ..","|252 Gerrard St., Toronto, Ont ",Ireland ,Toronto iJuly,"31,",1915.
+1,1030,412,1074,3617,172475; Private. ..,,"iHarcua, Stewart ",Nil ,"Harcus, Mrs. Agnes ","•450 Salem Ave., Toronto, Ont",Scotland ?,Toronto ,April,5.,5916.
+1,1059,412,1103,3617,1716271 Private ,,"Hardcastle, George William",Nil ,"Hardcastle, Mrs. Sarah Lou","3 North View Terr., Toronto, Ont",England.. . .. ■ j,T oronto  ,July,16. 1915.
+1,1089,411,1132,3618,17238©! Private ,,"Hardy, Arthur William ",Nil ,"Hardy, Mrs. Margaret ","Winterbourne, Ont ",Canada i,Toronto ,Dec.,"1, 1915."
+1,1119,412,1160,3617,171473] Pnvate.. .,,"Hardy, Bert ",Nil ,"Hardy, Mrs. Frances ","37 Eastern Ave., Toronto, Ont. ..",Canada ,T oronto ,Aug.,3.,1915.
+1,1149,411,1189,3618,1714741 Private ,,"Hardy, Norman ",Nil ,"Hardy, Mrs. Frances ...","37 Eastern Ave., Toronto, Ont",(anada ,Toronto ,Aug.,11.,1915.
+1,1178,411,1218,3619,1717311 Private ,,"Hargrave, Charles Arthur .",Nil ,"Hargrave, George ","48 Fenwick Ave., Toronto, Ont. ..",Canada ,Toronto ,Aug.,"17,",1915.
+1,1207,410,1246,3619,172333! Private.,,"Harkins, Charles Cameron .",10th Regt.,"Harkins, Mrs. Jessie ","124 Arthur St., Toronto, Ont  ",Canada  'Toronto,,Oct.,"20,",1915.
+1,1236,410,1276,3618,171976i Sergeant...,,"Harkins, George Thomas. .",Can. Mil,"Harkins, Mrs. Edith ","18 Herbert Ave., Toronto, Ont.. .",Canada ,Toronto  ,Aug.,"17,",1915.
+1,1266,412,1304,3619,172446} Private ,,"Harkins, John ",Nil  ,"Harkins, Mrs. Jessie ","124 Arthur St., Toronto, Ont ",Canada ! Toronto ,,Feb.,10. 1916.
+1,1296,411,1333,3619,171529 Private....,,"Harper, Thomas George.. . .",Nil ,"Harper, Thomas ","17 Brighton Rd., Earley, Reading, Berks",England 1,Toronto ,Aug.,U.,1915.
+1,1325,410,1362,3619,172364! Pri vate ,,"Harper, William Matthew .",i-Oth Regt.,"Harper, Mrs. Annie ","7 Ellsworth Ave., Toronto Ont ",Ireland -Niagara,,Oct.,1.,1915.
+1,1355,410,1391,3619,1720>6jPrivate....,,"Harpley, John  ",Nil ,"Harpley, Mrs. Edith ","Bernice Cres.. Lambton Mills, Ont...",Wales ,Niagara Camp..,"""opt.","7,",1915.
+1,1384,412,1419,3620,171475! Private ,,"Harris, Dac ",Nil ,"Harris, Mrs. Mary Ann E.","311 Sumach St., Toronto, Ont ",England  .Toronto,,Aug.,9.,1915.
+1,1414,411,1450,3620,17173.2} Private,,Harris. George ,Nil ,"Harris, Mrs. George ","474 Greenwood Ave., Toronto, Ont...",England  Toronto ....,,Aug.,14.,1915.
+1,1442,408,1478,3620,6697541 Private....,,"Harris, George James ",Nil ,"Harris, Mrs. Sarah ","Coin Sc. Aldwyns, nr. Fairford, Glos, Eng",England ,Toronto ,Feb.,"14, 1916."
+1,1472,409,1505,3621,172205 Private ,,"Harris, Thomas William ...",Nil ,"Harris, Mrs. Bessie Millar","196a Carlton St., Toronto, Ont .",England ,Toronto ,Aug.,"26,1915."
+1,1501,410,1535,3620,172195 Private....,,"Harrison, George Stanley. .",Nil ,"Harrison, Mrs. Mabel May","238 Hastings Ave., Toronto. Ont ",England   ,Toronto ,Aug.,"21, 1915."
+1,1531,410,1564,3622,171470? Private...,,"Harrison, James  ",Nil........,"Harrison, Mrs. Elisabeth","74 Edward St., Todmorden, Ont ",England ,Toronto ,July,"19, 1815."
+1,1560,411,1596,3620,172035j Private. ..,,"Harrison, Ralph. .   ",Territorials,"Harrison, Mrs. Alice Mary","115 Cronyn Ave., Todmorden, Ont. . .",England  ,Niagara Camp.,Sept.,"7,",1915.
+1,1590,411,1622,3620,172203) Private ,,"Harrison, Ramsden ",Nil ,"Harrison, Maria Louisa.. .","248 Ossington Ave., Toronto, Ont ",England ,T oronto ,\ug,"24,",1915.
+1,1619,411,1654,3620,I71404j Private...,,"Hartman, William Ernest ..",2nd Regt .,"Hartman, Mrs. Mary ","31 Dorval Rd., Toronto, Ont ",Canada ,,"16,",1915.
+1,1649,412,1681,3621,172! 91 Private —,,"Harvey, Jack Smith ",Nil ,"Harvey, John  ","Colquhoun House, Milton, Dumbarton",,T oronto ,Aug.,"25,",1915.
+1,1652,2700,1674,2732,Sc
+1,1674,411,1712,3620,i 72192j Corporal. .,,"Hay, John ",2nd Regt.,"Hay, Mrs. Helen  ","5 Adelaide PL, Toronto, Ont. ",,,"7,",1915.
+1,1707,411,1742,3622,I72394j Private....,,"Haynes, William Henry....",Nil.: .,"Barrett, Mrs. Annie ","416 Wilton Ave., Toronto, Ont ",Canada ,T oronto ,Dec.,"7,",1915.
+1,1736,410,1768,3622,172438] Private ,,Hayward. Norman Wadwor,Territorials,"Hayward, Ethel Alice...","4th Ave.. New York, N.Y., U.S.A. . .",England ,Toronto ,Feb.,"7,",1916.
+1,1766,412,1796,3623,171477 Private ,,"! Headon, George ",Nil ,"Headon, Mrs. Elizabeth M","1201 Dufferin St., Toronto, Ont ",England ,Toronto ,July,"31,1915."
+1,1796,412,1830,3622,,Pri vate....,171784,"[Hedges, Charles ",Nil ,"Hedges, Mrs. Frances ","15 O’Brien Ave., Fairbank, Ont ",England ,Toronto ,Aug.,9,1915.
+1,1824,411,1856,3623,,Private.....,171630,"'Helps, Frederick Henry . ..",12th Regt,"Helps, Arthur Edward ","11 Hill Crest Pk., Toronto, Ont ",England ,July,"16, 1915."
+1,1854,409,1885,3622,,Private ,639545,"Hemming, Frederick Henry",Nil ,"Hemming, Mrs. Beatrice.","Crown Inn, Harleston St., Sheffield, E?",England. ,Toronto ,Jan.,"31, 1916."
+1,1884,411,1913,3623,,Private ,172200,"Henderson, Glenn William",Nil ,"Henderson, Albert ","46 Emmerson Ave., Toronto, Ont ",Canada ,T oronto ,Sept.,8.,1915.
+1,1913,412,1943,3623,,Private....,172201,"Henderson, James  ",Nil ,"Henderson, Mrs. Ediih. .","54 Minto St.. Toronto, Ont ",England ,Toronto ,Aug.,16,1915.
+1,1941,409,1972,3623,"171478 L,-Corporal",,"Hendnon, John Joseph ",Nil ,"Burton, Mrs. Mary Ann...","26 Wheeler Ave., Toronto, Ont ",Canada. ......,Toronto ,Aug.,6,1915.
+1,1968,412,2001,3624,171783 j Corporal. .,,"Hendry, William Norman.",36th Regt.,Hendry. Francis ,"Mimico, Ont ",Canada ,Toronto  ,Aug.,14,1915.
+1,1999,412,2029,3624,1724121 Private....,,"Hene, John  ",10th Regt.,"Hene, Mrs. Theresa ","Armour, Ind., U.S.A ",U.S.A ,Toronto ,Jan.,12,1916.
+1,2028,413,2061,3623,172425: Private....,,"Herrington, John Thomas .",Nil ,"Herrington, Mrs. Sarah. ..","218 Nairn Ave., Toronto, Ont ",England  ,Toronto ,Feb.,"1, 1916."
+1,2058,411,2092,3625,172210' Private....,,"Hewson, Clarence Victor....",Nil ,"Hewson, William Robert.","70 Grenville St., Toronto. £)nt  ",Canada ,Toronto ,Sept,o,1915.
+1,2086,412,2119,3626,172I97j Private....,,"He yes, Joseph ",Nil ,"Heyes, Samuel ","845 Lansdowne Ave., Toronto, Ont....",England ,Toronto ,Aug.,20,1915.
+1,2115,410,2150,3625,171479} Private ,,"Hibbard, Henry Frederick",Nil..,"Hibbard, Mrs. Florence R","109 Car law Ave.. Toronto, Ont ",England..,Toronto ,Aug.,2,1915.
+1,2137,411,2179,3626,17 i78dj Private —,,"Hibbert, Alfred Kilby. vC-H",MM,Nil..,"Hibbert, Mrs. Priscilla . .","16 Davenport Rd., Toronto. Ont ",Canada ,Toronto  ,Aug.,17,1915.
+1,2175,411,2210,3627,1713l3jL.-CorporaJ,,"Higginson, Matthew . ..",Imp.,Forces,"Higginson, Robert ","55, 35th St., Chicago, 111 , U.S.A .....",Ireland ,Toronto ,Aug.,12.1915.
+1,2204,410,2238,3627,17173Gj Sergeant,,"Hill, Charles Meredith. .",Can.,Mil,Hill. Mrs. M. E ,"41 Gladstone Ave., Toronto, Ont ",Canada ,Toronto ,Aug.,"14, 1915."
+1,2233,410,2268,3627,171430 Private..,,"Hili, Herbert Jonathan",Nil..,"Hill, Mrs. Alice ","622 Merton St., Toronto, Ont ",England ,Toronto  ,July,31,1915.
+1,2262,410,2298,3628,171631 Private..,,"Hiil, Thomas Coulthard",Nil..,"Hill, Catherine ","44 Shaftesbury Ave., Toronto, Ont ",England ,f oronto ,! Aug.,11,1915.
+1,2291,409,2328,3628,171787-Private..,,"Hill, William...  ",Nil.,"Hill, Elizabeth ","i624 Jones Ave., Toronto. Ont ",England ,‘Toronto  ,! Aug.,"14,1915."
+1,2389,1985,2451,2315,‘83 BN
+2,217,592,248,3803,17l7S3]Private.  ,,"Hiiiyskrd, Walter Henry. .",Terri tori&Ia..,"Hillyard, Mrs. Kate ","136 Woburn Ave-, Toronto, Out ",,... iXosrosto. ..,Aug,"17,1015."
+2,240,590,273,3802,669199' Private ,,"Hiacoek, Arthur Henry.",Nil  ,"Hiseock, Mrs. Annie ","123 Cedarvale Ave., Toronto, Ont ",. I England .,. . . JToT'OEt© . . .,Jan.,"28, 191 S."
+2,267,594,308,3804,1714811L.-Corporal ,,"Hitchborn, Charles ",Nil ,"Hitch bom, Mrs. Elizabeth. ..","356 Jones Ave., Toronto, Ont ",. j England . .,. . . . i Tor-onto. . .,July,31. 1915.
+2,295,594,324,3803,172372. Private ,,"Hitekin, Harry ",Nil ,"Hitchin, William Henry ","11 Grant St., Toronto, Ont ",Canada ..,.. .. rToTosnto . .,Nov.,9. 1915.
+2,323,592,354,3805,6G920G'Private ,,"Hoare, Charles Henry.,",Nil ,"!Hoare, Mrs. Fanny ","17 Barrington Rd., Horsham. Sussex, Eng   ",England..,. ... 'Toronto. .,Jan.,"17, 1918."
+2,351,595,388,3804,171789! Private ,,"Hoare, Herbert ",Nil ,"Hoare, Mrs. Sarah Elizabeth.","71 Uxbridge Ave., Toronto, Ont ",England .,. . . . |Toronto . . .,Aug.,"13, 1815."
+2,374,595,416,3805,171482; Private  ,,"Hodkinson, Frank . ...",Nil ,"j Hodkinson, Miss Phyllis ","152 Southfield St., Nelson, Lan^s. Eng  ",England..,. . . . proronto . ..,Aug,"9, 19)5."
+2,406,596,446,3805,172100; Private ,,"Holden, Janies Herbert.",Nil ,"| Holden, Mrs. Amelia ","102 Walpole Ave., Toronto. Ont ",England..,.. .. [Toronto.,Dec.,"20, 1915."
+2,438,596,473,3807,171263 Sergeant . ,,"Holland, Victor George",Territorials.,•Holland. Mrs. Margaret Jane.,"12 Fairholt Rd. S., Hamilton, Ont ",Ireland. ., {Toronto. ..,j Aug,"12, 1915."
+2,466,597,500,3806,1722111 Private ,,"Holmes, Austin ",Nil ,"Holmes, Mrs. Florence ......","3 Dunedin Ave., Toronto, Ont ",England..,. . . . [Toronto .,i Aug.,"21, 1915."
+2,498,597,531,3807,171123] Private ,,"Holt, James ",12th Regt. .,"Holt, Miss Mary ","121 College Rd., Bradford, Yorks, Eng ",; England .,. s Toronto. .,•July,"16, 1915."
+2,527,597,561,3808,172202; Private ,,"Holtham, Oswald ",Nil ,Holtham Mrs. Alice ,"36 Cott Rd., Walthamstow, London, Eng ",England..,I Toronto. .,jAug.,"16, 1915."
+2,553,595,589,3809,669205; Private ,,"Holweli, Henry George.",Can. Mil,Holweli. Mrs. Jennie ,"Bowmanville, Ont ",Wales. . .,... ('Toronto,iJan.,"25, 1916."
+2,583,595,622,3809,639209; Private ,,"Hooper, AI bin Argar —",Nil ,"Hooper, Mrs. Minnie ","535 Clinton St., Toronto, Ont   ",Canada ..,. .. j Toronto. .,jJan.,"21, 1916."
+2,615,598,650,3808,i 71314j Private ,,"Hopkins, Ernest ",Nil ,"|Hopkins, Mrs. Bessie  ","141 Boston Ave., Toronto, Ont ",England..,. . . . j Toronto . .,;Aug.,"14, 1915."
+2,646,597,681,3809,171907 Private,,"Horloek,- Robert ",Nil ,"j Horloek, Robert ","827 King St. W.f Toronto, Ont ",England .,i Toronto .,•Aug.,"6, 1915."
+2,670,597,708,3809,171315,Private  ,"Hornby, Robert Henry.",Nil. ,"j Hornby, Margaret. ","547 Crawford St., Toronto, Ont  ",Canada...,. ... IT oront o . .,{Aug.,"12, 1915."
+2,700,598,737,3809,172365,L.-Corporal. .,"Horne, Samuel Edwin. .",2nd Regt,Horne. Mrs. Margaret ,"SO Argyle St., Toronto, Ont ",Canada. .,. . . . fNisgjya. .,(Oct.,"6, 1915."
+2,733,595,770,3809,405066,Private.,"Hornett, George  ",Can Mil... .,"Hornett, William  ","Hillsburgh, Ont ",England,. . . . [Tcconto .,| April,"5, 1915."
+2,754,598,801,3809,172203! Private,,"Horreil, Alfred Augustus",Nil... ,"Horreil, Augustus E ","j Harden, Kent, Eng  ",. England..,. ... pForoeto .,I Aug.,"16, 1915."
+2,790,598,825,3809,171908,» Private' ,"Horton, John William..,",Nil ,"Horton, Mrs. Patience ","|243 Prescott Ave., Toronto, Ont ",. 'England. .,.... iToroato,Aug.,"4, 1915."
+2,823,598,860,3809,172193,! L.-Corporal,"Hotchkiss, Herbert ",Nil  ,Hotchkiss. Mrs. Charlotte T..,"j Scarborough, Ont ",.j England,.. fVaKmto jAug.,"18, 5915."
+2,850,598,886,3810,172416,■ Private. . .,"Howard, James Agnew",38th Rogt. .,Howard. Mrs. Bertha ,"82 Charlotte St., Brantford, Ont ",. jCanada,. Toronto i Jan.,"17, 1916."
+2,880,599,917,3809,171483,Private ,"Howarth, Ernest Joseph",Nil ,Howarth. George ,"!92 Windermere Ave., Swansea. Ont ",.[England .,'T oroTito,"9, 1915.",jAug.
+2,908,599,950,3809,172034,| Private  ,"Howe, Joseph ",2nd Regt,"Howe, Mrs. Eliza C ","155 Gowan Ave., Todmorden, Ont ",j England..,. t N sagara Camp.,"7, 1915.",. (Sept.
+2,941,598,979,3809,171316,► Private ,"Howe, Robert James. ..",Nil ,"Howe, John  ","jMaguiresbridge, Co. Fermanagh, Ire ",|Ire!and...,"Tr.,::*.;) ","10, 1915.",!Au*
+2,972,599,1010,3809,172194,: Private ,"Howse, Charles Elmon.",Nil ,"Howse, Mrs. Elizabeth Ann...","21 Mansfield Ave., Toronto, Ont ",. jCanada..,. 'Toroeui  ,"2, 1915.",|Sept.
+2,998,599,1039,3809,1714H4,Private ...,"Hughes, Edward ",Nil ,"jCharles, Mrs.. ","Cottage, Oswestry, Salop, Eng ",. ‘England.,". T"" ,r-_Rf o ","2, 1915.","'Aug,"
+2,1026,599,1070,3810,171903,1 Private ,". .. | Hughes, Frederick ",Nil ,"| Hughes, Mrs. Anna  ","169 Seoliard St., Toronto, Ont ",. j Engl and.,". v'TV-ror,u> ","2, 1915.",. jAug.
+2,1060,598,1096,3810,171632,: Private ,. . .' Hughes. Percy ,Nil ,"! Hughes, Mrs. Mary ","131 Golden Ave.. Toronto, Ont K ",. Canada .,. fToroato ,"11, 1915.",jAug
+2,1083,599,1126,3809,172159,1 L.-Corporal.,. .. i Hughes. Thomas ,MM,Nil ,"| Hughes, Thomas  ","jRhimot-bach, Rhosybol, Rhosgoch, Anglesey, Wales",I Wales . .,"JT, sror.to ","16, 1915.",!Aug
+2,1118,599,1157,3810,17131,Private.,. .. i Hunt. Harry ,Nil ,"! Hunt, Elizabeth ","|204 Pacific Ave., Toronto, Ont ",i England.,T jr.-’nto .,10.1915.,• 'Aug.
+2,1148,599,1181,3810,172053j Private ....,,.. I Hunt. Norman M. R . .,Nil ,"’Waters, Mrs. D ","163 Dupont St., Toronto, Ont ",!Canada,. i Niagara Camp.,7. 1915.,. .S«pt.
+2,1176,599,1214,3810,171793'Private...,,"... j Hunt, Samuel Edward..",9th Horse. .,"•Hunt, Mrs. Mary ","tClaude, Ont  ",. jCanada.,^Toronto ,"14, 1915.",Aug.
+2,1206,596,1241,3810,6995231 Private ,,". , . I Hurley, William ",Nil ,■Hurley Mrs. Amelia ,"|2 Pine Terr., Toronto, Ont ",. | Engl and..,. T-T>r T o  ,31. 1916.,. Jan.
+2,1237,599,1269,3810,172)57 Private ,,". . ! Hur*t, Harold ",Nil ,"i Hurst, James ","i 129 Stacey Ave.. Oshawa, Ont  ",j England. .,. ~ T*.*ri>nto  ,25.1915.,\ug.
+2,1265,601,1307,3811,1720 571 Private ,,".. . | Hyatt, Jesse Mark ",Nil ,"I Hyatt, Mrs. Effie May ","|369 Clinton St., Toronto, Ont",. jCanada,N iHKiira Camp. Spt.,"7, 1915."
+2,1296,600,1330,3811,171635) Private ,,"... | Hyde, David ",Nil ,"S Hyde, Mrs. Elizabeth  ","j290 Berkeley St., Toronto, Ont ",. 'Canada .,.T«jronto ,11. 1915.,■Aug.
+2,1326,600,1364,3810,1720S3| Private ,,"Ibbotson, David Charles",Nil ,"; Parker, Mrs. Elizabeth ","889 Carlaw Ave., Toronto. Ont ",‘Canada,. Xiagar a Camp,7.1915.,opt.
+2,1355,601,1390,3810,172213!Private. ..,,"Irwin, James Ambrose .",Nil  ,"|Irwin, James  ","Box 623, Collingwood, Ont ",.: Canada.,". ,Tt»n>nto ",28.1915.,Aug.
+2,1380,600,1423,3810,173010 Private. ...,,Irwin. Robert James ,Nil ,"Irwin, John ","Streetsvilie, Ont  ",jOanada ., |Toronto. ..,"16, 1915.",jJuly
+2,1414,601,1450,3811,172214 Private ,,"Izsard, Henry Walter ..",Nil ,"jlzzard, Mrs, Harriett  ","540 Kingston Rd.. Toronto, Ont  ",j Engl and, -Toronto. .,1.1915.,l^-pt-
+2,1442,601,1480,3811,171485 j Pri vate  ,,"Jamieson, James ",Nil..... ,"IJaraieson, Mrs. Thomas ","48 McGee St.. Toronto, Ont ",. ‘Scotland, sTceronto ..,"U, 1915.",jAug
+2,1473,601,1511,3812,172358 Private ,,"Jamison, David Joseph",Can. Mil ,"j Jamison, Mrs Jane ","Miliisle, Co. Down, Ire   ",.! Ireland. ., [Toronto. ..,"3, 1915.",jSept.
+2,1499,602,1542,3810,171636] Private ,,farman. Harry ,12th Regt. .,"'Jarman, Richard Henry ","Wittersham, Susses, Eng ",.}England., fToronto .,"16, 1915.",■July
+2,1532,602,1565,3811,171318; Private ,,"Jarvis, James Walter ...",Nil ,"jJarvis, Mrs. Elizabeth ","24 Hanson St., Toronto Ont-",.! England..,.. .. iTuronto. . .,"12, 3915.",Aug
+2,1560,602,1595,3811,1724761 Private ...,,"Jarvis, Joseph Richard.",G.G.B.G..,"!Logan, Mrs. Alice ","57 Winchester St., Toronto, Ont ",Canada, {Toronto. .,"Apr!’ 10, 1916."
+2,1588,603,1625,3811,i 7 U3>8j Private ,,"Jefferies, John Ernest...",Nil ,"I.Jefferies, Mrs. Catherine ","18 Leighton Rd., Cheltenham, Gioe, Eng ",'Wales ,... IToionto jAug.,"3, 1915."
+2,1619,602,1654,3811,171792| Private ,,"Jefferson, Henry' Evans.",Nil ,"■Jefferson, Mrs. Mabel ","17 Widmer St., Toronto, Ont ",Canada,... {Toronto....... Aug.,"14, 1915."
+2,1650,604,1690,3811,172217! Bugler ,,"Jeffery, Ernest  ...",Nil ,"|Jeffery, Mrs. Eva Florence. .","33 Essex St., Toronto. Ont . _ ",England..,.... Toronto jAug.,20.1915.
+2,1679,600,1713,3813,369773! Private ,,"Jeffery, Henry ",Nil.........,"'Jeffery, Mrs. Eliza ","15 Burlington BIdg., West Greenwich, London, Eng",England.., Toronto •Feb.,"15, 1916."
+2,1705,602,1744,3811,17 l4S6j Private. ...,,"Jeffrey, James ",Territorials.,"j Jeff r ey, M rs. Daisy  ",80 Water St.. Toronto. Ont ,Scotland, jToronto jJuly,31. 1915.
+2,1735,602,1774,3812,171487! Private ,,"Jeffries, John ",109th Regt .,"Jeffries, Mrs. Ada ","73 Chester Ave , Scarborough Tsp., Toronto, Ont . .",England..,  S-;*K?.ra Camp.. jSept.,"7, 1915."
+2,1768,603,1804,3813,17201 lj Private ,,"Jenkins, Thomas D ...",45th Regt. . .,"[Jenkins, Mrs. Annie ","63V*> Markham St., Toronto. Ont..   ",Canada ., (Toronto  . .LAug.,"11, 1915."
+2,1793,602,1830,3812,171319| Bugler ,,"Jenkins, Wrilliam John...",Nil  ,"!Jenkins, William ","i 10 Norman Ave., Toronto, Ont   ",England.., tTorooto |Aug,"14, 1915."
+2,1827,603,1862,3813,17191 Ij Private ,,"Jennings, William ",Nil ,Uenning? Eliza ,"1202 Moriey Ave., Toronto, Ont   ",England.,.... Toronto j Aug.,14. 1915.
+2,1856,603,1888,3813,172022! Private ,,"Jenns, Frederick ",Nil ,iJenns. Albert  ,"j66 Bloor St. E., Toronto, Ont ",England..,  jToronto ;Aug.,"14, 1915."
+2,1880,603,1924,3813,171912| Private ,,"Jerome, Alfred  ",Nil ,"jJerome, Mrs. Mary Ann. ","128 Centaur St.. Portsmouth, Hants, Eng ",England., |Torr>ato jAag.,17.1915.
+2,1916,604,1948,3814,171490!Private.....,,Jerram. Norman Valentine,Nil ,Mason. Mrs. Edith ,"117 Duke St., London. S.E., Eng   ",England, {Toronto jAug,4. 1915.
+2,1941,602,1976,3814,539917*Private....,,".. ;Jilks, Dane Albert...",Can. Mil . . .,";Jilks, Mrs. Sarah ","'40 Henderson Ave., Toronto, Ont.  ",ICanada..,... . ’Toronto ..'Feb.,24.1916.
+2,2257,2105,2319,2201,83
+3,672,1937,710,2256,83rd Battalion
+3,798,3324,822,3636,Taken on Strength.
+3,849,1065,880,3193,,,,Former Corps.,,,Country of
+3,850,2424,874,2766,Address of Next of Kin.
+3,851,1785,876,2100,Name of Next of Kin.
+3,854,1065,876,1159,Name.
+3,879,3071,903,3159,Birth.
+3,895,3317,919,3401,Place.
+3,895,3559,918,3637,Date.
+3,995,488,1028,3688,171320,Bugler.,"Jinks, William Albert....",2nd Regt.,"Jinks, H ","47 Seaton St., Toronto, Ont ",Canada...,Toronto ,Aug.,"12, 1915."
+3,1025,489,1057,3688,171257,Sergeant.,". Johnson, Andrew ",Nil ,"Johnson, Miss Maggie ","Maghera, Co. DerTy, Ire.  ",Ireland...,Toronto ,Aug.,"12, 1915."
+3,1050,488,1086,3688,171322,Private..,". Johnson, Charles Henry.",Nil ,"Johnson, Mrs. Mary Frances....","107 Browning Ave., Toronto, Ont ",Wales ,Toronto ,Aug.,12.1915.
+3,1083,489,1116,3688,171637,Bugler.,". Johnson, William Lees...",12th Regt.,"Johnson, Mrs. Eliiabeth ","42 St. Clarens Ave., Toronto, Ont ",England..,Toronto ,July,"16, 1915."
+3,1113,488,1144,3688,172215,Private ,". Johnston, Peter ",S. A ,"Johnston, Mrs. Rachel ","31 Midland PI., Toronto, Ont ",Scotland,Toronto ,Au«:.,"23, 1915."
+3,1142,489,1174,3688,171914,L.-Corporal...,". Johnston, William ",Nil ,"Johnston, Mrs. Warden ","Church St., Mimico. Ont ",Scotland.,Toronto ,Aug.,"4, 1915."
+3,1171,488,1202,3688,172463,Private ,". Johnston, William ",Nil ,"Johnston, Mrs. Catherine ","12 Wright Ave., Toronto, Ont ",Ireland...,Toronto ,Mar.,"10, 1916."
+3,1202,489,1231,3688,171794,Private ,". Jones, Arthur ",Nil ,"Jones, Mrs. Alice ","25 Osborne St., Toronto, Ont ",Canada. .,Toronto ,Aug.,13. 1915.
+3,1230,488,1262,3688,171639,Private ,". Jones, Carrol Hilary ",I2th Regt. ..,"White, Mrs. A ' ","159 Sorauren Ave., Toronto, Ont ",Canada ..,Toronto ,July,"16, 1915."
+3,1260,488,1291,3686,172012,Private ,". Jones, David ",Territorials..,"Jones, Ann ","Hillside Peln, Merthyr Tydvtt, S. Wales ",Walea,Toronto ,Aug.,"11,1915-"
+3,1289,488,1320,3687,171640,Private ,". Jones, Ernest Arthur ",12th Regt...,"Jones, Mrs. Sarah ","117 Ferrier Ave., Toronto, Ont ",England..,Toronto ,July,"10, 1915."
+3,1318,487,1351,3687,172428,Private ,". Jones, Frederick George.",Nil ,"Jones, Mrs. Sarah ","117 Ferrier Ave., Toronto, Ont ",England .,Toronto....,Feb.,"1, 1916."
+3,1347,487,1379,3686,171638,Private ,". Jones, Leslie Charles ",12th Regt...,"Jones, Mrs. Letitia Mary ","1077 Gerrard St. E., Toronto, Ont ",England..,Toronto ,July,"16, 1915."
+3,1378,486,1406,3686,171915,Private.,. Jones. Thomas ,Nil ,"Jones, Mrs. Ann ","310 Kenilworth Ave., Toronto, Ont ",England..,Toronto ,Aug.,14.1915.
+3,1407,486,1438,3685,171987,Private.,"Jordan, Edward ",Imp. Forces,Jordan. Mrs. Mary Ann ,"104 Jones Ave., Toronto, Ont ",England..,Toronto ,Aug.,"13, 1915."
+3,1434,485,1468,3685,172216,Private.,"Judd, Henry Alfred ",Nil.,"Judd, Mrs. Jessie ","147 Argyle St., Toronto, Ont ",England..,Toronto ,^ept.,"3, 1915."
+3,1466,486,1498,3685,171543,"Private Judge, Thomas.",,12th Regt...,"Judge, Mrs. Annie....."" ","431 Queen St. E., Toronto, Ont ",Canada...,Toronto ,Aug.,"11, 1915."
+3,1495,486,1526,3684,171492,Private   ,"Jukes, Arthur",Nil ,"Jukes, Mrs. Annie  ","329*4 Gerrard St., Toronto, Ont ",England..,Toronto ,Aug.,"4, 1915."
+3,1519,487,1554,3685,171491,Private ,"Jukes, William ",Nil ,"Jukes, Mrs. Annie   ...","329>4 Gerrard St., Toronto, Ont ",England..,Toronto ,Aug.,"4, 1915."
+3,1554,485,1585,3685,172218,Private ,"Juniper, Mark Charles  ",Nil ,Juniper. Florence ,"494 Quebec Ave., Toronto, Ont. ",England..,Toronto ,Aug.,"30, 1915."
+3,1583,486,1615,3684,171493,Private ,Kalla?. Roy ,Nil ,"Kailar, Mrs. Irene ","991 Gerrard St., Toronto, Ont ",Canada...,Toronto ,Aug.,"9, 1915."
+3,1612,485,1642,3684,171324,Private ,"Kearns, Patrick ",Nil ,"Kearns, Mrs. Elisa ","223 Manning Ave., Toronto, Ont ",Canada...,T oronto ,Aug.,10.1915.
+3,1642,485,1674,3684,171325,Private ,"Keatiog, William Edward ",Nil ,"Keating, Mrs. Katherine ","68 Fulton Ave., Toronto, Ont ",Canada...,Toronto ,Aug.,12.1915.
+3,1671,485,1702,3684,172219,Private ,"Keen;* !, Albert Charles ",Nil ,"Keenan, Mrs. Margaret ","68 Willow Ave., Toronto, Out ",Ireland...,Toronto ,Aug.,30.1915.
+3,1701,485,1731,3684,171326,Private ,"Kellett, Arthur ",Nil ,"Kellett, Margaret ","535 Wellington St., Toronto, Ont ",England..,Toronto ,Aug.,12.1915.
+3,1725,487,1762,3685,171644,Private ,"Kelly, William Leo ",Can. Mil....,"Kelly, Mrs. Mary ","86 Mitchell Ave . Toronto, Ont ",Canada ..,Toronto ,Aug.,"11, 1915."
+3,1759,486,1791,3684,172226,Private ,"Kent, Albert Henry  ",Nil ,"Spencer, Mrs. Annie.. ","21 Maude Rd., Camberwell, London, Eng....",England..,Toronto ,Aug.,30.1915.
+3,1783,486,1820,3684,172419,Private ,"Kent, William Simpson ",N'il ,"Kent, Mrs. Priscilla ","313 Pacific Ave., Toronto, Ont ",England. .,Toronto  ,Jan.,24.1916.
+3,1817,487,1850,3684,171645,Private ,"Kenyon, Albert ",,"Kenyon, Mrs. Martha Emma. .,","Westlake Ave., Cedarvale, Toronto, Ont ",England..,Toronto ,Aug.,"11, 1^15."
+3,1847,486,1879,3685,171327,Private ,"Kerr, Hayden Douglas ",Can. Mil...,"Kerr, Mrs. Marian ","186 Galley Ave., Toronto, Ont ",Canada...,Toronto ,July,26.1915.
+3,1877,485,1907,3685,171328,Private ,"Kerr, Robert Hamilton ",Nil ,"Kerr, William ","95 Harcourt Ave., Toronto, Ont ",Canada...,Toronto ,Aug.,"12, 1915."
+3,1901,486,1938,3685,171494,Private ,"Kerr, Thomas Davidson ",Nil ,"Kerr, Mrs. Jane ","181 Logan Ave., Toronto, Ont ",Scotland.,Toronto ,Aug.,"9, 1915."
+3,1936,483,1968,3684,669546,Private ,"Keyes, John  ",Nil ,"Cottle, Nellie ","13 Grayton Pk., Highbury, London, N., Eng.",England..,Toronto ,Jan.,"31, 1916."
+3,1961,484,1997,3684,171495,Private ,"Keyworth, William  ",10th Regt.,"Keyworth, Mrs. Eva ","670 Jones Ave., Toronto, Ont ",England..,Toronto ,Aug.,"9, 1915."
+3,1994,484,2027,3684,172223,Private ,"King, Gordon ",Nil ,"King, George Willis ","494 Dur.das St., Toronto, Ont ",CaDada ..,Toronto ,Sept.,"7,1915."
+3,2025,484,2057,3685,172059,Private ,"King, Henry  ",Nil ,"King, Thomas ","Dover, Kent, Eng ",England..,Toronto ,Aug.,14.1915.
+3,2054,484,2086,3684,172220,Private ,"King, William Brice ",Nil ,"King, William Brice ","131 Shanly St., Toronto, Ont  ",Ireland.. .,Toronto ,ept.,"4, 1915."
+3,2083,484,2115,3685,171795,Private ,"King, William John ",Nil ,"King, William ","•55 Pleasant Blvd., Toronto, Ont ",Canada...,Toronto ,Aug.,"13, 1915."
+3,2113,480,2145,3685,669238,Private ,"Kinghorn, John ",Nil ,"Kinghorn, Thomas   ","R.R. No. 3, W'oodville, Ont ",Canada...,Toronto ,Jan.,"29, 1916."
+3,2142,483,2175,3685,171796,Private ,"Kings, James George ",Nil ,"Kings, Harriet   ","2 Westrock, Warwick. Eng ",England..,Toronto ,July,31.1915.
+3,2172,484,2204,3685,171797,L.-Corporal ,"Kirby, Thomas ",Nil ,"Kirby, Mrs. Catherine ","53 Myrtle Ave., Toronto, Ont.  ",Canada ..,Toronto ,Aug.,"17, 1915."
+3,2201,483,2231,3686,171646,Private ,Kirk. Lawrence Frederick ,Nil ,"Kirk, Mrs, Elisabeth ","219 Dundas St., Toronto, Ont ",England..,Toronto ,Aug.,11.1915.
+3,2229,482,2263,3686,172058,Private ,"Knight, Albert ",Nil.,"Knight, Mary Ann ","139 Splott Rd., Cardiff, Wales ",Wales,Niagara Camp.,Sept.,"7, 1915."
+3,2260,482,2293,3686,172221,Private ,"Knight, Harry ",Nil.,"Knight, Mrs. Maria ","Ill Millicent St., Toronto, Ont ",England. .,Toronto  ,Sept.,"1, 1915."
+3,2290,483,2323,3687,17171,Private ,"Koopman, Alfred ",Nil.,"Koopman, Mrs. Emily ","15 Woodlee Rd., Toronto, Ont ",England..,Toronto ,Aug,"17, 1915."
+3,2319,482,2352,3686,172222,Private ,"Kyle, James John ",Nil.,"Scott, John ","357 Resilack St., Moosejaw, Sask ",Scotland.,Toronto ,Sept.,"7, 1915."
+3,2349,482,2381,3686,172369,Private ,La Barge. Joseph Alfred ,Nil.,"La Barge, Mrs. Marie ","Valley field, P.Q ",Canada..,Toronto ,Nov.,"3, 1915."
+3,2378,482,2411,3686,1714961,Private ,"Lackey, David ",Nil.,"Campbell, Mrs. Samuel ","37 Davies Ave., Toronto, Ont ",Canada..,Toronto ,A up.,"4, 1915."
+3,2408,1074,2438,3687,,,,Nil.,"Laidler, Andrew .","Elford, Chathill, Northumberland, Eng ",England..,Toronto ,Aug.,"13, 1915."
+3,2433,1074,2437,1348, 
+3,2441,2047,2505,2381,-8 3 BN
+4,95,3011,130,3778,"«.- ■ **►,**, 'in Wrt>BI»f,'’""""»ll'fflni'iiiiii'i nr ""iffrn’""*'ft""""*"
+4,292,572,321,3792,172470,Private ,"Laird, John ",Nil ,"Lowe, Mrs. Janet.   ","264 Aird Ave., Montreal, P.Q ",Scotland.,Toronto ,Mar,", 1916."
+4,318,573,347,3792,171498,Private ,"Lamb, David ",Territorials....,"Lamb, Mrs. Georgina ","20 Annfield St., Dundee, Scot ",Scotland.,T or on to   ,Aug,", 1915."
+4,344,573,374,3792,171497,Private ,"Lamb, James ",Imp. Forces. ..,"Lamb, Mrs. Christina. . . .","70 Lewis St., Toronto, Ont ",Scotland.,Toronto ,Aug.,1915.
+4,365,574,404,3793,17 MAH,Bugler   ] *,"Lamb, James Owen ",12 th Regt ,"Lamb, James ","323 Cameron St., Fort William, Ont ",England..,Toronto.   ,July,1915.
+4,398,574,429,3793,171499,Private ,"Langevin, Edmond Francis",Nil ,"Largevin, Mrs. Marie Q...","1289 College St., Toronto, Ont ","Canada..,",Toronto ,Aug.,1915.
+4,426,575,458,3793,172457',Private ,Lappin. Frederick ,Nil   ,"Lappin, Mrs. Annie."" ","1198 DufTerin St., Toronto, Ont ",Canada..,Toronto ,Mar.,1916.
+4,454,576,488,3794,171875,Sergeant ,"Lappin, John ",Territorials ,"Lappin, Mrs. Augusta ","2 Southwell St., Bristol, Eng ",England..,Toronto ,Aug.,1915.
+4,482,576,515,3795,172230,Private ,"Larke, William Stanley....",Nil ,"Larke, Frank William....","Oshawa, Ont ",Canada...,Toronto ,Aug.,1915.
+4,512,575,546,3794,172450,Private ,"Lee, Archibald ",Nil.,"Lee, Mrs. Mary ","8 Weston Rd., Thames Ditton, Surrey,",England..,Toronto ,Feb.,1916.
+4,516,2856,544,2911,Eng
+4,541,576,576,3795,171501,Private ,"Leonard, Arthur ",Can. Mil ,"Lennard, Mrs. Ettie Maria","212 Queen St. E., Toronto, Ont ",England..,Toronto ,Aug.,1915.
+4,572,577,602,3795,1713J0,Private ,"Leonard, John Alexander...",Nil ,"Leonard, Mrs. Bessie ","70 Blair Ave., Toronto, Ont ",U.S.A....,Toronto ,Aug.,1915.
+4,601,577,634,3794,171649,Private. ,"Lester, Alfred ",Nil ,Lester. Mrs. Catherine ,"454 Main St., E. Toronto, Ont ",England..,Toronto ,Aug.,1915.
+4,631,577,664,3795,171988,Private ,"Lester, William Henry ",Nil ,"Lester, Mrs. Lily ","8 Connaught Ave., Toronto, Ont ",England .,Toronto   ,Aug.,1915.
+4,660,577,693,3795,171332,Private ,"Le Sueur, Charles William .",Chan. Isl. Md.,"Le Sueur, Mrs. Alice ","323 Sumach St., Toronto, Ont ",England..,T oronto ,Aug.,1915.
+4,690,577,723,3794,172013,Private ,"Lickiey, Hugh Mackay....",Nil ,"Lickiey, Mrs. Agnes Fraser","Gravenhurst, Ont ",Scotland.,T oronto  ,Aug.,1915.
+4,719,577,752,3794,172036,Private ,Lind. Kenneth ,Nil ,"Lind, Emma ","Sugarhouse, Low Southampton, Eng. .",England..,1 oronto ,Aug.,1915.
+4,749,577,782,3794,172375,Private ,"Lindsay, Thomas Robert..",Can. Eng ,Lindsay. Mrs. Mary ,"196a Sackvilie St., Toronto, Ont ",Canada ..,[Toronto ,Nov.,1915.
+4,778,577,811,3794,171331,Private ,"Linge, John Arthur ",C.A.M.C ,"Linge, Mrs. Florence Elisa","120 Cheater Ave., Toronto, Ont ",England..,Toronto ,Aug.,1915.
+4,808,577,840,3794,171721,Private ,"Linington, Frank William..",2nd Regt ,"Liningfon, Ernest J ","184 Rushoime Rd., Toronto, Ont ",Canada .,Toronto ,Aug.,1915.
+4,837,576,869,3794,172373,Private ,"Linn, Cyril Verner ",Nil ,"Linn, Mrs. Susie ","11 Dean St., Toronto, Ont ","Canada ,",Toronto  ,Nov.,1915.
+4,868,577,898,3793,171917,Private ,"Linton, Joseph ",Nil..  ,"Linton, Mrs. Thomas ","5 Clara Cres., Bloomfield, Belfast, Ire.",Scotland,T oronto  ,Aug.,1915.
+4,897,577,927,3793,172229,Private. ,"Liacumb, Oscar Albert ",Nil.  ,"Liacumb, Mr  ","22 Canning Ave., Toronto, Ont ",Canada..,Toronto ,Aug.,1915.
+4,927,576,958,3793,172037,Private ,"Liscumb, Tilmen ",2nd Regt ,"Liacumb, Mrs. Mary Elisa","155 Gowac Ave., Todmorden, Toronto,",Canada...,T oronto ,Aug.,1915.
+4,927,2859,951,2898,On
+4,956,577,986,3793,171800,Private ,"Littlewood, Herbert ",Nil ,"Littlewood, Mrs. Elisa ","21 Jesmond Ave., Fairbar.k, Ont ",England..,Toronto ,Aug.,1915.
+4,985,577,1016,3794,171502,Private. ,"Lock, William ",Nil ,"Lock, Mrs. Polly ","76 Water St., Toronto,Ont  ",Canada .,Toronto  ,Aug.,1915.
+4,1015,575,1046,3793,409253,Private ,"Lomas, Ernest ",Nil ,"Lomas, Mrs. Mary Ann...","191 Booth Ave., Toronto, Ont ",Car. ad a,Toronto ,Jan.,1916.
+4,1045,577,1076,3793,172233,Private ,"Long, William Henry ",Nil ,"Long, Charles  ","57 Endean Ave., Toronto. Ont ",England..,Toronto ,Aug.,1915.
+4,1074,577,1103,3793,171802,Pri vafce ,"Lome, Will;.am ",Nil ,"Lonie, Mrs. Ada ","88 Church St., Toronto, Ont ",England .,Toronto  ,July,1915.
+4,1104,577,1133,3793,172234,Private ,"Loose, Thomas   ",Nil ,"Loose, Mrs. Annie ","60 Cumberland St., Toronto, Ont ",England..,Toronto ,Aug.,1915.
+4,1132,578,1163,3793,172065,Private ,"Lowe, David Albert ",12th Regt ,"Lowe, Mrs. Gertrude Harri","88 Ennerdaie Rd., Fair bank, Ont ",England..,Toronto ,July,1915.
+4,1162,577,1194,3793,172231,Private ,"Lowery, Robert Percival..",2nd Regt ,Lowery. John H ,"42 Mountview Ave., Toronto, Ont ",Canada...,Toronto ,Sept.,1915.
+4,1188,577,1222,3793,171503,Pri vate ,"Loso, Frederick ",Can. Mil ,Loso. Mrs. May M ,"138 Ma\ety St., Toronto. Ont ",Canada...,[Toronto  ,Aug.,1915.
+4,1220,578,1249,3792,172387,Private ,"Lumsden, David Low ",Nil ,"Lumsden, Mrs. Grace ..","212 Munro St., Toronto, Ont ",Scotland.,Toronto  ,Dec.,1915.
+4,1249,577,1282,3793,171333,Private ,"Lyford, Henry ",Nil ,Lyford. Mrs. Clara Levina,"19 Woodville Ave., Todmorden, Ont. ..",England..,Toronto ,Aug.,1915.
+4,1279,578,1311,3793,171504,Private ,"Lynn, Robert John ",Nil ,"Lynn, William ","64 Carlaw Ave., Toronto, Ont ",Ireland...,Toronto ,Aug.,1915.
+4,1309,578,1341,3793,172407,Private ,"Lyons, Thomas Robert.,..",29 th Regt ,"Lyons, Mrs. Martha ","Hespeler, Ont..   ",England..,Toronto.......,Jan.,1916.
+4,1338,578,1370,3793,171803,Private ,"Lyons, William Edward. . .",G.G.B.G ,"Lyons, Alfred James ","Hespeler, Ont ",Eng] and,Toronto  ,Aug.,1915.
+4,1351,578,1401,4203,171510,Private ,"Macdonell, George ",Nil ,"Macdonell, Mrs. Sarah ...","74 Bird Ave., Toronto, Ont ",Canada...,Toronto ,Aug.,1915.
+4,1351,4117,1401,4203,ml
+4,1396,578,1428,3792,171264,L.-Sergeant ,"MacGregor, Charles Alexan<i",Nil ,"MacGregor, Mrs. Caroline","158 Bleecker St., Toronto, Ont ",Canada...,Toronto ,Aug.,1915.
+4,1425,577,1455,3792,171342,Private ,"MacKensie, Hector ",Nil ,"M ac Kensie, Donald ",".54 Denton Rd., London, Eng ",Scotland.,Toronto  ,Aug.,1915.
+4,1454,576,1487,3791,65927S,Private ,"Maclam, William James. . .",Nil ,"Maciam, Mrs. Sophia ","52 M''Murray Ave., West Toronto, Ont.",Canada...,Toronto........,Jan.,1916.
+4,1483,577,1516,3792,17180*,Private   ,"Magee, W'illiam ",Nil ,"Magee, Mrs. A ","636 Ontario St., Toronto, Ont ",Canada..,Toronto  ,Aug.,1915.
+4,1513,577,1546,3791,172248,Private  ,"Mahony, Harry ",Nil ,"Mahony, John   ","West Hartlepool, Durham, Eng ",England..,Toronto ,Sept.,1915.
+4,1542,578,1575,3791,172429,Private ,"Mains, Duncan Alexander..",2nd Regt.,"Mains, Mrs. Katherine .. .","39 Marmaduke St., Toronto, Ont ",Caiada...,Toronto ,Jan.,1916.
+4,1571,578,1604,3790,172244,Private . ,"Malcolm, Charles Secor.. .",Nil ,"Malcolm, William ","846 Kingston Rd., Toronto, Ont ",Canada...,Toronto  ,Aug.,", 1915."
+4,1600,578,1634,3789,171505,Private ,"Malcolm, George ",Nil ,"Malcolm, Mrs. Jeannette..","292 Church St., Toronto, Ont ",Scotland.,Toronto ,Aug.,",1915."
+4,1630,578,1661,3790,171805,Private ,"Maniei, Daniel  ",Nil ,Maniei. Mrs. Catherine...,"81 Claremont St., Toronto, Ont ",Canada...,Toronto ,Aug,", 1915."
+4,1658,577,1693,3790,171921,Private ,"Mann, Sylvester ",Nil. ,"Mann, Mrs. Jeannette ","14 Metcalfe St., Toronto, Ont ",Canada ..,*T oronto ,Aug.,", 1915."
+4,1688,575,1722,3790,669704,Private ,Mann. William Henry ,2nd Regt.,"Mann, Mrs. Alice Mary...","2 Rear of 7 Portland St., Toronto, Ont.",England..,T oror to ,Feb.,", 1916."
+4,1718,576,1752,3790,172235,Private   ,Manning. William George..,Nil.,"Manning, Mrs. Alice ","158 St. James Rd., Holloway, London,'",England..,Toronto ,Aug.,1915.
+4,1728,2872,1748,2902,a*
+4,1746,576,1783,3790,171652,Private ,"Mansfield, Harvey George.",12th Regt.,"Mansfield, Mrs. Margaret.","195 Seaton St., Toronto, Ont ",Canada...,'Toronto  ,Aug.,", 1915."
+4,1773,576,1811,3791,171416,"L.-Sergeant., ",Marr. Ainslie  ,10th Regt.,"Marr, Henry ","Station Rd., Turriff, Aberdeen, Scot.,.",Scotland.,Toronto ,Aug.,", 1915."
+4,1773,1370,1807,1436,mm:
+4,1805,576,1840,3790,171653,Private ,"Marriotte, Edmund Richard",12th Regt.,"Marriotte, Alfred ","1595 Jackson Blvd., Chicago, 111., U.S.A",Canada...,’Toronto ,Aug.,",1915."
+4,1813,1371,1835,1397,w
+4,1835,575,1870,3790,172240,Private ,"Marshall, George ",Nil ,"Deamley, Alfred  ","266 Sherbourne St., Toronto, Ont..",England..,oronto  ,Aug.,",1915."
+4,1864,577,1898,3789,171554,Private ,"Marshal!, John Bank.?......",Nil ,"Marsha!!, Mrs. Gwennie...","12 Guest Ave., Toronto, Ont ",Scotland.,Toronto ,Aug.,",1915."
+4,1893,575,1930,3790,171655,Private ,"Martin, George Arthur ",12th Regt.,"Martin, John G ","397 Keele St., Toronto, Ont ",Canada...,Toronto ,Aug.,", 1915."
+4,1922,575,1958,3790,171990,Private ,"Martin, Gordon Matthew..",Nil ,"Martin, Mrs. Mary Jane...","83 Isabella St., Toronto, Ont ",Scotland.,Toronto ,Aug,",1915."
+4,1952,575,1986,3790,171808,Private. ,"Martin, William ",Nil ,"Martin, Louise ","Tullamore, King’s Co., Ire ",Ireland...,Toronto ,Aug.,",1915."
+4,1981,575,2018,3790,172246,Private ,"Marwood, George ",Nil ,"Marwood, Mrs. Mabel....","125 Spruce St., Toronto, Ont ",Ergland..,Toronto ,Aug.,", 1915."
+4,2011,574,2045,3790,172238,Private ,"Mash, John ",Nil ,"Barker, Mrs. Lizsie ","196 Old Fort Rd., Bethnal Green, London, Eng",England..,Toronto ,Aug.,", 1915."
+4,2210,4094,2358,4174,I
+4,2269,2083,2337,2413,-85 BN
+5,449,1901,488,2213,83rd Battalion
+5,578,3293,601,3605,Taken on Strength.
+5,627,645,659,3159,,,,Former Corps.,,,Country of
+5,627,2384,651,2730,Address of Next of Kin.
+5,630,1753,654,2063,Name of Next of Kin.
+5,632,1030,655,1123,Name.
+5,633,645,657,727,Rank.
+5,655,468,678,487,a
+5,658,3039,681,3124,Birth.
+5,680,460,717,482,£
+5,773,461,811,3664,172236; Private ,,"Mason, Charles ",Nil ,"Mason, Thomas  ","140 .Arundel Ave., Torontd, Ont.",England ,Toronto. . .,Aug.,"17, 1915."
+5,804,461,836,3664,171809! Private ,,"Mason, George Robert ",Nil ,"Mason, Mrs. Louisa ","140 Arundel Ave., Toronto, Ont.",England ,Toronto. ..,Aug.,"14, 1915."
+5,833,462,866,3663,171656! Private ,,"Mason, Sydney Earl ",Nil ,"Mason, Mrs. Maud ","East St., Oadby,-Leicester, Eng",England ,Toronto . .,Aug.,"11, 1915."
+5,862,461,894,3663,172420! Private.. • •,,"Mason, William Charles ",109th Regt,"!Mason, Mrs. Mary ","The Cedar, Watta Rd., Tavistock, Devon",Ireiand ,Toronto ..,Jan.,"24, 1916."
+5,863,2777,889,2834,", En"
+5,892,461,923,3663,171923! Private ,,"Matthews, Jonas ",Nil ,"'Matthews, Mrs. Rosetta ","23 Gloucester Grove, Fairbank, Ont ",England ,Toronto...,Aug.,7.1915.
+5,922,462,954,3664,172421,Private,"May, Frederick  ",Nil ,"May, Mrs. Bessie ","Trenninick, New Quay, Cornwall, Eng .",England,Toronto..,Jan.,"25, 1916."
+5,948,461,986,3664,171334,Private,"Maylott, Elmer ",Nil ,"|Maylott, Albert.   ",53 Lavina St.. Swansea. Ont . . .,USA ,j Toronto. .,Aug,10.1915.
+5,979,462,1013,3664,171506,Private..,"Maynard, Arthur ",Nil ,"Maynard, Mrs. Ella Laura. ..","26 Frtejam Ave., Mount Dennis,",England ,(Toronto....,Aug.,"7, 1915."
+5,979,2628,1005,2712,", Ont.."
+5,1010,462,1042,3665,171417,Private..,"Me Adam, Robert ",Territorials,"| Me Adam, Mrs. Martha ","105 Ferrier Ave., Toronto, Ont..",Scotland ,I Toronto. .,July,"31, 1915."
+5,1040,461,1070,3664,171509,Private..,"McAllister, James  ",Nil ,"McAllister, Mrs. Isabella ","3a Dawson Ave., Toronto, Ont..",Scotland ,!Toronto ..,Aug.,2.1915.
+5,1069,463,1099,3665,1722561 Private..,,"McAree, Thomas ",Nil ,"McAree, Mrs. Mary Ann ","260 Donegal Rd., Belfast, Ire. . .",Ireland ,.Toronto. ..,Aug.,"24, 1915."
+5,1098,463,1130,3665,171343S Private..,,"McAuley, Alexander ",Nil ,"McAuley, Archibald ","31 Storie St., Paisley, Scot ",Scotland... .,'Toronto. ..,Aug-,"12, 1915."
+5,1127,463,1158,3664,17225-5; Private..,,"McCallum, Ernest Carl ",2nd Regt,"McCallum, Peter James ","44 Dupont St., Toronto. Ont. . . .",Canada ,j Toronto,Sept.,"9, 1915."
+5,1156,463,1189,3664,1715731 Sergeant,,"McCarthy, Ernest Joseph. . .",12th Regt,"McCarthy, Daniel ","32 Fisher St., Toronto. Ont ....",Canada ,iToronto. ..,July,16.1915.
+5,1186,463,1217,3665,172257: Private ,,"McClive, John Charles ",Nil ,"McClive, Mrs. Elizabeth ","143 Spruce St., Toronto, Ont . .",Canada,(Toronto. ..,Aug-,31. 1915.
+5,1214,464,1249,3665,17l252lCo. Q.-M. Se,,"McCollum, Charles Scadding",2nd Regt,"I Kyle, Mrs. C. E ","Lonsdale Apts., 619 Avenue Rd., Toronto",Canada ,'Toronto. . .,Aug.,"28, 1915."
+5,1216,2780,1239,2831,Ont
+5,1243,463,1277,3664,171651-Private,,"McCoy, Melvin Charles.",Nil ,"| McCoy, George ","Freelton, Ont ",C anad a ,iToronto. ..,July,"16, 1915."
+5,1268,462,1311,3665,171662,Private...,"Me Cron, George William",DC,M,12th Regt,"jMcCron, Mrs. Eliza ","16 Wayland Ave., Toronto, Ont ",Canada ,; Toronto ..,Aug.,"11, 1915."
+5,1303,460,1336,3665,172388,Private...,"McCrone, Hugh ",Nil ,"I McCrone, Mrs. Annie ","j89 Broadview Ave., Toronto, Ont ",Scotland ,•Toronto. ..,Nov.,"30, 1915."
+5,1333,461,1369,3665,171255,Sergeant.,"McCullagh, William ",Nil ,"j McCullagh, Alexander........","19 Golden Ave., Toronto, Ont ",Ireland ,Toronto . .,Aug.,"12, 1915."
+5,1361,462,1397,3666,172252,Private ..,McCutcheon. John  ,Nil ,"j McCutcheon, Mrs. Christina. .","755 Lansdowr.e Ave., Toronto, Ont ",Scotland ,[Toronto. . .,Aug.,"21, 1915."
+5,1386,462,1424,3665,171344,Private...,"McDonald, John Joseph ",,"Tewbart, Mary ","270 Maria St., Toronto, Ont ",England ,j Toronto .,Aug.,"12, 1915."
+5,1421,462,1455,3666,171575,Sergeant,"McDonald, Robert Hamilton",Nil ,McDonald. Mrs. Elizabeth —,"Dunlargue, Keady. Co. .Armagh, Ire... .",Ireland ,", Toronto. . .",Aug.,"11, 1915."
+5,1450,462,1483,3665,171663,Private...,"Me Dougall, William ",Imp. Forces,"Me Dougall, Mrs. Mary ","7 Waacana Ave., Toronto, Ont ",Scotland .,(Toronto. .,Aug.,11. 1915.
+5,1480,464,1512,3665,171345,Corporal,"McGarry, James ",Territorials.,"McGarry, Mrs. Alice ","285 Augusta Ave., Toronto, Ont ",Scotland ,Toronto . .,Aug.,"10, 1915."
+5,1509,461,1541,3666,609265,Private.,"McGowan, George Frederick.",Nil ,"McGowan, Mrs. Ellen ","91 Kenneth Ave., Toronto, Ont ",Canada ,Toronto ..,Jan.,12.1916.
+5,1538,464,1569,3665,172382,Private.,"McGowan, James Ernest ",Nil ,"McGowan, Miss Mary ","123 Bartlett Ave., Toronto, Ont ",Canada ,Toronto ..,Nov.,"18, 1915."
+5,1567,464,1597,3665,171991,Private.,"McGowan, Matthew ",Nil ,McGowan. Mrs. Mabel ,"251 Gerrard St. E., Toronto, Ont ",Canada ,Toronto. ..,July,"19, 1915."
+5,1596,464,1633,3665,171.511,. Corporal,"McGuffin, Richard ",10th Regt,McGuffin. James—  ,"251 Pape Ave., Toronto, Ont ",Ireland ,jToronto ..,Aug.,"13, 1915."
+5,1626,463,1662,3666,172233,1 Private...,"McIntosh, John ^awson ",Nil ,"McIntosh, Mrs. Jennie ","126 Northcote Ave., Toronto, Ont ",Scotland ,j Toronto. . .,Aug.,20.1915.
+5,1655,465,1688,3666,171512,Private...,"McIntyre, William  ",Nil ,"McIntyre, Miss Maggie ","Billericay, Essex. Eng ",Scotland ,Toronto. ..,Aug.,"7, 1915."
+5,1684,464,1718,3667,171346,"Private..,","McKay, Geoffce Leslie ",Nil ,"McKay, Alexander ","517 Gladstone Ave., Toronto, Ont ",Canada ,JToronto. .,Aug.,"12, 1915."
+5,1713,465,1745,3667,172258,! Private..,Me Kendrick. Arthur William,Nil ,"Me Kendrick, Roy ","196 Sackville St., Toronto, Ont ",Canada ,I Toronto . .,Aug.,"16, 1915."
+5,1741,464,1779,3666,1724311 Private..,,"McKenzie, Albert Victor ",Nil ,"McKenzie, F’rank  ","|88 Hamilton St., Toronto, Ont ",Canada,jToronto. ..,Feb.,"2, 1916."
+5,1771,465,1810,3666,172023)Private..,,"McKenzie, Seecil Edmund.. .",10th Regt.,"McKenzie, Mrs. Sarah Elizabe","13 St. David’s PI., Toronto, Ont ",i Canada ,i Niagara Ca,Sept.,"7, 1915."
+5,1802,464,1839,3666,171513 Private..,,"Me Knight, John ",Nil ,"McKnight, Mrs. Maggie ","215 Ontario St.. Toronto, Ont ",jCanada ,Toronto.. .,Aug.,"7, 1915."
+5,1831,463,1868,3666,171815) Private .,,"Me Knight, Robert ",2nd Regt.,"Me Knight, Mrs. Luelia ","351 Markham St., Toronto, Ont ",■Canada ,jToronto. ..,Aug.,"14, 1915."
+5,1860,461,1895,3666,669338 Private...,,"McLachlan, Guy Henry Rufus",Nil ,McLachlan. Mrs. Ada ,"Ma^netawan, Ont r ",jCanada ,Toronto . .,Feb.,23. 1916.
+5,1890,464,1922,3667,172254,Private .,"McLeod, Hprbert Milton ",Nil ,"McLeod, John Daniel ","Flcsherton, Ont ",Canada ,| Toronto. ..,Sept.,"1, 1915."
+5,1919,464,1952,3665,171919,Private..,"McMullen, William ",Nil ,"McMullen, Mrs. Helen ","28 Peel St., Preston, Lancs, Eng ",England ....,jToronto...,Aug.,"14, 1915."
+5,1950,465,1981,3667,171665,Private..,"McNamara, William ",Nil ,"McNamara, Mrs. Eliza ","151 Weston St., Bolton, Lancs, Eng ",England ,I Toronto. ..,Aug.,"11, 1915."
+5,1975,463,2013,3666,172451,Private..,"McNaughton, Harold Harry",Nil,"McNaughton, Mrs. Mary ","256 Lippincott St., Toronto, Ont ",Canada ,jToronto. . .,Jan.,17.1916.
+5,2008,464,2042,3666,171514,Private..,"McNay, Arthur ",Imp. Forces,"McNay, Mrs. Esther ","30 Rhodes Ave., Toronto, Ont ",England,(Toronto .,July,31. 1915.
+5,2039,461,2070,3667,669275,Private..,McNeil. Joseph Addison. ...,Nil ,McNeil. James  ,"Eimsdale, Prince, P.E.I ",Canada  ,i Toronto .,Jan.,"26, 1916."
+5,2065,464,2104,3667,171920,Private,"McPhail, George Milne ",Nil ,"McPhail, Mrs. Grace F ","3 Lambton Ave., Mount Dennis, Ont ....",Scotland ,[Toronto. ..,Aug.,"14, 1915."
+5,2097,464,2132,3667,171349,Private,"McQueen, Robert ",Nil ,"McQueen, Mrs. Janet ","33 Glasgow St., Maxwelltown, Dumfries,",Scotland  ,jToronto. .,Aug.,"12,1915."
+5,2099,2764,2123,2825,Scot
+5,2127,461,2161,3667,669631,Private.,"McWilliams, Dennis Royal. .",Nil ,"McWilliams, Mrs. Edith Ethel","54 Salisbury Ave., Toronto, Ont ",England.,iToronto,Feb.,"9, 1916."
+5,2157,464,2191,3667,171507,Private..,Melross. James Percy ,Nil ,Heath Mrs. Jennie  ,"305 Sackville St., Toronto, Ont  ",Canada ,• Toronto .,i Aug.,"11, 1915."
+5,2180,464,2218,3668,172391 Private,,"Meredith, Elmore Lear ",Nil ,"Meredith, Mrs. Irene ","8 Badgerow Ave., Toronto, Ont ",Canada .,‘Toronto,1 Dec.,"6, 1915."
+6,198,174,233,374,m spesis
+6,381,501,408,3720,172247t Pri vat?.,,!Merrick. George Ernest.,Nil..,"Merrick, Mrs. Myrtle ","692 Bathurst St., Toronto, Ont ",Canada .*. . .,Toronto ,Sept.,8. 1915-
+6,405,502,440,3714,172239 Private.,,"jMildenhall, Cecil John..",Nil..,"jMildenhall, Mrs. Beatrice Madge","47^4 Blake St., Toronto, Ont ",England ,T oronto ,Aug.,"18, 1915."
+6,434,503,466,3714,171335,Private.,"I Miller, Irving Henry....",Nil..,"IMiller, Mrs. Caroline ","106 Bastedo Ave., Toronto, Ont ",Canada. * ,T oronto  ,Aug-,12.1915.
+6,460,504,499,3715,172237,Private ,"|Miller, Wilfred..... ",Nil..,"Muff, Ethel ","Ballscourt Cottage, 2H Beilwoods Pk., Toronto,",England ,Toronto ,Aug.,24.1915.
+6,467,2922,486,2960,nt.
+6,488,503,520,3715,172259,Private ,"Mills, Charles William .",Nil..,"Mills, Sydney ","5 Seafield Terr., Portsmouth, Hants, Eng",England. .  ,Toronto.    ,Aug.,23.1915.
+6,515,505,550,3715,172050,Private ,"!Mills, Harry Ernest . . .",Nil..,"Mills, Mrs. Emily Jane. . . .","'403 Gerrard St., Toronto, Ont ",England ,Toronto........,Aug.,"12, 1915."
+6,545,505,581,3716,171420,"Corporal. . ,","I Milne, David Smith....",48th Regt,"Milne, Mrs. Ellen ","Kirriemuir, Forfar, Scot ",Scotland ,T oronto ,Aug.,7.1915.
+6,574,504,615,3716,172038,Private ,"j Milne, George Cecil ",C.A.M.C.,"Moses, Mrs. Lillian ","7 Logan Ave., Todmorden, Ont ",Canada ,Niagara Camp.,Sept.,7.1915.
+6,603,506,637,3717,171925! Private ,,"I Minor, Arthur ",Nil ,"Minor, Mrs. Mary ","Rr. of 31 Duche.-s St., Toronto, Ont ",Canada ,Toronto ,Aug.,"2, 1915."
+6,632,505,672,3718,171508! Private ,,"|Minter, Ernest John ",Territorials,"Minter, Mrs. Esther E ","65 Bolton Ave., Toronto, Ont ",England ,Toronto........,Aug.,"9, 1915."
+6,660,505,697,3718,1720661 Private.,,"|Mitchell, Albert Edward",Nil ,"Mitchell, Robert W ","c;o Mrs. Lawrence, 405 Carlton St., Toronto, Ont",Ireland ,Niagara Caro p.,Sept.,"7, 1915."
+6,690,505,724,3718,171926,Private ,"Mitchell, Albert Victor.",Nil ,"Mitchell, Mrs. Clara Jessie","141 Argyle St., Toronto, Ont ",England ,Toronto  ,Aug.,14.1915.
+6,716,505,755,3718,1716.57,Private ,,DCW,"Mitchell, George ",12th Regt,"Mitchell, George  ","San Remo, Italy ",! England ,Toronto........,July,"16, 1915."
+6,748,505,782,3719,171658,1 Private ,"Mitchell, W'iliiam Chambers",. Nil ,"Mitchell, Mrs. Jennie ","108 Barton Ave., Toronto, Ont ",'Canada ,Toronto........,Aug.,11.1915.
+6,778,505,814,3718,171811,Private ,"Moloney, Joseph William",. Nil ,"Moloney, John Joseph ","13 Sheridan Ave., Toronto, Ont ",Canada ,Toronto........,Aug.,"17, 1915."
+6,807,504,849,3718,171977; Sergeant ,,"Montgomery, Albert Andrew",. 2nd Res;t.,"Montgomery, Mrs. Elizabeth","152 Pearson Ave., Toronto, Ont ",Canada ,Toronto ,Aug.,"14, 1915."
+6,837,505,875,3718,171413;Sergeant....,,"Montgomery, Clarence ",. Can. Mil..,"Montgomery, Mrs. Martha..","130 Galt Ave., Toronto, Ont. ",Canada ,Toronto ,Aug.,7.1915.
+6,866,506,902,3718,171660' Private ,,"Montgomery, John ",. 12th Regt.,"Montgomery, Mrs. Ann ","120 Bank St., Alexandria, Dumbarton, Scot",Scotland,T oronto ,July,16.1915.
+6,896,505,931,3718,163637! Private ,,"Montgomery, Robert ",. Imp. Force,"Montgomery, Mrs. Ellen....","103 Marlborough Ave., Toronto, Ont ",Ireland ,Toronto ,Aug.,"10, 1915."
+6,926,505,964,3718,172242j Private ,,"|Moore, Charles Christopher",. Nil ,"Moore, Mrs. Isabella ","11 Mark St., Toronto, Ont. ",Canada ,Toronto ,Aug.,17.1915.
+6,955,502,997,3717,201233j Private ,,"I Moore, Edgar Cosgrove ",Nil ,"■Moore, George H ","59 Woodlawn Ave., Toronto, Ont ",Canada ,Toronto ,Oct.,"19, 1915."
+6,981,505,1023,3716,1722431 Private ,,,MW,"j Moore, George Herbert ",Nil ,"|Moore, George  ","|59 Woodlawn Ave.. Toronto, Ont ",'Canada   .,Toronto ,Sept.,"8, 1915."
+6,1011,505,1059,3716,171968;Sergeant ,,"j Moore, Robert Edward E .",2nd Regt.,"Moore, Mrs. Mary Priscilla","! 19 Boustead Ave., Toronto, Ont ",ICanada ,Toronto ,jAug.,"18, 1915."
+6,1041,505,1083,3717,172006 ‘ Private ,,"[Morgan, Alexander Stewart.",12th Regt,"(Morgan, Mrs. Frances Maud.","|5 Bellw'oods Ave., Toronto, Ont ",'Canada ,Toronto ,July,"16, 1915."
+6,1073,504,1108,3716,172245-Private ,,"Morrall, Oswald Boyd ",Nil ,"Morrall, Percy ","j Port Credit, Ont ",Canada ,Toronto. ......,;Aug.,"23, 1915."
+6,1099,503,1141,3716,172422; Private ,,"j Morrison, William Lister ",Nil ,"Morrison, Mrs. Hilda ","Il09 Bond St., Toronto, Ont ",Canada ,T oronto ,'Jan.,"24, 1916."
+6,1132,503,1168,3717,171313; Private ,,"I Morton, Frederick ",Nil ,"Dunlop, Mrs. Elizabeth ","|61 Furley St., Peckham, London, Eng. ...",England ,Toronto ,! Aug-,13.1915.
+6,1160,502,1204,3717,171339* Private ,,iMountain. Charles ,j-N'il ,Mountain. Thomas  ,"65 Claremont St., Toronto, Ont ",; England........,Toronto ,’Aug.,"12, 1915."
+6,1191,503,1227,3716,172249 Private ,,"i Moylan, Edward Joseph. ...",Nil ,"I Moylan, Mrs. Florence ",";7 Markham PI., Toronto, Ont ",jCanada ,Toronto ,iSept.,4.1915.
+6,1220,500,1251,3717,669295: Private ,,"Mulholland, Charles ",Nil ,M u 1 hoi 1 and. And re w ,"136 Rossendale Rd., Pollokshaws, Glasgow",‘Scotland ,Toronto ,;Jan.,"19, 1916."
+6,1221,2843,1245,2874,Sc
+6,1225,2876,1245,2904,ot
+6,1250,502,1283,3717,172262 Private ,,"Murdock, Robert ",Nil ,Murdock. Mrs. Margaret... .,"1130 De Grassi St., Toronto, Ont ",'Canada  ,Toronto.  ,Aug.,26.1915.
+6,1280,503,1314,3716,171341 Private ,,"Murphy, Edward Philip. ...",Nil ,"Murphy, Mrs. Canigan ","|2 Sultan St., Toronto, Ont ",Canada ,Toronto ,July,"25, 1915."
+6,1307,503,1344,3716,171340 Private ,,"Murphy, Henry.. ",’Nil ,"Murphy, Jack ",[Not stated ,England ,Toronto... . . .,I Aug.,12.1915.
+6,1338,503,1373,3716,172030 Private ,,Murray. James Watson ,j Territorials,"'Murray, Mrs. James W ",": 15 Markham FI., Toronto, Ont ",'Scotland ,Toronto ,. j A pril,"5, 1915."
+6,1364,503,1402,3716,172241 Private ,,"Murray, John ",Nil ,"Murray, Mrs. Ellen  ","'285 Sackville St., Toronto, Ont ",Canada ,Toronto ,Aug.,16. 1915.
+6,1398,503,1432,3716,172014 Private ,,"Murray, Osmond La Verne.",!12rh Regt,"Murray, William Henry ","P.O. Box 2, Goderich, Ont ",i Canada ,Toronto........,Julv,16.1915.
+6,1425,500,1461,3715,"669635, Private ",,"Myers, Stewart ",M,Nil ,Mvers. Charles Theodore...,"13 Reginald St., Hamilton, Ont ",Canada  ,Toronto ,. jFeb.,7. 1916.
+6,1452,503,1492,3715,171816; Private ,,"Nash, Alfred Ernest",I Nil ,"Nash, Mrs. Laura  ","jcjo Ed. Fierheller, R.R. No. 2, Gormley, Ont",England ,Toronto ,Aug.,"16, 1915."
+6,1486,503,1521,3715,171515 Private ,,"Neil, Robert ",| Nil ,"!Neil, Mrs. Agnes ",": 146 Cawthra Ave., Toronto, Ont ",Scotland ,Toronto ,Aug.,"11, 1915."
+6,1515,503,1551,3715,1720671 Private ,,"Neill, Thomas ",Nil ,"Neill, Mrs. Sarah ","61 Bright St., Belfast, Ire ",Ireland ,Niagara ......,.Aug.,"31, 1915."
+6,1545,502,1580,3715,171819! Private ,,"Neligan, John ",| Nil ,"Fogarty, Mrs. F ","82 Barton Ave., Toronto, Ont ",Canada ,Toronto ,Aug.,17.1915.
+6,1574,504,1607,3714,17 IS IS- L.-Corporal,,Nelson. Wellington..,Nil ,"Nelson, D. H ","Aurora, Ont   ",Canada ,Toronto. ......,■Aug.,"17, 1915."
+6,1600,503,1640,3714,17LSI7 Private ,,"; Nelson, William",■Nil ,"Nelson, Mrs. Ellen ","|S Vivian St., Toronto, Ont   ",Scotland ,Toronto ,Aug.,"13, 1915."
+6,1633,503,1673,3714,133248'Private....,,"j Newman, William..",'9th Horse,"Newman, Mrs. Susan  ","26 Hastings Ave., Toronto, Ont   ",England ,Toronto ,■July,"22, 1915."
+6,1663,504,1696,3714,171351 Private ,,"jNicholls, Arthur Harold...",Nil ,Nicholls. Mrs. Kate ,">45 Teignmouth Ave., Earlscourt, Toronto,",England ,,;auk.,"12, 1915."
+6,1663,2825,1686,2878,Ont
+6,1692,504,1725,3713,17234$ L.-Corporal,,"i Nicholls, George Laclare. .",12nd Regt.,Nicholls. Edward Richard,"175 Ritchie Ave., Toronto, Ont ",Canada ,T oronto  ,;f-'ept.,"24, 1915."
+6,1721,504,1758,3713,172081 Private ,,"} Nicholson, Alfred ",j Territorials,"Nicholson, Mrs. Harriet.. .","! 162 Li3gar St., Toronto, Ont ",England ,Toronto ,i Aug.,17. 1915.
+6,1751,484,1787,3713,-i 72263: Private ,,| Nicholson. WiLHara ,j Nil..,"Nicholson, Mrs. Margaret...",";208 Danforth Ave., Toronto, Ont ",England ,Toronto. . ,Sept.,3.1915.
+6,1778,146,1816,3713,171563!Co. Sergt.-a,,"Nightingale, Ernest Frederick",Imp. Force,"Nightingale, Mrs. Eliza Han","112 Grove Ave., Toronto, Ont ",i England ,,|July,16.1915.
+6,1788,146,1816,181,Hi
+6,1793,784,1813,837,ajor
+6,1809,503,1850,3713,172418'Private ,,"Niven, Robert ",jNil ,"McDonald, Mr  ","113 Mechanics Ave., Toronto, Ont ",,T oronto ,Jan.,25.1916.
+6,1835,500,1875,3714,669302 Private ,,"Noad, James Samuel ",Nil ,"Noad, Mrs. Sadie ","jc|o A. E. Noad, Olds, Alta ",Canada ,Toronto ,[Jan.,13.1916.
+6,1868,502,1902,3714,1722651 Private ,,"Noble, George Ferguson. .",! Nil ,"Noble, Mrs. Olive ","49 Victoria Park Ave., Toronto, Ont ",Canada ,Toronto ,Aug.,"30, 1915."
+6,1897,499,1930,3714,6693051 Private ,,Norman. William Charles,;2nd Regt,"Norman, Mrs. Emma Jane..","IClarks Beach, Conception Bay, Nfld ",Newfoundland .,Toronto ,. Jan.,"25, 1916."
+6,1925,502,1959,3714,171928 Private ,,"Nutter, Ernest ",,"Hind, Annie ","!850 Eastern Ave., Toronto, Ont ",Canada ,Toronto ,Aug.,7.1915.
+6,1932,1371,1956,1515,•Nil 
+6,1956,501,1990,3713,171665 Private ,,"Oakes, Frederick ",; 12th Regt,"Morley, Mrs ","j 17 Townsend St., Old Kent Rd., London, Eng",England ,Toronto ,! Aug.,10.1915.
+6,1986,501,2019,3714,172269 Private ...,,"Oakes, John ",Territorials,Oakes. Mrs. Mary ,";P.O. Box 306, Burlington, Ont.  ",England ,T oronto ,iSept.,1.1915.
+6,2015,501,2050,3714,171667 Private .,,"Oat ley, Herbert Frank. . .",i Nil ,"Oatley, Mrs. Edith ","Springfield Cottage, Potterne, Wilts, Eng",.England. .......,Toronto ,jAug.,"11, 1915."
+6,2044,502,2085,3714,171353 Private....,,"O'Brien, Charles ",i Nii ,O'Brien. Mrs. Margaret ,"i356 Wellesley St., Toronto, Ont ",Canada  ,Toronto ,jAug.,12.1915.
+6,2074,500,2106,3713,171822 Private ,,"O’Brien, William Glen....",Nil ,"O’Brien, Mrs. Helen ","38 rear Cornwall St., Toronto. Ont ",U.S.A ,Toronto ,.Aug.,"14, 1915."
+6,2103,500,2142,2998,172347.Sergeant...,,"O’Donovan, Frederick Trevanion",Nil. ,Fox. Mrs. M. E ,"Jc/o F. C. Snider, Imperial Bank Bldgs., Yonge and"
+6,2131,2204,2165,3710,,,,,,"■ Queeu Sts., Toronto, Ont ",Canada.,. Niagai,..'Sept. 8.1915.
+7,444,1964,484,2279,83rd Battalion
+7,590,3361,615,3687,Taken on Strength.
+7,622,708,665,3229,,,,Former Corps.,,,Country of
+7,622,2448,647,2792,Address of Next of Kin.
+7,624,1816,650,2127,Name of Next of Kin.
+7,630,1092,654,1185,Name.
+7,634,708,657,794,Rank.
+7,667,3101,690,3192,Birtla.
+7,684,3354,708,3440,Place.
+7,687,3599,710,3677,Date.
+7,769,522,813,3730,171823,Private ,"Oldham, Alexander  ",Nil ,"Oldham, Mra. Maud ","319 Kenilworth Ave,, Toronto, Ont ",England ...,Toronto...,Aug. 17,", 1915."
+7,799,523,843,3730,172516,Private ,"Oliphant, John ",Imp. Forces ,"Oliphant, Mrs. Jeanne ","165 Renhotd Ave., Toronto, Ont ",Scotland. . .,Toronto.. .,July 31.,", 1915."
+7,829,522,871,3730,171993,L.-Corpora! ,"Oliver, Arthur Stanley ",Nil ,"Oliver, Mrs- France* ","150 Pearson Ave., Toronto, Ont ",Canada ,Toronto...,"Aug. 13,",", 1915."
+7,859,521,900,3729,171517,Private ,"Oliver, James ",Nil ,"Oliver, Mrs. Phoebe ","4 Battenbcrg Ave., Toronto, Ont ",Canada ....,Toronto...,"July 31,",", 1915."
+7,888,523,930,3729,171930,Private ,"Oram, Edward John........",Nil ,"Oram, Mrs. Margaret ","101 Marlborough Ave., Toronto, Ont ",England.. ..,Toronto.. .,"July 31,",", 1915."
+7,917,520,959,3729,171931,Private ,"Oram, Frederick William.,",Nil ,"Oram, Mrs. Margaret ","101 Marlborough Ave., Toronto, Ont....",Lr.giand. „..,Toronto...,"July 31,",", 1W1.5."
+7,947,521,988,3729,17226-S,Corporal ,"Orchard, William Charles.",2nd Regt ,"Orchard, Oriando ","36 Redwood Ave., Toronto, Ont. .",Canada.. ..,Toronto.. .,"Sept. 3,",", 1915."
+7,976,520,1016,3730,171668,Private ,"Ormerod, Arthur ",S. A ,"Ormerod, Mrs. Elizabeth Hannah","108 Empress Cres., Toronto, Ont..",England....,Toronto...,"Aug. 1!,",.1915.
+7,1005,517,1044,3729,725141,Private ,"Ormerod, James ",Nil ,"Ormerod, Arthur ","108 Empress Cres., Toronto, Ont..",England....,Lindsay...,"Jan. 13,",", 1916."
+7,1035,519,1074,3729,172270,Private ,"Osbourne, Arthur ",Nil ,"Osbourne, Charles ","50 Stephanie St., Toronto, Ont....",('anada ,Toronto...,"Sept. 8,",. 1915.
+7,1065,519,1104,3729,172267,Private ,Osmond. Clifford John. ...,Nil ,"Osmond, Thomas John ","Newtown, Parkstone, Dorset. Eng",England....,Toronto...,"Sept. 7,",", 1915."
+7,1094,519,1132,3729,171994,Private ,"Page, Albert John William.",S.A ,"Page, Mrs. Sarah ","107 Erskine Ave., Toronto, Ont. ..",England ,Toronto...,"Aug. 13,",", 1915."
+7,1123,519,1161,3728,171354,Private ,"Painting, Percy Howard...",Nil ,"Painting, Mrs. Frances Elisabeth.","1 Call an PL, Toronto, Ont ",England ,Toronto...,"Aug. 12,",", 1915,"
+7,1153,519,1190,3729,171518,Private ,"Palmer, Edward Archibald",Nil ,"Palmer, Mrs. Annie ","P.O. Box S64, Cobourg, Ont ",C ar.ad a...,Toronto.. .,"Aug. 3,",", 1915."
+7,1182,519,1220,3728,172272,Private ,"Palmer, William John ",Nil ,"Palmer, Mrs. Mary ","611^ Queen St. W\, Toronto, Ont.",Ireland ,Toronto...,"Aug. 19,",", 1915."
+7,1211,518,1248,3727,171932,Private ,"Pape, Harold ",Nil ,"Pape, Mrs Mary.   ","120 Logan Ave., Toronto, Ont ",England.. .,"Toronto ,.","Aug. 7,",", 1915."
+7,1241,518,1277,3728,172028,Private ,"Paris, John   ",Nil ,"Paris, Ada Edith ","1025 Queen St. E., Toronto, Ont...",England.. „.,Toronto...,"Aug. 14,",", 1915."
+7,1270,518,1306,3728,172281,Private ,"Parker, John William ",Nil ,"Little, Mrs. Sarah.  ","P.O. Box 54, Brampton, Ont ","England..,.",Toronto...,"Sept. 7,",1915.
+7,1299,518,1335,3728,171355,Private ,"Parker, Thorold Bruce... .",Nil ,"Parker, Mrs. Marie Elizabeth..","Coleman, East Toronto, Ont ",England.. ..,Toronto...,"Aug. 12,",1915.
+7,1328,518,1364,3727,171356,Private ,"Parkes, Waiter ",Nil ,"Parkes, Mrs. Elizabeth ","73 Uxbridge Ave., Toronto, Ont,..",England ,Toronto...,"Aug. 12,",1915.
+7,1358,518,1393,3727,171519,Private ,"Parkin, Ernest William....",NU ,"Parkin, Emanuel ","73 Morley Ave., Toronto, Ont ",Canada ,Toronto...,"Aug. 7,",1915.
+7,1388,516,1421,3727,669326,Private ,"Parnegi, William James ",Nil ,"Sutherland, William John ","Cookstown, Ont ",Russia ,Toronto...,"Jan. 19,",1916.
+7,1416,518,1451,3727,171933,Private ,"Parrington, Joseph.  ",NU ,"Farrington, Mrs. Helen ","158 Sackville St., Toronto, Ont.. .",Canada ,Toronto...,"Aug. 9,",1915.
+7,1446,516,1481,3727,171520,Private ,"Parsonson, Nelson Harry..",Nil ,"Parsonson, George ","Boston Ave., Toronto, Ont ",Canada  ,Toronto ..,"Aug. 4,",1915.
+7,1476,518,1512,3726,172271,Corporal ,"Paterson, George Clelaad..",2nd Regt ,"Paterson, Andrew ","Lanark, Scot ",Scotland. .,jToronto. . .,"Aug 24,",1915.
+7,1505,517,1539,3726,172068,Private ,"Patmore, Walter Edwia,..",Nil ,"Patmore, Walter James ","533 Eastern Ave., Toronto, Ont...",England.. ..,"Toronto.,.","July 3!,",1915.
+7,1534,517,1568,3726,171966,Private ,"Patten, William Hinde.....",NU ,"Patten, William James.   ","36 Chambers Rd., Soathport, Lanes, Eng",England.. ..,Toronto...,"Aug. 17,",1915.
+7,1564,517,1597,3726,171995,Private.   ,"Patterson, Harold Kenneth",10th Regt ,"Patterson, G W ","60 Arundel Ave., Toronto, Ont...",Canada ,Toronto...,"Aug. 18,",1915.
+7,1593,518,1626,3726,171581,Sergeant ,"Patterson, William ",Can. Eng ,"Patterson, Mrs. Margaret  ","17 Duke St., Newcastle-on-Tyne, Eng",England ,Toronto. ..,"July 16,",1915.
+7,1623,515,1653,3726,669319,Private ,"Paviowsky, Jacob ",Nil ,"Paviowsky, Nicholas ","Govt, of Podolsk, Russia ",Russia ,Toronto...,"Jan. 14,",1916.
+7,1652,515,1684,3726,670070,Private ... ......,"Paxtoa, Samuel ",N'U ,"Paxton, Mrs. Esther ","162H Sydenham St., Toronto, Ont",Ireland,Toronto...,"April 8,",1916.
+7,1682,518,1713,3727,171934,Private ,"Payne, Charles Ronald....",Nil ,"Payne, Mrs. Johanna ","Humber Bay, Ont ",Canada ,Toronto...,"Aug. 14,",1915.
+7,1711,517,1741,3726,172427,Private ,"Payne, Edward ",Nil ,"Payne, Mrs. Mary ","47 Waverley Rd., Toronto, Ont...",England.„...,Toronto...,"Feb. 1,",1916.
+7,1732,1296,1738,1361, 
+7,1741,518,1771,3725,172274,Private ,"Payne, John Eldred ",Nil ,"Payne, Mrs. L ","60 Belmont St., Toronto, Ont ",England....,Toronto...,"Sept. 2,",1915.
+7,1770,517,1800,3725,171670,Private ,"Payne, Wilfred William ",C.A.M.C ,"Payne, Mrs. Agnes ","Moutray St., Toronto, Ont ",England . ..,Toronto. ..,"Aug. 11,",1915.
+7,1799,518,1830,3725,171935,Private ,"Pearce, Robert John ",Nil ,"Pearce, Miss Ethel ","23 Charles St., Blue Town, Sheerne",England,Toronto ..,"Aug. 14,",1915.
+7,1800,2727,1828,2828,"ss, Eng"
+7,1828,517,1859,3725,172277,Private ,"Pearson, David ",Nil ,"Pearson, Robert . ","5 Fife-end, Kinross, Fife, Scot ",Scotland. . .,Toronto...,"Aug. 20,",1915.
+7,1858,517,1887,3724,171937,Private ,"Peck, Arthur Edward ",Territorials ,"Peck, Mrs. Edith Esther ","Ill Snowdon Ave., Toronto, Ont..",England ,Toronto. ..,"Aug. 7,",1915.
+7,1888,517,1918,3723,172276,"Pt""1 va fit",,,"Pellow, Mrs. Sarah  ","Whitby, Ont ",Canada ,Toronto...,"Aug. 27,",1915.
+7,1917,518,1948,3723,171672,Private   ,"Penfound, Victor Frederick",12th Regt ,"Penfound, Mrs. Nellie ","159 Pape Ave., Toronto, Ont ",Canada ,Toronto...,"Aug. 11,",1615.
+7,1939,518,1978,3722,172010,Private ,"Penstone, Harold Reginald",NTi! ,"Penstone, Harold J ","14S Major St., Toronto, Ont ",Canada ,Toronto. ..,"July 31,",1915.
+7,1939,1311,1978,1375,MM
+7,1976,517,2006,3722,172374,Private ,"Pentney, Charles Henry...",Nil ,"Pentney, Mrs. Eliza Jane  ","419 Danforth Ave., Toronto, Ont..",England. . „.,Toronto ..,"Nov. 8,",1915.
+7,2005,517,2036,3722,171521,Private ,"Perks, Thomas William. . .",N'U ,"Perks, Mrs. Esther ","113 Heward Ave., Toronto, Ont...",England ,Toronto. ..,"Aug. 9,",1915.
+7,2035,517,2065,3722,172069,Private ,"Perrett, Owen ",NU...,"Perrett, Mrs. Maria Pomeroy..","133 Van Horne St., Toronto, Ont..",England ,Niagara Ca,"Sept. 7,",1915.
+7,2064,514,2093,3722,669648,Private. ,"Peterson, Alexander ",Nil ,Peterson. Mrs. Bessie ,"15 Muir Ave., Toronto, Ont ",England....,Toronto...,"Feb. 7,",1916.
+7,2093,516,2124,3722,172011,Private ,"Petherbridge, Frederick Ch",NU ,"Petherbridge, Mrs. Elizabeth..","58 Gamble Ave., Todmorv:en, Ont",England.....,Toronto...,"Aug. 14,",1915.
+7,2096,1287,2119,1374,arles..
+7,2123,516,2152,3722,172409,Private ,"Pett, Albert ",Nil ,"Jamieson, Mrs. Rose ","137 Bleecker St., Toronto, Ont....",Canada ,Toronto...,"Jan. 4,",1916.
+7,2152,515,2183,3722,1713.58,Private ,"Pettitt, Albert ",NU ,"Pettitt, Mrs. Elizabeth ","23 Millicent Ave., Toronto, Ont...",England . „.,Toronto...,"Aug. 10,",1915.
+7,2182,516,2214,3722,171938,Private ,"Philip, C -orge.  ",NU ,"Philip, Mrs. Mary B ","226 Crawford St., Toronto, Ont. ..",Scotland „ .,Toronto...,"Aug. %t,",1915.
+7,2355,2067,2417,2343,83 BN
+8,0,4042,47,4158,lilll
+8,76,97,102,190,"a-^5s^*?,c"
+8,100,71,148,220,*4“ HL
+8,122,3913,171,4159,«IV .••R.l*?«
+8,139,76,184,220,- ■“ |
+8,177,3958,216,4026,Sfe.
+8,200,3918,217,3958,IBP?
+8,455,519,493,3727,,171523,Private..,"Philip, Jam am ",Imp. Forcer. .,"Philip, Mrs. Eli*abHh   ","107 Loea» Ave., Toronto. 0«t.,,.,*.. ,* ,,. „..»v*»»",,,|A«*.,"7,1*15."
+8,473,3144,484,3215,. * • • •
+8,481,520,519,3726,,171422,Private..,"Philp, Georsje.   ",Nil ,"Philp, Mn. Margaret ","181 AshdaUe Ave., Toronto, Ont..........,",,Tor onto..,Aug.,4.1918.
+8,507,522,545,3727,,171973,Private..,"Platt, Vincent Verson ",Nil ,"Platt, Mrs. Elizabeth ","Slade Lana, Uttoxeter, Staff*, ............", .Jsad ,Toronto..,Ang.,"11, 1915."
+8,534,3258,559,3727,,,,,,,,,Toronto.,Aug.,14.1915.
+8,540,524,572,3216,,171939,"Private.,","Pollock, James ",C.A.M.C ,"Pollock, Mrs. J ","1 Dartlord Rd., Toronto. Ont  ",6oo*land... ..
+8,560,524,599,3728,,171360,Private.,"Pollock, Robert ",Nil ,"Pollock, Mrs. Flora ","36 Straiw® St., Torocto, Ont  ","Scotland,....",Toronto........,"10, 1915."
+8,595,523,628,3011,,17240S,Private.,"Poison, John Henry ",N a ,"Poison, Mrs. Emma ","Church Cottager, Cemetery How, CUctos -ofr-Sem,","JI.U VC* jr XVUW, 4"
+8,613,3260,641,3727,,,,,,,,,Torocto..—,Jan.,"5,1916."
+8,626,2275,655,2969,"Eee©-, Eng     »»>.•,*=."
+8,642,525,686,3729,,171524,Private ,"Poole, Arthur ",Nil ,"Poole, Mrs. Annie ","305 Mutual St., Toronto, Ont ",,Toronto. ......,Aug,"7, 1915."
+8,666,2929,686,3217,—^  
+8,671,525,711,3729,,171674,Private ,"Pooley, Edward Charles...",Nil ,"Pooley, Mrs. Mina ","348 Oasingtcn Ave., Toronto, Ont.",,Toronto........,Aug.,11.1915.
+8,697,526,740,3729,,172384,Private ,"Popert, Owen ",NU ,"Popert, Ernest ","22 Spruce HU1 Rd., Toronto, Ont.    ",Cenada ,Toronto........,Nov.,"SO, 1815."
+8,727,526,768,3729,,172273,Private ...,"Porter, George ",S.A ,"Porter, Mrs. Emma Jane ","348 Dupont St., Toronto, Ont  ",Cat...?* ,"Toronto..., ",Sept.,"3, 1015."
+8,757,526,797,3730,,171525,Pri vate ...,"Powell, William Stephen...",Royal Navy.,"Powell, Mrs. Aaak L ","48 Teraclay St., Torooto. Ont...",,Teroeto... .....,Aug.,9.1915.
+8,781,3137,792,3218,......
+8,785,526,825,3730,,171381,Corporal. .,"Powers, Edward Joseph....",82nd Regt ,Powers. Malcolm ,"Tracadie, Qc^ns Co., P , «",CWwds. >...<•,Tosonte..,Asg.,"12,1918."
+8,814,526,856,3730,,172275,Private....,"Press, Albert William ",SH ,"Prese, Mrs. Mary ",123 Fermanagh Terwrtc.,"123 Ferassaagh Am, Torocic. Oai...,„",Toron to........,Sept.,1.1918.
+8,844,526,883,3730,,172415,Private ,"Price, Arthur ",Imp. Forces..,"Price, Mrs. Mary Jane ","508 ParUajseni St., Toronto, 0*t... ",,Toronto........,J*B.,"20,191*."
+8,874,526,912,3730,,171382,Private ,"Price, Joseph  ",Nil ,"Price, Albert . ","71 Saul ter 8t., Torocto,",,Toronto........,Acg,14.1915.
+8,904,525,941,3730,,17182*,Private ,"Priestley, Edward ",NU ,"Priestlev, Percy ","12 Sackville PI., Toronto, Os*..   ",,Torocto........,Aug.,17.1915.
+8,933,525,970,3730,,172039,L.-Corpora,"Prior, FYaak ",NU ,"Prior, Mrs. Lewis ","153 Hart/ord St., Toroato, Oct",,Toronto... ,Aug,2.1915.
+8,962,524,1000,3729,,172279,Private..,"Pritchard, George Edward",Nil ,"Pritchard, Edward ","Thornton, Ont  ",Enikad...,Tomato.   ,Sept.,"7, 1915."
+8,992,525,1029,3730,,171827,Private..,"Proctor, Anthony ",MM,NU ,"Proctor, Andrew ","41 Frederick St., South Shields, Durham, Eng  ",EcsUnd ,Toronto........,Aug,9.1915.
+8,1002,60,1058,3730,liHH,171875,Private..,"Prosser, Alfred ",2nd Regt ,Craig. Ellen Elisabeth ,"326 Royce Ave., Toronto, Ont   ",Enfilaad ,Toronto. . - ,Aug.,11.1915.
+8,1051,524,1088,3730,,171383,Private..,"Purvis, Herbert Rogers....",Nil ,"Purvis, Mrs. Lisa G ","437 Lansdowiwp Ave., Toronto, Ont ",Canada........,"Toronto,.......",Aug.,10.1915.
+8,1080,524,1117,3730,,172280,Private..,"Pyburn, Benjamin ",NU ,"Pyburn, Benjamin  ","13 Kippendavie Ave., Toronto, Out ",England ,Torocto........,Aug,24.1915.
+8,1110,524,1146,3731,,171829,Private..,"Pyle, Percy Branwerr ",NU ,"Pyle, Robert  ","1259 Dufferin St., Toronto, Ont ",England ,Toronto.  ,Aug.,14.1915.
+8,1139,523,1175,3731,,172071,Private..,"Pyle, William ",NU.. ,"Pyle, Mrs. Nell ","103 Peterborough Ave., Toronto, Ont ",England ,Toronto... —..,Aug.,7.1915.
+8,1168,524,1204,3731,,172070,Private..,"Quaife, Edward",Territorials...,"Quaife, Emma Agnes ","155 Parliament St., Toronto, Ont ",England ,Toronto........,Aug.,14.1915.
+8,1198,524,1234,3732,,171941,Private,"Queen borough, Sidney ",Nil ,"Queenborough, Arthur  ","16 Welford Rd , Leicester, Eng.  ",England ,Toronto.'..  ,Aug.,"8, 1915."
+8,1227,523,1263,3732,,171526( Private..,,"Rame, Stanley ",NU ,"Rame, Mrs. Margaret  ","85 Lewis St., Toronto, Ont  ",Canada ,Torocto........,Aug,"3, 1915."
+8,1255,523,1291,3733,,171364,Private..,"Rame, William John ",Nil ,"Rame, Charles...  ","85 Lewis St., Toronto, Ont ",Canada ,Toronto........,Aug,12.1915.
+8,1269,34,1322,3733,mrnm,171330,Private .,"Rapley, John Edward ",Nil ,"Rapley, Mrs. Annie J ","25 Empire Ave., Toronto, Ont ",England ,. Toronto ,Aug.,"17, 1915."
+8,1301,62,1351,3734,hmm,171967,Private..,"Rawlinson, George Jones...",Nil ,"Rawlinson, Mrs. Maude ","25 Paton Rd., Toronto, Ont ",England ,T oronto ,Aug.,"14, 1915."
+8,1345,522,1379,3734,,171355,Private..,"Ream an, John Allen ...",NU ,Reaman. Mrs. Alice ,"Severn Bridge, Ont ",Canada ,Toronto ,Aug.,10.1915.
+8,1374,522,1408,3734,,1722S5,Private .,"Reeve, Frederick ",NU ,"Reeve, Charles ","1219 Gerrard St. E., Toronto, Ont ",England ,Toronto ...,Aug.,23.1915.
+8,1404,521,1437,3735,,171942,Private..,"Reeves, James ",Nil.,"Reeves, Mrs. Clara  ","1991 Davenport Rd., Toronto, Ont ",Canada ,Toronto.   ,Aug.,14.1915.
+8,1433,522,1467,3735,,171676,Private.,"Reid, Harold ",,"Reid, Mrs. Alice ","288 Ossington Ave., Toronto, Ont ",Canada ,Toronto  ...,Aug.,11. 1915.
+8,1463,522,1498,3735,,1720*2,Bandmaster,"Reve, Edward ",10th Regt.,"Reve, Mrs. Esther ","1 Lumber vale Ave., Toronto, Ont ",England ,T oronto.......,Aug.,"9, 1915."
+8,1492,521,1527,3736,,171832,Private....,"Revill, Percy Peers ",NU.,"Revill, Margaret ","Castle Inn, Dore «fc Totley, Sheffield, Eng.  ",England ,Toronto.......,Aug.,"14, 1915."
+8,1522,522,1557,3736,,17202?,Sergeant...,"Richards, Joseph ",10th Regt...,"Richards, Mrs. Elizabeth ","201 Mulberry Ave., Wychwood, Toronto, Ont ",England ,Toronto ,Aug,"2, 1915."
+8,1551,522,1585,3735,,172471,Private ,"Richardson, David Hardie",Territorials.,"Richardson, Mrs. Jane ","19 Holmesdale Rd., Fairbank, Toronto, Ont ",Scotland ,Toronto. ,Mar.,"29, 1916."
+8,1579,121,1597,203,<45**^ «2-y
+8,1579,123,1655,207,H
+8,1580,522,1614,3736,,172284,Private ,"Richardson, Robert ",Nil ,"Richardson, Mrs. Mary Emma .","Beeton, Ont ",England ,Toronto.......,Aug.,"30, 1915."
+8,1609,522,1645,3736,,171527,Corporal. .,"Richardson, Thomas ",Nil ,"Richardson, Mrs. Elisa ","110 Church St., Preston, Eng ",England ,Toronto.   ,July,"31, 1915."
+8,1640,522,1674,3736,,171578,Private ,"Richmond, Christopher. ..",12th Regt. ..,"Richmond, Mrs. Kate  ","66 Dods Ave., Toronto, Ont ",Canada ,T oronto   ,Aug.,"11, 1915."
+8,1670,522,1703,3736,,172237,Private....,"Riley, George ",NU ,"Riley, Mrs. IsabeUe ","49 McGiU St., Toronto. Ont ",England ,Toronto.......,Aug.,28.1915.
+8,1699,534,1731,3736,,91650,Private ,"Ritchie, Arthur ",Nil ,"Ritchie, .Arthur ","h9 Rhodes Ave., Toronto. Ont ",Canada ,Toronto ,Aug,"iO, 1915."
+8,1729,522,1760,3734,,172283,Private ,"Ritchie, William Stuart ",Nil ,Ritchie. Mrs. Agnes ,"421 Pape Ave., Toronto. Ont ",Canada ,Toronto. ,Ai;g.,25. 1915.
+8,1734,92,1791,3736,*1®,669834,Private ,"Robb, Stanley ",Nil ,"Robb, Sirs. Violet ","P.O., Edgeley, Ont ",Canada ,T oronto   ,F*b.,"2?, 1916."
+8,1775,68,1826,3736,sslllfl§J,171833,Pri vate ,"Robbins, Albert Ernest ",Nil ,"Robbins, Mrs. Elisabeth ","214 Hallam St., Toronto, Ont ",England ,Toronto.......,Aug.,"14, 1915."
+8,1817,522,1850,3736,,172072,Private ,"Robbins, John George ",NU..........,"Robbins, Alfred ","214 Hailam St., Toronto, Ont ",England ,X ia^rara Caur. p.,Sept.,"7, 1915."
+8,1827,120,1892,201,Hi
+8,1848,523,1878,3737,,171339,Private ,"Roberts, Hugh ",Territorial!!..,"Roberts, Mrs. Anne Ellen ","4 Nantfellin Rd., Llanfairfechan, Carnarvon, Wales..",Wales ,Toronto. ,Aug.,"14, 1915."
+8,1877,523,1910,3736,,171720,Co. Sergt.-,"Roberts, Meirion ",Imp. Forces.,"Roberts, Robert ","Llar.dderfel, Merioneth, N. Wales ",Wales ,Toronto ,Aug.,14. 1915.
+8,1881,75,1955,3737,§§ll,171834,Private ,"Roberts, Thomas  ",Imp. Forces.,Roberts. Mrs. Emma ,"563 King St. E., Toronto, Ont ."". ",England ,T oronto ,Ju!v,"31, 1915."
+8,1889,805,1910,868,ajor.
+8,1936,523,1965,3737,,171999,Private ,"Robertshaw, Earl Frederick",NU ,"Robertshaw, Mrs. Rose ","105 Rose Ave., Toronto, Ont ",Canada ,T oronto ,J. ly,16.1915.
+8,1965,523,1998,3737,,171251,Co. Sergt.-!,"Robertson, Alexander Godfre",2nd Regt....,"Robertson, Mrs. Eva L ","105 Howland Ave., Toronto, Ont ",Canada ,T oronto... ,Aug.,12.1915.
+8,1977,803,1997,866,ajor.
+8,1994,524,2026,3737,,172404,Private ,"Robertson, James ",Nil ,"Robertson, Mrs. Agnes ","2 Niddry St., Paisley, Renfrew, Scot ",Scotland ,Toronto. ,Dtc.,31.1915.
+8,2024,522,2056,3737,,171679,Private ,Robertson. James Bolton.,12th Regt. ..,"Thain, Mrs. Mary ","136 Wellington Rd., Aberdeen, Scot ",Scotland ,Toronto ,Aug.,11.1915.
+8,2053,523,2086,3737,,171576,Sergeant...,Robertson. Norman ,12th Regt. ..,"Robertson, Mrs. Agnes ","489 Concord Ave., Toronto. Ont ",Canada ,Toronto ,Aug.,11.1915.
+8,2082,522,2113,3737,,1*2*51,Private ,"Robinson, Charles Victor.",Nil ,"Robinson, Mr?. Annie Louisa R..","75 Ennerdale Rd., Fairbank, Ont ",Canada ,Toronto.  ,Aug.,17.1915.
+8,2113,523,2144,3737,,17H40 Private ,,"Robinson, Clifford   ",Nil ,"Robinson, Mrs. Beatrice ","37 Kenilworth Ave., Toronto, Ont ",England ,Toronto ,Aug.,17.1915.
+8,2142,522,2175,3737,,1722S8,Private...,"Robinson, Clifford Isaac..",Nil ,"Robinson, George Henry ","2 Rowan wood Ave., Toronto, Ont",[Canada ,Toronto   ,Sept,3. 1915.
+8,2168,523,2204,3737,,17183d’Private.,,"Robson, William Albert. .",C.F.A ,"Robson, Mrs. Annie ","274 Berkeley St., Toronto, Ont 'Cana",,Toronto.......,Aug.,13.1915.
+8,2363,1969,2427,2295,- 8 3 0 N
+9,354,1980,390,2296,83rd Battalion
+9,475,3383,498,3710,Takxn on Stbbngth.
+9,524,725,548,799,Rank
+9,524,725,555,3249,,,Former Corps,,,Country of
+9,524,2465,548,2813,Address of Next of Kin.
+9,526,1108,548,1192,Name
+9,526,1834,551,2144,Name of Next of Kin.
+9,553,3120,576,3213,Birth.
+9,570,3376,593,3461,Place.
+9,570,3620,594,3700,Date.
+9,669,539,701,3759,1713* Uij Corporal. .,"Rodda, Thomas James. ..",... jimp. Forces,"Rodda, Mrs. Florence ","25 Defoe St., Toronto, Ont ",. i England ,Toronto. .,Aug,12.1915.
+9,692,538,729,3759,1723701 Private...,"Rodger, George ",MM Nil ,Rodger. Mrs. Jane ,"Barjovah, Broxburn, Linlithgow, Scot ",[Scotland. . .,Toronto. .,Nov.,"16, 1915."
+9,728,539,760,3760,17Private...,"Rogers, Arthur Vivian....",Nil ,"Rogers, Mrs. Edith Amelia.","27 North View Terr., Toronto, Ont  ",. [England....,Torocto..,Aug.,11.1915.
+9,755,539,793,3761,1722361 Corporal.,Rombough. William John.,2nd Regt.,"Rom bough, Mrs. Lily Julia.","17 RavinaCrec., Toronto. Ont ",. jCanada,jToronto. .,Aug.,31.1915.
+9,787,539,827,3760,I719t.>! Private...,"Rooney, Robert  ",I Nil ,"Rooney, Joseph ","Eaton’s Store, Winnipeg, Man  ",.•Ireland,.Toronto..,Aug.,"7, 1915."
+9,815,540,850,3761,171 U : Private...,"Rose, Harry ",Nil ,"Rose, Mrs. Helen ","567 Jane St., West Toronto, Ont.",. ’ England....,jToionto..,Aug.,13.1915.
+9,843,536,881,3760,799-.>')Jj Private...,"Rosebush, Alvin Jacob . .",I Nil ,"Rosebush, Mrs. Hannah M .","345 Yonge St., Toronto, Ont ",. .< anada ,'Toronto..,Jan.,13.1916.
+9,872,539,914,3760,17-Mih; Private...,"Rosebush, George Walter",Regt,| Rosebush. Mrs. Annie  ,"345 Yonge St., Toronto, Ont ",. j< anada. . ..,Toronto. .,| Dec.,22.1915.
+9,905,539,937,3761,172 »71; I Sigler....,"Roaent hal, H arry ",2nd R’ itt,": Rosenthal, Mrs. Edna  ","229 Palmerston Ave., Toronto. Ont ",jt ’anada.,Toronto. .,lOct.,26. 1915.
+9,929,539,968,3759,171 o-iI Private...,"Ross, James ",Nil ,"| Roes, Mrs. Jane   ","W in berg, Leopold St., Nairn, Scot.  ",I Scot land ,Toronto ..,July,18.1915.
+9,963,539,998,3759,172JO; Private...,"Rothery, William ",Nil . .,"[Rothery, Mrs. May ","54 Min to St., Toronto, Ont ",; England ..,Toronto..,Aug.,20.1915.
+9,988,539,1027,3758,17 is 41 Private ..,"Rowland, Edward ",I Nil ,"j Rowland, Joseph ","8 Stand ish St., Tyldesley, Lancs, Eng ",England...,Toronto. .,July,31.1915.
+9,1022,538,1052,3759,171 >2S. Private...,"Rowlands, William Henry",[Nil. ,"Rowlands, Mrs. Margaret E.","528 Queen St. E., Toronto, Ont ",t. ’anada . . .,Toronto..,Aug.,"14, 1915."
+9,1051,539,1080,3759,17.’ )J1 Private...,"Ruddock, William ",Nil ,"! Rudd k, Robert ","14 Benedict St., .Booth, Liverpool, Eng ",; In land. . . .,Toronto. .,Aug.,14.1915.
+9,1077,539,1116,3758,17 l»JS2l Private ..,"Rule, Edgar ",Nil ,"jP*.uie, Mrs. Sarah Revel —","Y.W.C.A.. Harrogate, Yorks, Eng ",England .. .,Toronto..,I Aug.,11.1915.
+9,1107,538,1143,3760,171367. Private...,"Runnalls, Joseph ",Nil. . . .,"jRunnalls, Mrs. Katherine. .","Humber Bay, Ont ",j England ...,‘.Toronto.,Aug.,12.1915.
+9,1134,534,1173,3760,669362j Private ..,"Rusk, Walter Elmer ",Nil ,":Rusk, Mrs. Florence ","144 Jarvis St., Toronto, Ont ","i( ""anada ...",JToronto.,Jan.,"13, 1916."
+9,1168,537,1198,3760,1713'i^: Private...,"Rusling, Charles Nelson .",Nil ,"i Rusling, Clara ","506 Salem Ave., Toronto, Ont ",j England1. .,iToronto .,;Aug.,10.1915.
+9,1191,538,1231,3761,172290; Private...,"Russell, Arthur ",Nil ,"Russell, Robert ","R. R. No. 3, Brampton, Ont ",. j England... .,| Toronto .,Aug.,"30, 1915."
+9,1222,538,1266,3871,171842' Private...,"Russell, Frederick Alexander",. . . j Nil ,"| Russell, Mrs. Isabel'e.","Fort Erie, Ont ",\ 'anada . .,! Toronto..,! Aug.,14.1915.
+9,1234,3841,1252,3871,cc
+9,1252,539,1292,3761,171 683. Pri vate....,".... Russe‘1, John ",,"1 Russell, Mrs. Clara Pearl..",".40 Augusta Ave., Toronto, Ont ",I Canada,jToronto,|Aug.,11.1915.
+9,1259,539,1318,3763,172H'<' Private. VIC,MC |Rutherford. Charles Smith,mmvl! :::,"Rutherford, Mrs. Isabella..","Colbome, Ont  ",[Canada,'Toronto. .,j M ar.,"2,1916."
+9,1310,535,1345,3762,669364; Private...,"Rutledge, Hubert John ",Nil ,"Rutledge, James ","32 Sackville St., Toronto, Ont ",Canada ,(Toronto. . .,IJan.,24.1916.
+9,1339,536,1379,3762,6691)10! Private...,"Ryan, Joseph Patrick ",Nil ,"j Ryan, Mrs. Hannah ","Pembroke, Ont ",Ireland ,I Toronto,jMar.,"7, 1916."
+9,1369,538,1409,3763,1713691 Private ..,"Sabine, William ",I Nil ,"jSabine, Mrs. Harriette ","998 Queen. St. W7., Toronto, Ont ",■( ‘anada . .,j Toronto ...,Aug.,12.1915.
+9,1400,539,1433,3760,171 tVS 4; Corporal. .,Sambrook. Thomas Frederick,S 12th Regt.,"• Sambrook, Mrs. Catherine Ann.","9 Milan St., Toronto, Ont ",j Wales ,! Toronto,IJuiy,16.1915.
+9,1428,537,1461,3763,775175' Private...,"Sargent, Wil'iam ",i Nil ,"Sargent, Mrs. S ",".500 Indian Grove, Toronto, Ont ",i England,jToronto. . .,i Dec.,21.1915.
+9,1457,540,1493,3762,172002' Private ..,"Saunders, Arthur ",i Nil ,"Saunders, Mrs. Ethel ","7 Fenwick Ave., Toronto, Ont ",England.. .,IToronto. . .,| Aug.,"13, 1915."
+9,1488,539,1517,3762,171916! Private ..,"Saxton, Joseph Frederick..",,Hale. Miss Elsie ,"47 Malvern View Terr., Worcester, Eng ",. England .. . .,iToronto. . .,Aug,14.1915.
+9,1506,538,1549,3763,6597021Private...,". Schofield, John ",MM Hit!. Rpgft,"Schofield, Mrs. Margaret. . .","ICO Cambridge Ave., Toronto, Ont ",England,iToronto.. .,! Feb.,14. 1916.
+9,1543,541,1580,3764,17137!: Private. .,".jSchofield, Robert ",Nil ,"Schofield, Harry.    ","209 Gilmour Ave., Toronto, Ont ",England . .,jToronto....,j Aug.,"12, 1915."
+9,1576,538,1608,3764,66976'$! Private...,". jSchofield, William ",Nil.,"Schofield, Mrs. Mary Ellen.",100 Cambridge Ave.. Toronto. Ont ,..; England ,|Toronto. . ..,Feb.,"14, 1916."
+9,1604,541,1643,3765,171530' Private...,"Seabourne, George ",Nil ,"Seabourne, Mrs. Beatrice. . .","|449 Gerrard Ave., Toronto, Ont   ",. .jEngland....,Toronto ...,Aug.,3. 1915.
+9,1635,541,1672,3764,17137.1; Private...,"Searle, Edward Joseph.. .",| Nil ,Searle. Jane Annette ,"(Bella Vista, King's Rd., Paignton, Devon, Eng .",. ; England . .,Toronto,Aug.,12.1915.
+9,1658,541,1695,3765,"171843, Private...","Sedore, Percy Franklin. .",!Nil... .,"Barnes, Mrs. Maggie ","!9 Clinton St., Toronto, Ont ",. jCaradu . .,Toronto,Aug.,"2, 1915."
+9,1693,542,1734,3764,172291 Private...,"Seith, Alexander ",■[Nil ,Seith. Mrs. Jeanie ,"|35 Delaney Cres., Toronto, Ont   ",. I Scotland .,jToronto,Aug.,"25, 1915."
+9,1716,542,1753,3766,1715311 Private ..,"Sewell, Walter Edward . .",! Nil ,"Sewell, Mr*. Matilda Lydia","i 102 Woodbine Ave., Toronto, Ont  ",.. • England .,IToronto . .,Aug.,"9, 1915."
+9,1747,543,1784,3766,172149 Private...,"Shannon, Albert James. . .",■I Nil ,"Shannon, Mrs. Maggie M","!256 Ontario St., Toronto, Ont ",.. |Canada ,(Toronto. . ..,Feb.,15.1916.
+9,1776,542,1819,3766,17 lnS.V Private .,"Shannon, Joseph John ",• I Nil ,"Shannon, Miss Marjorie R",".1764 Bathurst St., Toronto. Ont ",. [Canada.,iToronto. ...,July,16.1915.
+9,1807,542,1845,3767,172 *04 Sergeant..,". . | Shaw, Ernest",'Imp. F rfM.o,Shaw. Mrs. Marie ,".1554 Church St., Toronto, Ont ",.England .,jToronto....,Sept.,"3, 1915."
+9,1839,542,1873,3766,171374* Bugler ,. !Shaw. George William... .,| Nil.. ..,"iShaw, Lillia ",". >196 Brock Ave., Toronto, Ont ",. Canada..,Toronto. . .,Aug.,14.1915.
+9,1865,543,1904,3767,1716^8 Private ..,". . Shaw, William ",. 8.A,". IShaw, Caleb ",";96 Risbygate St., Bury St. Edmunds, Suffolk, Eng",i Eng) and,(Toronto....,Aug.,"11, 1915."
+9,1897,543,1938,3765,17242 ’ Private...,". .jSheard, Abel ",.Nil,'Sheard. Mr*. Martha,". i26 Cornwall St., Toronto, Ont.  ",. .jCanada. ,jToronto,Jan.,"24, 1918."
+9,1926,544,1967,3768,171 ^ Sergeant..,".. Shearer, Alexander Gibbs",. iTerritorials,"(Shearer, Mrs. Emily ",". |1 Yorkville Ave., Toronto, Ont ",.. j Scotland,iToronto . .,Aug.,"11, 1915."
+9,1953,538,1990,3766,669379; Private,. I Sherwood. Thomas ,.'Nil ,"jSherwixnl, Mrs. Anna ....",;622 Rhodes Ave.. Toronto. Ont ,. Engiar.dL . . .,jToronto ...,'Jan.,19.1916.
+9,1985,543,2022,3766,17137 V Private...,.. IShine. Samuel ,■ Nil..,"|Shine, Mr*. Kate ",". 207 Hailam St., Toronto, Ont.",Italy ,Toronto..,A ug.,"12, 1915."
+9,2015,543,2052,3768,172362 Private. .,".. jShipcott, Norman James",. 110th Regt,". ivShipcotl, Robert ",".19 Winnifred Ave., Toronto, Ont .  ",< anad&,;Toronto . .,Aug.,21.1915.
+9,2044,541,2085,3767,17H44 Private,"’Shorten, Charles Thom a?",! Nil,! Shorten. Mrs. Maud  ,".{181 Sumach St., Toronto, Ont",Engl anti .,jToronto....,iAug.,"17, 1915."
+9,2074,542,2105,3766,17117*5 Private,"•Shvets, Vasel. .  ",. Can. MJ,"""hvets, Trotam",Cam-Podolsk. Russia.,Russia .,Toronto,'Aug.,12.1915.
+9,2323,1905,2385,2235,-83 BN
