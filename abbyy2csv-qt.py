@@ -46,7 +46,8 @@ class QtProcessor(Processor):
 
         for i, row in enumerate(lines, first_row):
             for j, cell in enumerate(row):
-                item = QtGui.QTableWidgetItem(cell)
+                item = QtGui.QTableWidgetItem(str(cell)
+                                              if cell is not None else None)
                 item.setFlags(item.flags() & ~QtCore.Qt.ItemIsEditable)
                 self.table.setItem(i, j, item)
 
