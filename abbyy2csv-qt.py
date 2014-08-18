@@ -44,7 +44,7 @@ class QtProcessor(Processor):
         if maxcol > self.table.columnCount():
             self.table.setColumnCount(maxcol)
 
-        for i, row in enumerate(lines, first_row):
+        for i, row in enumerate(sorted(lines), first_row):
             for j, cell in enumerate(row):
                 item = QtGui.QTableWidgetItem(str(cell)
                                               if cell is not None else None)

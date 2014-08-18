@@ -81,7 +81,7 @@ class Processor:
 
         Override this method to do other things with the results.
         '''
-        self.writer.writerows(lines)
+        self.writer.writerows(sorted(lines))
 
     def analyzeCoverPage(self, objs):
         '''
@@ -120,7 +120,7 @@ class Processor:
             right = max(x.right for x in line_objs)
             bottom = max(x.bottom for x in line_objs)
 
-            line = [self.pages + 1, left, top, right, bottom]
+            line = [self.pages + 1, top, left, bottom, right]
             for col, obj in zip(line_cols, line_objs):
                 if col == -1:
                     continue
@@ -134,7 +134,7 @@ class Processor:
 
         for obj in leftover_objs:
             lines.append([self.pages + 1,
-                          obj.left, obj.top, obj.right, obj.bottom,
+                          obj.top, obj.left, obj.bottom, obj.right,
                           obj.text])
 
         return lines
