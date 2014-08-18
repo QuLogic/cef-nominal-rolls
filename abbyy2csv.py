@@ -100,6 +100,7 @@ class Processor:
 
         rows, num_rows, fuzzy_rows = self.getSortedRowClusters(objs)
         cols, num_cols, fuzzy_cols = self.getSortedColumnClusters(objs)
+        leftover_objs = set(objs)
         self.logger.debug('    Unique rows & columns: %d %d' % (
             num_rows, num_cols))
         if fuzzy_rows:
@@ -127,8 +128,14 @@ class Processor:
                 while len(line) < col + 5:
                     line.append(None)
                 line.append(obj.text)
+                leftover_objs.remove(obj)
 
             lines.append(line)
+
+        for obj in leftover_objs:
+            lines.append([self.pages + 1,
+                          obj.left, obj.top, obj.right, obj.bottom,
+                          obj.text])
 
         return lines
 
@@ -377,7 +384,7 @@ class Main:
 
         msg = 'Using %s algorithm for %ss with ' % (algorithm, kind)
         if params:
-            msg += ','.join(*('%s=%s' % (key, params[key]) for key in params))
+            msg += ','.join('%s=%s' % (key, params[key]) for key in params)
         else:
             msg += 'default parameters.'
         logging.info(msg)
