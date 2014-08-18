@@ -306,6 +306,8 @@ class Main(QtGui.QMainWindow):
             self.processor.row_params = {param: value}
         else:
             self.processor.row_params = {}
+        if index == 1:
+            self.processor.row_params['min_samples'] = 3
 
         self.timer.start(1000)
 
