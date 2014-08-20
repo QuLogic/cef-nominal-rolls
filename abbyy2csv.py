@@ -33,7 +33,7 @@ LINE = etree.QName(ABBYY_NS, 'line').text
 CHAR_PARAMS = etree.QName(ABBYY_NS, 'charParams').text
 
 
-class Line:
+class TextObject:
     def __init__(self, baseline, left, top, right, bottom):
         self.baseline = baseline
         self.left = left
@@ -81,15 +81,16 @@ class Processor:
 
         Override this method to do other things with the results.
         '''
-        self.writer.writerows(sorted(lines))
+        for row in sorted(lines):
+            textrow = row[:5] + [obj.text if obj else None for obj in row[5:]]
+            self.writer.writerow(textrow)
 
     def analyzeCoverPage(self, objs):
         '''
         Analyze a portrait page, which is probably a cover.
         '''
         self.logger.debug('Processing cover page ...')
-        lines = [[self.pages + 1, None, None, None, None] +
-                 [x.text for x in objs]]
+        lines = [[self.pages + 1, None, None, None, None] + objs]
         return lines
 
     def analyzePage(self, objs):
@@ -127,7 +128,7 @@ class Processor:
 
                 while len(line) < col + 5:
                     line.append(None)
-                line.append(obj.text)
+                line.append(obj)
                 leftover_objs.remove(obj)
 
             lines.append(line)
@@ -135,7 +136,7 @@ class Processor:
         for obj in leftover_objs:
             lines.append([self.pages + 1,
                           obj.top, obj.left, obj.bottom, obj.right,
-                          obj.text])
+                          obj])
 
         return lines
 
@@ -321,7 +322,7 @@ class Processor:
         right = int(line.get('r'))
         bottom = int(line.get('b'))
 
-        obj = Line(baseline, left, top, right, bottom)
+        obj = TextObject(baseline, left, top, right, bottom)
 
         for elem in line.iter(CHAR_PARAMS):
             obj.text += elem.text

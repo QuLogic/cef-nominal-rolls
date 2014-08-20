@@ -34,7 +34,7 @@ from PyQt4 import QtCore
 from PyQt4 import QtGui
 import popplerqt4
 
-from abbyy2csv import Processor
+from abbyy2csv import Processor, TextObject
 
 
 class QtProcessor(Processor):
@@ -46,10 +46,16 @@ class QtProcessor(Processor):
             self.table.setColumnCount(maxcol)
 
         for i, row in enumerate(sorted(lines), first_row):
-            for j, cell in enumerate(row):
-                item = QtGui.QTableWidgetItem(str(cell)
-                                              if cell is not None else None)
+            for j, obj in enumerate(row):
+                if isinstance(obj, TextObject):
+                    contents = str(obj.text)
+                elif isinstance(obj, int):
+                    contents = str(obj)
+                else:
+                    contents = None
+                item = QtGui.QTableWidgetItem(contents)
                 item.setFlags(item.flags() & ~QtCore.Qt.ItemIsEditable)
+                item.setData(QtCore.Qt.UserRole, obj)
                 self.table.setItem(i, j, item)
 
         self.app.processEvents()
