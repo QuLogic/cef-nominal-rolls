@@ -37,6 +37,9 @@ import popplerqt4
 from abbyy2csv import Processor, TextObject
 
 
+RESOLUTION = 300  # Output from ABBYY, probably PDF resolution, too...
+
+
 class QtProcessor(Processor):
     def processResults(self, lines):
         first_row = self.table.rowCount()
@@ -319,11 +322,12 @@ class Main(QtGui.QMainWindow):
         pages = [int(self.table.item(row, 0).text()) for row in rows]
 
         page = self.pdf.page(pages[0] - 1)
-        image = page.renderToImage(300, 300)  # Resolution from ABBYY
-        midx = midy = total_points = 0
+        image = page.renderToImage(RESOLUTION, RESOLUTION)
 
         painter = QtGui.QPainter()
         painter.begin(image)
+
+        painter.setPen(QtCore.Qt.red)
         for row in rows:
             try:
                 top = float(self.table.item(row, 1).text())
@@ -332,14 +336,29 @@ class Main(QtGui.QMainWindow):
                 right = float(self.table.item(row, 4).text())
             except ValueError:
                 continue
-            midx += left + right
-            midy += top + bottom
-            total_points += 1
             painter.drawRect(left, top, right - left, bottom - top)
+
+        half_yellow = QtGui.QColor(QtCore.Qt.yellow)
+        half_yellow.setAlphaF(0.5)
+        midx = midy = total_points = 0
+        for item in selected:
+            obj = item.data(QtCore.Qt.UserRole)
+            if not isinstance(obj, TextObject):
+                continue
+
+            painter.fillRect(obj.left, obj.top,
+                             obj.right - obj.left, obj.bottom - obj.top,
+                             half_yellow)
+
+            midx += obj.left + obj.right
+            midy += obj.top + obj.bottom
+            total_points += 1
+
         painter.end()
 
-        midx /= (total_points * 2)
-        midy /= (total_points * 2)
+        if total_points:
+            midx /= (total_points * 2)
+            midy /= (total_points * 2)
 
         self.pdfview.setImage(image)
         self.pdfview.ensureVisible(midx, midy)
