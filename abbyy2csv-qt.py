@@ -32,6 +32,7 @@ for name in API_NAMES:
     sip.setapi(name, API_VERSION)
 from PyQt4 import QtCore
 from PyQt4 import QtGui
+import popplerqt4
 
 from abbyy2csv import Processor
 
@@ -262,8 +263,17 @@ class Main(QtGui.QMainWindow):
 
         # Main table view
         self.table = QtGui.QTableWidget(self)
-        self.setCentralWidget(self.table)
         self.processor.table = self.table
+        self.table.itemSelectionChanged.connect(self._refreshSelection)
+
+        # PDF viewer pane
+        self.pdfview = ScalableImage(self)
+        self.pdfscale = 1.0
+
+        splitter = QtGui.QSplitter(QtCore.Qt.Vertical, self)
+        splitter.addWidget(self.table)
+        splitter.addWidget(self.pdfview)
+        self.setCentralWidget(splitter)
 
         # Timer for user actions
         self.timer = QtCore.QTimer()
@@ -276,8 +286,16 @@ class Main(QtGui.QMainWindow):
     def _refreshFile(self):
         self.prevAction.setEnabled(self.file_index != 0)
         self.nextAction.setEnabled(self.file_index != len(self.files) - 1)
+
         basename = self.files[self.file_index]
         self.setWindowTitle('%s - ABBYY to CSV Conversion' % (basename, ))
+
+        self.pdf = doc = popplerqt4.Poppler.Document.load(basename + '.pdf')
+        doc.setRenderHint(popplerqt4.Poppler.Document.Antialiasing)
+        doc.setRenderHint(popplerqt4.Poppler.Document.TextAntialiasing)
+        self.pdfview.setText('Nothing Selected')
+        self.pdfview.setWidgetResizable(True)
+
         self.timer.start(1000)
 
     def _prevFile(self):
@@ -287,6 +305,38 @@ class Main(QtGui.QMainWindow):
     def _nextFile(self):
         self.file_index = min(self.file_index + 1, len(self.files))
         self._refreshFile()
+
+    def _refreshSelection(self):
+        selected = self.table.selectedIndexes()
+
+        rows = [item.row() for item in selected]
+        pages = [int(self.table.item(row, 0).text()) for row in rows]
+
+        page = self.pdf.page(pages[0] - 1)
+        image = page.renderToImage(300, 300)  # Resolution from ABBYY
+        midx = midy = total_points = 0
+
+        painter = QtGui.QPainter()
+        painter.begin(image)
+        for row in rows:
+            try:
+                top = float(self.table.item(row, 1).text())
+                left = float(self.table.item(row, 2).text())
+                bottom = float(self.table.item(row, 3).text())
+                right = float(self.table.item(row, 4).text())
+            except ValueError:
+                continue
+            midx += left + right
+            midy += top + bottom
+            total_points += 1
+            painter.drawRect(left, top, right - left, bottom - top)
+        painter.end()
+
+        midx /= (total_points * 2)
+        midy /= (total_points * 2)
+
+        self.pdfview.setImage(image)
+        self.pdfview.ensureVisible(midx, midy)
 
     def _setRowAlgorithm(self, unused):
         index = self.row_alg_cb.currentIndex()
@@ -362,6 +412,59 @@ class Main(QtGui.QMainWindow):
         self.cancel.setVisible(False)
         self.alg_tb.setEnabled(True)
         self.action_tb.setEnabled(True)
+
+
+class ScalableImage(QtGui.QScrollArea):
+    def __init__(self, *args, **kwargs):
+        super(ScalableImage, self).__init__(*args, **kwargs)
+
+        self.image = QtGui.QLabel(self)
+        self.image.setAlignment(QtCore.Qt.AlignCenter)
+        self.image.setScaledContents(True)
+        self.image.setSizePolicy(QtGui.QSizePolicy.Ignored,
+                                 QtGui.QSizePolicy.Ignored)
+        self.setWidget(self.image)
+
+        self.scale = 1.0
+
+    def setText(self, text):
+        self.image.setText(text)
+        self.setWidgetResizable(True)
+        self.scale = 1.0
+
+    def setImage(self, image):
+        pix = QtGui.QPixmap.fromImage(image)
+        self.image.setPixmap(pix)
+        self.setWidgetResizable(False)
+        self.image.resize(self.scale * self.image.pixmap().size())
+
+    def ensureVisible(self, x, y):
+        super(ScalableImage, self).ensureVisible(x * self.scale,
+                                                 y * self.scale)
+
+    def wheelEvent(self, event):
+        if event.modifiers() & QtCore.Qt.ControlModifier:
+            if event.delta() > 0:
+                self._scaleImage(1.25)
+            else:
+                self._scaleImage(0.8)
+        else:
+            super(ScalableImage, self).wheelEvent(event)
+
+    def _scaleImage(self, factor):
+        new_scale = self.scale * factor
+        if new_scale > 3 or new_scale < 0.01:
+            return
+
+        self.scale = new_scale
+        self.image.resize(self.scale * self.image.pixmap().size())
+
+        self._adjustScrollBar(self.horizontalScrollBar(), factor)
+        self._adjustScrollBar(self.verticalScrollBar(), factor)
+
+    def _adjustScrollBar(self, scrollBar, factor):
+        scrollBar.setValue(int(factor * scrollBar.value() +
+                               ((factor - 1) * scrollBar.pageStep() / 2)))
 
 
 class QtStatusBarHandler(logging.Handler):
