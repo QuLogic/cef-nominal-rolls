@@ -251,16 +251,19 @@ class Main(QtGui.QMainWindow):
 
         saveAction = QtGui.QAction(QtGui.QIcon.fromTheme('document-save'),
                                    'Save', self)
+        exitAction.setShortcut('Ctrl+S')
         saveAction.triggered.connect(self.saveResult)
         toolbar.addAction(saveAction)
 
         self.prevAction = QtGui.QAction(QtGui.QIcon.fromTheme('go-previous'),
                                         'Previous', self)
+        exitAction.setShortcut('Ctrl+P')
         self.prevAction.triggered.connect(self._prevFile)
         toolbar.addAction(self.prevAction)
 
         self.nextAction = QtGui.QAction(QtGui.QIcon.fromTheme('go-next'),
                                         'Next', self)
+        exitAction.setShortcut('Ctrl+N')
         self.nextAction.triggered.connect(self._nextFile)
         toolbar.addAction(self.nextAction)
 
