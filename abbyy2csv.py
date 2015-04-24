@@ -285,10 +285,14 @@ class Processor:
         else:
             lines = self.analyzePage(page_objs)
 
-        self.processResults(lines)
+        if lines:
+            self.processResults(lines)
 
-        self.logger.info('    Max columns: %d' % (max(len(x) for x in lines)))
-        self.logger.info('    New rows: %d' % (len(lines)))
+            self.logger.info('    Max columns: %d' % (max(len(x) for x in lines)))
+            self.logger.info('    New rows: %d' % (len(lines)))
+        else:
+            self.logger.info('    Max columns: 0')
+            self.logger.info('    New rows: 0')
         self.pages += 1
         self.total_lines += len(lines)
 
